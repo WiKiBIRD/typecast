@@ -1,0 +1,31 @@
+{
+  "series": [
+    {
+      "id": "slow-english",
+      "title": "Slow English Podcast With Emilie",
+      "author": "Emilie",
+      "description": "慢速英语日常精听口语 · 词汇与句型沉浸训练",
+      "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg",
+      "episodes": [
+        {
+          "id": "slow-english-ep-01",
+          "episodeNumber": 1,
+          "title": "Restaurant (如何餐厅点餐)",
+          "duration": 377.0,
+          "dataFile": "/data/episodes/slow-english-01.json",
+          "audioFile": "/demo.mp3",
+          "sentenceCount": 10
+        },
+        {
+          "id": "slow-english-ep-02",
+          "episodeNumber": 2,
+          "title": "Beach (海滩度假对话)",
+          "duration": 360.0,
+          "dataFile": "/data/episodes/slow-english-02.json",
+          "audioFile": "/demo.mp3",
+          "sentenceCount": 10
+        }
+      ]
+    }
+  ]
+}
