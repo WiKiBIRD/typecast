@@ -1,11 +1,40 @@
+# Dependencies & Package Managers
 node_modules/
 .pnpm-store/
+.turbo/
+
+# Build artifacts & caches
 dist/
+build/
 *.tsbuildinfo
+.vite/
+
+# Audio and media binary files (Strictly ignored, TypeCast uses public podcast streaming URLs)
 *.mp3
 *.m4a
 *.wav
+*.ogg
+*.aac
+*.flac
+*.mp4
+apps/web/public/*.mp3
+apps/web/public/*.m4a
+apps/web/public/*.wav
+apps/web/public/demo.mp3
+
+# AI & Whisper models
+*.pt
+*.bin
+*.onnx
+models/
+whisper_models/
+
+# Python caches
 __pycache__/
 *.pyc
+
+# OS & Editor
 .DS_Store
-.turbo/
+Thumbs.db
+.vscode/
+.idea/
