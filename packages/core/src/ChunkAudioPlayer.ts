@@ -49,6 +49,7 @@ export class ChunkAudioPlayer {
   }
 
   playChunk(chunk: AudioChunk): void {
+    this._isSeeking = false;
     this._currentChunk = chunk;
     this._seekAheadMs = chunk.seekAheadMs;
 
@@ -222,16 +223,18 @@ export class ChunkAudioPlayer {
   }
 
   private async _seekWithFadeNative(targetSec: number): Promise<void> {
-    if (!this._audio) return;
-    this._audio.pause();
-    await new Promise<void>(r => setTimeout(r, 10));
-    this._audio.currentTime = targetSec;
-    await new Promise<void>(resolve => {
-      this._audio!.addEventListener('seeked', () => resolve(), { once: true });
-    });
-    await this._audio.play();
-    this._emit('seekComplete', targetSec);
+    const audio = this._audio;
+    if (!audio) return;
+    try {
+      audio.currentTime = targetSec;
+      await audio.play();
+      this._emit('seekComplete', targetSec);
+    } catch (e) {
+      console.warn('音频重新播放失败:', e);
+    }
   }
+
+  private _isSeeking: boolean = false;
 
   private _startRaf(): void {
     this._stopRaf();
@@ -243,14 +246,18 @@ export class ChunkAudioPlayer {
 
       this._emit('timeUpdate', current);
 
-      if (current >= endWithAhead) {
+      if (current >= this._currentChunk.startSec && current >= endWithAhead && !this._isSeeking) {
         if (this._looping) {
+          this._isSeeking = true;
+          this._setState('LOOPING');
           if (this._mode === 'web-audio') {
             this._playChunkWebAudio(this._currentChunk.startSec);
+            this._isSeeking = false;
           } else {
-            this._seekWithFadeNative(this._currentChunk.startSec);
+            this._seekWithFadeNative(this._currentChunk.startSec).finally(() => {
+              this._isSeeking = false;
+            });
           }
-          this._setState('LOOPING');
         } else {
           this._emit('chunkEnd', this._currentChunk.sentenceId);
           this._stopRaf();

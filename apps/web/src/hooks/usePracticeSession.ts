@@ -160,7 +160,17 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
   const [viewState, dispatch] = useReducer(viewReducer, initialViewState);
   const [resumePrompt, setResumePrompt] = useState<string | null>(null);
 
+  const completedSentencesRef = useRef<SentenceStats[]>([]);
+  const roundCompletedRef = useRef(viewState.roundCompleted);
+  const bestScoreRef = useRef(viewState.bestScore);
+  const seekAheadMsRef = useRef<number>(seekAheadMs);
+  const audioModeRef = useRef<'web-audio' | 'native'>(audioMode);
+
   currentRoundRef.current = viewState.currentRound;
+  roundCompletedRef.current = viewState.roundCompleted;
+  bestScoreRef.current = viewState.bestScore;
+  seekAheadMsRef.current = seekAheadMs;
+  audioModeRef.current = audioMode;
 
   // 保存进度至 IndexedDB
   const saveProgressToDb = useCallback(async () => {
@@ -171,14 +181,14 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
         episodeId: ep.episodeId,
         currentRound: currentRoundRef.current,
         currentSentenceIdx: sentenceIdxRef.current,
-        roundCompleted: viewState.roundCompleted,
-        bestScore: viewState.bestScore,
+        roundCompleted: roundCompletedRef.current,
+        bestScore: bestScoreRef.current,
         updatedAt: Date.now(),
       });
     } catch (e) {
       console.warn('保存学习进度到本地数据库失败:', e);
     }
-  }, [viewState.roundCompleted, viewState.bestScore]);
+  }, []);
 
   useEffect(() => {
     const engine = new TypingEngineCore({ judgeMode: 'LENIENT' });
@@ -211,6 +221,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
       const nextIdx = sentenceIdxRef.current + 1;
       const isLast = nextIdx >= ep.sentences.length;
 
+      completedSentencesRef.current.push(stats);
       dispatch({ type: 'SENTENCE_DONE', stats, nextIdx });
       sentenceIdxRef.current = nextIdx;
 
@@ -223,7 +234,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
           // 结算 Round 4 全文大考成绩
           const elapsedMin = Math.max(0.1, (performance.now() - startTimeRef.current) / 60000);
           const totalChars = ep.sentences.reduce((sum, s) => sum + s.text.length, 0);
-          const totalErrors = viewState.completedSentences.reduce((sum, s) => sum + s.errorCount, 0) + stats.errorCount;
+          const totalErrors = completedSentencesRef.current.reduce((sum, s) => sum + s.errorCount, 0);
           const totalCorrect = Math.max(0, totalChars - totalErrors);
           const userWpm = Math.round((totalCorrect / 5) / elapsedMin);
 
@@ -243,6 +254,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
           dispatch({ type: 'SET_ROUND', round: nextRound });
           currentRoundRef.current = nextRound;
           sentenceIdxRef.current = 0;
+          completedSentencesRef.current = [];
 
           const firstSentence = ep.sentences[0]!;
           engine.loadSentence(firstSentence);
@@ -251,11 +263,13 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
             audioUrl: ep.audioUrl,
             startSec: firstSentence.start,
             endSec: firstSentence.end,
-            seekAheadMs: seekAheadMs,
+            seekAheadMs: seekAheadMsRef.current,
             sentenceId: firstSentence.id,
           };
+          fsm.transition('SENTENCE_ADVANCE');
           player.playChunk(chunk);
           player.setLooping(nextRound !== 4);
+          fsm.transition('AUDIO_CAN_PLAY');
         }
       } else {
         // 推进到当前轮的下一句
@@ -266,12 +280,14 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
           audioUrl: ep.audioUrl,
           startSec: nextSentence.start,
           endSec: nextSentence.end,
-          seekAheadMs: seekAheadMs,
+          seekAheadMs: seekAheadMsRef.current,
           sentenceId: nextSentence.id,
         };
+        fsm.transition('SENTENCE_ADVANCE');
         player.playChunk(chunk);
         // Round 4 持续向前播放，不单句循环
         player.setLooping(currentRoundRef.current !== 4);
+        fsm.transition('AUDIO_CAN_PLAY');
       }
 
       await saveProgressToDb();
@@ -293,7 +309,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
       fsm.destroy();
       unsubFSM();
     };
-  }, [seekAheadMs, audioMode, saveProgressToDb, viewState.completedSentences]);
+  }, [saveProgressToDb]);
 
   // 键盘全局打字捕捉
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
@@ -341,6 +357,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     dispatch({ type: 'SET_ROUND', round });
     currentRoundRef.current = round;
     sentenceIdxRef.current = 0;
+    completedSentencesRef.current = [];
     pauseCountRef.current = 0;
     startTimeRef.current = performance.now();
 
@@ -388,6 +405,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
 
     currentRoundRef.current = targetRound;
     sentenceIdxRef.current = targetSentenceIdx;
+    completedSentencesRef.current = [];
 
     fsm.transition('LOAD');
     const startSentence = episode.sentences[targetSentenceIdx]!;
@@ -425,6 +443,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     fsmRef.current?.transition('RESET');
     episodeRef.current = null;
     sentenceIdxRef.current = 0;
+    completedSentencesRef.current = [];
     dispatch({ type: 'RESET', totalSentences: 0 });
   }, [saveProgressToDb]);
 

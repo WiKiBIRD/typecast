@@ -70,6 +70,14 @@ export function PracticePage() {
     initCatalog();
   }, [viewState.roundCompleted, selectedEpisode]);
 
+  // 切句时自动聚焦隐形输入框
+  useEffect(() => {
+    if (viewState.isReady && currentSentence) {
+      const el = document.getElementById('typecast-hidden-input');
+      if (el) el.focus();
+    }
+  }, [viewState.currentSentenceIndex, viewState.isReady, currentSentence]);
+
   const loadEpisodeData = async (epItem: ManifestEpisode) => {
     try {
       setIsLoading(true);
