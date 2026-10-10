@@ -13,6 +13,7 @@ export function PracticePage() {
     viewState,
     handleEpisodeLoad,
     handleTabKey,
+    handleReset,
     currentSentence,
   } = usePracticeSession(80, 'native');
 
@@ -102,13 +103,27 @@ export function PracticePage() {
       {/* 创作者卡片与头部导航 */}
       {episode && (
         <header className="flex items-center justify-between px-8 py-4 border-b border-gray-800/80 bg-gray-950/50 backdrop-blur">
-          <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-full bg-blue-500/20 text-blue-400 font-bold flex items-center justify-center border border-blue-500/30 text-xs">
-              VOA
-            </div>
-            <div>
-              <div className="text-sm font-semibold text-gray-200">{episode.creator.name}</div>
-              <div className="text-xs text-gray-500">{episode.title}</div>
+          <div className="flex items-center gap-4">
+            <button
+              onClick={() => {
+                handleReset();
+                setEpisode(null);
+              }}
+              className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-900 hover:bg-gray-800 active:scale-95 border border-gray-800 hover:border-gray-700 text-gray-300 hover:text-white rounded-lg text-xs font-medium transition-all cursor-pointer"
+              title="返回集数选择列表"
+            >
+              <span>←</span>
+              <span>返回列表</span>
+            </button>
+            <div className="h-4 w-[1px] bg-gray-800"></div>
+            <div className="flex items-center gap-3">
+              <div className="w-8 h-8 rounded-full bg-blue-500/20 text-blue-400 font-bold flex items-center justify-center border border-blue-500/30 text-xs">
+                EP1
+              </div>
+              <div>
+                <div className="text-sm font-semibold text-gray-200">{episode.title}</div>
+                <div className="text-xs text-gray-500">{episode.creator.name}</div>
+              </div>
             </div>
           </div>
 
@@ -145,7 +160,19 @@ export function PracticePage() {
         </div>
 
         {/* 核心句子跟打展示 */}
-        <div className="w-full bg-gray-900/40 border border-gray-800/80 rounded-3xl p-12 shadow-2xl flex flex-col items-center justify-center min-h-[220px]">
+        <div 
+          onClick={() => {
+            const el = document.getElementById('typecast-hidden-input');
+            if (el) el.focus();
+          }}
+          className="w-full bg-gray-900/40 border border-gray-800/80 rounded-3xl p-12 shadow-2xl flex flex-col items-center justify-center min-h-[220px] cursor-text relative"
+        >
+          <input
+            id="typecast-hidden-input"
+            type="text"
+            className="absolute opacity-0 pointer-events-none w-0 h-0"
+            autoFocus
+          />
           <SentenceDisplay
             sentence={currentSentence}
             cursorIndex={viewState.cursorIndex}

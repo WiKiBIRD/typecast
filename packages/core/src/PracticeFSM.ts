@@ -29,7 +29,7 @@ const TRANSITIONS: ReadonlyMap<PracticeState, ReadonlyMap<FSMEvent, PracticeStat
     ['RESET', 'IDLE'],
   ])],
   ['LOADING', new Map<FSMEvent, PracticeState>([
-    ['AUDIO_CAN_PLAY', 'BUFFERING'],
+    ['AUDIO_CAN_PLAY', 'PLAYING'],
     ['ERROR_OCCURRED', 'ERROR'],
     ['RESET', 'IDLE'],
   ])],
@@ -78,8 +78,6 @@ const TRANSITIONS: ReadonlyMap<PracticeState, ReadonlyMap<FSMEvent, PracticeStat
 const KEYBOARD_BLOCKED_STATES: ReadonlySet<PracticeState> = new Set([
   'IDLE',
   'LOADING',
-  'BUFFERING',
-  'COMPLETED_SENTENCE',
   'COMPLETED',
   'ERROR',
 ]);

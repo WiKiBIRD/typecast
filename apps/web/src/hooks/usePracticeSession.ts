@@ -153,8 +153,6 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     const player = playerRef.current;
     if (!fsm || !engine || !player) return;
 
-    if (fsm.isKeyboardBlocked()) return;
-
     if (e.key === 'Tab') {
       e.preventDefault();
       fsm.transition('TAB_REPLAY');
@@ -163,8 +161,11 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
       return;
     }
 
+    // Ignore modifier keys
+    if (e.ctrlKey || e.altKey || e.metaKey) return;
     if (e.key.length > 1 && e.key !== 'Backspace') return;
 
+    // Direct input processing
     engine.handleKeyInput(e.key);
   }, []);
 
@@ -199,6 +200,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     };
     player.playChunk(chunk);
     player.setLooping(true);
+    fsm.transition('AUDIO_CAN_PLAY');
 
     dispatch({ type: 'READY' });
   }, [audioMode, seekAheadMs]);
@@ -209,10 +211,20 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     engineRef.current?.reset();
   }, []);
 
+  const handleReset = useCallback(() => {
+    playerRef.current?.pause();
+    engineRef.current?.reset();
+    fsmRef.current?.transition('RESET');
+    episodeRef.current = null;
+    sentenceIdxRef.current = 0;
+    dispatch({ type: 'RESET', totalSentences: 0 });
+  }, []);
+
   return {
     viewState,
     handleEpisodeLoad,
     handleTabKey,
+    handleReset,
     currentEpisode: episodeRef.current,
     currentSentence: episodeRef.current?.sentences[viewState.currentSentenceIndex] ?? null,
   };
