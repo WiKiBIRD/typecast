@@ -16,11 +16,26 @@ export function PracticePage() {
     currentSentence,
   } = usePracticeSession(80, 'native');
 
+  const [isLoading, setIsLoading] = useState(false);
+  const [loadError, setLoadError] = useState<string | null>(null);
+
   const loadDemo = async () => {
-    const res = await fetch('/data/voa/ep-01.json');
-    const ep: Episode = await res.json();
-    setEpisode(ep);
-    await handleEpisodeLoad(ep);
+    try {
+      setIsLoading(true);
+      setLoadError(null);
+      const res = await fetch('/data/voa/ep-01.json');
+      if (!res.ok) {
+        throw new Error(`无法获取示范集数据: HTTP ${res.status}`);
+      }
+      const ep: Episode = await res.json();
+      setEpisode(ep);
+      await handleEpisodeLoad(ep);
+    } catch (err: unknown) {
+      console.error('加载失败:', err);
+      setLoadError(err instanceof Error ? err.message : String(err));
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   if (!viewState.isReady || !currentSentence) {
@@ -31,15 +46,32 @@ export function PracticePage() {
             🎙️
           </div>
           <h1 className="text-3xl font-extrabold text-white mb-2 tracking-tight">TypeCast (听写铸键)</h1>
-          <p className="text-gray-400 text-sm mb-8 leading-relaxed">
+          <p className="text-gray-400 text-sm mb-6 leading-relaxed">
             长句精听闭环 · 肌肉记忆训练 · 纯前端无头架构
           </p>
+
+          {loadError && (
+            <div className="mb-6 p-4 bg-rose-500/10 border border-rose-500/30 rounded-xl text-rose-400 text-xs text-left">
+              <strong>加载出错：</strong> {loadError}
+            </div>
+          )}
+
           <button
             onClick={loadDemo}
-            className="w-full py-3.5 bg-blue-600 hover:bg-blue-500 active:scale-[0.99] text-white font-medium rounded-xl transition-all shadow-lg shadow-blue-600/25 flex items-center justify-center gap-2"
+            disabled={isLoading}
+            className="w-full py-3.5 bg-blue-600 hover:bg-blue-500 disabled:bg-blue-800/50 active:scale-[0.99] text-white font-medium rounded-xl transition-all shadow-lg shadow-blue-600/25 flex items-center justify-center gap-2 cursor-pointer disabled:cursor-not-allowed"
           >
-            <span>加载 VOA 示范集 (The Word 'Cool')</span>
-            <span>➔</span>
+            {isLoading ? (
+              <span className="flex items-center gap-2">
+                <span className="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin"></span>
+                <span>正在加载音频与数据...</span>
+              </span>
+            ) : (
+              <>
+                <span>加载 VOA 示范集 (The Word 'Cool')</span>
+                <span>➔</span>
+              </>
+            )}
           </button>
         </div>
       </div>

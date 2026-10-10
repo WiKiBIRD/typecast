@@ -137,23 +137,47 @@ export class ChunkAudioPlayer {
 
   private async _initNative(audioUrl: string): Promise<void> {
     this._audio = new Audio();
-    this._audio.crossOrigin = 'anonymous';
+    // Do not set crossOrigin = 'anonymous' for simple audio playback to prevent CORS blocks on CDNs
     this._audio.preload = 'auto';
     this._audio.src = audioUrl;
 
     this._setState('BUFFERING');
 
+    const audioElement = this._audio;
+    if (!audioElement) {
+      this._setState('ERROR');
+      return;
+    }
+
     await new Promise<void>((resolve, reject) => {
-      this._audio!.addEventListener('canplay', () => {
+      const onCanPlay = () => {
+        cleanup();
         this._setState('IDLE');
         resolve();
-      }, { once: true });
-      this._audio!.addEventListener('error', () => {
-        const err = new Error(`Audio load failed: code=${this._audio?.error?.code}`);
+      };
+
+      const onError = () => {
+        cleanup();
+        const err = new Error(`Audio load failed: code=${audioElement.error?.code || 'unknown'}`);
         this._setState('ERROR');
         this._emit('error', err);
         reject(err);
-      }, { once: true });
+      };
+
+      const cleanup = () => {
+        audioElement.removeEventListener('canplay', onCanPlay);
+        audioElement.removeEventListener('loadeddata', onCanPlay);
+        audioElement.removeEventListener('error', onError);
+      };
+
+      if (audioElement.readyState >= 2) {
+        onCanPlay();
+        return;
+      }
+
+      audioElement.addEventListener('canplay', onCanPlay);
+      audioElement.addEventListener('loadeddata', onCanPlay);
+      audioElement.addEventListener('error', onError);
     });
   }
 
