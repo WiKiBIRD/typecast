@@ -86,6 +86,19 @@ pnpm dev
 pnpm test
 ```
 
+### ☕ Support the Project
+If TypeCast helps your English listening or typing skills, consider supporting the development and maintenance:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
 ---
 
 <br />
@@ -128,18 +141,16 @@ TypeCast 引入了**严格的关卡考核机制**，必须考核合格才能解�
 
 ---
 
-## ☕ Support & Sponsor (支持与赞助)
+### ☕ 支持与赞助 (Sponsor)
+如果 TypeCast 帮助到了你的英语听写与口语训练，欢迎请作者喝一杯咖啡，支持项目的持续维护与功能迭代！
 
-If TypeCast helped your English listening or typing skills, consider supporting the maintenance and continuous update of this project!  
-如果 TypeCast 帮助到了你的英语听写与口语训练，欢迎请作者喝一杯咖啡支持持续维护！
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+<p align="left">
+  <a href="https://afdian.com">
+    <img src="https://img.shields.io/badge/爱发电-微信与支付宝赞助-946ce6?style=for-the-badge&logo=kofi&logoColor=white" alt="爱发电" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://afdian.com">
-    <img src="https://img.shields.io/badge/爱发电-赞助支持-946ce6?style=for-the-badge&logo=kofi&logoColor=white" alt="爱发电" />
+  <a href="https://www.buymeacoffee.com">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-支持作者-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
 
