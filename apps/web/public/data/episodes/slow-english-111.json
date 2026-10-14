@@ -1,0 +1,427 @@
+{
+  "episodeId": "slow-english-ep-111",
+  "episodeNumber": 111,
+  "title": "Slow English Podcast #111: Ireland",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-5/401648449-44100-2-297a790fb821c.mp3",
+  "duration": 427.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.97,
+      "text": "Hello and welcome to the Slow English podcast.",
+      "words": [
+        {
+          "word": "Hello",
+          "startSec": 0.0,
+          "endSec": 0.32,
+          "score": 0.92
+        },
+        {
+          "word": "and",
+          "startSec": 0.32,
+          "endSec": 0.74,
+          "score": 0.76
+        },
+        {
+          "word": "welcome",
+          "startSec": 0.74,
+          "endSec": 1.22,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 1.22,
+          "endSec": 1.5,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 1.5,
+          "endSec": 1.66,
+          "score": 0.97
+        },
+        {
+          "word": "Slow",
+          "startSec": 1.66,
+          "endSec": 1.92,
+          "score": 0.74
+        },
+        {
+          "word": "English",
+          "startSec": 1.92,
+          "endSec": 2.32,
+          "score": 0.95
+        },
+        {
+          "word": "podcast.",
+          "startSec": 2.32,
+          "endSec": 2.82,
+          "score": 0.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.82,
+      "end": 5.03,
+      "text": "My name is Emily.",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 3.92,
+          "endSec": 4.08,
+          "score": 0.97
+        },
+        {
+          "word": "name",
+          "startSec": 4.08,
+          "endSec": 4.28,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 4.28,
+          "endSec": 4.6,
+          "score": 1.0
+        },
+        {
+          "word": "Emily.",
+          "startSec": 4.6,
+          "endSec": 4.88,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.5,
+      "end": 7.15,
+      "text": "I am happy you are here.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 5.6,
+          "endSec": 5.74,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 5.74,
+          "endSec": 5.88,
+          "score": 0.9
+        },
+        {
+          "word": "happy",
+          "startSec": 5.88,
+          "endSec": 6.16,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 6.16,
+          "endSec": 6.52,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 6.52,
+          "endSec": 6.66,
+          "score": 0.96
+        },
+        {
+          "word": "here.",
+          "startSec": 6.66,
+          "endSec": 7.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.87,
+      "end": 10.32,
+      "text": "Today we will talk about Ireland.",
+      "words": [
+        {
+          "word": "Today",
+          "startSec": 7.97,
+          "endSec": 8.35,
+          "score": 0.98
+        },
+        {
+          "word": "we",
+          "startSec": 8.35,
+          "endSec": 8.91,
+          "score": 0.59
+        },
+        {
+          "word": "will",
+          "startSec": 8.91,
+          "endSec": 9.13,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 9.13,
+          "endSec": 9.39,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 9.39,
+          "endSec": 9.77,
+          "score": 1.0
+        },
+        {
+          "word": "Ireland.",
+          "startSec": 9.77,
+          "endSec": 10.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.2,
+      "end": 15.07,
+      "text": "Ireland is a small and green country in Europe.",
+      "words": [
+        {
+          "word": "Ireland",
+          "startSec": 11.3,
+          "endSec": 11.72,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 11.72,
+          "endSec": 12.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 12.28,
+          "endSec": 12.44,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 12.44,
+          "endSec": 12.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 12.96,
+          "endSec": 13.44,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 13.44,
+          "endSec": 13.74,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 13.74,
+          "endSec": 14.34,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 14.34,
+          "endSec": 14.64,
+          "score": 1.0
+        },
+        {
+          "word": "Europe.",
+          "startSec": 14.64,
+          "endSec": 14.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.54,
+      "end": 19.27,
+      "text": "Let's learn about it in slow and easy English.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 15.64,
+          "endSec": 16.04,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 16.04,
+          "endSec": 16.26,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 16.26,
+          "endSec": 16.7,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 16.7,
+          "endSec": 16.92,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 16.92,
+          "endSec": 17.16,
+          "score": 0.99
+        },
+        {
+          "word": "slow",
+          "startSec": 17.16,
+          "endSec": 17.54,
+          "score": 0.86
+        },
+        {
+          "word": "and",
+          "startSec": 17.54,
+          "endSec": 18.16,
+          "score": 1.0
+        },
+        {
+          "word": "easy",
+          "startSec": 18.16,
+          "endSec": 18.46,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 18.46,
+          "endSec": 19.12,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.66,
+      "end": 20.55,
+      "text": "Are you ready?",
+      "words": [
+        {
+          "word": "Are",
+          "startSec": 19.76,
+          "endSec": 19.9,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 19.9,
+          "endSec": 20.08,
+          "score": 1.0
+        },
+        {
+          "word": "ready?",
+          "startSec": 20.08,
+          "endSec": 20.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.43,
+      "end": 22.68,
+      "text": "Let's begin.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 21.53,
+          "endSec": 22.25,
+          "score": 1.0
+        },
+        {
+          "word": "begin.",
+          "startSec": 22.25,
+          "endSec": 22.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 25.58,
+      "end": 26.53,
+      "text": "Where is Ireland?",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 25.68,
+          "endSec": 25.76,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 25.76,
+          "endSec": 26.06,
+          "score": 0.99
+        },
+        {
+          "word": "Ireland?",
+          "startSec": 26.06,
+          "endSec": 26.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 27.74,
+      "end": 30.09,
+      "text": "Ireland is in Western Europe.",
+      "words": [
+        {
+          "word": "Ireland",
+          "startSec": 27.84,
+          "endSec": 28.24,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 28.24,
+          "endSec": 28.8,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 28.8,
+          "endSec": 28.96,
+          "score": 1.0
+        },
+        {
+          "word": "Western",
+          "startSec": 28.96,
+          "endSec": 29.22,
+          "score": 0.76
+        },
+        {
+          "word": "Europe.",
+          "startSec": 29.22,
+          "endSec": 29.94,
+          "score": 1.0
+        }
+      ]
+    }
+  ]
+}

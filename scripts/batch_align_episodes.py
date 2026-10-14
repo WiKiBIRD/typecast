@@ -162,7 +162,7 @@ def main():
 
     # 3. 初始化 Whisper 模型
     print(f"⚡ 正在加载 faster-whisper 模型 ({args.model})...")
-    model = WhisperModel(args.model, device="cpu", compute_type="int8")
+    model = WhisperModel(args.model, device="cpu", compute_type="int8", cpu_threads=4)
     print("   模型加载就绪！")
 
     processed_count = 0
@@ -202,12 +202,12 @@ def main():
             item["ready"] = True
             item["sentenceCount"] = len(ep_data["sentences"])
             processed_count += 1
+
+            # 实时将进度持久化写回 manifest.json
+            with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+                json.dump(manifest, f, ensure_ascii=False, indent=2)
         except Exception as e:
             print(f"❌ EP#{ep_num} 处理出错: {e}")
-
-    # 4. 更新并写回 manifest.json
-    with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     print("\n==================================================")
     print(f"🎉 批处理完成！新生成: {processed_count} 期，跳过已有: {skipped_count} 期")

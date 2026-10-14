@@ -1,0 +1,529 @@
+{
+  "episodeId": "slow-english-ep-123",
+  "episodeNumber": 123,
+  "title": "Slow English Podcast #123: Antigua and Barbuda",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220000-44100-2-ab8248657e362.mp3",
+  "duration": 358.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.95,
+      "text": "Hello and welcome to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Hello",
+          "startSec": 0.0,
+          "endSec": 0.3,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 0.3,
+          "endSec": 0.62,
+          "score": 0.81
+        },
+        {
+          "word": "welcome",
+          "startSec": 0.62,
+          "endSec": 1.06,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 1.06,
+          "endSec": 1.44,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 1.44,
+          "endSec": 1.62,
+          "score": 0.96
+        },
+        {
+          "word": "Slow",
+          "startSec": 1.62,
+          "endSec": 1.88,
+          "score": 0.7
+        },
+        {
+          "word": "English",
+          "startSec": 1.88,
+          "endSec": 2.24,
+          "score": 0.93
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 2.24,
+          "endSec": 2.8,
+          "score": 0.74
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.29,
+      "end": 7.76,
+      "text": "My name is Emily, I am happy you are here.",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 4.39,
+          "endSec": 4.79,
+          "score": 0.98
+        },
+        {
+          "word": "name",
+          "startSec": 4.79,
+          "endSec": 4.99,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 4.99,
+          "endSec": 5.29,
+          "score": 1.0
+        },
+        {
+          "word": "Emily,",
+          "startSec": 5.29,
+          "endSec": 5.47,
+          "score": 0.96
+        },
+        {
+          "word": "I",
+          "startSec": 6.21,
+          "endSec": 6.43,
+          "score": 0.97
+        },
+        {
+          "word": "am",
+          "startSec": 6.43,
+          "endSec": 6.57,
+          "score": 0.88
+        },
+        {
+          "word": "happy",
+          "startSec": 6.57,
+          "endSec": 6.83,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 6.83,
+          "endSec": 7.15,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 7.15,
+          "endSec": 7.31,
+          "score": 0.98
+        },
+        {
+          "word": "here.",
+          "startSec": 7.31,
+          "endSec": 7.61,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.53,
+      "end": 12.42,
+      "text": "Today we will talk about Antigua and Barbuda.",
+      "words": [
+        {
+          "word": "Today",
+          "startSec": 8.63,
+          "endSec": 9.01,
+          "score": 1.0
+        },
+        {
+          "word": "we",
+          "startSec": 9.01,
+          "endSec": 9.61,
+          "score": 0.55
+        },
+        {
+          "word": "will",
+          "startSec": 9.61,
+          "endSec": 9.83,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 9.83,
+          "endSec": 10.19,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 10.19,
+          "endSec": 10.55,
+          "score": 1.0
+        },
+        {
+          "word": "Antigua",
+          "startSec": 10.55,
+          "endSec": 11.41,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 11.41,
+          "endSec": 11.65,
+          "score": 0.89
+        },
+        {
+          "word": "Barbuda.",
+          "startSec": 11.65,
+          "endSec": 12.27,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.75,
+      "end": 17.86,
+      "text": "It is a small island country in the Caribbean Sea.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 12.85,
+          "endSec": 13.07,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 13.07,
+          "endSec": 13.21,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 13.21,
+          "endSec": 13.41,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 13.41,
+          "endSec": 13.97,
+          "score": 1.0
+        },
+        {
+          "word": "island",
+          "startSec": 13.97,
+          "endSec": 15.23,
+          "score": 0.85
+        },
+        {
+          "word": "country",
+          "startSec": 15.23,
+          "endSec": 15.87,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 15.87,
+          "endSec": 16.39,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 16.39,
+          "endSec": 16.59,
+          "score": 0.99
+        },
+        {
+          "word": "Caribbean",
+          "startSec": 16.59,
+          "endSec": 17.01,
+          "score": 0.99
+        },
+        {
+          "word": "Sea.",
+          "startSec": 17.01,
+          "endSec": 17.71,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.82,
+      "end": 22.89,
+      "text": "Let's learn about it in slow and easy English.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 18.92,
+          "endSec": 19.4,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 19.4,
+          "endSec": 19.66,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 19.66,
+          "endSec": 20.08,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 20.08,
+          "endSec": 20.34,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 20.34,
+          "endSec": 20.72,
+          "score": 0.98
+        },
+        {
+          "word": "slow",
+          "startSec": 20.72,
+          "endSec": 21.14,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 21.14,
+          "endSec": 21.62,
+          "score": 0.99
+        },
+        {
+          "word": "easy",
+          "startSec": 21.62,
+          "endSec": 21.98,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 21.98,
+          "endSec": 22.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.6,
+      "end": 24.51,
+      "text": "Are you ready?",
+      "words": [
+        {
+          "word": "Are",
+          "startSec": 23.7,
+          "endSec": 23.9,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 23.9,
+          "endSec": 24.1,
+          "score": 1.0
+        },
+        {
+          "word": "ready?",
+          "startSec": 24.1,
+          "endSec": 24.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.33,
+      "end": 26.32,
+      "text": "Let's begin.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 25.43,
+          "endSec": 25.95,
+          "score": 1.0
+        },
+        {
+          "word": "begin.",
+          "startSec": 25.95,
+          "endSec": 26.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 28.38,
+      "end": 30.73,
+      "text": "Where is Antigua and Barbuda?",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 28.48,
+          "endSec": 28.8,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 28.8,
+          "endSec": 29.08,
+          "score": 0.99
+        },
+        {
+          "word": "Antigua",
+          "startSec": 29.08,
+          "endSec": 29.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 29.74,
+          "endSec": 29.98,
+          "score": 0.98
+        },
+        {
+          "word": "Barbuda?",
+          "startSec": 29.98,
+          "endSec": 30.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 31.43,
+      "end": 34.46,
+      "text": "Antigua and Barbuda is in the Caribbean.",
+      "words": [
+        {
+          "word": "Antigua",
+          "startSec": 31.53,
+          "endSec": 32.29,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 32.29,
+          "endSec": 32.41,
+          "score": 0.83
+        },
+        {
+          "word": "Barbuda",
+          "startSec": 32.41,
+          "endSec": 33.07,
+          "score": 0.88
+        },
+        {
+          "word": "is",
+          "startSec": 33.07,
+          "endSec": 33.59,
+          "score": 0.93
+        },
+        {
+          "word": "in",
+          "startSec": 33.59,
+          "endSec": 33.77,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 33.77,
+          "endSec": 33.91,
+          "score": 0.99
+        },
+        {
+          "word": "Caribbean.",
+          "startSec": 33.91,
+          "endSec": 34.31,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 35.59,
+      "end": 39.6,
+      "text": "It is east of Puerto Rico and north of Guadalupe.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 35.69,
+          "endSec": 35.85,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 35.85,
+          "endSec": 35.99,
+          "score": 1.0
+        },
+        {
+          "word": "east",
+          "startSec": 35.99,
+          "endSec": 36.33,
+          "score": 0.71
+        },
+        {
+          "word": "of",
+          "startSec": 36.33,
+          "endSec": 36.61,
+          "score": 1.0
+        },
+        {
+          "word": "Puerto",
+          "startSec": 36.61,
+          "endSec": 36.87,
+          "score": 0.99
+        },
+        {
+          "word": "Rico",
+          "startSec": 36.87,
+          "endSec": 37.43,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 37.43,
+          "endSec": 38.01,
+          "score": 0.96
+        },
+        {
+          "word": "north",
+          "startSec": 38.01,
+          "endSec": 38.35,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 38.35,
+          "endSec": 38.61,
+          "score": 1.0
+        },
+        {
+          "word": "Guadalupe.",
+          "startSec": 38.61,
+          "endSec": 39.45,
+          "score": 0.97
+        }
+      ]
+    }
+  ]
+}

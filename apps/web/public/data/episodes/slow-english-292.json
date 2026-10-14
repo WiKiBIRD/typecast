@@ -1,0 +1,967 @@
+{
+  "episodeId": "slow-english-ep-292",
+  "episodeNumber": 292,
+  "title": "Slow English Podcast #292: Wroclaw - Poland 🇵🇱",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414446584-44100-2-cdcd6e3a0b2ac.mp3",
+  "duration": 386.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.2,
+      "end": 8.39,
+      "text": "Hello, everyone. Welcome to the Slow English Podcast. My name is Emili. In this podcast,",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 0.3,
+          "endSec": 0.76,
+          "score": 0.71
+        },
+        {
+          "word": "everyone.",
+          "startSec": 0.9,
+          "endSec": 1.44,
+          "score": 0.99
+        },
+        {
+          "word": "Welcome",
+          "startSec": 2.38,
+          "endSec": 3.1,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 3.1,
+          "endSec": 3.36,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 3.36,
+          "endSec": 3.52,
+          "score": 0.98
+        },
+        {
+          "word": "Slow",
+          "startSec": 3.52,
+          "endSec": 3.8,
+          "score": 0.75
+        },
+        {
+          "word": "English",
+          "startSec": 3.8,
+          "endSec": 4.16,
+          "score": 0.93
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 4.16,
+          "endSec": 4.66,
+          "score": 0.81
+        },
+        {
+          "word": "My",
+          "startSec": 5.6,
+          "endSec": 5.9,
+          "score": 0.99
+        },
+        {
+          "word": "name",
+          "startSec": 5.9,
+          "endSec": 6.08,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 6.08,
+          "endSec": 6.4,
+          "score": 1.0
+        },
+        {
+          "word": "Emili.",
+          "startSec": 6.4,
+          "endSec": 6.76,
+          "score": 0.41
+        },
+        {
+          "word": "In",
+          "startSec": 7.32,
+          "endSec": 7.52,
+          "score": 0.97
+        },
+        {
+          "word": "this",
+          "startSec": 7.52,
+          "endSec": 7.74,
+          "score": 1.0
+        },
+        {
+          "word": "podcast,",
+          "startSec": 7.74,
+          "endSec": 8.24,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.74,
+      "end": 16.43,
+      "text": "we speak slowly. We use easy English. We repeat important words. Today, we travel to",
+      "words": [
+        {
+          "word": "we",
+          "startSec": 8.84,
+          "endSec": 8.86,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 8.86,
+          "endSec": 9.12,
+          "score": 0.99
+        },
+        {
+          "word": "slowly.",
+          "startSec": 9.12,
+          "endSec": 9.68,
+          "score": 0.99
+        },
+        {
+          "word": "We",
+          "startSec": 10.46,
+          "endSec": 10.56,
+          "score": 0.99
+        },
+        {
+          "word": "use",
+          "startSec": 10.56,
+          "endSec": 10.86,
+          "score": 1.0
+        },
+        {
+          "word": "easy",
+          "startSec": 10.86,
+          "endSec": 11.22,
+          "score": 0.88
+        },
+        {
+          "word": "English.",
+          "startSec": 11.22,
+          "endSec": 11.92,
+          "score": 1.0
+        },
+        {
+          "word": "We",
+          "startSec": 12.58,
+          "endSec": 12.64,
+          "score": 1.0
+        },
+        {
+          "word": "repeat",
+          "startSec": 12.64,
+          "endSec": 12.94,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 12.94,
+          "endSec": 13.5,
+          "score": 1.0
+        },
+        {
+          "word": "words.",
+          "startSec": 13.5,
+          "endSec": 14.04,
+          "score": 1.0
+        },
+        {
+          "word": "Today,",
+          "startSec": 15.3,
+          "endSec": 15.3,
+          "score": 0.87
+        },
+        {
+          "word": "we",
+          "startSec": 15.34,
+          "endSec": 15.6,
+          "score": 1.0
+        },
+        {
+          "word": "travel",
+          "startSec": 15.6,
+          "endSec": 15.9,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 15.9,
+          "endSec": 16.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.18,
+      "end": 25.94,
+      "text": "Europe. We go to Poland. Our city today is Rotswauf. Rotswau is colorful. Rotswau is",
+      "words": [
+        {
+          "word": "Europe.",
+          "startSec": 16.28,
+          "endSec": 16.64,
+          "score": 1.0
+        },
+        {
+          "word": "We",
+          "startSec": 17.67,
+          "endSec": 17.83,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 17.83,
+          "endSec": 18.03,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 18.03,
+          "endSec": 18.19,
+          "score": 1.0
+        },
+        {
+          "word": "Poland.",
+          "startSec": 18.19,
+          "endSec": 18.63,
+          "score": 1.0
+        },
+        {
+          "word": "Our",
+          "startSec": 19.81,
+          "endSec": 19.93,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 19.93,
+          "endSec": 20.27,
+          "score": 0.98
+        },
+        {
+          "word": "today",
+          "startSec": 20.27,
+          "endSec": 20.77,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 20.77,
+          "endSec": 21.11,
+          "score": 0.99
+        },
+        {
+          "word": "Rotswauf.",
+          "startSec": 21.11,
+          "endSec": 22.07,
+          "score": 0.47
+        },
+        {
+          "word": "Rotswau",
+          "startSec": 22.69,
+          "endSec": 23.41,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 23.41,
+          "endSec": 23.57,
+          "score": 0.82
+        },
+        {
+          "word": "colorful.",
+          "startSec": 23.57,
+          "endSec": 23.81,
+          "score": 0.96
+        },
+        {
+          "word": "Rotswau",
+          "startSec": 24.79,
+          "endSec": 25.43,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 25.43,
+          "endSec": 25.79,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 25.69,
+      "end": 33.78,
+      "text": "historic. Rotswauf is full of life. Please relax. Please listen slowly. Let's start",
+      "words": [
+        {
+          "word": "historic.",
+          "startSec": 25.79,
+          "endSec": 26.45,
+          "score": 0.01
+        },
+        {
+          "word": "Rotswauf",
+          "startSec": 27.17,
+          "endSec": 27.97,
+          "score": 0.18
+        },
+        {
+          "word": "is",
+          "startSec": 27.97,
+          "endSec": 28.07,
+          "score": 0.91
+        },
+        {
+          "word": "full",
+          "startSec": 28.07,
+          "endSec": 28.31,
+          "score": 0.93
+        },
+        {
+          "word": "of",
+          "startSec": 28.31,
+          "endSec": 28.51,
+          "score": 0.99
+        },
+        {
+          "word": "life.",
+          "startSec": 28.51,
+          "endSec": 28.87,
+          "score": 0.98
+        },
+        {
+          "word": "Please",
+          "startSec": 29.73,
+          "endSec": 29.75,
+          "score": 0.97
+        },
+        {
+          "word": "relax.",
+          "startSec": 29.75,
+          "endSec": 30.23,
+          "score": 0.96
+        },
+        {
+          "word": "Please",
+          "startSec": 31.25,
+          "endSec": 31.57,
+          "score": 0.98
+        },
+        {
+          "word": "listen",
+          "startSec": 31.57,
+          "endSec": 32.11,
+          "score": 0.99
+        },
+        {
+          "word": "slowly.",
+          "startSec": 32.11,
+          "endSec": 32.53,
+          "score": 1.0
+        },
+        {
+          "word": "Let's",
+          "startSec": 33.07,
+          "endSec": 33.37,
+          "score": 0.98
+        },
+        {
+          "word": "start",
+          "startSec": 33.37,
+          "endSec": 33.63,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 33.53,
+      "end": 44.17,
+      "text": "our journey. Part 2. Poland in Europe. Poland is a country in Europe. It is in",
+      "words": [
+        {
+          "word": "our",
+          "startSec": 33.63,
+          "endSec": 33.91,
+          "score": 1.0
+        },
+        {
+          "word": "journey.",
+          "startSec": 33.91,
+          "endSec": 34.41,
+          "score": 1.0
+        },
+        {
+          "word": "Part",
+          "startSec": 37.14,
+          "endSec": 37.3,
+          "score": 0.79
+        },
+        {
+          "word": "2.",
+          "startSec": 37.3,
+          "endSec": 37.76,
+          "score": 0.43
+        },
+        {
+          "word": "Poland",
+          "startSec": 38.6,
+          "endSec": 38.98,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 38.98,
+          "endSec": 39.4,
+          "score": 0.52
+        },
+        {
+          "word": "Europe.",
+          "startSec": 39.4,
+          "endSec": 39.7,
+          "score": 1.0
+        },
+        {
+          "word": "Poland",
+          "startSec": 40.96,
+          "endSec": 41.44,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 41.44,
+          "endSec": 41.8,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 41.8,
+          "endSec": 41.96,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 41.96,
+          "endSec": 42.36,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 42.36,
+          "endSec": 42.68,
+          "score": 1.0
+        },
+        {
+          "word": "Europe.",
+          "startSec": 42.68,
+          "endSec": 43.06,
+          "score": 1.0
+        },
+        {
+          "word": "It",
+          "startSec": 43.56,
+          "endSec": 43.64,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 43.64,
+          "endSec": 43.8,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 43.8,
+          "endSec": 44.02,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 43.92,
+      "end": 52.67,
+      "text": "Central Europe. Poland has cities, villages, and nature. It has forests and",
+      "words": [
+        {
+          "word": "Central",
+          "startSec": 44.02,
+          "endSec": 44.38,
+          "score": 0.54
+        },
+        {
+          "word": "Europe.",
+          "startSec": 44.38,
+          "endSec": 44.92,
+          "score": 1.0
+        },
+        {
+          "word": "Poland",
+          "startSec": 46.38,
+          "endSec": 46.9,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 46.9,
+          "endSec": 47.28,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 47.28,
+          "endSec": 47.8,
+          "score": 0.99
+        },
+        {
+          "word": "villages,",
+          "startSec": 48.32,
+          "endSec": 48.58,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 49.44,
+          "endSec": 49.66,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 49.66,
+          "endSec": 49.92,
+          "score": 0.99
+        },
+        {
+          "word": "It",
+          "startSec": 51.08,
+          "endSec": 51.22,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 51.22,
+          "endSec": 51.42,
+          "score": 1.0
+        },
+        {
+          "word": "forests",
+          "startSec": 51.42,
+          "endSec": 51.88,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 51.88,
+          "endSec": 52.52,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 52.42,
+      "end": 60.43,
+      "text": "rivers. It has a long history. Many things changed in Poland. The country is",
+      "words": [
+        {
+          "word": "rivers.",
+          "startSec": 52.52,
+          "endSec": 52.78,
+          "score": 0.46
+        },
+        {
+          "word": "It",
+          "startSec": 54.12,
+          "endSec": 54.28,
+          "score": 0.96
+        },
+        {
+          "word": "has",
+          "startSec": 54.28,
+          "endSec": 54.48,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 54.48,
+          "endSec": 54.68,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 54.68,
+          "endSec": 54.96,
+          "score": 1.0
+        },
+        {
+          "word": "history.",
+          "startSec": 54.96,
+          "endSec": 55.48,
+          "score": 1.0
+        },
+        {
+          "word": "Many",
+          "startSec": 56.66,
+          "endSec": 56.86,
+          "score": 0.99
+        },
+        {
+          "word": "things",
+          "startSec": 56.86,
+          "endSec": 57.48,
+          "score": 1.0
+        },
+        {
+          "word": "changed",
+          "startSec": 57.48,
+          "endSec": 57.76,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 57.76,
+          "endSec": 58.24,
+          "score": 1.0
+        },
+        {
+          "word": "Poland.",
+          "startSec": 58.24,
+          "endSec": 58.5,
+          "score": 1.0
+        },
+        {
+          "word": "The",
+          "startSec": 59.42,
+          "endSec": 59.52,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 59.52,
+          "endSec": 59.8,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 59.8,
+          "endSec": 60.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 60.18,
+      "end": 66.94,
+      "text": "modern today, but history is still important. Rotswauf is one of the most",
+      "words": [
+        {
+          "word": "modern",
+          "startSec": 60.28,
+          "endSec": 60.6,
+          "score": 1.0
+        },
+        {
+          "word": "today,",
+          "startSec": 60.6,
+          "endSec": 61.26,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 61.96,
+          "endSec": 62.2,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 62.2,
+          "endSec": 62.5,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 62.5,
+          "endSec": 63.04,
+          "score": 1.0
+        },
+        {
+          "word": "still",
+          "startSec": 63.04,
+          "endSec": 63.38,
+          "score": 1.0
+        },
+        {
+          "word": "important.",
+          "startSec": 63.38,
+          "endSec": 63.8,
+          "score": 1.0
+        },
+        {
+          "word": "Rotswauf",
+          "startSec": 65.13,
+          "endSec": 65.85,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 65.85,
+          "endSec": 65.97,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 65.97,
+          "endSec": 66.21,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 66.21,
+          "endSec": 66.39,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 66.39,
+          "endSec": 66.55,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 66.55,
+          "endSec": 66.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 66.69,
+      "end": 77.23,
+      "text": "beautiful cities in Poland. It is not the capital, but it is very special. Part 3.",
+      "words": [
+        {
+          "word": "beautiful",
+          "startSec": 66.79,
+          "endSec": 67.29,
+          "score": 1.0
+        },
+        {
+          "word": "cities",
+          "startSec": 67.29,
+          "endSec": 67.79,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 67.79,
+          "endSec": 68.17,
+          "score": 1.0
+        },
+        {
+          "word": "Poland.",
+          "startSec": 68.17,
+          "endSec": 68.47,
+          "score": 1.0
+        },
+        {
+          "word": "It",
+          "startSec": 69.72,
+          "endSec": 69.92,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 69.92,
+          "endSec": 70.1,
+          "score": 1.0
+        },
+        {
+          "word": "not",
+          "startSec": 70.1,
+          "endSec": 70.48,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 70.48,
+          "endSec": 70.78,
+          "score": 0.99
+        },
+        {
+          "word": "capital,",
+          "startSec": 70.78,
+          "endSec": 71.2,
+          "score": 0.91
+        },
+        {
+          "word": "but",
+          "startSec": 71.92,
+          "endSec": 72.36,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 72.36,
+          "endSec": 72.52,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 72.52,
+          "endSec": 72.74,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 72.74,
+          "endSec": 73.12,
+          "score": 1.0
+        },
+        {
+          "word": "special.",
+          "startSec": 73.12,
+          "endSec": 73.76,
+          "score": 1.0
+        },
+        {
+          "word": "Part",
+          "startSec": 76.4,
+          "endSec": 76.58,
+          "score": 0.92
+        },
+        {
+          "word": "3.",
+          "startSec": 76.58,
+          "endSec": 77.08,
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 76.98,
+      "end": 85.36,
+      "text": "Where is Rotswauf? Rotswauf is in the west of Poland. It is near the border with",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 77.08,
+          "endSec": 77.88,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 77.88,
+          "endSec": 78.18,
+          "score": 0.97
+        },
+        {
+          "word": "Rotswauf?",
+          "startSec": 78.18,
+          "endSec": 79.16,
+          "score": 0.42
+        },
+        {
+          "word": "Rotswauf",
+          "startSec": 80.43,
+          "endSec": 81.15,
+          "score": 0.89
+        },
+        {
+          "word": "is",
+          "startSec": 81.15,
+          "endSec": 81.33,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 81.33,
+          "endSec": 81.53,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 81.53,
+          "endSec": 81.69,
+          "score": 0.99
+        },
+        {
+          "word": "west",
+          "startSec": 81.69,
+          "endSec": 82.05,
+          "score": 0.82
+        },
+        {
+          "word": "of",
+          "startSec": 82.05,
+          "endSec": 82.29,
+          "score": 1.0
+        },
+        {
+          "word": "Poland.",
+          "startSec": 82.29,
+          "endSec": 82.65,
+          "score": 0.99
+        },
+        {
+          "word": "It",
+          "startSec": 83.67,
+          "endSec": 83.85,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 83.85,
+          "endSec": 84.05,
+          "score": 0.99
+        },
+        {
+          "word": "near",
+          "startSec": 84.05,
+          "endSec": 84.29,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 84.29,
+          "endSec": 84.49,
+          "score": 0.99
+        },
+        {
+          "word": "border",
+          "startSec": 84.49,
+          "endSec": 84.85,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 84.85,
+          "endSec": 85.21,
+          "score": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "episodeId": "slow-english-ep-01",
+  "episodeId": "slow-english-ep-001",
   "episodeNumber": 1,
   "title": "Slow English Podcast #1: Restaurant",
   "seriesId": "slow-english",
   "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-18/396799823-44100-2-f6c9ec84c6104.mp3",
   "duration": 377.0,
-  "processedAt": "2026-10-10T02:18:00Z",
-  "whisperModel": "base",
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
   "creator": {
     "name": "Slow English Podcast With Emilie",
     "supportUrl": "https://slow-english-podcast.myshopify.com",
@@ -15,759 +15,759 @@
   "sentences": [
     {
       "id": 1,
-      "start": 12.2,
+      "start": 12.0,
       "end": 17.66,
-      "text": "Hello everyone. Welcome to my podcast. My name is Emili.",
+      "text": "Hello everyone. Welcome to my podcast. My name is Emilie.",
       "words": [
         {
           "word": "Hello",
           "startSec": 12.2,
           "endSec": 13.24,
-          "score": 0.98
+          "score": 0.99
         },
         {
           "word": "everyone.",
           "startSec": 13.24,
-          "endSec": 13.88,
-          "score": 0.98
+          "endSec": 13.82,
+          "score": 0.99
         },
         {
           "word": "Welcome",
-          "startSec": 14.68,
-          "endSec": 14.96,
-          "score": 0.98
+          "startSec": 14.39,
+          "endSec": 15.0,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 14.96,
+          "startSec": 15.0,
           "endSec": 15.2,
-          "score": 0.98
+          "score": 0.99
         },
         {
           "word": "my",
           "startSec": 15.2,
-          "endSec": 15.34,
-          "score": 0.98
+          "endSec": 15.4,
+          "score": 0.99
         },
         {
           "word": "podcast.",
-          "startSec": 15.34,
-          "endSec": 15.94,
-          "score": 0.98
+          "startSec": 15.4,
+          "endSec": 15.92,
+          "score": 0.99
         },
         {
           "word": "My",
-          "startSec": 16.62,
-          "endSec": 16.78,
-          "score": 0.98
+          "startSec": 16.57,
+          "endSec": 16.8,
+          "score": 0.99
         },
         {
           "word": "name",
-          "startSec": 16.78,
-          "endSec": 17.0,
-          "score": 0.98
+          "startSec": 16.8,
+          "endSec": 17.1,
+          "score": 0.99
         },
         {
           "word": "is",
-          "startSec": 17.0,
-          "endSec": 17.24,
-          "score": 0.98
+          "startSec": 17.1,
+          "endSec": 17.25,
+          "score": 0.99
         },
         {
-          "word": "Emili.",
-          "startSec": 17.24,
-          "endSec": 17.66,
-          "score": 0.98
+          "word": "Emilie.",
+          "startSec": 17.25,
+          "endSec": 17.5,
+          "score": 0.99
         }
       ]
     },
     {
       "id": 2,
-      "start": 18.66,
+      "start": 18.0,
       "end": 22.36,
       "text": "Today we will learn how to speak English in a restaurant.",
       "words": [
         {
           "word": "Today",
-          "startSec": 18.66,
-          "endSec": 18.94,
-          "score": 0.98
+          "startSec": 18.15,
+          "endSec": 18.66,
+          "score": 0.99
         },
         {
           "word": "we",
-          "startSec": 18.94,
-          "endSec": 19.6,
-          "score": 0.98
+          "startSec": 18.66,
+          "endSec": 18.85,
+          "score": 0.99
         },
         {
           "word": "will",
-          "startSec": 19.6,
-          "endSec": 19.8,
-          "score": 0.98
+          "startSec": 18.85,
+          "endSec": 19.1,
+          "score": 0.99
         },
         {
           "word": "learn",
-          "startSec": 19.8,
-          "endSec": 20.12,
-          "score": 0.98
+          "startSec": 19.1,
+          "endSec": 19.5,
+          "score": 0.99
         },
         {
           "word": "how",
-          "startSec": 20.12,
-          "endSec": 20.4,
-          "score": 0.98
+          "startSec": 19.5,
+          "endSec": 19.8,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 20.4,
-          "endSec": 20.54,
-          "score": 0.98
+          "startSec": 19.8,
+          "endSec": 20.0,
+          "score": 0.99
         },
         {
           "word": "speak",
-          "startSec": 20.54,
-          "endSec": 20.84,
-          "score": 0.98
+          "startSec": 20.0,
+          "endSec": 20.4,
+          "score": 0.99
         },
         {
           "word": "English",
-          "startSec": 20.84,
-          "endSec": 21.38,
-          "score": 0.98
+          "startSec": 20.4,
+          "endSec": 20.9,
+          "score": 0.99
         },
         {
           "word": "in",
-          "startSec": 21.38,
-          "endSec": 21.68,
-          "score": 0.98
+          "startSec": 20.9,
+          "endSec": 21.1,
+          "score": 0.99
         },
         {
           "word": "a",
-          "startSec": 21.68,
-          "endSec": 21.8,
-          "score": 0.98
+          "startSec": 21.1,
+          "endSec": 21.25,
+          "score": 0.99
         },
         {
           "word": "restaurant.",
-          "startSec": 21.8,
-          "endSec": 22.36,
-          "score": 0.98
+          "startSec": 21.25,
+          "endSec": 22.18,
+          "score": 0.99
         }
       ]
     },
     {
       "id": 3,
-      "start": 22.36,
-      "end": 29.8,
-      "text": "Going to a restaurant is fun but it can be difficult if you don't know what to say.",
+      "start": 22.8,
+      "end": 29.82,
+      "text": "Going to a restaurant is fun, but it can be difficult if you don't know what to say.",
       "words": [
         {
           "word": "Going",
-          "startSec": 22.36,
-          "endSec": 23.56,
-          "score": 0.98
+          "startSec": 23.11,
+          "endSec": 23.6,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 23.56,
-          "endSec": 23.94,
-          "score": 0.98
+          "startSec": 23.6,
+          "endSec": 23.8,
+          "score": 0.99
         },
         {
           "word": "a",
-          "startSec": 23.94,
-          "endSec": 24.1,
-          "score": 0.98
+          "startSec": 23.8,
+          "endSec": 23.95,
+          "score": 0.99
         },
         {
           "word": "restaurant",
-          "startSec": 24.1,
-          "endSec": 24.66,
-          "score": 0.98
+          "startSec": 23.95,
+          "endSec": 24.6,
+          "score": 0.99
         },
         {
           "word": "is",
-          "startSec": 24.66,
-          "endSec": 25.16,
-          "score": 0.98
+          "startSec": 24.6,
+          "endSec": 24.8,
+          "score": 0.99
         },
         {
-          "word": "fun",
-          "startSec": 25.16,
-          "endSec": 25.6,
-          "score": 0.98
+          "word": "fun,",
+          "startSec": 24.8,
+          "endSec": 25.3,
+          "score": 0.99
         },
         {
           "word": "but",
-          "startSec": 25.6,
-          "endSec": 26.32,
-          "score": 0.98
+          "startSec": 25.5,
+          "endSec": 25.8,
+          "score": 0.99
         },
         {
           "word": "it",
-          "startSec": 26.32,
-          "endSec": 26.72,
-          "score": 0.98
+          "startSec": 25.8,
+          "endSec": 26.0,
+          "score": 0.99
         },
         {
           "word": "can",
-          "startSec": 26.72,
-          "endSec": 26.98,
-          "score": 0.98
+          "startSec": 26.0,
+          "endSec": 26.3,
+          "score": 0.99
         },
         {
           "word": "be",
-          "startSec": 26.98,
-          "endSec": 27.22,
-          "score": 0.98
+          "startSec": 26.3,
+          "endSec": 26.5,
+          "score": 0.99
         },
         {
           "word": "difficult",
-          "startSec": 27.22,
-          "endSec": 27.82,
-          "score": 0.98
+          "startSec": 26.5,
+          "endSec": 27.2,
+          "score": 0.99
         },
         {
           "word": "if",
-          "startSec": 27.82,
-          "endSec": 28.2,
-          "score": 0.98
+          "startSec": 27.3,
+          "endSec": 27.6,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 28.2,
-          "endSec": 28.38,
-          "score": 0.98
+          "startSec": 27.6,
+          "endSec": 27.8,
+          "score": 0.99
         },
         {
           "word": "don't",
-          "startSec": 28.38,
-          "endSec": 28.74,
-          "score": 0.98
+          "startSec": 27.8,
+          "endSec": 28.3,
+          "score": 0.99
         },
         {
           "word": "know",
-          "startSec": 28.74,
-          "endSec": 28.9,
-          "score": 0.98
+          "startSec": 28.3,
+          "endSec": 28.6,
+          "score": 0.99
         },
         {
           "word": "what",
-          "startSec": 28.9,
-          "endSec": 29.14,
-          "score": 0.98
+          "startSec": 28.6,
+          "endSec": 28.9,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 29.14,
-          "endSec": 29.34,
-          "score": 0.98
+          "startSec": 28.9,
+          "endSec": 29.1,
+          "score": 0.99
         },
         {
           "word": "say.",
-          "startSec": 29.34,
+          "startSec": 29.1,
           "endSec": 29.8,
-          "score": 0.98
+          "score": 0.99
         }
       ]
     },
     {
       "id": 4,
-      "start": 56.84,
-      "end": 61.76,
-      "text": "When you go to a restaurant a waiter or waitress will welcome you.",
+      "start": 56.5,
+      "end": 61.8,
+      "text": "When you go to a restaurant, a waiter or waitress will welcome you.",
       "words": [
         {
           "word": "When",
           "startSec": 56.84,
-          "endSec": 57.16,
-          "score": 0.98
+          "endSec": 57.2,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 57.16,
-          "endSec": 57.38,
-          "score": 0.98
+          "startSec": 57.2,
+          "endSec": 57.4,
+          "score": 0.99
         },
         {
           "word": "go",
-          "startSec": 57.38,
-          "endSec": 57.6,
-          "score": 0.98
+          "startSec": 57.4,
+          "endSec": 57.7,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 57.6,
-          "endSec": 57.86,
-          "score": 0.98
+          "startSec": 57.7,
+          "endSec": 57.9,
+          "score": 0.99
         },
         {
           "word": "a",
-          "startSec": 57.86,
-          "endSec": 58.02,
-          "score": 0.98
+          "startSec": 57.9,
+          "endSec": 58.05,
+          "score": 0.99
         },
         {
-          "word": "restaurant",
-          "startSec": 58.02,
-          "endSec": 58.66,
-          "score": 0.98
+          "word": "restaurant,",
+          "startSec": 58.05,
+          "endSec": 58.8,
+          "score": 0.99
         },
         {
           "word": "a",
-          "startSec": 58.66,
-          "endSec": 59.36,
-          "score": 0.98
+          "startSec": 58.9,
+          "endSec": 59.05,
+          "score": 0.99
         },
         {
           "word": "waiter",
-          "startSec": 59.36,
-          "endSec": 59.76,
-          "score": 0.98
+          "startSec": 59.05,
+          "endSec": 59.5,
+          "score": 0.99
         },
         {
           "word": "or",
-          "startSec": 59.76,
-          "endSec": 60.06,
-          "score": 0.98
+          "startSec": 59.5,
+          "endSec": 59.7,
+          "score": 0.99
         },
         {
           "word": "waitress",
-          "startSec": 60.06,
-          "endSec": 60.64,
-          "score": 0.98
+          "startSec": 59.7,
+          "endSec": 60.3,
+          "score": 0.99
         },
         {
           "word": "will",
-          "startSec": 60.64,
-          "endSec": 60.88,
-          "score": 0.98
+          "startSec": 60.3,
+          "endSec": 60.6,
+          "score": 0.99
         },
         {
           "word": "welcome",
-          "startSec": 60.88,
-          "endSec": 61.32,
-          "score": 0.98
+          "startSec": 60.6,
+          "endSec": 61.2,
+          "score": 0.99
         },
         {
           "word": "you.",
-          "startSec": 61.32,
+          "startSec": 61.2,
           "endSec": 61.76,
-          "score": 0.98
+          "score": 0.99
         }
       ]
     },
     {
       "id": 5,
-      "start": 62.22,
-      "end": 66.74,
+      "start": 62.0,
+      "end": 66.8,
       "text": "They may say hello. Welcome to our restaurant.",
       "words": [
         {
           "word": "They",
           "startSec": 62.22,
-          "endSec": 62.54,
-          "score": 0.98
+          "endSec": 62.5,
+          "score": 0.99
         },
         {
           "word": "may",
-          "startSec": 62.54,
-          "endSec": 62.76,
-          "score": 0.98
+          "startSec": 62.5,
+          "endSec": 62.8,
+          "score": 0.99
         },
         {
           "word": "say",
-          "startSec": 62.76,
-          "endSec": 63.24,
-          "score": 0.98
+          "startSec": 62.8,
+          "endSec": 63.2,
+          "score": 0.99
         },
         {
           "word": "hello.",
-          "startSec": 63.24,
-          "endSec": 64.26,
-          "score": 0.98
+          "startSec": 63.2,
+          "endSec": 63.8,
+          "score": 0.99
         },
         {
           "word": "Welcome",
-          "startSec": 65.14,
-          "endSec": 65.62,
-          "score": 0.98
+          "startSec": 64.2,
+          "endSec": 64.8,
+          "score": 0.99
         },
         {
           "word": "to",
-          "startSec": 65.62,
-          "endSec": 65.9,
-          "score": 0.98
+          "startSec": 64.8,
+          "endSec": 65.0,
+          "score": 0.99
         },
         {
           "word": "our",
-          "startSec": 65.9,
-          "endSec": 66.12,
-          "score": 0.98
+          "startSec": 65.0,
+          "endSec": 65.3,
+          "score": 0.99
         },
         {
           "word": "restaurant.",
-          "startSec": 66.12,
+          "startSec": 65.3,
           "endSec": 66.74,
-          "score": 0.98
+          "score": 0.99
         }
       ]
     },
     {
       "id": 6,
-      "start": 67.96,
-      "end": 70.12,
+      "start": 67.7,
+      "end": 70.3,
       "text": "Good evening. How can I help you?",
       "words": [
         {
           "word": "Good",
           "startSec": 67.96,
-          "endSec": 68.14,
-          "score": 0.98
+          "endSec": 68.3,
+          "score": 0.99
         },
         {
           "word": "evening.",
-          "startSec": 68.14,
-          "endSec": 68.66,
-          "score": 0.98
+          "startSec": 68.3,
+          "endSec": 68.8,
+          "score": 0.99
         },
         {
           "word": "How",
-          "startSec": 69.06,
-          "endSec": 69.18,
-          "score": 0.98
+          "startSec": 69.1,
+          "endSec": 69.35,
+          "score": 0.99
         },
         {
           "word": "can",
-          "startSec": 69.18,
-          "endSec": 69.4,
-          "score": 0.98
+          "startSec": 69.35,
+          "endSec": 69.56,
+          "score": 0.99
         },
         {
           "word": "I",
-          "startSec": 69.4,
-          "endSec": 69.56,
-          "score": 0.98
+          "startSec": 69.56,
+          "endSec": 69.65,
+          "score": 0.99
         },
         {
           "word": "help",
-          "startSec": 69.56,
-          "endSec": 69.76,
-          "score": 0.98
+          "startSec": 69.65,
+          "endSec": 69.85,
+          "score": 0.99
         },
         {
           "word": "you?",
-          "startSec": 69.76,
+          "startSec": 69.85,
           "endSec": 70.12,
-          "score": 0.98
+          "score": 0.99
         }
       ]
     },
     {
       "id": 7,
-      "start": 100.7,
-      "end": 106.52,
-      "text": "If you book the table then the waiter will say follow me.",
+      "start": 99.3,
+      "end": 106.35,
+      "text": "If you booked a table, then the waiter will say follow me.",
       "words": [
         {
           "word": "If",
-          "startSec": 100.52,
-          "endSec": 100.92,
-          "score": 0.98
+          "startSec": 99.5,
+          "endSec": 100.9,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 100.92,
-          "endSec": 101.16,
-          "score": 0.98
+          "startSec": 100.9,
+          "endSec": 101.14,
+          "score": 0.99
         },
         {
-          "word": "book",
-          "startSec": 101.16,
+          "word": "booked",
+          "startSec": 101.14,
           "endSec": 101.44,
-          "score": 0.98
+          "score": 0.99
         },
         {
-          "word": "the",
+          "word": "a",
           "startSec": 101.44,
-          "endSec": 101.68,
-          "score": 0.98
+          "endSec": 101.66,
+          "score": 0.99
         },
         {
-          "word": "table",
-          "startSec": 101.68,
+          "word": "table,",
+          "startSec": 101.66,
           "endSec": 102.14,
-          "score": 0.98
+          "score": 0.99
         },
         {
           "word": "then",
-          "startSec": 102.14,
-          "endSec": 103.7,
-          "score": 0.98
+          "startSec": 103.38,
+          "endSec": 103.72,
+          "score": 0.99
         },
         {
           "word": "the",
-          "startSec": 103.7,
-          "endSec": 104.04,
-          "score": 0.98
+          "startSec": 103.72,
+          "endSec": 103.98,
+          "score": 0.99
         },
         {
           "word": "waiter",
-          "startSec": 104.04,
-          "endSec": 104.34,
-          "score": 0.98
+          "startSec": 103.98,
+          "endSec": 104.22,
+          "score": 0.99
         },
         {
           "word": "will",
-          "startSec": 104.34,
-          "endSec": 104.58,
-          "score": 0.98
+          "startSec": 104.22,
+          "endSec": 104.54,
+          "score": 0.99
         },
         {
           "word": "say",
-          "startSec": 104.58,
-          "endSec": 105.02,
-          "score": 0.98
+          "startSec": 104.54,
+          "endSec": 104.92,
+          "score": 0.99
         },
         {
           "word": "follow",
-          "startSec": 105.02,
-          "endSec": 105.94,
-          "score": 0.98
+          "startSec": 104.92,
+          "endSec": 105.96,
+          "score": 0.99
         },
         {
           "word": "me.",
-          "startSec": 105.94,
-          "endSec": 106.52,
-          "score": 0.98
+          "startSec": 105.96,
+          "endSec": 106.3,
+          "score": 0.99
         }
       ]
     },
     {
       "id": 8,
-      "start": 106.64,
-      "end": 111.88,
+      "start": 106.4,
+      "end": 111.9,
       "text": "Here is your table. Please sit here. You can say thank you.",
       "words": [
         {
           "word": "Here",
-          "startSec": 106.64,
-          "endSec": 107.0,
-          "score": 0.98
+          "startSec": 106.76,
+          "endSec": 106.96,
+          "score": 0.99
         },
         {
           "word": "is",
-          "startSec": 107.0,
-          "endSec": 107.2,
-          "score": 0.98
+          "startSec": 106.96,
+          "endSec": 107.14,
+          "score": 0.99
         },
         {
           "word": "your",
-          "startSec": 107.2,
-          "endSec": 107.3,
-          "score": 0.98
+          "startSec": 107.14,
+          "endSec": 107.28,
+          "score": 0.99
         },
         {
           "word": "table.",
-          "startSec": 107.3,
+          "startSec": 107.28,
           "endSec": 107.76,
-          "score": 0.98
+          "score": 0.99
         },
         {
           "word": "Please",
-          "startSec": 108.12,
-          "endSec": 108.88,
-          "score": 0.98
+          "startSec": 108.52,
+          "endSec": 108.86,
+          "score": 0.99
         },
         {
           "word": "sit",
-          "startSec": 108.88,
-          "endSec": 109.2,
-          "score": 0.98
+          "startSec": 108.86,
+          "endSec": 109.14,
+          "score": 0.99
         },
         {
           "word": "here.",
-          "startSec": 109.2,
-          "endSec": 109.54,
-          "score": 0.98
+          "startSec": 109.14,
+          "endSec": 109.52,
+          "score": 0.99
         },
         {
           "word": "You",
-          "startSec": 110.1,
-          "endSec": 110.38,
-          "score": 0.98
+          "startSec": 110.08,
+          "endSec": 110.34,
+          "score": 0.99
         },
         {
           "word": "can",
-          "startSec": 110.38,
-          "endSec": 110.56,
-          "score": 0.98
+          "startSec": 110.34,
+          "endSec": 110.52,
+          "score": 0.99
         },
         {
           "word": "say",
-          "startSec": 110.56,
-          "endSec": 110.88,
-          "score": 0.98
+          "startSec": 110.52,
+          "endSec": 110.78,
+          "score": 0.99
         },
         {
           "word": "thank",
-          "startSec": 110.88,
-          "endSec": 111.32,
-          "score": 0.98
+          "startSec": 110.78,
+          "endSec": 111.3,
+          "score": 0.99
         },
         {
           "word": "you.",
-          "startSec": 111.32,
-          "endSec": 111.88,
-          "score": 0.98
+          "startSec": 111.3,
+          "endSec": 111.68,
+          "score": 0.99
         }
       ]
     },
     {
       "id": 9,
-      "start": 112.94,
-      "end": 116.12,
+      "start": 112.6,
+      "end": 116.2,
       "text": "Now you sit down and look at the menu.",
       "words": [
         {
           "word": "Now",
-          "startSec": 112.94,
-          "endSec": 113.74,
-          "score": 0.98
+          "startSec": 112.88,
+          "endSec": 113.64,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 113.74,
-          "endSec": 114.04,
-          "score": 0.98
+          "startSec": 113.64,
+          "endSec": 114.02,
+          "score": 0.99
         },
         {
           "word": "sit",
-          "startSec": 114.04,
-          "endSec": 114.3,
-          "score": 0.98
+          "startSec": 114.02,
+          "endSec": 114.24,
+          "score": 0.99
         },
         {
           "word": "down",
-          "startSec": 114.3,
-          "endSec": 114.7,
-          "score": 0.98
+          "startSec": 114.24,
+          "endSec": 114.66,
+          "score": 0.99
         },
         {
           "word": "and",
-          "startSec": 114.7,
-          "endSec": 115.08,
-          "score": 0.98
+          "startSec": 114.66,
+          "endSec": 115.04,
+          "score": 0.99
         },
         {
           "word": "look",
-          "startSec": 115.08,
-          "endSec": 115.36,
-          "score": 0.98
+          "startSec": 115.04,
+          "endSec": 115.3,
+          "score": 0.99
         },
         {
           "word": "at",
-          "startSec": 115.36,
-          "endSec": 115.52,
-          "score": 0.98
+          "startSec": 115.3,
+          "endSec": 115.48,
+          "score": 0.99
         },
         {
           "word": "the",
-          "startSec": 115.52,
-          "endSec": 115.68,
-          "score": 0.98
+          "startSec": 115.48,
+          "endSec": 115.64,
+          "score": 0.99
         },
         {
           "word": "menu.",
-          "startSec": 115.68,
-          "endSec": 116.12,
-          "score": 0.98
+          "startSec": 115.64,
+          "endSec": 115.96,
+          "score": 0.99
         }
       ]
     },
     {
       "id": 10,
-      "start": 134.72,
-      "end": 139.58,
-      "text": "If you don't understand the menu you can ask what do you recommend?",
+      "start": 134.4,
+      "end": 139.6,
+      "text": "If you don't understand the menu, you can ask what do you recommend?",
       "words": [
         {
           "word": "If",
           "startSec": 134.72,
-          "endSec": 134.96,
-          "score": 0.98
+          "endSec": 134.9,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 134.96,
-          "endSec": 135.16,
-          "score": 0.98
+          "startSec": 134.9,
+          "endSec": 135.1,
+          "score": 0.99
         },
         {
           "word": "don't",
-          "startSec": 135.16,
-          "endSec": 135.38,
-          "score": 0.98
+          "startSec": 135.1,
+          "endSec": 135.5,
+          "score": 0.99
         },
         {
           "word": "understand",
-          "startSec": 135.38,
-          "endSec": 135.98,
-          "score": 0.98
+          "startSec": 135.5,
+          "endSec": 136.2,
+          "score": 0.99
         },
         {
           "word": "the",
-          "startSec": 135.98,
-          "endSec": 136.22,
-          "score": 0.98
+          "startSec": 136.2,
+          "endSec": 136.4,
+          "score": 0.99
         },
         {
-          "word": "menu",
-          "startSec": 136.22,
-          "endSec": 136.58,
-          "score": 0.98
+          "word": "menu,",
+          "startSec": 136.4,
+          "endSec": 137.0,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 136.58,
-          "endSec": 137.2,
-          "score": 0.98
+          "startSec": 137.2,
+          "endSec": 137.4,
+          "score": 0.99
         },
         {
           "word": "can",
-          "startSec": 137.2,
-          "endSec": 137.38,
-          "score": 0.98
+          "startSec": 137.4,
+          "endSec": 137.7,
+          "score": 0.99
         },
         {
           "word": "ask",
-          "startSec": 137.38,
-          "endSec": 137.98,
-          "score": 0.98
+          "startSec": 137.7,
+          "endSec": 138.1,
+          "score": 0.99
         },
         {
           "word": "what",
-          "startSec": 137.98,
-          "endSec": 138.68,
-          "score": 0.98
+          "startSec": 138.1,
+          "endSec": 138.4,
+          "score": 0.99
         },
         {
           "word": "do",
-          "startSec": 138.68,
-          "endSec": 138.88,
-          "score": 0.98
+          "startSec": 138.4,
+          "endSec": 138.6,
+          "score": 0.99
         },
         {
           "word": "you",
-          "startSec": 138.88,
-          "endSec": 139.02,
-          "score": 0.98
+          "startSec": 138.6,
+          "endSec": 138.8,
+          "score": 0.99
         },
         {
           "word": "recommend?",
-          "startSec": 139.02,
+          "startSec": 138.8,
           "endSec": 139.58,
-          "score": 0.98
+          "score": 0.99
         }
       ]
     }

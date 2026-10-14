@@ -1,0 +1,595 @@
+{
+  "episodeId": "slow-english-ep-039",
+  "episodeNumber": 39,
+  "title": "Slow English Podcast #39: Rent a Car",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397425100-44100-2-9bda87a9d7d06.mp3",
+  "duration": 438.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.43,
+      "text": "Hello, and welcome to Slow English Podcast.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 0.0,
+          "endSec": 0.24,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 0.24,
+          "endSec": 0.52,
+          "score": 0.98
+        },
+        {
+          "word": "welcome",
+          "startSec": 0.52,
+          "endSec": 0.92,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 0.92,
+          "endSec": 1.18,
+          "score": 1.0
+        },
+        {
+          "word": "Slow",
+          "startSec": 1.18,
+          "endSec": 1.46,
+          "score": 0.63
+        },
+        {
+          "word": "English",
+          "startSec": 1.46,
+          "endSec": 1.8,
+          "score": 0.91
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 1.8,
+          "endSec": 2.28,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 6.39,
+      "text": "My name is Emili, and I'm so happy",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 3.46,
+          "endSec": 3.8,
+          "score": 0.98
+        },
+        {
+          "word": "name",
+          "startSec": 3.8,
+          "endSec": 4.0,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 4.0,
+          "endSec": 4.28,
+          "score": 1.0
+        },
+        {
+          "word": "Emili,",
+          "startSec": 4.28,
+          "endSec": 4.6,
+          "score": 0.4
+        },
+        {
+          "word": "and",
+          "startSec": 5.1,
+          "endSec": 5.42,
+          "score": 1.0
+        },
+        {
+          "word": "I'm",
+          "startSec": 5.42,
+          "endSec": 5.64,
+          "score": 0.97
+        },
+        {
+          "word": "so",
+          "startSec": 5.64,
+          "endSec": 5.8,
+          "score": 1.0
+        },
+        {
+          "word": "happy",
+          "startSec": 5.8,
+          "endSec": 6.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.14,
+      "end": 8.03,
+      "text": "to have you here with me today.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 6.24,
+          "endSec": 6.48,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 6.48,
+          "endSec": 6.7,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 6.7,
+          "endSec": 6.92,
+          "score": 1.0
+        },
+        {
+          "word": "here",
+          "startSec": 6.92,
+          "endSec": 7.12,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 7.12,
+          "endSec": 7.36,
+          "score": 1.0
+        },
+        {
+          "word": "me",
+          "startSec": 7.36,
+          "endSec": 7.54,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 7.54,
+          "endSec": 7.88,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.05,
+      "end": 12.06,
+      "text": "In today's episode, we will talk about",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 9.15,
+          "endSec": 9.31,
+          "score": 0.98
+        },
+        {
+          "word": "today's",
+          "startSec": 9.31,
+          "endSec": 9.85,
+          "score": 1.0
+        },
+        {
+          "word": "episode,",
+          "startSec": 9.85,
+          "endSec": 10.43,
+          "score": 1.0
+        },
+        {
+          "word": "we",
+          "startSec": 10.87,
+          "endSec": 11.09,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 11.09,
+          "endSec": 11.27,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 11.27,
+          "endSec": 11.55,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 11.55,
+          "endSec": 11.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.81,
+      "end": 14.18,
+      "text": "how to rent a car in English.",
+      "words": [
+        {
+          "word": "how",
+          "startSec": 11.91,
+          "endSec": 12.25,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 12.25,
+          "endSec": 12.47,
+          "score": 1.0
+        },
+        {
+          "word": "rent",
+          "startSec": 12.47,
+          "endSec": 12.69,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 12.69,
+          "endSec": 12.89,
+          "score": 1.0
+        },
+        {
+          "word": "car",
+          "startSec": 12.89,
+          "endSec": 13.25,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 13.25,
+          "endSec": 13.59,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 13.59,
+          "endSec": 14.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.12,
+      "end": 18.33,
+      "text": "Renting a car is something many people do",
+      "words": [
+        {
+          "word": "Renting",
+          "startSec": 15.22,
+          "endSec": 15.82,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 15.82,
+          "endSec": 15.96,
+          "score": 1.0
+        },
+        {
+          "word": "car",
+          "startSec": 15.96,
+          "endSec": 16.28,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 16.28,
+          "endSec": 16.52,
+          "score": 1.0
+        },
+        {
+          "word": "something",
+          "startSec": 16.52,
+          "endSec": 16.78,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 16.78,
+          "endSec": 17.28,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 17.28,
+          "endSec": 17.86,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 17.86,
+          "endSec": 18.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.08,
+      "end": 22.11,
+      "text": "when they travel or need a car for a short time.",
+      "words": [
+        {
+          "word": "when",
+          "startSec": 18.18,
+          "endSec": 18.54,
+          "score": 0.99
+        },
+        {
+          "word": "they",
+          "startSec": 18.54,
+          "endSec": 18.7,
+          "score": 1.0
+        },
+        {
+          "word": "travel",
+          "startSec": 18.7,
+          "endSec": 19.2,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 19.2,
+          "endSec": 19.86,
+          "score": 0.9
+        },
+        {
+          "word": "need",
+          "startSec": 19.86,
+          "endSec": 20.2,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 20.2,
+          "endSec": 20.4,
+          "score": 1.0
+        },
+        {
+          "word": "car",
+          "startSec": 20.4,
+          "endSec": 20.72,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 20.72,
+          "endSec": 21.04,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 21.04,
+          "endSec": 21.18,
+          "score": 1.0
+        },
+        {
+          "word": "short",
+          "startSec": 21.18,
+          "endSec": 21.42,
+          "score": 1.0
+        },
+        {
+          "word": "time.",
+          "startSec": 21.42,
+          "endSec": 21.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.9,
+      "end": 26.63,
+      "text": "In this episode, you'll learn the important words,",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 23.0,
+          "endSec": 23.22,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 23.22,
+          "endSec": 23.4,
+          "score": 1.0
+        },
+        {
+          "word": "episode,",
+          "startSec": 23.4,
+          "endSec": 24.12,
+          "score": 1.0
+        },
+        {
+          "word": "you'll",
+          "startSec": 24.66,
+          "endSec": 25.02,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 25.02,
+          "endSec": 25.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 25.26,
+          "endSec": 25.48,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 25.48,
+          "endSec": 25.86,
+          "score": 1.0
+        },
+        {
+          "word": "words,",
+          "startSec": 25.86,
+          "endSec": 26.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 27.14,
+      "end": 31.77,
+      "text": "phrases, and questions to help you rent a car in English.",
+      "words": [
+        {
+          "word": "phrases,",
+          "startSec": 27.24,
+          "endSec": 27.64,
+          "score": 0.0
+        },
+        {
+          "word": "and",
+          "startSec": 28.04,
+          "endSec": 28.12,
+          "score": 0.97
+        },
+        {
+          "word": "questions",
+          "startSec": 28.12,
+          "endSec": 28.62,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 28.62,
+          "endSec": 29.74,
+          "score": 0.82
+        },
+        {
+          "word": "help",
+          "startSec": 29.74,
+          "endSec": 30.0,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 30.0,
+          "endSec": 30.24,
+          "score": 1.0
+        },
+        {
+          "word": "rent",
+          "startSec": 30.24,
+          "endSec": 30.5,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "score": 1.0
+        },
+        {
+          "word": "car",
+          "startSec": 30.7,
+          "endSec": 30.96,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 30.96,
+          "endSec": 31.2,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 31.2,
+          "endSec": 31.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 32.26,
+      "end": 36.99,
+      "text": "Part one, important words related to renting a car.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 32.36,
+          "endSec": 32.56,
+          "score": 0.76
+        },
+        {
+          "word": "one,",
+          "startSec": 32.56,
+          "endSec": 32.98,
+          "score": 0.55
+        },
+        {
+          "word": "important",
+          "startSec": 33.38,
+          "endSec": 34.02,
+          "score": 0.96
+        },
+        {
+          "word": "words",
+          "startSec": 34.02,
+          "endSec": 34.42,
+          "score": 1.0
+        },
+        {
+          "word": "related",
+          "startSec": 34.42,
+          "endSec": 35.22,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 35.22,
+          "endSec": 35.74,
+          "score": 1.0
+        },
+        {
+          "word": "renting",
+          "startSec": 35.74,
+          "endSec": 36.04,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 36.04,
+          "endSec": 36.48,
+          "score": 1.0
+        },
+        {
+          "word": "car.",
+          "startSec": 36.48,
+          "endSec": 36.84,
+          "score": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "episodeId": "slow-english-ep-006",
+  "episodeNumber": 6,
+  "title": "Slow English Podcast #6: Whatsapp",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856046-44100-2-4a7ad39db4bfc.mp3",
+  "duration": 477.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.93,
+      "text": "Hello, everyone.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 0.0,
+          "endSec": 0.16,
+          "score": 0.85
+        },
+        {
+          "word": "everyone.",
+          "startSec": 0.34,
+          "endSec": 0.78,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.97,
+      "end": 4.12,
+      "text": "Welcome back to my podcast.",
+      "words": [
+        {
+          "word": "Welcome",
+          "startSec": 2.07,
+          "endSec": 2.71,
+          "score": 0.95
+        },
+        {
+          "word": "back",
+          "startSec": 2.71,
+          "endSec": 3.03,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 3.03,
+          "endSec": 3.27,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 3.27,
+          "endSec": 3.43,
+          "score": 1.0
+        },
+        {
+          "word": "podcast.",
+          "startSec": 3.43,
+          "endSec": 3.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.75,
+      "end": 11.66,
+      "text": "My name is Emilie, and I'm here to help you learn English for everyday situations.",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 4.85,
+          "endSec": 5.27,
+          "score": 0.99
+        },
+        {
+          "word": "name",
+          "startSec": 5.27,
+          "endSec": 5.53,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 5.53,
+          "endSec": 5.83,
+          "score": 1.0
+        },
+        {
+          "word": "Emilie,",
+          "startSec": 5.83,
+          "endSec": 6.47,
+          "score": 0.57
+        },
+        {
+          "word": "and",
+          "startSec": 6.67,
+          "endSec": 6.97,
+          "score": 1.0
+        },
+        {
+          "word": "I'm",
+          "startSec": 6.97,
+          "endSec": 7.39,
+          "score": 0.99
+        },
+        {
+          "word": "here",
+          "startSec": 7.39,
+          "endSec": 7.59,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 7.59,
+          "endSec": 7.75,
+          "score": 1.0
+        },
+        {
+          "word": "help",
+          "startSec": 7.75,
+          "endSec": 7.99,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 7.99,
+          "endSec": 8.29,
+          "score": 1.0
+        },
+        {
+          "word": "learn",
+          "startSec": 8.29,
+          "endSec": 8.59,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 8.59,
+          "endSec": 9.23,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 9.23,
+          "endSec": 9.69,
+          "score": 1.0
+        },
+        {
+          "word": "everyday",
+          "startSec": 9.69,
+          "endSec": 10.29,
+          "score": 0.78
+        },
+        {
+          "word": "situations.",
+          "startSec": 10.29,
+          "endSec": 11.51,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.63,
+      "end": 17.8,
+      "text": "Today, we are going to talk about something we all use every day.",
+      "words": [
+        {
+          "word": "Today,",
+          "startSec": 12.73,
+          "endSec": 13.37,
+          "score": 0.99
+        },
+        {
+          "word": "we",
+          "startSec": 13.91,
+          "endSec": 14.21,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 14.21,
+          "endSec": 14.33,
+          "score": 0.95
+        },
+        {
+          "word": "going",
+          "startSec": 14.33,
+          "endSec": 14.61,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 14.61,
+          "endSec": 14.77,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 14.77,
+          "endSec": 14.99,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 14.99,
+          "endSec": 15.31,
+          "score": 1.0
+        },
+        {
+          "word": "something",
+          "startSec": 15.31,
+          "endSec": 15.79,
+          "score": 1.0
+        },
+        {
+          "word": "we",
+          "startSec": 15.79,
+          "endSec": 16.07,
+          "score": 1.0
+        },
+        {
+          "word": "all",
+          "startSec": 16.07,
+          "endSec": 16.37,
+          "score": 1.0
+        },
+        {
+          "word": "use",
+          "startSec": 16.37,
+          "endSec": 16.83,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 16.83,
+          "endSec": 17.29,
+          "score": 0.93
+        },
+        {
+          "word": "day.",
+          "startSec": 17.29,
+          "endSec": 17.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.37,
+      "end": 19.14,
+      "text": "What's app?",
+      "words": [
+        {
+          "word": "What's",
+          "startSec": 18.47,
+          "endSec": 18.81,
+          "score": 0.81
+        },
+        {
+          "word": "app?",
+          "startSec": 18.81,
+          "endSec": 18.99,
+          "score": 0.54
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.4,
+      "end": 26.01,
+      "text": "What's app is one of the most popular messaging apps in the world?",
+      "words": [
+        {
+          "word": "What's",
+          "startSec": 21.5,
+          "endSec": 21.76,
+          "score": 0.97
+        },
+        {
+          "word": "app",
+          "startSec": 21.76,
+          "endSec": 21.98,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 21.98,
+          "endSec": 22.3,
+          "score": 0.98
+        },
+        {
+          "word": "one",
+          "startSec": 22.3,
+          "endSec": 22.54,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 22.54,
+          "endSec": 22.74,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 22.74,
+          "endSec": 22.9,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 22.9,
+          "endSec": 23.18,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 23.18,
+          "endSec": 23.84,
+          "score": 1.0
+        },
+        {
+          "word": "messaging",
+          "startSec": 23.84,
+          "endSec": 24.52,
+          "score": 1.0
+        },
+        {
+          "word": "apps",
+          "startSec": 24.52,
+          "endSec": 24.96,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 24.96,
+          "endSec": 25.32,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 25.32,
+          "endSec": 25.46,
+          "score": 1.0
+        },
+        {
+          "word": "world?",
+          "startSec": 25.46,
+          "endSec": 25.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.76,
+      "end": 33.85,
+      "text": "We use it to chat with friends, send messages, make calls, and share pictures or videos.",
+      "words": [
+        {
+          "word": "We",
+          "startSec": 25.86,
+          "endSec": 26.96,
+          "score": 0.57
+        },
+        {
+          "word": "use",
+          "startSec": 27.34,
+          "endSec": 27.62,
+          "score": 0.98
+        },
+        {
+          "word": "it",
+          "startSec": 27.62,
+          "endSec": 27.8,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 27.8,
+          "endSec": 27.96,
+          "score": 0.99
+        },
+        {
+          "word": "chat",
+          "startSec": 27.96,
+          "endSec": 28.2,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 28.2,
+          "endSec": 28.5,
+          "score": 1.0
+        },
+        {
+          "word": "friends,",
+          "startSec": 28.5,
+          "endSec": 28.94,
+          "score": 1.0
+        },
+        {
+          "word": "send",
+          "startSec": 28.94,
+          "endSec": 29.88,
+          "score": 0.99
+        },
+        {
+          "word": "messages,",
+          "startSec": 29.88,
+          "endSec": 30.46,
+          "score": 0.99
+        },
+        {
+          "word": "make",
+          "startSec": 31.08,
+          "endSec": 31.3,
+          "score": 1.0
+        },
+        {
+          "word": "calls,",
+          "startSec": 31.3,
+          "endSec": 31.76,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 31.8,
+          "endSec": 32.26,
+          "score": 0.99
+        },
+        {
+          "word": "share",
+          "startSec": 32.26,
+          "endSec": 32.54,
+          "score": 1.0
+        },
+        {
+          "word": "pictures",
+          "startSec": 32.54,
+          "endSec": 32.98,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 32.98,
+          "endSec": 33.32,
+          "score": 0.99
+        },
+        {
+          "word": "videos.",
+          "startSec": 33.32,
+          "endSec": 33.7,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 36.37,
+      "end": 39.64,
+      "text": "But what if you need to use WhatsApp in English?",
+      "words": [
+        {
+          "word": "But",
+          "startSec": 36.47,
+          "endSec": 36.69,
+          "score": 0.97
+        },
+        {
+          "word": "what",
+          "startSec": 36.69,
+          "endSec": 36.93,
+          "score": 0.96
+        },
+        {
+          "word": "if",
+          "startSec": 36.93,
+          "endSec": 37.15,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 37.15,
+          "endSec": 37.31,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 37.31,
+          "endSec": 37.51,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 37.51,
+          "endSec": 37.73,
+          "score": 1.0
+        },
+        {
+          "word": "use",
+          "startSec": 37.73,
+          "endSec": 38.03,
+          "score": 1.0
+        },
+        {
+          "word": "WhatsApp",
+          "startSec": 38.03,
+          "endSec": 38.43,
+          "score": 0.85
+        },
+        {
+          "word": "in",
+          "startSec": 38.43,
+          "endSec": 39.03,
+          "score": 0.99
+        },
+        {
+          "word": "English?",
+          "startSec": 39.03,
+          "endSec": 39.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 40.8,
+      "end": 46.55,
+      "text": "Sometimes we have to message an English-speaking friend, colleague, or customer.",
+      "words": [
+        {
+          "word": "Sometimes",
+          "startSec": 40.9,
+          "endSec": 41.62,
+          "score": 0.99
+        },
+        {
+          "word": "we",
+          "startSec": 41.62,
+          "endSec": 42.12,
+          "score": 0.77
+        },
+        {
+          "word": "have",
+          "startSec": 42.12,
+          "endSec": 42.36,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 42.36,
+          "endSec": 42.58,
+          "score": 1.0
+        },
+        {
+          "word": "message",
+          "startSec": 42.58,
+          "endSec": 42.9,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 42.9,
+          "endSec": 43.26,
+          "score": 0.98
+        },
+        {
+          "word": "English",
+          "startSec": 43.26,
+          "endSec": 43.64,
+          "score": 1.0
+        },
+        {
+          "word": "-speaking",
+          "startSec": 43.64,
+          "endSec": 43.98,
+          "score": 0.8
+        },
+        {
+          "word": "friend,",
+          "startSec": 43.98,
+          "endSec": 44.56,
+          "score": 1.0
+        },
+        {
+          "word": "colleague,",
+          "startSec": 45.14,
+          "endSec": 45.38,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 45.82,
+          "endSec": 45.94,
+          "score": 1.0
+        },
+        {
+          "word": "customer.",
+          "startSec": 45.94,
+          "endSec": 46.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 47.65,
+      "end": 51.64,
+      "text": "Maybe you are learning English and want to practice chatting.",
+      "words": [
+        {
+          "word": "Maybe",
+          "startSec": 47.75,
+          "endSec": 48.25,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 48.25,
+          "endSec": 48.57,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 48.57,
+          "endSec": 48.67,
+          "score": 0.88
+        },
+        {
+          "word": "learning",
+          "startSec": 48.67,
+          "endSec": 48.95,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 48.95,
+          "endSec": 49.51,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 49.51,
+          "endSec": 50.21,
+          "score": 0.94
+        },
+        {
+          "word": "want",
+          "startSec": 50.21,
+          "endSec": 50.43,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 50.43,
+          "endSec": 50.63,
+          "score": 1.0
+        },
+        {
+          "word": "practice",
+          "startSec": 50.63,
+          "endSec": 51.07,
+          "score": 1.0
+        },
+        {
+          "word": "chatting.",
+          "startSec": 51.07,
+          "endSec": 51.49,
+          "score": 0.99
+        }
+      ]
+    }
+  ]
+}

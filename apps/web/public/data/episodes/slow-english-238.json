@@ -1,0 +1,439 @@
+{
+  "episodeId": "slow-english-ep-238",
+  "episodeNumber": 238,
+  "title": "Slow English Podcast #238: Luang Prabang",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-21/409657509-44100-2-4b73898d8f97a.mp3",
+  "duration": 424.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.87,
+      "text": "Hello, everyone.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 0.0,
+          "endSec": 0.12,
+          "score": 0.84
+        },
+        {
+          "word": "everyone.",
+          "startSec": 0.36,
+          "endSec": 0.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.54,
+      "end": 4.07,
+      "text": "Welcome to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Welcome",
+          "startSec": 1.64,
+          "endSec": 2.24,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 2.24,
+          "endSec": 2.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 2.56,
+          "endSec": 2.72,
+          "score": 0.98
+        },
+        {
+          "word": "Slow",
+          "startSec": 2.72,
+          "endSec": 2.98,
+          "score": 0.83
+        },
+        {
+          "word": "English",
+          "startSec": 2.98,
+          "endSec": 3.38,
+          "score": 0.95
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 3.38,
+          "endSec": 3.92,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.0,
+      "end": 6.13,
+      "text": "I am Emily.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 5.1,
+          "endSec": 5.44,
+          "score": 0.99
+        },
+        {
+          "word": "am",
+          "startSec": 5.44,
+          "endSec": 5.64,
+          "score": 0.97
+        },
+        {
+          "word": "Emily.",
+          "startSec": 5.64,
+          "endSec": 5.98,
+          "score": 0.26
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.38,
+      "end": 9.43,
+      "text": "Today, we will talk about Luang Prabang.",
+      "words": [
+        {
+          "word": "Today,",
+          "startSec": 6.48,
+          "endSec": 6.8,
+          "score": 1.0
+        },
+        {
+          "word": "we",
+          "startSec": 6.82,
+          "endSec": 7.24,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 7.24,
+          "endSec": 7.46,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 7.46,
+          "endSec": 7.76,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 7.76,
+          "endSec": 8.16,
+          "score": 1.0
+        },
+        {
+          "word": "Luang",
+          "startSec": 8.16,
+          "endSec": 8.74,
+          "score": 0.8
+        },
+        {
+          "word": "Prabang.",
+          "startSec": 8.74,
+          "endSec": 9.28,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.9,
+      "end": 15.03,
+      "text": "Luang Prabang is a city in Laos in Southeast Asia.",
+      "words": [
+        {
+          "word": "Luang",
+          "startSec": 10.0,
+          "endSec": 10.66,
+          "score": 0.98
+        },
+        {
+          "word": "Prabang",
+          "startSec": 10.66,
+          "endSec": 11.28,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 11.28,
+          "endSec": 11.62,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 11.62,
+          "endSec": 11.82,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 11.82,
+          "endSec": 12.22,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 12.22,
+          "endSec": 12.58,
+          "score": 0.99
+        },
+        {
+          "word": "Laos",
+          "startSec": 12.58,
+          "endSec": 12.94,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 12.94,
+          "endSec": 13.52,
+          "score": 0.48
+        },
+        {
+          "word": "Southeast",
+          "startSec": 13.52,
+          "endSec": 13.96,
+          "score": 0.96
+        },
+        {
+          "word": "Asia.",
+          "startSec": 13.96,
+          "endSec": 14.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.28,
+      "end": 19.29,
+      "text": "It is famous for its temples, mountains,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 15.38,
+          "endSec": 15.92,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 15.92,
+          "endSec": 16.06,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 16.06,
+          "endSec": 16.46,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 16.46,
+          "endSec": 16.98,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 16.98,
+          "endSec": 17.24,
+          "score": 0.98
+        },
+        {
+          "word": "temples,",
+          "startSec": 17.24,
+          "endSec": 17.82,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 18.54,
+          "endSec": 19.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.86,
+      "end": 21.15,
+      "text": "and peaceful life.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 19.96,
+          "endSec": 20.0,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 20.0,
+          "endSec": 20.4,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 20.4,
+          "endSec": 21.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.07,
+      "end": 26.06,
+      "text": "The city is small, quiet, and very beautiful.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 22.17,
+          "endSec": 22.39,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 22.39,
+          "endSec": 22.71,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 22.71,
+          "endSec": 23.05,
+          "score": 1.0
+        },
+        {
+          "word": "small,",
+          "startSec": 23.05,
+          "endSec": 23.59,
+          "score": 1.0
+        },
+        {
+          "word": "quiet,",
+          "startSec": 24.05,
+          "endSec": 24.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 24.93,
+          "endSec": 25.13,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 25.13,
+          "endSec": 25.37,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful.",
+          "startSec": 25.37,
+          "endSec": 25.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 26.78,
+      "end": 30.63,
+      "text": "People enjoy walking along the Mekong River",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 26.88,
+          "endSec": 27.44,
+          "score": 0.13
+        },
+        {
+          "word": "enjoy",
+          "startSec": 27.44,
+          "endSec": 28.04,
+          "score": 0.99
+        },
+        {
+          "word": "walking",
+          "startSec": 28.04,
+          "endSec": 28.9,
+          "score": 1.0
+        },
+        {
+          "word": "along",
+          "startSec": 28.9,
+          "endSec": 29.3,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 29.3,
+          "endSec": 29.6,
+          "score": 0.99
+        },
+        {
+          "word": "Mekong",
+          "startSec": 29.6,
+          "endSec": 30.14,
+          "score": 0.98
+        },
+        {
+          "word": "River",
+          "startSec": 30.14,
+          "endSec": 30.48,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 30.38,
+      "end": 32.77,
+      "text": "and visiting old temples.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 30.48,
+          "endSec": 31.12,
+          "score": 0.97
+        },
+        {
+          "word": "visiting",
+          "startSec": 31.12,
+          "endSec": 31.62,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 31.62,
+          "endSec": 32.16,
+          "score": 0.74
+        },
+        {
+          "word": "temples.",
+          "startSec": 32.16,
+          "endSec": 32.62,
+          "score": 0.99
+        }
+      ]
+    }
+  ]
+}

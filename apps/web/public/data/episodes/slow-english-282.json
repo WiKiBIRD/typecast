@@ -1,0 +1,823 @@
+{
+  "episodeId": "slow-english-ep-282",
+  "episodeNumber": 282,
+  "title": "Slow English Podcast #282: Kerman - Iran 🇮🇷",
+  "seriesId": "slow-english",
+  "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-6/413880603-44100-2-47aab005fb13b.mp3",
+  "duration": 395.0,
+  "processedAt": "2026-10-14T03:30:00Z",
+  "whisperModel": "base.en",
+  "creator": {
+    "name": "Slow English Podcast With Emilie",
+    "supportUrl": "https://slow-english-podcast.myshopify.com",
+    "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.28,
+      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emily, your host.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 0.05,
+          "endSec": 0.49,
+          "score": 0.77
+        },
+        {
+          "word": "everyone.",
+          "startSec": 0.71,
+          "endSec": 1.23,
+          "score": 0.98
+        },
+        {
+          "word": "Welcome",
+          "startSec": 2.65,
+          "endSec": 2.65,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 2.65,
+          "endSec": 2.99,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 2.99,
+          "endSec": 3.17,
+          "score": 0.96
+        },
+        {
+          "word": "Slow",
+          "startSec": 3.17,
+          "endSec": 3.47,
+          "score": 0.84
+        },
+        {
+          "word": "English",
+          "startSec": 3.47,
+          "endSec": 3.85,
+          "score": 0.9
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 3.85,
+          "endSec": 4.51,
+          "score": 0.85
+        },
+        {
+          "word": "I",
+          "startSec": 5.31,
+          "endSec": 5.51,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 5.51,
+          "endSec": 5.73,
+          "score": 0.95
+        },
+        {
+          "word": "Emily,",
+          "startSec": 5.73,
+          "endSec": 6.15,
+          "score": 0.44
+        },
+        {
+          "word": "your",
+          "startSec": 6.57,
+          "endSec": 6.69,
+          "score": 0.99
+        },
+        {
+          "word": "host.",
+          "startSec": 6.69,
+          "endSec": 7.13,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.34,
+      "end": 18.75,
+      "text": "Today, we visit Karaman, a historic city in Iran. Karaman is in the southeast of the country.",
+      "words": [
+        {
+          "word": "Today,",
+          "startSec": 8.44,
+          "endSec": 9.12,
+          "score": 0.98
+        },
+        {
+          "word": "we",
+          "startSec": 9.62,
+          "endSec": 9.84,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 9.84,
+          "endSec": 10.3,
+          "score": 0.99
+        },
+        {
+          "word": "Karaman,",
+          "startSec": 10.3,
+          "endSec": 11.04,
+          "score": 0.47
+        },
+        {
+          "word": "a",
+          "startSec": 11.44,
+          "endSec": 11.66,
+          "score": 0.99
+        },
+        {
+          "word": "historic",
+          "startSec": 11.66,
+          "endSec": 12.2,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 12.2,
+          "endSec": 13.0,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 13.0,
+          "endSec": 13.44,
+          "score": 1.0
+        },
+        {
+          "word": "Iran.",
+          "startSec": 13.44,
+          "endSec": 13.76,
+          "score": 0.99
+        },
+        {
+          "word": "Karaman",
+          "startSec": 15.3,
+          "endSec": 15.98,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 15.98,
+          "endSec": 16.42,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 16.42,
+          "endSec": 16.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 16.66,
+          "endSec": 16.82,
+          "score": 1.0
+        },
+        {
+          "word": "southeast",
+          "startSec": 16.82,
+          "endSec": 17.36,
+          "score": 0.6
+        },
+        {
+          "word": "of",
+          "startSec": 17.36,
+          "endSec": 17.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 17.86,
+          "endSec": 18.04,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 18.04,
+          "endSec": 18.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 19.52,
+      "end": 25.83,
+      "text": "It is famous for its desert, old buildings, and kind people.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 19.62,
+          "endSec": 19.94,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 19.94,
+          "endSec": 20.1,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 20.1,
+          "endSec": 20.58,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 20.58,
+          "endSec": 21.14,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 21.14,
+          "endSec": 21.38,
+          "score": 0.97
+        },
+        {
+          "word": "desert,",
+          "startSec": 21.38,
+          "endSec": 22.1,
+          "score": 0.98
+        },
+        {
+          "word": "old",
+          "startSec": 22.68,
+          "endSec": 22.94,
+          "score": 0.97
+        },
+        {
+          "word": "buildings,",
+          "startSec": 22.94,
+          "endSec": 23.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 24.0,
+          "endSec": 24.52,
+          "score": 1.0
+        },
+        {
+          "word": "kind",
+          "startSec": 24.52,
+          "endSec": 24.88,
+          "score": 0.99
+        },
+        {
+          "word": "people.",
+          "startSec": 24.88,
+          "endSec": 25.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 25.58,
+      "end": 35.61,
+      "text": "Let's explore Karaman together. Part 2. Where is Karaman?",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 25.68,
+          "endSec": 27.18,
+          "score": 0.8
+        },
+        {
+          "word": "explore",
+          "startSec": 27.28,
+          "endSec": 27.88,
+          "score": 0.99
+        },
+        {
+          "word": "Karaman",
+          "startSec": 27.88,
+          "endSec": 28.74,
+          "score": 0.06
+        },
+        {
+          "word": "together.",
+          "startSec": 28.74,
+          "endSec": 29.36,
+          "score": 0.89
+        },
+        {
+          "word": "Part",
+          "startSec": 31.97,
+          "endSec": 32.35,
+          "score": 0.93
+        },
+        {
+          "word": "2.",
+          "startSec": 32.35,
+          "endSec": 32.97,
+          "score": 0.6
+        },
+        {
+          "word": "Where",
+          "startSec": 34.1,
+          "endSec": 34.44,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 34.44,
+          "endSec": 34.78,
+          "score": 0.96
+        },
+        {
+          "word": "Karaman?",
+          "startSec": 34.78,
+          "endSec": 35.46,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 36.73,
+      "end": 42.9,
+      "text": "Karaman is close to the look desert, one of the hottest places on earth.",
+      "words": [
+        {
+          "word": "Karaman",
+          "startSec": 36.83,
+          "endSec": 37.59,
+          "score": 0.86
+        },
+        {
+          "word": "is",
+          "startSec": 37.59,
+          "endSec": 37.89,
+          "score": 1.0
+        },
+        {
+          "word": "close",
+          "startSec": 37.89,
+          "endSec": 38.21,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 38.21,
+          "endSec": 38.71,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 38.71,
+          "endSec": 38.89,
+          "score": 0.99
+        },
+        {
+          "word": "look",
+          "startSec": 38.89,
+          "endSec": 39.19,
+          "score": 0.12
+        },
+        {
+          "word": "desert,",
+          "startSec": 39.19,
+          "endSec": 39.79,
+          "score": 0.91
+        },
+        {
+          "word": "one",
+          "startSec": 40.31,
+          "endSec": 40.43,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 40.43,
+          "endSec": 40.59,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 40.59,
+          "endSec": 40.77,
+          "score": 0.99
+        },
+        {
+          "word": "hottest",
+          "startSec": 40.77,
+          "endSec": 41.19,
+          "score": 0.99
+        },
+        {
+          "word": "places",
+          "startSec": 41.19,
+          "endSec": 41.75,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 41.75,
+          "endSec": 42.33,
+          "score": 1.0
+        },
+        {
+          "word": "earth.",
+          "startSec": 42.33,
+          "endSec": 42.75,
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 43.85,
+      "end": 48.24,
+      "text": "The city is surrounded by mountains and dry lands.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 43.95,
+          "endSec": 44.13,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 44.13,
+          "endSec": 44.59,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 44.59,
+          "endSec": 44.89,
+          "score": 1.0
+        },
+        {
+          "word": "surrounded",
+          "startSec": 44.89,
+          "endSec": 45.37,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 45.37,
+          "endSec": 45.91,
+          "score": 1.0
+        },
+        {
+          "word": "mountains",
+          "startSec": 45.91,
+          "endSec": 46.55,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 46.55,
+          "endSec": 47.19,
+          "score": 0.98
+        },
+        {
+          "word": "dry",
+          "startSec": 47.19,
+          "endSec": 47.55,
+          "score": 0.99
+        },
+        {
+          "word": "lands.",
+          "startSec": 47.55,
+          "endSec": 48.09,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 49.81,
+      "end": 55.0,
+      "text": "It is far from Tehran and big cities, so life is calm.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 49.91,
+          "endSec": 50.05,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 50.05,
+          "endSec": 50.21,
+          "score": 0.99
+        },
+        {
+          "word": "far",
+          "startSec": 50.21,
+          "endSec": 50.59,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 50.59,
+          "endSec": 51.09,
+          "score": 1.0
+        },
+        {
+          "word": "Tehran",
+          "startSec": 51.09,
+          "endSec": 51.45,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 51.45,
+          "endSec": 52.09,
+          "score": 0.9
+        },
+        {
+          "word": "big",
+          "startSec": 52.09,
+          "endSec": 52.39,
+          "score": 0.98
+        },
+        {
+          "word": "cities,",
+          "startSec": 52.39,
+          "endSec": 52.85,
+          "score": 0.95
+        },
+        {
+          "word": "so",
+          "startSec": 53.53,
+          "endSec": 53.69,
+          "score": 1.0
+        },
+        {
+          "word": "life",
+          "startSec": 53.69,
+          "endSec": 54.03,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 54.03,
+          "endSec": 54.41,
+          "score": 0.99
+        },
+        {
+          "word": "calm.",
+          "startSec": 54.41,
+          "endSec": 54.85,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 54.75,
+      "end": 64.32,
+      "text": "Karaman is large in area, but not crowded. Part 3. History of Karaman.",
+      "words": [
+        {
+          "word": "Karaman",
+          "startSec": 54.85,
+          "endSec": 56.47,
+          "score": 0.02
+        },
+        {
+          "word": "is",
+          "startSec": 56.7,
+          "endSec": 57.14,
+          "score": 0.82
+        },
+        {
+          "word": "large",
+          "startSec": 57.14,
+          "endSec": 57.6,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 57.6,
+          "endSec": 58.06,
+          "score": 0.98
+        },
+        {
+          "word": "area,",
+          "startSec": 58.06,
+          "endSec": 58.52,
+          "score": 0.85
+        },
+        {
+          "word": "but",
+          "startSec": 59.22,
+          "endSec": 59.28,
+          "score": 0.99
+        },
+        {
+          "word": "not",
+          "startSec": 59.28,
+          "endSec": 59.6,
+          "score": 1.0
+        },
+        {
+          "word": "crowded.",
+          "startSec": 59.6,
+          "endSec": 60.34,
+          "score": 1.0
+        },
+        {
+          "word": "Part",
+          "startSec": 61.29,
+          "endSec": 61.45,
+          "score": 0.86
+        },
+        {
+          "word": "3.",
+          "startSec": 61.45,
+          "endSec": 62.17,
+          "score": 0.68
+        },
+        {
+          "word": "History",
+          "startSec": 63.19,
+          "endSec": 63.19,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 63.19,
+          "endSec": 63.53,
+          "score": 0.98
+        },
+        {
+          "word": "Karaman.",
+          "startSec": 63.53,
+          "endSec": 64.17,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 65.47,
+      "end": 73.77,
+      "text": "Karaman has a very long history. It is more than 2000 years old.",
+      "words": [
+        {
+          "word": "Karaman",
+          "startSec": 65.57,
+          "endSec": 66.31,
+          "score": 0.84
+        },
+        {
+          "word": "has",
+          "startSec": 66.31,
+          "endSec": 66.69,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 66.69,
+          "endSec": 66.95,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 66.95,
+          "endSec": 67.33,
+          "score": 0.99
+        },
+        {
+          "word": "long",
+          "startSec": 67.33,
+          "endSec": 67.87,
+          "score": 1.0
+        },
+        {
+          "word": "history.",
+          "startSec": 67.87,
+          "endSec": 68.45,
+          "score": 1.0
+        },
+        {
+          "word": "It",
+          "startSec": 70.22,
+          "endSec": 70.36,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 70.36,
+          "endSec": 70.54,
+          "score": 0.97
+        },
+        {
+          "word": "more",
+          "startSec": 70.54,
+          "endSec": 70.88,
+          "score": 1.0
+        },
+        {
+          "word": "than",
+          "startSec": 70.88,
+          "endSec": 71.18,
+          "score": 0.99
+        },
+        {
+          "word": "2000",
+          "startSec": 71.18,
+          "endSec": 71.74,
+          "score": 0.52
+        },
+        {
+          "word": "years",
+          "startSec": 71.74,
+          "endSec": 73.0,
+          "score": 0.98
+        },
+        {
+          "word": "old.",
+          "startSec": 73.0,
+          "endSec": 73.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 74.6,
+      "end": 81.85,
+      "text": "Many kings, traitors, and travelers visited Karaman in the past.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 74.7,
+          "endSec": 75.02,
+          "score": 0.98
+        },
+        {
+          "word": "kings,",
+          "startSec": 75.02,
+          "endSec": 75.72,
+          "score": 0.92
+        },
+        {
+          "word": "traitors,",
+          "startSec": 76.46,
+          "endSec": 77.32,
+          "score": 0.83
+        },
+        {
+          "word": "and",
+          "startSec": 78.08,
+          "endSec": 78.2,
+          "score": 0.99
+        },
+        {
+          "word": "travelers",
+          "startSec": 78.2,
+          "endSec": 78.9,
+          "score": 0.95
+        },
+        {
+          "word": "visited",
+          "startSec": 78.9,
+          "endSec": 79.86,
+          "score": 0.99
+        },
+        {
+          "word": "Karaman",
+          "startSec": 79.86,
+          "endSec": 80.72,
+          "score": 0.85
+        },
+        {
+          "word": "in",
+          "startSec": 80.72,
+          "endSec": 81.04,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 81.04,
+          "endSec": 81.24,
+          "score": 1.0
+        },
+        {
+          "word": "past.",
+          "startSec": 81.24,
+          "endSec": 81.7,
+          "score": 1.0
+        }
+      ]
+    }
+  ]
+}
