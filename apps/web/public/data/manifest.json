@@ -4,26 +4,3758 @@
       "id": "slow-english",
       "title": "Slow English Podcast With Emilie",
       "author": "Emilie",
-      "description": "慢速英语日常精听口语 · 词汇与句型沉浸训练",
+      "description": "慢速英语日常精听口语 · 词汇与句型沉浸训练 (全 375 期官方正版索引)",
       "avatarUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37452627/37452627-1698246473489-f5979f187a5aa.jpg",
       "episodes": [
         {
-          "id": "slow-english-ep-01",
+          "id": "slow-english-ep-001",
           "episodeNumber": 1,
-          "title": "Restaurant (如何餐厅点餐)",
+          "title": "Restaurant",
           "duration": 377.0,
           "dataFile": "/data/episodes/slow-english-01.json",
           "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-18/396799823-44100-2-f6c9ec84c6104.mp3",
-          "sentenceCount": 10
+          "sentenceCount": 10,
+          "ready": true
         },
         {
-          "id": "slow-english-ep-02",
+          "id": "slow-english-ep-002",
           "episodeNumber": 2,
-          "title": "Beach (海滩度假对话)",
-          "duration": 360.0,
+          "title": "Airport",
+          "duration": 467.0,
           "dataFile": "/data/episodes/slow-english-02.json",
-          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-18/396799823-44100-2-f6c9ec84c6104.mp3",
-          "sentenceCount": 10
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396855263-44100-2-241c56f8efe86.mp3",
+          "sentenceCount": 10,
+          "ready": true
+        },
+        {
+          "id": "slow-english-ep-003",
+          "episodeNumber": 3,
+          "title": "Supermarket",
+          "duration": 448.0,
+          "dataFile": "/data/episodes/slow-english-03.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396855413-44100-2-b4a1b7a8f544.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-004",
+          "episodeNumber": 4,
+          "title": "School",
+          "duration": 445.0,
+          "dataFile": "/data/episodes/slow-english-04.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396855521-44100-2-bd0eeac437f1d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-005",
+          "episodeNumber": 5,
+          "title": "Hospital",
+          "duration": 501.0,
+          "dataFile": "/data/episodes/slow-english-05.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396855850-44100-2-03ee88250ba8c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-006",
+          "episodeNumber": 6,
+          "title": "Whatsapp",
+          "duration": 477.0,
+          "dataFile": "/data/episodes/slow-english-06.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856046-44100-2-4a7ad39db4bfc.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-007",
+          "episodeNumber": 7,
+          "title": "Relationship",
+          "duration": 492.0,
+          "dataFile": "/data/episodes/slow-english-07.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856156-44100-2-63ff89dce0dc3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-008",
+          "episodeNumber": 8,
+          "title": "Train Station",
+          "duration": 499.0,
+          "dataFile": "/data/episodes/slow-english-08.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856279-44100-2-75411fe92b3fb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-009",
+          "episodeNumber": 9,
+          "title": "Passport and Visa",
+          "duration": 527.0,
+          "dataFile": "/data/episodes/slow-english-09.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856366-44100-2-80aa9d240acc4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-010",
+          "episodeNumber": 10,
+          "title": "Beach",
+          "duration": 466.0,
+          "dataFile": "/data/episodes/slow-english-10.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856456-44100-2-7386f6babb354.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-011",
+          "episodeNumber": 11,
+          "title": "Concert",
+          "duration": 477.0,
+          "dataFile": "/data/episodes/slow-english-11.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856561-44100-2-ed7602d2ed1ef.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-012",
+          "episodeNumber": 12,
+          "title": "Police Office",
+          "duration": 462.0,
+          "dataFile": "/data/episodes/slow-english-12.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856644-44100-2-daaec34f8cdbe.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-013",
+          "episodeNumber": 13,
+          "title": "Exam",
+          "duration": 705.0,
+          "dataFile": "/data/episodes/slow-english-13.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856768-44100-2-7b476bde3b83f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-014",
+          "episodeNumber": 14,
+          "title": "at Work",
+          "duration": 451.0,
+          "dataFile": "/data/episodes/slow-english-14.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856863-44100-2-de9526d276e32.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-015",
+          "episodeNumber": 15,
+          "title": "Bus Terminal",
+          "duration": 473.0,
+          "dataFile": "/data/episodes/slow-english-15.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396856964-44100-2-4ba28d951304f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-016",
+          "episodeNumber": 16,
+          "title": "Interview",
+          "duration": 438.0,
+          "dataFile": "/data/episodes/slow-english-16.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396857117-44100-2-1772368e6da2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-017",
+          "episodeNumber": 17,
+          "title": "Bank",
+          "duration": 489.0,
+          "dataFile": "/data/episodes/slow-english-17.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396857216-44100-2-028244d719001.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-018",
+          "episodeNumber": 18,
+          "title": "Coffee Shop",
+          "duration": 470.0,
+          "dataFile": "/data/episodes/slow-english-18.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396857383-44100-2-08e4e35dcd6e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-019",
+          "episodeNumber": 19,
+          "title": "Theatre",
+          "duration": 686.0,
+          "dataFile": "/data/episodes/slow-english-19.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396858292-44100-2-9cd3a5efa2704.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-020",
+          "episodeNumber": 20,
+          "title": "Cinema",
+          "duration": 645.0,
+          "dataFile": "/data/episodes/slow-english-20.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396858544-44100-2-d5cf199e1149e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-021",
+          "episodeNumber": 21,
+          "title": "Gym",
+          "duration": 645.0,
+          "dataFile": "/data/episodes/slow-english-21.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396858809-44100-2-718a8d247ffc1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-022",
+          "episodeNumber": 22,
+          "title": "Museum",
+          "duration": 527.0,
+          "dataFile": "/data/episodes/slow-english-22.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396858975-44100-2-1823b381d8fb8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-023",
+          "episodeNumber": 23,
+          "title": "Auction",
+          "duration": 403.0,
+          "dataFile": "/data/episodes/slow-english-23.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396859120-44100-2-d8ac137a483ea.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-024",
+          "episodeNumber": 24,
+          "title": "Book Store",
+          "duration": 486.0,
+          "dataFile": "/data/episodes/slow-english-24.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396859379-44100-2-ad053fbee9d3b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-025",
+          "episodeNumber": 25,
+          "title": "Traffic",
+          "duration": 353.0,
+          "dataFile": "/data/episodes/slow-english-25.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396859572-44100-2-0ebb4a967c08.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-026",
+          "episodeNumber": 26,
+          "title": "Shopping",
+          "duration": 464.0,
+          "dataFile": "/data/episodes/slow-english-26.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396859677-44100-2-28d549fe381ee.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-027",
+          "episodeNumber": 27,
+          "title": "Wedding",
+          "duration": 505.0,
+          "dataFile": "/data/episodes/slow-english-27.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396859903-44100-2-799d4fb99d179.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-028",
+          "episodeNumber": 28,
+          "title": "Courtroom",
+          "duration": 709.0,
+          "dataFile": "/data/episodes/slow-english-28.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860063-44100-2-10c39d812a64a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-029",
+          "episodeNumber": 29,
+          "title": "Hair Salon",
+          "duration": 630.0,
+          "dataFile": "/data/episodes/slow-english-29.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860208-44100-2-5086b0e826e9c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-030",
+          "episodeNumber": 30,
+          "title": "Funeral",
+          "duration": 465.0,
+          "dataFile": "/data/episodes/slow-english-30.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860395-44100-2-8866af4c5ec69.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-031",
+          "episodeNumber": 31,
+          "title": "First Dates",
+          "duration": 477.0,
+          "dataFile": "/data/episodes/slow-english-31.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860647-44100-2-e1d9d36aa3d7d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-032",
+          "episodeNumber": 32,
+          "title": "Greengrocer",
+          "duration": 298.0,
+          "dataFile": "/data/episodes/slow-english-32.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860732-44100-2-01128f6a778aa.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-033",
+          "episodeNumber": 33,
+          "title": "Bakery",
+          "duration": 281.0,
+          "dataFile": "/data/episodes/slow-english-33.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860847-44100-2-a89c6473aaaac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-034",
+          "episodeNumber": 34,
+          "title": "Hitchikking",
+          "duration": 279.0,
+          "dataFile": "/data/episodes/slow-english-34.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396860932-44100-2-de4b3337ce0a1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-035",
+          "episodeNumber": 35,
+          "title": "Dentist",
+          "duration": 482.0,
+          "dataFile": "/data/episodes/slow-english-35.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396861102-44100-2-30773fe7eafa2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-036",
+          "episodeNumber": 36,
+          "title": "Stadium",
+          "duration": 393.0,
+          "dataFile": "/data/episodes/slow-english-36.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396861204-44100-2-f04a7e6a1225c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-037",
+          "episodeNumber": 37,
+          "title": "Hobbies",
+          "duration": 380.0,
+          "dataFile": "/data/episodes/slow-english-37.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-19/396861295-44100-2-47bcbfab8bd6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-038",
+          "episodeNumber": 38,
+          "title": "Music",
+          "duration": 398.0,
+          "dataFile": "/data/episodes/slow-english-38.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397424415-44100-2-e53528b58aa98.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-039",
+          "episodeNumber": 39,
+          "title": "Rent a Car",
+          "duration": 438.0,
+          "dataFile": "/data/episodes/slow-english-39.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397425100-44100-2-9bda87a9d7d06.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-040",
+          "episodeNumber": 40,
+          "title": "Rental Apartment",
+          "duration": 510.0,
+          "dataFile": "/data/episodes/slow-english-40.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426123-44100-2-19d51cbc6df11.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-041",
+          "episodeNumber": 41,
+          "title": "Zodiac Sign",
+          "duration": 490.0,
+          "dataFile": "/data/episodes/slow-english-41.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426249-44100-2-2b6d763ed449a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-042",
+          "episodeNumber": 42,
+          "title": "Weather",
+          "duration": 477.0,
+          "dataFile": "/data/episodes/slow-english-42.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426568-44100-2-3e51cf690cc34.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-043",
+          "episodeNumber": 43,
+          "title": "Pharmacy",
+          "duration": 478.0,
+          "dataFile": "/data/episodes/slow-english-43.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426724-44100-2-b3eb1252b5ec1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-044",
+          "episodeNumber": 44,
+          "title": "Fashion",
+          "duration": 544.0,
+          "dataFile": "/data/episodes/slow-english-44.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426837-44100-2-fe529843ff4dd.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-045",
+          "episodeNumber": 45,
+          "title": "Bowling",
+          "duration": 482.0,
+          "dataFile": "/data/episodes/slow-english-45.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397426953-44100-2-12c2a8b8f9849.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-046",
+          "episodeNumber": 46,
+          "title": "Indonesia",
+          "duration": 419.0,
+          "dataFile": "/data/episodes/slow-english-46.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397427030-44100-2-74f26619db27a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-047",
+          "episodeNumber": 47,
+          "title": "Colombia",
+          "duration": 397.0,
+          "dataFile": "/data/episodes/slow-english-47.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397427111-44100-2-bbeccd2761426.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-048",
+          "episodeNumber": 48,
+          "title": "Algeria",
+          "duration": 266.0,
+          "dataFile": "/data/episodes/slow-english-48.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397427194-44100-2-2f40775eb45e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-049",
+          "episodeNumber": 49,
+          "title": "Andorra",
+          "duration": 358.0,
+          "dataFile": "/data/episodes/slow-english-49.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397427298-44100-2-8d61e9a6a70dd.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-050",
+          "episodeNumber": 50,
+          "title": "Angola",
+          "duration": 399.0,
+          "dataFile": "/data/episodes/slow-english-50.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-28/397427378-44100-2-a514c27056275.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-051",
+          "episodeNumber": 51,
+          "title": "Argentina",
+          "duration": 479.0,
+          "dataFile": "/data/episodes/slow-english-51.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397646682-44100-2-ebc9442b7542c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-052",
+          "episodeNumber": 52,
+          "title": "Australia",
+          "duration": 387.0,
+          "dataFile": "/data/episodes/slow-english-52.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397646810-44100-2-876684c496caf.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-053",
+          "episodeNumber": 53,
+          "title": "Austria",
+          "duration": 550.0,
+          "dataFile": "/data/episodes/slow-english-53.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397647162-44100-2-aaea5f501834a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-054",
+          "episodeNumber": 54,
+          "title": "Azerbaijan",
+          "duration": 440.0,
+          "dataFile": "/data/episodes/slow-english-54.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397647426-44100-2-1c1fbb1551ef4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-055",
+          "episodeNumber": 55,
+          "title": "Bahamas",
+          "duration": 399.0,
+          "dataFile": "/data/episodes/slow-english-55.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397647570-44100-2-f02455bc33fda.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-056",
+          "episodeNumber": 56,
+          "title": "Bahrain",
+          "duration": 353.0,
+          "dataFile": "/data/episodes/slow-english-56.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397647714-44100-2-ff026029128da.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-057",
+          "episodeNumber": 57,
+          "title": "Bangladesh",
+          "duration": 542.0,
+          "dataFile": "/data/episodes/slow-english-57.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397647822-44100-2-6819743e3f71e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-058",
+          "episodeNumber": 58,
+          "title": "Barbados",
+          "duration": 327.0,
+          "dataFile": "/data/episodes/slow-english-58.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397648077-44100-2-6de04041fa4a3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-059",
+          "episodeNumber": 59,
+          "title": "Belarus",
+          "duration": 453.0,
+          "dataFile": "/data/episodes/slow-english-59.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397648202-44100-2-81cf57f2f3d0c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-060",
+          "episodeNumber": 60,
+          "title": "Belgium",
+          "duration": 460.0,
+          "dataFile": "/data/episodes/slow-english-60.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-1/397648361-44100-2-f11d5bc4b4902.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-061",
+          "episodeNumber": 61,
+          "title": "United Arab Emirates",
+          "duration": 567.0,
+          "dataFile": "/data/episodes/slow-english-61.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-4/397845431-44100-2-062032a0a7345.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-062",
+          "episodeNumber": 62,
+          "title": "Belize",
+          "duration": 561.0,
+          "dataFile": "/data/episodes/slow-english-62.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-4/397845555-44100-2-bc464cc669cae.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-063",
+          "episodeNumber": 63,
+          "title": "Bolivia",
+          "duration": 483.0,
+          "dataFile": "/data/episodes/slow-english-63.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-4/397845663-44100-2-75eda7340488f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-064",
+          "episodeNumber": 64,
+          "title": "Bhutan",
+          "duration": 352.0,
+          "dataFile": "/data/episodes/slow-english-64.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-4/397845732-44100-2-d566b25bfd543.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-065",
+          "episodeNumber": 65,
+          "title": "Benin",
+          "duration": 540.0,
+          "dataFile": "/data/episodes/slow-english-65.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-4/397845866-44100-2-91ec5d5259c4b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-066",
+          "episodeNumber": 66,
+          "title": "Canada",
+          "duration": 392.0,
+          "dataFile": "/data/episodes/slow-english-66.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398430837-44100-2-f932df3624be4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-067",
+          "episodeNumber": 67,
+          "title": "Bosnia and Herzegovina",
+          "duration": 533.0,
+          "dataFile": "/data/episodes/slow-english-67.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398430922-44100-2-41fed72858f5b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-068",
+          "episodeNumber": 68,
+          "title": "Brazil",
+          "duration": 555.0,
+          "dataFile": "/data/episodes/slow-english-68.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398431651-44100-2-f0b67be77c053.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-069",
+          "episodeNumber": 69,
+          "title": "Brunei",
+          "duration": 402.0,
+          "dataFile": "/data/episodes/slow-english-69.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398432089-44100-2-9f3cceece246.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-070",
+          "episodeNumber": 70,
+          "title": "Bulgaria",
+          "duration": 536.0,
+          "dataFile": "/data/episodes/slow-english-70.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398432722-44100-2-8e02e8396f5d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-071",
+          "episodeNumber": 71,
+          "title": "Botswana",
+          "duration": 378.0,
+          "dataFile": "/data/episodes/slow-english-71.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398450774-44100-2-c6c4fb7ebbbf6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-072",
+          "episodeNumber": 72,
+          "title": "Burundi",
+          "duration": 367.0,
+          "dataFile": "/data/episodes/slow-english-72.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398452065-44100-2-0c9cfa1b8605b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-073",
+          "episodeNumber": 73,
+          "title": "Croatia",
+          "duration": 412.0,
+          "dataFile": "/data/episodes/slow-english-73.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398453802-44100-2-b32d308a16373.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-074",
+          "episodeNumber": 74,
+          "title": "Czechia",
+          "duration": 412.0,
+          "dataFile": "/data/episodes/slow-english-74.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398453910-44100-2-1a9ceb40d0b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-075",
+          "episodeNumber": 75,
+          "title": "Denmark",
+          "duration": 397.0,
+          "dataFile": "/data/episodes/slow-english-75.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398454383-44100-2-5b533e3ea8457.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-076",
+          "episodeNumber": 76,
+          "title": "Burkina Faso",
+          "duration": 521.0,
+          "dataFile": "/data/episodes/slow-english-76.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398454592-44100-2-1d6bed749818c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-077",
+          "episodeNumber": 77,
+          "title": "Dominican Republic",
+          "duration": 410.0,
+          "dataFile": "/data/episodes/slow-english-77.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398454771-44100-2-166433c147194.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-078",
+          "episodeNumber": 78,
+          "title": "Ecuador",
+          "duration": 423.0,
+          "dataFile": "/data/episodes/slow-english-78.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398454892-44100-2-cb22b59937bf6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-079",
+          "episodeNumber": 79,
+          "title": "Estonia",
+          "duration": 404.0,
+          "dataFile": "/data/episodes/slow-english-79.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398455024-44100-2-25ebf7511a2d4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-080",
+          "episodeNumber": 80,
+          "title": "Egypt",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-80.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-15/398455119-44100-2-79e2e912fce6e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-081",
+          "episodeNumber": 81,
+          "title": "Fiji",
+          "duration": 371.0,
+          "dataFile": "/data/episodes/slow-english-81.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-12/400080572-44100-2-aff9d3c2c1f8f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-082",
+          "episodeNumber": 82,
+          "title": "Finland",
+          "duration": 398.0,
+          "dataFile": "/data/episodes/slow-english-82.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-13/400149879-44100-2-b397735475e5f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-083",
+          "episodeNumber": 83,
+          "title": "France",
+          "duration": 394.0,
+          "dataFile": "/data/episodes/slow-english-83.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-13/400217041-44100-2-5e7e0bf0521b1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-084",
+          "episodeNumber": 84,
+          "title": "Lithuania",
+          "duration": 400.0,
+          "dataFile": "/data/episodes/slow-english-84.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-14/400248984-44100-2-629049c0dd7b1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-085",
+          "episodeNumber": 85,
+          "title": "Luxembourg",
+          "duration": 411.0,
+          "dataFile": "/data/episodes/slow-english-85.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-14/400250007-44100-2-09a85c1dfa324.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-086",
+          "episodeNumber": 86,
+          "title": "Mexico",
+          "duration": 430.0,
+          "dataFile": "/data/episodes/slow-english-86.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-14/400251123-44100-2-4a7040c760182.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-087",
+          "episodeNumber": 87,
+          "title": "Morocco",
+          "duration": 430.0,
+          "dataFile": "/data/episodes/slow-english-87.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-15/400322835-44100-2-9bdb9add9111c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-088",
+          "episodeNumber": 88,
+          "title": "The Nederlands",
+          "duration": 430.0,
+          "dataFile": "/data/episodes/slow-english-88.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-17/400454372-44100-2-c3d6b7d357df7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-089",
+          "episodeNumber": 89,
+          "title": "Nepal",
+          "duration": 434.0,
+          "dataFile": "/data/episodes/slow-english-89.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-17/400454404-44100-2-6cc9a85d307a7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-090",
+          "episodeNumber": 90,
+          "title": "Nigeria",
+          "duration": 417.0,
+          "dataFile": "/data/episodes/slow-english-90.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-17/400456063-44100-2-f70b7856a6d11.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-091",
+          "episodeNumber": 91,
+          "title": "Oman",
+          "duration": 437.0,
+          "dataFile": "/data/episodes/slow-english-91.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-18/400531261-44100-2-871e3a8b52f5f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-092",
+          "episodeNumber": 92,
+          "title": "Palestine",
+          "duration": 415.0,
+          "dataFile": "/data/episodes/slow-english-92.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-18/400531387-44100-2-f221fdf88531b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-093",
+          "episodeNumber": 93,
+          "title": "Panama",
+          "duration": 434.0,
+          "dataFile": "/data/episodes/slow-english-93.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-18/400531539-44100-2-7e627197ddc9f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-094",
+          "episodeNumber": 94,
+          "title": "Peru",
+          "duration": 423.0,
+          "dataFile": "/data/episodes/slow-english-94.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-18/400532270-44100-2-32c57f555f327.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-095",
+          "episodeNumber": 95,
+          "title": "Philippines",
+          "duration": 427.0,
+          "dataFile": "/data/episodes/slow-english-95.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-21/400717243-44100-2-1cadfd944abe4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-096",
+          "episodeNumber": 96,
+          "title": "Poland",
+          "duration": 458.0,
+          "dataFile": "/data/episodes/slow-english-96.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-21/400721350-44100-2-0d7a36be29116.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-097",
+          "episodeNumber": 97,
+          "title": "Senegal",
+          "duration": 394.0,
+          "dataFile": "/data/episodes/slow-english-97.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-27/401121117-44100-2-c84d2e8df8f54.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-098",
+          "episodeNumber": 98,
+          "title": "Portugal",
+          "duration": 411.0,
+          "dataFile": "/data/episodes/slow-english-98.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-27/401121436-44100-2-c35f8ad3d4afc.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-099",
+          "episodeNumber": 99,
+          "title": "Singapore",
+          "duration": 400.0,
+          "dataFile": "/data/episodes/slow-english-99.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-28/401121801-44100-2-e7635ccd14364.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-100",
+          "episodeNumber": 100,
+          "title": "Slovakia",
+          "duration": 400.0,
+          "dataFile": "/data/episodes/slow-english-100.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-28/401122114-44100-2-4f35c9d8dc992.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-101",
+          "episodeNumber": 101,
+          "title": "South Korea",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-101.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-1/401397260-44100-2-77b4615ddfb7a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-102",
+          "episodeNumber": 102,
+          "title": "Spain",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-102.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-1/401397634-44100-2-3f9a06491a299.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-103",
+          "episodeNumber": 103,
+          "title": "Switzerland",
+          "duration": 408.0,
+          "dataFile": "/data/episodes/slow-english-103.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-1/401397995-44100-2-26ca13d7a7c7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-104",
+          "episodeNumber": 104,
+          "title": "Sweden",
+          "duration": 399.0,
+          "dataFile": "/data/episodes/slow-english-104.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401522601-44100-2-d5142b62b4b23.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-105",
+          "episodeNumber": 105,
+          "title": "Thailand",
+          "duration": 396.0,
+          "dataFile": "/data/episodes/slow-english-105.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401523305-44100-2-c33f21ae33c56.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-106",
+          "episodeNumber": 106,
+          "title": "Turkey",
+          "duration": 401.0,
+          "dataFile": "/data/episodes/slow-english-106.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401524100-44100-2-cba5f07fc30f1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-107",
+          "episodeNumber": 107,
+          "title": "Gabon",
+          "duration": 411.0,
+          "dataFile": "/data/episodes/slow-english-107.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401586482-44100-2-8055800c775c3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-108",
+          "episodeNumber": 108,
+          "title": "Germany",
+          "duration": 498.0,
+          "dataFile": "/data/episodes/slow-english-108.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401587244-44100-2-d6bd86600423e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-109",
+          "episodeNumber": 109,
+          "title": "Greece",
+          "duration": 427.0,
+          "dataFile": "/data/episodes/slow-english-109.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401587978-44100-2-47590bb9723bb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-110",
+          "episodeNumber": 110,
+          "title": "India",
+          "duration": 459.0,
+          "dataFile": "/data/episodes/slow-english-110.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401588581-44100-2-6d29dfbbee385.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-111",
+          "episodeNumber": 111,
+          "title": "Ireland",
+          "duration": 427.0,
+          "dataFile": "/data/episodes/slow-english-111.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-5/401648449-44100-2-297a790fb821c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-112",
+          "episodeNumber": 112,
+          "title": "Iraq",
+          "duration": 453.0,
+          "dataFile": "/data/episodes/slow-english-112.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-5/401651242-44100-2-414f35433f343.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-113",
+          "episodeNumber": 113,
+          "title": "Ivory Coast",
+          "duration": 403.0,
+          "dataFile": "/data/episodes/slow-english-113.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-5/401653780-44100-2-7378e3326e65c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-114",
+          "episodeNumber": 114,
+          "title": "Japan",
+          "duration": 436.0,
+          "dataFile": "/data/episodes/slow-english-114.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-14/402167060-44100-2-b42096efb32bf.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-115",
+          "episodeNumber": 115,
+          "title": "Ukraine",
+          "duration": 423.0,
+          "dataFile": "/data/episodes/slow-english-115.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-14/402167479-44100-2-68169a2130157.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-116",
+          "episodeNumber": 116,
+          "title": "Jordan",
+          "duration": 418.0,
+          "dataFile": "/data/episodes/slow-english-116.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402203348-44100-2-818bf0629df0e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-117",
+          "episodeNumber": 117,
+          "title": "Vietnam",
+          "duration": 402.0,
+          "dataFile": "/data/episodes/slow-english-117.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402203558-44100-2-4e438a947f89d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-118",
+          "episodeNumber": 118,
+          "title": "United Kingdom",
+          "duration": 415.0,
+          "dataFile": "/data/episodes/slow-english-118.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402204032-44100-2-59cce1796ff8f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-119",
+          "episodeNumber": 119,
+          "title": "Armenia",
+          "duration": 391.0,
+          "dataFile": "/data/episodes/slow-english-119.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402204930-44100-2-3dfe983bd95ca.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-120",
+          "episodeNumber": 120,
+          "title": "Ethiopia",
+          "duration": 407.0,
+          "dataFile": "/data/episodes/slow-english-120.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402205223-44100-2-6836c6cb21711.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-121",
+          "episodeNumber": 121,
+          "title": "Eritrea",
+          "duration": 375.0,
+          "dataFile": "/data/episodes/slow-english-121.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402219763-44100-2-dc1035b767474.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-122",
+          "episodeNumber": 122,
+          "title": "El Salvador",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-122.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402219907-44100-2-b0238bc82aaac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-123",
+          "episodeNumber": 123,
+          "title": "Antigua and Barbuda",
+          "duration": 358.0,
+          "dataFile": "/data/episodes/slow-english-123.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220000-44100-2-ab8248657e362.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-124",
+          "episodeNumber": 124,
+          "title": "Ghana",
+          "duration": 394.0,
+          "dataFile": "/data/episodes/slow-english-124.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220129-44100-2-cfc8a751af0aa.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-125",
+          "episodeNumber": 125,
+          "title": "Guinea",
+          "duration": 396.0,
+          "dataFile": "/data/episodes/slow-english-125.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220239-44100-2-c7987427f8705.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-126",
+          "episodeNumber": 126,
+          "title": "South Afrika",
+          "duration": 424.0,
+          "dataFile": "/data/episodes/slow-english-126.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220372-44100-2-2515007a0b2de.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-127",
+          "episodeNumber": 127,
+          "title": "Haiti",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-127.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220471-44100-2-a6f6ce9d763ea.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-128",
+          "episodeNumber": 128,
+          "title": "Georgia",
+          "duration": 399.0,
+          "dataFile": "/data/episodes/slow-english-128.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402220630-44100-2-369da5b2aeb15.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-129",
+          "episodeNumber": 129,
+          "title": "Honduras",
+          "duration": 401.0,
+          "dataFile": "/data/episodes/slow-english-129.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402221549-44100-2-7c0a58b9b8857.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-130",
+          "episodeNumber": 130,
+          "title": "Iceland",
+          "duration": 385.0,
+          "dataFile": "/data/episodes/slow-english-130.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-15/402221684-44100-2-3f642e3a09f2d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-131",
+          "episodeNumber": 131,
+          "title": "Jamaica",
+          "duration": 362.0,
+          "dataFile": "/data/episodes/slow-english-131.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402943673-44100-2-16cf2b7971ed4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-132",
+          "episodeNumber": 132,
+          "title": "Cambodia",
+          "duration": 389.0,
+          "dataFile": "/data/episodes/slow-english-132.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402943857-44100-2-98799d74150a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-133",
+          "episodeNumber": 133,
+          "title": "Cameroon",
+          "duration": 413.0,
+          "dataFile": "/data/episodes/slow-english-133.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402944064-44100-2-eb20933e2c99e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-134",
+          "episodeNumber": 134,
+          "title": "Montenegro",
+          "duration": 402.0,
+          "dataFile": "/data/episodes/slow-english-134.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402944285-44100-2-ea23bfbfbe3d6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-135",
+          "episodeNumber": 135,
+          "title": "Kazakhstan",
+          "duration": 396.0,
+          "dataFile": "/data/episodes/slow-english-135.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402944574-44100-2-2046e26952a4a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-136",
+          "episodeNumber": 136,
+          "title": "Qatar",
+          "duration": 414.0,
+          "dataFile": "/data/episodes/slow-english-136.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402944868-44100-2-974d69a70bf3f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-137",
+          "episodeNumber": 137,
+          "title": "Kenya",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-137.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402945136-44100-2-ffbe633c9d3eb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-138",
+          "episodeNumber": 138,
+          "title": "Cyprus",
+          "duration": 391.0,
+          "dataFile": "/data/episodes/slow-english-138.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402945803-44100-2-5c9f92550d956.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-139",
+          "episodeNumber": 139,
+          "title": "Kyrgyzstan",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-139.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402945997-44100-2-6d5c9e5c689b9.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-140",
+          "episodeNumber": 140,
+          "title": "Kiribati",
+          "duration": 368.0,
+          "dataFile": "/data/episodes/slow-english-140.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-28/402946179-44100-2-12ae46f66b368.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-141",
+          "episodeNumber": 141,
+          "title": "Republic of Kongo",
+          "duration": 428.0,
+          "dataFile": "/data/episodes/slow-english-141.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403377767-44100-2-cd80fe511cb66.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-142",
+          "episodeNumber": 142,
+          "title": "Kosovo",
+          "duration": 370.0,
+          "dataFile": "/data/episodes/slow-english-142.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403377845-44100-2-4a62202e1a0d9.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-143",
+          "episodeNumber": 143,
+          "title": "Costa Rica",
+          "duration": 398.0,
+          "dataFile": "/data/episodes/slow-english-143.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403377899-44100-2-c3d9155375ba5.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-144",
+          "episodeNumber": 144,
+          "title": "Cuba",
+          "duration": 367.0,
+          "dataFile": "/data/episodes/slow-english-144.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403377998-44100-2-b778d33c6d981.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-145",
+          "episodeNumber": 145,
+          "title": "North Macedonia",
+          "duration": 379.0,
+          "dataFile": "/data/episodes/slow-english-145.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403378071-44100-2-7a09c3fb2cd89.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-146",
+          "episodeNumber": 146,
+          "title": "Laos",
+          "duration": 376.0,
+          "dataFile": "/data/episodes/slow-english-146.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403378119-44100-2-42230259288cb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-147",
+          "episodeNumber": 147,
+          "title": "Latvia",
+          "duration": 394.0,
+          "dataFile": "/data/episodes/slow-english-147.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403378511-44100-2-77f710909ea43.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-148",
+          "episodeNumber": 148,
+          "title": "Libya",
+          "duration": 387.0,
+          "dataFile": "/data/episodes/slow-english-148.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403378794-44100-2-34054c6cf3f0f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-149",
+          "episodeNumber": 149,
+          "title": "Liechtenstein",
+          "duration": 364.0,
+          "dataFile": "/data/episodes/slow-english-149.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403379018-44100-2-effde030dd16e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-150",
+          "episodeNumber": 150,
+          "title": "Lebanon",
+          "duration": 400.0,
+          "dataFile": "/data/episodes/slow-english-150.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-6/403379264-44100-2-77707458d5809.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-151",
+          "episodeNumber": 151,
+          "title": "Hungary",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-151.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-18/404166001-44100-2-c5e17f16f867d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-152",
+          "episodeNumber": 152,
+          "title": "Madagascar",
+          "duration": 383.0,
+          "dataFile": "/data/episodes/slow-english-152.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404166216-44100-2-b092c1e5ec0e6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-153",
+          "episodeNumber": 153,
+          "title": "Maldives",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-153.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404166672-44100-2-5d6e6e146251.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-154",
+          "episodeNumber": 154,
+          "title": "Malaysia",
+          "duration": 416.0,
+          "dataFile": "/data/episodes/slow-english-154.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404166948-44100-2-c2ca8ddfbfe04.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-155",
+          "episodeNumber": 155,
+          "title": "Mongolia",
+          "duration": 382.0,
+          "dataFile": "/data/episodes/slow-english-155.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404167235-44100-2-76a19938a1342.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-156",
+          "episodeNumber": 156,
+          "title": "Malta",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-156.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404167583-44100-2-c7819a3553c04.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-157",
+          "episodeNumber": 157,
+          "title": "Moldova",
+          "duration": 368.0,
+          "dataFile": "/data/episodes/slow-english-157.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404168030-44100-2-6cc1195d66b59.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-158",
+          "episodeNumber": 158,
+          "title": "Monaco",
+          "duration": 376.0,
+          "dataFile": "/data/episodes/slow-english-158.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404168480-44100-2-4586c3f8bcb87.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-159",
+          "episodeNumber": 159,
+          "title": "Mozambique",
+          "duration": 378.0,
+          "dataFile": "/data/episodes/slow-english-159.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404168703-44100-2-f25f7b38f7075.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-160",
+          "episodeNumber": 160,
+          "title": "Mauritania",
+          "duration": 396.0,
+          "dataFile": "/data/episodes/slow-english-160.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-19/404168908-44100-2-89dfd35d62eab.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-161",
+          "episodeNumber": 161,
+          "title": "Myanmar",
+          "duration": 391.0,
+          "dataFile": "/data/episodes/slow-english-161.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-28/404662320-44100-2-f3d33fbf70072.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-162",
+          "episodeNumber": 162,
+          "title": "Namibia",
+          "duration": 388.0,
+          "dataFile": "/data/episodes/slow-english-162.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-28/404662543-44100-2-a59a8638467e1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-163",
+          "episodeNumber": 163,
+          "title": "Nauru",
+          "duration": 373.0,
+          "dataFile": "/data/episodes/slow-english-163.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-28/404662944-44100-2-d8c751a151105.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-164",
+          "episodeNumber": 164,
+          "title": "Nicaragua",
+          "duration": 393.0,
+          "dataFile": "/data/episodes/slow-english-164.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-28/404663041-44100-2-a052804ecb143.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-165",
+          "episodeNumber": 165,
+          "title": "Slow English Podcast Wih Video #165 Niger",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-165.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404927911-44100-2-c42747c3b5855.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-166",
+          "episodeNumber": 166,
+          "title": "Norway",
+          "duration": 413.0,
+          "dataFile": "/data/episodes/slow-english-166.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404928008-44100-2-d87921dcdbe71.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-167",
+          "episodeNumber": 167,
+          "title": "Central African Republic",
+          "duration": 381.0,
+          "dataFile": "/data/episodes/slow-english-167.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404928139-44100-2-11ae3206509f4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-168",
+          "episodeNumber": 168,
+          "title": "Uzbekistan",
+          "duration": 405.0,
+          "dataFile": "/data/episodes/slow-english-168.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404928295-44100-2-29dc6a6414dd.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-169",
+          "episodeNumber": 169,
+          "title": "Mali",
+          "duration": 405.0,
+          "dataFile": "/data/episodes/slow-english-169.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404928402-44100-2-1e22da230aac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-170",
+          "episodeNumber": 170,
+          "title": "Papua New Guniea",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-170.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-1/404928464-44100-2-7308f84e584c2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-171",
+          "episodeNumber": 171,
+          "title": "Paraguay",
+          "duration": 328.0,
+          "dataFile": "/data/episodes/slow-english-171.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405254507-44100-2-64f63abf168a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-172",
+          "episodeNumber": 172,
+          "title": "Romania",
+          "duration": 386.0,
+          "dataFile": "/data/episodes/slow-english-172.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405254620-44100-2-222999e767191.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-173",
+          "episodeNumber": 173,
+          "title": "Rwanda",
+          "duration": 366.0,
+          "dataFile": "/data/episodes/slow-english-173.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405254705-44100-2-189e74efa415b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-174",
+          "episodeNumber": 174,
+          "title": "Russia",
+          "duration": 370.0,
+          "dataFile": "/data/episodes/slow-english-174.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405254817-44100-2-4a9ba2c77c3e9.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-175",
+          "episodeNumber": 175,
+          "title": "San Marino",
+          "duration": 370.0,
+          "dataFile": "/data/episodes/slow-english-175.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405254911-44100-2-94aaa7d7e136a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-176",
+          "episodeNumber": 176,
+          "title": "Serbia",
+          "duration": 391.0,
+          "dataFile": "/data/episodes/slow-english-176.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405255012-44100-2-f67fbdd0331ca.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-177",
+          "episodeNumber": 177,
+          "title": "Somalia",
+          "duration": 358.0,
+          "dataFile": "/data/episodes/slow-english-177.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405255109-44100-2-b3d9093c4a9d7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-178",
+          "episodeNumber": 178,
+          "title": "Slovenia",
+          "duration": 381.0,
+          "dataFile": "/data/episodes/slow-english-178.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405255162-44100-2-4c2d75f681286.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-179",
+          "episodeNumber": 179,
+          "title": "Sudan",
+          "duration": 375.0,
+          "dataFile": "/data/episodes/slow-english-179.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405255250-44100-2-bf979f850ae8d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-180",
+          "episodeNumber": 180,
+          "title": "Sri Lanka",
+          "duration": 415.0,
+          "dataFile": "/data/episodes/slow-english-180.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-7/405255318-44100-2-4839e4190b3cb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-181",
+          "episodeNumber": 181,
+          "title": "Suriname",
+          "duration": 379.0,
+          "dataFile": "/data/episodes/slow-english-181.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405909457-44100-2-22d013dd626d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-182",
+          "episodeNumber": 182,
+          "title": "Syria",
+          "duration": 397.0,
+          "dataFile": "/data/episodes/slow-english-182.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405910057-44100-2-83a10b205095e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-183",
+          "episodeNumber": 183,
+          "title": "Tajikistan",
+          "duration": 396.0,
+          "dataFile": "/data/episodes/slow-english-183.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405910975-44100-2-6f9b631f9b2cb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-184",
+          "episodeNumber": 184,
+          "title": "Chile",
+          "duration": 415.0,
+          "dataFile": "/data/episodes/slow-english-184.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405911381-44100-2-5df100aa8656a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-185",
+          "episodeNumber": 185,
+          "title": "Tanzania",
+          "duration": 372.0,
+          "dataFile": "/data/episodes/slow-english-185.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405911863-44100-2-2965c4eb20364.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-186",
+          "episodeNumber": 186,
+          "title": "Togo",
+          "duration": 361.0,
+          "dataFile": "/data/episodes/slow-english-186.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405912927-44100-2-f81f81e9fa3e4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-187",
+          "episodeNumber": 187,
+          "title": "Trinidad and Tobago",
+          "duration": 415.0,
+          "dataFile": "/data/episodes/slow-english-187.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405914648-44100-2-dc21ba345e638.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-188",
+          "episodeNumber": 188,
+          "title": "Tunisia",
+          "duration": 411.0,
+          "dataFile": "/data/episodes/slow-english-188.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405914710-44100-2-a25b7bc0f2be7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-189",
+          "episodeNumber": 189,
+          "title": "Turkmenistan",
+          "duration": 402.0,
+          "dataFile": "/data/episodes/slow-english-189.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405915119-44100-2-09e37b2ffcc85.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-190",
+          "episodeNumber": 190,
+          "title": "Uruguay",
+          "duration": 380.0,
+          "dataFile": "/data/episodes/slow-english-190.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405915563-44100-2-3dec07c9fa105.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-191",
+          "episodeNumber": 191,
+          "title": "Uganda",
+          "duration": 392.0,
+          "dataFile": "/data/episodes/slow-english-191.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405916222-44100-2-9fe0830ab9acd.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-192",
+          "episodeNumber": 192,
+          "title": "Venezuela",
+          "duration": 407.0,
+          "dataFile": "/data/episodes/slow-english-192.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405916487-44100-2-0ad5e9e16ffe1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-193",
+          "episodeNumber": 193,
+          "title": "Yemen",
+          "duration": 419.0,
+          "dataFile": "/data/episodes/slow-english-193.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405916870-44100-2-387d8ebc759b1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-194",
+          "episodeNumber": 194,
+          "title": "New Zealand",
+          "duration": 392.0,
+          "dataFile": "/data/episodes/slow-english-194.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405917306-44100-2-013efa50d9686.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-195",
+          "episodeNumber": 195,
+          "title": "Zambia",
+          "duration": 421.0,
+          "dataFile": "/data/episodes/slow-english-195.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405917605-44100-2-d5ffbd41b59af.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-196",
+          "episodeNumber": 196,
+          "title": "Zimbabwe",
+          "duration": 421.0,
+          "dataFile": "/data/episodes/slow-english-196.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405918122-44100-2-a23df38439f13.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-197",
+          "episodeNumber": 197,
+          "title": "İstanbul",
+          "duration": 280.0,
+          "dataFile": "/data/episodes/slow-english-197.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/406658257-44100-2-7d5f9cba30854.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-198",
+          "episodeNumber": 198,
+          "title": "New York",
+          "duration": 412.0,
+          "dataFile": "/data/episodes/slow-english-198.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/406658296-44100-2-bffe5898635a6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-199",
+          "episodeNumber": 199,
+          "title": "Milan",
+          "duration": 297.0,
+          "dataFile": "/data/episodes/slow-english-199.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/406658857-44100-2-cf7352c02d76b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-200",
+          "episodeNumber": 200,
+          "title": "Rio de Janeiro",
+          "duration": 407.0,
+          "dataFile": "/data/episodes/slow-english-200.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/406659290-44100-2-3a61d39a5fd17.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-201",
+          "episodeNumber": 201,
+          "title": "Hanoi",
+          "duration": 457.0,
+          "dataFile": "/data/episodes/slow-english-201.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-4/406923390-44100-2-668dbe79c001c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-202",
+          "episodeNumber": 202,
+          "title": "Tokyo",
+          "duration": 324.0,
+          "dataFile": "/data/episodes/slow-english-202.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-7/407067502-44100-2-2c82d3633bf75.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-203",
+          "episodeNumber": 203,
+          "title": "Athens",
+          "duration": 248.0,
+          "dataFile": "/data/episodes/slow-english-203.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-14/407478047-44100-2-ea0e0bad6c712.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-204",
+          "episodeNumber": 204,
+          "title": "Beijing",
+          "duration": 373.0,
+          "dataFile": "/data/episodes/slow-english-204.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-16/407586859-44100-2-acd7777a0cea8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-205",
+          "episodeNumber": 205,
+          "title": "Jaipur",
+          "duration": 394.0,
+          "dataFile": "/data/episodes/slow-english-205.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-16/407594538-44100-2-7483257cc880c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-206",
+          "episodeNumber": 206,
+          "title": "Mexico City",
+          "duration": 497.0,
+          "dataFile": "/data/episodes/slow-english-206.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-17/407684089-44100-2-7ce1d36d209a4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-207",
+          "episodeNumber": 207,
+          "title": "Nevada",
+          "duration": 524.0,
+          "dataFile": "/data/episodes/slow-english-207.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-18/407748981-44100-2-30f3dbdd9e0d7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-208",
+          "episodeNumber": 208,
+          "title": "Ontario",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-208.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407803394-44100-2-4bdb85631be9e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-209",
+          "episodeNumber": 209,
+          "title": "Marrakesh",
+          "duration": 280.0,
+          "dataFile": "/data/episodes/slow-english-209.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-22/407920177-44100-2-e2dfaa9923d09.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-210",
+          "episodeNumber": 210,
+          "title": "Dublin",
+          "duration": 268.0,
+          "dataFile": "/data/episodes/slow-english-210.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-23/407992731-44100-2-15ee133d7b038.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-211",
+          "episodeNumber": 211,
+          "title": "Cartagena",
+          "duration": 359.0,
+          "dataFile": "/data/episodes/slow-english-211.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-24/408062050-44100-2-30b7397dbbddb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-212",
+          "episodeNumber": 212,
+          "title": "İsfahan",
+          "duration": 242.0,
+          "dataFile": "/data/episodes/slow-english-212.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-24/408093462-44100-2-21d2cafe9c3b8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-213",
+          "episodeNumber": 213,
+          "title": "Bangkok",
+          "duration": 318.0,
+          "dataFile": "/data/episodes/slow-english-213.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-26/408188842-44100-2-892b7650d7b19.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-214",
+          "episodeNumber": 214,
+          "title": "San Sebastian",
+          "duration": 279.0,
+          "dataFile": "/data/episodes/slow-english-214.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-27/408240307-44100-2-6edef45215a97.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-215",
+          "episodeNumber": 215,
+          "title": "Dubrovnik",
+          "duration": 261.0,
+          "dataFile": "/data/episodes/slow-english-215.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-27/408251294-44100-2-5f1484cf1343.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-216",
+          "episodeNumber": 216,
+          "title": "Cancun",
+          "duration": 426.0,
+          "dataFile": "/data/episodes/slow-english-216.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-28/408294097-44100-2-c5e0758c865de.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-217",
+          "episodeNumber": 217,
+          "title": "Phnom Penh",
+          "duration": 749.0,
+          "dataFile": "/data/episodes/slow-english-217.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-29/408370802-44100-2-5c9d229d3efed.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-218",
+          "episodeNumber": 218,
+          "title": "Batumi",
+          "duration": 606.0,
+          "dataFile": "/data/episodes/slow-english-218.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-1/408481481-44100-2-921ad9955aced.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-219",
+          "episodeNumber": 219,
+          "title": "Seoul",
+          "duration": 620.0,
+          "dataFile": "/data/episodes/slow-english-219.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-2/408532135-44100-2-987c58857044b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-220",
+          "episodeNumber": 220,
+          "title": "Cairo",
+          "duration": 587.0,
+          "dataFile": "/data/episodes/slow-english-220.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-3/408626271-44100-2-6bd77beb6d028.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-221",
+          "episodeNumber": 221,
+          "title": "Madrid",
+          "duration": 630.0,
+          "dataFile": "/data/episodes/slow-english-221.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-4/408642987-44100-2-9abdc1db8faae.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-222",
+          "episodeNumber": 222,
+          "title": "Lisbon",
+          "duration": 833.0,
+          "dataFile": "/data/episodes/slow-english-222.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-7/408815686-44100-2-ad3514367c2fe.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-223",
+          "episodeNumber": 223,
+          "title": "Tashkent",
+          "duration": 798.0,
+          "dataFile": "/data/episodes/slow-english-223.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-7/408817987-44100-2-8976522de81be.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-224",
+          "episodeNumber": 224,
+          "title": "Astana",
+          "duration": 818.0,
+          "dataFile": "/data/episodes/slow-english-224.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-8/408914787-44100-2-626c4abdf10cb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-225",
+          "episodeNumber": 225,
+          "title": "Shiraz",
+          "duration": 819.0,
+          "dataFile": "/data/episodes/slow-english-225.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-8/408915392-44100-2-c3aa5b73b1915.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-226",
+          "episodeNumber": 226,
+          "title": "Izmir",
+          "duration": 696.0,
+          "dataFile": "/data/episodes/slow-english-226.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-10/409041967-44100-2-e793ffb90ce67.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-227",
+          "episodeNumber": 227,
+          "title": "Warsaw",
+          "duration": 698.0,
+          "dataFile": "/data/episodes/slow-english-227.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-10/409043007-44100-2-7fd5b94471b2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-228",
+          "episodeNumber": 228,
+          "title": "Bogota",
+          "duration": 684.0,
+          "dataFile": "/data/episodes/slow-english-228.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-10/409044251-44100-2-6c845fb269ca7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-229",
+          "episodeNumber": 229,
+          "title": "Baku",
+          "duration": 653.0,
+          "dataFile": "/data/episodes/slow-english-229.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-11/409087118-44100-2-4c56bc0529a61.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-230",
+          "episodeNumber": 230,
+          "title": "Venice",
+          "duration": 631.0,
+          "dataFile": "/data/episodes/slow-english-230.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-11/409087475-44100-2-6515d5500338d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-231",
+          "episodeNumber": 231,
+          "title": "Agra",
+          "duration": 607.0,
+          "dataFile": "/data/episodes/slow-english-231.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-11/409087641-44100-2-842ac6e135eb2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-232",
+          "episodeNumber": 232,
+          "title": "Stavanger",
+          "duration": 550.0,
+          "dataFile": "/data/episodes/slow-english-232.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-16/409350571-44100-2-0ddcb1476ef3a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-233",
+          "episodeNumber": 233,
+          "title": "Rovaniemi",
+          "duration": 539.0,
+          "dataFile": "/data/episodes/slow-english-233.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-17/409420137-44100-2-7d24f9a0be962.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-234",
+          "episodeNumber": 234,
+          "title": "Cusco",
+          "duration": 488.0,
+          "dataFile": "/data/episodes/slow-english-234.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-17/409452663-44100-2-dcd669640e4a7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-235",
+          "episodeNumber": 235,
+          "title": "Reykjavík",
+          "duration": 507.0,
+          "dataFile": "/data/episodes/slow-english-235.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-18/409511349-44100-2-fd4d2be3b37d7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-236",
+          "episodeNumber": 236,
+          "title": "Tallinn",
+          "duration": 461.0,
+          "dataFile": "/data/episodes/slow-english-236.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-19/409563233-44100-2-17032b2d13b0d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-237",
+          "episodeNumber": 237,
+          "title": "Valparaiso",
+          "duration": 438.0,
+          "dataFile": "/data/episodes/slow-english-237.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-21/409656929-44100-2-7c1b2bbc65924.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-238",
+          "episodeNumber": 238,
+          "title": "Luang Prabang",
+          "duration": 424.0,
+          "dataFile": "/data/episodes/slow-english-238.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-21/409657509-44100-2-4b73898d8f97a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-239",
+          "episodeNumber": 239,
+          "title": "Zanzibar",
+          "duration": 390.0,
+          "dataFile": "/data/episodes/slow-english-239.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-23/409800119-44100-2-01db2264f02b4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-240",
+          "episodeNumber": 240,
+          "title": "Sofia",
+          "duration": 366.0,
+          "dataFile": "/data/episodes/slow-english-240.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-23/409800445-44100-2-b5b8680af883.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-241",
+          "episodeNumber": 241,
+          "title": "Fes",
+          "duration": 338.0,
+          "dataFile": "/data/episodes/slow-english-241.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-23/409800740-44100-2-cc7631a2ef7a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-242",
+          "episodeNumber": 242,
+          "title": "Chiang Mai",
+          "duration": 493.0,
+          "dataFile": "/data/episodes/slow-english-242.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-25/409946862-44100-2-ee21bfc892eeb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-243",
+          "episodeNumber": 243,
+          "title": "Antigua",
+          "duration": 454.0,
+          "dataFile": "/data/episodes/slow-english-243.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-25/409947234-44100-2-7b029e9b00048.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-244",
+          "episodeNumber": 244,
+          "title": "Dakar",
+          "duration": 447.0,
+          "dataFile": "/data/episodes/slow-english-244.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-25/409947496-44100-2-727a120d36718.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-245",
+          "episodeNumber": 245,
+          "title": "Ljubljana",
+          "duration": 388.0,
+          "dataFile": "/data/episodes/slow-english-245.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-26/409971300-44100-2-230e08867f98f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-246",
+          "episodeNumber": 246,
+          "title": "Petra",
+          "duration": 389.0,
+          "dataFile": "/data/episodes/slow-english-246.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-26/409971442-44100-2-5574fe9cd10ce.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-247",
+          "episodeNumber": 247,
+          "title": "Valencia",
+          "duration": 427.0,
+          "dataFile": "/data/episodes/slow-english-247.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-31/410314103-44100-2-096a2114cd5ac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-248",
+          "episodeNumber": 248,
+          "title": "Nairobi",
+          "duration": 424.0,
+          "dataFile": "/data/episodes/slow-english-248.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-1/410375060-44100-2-1bb05b42516bd.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-249",
+          "episodeNumber": 249,
+          "title": "Kyoto",
+          "duration": 421.0,
+          "dataFile": "/data/episodes/slow-english-249.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-1/410375271-44100-2-85de959810d2d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-250",
+          "episodeNumber": 250,
+          "title": "Lima",
+          "duration": 431.0,
+          "dataFile": "/data/episodes/slow-english-250.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-1/410375425-44100-2-63c17b149a7f1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-251",
+          "episodeNumber": 251,
+          "title": "Cape Town",
+          "duration": 424.0,
+          "dataFile": "/data/episodes/slow-english-251.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-1/410375502-44100-2-40b986dc3b39a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-252",
+          "episodeNumber": 252,
+          "title": "Melbourne",
+          "duration": 450.0,
+          "dataFile": "/data/episodes/slow-english-252.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-5/410619930-44100-2-631cb7e0318e6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-253",
+          "episodeNumber": 253,
+          "title": "Riga",
+          "duration": 482.0,
+          "dataFile": "/data/episodes/slow-english-253.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-5/410620306-44100-2-479ce4c1db61e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-254",
+          "episodeNumber": 254,
+          "title": "Gent",
+          "duration": 430.0,
+          "dataFile": "/data/episodes/slow-english-254.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-5/410620550-44100-2-bfa1be26e1f11.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-255",
+          "episodeNumber": 255,
+          "title": "Accra",
+          "duration": 400.0,
+          "dataFile": "/data/episodes/slow-english-255.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-5/410620829-44100-2-06112cb5343df.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-256",
+          "episodeNumber": 256,
+          "title": "Minsk",
+          "duration": 389.0,
+          "dataFile": "/data/episodes/slow-english-256.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-5/410621139-44100-2-fdc0275fad5e7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-257",
+          "episodeNumber": 257,
+          "title": "Kigali",
+          "duration": 383.0,
+          "dataFile": "/data/episodes/slow-english-257.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-12/412311916-44100-2-1e15716076b65.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-258",
+          "episodeNumber": 258,
+          "title": "Maun",
+          "duration": 407.0,
+          "dataFile": "/data/episodes/slow-english-258.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-13/412379378-44100-2-bacf8773be769.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-259",
+          "episodeNumber": 259,
+          "title": "Ambon",
+          "duration": 356.0,
+          "dataFile": "/data/episodes/slow-english-259.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-13/412380418-44100-2-7b29e284efb37.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-260",
+          "episodeNumber": 260,
+          "title": "Sukhothai",
+          "duration": 362.0,
+          "dataFile": "/data/episodes/slow-english-260.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-13/412380516-44100-2-4e37f7f290dc3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-261",
+          "episodeNumber": 261,
+          "title": "Tawang",
+          "duration": 343.0,
+          "dataFile": "/data/episodes/slow-english-261.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-13/412380647-44100-2-505bcee4ff495.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-262",
+          "episodeNumber": 262,
+          "title": "Levoca",
+          "duration": 329.0,
+          "dataFile": "/data/episodes/slow-english-262.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-17/412605457-44100-2-ffe9b699a7c0c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-263",
+          "episodeNumber": 263,
+          "title": "Kuldiga",
+          "duration": 329.0,
+          "dataFile": "/data/episodes/slow-english-263.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-17/412605852-44100-2-08e4b923ae62.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-264",
+          "episodeNumber": 264,
+          "title": "Tamow",
+          "duration": 325.0,
+          "dataFile": "/data/episodes/slow-english-264.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-17/412668446-44100-2-8b3587b3f1712.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-265",
+          "episodeNumber": 265,
+          "title": "Sucre",
+          "duration": 327.0,
+          "dataFile": "/data/episodes/slow-english-265.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-17/412668617-44100-2-42b1c04dc7f8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-266",
+          "episodeNumber": 266,
+          "title": "Placencia",
+          "duration": 282.0,
+          "dataFile": "/data/episodes/slow-english-266.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-17/412669041-44100-2-3372a10973b69.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-267",
+          "episodeNumber": 267,
+          "title": "Gitega",
+          "duration": 297.0,
+          "dataFile": "/data/episodes/slow-english-267.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-22/412951157-44100-2-e433baff9b2a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-268",
+          "episodeNumber": 268,
+          "title": "Honiara",
+          "duration": 316.0,
+          "dataFile": "/data/episodes/slow-english-268.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-22/412951335-44100-2-5e5613f989368.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-269",
+          "episodeNumber": 269,
+          "title": "Dawei",
+          "duration": 282.0,
+          "dataFile": "/data/episodes/slow-english-269.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-22/412951499-44100-2-8f0673484731.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-270",
+          "episodeNumber": 270,
+          "title": "Salalah",
+          "duration": 290.0,
+          "dataFile": "/data/episodes/slow-english-270.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-22/412951650-44100-2-5f08ee665bf59.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-271",
+          "episodeNumber": 271,
+          "title": "Potosi",
+          "duration": 331.0,
+          "dataFile": "/data/episodes/slow-english-271.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-22/412951819-44100-2-11d838cca3ac6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-272",
+          "episodeNumber": 272,
+          "title": "Lecce",
+          "duration": 335.0,
+          "dataFile": "/data/episodes/slow-english-272.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-27/413261293-44100-2-f78cae530bed4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-273",
+          "episodeNumber": 273,
+          "title": "Bujumbura",
+          "duration": 290.0,
+          "dataFile": "/data/episodes/slow-english-273.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-27/413261367-44100-2-f0f55ce8c09fa.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-274",
+          "episodeNumber": 274,
+          "title": "Tartu",
+          "duration": 319.0,
+          "dataFile": "/data/episodes/slow-english-274.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-27/413261448-44100-2-1527e272ff41c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-275",
+          "episodeNumber": 275,
+          "title": "Galle",
+          "duration": 316.0,
+          "dataFile": "/data/episodes/slow-english-275.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-27/413261530-44100-2-dc26d82eb16f3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-276",
+          "episodeNumber": 276,
+          "title": "Lome",
+          "duration": 290.0,
+          "dataFile": "/data/episodes/slow-english-276.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-27/413261663-44100-2-1f07121e87139.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-277",
+          "episodeNumber": 277,
+          "title": "Cuenca",
+          "duration": 331.0,
+          "dataFile": "/data/episodes/slow-english-277.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-2/413578076-44100-2-f1fb1e3045bea.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-278",
+          "episodeNumber": 278,
+          "title": "Pecs",
+          "duration": 320.0,
+          "dataFile": "/data/episodes/slow-english-278.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-2/413578479-44100-2-2df6da295fdf4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-279",
+          "episodeNumber": 279,
+          "title": "Kotor",
+          "duration": 327.0,
+          "dataFile": "/data/episodes/slow-english-279.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-4/413722738-44100-2-b61c37339b2d8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-280",
+          "episodeNumber": 280,
+          "title": "Luoyang",
+          "duration": 338.0,
+          "dataFile": "/data/episodes/slow-english-280.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-4/413723188-44100-2-12703fb70edf9.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-281",
+          "episodeNumber": 281,
+          "title": "Goma",
+          "duration": 298.0,
+          "dataFile": "/data/episodes/slow-english-281.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-4/413723461-44100-2-bcbe8e62bc37a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-282",
+          "episodeNumber": 282,
+          "title": "Kerman - Iran 🇮🇷",
+          "duration": 395.0,
+          "dataFile": "/data/episodes/slow-english-282.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-6/413880603-44100-2-47aab005fb13b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-283",
+          "episodeNumber": 283,
+          "title": "San Cristobal",
+          "duration": 310.0,
+          "dataFile": "/data/episodes/slow-english-283.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-7/413937159-44100-2-acdf5871b112b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-284",
+          "episodeNumber": 284,
+          "title": "Hue - Vietnam 🇻🇳",
+          "duration": 310.0,
+          "dataFile": "/data/episodes/slow-english-284.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-9/414030327-44100-2-7065c7fc7adcf.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-285",
+          "episodeNumber": 285,
+          "title": "Fortaleza - Brazil 🇧🇷",
+          "duration": 305.0,
+          "dataFile": "/data/episodes/slow-english-285.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-9/414082606-44100-2-0f441c6dd434a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-286",
+          "episodeNumber": 286,
+          "title": "Utrecht - Nederlands 🇳🇱",
+          "duration": 293.0,
+          "dataFile": "/data/episodes/slow-english-286.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-11/414227075-44100-2-0ec25cc6bfe16.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-287",
+          "episodeNumber": 287,
+          "title": "Ganja - Azerbaijan 🇦🇿",
+          "duration": 273.0,
+          "dataFile": "/data/episodes/slow-english-287.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-11/414227519-44100-2-855efd840251a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-288",
+          "episodeNumber": 288,
+          "title": "Seattle - USA 🇺🇲",
+          "duration": 270.0,
+          "dataFile": "/data/episodes/slow-english-288.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-13/414327765-44100-2-8865d6b5db211.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-289",
+          "episodeNumber": 289,
+          "title": "Antalya - Turkey 🇹🇷",
+          "duration": 226.0,
+          "dataFile": "/data/episodes/slow-english-289.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-13/414332568-44100-2-e1ad33b5e111d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-290",
+          "episodeNumber": 290,
+          "title": "Arequipa - Peru 🇵🇪",
+          "duration": 366.0,
+          "dataFile": "/data/episodes/slow-english-290.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414444833-44100-2-7a01276387659.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-291",
+          "episodeNumber": 291,
+          "title": "Yogyakarta - Indonesia 🇮🇩",
+          "duration": 336.0,
+          "dataFile": "/data/episodes/slow-english-291.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414445695-44100-2-7a0c76d171d42.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-292",
+          "episodeNumber": 292,
+          "title": "Wroclaw - Poland 🇵🇱",
+          "duration": 386.0,
+          "dataFile": "/data/episodes/slow-english-292.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414446584-44100-2-cdcd6e3a0b2ac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-293",
+          "episodeNumber": 293,
+          "title": "Bologna - Italy 🇮🇹",
+          "duration": 318.0,
+          "dataFile": "/data/episodes/slow-english-293.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414447446-44100-2-18c05012aa668.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-294",
+          "episodeNumber": 294,
+          "title": "Heidelberg - Germany 🇩🇪",
+          "duration": 374.0,
+          "dataFile": "/data/episodes/slow-english-294.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-15/414448256-44100-2-d5595a2fb0148.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-295",
+          "episodeNumber": 295,
+          "title": "Aswan - Egypt 🇪🇬",
+          "duration": 339.0,
+          "dataFile": "/data/episodes/slow-english-295.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-19/414718349-44100-2-6bdab7e090bd1.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-296",
+          "episodeNumber": 296,
+          "title": "Granada - Spain 🇪🇸",
+          "duration": 356.0,
+          "dataFile": "/data/episodes/slow-english-296.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-19/414718657-44100-2-69669407e1c2d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-297",
+          "episodeNumber": 297,
+          "title": "Gyeongju - South Korea 🇰🇷",
+          "duration": 360.0,
+          "dataFile": "/data/episodes/slow-english-297.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-22/414821072-44100-2-d28880ab84c3f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-298",
+          "episodeNumber": 298,
+          "title": "Hobart - Australia",
+          "duration": 335.0,
+          "dataFile": "/data/episodes/slow-english-298.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-24/414970292-44100-2-6d98966e53c19.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-299",
+          "episodeNumber": 299,
+          "title": "Annecy - France",
+          "duration": 332.0,
+          "dataFile": "/data/episodes/slow-english-299.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-24/414970566-44100-2-6b88ad69c728e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-300",
+          "episodeNumber": 300,
+          "title": "Al Ain - BAE",
+          "duration": 343.0,
+          "dataFile": "/data/episodes/slow-english-300.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-28/415085379-44100-2-216df8fc3fe9d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-301",
+          "episodeNumber": 301,
+          "title": "Essaouira - Morocco",
+          "duration": 331.0,
+          "dataFile": "/data/episodes/slow-english-301.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-28/415085585-44100-2-35b372d2fbf0a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-302",
+          "episodeNumber": 302,
+          "title": "Lviv - Ukraine",
+          "duration": 334.0,
+          "dataFile": "/data/episodes/slow-english-302.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-28/415085803-44100-2-0646332f15705.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-303",
+          "episodeNumber": 303,
+          "title": "Yazd - Iran",
+          "duration": 331.0,
+          "dataFile": "/data/episodes/slow-english-303.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-28/415085979-44100-2-d52a84778919a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-304",
+          "episodeNumber": 304,
+          "title": "Salta - Argentina",
+          "duration": 343.0,
+          "dataFile": "/data/episodes/slow-english-304.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-28/415086139-44100-2-809ce76156f83.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-305",
+          "episodeNumber": 305,
+          "title": "Puerto Varas - Chile",
+          "duration": 323.0,
+          "dataFile": "/data/episodes/slow-english-305.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-3/415432084-44100-2-988c4b5ec7242.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-306",
+          "episodeNumber": 306,
+          "title": "Uppsala - Sweden",
+          "duration": 304.0,
+          "dataFile": "/data/episodes/slow-english-306.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-3/415432515-44100-2-410a0ceecd011.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-307",
+          "episodeNumber": 307,
+          "title": "Ghardaïa - Algeria",
+          "duration": 323.0,
+          "dataFile": "/data/episodes/slow-english-307.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-3/415433118-44100-2-379dd2e23a10a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-308",
+          "episodeNumber": 308,
+          "title": "Sibiu - Romania",
+          "duration": 303.0,
+          "dataFile": "/data/episodes/slow-english-308.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-3/415433440-44100-2-7fcfe0a1b2416.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-309",
+          "episodeNumber": 309,
+          "title": "Szeged - Hungary",
+          "duration": 257.0,
+          "dataFile": "/data/episodes/slow-english-309.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-3/415433792-44100-2-3cb7ee63f8f1a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-310",
+          "episodeNumber": 310,
+          "title": "Coimbra - Portugal",
+          "duration": 257.0,
+          "dataFile": "/data/episodes/slow-english-310.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-13/416067182-44100-2-f7f6172da6674.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-311",
+          "episodeNumber": 311,
+          "title": "Leuven - Belgium",
+          "duration": 252.0,
+          "dataFile": "/data/episodes/slow-english-311.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-19/416442313-44100-2-0c8a18b5abc63.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-312",
+          "episodeNumber": 312,
+          "title": "Galway - Ireland",
+          "duration": 254.0,
+          "dataFile": "/data/episodes/slow-english-312.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-19/416443007-44100-2-45ff0e0a2fe02.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-313",
+          "episodeNumber": 313,
+          "title": "Bratislava - Slovakia",
+          "duration": 337.0,
+          "dataFile": "/data/episodes/slow-english-313.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-19/416443539-44100-2-eb9b1c39b93c7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-314",
+          "episodeNumber": 314,
+          "title": "Plovdiv - Bulgaria",
+          "duration": 318.0,
+          "dataFile": "/data/episodes/slow-english-314.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-19/416443801-44100-2-4398919de1b34.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-315",
+          "episodeNumber": 315,
+          "title": "Split - Croatia",
+          "duration": 255.0,
+          "dataFile": "/data/episodes/slow-english-315.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-4/417422361-44100-2-edba315c685c4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-316",
+          "episodeNumber": 316,
+          "title": "Nafplio - Greece",
+          "duration": 253.0,
+          "dataFile": "/data/episodes/slow-english-316.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-9/417785809-44100-2-770e957e1a9e4.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-317",
+          "episodeNumber": 317,
+          "title": "Verona - Italy",
+          "duration": 241.0,
+          "dataFile": "/data/episodes/slow-english-317.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-9/417785968-44100-2-aa2b0a6e4512c.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-318",
+          "episodeNumber": 318,
+          "title": "Colmar - France",
+          "duration": 248.0,
+          "dataFile": "/data/episodes/slow-english-318.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-9/417786051-44100-2-591c69749f368.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-319",
+          "episodeNumber": 319,
+          "title": "Rothenburg ob der Tauber - Germany",
+          "duration": 249.0,
+          "dataFile": "/data/episodes/slow-english-319.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-9/417787202-44100-2-a8597dc22c673.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-320",
+          "episodeNumber": 320,
+          "title": "5 European Cities",
+          "duration": 1424.0,
+          "dataFile": "/data/episodes/slow-english-320.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-20/418514949-44100-2-742a9678ad8e8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-321",
+          "episodeNumber": 321,
+          "title": "4 African Cities",
+          "duration": 1743.0,
+          "dataFile": "/data/episodes/slow-english-321.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-23/418685652-44100-2-dfad3c7fc21fa.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-322",
+          "episodeNumber": 322,
+          "title": "Lamu - Kenya",
+          "duration": 372.0,
+          "dataFile": "/data/episodes/slow-english-322.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-3/419234589-44100-2-cf8fabb36ac45.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-323",
+          "episodeNumber": 323,
+          "title": "Gjirokastër - Albania",
+          "duration": 380.0,
+          "dataFile": "/data/episodes/slow-english-323.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-6/419457570-44100-2-2e462b9d6b503.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-324",
+          "episodeNumber": 324,
+          "title": "Khiva - Uzbekistan",
+          "duration": 327.0,
+          "dataFile": "/data/episodes/slow-english-324.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-6/419458684-44100-2-06c4a1906ede.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-325",
+          "episodeNumber": 325,
+          "title": "Ilulissat - Greenland",
+          "duration": 333.0,
+          "dataFile": "/data/episodes/slow-english-325.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-9/419658458-44100-2-414877f999347.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-326",
+          "episodeNumber": 326,
+          "title": "Lamu - Kenya",
+          "duration": 281.0,
+          "dataFile": "/data/episodes/slow-english-326.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-12/419902325-44100-2-c21ae77a0fdac.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-327",
+          "episodeNumber": 327,
+          "title": "Ushuaia - Argentina",
+          "duration": 301.0,
+          "dataFile": "/data/episodes/slow-english-327.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-12/419902866-44100-2-571f638bcadba.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-328",
+          "episodeNumber": 328,
+          "title": "Matera- Italy",
+          "duration": 305.0,
+          "dataFile": "/data/episodes/slow-english-328.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-15/420083035-44100-2-318bc7036e307.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-329",
+          "episodeNumber": 329,
+          "title": "Tórshavn - Faroe Island",
+          "duration": 310.0,
+          "dataFile": "/data/episodes/slow-english-329.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-15/420084225-44100-2-890ba31f95c51.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-330",
+          "episodeNumber": 330,
+          "title": "Yakutsk - Russia",
+          "duration": 296.0,
+          "dataFile": "/data/episodes/slow-english-330.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-23/420617454-44100-2-8a17c570016e5.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-331",
+          "episodeNumber": 331,
+          "title": "Sapa - Vietnam",
+          "duration": 278.0,
+          "dataFile": "/data/episodes/slow-english-331.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-23/420624489-44100-2-ce9092ab344f8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-332",
+          "episodeNumber": 332,
+          "title": "Colonia del Sacramento - Uruguay",
+          "duration": 270.0,
+          "dataFile": "/data/episodes/slow-english-332.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-26/422915326-44100-2-d3fe15d55e365.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-333",
+          "episodeNumber": 333,
+          "title": "Salento Colombia",
+          "duration": 257.0,
+          "dataFile": "/data/episodes/slow-english-333.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-1/423294661-44100-2-e9308985bfb5e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-334",
+          "episodeNumber": 334,
+          "title": "Kulusuk Greenland",
+          "duration": 225.0,
+          "dataFile": "/data/episodes/slow-english-334.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-2/423339016-44100-2-b0d66db8cc3bb.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-335",
+          "episodeNumber": 335,
+          "title": "Karakol Kyrgyzstan",
+          "duration": 253.0,
+          "dataFile": "/data/episodes/slow-english-335.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-2/423339272-44100-2-ab194d2770959.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-336",
+          "episodeNumber": 336,
+          "title": "Aït Benhaddou Morocco",
+          "duration": 221.0,
+          "dataFile": "/data/episodes/slow-english-336.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-5/423490754-44100-2-6f3e8b376b698.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-337",
+          "episodeNumber": 337,
+          "title": "Mostar Bosnia and Herzegovina",
+          "duration": 235.0,
+          "dataFile": "/data/episodes/slow-english-337.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-19/424503270-44100-2-6c01ce45a9f3f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-338",
+          "episodeNumber": 338,
+          "title": "Ghadames Libya",
+          "duration": 272.0,
+          "dataFile": "/data/episodes/slow-english-338.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-5/425569068-44100-2-7604544ef537.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-339",
+          "episodeNumber": 339,
+          "title": "Praia Cape Verde",
+          "duration": 266.0,
+          "dataFile": "/data/episodes/slow-english-339.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-14/426128486-44100-2-b512ed6a940b6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-340",
+          "episodeNumber": 340,
+          "title": "Curaçao",
+          "duration": 266.0,
+          "dataFile": "/data/episodes/slow-english-340.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-14/426128822-44100-2-329b31fb17607.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-341",
+          "episodeNumber": 341,
+          "title": "Prizren Kosovo",
+          "duration": 261.0,
+          "dataFile": "/data/episodes/slow-english-341.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-17/426348355-44100-2-0cc420d3109aa.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-342",
+          "episodeNumber": 342,
+          "title": "Albarracín Spain",
+          "duration": 240.0,
+          "dataFile": "/data/episodes/slow-english-342.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-17/b5f05893-cd5b-b1fa-342d-0e28f9be3440.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-343",
+          "episodeNumber": 343,
+          "title": "Albarracín Spain",
+          "duration": 241.0,
+          "dataFile": "/data/episodes/slow-english-343.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-17/426349088-44100-2-81b7d6744acba.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-344",
+          "episodeNumber": 344,
+          "title": "20 Easy Facts About Iceland",
+          "duration": 720.0,
+          "dataFile": "/data/episodes/slow-english-344.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-18/426421005-44100-2-2b2866455ca9a.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-345",
+          "episodeNumber": 345,
+          "title": "20 Easy Facts About Afghanistan",
+          "duration": 600.0,
+          "dataFile": "/data/episodes/slow-english-345.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-22/426641012-44100-2-885b346e2d2f8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-346",
+          "episodeNumber": 346,
+          "title": "20 Easy Facts About Albania",
+          "duration": 560.0,
+          "dataFile": "/data/episodes/slow-english-346.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-22/426641665-44100-2-6cb4194bea126.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-347",
+          "episodeNumber": 347,
+          "title": "20 Easy Facts About Algeria",
+          "duration": 634.0,
+          "dataFile": "/data/episodes/slow-english-347.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-22/426642932-44100-2-aac3ed46f2d6d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-348",
+          "episodeNumber": 348,
+          "title": "20 Easy Facts About Cape Verde",
+          "duration": 589.0,
+          "dataFile": "/data/episodes/slow-english-348.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-30/427115150-44100-2-03f09e50c30e3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-349",
+          "episodeNumber": 349,
+          "title": "20 Easy Facts About Andorra",
+          "duration": 560.0,
+          "dataFile": "/data/episodes/slow-english-349.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-1/427193741-44100-2-4d8aa489acf98.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-350",
+          "episodeNumber": 350,
+          "title": "20 Easy Facts About Angola",
+          "duration": 600.0,
+          "dataFile": "/data/episodes/slow-english-350.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-2/427260229-44100-2-6993ebd6809b6.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-351",
+          "episodeNumber": 351,
+          "title": "20 Easy Facts About Antigua and Barbuda",
+          "duration": 600.0,
+          "dataFile": "/data/episodes/slow-english-351.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-3/427320438-44100-2-872471a5624f2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-352",
+          "episodeNumber": 352,
+          "title": "20 Easy Facts About Argentina",
+          "duration": 600.0,
+          "dataFile": "/data/episodes/slow-english-352.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-4/427362876-44100-2-65a6cda300449.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-353",
+          "episodeNumber": 353,
+          "title": "20 Easy Facts About Armenia",
+          "duration": 600.0,
+          "dataFile": "/data/episodes/slow-english-353.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-6/427462771-44100-2-6cb4e7f0662e3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-354",
+          "episodeNumber": 354,
+          "title": "20 Easy Facts About Australia",
+          "duration": 597.0,
+          "dataFile": "/data/episodes/slow-english-354.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-7/427534338-44100-2-2905fd563ee36.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-355",
+          "episodeNumber": 355,
+          "title": "20 Easy Facts About Austria",
+          "duration": 597.0,
+          "dataFile": "/data/episodes/slow-english-355.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-7/427537812-44100-2-b0fe463975196.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-356",
+          "episodeNumber": 356,
+          "title": "20 Easy Facts About Azerbaijan",
+          "duration": 586.0,
+          "dataFile": "/data/episodes/slow-english-356.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-8/427608458-44100-2-fd76fa5e5636.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-357",
+          "episodeNumber": 357,
+          "title": "20 Easy Facts About Bahamas",
+          "duration": 576.0,
+          "dataFile": "/data/episodes/slow-english-357.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-8/427609212-44100-2-99858722d40c7.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-358",
+          "episodeNumber": 358,
+          "title": "20 Easy Facts About Bahrain",
+          "duration": 593.0,
+          "dataFile": "/data/episodes/slow-english-358.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-9/427670665-44100-2-9f2a71b55fe5.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-359",
+          "episodeNumber": 359,
+          "title": "20 Easy Facts About Bangladesh",
+          "duration": 587.0,
+          "dataFile": "/data/episodes/slow-english-359.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-9/427671519-44100-2-a56b872234b04.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-360",
+          "episodeNumber": 360,
+          "title": "20 Easy Facts About Barbados",
+          "duration": 595.0,
+          "dataFile": "/data/episodes/slow-english-360.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-10/427738186-44100-2-393117d9c926f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-361",
+          "episodeNumber": 361,
+          "title": "20 Easy Facts About Belarus",
+          "duration": 588.0,
+          "dataFile": "/data/episodes/slow-english-361.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-11/427780901-44100-2-9701c9f078c28.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-362",
+          "episodeNumber": 362,
+          "title": "20 Easy Facts About Belgium",
+          "duration": 586.0,
+          "dataFile": "/data/episodes/slow-english-362.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-11/427781375-44100-2-34f6eb69c437f.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-363",
+          "episodeNumber": 363,
+          "title": "20 Easy Facts About Belize",
+          "duration": 526.0,
+          "dataFile": "/data/episodes/slow-english-363.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-12/427829288-44100-2-69310cc35657b.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-364",
+          "episodeNumber": 364,
+          "title": "20 Easy Facts About Benin",
+          "duration": 506.0,
+          "dataFile": "/data/episodes/slow-english-364.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427894434-44100-2-20086a084548.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-365",
+          "episodeNumber": 365,
+          "title": "20 Easy Facts About Bhutan",
+          "duration": 522.0,
+          "dataFile": "/data/episodes/slow-english-365.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427894844-44100-2-f5efca7d515ee.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-366",
+          "episodeNumber": 366,
+          "title": "20 Easy Facts About Bolivia",
+          "duration": 547.0,
+          "dataFile": "/data/episodes/slow-english-366.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427895680-44100-2-fc29e593cee51.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-367",
+          "episodeNumber": 367,
+          "title": "20 Easy Facts About Bosnia and Herzegovina",
+          "duration": 547.0,
+          "dataFile": "/data/episodes/slow-english-367.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427896444-44100-2-e69f8f8c082f2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-368",
+          "episodeNumber": 368,
+          "title": "20 Easy Facts About Botswana",
+          "duration": 528.0,
+          "dataFile": "/data/episodes/slow-english-368.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427897499-44100-2-16e47ee47820d.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-369",
+          "episodeNumber": 369,
+          "title": "20 Easy Facts About Brazil",
+          "duration": 548.0,
+          "dataFile": "/data/episodes/slow-english-369.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-17/428156166-44100-2-e5d08fed1f8a3.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-370",
+          "episodeNumber": 370,
+          "title": "20 Easy Facts About Brunei",
+          "duration": 542.0,
+          "dataFile": "/data/episodes/slow-english-370.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-18/e119c81c-004d-a379-8abc-0e136cc493c8.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-371",
+          "episodeNumber": 371,
+          "title": "20 Easy Facts About Bulgaria",
+          "duration": 636.0,
+          "dataFile": "/data/episodes/slow-english-371.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-24/6502fe8c-c8db-c148-13cd-b3540f08387e.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-372",
+          "episodeNumber": 372,
+          "title": "20 Easy Facts About Burkina Faso",
+          "duration": 677.0,
+          "dataFile": "/data/episodes/slow-english-372.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-25/7b2e9d1c-9c1b-9aec-1e8c-e0b921088c82.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-373",
+          "episodeNumber": 373,
+          "title": "20 Easy Facts About Burundi",
+          "duration": 672.0,
+          "dataFile": "/data/episodes/slow-english-373.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-25/21d72029-49a8-2c28-7fdc-e04665fc5ad0.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-374",
+          "episodeNumber": 374,
+          "title": "20 Easy Facts About Cabo Verde",
+          "duration": 668.0,
+          "dataFile": "/data/episodes/slow-english-374.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-25/80110bad-33e3-7d3d-093c-e63336dd9ba2.mp3",
+          "sentenceCount": 0,
+          "ready": false
+        },
+        {
+          "id": "slow-english-ep-375",
+          "episodeNumber": 375,
+          "title": "20 Easy Facts About Cambodia",
+          "duration": 658.0,
+          "dataFile": "/data/episodes/slow-english-375.json",
+          "audioFile": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-25/dcdb37b9-fb81-1cd1-a623-b6e1967306c1.mp3",
+          "sentenceCount": 0,
+          "ready": false
         }
       ]
     }

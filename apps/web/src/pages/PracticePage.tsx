@@ -13,6 +13,7 @@ interface ManifestEpisode {
   dataFile: string;
   audioFile: string;
   sentenceCount: number;
+  ready?: boolean;
 }
 
 interface ManifestSeries {
@@ -34,6 +35,9 @@ export function PracticePage() {
   const [progressMap, setProgressMap] = useState<Record<string, EpisodeProgressRecord>>({});
   const [isLoading, setIsLoading] = useState(false);
   const [loadError, setLoadError] = useState<string | null>(null);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
+  const PAGE_SIZE = 12;
 
   const {
     viewState,
@@ -98,16 +102,31 @@ export function PracticePage() {
   };
 
   // 检查某集是否解锁（上一集 Round 4 必须 >= 80 分）
+  // 检查某集是否解锁（上一集 Round 4 必须 >= 80 分）
   const isEpisodeUnlocked = (epNumber: number): boolean => {
     if (epNumber === 1) return true; // 第 1 集天然解锁
-    const prevEpId = `slow-english-ep-0${epNumber - 1}`;
-    const prevRecord = progressMap[prevEpId];
+    const prevEpIdFormatted = `slow-english-ep-${String(epNumber - 1).padStart(3, '0')}`;
+    const prevEpIdLegacy = `slow-english-ep-0${epNumber - 1}`;
+    const prevRecord = progressMap[prevEpIdFormatted] || progressMap[prevEpIdLegacy];
     return !!(prevRecord?.bestScore && prevRecord.bestScore.score >= 80);
   };
 
   // 选集列表首页
   if (!viewState.isReady || !currentSentence || !selectedEpisode) {
     const series = manifest?.series[0];
+
+    const filteredEpisodes = (series?.episodes || []).filter((ep) => {
+      if (!searchTerm) return true;
+      const term = searchTerm.toLowerCase();
+      return (
+        ep.title.toLowerCase().includes(term) ||
+        String(ep.episodeNumber).includes(term)
+      );
+    });
+
+    const totalPages = Math.ceil(filteredEpisodes.length / PAGE_SIZE) || 1;
+    const startIndex = (currentPage - 1) * PAGE_SIZE;
+    const paginatedEpisodes = filteredEpisodes.slice(startIndex, startIndex + PAGE_SIZE);
 
     return (
       <div className="min-h-screen bg-gray-950 text-white flex flex-col items-center p-6 md:p-12 font-sans">
@@ -132,35 +151,67 @@ export function PracticePage() {
           {/* 专辑展示 */}
           {series && (
             <div className="bg-gray-900/60 border border-gray-800/80 rounded-3xl p-6 md:p-8 backdrop-blur mb-8">
-              <div className="flex items-center gap-4 mb-6 pb-6 border-b border-gray-800">
-                <img
-                  src={series.avatarUrl}
-                  alt={series.author}
-                  className="w-16 h-16 rounded-2xl object-cover border border-gray-700"
-                />
-                <div>
-                  <h2 className="text-xl font-bold text-white">{series.title}</h2>
-                  <p className="text-xs text-gray-400 mt-1">{series.description}</p>
+              <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6 pb-6 border-b border-gray-800">
+                <div className="flex items-center gap-4">
+                  <img
+                    src={series.avatarUrl}
+                    alt={series.author}
+                    className="w-16 h-16 rounded-2xl object-cover border border-gray-700"
+                  />
+                  <div>
+                    <h2 className="text-xl font-bold text-white">{series.title}</h2>
+                    <p className="text-xs text-gray-400 mt-1">{series.description}</p>
+                  </div>
+                </div>
+
+                {/* 搜索过滤框 */}
+                <div className="relative">
+                  <input
+                    type="text"
+                    value={searchTerm}
+                    onChange={(e) => {
+                      setSearchTerm(e.target.value);
+                      setCurrentPage(1);
+                    }}
+                    placeholder="🔍 搜索期号或主题 (如 #1, Restaurant)..."
+                    className="w-full md:w-72 px-4 py-2 bg-gray-950/80 border border-gray-800 focus:border-blue-500 rounded-xl text-xs text-gray-200 placeholder-gray-500 outline-none transition-all"
+                  />
+                  {searchTerm && (
+                    <button
+                      onClick={() => setSearchTerm('')}
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 hover:text-gray-300 text-xs"
+                    >
+                      ✕
+                    </button>
+                  )}
                 </div>
               </div>
 
               {/* 集数列表卡片 */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {series.episodes.map((ep) => {
+                {paginatedEpisodes.map((ep) => {
                   const unlocked = isEpisodeUnlocked(ep.episodeNumber);
-                  const record = progressMap[ep.id];
+                  const record = progressMap[ep.id] || progressMap[`slow-english-ep-0${ep.episodeNumber}`];
                   const hasPassed = record?.bestScore && record.bestScore.score >= 80;
+                  const isReady = ep.ready !== false;
 
                   return (
                     <div
                       key={ep.id}
                       onClick={() => {
-                        if (unlocked && !isLoading) loadEpisodeData(ep);
+                        if (!unlocked) return;
+                        if (!isReady) {
+                          alert(`EPISODE #${ep.episodeNumber} 《${ep.title}》 正在自动化对齐流水线中，请先挑战已就绪的示范集（如 #1 Restaurant）！`);
+                          return;
+                        }
+                        if (!isLoading) loadEpisodeData(ep);
                       }}
                       className={`p-5 rounded-2xl border transition-all relative flex flex-col justify-between ${
-                        unlocked
+                        unlocked && isReady
                           ? 'bg-gray-950/70 border-gray-800 hover:border-blue-500/50 hover:bg-gray-900 cursor-pointer shadow-lg group'
-                          : 'bg-gray-950/30 border-gray-900 opacity-60 cursor-not-allowed'
+                          : unlocked && !isReady
+                          ? 'bg-gray-950/40 border-gray-800/80 hover:border-amber-500/40 cursor-pointer opacity-75'
+                          : 'bg-gray-950/30 border-gray-900 opacity-50 cursor-not-allowed'
                       }`}
                     >
                       <div>
@@ -171,6 +222,10 @@ export function PracticePage() {
                           {!unlocked ? (
                             <span className="text-xs text-gray-500 flex items-center gap-1">
                               🔒 需前一集大考 ≥80分
+                            </span>
+                          ) : !isReady ? (
+                            <span className="text-xs text-amber-400/90 font-medium px-2 py-0.5 bg-amber-500/10 rounded">
+                              ⏳ 待生成对齐
                             </span>
                           ) : hasPassed ? (
                             <span className="text-xs text-emerald-400 font-bold flex items-center gap-1">
@@ -184,19 +239,48 @@ export function PracticePage() {
                         <h3 className="text-base font-bold text-gray-100 group-hover:text-blue-300 transition-colors">
                           {ep.title}
                         </h3>
-                        <p className="text-xs text-gray-500 mt-1">共 {ep.sentenceCount} 句教学精听内容</p>
+                        <p className="text-xs text-gray-500 mt-1">
+                          {isReady ? `共 ${ep.sentenceCount} 句教学精听内容` : `时长 ${Math.round(ep.duration / 60)} 分钟 · 官方音频已直链`}
+                        </p>
                       </div>
 
                       <div className="mt-4 pt-3 border-t border-gray-900 flex items-center justify-between text-xs text-gray-400">
-                        <span>{record ? `当前进度: Round ${record.currentRound}` : '未开始'}</span>
+                        <span>{record ? `当前进度: Round ${record.currentRound}` : isReady ? '未开始' : '待对齐'}</span>
                         <span className="text-blue-400 group-hover:translate-x-1 transition-transform">
-                          {unlocked ? '开始练习 ➔' : '锁定中'}
+                          {!unlocked ? '锁定中' : isReady ? '开始练习 ➔' : '排队中 ⏱️'}
                         </span>
                       </div>
                     </div>
                   );
                 })}
               </div>
+
+              {/* 分页控制栏 */}
+              {totalPages > 1 && (
+                <div className="mt-8 pt-6 border-t border-gray-800 flex items-center justify-between text-xs text-gray-400">
+                  <div>
+                    共 <span className="text-gray-200 font-bold">{filteredEpisodes.length}</span> 期节目 · 第{' '}
+                    <span className="text-blue-400 font-bold">{currentPage}</span> / {totalPages} 页
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+                      disabled={currentPage === 1}
+                      className="px-3 py-1.5 bg-gray-950 border border-gray-800 rounded-lg hover:border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed text-gray-300 hover:text-white"
+                    >
+                      上一页
+                    </button>
+                    <span className="px-2 font-mono">{currentPage}</span>
+                    <button
+                      onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+                      disabled={currentPage === totalPages}
+                      className="px-3 py-1.5 bg-gray-950 border border-gray-800 rounded-lg hover:border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed text-gray-300 hover:text-white"
+                    >
+                      下一页
+                    </button>
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>
