@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License" />
 </p>
 
+### 🌐 [https://typecast.51.edu.kg](https://typecast.51.edu.kg)
+*Instant access in any modern browser. Zero setup, zero login.*
+
 **[English Documentation](#-english-documentation)** | **[简体中文说明](#-简体中文说明)**
 
 </div>
@@ -22,6 +25,12 @@
 ---
 
 ## 🌐 English Documentation
+
+### 🔗 Live Experience
+👉 **Website**: **[https://typecast.51.edu.kg](https://typecast.51.edu.kg)**  
+No installation or registration needed. Practice and level progress are automatically saved to your local browser storage.
+
+---
 
 ### 🎯 What is TypeCast?
 Language learners often struggle with disconnected learning: memorizing word lists in isolation, listening to podcasts passively without catching details, and stumbling when trying to speak.
@@ -82,6 +91,12 @@ pnpm test
 <br />
 
 ## 🇨🇳 简体中文说明
+
+### 🌐 在线体验入口
+👉 **官方直达网址**：**[https://typecast.51.edu.kg](https://typecast.51.edu.kg)**  
+无需安装任何软件或配置环境，使用任何现代浏览器打开即可开始沉浸式跟打，关卡进度自动保存在本地。
+
+---
 
 ### 🎯 为什么叫「一举多得」？
 很多英语学习者面临脱节困境：抱着单词书死记硬背、刷播客模模糊糊不知所云、开口说话吞吞吐吐。
