@@ -154,9 +154,12 @@ export function PracticePage() {
               <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6 pb-6 border-b border-gray-800">
                 <div className="flex items-center gap-4">
                   <img
-                    src={series.avatarUrl}
+                    src={series.avatarUrl || '/avatar.jpg'}
                     alt={series.author}
-                    className="w-16 h-16 rounded-2xl object-cover border border-gray-700"
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).src = '/avatar.jpg';
+                    }}
+                    className="w-16 h-16 rounded-2xl object-cover border border-gray-700 bg-gray-800"
                   />
                   <div>
                     <h2 className="text-xl font-bold text-white">{series.title}</h2>
@@ -428,7 +431,7 @@ export function PracticePage() {
             const el = document.getElementById('typecast-hidden-input');
             if (el) el.focus();
           }}
-          className={`w-full border rounded-3xl p-12 shadow-2xl flex flex-col items-center justify-center min-h-[240px] cursor-text relative transition-all ${
+          className={`w-full max-w-4xl overflow-hidden border rounded-3xl p-6 sm:p-10 md:p-12 shadow-2xl flex flex-col items-center justify-center min-h-[260px] cursor-text relative transition-all ${
             currentRound === 4
               ? 'bg-amber-950/10 border-amber-500/30'
               : 'bg-gray-900/40 border-gray-800/80'
