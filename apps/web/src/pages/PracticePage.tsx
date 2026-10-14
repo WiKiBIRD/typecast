@@ -45,6 +45,8 @@ export function PracticePage() {
     handleTabKey,
     handleReset,
     selectRound,
+    togglePlayPause,
+    isAudioPaused,
     dismissChallengeModal,
     resumePrompt,
     currentSentence,
@@ -437,6 +439,12 @@ export function PracticePage() {
               : 'bg-gray-900/40 border-gray-800/80'
           }`}
         >
+          {isAudioPaused && (
+            <div className="absolute top-4 right-4 px-3 py-1 bg-amber-500/15 border border-amber-500/30 rounded-full text-amber-300 text-xs font-semibold flex items-center gap-1.5 backdrop-blur animate-pulse">
+              <span>⏸️ 音频已暂停 (点击下方按钮继续)</span>
+            </div>
+          )}
+
           <input
             id="typecast-hidden-input"
             type="text"
@@ -453,7 +461,7 @@ export function PracticePage() {
         </div>
 
         {/* 底部指标指示 */}
-        <div className="mt-10 flex flex-wrap items-center justify-center gap-8 text-sm text-gray-400">
+        <div className="mt-10 flex flex-wrap items-center justify-center gap-6 sm:gap-8 text-sm text-gray-400">
           <div className="flex items-center gap-2">
             <span className="text-gray-600">进度:</span>
             <span className="font-mono text-gray-200">{current} / {total} 句</span>
@@ -466,6 +474,20 @@ export function PracticePage() {
             <span className="text-gray-600">时速:</span>
             <span className="font-mono text-blue-400 font-medium">{avgWpm} WPM</span>
           </div>
+          
+          <button
+            onClick={togglePlayPause}
+            className={`flex items-center gap-1.5 px-3 py-1 border rounded-lg text-xs font-mono transition-all cursor-pointer ${
+              isAudioPaused
+                ? 'bg-amber-500/20 border-amber-500/50 text-amber-300 hover:bg-amber-500/30 font-semibold'
+                : 'bg-gray-900 hover:bg-gray-800 border-gray-800 text-gray-300 hover:text-white'
+            }`}
+            title="离开电脑或暂停音频循环"
+          >
+            <span>{isAudioPaused ? '▶️' : '⏸️'}</span>
+            <span>{isAudioPaused ? '继续播放' : '暂停音频'}</span>
+          </button>
+
           <button
             onClick={handleTabKey}
             className="flex items-center gap-1.5 px-3 py-1 bg-gray-900 hover:bg-gray-800 border border-gray-800 text-gray-300 rounded-lg text-xs font-mono transition-colors cursor-pointer"

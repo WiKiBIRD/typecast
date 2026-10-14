@@ -57,60 +57,65 @@ export function SentenceDisplay({
     );
   }
 
-  // 盲听模式 (HIDDEN): 单词边界自适应换行，避免超长横跨卡片
+  // 盲听模式 (HIDDEN): 
+  // 每个待输入字母槽位固定等宽（w-5 / sm:w-6），严格等长，拒绝长短混乱；
+  // 单词间自适应折行，整体居中。
+  const words = text.split(' ');
+  let charTracker = 0;
+
   return (
-    <div className="text-xl sm:text-2xl md:text-3xl font-mono leading-loose text-center select-none max-w-full break-words px-2 flex flex-wrap items-center justify-center">
-      {text.split('').map((char, i) => {
-        // 空格处渲染可折行的间距，允许自然换行
-        if (char === ' ') {
-          return (
-            <span
-              key={i}
-              className={`inline-block w-2.5 sm:w-3.5 ${
-                i < cursorIndex ? 'border-b-2 border-transparent' : ''
-              }`}
-            >
-              {' '}
-            </span>
-          );
-        }
+    <div className="max-w-full flex flex-wrap items-center justify-center gap-y-4 select-none px-2 py-4">
+      {words.map((word, wordIdx) => {
+        const chars = word.split('');
+        const wordStartIdx = charTracker;
+        charTracker += word.length + 1; // +1 为空格
 
-        // 已正确键入的字符
-        if (i < cursorIndex) {
-          return (
-            <span key={i} className="text-emerald-400 font-semibold inline-block">
-              {char}
-            </span>
-          );
-        }
-
-        // 当前正在等待输入的字符
-        if (i === cursorIndex) {
-          if (showHint) {
-            return (
-              <span
-                key={i}
-                className="text-amber-400 underline decoration-amber-400 animate-pulse font-bold inline-block"
-              >
-                {char}
-              </span>
-            );
-          }
-          return (
-            <span
-              key={i}
-              className="text-white border-b-2 border-blue-400 animate-pulse inline-block min-w-[0.6em]"
-            >
-              _
-            </span>
-          );
-        }
-
-        // 未输入的盲听占位符
         return (
-          <span key={i} className="text-gray-700/80 inline-block min-w-[0.6em]">
-            _
-          </span>
+          <div key={wordIdx} className="inline-flex items-center mx-2 sm:mx-3">
+            {chars.map((char, charOffset) => {
+              const i = wordStartIdx + charOffset;
+              const isCompleted = i < cursorIndex;
+              const isCurrent = i === cursorIndex;
+
+              // 已输入正确的字母
+              if (isCompleted) {
+                return (
+                  <div
+                    key={i}
+                    className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-emerald-500/70 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-emerald-400 font-bold transition-all"
+                  >
+                    {char}
+                  </div>
+                );
+              }
+
+              // 当前聚焦待键入的字母槽
+              if (isCurrent) {
+                return (
+                  <div
+                    key={i}
+                    className={`w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 inline-flex items-center justify-center font-mono text-lg sm:text-2xl transition-all ${
+                      showHint
+                        ? 'border-amber-400 text-amber-400 font-bold animate-pulse'
+                        : 'border-blue-400 bg-blue-500/10 text-white animate-pulse'
+                    }`}
+                  >
+                    {showHint ? char : ''}
+                  </div>
+                );
+              }
+
+              // 未输入的占位横线：严格固定等宽（w-5/w-6），完全等长整齐
+              return (
+                <div
+                  key={i}
+                  className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-gray-700 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-transparent"
+                >
+                  &nbsp;
+                </div>
+              );
+            })}
+          </div>
         );
       })}
     </div>

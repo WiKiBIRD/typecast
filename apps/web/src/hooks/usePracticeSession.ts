@@ -427,6 +427,20 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     dispatch({ type: 'READY' });
   }, [audioMode, seekAheadMs]);
 
+  const [isAudioPaused, setIsAudioPaused] = useState<boolean>(false);
+
+  const togglePlayPause = useCallback(() => {
+    const player = playerRef.current;
+    if (!player) return;
+    if (isAudioPaused) {
+      player.resume();
+      setIsAudioPaused(false);
+    } else {
+      player.pause();
+      setIsAudioPaused(true);
+    }
+  }, [isAudioPaused]);
+
   const handleTabKey = useCallback(() => {
     if (currentRoundRef.current === 4) {
       pauseCountRef.current++;
@@ -434,6 +448,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     fsmRef.current?.transition('TAB_REPLAY');
     playerRef.current?.replayCurrentChunk();
     engineRef.current?.reset();
+    setIsAudioPaused(false);
   }, []);
 
   const handleReset = useCallback(async () => {
@@ -444,6 +459,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     episodeRef.current = null;
     sentenceIdxRef.current = 0;
     completedSentencesRef.current = [];
+    setIsAudioPaused(false);
     dispatch({ type: 'RESET', totalSentences: 0 });
   }, [saveProgressToDb]);
 
@@ -453,6 +469,8 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     handleTabKey,
     handleReset,
     selectRound,
+    togglePlayPause,
+    isAudioPaused,
     dismissChallengeModal: () => dispatch({ type: 'DISMISS_CHALLENGE' }),
     resumePrompt,
     currentEpisode: episodeRef.current,
