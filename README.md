@@ -86,6 +86,10 @@ pnpm dev
 pnpm test
 ```
 
+> 🛠️ **Deep Dive for Contributors**:  
+> Looking for Turborepo setup, Dexie IndexedDB schemas, or Whisper acoustic alignment scripts?  
+> Check out the complete [Developer Technical Guide (README_DEV.md)](README_DEV.md).
+
 ### ☕ Support the Project
 If TypeCast helps your English listening or typing skills, consider supporting the development and maintenance:
 
@@ -153,6 +157,10 @@ TypeCast 引入了**严格的关卡考核机制**，必须考核合格才能解�
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-支持作者-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+> 🛠️ **开发者深度进阶**：  
+> 想要了解 Turborepo Monorepo 工程脚手架、Dexie 离线数据模型或 Whisper 声学校准流水线？  
+> 请参阅专用的 [开发者完整技术指南 (README_DEV.md)](README_DEV.md)。
 
 ---
 
