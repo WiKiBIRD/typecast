@@ -15,116 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.91,
-      "text": "Hello and welcome to Slow English Podcast. My name is Emili. Today we will talk about Dublin,",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.36,
-          "score": 0.92
-        },
-        {
-          "word": "and",
-          "startSec": 0.36,
-          "endSec": 0.78,
-          "score": 0.68
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.78,
-          "endSec": 1.22,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 1.22,
-          "endSec": 1.5,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.5,
-          "endSec": 1.76,
-          "score": 0.6
-        },
-        {
-          "word": "English",
-          "startSec": 1.76,
-          "endSec": 2.06,
-          "score": 0.93
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 2.06,
-          "endSec": 2.56,
-          "score": 0.89
-        },
-        {
-          "word": "My",
-          "startSec": 3.78,
-          "endSec": 4.18,
-          "score": 0.95
-        },
-        {
-          "word": "name",
-          "startSec": 4.18,
-          "endSec": 4.38,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 4.38,
-          "endSec": 4.64,
-          "score": 1.0
-        },
-        {
-          "word": "Emili.",
-          "startSec": 4.64,
-          "endSec": 4.94,
-          "score": 0.44
-        },
-        {
-          "word": "Today",
-          "startSec": 5.54,
-          "endSec": 5.94,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 5.94,
-          "endSec": 6.46,
-          "score": 0.57
-        },
-        {
-          "word": "will",
-          "startSec": 6.46,
-          "endSec": 6.68,
-          "score": 1.0
-        },
-        {
-          "word": "talk",
-          "startSec": 6.68,
-          "endSec": 6.96,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 6.96,
-          "endSec": 7.36,
-          "score": 1.0
-        },
-        {
-          "word": "Dublin,",
-          "startSec": 7.36,
-          "endSec": 7.76,
-          "score": 0.96
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 8.26,
       "end": 16.65,
       "text": "the capital city of Ireland. Dublin is the biggest city in Ireland. It is full of history,",
@@ -234,7 +124,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 16.76,
       "end": 26.03,
       "text": "music, and friendly people. We will talk about Dublin in four parts, nature, city, culture,",
@@ -332,7 +222,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 25.68,
       "end": 37.25,
       "text": "and daily life. Part one, nature. Dublin is close to the sea. The river Liffy runs through the city.",
@@ -454,7 +344,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 37.74,
       "end": 45.01,
       "text": "You can see many bridges across the river. Dublin also has many green parks.",
@@ -546,7 +436,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 45.78,
       "end": 53.82,
       "text": "One of the largest parks is Phoenix Park. It is one of the biggest city parks in Europe.",
@@ -662,7 +552,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 54.35,
       "end": 63.87,
       "text": "In the park, you can see deer, walk, cycle, or have a picnic. The weather in Dublin is often",
@@ -784,7 +674,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 63.52,
       "end": 73.81,
       "text": "rainy and cloudy, but the rain makes the city green and fresh. In summer, it is mild and not too hot.",
@@ -918,7 +808,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 74.51,
       "end": 84.1,
       "text": "In winter, it is cold but not very snowy. Part two, city Dublin is a mix of old and",
@@ -1040,7 +930,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 83.75,
       "end": 92.84,
       "text": "modern. The city has many old buildings with beautiful design. One famous place is Trinity",
@@ -1134,6 +1024,1798 @@
           "startSec": 92.39,
           "endSec": 92.69,
           "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 92.49,
+      "end": 102.68,
+      "text": "College. It is a very old university. Inside, you can see the Book of Kells, a famous manuscript.",
+      "words": [
+        {
+          "word": "College.",
+          "startSec": 92.69,
+          "endSec": 93.31,
+          "score": 0.96
+        },
+        {
+          "word": "It",
+          "startSec": 94.61,
+          "endSec": 94.75,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 94.75,
+          "endSec": 94.97,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 94.97,
+          "endSec": 95.13,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 95.13,
+          "endSec": 95.51,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 95.51,
+          "endSec": 95.95,
+          "score": 1.0
+        },
+        {
+          "word": "university.",
+          "startSec": 95.95,
+          "endSec": 96.59,
+          "score": 0.88
+        },
+        {
+          "word": "Inside,",
+          "startSec": 97.71,
+          "endSec": 98.35,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 99.07,
+          "endSec": 99.15,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 99.15,
+          "endSec": 99.31,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 99.31,
+          "endSec": 99.61,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 99.61,
+          "endSec": 99.79,
+          "score": 0.97
+        },
+        {
+          "word": "Book",
+          "startSec": 99.79,
+          "endSec": 100.07,
+          "score": 0.53
+        },
+        {
+          "word": "of",
+          "startSec": 100.07,
+          "endSec": 100.31,
+          "score": 0.99
+        },
+        {
+          "word": "Kells,",
+          "startSec": 100.31,
+          "endSec": 100.81,
+          "score": 0.78
+        },
+        {
+          "word": "a",
+          "startSec": 101.19,
+          "endSec": 101.27,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 101.27,
+          "endSec": 101.75,
+          "score": 1.0
+        },
+        {
+          "word": "manuscript.",
+          "startSec": 101.75,
+          "endSec": 102.53,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 103.41,
+      "end": 111.7,
+      "text": "Another important place is Dublin Castle. It has been used for hundreds of years for government",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 103.61,
+          "endSec": 104.19,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 104.19,
+          "endSec": 104.69,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 104.69,
+          "endSec": 105.49,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 105.49,
+          "endSec": 105.91,
+          "score": 0.99
+        },
+        {
+          "word": "Dublin",
+          "startSec": 105.91,
+          "endSec": 106.41,
+          "score": 0.98
+        },
+        {
+          "word": "Castle.",
+          "startSec": 106.41,
+          "endSec": 106.91,
+          "score": 0.97
+        },
+        {
+          "word": "It",
+          "startSec": 107.89,
+          "endSec": 108.19,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 108.19,
+          "endSec": 108.39,
+          "score": 1.0
+        },
+        {
+          "word": "been",
+          "startSec": 108.39,
+          "endSec": 108.67,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 108.67,
+          "endSec": 109.05,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 109.05,
+          "endSec": 109.47,
+          "score": 1.0
+        },
+        {
+          "word": "hundreds",
+          "startSec": 109.47,
+          "endSec": 109.83,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 109.83,
+          "endSec": 110.31,
+          "score": 1.0
+        },
+        {
+          "word": "years",
+          "startSec": 110.31,
+          "endSec": 110.69,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 110.69,
+          "endSec": 111.09,
+          "score": 1.0
+        },
+        {
+          "word": "government",
+          "startSec": 111.09,
+          "endSec": 111.55,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 111.35,
+      "end": 121.92,
+      "text": "and events. Dublin also has modern areas with shops, cafes, and restaurants. The streets are lively",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 111.55,
+          "endSec": 112.11,
+          "score": 0.07
+        },
+        {
+          "word": "events.",
+          "startSec": 112.11,
+          "endSec": 112.45,
+          "score": 0.91
+        },
+        {
+          "word": "Dublin",
+          "startSec": 113.93,
+          "endSec": 114.35,
+          "score": 0.87
+        },
+        {
+          "word": "also",
+          "startSec": 114.35,
+          "endSec": 114.73,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 114.73,
+          "endSec": 115.25,
+          "score": 1.0
+        },
+        {
+          "word": "modern",
+          "startSec": 115.25,
+          "endSec": 115.59,
+          "score": 0.99
+        },
+        {
+          "word": "areas",
+          "startSec": 115.59,
+          "endSec": 116.39,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 116.39,
+          "endSec": 116.79,
+          "score": 0.99
+        },
+        {
+          "word": "shops,",
+          "startSec": 116.79,
+          "endSec": 117.31,
+          "score": 0.99
+        },
+        {
+          "word": "cafes,",
+          "startSec": 117.73,
+          "endSec": 118.05,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 118.27,
+          "endSec": 118.73,
+          "score": 0.99
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 118.73,
+          "endSec": 118.97,
+          "score": 0.99
+        },
+        {
+          "word": "The",
+          "startSec": 120.49,
+          "endSec": 120.57,
+          "score": 0.98
+        },
+        {
+          "word": "streets",
+          "startSec": 120.57,
+          "endSec": 121.01,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 121.01,
+          "endSec": 121.39,
+          "score": 1.0
+        },
+        {
+          "word": "lively",
+          "startSec": 121.39,
+          "endSec": 121.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 122.69,
+      "end": 133.29,
+      "text": "and you can often hear music from pubs and street performers. Part three, culture. Dublin is known",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 122.89,
+          "endSec": 123.31,
+          "score": 0.5
+        },
+        {
+          "word": "you",
+          "startSec": 123.31,
+          "endSec": 123.51,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 123.51,
+          "endSec": 123.73,
+          "score": 0.99
+        },
+        {
+          "word": "often",
+          "startSec": 123.73,
+          "endSec": 124.25,
+          "score": 0.99
+        },
+        {
+          "word": "hear",
+          "startSec": 124.25,
+          "endSec": 124.69,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 124.69,
+          "endSec": 125.35,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 125.35,
+          "endSec": 126.05,
+          "score": 0.97
+        },
+        {
+          "word": "pubs",
+          "startSec": 126.05,
+          "endSec": 126.61,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 126.61,
+          "endSec": 127.19,
+          "score": 0.97
+        },
+        {
+          "word": "street",
+          "startSec": 127.19,
+          "endSec": 127.55,
+          "score": 1.0
+        },
+        {
+          "word": "performers.",
+          "startSec": 127.55,
+          "endSec": 128.19,
+          "score": 1.0
+        },
+        {
+          "word": "Part",
+          "startSec": 129.25,
+          "endSec": 129.25,
+          "score": 0.73
+        },
+        {
+          "word": "three,",
+          "startSec": 129.25,
+          "endSec": 129.77,
+          "score": 0.2
+        },
+        {
+          "word": "culture.",
+          "startSec": 130.43,
+          "endSec": 130.75,
+          "score": 0.28
+        },
+        {
+          "word": "Dublin",
+          "startSec": 132.0,
+          "endSec": 132.4,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 132.4,
+          "endSec": 132.82,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 132.82,
+          "endSec": 133.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 132.94,
+      "end": 141.11,
+      "text": "for its culture. It is home to many famous writers like James Joyce and Oscar Wilde.",
+      "words": [
+        {
+          "word": "for",
+          "startSec": 133.14,
+          "endSec": 133.54,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 133.54,
+          "endSec": 133.74,
+          "score": 0.98
+        },
+        {
+          "word": "culture.",
+          "startSec": 133.74,
+          "endSec": 134.34,
+          "score": 1.0
+        },
+        {
+          "word": "It",
+          "startSec": 135.0,
+          "endSec": 135.2,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 135.2,
+          "endSec": 135.34,
+          "score": 0.99
+        },
+        {
+          "word": "home",
+          "startSec": 135.34,
+          "endSec": 135.66,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 135.66,
+          "endSec": 135.98,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 135.98,
+          "endSec": 136.36,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 136.36,
+          "endSec": 137.06,
+          "score": 1.0
+        },
+        {
+          "word": "writers",
+          "startSec": 137.06,
+          "endSec": 137.62,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 137.62,
+          "endSec": 138.44,
+          "score": 0.88
+        },
+        {
+          "word": "James",
+          "startSec": 138.44,
+          "endSec": 138.84,
+          "score": 1.0
+        },
+        {
+          "word": "Joyce",
+          "startSec": 138.84,
+          "endSec": 139.26,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 139.26,
+          "endSec": 139.98,
+          "score": 0.98
+        },
+        {
+          "word": "Oscar",
+          "startSec": 139.98,
+          "endSec": 140.38,
+          "score": 0.98
+        },
+        {
+          "word": "Wilde.",
+          "startSec": 140.38,
+          "endSec": 140.96,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 142.12,
+      "end": 151.76,
+      "text": "You can visit museums and libraries to learn about Irish literature. Music is everywhere in Dublin.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 142.32,
+          "endSec": 142.76,
+          "score": 0.41
+        },
+        {
+          "word": "can",
+          "startSec": 142.76,
+          "endSec": 142.98,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 142.98,
+          "endSec": 143.28,
+          "score": 0.99
+        },
+        {
+          "word": "museums",
+          "startSec": 143.28,
+          "endSec": 144.3,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 144.3,
+          "endSec": 144.66,
+          "score": 0.99
+        },
+        {
+          "word": "libraries",
+          "startSec": 144.66,
+          "endSec": 145.1,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 145.1,
+          "endSec": 145.98,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 145.98,
+          "endSec": 146.28,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 146.28,
+          "endSec": 146.56,
+          "score": 1.0
+        },
+        {
+          "word": "Irish",
+          "startSec": 146.56,
+          "endSec": 147.08,
+          "score": 0.99
+        },
+        {
+          "word": "literature.",
+          "startSec": 147.08,
+          "endSec": 147.64,
+          "score": 0.98
+        },
+        {
+          "word": "Music",
+          "startSec": 149.15,
+          "endSec": 149.69,
+          "score": 0.57
+        },
+        {
+          "word": "is",
+          "startSec": 149.69,
+          "endSec": 150.07,
+          "score": 1.0
+        },
+        {
+          "word": "everywhere",
+          "startSec": 150.07,
+          "endSec": 150.69,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 150.69,
+          "endSec": 151.29,
+          "score": 0.99
+        },
+        {
+          "word": "Dublin.",
+          "startSec": 151.29,
+          "endSec": 151.61,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 153.06,
+      "end": 160.65,
+      "text": "Traditional Irish music is played in pubs with instruments like the fiddle and the tin whistle.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 153.26,
+          "endSec": 153.72,
+          "score": 0.98
+        },
+        {
+          "word": "Irish",
+          "startSec": 153.72,
+          "endSec": 154.62,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 154.62,
+          "endSec": 155.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 155.32,
+          "endSec": 155.76,
+          "score": 1.0
+        },
+        {
+          "word": "played",
+          "startSec": 155.76,
+          "endSec": 156.08,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 156.08,
+          "endSec": 156.38,
+          "score": 1.0
+        },
+        {
+          "word": "pubs",
+          "startSec": 156.38,
+          "endSec": 156.78,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 156.78,
+          "endSec": 157.42,
+          "score": 0.89
+        },
+        {
+          "word": "instruments",
+          "startSec": 157.42,
+          "endSec": 157.92,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 157.92,
+          "endSec": 158.48,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 158.48,
+          "endSec": 158.7,
+          "score": 0.66
+        },
+        {
+          "word": "fiddle",
+          "startSec": 158.7,
+          "endSec": 159.12,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "startSec": 159.12,
+          "endSec": 159.66,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 159.66,
+          "endSec": 159.86,
+          "score": 0.97
+        },
+        {
+          "word": "tin",
+          "startSec": 159.86,
+          "endSec": 160.18,
+          "score": 0.99
+        },
+        {
+          "word": "whistle.",
+          "startSec": 160.18,
+          "endSec": 160.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 161.75,
+      "end": 170.58,
+      "text": "People enjoy singing, clapping, and dancing to the music. Food in Dublin is simple but tasty.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 161.95,
+          "endSec": 162.31,
+          "score": 0.97
+        },
+        {
+          "word": "enjoy",
+          "startSec": 162.31,
+          "endSec": 162.81,
+          "score": 1.0
+        },
+        {
+          "word": "singing,",
+          "startSec": 162.81,
+          "endSec": 163.49,
+          "score": 1.0
+        },
+        {
+          "word": "clapping,",
+          "startSec": 164.01,
+          "endSec": 164.57,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 164.95,
+          "endSec": 165.01,
+          "score": 1.0
+        },
+        {
+          "word": "dancing",
+          "startSec": 165.01,
+          "endSec": 165.49,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 165.49,
+          "endSec": 165.83,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 165.83,
+          "endSec": 165.99,
+          "score": 0.99
+        },
+        {
+          "word": "music.",
+          "startSec": 165.99,
+          "endSec": 166.25,
+          "score": 1.0
+        },
+        {
+          "word": "Food",
+          "startSec": 167.67,
+          "endSec": 168.15,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 168.15,
+          "endSec": 168.41,
+          "score": 0.97
+        },
+        {
+          "word": "Dublin",
+          "startSec": 168.41,
+          "endSec": 168.69,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 168.69,
+          "endSec": 169.13,
+          "score": 1.0
+        },
+        {
+          "word": "simple",
+          "startSec": 169.13,
+          "endSec": 169.49,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 169.49,
+          "endSec": 170.11,
+          "score": 0.83
+        },
+        {
+          "word": "tasty.",
+          "startSec": 170.11,
+          "endSec": 170.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 171.03,
+      "end": 180.26,
+      "text": "Traditional dishes include Irish stew and soda bread. And of course, people enjoy drinking tea,",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 171.23,
+          "endSec": 172.01,
+          "score": 0.04
+        },
+        {
+          "word": "dishes",
+          "startSec": 172.01,
+          "endSec": 172.69,
+          "score": 0.99
+        },
+        {
+          "word": "include",
+          "startSec": 172.69,
+          "endSec": 173.59,
+          "score": 0.99
+        },
+        {
+          "word": "Irish",
+          "startSec": 173.59,
+          "endSec": 174.19,
+          "score": 0.88
+        },
+        {
+          "word": "stew",
+          "startSec": 174.19,
+          "endSec": 174.69,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 174.69,
+          "endSec": 175.21,
+          "score": 0.96
+        },
+        {
+          "word": "soda",
+          "startSec": 175.21,
+          "endSec": 175.51,
+          "score": 0.92
+        },
+        {
+          "word": "bread.",
+          "startSec": 175.51,
+          "endSec": 176.01,
+          "score": 0.99
+        },
+        {
+          "word": "And",
+          "startSec": 177.39,
+          "endSec": 177.51,
+          "score": 0.87
+        },
+        {
+          "word": "of",
+          "startSec": 177.51,
+          "endSec": 177.75,
+          "score": 0.79
+        },
+        {
+          "word": "course,",
+          "startSec": 177.75,
+          "endSec": 178.01,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 178.55,
+          "endSec": 178.69,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 178.69,
+          "endSec": 179.19,
+          "score": 1.0
+        },
+        {
+          "word": "drinking",
+          "startSec": 179.19,
+          "endSec": 179.63,
+          "score": 0.98
+        },
+        {
+          "word": "tea,",
+          "startSec": 179.63,
+          "endSec": 180.11,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 180.41,
+      "end": 191.28,
+      "text": "which is very popular in Ireland. Part four, daily life. Daily life in Dublin is busy but friendly.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 180.61,
+          "endSec": 180.75,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 180.75,
+          "endSec": 180.95,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 180.95,
+          "endSec": 181.25,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 181.25,
+          "endSec": 181.95,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 181.95,
+          "endSec": 182.37,
+          "score": 0.99
+        },
+        {
+          "word": "Ireland.",
+          "startSec": 182.37,
+          "endSec": 182.59,
+          "score": 1.0
+        },
+        {
+          "word": "Part",
+          "startSec": 184.67,
+          "endSec": 184.87,
+          "score": 0.86
+        },
+        {
+          "word": "four,",
+          "startSec": 184.87,
+          "endSec": 185.35,
+          "score": 0.46
+        },
+        {
+          "word": "daily",
+          "startSec": 185.71,
+          "endSec": 185.87,
+          "score": 0.77
+        },
+        {
+          "word": "life.",
+          "startSec": 185.87,
+          "endSec": 186.57,
+          "score": 0.99
+        },
+        {
+          "word": "Daily",
+          "startSec": 187.71,
+          "endSec": 188.19,
+          "score": 0.95
+        },
+        {
+          "word": "life",
+          "startSec": 188.19,
+          "endSec": 188.83,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 188.83,
+          "endSec": 189.11,
+          "score": 0.99
+        },
+        {
+          "word": "Dublin",
+          "startSec": 189.11,
+          "endSec": 189.37,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 189.37,
+          "endSec": 189.87,
+          "score": 0.99
+        },
+        {
+          "word": "busy",
+          "startSec": 189.87,
+          "endSec": 190.17,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 190.17,
+          "endSec": 190.71,
+          "score": 0.79
+        },
+        {
+          "word": "friendly.",
+          "startSec": 190.71,
+          "endSec": 191.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 191.93,
+      "end": 200.4,
+      "text": "People go to work, school, or university. Students from many countries live in Dublin. The public",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 192.13,
+          "endSec": 192.47,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 192.47,
+          "endSec": 192.77,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 192.77,
+          "endSec": 192.95,
+          "score": 1.0
+        },
+        {
+          "word": "work,",
+          "startSec": 192.95,
+          "endSec": 193.35,
+          "score": 1.0
+        },
+        {
+          "word": "school,",
+          "startSec": 193.63,
+          "endSec": 194.05,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 194.65,
+          "endSec": 194.71,
+          "score": 1.0
+        },
+        {
+          "word": "university.",
+          "startSec": 194.71,
+          "endSec": 195.13,
+          "score": 0.98
+        },
+        {
+          "word": "Students",
+          "startSec": 196.15,
+          "endSec": 196.61,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 196.61,
+          "endSec": 196.95,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 196.95,
+          "endSec": 197.29,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 197.29,
+          "endSec": 197.89,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 197.89,
+          "endSec": 198.39,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 198.39,
+          "endSec": 198.65,
+          "score": 1.0
+        },
+        {
+          "word": "Dublin.",
+          "startSec": 198.65,
+          "endSec": 198.95,
+          "score": 1.0
+        },
+        {
+          "word": "The",
+          "startSec": 199.77,
+          "endSec": 199.83,
+          "score": 1.0
+        },
+        {
+          "word": "public",
+          "startSec": 199.83,
+          "endSec": 200.25,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 200.05,
+      "end": 210.56,
+      "text": "transport includes buses, trams, and trains. In the evenings, people like to meet friends in cafes",
+      "words": [
+        {
+          "word": "transport",
+          "startSec": 200.25,
+          "endSec": 201.09,
+          "score": 0.0
+        },
+        {
+          "word": "includes",
+          "startSec": 201.09,
+          "endSec": 201.71,
+          "score": 0.99
+        },
+        {
+          "word": "buses,",
+          "startSec": 201.71,
+          "endSec": 202.47,
+          "score": 0.99
+        },
+        {
+          "word": "trams,",
+          "startSec": 202.91,
+          "endSec": 203.57,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 203.79,
+          "endSec": 203.87,
+          "score": 0.99
+        },
+        {
+          "word": "trains.",
+          "startSec": 203.87,
+          "endSec": 204.23,
+          "score": 0.99
+        },
+        {
+          "word": "In",
+          "startSec": 206.09,
+          "endSec": 206.23,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 206.23,
+          "endSec": 206.39,
+          "score": 1.0
+        },
+        {
+          "word": "evenings,",
+          "startSec": 206.39,
+          "endSec": 206.87,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 207.61,
+          "endSec": 208.07,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 208.07,
+          "endSec": 208.51,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 208.51,
+          "endSec": 208.79,
+          "score": 1.0
+        },
+        {
+          "word": "meet",
+          "startSec": 208.79,
+          "endSec": 209.03,
+          "score": 1.0
+        },
+        {
+          "word": "friends",
+          "startSec": 209.03,
+          "endSec": 209.53,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 209.53,
+          "endSec": 209.97,
+          "score": 0.86
+        },
+        {
+          "word": "cafes",
+          "startSec": 209.97,
+          "endSec": 210.41,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 210.21,
+      "end": 221.43,
+      "text": "or pubs. They talk, listen to music, and enjoy time together. On weekends, families go to parks,",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 210.41,
+          "endSec": 211.09,
+          "score": 0.97
+        },
+        {
+          "word": "pubs.",
+          "startSec": 211.09,
+          "endSec": 211.39,
+          "score": 1.0
+        },
+        {
+          "word": "They",
+          "startSec": 212.47,
+          "endSec": 212.71,
+          "score": 1.0
+        },
+        {
+          "word": "talk,",
+          "startSec": 212.71,
+          "endSec": 213.17,
+          "score": 1.0
+        },
+        {
+          "word": "listen",
+          "startSec": 213.99,
+          "endSec": 214.27,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 214.27,
+          "endSec": 214.71,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 214.71,
+          "endSec": 215.27,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 215.75,
+          "endSec": 215.93,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 215.93,
+          "endSec": 216.33,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 216.33,
+          "endSec": 216.79,
+          "score": 1.0
+        },
+        {
+          "word": "together.",
+          "startSec": 216.79,
+          "endSec": 217.27,
+          "score": 1.0
+        },
+        {
+          "word": "On",
+          "startSec": 218.56,
+          "endSec": 218.86,
+          "score": 1.0
+        },
+        {
+          "word": "weekends,",
+          "startSec": 218.86,
+          "endSec": 219.32,
+          "score": 1.0
+        },
+        {
+          "word": "families",
+          "startSec": 219.32,
+          "endSec": 220.42,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 220.42,
+          "endSec": 220.76,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 220.76,
+          "endSec": 220.92,
+          "score": 1.0
+        },
+        {
+          "word": "parks,",
+          "startSec": 220.92,
+          "endSec": 221.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 221.38,
+      "end": 230.53,
+      "text": "markets, or visit the seaside. Some people also take short trips to the countryside near Dublin.",
+      "words": [
+        {
+          "word": "markets,",
+          "startSec": 221.58,
+          "endSec": 222.2,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 222.26,
+          "endSec": 223.1,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 223.1,
+          "endSec": 223.48,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 223.48,
+          "endSec": 223.8,
+          "score": 1.0
+        },
+        {
+          "word": "seaside.",
+          "startSec": 223.8,
+          "endSec": 224.54,
+          "score": 0.96
+        },
+        {
+          "word": "Some",
+          "startSec": 225.44,
+          "endSec": 225.84,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 225.84,
+          "endSec": 226.34,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 226.34,
+          "endSec": 226.72,
+          "score": 0.99
+        },
+        {
+          "word": "take",
+          "startSec": 226.72,
+          "endSec": 227.32,
+          "score": 1.0
+        },
+        {
+          "word": "short",
+          "startSec": 227.32,
+          "endSec": 227.66,
+          "score": 0.99
+        },
+        {
+          "word": "trips",
+          "startSec": 227.66,
+          "endSec": 228.06,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 228.06,
+          "endSec": 228.48,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 228.48,
+          "endSec": 228.64,
+          "score": 1.0
+        },
+        {
+          "word": "countryside",
+          "startSec": 228.64,
+          "endSec": 229.06,
+          "score": 0.96
+        },
+        {
+          "word": "near",
+          "startSec": 229.06,
+          "endSec": 229.94,
+          "score": 0.99
+        },
+        {
+          "word": "Dublin.",
+          "startSec": 229.94,
+          "endSec": 230.38,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 231.62,
+      "end": 239.73,
+      "text": "Life in Dublin is a mix of tradition and modern style. It is a city with history,",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 231.82,
+          "endSec": 232.2,
+          "score": 0.24
+        },
+        {
+          "word": "in",
+          "startSec": 232.2,
+          "endSec": 232.48,
+          "score": 0.83
+        },
+        {
+          "word": "Dublin",
+          "startSec": 232.48,
+          "endSec": 232.7,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 232.7,
+          "endSec": 233.58,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 233.58,
+          "endSec": 233.78,
+          "score": 0.99
+        },
+        {
+          "word": "mix",
+          "startSec": 233.78,
+          "endSec": 234.1,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 234.1,
+          "endSec": 234.54,
+          "score": 1.0
+        },
+        {
+          "word": "tradition",
+          "startSec": 234.54,
+          "endSec": 235.0,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 235.0,
+          "endSec": 235.62,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 235.62,
+          "endSec": 235.94,
+          "score": 1.0
+        },
+        {
+          "word": "style.",
+          "startSec": 235.94,
+          "endSec": 236.6,
+          "score": 0.98
+        },
+        {
+          "word": "It",
+          "startSec": 237.56,
+          "endSec": 237.84,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 237.84,
+          "endSec": 238.08,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 238.08,
+          "endSec": 238.26,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 238.26,
+          "endSec": 238.62,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 238.62,
+          "endSec": 238.96,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 238.96,
+          "endSec": 239.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 239.96,
+      "end": 248.9,
+      "text": "music, and warm people. That is all for today. Now you know about Dublin's nature,",
+      "words": [
+        {
+          "word": "music,",
+          "startSec": 240.16,
+          "endSec": 240.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 241.48,
+          "endSec": 241.68,
+          "score": 1.0
+        },
+        {
+          "word": "warm",
+          "startSec": 241.68,
+          "endSec": 242.02,
+          "score": 0.99
+        },
+        {
+          "word": "people.",
+          "startSec": 242.02,
+          "endSec": 242.6,
+          "score": 1.0
+        },
+        {
+          "word": "That",
+          "startSec": 243.67,
+          "endSec": 244.13,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 244.13,
+          "endSec": 244.33,
+          "score": 0.98
+        },
+        {
+          "word": "all",
+          "startSec": 244.33,
+          "endSec": 244.61,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 244.61,
+          "endSec": 244.85,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 244.85,
+          "endSec": 245.29,
+          "score": 1.0
+        },
+        {
+          "word": "Now",
+          "startSec": 246.45,
+          "endSec": 246.73,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 246.73,
+          "endSec": 246.97,
+          "score": 0.94
+        },
+        {
+          "word": "know",
+          "startSec": 246.97,
+          "endSec": 247.17,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 247.17,
+          "endSec": 247.53,
+          "score": 1.0
+        },
+        {
+          "word": "Dublin's",
+          "startSec": 247.53,
+          "endSec": 248.31,
+          "score": 0.99
+        },
+        {
+          "word": "nature,",
+          "startSec": 248.31,
+          "endSec": 248.75,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 248.87,
+      "end": 256.91,
+      "text": "city, culture, and daily life. It is a beautiful city with parks, history, and music.",
+      "words": [
+        {
+          "word": "city,",
+          "startSec": 249.07,
+          "endSec": 249.49,
+          "score": 0.99
+        },
+        {
+          "word": "culture,",
+          "startSec": 250.09,
+          "endSec": 250.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 250.75,
+          "endSec": 250.83,
+          "score": 1.0
+        },
+        {
+          "word": "daily",
+          "startSec": 250.83,
+          "endSec": 251.07,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 251.07,
+          "endSec": 251.63,
+          "score": 1.0
+        },
+        {
+          "word": "It",
+          "startSec": 252.48,
+          "endSec": 252.78,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 252.78,
+          "endSec": 252.92,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 252.92,
+          "endSec": 253.12,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 253.12,
+          "endSec": 253.36,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 253.36,
+          "endSec": 254.06,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 254.06,
+          "endSec": 254.42,
+          "score": 0.99
+        },
+        {
+          "word": "parks,",
+          "startSec": 254.42,
+          "endSec": 254.82,
+          "score": 0.97
+        },
+        {
+          "word": "history,",
+          "startSec": 255.46,
+          "endSec": 255.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 256.04,
+          "endSec": 256.36,
+          "score": 1.0
+        },
+        {
+          "word": "music.",
+          "startSec": 256.36,
+          "endSec": 256.76,
+          "score": 1.0
         }
       ]
     }

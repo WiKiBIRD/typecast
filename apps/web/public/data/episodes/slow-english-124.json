@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 3.82,
-      "end": 5.57,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 4.02,
-          "endSec": 4.34,
-          "score": 0.97
-        },
-        {
-          "word": "name",
-          "startSec": 4.34,
-          "endSec": 4.54,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 4.54,
-          "endSec": 4.82,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 4.82,
-          "endSec": 5.42,
-          "score": 0.6
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 5.88,
       "end": 7.81,
       "text": "I am happy you are here.",
@@ -146,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.0,
       "end": 10.83,
       "text": "Today we will talk about Ghana.",
@@ -190,7 +158,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 11.7,
       "end": 17.35,
       "text": "Ghana is a warm, colorful, and friendly country in West Africa.",
@@ -264,7 +232,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 18.33,
       "end": 21.92,
       "text": "Let's learn about it in slow and easy English.",
@@ -326,7 +294,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 22.21,
       "end": 23.22,
       "text": "Are you ready?",
@@ -352,7 +320,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 23.71,
       "end": 24.52,
       "text": "Let's begin.",
@@ -372,7 +340,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 26.28,
       "end": 27.63,
       "text": "Where is Ghana?",
@@ -398,7 +366,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 28.66,
       "end": 30.97,
       "text": "Ghana is in West Africa.",
@@ -432,6 +400,4270 @@
           "startSec": 30.2,
           "endSec": 30.82,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 30.62,
+      "end": 35.65,
+      "text": "It is next to Cote d'Ivoire, Burkina Faso, and Togo.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 30.82,
+          "endSec": 31.34,
+          "score": 0.58
+        },
+        {
+          "word": "is",
+          "startSec": 31.34,
+          "endSec": 31.5,
+          "score": 0.95
+        },
+        {
+          "word": "next",
+          "startSec": 31.5,
+          "endSec": 31.76,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 31.76,
+          "endSec": 32.08,
+          "score": 0.99
+        },
+        {
+          "word": "Cote",
+          "startSec": 32.08,
+          "endSec": 32.42,
+          "score": 0.51
+        },
+        {
+          "word": "d",
+          "startSec": 32.42,
+          "endSec": 32.52,
+          "score": 0.11
+        },
+        {
+          "word": "'Ivoire,",
+          "startSec": 32.52,
+          "endSec": 33.02,
+          "score": 0.83
+        },
+        {
+          "word": "Burkina",
+          "startSec": 33.24,
+          "endSec": 33.62,
+          "score": 0.98
+        },
+        {
+          "word": "Faso,",
+          "startSec": 33.62,
+          "endSec": 34.48,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 34.82,
+          "endSec": 35.0,
+          "score": 0.99
+        },
+        {
+          "word": "Togo.",
+          "startSec": 35.0,
+          "endSec": 35.5,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 36.49,
+      "end": 39.8,
+      "text": "To the south, it touches the Atlantic Ocean.",
+      "words": [
+        {
+          "word": "To",
+          "startSec": 36.69,
+          "endSec": 36.91,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 36.91,
+          "endSec": 37.09,
+          "score": 1.0
+        },
+        {
+          "word": "south,",
+          "startSec": 37.09,
+          "endSec": 37.45,
+          "score": 0.89
+        },
+        {
+          "word": "it",
+          "startSec": 37.59,
+          "endSec": 37.83,
+          "score": 1.0
+        },
+        {
+          "word": "touches",
+          "startSec": 37.83,
+          "endSec": 38.25,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 38.25,
+          "endSec": 38.59,
+          "score": 1.0
+        },
+        {
+          "word": "Atlantic",
+          "startSec": 38.59,
+          "endSec": 39.07,
+          "score": 1.0
+        },
+        {
+          "word": "Ocean.",
+          "startSec": 39.07,
+          "endSec": 39.65,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 40.17,
+      "end": 42.9,
+      "text": "This part is called the Gulf of Guinea.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 40.37,
+          "endSec": 40.39,
+          "score": 0.99
+        },
+        {
+          "word": "part",
+          "startSec": 40.39,
+          "endSec": 40.79,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 40.79,
+          "endSec": 41.09,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 41.09,
+          "endSec": 41.53,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 41.53,
+          "endSec": 41.87,
+          "score": 0.86
+        },
+        {
+          "word": "Gulf",
+          "startSec": 41.87,
+          "endSec": 42.13,
+          "score": 0.96
+        },
+        {
+          "word": "of",
+          "startSec": 42.13,
+          "endSec": 42.41,
+          "score": 0.99
+        },
+        {
+          "word": "Guinea.",
+          "startSec": 42.41,
+          "endSec": 42.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 43.69,
+      "end": 48.44,
+      "text": "Ghana has beaches, forests, lakes, and cities.",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 43.89,
+          "endSec": 43.89,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 43.89,
+          "endSec": 44.37,
+          "score": 1.0
+        },
+        {
+          "word": "beaches,",
+          "startSec": 44.37,
+          "endSec": 44.71,
+          "score": 1.0
+        },
+        {
+          "word": "forests,",
+          "startSec": 45.49,
+          "endSec": 46.05,
+          "score": 0.99
+        },
+        {
+          "word": "lakes,",
+          "startSec": 47.09,
+          "endSec": 47.17,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 47.71,
+          "endSec": 47.93,
+          "score": 0.99
+        },
+        {
+          "word": "cities.",
+          "startSec": 47.93,
+          "endSec": 48.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 49.01,
+      "end": 51.64,
+      "text": "What is the capital city of Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 49.21,
+          "endSec": 49.31,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 49.31,
+          "endSec": 49.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 49.73,
+          "endSec": 49.99,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 49.99,
+          "endSec": 50.43,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 50.43,
+          "endSec": 50.91,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 50.91,
+          "endSec": 51.19,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 51.19,
+          "endSec": 51.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 52.59,
+      "end": 54.96,
+      "text": "The capital city is Accra.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 52.79,
+          "endSec": 52.93,
+          "score": 0.97
+        },
+        {
+          "word": "capital",
+          "startSec": 52.93,
+          "endSec": 53.29,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 53.29,
+          "endSec": 53.95,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 53.95,
+          "endSec": 54.25,
+          "score": 1.0
+        },
+        {
+          "word": "Accra.",
+          "startSec": 54.25,
+          "endSec": 54.81,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 56.08,
+      "end": 57.75,
+      "text": "Accra is on the coast.",
+      "words": [
+        {
+          "word": "Accra",
+          "startSec": 56.28,
+          "endSec": 56.62,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 56.62,
+          "endSec": 56.94,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 56.94,
+          "endSec": 57.16,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 57.16,
+          "endSec": 57.34,
+          "score": 1.0
+        },
+        {
+          "word": "coast.",
+          "startSec": 57.34,
+          "endSec": 57.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 58.2,
+      "end": 63.69,
+      "text": "It has markets, museums, traffic, and modern buildings.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 58.4,
+          "endSec": 58.86,
+          "score": 0.4
+        },
+        {
+          "word": "has",
+          "startSec": 58.86,
+          "endSec": 59.14,
+          "score": 0.97
+        },
+        {
+          "word": "markets,",
+          "startSec": 59.14,
+          "endSec": 59.74,
+          "score": 0.96
+        },
+        {
+          "word": "museums,",
+          "startSec": 59.88,
+          "endSec": 60.8,
+          "score": 1.0
+        },
+        {
+          "word": "traffic,",
+          "startSec": 61.58,
+          "endSec": 61.88,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 62.6,
+          "endSec": 62.64,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 62.64,
+          "endSec": 62.9,
+          "score": 1.0
+        },
+        {
+          "word": "buildings.",
+          "startSec": 62.9,
+          "endSec": 63.54,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 64.58,
+      "end": 70.43,
+      "text": "Other important cities are Kumasi, known for culture and history,",
+      "words": [
+        {
+          "word": "Other",
+          "startSec": 64.78,
+          "endSec": 65.12,
+          "score": 0.98
+        },
+        {
+          "word": "important",
+          "startSec": 65.12,
+          "endSec": 65.52,
+          "score": 1.0
+        },
+        {
+          "word": "cities",
+          "startSec": 65.52,
+          "endSec": 66.18,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 66.18,
+          "endSec": 66.6,
+          "score": 1.0
+        },
+        {
+          "word": "Kumasi,",
+          "startSec": 66.6,
+          "endSec": 67.82,
+          "score": 0.75
+        },
+        {
+          "word": "known",
+          "startSec": 68.3,
+          "endSec": 68.66,
+          "score": 0.98
+        },
+        {
+          "word": "for",
+          "startSec": 68.66,
+          "endSec": 69.0,
+          "score": 1.0
+        },
+        {
+          "word": "culture",
+          "startSec": 69.0,
+          "endSec": 69.44,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 69.44,
+          "endSec": 69.8,
+          "score": 0.99
+        },
+        {
+          "word": "history,",
+          "startSec": 69.8,
+          "endSec": 70.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 70.86,
+      "end": 72.95,
+      "text": "tamale in the north,",
+      "words": [
+        {
+          "word": "tamale",
+          "startSec": 71.06,
+          "endSec": 71.6,
+          "score": 0.58
+        },
+        {
+          "word": "in",
+          "startSec": 71.6,
+          "endSec": 72.26,
+          "score": 0.63
+        },
+        {
+          "word": "the",
+          "startSec": 72.26,
+          "endSec": 72.46,
+          "score": 0.99
+        },
+        {
+          "word": "north,",
+          "startSec": 72.46,
+          "endSec": 72.8,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 73.61,
+      "end": 78.4,
+      "text": "Takarati and Cape Coast with beaches and forts.",
+      "words": [
+        {
+          "word": "Takarati",
+          "startSec": 73.81,
+          "endSec": 74.53,
+          "score": 0.57
+        },
+        {
+          "word": "and",
+          "startSec": 74.53,
+          "endSec": 75.03,
+          "score": 0.73
+        },
+        {
+          "word": "Cape",
+          "startSec": 75.03,
+          "endSec": 75.37,
+          "score": 0.95
+        },
+        {
+          "word": "Coast",
+          "startSec": 75.37,
+          "endSec": 75.93,
+          "score": 0.8
+        },
+        {
+          "word": "with",
+          "startSec": 75.93,
+          "endSec": 76.77,
+          "score": 0.55
+        },
+        {
+          "word": "beaches",
+          "startSec": 76.77,
+          "endSec": 77.17,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 77.17,
+          "endSec": 77.57,
+          "score": 0.98
+        },
+        {
+          "word": "forts.",
+          "startSec": 77.57,
+          "endSec": 78.25,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 79.1,
+      "end": 81.23,
+      "text": "How many people live in Ghana?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 79.3,
+          "endSec": 79.46,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 79.46,
+          "endSec": 79.7,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 79.7,
+          "endSec": 80.24,
+          "score": 0.97
+        },
+        {
+          "word": "live",
+          "startSec": 80.24,
+          "endSec": 80.64,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 80.64,
+          "endSec": 80.86,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 80.86,
+          "endSec": 81.08,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 81.64,
+      "end": 84.75,
+      "text": "About 34 million people live in Ghana.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 81.84,
+          "endSec": 82.02,
+          "score": 0.98
+        },
+        {
+          "word": "34",
+          "startSec": 82.02,
+          "endSec": 82.68,
+          "score": 0.99
+        },
+        {
+          "word": "million",
+          "startSec": 82.68,
+          "endSec": 83.22,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 83.22,
+          "endSec": 83.66,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 83.66,
+          "endSec": 84.12,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 84.12,
+          "endSec": 84.34,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana.",
+          "startSec": 84.34,
+          "endSec": 84.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 84.4,
+      "end": 89.81,
+      "text": "Ghana has many ethnic groups and local languages.",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 84.6,
+          "endSec": 84.86,
+          "score": 0.68
+        },
+        {
+          "word": "has",
+          "startSec": 85.18,
+          "endSec": 86.82,
+          "score": 0.93
+        },
+        {
+          "word": "many",
+          "startSec": 86.82,
+          "endSec": 87.12,
+          "score": 1.0
+        },
+        {
+          "word": "ethnic",
+          "startSec": 87.12,
+          "endSec": 87.58,
+          "score": 1.0
+        },
+        {
+          "word": "groups",
+          "startSec": 87.58,
+          "endSec": 88.18,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 88.18,
+          "endSec": 88.56,
+          "score": 0.98
+        },
+        {
+          "word": "local",
+          "startSec": 88.56,
+          "endSec": 88.94,
+          "score": 0.99
+        },
+        {
+          "word": "languages.",
+          "startSec": 88.94,
+          "endSec": 89.66,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 90.38,
+      "end": 95.05,
+      "text": "It is one of the most peaceful and stable countries in Africa.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 90.58,
+          "endSec": 90.76,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 90.76,
+          "endSec": 90.94,
+          "score": 0.98
+        },
+        {
+          "word": "one",
+          "startSec": 90.94,
+          "endSec": 91.16,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 91.16,
+          "endSec": 91.3,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 91.3,
+          "endSec": 91.44,
+          "score": 0.99
+        },
+        {
+          "word": "most",
+          "startSec": 91.44,
+          "endSec": 91.68,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 91.68,
+          "endSec": 92.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 92.36,
+          "endSec": 92.8,
+          "score": 0.98
+        },
+        {
+          "word": "stable",
+          "startSec": 92.8,
+          "endSec": 93.4,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 93.4,
+          "endSec": 94.02,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 94.02,
+          "endSec": 94.42,
+          "score": 1.0
+        },
+        {
+          "word": "Africa.",
+          "startSec": 94.42,
+          "endSec": 94.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 96.51,
+      "end": 99.62,
+      "text": "What language do people speak in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 96.71,
+          "endSec": 96.83,
+          "score": 0.85
+        },
+        {
+          "word": "language",
+          "startSec": 96.83,
+          "endSec": 97.45,
+          "score": 0.99
+        },
+        {
+          "word": "do",
+          "startSec": 97.45,
+          "endSec": 97.93,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 97.93,
+          "endSec": 98.25,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 98.25,
+          "endSec": 98.81,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 98.81,
+          "endSec": 99.13,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 99.13,
+          "endSec": 99.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 100.36,
+      "end": 103.07,
+      "text": "The official language is English.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 100.56,
+          "endSec": 100.82,
+          "score": 0.95
+        },
+        {
+          "word": "official",
+          "startSec": 100.82,
+          "endSec": 101.2,
+          "score": 0.95
+        },
+        {
+          "word": "language",
+          "startSec": 101.2,
+          "endSec": 102.08,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 102.08,
+          "endSec": 102.38,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 102.38,
+          "endSec": 102.92,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 103.96,
+      "end": 107.71,
+      "text": "It is used in schools, government, and media.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 104.16,
+          "endSec": 104.28,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 104.28,
+          "endSec": 104.44,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 104.44,
+          "endSec": 104.76,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 104.76,
+          "endSec": 105.08,
+          "score": 1.0
+        },
+        {
+          "word": "schools,",
+          "startSec": 105.08,
+          "endSec": 105.68,
+          "score": 0.99
+        },
+        {
+          "word": "government,",
+          "startSec": 105.76,
+          "endSec": 106.64,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 107.08,
+          "endSec": 107.12,
+          "score": 1.0
+        },
+        {
+          "word": "media.",
+          "startSec": 107.12,
+          "endSec": 107.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 108.54,
+      "end": 112.01,
+      "text": "Many people also speak local languages,",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 108.74,
+          "endSec": 108.98,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 108.98,
+          "endSec": 109.54,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 109.54,
+          "endSec": 109.8,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 109.8,
+          "endSec": 110.4,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 110.4,
+          "endSec": 110.78,
+          "score": 0.99
+        },
+        {
+          "word": "languages,",
+          "startSec": 110.78,
+          "endSec": 111.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 111.66,
+      "end": 116.37,
+      "text": "such as Tuayu Dagbanigafante.",
+      "words": [
+        {
+          "word": "such",
+          "startSec": 111.86,
+          "endSec": 112.62,
+          "score": 0.19
+        },
+        {
+          "word": "as",
+          "startSec": 112.62,
+          "endSec": 113.12,
+          "score": 0.99
+        },
+        {
+          "word": "Tuayu",
+          "startSec": 113.12,
+          "endSec": 114.74,
+          "score": 0.25
+        },
+        {
+          "word": "Dagbanigafante.",
+          "startSec": 114.74,
+          "endSec": 116.22,
+          "score": 0.55
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 116.84,
+      "end": 120.19,
+      "text": "People often speak more than one language.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 117.04,
+          "endSec": 117.6,
+          "score": 0.98
+        },
+        {
+          "word": "often",
+          "startSec": 117.6,
+          "endSec": 117.92,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 117.92,
+          "endSec": 118.6,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 118.6,
+          "endSec": 119.0,
+          "score": 1.0
+        },
+        {
+          "word": "than",
+          "startSec": 119.0,
+          "endSec": 119.24,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 119.24,
+          "endSec": 119.5,
+          "score": 0.99
+        },
+        {
+          "word": "language.",
+          "startSec": 119.5,
+          "endSec": 120.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 120.84,
+      "end": 122.87,
+      "text": "What is the weather like in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 121.04,
+          "endSec": 121.12,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 121.12,
+          "endSec": 121.28,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 121.28,
+          "endSec": 121.46,
+          "score": 1.0
+        },
+        {
+          "word": "weather",
+          "startSec": 121.46,
+          "endSec": 121.74,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 121.74,
+          "endSec": 122.22,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 122.22,
+          "endSec": 122.44,
+          "score": 0.99
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 122.44,
+          "endSec": 122.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 123.89,
+      "end": 126.56,
+      "text": "Ghana has a tropical climate.",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 124.09,
+          "endSec": 124.65,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 124.65,
+          "endSec": 125.09,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 125.09,
+          "endSec": 125.31,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 125.31,
+          "endSec": 125.79,
+          "score": 1.0
+        },
+        {
+          "word": "climate.",
+          "startSec": 125.79,
+          "endSec": 126.41,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 127.33,
+      "end": 129.9,
+      "text": "It is usually hot and humid.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 127.53,
+          "endSec": 127.69,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 127.69,
+          "endSec": 127.89,
+          "score": 1.0
+        },
+        {
+          "word": "usually",
+          "startSec": 127.89,
+          "endSec": 128.43,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 128.43,
+          "endSec": 128.97,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 128.97,
+          "endSec": 129.35,
+          "score": 1.0
+        },
+        {
+          "word": "humid.",
+          "startSec": 129.35,
+          "endSec": 129.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 130.67,
+      "end": 132.6,
+      "text": "There are two main seasons.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 130.87,
+          "endSec": 131.11,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 131.11,
+          "endSec": 131.27,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 131.27,
+          "endSec": 131.53,
+          "score": 0.97
+        },
+        {
+          "word": "main",
+          "startSec": 131.53,
+          "endSec": 131.87,
+          "score": 1.0
+        },
+        {
+          "word": "seasons.",
+          "startSec": 131.87,
+          "endSec": 132.45,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 133.21,
+      "end": 137.48,
+      "text": "Rainy season with heavy rain and green landscapes.",
+      "words": [
+        {
+          "word": "Rainy",
+          "startSec": 133.41,
+          "endSec": 133.95,
+          "score": 0.97
+        },
+        {
+          "word": "season",
+          "startSec": 133.95,
+          "endSec": 134.25,
+          "score": 0.95
+        },
+        {
+          "word": "with",
+          "startSec": 134.25,
+          "endSec": 135.01,
+          "score": 0.77
+        },
+        {
+          "word": "heavy",
+          "startSec": 135.01,
+          "endSec": 135.41,
+          "score": 1.0
+        },
+        {
+          "word": "rain",
+          "startSec": 135.41,
+          "endSec": 135.87,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 135.87,
+          "endSec": 136.31,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 136.31,
+          "endSec": 136.57,
+          "score": 0.94
+        },
+        {
+          "word": "landscapes.",
+          "startSec": 136.57,
+          "endSec": 137.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 138.21,
+      "end": 140.9,
+      "text": "Dry season, hot and sunny,",
+      "words": [
+        {
+          "word": "Dry",
+          "startSec": 138.41,
+          "endSec": 138.87,
+          "score": 0.96
+        },
+        {
+          "word": "season,",
+          "startSec": 138.87,
+          "endSec": 139.47,
+          "score": 0.99
+        },
+        {
+          "word": "hot",
+          "startSec": 139.89,
+          "endSec": 140.17,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 140.17,
+          "endSec": 140.41,
+          "score": 1.0
+        },
+        {
+          "word": "sunny,",
+          "startSec": 140.41,
+          "endSec": 140.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 140.55,
+      "end": 142.92,
+      "text": "sometimes dusty,",
+      "words": [
+        {
+          "word": "sometimes",
+          "startSec": 140.75,
+          "endSec": 141.97,
+          "score": 0.04
+        },
+        {
+          "word": "dusty,",
+          "startSec": 141.97,
+          "endSec": 142.77,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 143.01,
+      "end": 144.38,
+      "text": "harmant and winds.",
+      "words": [
+        {
+          "word": "harmant",
+          "startSec": 143.21,
+          "endSec": 143.75,
+          "score": 0.25
+        },
+        {
+          "word": "and",
+          "startSec": 143.75,
+          "endSec": 143.97,
+          "score": 0.66
+        },
+        {
+          "word": "winds.",
+          "startSec": 143.97,
+          "endSec": 144.23,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 145.28,
+      "end": 149.09,
+      "text": "People wear light clothes and drink lots of water.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 145.48,
+          "endSec": 145.88,
+          "score": 0.81
+        },
+        {
+          "word": "wear",
+          "startSec": 145.88,
+          "endSec": 146.24,
+          "score": 1.0
+        },
+        {
+          "word": "light",
+          "startSec": 146.24,
+          "endSec": 146.6,
+          "score": 0.96
+        },
+        {
+          "word": "clothes",
+          "startSec": 146.6,
+          "endSec": 147.06,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 147.06,
+          "endSec": 147.62,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 147.62,
+          "endSec": 147.86,
+          "score": 1.0
+        },
+        {
+          "word": "lots",
+          "startSec": 147.86,
+          "endSec": 148.24,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 148.24,
+          "endSec": 148.52,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 148.52,
+          "endSec": 148.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 150.73,
+      "end": 152.78,
+      "text": "What does Ghana look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 150.93,
+          "endSec": 151.13,
+          "score": 0.96
+        },
+        {
+          "word": "does",
+          "startSec": 151.13,
+          "endSec": 151.43,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana",
+          "startSec": 151.43,
+          "endSec": 151.73,
+          "score": 0.95
+        },
+        {
+          "word": "look",
+          "startSec": 151.73,
+          "endSec": 152.23,
+          "score": 1.0
+        },
+        {
+          "word": "like?",
+          "startSec": 152.23,
+          "endSec": 152.63,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 153.14,
+      "end": 156.25,
+      "text": "Ghana has coastlines and beaches.",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 153.34,
+          "endSec": 153.92,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 153.92,
+          "endSec": 154.44,
+          "score": 1.0
+        },
+        {
+          "word": "coastlines",
+          "startSec": 154.44,
+          "endSec": 155.52,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 155.52,
+          "endSec": 155.84,
+          "score": 0.96
+        },
+        {
+          "word": "beaches.",
+          "startSec": 155.84,
+          "endSec": 156.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 157.0,
+      "end": 160.27,
+      "text": "Forests like the Kacum National Park.",
+      "words": [
+        {
+          "word": "Forests",
+          "startSec": 157.2,
+          "endSec": 158.0,
+          "score": 0.92
+        },
+        {
+          "word": "like",
+          "startSec": 158.0,
+          "endSec": 158.42,
+          "score": 0.88
+        },
+        {
+          "word": "the",
+          "startSec": 158.42,
+          "endSec": 158.62,
+          "score": 0.98
+        },
+        {
+          "word": "Kacum",
+          "startSec": 158.62,
+          "endSec": 159.12,
+          "score": 0.32
+        },
+        {
+          "word": "National",
+          "startSec": 159.12,
+          "endSec": 159.42,
+          "score": 0.98
+        },
+        {
+          "word": "Park.",
+          "startSec": 159.42,
+          "endSec": 160.12,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 161.08,
+      "end": 163.17,
+      "text": "Savannah is in the north.",
+      "words": [
+        {
+          "word": "Savannah",
+          "startSec": 161.28,
+          "endSec": 161.8,
+          "score": 0.74
+        },
+        {
+          "word": "is",
+          "startSec": 161.8,
+          "endSec": 162.32,
+          "score": 0.1
+        },
+        {
+          "word": "in",
+          "startSec": 162.32,
+          "endSec": 162.5,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 162.5,
+          "endSec": 162.66,
+          "score": 1.0
+        },
+        {
+          "word": "north.",
+          "startSec": 162.66,
+          "endSec": 163.02,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 164.17,
+      "end": 167.9,
+      "text": "Lakes like Lake Volta, one of the biggest in the world.",
+      "words": [
+        {
+          "word": "Lakes",
+          "startSec": 164.37,
+          "endSec": 164.37,
+          "score": 0.97
+        },
+        {
+          "word": "like",
+          "startSec": 164.37,
+          "endSec": 165.05,
+          "score": 0.87
+        },
+        {
+          "word": "Lake",
+          "startSec": 165.05,
+          "endSec": 165.35,
+          "score": 0.97
+        },
+        {
+          "word": "Volta,",
+          "startSec": 165.35,
+          "endSec": 165.95,
+          "score": 0.93
+        },
+        {
+          "word": "one",
+          "startSec": 166.13,
+          "endSec": 166.27,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 166.27,
+          "endSec": 166.41,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 166.41,
+          "endSec": 166.55,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 166.55,
+          "endSec": 166.89,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 166.89,
+          "endSec": 167.21,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 167.21,
+          "endSec": 167.41,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 167.41,
+          "endSec": 167.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 167.55,
+      "end": 173.01,
+      "text": "It is a country full of natural beauty and wildlife.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 167.75,
+          "endSec": 168.57,
+          "score": 0.48
+        },
+        {
+          "word": "is",
+          "startSec": 169.3,
+          "endSec": 169.86,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 169.86,
+          "endSec": 170.02,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 170.02,
+          "endSec": 170.38,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 170.38,
+          "endSec": 170.9,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 170.9,
+          "endSec": 171.14,
+          "score": 0.99
+        },
+        {
+          "word": "natural",
+          "startSec": 171.14,
+          "endSec": 171.5,
+          "score": 0.99
+        },
+        {
+          "word": "beauty",
+          "startSec": 171.5,
+          "endSec": 172.08,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 172.08,
+          "endSec": 172.52,
+          "score": 0.84
+        },
+        {
+          "word": "wildlife.",
+          "startSec": 172.52,
+          "endSec": 172.86,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 173.84,
+      "end": 175.83,
+      "text": "What animals live in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 174.04,
+          "endSec": 174.16,
+          "score": 0.84
+        },
+        {
+          "word": "animals",
+          "startSec": 174.16,
+          "endSec": 174.66,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 174.66,
+          "endSec": 175.16,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 175.16,
+          "endSec": 175.4,
+          "score": 0.99
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 175.4,
+          "endSec": 175.68,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 176.32,
+      "end": 179.75,
+      "text": "You can see monkeys, antelope, and elephants.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 176.52,
+          "endSec": 176.58,
+          "score": 0.97
+        },
+        {
+          "word": "can",
+          "startSec": 176.58,
+          "endSec": 176.74,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 176.74,
+          "endSec": 177.04,
+          "score": 0.99
+        },
+        {
+          "word": "monkeys,",
+          "startSec": 177.04,
+          "endSec": 177.5,
+          "score": 0.99
+        },
+        {
+          "word": "antelope,",
+          "startSec": 178.2,
+          "endSec": 178.74,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 179.1,
+          "endSec": 179.14,
+          "score": 0.97
+        },
+        {
+          "word": "elephants.",
+          "startSec": 179.14,
+          "endSec": 179.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 180.66,
+      "end": 183.63,
+      "text": "Crocodiles, lizards, and turtles.",
+      "words": [
+        {
+          "word": "Crocodiles,",
+          "startSec": 180.86,
+          "endSec": 181.72,
+          "score": 0.97
+        },
+        {
+          "word": "lizards,",
+          "startSec": 182.3,
+          "endSec": 182.68,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 183.14,
+          "endSec": 183.22,
+          "score": 1.0
+        },
+        {
+          "word": "turtles.",
+          "startSec": 183.22,
+          "endSec": 183.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 185.0,
+      "end": 187.27,
+      "text": "Birds like parrots and eagles.",
+      "words": [
+        {
+          "word": "Birds",
+          "startSec": 185.2,
+          "endSec": 185.2,
+          "score": 0.97
+        },
+        {
+          "word": "like",
+          "startSec": 185.2,
+          "endSec": 185.84,
+          "score": 0.76
+        },
+        {
+          "word": "parrots",
+          "startSec": 185.84,
+          "endSec": 186.5,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 186.5,
+          "endSec": 186.68,
+          "score": 0.95
+        },
+        {
+          "word": "eagles.",
+          "startSec": 186.68,
+          "endSec": 187.12,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 188.14,
+      "end": 191.79,
+      "text": "Goats, sheep, chickens, and cows on farms.",
+      "words": [
+        {
+          "word": "Goats,",
+          "startSec": 188.34,
+          "endSec": 188.78,
+          "score": 0.65
+        },
+        {
+          "word": "sheep,",
+          "startSec": 189.34,
+          "endSec": 189.34,
+          "score": 1.0
+        },
+        {
+          "word": "chickens,",
+          "startSec": 190.14,
+          "endSec": 190.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 190.56,
+          "endSec": 190.64,
+          "score": 1.0
+        },
+        {
+          "word": "cows",
+          "startSec": 190.64,
+          "endSec": 190.96,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 190.96,
+          "endSec": 191.36,
+          "score": 0.99
+        },
+        {
+          "word": "farms.",
+          "startSec": 191.36,
+          "endSec": 191.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 192.54,
+      "end": 196.31,
+      "text": "Some people visit national parks to see wild animals.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 192.74,
+          "endSec": 193.0,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 193.0,
+          "endSec": 193.4,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 193.4,
+          "endSec": 193.78,
+          "score": 1.0
+        },
+        {
+          "word": "national",
+          "startSec": 193.78,
+          "endSec": 194.32,
+          "score": 0.77
+        },
+        {
+          "word": "parks",
+          "startSec": 194.32,
+          "endSec": 194.76,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 194.76,
+          "endSec": 195.18,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 195.18,
+          "endSec": 195.4,
+          "score": 1.0
+        },
+        {
+          "word": "wild",
+          "startSec": 195.4,
+          "endSec": 195.8,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 195.8,
+          "endSec": 196.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 197.06,
+      "end": 199.45,
+      "text": "What do people eat in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 197.26,
+          "endSec": 197.74,
+          "score": 0.25
+        },
+        {
+          "word": "do",
+          "startSec": 197.74,
+          "endSec": 197.98,
+          "score": 0.95
+        },
+        {
+          "word": "people",
+          "startSec": 197.98,
+          "endSec": 198.26,
+          "score": 0.95
+        },
+        {
+          "word": "eat",
+          "startSec": 198.26,
+          "endSec": 198.76,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 198.76,
+          "endSec": 199.02,
+          "score": 0.77
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 199.02,
+          "endSec": 199.3,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 200.28,
+      "end": 203.95,
+      "text": "Ghanaian food is spicy, rich, and filling.",
+      "words": [
+        {
+          "word": "Ghanaian",
+          "startSec": 200.48,
+          "endSec": 201.18,
+          "score": 0.61
+        },
+        {
+          "word": "food",
+          "startSec": 201.18,
+          "endSec": 201.46,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 201.46,
+          "endSec": 201.7,
+          "score": 1.0
+        },
+        {
+          "word": "spicy,",
+          "startSec": 201.7,
+          "endSec": 202.06,
+          "score": 0.98
+        },
+        {
+          "word": "rich,",
+          "startSec": 202.72,
+          "endSec": 202.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 203.32,
+          "endSec": 203.4,
+          "score": 1.0
+        },
+        {
+          "word": "filling.",
+          "startSec": 203.4,
+          "endSec": 203.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 204.38,
+      "end": 209.71,
+      "text": "People eat rice, yam, plantain, and cassava.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 204.58,
+          "endSec": 204.94,
+          "score": 0.91
+        },
+        {
+          "word": "eat",
+          "startSec": 204.94,
+          "endSec": 205.3,
+          "score": 1.0
+        },
+        {
+          "word": "rice,",
+          "startSec": 205.3,
+          "endSec": 206.32,
+          "score": 0.96
+        },
+        {
+          "word": "yam,",
+          "startSec": 207.12,
+          "endSec": 207.72,
+          "score": 0.87
+        },
+        {
+          "word": "plantain,",
+          "startSec": 208.06,
+          "endSec": 208.6,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 208.84,
+          "endSec": 208.86,
+          "score": 0.99
+        },
+        {
+          "word": "cassava.",
+          "startSec": 208.86,
+          "endSec": 209.56,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 210.06,
+      "end": 214.71,
+      "text": "Fish, chicken, and goat meat, vegetables, and sauces.",
+      "words": [
+        {
+          "word": "Fish,",
+          "startSec": 210.26,
+          "endSec": 210.8,
+          "score": 0.97
+        },
+        {
+          "word": "chicken,",
+          "startSec": 211.46,
+          "endSec": 211.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 212.34,
+          "endSec": 212.4,
+          "score": 0.99
+        },
+        {
+          "word": "goat",
+          "startSec": 212.4,
+          "endSec": 212.68,
+          "score": 0.95
+        },
+        {
+          "word": "meat,",
+          "startSec": 212.68,
+          "endSec": 213.02,
+          "score": 0.98
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 213.3,
+          "endSec": 213.78,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 213.9,
+          "endSec": 214.24,
+          "score": 1.0
+        },
+        {
+          "word": "sauces.",
+          "startSec": 214.24,
+          "endSec": 214.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 215.54,
+      "end": 219.11,
+      "text": "Popular dishes, jalaf rice,",
+      "words": [
+        {
+          "word": "Popular",
+          "startSec": 215.74,
+          "endSec": 216.26,
+          "score": 0.96
+        },
+        {
+          "word": "dishes,",
+          "startSec": 216.26,
+          "endSec": 216.8,
+          "score": 1.0
+        },
+        {
+          "word": "jalaf",
+          "startSec": 217.94,
+          "endSec": 218.7,
+          "score": 0.59
+        },
+        {
+          "word": "rice,",
+          "startSec": 218.7,
+          "endSec": 218.96,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 219.42,
+      "end": 221.99,
+      "text": "spicy rice with tomato and meat.",
+      "words": [
+        {
+          "word": "spicy",
+          "startSec": 219.62,
+          "endSec": 220.12,
+          "score": 0.99
+        },
+        {
+          "word": "rice",
+          "startSec": 220.12,
+          "endSec": 220.46,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 220.46,
+          "endSec": 220.82,
+          "score": 0.82
+        },
+        {
+          "word": "tomato",
+          "startSec": 220.82,
+          "endSec": 221.16,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 221.16,
+          "endSec": 221.6,
+          "score": 0.81
+        },
+        {
+          "word": "meat.",
+          "startSec": 221.6,
+          "endSec": 221.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 222.44,
+      "end": 227.05,
+      "text": "Bufu softo made from cassava or yam eaten with soup.",
+      "words": [
+        {
+          "word": "Bufu",
+          "startSec": 222.64,
+          "endSec": 223.04,
+          "score": 0.55
+        },
+        {
+          "word": "softo",
+          "startSec": 223.04,
+          "endSec": 223.68,
+          "score": 0.47
+        },
+        {
+          "word": "made",
+          "startSec": 223.68,
+          "endSec": 223.92,
+          "score": 0.87
+        },
+        {
+          "word": "from",
+          "startSec": 223.92,
+          "endSec": 224.2,
+          "score": 0.98
+        },
+        {
+          "word": "cassava",
+          "startSec": 224.2,
+          "endSec": 224.96,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 224.96,
+          "endSec": 225.3,
+          "score": 0.95
+        },
+        {
+          "word": "yam",
+          "startSec": 225.3,
+          "endSec": 225.84,
+          "score": 0.95
+        },
+        {
+          "word": "eaten",
+          "startSec": 225.84,
+          "endSec": 226.26,
+          "score": 0.8
+        },
+        {
+          "word": "with",
+          "startSec": 226.26,
+          "endSec": 226.54,
+          "score": 0.99
+        },
+        {
+          "word": "soup.",
+          "startSec": 226.54,
+          "endSec": 226.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 227.42,
+      "end": 230.39,
+      "text": "Vancouver fermented corn dough with fish,",
+      "words": [
+        {
+          "word": "Vancouver",
+          "startSec": 227.62,
+          "endSec": 227.86,
+          "score": 0.03
+        },
+        {
+          "word": "fermented",
+          "startSec": 227.86,
+          "endSec": 228.96,
+          "score": 0.94
+        },
+        {
+          "word": "corn",
+          "startSec": 228.96,
+          "endSec": 229.36,
+          "score": 0.63
+        },
+        {
+          "word": "dough",
+          "startSec": 229.36,
+          "endSec": 229.7,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 229.7,
+          "endSec": 229.92,
+          "score": 0.98
+        },
+        {
+          "word": "fish,",
+          "startSec": 229.92,
+          "endSec": 230.24,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 230.42,
+      "end": 233.51,
+      "text": "kelewelli, spicy fried plantains.",
+      "words": [
+        {
+          "word": "kelewelli,",
+          "startSec": 230.62,
+          "endSec": 231.32,
+          "score": 0.23
+        },
+        {
+          "word": "spicy",
+          "startSec": 231.54,
+          "endSec": 232.06,
+          "score": 0.99
+        },
+        {
+          "word": "fried",
+          "startSec": 232.06,
+          "endSec": 232.46,
+          "score": 0.82
+        },
+        {
+          "word": "plantains.",
+          "startSec": 232.46,
+          "endSec": 233.36,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 234.12,
+      "end": 235.99,
+      "text": "Waki rice and beans.",
+      "words": [
+        {
+          "word": "Waki",
+          "startSec": 234.32,
+          "endSec": 234.82,
+          "score": 0.39
+        },
+        {
+          "word": "rice",
+          "startSec": 234.82,
+          "endSec": 235.18,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 235.18,
+          "endSec": 235.54,
+          "score": 0.95
+        },
+        {
+          "word": "beans.",
+          "startSec": 235.54,
+          "endSec": 235.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 236.44,
+      "end": 238.95,
+      "text": "People often eat with their hands,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 236.64,
+          "endSec": 237.0,
+          "score": 0.96
+        },
+        {
+          "word": "often",
+          "startSec": 237.0,
+          "endSec": 237.42,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 237.42,
+          "endSec": 237.84,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 237.84,
+          "endSec": 238.1,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 238.1,
+          "endSec": 238.34,
+          "score": 1.0
+        },
+        {
+          "word": "hands,",
+          "startSec": 238.34,
+          "endSec": 238.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 238.6,
+      "end": 241.53,
+      "text": "especially in traditional meals.",
+      "words": [
+        {
+          "word": "especially",
+          "startSec": 238.8,
+          "endSec": 239.78,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 239.78,
+          "endSec": 240.38,
+          "score": 0.99
+        },
+        {
+          "word": "traditional",
+          "startSec": 240.38,
+          "endSec": 240.62,
+          "score": 1.0
+        },
+        {
+          "word": "meals.",
+          "startSec": 240.62,
+          "endSec": 241.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 242.64,
+      "end": 244.53,
+      "text": "What do people drink in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 242.84,
+          "endSec": 242.88,
+          "score": 0.88
+        },
+        {
+          "word": "do",
+          "startSec": 242.88,
+          "endSec": 243.1,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 243.1,
+          "endSec": 243.36,
+          "score": 0.99
+        },
+        {
+          "word": "drink",
+          "startSec": 243.36,
+          "endSec": 243.9,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 243.9,
+          "endSec": 244.12,
+          "score": 0.91
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 244.12,
+          "endSec": 244.38,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 244.98,
+      "end": 248.33,
+      "text": "People drink water and coconut water.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 245.18,
+          "endSec": 245.44,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 245.44,
+          "endSec": 246.06,
+          "score": 1.0
+        },
+        {
+          "word": "water",
+          "startSec": 246.06,
+          "endSec": 246.84,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 246.84,
+          "endSec": 247.22,
+          "score": 0.82
+        },
+        {
+          "word": "coconut",
+          "startSec": 247.22,
+          "endSec": 247.58,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 247.58,
+          "endSec": 248.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 248.93,
+      "end": 253.33,
+      "text": "Fruit juices, like mango or pineapple.",
+      "words": [
+        {
+          "word": "Fruit",
+          "startSec": 249.13,
+          "endSec": 249.58,
+          "score": 0.24
+        },
+        {
+          "word": "juices,",
+          "startSec": 249.58,
+          "endSec": 250.04,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 251.08,
+          "endSec": 251.68,
+          "score": 0.97
+        },
+        {
+          "word": "mango",
+          "startSec": 251.68,
+          "endSec": 252.14,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 252.14,
+          "endSec": 252.84,
+          "score": 0.96
+        },
+        {
+          "word": "pineapple.",
+          "startSec": 252.84,
+          "endSec": 253.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 254.99,
+      "end": 258.22,
+      "text": "Soft drinks, herbal drinks.",
+      "words": [
+        {
+          "word": "Soft",
+          "startSec": 255.19,
+          "endSec": 255.73,
+          "score": 0.96
+        },
+        {
+          "word": "drinks,",
+          "startSec": 255.73,
+          "endSec": 256.29,
+          "score": 0.99
+        },
+        {
+          "word": "herbal",
+          "startSec": 256.99,
+          "endSec": 257.45,
+          "score": 0.98
+        },
+        {
+          "word": "drinks.",
+          "startSec": 257.45,
+          "endSec": 258.07,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 258.85,
+      "end": 262.24,
+      "text": "Adults may drink pito or palm wine.",
+      "words": [
+        {
+          "word": "Adults",
+          "startSec": 259.05,
+          "endSec": 259.41,
+          "score": 1.0
+        },
+        {
+          "word": "may",
+          "startSec": 259.41,
+          "endSec": 259.81,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 259.81,
+          "endSec": 260.13,
+          "score": 1.0
+        },
+        {
+          "word": "pito",
+          "startSec": 260.13,
+          "endSec": 260.77,
+          "score": 0.43
+        },
+        {
+          "word": "or",
+          "startSec": 260.77,
+          "endSec": 261.25,
+          "score": 0.99
+        },
+        {
+          "word": "palm",
+          "startSec": 261.25,
+          "endSec": 261.51,
+          "score": 0.8
+        },
+        {
+          "word": "wine.",
+          "startSec": 261.51,
+          "endSec": 262.09,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 262.79,
+      "end": 267.44,
+      "text": "Coconut sellers are common on the streets, fresh and cold.",
+      "words": [
+        {
+          "word": "Coconut",
+          "startSec": 262.99,
+          "endSec": 263.55,
+          "score": 0.83
+        },
+        {
+          "word": "sellers",
+          "startSec": 263.55,
+          "endSec": 263.97,
+          "score": 0.84
+        },
+        {
+          "word": "are",
+          "startSec": 263.97,
+          "endSec": 264.41,
+          "score": 1.0
+        },
+        {
+          "word": "common",
+          "startSec": 264.41,
+          "endSec": 264.79,
+          "score": 0.98
+        },
+        {
+          "word": "on",
+          "startSec": 264.79,
+          "endSec": 265.11,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 265.11,
+          "endSec": 265.29,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 265.29,
+          "endSec": 265.71,
+          "score": 0.99
+        },
+        {
+          "word": "fresh",
+          "startSec": 266.25,
+          "endSec": 266.53,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 266.53,
+          "endSec": 266.93,
+          "score": 1.0
+        },
+        {
+          "word": "cold.",
+          "startSec": 266.93,
+          "endSec": 267.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 268.51,
+      "end": 270.44,
+      "text": "What is life like in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 268.71,
+          "endSec": 268.73,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 268.73,
+          "endSec": 268.97,
+          "score": 0.99
+        },
+        {
+          "word": "life",
+          "startSec": 268.97,
+          "endSec": 269.33,
+          "score": 0.91
+        },
+        {
+          "word": "like",
+          "startSec": 269.33,
+          "endSec": 269.71,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 269.71,
+          "endSec": 269.99,
+          "score": 0.82
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 269.99,
+          "endSec": 270.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 271.07,
+      "end": 276.7,
+      "text": "Life in Ghana is full of energy, community, and music.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 271.27,
+          "endSec": 271.69,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 271.69,
+          "endSec": 271.95,
+          "score": 0.98
+        },
+        {
+          "word": "Ghana",
+          "startSec": 271.95,
+          "endSec": 272.23,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 272.23,
+          "endSec": 272.77,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 272.77,
+          "endSec": 273.13,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 273.13,
+          "endSec": 273.39,
+          "score": 1.0
+        },
+        {
+          "word": "energy,",
+          "startSec": 273.39,
+          "endSec": 273.91,
+          "score": 1.0
+        },
+        {
+          "word": "community,",
+          "startSec": 274.63,
+          "endSec": 275.05,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 275.97,
+          "endSec": 276.05,
+          "score": 1.0
+        },
+        {
+          "word": "music.",
+          "startSec": 276.05,
+          "endSec": 276.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 277.21,
+      "end": 280.56,
+      "text": "People enjoy spending time with family,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 277.41,
+          "endSec": 277.85,
+          "score": 0.19
+        },
+        {
+          "word": "enjoy",
+          "startSec": 277.85,
+          "endSec": 278.47,
+          "score": 0.99
+        },
+        {
+          "word": "spending",
+          "startSec": 278.47,
+          "endSec": 279.21,
+          "score": 0.99
+        },
+        {
+          "word": "time",
+          "startSec": 279.21,
+          "endSec": 279.83,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 279.83,
+          "endSec": 280.05,
+          "score": 0.99
+        },
+        {
+          "word": "family,",
+          "startSec": 280.05,
+          "endSec": 280.41,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 280.91,
+      "end": 284.76,
+      "text": "talking to neighbors, going to church or mosque,",
+      "words": [
+        {
+          "word": "talking",
+          "startSec": 281.11,
+          "endSec": 281.53,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 281.53,
+          "endSec": 281.85,
+          "score": 0.99
+        },
+        {
+          "word": "neighbors,",
+          "startSec": 281.85,
+          "endSec": 282.39,
+          "score": 0.97
+        },
+        {
+          "word": "going",
+          "startSec": 283.09,
+          "endSec": 283.39,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 283.39,
+          "endSec": 283.63,
+          "score": 1.0
+        },
+        {
+          "word": "church",
+          "startSec": 283.63,
+          "endSec": 283.93,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 283.93,
+          "endSec": 284.31,
+          "score": 0.93
+        },
+        {
+          "word": "mosque,",
+          "startSec": 284.31,
+          "endSec": 284.61,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 285.05,
+      "end": 287.66,
+      "text": "dancing and listening to music,",
+      "words": [
+        {
+          "word": "dancing",
+          "startSec": 285.25,
+          "endSec": 286.01,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 286.01,
+          "endSec": 286.27,
+          "score": 0.94
+        },
+        {
+          "word": "listening",
+          "startSec": 286.27,
+          "endSec": 286.59,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 286.59,
+          "endSec": 286.97,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 286.97,
+          "endSec": 287.51,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 288.09,
+      "end": 291.36,
+      "text": "watching football, the national sport.",
+      "words": [
+        {
+          "word": "watching",
+          "startSec": 288.29,
+          "endSec": 288.91,
+          "score": 0.99
+        },
+        {
+          "word": "football,",
+          "startSec": 288.91,
+          "endSec": 289.29,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 290.09,
+          "endSec": 290.17,
+          "score": 0.99
+        },
+        {
+          "word": "national",
+          "startSec": 290.17,
+          "endSec": 290.47,
+          "score": 0.87
+        },
+        {
+          "word": "sport.",
+          "startSec": 290.47,
+          "endSec": 291.21,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 292.21,
+      "end": 296.44,
+      "text": "Markets are busy and full of color, sound, and smells.",
+      "words": [
+        {
+          "word": "Markets",
+          "startSec": 292.41,
+          "endSec": 292.89,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 292.89,
+          "endSec": 293.25,
+          "score": 1.0
+        },
+        {
+          "word": "busy",
+          "startSec": 293.25,
+          "endSec": 293.73,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 293.73,
+          "endSec": 294.07,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 294.07,
+          "endSec": 294.33,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 294.33,
+          "endSec": 294.53,
+          "score": 1.0
+        },
+        {
+          "word": "color,",
+          "startSec": 294.53,
+          "endSec": 294.93,
+          "score": 0.83
+        },
+        {
+          "word": "sound,",
+          "startSec": 294.93,
+          "endSec": 295.53,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 295.87,
+          "endSec": 295.87,
+          "score": 1.0
+        },
+        {
+          "word": "smells.",
+          "startSec": 295.87,
+          "endSec": 296.29,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 296.97,
+      "end": 300.04,
+      "text": "What are some holidays and traditions in Ghana?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 297.17,
+          "endSec": 297.17,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 297.17,
+          "endSec": 297.33,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 297.33,
+          "endSec": 297.57,
+          "score": 1.0
+        },
+        {
+          "word": "holidays",
+          "startSec": 297.57,
+          "endSec": 298.17,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 298.17,
+          "endSec": 298.63,
+          "score": 0.99
+        },
+        {
+          "word": "traditions",
+          "startSec": 298.63,
+          "endSec": 299.07,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 299.07,
+          "endSec": 299.65,
+          "score": 0.93
+        },
+        {
+          "word": "Ghana?",
+          "startSec": 299.65,
+          "endSec": 299.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 300.83,
+      "end": 303.46,
+      "text": "Independence Day, March 6,",
+      "words": [
+        {
+          "word": "Independence",
+          "startSec": 301.03,
+          "endSec": 301.43,
+          "score": 1.0
+        },
+        {
+          "word": "Day,",
+          "startSec": 301.43,
+          "endSec": 302.13,
+          "score": 0.9
+        },
+        {
+          "word": "March",
+          "startSec": 302.71,
+          "endSec": 302.77,
+          "score": 0.99
+        },
+        {
+          "word": "6,",
+          "startSec": 302.77,
+          "endSec": 303.31,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 304.18,
+      "end": 306.95,
+      "text": "Republic Day, July Friend,",
+      "words": [
+        {
+          "word": "Republic",
+          "startSec": 304.38,
+          "endSec": 304.98,
+          "score": 0.01
+        },
+        {
+          "word": "Day,",
+          "startSec": 304.98,
+          "endSec": 305.46,
+          "score": 0.9
+        },
+        {
+          "word": "July",
+          "startSec": 305.92,
+          "endSec": 306.08,
+          "score": 0.98
+        },
+        {
+          "word": "Friend,",
+          "startSec": 306.08,
+          "endSec": 306.8,
+          "score": 0.53
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 307.14,
+      "end": 311.45,
+      "text": "Hummelville Festival in Acra with music and food,",
+      "words": [
+        {
+          "word": "Hummelville",
+          "startSec": 307.34,
+          "endSec": 308.2,
+          "score": 0.28
+        },
+        {
+          "word": "Festival",
+          "startSec": 308.2,
+          "endSec": 308.66,
+          "score": 0.96
+        },
+        {
+          "word": "in",
+          "startSec": 308.66,
+          "endSec": 309.22,
+          "score": 0.16
+        },
+        {
+          "word": "Acra",
+          "startSec": 309.22,
+          "endSec": 309.78,
+          "score": 0.73
+        },
+        {
+          "word": "with",
+          "startSec": 309.78,
+          "endSec": 310.12,
+          "score": 0.87
+        },
+        {
+          "word": "music",
+          "startSec": 310.12,
+          "endSec": 310.42,
+          "score": 0.24
+        },
+        {
+          "word": "and",
+          "startSec": 310.42,
+          "endSec": 310.9,
+          "score": 0.97
+        },
+        {
+          "word": "food,",
+          "startSec": 310.9,
+          "endSec": 311.3,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 312.1,
+      "end": 315.39,
+      "text": "Abokir Festival, a hunting tradition,",
+      "words": [
+        {
+          "word": "Abokir",
+          "startSec": 312.3,
+          "endSec": 313.04,
+          "score": 0.41
+        },
+        {
+          "word": "Festival,",
+          "startSec": 313.04,
+          "endSec": 313.6,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 314.28,
+          "endSec": 314.4,
+          "score": 0.89
+        },
+        {
+          "word": "hunting",
+          "startSec": 314.4,
+          "endSec": 314.68,
+          "score": 0.89
+        },
+        {
+          "word": "tradition,",
+          "startSec": 314.68,
+          "endSec": 315.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 316.33,
+      "end": 320.28,
+      "text": "Christmas, Edal feeder, and Edal ada.",
+      "words": [
+        {
+          "word": "Christmas,",
+          "startSec": 316.53,
+          "endSec": 317.23,
+          "score": 0.99
+        },
+        {
+          "word": "Edal",
+          "startSec": 317.67,
+          "endSec": 318.09,
+          "score": 0.49
+        },
+        {
+          "word": "feeder,",
+          "startSec": 318.09,
+          "endSec": 318.67,
+          "score": 0.63
+        },
+        {
+          "word": "and",
+          "startSec": 318.99,
+          "endSec": 319.07,
+          "score": 0.88
+        },
+        {
+          "word": "Edal",
+          "startSec": 319.07,
+          "endSec": 319.63,
+          "score": 0.97
+        },
+        {
+          "word": "ada.",
+          "startSec": 319.63,
+          "endSec": 320.13,
+          "score": 0.55
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 320.47,
+      "end": 322.92,
+      "text": "People celebrate with drums,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 320.67,
+          "endSec": 321.11,
+          "score": 0.97
+        },
+        {
+          "word": "celebrate",
+          "startSec": 321.11,
+          "endSec": 321.81,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 321.81,
+          "endSec": 322.35,
+          "score": 1.0
+        },
+        {
+          "word": "drums,",
+          "startSec": 322.35,
+          "endSec": 322.77,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 323.19,
+      "end": 327.3,
+      "text": "dancing, special clothes, and family meals.",
+      "words": [
+        {
+          "word": "dancing,",
+          "startSec": 323.39,
+          "endSec": 323.69,
+          "score": 0.98
+        },
+        {
+          "word": "special",
+          "startSec": 324.57,
+          "endSec": 324.83,
+          "score": 1.0
+        },
+        {
+          "word": "clothes,",
+          "startSec": 324.83,
+          "endSec": 325.43,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 326.05,
+          "endSec": 326.13,
+          "score": 0.99
+        },
+        {
+          "word": "family",
+          "startSec": 326.13,
+          "endSec": 326.73,
+          "score": 0.99
+        },
+        {
+          "word": "meals.",
+          "startSec": 326.73,
+          "endSec": 327.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 328.17,
+      "end": 330.26,
+      "text": "Some fun facts about Ghana.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 328.37,
+          "endSec": 328.71,
+          "score": 0.97
+        },
+        {
+          "word": "fun",
+          "startSec": 328.71,
+          "endSec": 328.95,
+          "score": 0.99
+        },
+        {
+          "word": "facts",
+          "startSec": 328.95,
+          "endSec": 329.27,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 329.27,
+          "endSec": 329.85,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana.",
+          "startSec": 329.85,
+          "endSec": 330.11,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 329.91,
+      "end": 335.0,
+      "text": "Ghana was the first African country to gain independence",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 330.11,
+          "endSec": 330.45,
+          "score": 0.64
+        },
+        {
+          "word": "was",
+          "startSec": 330.55,
+          "endSec": 332.01,
+          "score": 0.76
+        },
+        {
+          "word": "the",
+          "startSec": 332.01,
+          "endSec": 332.23,
+          "score": 0.99
+        },
+        {
+          "word": "first",
+          "startSec": 332.23,
+          "endSec": 332.57,
+          "score": 0.98
+        },
+        {
+          "word": "African",
+          "startSec": 332.57,
+          "endSec": 333.39,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 333.39,
+          "endSec": 333.87,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 333.87,
+          "endSec": 334.11,
+          "score": 1.0
+        },
+        {
+          "word": "gain",
+          "startSec": 334.11,
+          "endSec": 334.39,
+          "score": 0.99
+        },
+        {
+          "word": "independence",
+          "startSec": 334.39,
+          "endSec": 334.85,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 334.65,
+      "end": 338.62,
+      "text": "from colonial rule in 1957.",
+      "words": [
+        {
+          "word": "from",
+          "startSec": 334.85,
+          "endSec": 335.63,
+          "score": 0.99
+        },
+        {
+          "word": "colonial",
+          "startSec": 335.63,
+          "endSec": 336.05,
+          "score": 0.91
+        },
+        {
+          "word": "rule",
+          "startSec": 336.05,
+          "endSec": 336.77,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 336.77,
+          "endSec": 337.49,
+          "score": 0.96
+        },
+        {
+          "word": "1957.",
+          "startSec": 337.49,
+          "endSec": 338.47,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 339.33,
+      "end": 343.58,
+      "text": "The Ghanaian flag is red, yellow, green,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 339.53,
+          "endSec": 339.67,
+          "score": 0.95
+        },
+        {
+          "word": "Ghanaian",
+          "startSec": 339.67,
+          "endSec": 340.35,
+          "score": 0.96
+        },
+        {
+          "word": "flag",
+          "startSec": 340.35,
+          "endSec": 340.61,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 340.61,
+          "endSec": 341.01,
+          "score": 1.0
+        },
+        {
+          "word": "red,",
+          "startSec": 341.01,
+          "endSec": 341.45,
+          "score": 0.98
+        },
+        {
+          "word": "yellow,",
+          "startSec": 341.89,
+          "endSec": 342.23,
+          "score": 1.0
+        },
+        {
+          "word": "green,",
+          "startSec": 343.43,
+          "endSec": 343.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 343.95,
+      "end": 345.44,
+      "text": "with a black star.",
+      "words": [
+        {
+          "word": "with",
+          "startSec": 344.15,
+          "endSec": 344.43,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 344.43,
+          "endSec": 344.59,
+          "score": 0.98
+        },
+        {
+          "word": "black",
+          "startSec": 344.59,
+          "endSec": 344.85,
+          "score": 0.94
+        },
+        {
+          "word": "star.",
+          "startSec": 344.85,
+          "endSec": 345.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 347.21,
+      "end": 352.02,
+      "text": "Ghana is known for kente cloth, colorful and hand woven.",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 347.41,
+          "endSec": 347.87,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 347.87,
+          "endSec": 348.25,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 348.25,
+          "endSec": 348.59,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 348.59,
+          "endSec": 348.91,
+          "score": 1.0
+        },
+        {
+          "word": "kente",
+          "startSec": 348.91,
+          "endSec": 349.35,
+          "score": 0.36
+        },
+        {
+          "word": "cloth,",
+          "startSec": 349.35,
+          "endSec": 349.79,
+          "score": 0.98
+        },
+        {
+          "word": "colorful",
+          "startSec": 350.37,
+          "endSec": 350.63,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 350.63,
+          "endSec": 351.19,
+          "score": 0.74
+        },
+        {
+          "word": "hand",
+          "startSec": 351.19,
+          "endSec": 351.47,
+          "score": 1.0
+        },
+        {
+          "word": "woven.",
+          "startSec": 351.47,
+          "endSec": 351.87,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 352.94,
+      "end": 356.61,
+      "text": "The national football team is called the black stars.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 353.14,
+          "endSec": 353.22,
+          "score": 0.99
+        },
+        {
+          "word": "national",
+          "startSec": 353.22,
+          "endSec": 353.72,
+          "score": 0.7
+        },
+        {
+          "word": "football",
+          "startSec": 353.72,
+          "endSec": 354.1,
+          "score": 1.0
+        },
+        {
+          "word": "team",
+          "startSec": 354.1,
+          "endSec": 354.82,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 354.82,
+          "endSec": 355.02,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 355.02,
+          "endSec": 355.36,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 355.36,
+          "endSec": 355.6,
+          "score": 0.9
+        },
+        {
+          "word": "black",
+          "startSec": 355.6,
+          "endSec": 355.96,
+          "score": 0.44
+        },
+        {
+          "word": "stars.",
+          "startSec": 355.96,
+          "endSec": 356.46,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 357.17,
+      "end": 360.36,
+      "text": "Ghana produces gold, cocoa,",
+      "words": [
+        {
+          "word": "Ghana",
+          "startSec": 357.37,
+          "endSec": 358.09,
+          "score": 0.0
+        },
+        {
+          "word": "produces",
+          "startSec": 358.09,
+          "endSec": 358.65,
+          "score": 0.7
+        },
+        {
+          "word": "gold,",
+          "startSec": 358.65,
+          "endSec": 359.55,
+          "score": 0.94
+        },
+        {
+          "word": "cocoa,",
+          "startSec": 359.89,
+          "endSec": 360.21,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 360.93,
+      "end": 363.46,
+      "text": "and music loved around the world.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 361.13,
+          "endSec": 361.23,
+          "score": 0.99
+        },
+        {
+          "word": "music",
+          "startSec": 361.23,
+          "endSec": 361.69,
+          "score": 1.0
+        },
+        {
+          "word": "loved",
+          "startSec": 361.69,
+          "endSec": 362.15,
+          "score": 0.96
+        },
+        {
+          "word": "around",
+          "startSec": 362.15,
+          "endSec": 362.61,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 362.61,
+          "endSec": 362.89,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 362.89,
+          "endSec": 363.31,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 364.4,
+      "end": 367.19,
+      "text": "Now you know many things about Ghana.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 364.6,
+          "endSec": 364.94,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 364.94,
+          "endSec": 365.24,
+          "score": 0.93
+        },
+        {
+          "word": "know",
+          "startSec": 365.24,
+          "endSec": 365.44,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 365.44,
+          "endSec": 365.76,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 365.76,
+          "endSec": 366.3,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 366.3,
+          "endSec": 366.62,
+          "score": 1.0
+        },
+        {
+          "word": "Ghana.",
+          "startSec": 366.62,
+          "endSec": 367.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 367.66,
+      "end": 371.19,
+      "text": "You know where it is, what people speak,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 367.86,
+          "endSec": 368.26,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 368.26,
+          "endSec": 368.5,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 368.5,
+          "endSec": 368.88,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 368.88,
+          "endSec": 369.08,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 369.08,
+          "endSec": 369.54,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 369.9,
+          "endSec": 370.16,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 370.16,
+          "endSec": 370.48,
+          "score": 1.0
+        },
+        {
+          "word": "speak,",
+          "startSec": 370.48,
+          "endSec": 371.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 371.38,
+      "end": 372.87,
+      "text": "and what they eat.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 371.58,
+          "endSec": 371.86,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 371.86,
+          "endSec": 372.12,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 372.12,
+          "endSec": 372.36,
+          "score": 1.0
+        },
+        {
+          "word": "eat.",
+          "startSec": 372.36,
+          "endSec": 372.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 373.58,
+      "end": 378.63,
+      "text": "You learned about the weather, culture, music, and life.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 373.78,
+          "endSec": 373.96,
+          "score": 1.0
+        },
+        {
+          "word": "learned",
+          "startSec": 373.96,
+          "endSec": 374.24,
+          "score": 0.96
+        },
+        {
+          "word": "about",
+          "startSec": 374.24,
+          "endSec": 374.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 374.64,
+          "endSec": 374.92,
+          "score": 1.0
+        },
+        {
+          "word": "weather,",
+          "startSec": 374.92,
+          "endSec": 375.28,
+          "score": 1.0
+        },
+        {
+          "word": "culture,",
+          "startSec": 376.02,
+          "endSec": 376.3,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 377.06,
+          "endSec": 377.62,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 378.14,
+          "endSec": 378.2,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 378.2,
+          "endSec": 378.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 379.43,
+      "end": 380.42,
+      "text": "Well done.",
+      "words": [
+        {
+          "word": "Well",
+          "startSec": 379.63,
+          "endSec": 379.93,
+          "score": 1.0
+        },
+        {
+          "word": "done.",
+          "startSec": 379.93,
+          "endSec": 380.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 384.7,
+      "end": 386.01,
+      "text": "I am Emily.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 384.9,
+          "endSec": 385.38,
+          "score": 0.52
+        },
+        {
+          "word": "am",
+          "startSec": 385.38,
+          "endSec": 385.6,
+          "score": 0.7
+        },
+        {
+          "word": "Emily.",
+          "startSec": 385.6,
+          "endSec": 385.86,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 388.0,
+      "end": 388.57,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 388.2,
+          "endSec": 388.42,
+          "score": 0.79
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 389.56,
+      "end": 392.81,
+      "text": "Or as they say in tweet, not to ye.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 389.76,
+          "endSec": 390.0,
+          "score": 0.93
+        },
+        {
+          "word": "as",
+          "startSec": 390.0,
+          "endSec": 390.22,
+          "score": 0.92
+        },
+        {
+          "word": "they",
+          "startSec": 390.22,
+          "endSec": 390.42,
+          "score": 1.0
+        },
+        {
+          "word": "say",
+          "startSec": 390.42,
+          "endSec": 390.72,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 390.72,
+          "endSec": 391.0,
+          "score": 0.87
+        },
+        {
+          "word": "tweet,",
+          "startSec": 391.0,
+          "endSec": 391.24,
+          "score": 0.32
+        },
+        {
+          "word": "not",
+          "startSec": 392.04,
+          "endSec": 392.28,
+          "score": 0.29
+        },
+        {
+          "word": "to",
+          "startSec": 392.28,
+          "endSec": 392.5,
+          "score": 0.5
+        },
+        {
+          "word": "ye.",
+          "startSec": 392.5,
+          "endSec": 392.66,
+          "score": 0.75
         }
       ]
     }

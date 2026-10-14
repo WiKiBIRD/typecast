@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 3.64,
-      "end": 5.33,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 3.84,
-          "endSec": 4.1,
-          "score": 0.98
-        },
-        {
-          "word": "name",
-          "startSec": 4.1,
-          "endSec": 4.3,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 4.3,
-          "endSec": 4.58,
-          "score": 0.99
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 4.58,
-          "endSec": 5.18,
-          "score": 0.59
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 5.2,
       "end": 6.91,
       "text": "I'm happy you are here.",
@@ -140,7 +108,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 7.32,
       "end": 9.49,
       "text": "Today we will talk about Niger.",
@@ -184,7 +152,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 10.24,
       "end": 15.53,
       "text": "Niger is a large, dry, and friendly country in West Africa.",
@@ -258,7 +226,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 15.98,
       "end": 19.27,
       "text": "Let's learn about it in slow and easy English.",
@@ -320,7 +288,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 20.02,
       "end": 20.89,
       "text": "Are you ready?",
@@ -346,7 +314,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 21.2,
       "end": 22.43,
       "text": "Let's begin.",
@@ -366,7 +334,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 23.52,
       "end": 24.49,
       "text": "Where is Niger?",
@@ -392,7 +360,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 25.71,
       "end": 27.78,
       "text": "Niger is in West Africa.",
@@ -426,6 +394,4226 @@
           "startSec": 27.09,
           "endSec": 27.63,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 28.14,
+      "end": 37.07,
+      "text": "It is next to Nigeria, Chad, Algeria, Libya, Burkina Faso, Mali, and Benin.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 28.34,
+          "endSec": 29.0,
+          "score": 0.45
+        },
+        {
+          "word": "is",
+          "startSec": 29.0,
+          "endSec": 29.18,
+          "score": 0.97
+        },
+        {
+          "word": "next",
+          "startSec": 29.18,
+          "endSec": 29.44,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 29.44,
+          "endSec": 29.82,
+          "score": 1.0
+        },
+        {
+          "word": "Nigeria,",
+          "startSec": 29.82,
+          "endSec": 30.36,
+          "score": 1.0
+        },
+        {
+          "word": "Chad,",
+          "startSec": 31.02,
+          "endSec": 31.32,
+          "score": 0.89
+        },
+        {
+          "word": "Algeria,",
+          "startSec": 31.88,
+          "endSec": 32.3,
+          "score": 0.93
+        },
+        {
+          "word": "Libya,",
+          "startSec": 33.46,
+          "endSec": 33.5,
+          "score": 0.99
+        },
+        {
+          "word": "Burkina",
+          "startSec": 34.42,
+          "endSec": 34.74,
+          "score": 0.98
+        },
+        {
+          "word": "Faso,",
+          "startSec": 34.74,
+          "endSec": 35.46,
+          "score": 0.95
+        },
+        {
+          "word": "Mali,",
+          "startSec": 35.8,
+          "endSec": 35.88,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "startSec": 36.42,
+          "endSec": 36.48,
+          "score": 0.99
+        },
+        {
+          "word": "Benin.",
+          "startSec": 36.48,
+          "endSec": 36.92,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 37.87,
+      "end": 42.64,
+      "text": "It is a landlocked country, which means it has no sea.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 38.07,
+          "endSec": 38.55,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 38.55,
+          "endSec": 38.77,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 38.77,
+          "endSec": 38.91,
+          "score": 0.99
+        },
+        {
+          "word": "landlocked",
+          "startSec": 38.91,
+          "endSec": 39.53,
+          "score": 0.91
+        },
+        {
+          "word": "country,",
+          "startSec": 39.53,
+          "endSec": 40.35,
+          "score": 1.0
+        },
+        {
+          "word": "which",
+          "startSec": 40.73,
+          "endSec": 40.95,
+          "score": 1.0
+        },
+        {
+          "word": "means",
+          "startSec": 40.95,
+          "endSec": 41.23,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 41.23,
+          "endSec": 41.53,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 41.53,
+          "endSec": 41.79,
+          "score": 1.0
+        },
+        {
+          "word": "no",
+          "startSec": 41.79,
+          "endSec": 42.11,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 42.11,
+          "endSec": 42.49,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 43.28,
+      "end": 47.01,
+      "text": "Much of Niger is part of the Sahara Desert.",
+      "words": [
+        {
+          "word": "Much",
+          "startSec": 43.48,
+          "endSec": 43.76,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 43.76,
+          "endSec": 44.02,
+          "score": 1.0
+        },
+        {
+          "word": "Niger",
+          "startSec": 44.02,
+          "endSec": 44.3,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 44.3,
+          "endSec": 45.06,
+          "score": 0.99
+        },
+        {
+          "word": "part",
+          "startSec": 45.06,
+          "endSec": 45.38,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 45.38,
+          "endSec": 45.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 45.64,
+          "endSec": 45.82,
+          "score": 1.0
+        },
+        {
+          "word": "Sahara",
+          "startSec": 45.82,
+          "endSec": 46.14,
+          "score": 1.0
+        },
+        {
+          "word": "Desert.",
+          "startSec": 46.14,
+          "endSec": 46.86,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 47.44,
+      "end": 49.69,
+      "text": "What is the capital city of Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 47.64,
+          "endSec": 47.94,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 47.94,
+          "endSec": 48.12,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 48.12,
+          "endSec": 48.3,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 48.3,
+          "endSec": 48.64,
+          "score": 0.96
+        },
+        {
+          "word": "city",
+          "startSec": 48.64,
+          "endSec": 49.08,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 49.08,
+          "endSec": 49.34,
+          "score": 1.0
+        },
+        {
+          "word": "Niger?",
+          "startSec": 49.34,
+          "endSec": 49.54,
+          "score": 0.03
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 50.0,
+      "end": 52.63,
+      "text": "The capital city is Niami.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 50.2,
+          "endSec": 50.38,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 50.38,
+          "endSec": 50.66,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 50.66,
+          "endSec": 51.34,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 51.34,
+          "endSec": 51.7,
+          "score": 1.0
+        },
+        {
+          "word": "Niami.",
+          "startSec": 51.7,
+          "endSec": 52.48,
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 53.4,
+      "end": 56.05,
+      "text": "Niami is by the Niger River.",
+      "words": [
+        {
+          "word": "Niami",
+          "startSec": 53.6,
+          "endSec": 54.26,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 54.26,
+          "endSec": 54.48,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 54.48,
+          "endSec": 54.72,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 54.72,
+          "endSec": 54.92,
+          "score": 1.0
+        },
+        {
+          "word": "Niger",
+          "startSec": 54.92,
+          "endSec": 55.24,
+          "score": 0.96
+        },
+        {
+          "word": "River.",
+          "startSec": 55.24,
+          "endSec": 55.9,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 56.36,
+      "end": 60.95,
+      "text": "It has markets, schools, offices, and mosques.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 56.56,
+          "endSec": 57.04,
+          "score": 0.58
+        },
+        {
+          "word": "has",
+          "startSec": 57.04,
+          "endSec": 57.26,
+          "score": 0.8
+        },
+        {
+          "word": "markets,",
+          "startSec": 57.26,
+          "endSec": 57.88,
+          "score": 0.9
+        },
+        {
+          "word": "schools,",
+          "startSec": 57.88,
+          "endSec": 58.76,
+          "score": 0.99
+        },
+        {
+          "word": "offices,",
+          "startSec": 59.24,
+          "endSec": 59.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 59.66,
+          "endSec": 60.48,
+          "score": 1.0
+        },
+        {
+          "word": "mosques.",
+          "startSec": 60.48,
+          "endSec": 60.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 61.7,
+      "end": 64.39,
+      "text": "It is the largest city in the country.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 61.9,
+          "endSec": 62.02,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 62.02,
+          "endSec": 62.2,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 62.2,
+          "endSec": 62.4,
+          "score": 1.0
+        },
+        {
+          "word": "largest",
+          "startSec": 62.4,
+          "endSec": 62.78,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 62.78,
+          "endSec": 63.32,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 63.32,
+          "endSec": 63.62,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 63.62,
+          "endSec": 63.76,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 63.76,
+          "endSec": 64.24,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 65.26,
+      "end": 70.13,
+      "text": "Other towns include Agares and Old Desert City.",
+      "words": [
+        {
+          "word": "Other",
+          "startSec": 65.46,
+          "endSec": 65.74,
+          "score": 0.99
+        },
+        {
+          "word": "towns",
+          "startSec": 65.74,
+          "endSec": 66.22,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 66.22,
+          "endSec": 66.8,
+          "score": 1.0
+        },
+        {
+          "word": "Agares",
+          "startSec": 66.8,
+          "endSec": 67.82,
+          "score": 0.47
+        },
+        {
+          "word": "and",
+          "startSec": 67.82,
+          "endSec": 68.6,
+          "score": 0.7
+        },
+        {
+          "word": "Old",
+          "startSec": 68.6,
+          "endSec": 68.88,
+          "score": 0.93
+        },
+        {
+          "word": "Desert",
+          "startSec": 68.88,
+          "endSec": 69.3,
+          "score": 1.0
+        },
+        {
+          "word": "City.",
+          "startSec": 69.3,
+          "endSec": 69.98,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 70.74,
+      "end": 73.91,
+      "text": "Maradi, a farming and trade center.",
+      "words": [
+        {
+          "word": "Maradi,",
+          "startSec": 70.94,
+          "endSec": 71.62,
+          "score": 0.66
+        },
+        {
+          "word": "a",
+          "startSec": 72.16,
+          "endSec": 72.24,
+          "score": 0.98
+        },
+        {
+          "word": "farming",
+          "startSec": 72.24,
+          "endSec": 72.66,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 72.66,
+          "endSec": 72.98,
+          "score": 0.98
+        },
+        {
+          "word": "trade",
+          "startSec": 72.98,
+          "endSec": 73.2,
+          "score": 0.99
+        },
+        {
+          "word": "center.",
+          "startSec": 73.2,
+          "endSec": 73.76,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 74.56,
+      "end": 76.35,
+      "text": "Zinder and Tahua.",
+      "words": [
+        {
+          "word": "Zinder",
+          "startSec": 74.76,
+          "endSec": 75.2,
+          "score": 0.56
+        },
+        {
+          "word": "and",
+          "startSec": 75.2,
+          "endSec": 75.64,
+          "score": 0.98
+        },
+        {
+          "word": "Tahua.",
+          "startSec": 75.64,
+          "endSec": 76.2,
+          "score": 0.63
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 77.31,
+      "end": 79.44,
+      "text": "How many people live in Niger?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 77.51,
+          "endSec": 77.75,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 77.75,
+          "endSec": 77.95,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 77.95,
+          "endSec": 78.45,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 78.45,
+          "endSec": 78.85,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 78.85,
+          "endSec": 79.05,
+          "score": 1.0
+        },
+        {
+          "word": "Niger?",
+          "startSec": 79.05,
+          "endSec": 79.29,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 79.91,
+      "end": 83.24,
+      "text": "About 25 million people live in Niger.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 80.11,
+          "endSec": 80.35,
+          "score": 0.99
+        },
+        {
+          "word": "25",
+          "startSec": 80.35,
+          "endSec": 80.99,
+          "score": 0.97
+        },
+        {
+          "word": "million",
+          "startSec": 80.99,
+          "endSec": 81.65,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 81.65,
+          "endSec": 82.13,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 82.13,
+          "endSec": 82.67,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 82.67,
+          "endSec": 82.87,
+          "score": 1.0
+        },
+        {
+          "word": "Niger.",
+          "startSec": 82.87,
+          "endSec": 83.09,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 84.05,
+      "end": 88.56,
+      "text": "Many people live in villages and rural areas.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 84.25,
+          "endSec": 84.83,
+          "score": 0.26
+        },
+        {
+          "word": "people",
+          "startSec": 84.83,
+          "endSec": 85.41,
+          "score": 0.91
+        },
+        {
+          "word": "live",
+          "startSec": 85.41,
+          "endSec": 85.73,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 85.73,
+          "endSec": 85.97,
+          "score": 1.0
+        },
+        {
+          "word": "villages",
+          "startSec": 85.97,
+          "endSec": 86.51,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 86.51,
+          "endSec": 86.95,
+          "score": 0.95
+        },
+        {
+          "word": "rural",
+          "startSec": 86.95,
+          "endSec": 87.25,
+          "score": 1.0
+        },
+        {
+          "word": "areas.",
+          "startSec": 87.25,
+          "endSec": 88.41,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 89.15,
+      "end": 91.62,
+      "text": "Niger has a young population.",
+      "words": [
+        {
+          "word": "Niger",
+          "startSec": 89.35,
+          "endSec": 89.85,
+          "score": 0.67
+        },
+        {
+          "word": "has",
+          "startSec": 89.85,
+          "endSec": 90.37,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 90.37,
+          "endSec": 90.57,
+          "score": 1.0
+        },
+        {
+          "word": "young",
+          "startSec": 90.57,
+          "endSec": 90.77,
+          "score": 1.0
+        },
+        {
+          "word": "population.",
+          "startSec": 90.77,
+          "endSec": 91.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 92.51,
+      "end": 95.34,
+      "text": "Most people are under 20 years old.",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 92.71,
+          "endSec": 92.71,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 92.71,
+          "endSec": 93.29,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 93.29,
+          "endSec": 93.61,
+          "score": 1.0
+        },
+        {
+          "word": "under",
+          "startSec": 93.61,
+          "endSec": 93.95,
+          "score": 0.99
+        },
+        {
+          "word": "20",
+          "startSec": 93.95,
+          "endSec": 94.39,
+          "score": 0.93
+        },
+        {
+          "word": "years",
+          "startSec": 94.39,
+          "endSec": 94.77,
+          "score": 0.95
+        },
+        {
+          "word": "old.",
+          "startSec": 94.77,
+          "endSec": 95.19,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 96.33,
+      "end": 99.38,
+      "text": "What language do people speak in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 96.53,
+          "endSec": 96.79,
+          "score": 0.95
+        },
+        {
+          "word": "language",
+          "startSec": 96.79,
+          "endSec": 97.27,
+          "score": 0.99
+        },
+        {
+          "word": "do",
+          "startSec": 97.27,
+          "endSec": 97.67,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 97.67,
+          "endSec": 97.97,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 97.97,
+          "endSec": 98.53,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 98.53,
+          "endSec": 98.93,
+          "score": 1.0
+        },
+        {
+          "word": "Niger?",
+          "startSec": 98.93,
+          "endSec": 99.23,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 100.75,
+      "end": 102.86,
+      "text": "The official language is French.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 100.95,
+          "endSec": 101.01,
+          "score": 0.98
+        },
+        {
+          "word": "official",
+          "startSec": 101.01,
+          "endSec": 101.35,
+          "score": 0.99
+        },
+        {
+          "word": "language",
+          "startSec": 101.35,
+          "endSec": 102.03,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 102.03,
+          "endSec": 102.31,
+          "score": 1.0
+        },
+        {
+          "word": "French.",
+          "startSec": 102.31,
+          "endSec": 102.71,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 103.9,
+      "end": 107.41,
+      "text": "But many people speak local African languages",
+      "words": [
+        {
+          "word": "But",
+          "startSec": 104.1,
+          "endSec": 104.2,
+          "score": 0.97
+        },
+        {
+          "word": "many",
+          "startSec": 104.2,
+          "endSec": 104.46,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 104.46,
+          "endSec": 104.9,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 104.9,
+          "endSec": 105.36,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 105.36,
+          "endSec": 105.84,
+          "score": 0.99
+        },
+        {
+          "word": "African",
+          "startSec": 105.84,
+          "endSec": 106.52,
+          "score": 0.97
+        },
+        {
+          "word": "languages",
+          "startSec": 106.52,
+          "endSec": 107.26,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 107.06,
+      "end": 113.71,
+      "text": "such as Hausama Tamashek, Tuare language, Fulfulda.",
+      "words": [
+        {
+          "word": "such",
+          "startSec": 107.26,
+          "endSec": 107.8,
+          "score": 0.24
+        },
+        {
+          "word": "as",
+          "startSec": 107.8,
+          "endSec": 108.28,
+          "score": 0.99
+        },
+        {
+          "word": "Hausama",
+          "startSec": 108.28,
+          "endSec": 109.04,
+          "score": 0.31
+        },
+        {
+          "word": "Tamashek,",
+          "startSec": 109.04,
+          "endSec": 110.36,
+          "score": 0.64
+        },
+        {
+          "word": "Tuare",
+          "startSec": 110.5,
+          "endSec": 111.02,
+          "score": 0.58
+        },
+        {
+          "word": "language,",
+          "startSec": 111.02,
+          "endSec": 111.3,
+          "score": 0.21
+        },
+        {
+          "word": "Fulfulda.",
+          "startSec": 112.92,
+          "endSec": 113.56,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 114.38,
+      "end": 117.55,
+      "text": "People often speak two or three languages.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 114.58,
+          "endSec": 114.94,
+          "score": 0.96
+        },
+        {
+          "word": "often",
+          "startSec": 114.94,
+          "endSec": 115.32,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 115.32,
+          "endSec": 115.8,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 115.8,
+          "endSec": 116.26,
+          "score": 0.82
+        },
+        {
+          "word": "or",
+          "startSec": 116.26,
+          "endSec": 116.52,
+          "score": 1.0
+        },
+        {
+          "word": "three",
+          "startSec": 116.52,
+          "endSec": 116.84,
+          "score": 1.0
+        },
+        {
+          "word": "languages.",
+          "startSec": 116.84,
+          "endSec": 117.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 118.42,
+      "end": 120.63,
+      "text": "What is the weather like in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 118.62,
+          "endSec": 118.84,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 118.84,
+          "endSec": 119.0,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 119.0,
+          "endSec": 119.22,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 119.22,
+          "endSec": 119.46,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 119.46,
+          "endSec": 119.92,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 119.92,
+          "endSec": 120.16,
+          "score": 1.0
+        },
+        {
+          "word": "Niger?",
+          "startSec": 120.16,
+          "endSec": 120.48,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 121.4,
+      "end": 125.11,
+      "text": "Niger is one of the hottest countries in the world.",
+      "words": [
+        {
+          "word": "Niger",
+          "startSec": 121.6,
+          "endSec": 121.92,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 121.92,
+          "endSec": 122.56,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 122.56,
+          "endSec": 122.82,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 122.82,
+          "endSec": 122.98,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 122.98,
+          "endSec": 123.14,
+          "score": 1.0
+        },
+        {
+          "word": "hottest",
+          "startSec": 123.14,
+          "endSec": 123.5,
+          "score": 0.99
+        },
+        {
+          "word": "countries",
+          "startSec": 123.5,
+          "endSec": 124.08,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 124.08,
+          "endSec": 124.48,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 124.48,
+          "endSec": 124.62,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 124.62,
+          "endSec": 124.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 125.88,
+      "end": 131.01,
+      "text": "It has a hot dry season from February to May.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 126.08,
+          "endSec": 126.28,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 126.28,
+          "endSec": 126.64,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 126.64,
+          "endSec": 127.46,
+          "score": 0.9
+        },
+        {
+          "word": "hot",
+          "startSec": 127.46,
+          "endSec": 127.76,
+          "score": 0.98
+        },
+        {
+          "word": "dry",
+          "startSec": 127.76,
+          "endSec": 128.08,
+          "score": 0.77
+        },
+        {
+          "word": "season",
+          "startSec": 128.08,
+          "endSec": 128.7,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 128.7,
+          "endSec": 129.48,
+          "score": 0.96
+        },
+        {
+          "word": "February",
+          "startSec": 129.48,
+          "endSec": 130.04,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 130.04,
+          "endSec": 130.58,
+          "score": 0.99
+        },
+        {
+          "word": "May.",
+          "startSec": 130.58,
+          "endSec": 130.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 131.95,
+      "end": 135.64,
+      "text": "A short rainy season from June to September.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 132.15,
+          "endSec": 132.33,
+          "score": 0.99
+        },
+        {
+          "word": "short",
+          "startSec": 132.33,
+          "endSec": 132.65,
+          "score": 1.0
+        },
+        {
+          "word": "rainy",
+          "startSec": 132.65,
+          "endSec": 133.03,
+          "score": 0.99
+        },
+        {
+          "word": "season",
+          "startSec": 133.03,
+          "endSec": 133.73,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 133.73,
+          "endSec": 134.25,
+          "score": 0.95
+        },
+        {
+          "word": "June",
+          "startSec": 134.25,
+          "endSec": 134.61,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 134.61,
+          "endSec": 134.93,
+          "score": 0.99
+        },
+        {
+          "word": "September.",
+          "startSec": 134.93,
+          "endSec": 135.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 135.29,
+      "end": 140.34,
+      "text": "A cooler dry season from October to January.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 135.49,
+          "endSec": 136.57,
+          "score": 0.03
+        },
+        {
+          "word": "cooler",
+          "startSec": 136.57,
+          "endSec": 136.99,
+          "score": 0.99
+        },
+        {
+          "word": "dry",
+          "startSec": 136.99,
+          "endSec": 137.49,
+          "score": 0.73
+        },
+        {
+          "word": "season",
+          "startSec": 137.49,
+          "endSec": 138.01,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 138.01,
+          "endSec": 138.67,
+          "score": 0.9
+        },
+        {
+          "word": "October",
+          "startSec": 138.67,
+          "endSec": 139.15,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 139.15,
+          "endSec": 139.63,
+          "score": 0.97
+        },
+        {
+          "word": "January.",
+          "startSec": 139.63,
+          "endSec": 140.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 140.95,
+      "end": 144.06,
+      "text": "Rain is rare, especially in the north.",
+      "words": [
+        {
+          "word": "Rain",
+          "startSec": 141.15,
+          "endSec": 141.49,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 141.49,
+          "endSec": 141.81,
+          "score": 1.0
+        },
+        {
+          "word": "rare,",
+          "startSec": 141.81,
+          "endSec": 142.13,
+          "score": 0.99
+        },
+        {
+          "word": "especially",
+          "startSec": 142.51,
+          "endSec": 142.89,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 142.89,
+          "endSec": 143.45,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 143.45,
+          "endSec": 143.57,
+          "score": 1.0
+        },
+        {
+          "word": "north.",
+          "startSec": 143.57,
+          "endSec": 143.91,
+          "score": 0.66
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 145.38,
+      "end": 147.63,
+      "text": "What does Niger look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 145.58,
+          "endSec": 145.68,
+          "score": 0.91
+        },
+        {
+          "word": "does",
+          "startSec": 145.68,
+          "endSec": 146.04,
+          "score": 1.0
+        },
+        {
+          "word": "Niger",
+          "startSec": 146.04,
+          "endSec": 146.34,
+          "score": 0.81
+        },
+        {
+          "word": "look",
+          "startSec": 146.34,
+          "endSec": 147.02,
+          "score": 0.99
+        },
+        {
+          "word": "like?",
+          "startSec": 147.02,
+          "endSec": 147.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 147.96,
+      "end": 152.53,
+      "text": "Niger has desert land with sand and rocks.",
+      "words": [
+        {
+          "word": "Niger",
+          "startSec": 148.16,
+          "endSec": 148.74,
+          "score": 0.8
+        },
+        {
+          "word": "has",
+          "startSec": 148.74,
+          "endSec": 149.34,
+          "score": 0.99
+        },
+        {
+          "word": "desert",
+          "startSec": 149.34,
+          "endSec": 150.38,
+          "score": 0.82
+        },
+        {
+          "word": "land",
+          "startSec": 150.38,
+          "endSec": 150.98,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 150.98,
+          "endSec": 151.4,
+          "score": 0.99
+        },
+        {
+          "word": "sand",
+          "startSec": 151.4,
+          "endSec": 151.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 151.74,
+          "endSec": 152.04,
+          "score": 0.99
+        },
+        {
+          "word": "rocks.",
+          "startSec": 152.04,
+          "endSec": 152.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 153.26,
+      "end": 155.53,
+      "text": "The Niger River in the southwest.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 153.46,
+          "endSec": 153.54,
+          "score": 0.99
+        },
+        {
+          "word": "Niger",
+          "startSec": 153.54,
+          "endSec": 153.88,
+          "score": 0.98
+        },
+        {
+          "word": "River",
+          "startSec": 153.88,
+          "endSec": 154.54,
+          "score": 0.82
+        },
+        {
+          "word": "in",
+          "startSec": 154.54,
+          "endSec": 154.84,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 154.84,
+          "endSec": 154.98,
+          "score": 0.99
+        },
+        {
+          "word": "southwest.",
+          "startSec": 154.98,
+          "endSec": 155.38,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 156.24,
+      "end": 159.59,
+      "text": "Mountains in the north, like the A.R. mountains.",
+      "words": [
+        {
+          "word": "Mountains",
+          "startSec": 156.44,
+          "endSec": 156.86,
+          "score": 0.94
+        },
+        {
+          "word": "in",
+          "startSec": 156.86,
+          "endSec": 157.26,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 157.26,
+          "endSec": 157.44,
+          "score": 1.0
+        },
+        {
+          "word": "north,",
+          "startSec": 157.44,
+          "endSec": 157.78,
+          "score": 0.97
+        },
+        {
+          "word": "like",
+          "startSec": 157.78,
+          "endSec": 158.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 158.22,
+          "endSec": 158.48,
+          "score": 1.0
+        },
+        {
+          "word": "A",
+          "startSec": 158.48,
+          "endSec": 158.66,
+          "score": 0.69
+        },
+        {
+          "word": ".R.",
+          "startSec": 158.66,
+          "endSec": 158.92,
+          "score": 0.52
+        },
+        {
+          "word": "mountains.",
+          "startSec": 159.4,
+          "endSec": 159.44,
+          "score": 0.42
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 160.36,
+      "end": 163.87,
+      "text": "Savannahs and dry grasslands in the south.",
+      "words": [
+        {
+          "word": "Savannahs",
+          "startSec": 160.56,
+          "endSec": 161.36,
+          "score": 0.69
+        },
+        {
+          "word": "and",
+          "startSec": 161.36,
+          "endSec": 161.58,
+          "score": 0.95
+        },
+        {
+          "word": "dry",
+          "startSec": 161.58,
+          "endSec": 161.92,
+          "score": 0.93
+        },
+        {
+          "word": "grasslands",
+          "startSec": 161.92,
+          "endSec": 162.88,
+          "score": 0.96
+        },
+        {
+          "word": "in",
+          "startSec": 162.88,
+          "endSec": 163.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 163.26,
+          "endSec": 163.42,
+          "score": 1.0
+        },
+        {
+          "word": "south.",
+          "startSec": 163.42,
+          "endSec": 163.72,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 164.26,
+      "end": 169.15,
+      "text": "It is a land of sun, wind, and wide open space.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 164.46,
+          "endSec": 164.88,
+          "score": 0.59
+        },
+        {
+          "word": "is",
+          "startSec": 164.88,
+          "endSec": 165.06,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 165.06,
+          "endSec": 165.24,
+          "score": 0.95
+        },
+        {
+          "word": "land",
+          "startSec": 165.24,
+          "endSec": 165.56,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 165.56,
+          "endSec": 165.8,
+          "score": 1.0
+        },
+        {
+          "word": "sun,",
+          "startSec": 165.8,
+          "endSec": 166.28,
+          "score": 0.89
+        },
+        {
+          "word": "wind,",
+          "startSec": 166.68,
+          "endSec": 167.0,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 167.58,
+          "endSec": 167.68,
+          "score": 1.0
+        },
+        {
+          "word": "wide",
+          "startSec": 167.68,
+          "endSec": 168.02,
+          "score": 1.0
+        },
+        {
+          "word": "open",
+          "startSec": 168.02,
+          "endSec": 168.44,
+          "score": 0.69
+        },
+        {
+          "word": "space.",
+          "startSec": 168.44,
+          "endSec": 169.0,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 169.84,
+      "end": 171.83,
+      "text": "What animals live in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 170.04,
+          "endSec": 170.22,
+          "score": 0.96
+        },
+        {
+          "word": "animals",
+          "startSec": 170.22,
+          "endSec": 170.54,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 170.54,
+          "endSec": 171.2,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 171.2,
+          "endSec": 171.42,
+          "score": 1.0
+        },
+        {
+          "word": "Niger?",
+          "startSec": 171.42,
+          "endSec": 171.68,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 172.64,
+      "end": 177.15,
+      "text": "In Niger you can find camels, goats, and donkeys.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 172.84,
+          "endSec": 172.94,
+          "score": 0.98
+        },
+        {
+          "word": "Niger",
+          "startSec": 172.94,
+          "endSec": 173.16,
+          "score": 0.86
+        },
+        {
+          "word": "you",
+          "startSec": 173.16,
+          "endSec": 173.82,
+          "score": 0.53
+        },
+        {
+          "word": "can",
+          "startSec": 173.82,
+          "endSec": 174.02,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 174.02,
+          "endSec": 174.42,
+          "score": 1.0
+        },
+        {
+          "word": "camels,",
+          "startSec": 174.42,
+          "endSec": 175.36,
+          "score": 0.97
+        },
+        {
+          "word": "goats,",
+          "startSec": 175.72,
+          "endSec": 175.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 176.34,
+          "endSec": 176.38,
+          "score": 1.0
+        },
+        {
+          "word": "donkeys.",
+          "startSec": 176.38,
+          "endSec": 177.0,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 177.68,
+      "end": 180.93,
+      "text": "Lizards, snakes, and scorpions.",
+      "words": [
+        {
+          "word": "Lizards,",
+          "startSec": 177.88,
+          "endSec": 178.3,
+          "score": 0.82
+        },
+        {
+          "word": "snakes,",
+          "startSec": 179.36,
+          "endSec": 179.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 179.88,
+          "endSec": 179.96,
+          "score": 1.0
+        },
+        {
+          "word": "scorpions.",
+          "startSec": 179.96,
+          "endSec": 180.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 181.52,
+      "end": 184.41,
+      "text": "Birds like eagles and guinea fowl.",
+      "words": [
+        {
+          "word": "Birds",
+          "startSec": 181.72,
+          "endSec": 182.0,
+          "score": 0.97
+        },
+        {
+          "word": "like",
+          "startSec": 182.0,
+          "endSec": 182.54,
+          "score": 0.94
+        },
+        {
+          "word": "eagles",
+          "startSec": 182.54,
+          "endSec": 183.04,
+          "score": 0.9
+        },
+        {
+          "word": "and",
+          "startSec": 183.04,
+          "endSec": 183.44,
+          "score": 0.92
+        },
+        {
+          "word": "guinea",
+          "startSec": 183.44,
+          "endSec": 183.84,
+          "score": 0.85
+        },
+        {
+          "word": "fowl.",
+          "startSec": 183.84,
+          "endSec": 184.26,
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 184.82,
+      "end": 193.85,
+      "text": "In some parks, antelopes, giraffes, and elephants.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 185.02,
+          "endSec": 185.14,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 185.14,
+          "endSec": 185.4,
+          "score": 0.99
+        },
+        {
+          "word": "parks,",
+          "startSec": 185.4,
+          "endSec": 185.86,
+          "score": 0.98
+        },
+        {
+          "word": "antelopes,",
+          "startSec": 186.86,
+          "endSec": 187.34,
+          "score": 0.82
+        },
+        {
+          "word": "giraffes,",
+          "startSec": 187.94,
+          "endSec": 188.62,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 193.7,
+          "endSec": 193.7,
+          "score": 1.0
+        },
+        {
+          "word": "elephants.",
+          "startSec": 193.7,
+          "endSec": 193.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 193.5,
+      "end": 197.17,
+      "text": "In West Africa, what do people eat in Niger?",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "score": 0.09
+        },
+        {
+          "word": "West",
+          "startSec": 193.8,
+          "endSec": 194.0,
+          "score": 0.91
+        },
+        {
+          "word": "Africa,",
+          "startSec": 194.0,
+          "endSec": 194.56,
+          "score": 0.99
+        },
+        {
+          "word": "what",
+          "startSec": 195.44,
+          "endSec": 195.7,
+          "score": 0.9
+        },
+        {
+          "word": "do",
+          "startSec": 195.7,
+          "endSec": 195.86,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 195.86,
+          "endSec": 196.06,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 196.06,
+          "endSec": 196.52,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 196.52,
+          "endSec": 196.76,
+          "score": 0.99
+        },
+        {
+          "word": "Niger?",
+          "startSec": 196.76,
+          "endSec": 197.02,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 197.68,
+      "end": 202.93,
+      "text": "Nigerian food is simple, local, and made for hot weather.",
+      "words": [
+        {
+          "word": "Nigerian",
+          "startSec": 197.88,
+          "endSec": 198.3,
+          "score": 0.85
+        },
+        {
+          "word": "food",
+          "startSec": 198.3,
+          "endSec": 198.88,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 198.88,
+          "endSec": 199.16,
+          "score": 1.0
+        },
+        {
+          "word": "simple,",
+          "startSec": 199.16,
+          "endSec": 199.52,
+          "score": 1.0
+        },
+        {
+          "word": "local,",
+          "startSec": 200.24,
+          "endSec": 200.58,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 201.28,
+          "endSec": 201.32,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 201.32,
+          "endSec": 201.56,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 201.56,
+          "endSec": 201.88,
+          "score": 0.98
+        },
+        {
+          "word": "hot",
+          "startSec": 201.88,
+          "endSec": 202.2,
+          "score": 1.0
+        },
+        {
+          "word": "weather.",
+          "startSec": 202.2,
+          "endSec": 202.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 203.62,
+      "end": 204.67,
+      "text": "People eat.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 203.82,
+          "endSec": 204.1,
+          "score": 0.99
+        },
+        {
+          "word": "eat.",
+          "startSec": 204.1,
+          "endSec": 204.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 205.44,
+      "end": 209.11,
+      "text": "Millet and sorghum grains used for porridge.",
+      "words": [
+        {
+          "word": "Millet",
+          "startSec": 205.64,
+          "endSec": 205.9,
+          "score": 0.69
+        },
+        {
+          "word": "and",
+          "startSec": 205.9,
+          "endSec": 206.1,
+          "score": 0.96
+        },
+        {
+          "word": "sorghum",
+          "startSec": 206.1,
+          "endSec": 206.82,
+          "score": 0.98
+        },
+        {
+          "word": "grains",
+          "startSec": 206.82,
+          "endSec": 207.42,
+          "score": 0.69
+        },
+        {
+          "word": "used",
+          "startSec": 207.42,
+          "endSec": 207.86,
+          "score": 0.95
+        },
+        {
+          "word": "for",
+          "startSec": 207.86,
+          "endSec": 208.14,
+          "score": 1.0
+        },
+        {
+          "word": "porridge.",
+          "startSec": 208.14,
+          "endSec": 208.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 209.58,
+      "end": 210.65,
+      "text": "Rice and maize.",
+      "words": [
+        {
+          "word": "Rice",
+          "startSec": 209.78,
+          "endSec": 209.88,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 209.88,
+          "endSec": 210.24,
+          "score": 0.98
+        },
+        {
+          "word": "maize.",
+          "startSec": 210.24,
+          "endSec": 210.5,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 211.56,
+      "end": 214.07,
+      "text": "Beans, leafy greens, and onions.",
+      "words": [
+        {
+          "word": "Beans,",
+          "startSec": 211.76,
+          "endSec": 211.76,
+          "score": 0.94
+        },
+        {
+          "word": "leafy",
+          "startSec": 212.42,
+          "endSec": 212.74,
+          "score": 1.0
+        },
+        {
+          "word": "greens,",
+          "startSec": 212.74,
+          "endSec": 213.0,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 213.32,
+          "endSec": 213.52,
+          "score": 1.0
+        },
+        {
+          "word": "onions.",
+          "startSec": 213.52,
+          "endSec": 213.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 214.94,
+      "end": 217.09,
+      "text": "Meat like goat, beef, and chicken.",
+      "words": [
+        {
+          "word": "Meat",
+          "startSec": 215.14,
+          "endSec": 215.14,
+          "score": 0.9
+        },
+        {
+          "word": "like",
+          "startSec": 215.14,
+          "endSec": 215.5,
+          "score": 0.97
+        },
+        {
+          "word": "goat,",
+          "startSec": 215.5,
+          "endSec": 215.88,
+          "score": 0.99
+        },
+        {
+          "word": "beef,",
+          "startSec": 216.28,
+          "endSec": 216.4,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 216.58,
+          "endSec": 216.68,
+          "score": 1.0
+        },
+        {
+          "word": "chicken.",
+          "startSec": 216.68,
+          "endSec": 216.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 218.26,
+      "end": 219.43,
+      "text": "Popular dishes.",
+      "words": [
+        {
+          "word": "Popular",
+          "startSec": 218.46,
+          "endSec": 218.78,
+          "score": 0.96
+        },
+        {
+          "word": "dishes.",
+          "startSec": 218.78,
+          "endSec": 219.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 219.85,
+      "end": 220.57,
+      "text": "Tuo.",
+      "words": [
+        {
+          "word": "Tuo.",
+          "startSec": 220.05,
+          "endSec": 220.42,
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 220.74,
+      "end": 223.47,
+      "text": "Millet porridge served with sauce.",
+      "words": [
+        {
+          "word": "Millet",
+          "startSec": 220.94,
+          "endSec": 221.56,
+          "score": 0.7
+        },
+        {
+          "word": "porridge",
+          "startSec": 221.56,
+          "endSec": 222.34,
+          "score": 0.84
+        },
+        {
+          "word": "served",
+          "startSec": 222.34,
+          "endSec": 222.64,
+          "score": 0.93
+        },
+        {
+          "word": "with",
+          "startSec": 222.64,
+          "endSec": 223.0,
+          "score": 1.0
+        },
+        {
+          "word": "sauce.",
+          "startSec": 223.0,
+          "endSec": 223.32,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 224.32,
+      "end": 225.39,
+      "text": "Jala rice.",
+      "words": [
+        {
+          "word": "Jala",
+          "startSec": 224.52,
+          "endSec": 224.96,
+          "score": 0.53
+        },
+        {
+          "word": "rice.",
+          "startSec": 224.96,
+          "endSec": 225.24,
+          "score": 0.12
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 225.84,
+      "end": 227.77,
+      "text": "Rice with tomato and spices.",
+      "words": [
+        {
+          "word": "Rice",
+          "startSec": 226.04,
+          "endSec": 226.32,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 226.32,
+          "endSec": 226.6,
+          "score": 0.99
+        },
+        {
+          "word": "tomato",
+          "startSec": 226.6,
+          "endSec": 226.92,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 226.92,
+          "endSec": 227.34,
+          "score": 0.95
+        },
+        {
+          "word": "spices.",
+          "startSec": 227.34,
+          "endSec": 227.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 228.6,
+      "end": 230.15,
+      "text": "Fried dough balls.",
+      "words": [
+        {
+          "word": "Fried",
+          "startSec": 228.8,
+          "endSec": 229.12,
+          "score": 0.88
+        },
+        {
+          "word": "dough",
+          "startSec": 229.12,
+          "endSec": 229.54,
+          "score": 0.97
+        },
+        {
+          "word": "balls.",
+          "startSec": 229.54,
+          "endSec": 230.0,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 230.66,
+      "end": 232.25,
+      "text": "Grilled meat with chili.",
+      "words": [
+        {
+          "word": "Grilled",
+          "startSec": 230.86,
+          "endSec": 231.32,
+          "score": 0.98
+        },
+        {
+          "word": "meat",
+          "startSec": 231.32,
+          "endSec": 231.54,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 231.54,
+          "endSec": 231.78,
+          "score": 1.0
+        },
+        {
+          "word": "chili.",
+          "startSec": 231.78,
+          "endSec": 232.1,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 233.11,
+      "end": 237.22,
+      "text": "People often eat with their hands, sitting together on mats.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 233.31,
+          "endSec": 233.75,
+          "score": 0.99
+        },
+        {
+          "word": "often",
+          "startSec": 233.75,
+          "endSec": 234.19,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 234.19,
+          "endSec": 234.47,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 234.47,
+          "endSec": 234.67,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 234.67,
+          "endSec": 234.89,
+          "score": 1.0
+        },
+        {
+          "word": "hands,",
+          "startSec": 234.89,
+          "endSec": 235.27,
+          "score": 0.98
+        },
+        {
+          "word": "sitting",
+          "startSec": 235.27,
+          "endSec": 235.97,
+          "score": 1.0
+        },
+        {
+          "word": "together",
+          "startSec": 235.97,
+          "endSec": 236.47,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 236.47,
+          "endSec": 236.81,
+          "score": 0.99
+        },
+        {
+          "word": "mats.",
+          "startSec": 236.81,
+          "endSec": 237.07,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 238.02,
+      "end": 240.01,
+      "text": "What do people drink in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 238.22,
+          "endSec": 238.5,
+          "score": 0.98
+        },
+        {
+          "word": "do",
+          "startSec": 238.5,
+          "endSec": 238.7,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 238.7,
+          "endSec": 238.92,
+          "score": 1.0
+        },
+        {
+          "word": "drink",
+          "startSec": 238.92,
+          "endSec": 239.42,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 239.42,
+          "endSec": 239.64,
+          "score": 0.87
+        },
+        {
+          "word": "Niger?",
+          "startSec": 239.64,
+          "endSec": 239.86,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 240.81,
+      "end": 242.52,
+      "text": "People drink water.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 241.01,
+          "endSec": 241.35,
+          "score": 0.99
+        },
+        {
+          "word": "drink",
+          "startSec": 241.35,
+          "endSec": 241.79,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 241.79,
+          "endSec": 242.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 243.4,
+      "end": 243.81,
+      "text": "Tea.",
+      "words": [
+        {
+          "word": "Tea.",
+          "startSec": 243.6,
+          "endSec": 243.66,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 244.18,
+      "end": 246.81,
+      "text": "Green tea with sugar is very popular.",
+      "words": [
+        {
+          "word": "Green",
+          "startSec": 244.38,
+          "endSec": 244.5,
+          "score": 0.97
+        },
+        {
+          "word": "tea",
+          "startSec": 244.5,
+          "endSec": 244.84,
+          "score": 0.96
+        },
+        {
+          "word": "with",
+          "startSec": 244.84,
+          "endSec": 245.08,
+          "score": 1.0
+        },
+        {
+          "word": "sugar",
+          "startSec": 245.08,
+          "endSec": 245.42,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 245.42,
+          "endSec": 245.82,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 245.82,
+          "endSec": 246.04,
+          "score": 1.0
+        },
+        {
+          "word": "popular.",
+          "startSec": 246.04,
+          "endSec": 246.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 247.59,
+      "end": 252.12,
+      "text": "Milk, especially from goats or cows.",
+      "words": [
+        {
+          "word": "Milk,",
+          "startSec": 247.79,
+          "endSec": 248.25,
+          "score": 0.39
+        },
+        {
+          "word": "especially",
+          "startSec": 248.79,
+          "endSec": 249.83,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 249.83,
+          "endSec": 250.59,
+          "score": 0.99
+        },
+        {
+          "word": "goats",
+          "startSec": 250.59,
+          "endSec": 250.99,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 250.99,
+          "endSec": 251.53,
+          "score": 0.97
+        },
+        {
+          "word": "cows.",
+          "startSec": 251.53,
+          "endSec": 251.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 252.71,
+      "end": 256.22,
+      "text": "Juice from hibiscus, bowbab, or ginger.",
+      "words": [
+        {
+          "word": "Juice",
+          "startSec": 252.91,
+          "endSec": 253.37,
+          "score": 0.62
+        },
+        {
+          "word": "from",
+          "startSec": 253.37,
+          "endSec": 253.75,
+          "score": 1.0
+        },
+        {
+          "word": "hibiscus,",
+          "startSec": 253.75,
+          "endSec": 254.57,
+          "score": 0.88
+        },
+        {
+          "word": "bowbab,",
+          "startSec": 254.83,
+          "endSec": 255.37,
+          "score": 0.59
+        },
+        {
+          "word": "or",
+          "startSec": 255.71,
+          "endSec": 255.79,
+          "score": 0.99
+        },
+        {
+          "word": "ginger.",
+          "startSec": 255.79,
+          "endSec": 256.07,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 257.58,
+      "end": 262.23,
+      "text": "In villages, people sit and share three rounds of tea with friends.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 257.78,
+          "endSec": 257.84,
+          "score": 0.99
+        },
+        {
+          "word": "villages,",
+          "startSec": 257.84,
+          "endSec": 258.22,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 258.28,
+          "endSec": 258.96,
+          "score": 0.99
+        },
+        {
+          "word": "sit",
+          "startSec": 258.96,
+          "endSec": 259.46,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 259.46,
+          "endSec": 259.68,
+          "score": 0.99
+        },
+        {
+          "word": "share",
+          "startSec": 259.68,
+          "endSec": 259.98,
+          "score": 1.0
+        },
+        {
+          "word": "three",
+          "startSec": 259.98,
+          "endSec": 260.48,
+          "score": 0.92
+        },
+        {
+          "word": "rounds",
+          "startSec": 260.48,
+          "endSec": 260.88,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 260.88,
+          "endSec": 261.14,
+          "score": 1.0
+        },
+        {
+          "word": "tea",
+          "startSec": 261.14,
+          "endSec": 261.38,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 261.38,
+          "endSec": 261.66,
+          "score": 1.0
+        },
+        {
+          "word": "friends.",
+          "startSec": 261.66,
+          "endSec": 262.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 263.58,
+      "end": 265.57,
+      "text": "What is life like in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 263.78,
+          "endSec": 264.02,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 264.02,
+          "endSec": 264.22,
+          "score": 0.99
+        },
+        {
+          "word": "life",
+          "startSec": 264.22,
+          "endSec": 264.58,
+          "score": 0.76
+        },
+        {
+          "word": "like",
+          "startSec": 264.58,
+          "endSec": 264.9,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 264.9,
+          "endSec": 265.16,
+          "score": 0.99
+        },
+        {
+          "word": "Niger?",
+          "startSec": 265.16,
+          "endSec": 265.42,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 266.98,
+      "end": 272.87,
+      "text": "Life in Niger is often rural, traditional, and community-based.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 267.18,
+          "endSec": 267.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 267.5,
+          "endSec": 267.7,
+          "score": 0.99
+        },
+        {
+          "word": "Niger",
+          "startSec": 267.7,
+          "endSec": 267.96,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 267.96,
+          "endSec": 268.5,
+          "score": 1.0
+        },
+        {
+          "word": "often",
+          "startSec": 268.5,
+          "endSec": 268.9,
+          "score": 1.0
+        },
+        {
+          "word": "rural,",
+          "startSec": 268.9,
+          "endSec": 269.3,
+          "score": 1.0
+        },
+        {
+          "word": "traditional,",
+          "startSec": 270.32,
+          "endSec": 270.32,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 271.32,
+          "endSec": 271.64,
+          "score": 1.0
+        },
+        {
+          "word": "community",
+          "startSec": 271.64,
+          "endSec": 272.08,
+          "score": 1.0
+        },
+        {
+          "word": "-based.",
+          "startSec": 272.08,
+          "endSec": 272.72,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 273.62,
+      "end": 277.61,
+      "text": "People enjoy farming and herding animals.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 273.82,
+          "endSec": 274.28,
+          "score": 0.17
+        },
+        {
+          "word": "enjoy",
+          "startSec": 274.28,
+          "endSec": 274.74,
+          "score": 0.98
+        },
+        {
+          "word": "farming",
+          "startSec": 274.74,
+          "endSec": 275.96,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 275.96,
+          "endSec": 276.4,
+          "score": 0.99
+        },
+        {
+          "word": "herding",
+          "startSec": 276.4,
+          "endSec": 276.84,
+          "score": 0.8
+        },
+        {
+          "word": "animals.",
+          "startSec": 276.84,
+          "endSec": 277.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 278.04,
+      "end": 280.87,
+      "text": "Helping family and visiting neighbors.",
+      "words": [
+        {
+          "word": "Helping",
+          "startSec": 278.24,
+          "endSec": 278.8,
+          "score": 0.99
+        },
+        {
+          "word": "family",
+          "startSec": 278.8,
+          "endSec": 279.16,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 279.16,
+          "endSec": 279.66,
+          "score": 0.99
+        },
+        {
+          "word": "visiting",
+          "startSec": 279.66,
+          "endSec": 280.06,
+          "score": 1.0
+        },
+        {
+          "word": "neighbors.",
+          "startSec": 280.06,
+          "endSec": 280.72,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 281.14,
+      "end": 285.79,
+      "text": "Going to the mosque, dancing, music, and storytelling.",
+      "words": [
+        {
+          "word": "Going",
+          "startSec": 281.34,
+          "endSec": 281.7,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 281.7,
+          "endSec": 281.96,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 281.96,
+          "endSec": 282.12,
+          "score": 0.99
+        },
+        {
+          "word": "mosque,",
+          "startSec": 282.12,
+          "endSec": 282.46,
+          "score": 0.98
+        },
+        {
+          "word": "dancing,",
+          "startSec": 282.9,
+          "endSec": 283.6,
+          "score": 0.99
+        },
+        {
+          "word": "music,",
+          "startSec": 284.48,
+          "endSec": 284.78,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 285.1,
+          "endSec": 285.14,
+          "score": 0.99
+        },
+        {
+          "word": "storytelling.",
+          "startSec": 285.14,
+          "endSec": 285.64,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 287.0,
+      "end": 290.07,
+      "text": "Resting in the shade during the hot day.",
+      "words": [
+        {
+          "word": "Resting",
+          "startSec": 287.2,
+          "endSec": 287.98,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 287.98,
+          "endSec": 288.1,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 288.1,
+          "endSec": 288.26,
+          "score": 0.99
+        },
+        {
+          "word": "shade",
+          "startSec": 288.26,
+          "endSec": 288.6,
+          "score": 0.99
+        },
+        {
+          "word": "during",
+          "startSec": 288.6,
+          "endSec": 289.06,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 289.06,
+          "endSec": 289.3,
+          "score": 0.99
+        },
+        {
+          "word": "hot",
+          "startSec": 289.3,
+          "endSec": 289.5,
+          "score": 1.0
+        },
+        {
+          "word": "day.",
+          "startSec": 289.5,
+          "endSec": 289.92,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 290.99,
+      "end": 295.1,
+      "text": "Many people wear light flowing clothes to stay cool.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 291.19,
+          "endSec": 291.45,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 291.45,
+          "endSec": 291.97,
+          "score": 1.0
+        },
+        {
+          "word": "wear",
+          "startSec": 291.97,
+          "endSec": 292.27,
+          "score": 1.0
+        },
+        {
+          "word": "light",
+          "startSec": 292.27,
+          "endSec": 292.69,
+          "score": 1.0
+        },
+        {
+          "word": "flowing",
+          "startSec": 292.69,
+          "endSec": 293.31,
+          "score": 0.69
+        },
+        {
+          "word": "clothes",
+          "startSec": 293.31,
+          "endSec": 293.75,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 293.75,
+          "endSec": 294.25,
+          "score": 1.0
+        },
+        {
+          "word": "stay",
+          "startSec": 294.25,
+          "endSec": 294.53,
+          "score": 1.0
+        },
+        {
+          "word": "cool.",
+          "startSec": 294.53,
+          "endSec": 294.95,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 295.94,
+      "end": 299.53,
+      "text": "What are some holidays and traditions in Niger?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 296.14,
+          "endSec": 296.48,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 296.48,
+          "endSec": 296.6,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 296.6,
+          "endSec": 296.88,
+          "score": 1.0
+        },
+        {
+          "word": "holidays",
+          "startSec": 296.88,
+          "endSec": 297.44,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 297.44,
+          "endSec": 298.08,
+          "score": 0.99
+        },
+        {
+          "word": "traditions",
+          "startSec": 298.08,
+          "endSec": 298.52,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 298.52,
+          "endSec": 299.1,
+          "score": 0.99
+        },
+        {
+          "word": "Niger?",
+          "startSec": 299.1,
+          "endSec": 299.38,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 300.9,
+      "end": 302.55,
+      "text": "Independence Day.",
+      "words": [
+        {
+          "word": "Independence",
+          "startSec": 301.1,
+          "endSec": 301.64,
+          "score": 1.0
+        },
+        {
+          "word": "Day.",
+          "startSec": 301.64,
+          "endSec": 302.4,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 303.02,
+      "end": 305.09,
+      "text": "August 3rd.",
+      "words": [
+        {
+          "word": "August",
+          "startSec": 303.22,
+          "endSec": 303.74,
+          "score": 0.07
+        },
+        {
+          "word": "3rd.",
+          "startSec": 303.74,
+          "endSec": 304.94,
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 305.0,
+      "end": 307.95,
+      "text": "Edal Fieder at the end of Ramadan.",
+      "words": [
+        {
+          "word": "Edal",
+          "startSec": 305.2,
+          "endSec": 305.72,
+          "score": 0.27
+        },
+        {
+          "word": "Fieder",
+          "startSec": 305.72,
+          "endSec": 306.38,
+          "score": 0.56
+        },
+        {
+          "word": "at",
+          "startSec": 306.38,
+          "endSec": 306.96,
+          "score": 0.84
+        },
+        {
+          "word": "the",
+          "startSec": 306.96,
+          "endSec": 307.14,
+          "score": 0.99
+        },
+        {
+          "word": "end",
+          "startSec": 307.14,
+          "endSec": 307.32,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 307.32,
+          "endSec": 307.5,
+          "score": 1.0
+        },
+        {
+          "word": "Ramadan.",
+          "startSec": 307.5,
+          "endSec": 307.8,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 308.97,
+      "end": 312.66,
+      "text": "Edal Adah, the festival of sacrifice.",
+      "words": [
+        {
+          "word": "Edal",
+          "startSec": 309.17,
+          "endSec": 309.87,
+          "score": 0.96
+        },
+        {
+          "word": "Adah,",
+          "startSec": 309.87,
+          "endSec": 310.45,
+          "score": 0.39
+        },
+        {
+          "word": "the",
+          "startSec": 310.79,
+          "endSec": 310.85,
+          "score": 0.92
+        },
+        {
+          "word": "festival",
+          "startSec": 310.85,
+          "endSec": 311.33,
+          "score": 0.52
+        },
+        {
+          "word": "of",
+          "startSec": 311.33,
+          "endSec": 311.73,
+          "score": 1.0
+        },
+        {
+          "word": "sacrifice.",
+          "startSec": 311.73,
+          "endSec": 312.51,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 313.33,
+      "end": 316.5,
+      "text": "Traditional weddings and naming ceremonies.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 313.53,
+          "endSec": 314.19,
+          "score": 0.96
+        },
+        {
+          "word": "weddings",
+          "startSec": 314.19,
+          "endSec": 314.75,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 314.75,
+          "endSec": 315.17,
+          "score": 0.97
+        },
+        {
+          "word": "naming",
+          "startSec": 315.17,
+          "endSec": 315.49,
+          "score": 1.0
+        },
+        {
+          "word": "ceremonies.",
+          "startSec": 315.49,
+          "endSec": 316.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 317.37,
+      "end": 322.72,
+      "text": "Music festivals in the desert, especially among the Toreg people.",
+      "words": [
+        {
+          "word": "Music",
+          "startSec": 317.57,
+          "endSec": 318.17,
+          "score": 0.98
+        },
+        {
+          "word": "festivals",
+          "startSec": 318.17,
+          "endSec": 318.51,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 318.51,
+          "endSec": 319.21,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 319.21,
+          "endSec": 319.39,
+          "score": 1.0
+        },
+        {
+          "word": "desert,",
+          "startSec": 319.39,
+          "endSec": 319.85,
+          "score": 0.98
+        },
+        {
+          "word": "especially",
+          "startSec": 320.25,
+          "endSec": 320.71,
+          "score": 1.0
+        },
+        {
+          "word": "among",
+          "startSec": 320.71,
+          "endSec": 321.37,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 321.37,
+          "endSec": 321.59,
+          "score": 0.99
+        },
+        {
+          "word": "Toreg",
+          "startSec": 321.59,
+          "endSec": 322.13,
+          "score": 0.55
+        },
+        {
+          "word": "people.",
+          "startSec": 322.13,
+          "endSec": 322.57,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 323.31,
+      "end": 328.38,
+      "text": "Festivals include camel races, drums, and colorful clothing.",
+      "words": [
+        {
+          "word": "Festivals",
+          "startSec": 323.51,
+          "endSec": 324.25,
+          "score": 0.99
+        },
+        {
+          "word": "include",
+          "startSec": 324.25,
+          "endSec": 324.73,
+          "score": 1.0
+        },
+        {
+          "word": "camel",
+          "startSec": 324.73,
+          "endSec": 325.23,
+          "score": 0.91
+        },
+        {
+          "word": "races,",
+          "startSec": 325.23,
+          "endSec": 325.83,
+          "score": 0.98
+        },
+        {
+          "word": "drums,",
+          "startSec": 326.53,
+          "endSec": 326.69,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 327.21,
+          "endSec": 327.27,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 327.27,
+          "endSec": 327.69,
+          "score": 0.99
+        },
+        {
+          "word": "clothing.",
+          "startSec": 327.69,
+          "endSec": 328.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 329.03,
+      "end": 331.58,
+      "text": "Some fun facts about Niger.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 329.23,
+          "endSec": 329.71,
+          "score": 0.12
+        },
+        {
+          "word": "fun",
+          "startSec": 329.71,
+          "endSec": 330.07,
+          "score": 0.96
+        },
+        {
+          "word": "facts",
+          "startSec": 330.07,
+          "endSec": 330.51,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 330.51,
+          "endSec": 331.13,
+          "score": 0.99
+        },
+        {
+          "word": "Niger.",
+          "startSec": 331.13,
+          "endSec": 331.43,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 333.36,
+      "end": 336.69,
+      "text": "Niger is named after the Niger River.",
+      "words": [
+        {
+          "word": "Niger",
+          "startSec": 333.56,
+          "endSec": 334.02,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 334.02,
+          "endSec": 334.6,
+          "score": 0.99
+        },
+        {
+          "word": "named",
+          "startSec": 334.6,
+          "endSec": 334.92,
+          "score": 0.99
+        },
+        {
+          "word": "after",
+          "startSec": 334.92,
+          "endSec": 335.48,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 335.48,
+          "endSec": 335.64,
+          "score": 0.98
+        },
+        {
+          "word": "Niger",
+          "startSec": 335.64,
+          "endSec": 335.98,
+          "score": 0.98
+        },
+        {
+          "word": "River.",
+          "startSec": 335.98,
+          "endSec": 336.54,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 337.4,
+      "end": 341.47,
+      "text": "The Toreg people are known as blue men of the desert.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 337.6,
+          "endSec": 337.74,
+          "score": 0.98
+        },
+        {
+          "word": "Toreg",
+          "startSec": 337.74,
+          "endSec": 338.44,
+          "score": 0.33
+        },
+        {
+          "word": "people",
+          "startSec": 338.44,
+          "endSec": 338.72,
+          "score": 0.95
+        },
+        {
+          "word": "are",
+          "startSec": 338.72,
+          "endSec": 339.12,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 339.12,
+          "endSec": 339.34,
+          "score": 0.99
+        },
+        {
+          "word": "as",
+          "startSec": 339.34,
+          "endSec": 339.78,
+          "score": 1.0
+        },
+        {
+          "word": "blue",
+          "startSec": 339.78,
+          "endSec": 340.12,
+          "score": 0.17
+        },
+        {
+          "word": "men",
+          "startSec": 340.12,
+          "endSec": 340.48,
+          "score": 0.97
+        },
+        {
+          "word": "of",
+          "startSec": 340.48,
+          "endSec": 340.68,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 340.68,
+          "endSec": 340.86,
+          "score": 0.99
+        },
+        {
+          "word": "desert.",
+          "startSec": 340.86,
+          "endSec": 341.32,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 341.6,
+      "end": 345.45,
+      "text": "The Sahara covers over 80% of the country.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 341.8,
+          "endSec": 341.88,
+          "score": 0.98
+        },
+        {
+          "word": "Sahara",
+          "startSec": 341.88,
+          "endSec": 342.26,
+          "score": 0.99
+        },
+        {
+          "word": "covers",
+          "startSec": 342.26,
+          "endSec": 343.0,
+          "score": 0.98
+        },
+        {
+          "word": "over",
+          "startSec": 343.0,
+          "endSec": 343.48,
+          "score": 0.99
+        },
+        {
+          "word": "80",
+          "startSec": 343.48,
+          "endSec": 343.92,
+          "score": 0.97
+        },
+        {
+          "word": "%",
+          "startSec": 343.92,
+          "endSec": 344.52,
+          "score": 0.79
+        },
+        {
+          "word": "of",
+          "startSec": 344.52,
+          "endSec": 344.72,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 344.72,
+          "endSec": 344.86,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 344.86,
+          "endSec": 345.3,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 346.02,
+      "end": 350.65,
+      "text": "Niger has uranium mines important for its economy.",
+      "words": [
+        {
+          "word": "Niger",
+          "startSec": 346.22,
+          "endSec": 346.56,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 346.56,
+          "endSec": 347.1,
+          "score": 1.0
+        },
+        {
+          "word": "uranium",
+          "startSec": 347.1,
+          "endSec": 347.56,
+          "score": 0.92
+        },
+        {
+          "word": "mines",
+          "startSec": 347.56,
+          "endSec": 348.46,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 348.46,
+          "endSec": 349.3,
+          "score": 0.76
+        },
+        {
+          "word": "for",
+          "startSec": 349.3,
+          "endSec": 349.88,
+          "score": 0.99
+        },
+        {
+          "word": "its",
+          "startSec": 349.88,
+          "endSec": 350.08,
+          "score": 0.93
+        },
+        {
+          "word": "economy.",
+          "startSec": 350.08,
+          "endSec": 350.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 352.04,
+      "end": 357.97,
+      "text": "The national flag is orange, white, and green with an orange circle.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 352.24,
+          "endSec": 352.32,
+          "score": 0.98
+        },
+        {
+          "word": "national",
+          "startSec": 352.32,
+          "endSec": 352.78,
+          "score": 0.46
+        },
+        {
+          "word": "flag",
+          "startSec": 352.78,
+          "endSec": 353.24,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 353.24,
+          "endSec": 353.58,
+          "score": 1.0
+        },
+        {
+          "word": "orange,",
+          "startSec": 353.58,
+          "endSec": 354.08,
+          "score": 1.0
+        },
+        {
+          "word": "white,",
+          "startSec": 354.56,
+          "endSec": 354.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 355.6,
+          "endSec": 355.64,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 355.64,
+          "endSec": 356.06,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 356.06,
+          "endSec": 356.76,
+          "score": 0.9
+        },
+        {
+          "word": "an",
+          "startSec": 356.76,
+          "endSec": 356.96,
+          "score": 0.99
+        },
+        {
+          "word": "orange",
+          "startSec": 356.96,
+          "endSec": 357.34,
+          "score": 1.0
+        },
+        {
+          "word": "circle.",
+          "startSec": 357.34,
+          "endSec": 357.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 358.34,
+      "end": 361.47,
+      "text": "Now you know many things about Niger.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 358.54,
+          "endSec": 359.22,
+          "score": 0.22
+        },
+        {
+          "word": "you",
+          "startSec": 359.22,
+          "endSec": 359.5,
+          "score": 0.92
+        },
+        {
+          "word": "know",
+          "startSec": 359.5,
+          "endSec": 359.76,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 359.76,
+          "endSec": 360.1,
+          "score": 0.98
+        },
+        {
+          "word": "things",
+          "startSec": 360.1,
+          "endSec": 360.64,
+          "score": 0.99
+        },
+        {
+          "word": "about",
+          "startSec": 360.64,
+          "endSec": 360.98,
+          "score": 1.0
+        },
+        {
+          "word": "Niger.",
+          "startSec": 360.98,
+          "endSec": 361.32,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 362.14,
+      "end": 367.73,
+      "text": "You know where it is, what people eat, and how they live.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 362.34,
+          "endSec": 362.66,
+          "score": 0.99
+        },
+        {
+          "word": "know",
+          "startSec": 362.66,
+          "endSec": 362.86,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 362.86,
+          "endSec": 363.22,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 363.22,
+          "endSec": 363.44,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 363.44,
+          "endSec": 364.0,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 364.42,
+          "endSec": 364.98,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 364.98,
+          "endSec": 365.42,
+          "score": 1.0
+        },
+        {
+          "word": "eat,",
+          "startSec": 365.42,
+          "endSec": 365.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 366.42,
+          "endSec": 366.66,
+          "score": 1.0
+        },
+        {
+          "word": "how",
+          "startSec": 366.66,
+          "endSec": 366.96,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 366.96,
+          "endSec": 367.22,
+          "score": 1.0
+        },
+        {
+          "word": "live.",
+          "startSec": 367.22,
+          "endSec": 367.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 368.6,
+      "end": 373.49,
+      "text": "You learned about the desert, traditions, and daily life.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 368.8,
+          "endSec": 369.06,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 369.06,
+          "endSec": 369.34,
+          "score": 0.97
+        },
+        {
+          "word": "about",
+          "startSec": 369.34,
+          "endSec": 369.78,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 369.78,
+          "endSec": 370.04,
+          "score": 0.99
+        },
+        {
+          "word": "desert,",
+          "startSec": 370.04,
+          "endSec": 370.66,
+          "score": 0.95
+        },
+        {
+          "word": "traditions,",
+          "startSec": 371.0,
+          "endSec": 371.54,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 372.1,
+          "endSec": 372.4,
+          "score": 1.0
+        },
+        {
+          "word": "daily",
+          "startSec": 372.4,
+          "endSec": 372.76,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 372.76,
+          "endSec": 373.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 374.41,
+      "end": 375.42,
+      "text": "Well done.",
+      "words": [
+        {
+          "word": "Well",
+          "startSec": 374.61,
+          "endSec": 374.89,
+          "score": 1.0
+        },
+        {
+          "word": "done.",
+          "startSec": 374.89,
+          "endSec": 375.27,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 379.57,
+      "end": 380.32,
+      "text": "I am Amelia.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 379.77,
+          "endSec": 379.83,
+          "score": 0.99
+        },
+        {
+          "word": "am",
+          "startSec": 379.83,
+          "endSec": 380.03,
+          "score": 0.77
+        },
+        {
+          "word": "Amelia.",
+          "startSec": 380.03,
+          "endSec": 380.17,
+          "score": 0.4
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 382.57,
+      "end": 383.1,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 382.77,
+          "endSec": 382.95,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 383.74,
+      "end": 388.23,
+      "text": "Or as they say in Hausa, Sai and Jima.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 383.94,
+          "endSec": 384.7,
+          "score": 0.08
+        },
+        {
+          "word": "as",
+          "startSec": 384.7,
+          "endSec": 384.94,
+          "score": 0.85
+        },
+        {
+          "word": "they",
+          "startSec": 384.94,
+          "endSec": 385.1,
+          "score": 0.99
+        },
+        {
+          "word": "say",
+          "startSec": 385.1,
+          "endSec": 385.4,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 385.4,
+          "endSec": 385.7,
+          "score": 0.97
+        },
+        {
+          "word": "Hausa,",
+          "startSec": 385.7,
+          "endSec": 386.32,
+          "score": 0.49
+        },
+        {
+          "word": "Sai",
+          "startSec": 387.08,
+          "endSec": 387.22,
+          "score": 0.11
+        },
+        {
+          "word": "and",
+          "startSec": 387.22,
+          "endSec": 387.6,
+          "score": 0.47
+        },
+        {
+          "word": "Jima.",
+          "startSec": 387.6,
+          "endSec": 388.08,
+          "score": 0.65
         }
       ]
     }

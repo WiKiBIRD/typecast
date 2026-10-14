@@ -25,16 +25,49 @@ def build_local_file_map(audio_dir: str) -> Dict[int, str]:
                 file_map[num] = os.path.join(audio_dir, f)
     return file_map
 
-def is_intro_phrase(text: str) -> bool:
-    """识别开场白套话，用于标注或引导跳过"""
+def is_non_educational(text: str) -> bool:
+    """
+    识别并过滤非教学内容：片头片尾套话、广告、促销、感谢词等。
+    只保留真正的英语教学正文句子。
+    """
     t = text.lower().strip()
     patterns = [
-        r"subscribe to my",
+        # 订阅 / 社交媒体号召
+        r"subscribe",
+        r"follow me on",
+        r"instagram",
+        r"facebook",
+        r"youtube",
+        r"tiktok",
+        # 付费 / 赞助 / 打赏
         r"patreon",
+        r"myshopify",
+        r"buy me",
+        r"support (me|the podcast|this podcast)",
+        r"donation",
+        r"membership",
+        r"premium",
+        # 链接 / 文稿广告
         r"link in the description",
-        r"myshopify\.com",
         r"download the transcript",
         r"click the link",
+        r"check the link",
+        r"find the link",
+        r"\.com\b",
+        # 片尾感谢 / 再见套话
+        r"thank you (so much )?for listening",
+        r"thanks for listening",
+        r"see you (next time|soon|in the next)",
+        r"until next time",
+        r"goodbye everyone",
+        r"bye (bye )?everyone",
+        r"take care everyone",
+        # 片头问候套话
+        r"^(hi|hello|hey) everyone[\.\!]?$",
+        r"welcome (back )?to (my |the |slow )?podcast",
+        r"welcome (back )?to slow english",
+        r"my name is emilie",
+        r"i('m| am) emilie",
     ]
     for p in patterns:
         if re.search(p, t):
@@ -71,7 +104,7 @@ def process_episode(
             continue
         if len(text) < 4:
             continue
-        if is_intro_phrase(text):
+        if is_non_educational(text):
             continue
 
         start_sec = max(0.0, round(segment.start - (padding_start_ms / 1000.0), 2))
@@ -99,7 +132,7 @@ def process_episode(
         })
         sentence_counter += 1
 
-        if len(clean_sentences) >= max_sentences:
+        if max_sentences > 0 and len(clean_sentences) >= max_sentences:
             break
 
     # 组装完整的 JSON
@@ -135,7 +168,7 @@ def main():
     parser.add_argument("--start", type=int, default=1, help="起始期号")
     parser.add_argument("--end", type=int, default=10, help="结束期号")
     parser.add_argument("--model", type=str, default="base.en", help="Whisper 模型版本 (base.en, small.en)")
-    parser.add_argument("--max-sentences", type=int, default=10, help="每期精选跟打句子数")
+    parser.add_argument("--max-sentences", type=int, default=0, help="每期精选跟打句子数 (0 代表全部完整提取，不人为截断)")
     parser.add_argument("--force", action="store_true", help="是否强制重新处理已有文件")
     args = parser.parse_args()
 

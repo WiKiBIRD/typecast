@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 3.13,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.34,
-          "score": 0.86
-        },
-        {
-          "word": "and",
-          "startSec": 0.34,
-          "endSec": 0.82,
-          "score": 0.71
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.82,
-          "endSec": 1.32,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 1.32,
-          "endSec": 1.78,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.78,
-          "endSec": 2.08,
-          "score": 0.52
-        },
-        {
-          "word": "English",
-          "startSec": 2.08,
-          "endSec": 2.56,
-          "score": 0.92
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 2.56,
-          "endSec": 2.98,
-          "score": 0.91
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 3.88,
       "end": 5.53,
       "text": "My name is Emily.",
@@ -96,7 +46,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 6.24,
       "end": 7.75,
       "text": "In today's episode,",
@@ -122,7 +72,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.1,
       "end": 11.93,
       "text": "we will learn how to speak English at the dentist's office.",
@@ -196,7 +146,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 12.58,
       "end": 14.39,
       "text": "If you need a checkup,",
@@ -234,7 +184,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 14.4,
       "end": 17.41,
       "text": "have a toothache or need dental treatment,",
@@ -284,7 +234,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 17.76,
       "end": 19.77,
       "text": "this episode will help you.",
@@ -322,7 +272,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 19.98,
       "end": 23.77,
       "text": "I will teach you useful words, common phrases,",
@@ -378,7 +328,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 24.12,
       "end": 27.53,
       "text": "and important questions that you may need at the dentist.",
@@ -446,7 +396,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 28.84,
       "end": 33.73,
       "text": "Going to the dentist can be a little scary or confusing",
@@ -515,6 +465,6160 @@
           "word": "confusing",
           "startSec": 33.12,
           "endSec": 33.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 34.04,
+      "end": 37.07,
+      "text": "if you don't speak English very well.",
+      "words": [
+        {
+          "word": "if",
+          "startSec": 34.24,
+          "endSec": 34.84,
+          "score": 0.91
+        },
+        {
+          "word": "you",
+          "startSec": 34.84,
+          "endSec": 35.0,
+          "score": 1.0
+        },
+        {
+          "word": "don't",
+          "startSec": 35.0,
+          "endSec": 35.28,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 35.28,
+          "endSec": 35.54,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 35.54,
+          "endSec": 36.04,
+          "score": 0.98
+        },
+        {
+          "word": "very",
+          "startSec": 36.04,
+          "endSec": 36.44,
+          "score": 0.99
+        },
+        {
+          "word": "well.",
+          "startSec": 36.44,
+          "endSec": 36.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 37.64,
+      "end": 39.09,
+      "text": "But don't worry.",
+      "words": [
+        {
+          "word": "But",
+          "startSec": 37.84,
+          "endSec": 38.12,
+          "score": 0.98
+        },
+        {
+          "word": "don't",
+          "startSec": 38.12,
+          "endSec": 38.58,
+          "score": 0.97
+        },
+        {
+          "word": "worry.",
+          "startSec": 38.58,
+          "endSec": 38.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 39.38,
+      "end": 40.73,
+      "text": "After this episode,",
+      "words": [
+        {
+          "word": "After",
+          "startSec": 39.58,
+          "endSec": 39.96,
+          "score": 0.99
+        },
+        {
+          "word": "this",
+          "startSec": 39.96,
+          "endSec": 40.24,
+          "score": 1.0
+        },
+        {
+          "word": "episode,",
+          "startSec": 40.24,
+          "endSec": 40.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 41.16,
+      "end": 44.65,
+      "text": "you will be more confident when talking to the dentist",
+      "words": [
+        {
+          "word": "you",
+          "startSec": 41.36,
+          "endSec": 41.62,
+          "score": 0.99
+        },
+        {
+          "word": "will",
+          "startSec": 41.62,
+          "endSec": 41.78,
+          "score": 0.99
+        },
+        {
+          "word": "be",
+          "startSec": 41.78,
+          "endSec": 41.94,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 41.94,
+          "endSec": 42.16,
+          "score": 1.0
+        },
+        {
+          "word": "confident",
+          "startSec": 42.16,
+          "endSec": 42.74,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 42.74,
+          "endSec": 43.2,
+          "score": 0.99
+        },
+        {
+          "word": "talking",
+          "startSec": 43.2,
+          "endSec": 43.6,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 43.6,
+          "endSec": 43.94,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 43.94,
+          "endSec": 44.12,
+          "score": 0.98
+        },
+        {
+          "word": "dentist",
+          "startSec": 44.12,
+          "endSec": 44.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 44.3,
+      "end": 46.05,
+      "text": "or the dental assistant.",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 44.5,
+          "endSec": 45.02,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 45.02,
+          "endSec": 45.16,
+          "score": 0.92
+        },
+        {
+          "word": "dental",
+          "startSec": 45.16,
+          "endSec": 45.46,
+          "score": 1.0
+        },
+        {
+          "word": "assistant.",
+          "startSec": 45.46,
+          "endSec": 45.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 46.54,
+      "end": 47.65,
+      "text": "Let's start.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 46.74,
+          "endSec": 47.26,
+          "score": 0.92
+        },
+        {
+          "word": "start.",
+          "startSec": 47.26,
+          "endSec": 47.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 49.46,
+      "end": 52.17,
+      "text": "Common words at the dentist's office.",
+      "words": [
+        {
+          "word": "Common",
+          "startSec": 49.66,
+          "endSec": 50.12,
+          "score": 0.52
+        },
+        {
+          "word": "words",
+          "startSec": 50.12,
+          "endSec": 50.5,
+          "score": 0.93
+        },
+        {
+          "word": "at",
+          "startSec": 50.5,
+          "endSec": 50.96,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 50.96,
+          "endSec": 51.12,
+          "score": 1.0
+        },
+        {
+          "word": "dentist's",
+          "startSec": 51.12,
+          "endSec": 51.7,
+          "score": 0.97
+        },
+        {
+          "word": "office.",
+          "startSec": 51.7,
+          "endSec": 52.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 53.08,
+      "end": 56.05,
+      "text": "First, let's learn some important words",
+      "words": [
+        {
+          "word": "First,",
+          "startSec": 53.28,
+          "endSec": 53.68,
+          "score": 0.99
+        },
+        {
+          "word": "let's",
+          "startSec": 53.88,
+          "endSec": 54.48,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 54.48,
+          "endSec": 54.72,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 54.72,
+          "endSec": 54.96,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 54.96,
+          "endSec": 55.38,
+          "score": 1.0
+        },
+        {
+          "word": "words",
+          "startSec": 55.38,
+          "endSec": 55.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 55.7,
+      "end": 57.69,
+      "text": "that you will hear at the dentist.",
+      "words": [
+        {
+          "word": "that",
+          "startSec": 55.9,
+          "endSec": 56.3,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 56.3,
+          "endSec": 56.46,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 56.46,
+          "endSec": 56.62,
+          "score": 0.99
+        },
+        {
+          "word": "hear",
+          "startSec": 56.62,
+          "endSec": 56.84,
+          "score": 0.99
+        },
+        {
+          "word": "at",
+          "startSec": 56.84,
+          "endSec": 57.04,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 57.04,
+          "endSec": 57.16,
+          "score": 1.0
+        },
+        {
+          "word": "dentist.",
+          "startSec": 57.16,
+          "endSec": 57.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 58.08,
+      "end": 60.49,
+      "text": "I will say each word slowly,",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 58.28,
+          "endSec": 58.64,
+          "score": 0.25
+        },
+        {
+          "word": "will",
+          "startSec": 58.64,
+          "endSec": 58.84,
+          "score": 0.98
+        },
+        {
+          "word": "say",
+          "startSec": 58.84,
+          "endSec": 59.1,
+          "score": 0.99
+        },
+        {
+          "word": "each",
+          "startSec": 59.1,
+          "endSec": 59.46,
+          "score": 0.98
+        },
+        {
+          "word": "word",
+          "startSec": 59.46,
+          "endSec": 59.82,
+          "score": 0.98
+        },
+        {
+          "word": "slowly,",
+          "startSec": 59.82,
+          "endSec": 60.34,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 60.84,
+      "end": 62.77,
+      "text": "and you can repeat after me.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 61.04,
+          "endSec": 61.16,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 61.16,
+          "endSec": 61.32,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 61.32,
+          "endSec": 61.46,
+          "score": 1.0
+        },
+        {
+          "word": "repeat",
+          "startSec": 61.46,
+          "endSec": 61.82,
+          "score": 1.0
+        },
+        {
+          "word": "after",
+          "startSec": 61.82,
+          "endSec": 62.36,
+          "score": 1.0
+        },
+        {
+          "word": "me.",
+          "startSec": 62.36,
+          "endSec": 62.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 64.75,
+      "end": 67.2,
+      "text": "Types of people at the dentist's office.",
+      "words": [
+        {
+          "word": "Types",
+          "startSec": 64.95,
+          "endSec": 65.19,
+          "score": 0.1
+        },
+        {
+          "word": "of",
+          "startSec": 65.19,
+          "endSec": 65.47,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 65.47,
+          "endSec": 65.71,
+          "score": 0.93
+        },
+        {
+          "word": "at",
+          "startSec": 65.71,
+          "endSec": 66.01,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 66.01,
+          "endSec": 66.13,
+          "score": 0.98
+        },
+        {
+          "word": "dentist's",
+          "startSec": 66.13,
+          "endSec": 66.71,
+          "score": 0.99
+        },
+        {
+          "word": "office.",
+          "startSec": 66.71,
+          "endSec": 67.05,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 68.34,
+      "end": 71.97,
+      "text": "Dentist, a doctor who takes care of your teeth.",
+      "words": [
+        {
+          "word": "Dentist,",
+          "startSec": 68.54,
+          "endSec": 69.18,
+          "score": 0.7
+        },
+        {
+          "word": "a",
+          "startSec": 69.62,
+          "endSec": 69.9,
+          "score": 0.99
+        },
+        {
+          "word": "doctor",
+          "startSec": 69.9,
+          "endSec": 70.18,
+          "score": 0.99
+        },
+        {
+          "word": "who",
+          "startSec": 70.18,
+          "endSec": 70.6,
+          "score": 1.0
+        },
+        {
+          "word": "takes",
+          "startSec": 70.6,
+          "endSec": 70.82,
+          "score": 1.0
+        },
+        {
+          "word": "care",
+          "startSec": 70.82,
+          "endSec": 71.18,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 71.18,
+          "endSec": 71.38,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 71.38,
+          "endSec": 71.5,
+          "score": 1.0
+        },
+        {
+          "word": "teeth.",
+          "startSec": 71.5,
+          "endSec": 71.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 72.77,
+      "end": 74.28,
+      "text": "Dental hygienist,",
+      "words": [
+        {
+          "word": "Dental",
+          "startSec": 72.97,
+          "endSec": 73.35,
+          "score": 0.97
+        },
+        {
+          "word": "hygienist,",
+          "startSec": 73.35,
+          "endSec": 74.13,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 74.41,
+      "end": 77.98,
+      "text": "a person who cleans your teeth and helps the dentist.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 74.61,
+          "endSec": 74.81,
+          "score": 1.0
+        },
+        {
+          "word": "person",
+          "startSec": 74.81,
+          "endSec": 75.09,
+          "score": 1.0
+        },
+        {
+          "word": "who",
+          "startSec": 75.09,
+          "endSec": 75.55,
+          "score": 1.0
+        },
+        {
+          "word": "cleans",
+          "startSec": 75.55,
+          "endSec": 75.83,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 75.83,
+          "endSec": 76.19,
+          "score": 0.99
+        },
+        {
+          "word": "teeth",
+          "startSec": 76.19,
+          "endSec": 76.63,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 76.63,
+          "endSec": 76.93,
+          "score": 0.93
+        },
+        {
+          "word": "helps",
+          "startSec": 76.93,
+          "endSec": 77.19,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 77.19,
+          "endSec": 77.49,
+          "score": 1.0
+        },
+        {
+          "word": "dentist.",
+          "startSec": 77.49,
+          "endSec": 77.83,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 79.17,
+      "end": 80.52,
+      "text": "Dental assistant,",
+      "words": [
+        {
+          "word": "Dental",
+          "startSec": 79.37,
+          "endSec": 79.91,
+          "score": 0.99
+        },
+        {
+          "word": "assistant,",
+          "startSec": 79.91,
+          "endSec": 80.37,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 80.89,
+      "end": 84.12,
+      "text": "a person who helps the dentist and hygienist",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 81.09,
+          "endSec": 81.21,
+          "score": 1.0
+        },
+        {
+          "word": "person",
+          "startSec": 81.21,
+          "endSec": 81.61,
+          "score": 1.0
+        },
+        {
+          "word": "who",
+          "startSec": 81.61,
+          "endSec": 81.89,
+          "score": 1.0
+        },
+        {
+          "word": "helps",
+          "startSec": 81.89,
+          "endSec": 82.13,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 82.13,
+          "endSec": 82.41,
+          "score": 1.0
+        },
+        {
+          "word": "dentist",
+          "startSec": 82.41,
+          "endSec": 82.81,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 82.81,
+          "endSec": 83.17,
+          "score": 0.99
+        },
+        {
+          "word": "hygienist",
+          "startSec": 83.17,
+          "endSec": 83.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 83.77,
+      "end": 85.06,
+      "text": "during procedures.",
+      "words": [
+        {
+          "word": "during",
+          "startSec": 83.97,
+          "endSec": 84.43,
+          "score": 0.99
+        },
+        {
+          "word": "procedures.",
+          "startSec": 84.43,
+          "endSec": 84.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 86.2,
+      "end": 90.93,
+      "text": "Patient, a person who goes to the dentist for treatment.",
+      "words": [
+        {
+          "word": "Patient,",
+          "startSec": 86.4,
+          "endSec": 87.12,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "startSec": 87.7,
+          "endSec": 88.2,
+          "score": 0.96
+        },
+        {
+          "word": "person",
+          "startSec": 88.2,
+          "endSec": 88.64,
+          "score": 0.99
+        },
+        {
+          "word": "who",
+          "startSec": 88.64,
+          "endSec": 88.96,
+          "score": 0.99
+        },
+        {
+          "word": "goes",
+          "startSec": 88.96,
+          "endSec": 89.22,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 89.22,
+          "endSec": 89.54,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 89.54,
+          "endSec": 89.68,
+          "score": 0.99
+        },
+        {
+          "word": "dentist",
+          "startSec": 89.68,
+          "endSec": 90.04,
+          "score": 0.98
+        },
+        {
+          "word": "for",
+          "startSec": 90.04,
+          "endSec": 90.44,
+          "score": 1.0
+        },
+        {
+          "word": "treatment.",
+          "startSec": 90.44,
+          "endSec": 90.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 92.08,
+      "end": 93.77,
+      "text": "Types of dental treatments.",
+      "words": [
+        {
+          "word": "Types",
+          "startSec": 92.28,
+          "endSec": 92.58,
+          "score": 0.94
+        },
+        {
+          "word": "of",
+          "startSec": 92.58,
+          "endSec": 92.88,
+          "score": 1.0
+        },
+        {
+          "word": "dental",
+          "startSec": 92.88,
+          "endSec": 93.08,
+          "score": 0.99
+        },
+        {
+          "word": "treatments.",
+          "startSec": 93.08,
+          "endSec": 93.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 94.2,
+      "end": 97.3,
+      "text": "Check up, a visit to the dentist",
+      "words": [
+        {
+          "word": "Check",
+          "startSec": 94.4,
+          "endSec": 94.62,
+          "score": 0.98
+        },
+        {
+          "word": "up,",
+          "startSec": 94.62,
+          "endSec": 94.96,
+          "score": 0.91
+        },
+        {
+          "word": "a",
+          "startSec": 95.63,
+          "endSec": 96.01,
+          "score": 0.97
+        },
+        {
+          "word": "visit",
+          "startSec": 96.01,
+          "endSec": 96.33,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 96.33,
+          "endSec": 96.61,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 96.61,
+          "endSec": 96.75,
+          "score": 0.99
+        },
+        {
+          "word": "dentist",
+          "startSec": 96.75,
+          "endSec": 97.15,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 96.95,
+      "end": 99.06,
+      "text": "to check the health of your teeth.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 97.15,
+          "endSec": 97.55,
+          "score": 0.98
+        },
+        {
+          "word": "check",
+          "startSec": 97.55,
+          "endSec": 97.75,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 97.75,
+          "endSec": 97.99,
+          "score": 0.99
+        },
+        {
+          "word": "health",
+          "startSec": 97.99,
+          "endSec": 98.25,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 98.25,
+          "endSec": 98.49,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 98.49,
+          "endSec": 98.65,
+          "score": 0.99
+        },
+        {
+          "word": "teeth.",
+          "startSec": 98.65,
+          "endSec": 98.91,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 100.06,
+      "end": 103.67,
+      "text": "Cleaning, the process of cleaning your teeth",
+      "words": [
+        {
+          "word": "Cleaning,",
+          "startSec": 100.26,
+          "endSec": 100.86,
+          "score": 0.94
+        },
+        {
+          "word": "the",
+          "startSec": 101.24,
+          "endSec": 101.64,
+          "score": 0.99
+        },
+        {
+          "word": "process",
+          "startSec": 101.64,
+          "endSec": 102.08,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 102.08,
+          "endSec": 102.42,
+          "score": 1.0
+        },
+        {
+          "word": "cleaning",
+          "startSec": 102.42,
+          "endSec": 102.74,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 102.74,
+          "endSec": 103.1,
+          "score": 0.99
+        },
+        {
+          "word": "teeth",
+          "startSec": 103.1,
+          "endSec": 103.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 103.32,
+      "end": 106.09,
+      "text": "to remove plaque and tartar.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 103.52,
+          "endSec": 103.98,
+          "score": 0.97
+        },
+        {
+          "word": "remove",
+          "startSec": 103.98,
+          "endSec": 104.28,
+          "score": 1.0
+        },
+        {
+          "word": "plaque",
+          "startSec": 104.28,
+          "endSec": 104.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 104.68,
+          "endSec": 105.08,
+          "score": 1.0
+        },
+        {
+          "word": "tartar.",
+          "startSec": 105.08,
+          "endSec": 105.94,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 105.86,
+      "end": 109.11,
+      "text": "Filling, a treatment for cavities",
+      "words": [
+        {
+          "word": "Filling,",
+          "startSec": 106.06,
+          "endSec": 106.78,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 107.42,
+          "endSec": 107.64,
+          "score": 0.99
+        },
+        {
+          "word": "treatment",
+          "startSec": 107.64,
+          "endSec": 107.98,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 107.98,
+          "endSec": 108.36,
+          "score": 1.0
+        },
+        {
+          "word": "cavities",
+          "startSec": 108.36,
+          "endSec": 108.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 109.26,
+      "end": 112.43,
+      "text": "where the dentist fills the hole in your tooth.",
+      "words": [
+        {
+          "word": "where",
+          "startSec": 109.46,
+          "endSec": 109.82,
+          "score": 0.82
+        },
+        {
+          "word": "the",
+          "startSec": 109.82,
+          "endSec": 110.02,
+          "score": 1.0
+        },
+        {
+          "word": "dentist",
+          "startSec": 110.02,
+          "endSec": 110.36,
+          "score": 1.0
+        },
+        {
+          "word": "fills",
+          "startSec": 110.36,
+          "endSec": 110.8,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 110.8,
+          "endSec": 111.18,
+          "score": 0.97
+        },
+        {
+          "word": "hole",
+          "startSec": 111.18,
+          "endSec": 111.5,
+          "score": 0.92
+        },
+        {
+          "word": "in",
+          "startSec": 111.5,
+          "endSec": 111.78,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 111.78,
+          "endSec": 111.96,
+          "score": 1.0
+        },
+        {
+          "word": "tooth.",
+          "startSec": 111.96,
+          "endSec": 112.28,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 113.46,
+      "end": 116.63,
+      "text": "Extraction, when a tooth is removed.",
+      "words": [
+        {
+          "word": "Extraction,",
+          "startSec": 113.66,
+          "endSec": 114.38,
+          "score": 0.51
+        },
+        {
+          "word": "when",
+          "startSec": 115.02,
+          "endSec": 115.46,
+          "score": 0.85
+        },
+        {
+          "word": "a",
+          "startSec": 115.46,
+          "endSec": 115.6,
+          "score": 0.99
+        },
+        {
+          "word": "tooth",
+          "startSec": 115.6,
+          "endSec": 115.84,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 115.84,
+          "endSec": 116.1,
+          "score": 1.0
+        },
+        {
+          "word": "removed.",
+          "startSec": 116.1,
+          "endSec": 116.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 117.55,
+      "end": 121.26,
+      "text": "Root canal, a treatment for an infected tooth.",
+      "words": [
+        {
+          "word": "Root",
+          "startSec": 117.75,
+          "endSec": 118.11,
+          "score": 0.95
+        },
+        {
+          "word": "canal,",
+          "startSec": 118.11,
+          "endSec": 118.47,
+          "score": 0.42
+        },
+        {
+          "word": "a",
+          "startSec": 119.33,
+          "endSec": 119.45,
+          "score": 0.96
+        },
+        {
+          "word": "treatment",
+          "startSec": 119.45,
+          "endSec": 119.83,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 119.83,
+          "endSec": 120.23,
+          "score": 0.99
+        },
+        {
+          "word": "an",
+          "startSec": 120.23,
+          "endSec": 120.37,
+          "score": 0.99
+        },
+        {
+          "word": "infected",
+          "startSec": 120.37,
+          "endSec": 120.75,
+          "score": 1.0
+        },
+        {
+          "word": "tooth.",
+          "startSec": 120.75,
+          "endSec": 121.11,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 122.04,
+      "end": 125.53,
+      "text": "Crown, a cap that covers a damaged tooth.",
+      "words": [
+        {
+          "word": "Crown,",
+          "startSec": 122.24,
+          "endSec": 122.48,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 123.08,
+          "endSec": 123.18,
+          "score": 1.0
+        },
+        {
+          "word": "cap",
+          "startSec": 123.18,
+          "endSec": 123.54,
+          "score": 0.98
+        },
+        {
+          "word": "that",
+          "startSec": 123.54,
+          "endSec": 123.86,
+          "score": 0.99
+        },
+        {
+          "word": "covers",
+          "startSec": 123.86,
+          "endSec": 124.26,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 124.26,
+          "endSec": 124.52,
+          "score": 0.97
+        },
+        {
+          "word": "damaged",
+          "startSec": 124.52,
+          "endSec": 124.72,
+          "score": 1.0
+        },
+        {
+          "word": "tooth.",
+          "startSec": 124.72,
+          "endSec": 125.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 126.28,
+      "end": 129.37,
+      "text": "Braces, a device used to straighten teeth.",
+      "words": [
+        {
+          "word": "Braces,",
+          "startSec": 126.48,
+          "endSec": 126.82,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 127.38,
+          "endSec": 127.44,
+          "score": 1.0
+        },
+        {
+          "word": "device",
+          "startSec": 127.44,
+          "endSec": 127.76,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 127.76,
+          "endSec": 128.2,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 128.2,
+          "endSec": 128.46,
+          "score": 0.99
+        },
+        {
+          "word": "straighten",
+          "startSec": 128.46,
+          "endSec": 128.92,
+          "score": 0.99
+        },
+        {
+          "word": "teeth.",
+          "startSec": 128.92,
+          "endSec": 129.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 130.4,
+      "end": 132.81,
+      "text": "Dental tools, toothbrush,",
+      "words": [
+        {
+          "word": "Dental",
+          "startSec": 130.6,
+          "endSec": 130.94,
+          "score": 0.93
+        },
+        {
+          "word": "tools,",
+          "startSec": 130.94,
+          "endSec": 131.22,
+          "score": 0.95
+        },
+        {
+          "word": "toothbrush,",
+          "startSec": 132.3,
+          "endSec": 132.66,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 133.26,
+      "end": 135.41,
+      "text": "a tool used to clean your teeth.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 133.46,
+          "endSec": 133.6,
+          "score": 0.99
+        },
+        {
+          "word": "tool",
+          "startSec": 133.6,
+          "endSec": 133.86,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 133.86,
+          "endSec": 134.26,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 134.26,
+          "endSec": 134.48,
+          "score": 1.0
+        },
+        {
+          "word": "clean",
+          "startSec": 134.48,
+          "endSec": 134.72,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 134.72,
+          "endSec": 134.96,
+          "score": 0.98
+        },
+        {
+          "word": "teeth.",
+          "startSec": 134.96,
+          "endSec": 135.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 136.26,
+      "end": 139.33,
+      "text": "Toothpaste, a cream used with a toothbrush",
+      "words": [
+        {
+          "word": "Toothpaste,",
+          "startSec": 136.46,
+          "endSec": 136.8,
+          "score": 0.88
+        },
+        {
+          "word": "a",
+          "startSec": 137.38,
+          "endSec": 137.54,
+          "score": 0.99
+        },
+        {
+          "word": "cream",
+          "startSec": 137.54,
+          "endSec": 137.8,
+          "score": 0.99
+        },
+        {
+          "word": "used",
+          "startSec": 137.8,
+          "endSec": 138.3,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 138.3,
+          "endSec": 138.5,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 138.5,
+          "endSec": 138.66,
+          "score": 0.98
+        },
+        {
+          "word": "toothbrush",
+          "startSec": 138.66,
+          "endSec": 139.18,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 138.98,
+      "end": 140.51,
+      "text": "to clean your teeth.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 139.18,
+          "endSec": 139.56,
+          "score": 0.99
+        },
+        {
+          "word": "clean",
+          "startSec": 139.56,
+          "endSec": 139.76,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 139.76,
+          "endSec": 140.04,
+          "score": 0.99
+        },
+        {
+          "word": "teeth.",
+          "startSec": 140.04,
+          "endSec": 140.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 141.24,
+      "end": 145.29,
+      "text": "Floss, a thin string used to clean between your teeth.",
+      "words": [
+        {
+          "word": "Floss,",
+          "startSec": 141.44,
+          "endSec": 142.08,
+          "score": 0.51
+        },
+        {
+          "word": "a",
+          "startSec": 142.56,
+          "endSec": 142.62,
+          "score": 0.99
+        },
+        {
+          "word": "thin",
+          "startSec": 142.62,
+          "endSec": 142.9,
+          "score": 0.99
+        },
+        {
+          "word": "string",
+          "startSec": 142.9,
+          "endSec": 143.32,
+          "score": 0.95
+        },
+        {
+          "word": "used",
+          "startSec": 143.32,
+          "endSec": 143.7,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 143.7,
+          "endSec": 143.9,
+          "score": 1.0
+        },
+        {
+          "word": "clean",
+          "startSec": 143.9,
+          "endSec": 144.14,
+          "score": 1.0
+        },
+        {
+          "word": "between",
+          "startSec": 144.14,
+          "endSec": 144.42,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 144.42,
+          "endSec": 144.84,
+          "score": 0.99
+        },
+        {
+          "word": "teeth.",
+          "startSec": 144.84,
+          "endSec": 145.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 145.89,
+      "end": 150.12,
+      "text": "X-ray, a picture of your teeth to check for problems.",
+      "words": [
+        {
+          "word": "X",
+          "startSec": 146.09,
+          "endSec": 146.41,
+          "score": 0.77
+        },
+        {
+          "word": "-ray,",
+          "startSec": 146.41,
+          "endSec": 146.75,
+          "score": 0.93
+        },
+        {
+          "word": "a",
+          "startSec": 147.17,
+          "endSec": 147.37,
+          "score": 1.0
+        },
+        {
+          "word": "picture",
+          "startSec": 147.37,
+          "endSec": 147.73,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 147.73,
+          "endSec": 147.99,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 147.99,
+          "endSec": 148.11,
+          "score": 1.0
+        },
+        {
+          "word": "teeth",
+          "startSec": 148.11,
+          "endSec": 148.45,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 148.45,
+          "endSec": 148.73,
+          "score": 0.99
+        },
+        {
+          "word": "check",
+          "startSec": 148.73,
+          "endSec": 148.93,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 148.93,
+          "endSec": 149.21,
+          "score": 1.0
+        },
+        {
+          "word": "problems.",
+          "startSec": 149.21,
+          "endSec": 149.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 150.43,
+      "end": 154.94,
+      "text": "Drill, a tool used to remove decay from a tooth.",
+      "words": [
+        {
+          "word": "Drill,",
+          "startSec": 150.63,
+          "endSec": 151.27,
+          "score": 0.65
+        },
+        {
+          "word": "a",
+          "startSec": 152.17,
+          "endSec": 152.31,
+          "score": 1.0
+        },
+        {
+          "word": "tool",
+          "startSec": 152.31,
+          "endSec": 152.53,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 152.53,
+          "endSec": 152.97,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 152.97,
+          "endSec": 153.19,
+          "score": 1.0
+        },
+        {
+          "word": "remove",
+          "startSec": 153.19,
+          "endSec": 153.49,
+          "score": 1.0
+        },
+        {
+          "word": "decay",
+          "startSec": 153.49,
+          "endSec": 153.81,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 153.81,
+          "endSec": 154.43,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 154.43,
+          "endSec": 154.55,
+          "score": 1.0
+        },
+        {
+          "word": "tooth.",
+          "startSec": 154.55,
+          "endSec": 154.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 155.33,
+      "end": 158.76,
+      "text": "Syringe, a tool used to give anesthesia",
+      "words": [
+        {
+          "word": "Syringe,",
+          "startSec": 155.53,
+          "endSec": 155.87,
+          "score": 0.81
+        },
+        {
+          "word": "a",
+          "startSec": 156.69,
+          "endSec": 156.87,
+          "score": 1.0
+        },
+        {
+          "word": "tool",
+          "startSec": 156.87,
+          "endSec": 157.11,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 157.11,
+          "endSec": 157.71,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 157.71,
+          "endSec": 157.93,
+          "score": 1.0
+        },
+        {
+          "word": "give",
+          "startSec": 157.93,
+          "endSec": 158.17,
+          "score": 1.0
+        },
+        {
+          "word": "anesthesia",
+          "startSec": 158.17,
+          "endSec": 158.61,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 158.41,
+      "end": 160.58,
+      "text": "or numbing medicine.",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 158.61,
+          "endSec": 159.47,
+          "score": 0.97
+        },
+        {
+          "word": "numbing",
+          "startSec": 159.47,
+          "endSec": 160.05,
+          "score": 0.94
+        },
+        {
+          "word": "medicine.",
+          "startSec": 160.05,
+          "endSec": 160.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 162.3,
+      "end": 163.43,
+      "text": "Symptoms and problems.",
+      "words": [
+        {
+          "word": "Symptoms",
+          "startSec": 162.5,
+          "endSec": 162.5,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 162.5,
+          "endSec": 162.84,
+          "score": 0.98
+        },
+        {
+          "word": "problems.",
+          "startSec": 162.84,
+          "endSec": 163.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 164.16,
+      "end": 166.75,
+      "text": "Toothache, pain in your tooth or teeth.",
+      "words": [
+        {
+          "word": "Toothache,",
+          "startSec": 164.36,
+          "endSec": 164.64,
+          "score": 0.94
+        },
+        {
+          "word": "pain",
+          "startSec": 165.06,
+          "endSec": 165.38,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 165.38,
+          "endSec": 165.62,
+          "score": 0.96
+        },
+        {
+          "word": "your",
+          "startSec": 165.62,
+          "endSec": 165.8,
+          "score": 1.0
+        },
+        {
+          "word": "tooth",
+          "startSec": 165.8,
+          "endSec": 166.08,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 166.08,
+          "endSec": 166.32,
+          "score": 0.94
+        },
+        {
+          "word": "teeth.",
+          "startSec": 166.32,
+          "endSec": 166.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 167.46,
+      "end": 170.91,
+      "text": "Cavity, a hole in a tooth caused by decay.",
+      "words": [
+        {
+          "word": "Cavity,",
+          "startSec": 167.66,
+          "endSec": 168.16,
+          "score": 0.48
+        },
+        {
+          "word": "a",
+          "startSec": 168.58,
+          "endSec": 168.9,
+          "score": 0.95
+        },
+        {
+          "word": "hole",
+          "startSec": 168.9,
+          "endSec": 169.14,
+          "score": 0.86
+        },
+        {
+          "word": "in",
+          "startSec": 169.14,
+          "endSec": 169.4,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 169.4,
+          "endSec": 169.48,
+          "score": 0.97
+        },
+        {
+          "word": "tooth",
+          "startSec": 169.48,
+          "endSec": 169.7,
+          "score": 1.0
+        },
+        {
+          "word": "caused",
+          "startSec": 169.7,
+          "endSec": 170.06,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 170.06,
+          "endSec": 170.38,
+          "score": 1.0
+        },
+        {
+          "word": "decay.",
+          "startSec": 170.38,
+          "endSec": 170.76,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 171.52,
+      "end": 175.75,
+      "text": "Gum disease, when your gums are inflamed or infected.",
+      "words": [
+        {
+          "word": "Gum",
+          "startSec": 171.72,
+          "endSec": 172.04,
+          "score": 0.82
+        },
+        {
+          "word": "disease,",
+          "startSec": 172.04,
+          "endSec": 172.48,
+          "score": 0.92
+        },
+        {
+          "word": "when",
+          "startSec": 173.3,
+          "endSec": 173.46,
+          "score": 0.98
+        },
+        {
+          "word": "your",
+          "startSec": 173.46,
+          "endSec": 173.66,
+          "score": 0.98
+        },
+        {
+          "word": "gums",
+          "startSec": 173.66,
+          "endSec": 174.08,
+          "score": 0.95
+        },
+        {
+          "word": "are",
+          "startSec": 174.08,
+          "endSec": 174.28,
+          "score": 1.0
+        },
+        {
+          "word": "inflamed",
+          "startSec": 174.28,
+          "endSec": 175.04,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 175.04,
+          "endSec": 175.18,
+          "score": 0.99
+        },
+        {
+          "word": "infected.",
+          "startSec": 175.18,
+          "endSec": 175.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 176.56,
+      "end": 181.67,
+      "text": "Sensitive teeth, teeth that hurt when eating hot or cold food.",
+      "words": [
+        {
+          "word": "Sensitive",
+          "startSec": 176.76,
+          "endSec": 177.48,
+          "score": 0.98
+        },
+        {
+          "word": "teeth,",
+          "startSec": 177.48,
+          "endSec": 177.78,
+          "score": 1.0
+        },
+        {
+          "word": "teeth",
+          "startSec": 178.4,
+          "endSec": 178.8,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 178.8,
+          "endSec": 179.08,
+          "score": 1.0
+        },
+        {
+          "word": "hurt",
+          "startSec": 179.08,
+          "endSec": 179.36,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 179.36,
+          "endSec": 179.7,
+          "score": 0.99
+        },
+        {
+          "word": "eating",
+          "startSec": 179.7,
+          "endSec": 179.98,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 179.98,
+          "endSec": 180.54,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 180.54,
+          "endSec": 180.76,
+          "score": 0.99
+        },
+        {
+          "word": "cold",
+          "startSec": 180.76,
+          "endSec": 181.06,
+          "score": 1.0
+        },
+        {
+          "word": "food.",
+          "startSec": 181.06,
+          "endSec": 181.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 182.22,
+      "end": 186.87,
+      "text": "Bleeding gums, gums that bleed when brushing or flossing.",
+      "words": [
+        {
+          "word": "Bleeding",
+          "startSec": 182.42,
+          "endSec": 182.94,
+          "score": 0.98
+        },
+        {
+          "word": "gums,",
+          "startSec": 182.94,
+          "endSec": 183.36,
+          "score": 0.99
+        },
+        {
+          "word": "gums",
+          "startSec": 183.84,
+          "endSec": 184.48,
+          "score": 0.98
+        },
+        {
+          "word": "that",
+          "startSec": 184.48,
+          "endSec": 184.7,
+          "score": 1.0
+        },
+        {
+          "word": "bleed",
+          "startSec": 184.7,
+          "endSec": 185.0,
+          "score": 0.99
+        },
+        {
+          "word": "when",
+          "startSec": 185.0,
+          "endSec": 185.34,
+          "score": 1.0
+        },
+        {
+          "word": "brushing",
+          "startSec": 185.34,
+          "endSec": 185.72,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 185.72,
+          "endSec": 186.04,
+          "score": 0.99
+        },
+        {
+          "word": "flossing.",
+          "startSec": 186.04,
+          "endSec": 186.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 187.64,
+      "end": 191.25,
+      "text": "These are some important words to help you understand",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 187.84,
+          "endSec": 188.26,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 188.26,
+          "endSec": 188.46,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 188.46,
+          "endSec": 188.7,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 188.7,
+          "endSec": 189.16,
+          "score": 1.0
+        },
+        {
+          "word": "words",
+          "startSec": 189.16,
+          "endSec": 189.6,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 189.6,
+          "endSec": 190.04,
+          "score": 0.99
+        },
+        {
+          "word": "help",
+          "startSec": 190.04,
+          "endSec": 190.26,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 190.26,
+          "endSec": 190.54,
+          "score": 1.0
+        },
+        {
+          "word": "understand",
+          "startSec": 190.54,
+          "endSec": 191.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 190.9,
+      "end": 194.21,
+      "text": "what is happening at the dentist's office.",
+      "words": [
+        {
+          "word": "what",
+          "startSec": 191.1,
+          "endSec": 191.82,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 191.82,
+          "endSec": 192.0,
+          "score": 1.0
+        },
+        {
+          "word": "happening",
+          "startSec": 192.0,
+          "endSec": 192.56,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 192.56,
+          "endSec": 192.92,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 192.92,
+          "endSec": 193.08,
+          "score": 0.99
+        },
+        {
+          "word": "dentist's",
+          "startSec": 193.08,
+          "endSec": 193.68,
+          "score": 0.96
+        },
+        {
+          "word": "office.",
+          "startSec": 193.68,
+          "endSec": 194.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 193.86,
+      "end": 198.67,
+      "text": "Let's move on to some useful phrases you can use.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 194.06,
+          "endSec": 195.36,
+          "score": 0.68
+        },
+        {
+          "word": "move",
+          "startSec": 195.36,
+          "endSec": 195.58,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 195.58,
+          "endSec": 195.82,
+          "score": 0.95
+        },
+        {
+          "word": "to",
+          "startSec": 195.82,
+          "endSec": 196.0,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 196.0,
+          "endSec": 196.22,
+          "score": 0.99
+        },
+        {
+          "word": "useful",
+          "startSec": 196.22,
+          "endSec": 196.54,
+          "score": 1.0
+        },
+        {
+          "word": "phrases",
+          "startSec": 196.54,
+          "endSec": 197.22,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 197.22,
+          "endSec": 197.94,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 197.94,
+          "endSec": 198.16,
+          "score": 1.0
+        },
+        {
+          "word": "use.",
+          "startSec": 198.16,
+          "endSec": 198.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 199.99,
+      "end": 203.32,
+      "text": "Part two, useful phrases at the dentist's office.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 200.19,
+          "endSec": 200.49,
+          "score": 0.49
+        },
+        {
+          "word": "two,",
+          "startSec": 200.49,
+          "endSec": 200.95,
+          "score": 0.38
+        },
+        {
+          "word": "useful",
+          "startSec": 201.39,
+          "endSec": 201.55,
+          "score": 0.66
+        },
+        {
+          "word": "phrases",
+          "startSec": 201.55,
+          "endSec": 202.09,
+          "score": 0.98
+        },
+        {
+          "word": "at",
+          "startSec": 202.09,
+          "endSec": 202.39,
+          "score": 0.24
+        },
+        {
+          "word": "the",
+          "startSec": 202.39,
+          "endSec": 202.45,
+          "score": 0.99
+        },
+        {
+          "word": "dentist's",
+          "startSec": 202.45,
+          "endSec": 202.91,
+          "score": 0.9
+        },
+        {
+          "word": "office.",
+          "startSec": 202.91,
+          "endSec": 203.17,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 204.41,
+      "end": 207.04,
+      "text": "Now, let's practice some useful phrases.",
+      "words": [
+        {
+          "word": "Now,",
+          "startSec": 204.61,
+          "endSec": 204.95,
+          "score": 0.98
+        },
+        {
+          "word": "let's",
+          "startSec": 205.19,
+          "endSec": 205.45,
+          "score": 0.99
+        },
+        {
+          "word": "practice",
+          "startSec": 205.45,
+          "endSec": 205.75,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 205.75,
+          "endSec": 206.15,
+          "score": 1.0
+        },
+        {
+          "word": "useful",
+          "startSec": 206.15,
+          "endSec": 206.33,
+          "score": 1.0
+        },
+        {
+          "word": "phrases.",
+          "startSec": 206.33,
+          "endSec": 206.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 207.65,
+      "end": 209.82,
+      "text": "I will say each phrase twice.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 207.85,
+          "endSec": 207.99,
+          "score": 0.98
+        },
+        {
+          "word": "will",
+          "startSec": 207.99,
+          "endSec": 208.19,
+          "score": 1.0
+        },
+        {
+          "word": "say",
+          "startSec": 208.19,
+          "endSec": 208.47,
+          "score": 1.0
+        },
+        {
+          "word": "each",
+          "startSec": 208.47,
+          "endSec": 208.87,
+          "score": 0.99
+        },
+        {
+          "word": "phrase",
+          "startSec": 208.87,
+          "endSec": 209.25,
+          "score": 1.0
+        },
+        {
+          "word": "twice.",
+          "startSec": 209.25,
+          "endSec": 209.67,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 210.49,
+      "end": 213.52,
+      "text": "Listen carefully and repeat after me.",
+      "words": [
+        {
+          "word": "Listen",
+          "startSec": 210.69,
+          "endSec": 211.17,
+          "score": 0.99
+        },
+        {
+          "word": "carefully",
+          "startSec": 211.17,
+          "endSec": 211.69,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 211.69,
+          "endSec": 212.29,
+          "score": 0.96
+        },
+        {
+          "word": "repeat",
+          "startSec": 212.29,
+          "endSec": 212.55,
+          "score": 1.0
+        },
+        {
+          "word": "after",
+          "startSec": 212.55,
+          "endSec": 213.11,
+          "score": 1.0
+        },
+        {
+          "word": "me.",
+          "startSec": 213.11,
+          "endSec": 213.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 214.22,
+      "end": 215.65,
+      "text": "Making an appointment.",
+      "words": [
+        {
+          "word": "Making",
+          "startSec": 214.42,
+          "endSec": 214.88,
+          "score": 0.47
+        },
+        {
+          "word": "an",
+          "startSec": 214.88,
+          "endSec": 215.1,
+          "score": 1.0
+        },
+        {
+          "word": "appointment.",
+          "startSec": 215.1,
+          "endSec": 215.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 216.94,
+      "end": 220.63,
+      "text": "Hello, I would like to make an appointment with the dentist.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 217.14,
+          "endSec": 217.38,
+          "score": 0.91
+        },
+        {
+          "word": "I",
+          "startSec": 217.96,
+          "endSec": 218.36,
+          "score": 1.0
+        },
+        {
+          "word": "would",
+          "startSec": 218.36,
+          "endSec": 218.52,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 218.52,
+          "endSec": 218.74,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 218.74,
+          "endSec": 218.92,
+          "score": 1.0
+        },
+        {
+          "word": "make",
+          "startSec": 218.92,
+          "endSec": 219.1,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 219.1,
+          "endSec": 219.26,
+          "score": 1.0
+        },
+        {
+          "word": "appointment",
+          "startSec": 219.26,
+          "endSec": 219.66,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 219.66,
+          "endSec": 220.0,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 220.0,
+          "endSec": 220.16,
+          "score": 0.99
+        },
+        {
+          "word": "dentist.",
+          "startSec": 220.16,
+          "endSec": 220.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 221.72,
+      "end": 224.27,
+      "text": "When is the next available appointment?",
+      "words": [
+        {
+          "word": "When",
+          "startSec": 221.92,
+          "endSec": 222.28,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 222.28,
+          "endSec": 222.52,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 222.52,
+          "endSec": 222.68,
+          "score": 1.0
+        },
+        {
+          "word": "next",
+          "startSec": 222.68,
+          "endSec": 222.94,
+          "score": 1.0
+        },
+        {
+          "word": "available",
+          "startSec": 222.94,
+          "endSec": 223.44,
+          "score": 1.0
+        },
+        {
+          "word": "appointment?",
+          "startSec": 223.44,
+          "endSec": 224.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 224.65,
+      "end": 226.5,
+      "text": "I need a checkup.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 224.85,
+          "endSec": 225.45,
+          "score": 0.35
+        },
+        {
+          "word": "need",
+          "startSec": 225.45,
+          "endSec": 225.65,
+          "score": 0.84
+        },
+        {
+          "word": "a",
+          "startSec": 225.65,
+          "endSec": 225.81,
+          "score": 0.67
+        },
+        {
+          "word": "checkup.",
+          "startSec": 225.81,
+          "endSec": 226.35,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 226.74,
+      "end": 228.63,
+      "text": "Can I book an appointment?",
+      "words": [
+        {
+          "word": "Can",
+          "startSec": 226.94,
+          "endSec": 227.34,
+          "score": 0.95
+        },
+        {
+          "word": "I",
+          "startSec": 227.34,
+          "endSec": 227.52,
+          "score": 0.99
+        },
+        {
+          "word": "book",
+          "startSec": 227.52,
+          "endSec": 227.8,
+          "score": 0.99
+        },
+        {
+          "word": "an",
+          "startSec": 227.8,
+          "endSec": 228.02,
+          "score": 1.0
+        },
+        {
+          "word": "appointment?",
+          "startSec": 228.02,
+          "endSec": 228.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 229.48,
+      "end": 231.95,
+      "text": "How long does a cleaning appointment take?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 229.68,
+          "endSec": 229.84,
+          "score": 0.96
+        },
+        {
+          "word": "long",
+          "startSec": 229.84,
+          "endSec": 230.12,
+          "score": 1.0
+        },
+        {
+          "word": "does",
+          "startSec": 230.12,
+          "endSec": 230.38,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 230.38,
+          "endSec": 230.5,
+          "score": 0.93
+        },
+        {
+          "word": "cleaning",
+          "startSec": 230.5,
+          "endSec": 230.76,
+          "score": 1.0
+        },
+        {
+          "word": "appointment",
+          "startSec": 230.76,
+          "endSec": 231.3,
+          "score": 0.99
+        },
+        {
+          "word": "take?",
+          "startSec": 231.3,
+          "endSec": 231.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 232.92,
+      "end": 234.95,
+      "text": "Talking about your symptoms.",
+      "words": [
+        {
+          "word": "Talking",
+          "startSec": 233.12,
+          "endSec": 233.5,
+          "score": 0.97
+        },
+        {
+          "word": "about",
+          "startSec": 233.5,
+          "endSec": 234.0,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 234.0,
+          "endSec": 234.26,
+          "score": 1.0
+        },
+        {
+          "word": "symptoms.",
+          "startSec": 234.26,
+          "endSec": 234.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 236.04,
+      "end": 237.41,
+      "text": "I have a toothache.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 236.24,
+          "endSec": 236.4,
+          "score": 0.95
+        },
+        {
+          "word": "have",
+          "startSec": 236.4,
+          "endSec": 236.58,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 236.58,
+          "endSec": 236.72,
+          "score": 1.0
+        },
+        {
+          "word": "toothache.",
+          "startSec": 236.72,
+          "endSec": 237.26,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 237.64,
+      "end": 238.99,
+      "text": "Can you help me?",
+      "words": [
+        {
+          "word": "Can",
+          "startSec": 237.84,
+          "endSec": 238.1,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 238.1,
+          "endSec": 238.28,
+          "score": 1.0
+        },
+        {
+          "word": "help",
+          "startSec": 238.28,
+          "endSec": 238.52,
+          "score": 1.0
+        },
+        {
+          "word": "me?",
+          "startSec": 238.52,
+          "endSec": 238.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 240.22,
+      "end": 243.15,
+      "text": "My tooth hurts when I eat something cold.",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 240.42,
+          "endSec": 240.72,
+          "score": 0.99
+        },
+        {
+          "word": "tooth",
+          "startSec": 240.72,
+          "endSec": 241.0,
+          "score": 1.0
+        },
+        {
+          "word": "hurts",
+          "startSec": 241.0,
+          "endSec": 241.36,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 241.36,
+          "endSec": 241.8,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 241.8,
+          "endSec": 241.96,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 241.96,
+          "endSec": 242.18,
+          "score": 1.0
+        },
+        {
+          "word": "something",
+          "startSec": 242.18,
+          "endSec": 242.58,
+          "score": 1.0
+        },
+        {
+          "word": "cold.",
+          "startSec": 242.58,
+          "endSec": 243.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 243.74,
+      "end": 245.45,
+      "text": "I think I have a cavity.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 243.94,
+          "endSec": 244.06,
+          "score": 1.0
+        },
+        {
+          "word": "think",
+          "startSec": 244.06,
+          "endSec": 244.3,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 244.3,
+          "endSec": 244.54,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 244.54,
+          "endSec": 244.76,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 244.76,
+          "endSec": 244.88,
+          "score": 1.0
+        },
+        {
+          "word": "cavity.",
+          "startSec": 244.88,
+          "endSec": 245.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 246.14,
+      "end": 248.73,
+      "text": "My gums bleed when I brush my teeth.",
+      "words": [
+        {
+          "word": "My",
+          "startSec": 246.34,
+          "endSec": 246.4,
+          "score": 1.0
+        },
+        {
+          "word": "gums",
+          "startSec": 246.4,
+          "endSec": 246.88,
+          "score": 0.96
+        },
+        {
+          "word": "bleed",
+          "startSec": 246.88,
+          "endSec": 247.26,
+          "score": 0.99
+        },
+        {
+          "word": "when",
+          "startSec": 247.26,
+          "endSec": 247.6,
+          "score": 1.0
+        },
+        {
+          "word": "I",
+          "startSec": 247.6,
+          "endSec": 247.76,
+          "score": 1.0
+        },
+        {
+          "word": "brush",
+          "startSec": 247.76,
+          "endSec": 247.94,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 247.94,
+          "endSec": 248.26,
+          "score": 1.0
+        },
+        {
+          "word": "teeth.",
+          "startSec": 248.26,
+          "endSec": 248.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 249.22,
+      "end": 251.25,
+      "text": "I am having pain in my jaw.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 249.42,
+          "endSec": 249.54,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 249.54,
+          "endSec": 249.68,
+          "score": 0.52
+        },
+        {
+          "word": "having",
+          "startSec": 249.68,
+          "endSec": 249.98,
+          "score": 1.0
+        },
+        {
+          "word": "pain",
+          "startSec": 249.98,
+          "endSec": 250.28,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 250.28,
+          "endSec": 250.56,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 250.56,
+          "endSec": 250.74,
+          "score": 1.0
+        },
+        {
+          "word": "jaw.",
+          "startSec": 250.74,
+          "endSec": 251.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 252.0,
+      "end": 253.29,
+      "text": "During the treatment.",
+      "words": [
+        {
+          "word": "During",
+          "startSec": 252.2,
+          "endSec": 252.52,
+          "score": 0.12
+        },
+        {
+          "word": "the",
+          "startSec": 252.52,
+          "endSec": 252.8,
+          "score": 0.99
+        },
+        {
+          "word": "treatment.",
+          "startSec": 252.8,
+          "endSec": 253.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 253.94,
+      "end": 255.57,
+      "text": "How long will this take?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 254.14,
+          "endSec": 254.24,
+          "score": 0.75
+        },
+        {
+          "word": "long",
+          "startSec": 254.24,
+          "endSec": 254.5,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 254.5,
+          "endSec": 254.84,
+          "score": 0.99
+        },
+        {
+          "word": "this",
+          "startSec": 254.84,
+          "endSec": 255.06,
+          "score": 1.0
+        },
+        {
+          "word": "take?",
+          "startSec": 255.06,
+          "endSec": 255.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 255.96,
+      "end": 257.69,
+      "text": "Will this procedure hurt?",
+      "words": [
+        {
+          "word": "Will",
+          "startSec": 256.16,
+          "endSec": 256.3,
+          "score": 0.91
+        },
+        {
+          "word": "this",
+          "startSec": 256.3,
+          "endSec": 256.5,
+          "score": 0.99
+        },
+        {
+          "word": "procedure",
+          "startSec": 256.5,
+          "endSec": 257.0,
+          "score": 1.0
+        },
+        {
+          "word": "hurt?",
+          "startSec": 257.0,
+          "endSec": 257.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 258.26,
+      "end": 259.67,
+      "text": "Can you numb my tooth?",
+      "words": [
+        {
+          "word": "Can",
+          "startSec": 258.46,
+          "endSec": 258.5,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 258.5,
+          "endSec": 258.68,
+          "score": 1.0
+        },
+        {
+          "word": "numb",
+          "startSec": 258.68,
+          "endSec": 258.94,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 258.94,
+          "endSec": 259.24,
+          "score": 0.99
+        },
+        {
+          "word": "tooth?",
+          "startSec": 259.24,
+          "endSec": 259.52,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 260.28,
+      "end": 261.37,
+      "text": "I am nervous.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 260.48,
+          "endSec": 260.6,
+          "score": 0.99
+        },
+        {
+          "word": "am",
+          "startSec": 260.6,
+          "endSec": 260.76,
+          "score": 0.99
+        },
+        {
+          "word": "nervous.",
+          "startSec": 260.76,
+          "endSec": 261.22,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 261.92,
+      "end": 264.11,
+      "text": "What should I do after the treatment?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 262.12,
+          "endSec": 262.36,
+          "score": 0.98
+        },
+        {
+          "word": "should",
+          "startSec": 262.36,
+          "endSec": 262.6,
+          "score": 1.0
+        },
+        {
+          "word": "I",
+          "startSec": 262.6,
+          "endSec": 262.8,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 262.8,
+          "endSec": 263.0,
+          "score": 1.0
+        },
+        {
+          "word": "after",
+          "startSec": 263.0,
+          "endSec": 263.36,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 263.36,
+          "endSec": 263.6,
+          "score": 0.99
+        },
+        {
+          "word": "treatment?",
+          "startSec": 263.6,
+          "endSec": 263.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 264.6,
+      "end": 267.73,
+      "text": "Do I need to take any medicine for pain?",
+      "words": [
+        {
+          "word": "Do",
+          "startSec": 264.8,
+          "endSec": 265.12,
+          "score": 0.98
+        },
+        {
+          "word": "I",
+          "startSec": 265.12,
+          "endSec": 265.32,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 265.32,
+          "endSec": 265.52,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 265.52,
+          "endSec": 265.7,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 265.7,
+          "endSec": 266.0,
+          "score": 1.0
+        },
+        {
+          "word": "any",
+          "startSec": 266.0,
+          "endSec": 266.24,
+          "score": 1.0
+        },
+        {
+          "word": "medicine",
+          "startSec": 266.24,
+          "endSec": 266.64,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 266.64,
+          "endSec": 267.18,
+          "score": 0.99
+        },
+        {
+          "word": "pain?",
+          "startSec": 267.18,
+          "endSec": 267.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 268.55,
+      "end": 270.78,
+      "text": "Asking about aftercare.",
+      "words": [
+        {
+          "word": "Asking",
+          "startSec": 268.75,
+          "endSec": 269.25,
+          "score": 0.91
+        },
+        {
+          "word": "about",
+          "startSec": 269.25,
+          "endSec": 269.67,
+          "score": 1.0
+        },
+        {
+          "word": "aftercare.",
+          "startSec": 269.67,
+          "endSec": 270.63,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 271.39,
+      "end": 273.68,
+      "text": "When can I eat after the treatment?",
+      "words": [
+        {
+          "word": "When",
+          "startSec": 271.59,
+          "endSec": 271.65,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 271.65,
+          "endSec": 271.87,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 271.87,
+          "endSec": 272.07,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 272.07,
+          "endSec": 272.31,
+          "score": 1.0
+        },
+        {
+          "word": "after",
+          "startSec": 272.31,
+          "endSec": 272.75,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 272.75,
+          "endSec": 273.15,
+          "score": 1.0
+        },
+        {
+          "word": "treatment?",
+          "startSec": 273.15,
+          "endSec": 273.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 274.21,
+      "end": 276.72,
+      "text": "Should I avoid hot or cold food?",
+      "words": [
+        {
+          "word": "Should",
+          "startSec": 274.41,
+          "endSec": 274.75,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 274.75,
+          "endSec": 274.97,
+          "score": 1.0
+        },
+        {
+          "word": "avoid",
+          "startSec": 274.97,
+          "endSec": 275.31,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 275.31,
+          "endSec": 275.71,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 275.71,
+          "endSec": 275.91,
+          "score": 1.0
+        },
+        {
+          "word": "cold",
+          "startSec": 275.91,
+          "endSec": 276.19,
+          "score": 1.0
+        },
+        {
+          "word": "food?",
+          "startSec": 276.19,
+          "endSec": 276.57,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 278.11,
+      "end": 280.58,
+      "text": "How long will my tooth stay numb?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 278.31,
+          "endSec": 278.63,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 278.63,
+          "endSec": 278.93,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 278.93,
+          "endSec": 279.35,
+          "score": 0.99
+        },
+        {
+          "word": "my",
+          "startSec": 279.35,
+          "endSec": 279.53,
+          "score": 1.0
+        },
+        {
+          "word": "tooth",
+          "startSec": 279.53,
+          "endSec": 279.77,
+          "score": 0.98
+        },
+        {
+          "word": "stay",
+          "startSec": 279.77,
+          "endSec": 280.19,
+          "score": 0.99
+        },
+        {
+          "word": "numb?",
+          "startSec": 280.19,
+          "endSec": 280.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 281.56,
+      "end": 284.25,
+      "text": "Do I need to come back for another visit?",
+      "words": [
+        {
+          "word": "Do",
+          "startSec": 281.76,
+          "endSec": 282.08,
+          "score": 0.28
+        },
+        {
+          "word": "I",
+          "startSec": 282.08,
+          "endSec": 282.26,
+          "score": 0.99
+        },
+        {
+          "word": "need",
+          "startSec": 282.26,
+          "endSec": 282.46,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 282.46,
+          "endSec": 282.64,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 282.64,
+          "endSec": 282.88,
+          "score": 0.99
+        },
+        {
+          "word": "back",
+          "startSec": 282.88,
+          "endSec": 283.18,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 283.18,
+          "endSec": 283.46,
+          "score": 0.99
+        },
+        {
+          "word": "another",
+          "startSec": 283.46,
+          "endSec": 283.74,
+          "score": 0.99
+        },
+        {
+          "word": "visit?",
+          "startSec": 283.74,
+          "endSec": 284.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 285.54,
+      "end": 288.85,
+      "text": "What should I do if I feel pain after the treatment?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 285.74,
+          "endSec": 285.96,
+          "score": 0.93
+        },
+        {
+          "word": "should",
+          "startSec": 285.96,
+          "endSec": 286.2,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 286.2,
+          "endSec": 286.4,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 286.4,
+          "endSec": 286.62,
+          "score": 0.99
+        },
+        {
+          "word": "if",
+          "startSec": 286.62,
+          "endSec": 286.86,
+          "score": 0.98
+        },
+        {
+          "word": "I",
+          "startSec": 286.86,
+          "endSec": 287.0,
+          "score": 1.0
+        },
+        {
+          "word": "feel",
+          "startSec": 287.0,
+          "endSec": 287.32,
+          "score": 1.0
+        },
+        {
+          "word": "pain",
+          "startSec": 287.32,
+          "endSec": 287.6,
+          "score": 0.99
+        },
+        {
+          "word": "after",
+          "startSec": 287.6,
+          "endSec": 288.18,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 288.18,
+          "endSec": 288.36,
+          "score": 0.98
+        },
+        {
+          "word": "treatment?",
+          "startSec": 288.36,
+          "endSec": 288.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 290.26,
+      "end": 296.13,
+      "text": "By learning these phrases, you will feel more comfortable when visiting the dentist.",
+      "words": [
+        {
+          "word": "By",
+          "startSec": 290.46,
+          "endSec": 290.66,
+          "score": 0.98
+        },
+        {
+          "word": "learning",
+          "startSec": 290.66,
+          "endSec": 291.02,
+          "score": 1.0
+        },
+        {
+          "word": "these",
+          "startSec": 291.02,
+          "endSec": 291.34,
+          "score": 1.0
+        },
+        {
+          "word": "phrases,",
+          "startSec": 291.34,
+          "endSec": 291.76,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 292.64,
+          "endSec": 292.92,
+          "score": 0.99
+        },
+        {
+          "word": "will",
+          "startSec": 292.92,
+          "endSec": 293.06,
+          "score": 0.99
+        },
+        {
+          "word": "feel",
+          "startSec": 293.06,
+          "endSec": 293.36,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 293.36,
+          "endSec": 293.68,
+          "score": 1.0
+        },
+        {
+          "word": "comfortable",
+          "startSec": 293.68,
+          "endSec": 294.26,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 294.26,
+          "endSec": 294.92,
+          "score": 0.99
+        },
+        {
+          "word": "visiting",
+          "startSec": 294.92,
+          "endSec": 295.42,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 295.42,
+          "endSec": 295.72,
+          "score": 0.99
+        },
+        {
+          "word": "dentist.",
+          "startSec": 295.72,
+          "endSec": 295.98,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 297.63,
+      "end": 303.28,
+      "text": "Let's talk about some common situations you might face at the dentist's office.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 297.83,
+          "endSec": 298.39,
+          "score": 0.99
+        },
+        {
+          "word": "talk",
+          "startSec": 298.39,
+          "endSec": 298.61,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 298.61,
+          "endSec": 298.93,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 298.93,
+          "endSec": 299.17,
+          "score": 0.99
+        },
+        {
+          "word": "common",
+          "startSec": 299.17,
+          "endSec": 299.53,
+          "score": 1.0
+        },
+        {
+          "word": "situations",
+          "startSec": 299.53,
+          "endSec": 300.05,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 300.05,
+          "endSec": 300.93,
+          "score": 1.0
+        },
+        {
+          "word": "might",
+          "startSec": 300.93,
+          "endSec": 301.15,
+          "score": 1.0
+        },
+        {
+          "word": "face",
+          "startSec": 301.15,
+          "endSec": 301.57,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 301.57,
+          "endSec": 302.01,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 302.01,
+          "endSec": 302.17,
+          "score": 0.99
+        },
+        {
+          "word": "dentist's",
+          "startSec": 302.17,
+          "endSec": 302.73,
+          "score": 0.99
+        },
+        {
+          "word": "office.",
+          "startSec": 302.73,
+          "endSec": 303.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 305.18,
+      "end": 306.17,
+      "text": "Part 3.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 305.38,
+          "endSec": 305.62,
+          "score": 0.11
+        },
+        {
+          "word": "3.",
+          "startSec": 305.62,
+          "endSec": 306.02,
+          "score": 0.65
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 306.76,
+      "end": 308.73,
+      "text": "Common situations at the dentist.",
+      "words": [
+        {
+          "word": "Common",
+          "startSec": 306.96,
+          "endSec": 306.96,
+          "score": 0.95
+        },
+        {
+          "word": "situations",
+          "startSec": 306.96,
+          "endSec": 307.36,
+          "score": 0.23
+        },
+        {
+          "word": "at",
+          "startSec": 307.36,
+          "endSec": 308.12,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 308.12,
+          "endSec": 308.28,
+          "score": 1.0
+        },
+        {
+          "word": "dentist.",
+          "startSec": 308.28,
+          "endSec": 308.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 309.31,
+      "end": 315.66,
+      "text": "Now let's look at some common situations you might experience at the dentist's office.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 309.51,
+          "endSec": 310.19,
+          "score": 0.32
+        },
+        {
+          "word": "let's",
+          "startSec": 310.19,
+          "endSec": 310.61,
+          "score": 0.83
+        },
+        {
+          "word": "look",
+          "startSec": 310.61,
+          "endSec": 310.85,
+          "score": 0.99
+        },
+        {
+          "word": "at",
+          "startSec": 310.85,
+          "endSec": 311.07,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 311.07,
+          "endSec": 311.33,
+          "score": 0.99
+        },
+        {
+          "word": "common",
+          "startSec": 311.33,
+          "endSec": 311.67,
+          "score": 0.99
+        },
+        {
+          "word": "situations",
+          "startSec": 311.67,
+          "endSec": 312.37,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 312.37,
+          "endSec": 313.15,
+          "score": 0.99
+        },
+        {
+          "word": "might",
+          "startSec": 313.15,
+          "endSec": 313.39,
+          "score": 0.99
+        },
+        {
+          "word": "experience",
+          "startSec": 313.39,
+          "endSec": 314.01,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 314.01,
+          "endSec": 314.47,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 314.47,
+          "endSec": 314.63,
+          "score": 0.98
+        },
+        {
+          "word": "dentist's",
+          "startSec": 314.63,
+          "endSec": 315.19,
+          "score": 0.96
+        },
+        {
+          "word": "office.",
+          "startSec": 315.19,
+          "endSec": 315.51,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 315.99,
+      "end": 321.0,
+      "text": "I will describe the situation and give you some sentences that you can use.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 316.19,
+          "endSec": 316.31,
+          "score": 0.96
+        },
+        {
+          "word": "will",
+          "startSec": 316.31,
+          "endSec": 316.49,
+          "score": 0.99
+        },
+        {
+          "word": "describe",
+          "startSec": 316.49,
+          "endSec": 316.81,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 316.81,
+          "endSec": 317.15,
+          "score": 0.98
+        },
+        {
+          "word": "situation",
+          "startSec": 317.15,
+          "endSec": 317.53,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 317.53,
+          "endSec": 318.35,
+          "score": 0.97
+        },
+        {
+          "word": "give",
+          "startSec": 318.35,
+          "endSec": 318.57,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 318.57,
+          "endSec": 318.77,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 318.77,
+          "endSec": 318.97,
+          "score": 1.0
+        },
+        {
+          "word": "sentences",
+          "startSec": 318.97,
+          "endSec": 319.51,
+          "score": 0.99
+        },
+        {
+          "word": "that",
+          "startSec": 319.51,
+          "endSec": 320.13,
+          "score": 0.94
+        },
+        {
+          "word": "you",
+          "startSec": 320.13,
+          "endSec": 320.33,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 320.33,
+          "endSec": 320.51,
+          "score": 0.99
+        },
+        {
+          "word": "use.",
+          "startSec": 320.51,
+          "endSec": 320.85,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 323.5,
+      "end": 326.07,
+      "text": "Going for a routine checkup.",
+      "words": [
+        {
+          "word": "Going",
+          "startSec": 323.7,
+          "endSec": 324.2,
+          "score": 0.91
+        },
+        {
+          "word": "for",
+          "startSec": 324.2,
+          "endSec": 324.6,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 324.6,
+          "endSec": 324.78,
+          "score": 0.98
+        },
+        {
+          "word": "routine",
+          "startSec": 324.78,
+          "endSec": 325.14,
+          "score": 0.93
+        },
+        {
+          "word": "checkup.",
+          "startSec": 325.14,
+          "endSec": 325.92,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 326.82,
+      "end": 330.65,
+      "text": "You are visiting the dentist for a routine checkup.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 327.02,
+          "endSec": 327.26,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 327.26,
+          "endSec": 327.42,
+          "score": 0.97
+        },
+        {
+          "word": "visiting",
+          "startSec": 327.42,
+          "endSec": 327.9,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 327.9,
+          "endSec": 328.24,
+          "score": 0.99
+        },
+        {
+          "word": "dentist",
+          "startSec": 328.24,
+          "endSec": 328.7,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 328.7,
+          "endSec": 329.18,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 329.18,
+          "endSec": 329.34,
+          "score": 0.98
+        },
+        {
+          "word": "routine",
+          "startSec": 329.34,
+          "endSec": 329.58,
+          "score": 1.0
+        },
+        {
+          "word": "checkup.",
+          "startSec": 329.58,
+          "endSec": 330.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 331.05,
+      "end": 337.1,
+      "text": "You don't have any specific problems but want to make sure your teeth are healthy.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 331.25,
+          "endSec": 331.77,
+          "score": 0.99
+        },
+        {
+          "word": "don't",
+          "startSec": 331.77,
+          "endSec": 332.05,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 332.05,
+          "endSec": 332.27,
+          "score": 1.0
+        },
+        {
+          "word": "any",
+          "startSec": 332.27,
+          "endSec": 332.53,
+          "score": 0.99
+        },
+        {
+          "word": "specific",
+          "startSec": 332.53,
+          "endSec": 333.05,
+          "score": 1.0
+        },
+        {
+          "word": "problems",
+          "startSec": 333.05,
+          "endSec": 333.75,
+          "score": 0.99
+        },
+        {
+          "word": "but",
+          "startSec": 333.75,
+          "endSec": 334.49,
+          "score": 0.59
+        },
+        {
+          "word": "want",
+          "startSec": 334.49,
+          "endSec": 334.79,
+          "score": 0.91
+        },
+        {
+          "word": "to",
+          "startSec": 334.79,
+          "endSec": 335.01,
+          "score": 1.0
+        },
+        {
+          "word": "make",
+          "startSec": 335.01,
+          "endSec": 335.25,
+          "score": 1.0
+        },
+        {
+          "word": "sure",
+          "startSec": 335.25,
+          "endSec": 335.55,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 335.55,
+          "endSec": 335.83,
+          "score": 0.99
+        },
+        {
+          "word": "teeth",
+          "startSec": 335.83,
+          "endSec": 336.17,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 336.17,
+          "endSec": 336.49,
+          "score": 1.0
+        },
+        {
+          "word": "healthy.",
+          "startSec": 336.49,
+          "endSec": 336.95,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 337.92,
+      "end": 341.67,
+      "text": "Hello, I am here for my regular checkup.",
+      "words": [
+        {
+          "word": "Hello,",
+          "startSec": 338.12,
+          "endSec": 338.68,
+          "score": 0.41
+        },
+        {
+          "word": "I",
+          "startSec": 339.38,
+          "endSec": 339.64,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 339.64,
+          "endSec": 339.76,
+          "score": 0.06
+        },
+        {
+          "word": "here",
+          "startSec": 339.76,
+          "endSec": 339.94,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 339.94,
+          "endSec": 340.16,
+          "score": 0.98
+        },
+        {
+          "word": "my",
+          "startSec": 340.16,
+          "endSec": 340.36,
+          "score": 0.99
+        },
+        {
+          "word": "regular",
+          "startSec": 340.36,
+          "endSec": 340.78,
+          "score": 1.0
+        },
+        {
+          "word": "checkup.",
+          "startSec": 340.78,
+          "endSec": 341.52,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 341.96,
+      "end": 344.39,
+      "text": "Do I need any x-rays today?",
+      "words": [
+        {
+          "word": "Do",
+          "startSec": 342.16,
+          "endSec": 342.48,
+          "score": 0.98
+        },
+        {
+          "word": "I",
+          "startSec": 342.48,
+          "endSec": 342.64,
+          "score": 0.99
+        },
+        {
+          "word": "need",
+          "startSec": 342.64,
+          "endSec": 342.88,
+          "score": 1.0
+        },
+        {
+          "word": "any",
+          "startSec": 342.88,
+          "endSec": 343.1,
+          "score": 1.0
+        },
+        {
+          "word": "x",
+          "startSec": 343.1,
+          "endSec": 343.42,
+          "score": 0.69
+        },
+        {
+          "word": "-rays",
+          "startSec": 343.42,
+          "endSec": 343.78,
+          "score": 0.99
+        },
+        {
+          "word": "today?",
+          "startSec": 343.78,
+          "endSec": 344.24,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 345.04,
+      "end": 347.77,
+      "text": "Are there any problems with my teeth?",
+      "words": [
+        {
+          "word": "Are",
+          "startSec": 345.24,
+          "endSec": 345.52,
+          "score": 0.98
+        },
+        {
+          "word": "there",
+          "startSec": 345.52,
+          "endSec": 345.76,
+          "score": 0.99
+        },
+        {
+          "word": "any",
+          "startSec": 345.76,
+          "endSec": 346.02,
+          "score": 0.99
+        },
+        {
+          "word": "problems",
+          "startSec": 346.02,
+          "endSec": 346.62,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 346.62,
+          "endSec": 347.0,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 347.0,
+          "endSec": 347.24,
+          "score": 1.0
+        },
+        {
+          "word": "teeth?",
+          "startSec": 347.24,
+          "endSec": 347.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 349.88,
+      "end": 351.45,
+      "text": "Having a toothache.",
+      "words": [
+        {
+          "word": "Having",
+          "startSec": 350.08,
+          "endSec": 350.46,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 350.46,
+          "endSec": 350.7,
+          "score": 0.99
+        },
+        {
+          "word": "toothache.",
+          "startSec": 350.7,
+          "endSec": 351.3,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 351.78,
+      "end": 355.31,
+      "text": "You have a toothache and you need to see the dentist quickly.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 351.98,
+          "endSec": 352.06,
+          "score": 0.98
+        },
+        {
+          "word": "have",
+          "startSec": 352.06,
+          "endSec": 352.26,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 352.26,
+          "endSec": 352.38,
+          "score": 0.99
+        },
+        {
+          "word": "toothache",
+          "startSec": 352.38,
+          "endSec": 352.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 352.98,
+          "endSec": 353.28,
+          "score": 0.78
+        },
+        {
+          "word": "you",
+          "startSec": 353.28,
+          "endSec": 353.48,
+          "score": 0.96
+        },
+        {
+          "word": "need",
+          "startSec": 353.48,
+          "endSec": 353.7,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 353.7,
+          "endSec": 353.88,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 353.88,
+          "endSec": 354.14,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 354.14,
+          "endSec": 354.34,
+          "score": 0.98
+        },
+        {
+          "word": "dentist",
+          "startSec": 354.34,
+          "endSec": 354.68,
+          "score": 0.94
+        },
+        {
+          "word": "quickly.",
+          "startSec": 354.68,
+          "endSec": 355.16,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 356.69,
+      "end": 358.06,
+      "text": "I have a toothache.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 356.89,
+          "endSec": 356.97,
+          "score": 0.97
+        },
+        {
+          "word": "have",
+          "startSec": 356.97,
+          "endSec": 357.17,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 357.17,
+          "endSec": 357.33,
+          "score": 0.99
+        },
+        {
+          "word": "toothache.",
+          "startSec": 357.33,
+          "endSec": 357.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 358.37,
+      "end": 359.7,
+      "text": "Can you see me today?",
+      "words": [
+        {
+          "word": "Can",
+          "startSec": 358.57,
+          "endSec": 358.65,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 358.65,
+          "endSec": 358.79,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 358.79,
+          "endSec": 359.07,
+          "score": 1.0
+        },
+        {
+          "word": "me",
+          "startSec": 359.07,
+          "endSec": 359.29,
+          "score": 1.0
+        },
+        {
+          "word": "today?",
+          "startSec": 359.29,
+          "endSec": 359.55,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 360.95,
+      "end": 363.12,
+      "text": "It hurts when I touch my tooth.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 361.15,
+          "endSec": 361.27,
+          "score": 0.99
+        },
+        {
+          "word": "hurts",
+          "startSec": 361.27,
+          "endSec": 361.57,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 361.57,
+          "endSec": 361.95,
+          "score": 0.99
+        },
+        {
+          "word": "I",
+          "startSec": 361.95,
+          "endSec": 362.13,
+          "score": 0.99
+        },
+        {
+          "word": "touch",
+          "startSec": 362.13,
+          "endSec": 362.35,
+          "score": 1.0
+        },
+        {
+          "word": "my",
+          "startSec": 362.35,
+          "endSec": 362.63,
+          "score": 1.0
+        },
+        {
+          "word": "tooth.",
+          "startSec": 362.63,
+          "endSec": 362.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 363.59,
+      "end": 364.58,
+      "text": "What is wrong?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 363.79,
+          "endSec": 363.99,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 363.99,
+          "endSec": 364.13,
+          "score": 0.99
+        },
+        {
+          "word": "wrong?",
+          "startSec": 364.13,
+          "endSec": 364.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 365.02,
+      "end": 367.61,
+      "text": "Can you give me something for the pain?",
+      "words": [
+        {
+          "word": "Can",
+          "startSec": 365.22,
+          "endSec": 365.78,
+          "score": 0.01
+        },
+        {
+          "word": "you",
+          "startSec": 365.78,
+          "endSec": 365.98,
+          "score": 0.97
+        },
+        {
+          "word": "give",
+          "startSec": 365.98,
+          "endSec": 366.2,
+          "score": 0.96
+        },
+        {
+          "word": "me",
+          "startSec": 366.2,
+          "endSec": 366.4,
+          "score": 0.99
+        },
+        {
+          "word": "something",
+          "startSec": 366.4,
+          "endSec": 366.74,
+          "score": 0.98
+        },
+        {
+          "word": "for",
+          "startSec": 366.74,
+          "endSec": 367.04,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 367.04,
+          "endSec": 367.18,
+          "score": 0.99
+        },
+        {
+          "word": "pain?",
+          "startSec": 367.18,
+          "endSec": 367.46,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 369.96,
+      "end": 371.37,
+      "text": "Getting a filling.",
+      "words": [
+        {
+          "word": "Getting",
+          "startSec": 370.16,
+          "endSec": 370.54,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 370.54,
+          "endSec": 370.78,
+          "score": 0.97
+        },
+        {
+          "word": "filling.",
+          "startSec": 370.78,
+          "endSec": 371.22,
+          "score": 0.68
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 372.4,
+      "end": 376.53,
+      "text": "The dentist finds a cavity and decides to give you a filling.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 372.6,
+          "endSec": 372.74,
+          "score": 0.92
+        },
+        {
+          "word": "dentist",
+          "startSec": 372.74,
+          "endSec": 373.06,
+          "score": 1.0
+        },
+        {
+          "word": "finds",
+          "startSec": 373.06,
+          "endSec": 373.56,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 373.56,
+          "endSec": 373.78,
+          "score": 1.0
+        },
+        {
+          "word": "cavity",
+          "startSec": 373.78,
+          "endSec": 374.16,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 374.16,
+          "endSec": 374.74,
+          "score": 0.95
+        },
+        {
+          "word": "decides",
+          "startSec": 374.74,
+          "endSec": 375.08,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 375.08,
+          "endSec": 375.52,
+          "score": 1.0
+        },
+        {
+          "word": "give",
+          "startSec": 375.52,
+          "endSec": 375.72,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 375.72,
+          "endSec": 375.92,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 375.92,
+          "endSec": 376.02,
+          "score": 1.0
+        },
+        {
+          "word": "filling.",
+          "startSec": 376.02,
+          "endSec": 376.38,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 377.49,
+      "end": 378.48,
+      "text": "I have a cavity.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 377.69,
+          "endSec": 377.79,
+          "score": 0.94
+        },
+        {
+          "word": "have",
+          "startSec": 377.79,
+          "endSec": 377.99,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 377.99,
+          "endSec": 378.09,
+          "score": 1.0
+        },
+        {
+          "word": "cavity.",
+          "startSec": 378.09,
+          "endSec": 378.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 379.17,
+      "end": 380.54,
+      "text": "What should I do next?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 379.37,
+          "endSec": 379.49,
+          "score": 0.99
+        },
+        {
+          "word": "should",
+          "startSec": 379.49,
+          "endSec": 379.73,
+          "score": 1.0
+        },
+        {
+          "word": "I",
+          "startSec": 379.73,
+          "endSec": 379.91,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 379.91,
+          "endSec": 380.11,
+          "score": 1.0
+        },
+        {
+          "word": "next?",
+          "startSec": 380.11,
+          "endSec": 380.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 381.6,
+      "end": 383.43,
+      "text": "How will you fill the cavity?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 381.8,
+          "endSec": 382.08,
+          "score": 0.98
+        },
+        {
+          "word": "will",
+          "startSec": 382.08,
+          "endSec": 382.32,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 382.32,
+          "endSec": 382.5,
+          "score": 1.0
+        },
+        {
+          "word": "fill",
+          "startSec": 382.5,
+          "endSec": 382.78,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 382.78,
+          "endSec": 382.96,
+          "score": 0.99
+        },
+        {
+          "word": "cavity?",
+          "startSec": 382.96,
+          "endSec": 383.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 384.06,
+      "end": 386.57,
+      "text": "How long will it take to fix the cavity?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 384.26,
+          "endSec": 384.42,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 384.42,
+          "endSec": 384.68,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 384.68,
+          "endSec": 384.98,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 384.98,
+          "endSec": 385.08,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 385.08,
+          "endSec": 385.28,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 385.28,
+          "endSec": 385.46,
+          "score": 1.0
+        },
+        {
+          "word": "fix",
+          "startSec": 385.46,
+          "endSec": 385.74,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 385.74,
+          "endSec": 385.96,
+          "score": 1.0
+        },
+        {
+          "word": "cavity?",
+          "startSec": 385.96,
+          "endSec": 386.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 388.06,
+      "end": 389.61,
+      "text": "Getting a tooth extracted.",
+      "words": [
+        {
+          "word": "Getting",
+          "startSec": 388.26,
+          "endSec": 388.46,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 388.46,
+          "endSec": 388.66,
+          "score": 1.0
+        },
+        {
+          "word": "tooth",
+          "startSec": 388.66,
+          "endSec": 388.9,
+          "score": 0.99
+        },
+        {
+          "word": "extracted.",
+          "startSec": 388.9,
+          "endSec": 389.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 390.9,
+      "end": 394.47,
+      "text": "The dentist tells you that you need to have a tooth pulled out.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 391.1,
+          "endSec": 391.12,
+          "score": 0.98
+        },
+        {
+          "word": "dentist",
+          "startSec": 391.12,
+          "endSec": 391.46,
+          "score": 1.0
+        },
+        {
+          "word": "tells",
+          "startSec": 391.46,
+          "endSec": 391.92,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 391.92,
+          "endSec": 392.2,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 392.2,
+          "endSec": 392.38,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 392.38,
+          "endSec": 392.54,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 392.54,
+          "endSec": 392.76,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 392.76,
+          "endSec": 392.92,
+          "score": 0.99
+        },
+        {
+          "word": "have",
+          "startSec": 392.92,
+          "endSec": 393.14,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 393.14,
+          "endSec": 393.28,
+          "score": 0.99
+        },
+        {
+          "word": "tooth",
+          "startSec": 393.28,
+          "endSec": 393.56,
+          "score": 0.99
+        },
+        {
+          "word": "pulled",
+          "startSec": 393.56,
+          "endSec": 393.9,
+          "score": 1.0
+        },
+        {
+          "word": "out.",
+          "startSec": 393.9,
+          "endSec": 394.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 394.12,
+      "end": 397.31,
+      "text": "Do I need to get my tooth pulled?",
+      "words": [
+        {
+          "word": "Do",
+          "startSec": 394.32,
+          "endSec": 395.5,
+          "score": 0.41
+        },
+        {
+          "word": "I",
+          "startSec": 395.5,
+          "endSec": 395.7,
+          "score": 0.98
+        },
+        {
+          "word": "need",
+          "startSec": 395.7,
+          "endSec": 395.88,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 395.88,
+          "endSec": 396.04,
+          "score": 0.99
+        },
+        {
+          "word": "get",
+          "startSec": 396.04,
+          "endSec": 396.22,
+          "score": 0.99
+        },
+        {
+          "word": "my",
+          "startSec": 396.22,
+          "endSec": 396.38,
+          "score": 0.99
+        },
+        {
+          "word": "tooth",
+          "startSec": 396.38,
+          "endSec": 396.7,
+          "score": 0.96
+        },
+        {
+          "word": "pulled?",
+          "startSec": 396.7,
+          "endSec": 397.16,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 398.2,
+      "end": 401.27,
+      "text": "That will I feel pain during the extraction?",
+      "words": [
+        {
+          "word": "That",
+          "startSec": 398.4,
+          "endSec": 398.52,
+          "score": 0.77
+        },
+        {
+          "word": "will",
+          "startSec": 398.52,
+          "endSec": 398.82,
+          "score": 0.7
+        },
+        {
+          "word": "I",
+          "startSec": 398.82,
+          "endSec": 399.06,
+          "score": 0.99
+        },
+        {
+          "word": "feel",
+          "startSec": 399.06,
+          "endSec": 399.42,
+          "score": 1.0
+        },
+        {
+          "word": "pain",
+          "startSec": 399.42,
+          "endSec": 399.9,
+          "score": 0.99
+        },
+        {
+          "word": "during",
+          "startSec": 399.9,
+          "endSec": 400.46,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 400.46,
+          "endSec": 400.8,
+          "score": 0.99
+        },
+        {
+          "word": "extraction?",
+          "startSec": 400.8,
+          "endSec": 401.12,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 402.16,
+      "end": 405.23,
+      "text": "How long will it take to heal after the extraction?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 402.36,
+          "endSec": 402.6,
+          "score": 0.94
+        },
+        {
+          "word": "long",
+          "startSec": 402.6,
+          "endSec": 402.9,
+          "score": 1.0
+        },
+        {
+          "word": "will",
+          "startSec": 402.9,
+          "endSec": 403.22,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 403.22,
+          "endSec": 403.32,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 403.32,
+          "endSec": 403.54,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 403.54,
+          "endSec": 403.74,
+          "score": 1.0
+        },
+        {
+          "word": "heal",
+          "startSec": 403.74,
+          "endSec": 404.06,
+          "score": 0.99
+        },
+        {
+          "word": "after",
+          "startSec": 404.06,
+          "endSec": 404.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 404.56,
+          "endSec": 404.76,
+          "score": 1.0
+        },
+        {
+          "word": "extraction?",
+          "startSec": 404.76,
+          "endSec": 405.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 406.34,
+      "end": 411.65,
+      "text": "Now, you know how to talk about different situations at the dentist's office.",
+      "words": [
+        {
+          "word": "Now,",
+          "startSec": 406.54,
+          "endSec": 407.04,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 407.42,
+          "endSec": 407.66,
+          "score": 0.99
+        },
+        {
+          "word": "know",
+          "startSec": 407.66,
+          "endSec": 407.92,
+          "score": 1.0
+        },
+        {
+          "word": "how",
+          "startSec": 407.92,
+          "endSec": 408.16,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 408.16,
+          "endSec": 408.32,
+          "score": 1.0
+        },
+        {
+          "word": "talk",
+          "startSec": 408.32,
+          "endSec": 408.58,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 408.58,
+          "endSec": 408.88,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 408.88,
+          "endSec": 409.22,
+          "score": 0.99
+        },
+        {
+          "word": "situations",
+          "startSec": 409.22,
+          "endSec": 409.88,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 409.88,
+          "endSec": 410.48,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 410.48,
+          "endSec": 410.6,
+          "score": 0.98
+        },
+        {
+          "word": "dentist's",
+          "startSec": 410.6,
+          "endSec": 411.2,
+          "score": 0.97
+        },
+        {
+          "word": "office.",
+          "startSec": 411.2,
+          "endSec": 411.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 412.08,
+      "end": 416.25,
+      "text": "Let's move on to the last part and review everything we've learned.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 412.28,
+          "endSec": 412.6,
+          "score": 1.0
+        },
+        {
+          "word": "move",
+          "startSec": 412.6,
+          "endSec": 412.8,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 412.8,
+          "endSec": 412.98,
+          "score": 0.93
+        },
+        {
+          "word": "to",
+          "startSec": 412.98,
+          "endSec": 413.14,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 413.14,
+          "endSec": 413.28,
+          "score": 0.99
+        },
+        {
+          "word": "last",
+          "startSec": 413.28,
+          "endSec": 413.58,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 413.58,
+          "endSec": 414.0,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 414.0,
+          "endSec": 414.3,
+          "score": 0.94
+        },
+        {
+          "word": "review",
+          "startSec": 414.3,
+          "endSec": 414.64,
+          "score": 1.0
+        },
+        {
+          "word": "everything",
+          "startSec": 414.64,
+          "endSec": 415.3,
+          "score": 1.0
+        },
+        {
+          "word": "we've",
+          "startSec": 415.3,
+          "endSec": 415.78,
+          "score": 0.98
+        },
+        {
+          "word": "learned.",
+          "startSec": 415.78,
+          "endSec": 416.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 417.99,
+      "end": 419.04,
+      "text": "Part 4.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 418.19,
+          "endSec": 418.49,
+          "score": 0.98
+        },
+        {
+          "word": "4.",
+          "startSec": 418.49,
+          "endSec": 418.89,
+          "score": 0.53
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 419.27,
+      "end": 420.18,
+      "text": "Summary and Practice.",
+      "words": [
+        {
+          "word": "Summary",
+          "startSec": 419.47,
+          "endSec": 419.51,
+          "score": 0.75
+        },
+        {
+          "word": "and",
+          "startSec": 419.51,
+          "endSec": 419.75,
+          "score": 0.91
+        },
+        {
+          "word": "Practice.",
+          "startSec": 419.75,
+          "endSec": 420.03,
+          "score": 0.72
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 420.59,
+      "end": 421.48,
+      "text": "Great job!",
+      "words": [
+        {
+          "word": "Great",
+          "startSec": 420.79,
+          "endSec": 420.95,
+          "score": 0.97
+        },
+        {
+          "word": "job!",
+          "startSec": 420.95,
+          "endSec": 421.33,
+          "score": 0.79
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 422.25,
+      "end": 427.26,
+      "text": "Today we learned many important words and phrases for the dentist's office.",
+      "words": [
+        {
+          "word": "Today",
+          "startSec": 422.45,
+          "endSec": 422.87,
+          "score": 0.7
+        },
+        {
+          "word": "we",
+          "startSec": 422.87,
+          "endSec": 423.25,
+          "score": 0.57
+        },
+        {
+          "word": "learned",
+          "startSec": 423.25,
+          "endSec": 423.51,
+          "score": 0.72
+        },
+        {
+          "word": "many",
+          "startSec": 423.51,
+          "endSec": 423.81,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 423.81,
+          "endSec": 424.45,
+          "score": 1.0
+        },
+        {
+          "word": "words",
+          "startSec": 424.45,
+          "endSec": 424.91,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 424.91,
+          "endSec": 425.19,
+          "score": 0.99
+        },
+        {
+          "word": "phrases",
+          "startSec": 425.19,
+          "endSec": 425.55,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 425.55,
+          "endSec": 426.03,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 426.03,
+          "endSec": 426.17,
+          "score": 0.99
+        },
+        {
+          "word": "dentist's",
+          "startSec": 426.17,
+          "endSec": 426.79,
+          "score": 0.93
+        },
+        {
+          "word": "office.",
+          "startSec": 426.79,
+          "endSec": 427.11,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 427.83,
+      "end": 430.6,
+      "text": "Let's review important words.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 428.03,
+          "endSec": 428.45,
+          "score": 0.99
+        },
+        {
+          "word": "review",
+          "startSec": 428.45,
+          "endSec": 428.81,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 428.81,
+          "endSec": 429.75,
+          "score": 0.92
+        },
+        {
+          "word": "words.",
+          "startSec": 429.75,
+          "endSec": 430.45,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "start": 431.15,
+      "end": 440.76,
+      "text": "Dentist, dental hygienist, cavity, filling, extraction, root canal, crown, braces, x-ray,",
+      "words": [
+        {
+          "word": "Dentist,",
+          "startSec": 431.35,
+          "endSec": 432.01,
+          "score": 0.58
+        },
+        {
+          "word": "dental",
+          "startSec": 432.41,
+          "endSec": 432.61,
+          "score": 0.98
+        },
+        {
+          "word": "hygienist,",
+          "startSec": 432.61,
+          "endSec": 433.69,
+          "score": 0.98
+        },
+        {
+          "word": "cavity,",
+          "startSec": 434.01,
+          "endSec": 434.31,
+          "score": 0.99
+        },
+        {
+          "word": "filling,",
+          "startSec": 435.03,
+          "endSec": 435.47,
+          "score": 0.99
+        },
+        {
+          "word": "extraction,",
+          "startSec": 435.95,
+          "endSec": 436.41,
+          "score": 1.0
+        },
+        {
+          "word": "root",
+          "startSec": 437.25,
+          "endSec": 437.29,
+          "score": 0.99
+        },
+        {
+          "word": "canal,",
+          "startSec": 437.29,
+          "endSec": 437.71,
+          "score": 0.99
+        },
+        {
+          "word": "crown,",
+          "startSec": 438.33,
+          "endSec": 438.57,
+          "score": 0.99
+        },
+        {
+          "word": "braces,",
+          "startSec": 439.65,
+          "endSec": 439.67,
+          "score": 0.99
+        },
+        {
+          "word": "x",
+          "startSec": 440.17,
+          "endSec": 440.21,
+          "score": 0.73
+        },
+        {
+          "word": "-ray,",
+          "startSec": 440.21,
+          "endSec": 440.61,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "start": 440.71,
+      "end": 448.84,
+      "text": "drill, syringe, toothache, sensitive teeth, bleeding gums, common phrases, making an appointment,",
+      "words": [
+        {
+          "word": "drill,",
+          "startSec": 440.91,
+          "endSec": 441.13,
+          "score": 0.92
+        },
+        {
+          "word": "syringe,",
+          "startSec": 441.47,
+          "endSec": 441.83,
+          "score": 0.99
+        },
+        {
+          "word": "toothache,",
+          "startSec": 442.29,
+          "endSec": 442.55,
+          "score": 0.98
+        },
+        {
+          "word": "sensitive",
+          "startSec": 443.11,
+          "endSec": 443.63,
+          "score": 1.0
+        },
+        {
+          "word": "teeth,",
+          "startSec": 443.63,
+          "endSec": 444.03,
+          "score": 1.0
+        },
+        {
+          "word": "bleeding",
+          "startSec": 444.61,
+          "endSec": 444.61,
+          "score": 1.0
+        },
+        {
+          "word": "gums,",
+          "startSec": 444.61,
+          "endSec": 445.19,
+          "score": 0.97
+        },
+        {
+          "word": "common",
+          "startSec": 445.61,
+          "endSec": 445.93,
+          "score": 1.0
+        },
+        {
+          "word": "phrases,",
+          "startSec": 445.93,
+          "endSec": 446.41,
+          "score": 0.99
+        },
+        {
+          "word": "making",
+          "startSec": 447.43,
+          "endSec": 448.01,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 448.01,
+          "endSec": 448.27,
+          "score": 0.99
+        },
+        {
+          "word": "appointment,",
+          "startSec": 448.27,
+          "endSec": 448.69,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "start": 448.49,
+      "end": 455.4,
+      "text": "talking about symptoms, during the treatment, asking about aftercare.",
+      "words": [
+        {
+          "word": "talking",
+          "startSec": 448.69,
+          "endSec": 449.87,
+          "score": 0.08
+        },
+        {
+          "word": "about",
+          "startSec": 449.87,
+          "endSec": 450.39,
+          "score": 1.0
+        },
+        {
+          "word": "symptoms,",
+          "startSec": 450.39,
+          "endSec": 450.75,
+          "score": 0.99
+        },
+        {
+          "word": "during",
+          "startSec": 451.83,
+          "endSec": 452.29,
+          "score": 0.89
+        },
+        {
+          "word": "the",
+          "startSec": 452.29,
+          "endSec": 452.55,
+          "score": 0.99
+        },
+        {
+          "word": "treatment,",
+          "startSec": 452.55,
+          "endSec": 452.95,
+          "score": 0.99
+        },
+        {
+          "word": "asking",
+          "startSec": 453.51,
+          "endSec": 454.01,
+          "score": 0.99
+        },
+        {
+          "word": "about",
+          "startSec": 454.01,
+          "endSec": 454.39,
+          "score": 1.0
+        },
+        {
+          "word": "aftercare.",
+          "startSec": 454.39,
+          "endSec": 455.25,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "start": 456.39,
+      "end": 464.54,
+      "text": "Situations at the dentist, routine checkup, toothache, getting a feeling, getting a tooth extracted.",
+      "words": [
+        {
+          "word": "Situations",
+          "startSec": 456.59,
+          "endSec": 457.43,
+          "score": 0.82
+        },
+        {
+          "word": "at",
+          "startSec": 457.43,
+          "endSec": 457.75,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 457.75,
+          "endSec": 457.91,
+          "score": 0.98
+        },
+        {
+          "word": "dentist,",
+          "startSec": 457.91,
+          "endSec": 458.29,
+          "score": 0.99
+        },
+        {
+          "word": "routine",
+          "startSec": 459.07,
+          "endSec": 459.39,
+          "score": 1.0
+        },
+        {
+          "word": "checkup,",
+          "startSec": 459.39,
+          "endSec": 460.29,
+          "score": 0.88
+        },
+        {
+          "word": "toothache,",
+          "startSec": 460.53,
+          "endSec": 461.13,
+          "score": 0.97
+        },
+        {
+          "word": "getting",
+          "startSec": 461.55,
+          "endSec": 461.97,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 461.97,
+          "endSec": 462.15,
+          "score": 1.0
+        },
+        {
+          "word": "feeling,",
+          "startSec": 462.15,
+          "endSec": 462.55,
+          "score": 0.97
+        },
+        {
+          "word": "getting",
+          "startSec": 463.15,
+          "endSec": 463.47,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 463.47,
+          "endSec": 463.67,
+          "score": 0.99
+        },
+        {
+          "word": "tooth",
+          "startSec": 463.67,
+          "endSec": 463.89,
+          "score": 1.0
+        },
+        {
+          "word": "extracted.",
+          "startSec": 463.89,
+          "endSec": 464.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "start": 465.54,
+      "end": 468.47,
+      "text": "Now, try to practice these phrases.",
+      "words": [
+        {
+          "word": "Now,",
+          "startSec": 465.74,
+          "endSec": 466.18,
+          "score": 0.99
+        },
+        {
+          "word": "try",
+          "startSec": 466.7,
+          "endSec": 466.94,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 466.94,
+          "endSec": 467.14,
+          "score": 1.0
+        },
+        {
+          "word": "practice",
+          "startSec": 467.14,
+          "endSec": 467.58,
+          "score": 1.0
+        },
+        {
+          "word": "these",
+          "startSec": 467.58,
+          "endSec": 467.92,
+          "score": 1.0
+        },
+        {
+          "word": "phrases.",
+          "startSec": 467.92,
+          "endSec": 468.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "start": 468.96,
+      "end": 473.25,
+      "text": "Imagine you are at the dentist's office and repeat the sentences.",
+      "words": [
+        {
+          "word": "Imagine",
+          "startSec": 469.16,
+          "endSec": 469.46,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 469.46,
+          "endSec": 470.0,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 470.0,
+          "endSec": 470.14,
+          "score": 0.78
+        },
+        {
+          "word": "at",
+          "startSec": 470.14,
+          "endSec": 470.3,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 470.3,
+          "endSec": 470.42,
+          "score": 0.99
+        },
+        {
+          "word": "dentist's",
+          "startSec": 470.42,
+          "endSec": 471.14,
+          "score": 0.99
+        },
+        {
+          "word": "office",
+          "startSec": 471.14,
+          "endSec": 471.6,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 471.6,
+          "endSec": 472.06,
+          "score": 0.94
+        },
+        {
+          "word": "repeat",
+          "startSec": 472.06,
+          "endSec": 472.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 472.4,
+          "endSec": 472.7,
+          "score": 1.0
+        },
+        {
+          "word": "sentences.",
+          "startSec": 472.7,
+          "endSec": 473.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "start": 472.9,
+      "end": 479.67,
+      "text": "You can listen to this episode again to improve your pronunciation and confidence.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 473.1,
+          "endSec": 474.48,
+          "score": 0.53
+        },
+        {
+          "word": "can",
+          "startSec": 474.48,
+          "endSec": 474.66,
+          "score": 1.0
+        },
+        {
+          "word": "listen",
+          "startSec": 474.66,
+          "endSec": 474.94,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 474.94,
+          "endSec": 475.3,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 475.3,
+          "endSec": 475.54,
+          "score": 0.99
+        },
+        {
+          "word": "episode",
+          "startSec": 475.54,
+          "endSec": 476.18,
+          "score": 1.0
+        },
+        {
+          "word": "again",
+          "startSec": 476.18,
+          "endSec": 476.6,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 476.6,
+          "endSec": 477.04,
+          "score": 0.98
+        },
+        {
+          "word": "improve",
+          "startSec": 477.04,
+          "endSec": 477.38,
+          "score": 1.0
+        },
+        {
+          "word": "your",
+          "startSec": 477.38,
+          "endSec": 477.84,
+          "score": 1.0
+        },
+        {
+          "word": "pronunciation",
+          "startSec": 477.84,
+          "endSec": 478.46,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 478.46,
+          "endSec": 479.06,
+          "score": 0.99
+        },
+        {
+          "word": "confidence.",
+          "startSec": 479.06,
+          "endSec": 479.52,
           "score": 1.0
         }
       ]

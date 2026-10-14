@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 3.4,
-      "end": 5.27,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 3.6,
-          "endSec": 3.82,
-          "score": 1.0
-        },
-        {
-          "word": "name",
-          "startSec": 3.82,
-          "endSec": 4.04,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 4.04,
-          "endSec": 4.36,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 4.36,
-          "endSec": 5.12,
-          "score": 0.55
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 5.22,
       "end": 7.29,
       "text": "I am happy you are here.",
@@ -146,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 7.77,
       "end": 10.5,
       "text": "Today, we will talk about Rwanda.",
@@ -190,7 +158,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 11.94,
       "end": 17.51,
       "text": "Rwanda is a green, hilly, and peaceful country in East Africa.",
@@ -264,7 +232,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 18.02,
       "end": 22.07,
       "text": "Let's learn about it in slow and easy English.",
@@ -326,7 +294,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 22.38,
       "end": 23.35,
       "text": "Are you ready?",
@@ -352,7 +320,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 24.33,
       "end": 25.4,
       "text": "Let's begin.",
@@ -372,7 +340,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 26.82,
       "end": 27.77,
       "text": "Where is Rwanda?",
@@ -398,7 +366,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 27.42,
       "end": 30.47,
       "text": "Rwanda is in East Africa.",
@@ -432,6 +400,3900 @@
           "startSec": 29.7,
           "endSec": 30.32,
           "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 30.92,
+      "end": 33.77,
+      "text": "It is next to Uganda, Tanzania,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 31.12,
+          "endSec": 31.22,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 31.22,
+          "endSec": 31.38,
+          "score": 0.98
+        },
+        {
+          "word": "next",
+          "startSec": 31.38,
+          "endSec": 31.66,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 31.66,
+          "endSec": 31.98,
+          "score": 1.0
+        },
+        {
+          "word": "Uganda,",
+          "startSec": 31.98,
+          "endSec": 32.44,
+          "score": 1.0
+        },
+        {
+          "word": "Tanzania,",
+          "startSec": 33.14,
+          "endSec": 33.62,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 34.36,
+      "end": 37.95,
+      "text": "Burundi, and the Democratic Republic of the Congo.",
+      "words": [
+        {
+          "word": "Burundi,",
+          "startSec": 34.56,
+          "endSec": 35.14,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 35.36,
+          "endSec": 35.42,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 35.42,
+          "endSec": 35.56,
+          "score": 0.99
+        },
+        {
+          "word": "Democratic",
+          "startSec": 35.56,
+          "endSec": 36.02,
+          "score": 0.95
+        },
+        {
+          "word": "Republic",
+          "startSec": 36.02,
+          "endSec": 36.68,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 36.68,
+          "endSec": 37.34,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 37.34,
+          "endSec": 37.46,
+          "score": 0.84
+        },
+        {
+          "word": "Congo.",
+          "startSec": 37.46,
+          "endSec": 37.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 38.87,
+      "end": 41.0,
+      "text": "It does not touch the sea,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 39.07,
+          "endSec": 39.41,
+          "score": 0.99
+        },
+        {
+          "word": "does",
+          "startSec": 39.41,
+          "endSec": 39.61,
+          "score": 0.99
+        },
+        {
+          "word": "not",
+          "startSec": 39.61,
+          "endSec": 39.89,
+          "score": 1.0
+        },
+        {
+          "word": "touch",
+          "startSec": 39.89,
+          "endSec": 40.33,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 40.33,
+          "endSec": 40.53,
+          "score": 1.0
+        },
+        {
+          "word": "sea,",
+          "startSec": 40.53,
+          "endSec": 40.85,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 41.13,
+      "end": 43.84,
+      "text": "but it has many lakes and hills.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 41.33,
+          "endSec": 41.39,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 41.39,
+          "endSec": 41.55,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 41.55,
+          "endSec": 41.83,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 41.83,
+          "endSec": 42.25,
+          "score": 1.0
+        },
+        {
+          "word": "lakes",
+          "startSec": 42.25,
+          "endSec": 42.79,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 42.79,
+          "endSec": 43.31,
+          "score": 1.0
+        },
+        {
+          "word": "hills.",
+          "startSec": 43.31,
+          "endSec": 43.69,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 44.11,
+      "end": 47.56,
+      "text": "It is called the Land of a Thousand Hills.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 44.31,
+          "endSec": 44.45,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 44.45,
+          "endSec": 44.63,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 44.63,
+          "endSec": 45.01,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 45.01,
+          "endSec": 45.45,
+          "score": 0.95
+        },
+        {
+          "word": "Land",
+          "startSec": 45.45,
+          "endSec": 46.11,
+          "score": 0.35
+        },
+        {
+          "word": "of",
+          "startSec": 46.11,
+          "endSec": 46.43,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 46.43,
+          "endSec": 46.53,
+          "score": 0.76
+        },
+        {
+          "word": "Thousand",
+          "startSec": 46.53,
+          "endSec": 47.03,
+          "score": 0.96
+        },
+        {
+          "word": "Hills.",
+          "startSec": 47.03,
+          "endSec": 47.41,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 48.36,
+      "end": 51.19,
+      "text": "What is the capital city of Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 48.56,
+          "endSec": 48.9,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 48.9,
+          "endSec": 49.06,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 49.06,
+          "endSec": 49.26,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 49.26,
+          "endSec": 49.74,
+          "score": 0.95
+        },
+        {
+          "word": "city",
+          "startSec": 49.74,
+          "endSec": 50.26,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 50.26,
+          "endSec": 50.66,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 50.66,
+          "endSec": 51.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 52.02,
+      "end": 54.81,
+      "text": "The capital city is Kigali.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 52.22,
+          "endSec": 52.42,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 52.42,
+          "endSec": 52.78,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 52.78,
+          "endSec": 53.54,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 53.54,
+          "endSec": 54.02,
+          "score": 0.99
+        },
+        {
+          "word": "Kigali.",
+          "startSec": 54.02,
+          "endSec": 54.66,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 55.36,
+      "end": 58.71,
+      "text": "Kigali is clean, safe, and modern.",
+      "words": [
+        {
+          "word": "Kigali",
+          "startSec": 55.56,
+          "endSec": 56.28,
+          "score": 0.66
+        },
+        {
+          "word": "is",
+          "startSec": 56.28,
+          "endSec": 56.72,
+          "score": 0.94
+        },
+        {
+          "word": "clean,",
+          "startSec": 56.72,
+          "endSec": 57.06,
+          "score": 0.97
+        },
+        {
+          "word": "safe,",
+          "startSec": 57.46,
+          "endSec": 57.8,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 58.16,
+          "endSec": 58.22,
+          "score": 0.99
+        },
+        {
+          "word": "modern.",
+          "startSec": 58.22,
+          "endSec": 58.56,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 58.98,
+      "end": 62.79,
+      "text": "It has shops, schools, offices, and hotels.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 59.18,
+          "endSec": 59.24,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 59.24,
+          "endSec": 59.48,
+          "score": 1.0
+        },
+        {
+          "word": "shops,",
+          "startSec": 59.48,
+          "endSec": 59.84,
+          "score": 1.0
+        },
+        {
+          "word": "schools,",
+          "startSec": 60.26,
+          "endSec": 60.74,
+          "score": 0.98
+        },
+        {
+          "word": "offices,",
+          "startSec": 61.22,
+          "endSec": 61.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 61.64,
+          "endSec": 62.2,
+          "score": 1.0
+        },
+        {
+          "word": "hotels.",
+          "startSec": 62.2,
+          "endSec": 62.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 63.58,
+      "end": 65.87,
+      "text": "It is in the center of the country.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 63.78,
+          "endSec": 63.94,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 63.94,
+          "endSec": 64.1,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 64.1,
+          "endSec": 64.34,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 64.34,
+          "endSec": 64.48,
+          "score": 1.0
+        },
+        {
+          "word": "center",
+          "startSec": 64.48,
+          "endSec": 64.9,
+          "score": 0.97
+        },
+        {
+          "word": "of",
+          "startSec": 64.9,
+          "endSec": 65.12,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 65.12,
+          "endSec": 65.26,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 65.26,
+          "endSec": 65.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 66.71,
+      "end": 68.74,
+      "text": "How many people live in Rwanda?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 66.91,
+          "endSec": 67.13,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 67.13,
+          "endSec": 67.33,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 67.33,
+          "endSec": 67.81,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 67.81,
+          "endSec": 68.13,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 68.13,
+          "endSec": 68.35,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 68.35,
+          "endSec": 68.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 69.69,
+      "end": 73.12,
+      "text": "About 13 million people live in Rwanda.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 69.89,
+          "endSec": 70.11,
+          "score": 0.99
+        },
+        {
+          "word": "13",
+          "startSec": 70.11,
+          "endSec": 70.97,
+          "score": 0.88
+        },
+        {
+          "word": "million",
+          "startSec": 70.97,
+          "endSec": 71.47,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 71.47,
+          "endSec": 72.15,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 72.15,
+          "endSec": 72.45,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 72.45,
+          "endSec": 72.67,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda.",
+          "startSec": 72.67,
+          "endSec": 72.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 73.99,
+      "end": 77.28,
+      "text": "It is a small country with a large population.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 74.19,
+          "endSec": 74.35,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 74.35,
+          "endSec": 74.51,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 74.51,
+          "endSec": 74.69,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 74.69,
+          "endSec": 74.99,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 74.99,
+          "endSec": 75.63,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 75.63,
+          "endSec": 75.99,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 75.99,
+          "endSec": 76.19,
+          "score": 1.0
+        },
+        {
+          "word": "large",
+          "startSec": 76.19,
+          "endSec": 76.51,
+          "score": 1.0
+        },
+        {
+          "word": "population.",
+          "startSec": 76.51,
+          "endSec": 77.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 78.77,
+      "end": 81.04,
+      "text": "Many people live in villages,",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 78.97,
+          "endSec": 79.21,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 79.21,
+          "endSec": 79.85,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 79.85,
+          "endSec": 80.17,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 80.17,
+          "endSec": 80.43,
+          "score": 1.0
+        },
+        {
+          "word": "villages,",
+          "startSec": 80.43,
+          "endSec": 80.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 80.93,
+      "end": 83.94,
+      "text": "but cities are growing, too.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 81.13,
+          "endSec": 81.93,
+          "score": 1.0
+        },
+        {
+          "word": "cities",
+          "startSec": 81.93,
+          "endSec": 82.33,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 82.33,
+          "endSec": 82.85,
+          "score": 1.0
+        },
+        {
+          "word": "growing,",
+          "startSec": 82.85,
+          "endSec": 83.29,
+          "score": 1.0
+        },
+        {
+          "word": "too.",
+          "startSec": 83.29,
+          "endSec": 83.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 84.65,
+      "end": 87.74,
+      "text": "What language do people speak in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 84.85,
+          "endSec": 85.33,
+          "score": 0.18
+        },
+        {
+          "word": "language",
+          "startSec": 85.33,
+          "endSec": 85.85,
+          "score": 0.99
+        },
+        {
+          "word": "do",
+          "startSec": 85.85,
+          "endSec": 86.19,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 86.19,
+          "endSec": 86.43,
+          "score": 0.98
+        },
+        {
+          "word": "speak",
+          "startSec": 86.43,
+          "endSec": 87.03,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 87.03,
+          "endSec": 87.31,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 87.31,
+          "endSec": 87.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 88.61,
+      "end": 91.26,
+      "text": "People speak Kenya-Wanda,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 88.81,
+          "endSec": 88.95,
+          "score": 0.46
+        },
+        {
+          "word": "speak",
+          "startSec": 88.95,
+          "endSec": 89.61,
+          "score": 0.99
+        },
+        {
+          "word": "Kenya",
+          "startSec": 89.61,
+          "endSec": 90.37,
+          "score": 0.56
+        },
+        {
+          "word": "-Wanda,",
+          "startSec": 90.37,
+          "endSec": 91.11,
+          "score": 0.69
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 91.53,
+      "end": 93.48,
+      "text": "the main national language.",
+      "words": [
+        {
+          "word": "the",
+          "startSec": 91.73,
+          "endSec": 91.85,
+          "score": 0.99
+        },
+        {
+          "word": "main",
+          "startSec": 91.85,
+          "endSec": 92.09,
+          "score": 0.99
+        },
+        {
+          "word": "national",
+          "startSec": 92.09,
+          "endSec": 92.65,
+          "score": 0.99
+        },
+        {
+          "word": "language.",
+          "startSec": 92.65,
+          "endSec": 93.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 94.01,
+      "end": 97.98,
+      "text": "English, used in schools and business.",
+      "words": [
+        {
+          "word": "English,",
+          "startSec": 94.21,
+          "endSec": 94.99,
+          "score": 0.99
+        },
+        {
+          "word": "used",
+          "startSec": 95.77,
+          "endSec": 96.25,
+          "score": 0.94
+        },
+        {
+          "word": "in",
+          "startSec": 96.25,
+          "endSec": 96.61,
+          "score": 1.0
+        },
+        {
+          "word": "schools",
+          "startSec": 96.61,
+          "endSec": 97.03,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 97.03,
+          "endSec": 97.41,
+          "score": 0.99
+        },
+        {
+          "word": "business.",
+          "startSec": 97.41,
+          "endSec": 97.83,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 98.67,
+      "end": 100.94,
+      "text": "French spoken by many adults.",
+      "words": [
+        {
+          "word": "French",
+          "startSec": 98.87,
+          "endSec": 98.95,
+          "score": 1.0
+        },
+        {
+          "word": "spoken",
+          "startSec": 98.95,
+          "endSec": 99.57,
+          "score": 0.93
+        },
+        {
+          "word": "by",
+          "startSec": 99.57,
+          "endSec": 100.01,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 100.01,
+          "endSec": 100.27,
+          "score": 1.0
+        },
+        {
+          "word": "adults.",
+          "startSec": 100.27,
+          "endSec": 100.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 101.79,
+      "end": 106.28,
+      "text": "Swahili, used in trade and East African regions.",
+      "words": [
+        {
+          "word": "Swahili,",
+          "startSec": 101.99,
+          "endSec": 102.39,
+          "score": 0.98
+        },
+        {
+          "word": "used",
+          "startSec": 103.11,
+          "endSec": 103.69,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 103.69,
+          "endSec": 103.99,
+          "score": 0.99
+        },
+        {
+          "word": "trade",
+          "startSec": 103.99,
+          "endSec": 104.33,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 104.33,
+          "endSec": 104.77,
+          "score": 0.78
+        },
+        {
+          "word": "East",
+          "startSec": 104.77,
+          "endSec": 105.09,
+          "score": 0.68
+        },
+        {
+          "word": "African",
+          "startSec": 105.09,
+          "endSec": 105.55,
+          "score": 0.98
+        },
+        {
+          "word": "regions.",
+          "startSec": 105.55,
+          "endSec": 106.13,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 107.93,
+      "end": 111.3,
+      "text": "Many Rwandans speak two or more languages.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 108.13,
+          "endSec": 108.13,
+          "score": 0.97
+        },
+        {
+          "word": "Rwandans",
+          "startSec": 108.13,
+          "endSec": 108.97,
+          "score": 0.91
+        },
+        {
+          "word": "speak",
+          "startSec": 108.97,
+          "endSec": 109.41,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 109.41,
+          "endSec": 109.85,
+          "score": 0.93
+        },
+        {
+          "word": "or",
+          "startSec": 109.85,
+          "endSec": 110.31,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 110.31,
+          "endSec": 110.55,
+          "score": 1.0
+        },
+        {
+          "word": "languages.",
+          "startSec": 110.55,
+          "endSec": 111.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 112.04,
+      "end": 114.41,
+      "text": "What is the weather like in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 112.24,
+          "endSec": 112.74,
+          "score": 0.15
+        },
+        {
+          "word": "is",
+          "startSec": 112.74,
+          "endSec": 112.92,
+          "score": 0.88
+        },
+        {
+          "word": "the",
+          "startSec": 112.92,
+          "endSec": 113.1,
+          "score": 0.98
+        },
+        {
+          "word": "weather",
+          "startSec": 113.1,
+          "endSec": 113.34,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 113.34,
+          "endSec": 113.78,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 113.78,
+          "endSec": 114.02,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 114.02,
+          "endSec": 114.26,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 115.44,
+      "end": 118.69,
+      "text": "Rwanda has a mild tropical climate.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 115.64,
+          "endSec": 116.0,
+          "score": 0.94
+        },
+        {
+          "word": "has",
+          "startSec": 116.0,
+          "endSec": 116.58,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 116.58,
+          "endSec": 116.82,
+          "score": 1.0
+        },
+        {
+          "word": "mild",
+          "startSec": 116.82,
+          "endSec": 117.3,
+          "score": 0.95
+        },
+        {
+          "word": "tropical",
+          "startSec": 117.3,
+          "endSec": 117.68,
+          "score": 0.96
+        },
+        {
+          "word": "climate.",
+          "startSec": 117.68,
+          "endSec": 118.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 119.24,
+      "end": 122.85,
+      "text": "It is warm during the day and cool at night.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 119.44,
+          "endSec": 119.64,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 119.64,
+          "endSec": 119.78,
+          "score": 0.99
+        },
+        {
+          "word": "warm",
+          "startSec": 119.78,
+          "endSec": 120.2,
+          "score": 0.99
+        },
+        {
+          "word": "during",
+          "startSec": 120.2,
+          "endSec": 120.58,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 120.58,
+          "endSec": 120.92,
+          "score": 1.0
+        },
+        {
+          "word": "day",
+          "startSec": 120.92,
+          "endSec": 121.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 121.24,
+          "endSec": 121.66,
+          "score": 0.95
+        },
+        {
+          "word": "cool",
+          "startSec": 121.66,
+          "endSec": 121.98,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 121.98,
+          "endSec": 122.32,
+          "score": 1.0
+        },
+        {
+          "word": "night.",
+          "startSec": 122.32,
+          "endSec": 122.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 123.28,
+      "end": 125.87,
+      "text": "It has two rainy seasons.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 123.48,
+          "endSec": 123.74,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 123.74,
+          "endSec": 124.02,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 124.02,
+          "endSec": 124.52,
+          "score": 0.95
+        },
+        {
+          "word": "rainy",
+          "startSec": 124.52,
+          "endSec": 124.92,
+          "score": 1.0
+        },
+        {
+          "word": "seasons.",
+          "startSec": 124.92,
+          "endSec": 125.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 126.46,
+      "end": 130.07,
+      "text": "February to May, September to November.",
+      "words": [
+        {
+          "word": "February",
+          "startSec": 126.66,
+          "endSec": 127.04,
+          "score": 0.95
+        },
+        {
+          "word": "to",
+          "startSec": 127.04,
+          "endSec": 127.42,
+          "score": 0.92
+        },
+        {
+          "word": "May,",
+          "startSec": 127.42,
+          "endSec": 127.68,
+          "score": 0.98
+        },
+        {
+          "word": "September",
+          "startSec": 128.22,
+          "endSec": 128.6,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 128.6,
+          "endSec": 129.5,
+          "score": 0.98
+        },
+        {
+          "word": "November.",
+          "startSec": 129.5,
+          "endSec": 129.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 130.78,
+      "end": 134.47,
+      "text": "There is no snow and it is green all year.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 130.98,
+          "endSec": 131.16,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 131.16,
+          "endSec": 131.38,
+          "score": 1.0
+        },
+        {
+          "word": "no",
+          "startSec": 131.38,
+          "endSec": 131.66,
+          "score": 1.0
+        },
+        {
+          "word": "snow",
+          "startSec": 131.66,
+          "endSec": 132.04,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 132.04,
+          "endSec": 132.78,
+          "score": 0.8
+        },
+        {
+          "word": "it",
+          "startSec": 132.78,
+          "endSec": 132.94,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 132.94,
+          "endSec": 133.16,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 133.16,
+          "endSec": 133.48,
+          "score": 1.0
+        },
+        {
+          "word": "all",
+          "startSec": 133.48,
+          "endSec": 133.88,
+          "score": 1.0
+        },
+        {
+          "word": "year.",
+          "startSec": 133.88,
+          "endSec": 134.32,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 135.35,
+      "end": 137.74,
+      "text": "The weather is good for farming.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 135.55,
+          "endSec": 135.77,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 135.77,
+          "endSec": 136.05,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 136.05,
+          "endSec": 136.43,
+          "score": 1.0
+        },
+        {
+          "word": "good",
+          "startSec": 136.43,
+          "endSec": 136.77,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 136.77,
+          "endSec": 137.05,
+          "score": 1.0
+        },
+        {
+          "word": "farming.",
+          "startSec": 137.05,
+          "endSec": 137.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 138.74,
+      "end": 140.89,
+      "text": "What does Rwanda look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 138.94,
+          "endSec": 139.16,
+          "score": 0.99
+        },
+        {
+          "word": "does",
+          "startSec": 139.16,
+          "endSec": 139.38,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda",
+          "startSec": 139.38,
+          "endSec": 139.62,
+          "score": 0.99
+        },
+        {
+          "word": "look",
+          "startSec": 139.62,
+          "endSec": 140.2,
+          "score": 1.0
+        },
+        {
+          "word": "like?",
+          "startSec": 140.2,
+          "endSec": 140.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 141.25,
+      "end": 144.83,
+      "text": "Rwanda has hills, valleys, and lakes.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 141.45,
+          "endSec": 141.9,
+          "score": 0.79
+        },
+        {
+          "word": "has",
+          "startSec": 141.9,
+          "endSec": 142.52,
+          "score": 0.97
+        },
+        {
+          "word": "hills,",
+          "startSec": 142.52,
+          "endSec": 143.16,
+          "score": 0.91
+        },
+        {
+          "word": "valleys,",
+          "startSec": 143.16,
+          "endSec": 143.9,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 143.9,
+          "endSec": 144.38,
+          "score": 0.98
+        },
+        {
+          "word": "lakes.",
+          "startSec": 144.38,
+          "endSec": 144.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 145.76,
+      "end": 147.63,
+      "text": "Volcanoes in the north.",
+      "words": [
+        {
+          "word": "Volcanoes",
+          "startSec": 145.96,
+          "endSec": 146.78,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 146.78,
+          "endSec": 147.0,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 147.0,
+          "endSec": 147.12,
+          "score": 1.0
+        },
+        {
+          "word": "north.",
+          "startSec": 147.12,
+          "endSec": 147.48,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 148.58,
+      "end": 150.75,
+      "text": "Rainforests in national parks.",
+      "words": [
+        {
+          "word": "Rainforests",
+          "startSec": 148.78,
+          "endSec": 149.52,
+          "score": 0.91
+        },
+        {
+          "word": "in",
+          "startSec": 149.52,
+          "endSec": 149.66,
+          "score": 0.5
+        },
+        {
+          "word": "national",
+          "startSec": 149.66,
+          "endSec": 149.9,
+          "score": 0.81
+        },
+        {
+          "word": "parks.",
+          "startSec": 149.9,
+          "endSec": 150.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 151.48,
+      "end": 155.27,
+      "text": "Farms, tea plantations, and banana trees.",
+      "words": [
+        {
+          "word": "Farms,",
+          "startSec": 151.68,
+          "endSec": 151.98,
+          "score": 0.92
+        },
+        {
+          "word": "tea",
+          "startSec": 152.54,
+          "endSec": 152.64,
+          "score": 0.93
+        },
+        {
+          "word": "plantations,",
+          "startSec": 152.64,
+          "endSec": 153.06,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 154.1,
+          "endSec": 154.22,
+          "score": 1.0
+        },
+        {
+          "word": "banana",
+          "startSec": 154.22,
+          "endSec": 154.54,
+          "score": 0.99
+        },
+        {
+          "word": "trees.",
+          "startSec": 154.54,
+          "endSec": 155.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 156.17,
+      "end": 158.9,
+      "text": "It is one of the cleanest countries in Africa.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 156.37,
+          "endSec": 156.43,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 156.43,
+          "endSec": 156.57,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 156.57,
+          "endSec": 156.81,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 156.81,
+          "endSec": 156.95,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 156.95,
+          "endSec": 157.09,
+          "score": 1.0
+        },
+        {
+          "word": "cleanest",
+          "startSec": 157.09,
+          "endSec": 157.59,
+          "score": 0.99
+        },
+        {
+          "word": "countries",
+          "startSec": 157.59,
+          "endSec": 158.05,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 158.05,
+          "endSec": 158.35,
+          "score": 1.0
+        },
+        {
+          "word": "Africa.",
+          "startSec": 158.35,
+          "endSec": 158.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 159.76,
+      "end": 162.27,
+      "text": "What animals live in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 159.96,
+          "endSec": 160.44,
+          "score": 0.99
+        },
+        {
+          "word": "animals",
+          "startSec": 160.44,
+          "endSec": 161.02,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 161.02,
+          "endSec": 161.54,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 161.54,
+          "endSec": 161.78,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 161.78,
+          "endSec": 162.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 162.9,
+      "end": 165.97,
+      "text": "Rwanda is famous for its mountain gorillas.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 163.1,
+          "endSec": 163.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 163.32,
+          "endSec": 163.86,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 163.86,
+          "endSec": 164.3,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 164.3,
+          "endSec": 164.72,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 164.72,
+          "endSec": 164.9,
+          "score": 0.99
+        },
+        {
+          "word": "mountain",
+          "startSec": 164.9,
+          "endSec": 165.16,
+          "score": 0.99
+        },
+        {
+          "word": "gorillas.",
+          "startSec": 165.16,
+          "endSec": 165.82,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 166.52,
+      "end": 170.99,
+      "text": "Other animals include elephants, lions, and buffalo.",
+      "words": [
+        {
+          "word": "Other",
+          "startSec": 166.72,
+          "endSec": 167.12,
+          "score": 0.18
+        },
+        {
+          "word": "animals",
+          "startSec": 167.12,
+          "endSec": 167.82,
+          "score": 0.99
+        },
+        {
+          "word": "include",
+          "startSec": 167.82,
+          "endSec": 168.46,
+          "score": 0.99
+        },
+        {
+          "word": "elephants,",
+          "startSec": 168.46,
+          "endSec": 169.08,
+          "score": 0.91
+        },
+        {
+          "word": "lions,",
+          "startSec": 169.64,
+          "endSec": 169.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 170.54,
+          "endSec": 170.56,
+          "score": 0.99
+        },
+        {
+          "word": "buffalo.",
+          "startSec": 170.56,
+          "endSec": 170.84,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 171.6,
+      "end": 175.29,
+      "text": "Monkeys, antelopes, and zebras.",
+      "words": [
+        {
+          "word": "Monkeys,",
+          "startSec": 171.8,
+          "endSec": 172.6,
+          "score": 0.87
+        },
+        {
+          "word": "antelopes,",
+          "startSec": 173.14,
+          "endSec": 173.7,
+          "score": 0.9
+        },
+        {
+          "word": "and",
+          "startSec": 174.14,
+          "endSec": 174.24,
+          "score": 0.99
+        },
+        {
+          "word": "zebras.",
+          "startSec": 174.24,
+          "endSec": 175.14,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 175.26,
+      "end": 177.85,
+      "text": "Hippos, crocodiles, and birds.",
+      "words": [
+        {
+          "word": "Hippos,",
+          "startSec": 175.46,
+          "endSec": 176.02,
+          "score": 0.94
+        },
+        {
+          "word": "crocodiles,",
+          "startSec": 176.3,
+          "endSec": 177.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 177.14,
+          "endSec": 177.46,
+          "score": 1.0
+        },
+        {
+          "word": "birds.",
+          "startSec": 177.46,
+          "endSec": 177.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 178.86,
+      "end": 180.53,
+      "text": "Golden monkeys in the forest.",
+      "words": [
+        {
+          "word": "Golden",
+          "startSec": 179.06,
+          "endSec": 179.06,
+          "score": 0.91
+        },
+        {
+          "word": "monkeys",
+          "startSec": 179.06,
+          "endSec": 179.46,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 179.46,
+          "endSec": 179.86,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 179.86,
+          "endSec": 180.02,
+          "score": 1.0
+        },
+        {
+          "word": "forest.",
+          "startSec": 180.02,
+          "endSec": 180.38,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 181.16,
+      "end": 185.07,
+      "text": "People visit volcanoes national park to see the gorillas.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 181.36,
+          "endSec": 181.56,
+          "score": 0.98
+        },
+        {
+          "word": "visit",
+          "startSec": 181.56,
+          "endSec": 182.12,
+          "score": 1.0
+        },
+        {
+          "word": "volcanoes",
+          "startSec": 182.12,
+          "endSec": 182.9,
+          "score": 0.58
+        },
+        {
+          "word": "national",
+          "startSec": 182.9,
+          "endSec": 183.4,
+          "score": 0.35
+        },
+        {
+          "word": "park",
+          "startSec": 183.4,
+          "endSec": 183.76,
+          "score": 0.95
+        },
+        {
+          "word": "to",
+          "startSec": 183.76,
+          "endSec": 184.12,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 184.12,
+          "endSec": 184.34,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 184.34,
+          "endSec": 184.54,
+          "score": 0.95
+        },
+        {
+          "word": "gorillas.",
+          "startSec": 184.54,
+          "endSec": 184.92,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 185.66,
+      "end": 187.51,
+      "text": "What do people eat in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 185.86,
+          "endSec": 186.14,
+          "score": 0.94
+        },
+        {
+          "word": "do",
+          "startSec": 186.14,
+          "endSec": 186.34,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 186.34,
+          "endSec": 186.58,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 186.58,
+          "endSec": 186.94,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 186.94,
+          "endSec": 187.16,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 187.16,
+          "endSec": 187.36,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 188.78,
+      "end": 192.27,
+      "text": "Rwandan food is simple, natural, and healthy.",
+      "words": [
+        {
+          "word": "Rwandan",
+          "startSec": 188.98,
+          "endSec": 189.52,
+          "score": 0.86
+        },
+        {
+          "word": "food",
+          "startSec": 189.52,
+          "endSec": 189.94,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 189.94,
+          "endSec": 190.22,
+          "score": 1.0
+        },
+        {
+          "word": "simple,",
+          "startSec": 190.22,
+          "endSec": 190.62,
+          "score": 1.0
+        },
+        {
+          "word": "natural,",
+          "startSec": 191.16,
+          "endSec": 191.26,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 191.8,
+          "endSec": 191.84,
+          "score": 1.0
+        },
+        {
+          "word": "healthy.",
+          "startSec": 191.84,
+          "endSec": 192.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 192.82,
+      "end": 197.45,
+      "text": "People eat bananas, sweet potatoes, and cassava.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 193.02,
+          "endSec": 193.52,
+          "score": 0.1
+        },
+        {
+          "word": "eat",
+          "startSec": 193.52,
+          "endSec": 194.06,
+          "score": 1.0
+        },
+        {
+          "word": "bananas,",
+          "startSec": 194.06,
+          "endSec": 194.7,
+          "score": 0.95
+        },
+        {
+          "word": "sweet",
+          "startSec": 195.42,
+          "endSec": 195.5,
+          "score": 0.99
+        },
+        {
+          "word": "potatoes,",
+          "startSec": 195.5,
+          "endSec": 195.92,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 196.56,
+          "endSec": 196.62,
+          "score": 0.98
+        },
+        {
+          "word": "cassava.",
+          "startSec": 196.62,
+          "endSec": 197.3,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 197.78,
+      "end": 200.11,
+      "text": "Beans, corn, and vegetables.",
+      "words": [
+        {
+          "word": "Beans,",
+          "startSec": 197.98,
+          "endSec": 198.4,
+          "score": 0.93
+        },
+        {
+          "word": "corn,",
+          "startSec": 198.84,
+          "endSec": 199.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 199.5,
+          "endSec": 199.56,
+          "score": 0.99
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 199.56,
+          "endSec": 199.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 200.84,
+      "end": 206.13,
+      "text": "Rice, yugali, amaze porridge, and plantains.",
+      "words": [
+        {
+          "word": "Rice,",
+          "startSec": 201.04,
+          "endSec": 201.42,
+          "score": 0.97
+        },
+        {
+          "word": "yugali,",
+          "startSec": 202.16,
+          "endSec": 202.62,
+          "score": 0.6
+        },
+        {
+          "word": "amaze",
+          "startSec": 203.3,
+          "endSec": 203.6,
+          "score": 0.62
+        },
+        {
+          "word": "porridge,",
+          "startSec": 203.6,
+          "endSec": 204.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 204.98,
+          "endSec": 205.26,
+          "score": 1.0
+        },
+        {
+          "word": "plantains.",
+          "startSec": 205.26,
+          "endSec": 205.98,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 207.28,
+      "end": 210.19,
+      "text": "Sometimes meat, chicken, or fish.",
+      "words": [
+        {
+          "word": "Sometimes",
+          "startSec": 207.48,
+          "endSec": 207.98,
+          "score": 0.96
+        },
+        {
+          "word": "meat,",
+          "startSec": 207.98,
+          "endSec": 208.6,
+          "score": 0.89
+        },
+        {
+          "word": "chicken,",
+          "startSec": 208.82,
+          "endSec": 209.28,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 209.6,
+          "endSec": 209.74,
+          "score": 0.99
+        },
+        {
+          "word": "fish.",
+          "startSec": 209.74,
+          "endSec": 210.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 211.24,
+      "end": 212.09,
+      "text": "Popular dishes.",
+      "words": [
+        {
+          "word": "Popular",
+          "startSec": 211.44,
+          "endSec": 211.44,
+          "score": 0.96
+        },
+        {
+          "word": "dishes.",
+          "startSec": 211.44,
+          "endSec": 211.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 212.5,
+      "end": 215.89,
+      "text": "Isambe cassava leaves with peanut sauce.",
+      "words": [
+        {
+          "word": "Isambe",
+          "startSec": 212.7,
+          "endSec": 213.3,
+          "score": 0.56
+        },
+        {
+          "word": "cassava",
+          "startSec": 213.3,
+          "endSec": 214.04,
+          "score": 0.97
+        },
+        {
+          "word": "leaves",
+          "startSec": 214.04,
+          "endSec": 214.44,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 214.44,
+          "endSec": 214.86,
+          "score": 0.99
+        },
+        {
+          "word": "peanut",
+          "startSec": 214.86,
+          "endSec": 215.18,
+          "score": 0.98
+        },
+        {
+          "word": "sauce.",
+          "startSec": 215.18,
+          "endSec": 215.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 216.54,
+      "end": 218.83,
+      "text": "Ibihaza pumpkin with beans.",
+      "words": [
+        {
+          "word": "Ibihaza",
+          "startSec": 216.74,
+          "endSec": 217.22,
+          "score": 0.72
+        },
+        {
+          "word": "pumpkin",
+          "startSec": 217.22,
+          "endSec": 217.8,
+          "score": 0.84
+        },
+        {
+          "word": "with",
+          "startSec": 217.8,
+          "endSec": 218.38,
+          "score": 0.98
+        },
+        {
+          "word": "beans.",
+          "startSec": 218.38,
+          "endSec": 218.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 219.42,
+      "end": 223.03,
+      "text": "Brochettes meet on sticks like kebabs.",
+      "words": [
+        {
+          "word": "Brochettes",
+          "startSec": 219.62,
+          "endSec": 220.54,
+          "score": 0.41
+        },
+        {
+          "word": "meet",
+          "startSec": 220.54,
+          "endSec": 220.96,
+          "score": 0.67
+        },
+        {
+          "word": "on",
+          "startSec": 220.96,
+          "endSec": 221.28,
+          "score": 0.99
+        },
+        {
+          "word": "sticks",
+          "startSec": 221.28,
+          "endSec": 221.66,
+          "score": 0.96
+        },
+        {
+          "word": "like",
+          "startSec": 221.66,
+          "endSec": 222.24,
+          "score": 0.97
+        },
+        {
+          "word": "kebabs.",
+          "startSec": 222.24,
+          "endSec": 222.88,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 224.19,
+      "end": 226.4,
+      "text": "What do people drink in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 224.39,
+          "endSec": 224.73,
+          "score": 0.84
+        },
+        {
+          "word": "do",
+          "startSec": 224.73,
+          "endSec": 224.95,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 224.95,
+          "endSec": 225.17,
+          "score": 0.97
+        },
+        {
+          "word": "drink",
+          "startSec": 225.17,
+          "endSec": 225.71,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 225.71,
+          "endSec": 225.95,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 225.95,
+          "endSec": 226.25,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 227.11,
+      "end": 228.9,
+      "text": "People drink water.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 227.31,
+          "endSec": 227.53,
+          "score": 0.94
+        },
+        {
+          "word": "drink",
+          "startSec": 227.53,
+          "endSec": 228.07,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 228.07,
+          "endSec": 228.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 229.43,
+      "end": 232.22,
+      "text": "Milk, fresh or fermented.",
+      "words": [
+        {
+          "word": "Milk,",
+          "startSec": 229.63,
+          "endSec": 229.99,
+          "score": 0.98
+        },
+        {
+          "word": "fresh",
+          "startSec": 230.53,
+          "endSec": 231.11,
+          "score": 0.83
+        },
+        {
+          "word": "or",
+          "startSec": 231.11,
+          "endSec": 231.59,
+          "score": 0.88
+        },
+        {
+          "word": "fermented.",
+          "startSec": 231.59,
+          "endSec": 232.07,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 233.23,
+      "end": 234.18,
+      "text": "Tea and coffee.",
+      "words": [
+        {
+          "word": "Tea",
+          "startSec": 233.43,
+          "endSec": 233.53,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 233.53,
+          "endSec": 233.73,
+          "score": 0.95
+        },
+        {
+          "word": "coffee.",
+          "startSec": 233.73,
+          "endSec": 234.03,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 236.11,
+      "end": 239.78,
+      "text": "Fruit juice from passion fruit, mango, or pineapple.",
+      "words": [
+        {
+          "word": "Fruit",
+          "startSec": 236.31,
+          "endSec": 236.31,
+          "score": 0.97
+        },
+        {
+          "word": "juice",
+          "startSec": 236.31,
+          "endSec": 236.63,
+          "score": 0.97
+        },
+        {
+          "word": "from",
+          "startSec": 236.63,
+          "endSec": 237.27,
+          "score": 0.89
+        },
+        {
+          "word": "passion",
+          "startSec": 237.27,
+          "endSec": 237.69,
+          "score": 0.97
+        },
+        {
+          "word": "fruit,",
+          "startSec": 237.69,
+          "endSec": 238.21,
+          "score": 0.9
+        },
+        {
+          "word": "mango,",
+          "startSec": 238.61,
+          "endSec": 238.73,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 239.29,
+          "endSec": 239.35,
+          "score": 0.99
+        },
+        {
+          "word": "pineapple.",
+          "startSec": 239.35,
+          "endSec": 239.63,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 241.42,
+      "end": 245.17,
+      "text": "Adults may drink banana beer or sorghum beer.",
+      "words": [
+        {
+          "word": "Adults",
+          "startSec": 241.62,
+          "endSec": 242.08,
+          "score": 0.99
+        },
+        {
+          "word": "may",
+          "startSec": 242.08,
+          "endSec": 242.54,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 242.54,
+          "endSec": 242.9,
+          "score": 1.0
+        },
+        {
+          "word": "banana",
+          "startSec": 242.9,
+          "endSec": 243.36,
+          "score": 0.96
+        },
+        {
+          "word": "beer",
+          "startSec": 243.36,
+          "endSec": 243.84,
+          "score": 0.96
+        },
+        {
+          "word": "or",
+          "startSec": 243.84,
+          "endSec": 244.16,
+          "score": 0.98
+        },
+        {
+          "word": "sorghum",
+          "startSec": 244.16,
+          "endSec": 244.76,
+          "score": 0.98
+        },
+        {
+          "word": "beer.",
+          "startSec": 244.76,
+          "endSec": 245.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 245.76,
+      "end": 249.11,
+      "text": "Rwanda grows high-quality coffee and tea.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 245.96,
+          "endSec": 246.34,
+          "score": 0.98
+        },
+        {
+          "word": "grows",
+          "startSec": 246.34,
+          "endSec": 246.86,
+          "score": 0.96
+        },
+        {
+          "word": "high",
+          "startSec": 246.86,
+          "endSec": 247.44,
+          "score": 0.99
+        },
+        {
+          "word": "-quality",
+          "startSec": 247.44,
+          "endSec": 247.94,
+          "score": 0.68
+        },
+        {
+          "word": "coffee",
+          "startSec": 247.94,
+          "endSec": 248.52,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 248.52,
+          "endSec": 248.72,
+          "score": 0.91
+        },
+        {
+          "word": "tea.",
+          "startSec": 248.72,
+          "endSec": 248.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 248.76,
+      "end": 251.29,
+      "text": "What is life like in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 248.96,
+          "endSec": 249.84,
+          "score": 0.65
+        },
+        {
+          "word": "is",
+          "startSec": 249.84,
+          "endSec": 250.04,
+          "score": 0.97
+        },
+        {
+          "word": "life",
+          "startSec": 250.04,
+          "endSec": 250.34,
+          "score": 0.79
+        },
+        {
+          "word": "like",
+          "startSec": 250.34,
+          "endSec": 250.62,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 250.62,
+          "endSec": 250.88,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 250.88,
+          "endSec": 251.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 252.06,
+      "end": 256.19,
+      "text": "Life in Rwanda is peaceful, busy, and community-based.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 252.26,
+          "endSec": 252.66,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 252.66,
+          "endSec": 252.84,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda",
+          "startSec": 252.84,
+          "endSec": 253.24,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 253.24,
+          "endSec": 253.54,
+          "score": 0.99
+        },
+        {
+          "word": "peaceful,",
+          "startSec": 253.54,
+          "endSec": 254.04,
+          "score": 0.99
+        },
+        {
+          "word": "busy,",
+          "startSec": 254.22,
+          "endSec": 254.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 255.0,
+          "endSec": 255.06,
+          "score": 1.0
+        },
+        {
+          "word": "community",
+          "startSec": 255.06,
+          "endSec": 255.4,
+          "score": 1.0
+        },
+        {
+          "word": "-based.",
+          "startSec": 255.4,
+          "endSec": 256.04,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 256.99,
+      "end": 262.24,
+      "text": "People enjoy working on farms or in small businesses,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 257.19,
+          "endSec": 257.53,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 257.53,
+          "endSec": 258.13,
+          "score": 1.0
+        },
+        {
+          "word": "working",
+          "startSec": 258.13,
+          "endSec": 259.21,
+          "score": 0.95
+        },
+        {
+          "word": "on",
+          "startSec": 259.21,
+          "endSec": 259.65,
+          "score": 1.0
+        },
+        {
+          "word": "farms",
+          "startSec": 259.65,
+          "endSec": 260.09,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 260.09,
+          "endSec": 260.65,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 260.65,
+          "endSec": 260.81,
+          "score": 0.98
+        },
+        {
+          "word": "small",
+          "startSec": 260.81,
+          "endSec": 261.17,
+          "score": 1.0
+        },
+        {
+          "word": "businesses,",
+          "startSec": 261.17,
+          "endSec": 262.09,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 262.57,
+      "end": 267.1,
+      "text": "going to church or mosque, visiting family and neighbors,",
+      "words": [
+        {
+          "word": "going",
+          "startSec": 262.77,
+          "endSec": 263.07,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 263.07,
+          "endSec": 263.29,
+          "score": 1.0
+        },
+        {
+          "word": "church",
+          "startSec": 263.29,
+          "endSec": 263.55,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 263.55,
+          "endSec": 263.91,
+          "score": 0.98
+        },
+        {
+          "word": "mosque,",
+          "startSec": 263.91,
+          "endSec": 264.23,
+          "score": 0.95
+        },
+        {
+          "word": "visiting",
+          "startSec": 265.17,
+          "endSec": 265.65,
+          "score": 1.0
+        },
+        {
+          "word": "family",
+          "startSec": 265.65,
+          "endSec": 266.29,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 266.29,
+          "endSec": 266.57,
+          "score": 0.99
+        },
+        {
+          "word": "neighbors,",
+          "startSec": 266.57,
+          "endSec": 266.95,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 267.57,
+      "end": 270.8,
+      "text": "dancing, drumming, and playing football.",
+      "words": [
+        {
+          "word": "dancing,",
+          "startSec": 267.77,
+          "endSec": 268.57,
+          "score": 1.0
+        },
+        {
+          "word": "drumming,",
+          "startSec": 269.05,
+          "endSec": 269.55,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 269.55,
+          "endSec": 269.89,
+          "score": 1.0
+        },
+        {
+          "word": "playing",
+          "startSec": 269.89,
+          "endSec": 270.23,
+          "score": 1.0
+        },
+        {
+          "word": "football.",
+          "startSec": 270.23,
+          "endSec": 270.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 272.35,
+      "end": 273.94,
+      "text": "Keeping the country clean.",
+      "words": [
+        {
+          "word": "Keeping",
+          "startSec": 272.55,
+          "endSec": 272.55,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 272.55,
+          "endSec": 272.91,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 272.91,
+          "endSec": 273.19,
+          "score": 1.0
+        },
+        {
+          "word": "clean.",
+          "startSec": 273.19,
+          "endSec": 273.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 274.36,
+      "end": 278.91,
+      "text": "People clean together on Umuganda Day.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 274.56,
+          "endSec": 275.14,
+          "score": 0.05
+        },
+        {
+          "word": "clean",
+          "startSec": 275.14,
+          "endSec": 275.7,
+          "score": 0.28
+        },
+        {
+          "word": "together",
+          "startSec": 275.7,
+          "endSec": 276.54,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 276.54,
+          "endSec": 277.36,
+          "score": 0.95
+        },
+        {
+          "word": "Umuganda",
+          "startSec": 277.36,
+          "endSec": 278.14,
+          "score": 0.38
+        },
+        {
+          "word": "Day.",
+          "startSec": 278.14,
+          "endSec": 278.76,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 279.64,
+      "end": 282.77,
+      "text": "What are some holidays and traditions in Rwanda?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 279.84,
+          "endSec": 280.04,
+          "score": 0.9
+        },
+        {
+          "word": "are",
+          "startSec": 280.04,
+          "endSec": 280.2,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 280.2,
+          "endSec": 280.44,
+          "score": 0.98
+        },
+        {
+          "word": "holidays",
+          "startSec": 280.44,
+          "endSec": 280.98,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 280.98,
+          "endSec": 281.44,
+          "score": 0.96
+        },
+        {
+          "word": "traditions",
+          "startSec": 281.44,
+          "endSec": 281.88,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 281.88,
+          "endSec": 282.34,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda?",
+          "startSec": 282.34,
+          "endSec": 282.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 283.58,
+      "end": 286.91,
+      "text": "Independence Day, July 1st.",
+      "words": [
+        {
+          "word": "Independence",
+          "startSec": 283.78,
+          "endSec": 284.06,
+          "score": 0.99
+        },
+        {
+          "word": "Day,",
+          "startSec": 284.06,
+          "endSec": 285.0,
+          "score": 0.97
+        },
+        {
+          "word": "July",
+          "startSec": 285.52,
+          "endSec": 285.68,
+          "score": 1.0
+        },
+        {
+          "word": "1st.",
+          "startSec": 285.68,
+          "endSec": 286.76,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 287.26,
+      "end": 293.23,
+      "text": "Liberation Day, July 4, Umuganura Harvest Festival,",
+      "words": [
+        {
+          "word": "Liberation",
+          "startSec": 287.46,
+          "endSec": 288.0,
+          "score": 0.98
+        },
+        {
+          "word": "Day,",
+          "startSec": 288.0,
+          "endSec": 288.62,
+          "score": 0.96
+        },
+        {
+          "word": "July",
+          "startSec": 289.48,
+          "endSec": 289.48,
+          "score": 1.0
+        },
+        {
+          "word": "4,",
+          "startSec": 289.48,
+          "endSec": 290.22,
+          "score": 1.0
+        },
+        {
+          "word": "Umuganura",
+          "startSec": 290.7,
+          "endSec": 291.58,
+          "score": 0.8
+        },
+        {
+          "word": "Harvest",
+          "startSec": 291.58,
+          "endSec": 292.14,
+          "score": 0.96
+        },
+        {
+          "word": "Festival,",
+          "startSec": 292.14,
+          "endSec": 293.08,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 293.5,
+      "end": 295.15,
+      "text": "Christmas and Easter.",
+      "words": [
+        {
+          "word": "Christmas",
+          "startSec": 293.7,
+          "endSec": 294.18,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 294.18,
+          "endSec": 294.62,
+          "score": 0.87
+        },
+        {
+          "word": "Easter.",
+          "startSec": 294.62,
+          "endSec": 295.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 295.64,
+      "end": 299.25,
+      "text": "Cuizina, baby gorilla naming ceremony.",
+      "words": [
+        {
+          "word": "Cuizina,",
+          "startSec": 295.84,
+          "endSec": 296.62,
+          "score": 0.72
+        },
+        {
+          "word": "baby",
+          "startSec": 297.0,
+          "endSec": 297.28,
+          "score": 0.4
+        },
+        {
+          "word": "gorilla",
+          "startSec": 297.28,
+          "endSec": 297.82,
+          "score": 0.69
+        },
+        {
+          "word": "naming",
+          "startSec": 297.82,
+          "endSec": 298.5,
+          "score": 0.99
+        },
+        {
+          "word": "ceremony.",
+          "startSec": 298.5,
+          "endSec": 299.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 300.38,
+      "end": 303.25,
+      "text": "Rwandans wear colorful clothes,",
+      "words": [
+        {
+          "word": "Rwandans",
+          "startSec": 300.58,
+          "endSec": 301.62,
+          "score": 0.51
+        },
+        {
+          "word": "wear",
+          "startSec": 301.62,
+          "endSec": 301.86,
+          "score": 0.98
+        },
+        {
+          "word": "colorful",
+          "startSec": 301.86,
+          "endSec": 302.3,
+          "score": 0.97
+        },
+        {
+          "word": "clothes,",
+          "startSec": 302.3,
+          "endSec": 303.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 303.6,
+      "end": 308.27,
+      "text": "and traditions are passed down by storytelling and music.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 303.8,
+          "endSec": 303.86,
+          "score": 0.96
+        },
+        {
+          "word": "traditions",
+          "startSec": 303.86,
+          "endSec": 304.26,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 304.26,
+          "endSec": 304.9,
+          "score": 1.0
+        },
+        {
+          "word": "passed",
+          "startSec": 304.9,
+          "endSec": 305.18,
+          "score": 0.99
+        },
+        {
+          "word": "down",
+          "startSec": 305.18,
+          "endSec": 305.86,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 305.86,
+          "endSec": 306.24,
+          "score": 0.99
+        },
+        {
+          "word": "storytelling",
+          "startSec": 306.24,
+          "endSec": 306.9,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 306.9,
+          "endSec": 307.66,
+          "score": 0.98
+        },
+        {
+          "word": "music.",
+          "startSec": 307.66,
+          "endSec": 308.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 308.92,
+      "end": 311.93,
+      "text": "Some fun facts about Rwanda.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 309.12,
+          "endSec": 309.26,
+          "score": 0.92
+        },
+        {
+          "word": "fun",
+          "startSec": 309.26,
+          "endSec": 309.82,
+          "score": 0.98
+        },
+        {
+          "word": "facts",
+          "startSec": 309.82,
+          "endSec": 310.34,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 310.34,
+          "endSec": 311.18,
+          "score": 0.99
+        },
+        {
+          "word": "Rwanda.",
+          "startSec": 311.18,
+          "endSec": 311.78,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 313.02,
+      "end": 317.67,
+      "text": "Rwanda banned plastic bags in 2008.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 313.22,
+          "endSec": 313.84,
+          "score": 0.98
+        },
+        {
+          "word": "banned",
+          "startSec": 313.84,
+          "endSec": 314.44,
+          "score": 0.99
+        },
+        {
+          "word": "plastic",
+          "startSec": 314.44,
+          "endSec": 315.22,
+          "score": 1.0
+        },
+        {
+          "word": "bags",
+          "startSec": 315.22,
+          "endSec": 315.74,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 315.74,
+          "endSec": 316.28,
+          "score": 1.0
+        },
+        {
+          "word": "2008.",
+          "startSec": 316.28,
+          "endSec": 317.52,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 318.41,
+      "end": 322.04,
+      "text": "Women have many leadership roles in the country.",
+      "words": [
+        {
+          "word": "Women",
+          "startSec": 318.61,
+          "endSec": 319.11,
+          "score": 0.99
+        },
+        {
+          "word": "have",
+          "startSec": 319.11,
+          "endSec": 319.53,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 319.53,
+          "endSec": 319.91,
+          "score": 1.0
+        },
+        {
+          "word": "leadership",
+          "startSec": 319.91,
+          "endSec": 320.51,
+          "score": 1.0
+        },
+        {
+          "word": "roles",
+          "startSec": 320.51,
+          "endSec": 320.99,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 320.99,
+          "endSec": 321.31,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 321.31,
+          "endSec": 321.43,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 321.43,
+          "endSec": 321.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 322.65,
+      "end": 325.9,
+      "text": "It is one of the safest countries in Africa.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 322.85,
+          "endSec": 323.09,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 323.09,
+          "endSec": 323.25,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 323.25,
+          "endSec": 323.47,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 323.47,
+          "endSec": 323.65,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 323.65,
+          "endSec": 323.81,
+          "score": 1.0
+        },
+        {
+          "word": "safest",
+          "startSec": 323.81,
+          "endSec": 324.25,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 324.25,
+          "endSec": 324.73,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 324.73,
+          "endSec": 325.35,
+          "score": 1.0
+        },
+        {
+          "word": "Africa.",
+          "startSec": 325.35,
+          "endSec": 325.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 326.37,
+      "end": 330.36,
+      "text": "Rwanda has a National Cleaning Day every month.",
+      "words": [
+        {
+          "word": "Rwanda",
+          "startSec": 326.57,
+          "endSec": 327.29,
+          "score": 0.23
+        },
+        {
+          "word": "has",
+          "startSec": 327.29,
+          "endSec": 327.81,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 327.81,
+          "endSec": 328.01,
+          "score": 0.97
+        },
+        {
+          "word": "National",
+          "startSec": 328.01,
+          "endSec": 328.53,
+          "score": 0.39
+        },
+        {
+          "word": "Cleaning",
+          "startSec": 328.53,
+          "endSec": 329.17,
+          "score": 0.98
+        },
+        {
+          "word": "Day",
+          "startSec": 329.17,
+          "endSec": 329.43,
+          "score": 0.97
+        },
+        {
+          "word": "every",
+          "startSec": 329.43,
+          "endSec": 329.87,
+          "score": 0.95
+        },
+        {
+          "word": "month.",
+          "startSec": 329.87,
+          "endSec": 330.21,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 330.87,
+      "end": 334.74,
+      "text": "The flag is blue, yellow, and green with a sun.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 331.07,
+          "endSec": 331.23,
+          "score": 0.98
+        },
+        {
+          "word": "flag",
+          "startSec": 331.23,
+          "endSec": 331.51,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 331.51,
+          "endSec": 331.87,
+          "score": 1.0
+        },
+        {
+          "word": "blue,",
+          "startSec": 331.87,
+          "endSec": 332.21,
+          "score": 0.98
+        },
+        {
+          "word": "yellow,",
+          "startSec": 332.61,
+          "endSec": 332.87,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 333.41,
+          "endSec": 333.45,
+          "score": 1.0
+        },
+        {
+          "word": "green",
+          "startSec": 333.45,
+          "endSec": 333.73,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 333.73,
+          "endSec": 334.15,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 334.15,
+          "endSec": 334.31,
+          "score": 0.79
+        },
+        {
+          "word": "sun.",
+          "startSec": 334.31,
+          "endSec": 334.59,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 335.68,
+      "end": 338.67,
+      "text": "Now you know many things about Rwanda.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 335.88,
+          "endSec": 336.42,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 336.42,
+          "endSec": 336.7,
+          "score": 0.93
+        },
+        {
+          "word": "know",
+          "startSec": 336.7,
+          "endSec": 336.92,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 336.92,
+          "endSec": 337.2,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 337.2,
+          "endSec": 337.88,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 337.88,
+          "endSec": 338.2,
+          "score": 1.0
+        },
+        {
+          "word": "Rwanda.",
+          "startSec": 338.2,
+          "endSec": 338.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 339.5,
+      "end": 344.21,
+      "text": "You know where it is, what people eat, and how they live.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 339.7,
+          "endSec": 340.1,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 340.1,
+          "endSec": 340.34,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 340.34,
+          "endSec": 340.7,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 340.7,
+          "endSec": 340.9,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 340.9,
+          "endSec": 341.38,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 341.62,
+          "endSec": 341.92,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 341.92,
+          "endSec": 342.34,
+          "score": 1.0
+        },
+        {
+          "word": "eat,",
+          "startSec": 342.34,
+          "endSec": 342.72,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 343.12,
+          "endSec": 343.22,
+          "score": 1.0
+        },
+        {
+          "word": "how",
+          "startSec": 343.22,
+          "endSec": 343.48,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 343.48,
+          "endSec": 343.7,
+          "score": 1.0
+        },
+        {
+          "word": "live.",
+          "startSec": 343.7,
+          "endSec": 344.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 344.88,
+      "end": 349.77,
+      "text": "You learned about the hills, the animals, and the traditions.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 345.08,
+          "endSec": 345.38,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 345.38,
+          "endSec": 345.62,
+          "score": 0.95
+        },
+        {
+          "word": "about",
+          "startSec": 345.62,
+          "endSec": 346.06,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 346.06,
+          "endSec": 346.3,
+          "score": 0.99
+        },
+        {
+          "word": "hills,",
+          "startSec": 346.3,
+          "endSec": 346.72,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 347.46,
+          "endSec": 347.54,
+          "score": 0.99
+        },
+        {
+          "word": "animals,",
+          "startSec": 347.54,
+          "endSec": 348.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 348.72,
+          "endSec": 349.16,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 349.16,
+          "endSec": 349.32,
+          "score": 0.99
+        },
+        {
+          "word": "traditions.",
+          "startSec": 349.32,
+          "endSec": 349.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 350.8,
+      "end": 351.81,
+      "text": "Well done!",
+      "words": [
+        {
+          "word": "Well",
+          "startSec": 351.0,
+          "endSec": 351.28,
+          "score": 1.0
+        },
+        {
+          "word": "done!",
+          "startSec": 351.28,
+          "endSec": 351.66,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 356.91,
+      "end": 357.96,
+      "text": "I am Emily.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 357.11,
+          "endSec": 357.33,
+          "score": 0.99
+        },
+        {
+          "word": "am",
+          "startSec": 357.33,
+          "endSec": 357.53,
+          "score": 0.94
+        },
+        {
+          "word": "Emily.",
+          "startSec": 357.53,
+          "endSec": 357.81,
+          "score": 0.19
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 360.05,
+      "end": 360.6,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 360.25,
+          "endSec": 360.45,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 361.17,
+      "end": 363.16,
+      "text": "Or in Kenya, Rwanda.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 361.37,
+          "endSec": 361.71,
+          "score": 0.79
+        },
+        {
+          "word": "in",
+          "startSec": 361.71,
+          "endSec": 362.03,
+          "score": 0.78
+        },
+        {
+          "word": "Kenya,",
+          "startSec": 362.03,
+          "endSec": 362.33,
+          "score": 0.3
+        },
+        {
+          "word": "Rwanda.",
+          "startSec": 362.37,
+          "endSec": 363.01,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 363.61,
+      "end": 364.56,
+      "text": "Murabejo.",
+      "words": [
+        {
+          "word": "Murabejo.",
+          "startSec": 363.81,
+          "endSec": 364.41,
+          "score": 0.48
         }
       ]
     }

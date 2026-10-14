@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 2.19,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.26,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 0.26,
-          "endSec": 0.44,
-          "score": 0.77
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.44,
-          "endSec": 0.8,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 0.8,
-          "endSec": 1.04,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.04,
-          "endSec": 1.3,
-          "score": 0.65
-        },
-        {
-          "word": "English",
-          "startSec": 1.3,
-          "endSec": 1.6,
-          "score": 0.92
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 1.6,
-          "endSec": 2.04,
-          "score": 0.94
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 2.9,
       "end": 6.65,
       "text": "My name is Emily and I'm so happy you're here today.",
@@ -138,7 +88,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 7.14,
       "end": 8.75,
       "text": "In today's episode,",
@@ -164,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.46,
       "end": 11.67,
       "text": "we will talk about a beautiful country called Bhutan.",
@@ -226,7 +176,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 12.99,
       "end": 15.9,
       "text": "Bhutan is a small country in Asia,",
@@ -276,7 +226,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 16.11,
       "end": 19.6,
       "text": "but it has many amazing things to offer.",
@@ -332,7 +282,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 20.15,
       "end": 24.24,
       "text": "It has beautiful mountains, unique culture,",
@@ -376,7 +326,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 24.51,
       "end": 26.14,
       "text": "and happy people.",
@@ -402,7 +352,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 26.44,
       "end": 29.61,
       "text": "Listen carefully and I will speak slowly",
@@ -452,7 +402,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 29.26,
       "end": 31.19,
       "text": "so you can follow along.",
@@ -485,6 +435,4322 @@
           "word": "along.",
           "startSec": 30.62,
           "endSec": 31.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 31.7,
+      "end": 32.61,
+      "text": "Let's begin.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 31.9,
+          "endSec": 32.22,
+          "score": 0.99
+        },
+        {
+          "word": "begin.",
+          "startSec": 32.22,
+          "endSec": 32.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 33.22,
+      "end": 34.47,
+      "text": "Where is Bhutan?",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 33.42,
+          "endSec": 33.56,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 33.56,
+          "endSec": 33.88,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan?",
+          "startSec": 33.88,
+          "endSec": 34.32,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 35.36,
+      "end": 38.63,
+      "text": "Bhutan is a small country in South Asia.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 35.56,
+          "endSec": 36.12,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 36.12,
+          "endSec": 36.46,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 36.46,
+          "endSec": 36.58,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 36.58,
+          "endSec": 36.86,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 36.86,
+          "endSec": 37.42,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 37.42,
+          "endSec": 37.76,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 37.76,
+          "endSec": 37.98,
+          "score": 0.93
+        },
+        {
+          "word": "Asia.",
+          "startSec": 37.98,
+          "endSec": 38.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 39.04,
+      "end": 43.09,
+      "text": "It is located in the Himalayas, a big mountain range.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 39.24,
+          "endSec": 39.34,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 39.34,
+          "endSec": 39.46,
+          "score": 1.0
+        },
+        {
+          "word": "located",
+          "startSec": 39.46,
+          "endSec": 39.9,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 39.9,
+          "endSec": 40.32,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 40.32,
+          "endSec": 40.42,
+          "score": 0.95
+        },
+        {
+          "word": "Himalayas,",
+          "startSec": 40.42,
+          "endSec": 41.44,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 41.6,
+          "endSec": 41.76,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 41.76,
+          "endSec": 42.08,
+          "score": 0.99
+        },
+        {
+          "word": "mountain",
+          "startSec": 42.08,
+          "endSec": 42.38,
+          "score": 0.99
+        },
+        {
+          "word": "range.",
+          "startSec": 42.38,
+          "endSec": 42.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 43.71,
+      "end": 45.68,
+      "text": "Bhutan is landlocked,",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 43.91,
+          "endSec": 44.59,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 44.59,
+          "endSec": 44.89,
+          "score": 1.0
+        },
+        {
+          "word": "landlocked,",
+          "startSec": 44.89,
+          "endSec": 45.53,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 45.93,
+      "end": 48.0,
+      "text": "which means it doesn't have a coastline.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 46.13,
+          "endSec": 46.25,
+          "score": 1.0
+        },
+        {
+          "word": "means",
+          "startSec": 46.25,
+          "endSec": 46.55,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 46.55,
+          "endSec": 46.79,
+          "score": 0.99
+        },
+        {
+          "word": "doesn't",
+          "startSec": 46.79,
+          "endSec": 47.15,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 47.15,
+          "endSec": 47.35,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 47.35,
+          "endSec": 47.45,
+          "score": 0.98
+        },
+        {
+          "word": "coastline.",
+          "startSec": 47.45,
+          "endSec": 47.85,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 48.88,
+      "end": 51.21,
+      "text": "It is surrounded by two countries,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 49.08,
+          "endSec": 49.24,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 49.24,
+          "endSec": 49.36,
+          "score": 1.0
+        },
+        {
+          "word": "surrounded",
+          "startSec": 49.36,
+          "endSec": 49.7,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 49.7,
+          "endSec": 50.22,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 50.22,
+          "endSec": 50.52,
+          "score": 0.99
+        },
+        {
+          "word": "countries,",
+          "startSec": 50.52,
+          "endSec": 51.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 51.74,
+      "end": 55.27,
+      "text": "China to the north and India to the south,",
+      "words": [
+        {
+          "word": "China",
+          "startSec": 51.94,
+          "endSec": 52.62,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 52.62,
+          "endSec": 52.96,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 52.96,
+          "endSec": 53.1,
+          "score": 1.0
+        },
+        {
+          "word": "north",
+          "startSec": 53.1,
+          "endSec": 53.42,
+          "score": 0.72
+        },
+        {
+          "word": "and",
+          "startSec": 53.42,
+          "endSec": 53.88,
+          "score": 0.73
+        },
+        {
+          "word": "India",
+          "startSec": 53.88,
+          "endSec": 54.3,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 54.3,
+          "endSec": 54.62,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 54.62,
+          "endSec": 54.76,
+          "score": 1.0
+        },
+        {
+          "word": "south,",
+          "startSec": 54.76,
+          "endSec": 55.12,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 55.5,
+      "end": 56.65,
+      "text": "east and west.",
+      "words": [
+        {
+          "word": "east",
+          "startSec": 55.7,
+          "endSec": 55.74,
+          "score": 0.87
+        },
+        {
+          "word": "and",
+          "startSec": 55.74,
+          "endSec": 56.22,
+          "score": 0.99
+        },
+        {
+          "word": "west.",
+          "startSec": 56.22,
+          "endSec": 56.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 57.35,
+      "end": 60.74,
+      "text": "The capital city of Bhutan is Thimfu.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 57.55,
+          "endSec": 57.93,
+          "score": 0.2
+        },
+        {
+          "word": "capital",
+          "startSec": 57.93,
+          "endSec": 58.29,
+          "score": 0.86
+        },
+        {
+          "word": "city",
+          "startSec": 58.29,
+          "endSec": 58.81,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 58.81,
+          "endSec": 59.03,
+          "score": 0.99
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 59.03,
+          "endSec": 59.45,
+          "score": 0.92
+        },
+        {
+          "word": "is",
+          "startSec": 59.45,
+          "endSec": 60.01,
+          "score": 0.98
+        },
+        {
+          "word": "Thimfu.",
+          "startSec": 60.01,
+          "endSec": 60.59,
+          "score": 0.46
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 61.37,
+      "end": 64.48,
+      "text": "Thimfu is the largest city in Bhutan,",
+      "words": [
+        {
+          "word": "Thimfu",
+          "startSec": 61.57,
+          "endSec": 62.33,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 62.33,
+          "endSec": 62.61,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 62.61,
+          "endSec": 62.81,
+          "score": 1.0
+        },
+        {
+          "word": "largest",
+          "startSec": 62.81,
+          "endSec": 63.25,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 63.25,
+          "endSec": 63.71,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 63.71,
+          "endSec": 63.93,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan,",
+          "startSec": 63.93,
+          "endSec": 64.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 64.85,
+      "end": 66.32,
+      "text": "and it is very peaceful.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 65.05,
+          "endSec": 65.15,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 65.15,
+          "endSec": 65.29,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 65.29,
+          "endSec": 65.45,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 65.45,
+          "endSec": 65.69,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful.",
+          "startSec": 65.69,
+          "endSec": 66.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 66.93,
+      "end": 70.74,
+      "text": "Many tourists visit Bhutan to see the beautiful mountains",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 67.13,
+          "endSec": 67.39,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 67.39,
+          "endSec": 67.79,
+          "score": 0.99
+        },
+        {
+          "word": "visit",
+          "startSec": 67.79,
+          "endSec": 68.23,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 68.23,
+          "endSec": 68.83,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 68.83,
+          "endSec": 69.21,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 69.21,
+          "endSec": 69.45,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 69.45,
+          "endSec": 69.67,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 69.67,
+          "endSec": 70.19,
+          "score": 0.99
+        },
+        {
+          "word": "mountains",
+          "startSec": 70.19,
+          "endSec": 70.59,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 70.39,
+      "end": 73.16,
+      "text": "and learn about the country's culture.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 70.59,
+          "endSec": 71.31,
+          "score": 0.96
+        },
+        {
+          "word": "learn",
+          "startSec": 71.31,
+          "endSec": 71.59,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 71.59,
+          "endSec": 71.97,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 71.97,
+          "endSec": 72.17,
+          "score": 1.0
+        },
+        {
+          "word": "country's",
+          "startSec": 72.17,
+          "endSec": 72.79,
+          "score": 0.99
+        },
+        {
+          "word": "culture.",
+          "startSec": 72.79,
+          "endSec": 73.01,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 74.01,
+      "end": 76.1,
+      "text": "What is Bhutan famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 74.21,
+          "endSec": 74.45,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 74.45,
+          "endSec": 74.65,
+          "score": 0.99
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 74.65,
+          "endSec": 75.09,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 75.09,
+          "endSec": 75.61,
+          "score": 0.99
+        },
+        {
+          "word": "for?",
+          "startSec": 75.61,
+          "endSec": 75.95,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 76.44,
+      "end": 79.75,
+      "text": "Bhutan is famous for its beautiful nature.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 76.64,
+          "endSec": 77.4,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 77.4,
+          "endSec": 77.68,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 77.68,
+          "endSec": 78.04,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 78.04,
+          "endSec": 78.44,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 78.44,
+          "endSec": 78.62,
+          "score": 0.97
+        },
+        {
+          "word": "beautiful",
+          "startSec": 78.62,
+          "endSec": 79.0,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 79.0,
+          "endSec": 79.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 80.38,
+      "end": 82.69,
+      "text": "It is known for the Himalayan mountains.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 80.58,
+          "endSec": 80.76,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 80.76,
+          "endSec": 80.92,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 80.92,
+          "endSec": 81.18,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 81.18,
+          "endSec": 81.44,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 81.44,
+          "endSec": 81.56,
+          "score": 0.99
+        },
+        {
+          "word": "Himalayan",
+          "startSec": 81.56,
+          "endSec": 82.18,
+          "score": 0.99
+        },
+        {
+          "word": "mountains.",
+          "startSec": 82.18,
+          "endSec": 82.54,
+          "score": 0.51
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 83.36,
+      "end": 85.95,
+      "text": "These mountains are very tall",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 83.56,
+          "endSec": 83.9,
+          "score": 1.0
+        },
+        {
+          "word": "mountains",
+          "startSec": 83.9,
+          "endSec": 84.24,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 84.24,
+          "endSec": 84.84,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 84.84,
+          "endSec": 85.18,
+          "score": 1.0
+        },
+        {
+          "word": "tall",
+          "startSec": 85.18,
+          "endSec": 85.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 85.6,
+      "end": 87.51,
+      "text": "and covered in snow.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 85.8,
+          "endSec": 86.24,
+          "score": 0.25
+        },
+        {
+          "word": "covered",
+          "startSec": 86.24,
+          "endSec": 86.66,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 86.66,
+          "endSec": 86.9,
+          "score": 1.0
+        },
+        {
+          "word": "snow.",
+          "startSec": 86.9,
+          "endSec": 87.36,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 88.08,
+      "end": 92.95,
+      "text": "Bhutan is also famous for its national parks and wildlife.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 88.28,
+          "endSec": 88.82,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 88.82,
+          "endSec": 89.3,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 89.3,
+          "endSec": 89.76,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 89.76,
+          "endSec": 90.28,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 90.28,
+          "endSec": 90.68,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 90.68,
+          "endSec": 90.86,
+          "score": 0.93
+        },
+        {
+          "word": "national",
+          "startSec": 90.86,
+          "endSec": 91.22,
+          "score": 0.89
+        },
+        {
+          "word": "parks",
+          "startSec": 91.22,
+          "endSec": 91.94,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 91.94,
+          "endSec": 92.48,
+          "score": 0.99
+        },
+        {
+          "word": "wildlife.",
+          "startSec": 92.48,
+          "endSec": 92.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 94.25,
+      "end": 98.34,
+      "text": "People visit Bhutan to see animals like the Bengal tiger,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 94.45,
+          "endSec": 94.75,
+          "score": 0.98
+        },
+        {
+          "word": "visit",
+          "startSec": 94.75,
+          "endSec": 95.21,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 95.21,
+          "endSec": 95.65,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 95.65,
+          "endSec": 96.13,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 96.13,
+          "endSec": 96.35,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 96.35,
+          "endSec": 96.83,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 96.83,
+          "endSec": 97.23,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 97.23,
+          "endSec": 97.39,
+          "score": 0.99
+        },
+        {
+          "word": "Bengal",
+          "startSec": 97.39,
+          "endSec": 97.67,
+          "score": 0.97
+        },
+        {
+          "word": "tiger,",
+          "startSec": 97.67,
+          "endSec": 98.19,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 98.77,
+      "end": 101.48,
+      "text": "snow leopards, and red pandas.",
+      "words": [
+        {
+          "word": "snow",
+          "startSec": 98.97,
+          "endSec": 99.31,
+          "score": 0.97
+        },
+        {
+          "word": "leopards,",
+          "startSec": 99.31,
+          "endSec": 100.07,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 100.37,
+          "endSec": 100.45,
+          "score": 1.0
+        },
+        {
+          "word": "red",
+          "startSec": 100.45,
+          "endSec": 100.67,
+          "score": 0.98
+        },
+        {
+          "word": "pandas.",
+          "startSec": 100.67,
+          "endSec": 101.33,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 101.92,
+      "end": 105.01,
+      "text": "Bhutan is a great place for nature lovers.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 102.12,
+          "endSec": 102.86,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 102.86,
+          "endSec": 103.16,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 103.16,
+          "endSec": 103.26,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 103.26,
+          "endSec": 103.48,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 103.48,
+          "endSec": 103.88,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 103.88,
+          "endSec": 104.18,
+          "score": 1.0
+        },
+        {
+          "word": "nature",
+          "startSec": 104.18,
+          "endSec": 104.4,
+          "score": 0.98
+        },
+        {
+          "word": "lovers.",
+          "startSec": 104.4,
+          "endSec": 104.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 106.02,
+      "end": 109.59,
+      "text": "Another thing Bhutan is famous for is its culture.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 106.22,
+          "endSec": 106.62,
+          "score": 0.99
+        },
+        {
+          "word": "thing",
+          "startSec": 106.62,
+          "endSec": 107.08,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 107.08,
+          "endSec": 107.52,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 107.52,
+          "endSec": 107.86,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 107.86,
+          "endSec": 108.18,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 108.18,
+          "endSec": 108.6,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 108.6,
+          "endSec": 108.94,
+          "score": 0.98
+        },
+        {
+          "word": "its",
+          "startSec": 108.94,
+          "endSec": 109.08,
+          "score": 0.98
+        },
+        {
+          "word": "culture.",
+          "startSec": 109.08,
+          "endSec": 109.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 110.18,
+      "end": 114.75,
+      "text": "Bhutan has many traditions that are very important to the people.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 110.38,
+          "endSec": 111.02,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 111.02,
+          "endSec": 111.38,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 111.38,
+          "endSec": 111.68,
+          "score": 1.0
+        },
+        {
+          "word": "traditions",
+          "startSec": 111.68,
+          "endSec": 112.24,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 112.24,
+          "endSec": 112.8,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 112.8,
+          "endSec": 112.98,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 112.98,
+          "endSec": 113.2,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 113.2,
+          "endSec": 113.8,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 113.8,
+          "endSec": 114.16,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 114.16,
+          "endSec": 114.28,
+          "score": 0.99
+        },
+        {
+          "word": "people.",
+          "startSec": 114.28,
+          "endSec": 114.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 114.4,
+      "end": 117.77,
+      "text": "One important tradition is the festival.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 114.6,
+          "endSec": 115.64,
+          "score": 0.31
+        },
+        {
+          "word": "important",
+          "startSec": 115.64,
+          "endSec": 115.98,
+          "score": 0.99
+        },
+        {
+          "word": "tradition",
+          "startSec": 115.98,
+          "endSec": 116.52,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 116.52,
+          "endSec": 117.1,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 117.1,
+          "endSec": 117.26,
+          "score": 0.93
+        },
+        {
+          "word": "festival.",
+          "startSec": 117.26,
+          "endSec": 117.62,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 118.46,
+      "end": 122.21,
+      "text": "Bhutan has many colorful festivals with dancing,",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 118.66,
+          "endSec": 119.2,
+          "score": 0.88
+        },
+        {
+          "word": "has",
+          "startSec": 119.2,
+          "endSec": 119.62,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 119.62,
+          "endSec": 119.96,
+          "score": 0.99
+        },
+        {
+          "word": "colorful",
+          "startSec": 119.96,
+          "endSec": 120.42,
+          "score": 0.96
+        },
+        {
+          "word": "festivals",
+          "startSec": 120.42,
+          "endSec": 121.12,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 121.12,
+          "endSec": 121.7,
+          "score": 0.9
+        },
+        {
+          "word": "dancing,",
+          "startSec": 121.7,
+          "endSec": 122.06,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 122.7,
+      "end": 125.73,
+      "text": "singing, and wearing traditional clothes.",
+      "words": [
+        {
+          "word": "singing,",
+          "startSec": 122.9,
+          "endSec": 123.26,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 124.06,
+          "endSec": 124.14,
+          "score": 1.0
+        },
+        {
+          "word": "wearing",
+          "startSec": 124.14,
+          "endSec": 124.42,
+          "score": 1.0
+        },
+        {
+          "word": "traditional",
+          "startSec": 124.42,
+          "endSec": 124.78,
+          "score": 0.99
+        },
+        {
+          "word": "clothes.",
+          "startSec": 124.78,
+          "endSec": 125.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 127.15,
+      "end": 130.84,
+      "text": "The most famous festival is called the Paro Tsetu.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 127.35,
+          "endSec": 127.47,
+          "score": 0.97
+        },
+        {
+          "word": "most",
+          "startSec": 127.47,
+          "endSec": 127.69,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 127.69,
+          "endSec": 128.21,
+          "score": 1.0
+        },
+        {
+          "word": "festival",
+          "startSec": 128.21,
+          "endSec": 128.87,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 128.87,
+          "endSec": 129.33,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 129.33,
+          "endSec": 129.59,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 129.59,
+          "endSec": 129.77,
+          "score": 0.95
+        },
+        {
+          "word": "Paro",
+          "startSec": 129.77,
+          "endSec": 130.15,
+          "score": 0.51
+        },
+        {
+          "word": "Tsetu.",
+          "startSec": 130.15,
+          "endSec": 130.69,
+          "score": 0.28
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 131.08,
+      "end": 135.47,
+      "text": "It happens every year in Paro, a town in Bhutan,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 131.28,
+          "endSec": 131.9,
+          "score": 0.99
+        },
+        {
+          "word": "happens",
+          "startSec": 131.9,
+          "endSec": 132.18,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 132.18,
+          "endSec": 132.7,
+          "score": 1.0
+        },
+        {
+          "word": "year",
+          "startSec": 132.7,
+          "endSec": 133.18,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 133.18,
+          "endSec": 133.36,
+          "score": 1.0
+        },
+        {
+          "word": "Paro,",
+          "startSec": 133.36,
+          "endSec": 133.94,
+          "score": 0.88
+        },
+        {
+          "word": "a",
+          "startSec": 134.4,
+          "endSec": 134.58,
+          "score": 0.99
+        },
+        {
+          "word": "town",
+          "startSec": 134.58,
+          "endSec": 134.86,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 134.86,
+          "endSec": 135.02,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan,",
+          "startSec": 135.02,
+          "endSec": 135.32,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 135.78,
+      "end": 138.95,
+      "text": "and people from all over the country come to celebrate.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 135.98,
+          "endSec": 136.26,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 136.26,
+          "endSec": 136.64,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 136.64,
+          "endSec": 136.88,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 136.88,
+          "endSec": 137.18,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 137.18,
+          "endSec": 137.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 137.4,
+          "endSec": 137.56,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 137.56,
+          "endSec": 137.92,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 137.92,
+          "endSec": 138.24,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 138.24,
+          "endSec": 138.46,
+          "score": 1.0
+        },
+        {
+          "word": "celebrate.",
+          "startSec": 138.46,
+          "endSec": 138.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 140.02,
+      "end": 142.45,
+      "text": "What is the food like in Bhutan?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 140.22,
+          "endSec": 140.66,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 140.66,
+          "endSec": 140.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 140.86,
+          "endSec": 141.1,
+          "score": 0.97
+        },
+        {
+          "word": "food",
+          "startSec": 141.1,
+          "endSec": 141.34,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 141.34,
+          "endSec": 141.64,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 141.64,
+          "endSec": 141.84,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan?",
+          "startSec": 141.84,
+          "endSec": 142.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 142.1,
+      "end": 146.55,
+      "text": "The food in Bhutan is very delicious and spicy.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 142.3,
+          "endSec": 143.44,
+          "score": 0.37
+        },
+        {
+          "word": "food",
+          "startSec": 143.44,
+          "endSec": 143.72,
+          "score": 0.92
+        },
+        {
+          "word": "in",
+          "startSec": 143.72,
+          "endSec": 143.94,
+          "score": 0.98
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 143.94,
+          "endSec": 144.24,
+          "score": 0.89
+        },
+        {
+          "word": "is",
+          "startSec": 144.24,
+          "endSec": 144.66,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 144.66,
+          "endSec": 145.02,
+          "score": 0.99
+        },
+        {
+          "word": "delicious",
+          "startSec": 145.02,
+          "endSec": 145.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 145.66,
+          "endSec": 146.06,
+          "score": 0.99
+        },
+        {
+          "word": "spicy.",
+          "startSec": 146.06,
+          "endSec": 146.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 147.65,
+      "end": 152.32,
+      "text": "The people of Bhutan eat a lot of rice, vegetables, and meat.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 147.85,
+          "endSec": 147.95,
+          "score": 0.95
+        },
+        {
+          "word": "people",
+          "startSec": 147.95,
+          "endSec": 148.31,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 148.31,
+          "endSec": 148.57,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 148.57,
+          "endSec": 149.03,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 149.03,
+          "endSec": 149.53,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 149.53,
+          "endSec": 149.77,
+          "score": 0.99
+        },
+        {
+          "word": "lot",
+          "startSec": 149.77,
+          "endSec": 150.07,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 150.07,
+          "endSec": 150.23,
+          "score": 0.99
+        },
+        {
+          "word": "rice,",
+          "startSec": 150.23,
+          "endSec": 150.55,
+          "score": 1.0
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 151.03,
+          "endSec": 151.49,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 151.95,
+          "endSec": 151.97,
+          "score": 0.99
+        },
+        {
+          "word": "meat.",
+          "startSec": 151.97,
+          "endSec": 152.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 152.91,
+      "end": 156.86,
+      "text": "One of the most popular dishes is called Amadachi.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 153.11,
+          "endSec": 153.41,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 153.41,
+          "endSec": 153.57,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 153.57,
+          "endSec": 153.71,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 153.71,
+          "endSec": 153.91,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 153.91,
+          "endSec": 154.41,
+          "score": 1.0
+        },
+        {
+          "word": "dishes",
+          "startSec": 154.41,
+          "endSec": 154.83,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 154.83,
+          "endSec": 155.39,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 155.39,
+          "endSec": 155.73,
+          "score": 0.98
+        },
+        {
+          "word": "Amadachi.",
+          "startSec": 155.73,
+          "endSec": 156.71,
+          "score": 0.67
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 158.14,
+      "end": 162.99,
+      "text": "Amadachi is a spicy dish made with chili peppers and cheese.",
+      "words": [
+        {
+          "word": "Amadachi",
+          "startSec": 158.34,
+          "endSec": 159.06,
+          "score": 0.85
+        },
+        {
+          "word": "is",
+          "startSec": 159.06,
+          "endSec": 159.78,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 159.78,
+          "endSec": 159.94,
+          "score": 0.99
+        },
+        {
+          "word": "spicy",
+          "startSec": 159.94,
+          "endSec": 160.2,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 160.2,
+          "endSec": 160.72,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 160.72,
+          "endSec": 161.08,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 161.08,
+          "endSec": 161.32,
+          "score": 1.0
+        },
+        {
+          "word": "chili",
+          "startSec": 161.32,
+          "endSec": 161.56,
+          "score": 0.93
+        },
+        {
+          "word": "peppers",
+          "startSec": 161.56,
+          "endSec": 162.02,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 162.02,
+          "endSec": 162.52,
+          "score": 0.99
+        },
+        {
+          "word": "cheese.",
+          "startSec": 162.52,
+          "endSec": 162.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 163.83,
+      "end": 165.84,
+      "text": "It is often served with rice.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 164.03,
+          "endSec": 164.19,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 164.19,
+          "endSec": 164.31,
+          "score": 1.0
+        },
+        {
+          "word": "often",
+          "startSec": 164.31,
+          "endSec": 164.77,
+          "score": 0.99
+        },
+        {
+          "word": "served",
+          "startSec": 164.77,
+          "endSec": 165.13,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 165.13,
+          "endSec": 165.43,
+          "score": 1.0
+        },
+        {
+          "word": "rice.",
+          "startSec": 165.43,
+          "endSec": 165.69,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 166.51,
+      "end": 168.7,
+      "text": "Bhutanese people love chili peppers,",
+      "words": [
+        {
+          "word": "Bhutanese",
+          "startSec": 166.71,
+          "endSec": 167.03,
+          "score": 0.92
+        },
+        {
+          "word": "people",
+          "startSec": 167.03,
+          "endSec": 167.33,
+          "score": 0.99
+        },
+        {
+          "word": "love",
+          "startSec": 167.33,
+          "endSec": 167.77,
+          "score": 0.99
+        },
+        {
+          "word": "chili",
+          "startSec": 167.77,
+          "endSec": 168.07,
+          "score": 0.99
+        },
+        {
+          "word": "peppers,",
+          "startSec": 168.07,
+          "endSec": 168.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 169.17,
+      "end": 171.66,
+      "text": "and they put them in almost every meal.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 169.37,
+          "endSec": 169.63,
+          "score": 0.99
+        },
+        {
+          "word": "they",
+          "startSec": 169.63,
+          "endSec": 169.77,
+          "score": 1.0
+        },
+        {
+          "word": "put",
+          "startSec": 169.77,
+          "endSec": 169.97,
+          "score": 1.0
+        },
+        {
+          "word": "them",
+          "startSec": 169.97,
+          "endSec": 170.19,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 170.19,
+          "endSec": 170.35,
+          "score": 0.99
+        },
+        {
+          "word": "almost",
+          "startSec": 170.35,
+          "endSec": 170.71,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 170.71,
+          "endSec": 171.11,
+          "score": 1.0
+        },
+        {
+          "word": "meal.",
+          "startSec": 171.11,
+          "endSec": 171.51,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 171.31,
+      "end": 175.78,
+      "text": "Another popular dish is Phaksha Pa.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 171.51,
+          "endSec": 172.75,
+          "score": 0.55
+        },
+        {
+          "word": "popular",
+          "startSec": 173.55,
+          "endSec": 173.95,
+          "score": 0.98
+        },
+        {
+          "word": "dish",
+          "startSec": 173.95,
+          "endSec": 174.71,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 174.71,
+          "endSec": 174.91,
+          "score": 0.99
+        },
+        {
+          "word": "Phaksha",
+          "startSec": 174.91,
+          "endSec": 175.43,
+          "score": 0.34
+        },
+        {
+          "word": "Pa.",
+          "startSec": 175.43,
+          "endSec": 175.63,
+          "score": 0.28
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 176.62,
+      "end": 180.29,
+      "text": "Phaksha Pa is a dish made with pork, vegetables,",
+      "words": [
+        {
+          "word": "Phaksha",
+          "startSec": 176.82,
+          "endSec": 177.5,
+          "score": 0.99
+        },
+        {
+          "word": "Pa",
+          "startSec": 177.5,
+          "endSec": 177.74,
+          "score": 0.81
+        },
+        {
+          "word": "is",
+          "startSec": 177.74,
+          "endSec": 178.16,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 178.16,
+          "endSec": 178.32,
+          "score": 0.98
+        },
+        {
+          "word": "dish",
+          "startSec": 178.32,
+          "endSec": 178.54,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 178.54,
+          "endSec": 178.9,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 178.9,
+          "endSec": 179.1,
+          "score": 1.0
+        },
+        {
+          "word": "pork,",
+          "startSec": 179.1,
+          "endSec": 179.5,
+          "score": 1.0
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 179.6,
+          "endSec": 180.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 180.76,
+      "end": 182.27,
+      "text": "and spicy chili peppers.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 180.96,
+          "endSec": 180.98,
+          "score": 1.0
+        },
+        {
+          "word": "spicy",
+          "startSec": 180.98,
+          "endSec": 181.26,
+          "score": 0.99
+        },
+        {
+          "word": "chili",
+          "startSec": 181.26,
+          "endSec": 181.74,
+          "score": 0.93
+        },
+        {
+          "word": "peppers.",
+          "startSec": 181.74,
+          "endSec": 182.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 183.18,
+      "end": 187.03,
+      "text": "Bhutanese food is very flavorful and can be very spicy,",
+      "words": [
+        {
+          "word": "Bhutanese",
+          "startSec": 183.38,
+          "endSec": 184.04,
+          "score": 0.69
+        },
+        {
+          "word": "food",
+          "startSec": 184.04,
+          "endSec": 184.34,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 184.34,
+          "endSec": 184.54,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 184.54,
+          "endSec": 184.82,
+          "score": 0.99
+        },
+        {
+          "word": "flavorful",
+          "startSec": 184.82,
+          "endSec": 185.3,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 185.3,
+          "endSec": 185.9,
+          "score": 0.95
+        },
+        {
+          "word": "can",
+          "startSec": 185.9,
+          "endSec": 186.08,
+          "score": 1.0
+        },
+        {
+          "word": "be",
+          "startSec": 186.08,
+          "endSec": 186.28,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 186.28,
+          "endSec": 186.52,
+          "score": 0.99
+        },
+        {
+          "word": "spicy,",
+          "startSec": 186.52,
+          "endSec": 186.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 187.42,
+      "end": 191.65,
+      "text": "so if you like spicy food, Bhutan is a great place to visit.",
+      "words": [
+        {
+          "word": "so",
+          "startSec": 187.62,
+          "endSec": 187.96,
+          "score": 0.98
+        },
+        {
+          "word": "if",
+          "startSec": 187.96,
+          "endSec": 188.14,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 188.14,
+          "endSec": 188.22,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 188.22,
+          "endSec": 188.4,
+          "score": 0.99
+        },
+        {
+          "word": "spicy",
+          "startSec": 188.4,
+          "endSec": 188.7,
+          "score": 0.99
+        },
+        {
+          "word": "food,",
+          "startSec": 188.7,
+          "endSec": 189.26,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 189.88,
+          "endSec": 190.12,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 190.12,
+          "endSec": 190.44,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 190.44,
+          "endSec": 190.56,
+          "score": 1.0
+        },
+        {
+          "word": "great",
+          "startSec": 190.56,
+          "endSec": 190.72,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 190.72,
+          "endSec": 191.04,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 191.04,
+          "endSec": 191.26,
+          "score": 1.0
+        },
+        {
+          "word": "visit.",
+          "startSec": 191.26,
+          "endSec": 191.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 192.76,
+      "end": 194.11,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "startSec": 192.96,
+          "endSec": 193.3,
+          "score": 0.95
+        },
+        {
+          "word": "and",
+          "startSec": 193.3,
+          "endSec": 193.64,
+          "score": 0.96
+        },
+        {
+          "word": "people.",
+          "startSec": 193.64,
+          "endSec": 193.96,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 195.03,
+      "end": 198.3,
+      "text": "The people of Bhutan are very kind and welcoming.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 195.23,
+          "endSec": 195.25,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 195.25,
+          "endSec": 195.53,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 195.53,
+          "endSec": 195.83,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 195.83,
+          "endSec": 196.23,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 196.23,
+          "endSec": 196.75,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 196.75,
+          "endSec": 197.09,
+          "score": 1.0
+        },
+        {
+          "word": "kind",
+          "startSec": 197.09,
+          "endSec": 197.55,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 197.55,
+          "endSec": 197.93,
+          "score": 0.98
+        },
+        {
+          "word": "welcoming.",
+          "startSec": 197.93,
+          "endSec": 198.15,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 199.28,
+      "end": 201.43,
+      "text": "Bhutan has a small population,",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 199.48,
+          "endSec": 199.92,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 199.92,
+          "endSec": 200.32,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 200.32,
+          "endSec": 200.5,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 200.5,
+          "endSec": 200.8,
+          "score": 1.0
+        },
+        {
+          "word": "population,",
+          "startSec": 200.8,
+          "endSec": 201.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 201.08,
+      "end": 205.01,
+      "text": "and everyone is very proud of their culture.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 201.28,
+          "endSec": 201.92,
+          "score": 0.11
+        },
+        {
+          "word": "everyone",
+          "startSec": 201.92,
+          "endSec": 202.96,
+          "score": 0.77
+        },
+        {
+          "word": "is",
+          "startSec": 202.96,
+          "endSec": 203.38,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 203.38,
+          "endSec": 203.72,
+          "score": 0.99
+        },
+        {
+          "word": "proud",
+          "startSec": 203.72,
+          "endSec": 204.16,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 204.16,
+          "endSec": 204.36,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 204.36,
+          "endSec": 204.56,
+          "score": 0.99
+        },
+        {
+          "word": "culture.",
+          "startSec": 204.56,
+          "endSec": 204.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 206.1,
+      "end": 208.75,
+      "text": "The main religion in Bhutan is Buddhism.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 206.3,
+          "endSec": 206.38,
+          "score": 0.92
+        },
+        {
+          "word": "main",
+          "startSec": 206.38,
+          "endSec": 206.62,
+          "score": 0.97
+        },
+        {
+          "word": "religion",
+          "startSec": 206.62,
+          "endSec": 207.12,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 207.12,
+          "endSec": 207.44,
+          "score": 0.99
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 207.44,
+          "endSec": 207.82,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 207.82,
+          "endSec": 208.26,
+          "score": 0.99
+        },
+        {
+          "word": "Buddhism.",
+          "startSec": 208.26,
+          "endSec": 208.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 209.81,
+      "end": 214.46,
+      "text": "Many Bhutanese people visit temples and monasteries to pray.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 210.01,
+          "endSec": 210.35,
+          "score": 0.99
+        },
+        {
+          "word": "Bhutanese",
+          "startSec": 210.35,
+          "endSec": 211.01,
+          "score": 0.97
+        },
+        {
+          "word": "people",
+          "startSec": 211.01,
+          "endSec": 211.49,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 211.49,
+          "endSec": 211.95,
+          "score": 1.0
+        },
+        {
+          "word": "temples",
+          "startSec": 211.95,
+          "endSec": 212.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 212.39,
+          "endSec": 212.93,
+          "score": 0.99
+        },
+        {
+          "word": "monasteries",
+          "startSec": 212.93,
+          "endSec": 213.79,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 213.79,
+          "endSec": 214.01,
+          "score": 1.0
+        },
+        {
+          "word": "pray.",
+          "startSec": 214.01,
+          "endSec": 214.31,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 215.16,
+      "end": 218.99,
+      "text": "Bhutan is also known for its gross national happiness.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 215.36,
+          "endSec": 215.98,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 215.98,
+          "endSec": 216.3,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 216.3,
+          "endSec": 216.58,
+          "score": 0.99
+        },
+        {
+          "word": "known",
+          "startSec": 216.58,
+          "endSec": 217.0,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 217.0,
+          "endSec": 217.3,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 217.3,
+          "endSec": 217.52,
+          "score": 0.98
+        },
+        {
+          "word": "gross",
+          "startSec": 217.52,
+          "endSec": 217.86,
+          "score": 0.98
+        },
+        {
+          "word": "national",
+          "startSec": 217.86,
+          "endSec": 218.2,
+          "score": 0.95
+        },
+        {
+          "word": "happiness.",
+          "startSec": 218.2,
+          "endSec": 218.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 219.88,
+      "end": 226.99,
+      "text": "This is a special idea in Bhutan that focuses on the happiness and well-being of the people,",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 220.08,
+          "endSec": 220.78,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 220.78,
+          "endSec": 220.92,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 220.92,
+          "endSec": 221.08,
+          "score": 0.99
+        },
+        {
+          "word": "special",
+          "startSec": 221.08,
+          "endSec": 221.4,
+          "score": 1.0
+        },
+        {
+          "word": "idea",
+          "startSec": 221.4,
+          "endSec": 222.14,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 222.14,
+          "endSec": 222.44,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 222.44,
+          "endSec": 222.88,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 222.88,
+          "endSec": 223.34,
+          "score": 0.99
+        },
+        {
+          "word": "focuses",
+          "startSec": 223.34,
+          "endSec": 223.84,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 223.84,
+          "endSec": 224.32,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 224.32,
+          "endSec": 224.46,
+          "score": 0.99
+        },
+        {
+          "word": "happiness",
+          "startSec": 224.46,
+          "endSec": 224.9,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 224.9,
+          "endSec": 225.44,
+          "score": 1.0
+        },
+        {
+          "word": "well",
+          "startSec": 225.44,
+          "endSec": 225.68,
+          "score": 0.87
+        },
+        {
+          "word": "-being",
+          "startSec": 225.68,
+          "endSec": 226.06,
+          "score": 0.92
+        },
+        {
+          "word": "of",
+          "startSec": 226.06,
+          "endSec": 226.28,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 226.28,
+          "endSec": 226.42,
+          "score": 0.98
+        },
+        {
+          "word": "people,",
+          "startSec": 226.42,
+          "endSec": 226.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 227.18,
+      "end": 229.89,
+      "text": "instead of just money or work.",
+      "words": [
+        {
+          "word": "instead",
+          "startSec": 227.38,
+          "endSec": 227.92,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 227.92,
+          "endSec": 228.3,
+          "score": 1.0
+        },
+        {
+          "word": "just",
+          "startSec": 228.3,
+          "endSec": 228.6,
+          "score": 0.99
+        },
+        {
+          "word": "money",
+          "startSec": 228.6,
+          "endSec": 228.96,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 228.96,
+          "endSec": 229.46,
+          "score": 0.96
+        },
+        {
+          "word": "work.",
+          "startSec": 229.46,
+          "endSec": 229.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 229.54,
+      "end": 235.22,
+      "text": "The government of Bhutan wants everyone to be happy and healthy.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 229.74,
+          "endSec": 230.74,
+          "score": 0.59
+        },
+        {
+          "word": "government",
+          "startSec": 231.35,
+          "endSec": 231.73,
+          "score": 0.91
+        },
+        {
+          "word": "of",
+          "startSec": 231.73,
+          "endSec": 232.09,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 232.09,
+          "endSec": 232.53,
+          "score": 0.93
+        },
+        {
+          "word": "wants",
+          "startSec": 232.53,
+          "endSec": 233.03,
+          "score": 0.99
+        },
+        {
+          "word": "everyone",
+          "startSec": 233.03,
+          "endSec": 233.59,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 233.59,
+          "endSec": 233.95,
+          "score": 0.99
+        },
+        {
+          "word": "be",
+          "startSec": 233.95,
+          "endSec": 234.11,
+          "score": 0.99
+        },
+        {
+          "word": "happy",
+          "startSec": 234.11,
+          "endSec": 234.53,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 234.53,
+          "endSec": 234.79,
+          "score": 0.99
+        },
+        {
+          "word": "healthy.",
+          "startSec": 234.79,
+          "endSec": 235.07,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 236.14,
+      "end": 239.91,
+      "text": "Bhutan is also famous for its traditional clothing.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 236.34,
+          "endSec": 236.9,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 236.9,
+          "endSec": 237.2,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 237.2,
+          "endSec": 237.44,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 237.44,
+          "endSec": 238.08,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 238.08,
+          "endSec": 238.4,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 238.4,
+          "endSec": 238.58,
+          "score": 0.96
+        },
+        {
+          "word": "traditional",
+          "startSec": 238.58,
+          "endSec": 239.04,
+          "score": 1.0
+        },
+        {
+          "word": "clothing.",
+          "startSec": 239.04,
+          "endSec": 239.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 240.92,
+      "end": 243.93,
+      "text": "The men wear a go, which is a long robe,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 241.12,
+          "endSec": 241.18,
+          "score": 0.95
+        },
+        {
+          "word": "men",
+          "startSec": 241.18,
+          "endSec": 241.38,
+          "score": 0.72
+        },
+        {
+          "word": "wear",
+          "startSec": 241.38,
+          "endSec": 241.7,
+          "score": 0.88
+        },
+        {
+          "word": "a",
+          "startSec": 241.7,
+          "endSec": 241.88,
+          "score": 0.93
+        },
+        {
+          "word": "go,",
+          "startSec": 241.88,
+          "endSec": 242.12,
+          "score": 0.74
+        },
+        {
+          "word": "which",
+          "startSec": 242.6,
+          "endSec": 242.78,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 242.78,
+          "endSec": 242.96,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 242.96,
+          "endSec": 243.1,
+          "score": 0.98
+        },
+        {
+          "word": "long",
+          "startSec": 243.1,
+          "endSec": 243.36,
+          "score": 1.0
+        },
+        {
+          "word": "robe,",
+          "startSec": 243.36,
+          "endSec": 243.78,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 244.48,
+      "end": 247.81,
+      "text": "and the women wear a kira, which is a long dress.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 244.68,
+          "endSec": 244.72,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 244.72,
+          "endSec": 244.88,
+          "score": 0.99
+        },
+        {
+          "word": "women",
+          "startSec": 244.88,
+          "endSec": 245.12,
+          "score": 0.98
+        },
+        {
+          "word": "wear",
+          "startSec": 245.12,
+          "endSec": 245.48,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 245.48,
+          "endSec": 245.62,
+          "score": 0.96
+        },
+        {
+          "word": "kira,",
+          "startSec": 245.62,
+          "endSec": 246.02,
+          "score": 0.67
+        },
+        {
+          "word": "which",
+          "startSec": 246.46,
+          "endSec": 246.68,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 246.68,
+          "endSec": 246.86,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 246.86,
+          "endSec": 247.02,
+          "score": 0.99
+        },
+        {
+          "word": "long",
+          "startSec": 247.02,
+          "endSec": 247.24,
+          "score": 1.0
+        },
+        {
+          "word": "dress.",
+          "startSec": 247.24,
+          "endSec": 247.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 248.5,
+      "end": 251.51,
+      "text": "These clothes are very colorful and beautiful.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 248.7,
+          "endSec": 248.92,
+          "score": 0.99
+        },
+        {
+          "word": "clothes",
+          "startSec": 248.92,
+          "endSec": 249.26,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 249.26,
+          "endSec": 249.72,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 249.72,
+          "endSec": 249.96,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 249.96,
+          "endSec": 250.44,
+          "score": 0.93
+        },
+        {
+          "word": "and",
+          "startSec": 250.44,
+          "endSec": 251.02,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful.",
+          "startSec": 251.02,
+          "endSec": 251.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 252.56,
+      "end": 253.97,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 252.76,
+          "endSec": 253.24,
+          "score": 0.92
+        },
+        {
+          "word": "and",
+          "startSec": 253.24,
+          "endSec": 253.58,
+          "score": 0.92
+        },
+        {
+          "word": "animals.",
+          "startSec": 253.58,
+          "endSec": 253.82,
+          "score": 0.72
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 254.84,
+      "end": 257.59,
+      "text": "Bhutan has amazing nature.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 255.04,
+          "endSec": 255.76,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 255.76,
+          "endSec": 256.08,
+          "score": 1.0
+        },
+        {
+          "word": "amazing",
+          "startSec": 256.08,
+          "endSec": 256.6,
+          "score": 0.99
+        },
+        {
+          "word": "nature.",
+          "startSec": 256.6,
+          "endSec": 257.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 257.24,
+      "end": 261.63,
+      "text": "It has beautiful forests, rivers, and mountains.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 257.44,
+          "endSec": 258.44,
+          "score": 0.43
+        },
+        {
+          "word": "has",
+          "startSec": 258.44,
+          "endSec": 258.62,
+          "score": 0.9
+        },
+        {
+          "word": "beautiful",
+          "startSec": 258.62,
+          "endSec": 258.94,
+          "score": 0.99
+        },
+        {
+          "word": "forests,",
+          "startSec": 258.94,
+          "endSec": 259.76,
+          "score": 0.98
+        },
+        {
+          "word": "rivers,",
+          "startSec": 259.76,
+          "endSec": 260.54,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 261.08,
+          "endSec": 261.16,
+          "score": 0.99
+        },
+        {
+          "word": "mountains.",
+          "startSec": 261.16,
+          "endSec": 261.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 262.38,
+      "end": 266.99,
+      "text": "Many people come to Bhutan to go hiking and see the beautiful views.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 262.58,
+          "endSec": 263.04,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 263.04,
+          "endSec": 263.5,
+          "score": 0.98
+        },
+        {
+          "word": "come",
+          "startSec": 263.5,
+          "endSec": 263.76,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 263.76,
+          "endSec": 263.94,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 263.94,
+          "endSec": 264.26,
+          "score": 0.9
+        },
+        {
+          "word": "to",
+          "startSec": 264.26,
+          "endSec": 264.52,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 264.52,
+          "endSec": 264.66,
+          "score": 0.99
+        },
+        {
+          "word": "hiking",
+          "startSec": 264.66,
+          "endSec": 264.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 264.96,
+          "endSec": 265.58,
+          "score": 0.96
+        },
+        {
+          "word": "see",
+          "startSec": 265.58,
+          "endSec": 265.88,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 265.88,
+          "endSec": 266.08,
+          "score": 0.97
+        },
+        {
+          "word": "beautiful",
+          "startSec": 266.08,
+          "endSec": 266.46,
+          "score": 1.0
+        },
+        {
+          "word": "views.",
+          "startSec": 266.46,
+          "endSec": 266.84,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 267.56,
+      "end": 272.71,
+      "text": "One of the most famous places to visit is Tiger's Nest Monastery.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 267.76,
+          "endSec": 268.08,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 268.08,
+          "endSec": 268.24,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 268.24,
+          "endSec": 268.36,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 268.36,
+          "endSec": 268.58,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 268.58,
+          "endSec": 269.0,
+          "score": 0.99
+        },
+        {
+          "word": "places",
+          "startSec": 269.0,
+          "endSec": 269.56,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 269.56,
+          "endSec": 269.82,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 269.82,
+          "endSec": 270.18,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 270.18,
+          "endSec": 270.88,
+          "score": 0.98
+        },
+        {
+          "word": "Tiger's",
+          "startSec": 270.88,
+          "endSec": 271.58,
+          "score": 0.76
+        },
+        {
+          "word": "Nest",
+          "startSec": 271.58,
+          "endSec": 271.76,
+          "score": 0.98
+        },
+        {
+          "word": "Monastery.",
+          "startSec": 271.76,
+          "endSec": 272.56,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 273.28,
+      "end": 277.87,
+      "text": "This is a very special temple that is built on the side of a mountain.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 273.48,
+          "endSec": 273.82,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 273.82,
+          "endSec": 273.98,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 273.98,
+          "endSec": 274.14,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 274.14,
+          "endSec": 274.44,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 274.44,
+          "endSec": 274.94,
+          "score": 1.0
+        },
+        {
+          "word": "temple",
+          "startSec": 274.94,
+          "endSec": 275.32,
+          "score": 0.99
+        },
+        {
+          "word": "that",
+          "startSec": 275.32,
+          "endSec": 275.74,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 275.74,
+          "endSec": 275.9,
+          "score": 1.0
+        },
+        {
+          "word": "built",
+          "startSec": 275.9,
+          "endSec": 276.24,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 276.24,
+          "endSec": 276.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 276.56,
+          "endSec": 276.72,
+          "score": 1.0
+        },
+        {
+          "word": "side",
+          "startSec": 276.72,
+          "endSec": 277.12,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 277.12,
+          "endSec": 277.32,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 277.32,
+          "endSec": 277.42,
+          "score": 0.99
+        },
+        {
+          "word": "mountain.",
+          "startSec": 277.42,
+          "endSec": 277.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 278.48,
+      "end": 280.93,
+      "text": "It is a famous place for tourists,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 278.68,
+          "endSec": 278.98,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 278.98,
+          "endSec": 279.1,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 279.1,
+          "endSec": 279.28,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 279.28,
+          "endSec": 279.62,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 279.62,
+          "endSec": 280.2,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 280.2,
+          "endSec": 280.48,
+          "score": 1.0
+        },
+        {
+          "word": "tourists,",
+          "startSec": 280.48,
+          "endSec": 280.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 281.67,
+      "end": 285.7,
+      "text": "and is a great way to see the natural beauty of Bhutan.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 281.87,
+          "endSec": 282.45,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 282.45,
+          "endSec": 282.63,
+          "score": 0.86
+        },
+        {
+          "word": "a",
+          "startSec": 282.63,
+          "endSec": 282.79,
+          "score": 1.0
+        },
+        {
+          "word": "great",
+          "startSec": 282.79,
+          "endSec": 283.05,
+          "score": 1.0
+        },
+        {
+          "word": "way",
+          "startSec": 283.05,
+          "endSec": 283.37,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 283.37,
+          "endSec": 283.57,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 283.57,
+          "endSec": 283.77,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 283.77,
+          "endSec": 283.97,
+          "score": 1.0
+        },
+        {
+          "word": "natural",
+          "startSec": 283.97,
+          "endSec": 284.35,
+          "score": 1.0
+        },
+        {
+          "word": "beauty",
+          "startSec": 284.35,
+          "endSec": 284.79,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 284.79,
+          "endSec": 285.11,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan.",
+          "startSec": 285.11,
+          "endSec": 285.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 285.35,
+      "end": 289.48,
+      "text": "Bhutan is also home to many wild animals.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 285.55,
+          "endSec": 286.99,
+          "score": 0.71
+        },
+        {
+          "word": "is",
+          "startSec": 286.99,
+          "endSec": 287.29,
+          "score": 0.87
+        },
+        {
+          "word": "also",
+          "startSec": 287.29,
+          "endSec": 287.53,
+          "score": 0.99
+        },
+        {
+          "word": "home",
+          "startSec": 287.53,
+          "endSec": 287.95,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 287.95,
+          "endSec": 288.23,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 288.23,
+          "endSec": 288.43,
+          "score": 0.99
+        },
+        {
+          "word": "wild",
+          "startSec": 288.43,
+          "endSec": 288.83,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 288.83,
+          "endSec": 289.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 290.38,
+      "end": 296.25,
+      "text": "You can find animals like the red panda, tigers, and snow leopards.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 290.58,
+          "endSec": 290.74,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 290.74,
+          "endSec": 290.9,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 291.2,
+          "endSec": 291.76,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 291.76,
+          "endSec": 292.14,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 292.14,
+          "endSec": 292.36,
+          "score": 0.96
+        },
+        {
+          "word": "red",
+          "startSec": 292.36,
+          "endSec": 292.58,
+          "score": 0.78
+        },
+        {
+          "word": "panda,",
+          "startSec": 292.58,
+          "endSec": 293.2,
+          "score": 0.99
+        },
+        {
+          "word": "tigers,",
+          "startSec": 293.88,
+          "endSec": 294.1,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 295.18,
+          "endSec": 295.22,
+          "score": 1.0
+        },
+        {
+          "word": "snow",
+          "startSec": 295.22,
+          "endSec": 295.52,
+          "score": 0.98
+        },
+        {
+          "word": "leopards.",
+          "startSec": 295.52,
+          "endSec": 296.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 296.88,
+      "end": 302.07,
+      "text": "The country has many national parks where animals can live and be protected.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 297.08,
+          "endSec": 297.28,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 297.28,
+          "endSec": 297.62,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 297.62,
+          "endSec": 297.94,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 297.94,
+          "endSec": 298.22,
+          "score": 1.0
+        },
+        {
+          "word": "national",
+          "startSec": 298.22,
+          "endSec": 298.74,
+          "score": 0.98
+        },
+        {
+          "word": "parks",
+          "startSec": 298.74,
+          "endSec": 299.22,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 299.22,
+          "endSec": 299.72,
+          "score": 0.96
+        },
+        {
+          "word": "animals",
+          "startSec": 299.72,
+          "endSec": 300.22,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 300.22,
+          "endSec": 300.6,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 300.6,
+          "endSec": 300.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 300.96,
+          "endSec": 301.26,
+          "score": 1.0
+        },
+        {
+          "word": "be",
+          "startSec": 301.26,
+          "endSec": 301.44,
+          "score": 1.0
+        },
+        {
+          "word": "protected.",
+          "startSec": 301.44,
+          "endSec": 301.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 303.34,
+      "end": 304.07,
+      "text": "Conclusion",
+      "words": [
+        {
+          "word": "Conclusion",
+          "startSec": 303.54,
+          "endSec": 303.92,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 304.73,
+      "end": 312.34,
+      "text": "Bhutan is a beautiful country with friendly people, amazing nature, and a rich culture.",
+      "words": [
+        {
+          "word": "Bhutan",
+          "startSec": 304.93,
+          "endSec": 305.69,
+          "score": 0.76
+        },
+        {
+          "word": "is",
+          "startSec": 305.69,
+          "endSec": 306.09,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 306.09,
+          "endSec": 306.25,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 306.25,
+          "endSec": 306.61,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 306.61,
+          "endSec": 307.19,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 307.19,
+          "endSec": 307.57,
+          "score": 0.99
+        },
+        {
+          "word": "friendly",
+          "startSec": 307.57,
+          "endSec": 307.97,
+          "score": 1.0
+        },
+        {
+          "word": "people,",
+          "startSec": 307.97,
+          "endSec": 308.63,
+          "score": 1.0
+        },
+        {
+          "word": "amazing",
+          "startSec": 308.93,
+          "endSec": 309.75,
+          "score": 1.0
+        },
+        {
+          "word": "nature,",
+          "startSec": 309.75,
+          "endSec": 310.47,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 311.09,
+          "endSec": 311.45,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 311.45,
+          "endSec": 311.57,
+          "score": 0.93
+        },
+        {
+          "word": "rich",
+          "startSec": 311.57,
+          "endSec": 311.77,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 311.77,
+          "endSec": 312.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 312.99,
+      "end": 320.38,
+      "text": "It's a great place to visit if you love nature, hiking, and learning about new cultures.",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 313.19,
+          "endSec": 313.61,
+          "score": 0.66
+        },
+        {
+          "word": "a",
+          "startSec": 313.61,
+          "endSec": 313.69,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 313.69,
+          "endSec": 313.89,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 313.89,
+          "endSec": 314.27,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 314.27,
+          "endSec": 314.53,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 314.53,
+          "endSec": 314.85,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 314.85,
+          "endSec": 315.37,
+          "score": 0.93
+        },
+        {
+          "word": "you",
+          "startSec": 315.37,
+          "endSec": 315.59,
+          "score": 1.0
+        },
+        {
+          "word": "love",
+          "startSec": 315.59,
+          "endSec": 315.83,
+          "score": 0.99
+        },
+        {
+          "word": "nature,",
+          "startSec": 315.83,
+          "endSec": 316.49,
+          "score": 0.99
+        },
+        {
+          "word": "hiking,",
+          "startSec": 316.95,
+          "endSec": 317.69,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 318.43,
+          "endSec": 318.61,
+          "score": 1.0
+        },
+        {
+          "word": "learning",
+          "startSec": 318.61,
+          "endSec": 318.99,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 318.99,
+          "endSec": 319.47,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 319.47,
+          "endSec": 319.79,
+          "score": 1.0
+        },
+        {
+          "word": "cultures.",
+          "startSec": 319.79,
+          "endSec": 320.23,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 321.31,
+      "end": 326.54,
+      "text": "Whether you want to see the beautiful mountains, try the delicious food,",
+      "words": [
+        {
+          "word": "Whether",
+          "startSec": 321.51,
+          "endSec": 321.93,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 321.93,
+          "endSec": 322.21,
+          "score": 1.0
+        },
+        {
+          "word": "want",
+          "startSec": 322.21,
+          "endSec": 322.39,
+          "score": 0.89
+        },
+        {
+          "word": "to",
+          "startSec": 322.39,
+          "endSec": 322.51,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 322.51,
+          "endSec": 322.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 322.73,
+          "endSec": 322.91,
+          "score": 0.98
+        },
+        {
+          "word": "beautiful",
+          "startSec": 322.91,
+          "endSec": 323.35,
+          "score": 0.99
+        },
+        {
+          "word": "mountains,",
+          "startSec": 323.35,
+          "endSec": 323.93,
+          "score": 0.99
+        },
+        {
+          "word": "try",
+          "startSec": 324.77,
+          "endSec": 325.05,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 325.05,
+          "endSec": 325.31,
+          "score": 0.99
+        },
+        {
+          "word": "delicious",
+          "startSec": 325.31,
+          "endSec": 325.79,
+          "score": 1.0
+        },
+        {
+          "word": "food,",
+          "startSec": 325.79,
+          "endSec": 326.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 326.99,
+      "end": 332.9,
+      "text": "or experience the festivals, Bhutan has something for everyone.",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 327.19,
+          "endSec": 327.41,
+          "score": 1.0
+        },
+        {
+          "word": "experience",
+          "startSec": 327.41,
+          "endSec": 328.17,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 328.17,
+          "endSec": 328.47,
+          "score": 1.0
+        },
+        {
+          "word": "festivals,",
+          "startSec": 328.47,
+          "endSec": 329.11,
+          "score": 0.97
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 330.19,
+          "endSec": 330.67,
+          "score": 0.92
+        },
+        {
+          "word": "has",
+          "startSec": 330.67,
+          "endSec": 331.29,
+          "score": 1.0
+        },
+        {
+          "word": "something",
+          "startSec": 331.29,
+          "endSec": 331.67,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 331.67,
+          "endSec": 332.21,
+          "score": 1.0
+        },
+        {
+          "word": "everyone.",
+          "startSec": 332.21,
+          "endSec": 332.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 333.8,
+      "end": 336.61,
+      "text": "Would you like to visit Bhutan one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 334.0,
+          "endSec": 334.48,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 334.48,
+          "endSec": 334.64,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 334.64,
+          "endSec": 334.86,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 334.86,
+          "endSec": 335.06,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 335.06,
+          "endSec": 335.3,
+          "score": 1.0
+        },
+        {
+          "word": "Bhutan",
+          "startSec": 335.3,
+          "endSec": 335.78,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 335.78,
+          "endSec": 336.16,
+          "score": 0.98
+        },
+        {
+          "word": "day?",
+          "startSec": 336.16,
+          "endSec": 336.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 337.04,
+      "end": 341.31,
+      "text": "I hope you enjoyed learning about this wonderful country.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 337.24,
+          "endSec": 337.96,
+          "score": 0.99
+        },
+        {
+          "word": "hope",
+          "startSec": 337.96,
+          "endSec": 338.18,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 338.18,
+          "endSec": 338.46,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 338.46,
+          "endSec": 338.82,
+          "score": 0.99
+        },
+        {
+          "word": "learning",
+          "startSec": 338.82,
+          "endSec": 339.24,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 339.24,
+          "endSec": 339.72,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 339.72,
+          "endSec": 340.06,
+          "score": 1.0
+        },
+        {
+          "word": "wonderful",
+          "startSec": 340.06,
+          "endSec": 340.44,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 340.44,
+          "endSec": 341.16,
           "score": 1.0
         }
       ]

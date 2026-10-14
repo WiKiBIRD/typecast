@@ -71,74 +71,6 @@
     },
     {
       "id": 2,
-      "start": 4.45,
-      "end": 7.88,
-      "text": "My name is Emilie, I am happy you are here.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 4.65,
-          "endSec": 4.95,
-          "score": 0.98
-        },
-        {
-          "word": "name",
-          "startSec": 4.95,
-          "endSec": 5.17,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 5.17,
-          "endSec": 5.43,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie,",
-          "startSec": 5.43,
-          "endSec": 6.11,
-          "score": 0.63
-        },
-        {
-          "word": "I",
-          "startSec": 6.21,
-          "endSec": 6.33,
-          "score": 0.94
-        },
-        {
-          "word": "am",
-          "startSec": 6.33,
-          "endSec": 6.53,
-          "score": 0.94
-        },
-        {
-          "word": "happy",
-          "startSec": 6.53,
-          "endSec": 6.95,
-          "score": 0.98
-        },
-        {
-          "word": "you",
-          "startSec": 6.95,
-          "endSec": 7.25,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 7.25,
-          "endSec": 7.43,
-          "score": 0.98
-        },
-        {
-          "word": "here.",
-          "startSec": 7.43,
-          "endSec": 7.73,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 8.29,
       "end": 11.24,
       "text": "Today we will talk about South Africa.",
@@ -188,7 +120,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 12.1,
       "end": 18.93,
       "text": "South Africa is a large, beautiful, and diverse country at the southern tip of Africa.",
@@ -286,7 +218,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 19.73,
       "end": 23.4,
       "text": "Let's learn about it in slow and easy English.",
@@ -348,7 +280,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 23.59,
       "end": 24.58,
       "text": "Are you ready?",
@@ -374,7 +306,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 25.36,
       "end": 26.26,
       "text": "Let's begin.",
@@ -394,7 +326,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 30.56,
       "end": 32.21,
       "text": "Where is South Africa?",
@@ -426,7 +358,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 33.11,
       "end": 37.14,
       "text": "South Africa is in the south of the African continent.",
@@ -494,7 +426,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 37.31,
       "end": 43.5,
       "text": "It borders Namibia, Botswana, Zimbabwe, Mozambique, and Eswatini.",
@@ -546,6 +478,4138 @@
           "startSec": 42.57,
           "endSec": 43.35,
           "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 44.65,
+      "end": 48.9,
+      "text": "It also surrounds a small country called Lesotho.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 44.85,
+          "endSec": 45.01,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 45.01,
+          "endSec": 45.23,
+          "score": 1.0
+        },
+        {
+          "word": "surrounds",
+          "startSec": 45.23,
+          "endSec": 46.01,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 46.01,
+          "endSec": 46.43,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 46.43,
+          "endSec": 46.75,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 46.75,
+          "endSec": 47.43,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 47.43,
+          "endSec": 47.89,
+          "score": 0.99
+        },
+        {
+          "word": "Lesotho.",
+          "startSec": 47.89,
+          "endSec": 48.75,
+          "score": 0.74
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 49.29,
+      "end": 58.17,
+      "text": "South Africa has two oceans, the Atlantic Ocean in the west, the Indian Ocean in the east.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 49.49,
+          "endSec": 49.71,
+          "score": 0.99
+        },
+        {
+          "word": "Africa",
+          "startSec": 49.71,
+          "endSec": 50.27,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 50.27,
+          "endSec": 50.87,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 50.87,
+          "endSec": 51.23,
+          "score": 0.99
+        },
+        {
+          "word": "oceans,",
+          "startSec": 51.23,
+          "endSec": 51.77,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 53.02,
+          "endSec": 53.08,
+          "score": 0.99
+        },
+        {
+          "word": "Atlantic",
+          "startSec": 53.08,
+          "endSec": 53.62,
+          "score": 1.0
+        },
+        {
+          "word": "Ocean",
+          "startSec": 53.62,
+          "endSec": 54.1,
+          "score": 0.94
+        },
+        {
+          "word": "in",
+          "startSec": 54.1,
+          "endSec": 54.58,
+          "score": 0.73
+        },
+        {
+          "word": "the",
+          "startSec": 54.58,
+          "endSec": 54.74,
+          "score": 1.0
+        },
+        {
+          "word": "west,",
+          "startSec": 54.74,
+          "endSec": 55.04,
+          "score": 0.45
+        },
+        {
+          "word": "the",
+          "startSec": 56.22,
+          "endSec": 56.3,
+          "score": 0.99
+        },
+        {
+          "word": "Indian",
+          "startSec": 56.3,
+          "endSec": 56.56,
+          "score": 0.99
+        },
+        {
+          "word": "Ocean",
+          "startSec": 56.56,
+          "endSec": 57.18,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 57.18,
+          "endSec": 57.52,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 57.52,
+          "endSec": 57.7,
+          "score": 1.0
+        },
+        {
+          "word": "east.",
+          "startSec": 57.7,
+          "endSec": 58.02,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 59.09,
+      "end": 62.28,
+      "text": "What is the capital city of South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 59.29,
+          "endSec": 59.71,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 59.71,
+          "endSec": 59.89,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 59.89,
+          "endSec": 60.07,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 60.07,
+          "endSec": 60.51,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 60.51,
+          "endSec": 60.95,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 60.95,
+          "endSec": 61.27,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 61.27,
+          "endSec": 61.49,
+          "score": 0.98
+        },
+        {
+          "word": "Africa?",
+          "startSec": 61.49,
+          "endSec": 62.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 63.27,
+      "end": 66.9,
+      "text": "South Africa has three capital cities.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 63.47,
+          "endSec": 64.01,
+          "score": 0.58
+        },
+        {
+          "word": "Africa",
+          "startSec": 64.01,
+          "endSec": 64.59,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 64.59,
+          "endSec": 65.13,
+          "score": 0.92
+        },
+        {
+          "word": "three",
+          "startSec": 65.13,
+          "endSec": 65.63,
+          "score": 0.89
+        },
+        {
+          "word": "capital",
+          "startSec": 65.63,
+          "endSec": 66.17,
+          "score": 0.94
+        },
+        {
+          "word": "cities.",
+          "startSec": 66.17,
+          "endSec": 66.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 67.37,
+      "end": 75.14,
+      "text": "Pretoria for government, Cape Town for Parliament, Blomfontine for the courts.",
+      "words": [
+        {
+          "word": "Pretoria",
+          "startSec": 67.57,
+          "endSec": 68.27,
+          "score": 0.89
+        },
+        {
+          "word": "for",
+          "startSec": 68.27,
+          "endSec": 68.91,
+          "score": 0.9
+        },
+        {
+          "word": "government,",
+          "startSec": 68.91,
+          "endSec": 69.45,
+          "score": 0.95
+        },
+        {
+          "word": "Cape",
+          "startSec": 70.37,
+          "endSec": 70.41,
+          "score": 0.99
+        },
+        {
+          "word": "Town",
+          "startSec": 70.41,
+          "endSec": 70.87,
+          "score": 0.98
+        },
+        {
+          "word": "for",
+          "startSec": 70.87,
+          "endSec": 71.45,
+          "score": 0.98
+        },
+        {
+          "word": "Parliament,",
+          "startSec": 71.45,
+          "endSec": 71.97,
+          "score": 0.65
+        },
+        {
+          "word": "Blomfontine",
+          "startSec": 73.17,
+          "endSec": 73.95,
+          "score": 0.56
+        },
+        {
+          "word": "for",
+          "startSec": 73.95,
+          "endSec": 74.51,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 74.51,
+          "endSec": 74.67,
+          "score": 0.99
+        },
+        {
+          "word": "courts.",
+          "startSec": 74.67,
+          "endSec": 74.99,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 76.26,
+      "end": 82.63,
+      "text": "The biggest city is Johannesburg, a modern city with business and culture.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 76.46,
+          "endSec": 76.56,
+          "score": 0.97
+        },
+        {
+          "word": "biggest",
+          "startSec": 76.56,
+          "endSec": 76.84,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 76.84,
+          "endSec": 77.5,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 77.5,
+          "endSec": 77.8,
+          "score": 1.0
+        },
+        {
+          "word": "Johannesburg,",
+          "startSec": 77.8,
+          "endSec": 78.8,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 79.52,
+          "endSec": 79.82,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 79.82,
+          "endSec": 80.18,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 80.18,
+          "endSec": 80.88,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 80.88,
+          "endSec": 81.28,
+          "score": 0.99
+        },
+        {
+          "word": "business",
+          "startSec": 81.28,
+          "endSec": 81.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 81.86,
+          "endSec": 82.22,
+          "score": 0.99
+        },
+        {
+          "word": "culture.",
+          "startSec": 82.22,
+          "endSec": 82.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 83.61,
+      "end": 87.82,
+      "text": "Cape Town is famous for Table Mountain and the Sea.",
+      "words": [
+        {
+          "word": "Cape",
+          "startSec": 83.81,
+          "endSec": 84.07,
+          "score": 1.0
+        },
+        {
+          "word": "Town",
+          "startSec": 84.07,
+          "endSec": 84.49,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 84.49,
+          "endSec": 84.77,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 84.77,
+          "endSec": 85.29,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 85.29,
+          "endSec": 85.69,
+          "score": 1.0
+        },
+        {
+          "word": "Table",
+          "startSec": 85.69,
+          "endSec": 86.05,
+          "score": 0.75
+        },
+        {
+          "word": "Mountain",
+          "startSec": 86.05,
+          "endSec": 86.61,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 86.61,
+          "endSec": 87.21,
+          "score": 0.74
+        },
+        {
+          "word": "the",
+          "startSec": 87.21,
+          "endSec": 87.41,
+          "score": 0.93
+        },
+        {
+          "word": "Sea.",
+          "startSec": 87.41,
+          "endSec": 87.67,
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 88.88,
+      "end": 91.69,
+      "text": "How many people live in South Africa?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 89.08,
+          "endSec": 89.58,
+          "score": 0.56
+        },
+        {
+          "word": "many",
+          "startSec": 89.58,
+          "endSec": 89.8,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 89.8,
+          "endSec": 90.3,
+          "score": 0.94
+        },
+        {
+          "word": "live",
+          "startSec": 90.3,
+          "endSec": 90.56,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 90.56,
+          "endSec": 90.76,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 90.76,
+          "endSec": 90.98,
+          "score": 0.98
+        },
+        {
+          "word": "Africa?",
+          "startSec": 90.98,
+          "endSec": 91.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 92.62,
+      "end": 96.81,
+      "text": "About 60 million people live in South Africa.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 92.82,
+          "endSec": 92.98,
+          "score": 0.9
+        },
+        {
+          "word": "60",
+          "startSec": 92.98,
+          "endSec": 93.58,
+          "score": 0.96
+        },
+        {
+          "word": "million",
+          "startSec": 93.58,
+          "endSec": 94.32,
+          "score": 0.97
+        },
+        {
+          "word": "people",
+          "startSec": 94.32,
+          "endSec": 94.88,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 94.88,
+          "endSec": 95.46,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 95.46,
+          "endSec": 95.72,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 95.72,
+          "endSec": 95.98,
+          "score": 0.99
+        },
+        {
+          "word": "Africa.",
+          "startSec": 95.98,
+          "endSec": 96.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 97.75,
+      "end": 105.3,
+      "text": "It is a multicultural country with many languages, ethnic groups, and traditions.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 97.95,
+          "endSec": 98.27,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 98.27,
+          "endSec": 98.41,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 98.41,
+          "endSec": 98.57,
+          "score": 0.99
+        },
+        {
+          "word": "multicultural",
+          "startSec": 98.57,
+          "endSec": 99.23,
+          "score": 0.9
+        },
+        {
+          "word": "country",
+          "startSec": 99.23,
+          "endSec": 100.47,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 100.47,
+          "endSec": 100.91,
+          "score": 0.95
+        },
+        {
+          "word": "many",
+          "startSec": 100.91,
+          "endSec": 101.25,
+          "score": 1.0
+        },
+        {
+          "word": "languages,",
+          "startSec": 101.25,
+          "endSec": 102.25,
+          "score": 0.99
+        },
+        {
+          "word": "ethnic",
+          "startSec": 103.27,
+          "endSec": 103.47,
+          "score": 1.0
+        },
+        {
+          "word": "groups,",
+          "startSec": 103.47,
+          "endSec": 104.27,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 104.77,
+          "endSec": 104.83,
+          "score": 0.99
+        },
+        {
+          "word": "traditions.",
+          "startSec": 104.83,
+          "endSec": 105.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 106.77,
+      "end": 109.52,
+      "text": "People call it the rainbow nation.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 106.97,
+          "endSec": 106.97,
+          "score": 0.99
+        },
+        {
+          "word": "call",
+          "startSec": 106.97,
+          "endSec": 107.41,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 107.41,
+          "endSec": 107.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 107.73,
+          "endSec": 107.97,
+          "score": 0.8
+        },
+        {
+          "word": "rainbow",
+          "startSec": 107.97,
+          "endSec": 108.51,
+          "score": 0.37
+        },
+        {
+          "word": "nation.",
+          "startSec": 108.51,
+          "endSec": 109.37,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 110.44,
+      "end": 113.91,
+      "text": "What language do people speak in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 110.64,
+          "endSec": 110.94,
+          "score": 0.99
+        },
+        {
+          "word": "language",
+          "startSec": 110.94,
+          "endSec": 111.48,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 111.48,
+          "endSec": 111.8,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 111.8,
+          "endSec": 112.04,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 112.04,
+          "endSec": 112.6,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 112.6,
+          "endSec": 112.86,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 112.86,
+          "endSec": 113.1,
+          "score": 0.99
+        },
+        {
+          "word": "Africa?",
+          "startSec": 113.1,
+          "endSec": 113.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 114.48,
+      "end": 118.13,
+      "text": "South Africa has 11 official languages.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 114.68,
+          "endSec": 115.12,
+          "score": 0.81
+        },
+        {
+          "word": "Africa",
+          "startSec": 115.12,
+          "endSec": 115.68,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 115.68,
+          "endSec": 116.18,
+          "score": 0.97
+        },
+        {
+          "word": "11",
+          "startSec": 116.18,
+          "endSec": 116.6,
+          "score": 0.94
+        },
+        {
+          "word": "official",
+          "startSec": 116.6,
+          "endSec": 117.38,
+          "score": 0.98
+        },
+        {
+          "word": "languages.",
+          "startSec": 117.38,
+          "endSec": 117.98,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 119.04,
+      "end": 127.57,
+      "text": "The most common are Zulu, Sosa, Africans, English, Sisotho.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 119.24,
+          "endSec": 119.38,
+          "score": 0.89
+        },
+        {
+          "word": "most",
+          "startSec": 119.38,
+          "endSec": 119.68,
+          "score": 0.99
+        },
+        {
+          "word": "common",
+          "startSec": 119.68,
+          "endSec": 120.2,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 120.2,
+          "endSec": 120.62,
+          "score": 0.95
+        },
+        {
+          "word": "Zulu,",
+          "startSec": 120.62,
+          "endSec": 122.12,
+          "score": 0.8
+        },
+        {
+          "word": "Sosa,",
+          "startSec": 122.64,
+          "endSec": 122.96,
+          "score": 0.83
+        },
+        {
+          "word": "Africans,",
+          "startSec": 124.18,
+          "endSec": 124.56,
+          "score": 0.52
+        },
+        {
+          "word": "English,",
+          "startSec": 125.26,
+          "endSec": 125.62,
+          "score": 0.99
+        },
+        {
+          "word": "Sisotho.",
+          "startSec": 126.62,
+          "endSec": 127.42,
+          "score": 0.45
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 128.78,
+      "end": 131.99,
+      "text": "Most people speak more than one language.",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 128.98,
+          "endSec": 129.4,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 129.4,
+          "endSec": 129.8,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 129.8,
+          "endSec": 130.16,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 130.16,
+          "endSec": 130.64,
+          "score": 1.0
+        },
+        {
+          "word": "than",
+          "startSec": 130.64,
+          "endSec": 130.92,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 130.92,
+          "endSec": 131.22,
+          "score": 0.95
+        },
+        {
+          "word": "language.",
+          "startSec": 131.22,
+          "endSec": 131.84,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 132.54,
+      "end": 136.65,
+      "text": "English is used in schools, business, and government.",
+      "words": [
+        {
+          "word": "English",
+          "startSec": 132.74,
+          "endSec": 133.2,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 133.2,
+          "endSec": 133.48,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 133.48,
+          "endSec": 133.8,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 133.8,
+          "endSec": 134.08,
+          "score": 1.0
+        },
+        {
+          "word": "schools,",
+          "startSec": 134.08,
+          "endSec": 134.56,
+          "score": 0.99
+        },
+        {
+          "word": "business,",
+          "startSec": 135.12,
+          "endSec": 135.44,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 136.14,
+          "endSec": 136.16,
+          "score": 1.0
+        },
+        {
+          "word": "government.",
+          "startSec": 136.16,
+          "endSec": 136.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 137.22,
+      "end": 140.13,
+      "text": "What is the weather like in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 137.42,
+          "endSec": 137.72,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 137.72,
+          "endSec": 137.9,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 137.9,
+          "endSec": 138.1,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 138.1,
+          "endSec": 138.4,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 138.4,
+          "endSec": 138.84,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 138.84,
+          "endSec": 139.06,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 139.06,
+          "endSec": 139.32,
+          "score": 0.99
+        },
+        {
+          "word": "Africa?",
+          "startSec": 139.32,
+          "endSec": 139.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 140.98,
+      "end": 143.37,
+      "text": "South Africa has many climates.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 141.18,
+          "endSec": 141.56,
+          "score": 0.81
+        },
+        {
+          "word": "Africa",
+          "startSec": 141.56,
+          "endSec": 142.06,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 142.06,
+          "endSec": 142.5,
+          "score": 0.93
+        },
+        {
+          "word": "many",
+          "startSec": 142.5,
+          "endSec": 142.78,
+          "score": 0.98
+        },
+        {
+          "word": "climates.",
+          "startSec": 142.78,
+          "endSec": 143.22,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 144.0,
+      "end": 146.47,
+      "text": "In general, it is sunny and mild.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 144.2,
+          "endSec": 144.3,
+          "score": 0.98
+        },
+        {
+          "word": "general,",
+          "startSec": 144.3,
+          "endSec": 144.78,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 145.08,
+          "endSec": 145.16,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 145.16,
+          "endSec": 145.3,
+          "score": 0.99
+        },
+        {
+          "word": "sunny",
+          "startSec": 145.3,
+          "endSec": 145.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 145.64,
+          "endSec": 146.0,
+          "score": 1.0
+        },
+        {
+          "word": "mild.",
+          "startSec": 146.0,
+          "endSec": 146.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 146.82,
+      "end": 149.99,
+      "text": "Summers are warm, November to March.",
+      "words": [
+        {
+          "word": "Summers",
+          "startSec": 147.02,
+          "endSec": 147.34,
+          "score": 0.47
+        },
+        {
+          "word": "are",
+          "startSec": 147.34,
+          "endSec": 147.82,
+          "score": 1.0
+        },
+        {
+          "word": "warm,",
+          "startSec": 147.82,
+          "endSec": 148.18,
+          "score": 1.0
+        },
+        {
+          "word": "November",
+          "startSec": 148.8,
+          "endSec": 149.08,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 149.08,
+          "endSec": 149.5,
+          "score": 0.96
+        },
+        {
+          "word": "March.",
+          "startSec": 149.5,
+          "endSec": 149.84,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 150.68,
+      "end": 154.63,
+      "text": "Winters are cool and dry, made to August.",
+      "words": [
+        {
+          "word": "Winters",
+          "startSec": 150.88,
+          "endSec": 151.32,
+          "score": 0.76
+        },
+        {
+          "word": "are",
+          "startSec": 151.32,
+          "endSec": 151.62,
+          "score": 1.0
+        },
+        {
+          "word": "cool",
+          "startSec": 151.62,
+          "endSec": 151.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 151.92,
+          "endSec": 152.32,
+          "score": 1.0
+        },
+        {
+          "word": "dry,",
+          "startSec": 152.32,
+          "endSec": 152.74,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 153.82,
+          "endSec": 153.82,
+          "score": 0.58
+        },
+        {
+          "word": "to",
+          "startSec": 153.82,
+          "endSec": 154.04,
+          "score": 0.4
+        },
+        {
+          "word": "August.",
+          "startSec": 154.04,
+          "endSec": 154.48,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 155.66,
+      "end": 161.79,
+      "text": "The coast is mild and the inland areas are hot in summer and cold in winter.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 155.86,
+          "endSec": 155.88,
+          "score": 0.98
+        },
+        {
+          "word": "coast",
+          "startSec": 155.88,
+          "endSec": 156.24,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 156.24,
+          "endSec": 156.54,
+          "score": 1.0
+        },
+        {
+          "word": "mild",
+          "startSec": 156.54,
+          "endSec": 156.94,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 156.94,
+          "endSec": 157.6,
+          "score": 0.49
+        },
+        {
+          "word": "the",
+          "startSec": 157.6,
+          "endSec": 157.86,
+          "score": 0.99
+        },
+        {
+          "word": "inland",
+          "startSec": 157.86,
+          "endSec": 158.16,
+          "score": 1.0
+        },
+        {
+          "word": "areas",
+          "startSec": 158.16,
+          "endSec": 158.94,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 158.94,
+          "endSec": 159.28,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 159.28,
+          "endSec": 159.66,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 159.66,
+          "endSec": 159.92,
+          "score": 0.65
+        },
+        {
+          "word": "summer",
+          "startSec": 159.92,
+          "endSec": 160.28,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 160.28,
+          "endSec": 160.68,
+          "score": 0.99
+        },
+        {
+          "word": "cold",
+          "startSec": 160.68,
+          "endSec": 161.06,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 161.06,
+          "endSec": 161.34,
+          "score": 0.92
+        },
+        {
+          "word": "winter.",
+          "startSec": 161.34,
+          "endSec": 161.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 162.95,
+      "end": 165.12,
+      "text": "What does South Africa look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 163.15,
+          "endSec": 163.15,
+          "score": 0.98
+        },
+        {
+          "word": "does",
+          "startSec": 163.15,
+          "endSec": 163.33,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 163.33,
+          "endSec": 163.61,
+          "score": 0.99
+        },
+        {
+          "word": "Africa",
+          "startSec": 163.61,
+          "endSec": 164.13,
+          "score": 1.0
+        },
+        {
+          "word": "look",
+          "startSec": 164.13,
+          "endSec": 164.53,
+          "score": 1.0
+        },
+        {
+          "word": "like?",
+          "startSec": 164.53,
+          "endSec": 164.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 165.37,
+      "end": 168.26,
+      "text": "South Africa has many landscapes.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 165.57,
+          "endSec": 165.91,
+          "score": 0.98
+        },
+        {
+          "word": "Africa",
+          "startSec": 165.91,
+          "endSec": 166.51,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 166.51,
+          "endSec": 166.99,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 166.99,
+          "endSec": 167.33,
+          "score": 1.0
+        },
+        {
+          "word": "landscapes.",
+          "startSec": 167.33,
+          "endSec": 168.11,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 168.91,
+      "end": 176.7,
+      "text": "Mountains, like the Dreykensburg grasslands, called the Heivelle Deserts, like the Carou",
+      "words": [
+        {
+          "word": "Mountains,",
+          "startSec": 169.11,
+          "endSec": 169.83,
+          "score": 0.24
+        },
+        {
+          "word": "like",
+          "startSec": 169.83,
+          "endSec": 170.63,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 170.63,
+          "endSec": 170.85,
+          "score": 1.0
+        },
+        {
+          "word": "Dreykensburg",
+          "startSec": 170.85,
+          "endSec": 171.73,
+          "score": 0.62
+        },
+        {
+          "word": "grasslands,",
+          "startSec": 171.73,
+          "endSec": 172.61,
+          "score": 0.8
+        },
+        {
+          "word": "called",
+          "startSec": 172.61,
+          "endSec": 173.19,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 173.19,
+          "endSec": 173.39,
+          "score": 0.99
+        },
+        {
+          "word": "Heivelle",
+          "startSec": 173.39,
+          "endSec": 174.21,
+          "score": 0.48
+        },
+        {
+          "word": "Deserts,",
+          "startSec": 174.21,
+          "endSec": 175.05,
+          "score": 0.91
+        },
+        {
+          "word": "like",
+          "startSec": 175.41,
+          "endSec": 175.79,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 175.79,
+          "endSec": 175.99,
+          "score": 1.0
+        },
+        {
+          "word": "Carou",
+          "startSec": 175.99,
+          "endSec": 176.55,
+          "score": 0.36
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 176.35,
+      "end": 179.24,
+      "text": "beaches along two oceans.",
+      "words": [
+        {
+          "word": "beaches",
+          "startSec": 176.55,
+          "endSec": 177.05,
+          "score": 0.17
+        },
+        {
+          "word": "along",
+          "startSec": 177.05,
+          "endSec": 177.87,
+          "score": 0.78
+        },
+        {
+          "word": "two",
+          "startSec": 177.87,
+          "endSec": 178.37,
+          "score": 0.9
+        },
+        {
+          "word": "oceans.",
+          "startSec": 178.37,
+          "endSec": 179.09,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 180.65,
+      "end": 183.7,
+      "text": "National parks with wild animals.",
+      "words": [
+        {
+          "word": "National",
+          "startSec": 180.85,
+          "endSec": 181.51,
+          "score": 0.89
+        },
+        {
+          "word": "parks",
+          "startSec": 181.51,
+          "endSec": 181.91,
+          "score": 0.76
+        },
+        {
+          "word": "with",
+          "startSec": 181.91,
+          "endSec": 182.45,
+          "score": 0.98
+        },
+        {
+          "word": "wild",
+          "startSec": 182.45,
+          "endSec": 182.77,
+          "score": 0.99
+        },
+        {
+          "word": "animals.",
+          "startSec": 182.77,
+          "endSec": 183.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 184.52,
+      "end": 188.55,
+      "text": "It is one of the most beautiful countries in the world.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 184.72,
+          "endSec": 185.08,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 185.08,
+          "endSec": 185.22,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 185.22,
+          "endSec": 185.5,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 185.5,
+          "endSec": 185.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 185.66,
+          "endSec": 185.82,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 185.82,
+          "endSec": 186.12,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 186.12,
+          "endSec": 186.76,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 186.76,
+          "endSec": 187.5,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 187.5,
+          "endSec": 187.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 187.86,
+          "endSec": 188.02,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 188.02,
+          "endSec": 188.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 189.59,
+      "end": 192.06,
+      "text": "What animals live in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 189.79,
+          "endSec": 189.95,
+          "score": 0.96
+        },
+        {
+          "word": "animals",
+          "startSec": 189.95,
+          "endSec": 190.37,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 190.37,
+          "endSec": 190.91,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 190.91,
+          "endSec": 191.11,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 191.11,
+          "endSec": 191.33,
+          "score": 0.98
+        },
+        {
+          "word": "Africa?",
+          "startSec": 191.33,
+          "endSec": 191.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 192.6,
+      "end": 195.61,
+      "text": "South Africa is famous for wildlife.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 192.8,
+          "endSec": 193.3,
+          "score": 0.98
+        },
+        {
+          "word": "Africa",
+          "startSec": 193.3,
+          "endSec": 193.82,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 193.82,
+          "endSec": 194.26,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 194.26,
+          "endSec": 194.68,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 194.68,
+          "endSec": 195.06,
+          "score": 1.0
+        },
+        {
+          "word": "wildlife.",
+          "startSec": 195.06,
+          "endSec": 195.46,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 196.39,
+      "end": 204.78,
+      "text": "In game reserves and national parks, you can see the Big Five, Lion Elephant, Leopard",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 196.59,
+          "endSec": 197.21,
+          "score": 0.58
+        },
+        {
+          "word": "game",
+          "startSec": 197.21,
+          "endSec": 197.43,
+          "score": 0.55
+        },
+        {
+          "word": "reserves",
+          "startSec": 197.43,
+          "endSec": 197.93,
+          "score": 0.95
+        },
+        {
+          "word": "and",
+          "startSec": 197.93,
+          "endSec": 198.41,
+          "score": 0.63
+        },
+        {
+          "word": "national",
+          "startSec": 198.41,
+          "endSec": 198.65,
+          "score": 0.87
+        },
+        {
+          "word": "parks,",
+          "startSec": 198.65,
+          "endSec": 199.27,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 200.01,
+          "endSec": 200.09,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 200.09,
+          "endSec": 200.27,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 200.27,
+          "endSec": 200.55,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 200.55,
+          "endSec": 200.77,
+          "score": 0.98
+        },
+        {
+          "word": "Big",
+          "startSec": 200.77,
+          "endSec": 201.01,
+          "score": 0.27
+        },
+        {
+          "word": "Five,",
+          "startSec": 201.01,
+          "endSec": 201.59,
+          "score": 0.73
+        },
+        {
+          "word": "Lion",
+          "startSec": 202.53,
+          "endSec": 203.05,
+          "score": 0.8
+        },
+        {
+          "word": "Elephant,",
+          "startSec": 203.05,
+          "endSec": 203.65,
+          "score": 0.83
+        },
+        {
+          "word": "Leopard",
+          "startSec": 204.21,
+          "endSec": 204.63,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 204.43,
+      "end": 206.26,
+      "text": "Rhino, Buffalo.",
+      "words": [
+        {
+          "word": "Rhino,",
+          "startSec": 204.63,
+          "endSec": 205.51,
+          "score": 0.55
+        },
+        {
+          "word": "Buffalo.",
+          "startSec": 205.99,
+          "endSec": 206.11,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 207.34,
+      "end": 215.97,
+      "text": "There are also giraffes, zebras, and hippos, crocodiles, monkeys, and penguins.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 207.54,
+          "endSec": 207.92,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 207.92,
+          "endSec": 208.1,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 208.1,
+          "endSec": 208.66,
+          "score": 1.0
+        },
+        {
+          "word": "giraffes,",
+          "startSec": 208.66,
+          "endSec": 209.98,
+          "score": 0.94
+        },
+        {
+          "word": "zebras,",
+          "startSec": 210.34,
+          "endSec": 210.82,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 210.92,
+          "endSec": 210.96,
+          "score": 0.93
+        },
+        {
+          "word": "hippos,",
+          "startSec": 210.96,
+          "endSec": 211.74,
+          "score": 0.99
+        },
+        {
+          "word": "crocodiles,",
+          "startSec": 212.32,
+          "endSec": 213.28,
+          "score": 0.99
+        },
+        {
+          "word": "monkeys,",
+          "startSec": 213.7,
+          "endSec": 213.88,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 214.96,
+          "endSec": 215.06,
+          "score": 1.0
+        },
+        {
+          "word": "penguins.",
+          "startSec": 215.06,
+          "endSec": 215.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 216.18,
+      "end": 217.67,
+      "text": "Yes, penguins.",
+      "words": [
+        {
+          "word": "Yes,",
+          "startSec": 216.38,
+          "endSec": 216.74,
+          "score": 0.77
+        },
+        {
+          "word": "penguins.",
+          "startSec": 216.88,
+          "endSec": 217.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 217.96,
+      "end": 220.41,
+      "text": "Many types of birds and insects.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 218.16,
+          "endSec": 218.46,
+          "score": 0.98
+        },
+        {
+          "word": "types",
+          "startSec": 218.46,
+          "endSec": 218.84,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 218.84,
+          "endSec": 219.16,
+          "score": 1.0
+        },
+        {
+          "word": "birds",
+          "startSec": 219.16,
+          "endSec": 219.46,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 219.46,
+          "endSec": 219.82,
+          "score": 0.99
+        },
+        {
+          "word": "insects.",
+          "startSec": 219.82,
+          "endSec": 220.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 220.94,
+      "end": 223.71,
+      "text": "What do people eat in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 221.14,
+          "endSec": 221.4,
+          "score": 0.99
+        },
+        {
+          "word": "do",
+          "startSec": 221.4,
+          "endSec": 221.74,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 221.74,
+          "endSec": 222.04,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 222.04,
+          "endSec": 222.48,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 222.48,
+          "endSec": 222.7,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 222.7,
+          "endSec": 222.98,
+          "score": 0.99
+        },
+        {
+          "word": "Africa?",
+          "startSec": 222.98,
+          "endSec": 223.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 224.33,
+      "end": 228.12,
+      "text": "South African food is varied and delicious.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 224.53,
+          "endSec": 225.03,
+          "score": 0.69
+        },
+        {
+          "word": "African",
+          "startSec": 225.03,
+          "endSec": 225.55,
+          "score": 0.98
+        },
+        {
+          "word": "food",
+          "startSec": 225.55,
+          "endSec": 226.17,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 226.17,
+          "endSec": 226.49,
+          "score": 0.99
+        },
+        {
+          "word": "varied",
+          "startSec": 226.49,
+          "endSec": 227.07,
+          "score": 0.79
+        },
+        {
+          "word": "and",
+          "startSec": 227.07,
+          "endSec": 227.51,
+          "score": 0.99
+        },
+        {
+          "word": "delicious.",
+          "startSec": 227.51,
+          "endSec": 227.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 229.27,
+      "end": 234.4,
+      "text": "It mixes African, Dutch, Indian, and British influences.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 229.47,
+          "endSec": 229.59,
+          "score": 0.93
+        },
+        {
+          "word": "mixes",
+          "startSec": 229.59,
+          "endSec": 230.03,
+          "score": 1.0
+        },
+        {
+          "word": "African,",
+          "startSec": 230.03,
+          "endSec": 230.75,
+          "score": 0.98
+        },
+        {
+          "word": "Dutch,",
+          "startSec": 231.19,
+          "endSec": 231.43,
+          "score": 0.99
+        },
+        {
+          "word": "Indian,",
+          "startSec": 232.31,
+          "endSec": 232.41,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 233.13,
+          "endSec": 233.19,
+          "score": 1.0
+        },
+        {
+          "word": "British",
+          "startSec": 233.19,
+          "endSec": 233.57,
+          "score": 0.99
+        },
+        {
+          "word": "influences.",
+          "startSec": 233.57,
+          "endSec": 234.25,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 235.55,
+      "end": 244.77,
+      "text": "Popular foods include pap, a soft porridge made from maize corn, bry, a barbecue with meat,",
+      "words": [
+        {
+          "word": "Popular",
+          "startSec": 235.75,
+          "endSec": 236.09,
+          "score": 0.96
+        },
+        {
+          "word": "foods",
+          "startSec": 236.09,
+          "endSec": 236.77,
+          "score": 0.98
+        },
+        {
+          "word": "include",
+          "startSec": 236.77,
+          "endSec": 237.33,
+          "score": 1.0
+        },
+        {
+          "word": "pap,",
+          "startSec": 237.33,
+          "endSec": 238.09,
+          "score": 0.42
+        },
+        {
+          "word": "a",
+          "startSec": 238.91,
+          "endSec": 239.09,
+          "score": 0.99
+        },
+        {
+          "word": "soft",
+          "startSec": 239.09,
+          "endSec": 239.35,
+          "score": 1.0
+        },
+        {
+          "word": "porridge",
+          "startSec": 239.35,
+          "endSec": 240.13,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 240.13,
+          "endSec": 240.33,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 240.33,
+          "endSec": 240.67,
+          "score": 0.99
+        },
+        {
+          "word": "maize",
+          "startSec": 240.67,
+          "endSec": 240.99,
+          "score": 0.95
+        },
+        {
+          "word": "corn,",
+          "startSec": 240.99,
+          "endSec": 241.63,
+          "score": 0.98
+        },
+        {
+          "word": "bry,",
+          "startSec": 242.62,
+          "endSec": 242.96,
+          "score": 0.55
+        },
+        {
+          "word": "a",
+          "startSec": 244.04,
+          "endSec": 244.04,
+          "score": 0.99
+        },
+        {
+          "word": "barbecue",
+          "startSec": 244.04,
+          "endSec": 244.04,
+          "score": 0.87
+        },
+        {
+          "word": "with",
+          "startSec": 244.04,
+          "endSec": 244.4,
+          "score": 0.99
+        },
+        {
+          "word": "meat,",
+          "startSec": 244.4,
+          "endSec": 244.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 245.66,
+      "end": 253.79,
+      "text": "bunny chow, spicy curry inside bread, bobo de spice meat with egg topping, vet coke,",
+      "words": [
+        {
+          "word": "bunny",
+          "startSec": 245.86,
+          "endSec": 245.86,
+          "score": 0.78
+        },
+        {
+          "word": "chow,",
+          "startSec": 245.86,
+          "endSec": 246.36,
+          "score": 0.93
+        },
+        {
+          "word": "spicy",
+          "startSec": 246.94,
+          "endSec": 246.94,
+          "score": 0.97
+        },
+        {
+          "word": "curry",
+          "startSec": 246.94,
+          "endSec": 247.48,
+          "score": 0.99
+        },
+        {
+          "word": "inside",
+          "startSec": 247.48,
+          "endSec": 247.9,
+          "score": 0.95
+        },
+        {
+          "word": "bread,",
+          "startSec": 247.9,
+          "endSec": 248.62,
+          "score": 1.0
+        },
+        {
+          "word": "bobo",
+          "startSec": 249.56,
+          "endSec": 249.72,
+          "score": 0.58
+        },
+        {
+          "word": "de",
+          "startSec": 249.72,
+          "endSec": 250.14,
+          "score": 0.46
+        },
+        {
+          "word": "spice",
+          "startSec": 250.14,
+          "endSec": 250.52,
+          "score": 0.81
+        },
+        {
+          "word": "meat",
+          "startSec": 250.52,
+          "endSec": 251.04,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 251.04,
+          "endSec": 251.28,
+          "score": 0.99
+        },
+        {
+          "word": "egg",
+          "startSec": 251.28,
+          "endSec": 251.5,
+          "score": 0.96
+        },
+        {
+          "word": "topping,",
+          "startSec": 251.5,
+          "endSec": 252.02,
+          "score": 0.96
+        },
+        {
+          "word": "vet",
+          "startSec": 252.74,
+          "endSec": 252.98,
+          "score": 0.99
+        },
+        {
+          "word": "coke,",
+          "startSec": 252.98,
+          "endSec": 253.64,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 253.44,
+      "end": 258.39,
+      "text": "fried dough bread, chakalaka, a spicy vegetable mix.",
+      "words": [
+        {
+          "word": "fried",
+          "startSec": 253.64,
+          "endSec": 254.22,
+          "score": 0.19
+        },
+        {
+          "word": "dough",
+          "startSec": 254.22,
+          "endSec": 254.56,
+          "score": 0.87
+        },
+        {
+          "word": "bread,",
+          "startSec": 254.56,
+          "endSec": 255.0,
+          "score": 0.97
+        },
+        {
+          "word": "chakalaka,",
+          "startSec": 255.6,
+          "endSec": 256.44,
+          "score": 0.53
+        },
+        {
+          "word": "a",
+          "startSec": 256.68,
+          "endSec": 256.72,
+          "score": 0.98
+        },
+        {
+          "word": "spicy",
+          "startSec": 256.72,
+          "endSec": 257.04,
+          "score": 1.0
+        },
+        {
+          "word": "vegetable",
+          "startSec": 257.04,
+          "endSec": 257.84,
+          "score": 0.99
+        },
+        {
+          "word": "mix.",
+          "startSec": 257.84,
+          "endSec": 258.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 259.23,
+      "end": 263.28,
+      "text": "Meals often include meat, vegetables, and sauce.",
+      "words": [
+        {
+          "word": "Meals",
+          "startSec": 259.43,
+          "endSec": 259.89,
+          "score": 0.95
+        },
+        {
+          "word": "often",
+          "startSec": 259.89,
+          "endSec": 260.35,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 260.35,
+          "endSec": 260.81,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 260.81,
+          "endSec": 261.37,
+          "score": 0.99
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 261.63,
+          "endSec": 262.17,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 262.45,
+          "endSec": 262.75,
+          "score": 1.0
+        },
+        {
+          "word": "sauce.",
+          "startSec": 262.75,
+          "endSec": 263.13,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 264.38,
+      "end": 266.67,
+      "text": "What do people drink in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 264.58,
+          "endSec": 264.64,
+          "score": 0.94
+        },
+        {
+          "word": "do",
+          "startSec": 264.64,
+          "endSec": 264.84,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 264.84,
+          "endSec": 265.02,
+          "score": 1.0
+        },
+        {
+          "word": "drink",
+          "startSec": 265.02,
+          "endSec": 265.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 265.5,
+          "endSec": 265.76,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 265.76,
+          "endSec": 266.0,
+          "score": 0.99
+        },
+        {
+          "word": "Africa?",
+          "startSec": 266.0,
+          "endSec": 266.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 267.24,
+      "end": 268.97,
+      "text": "People drink water.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 267.44,
+          "endSec": 267.62,
+          "score": 0.96
+        },
+        {
+          "word": "drink",
+          "startSec": 267.62,
+          "endSec": 268.2,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 268.2,
+          "endSec": 268.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 269.78,
+      "end": 276.29,
+      "text": "Tea, especially robust tea, a red herbal tea, coffee fruit juice.",
+      "words": [
+        {
+          "word": "Tea,",
+          "startSec": 269.98,
+          "endSec": 270.34,
+          "score": 0.95
+        },
+        {
+          "word": "especially",
+          "startSec": 270.84,
+          "endSec": 271.56,
+          "score": 0.99
+        },
+        {
+          "word": "robust",
+          "startSec": 271.56,
+          "endSec": 272.02,
+          "score": 0.29
+        },
+        {
+          "word": "tea,",
+          "startSec": 272.02,
+          "endSec": 272.72,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 273.0,
+          "endSec": 273.04,
+          "score": 0.96
+        },
+        {
+          "word": "red",
+          "startSec": 273.04,
+          "endSec": 273.3,
+          "score": 0.98
+        },
+        {
+          "word": "herbal",
+          "startSec": 273.3,
+          "endSec": 273.64,
+          "score": 0.97
+        },
+        {
+          "word": "tea,",
+          "startSec": 273.64,
+          "endSec": 274.14,
+          "score": 1.0
+        },
+        {
+          "word": "coffee",
+          "startSec": 274.78,
+          "endSec": 275.08,
+          "score": 0.97
+        },
+        {
+          "word": "fruit",
+          "startSec": 275.08,
+          "endSec": 275.62,
+          "score": 0.64
+        },
+        {
+          "word": "juice.",
+          "startSec": 275.62,
+          "endSec": 276.14,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 277.09,
+      "end": 281.18,
+      "text": "Adults may drink beer or South African wine.",
+      "words": [
+        {
+          "word": "Adults",
+          "startSec": 277.29,
+          "endSec": 277.85,
+          "score": 0.99
+        },
+        {
+          "word": "may",
+          "startSec": 277.85,
+          "endSec": 278.33,
+          "score": 0.99
+        },
+        {
+          "word": "drink",
+          "startSec": 278.33,
+          "endSec": 278.73,
+          "score": 1.0
+        },
+        {
+          "word": "beer",
+          "startSec": 278.73,
+          "endSec": 279.13,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 279.13,
+          "endSec": 279.65,
+          "score": 0.95
+        },
+        {
+          "word": "South",
+          "startSec": 279.65,
+          "endSec": 280.01,
+          "score": 0.98
+        },
+        {
+          "word": "African",
+          "startSec": 280.01,
+          "endSec": 280.57,
+          "score": 1.0
+        },
+        {
+          "word": "wine.",
+          "startSec": 280.57,
+          "endSec": 281.03,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 281.88,
+      "end": 285.09,
+      "text": "South Africa is famous for its wineries.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 282.08,
+          "endSec": 282.48,
+          "score": 0.51
+        },
+        {
+          "word": "Africa",
+          "startSec": 282.48,
+          "endSec": 282.96,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 282.96,
+          "endSec": 283.28,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 283.28,
+          "endSec": 283.66,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 283.66,
+          "endSec": 284.06,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 284.06,
+          "endSec": 284.28,
+          "score": 0.9
+        },
+        {
+          "word": "wineries.",
+          "startSec": 284.28,
+          "endSec": 284.94,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 285.96,
+      "end": 288.53,
+      "text": "What is life like in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 286.16,
+          "endSec": 286.28,
+          "score": 0.87
+        },
+        {
+          "word": "is",
+          "startSec": 286.28,
+          "endSec": 286.46,
+          "score": 0.99
+        },
+        {
+          "word": "life",
+          "startSec": 286.46,
+          "endSec": 286.88,
+          "score": 0.86
+        },
+        {
+          "word": "like",
+          "startSec": 286.88,
+          "endSec": 287.28,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 287.28,
+          "endSec": 287.52,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 287.52,
+          "endSec": 287.78,
+          "score": 0.99
+        },
+        {
+          "word": "Africa?",
+          "startSec": 287.78,
+          "endSec": 288.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 289.2,
+      "end": 293.85,
+      "text": "Life in South Africa is different in cities and villages.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 289.4,
+          "endSec": 289.96,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 289.96,
+          "endSec": 290.2,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 290.2,
+          "endSec": 290.42,
+          "score": 0.99
+        },
+        {
+          "word": "Africa",
+          "startSec": 290.42,
+          "endSec": 291.0,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 291.0,
+          "endSec": 291.4,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 291.4,
+          "endSec": 291.8,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 291.8,
+          "endSec": 292.32,
+          "score": 0.95
+        },
+        {
+          "word": "cities",
+          "startSec": 292.32,
+          "endSec": 292.84,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 292.84,
+          "endSec": 293.24,
+          "score": 1.0
+        },
+        {
+          "word": "villages.",
+          "startSec": 293.24,
+          "endSec": 293.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 294.6,
+      "end": 300.01,
+      "text": "In cities, people work in offices, go to school and drive cars.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 294.8,
+          "endSec": 295.02,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 295.02,
+          "endSec": 295.5,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 295.5,
+          "endSec": 296.1,
+          "score": 1.0
+        },
+        {
+          "word": "work",
+          "startSec": 296.1,
+          "endSec": 296.46,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 296.46,
+          "endSec": 296.7,
+          "score": 1.0
+        },
+        {
+          "word": "offices,",
+          "startSec": 296.7,
+          "endSec": 297.22,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 297.68,
+          "endSec": 297.92,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 297.92,
+          "endSec": 298.12,
+          "score": 1.0
+        },
+        {
+          "word": "school",
+          "startSec": 298.12,
+          "endSec": 298.56,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 298.56,
+          "endSec": 299.06,
+          "score": 0.77
+        },
+        {
+          "word": "drive",
+          "startSec": 299.06,
+          "endSec": 299.38,
+          "score": 1.0
+        },
+        {
+          "word": "cars.",
+          "startSec": 299.38,
+          "endSec": 299.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 300.74,
+      "end": 306.59,
+      "text": "In rural areas, people may farm, raise animals, and live in close communities.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 300.94,
+          "endSec": 301.06,
+          "score": 1.0
+        },
+        {
+          "word": "rural",
+          "startSec": 301.06,
+          "endSec": 301.32,
+          "score": 1.0
+        },
+        {
+          "word": "areas,",
+          "startSec": 301.32,
+          "endSec": 302.02,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 302.02,
+          "endSec": 302.56,
+          "score": 1.0
+        },
+        {
+          "word": "may",
+          "startSec": 302.56,
+          "endSec": 302.92,
+          "score": 0.99
+        },
+        {
+          "word": "farm,",
+          "startSec": 302.92,
+          "endSec": 303.32,
+          "score": 1.0
+        },
+        {
+          "word": "raise",
+          "startSec": 303.7,
+          "endSec": 304.02,
+          "score": 0.99
+        },
+        {
+          "word": "animals,",
+          "startSec": 304.02,
+          "endSec": 304.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 305.08,
+          "endSec": 305.2,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 305.2,
+          "endSec": 305.46,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 305.46,
+          "endSec": 305.68,
+          "score": 1.0
+        },
+        {
+          "word": "close",
+          "startSec": 305.68,
+          "endSec": 306.02,
+          "score": 1.0
+        },
+        {
+          "word": "communities.",
+          "startSec": 306.02,
+          "endSec": 306.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 307.4,
+      "end": 318.29,
+      "text": "People enjoy music and dance, watching soccer, rugby, or cricket, going to church or family",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 307.6,
+          "endSec": 308.4,
+          "score": 0.05
+        },
+        {
+          "word": "enjoy",
+          "startSec": 308.4,
+          "endSec": 309.14,
+          "score": 0.94
+        },
+        {
+          "word": "music",
+          "startSec": 309.14,
+          "endSec": 310.52,
+          "score": 0.72
+        },
+        {
+          "word": "and",
+          "startSec": 310.52,
+          "endSec": 310.98,
+          "score": 0.98
+        },
+        {
+          "word": "dance,",
+          "startSec": 310.98,
+          "endSec": 311.34,
+          "score": 1.0
+        },
+        {
+          "word": "watching",
+          "startSec": 312.61,
+          "endSec": 313.13,
+          "score": 0.99
+        },
+        {
+          "word": "soccer,",
+          "startSec": 313.13,
+          "endSec": 313.65,
+          "score": 0.99
+        },
+        {
+          "word": "rugby,",
+          "startSec": 314.23,
+          "endSec": 314.47,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 315.13,
+          "endSec": 315.15,
+          "score": 0.99
+        },
+        {
+          "word": "cricket,",
+          "startSec": 315.15,
+          "endSec": 315.51,
+          "score": 0.99
+        },
+        {
+          "word": "going",
+          "startSec": 316.34,
+          "endSec": 316.92,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 316.92,
+          "endSec": 317.16,
+          "score": 1.0
+        },
+        {
+          "word": "church",
+          "startSec": 317.16,
+          "endSec": 317.42,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 317.42,
+          "endSec": 317.78,
+          "score": 0.97
+        },
+        {
+          "word": "family",
+          "startSec": 317.78,
+          "endSec": 318.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 317.94,
+      "end": 323.51,
+      "text": "gatherings, nature trips and bries, barbecues.",
+      "words": [
+        {
+          "word": "gatherings,",
+          "startSec": 318.14,
+          "endSec": 318.9,
+          "score": 0.99
+        },
+        {
+          "word": "nature",
+          "startSec": 319.56,
+          "endSec": 320.5,
+          "score": 0.96
+        },
+        {
+          "word": "trips",
+          "startSec": 320.5,
+          "endSec": 320.98,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 320.98,
+          "endSec": 321.26,
+          "score": 0.76
+        },
+        {
+          "word": "bries,",
+          "startSec": 321.26,
+          "endSec": 321.72,
+          "score": 0.2
+        },
+        {
+          "word": "barbecues.",
+          "startSec": 322.28,
+          "endSec": 323.36,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 323.8,
+      "end": 327.97,
+      "text": "What are some holidays and traditions in South Africa?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 324.0,
+          "endSec": 324.32,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 324.32,
+          "endSec": 324.5,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 324.5,
+          "endSec": 324.78,
+          "score": 1.0
+        },
+        {
+          "word": "holidays",
+          "startSec": 324.78,
+          "endSec": 325.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 325.36,
+          "endSec": 326.0,
+          "score": 0.98
+        },
+        {
+          "word": "traditions",
+          "startSec": 326.0,
+          "endSec": 326.4,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 326.4,
+          "endSec": 326.98,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 326.98,
+          "endSec": 327.2,
+          "score": 0.98
+        },
+        {
+          "word": "Africa?",
+          "startSec": 327.2,
+          "endSec": 327.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 328.97,
+      "end": 336.74,
+      "text": "Freedom Day, April 27, celebrates the end of apartheid, Heritage Day.",
+      "words": [
+        {
+          "word": "Freedom",
+          "startSec": 329.17,
+          "endSec": 329.67,
+          "score": 0.97
+        },
+        {
+          "word": "Day,",
+          "startSec": 329.67,
+          "endSec": 330.07,
+          "score": 0.53
+        },
+        {
+          "word": "April",
+          "startSec": 330.45,
+          "endSec": 330.83,
+          "score": 1.0
+        },
+        {
+          "word": "27,",
+          "startSec": 330.83,
+          "endSec": 331.69,
+          "score": 0.98
+        },
+        {
+          "word": "celebrates",
+          "startSec": 332.25,
+          "endSec": 332.65,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 332.65,
+          "endSec": 333.17,
+          "score": 1.0
+        },
+        {
+          "word": "end",
+          "startSec": 333.17,
+          "endSec": 333.51,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 333.51,
+          "endSec": 333.73,
+          "score": 0.99
+        },
+        {
+          "word": "apartheid,",
+          "startSec": 333.73,
+          "endSec": 334.09,
+          "score": 0.97
+        },
+        {
+          "word": "Heritage",
+          "startSec": 335.25,
+          "endSec": 335.73,
+          "score": 0.85
+        },
+        {
+          "word": "Day.",
+          "startSec": 335.73,
+          "endSec": 336.59,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 337.17,
+      "end": 347.41,
+      "text": "September 24 celebrates all cultures, Youth Day, June 16, Christmas, New Year's and Easter.",
+      "words": [
+        {
+          "word": "September",
+          "startSec": 337.37,
+          "endSec": 337.87,
+          "score": 0.5
+        },
+        {
+          "word": "24",
+          "startSec": 337.87,
+          "endSec": 338.59,
+          "score": 0.95
+        },
+        {
+          "word": "celebrates",
+          "startSec": 338.59,
+          "endSec": 339.51,
+          "score": 0.91
+        },
+        {
+          "word": "all",
+          "startSec": 339.51,
+          "endSec": 340.01,
+          "score": 0.98
+        },
+        {
+          "word": "cultures,",
+          "startSec": 340.01,
+          "endSec": 340.61,
+          "score": 0.98
+        },
+        {
+          "word": "Youth",
+          "startSec": 341.43,
+          "endSec": 341.87,
+          "score": 0.72
+        },
+        {
+          "word": "Day,",
+          "startSec": 341.87,
+          "endSec": 342.27,
+          "score": 0.99
+        },
+        {
+          "word": "June",
+          "startSec": 342.69,
+          "endSec": 342.81,
+          "score": 0.99
+        },
+        {
+          "word": "16,",
+          "startSec": 342.81,
+          "endSec": 343.37,
+          "score": 1.0
+        },
+        {
+          "word": "Christmas,",
+          "startSec": 344.46,
+          "endSec": 345.1,
+          "score": 0.97
+        },
+        {
+          "word": "New",
+          "startSec": 345.74,
+          "endSec": 346.06,
+          "score": 0.99
+        },
+        {
+          "word": "Year's",
+          "startSec": 346.06,
+          "endSec": 346.64,
+          "score": 0.81
+        },
+        {
+          "word": "and",
+          "startSec": 346.64,
+          "endSec": 346.78,
+          "score": 0.74
+        },
+        {
+          "word": "Easter.",
+          "startSec": 346.78,
+          "endSec": 347.26,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 348.2,
+      "end": 352.19,
+      "text": "Local festivals with music, food, and art.",
+      "words": [
+        {
+          "word": "Local",
+          "startSec": 348.4,
+          "endSec": 348.78,
+          "score": 0.98
+        },
+        {
+          "word": "festivals",
+          "startSec": 348.78,
+          "endSec": 349.4,
+          "score": 0.94
+        },
+        {
+          "word": "with",
+          "startSec": 349.4,
+          "endSec": 350.04,
+          "score": 0.99
+        },
+        {
+          "word": "music,",
+          "startSec": 350.04,
+          "endSec": 350.64,
+          "score": 0.99
+        },
+        {
+          "word": "food,",
+          "startSec": 351.06,
+          "endSec": 351.32,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 351.66,
+          "endSec": 351.68,
+          "score": 0.99
+        },
+        {
+          "word": "art.",
+          "startSec": 351.68,
+          "endSec": 352.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 352.7,
+      "end": 357.33,
+      "text": "People wear traditional clothes, sing, and celebrate diversity.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 352.9,
+          "endSec": 353.32,
+          "score": 0.98
+        },
+        {
+          "word": "wear",
+          "startSec": 353.32,
+          "endSec": 353.64,
+          "score": 1.0
+        },
+        {
+          "word": "traditional",
+          "startSec": 353.64,
+          "endSec": 354.12,
+          "score": 1.0
+        },
+        {
+          "word": "clothes,",
+          "startSec": 354.12,
+          "endSec": 354.88,
+          "score": 1.0
+        },
+        {
+          "word": "sing,",
+          "startSec": 355.52,
+          "endSec": 355.62,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 356.04,
+          "endSec": 356.12,
+          "score": 1.0
+        },
+        {
+          "word": "celebrate",
+          "startSec": 356.12,
+          "endSec": 356.64,
+          "score": 1.0
+        },
+        {
+          "word": "diversity.",
+          "startSec": 356.64,
+          "endSec": 357.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 358.49,
+      "end": 361.28,
+      "text": "Some fun facts about South Africa.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 358.69,
+          "endSec": 358.97,
+          "score": 0.99
+        },
+        {
+          "word": "fun",
+          "startSec": 358.97,
+          "endSec": 359.31,
+          "score": 1.0
+        },
+        {
+          "word": "facts",
+          "startSec": 359.31,
+          "endSec": 359.63,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 359.63,
+          "endSec": 360.17,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 360.17,
+          "endSec": 360.49,
+          "score": 0.99
+        },
+        {
+          "word": "Africa.",
+          "startSec": 360.49,
+          "endSec": 361.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 361.88,
+      "end": 364.77,
+      "text": "South Africa has three capitals.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 362.08,
+          "endSec": 362.56,
+          "score": 0.96
+        },
+        {
+          "word": "Africa",
+          "startSec": 362.56,
+          "endSec": 363.1,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 363.1,
+          "endSec": 363.6,
+          "score": 1.0
+        },
+        {
+          "word": "three",
+          "startSec": 363.6,
+          "endSec": 364.04,
+          "score": 0.9
+        },
+        {
+          "word": "capitals.",
+          "startSec": 364.04,
+          "endSec": 364.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 365.32,
+      "end": 368.99,
+      "text": "The flag has six colors, very unique.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 365.52,
+          "endSec": 366.08,
+          "score": 0.43
+        },
+        {
+          "word": "flag",
+          "startSec": 366.08,
+          "endSec": 366.52,
+          "score": 0.97
+        },
+        {
+          "word": "has",
+          "startSec": 366.52,
+          "endSec": 366.86,
+          "score": 0.99
+        },
+        {
+          "word": "six",
+          "startSec": 366.86,
+          "endSec": 367.24,
+          "score": 0.88
+        },
+        {
+          "word": "colors,",
+          "startSec": 367.24,
+          "endSec": 367.76,
+          "score": 0.95
+        },
+        {
+          "word": "very",
+          "startSec": 368.12,
+          "endSec": 368.26,
+          "score": 0.99
+        },
+        {
+          "word": "unique.",
+          "startSec": 368.26,
+          "endSec": 368.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 369.68,
+      "end": 377.45,
+      "text": "The cradle of humankind is in South Africa, where early human fossils were found.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 369.88,
+          "endSec": 369.92,
+          "score": 0.98
+        },
+        {
+          "word": "cradle",
+          "startSec": 369.92,
+          "endSec": 370.34,
+          "score": 0.9
+        },
+        {
+          "word": "of",
+          "startSec": 370.34,
+          "endSec": 370.72,
+          "score": 1.0
+        },
+        {
+          "word": "humankind",
+          "startSec": 370.72,
+          "endSec": 371.34,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 371.34,
+          "endSec": 372.18,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 372.18,
+          "endSec": 372.34,
+          "score": 1.0
+        },
+        {
+          "word": "South",
+          "startSec": 372.34,
+          "endSec": 372.68,
+          "score": 0.97
+        },
+        {
+          "word": "Africa,",
+          "startSec": 372.68,
+          "endSec": 373.26,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 373.98,
+          "endSec": 374.68,
+          "score": 0.99
+        },
+        {
+          "word": "early",
+          "startSec": 374.68,
+          "endSec": 375.24,
+          "score": 0.99
+        },
+        {
+          "word": "human",
+          "startSec": 375.24,
+          "endSec": 375.74,
+          "score": 1.0
+        },
+        {
+          "word": "fossils",
+          "startSec": 375.74,
+          "endSec": 376.22,
+          "score": 1.0
+        },
+        {
+          "word": "were",
+          "startSec": 376.22,
+          "endSec": 376.82,
+          "score": 1.0
+        },
+        {
+          "word": "found.",
+          "startSec": 376.82,
+          "endSec": 377.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 379.38,
+      "end": 383.95,
+      "text": "Nelson Mandela was the country's first black president.",
+      "words": [
+        {
+          "word": "Nelson",
+          "startSec": 379.58,
+          "endSec": 380.14,
+          "score": 0.99
+        },
+        {
+          "word": "Mandela",
+          "startSec": 380.14,
+          "endSec": 380.74,
+          "score": 0.97
+        },
+        {
+          "word": "was",
+          "startSec": 380.74,
+          "endSec": 381.24,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 381.24,
+          "endSec": 381.4,
+          "score": 1.0
+        },
+        {
+          "word": "country's",
+          "startSec": 381.4,
+          "endSec": 382.1,
+          "score": 0.99
+        },
+        {
+          "word": "first",
+          "startSec": 382.1,
+          "endSec": 382.56,
+          "score": 1.0
+        },
+        {
+          "word": "black",
+          "startSec": 382.56,
+          "endSec": 383.04,
+          "score": 0.78
+        },
+        {
+          "word": "president.",
+          "startSec": 383.04,
+          "endSec": 383.8,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 384.76,
+      "end": 391.53,
+      "text": "South Africa has 11 official languages, more than any other country.",
+      "words": [
+        {
+          "word": "South",
+          "startSec": 384.96,
+          "endSec": 385.26,
+          "score": 0.99
+        },
+        {
+          "word": "Africa",
+          "startSec": 385.26,
+          "endSec": 385.84,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 385.84,
+          "endSec": 386.42,
+          "score": 1.0
+        },
+        {
+          "word": "11",
+          "startSec": 386.42,
+          "endSec": 387.08,
+          "score": 0.83
+        },
+        {
+          "word": "official",
+          "startSec": 387.08,
+          "endSec": 387.88,
+          "score": 1.0
+        },
+        {
+          "word": "languages,",
+          "startSec": 387.88,
+          "endSec": 388.56,
+          "score": 1.0
+        },
+        {
+          "word": "more",
+          "startSec": 389.4,
+          "endSec": 389.96,
+          "score": 1.0
+        },
+        {
+          "word": "than",
+          "startSec": 389.96,
+          "endSec": 390.28,
+          "score": 1.0
+        },
+        {
+          "word": "any",
+          "startSec": 390.28,
+          "endSec": 390.66,
+          "score": 1.0
+        },
+        {
+          "word": "other",
+          "startSec": 390.66,
+          "endSec": 391.02,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 391.02,
+          "endSec": 391.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 392.21,
+      "end": 395.78,
+      "text": "Now you know many things about South Africa.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 392.41,
+          "endSec": 392.83,
+          "score": 0.27
+        },
+        {
+          "word": "you",
+          "startSec": 392.83,
+          "endSec": 393.09,
+          "score": 0.88
+        },
+        {
+          "word": "know",
+          "startSec": 393.09,
+          "endSec": 393.31,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 393.31,
+          "endSec": 393.67,
+          "score": 0.94
+        },
+        {
+          "word": "things",
+          "startSec": 393.67,
+          "endSec": 394.25,
+          "score": 0.99
+        },
+        {
+          "word": "about",
+          "startSec": 394.25,
+          "endSec": 394.61,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 394.61,
+          "endSec": 395.01,
+          "score": 0.98
+        },
+        {
+          "word": "Africa.",
+          "startSec": 395.01,
+          "endSec": 395.63,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 396.21,
+      "end": 400.94,
+      "text": "You know where it is, what people speak, and what they eat.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 396.41,
+          "endSec": 396.47,
+          "score": 0.99
+        },
+        {
+          "word": "know",
+          "startSec": 396.47,
+          "endSec": 396.69,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 396.69,
+          "endSec": 397.01,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 397.01,
+          "endSec": 397.23,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 397.23,
+          "endSec": 397.69,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 398.05,
+          "endSec": 398.31,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 398.31,
+          "endSec": 398.61,
+          "score": 0.99
+        },
+        {
+          "word": "speak,",
+          "startSec": 398.61,
+          "endSec": 399.25,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 399.75,
+          "endSec": 399.95,
+          "score": 0.99
+        },
+        {
+          "word": "what",
+          "startSec": 399.95,
+          "endSec": 400.23,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 400.23,
+          "endSec": 400.45,
+          "score": 1.0
+        },
+        {
+          "word": "eat.",
+          "startSec": 400.45,
+          "endSec": 400.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 401.61,
+      "end": 406.92,
+      "text": "You learned about the weather, animals, holidays, and daily life.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 401.81,
+          "endSec": 401.93,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 401.93,
+          "endSec": 402.17,
+          "score": 0.97
+        },
+        {
+          "word": "about",
+          "startSec": 402.17,
+          "endSec": 402.57,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 402.57,
+          "endSec": 402.81,
+          "score": 0.99
+        },
+        {
+          "word": "weather,",
+          "startSec": 402.81,
+          "endSec": 403.21,
+          "score": 0.96
+        },
+        {
+          "word": "animals,",
+          "startSec": 403.71,
+          "endSec": 404.17,
+          "score": 1.0
+        },
+        {
+          "word": "holidays,",
+          "startSec": 404.71,
+          "endSec": 405.03,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 405.27,
+          "endSec": 405.85,
+          "score": 0.99
+        },
+        {
+          "word": "daily",
+          "startSec": 405.85,
+          "endSec": 406.21,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 406.21,
+          "endSec": 406.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 407.54,
+      "end": 408.57,
+      "text": "Well done.",
+      "words": [
+        {
+          "word": "Well",
+          "startSec": 407.74,
+          "endSec": 408.06,
+          "score": 1.0
+        },
+        {
+          "word": "done.",
+          "startSec": 408.06,
+          "endSec": 408.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 413.53,
+      "end": 414.6,
+      "text": "I am Emili.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 413.73,
+          "endSec": 413.95,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 413.95,
+          "endSec": 414.11,
+          "score": 0.58
+        },
+        {
+          "word": "Emili.",
+          "startSec": 414.11,
+          "endSec": 414.45,
+          "score": 0.45
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 417.17,
+      "end": 417.74,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 417.37,
+          "endSec": 417.59,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 417.39,
+      "end": 422.26,
+      "text": "Or as they say in Zulu, Humbakahle.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 417.59,
+          "endSec": 418.47,
+          "score": 0.05
+        },
+        {
+          "word": "as",
+          "startSec": 418.47,
+          "endSec": 419.25,
+          "score": 0.81
+        },
+        {
+          "word": "they",
+          "startSec": 419.25,
+          "endSec": 419.45,
+          "score": 0.98
+        },
+        {
+          "word": "say",
+          "startSec": 419.45,
+          "endSec": 419.75,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 419.75,
+          "endSec": 419.99,
+          "score": 0.97
+        },
+        {
+          "word": "Zulu,",
+          "startSec": 419.99,
+          "endSec": 420.37,
+          "score": 0.91
+        },
+        {
+          "word": "Humbakahle.",
+          "startSec": 421.39,
+          "endSec": 422.11,
+          "score": 0.42
         }
       ]
     }

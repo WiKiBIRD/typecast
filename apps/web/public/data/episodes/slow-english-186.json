@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 4.28,
-      "end": 6.19,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 4.48,
-          "endSec": 4.84,
-          "score": 0.96
-        },
-        {
-          "word": "name",
-          "startSec": 4.84,
-          "endSec": 5.08,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 5.08,
-          "endSec": 5.34,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 5.34,
-          "endSec": 6.04,
-          "score": 0.64
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 6.16,
       "end": 8.05,
       "text": "I am happy you are here.",
@@ -146,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.62,
       "end": 11.09,
       "text": "Today we will talk about Togo.",
@@ -190,7 +158,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 11.93,
       "end": 16.4,
       "text": "Togo is a small, colorful, and friendly country",
@@ -246,7 +214,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 16.05,
       "end": 17.52,
       "text": "in West Africa.",
@@ -272,7 +240,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 18.05,
       "end": 21.72,
       "text": "Let's learn about it in slow and easy English.",
@@ -334,7 +302,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 22.07,
       "end": 23.06,
       "text": "Are you ready?",
@@ -360,7 +328,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 23.53,
       "end": 24.48,
       "text": "Let's begin.",
@@ -380,7 +348,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 25.7,
       "end": 26.81,
       "text": "Where is Togo?",
@@ -402,6 +370,4084 @@
           "startSec": 26.26,
           "endSec": 26.66,
           "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 27.24,
+      "end": 29.51,
+      "text": "Togo is in West Africa.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 27.44,
+          "endSec": 28.0,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 28.0,
+          "endSec": 28.34,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 28.34,
+          "endSec": 28.5,
+          "score": 1.0
+        },
+        {
+          "word": "West",
+          "startSec": 28.5,
+          "endSec": 28.76,
+          "score": 1.0
+        },
+        {
+          "word": "Africa.",
+          "startSec": 28.76,
+          "endSec": 29.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 29.16,
+      "end": 34.37,
+      "text": "It is next to Ghana, Benin, and Burkina Faso.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 29.36,
+          "endSec": 30.04,
+          "score": 0.33
+        },
+        {
+          "word": "is",
+          "startSec": 30.04,
+          "endSec": 30.24,
+          "score": 0.94
+        },
+        {
+          "word": "next",
+          "startSec": 30.24,
+          "endSec": 30.54,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 30.54,
+          "endSec": 30.92,
+          "score": 0.99
+        },
+        {
+          "word": "Ghana,",
+          "startSec": 30.92,
+          "endSec": 31.34,
+          "score": 0.96
+        },
+        {
+          "word": "Benin,",
+          "startSec": 31.78,
+          "endSec": 32.28,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 32.8,
+          "endSec": 32.9,
+          "score": 0.99
+        },
+        {
+          "word": "Burkina",
+          "startSec": 32.9,
+          "endSec": 33.42,
+          "score": 0.98
+        },
+        {
+          "word": "Faso.",
+          "startSec": 33.42,
+          "endSec": 34.22,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 34.76,
+      "end": 38.25,
+      "text": "To the south, it touches the Atlantic Ocean.",
+      "words": [
+        {
+          "word": "To",
+          "startSec": 34.96,
+          "endSec": 35.2,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 35.2,
+          "endSec": 35.36,
+          "score": 1.0
+        },
+        {
+          "word": "south,",
+          "startSec": 35.36,
+          "endSec": 35.74,
+          "score": 0.92
+        },
+        {
+          "word": "it",
+          "startSec": 36.1,
+          "endSec": 36.18,
+          "score": 1.0
+        },
+        {
+          "word": "touches",
+          "startSec": 36.18,
+          "endSec": 36.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 36.64,
+          "endSec": 36.98,
+          "score": 1.0
+        },
+        {
+          "word": "Atlantic",
+          "startSec": 36.98,
+          "endSec": 37.58,
+          "score": 1.0
+        },
+        {
+          "word": "Ocean.",
+          "startSec": 37.58,
+          "endSec": 38.1,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 39.02,
+      "end": 42.47,
+      "text": "Togo has beaches, hills, and forests.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 39.22,
+          "endSec": 39.58,
+          "score": 0.93
+        },
+        {
+          "word": "has",
+          "startSec": 39.58,
+          "endSec": 39.98,
+          "score": 1.0
+        },
+        {
+          "word": "beaches,",
+          "startSec": 39.98,
+          "endSec": 40.38,
+          "score": 0.99
+        },
+        {
+          "word": "hills,",
+          "startSec": 40.96,
+          "endSec": 41.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 41.76,
+          "endSec": 41.86,
+          "score": 1.0
+        },
+        {
+          "word": "forests.",
+          "startSec": 41.86,
+          "endSec": 42.32,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 43.19,
+      "end": 45.74,
+      "text": "What is the capital city of Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 43.39,
+          "endSec": 43.61,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 43.61,
+          "endSec": 43.79,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 43.79,
+          "endSec": 43.99,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 43.99,
+          "endSec": 44.45,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 44.45,
+          "endSec": 44.89,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 44.89,
+          "endSec": 45.17,
+          "score": 1.0
+        },
+        {
+          "word": "Togo?",
+          "startSec": 45.17,
+          "endSec": 45.59,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 46.11,
+      "end": 48.54,
+      "text": "The capital city is Lome.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 46.31,
+          "endSec": 46.43,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 46.43,
+          "endSec": 46.77,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 46.77,
+          "endSec": 47.43,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 47.43,
+          "endSec": 47.89,
+          "score": 1.0
+        },
+        {
+          "word": "Lome.",
+          "startSec": 47.89,
+          "endSec": 48.39,
+          "score": 0.69
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 48.77,
+      "end": 51.98,
+      "text": "Lome is on the coast by the sea.",
+      "words": [
+        {
+          "word": "Lome",
+          "startSec": 48.97,
+          "endSec": 49.65,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 49.65,
+          "endSec": 50.03,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 50.03,
+          "endSec": 50.19,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 50.19,
+          "endSec": 50.37,
+          "score": 1.0
+        },
+        {
+          "word": "coast",
+          "startSec": 50.37,
+          "endSec": 50.71,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 50.71,
+          "endSec": 51.33,
+          "score": 0.91
+        },
+        {
+          "word": "the",
+          "startSec": 51.33,
+          "endSec": 51.55,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 51.55,
+          "endSec": 51.83,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 52.43,
+      "end": 57.42,
+      "text": "It has markets, museums, offices, and beaches.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 52.63,
+          "endSec": 52.81,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 52.81,
+          "endSec": 53.03,
+          "score": 1.0
+        },
+        {
+          "word": "markets,",
+          "startSec": 53.03,
+          "endSec": 53.61,
+          "score": 1.0
+        },
+        {
+          "word": "museums,",
+          "startSec": 53.79,
+          "endSec": 54.81,
+          "score": 1.0
+        },
+        {
+          "word": "offices,",
+          "startSec": 55.89,
+          "endSec": 56.27,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 56.27,
+          "endSec": 57.01,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 57.01,
+          "endSec": 57.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 57.97,
+      "end": 60.96,
+      "text": "It is the largest city in Togo.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 58.17,
+          "endSec": 58.59,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 58.59,
+          "endSec": 58.77,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 58.77,
+          "endSec": 58.99,
+          "score": 0.99
+        },
+        {
+          "word": "largest",
+          "startSec": 58.99,
+          "endSec": 59.45,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 59.45,
+          "endSec": 60.09,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 60.09,
+          "endSec": 60.37,
+          "score": 1.0
+        },
+        {
+          "word": "Togo.",
+          "startSec": 60.37,
+          "endSec": 60.81,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 61.9,
+      "end": 65.33,
+      "text": "Other towns include Cara in the north.",
+      "words": [
+        {
+          "word": "Other",
+          "startSec": 62.1,
+          "endSec": 62.48,
+          "score": 1.0
+        },
+        {
+          "word": "towns",
+          "startSec": 62.48,
+          "endSec": 62.9,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 62.9,
+          "endSec": 63.48,
+          "score": 1.0
+        },
+        {
+          "word": "Cara",
+          "startSec": 63.48,
+          "endSec": 64.3,
+          "score": 0.79
+        },
+        {
+          "word": "in",
+          "startSec": 64.3,
+          "endSec": 64.68,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 64.68,
+          "endSec": 64.84,
+          "score": 0.99
+        },
+        {
+          "word": "north.",
+          "startSec": 64.84,
+          "endSec": 65.18,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 65.84,
+      "end": 68.05,
+      "text": "Socode in the center.",
+      "words": [
+        {
+          "word": "Socode",
+          "startSec": 66.04,
+          "endSec": 66.82,
+          "score": 0.54
+        },
+        {
+          "word": "in",
+          "startSec": 66.82,
+          "endSec": 67.26,
+          "score": 0.58
+        },
+        {
+          "word": "the",
+          "startSec": 67.26,
+          "endSec": 67.42,
+          "score": 0.99
+        },
+        {
+          "word": "center.",
+          "startSec": 67.42,
+          "endSec": 67.9,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 68.42,
+      "end": 70.83,
+      "text": "Attack Palme near the mountains.",
+      "words": [
+        {
+          "word": "Attack",
+          "startSec": 68.62,
+          "endSec": 69.0,
+          "score": 0.87
+        },
+        {
+          "word": "Palme",
+          "startSec": 69.0,
+          "endSec": 69.68,
+          "score": 0.64
+        },
+        {
+          "word": "near",
+          "startSec": 69.68,
+          "endSec": 70.14,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 70.14,
+          "endSec": 70.32,
+          "score": 0.99
+        },
+        {
+          "word": "mountains.",
+          "startSec": 70.32,
+          "endSec": 70.68,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 71.64,
+      "end": 73.77,
+      "text": "How many people live in Togo?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 71.84,
+          "endSec": 72.08,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 72.08,
+          "endSec": 72.28,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 72.28,
+          "endSec": 72.76,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 72.76,
+          "endSec": 73.0,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 73.0,
+          "endSec": 73.2,
+          "score": 1.0
+        },
+        {
+          "word": "Togo?",
+          "startSec": 73.2,
+          "endSec": 73.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 74.65,
+      "end": 78.66,
+      "text": "About 8.5 million people live in Togo.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 74.85,
+          "endSec": 74.99,
+          "score": 0.98
+        },
+        {
+          "word": "8",
+          "startSec": 74.99,
+          "endSec": 75.55,
+          "score": 0.96
+        },
+        {
+          "word": ".5",
+          "startSec": 75.55,
+          "endSec": 76.61,
+          "score": 0.99
+        },
+        {
+          "word": "million",
+          "startSec": 76.61,
+          "endSec": 76.89,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 76.89,
+          "endSec": 77.43,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 77.43,
+          "endSec": 77.85,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 77.85,
+          "endSec": 78.09,
+          "score": 1.0
+        },
+        {
+          "word": "Togo.",
+          "startSec": 78.09,
+          "endSec": 78.51,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 79.42,
+      "end": 83.07,
+      "text": "Some live in cities, but many live in villages",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 79.62,
+          "endSec": 80.04,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 80.04,
+          "endSec": 80.34,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 80.34,
+          "endSec": 80.58,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 80.58,
+          "endSec": 80.94,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 81.06,
+          "endSec": 81.54,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 81.54,
+          "endSec": 81.8,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 81.8,
+          "endSec": 82.28,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 82.28,
+          "endSec": 82.52,
+          "score": 1.0
+        },
+        {
+          "word": "villages",
+          "startSec": 82.52,
+          "endSec": 82.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 82.72,
+      "end": 84.69,
+      "text": "and rural areas.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 82.92,
+          "endSec": 83.56,
+          "score": 0.98
+        },
+        {
+          "word": "rural",
+          "startSec": 83.56,
+          "endSec": 83.92,
+          "score": 1.0
+        },
+        {
+          "word": "areas.",
+          "startSec": 83.92,
+          "endSec": 84.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 85.59,
+      "end": 90.3,
+      "text": "Togo is a multicultural country with many ethnic groups.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 85.79,
+          "endSec": 86.43,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 86.43,
+          "endSec": 86.79,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 86.79,
+          "endSec": 86.95,
+          "score": 0.99
+        },
+        {
+          "word": "multicultural",
+          "startSec": 86.95,
+          "endSec": 87.47,
+          "score": 0.94
+        },
+        {
+          "word": "country",
+          "startSec": 87.47,
+          "endSec": 88.47,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 88.47,
+          "endSec": 88.77,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 88.77,
+          "endSec": 89.09,
+          "score": 1.0
+        },
+        {
+          "word": "ethnic",
+          "startSec": 89.09,
+          "endSec": 89.59,
+          "score": 1.0
+        },
+        {
+          "word": "groups.",
+          "startSec": 89.59,
+          "endSec": 90.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 91.38,
+      "end": 94.13,
+      "text": "What language do people speak in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 91.58,
+          "endSec": 91.76,
+          "score": 0.89
+        },
+        {
+          "word": "language",
+          "startSec": 91.76,
+          "endSec": 92.2,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 92.2,
+          "endSec": 92.56,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 92.56,
+          "endSec": 92.82,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 92.82,
+          "endSec": 93.3,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 93.3,
+          "endSec": 93.52,
+          "score": 1.0
+        },
+        {
+          "word": "Togo?",
+          "startSec": 93.52,
+          "endSec": 93.98,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 94.88,
+      "end": 97.37,
+      "text": "The official language is French.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 95.08,
+          "endSec": 95.22,
+          "score": 0.97
+        },
+        {
+          "word": "official",
+          "startSec": 95.22,
+          "endSec": 95.54,
+          "score": 0.99
+        },
+        {
+          "word": "language",
+          "startSec": 95.54,
+          "endSec": 96.36,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 96.36,
+          "endSec": 96.78,
+          "score": 1.0
+        },
+        {
+          "word": "French.",
+          "startSec": 96.78,
+          "endSec": 97.22,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 97.66,
+      "end": 102.61,
+      "text": "People also speak local languages like in the south,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 97.86,
+          "endSec": 98.04,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 98.04,
+          "endSec": 98.38,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 98.38,
+          "endSec": 99.06,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 99.06,
+          "endSec": 99.4,
+          "score": 0.99
+        },
+        {
+          "word": "languages",
+          "startSec": 99.4,
+          "endSec": 100.34,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 100.34,
+          "endSec": 101.0,
+          "score": 0.81
+        },
+        {
+          "word": "in",
+          "startSec": 101.0,
+          "endSec": 101.88,
+          "score": 0.5
+        },
+        {
+          "word": "the",
+          "startSec": 101.88,
+          "endSec": 102.04,
+          "score": 1.0
+        },
+        {
+          "word": "south,",
+          "startSec": 102.04,
+          "endSec": 102.46,
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 103.24,
+      "end": 108.09,
+      "text": "Cabilla in the north, Mina, Tem, and others.",
+      "words": [
+        {
+          "word": "Cabilla",
+          "startSec": 103.44,
+          "endSec": 104.08,
+          "score": 0.41
+        },
+        {
+          "word": "in",
+          "startSec": 104.08,
+          "endSec": 104.48,
+          "score": 0.82
+        },
+        {
+          "word": "the",
+          "startSec": 104.48,
+          "endSec": 104.64,
+          "score": 1.0
+        },
+        {
+          "word": "north,",
+          "startSec": 104.64,
+          "endSec": 105.0,
+          "score": 0.97
+        },
+        {
+          "word": "Mina,",
+          "startSec": 105.94,
+          "endSec": 106.12,
+          "score": 0.81
+        },
+        {
+          "word": "Tem,",
+          "startSec": 106.9,
+          "endSec": 106.94,
+          "score": 0.62
+        },
+        {
+          "word": "and",
+          "startSec": 107.58,
+          "endSec": 107.66,
+          "score": 1.0
+        },
+        {
+          "word": "others.",
+          "startSec": 107.66,
+          "endSec": 107.94,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 108.96,
+      "end": 113.39,
+      "text": "Many people speak two or three languages in daily life.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 109.16,
+          "endSec": 109.48,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 109.48,
+          "endSec": 110.02,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 110.02,
+          "endSec": 110.46,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 110.46,
+          "endSec": 110.86,
+          "score": 0.87
+        },
+        {
+          "word": "or",
+          "startSec": 110.86,
+          "endSec": 111.04,
+          "score": 1.0
+        },
+        {
+          "word": "three",
+          "startSec": 111.04,
+          "endSec": 111.34,
+          "score": 1.0
+        },
+        {
+          "word": "languages",
+          "startSec": 111.34,
+          "endSec": 111.9,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 111.9,
+          "endSec": 112.42,
+          "score": 1.0
+        },
+        {
+          "word": "daily",
+          "startSec": 112.42,
+          "endSec": 112.64,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 112.64,
+          "endSec": 113.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 114.26,
+      "end": 116.57,
+      "text": "What is the weather like in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 114.46,
+          "endSec": 114.8,
+          "score": 0.51
+        },
+        {
+          "word": "is",
+          "startSec": 114.8,
+          "endSec": 114.96,
+          "score": 0.8
+        },
+        {
+          "word": "the",
+          "startSec": 114.96,
+          "endSec": 115.12,
+          "score": 0.97
+        },
+        {
+          "word": "weather",
+          "startSec": 115.12,
+          "endSec": 115.36,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 115.36,
+          "endSec": 115.76,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 115.76,
+          "endSec": 115.98,
+          "score": 0.99
+        },
+        {
+          "word": "Togo?",
+          "startSec": 115.98,
+          "endSec": 116.42,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 117.22,
+      "end": 119.59,
+      "text": "Togo has a tropical climate.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 117.42,
+          "endSec": 117.86,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 117.86,
+          "endSec": 118.16,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 118.16,
+          "endSec": 118.4,
+          "score": 0.99
+        },
+        {
+          "word": "tropical",
+          "startSec": 118.4,
+          "endSec": 118.86,
+          "score": 1.0
+        },
+        {
+          "word": "climate.",
+          "startSec": 118.86,
+          "endSec": 119.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 120.18,
+      "end": 123.01,
+      "text": "It is hot and humid near the coast.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 120.38,
+          "endSec": 120.46,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 120.46,
+          "endSec": 120.6,
+          "score": 0.99
+        },
+        {
+          "word": "hot",
+          "startSec": 120.6,
+          "endSec": 120.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 120.96,
+          "endSec": 121.26,
+          "score": 1.0
+        },
+        {
+          "word": "humid",
+          "startSec": 121.26,
+          "endSec": 121.8,
+          "score": 1.0
+        },
+        {
+          "word": "near",
+          "startSec": 121.8,
+          "endSec": 122.26,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 122.26,
+          "endSec": 122.48,
+          "score": 1.0
+        },
+        {
+          "word": "coast.",
+          "startSec": 122.48,
+          "endSec": 122.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 123.24,
+      "end": 125.17,
+      "text": "It is drier in the north.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 123.44,
+          "endSec": 123.54,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 123.54,
+          "endSec": 123.72,
+          "score": 0.99
+        },
+        {
+          "word": "drier",
+          "startSec": 123.72,
+          "endSec": 124.42,
+          "score": 0.93
+        },
+        {
+          "word": "in",
+          "startSec": 124.42,
+          "endSec": 124.58,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 124.58,
+          "endSec": 124.72,
+          "score": 1.0
+        },
+        {
+          "word": "north.",
+          "startSec": 124.72,
+          "endSec": 125.02,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 125.76,
+      "end": 129.65,
+      "text": "There are two rainy seasons and two dry seasons.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 125.96,
+          "endSec": 126.16,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 126.16,
+          "endSec": 126.34,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 126.34,
+          "endSec": 126.64,
+          "score": 0.93
+        },
+        {
+          "word": "rainy",
+          "startSec": 126.64,
+          "endSec": 126.98,
+          "score": 1.0
+        },
+        {
+          "word": "seasons",
+          "startSec": 126.98,
+          "endSec": 127.72,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 127.72,
+          "endSec": 128.28,
+          "score": 0.95
+        },
+        {
+          "word": "two",
+          "startSec": 128.28,
+          "endSec": 128.62,
+          "score": 0.99
+        },
+        {
+          "word": "dry",
+          "startSec": 128.62,
+          "endSec": 128.92,
+          "score": 0.98
+        },
+        {
+          "word": "seasons.",
+          "startSec": 128.92,
+          "endSec": 129.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 131.14,
+      "end": 134.49,
+      "text": "Most of the year is warm with lots of sun.",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 131.34,
+          "endSec": 131.7,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 131.7,
+          "endSec": 131.96,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 131.96,
+          "endSec": 132.1,
+          "score": 1.0
+        },
+        {
+          "word": "year",
+          "startSec": 132.1,
+          "endSec": 132.36,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 132.36,
+          "endSec": 132.6,
+          "score": 1.0
+        },
+        {
+          "word": "warm",
+          "startSec": 132.6,
+          "endSec": 132.98,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 132.98,
+          "endSec": 133.44,
+          "score": 0.92
+        },
+        {
+          "word": "lots",
+          "startSec": 133.44,
+          "endSec": 133.72,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 133.72,
+          "endSec": 134.06,
+          "score": 1.0
+        },
+        {
+          "word": "sun.",
+          "startSec": 134.06,
+          "endSec": 134.34,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 135.92,
+      "end": 137.95,
+      "text": "What does Togo look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 136.12,
+          "endSec": 136.42,
+          "score": 0.98
+        },
+        {
+          "word": "does",
+          "startSec": 136.42,
+          "endSec": 136.66,
+          "score": 1.0
+        },
+        {
+          "word": "Togo",
+          "startSec": 136.66,
+          "endSec": 137.06,
+          "score": 0.97
+        },
+        {
+          "word": "look",
+          "startSec": 137.06,
+          "endSec": 137.4,
+          "score": 1.0
+        },
+        {
+          "word": "like?",
+          "startSec": 137.4,
+          "endSec": 137.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 138.55,
+      "end": 142.06,
+      "text": "Togo has long beaches on the coast,",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 138.75,
+          "endSec": 139.15,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 139.15,
+          "endSec": 139.57,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 139.57,
+          "endSec": 140.45,
+          "score": 0.92
+        },
+        {
+          "word": "beaches",
+          "startSec": 140.45,
+          "endSec": 141.03,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 141.03,
+          "endSec": 141.41,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 141.41,
+          "endSec": 141.59,
+          "score": 1.0
+        },
+        {
+          "word": "coast,",
+          "startSec": 141.59,
+          "endSec": 141.91,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 141.71,
+      "end": 144.48,
+      "text": "green hills in the center,",
+      "words": [
+        {
+          "word": "green",
+          "startSec": 141.91,
+          "endSec": 142.89,
+          "score": 0.0
+        },
+        {
+          "word": "hills",
+          "startSec": 142.89,
+          "endSec": 143.43,
+          "score": 0.96
+        },
+        {
+          "word": "in",
+          "startSec": 143.43,
+          "endSec": 143.73,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 143.73,
+          "endSec": 143.87,
+          "score": 0.99
+        },
+        {
+          "word": "center,",
+          "startSec": 143.87,
+          "endSec": 144.33,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 144.83,
+      "end": 149.4,
+      "text": "forests and savannas, mountains and rivers in the north.",
+      "words": [
+        {
+          "word": "forests",
+          "startSec": 145.03,
+          "endSec": 145.45,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 145.45,
+          "endSec": 145.87,
+          "score": 0.57
+        },
+        {
+          "word": "savannas,",
+          "startSec": 145.87,
+          "endSec": 146.67,
+          "score": 0.86
+        },
+        {
+          "word": "mountains",
+          "startSec": 147.15,
+          "endSec": 147.63,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 147.63,
+          "endSec": 148.09,
+          "score": 0.99
+        },
+        {
+          "word": "rivers",
+          "startSec": 148.09,
+          "endSec": 148.39,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 148.39,
+          "endSec": 148.79,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 148.79,
+          "endSec": 148.93,
+          "score": 1.0
+        },
+        {
+          "word": "north.",
+          "startSec": 148.93,
+          "endSec": 149.25,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 150.32,
+      "end": 153.71,
+      "text": "It is a narrow country but full of natural beauty.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 150.52,
+          "endSec": 150.6,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 150.6,
+          "endSec": 150.74,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 150.74,
+          "endSec": 150.92,
+          "score": 0.99
+        },
+        {
+          "word": "narrow",
+          "startSec": 150.92,
+          "endSec": 151.16,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 151.16,
+          "endSec": 151.78,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 151.78,
+          "endSec": 152.12,
+          "score": 0.65
+        },
+        {
+          "word": "full",
+          "startSec": 152.12,
+          "endSec": 152.42,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 152.42,
+          "endSec": 152.64,
+          "score": 1.0
+        },
+        {
+          "word": "natural",
+          "startSec": 152.64,
+          "endSec": 153.16,
+          "score": 1.0
+        },
+        {
+          "word": "beauty.",
+          "startSec": 153.16,
+          "endSec": 153.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 154.46,
+      "end": 156.55,
+      "text": "What animals live in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 154.66,
+          "endSec": 154.8,
+          "score": 0.87
+        },
+        {
+          "word": "animals",
+          "startSec": 154.8,
+          "endSec": 155.36,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 155.36,
+          "endSec": 155.8,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 155.8,
+          "endSec": 156.0,
+          "score": 1.0
+        },
+        {
+          "word": "Togo?",
+          "startSec": 156.0,
+          "endSec": 156.4,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 157.14,
+      "end": 162.82,
+      "text": "In Togo you can see monkeys, antelopes and bats,",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 157.34,
+          "endSec": 157.5,
+          "score": 0.96
+        },
+        {
+          "word": "Togo",
+          "startSec": 157.5,
+          "endSec": 157.96,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 157.96,
+          "endSec": 158.38,
+          "score": 0.67
+        },
+        {
+          "word": "can",
+          "startSec": 158.38,
+          "endSec": 158.6,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 158.6,
+          "endSec": 158.98,
+          "score": 1.0
+        },
+        {
+          "word": "monkeys,",
+          "startSec": 158.98,
+          "endSec": 160.3,
+          "score": 0.81
+        },
+        {
+          "word": "antelopes",
+          "startSec": 161.49,
+          "endSec": 162.03,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "startSec": 162.03,
+          "endSec": 162.39,
+          "score": 0.66
+        },
+        {
+          "word": "bats,",
+          "startSec": 162.39,
+          "endSec": 162.67,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 163.79,
+      "end": 166.44,
+      "text": "snakes, lizards, and frogs.",
+      "words": [
+        {
+          "word": "snakes,",
+          "startSec": 163.99,
+          "endSec": 163.99,
+          "score": 0.99
+        },
+        {
+          "word": "lizards,",
+          "startSec": 164.65,
+          "endSec": 164.87,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 165.99,
+          "endSec": 166.01,
+          "score": 0.98
+        },
+        {
+          "word": "frogs.",
+          "startSec": 166.01,
+          "endSec": 166.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 167.54,
+      "end": 170.13,
+      "text": "Cows, goats, and chickens on farms,",
+      "words": [
+        {
+          "word": "Cows,",
+          "startSec": 167.74,
+          "endSec": 168.02,
+          "score": 0.9
+        },
+        {
+          "word": "goats,",
+          "startSec": 168.34,
+          "endSec": 168.46,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 168.88,
+          "endSec": 168.88,
+          "score": 0.95
+        },
+        {
+          "word": "chickens",
+          "startSec": 168.88,
+          "endSec": 169.28,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 169.28,
+          "endSec": 169.66,
+          "score": 0.97
+        },
+        {
+          "word": "farms,",
+          "startSec": 169.66,
+          "endSec": 169.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 169.78,
+      "end": 172.91,
+      "text": "birds, fish, and insects.",
+      "words": [
+        {
+          "word": "birds,",
+          "startSec": 169.98,
+          "endSec": 171.28,
+          "score": 0.01
+        },
+        {
+          "word": "fish,",
+          "startSec": 171.42,
+          "endSec": 171.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 172.22,
+          "endSec": 172.3,
+          "score": 0.99
+        },
+        {
+          "word": "insects.",
+          "startSec": 172.3,
+          "endSec": 172.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 173.6,
+      "end": 176.89,
+      "text": "Togo has national parks to protect wildlife.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 173.8,
+          "endSec": 174.24,
+          "score": 0.76
+        },
+        {
+          "word": "has",
+          "startSec": 174.24,
+          "endSec": 174.58,
+          "score": 1.0
+        },
+        {
+          "word": "national",
+          "startSec": 174.58,
+          "endSec": 175.16,
+          "score": 0.96
+        },
+        {
+          "word": "parks",
+          "startSec": 175.16,
+          "endSec": 175.52,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 175.52,
+          "endSec": 175.92,
+          "score": 1.0
+        },
+        {
+          "word": "protect",
+          "startSec": 175.92,
+          "endSec": 176.26,
+          "score": 1.0
+        },
+        {
+          "word": "wildlife.",
+          "startSec": 176.26,
+          "endSec": 176.74,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 177.8,
+      "end": 179.59,
+      "text": "What do people eat in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 178.0,
+          "endSec": 178.0,
+          "score": 0.96
+        },
+        {
+          "word": "do",
+          "startSec": 178.0,
+          "endSec": 178.2,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 178.2,
+          "endSec": 178.46,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 178.46,
+          "endSec": 178.84,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 178.84,
+          "endSec": 179.02,
+          "score": 0.99
+        },
+        {
+          "word": "Togo?",
+          "startSec": 179.02,
+          "endSec": 179.44,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 179.84,
+      "end": 183.75,
+      "text": "Togolese food is simple, flavorful, and filling.",
+      "words": [
+        {
+          "word": "Togolese",
+          "startSec": 180.04,
+          "endSec": 180.66,
+          "score": 0.6
+        },
+        {
+          "word": "food",
+          "startSec": 180.66,
+          "endSec": 181.02,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 181.02,
+          "endSec": 181.3,
+          "score": 1.0
+        },
+        {
+          "word": "simple,",
+          "startSec": 181.3,
+          "endSec": 181.68,
+          "score": 1.0
+        },
+        {
+          "word": "flavorful,",
+          "startSec": 182.74,
+          "endSec": 182.76,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 182.92,
+          "endSec": 183.24,
+          "score": 1.0
+        },
+        {
+          "word": "filling.",
+          "startSec": 183.24,
+          "endSec": 183.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 184.42,
+      "end": 187.85,
+      "text": "People eat maize, cassava, and millet,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 184.62,
+          "endSec": 185.0,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 185.0,
+          "endSec": 185.34,
+          "score": 1.0
+        },
+        {
+          "word": "maize,",
+          "startSec": 185.34,
+          "endSec": 186.04,
+          "score": 0.98
+        },
+        {
+          "word": "cassava,",
+          "startSec": 186.46,
+          "endSec": 186.96,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 187.14,
+          "endSec": 187.24,
+          "score": 1.0
+        },
+        {
+          "word": "millet,",
+          "startSec": 187.24,
+          "endSec": 187.7,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 187.92,
+      "end": 190.53,
+      "text": "rice, yams, and plantains,",
+      "words": [
+        {
+          "word": "rice,",
+          "startSec": 188.12,
+          "endSec": 188.4,
+          "score": 1.0
+        },
+        {
+          "word": "yams,",
+          "startSec": 189.12,
+          "endSec": 189.4,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 189.46,
+          "endSec": 189.66,
+          "score": 1.0
+        },
+        {
+          "word": "plantains,",
+          "startSec": 189.66,
+          "endSec": 190.38,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 191.12,
+      "end": 193.01,
+      "text": "fish, chicken, and goat,",
+      "words": [
+        {
+          "word": "fish,",
+          "startSec": 191.32,
+          "endSec": 191.42,
+          "score": 1.0
+        },
+        {
+          "word": "chicken,",
+          "startSec": 191.98,
+          "endSec": 192.22,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 192.5,
+          "endSec": 192.6,
+          "score": 1.0
+        },
+        {
+          "word": "goat,",
+          "startSec": 192.6,
+          "endSec": 192.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 193.82,
+      "end": 195.97,
+      "text": "peanuts, tomatoes, and spices.",
+      "words": [
+        {
+          "word": "peanuts,",
+          "startSec": 194.02,
+          "endSec": 194.02,
+          "score": 0.99
+        },
+        {
+          "word": "tomatoes,",
+          "startSec": 194.54,
+          "endSec": 194.78,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 195.44,
+          "endSec": 195.54,
+          "score": 1.0
+        },
+        {
+          "word": "spices.",
+          "startSec": 195.54,
+          "endSec": 195.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 195.62,
+      "end": 202.47,
+      "text": "Popular dishes, fufu, soft dough made from cassava or yams.",
+      "words": [
+        {
+          "word": "Popular",
+          "startSec": 195.82,
+          "endSec": 197.24,
+          "score": 0.0
+        },
+        {
+          "word": "dishes,",
+          "startSec": 197.24,
+          "endSec": 197.86,
+          "score": 0.97
+        },
+        {
+          "word": "fufu,",
+          "startSec": 198.54,
+          "endSec": 199.06,
+          "score": 0.74
+        },
+        {
+          "word": "soft",
+          "startSec": 199.38,
+          "endSec": 199.68,
+          "score": 0.92
+        },
+        {
+          "word": "dough",
+          "startSec": 199.68,
+          "endSec": 200.12,
+          "score": 0.99
+        },
+        {
+          "word": "made",
+          "startSec": 200.12,
+          "endSec": 200.4,
+          "score": 0.98
+        },
+        {
+          "word": "from",
+          "startSec": 200.4,
+          "endSec": 200.72,
+          "score": 0.99
+        },
+        {
+          "word": "cassava",
+          "startSec": 200.72,
+          "endSec": 201.44,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 201.44,
+          "endSec": 201.7,
+          "score": 0.95
+        },
+        {
+          "word": "yams.",
+          "startSec": 201.7,
+          "endSec": 202.32,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 202.72,
+      "end": 205.93,
+      "text": "Putt, thick porridge made from maize flour,",
+      "words": [
+        {
+          "word": "Putt,",
+          "startSec": 202.92,
+          "endSec": 203.52,
+          "score": 0.44
+        },
+        {
+          "word": "thick",
+          "startSec": 203.62,
+          "endSec": 203.8,
+          "score": 0.99
+        },
+        {
+          "word": "porridge",
+          "startSec": 203.8,
+          "endSec": 204.52,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 204.52,
+          "endSec": 204.74,
+          "score": 0.96
+        },
+        {
+          "word": "from",
+          "startSec": 204.74,
+          "endSec": 205.04,
+          "score": 1.0
+        },
+        {
+          "word": "maize",
+          "startSec": 205.04,
+          "endSec": 205.32,
+          "score": 0.83
+        },
+        {
+          "word": "flour,",
+          "startSec": 205.32,
+          "endSec": 205.78,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 206.4,
+      "end": 210.47,
+      "text": "rizz sauce, arachied, rice with peanut sauce.",
+      "words": [
+        {
+          "word": "rizz",
+          "startSec": 206.6,
+          "endSec": 207.14,
+          "score": 0.64
+        },
+        {
+          "word": "sauce,",
+          "startSec": 207.14,
+          "endSec": 207.54,
+          "score": 0.99
+        },
+        {
+          "word": "arachied,",
+          "startSec": 207.88,
+          "endSec": 208.48,
+          "score": 0.41
+        },
+        {
+          "word": "rice",
+          "startSec": 208.84,
+          "endSec": 209.14,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 209.14,
+          "endSec": 209.48,
+          "score": 0.99
+        },
+        {
+          "word": "peanut",
+          "startSec": 209.48,
+          "endSec": 209.8,
+          "score": 0.97
+        },
+        {
+          "word": "sauce.",
+          "startSec": 209.8,
+          "endSec": 210.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 211.14,
+      "end": 214.77,
+      "text": "Acpan, fermented maize with sugar,",
+      "words": [
+        {
+          "word": "Acpan,",
+          "startSec": 211.34,
+          "endSec": 212.18,
+          "score": 0.36
+        },
+        {
+          "word": "fermented",
+          "startSec": 212.7,
+          "endSec": 213.16,
+          "score": 1.0
+        },
+        {
+          "word": "maize",
+          "startSec": 213.16,
+          "endSec": 213.72,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 213.72,
+          "endSec": 214.08,
+          "score": 0.61
+        },
+        {
+          "word": "sugar,",
+          "startSec": 214.08,
+          "endSec": 214.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 215.26,
+      "end": 217.13,
+      "text": "steamed corn cakes.",
+      "words": [
+        {
+          "word": "steamed",
+          "startSec": 215.46,
+          "endSec": 216.22,
+          "score": 0.99
+        },
+        {
+          "word": "corn",
+          "startSec": 216.22,
+          "endSec": 216.54,
+          "score": 0.96
+        },
+        {
+          "word": "cakes.",
+          "startSec": 216.54,
+          "endSec": 216.98,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 217.77,
+      "end": 219.9,
+      "text": "What do people drink in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 217.97,
+          "endSec": 218.27,
+          "score": 0.98
+        },
+        {
+          "word": "do",
+          "startSec": 218.27,
+          "endSec": 218.47,
+          "score": 0.97
+        },
+        {
+          "word": "people",
+          "startSec": 218.47,
+          "endSec": 218.67,
+          "score": 0.99
+        },
+        {
+          "word": "drink",
+          "startSec": 218.67,
+          "endSec": 219.19,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 219.19,
+          "endSec": 219.41,
+          "score": 0.98
+        },
+        {
+          "word": "Togo?",
+          "startSec": 219.41,
+          "endSec": 219.75,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 220.84,
+      "end": 224.77,
+      "text": "People drink water and fruit juice,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 221.04,
+          "endSec": 221.66,
+          "score": 0.99
+        },
+        {
+          "word": "drink",
+          "startSec": 221.66,
+          "endSec": 222.1,
+          "score": 1.0
+        },
+        {
+          "word": "water",
+          "startSec": 222.1,
+          "endSec": 223.22,
+          "score": 0.9
+        },
+        {
+          "word": "and",
+          "startSec": 223.22,
+          "endSec": 223.8,
+          "score": 0.96
+        },
+        {
+          "word": "fruit",
+          "startSec": 223.8,
+          "endSec": 224.14,
+          "score": 0.99
+        },
+        {
+          "word": "juice,",
+          "startSec": 224.14,
+          "endSec": 224.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 224.42,
+      "end": 226.53,
+      "text": "tea and coffee,",
+      "words": [
+        {
+          "word": "tea",
+          "startSec": 224.62,
+          "endSec": 225.86,
+          "score": 0.01
+        },
+        {
+          "word": "and",
+          "startSec": 225.86,
+          "endSec": 226.08,
+          "score": 0.9
+        },
+        {
+          "word": "coffee,",
+          "startSec": 226.08,
+          "endSec": 226.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 227.38,
+      "end": 230.53,
+      "text": "beesap, hibiscus flour drink,",
+      "words": [
+        {
+          "word": "beesap,",
+          "startSec": 227.58,
+          "endSec": 228.34,
+          "score": 0.24
+        },
+        {
+          "word": "hibiscus",
+          "startSec": 228.8,
+          "endSec": 229.54,
+          "score": 0.89
+        },
+        {
+          "word": "flour",
+          "startSec": 229.54,
+          "endSec": 229.76,
+          "score": 0.2
+        },
+        {
+          "word": "drink,",
+          "startSec": 229.76,
+          "endSec": 230.38,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 231.04,
+      "end": 232.23,
+      "text": "ginger juice.",
+      "words": [
+        {
+          "word": "ginger",
+          "startSec": 231.24,
+          "endSec": 231.5,
+          "score": 0.99
+        },
+        {
+          "word": "juice.",
+          "startSec": 231.5,
+          "endSec": 232.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 232.9,
+      "end": 236.37,
+      "text": "Adults may drink palm wine or local beer.",
+      "words": [
+        {
+          "word": "Adults",
+          "startSec": 233.1,
+          "endSec": 233.36,
+          "score": 0.99
+        },
+        {
+          "word": "may",
+          "startSec": 233.36,
+          "endSec": 233.78,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 233.78,
+          "endSec": 234.1,
+          "score": 1.0
+        },
+        {
+          "word": "palm",
+          "startSec": 234.1,
+          "endSec": 234.54,
+          "score": 0.97
+        },
+        {
+          "word": "wine",
+          "startSec": 234.54,
+          "endSec": 234.96,
+          "score": 0.97
+        },
+        {
+          "word": "or",
+          "startSec": 234.96,
+          "endSec": 235.28,
+          "score": 0.97
+        },
+        {
+          "word": "local",
+          "startSec": 235.28,
+          "endSec": 235.54,
+          "score": 0.99
+        },
+        {
+          "word": "beer.",
+          "startSec": 235.54,
+          "endSec": 236.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 237.08,
+      "end": 241.27,
+      "text": "In hot weather, people drink a lot of water to stay cool.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 237.28,
+          "endSec": 237.5,
+          "score": 0.99
+        },
+        {
+          "word": "hot",
+          "startSec": 237.5,
+          "endSec": 237.78,
+          "score": 1.0
+        },
+        {
+          "word": "weather,",
+          "startSec": 237.78,
+          "endSec": 238.32,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 238.56,
+          "endSec": 238.84,
+          "score": 1.0
+        },
+        {
+          "word": "drink",
+          "startSec": 238.84,
+          "endSec": 239.22,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 239.22,
+          "endSec": 239.46,
+          "score": 0.99
+        },
+        {
+          "word": "lot",
+          "startSec": 239.46,
+          "endSec": 239.7,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 239.7,
+          "endSec": 239.9,
+          "score": 1.0
+        },
+        {
+          "word": "water",
+          "startSec": 239.9,
+          "endSec": 240.2,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 240.2,
+          "endSec": 240.44,
+          "score": 1.0
+        },
+        {
+          "word": "stay",
+          "startSec": 240.44,
+          "endSec": 240.76,
+          "score": 1.0
+        },
+        {
+          "word": "cool.",
+          "startSec": 240.76,
+          "endSec": 241.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 241.81,
+      "end": 243.72,
+      "text": "What is life like in Togo?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 242.01,
+          "endSec": 242.19,
+          "score": 0.86
+        },
+        {
+          "word": "is",
+          "startSec": 242.19,
+          "endSec": 242.37,
+          "score": 0.99
+        },
+        {
+          "word": "life",
+          "startSec": 242.37,
+          "endSec": 242.63,
+          "score": 0.93
+        },
+        {
+          "word": "like",
+          "startSec": 242.63,
+          "endSec": 242.89,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 242.89,
+          "endSec": 243.15,
+          "score": 0.99
+        },
+        {
+          "word": "Togo?",
+          "startSec": 243.15,
+          "endSec": 243.57,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 244.44,
+      "end": 247.17,
+      "text": "Life in Togo is often traditional,",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 244.64,
+          "endSec": 245.3,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 245.3,
+          "endSec": 245.58,
+          "score": 0.99
+        },
+        {
+          "word": "Togo",
+          "startSec": 245.58,
+          "endSec": 246.02,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 246.02,
+          "endSec": 246.3,
+          "score": 1.0
+        },
+        {
+          "word": "often",
+          "startSec": 246.3,
+          "endSec": 246.72,
+          "score": 1.0
+        },
+        {
+          "word": "traditional,",
+          "startSec": 246.72,
+          "endSec": 247.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 247.62,
+      "end": 249.67,
+      "text": "busy, and community-based.",
+      "words": [
+        {
+          "word": "busy,",
+          "startSec": 247.82,
+          "endSec": 248.1,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 248.48,
+          "endSec": 248.52,
+          "score": 1.0
+        },
+        {
+          "word": "community",
+          "startSec": 248.52,
+          "endSec": 248.9,
+          "score": 1.0
+        },
+        {
+          "word": "-based.",
+          "startSec": 248.9,
+          "endSec": 249.52,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 250.14,
+      "end": 253.95,
+      "text": "People enjoy spending time with family,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 250.34,
+          "endSec": 250.86,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 250.86,
+          "endSec": 251.46,
+          "score": 1.0
+        },
+        {
+          "word": "spending",
+          "startSec": 251.46,
+          "endSec": 252.64,
+          "score": 0.93
+        },
+        {
+          "word": "time",
+          "startSec": 252.64,
+          "endSec": 253.14,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 253.14,
+          "endSec": 253.44,
+          "score": 1.0
+        },
+        {
+          "word": "family,",
+          "startSec": 253.44,
+          "endSec": 253.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 253.6,
+      "end": 256.95,
+      "text": "working in markets or on farms,",
+      "words": [
+        {
+          "word": "working",
+          "startSec": 253.8,
+          "endSec": 255.34,
+          "score": 0.13
+        },
+        {
+          "word": "in",
+          "startSec": 255.34,
+          "endSec": 255.56,
+          "score": 0.97
+        },
+        {
+          "word": "markets",
+          "startSec": 255.56,
+          "endSec": 255.96,
+          "score": 0.96
+        },
+        {
+          "word": "or",
+          "startSec": 255.96,
+          "endSec": 256.32,
+          "score": 0.95
+        },
+        {
+          "word": "on",
+          "startSec": 256.32,
+          "endSec": 256.5,
+          "score": 0.95
+        },
+        {
+          "word": "farms,",
+          "startSec": 256.5,
+          "endSec": 256.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 257.44,
+      "end": 259.21,
+      "text": "going to church or mosque,",
+      "words": [
+        {
+          "word": "going",
+          "startSec": 257.64,
+          "endSec": 257.94,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 257.94,
+          "endSec": 258.14,
+          "score": 1.0
+        },
+        {
+          "word": "church",
+          "startSec": 258.14,
+          "endSec": 258.38,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 258.38,
+          "endSec": 258.74,
+          "score": 0.98
+        },
+        {
+          "word": "mosque,",
+          "startSec": 258.74,
+          "endSec": 259.06,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 259.52,
+      "end": 262.93,
+      "text": "dancing, drumming, and storytelling,",
+      "words": [
+        {
+          "word": "dancing,",
+          "startSec": 259.72,
+          "endSec": 260.66,
+          "score": 1.0
+        },
+        {
+          "word": "drumming,",
+          "startSec": 261.16,
+          "endSec": 261.62,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 261.98,
+          "endSec": 262.26,
+          "score": 0.99
+        },
+        {
+          "word": "storytelling,",
+          "startSec": 262.26,
+          "endSec": 262.78,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 263.67,
+      "end": 267.5,
+      "text": "helping neighbors and celebrating together.",
+      "words": [
+        {
+          "word": "helping",
+          "startSec": 263.87,
+          "endSec": 264.69,
+          "score": 0.99
+        },
+        {
+          "word": "neighbors",
+          "startSec": 264.69,
+          "endSec": 265.37,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 265.37,
+          "endSec": 265.93,
+          "score": 0.96
+        },
+        {
+          "word": "celebrating",
+          "startSec": 265.93,
+          "endSec": 266.55,
+          "score": 1.0
+        },
+        {
+          "word": "together.",
+          "startSec": 266.55,
+          "endSec": 267.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 268.25,
+      "end": 272.66,
+      "text": "Children often play football or run barefoot outside.",
+      "words": [
+        {
+          "word": "Children",
+          "startSec": 268.45,
+          "endSec": 268.95,
+          "score": 0.99
+        },
+        {
+          "word": "often",
+          "startSec": 268.95,
+          "endSec": 269.39,
+          "score": 1.0
+        },
+        {
+          "word": "play",
+          "startSec": 269.39,
+          "endSec": 269.97,
+          "score": 1.0
+        },
+        {
+          "word": "football",
+          "startSec": 269.97,
+          "endSec": 270.31,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 270.31,
+          "endSec": 271.01,
+          "score": 0.98
+        },
+        {
+          "word": "run",
+          "startSec": 271.01,
+          "endSec": 271.33,
+          "score": 1.0
+        },
+        {
+          "word": "barefoot",
+          "startSec": 271.33,
+          "endSec": 272.11,
+          "score": 0.98
+        },
+        {
+          "word": "outside.",
+          "startSec": 272.11,
+          "endSec": 272.51,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 273.71,
+      "end": 277.14,
+      "text": "What are some holidays and traditions?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 273.91,
+          "endSec": 274.29,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 274.29,
+          "endSec": 274.47,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 274.47,
+          "endSec": 274.77,
+          "score": 1.0
+        },
+        {
+          "word": "holidays",
+          "startSec": 274.77,
+          "endSec": 275.43,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 275.43,
+          "endSec": 276.35,
+          "score": 0.99
+        },
+        {
+          "word": "traditions?",
+          "startSec": 276.35,
+          "endSec": 276.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 278.13,
+      "end": 281.22,
+      "text": "Independence Day, April 27,",
+      "words": [
+        {
+          "word": "Independence",
+          "startSec": 278.33,
+          "endSec": 278.95,
+          "score": 0.99
+        },
+        {
+          "word": "Day,",
+          "startSec": 278.95,
+          "endSec": 279.61,
+          "score": 0.96
+        },
+        {
+          "word": "April",
+          "startSec": 279.97,
+          "endSec": 280.25,
+          "score": 1.0
+        },
+        {
+          "word": "27,",
+          "startSec": 280.25,
+          "endSec": 281.07,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 280.87,
+      "end": 284.44,
+      "text": "Edal Feeder and Edal Adha,",
+      "words": [
+        {
+          "word": "Edal",
+          "startSec": 281.07,
+          "endSec": 282.25,
+          "score": 0.19
+        },
+        {
+          "word": "Feeder",
+          "startSec": 282.25,
+          "endSec": 282.85,
+          "score": 0.6
+        },
+        {
+          "word": "and",
+          "startSec": 282.85,
+          "endSec": 283.03,
+          "score": 0.81
+        },
+        {
+          "word": "Edal",
+          "startSec": 283.03,
+          "endSec": 283.65,
+          "score": 0.89
+        },
+        {
+          "word": "Adha,",
+          "startSec": 283.65,
+          "endSec": 284.29,
+          "score": 0.74
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 284.64,
+      "end": 286.97,
+      "text": "Christmas and New Year,",
+      "words": [
+        {
+          "word": "Christmas",
+          "startSec": 284.84,
+          "endSec": 285.74,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 285.74,
+          "endSec": 286.2,
+          "score": 0.85
+        },
+        {
+          "word": "New",
+          "startSec": 286.2,
+          "endSec": 286.42,
+          "score": 0.99
+        },
+        {
+          "word": "Year,",
+          "startSec": 286.42,
+          "endSec": 286.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 287.57,
+      "end": 290.74,
+      "text": "traditional festivals with music,",
+      "words": [
+        {
+          "word": "traditional",
+          "startSec": 287.77,
+          "endSec": 288.41,
+          "score": 0.87
+        },
+        {
+          "word": "festivals",
+          "startSec": 288.41,
+          "endSec": 289.07,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 289.07,
+          "endSec": 289.89,
+          "score": 0.98
+        },
+        {
+          "word": "music,",
+          "startSec": 289.89,
+          "endSec": 290.59,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 290.69,
+      "end": 292.54,
+      "text": "masks, and dances.",
+      "words": [
+        {
+          "word": "masks,",
+          "startSec": 290.89,
+          "endSec": 291.31,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 291.89,
+          "endSec": 291.91,
+          "score": 0.97
+        },
+        {
+          "word": "dances.",
+          "startSec": 291.91,
+          "endSec": 292.39,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 293.3,
+      "end": 297.97,
+      "text": "Yam Festival, a harvest celebration in many villages,",
+      "words": [
+        {
+          "word": "Yam",
+          "startSec": 293.5,
+          "endSec": 293.9,
+          "score": 0.52
+        },
+        {
+          "word": "Festival,",
+          "startSec": 293.9,
+          "endSec": 294.26,
+          "score": 0.66
+        },
+        {
+          "word": "a",
+          "startSec": 295.1,
+          "endSec": 295.14,
+          "score": 0.96
+        },
+        {
+          "word": "harvest",
+          "startSec": 295.14,
+          "endSec": 295.48,
+          "score": 0.78
+        },
+        {
+          "word": "celebration",
+          "startSec": 295.48,
+          "endSec": 296.14,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 296.14,
+          "endSec": 296.86,
+          "score": 0.97
+        },
+        {
+          "word": "many",
+          "startSec": 296.86,
+          "endSec": 297.1,
+          "score": 0.99
+        },
+        {
+          "word": "villages,",
+          "startSec": 297.1,
+          "endSec": 297.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 298.78,
+      "end": 300.83,
+      "text": "people wear bright clothes,",
+      "words": [
+        {
+          "word": "people",
+          "startSec": 298.98,
+          "endSec": 299.4,
+          "score": 0.94
+        },
+        {
+          "word": "wear",
+          "startSec": 299.4,
+          "endSec": 299.72,
+          "score": 0.99
+        },
+        {
+          "word": "bright",
+          "startSec": 299.72,
+          "endSec": 300.12,
+          "score": 1.0
+        },
+        {
+          "word": "clothes,",
+          "startSec": 300.12,
+          "endSec": 300.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 301.1,
+      "end": 304.35,
+      "text": "and music is a big part of every event.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 301.3,
+          "endSec": 301.4,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 301.4,
+          "endSec": 301.66,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 301.66,
+          "endSec": 302.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 302.28,
+          "endSec": 302.44,
+          "score": 0.98
+        },
+        {
+          "word": "big",
+          "startSec": 302.44,
+          "endSec": 302.68,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 302.68,
+          "endSec": 303.06,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 303.06,
+          "endSec": 303.3,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 303.3,
+          "endSec": 303.72,
+          "score": 1.0
+        },
+        {
+          "word": "event.",
+          "startSec": 303.72,
+          "endSec": 304.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 304.83,
+      "end": 307.22,
+      "text": "Some fun facts about Togo.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 305.03,
+          "endSec": 305.35,
+          "score": 0.98
+        },
+        {
+          "word": "fun",
+          "startSec": 305.35,
+          "endSec": 305.69,
+          "score": 1.0
+        },
+        {
+          "word": "facts",
+          "startSec": 305.69,
+          "endSec": 306.01,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 306.01,
+          "endSec": 306.65,
+          "score": 1.0
+        },
+        {
+          "word": "Togo.",
+          "startSec": 306.65,
+          "endSec": 307.07,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 307.79,
+      "end": 311.48,
+      "text": "Togo is one of the smallest countries in Africa.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 307.99,
+          "endSec": 308.41,
+          "score": 0.73
+        },
+        {
+          "word": "is",
+          "startSec": 308.41,
+          "endSec": 308.81,
+          "score": 0.9
+        },
+        {
+          "word": "one",
+          "startSec": 308.81,
+          "endSec": 309.03,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 309.03,
+          "endSec": 309.21,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 309.21,
+          "endSec": 309.37,
+          "score": 0.99
+        },
+        {
+          "word": "smallest",
+          "startSec": 309.37,
+          "endSec": 309.87,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 309.87,
+          "endSec": 310.53,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 310.53,
+          "endSec": 310.87,
+          "score": 1.0
+        },
+        {
+          "word": "Africa.",
+          "startSec": 310.87,
+          "endSec": 311.33,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 312.7,
+      "end": 315.43,
+      "text": "The Togalese flag is green,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 312.9,
+          "endSec": 313.0,
+          "score": 0.96
+        },
+        {
+          "word": "Togalese",
+          "startSec": 313.0,
+          "endSec": 313.98,
+          "score": 0.71
+        },
+        {
+          "word": "flag",
+          "startSec": 313.98,
+          "endSec": 314.26,
+          "score": 0.9
+        },
+        {
+          "word": "is",
+          "startSec": 314.26,
+          "endSec": 314.76,
+          "score": 1.0
+        },
+        {
+          "word": "green,",
+          "startSec": 314.76,
+          "endSec": 315.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 315.68,
+      "end": 319.53,
+      "text": "yellow, and red with a white star.",
+      "words": [
+        {
+          "word": "yellow,",
+          "startSec": 315.88,
+          "endSec": 316.6,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 317.28,
+          "endSec": 317.34,
+          "score": 1.0
+        },
+        {
+          "word": "red",
+          "startSec": 317.34,
+          "endSec": 317.7,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 317.7,
+          "endSec": 318.34,
+          "score": 0.55
+        },
+        {
+          "word": "a",
+          "startSec": 318.34,
+          "endSec": 318.52,
+          "score": 0.99
+        },
+        {
+          "word": "white",
+          "startSec": 318.52,
+          "endSec": 318.82,
+          "score": 0.99
+        },
+        {
+          "word": "star.",
+          "startSec": 318.82,
+          "endSec": 319.38,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 320.88,
+      "end": 323.91,
+      "text": "People often carry things on their heads.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 321.08,
+          "endSec": 321.28,
+          "score": 0.98
+        },
+        {
+          "word": "often",
+          "startSec": 321.28,
+          "endSec": 321.94,
+          "score": 1.0
+        },
+        {
+          "word": "carry",
+          "startSec": 321.94,
+          "endSec": 322.34,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 322.34,
+          "endSec": 322.78,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 322.78,
+          "endSec": 323.14,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 323.14,
+          "endSec": 323.34,
+          "score": 1.0
+        },
+        {
+          "word": "heads.",
+          "startSec": 323.34,
+          "endSec": 323.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 324.75,
+      "end": 327.68,
+      "text": "Football is the most popular sport.",
+      "words": [
+        {
+          "word": "Football",
+          "startSec": 324.95,
+          "endSec": 325.23,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 325.23,
+          "endSec": 325.87,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 325.87,
+          "endSec": 326.09,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 326.09,
+          "endSec": 326.33,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 326.33,
+          "endSec": 326.95,
+          "score": 1.0
+        },
+        {
+          "word": "sport.",
+          "startSec": 326.95,
+          "endSec": 327.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 328.41,
+      "end": 332.26,
+      "text": "Togo means behind the river in the U-language.",
+      "words": [
+        {
+          "word": "Togo",
+          "startSec": 328.61,
+          "endSec": 328.83,
+          "score": 0.95
+        },
+        {
+          "word": "means",
+          "startSec": 328.83,
+          "endSec": 329.25,
+          "score": 1.0
+        },
+        {
+          "word": "behind",
+          "startSec": 329.25,
+          "endSec": 329.93,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "startSec": 329.93,
+          "endSec": 330.37,
+          "score": 0.98
+        },
+        {
+          "word": "river",
+          "startSec": 330.37,
+          "endSec": 330.77,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 330.77,
+          "endSec": 331.31,
+          "score": 0.53
+        },
+        {
+          "word": "the",
+          "startSec": 331.31,
+          "endSec": 331.47,
+          "score": 0.99
+        },
+        {
+          "word": "U",
+          "startSec": 331.47,
+          "endSec": 331.69,
+          "score": 0.56
+        },
+        {
+          "word": "-language.",
+          "startSec": 331.69,
+          "endSec": 332.11,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 333.52,
+      "end": 336.27,
+      "text": "Now you know many things about Togo.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 333.72,
+          "endSec": 334.12,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 334.12,
+          "endSec": 334.34,
+          "score": 0.82
+        },
+        {
+          "word": "know",
+          "startSec": 334.34,
+          "endSec": 334.52,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 334.52,
+          "endSec": 334.82,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 334.82,
+          "endSec": 335.34,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 335.34,
+          "endSec": 335.6,
+          "score": 1.0
+        },
+        {
+          "word": "Togo.",
+          "startSec": 335.6,
+          "endSec": 336.12,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 335.92,
+      "end": 338.45,
+      "text": "You know where it is,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 336.12,
+          "endSec": 337.18,
+          "score": 0.15
+        },
+        {
+          "word": "know",
+          "startSec": 337.18,
+          "endSec": 337.4,
+          "score": 0.9
+        },
+        {
+          "word": "where",
+          "startSec": 337.4,
+          "endSec": 337.72,
+          "score": 0.96
+        },
+        {
+          "word": "it",
+          "startSec": 337.72,
+          "endSec": 337.94,
+          "score": 0.99
+        },
+        {
+          "word": "is,",
+          "startSec": 337.94,
+          "endSec": 338.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 338.62,
+      "end": 340.13,
+      "text": "what people eat,",
+      "words": [
+        {
+          "word": "what",
+          "startSec": 338.82,
+          "endSec": 339.1,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 339.1,
+          "endSec": 339.52,
+          "score": 1.0
+        },
+        {
+          "word": "eat,",
+          "startSec": 339.52,
+          "endSec": 339.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 340.44,
+      "end": 341.73,
+      "text": "and how they live.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 340.64,
+          "endSec": 340.74,
+          "score": 0.99
+        },
+        {
+          "word": "how",
+          "startSec": 340.74,
+          "endSec": 341.0,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 341.0,
+          "endSec": 341.24,
+          "score": 1.0
+        },
+        {
+          "word": "live.",
+          "startSec": 341.24,
+          "endSec": 341.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 342.44,
+      "end": 344.15,
+      "text": "You learned about the beaches,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 342.64,
+          "endSec": 342.68,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 342.68,
+          "endSec": 342.96,
+          "score": 0.93
+        },
+        {
+          "word": "about",
+          "startSec": 342.96,
+          "endSec": 343.32,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 343.32,
+          "endSec": 343.54,
+          "score": 0.98
+        },
+        {
+          "word": "beaches,",
+          "startSec": 343.54,
+          "endSec": 344.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 343.8,
+      "end": 346.29,
+      "text": "music, and food.",
+      "words": [
+        {
+          "word": "music,",
+          "startSec": 344.0,
+          "endSec": 345.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 345.48,
+          "endSec": 345.72,
+          "score": 1.0
+        },
+        {
+          "word": "food.",
+          "startSec": 345.72,
+          "endSec": 346.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 347.2,
+      "end": 348.29,
+      "text": "Well done.",
+      "words": [
+        {
+          "word": "Well",
+          "startSec": 347.4,
+          "endSec": 347.74,
+          "score": 0.99
+        },
+        {
+          "word": "done.",
+          "startSec": 347.74,
+          "endSec": 348.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 352.72,
+      "end": 353.67,
+      "text": "I am Emili.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 352.92,
+          "endSec": 353.0,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 353.0,
+          "endSec": 353.2,
+          "score": 0.95
+        },
+        {
+          "word": "Emili.",
+          "startSec": 353.2,
+          "endSec": 353.52,
+          "score": 0.36
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 355.8,
+      "end": 356.35,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 356.0,
+          "endSec": 356.2,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 356.74,
+      "end": 359.27,
+      "text": "Or as they say in you, wasa.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 356.94,
+          "endSec": 357.14,
+          "score": 0.94
+        },
+        {
+          "word": "as",
+          "startSec": 357.14,
+          "endSec": 357.34,
+          "score": 0.88
+        },
+        {
+          "word": "they",
+          "startSec": 357.34,
+          "endSec": 357.54,
+          "score": 1.0
+        },
+        {
+          "word": "say",
+          "startSec": 357.54,
+          "endSec": 357.78,
+          "score": 0.94
+        },
+        {
+          "word": "in",
+          "startSec": 357.78,
+          "endSec": 358.1,
+          "score": 0.92
+        },
+        {
+          "word": "you,",
+          "startSec": 358.1,
+          "endSec": 358.34,
+          "score": 0.34
+        },
+        {
+          "word": "wasa.",
+          "startSec": 358.78,
+          "endSec": 359.12,
+          "score": 0.46
         }
       ]
     }

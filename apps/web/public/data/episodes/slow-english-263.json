@@ -71,44 +71,6 @@
     },
     {
       "id": 2,
-      "start": 4.34,
-      "end": 6.25,
-      "text": "I am Emilie, your host.",
-      "words": [
-        {
-          "word": "I",
-          "startSec": 4.54,
-          "endSec": 4.72,
-          "score": 0.98
-        },
-        {
-          "word": "am",
-          "startSec": 4.72,
-          "endSec": 4.92,
-          "score": 0.91
-        },
-        {
-          "word": "Emilie,",
-          "startSec": 4.92,
-          "endSec": 5.5,
-          "score": 0.64
-        },
-        {
-          "word": "your",
-          "startSec": 5.66,
-          "endSec": 5.7,
-          "score": 0.98
-        },
-        {
-          "word": "host.",
-          "startSec": 5.7,
-          "endSec": 6.1,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 6.78,
       "end": 13.07,
       "text": "Today, we are traveling to a small and beautiful city in Europe.",
@@ -188,7 +150,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 13.88,
       "end": 16.07,
       "text": "It is called Kuldiga.",
@@ -220,7 +182,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 16.75,
       "end": 21.92,
       "text": "Kuldiga is in Latvia, a country in northern Europe.",
@@ -282,7 +244,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 23.0,
       "end": 28.21,
       "text": "The city is full of history, old buildings, and nature.",
@@ -350,7 +312,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 28.74,
       "end": 31.43,
       "text": "Let's explore Kuldiga together.",
@@ -382,7 +344,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 32.07,
       "end": 35.1,
       "text": "Part 2, where is Kuldiga?",
@@ -420,7 +382,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 35.63,
       "end": 40.04,
       "text": "Kuldiga is in western Latvia near the Venta River.",
@@ -482,7 +444,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 40.59,
       "end": 45.18,
       "text": "It is far from big cities, so life is calm and peaceful.",
@@ -558,6 +520,3106 @@
           "startSec": 44.63,
           "endSec": 45.03,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 46.48,
+      "end": 51.89,
+      "text": "The city has small streets, colorful houses, and old bridges.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 46.68,
+          "endSec": 46.86,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 46.86,
+          "endSec": 47.2,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 47.2,
+          "endSec": 47.66,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 47.66,
+          "endSec": 48.06,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 48.06,
+          "endSec": 48.78,
+          "score": 0.99
+        },
+        {
+          "word": "colorful",
+          "startSec": 49.38,
+          "endSec": 49.74,
+          "score": 0.99
+        },
+        {
+          "word": "houses,",
+          "startSec": 49.74,
+          "endSec": 50.5,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 51.08,
+          "endSec": 51.14,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 51.14,
+          "endSec": 51.38,
+          "score": 1.0
+        },
+        {
+          "word": "bridges.",
+          "startSec": 51.38,
+          "endSec": 51.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 53.03,
+      "end": 57.4,
+      "text": "It is a perfect place to enjoy nature and history.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 53.23,
+          "endSec": 53.77,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 53.77,
+          "endSec": 53.93,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 53.93,
+          "endSec": 54.11,
+          "score": 0.92
+        },
+        {
+          "word": "perfect",
+          "startSec": 54.11,
+          "endSec": 54.43,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 54.43,
+          "endSec": 55.05,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 55.05,
+          "endSec": 55.37,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 55.37,
+          "endSec": 55.59,
+          "score": 1.0
+        },
+        {
+          "word": "nature",
+          "startSec": 55.59,
+          "endSec": 56.41,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 56.41,
+          "endSec": 56.89,
+          "score": 1.0
+        },
+        {
+          "word": "history.",
+          "startSec": 56.89,
+          "endSec": 57.25,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 57.76,
+      "end": 61.35,
+      "text": "Part 3, history of Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 57.96,
+          "endSec": 58.66,
+          "score": 0.2
+        },
+        {
+          "word": "3,",
+          "startSec": 58.66,
+          "endSec": 59.28,
+          "score": 0.68
+        },
+        {
+          "word": "history",
+          "startSec": 59.78,
+          "endSec": 60.3,
+          "score": 0.13
+        },
+        {
+          "word": "of",
+          "startSec": 60.3,
+          "endSec": 60.62,
+          "score": 0.99
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 60.62,
+          "endSec": 61.2,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 61.9,
+      "end": 64.49,
+      "text": "Kuldiga has a long history.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 62.1,
+          "endSec": 62.88,
+          "score": 0.9
+        },
+        {
+          "word": "has",
+          "startSec": 62.88,
+          "endSec": 63.32,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 63.32,
+          "endSec": 63.54,
+          "score": 0.99
+        },
+        {
+          "word": "long",
+          "startSec": 63.54,
+          "endSec": 63.86,
+          "score": 0.99
+        },
+        {
+          "word": "history.",
+          "startSec": 63.86,
+          "endSec": 64.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 65.41,
+      "end": 68.56,
+      "text": "It was an important town in the Middle Ages.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 65.61,
+          "endSec": 65.75,
+          "score": 0.99
+        },
+        {
+          "word": "was",
+          "startSec": 65.75,
+          "endSec": 65.95,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 65.95,
+          "endSec": 66.17,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 66.17,
+          "endSec": 66.53,
+          "score": 1.0
+        },
+        {
+          "word": "town",
+          "startSec": 66.53,
+          "endSec": 67.27,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 67.27,
+          "endSec": 67.57,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 67.57,
+          "endSec": 67.71,
+          "score": 0.99
+        },
+        {
+          "word": "Middle",
+          "startSec": 67.71,
+          "endSec": 67.97,
+          "score": 0.84
+        },
+        {
+          "word": "Ages.",
+          "startSec": 67.97,
+          "endSec": 68.41,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 69.31,
+      "end": 72.62,
+      "text": "The city was part of the Duchy of Corland.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 69.51,
+          "endSec": 69.67,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 69.67,
+          "endSec": 69.97,
+          "score": 0.98
+        },
+        {
+          "word": "was",
+          "startSec": 69.97,
+          "endSec": 70.33,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 70.33,
+          "endSec": 70.71,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 70.71,
+          "endSec": 70.93,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 70.93,
+          "endSec": 71.07,
+          "score": 0.99
+        },
+        {
+          "word": "Duchy",
+          "startSec": 71.07,
+          "endSec": 71.67,
+          "score": 0.86
+        },
+        {
+          "word": "of",
+          "startSec": 71.67,
+          "endSec": 71.85,
+          "score": 0.99
+        },
+        {
+          "word": "Corland.",
+          "startSec": 71.85,
+          "endSec": 72.47,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 73.28,
+      "end": 77.33,
+      "text": "Many old buildings and churches are still here today.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 73.48,
+          "endSec": 73.88,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 73.88,
+          "endSec": 74.32,
+          "score": 0.97
+        },
+        {
+          "word": "buildings",
+          "startSec": 74.32,
+          "endSec": 74.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 74.94,
+          "endSec": 75.38,
+          "score": 1.0
+        },
+        {
+          "word": "churches",
+          "startSec": 75.38,
+          "endSec": 75.76,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 75.76,
+          "endSec": 76.26,
+          "score": 1.0
+        },
+        {
+          "word": "still",
+          "startSec": 76.26,
+          "endSec": 76.54,
+          "score": 0.99
+        },
+        {
+          "word": "here",
+          "startSec": 76.54,
+          "endSec": 76.92,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 76.92,
+          "endSec": 77.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 78.59,
+      "end": 81.88,
+      "text": "The old town is protected and very charming.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 78.79,
+          "endSec": 78.95,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 78.95,
+          "endSec": 79.21,
+          "score": 0.76
+        },
+        {
+          "word": "town",
+          "startSec": 79.21,
+          "endSec": 79.61,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 79.61,
+          "endSec": 79.85,
+          "score": 1.0
+        },
+        {
+          "word": "protected",
+          "startSec": 79.85,
+          "endSec": 80.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 80.35,
+          "endSec": 80.95,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 80.95,
+          "endSec": 81.21,
+          "score": 1.0
+        },
+        {
+          "word": "charming.",
+          "startSec": 81.21,
+          "endSec": 81.73,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 83.39,
+      "end": 85.8,
+      "text": "Part 4, main attractions.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 83.59,
+          "endSec": 83.89,
+          "score": 0.96
+        },
+        {
+          "word": "4,",
+          "startSec": 83.89,
+          "endSec": 84.35,
+          "score": 0.89
+        },
+        {
+          "word": "main",
+          "startSec": 85.01,
+          "endSec": 85.09,
+          "score": 0.73
+        },
+        {
+          "word": "attractions.",
+          "startSec": 85.09,
+          "endSec": 85.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 86.41,
+      "end": 91.48,
+      "text": "The most famous place in Kuldiga is the Venta Rapid,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 86.61,
+          "endSec": 87.33,
+          "score": 0.29
+        },
+        {
+          "word": "most",
+          "startSec": 87.33,
+          "endSec": 87.65,
+          "score": 0.9
+        },
+        {
+          "word": "famous",
+          "startSec": 87.65,
+          "endSec": 88.21,
+          "score": 0.97
+        },
+        {
+          "word": "place",
+          "startSec": 88.21,
+          "endSec": 88.67,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 88.67,
+          "endSec": 89.01,
+          "score": 1.0
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 89.01,
+          "endSec": 89.57,
+          "score": 0.59
+        },
+        {
+          "word": "is",
+          "startSec": 89.57,
+          "endSec": 90.25,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 90.25,
+          "endSec": 90.49,
+          "score": 0.98
+        },
+        {
+          "word": "Venta",
+          "startSec": 90.49,
+          "endSec": 91.05,
+          "score": 0.69
+        },
+        {
+          "word": "Rapid,",
+          "startSec": 91.05,
+          "endSec": 91.33,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 92.01,
+      "end": 94.74,
+      "text": "the widest waterfall in Europe.",
+      "words": [
+        {
+          "word": "the",
+          "startSec": 92.21,
+          "endSec": 92.49,
+          "score": 0.99
+        },
+        {
+          "word": "widest",
+          "startSec": 92.49,
+          "endSec": 93.05,
+          "score": 0.95
+        },
+        {
+          "word": "waterfall",
+          "startSec": 93.05,
+          "endSec": 93.67,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 93.67,
+          "endSec": 94.25,
+          "score": 1.0
+        },
+        {
+          "word": "Europe.",
+          "startSec": 94.25,
+          "endSec": 94.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 95.52,
+      "end": 99.85,
+      "text": "There is also the Old Town Square with colorful houses.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 95.72,
+          "endSec": 95.94,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 95.94,
+          "endSec": 96.16,
+          "score": 0.94
+        },
+        {
+          "word": "also",
+          "startSec": 96.16,
+          "endSec": 96.64,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 96.64,
+          "endSec": 96.88,
+          "score": 0.99
+        },
+        {
+          "word": "Old",
+          "startSec": 96.88,
+          "endSec": 97.16,
+          "score": 0.9
+        },
+        {
+          "word": "Town",
+          "startSec": 97.16,
+          "endSec": 97.56,
+          "score": 0.98
+        },
+        {
+          "word": "Square",
+          "startSec": 97.56,
+          "endSec": 98.02,
+          "score": 0.96
+        },
+        {
+          "word": "with",
+          "startSec": 98.02,
+          "endSec": 98.62,
+          "score": 0.94
+        },
+        {
+          "word": "colorful",
+          "startSec": 98.62,
+          "endSec": 99.0,
+          "score": 0.94
+        },
+        {
+          "word": "houses.",
+          "startSec": 99.0,
+          "endSec": 99.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 100.52,
+      "end": 106.89,
+      "text": "You can see the old brick bridges, historic churches, and small museums.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 100.72,
+          "endSec": 101.14,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 101.14,
+          "endSec": 101.32,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 101.32,
+          "endSec": 101.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 101.64,
+          "endSec": 101.88,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 101.88,
+          "endSec": 102.22,
+          "score": 0.88
+        },
+        {
+          "word": "brick",
+          "startSec": 102.22,
+          "endSec": 102.54,
+          "score": 0.99
+        },
+        {
+          "word": "bridges,",
+          "startSec": 102.54,
+          "endSec": 103.3,
+          "score": 0.99
+        },
+        {
+          "word": "historic",
+          "startSec": 103.94,
+          "endSec": 104.36,
+          "score": 1.0
+        },
+        {
+          "word": "churches,",
+          "startSec": 104.36,
+          "endSec": 105.1,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 105.8,
+          "endSec": 105.84,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 105.84,
+          "endSec": 106.22,
+          "score": 1.0
+        },
+        {
+          "word": "museums.",
+          "startSec": 106.22,
+          "endSec": 106.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 107.94,
+      "end": 112.35,
+      "text": "Walking in Kuldiga feels like traveling back in time.",
+      "words": [
+        {
+          "word": "Walking",
+          "startSec": 108.14,
+          "endSec": 108.84,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 108.84,
+          "endSec": 109.14,
+          "score": 1.0
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 109.14,
+          "endSec": 109.72,
+          "score": 0.98
+        },
+        {
+          "word": "feels",
+          "startSec": 109.72,
+          "endSec": 110.26,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 110.26,
+          "endSec": 110.66,
+          "score": 1.0
+        },
+        {
+          "word": "traveling",
+          "startSec": 110.66,
+          "endSec": 111.06,
+          "score": 0.94
+        },
+        {
+          "word": "back",
+          "startSec": 111.06,
+          "endSec": 111.56,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 111.56,
+          "endSec": 111.84,
+          "score": 1.0
+        },
+        {
+          "word": "time.",
+          "startSec": 111.84,
+          "endSec": 112.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 112.0,
+      "end": 117.07,
+      "text": "Part 5, the city of Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 112.2,
+          "endSec": 113.44,
+          "score": 0.44
+        },
+        {
+          "word": "5,",
+          "startSec": 114.18,
+          "endSec": 115.04,
+          "score": 0.7
+        },
+        {
+          "word": "the",
+          "startSec": 115.56,
+          "endSec": 115.68,
+          "score": 0.58
+        },
+        {
+          "word": "city",
+          "startSec": 115.68,
+          "endSec": 115.98,
+          "score": 0.4
+        },
+        {
+          "word": "of",
+          "startSec": 115.98,
+          "endSec": 116.36,
+          "score": 1.0
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 116.36,
+          "endSec": 116.92,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 117.8,
+      "end": 121.07,
+      "text": "Kuldiga is small and very friendly.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 118.0,
+          "endSec": 118.84,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 118.84,
+          "endSec": 119.22,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 119.22,
+          "endSec": 119.66,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 119.66,
+          "endSec": 120.04,
+          "score": 0.98
+        },
+        {
+          "word": "very",
+          "startSec": 120.04,
+          "endSec": 120.3,
+          "score": 0.99
+        },
+        {
+          "word": "friendly.",
+          "startSec": 120.3,
+          "endSec": 120.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 122.1,
+      "end": 125.71,
+      "text": "There are cafes, local shops, and restaurants.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 122.3,
+          "endSec": 122.44,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 122.44,
+          "endSec": 122.64,
+          "score": 1.0
+        },
+        {
+          "word": "cafes,",
+          "startSec": 122.64,
+          "endSec": 123.04,
+          "score": 0.94
+        },
+        {
+          "word": "local",
+          "startSec": 123.9,
+          "endSec": 124.1,
+          "score": 0.99
+        },
+        {
+          "word": "shops,",
+          "startSec": 124.1,
+          "endSec": 124.7,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 125.22,
+          "endSec": 125.28,
+          "score": 0.99
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 125.28,
+          "endSec": 125.56,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 126.74,
+      "end": 130.17,
+      "text": "People walk or ride bicycles in the streets.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 126.94,
+          "endSec": 127.26,
+          "score": 0.99
+        },
+        {
+          "word": "walk",
+          "startSec": 127.26,
+          "endSec": 127.68,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 127.68,
+          "endSec": 128.1,
+          "score": 0.96
+        },
+        {
+          "word": "ride",
+          "startSec": 128.1,
+          "endSec": 128.4,
+          "score": 1.0
+        },
+        {
+          "word": "bicycles",
+          "startSec": 128.4,
+          "endSec": 128.9,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 128.9,
+          "endSec": 129.44,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 129.44,
+          "endSec": 129.58,
+          "score": 1.0
+        },
+        {
+          "word": "streets.",
+          "startSec": 129.58,
+          "endSec": 130.02,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 130.86,
+      "end": 134.79,
+      "text": "The city is quiet, safe, and full of charm.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 131.06,
+          "endSec": 131.2,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 131.2,
+          "endSec": 131.54,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 131.54,
+          "endSec": 131.82,
+          "score": 1.0
+        },
+        {
+          "word": "quiet,",
+          "startSec": 131.82,
+          "endSec": 132.38,
+          "score": 0.99
+        },
+        {
+          "word": "safe,",
+          "startSec": 132.8,
+          "endSec": 133.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 133.84,
+          "endSec": 133.88,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 133.88,
+          "endSec": 134.14,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 134.14,
+          "endSec": 134.36,
+          "score": 1.0
+        },
+        {
+          "word": "charm.",
+          "startSec": 134.36,
+          "endSec": 134.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 135.95,
+      "end": 138.24,
+      "text": "Part 6, food in Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 136.15,
+          "endSec": 136.15,
+          "score": 0.89
+        },
+        {
+          "word": "6,",
+          "startSec": 136.15,
+          "endSec": 136.63,
+          "score": 0.95
+        },
+        {
+          "word": "food",
+          "startSec": 137.29,
+          "endSec": 137.31,
+          "score": 0.85
+        },
+        {
+          "word": "in",
+          "startSec": 137.31,
+          "endSec": 137.57,
+          "score": 0.45
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 137.57,
+          "endSec": 138.09,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 139.12,
+      "end": 142.13,
+      "text": "Food in Kuldiga is simple and tasty.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 139.32,
+          "endSec": 139.64,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 139.64,
+          "endSec": 139.92,
+          "score": 1.0
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 139.92,
+          "endSec": 140.42,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 140.42,
+          "endSec": 140.88,
+          "score": 1.0
+        },
+        {
+          "word": "simple",
+          "startSec": 140.88,
+          "endSec": 141.22,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 141.22,
+          "endSec": 141.66,
+          "score": 1.0
+        },
+        {
+          "word": "tasty.",
+          "startSec": 141.66,
+          "endSec": 141.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 142.72,
+      "end": 147.01,
+      "text": "People eat potatoes, fish, meat, and bread.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 142.92,
+          "endSec": 143.36,
+          "score": 0.06
+        },
+        {
+          "word": "eat",
+          "startSec": 143.36,
+          "endSec": 143.64,
+          "score": 0.99
+        },
+        {
+          "word": "potatoes,",
+          "startSec": 143.64,
+          "endSec": 144.1,
+          "score": 0.98
+        },
+        {
+          "word": "fish,",
+          "startSec": 144.76,
+          "endSec": 145.22,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 145.82,
+          "endSec": 146.08,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 146.44,
+          "endSec": 146.52,
+          "score": 1.0
+        },
+        {
+          "word": "bread.",
+          "startSec": 146.52,
+          "endSec": 146.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 147.72,
+      "end": 151.91,
+      "text": "A popular dish is smoked fish from the Venta River.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 147.92,
+          "endSec": 148.04,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 148.04,
+          "endSec": 148.52,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 148.52,
+          "endSec": 149.08,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 149.08,
+          "endSec": 149.48,
+          "score": 0.99
+        },
+        {
+          "word": "smoked",
+          "startSec": 149.48,
+          "endSec": 149.84,
+          "score": 0.99
+        },
+        {
+          "word": "fish",
+          "startSec": 149.84,
+          "endSec": 150.34,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 150.34,
+          "endSec": 150.78,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 150.78,
+          "endSec": 150.98,
+          "score": 0.98
+        },
+        {
+          "word": "Venta",
+          "startSec": 150.98,
+          "endSec": 151.52,
+          "score": 0.67
+        },
+        {
+          "word": "River.",
+          "startSec": 151.52,
+          "endSec": 151.76,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 152.5,
+      "end": 156.23,
+      "text": "Local bakeries make pastries and sweet cakes.",
+      "words": [
+        {
+          "word": "Local",
+          "startSec": 152.7,
+          "endSec": 152.98,
+          "score": 0.99
+        },
+        {
+          "word": "bakeries",
+          "startSec": 152.98,
+          "endSec": 154.0,
+          "score": 0.96
+        },
+        {
+          "word": "make",
+          "startSec": 154.0,
+          "endSec": 154.3,
+          "score": 1.0
+        },
+        {
+          "word": "pastries",
+          "startSec": 154.3,
+          "endSec": 155.06,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 155.06,
+          "endSec": 155.38,
+          "score": 0.96
+        },
+        {
+          "word": "sweet",
+          "startSec": 155.38,
+          "endSec": 155.66,
+          "score": 1.0
+        },
+        {
+          "word": "cakes.",
+          "startSec": 155.66,
+          "endSec": 156.08,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 157.97,
+      "end": 161.24,
+      "text": "Part 7, the people of Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 158.17,
+          "endSec": 158.37,
+          "score": 0.53
+        },
+        {
+          "word": "7,",
+          "startSec": 158.37,
+          "endSec": 159.07,
+          "score": 0.47
+        },
+        {
+          "word": "the",
+          "startSec": 159.69,
+          "endSec": 159.87,
+          "score": 0.56
+        },
+        {
+          "word": "people",
+          "startSec": 159.87,
+          "endSec": 160.29,
+          "score": 0.57
+        },
+        {
+          "word": "of",
+          "startSec": 160.29,
+          "endSec": 160.57,
+          "score": 0.99
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 160.57,
+          "endSec": 161.09,
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 161.71,
+      "end": 165.16,
+      "text": "People in Kuldiga are friendly and welcoming.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 161.91,
+          "endSec": 162.49,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 162.49,
+          "endSec": 162.83,
+          "score": 0.99
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 162.83,
+          "endSec": 163.35,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 163.35,
+          "endSec": 163.77,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 163.77,
+          "endSec": 164.15,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 164.15,
+          "endSec": 164.57,
+          "score": 0.99
+        },
+        {
+          "word": "welcoming.",
+          "startSec": 164.57,
+          "endSec": 165.01,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 165.81,
+      "end": 170.62,
+      "text": "They speak Latvian and some people speak English for visitors.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 166.01,
+          "endSec": 166.31,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 166.31,
+          "endSec": 166.65,
+          "score": 1.0
+        },
+        {
+          "word": "Latvian",
+          "startSec": 166.65,
+          "endSec": 167.53,
+          "score": 0.92
+        },
+        {
+          "word": "and",
+          "startSec": 167.53,
+          "endSec": 167.99,
+          "score": 0.61
+        },
+        {
+          "word": "some",
+          "startSec": 167.99,
+          "endSec": 168.29,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 168.29,
+          "endSec": 168.77,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 168.77,
+          "endSec": 169.23,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 169.23,
+          "endSec": 169.75,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 169.75,
+          "endSec": 170.15,
+          "score": 1.0
+        },
+        {
+          "word": "visitors.",
+          "startSec": 170.15,
+          "endSec": 170.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 171.19,
+      "end": 175.32,
+      "text": "Life is slow and traditions are important.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 171.39,
+          "endSec": 172.27,
+          "score": 0.02
+        },
+        {
+          "word": "is",
+          "startSec": 172.27,
+          "endSec": 172.65,
+          "score": 0.99
+        },
+        {
+          "word": "slow",
+          "startSec": 172.65,
+          "endSec": 173.05,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 173.05,
+          "endSec": 173.73,
+          "score": 0.76
+        },
+        {
+          "word": "traditions",
+          "startSec": 173.73,
+          "endSec": 174.13,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 174.13,
+          "endSec": 174.77,
+          "score": 1.0
+        },
+        {
+          "word": "important.",
+          "startSec": 174.77,
+          "endSec": 175.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 176.13,
+      "end": 180.42,
+      "text": "People enjoy music, crafts, and local festivals.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 176.33,
+          "endSec": 176.53,
+          "score": 0.97
+        },
+        {
+          "word": "enjoy",
+          "startSec": 176.53,
+          "endSec": 177.09,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 177.09,
+          "endSec": 177.95,
+          "score": 0.99
+        },
+        {
+          "word": "crafts,",
+          "startSec": 178.29,
+          "endSec": 178.71,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 179.33,
+          "endSec": 179.47,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 179.47,
+          "endSec": 179.71,
+          "score": 1.0
+        },
+        {
+          "word": "festivals.",
+          "startSec": 179.71,
+          "endSec": 180.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 182.02,
+      "end": 184.91,
+      "text": "Part 8, culture and festivals.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 182.22,
+          "endSec": 182.46,
+          "score": 0.92
+        },
+        {
+          "word": "8,",
+          "startSec": 182.46,
+          "endSec": 182.94,
+          "score": 0.42
+        },
+        {
+          "word": "culture",
+          "startSec": 183.6,
+          "endSec": 183.72,
+          "score": 0.59
+        },
+        {
+          "word": "and",
+          "startSec": 183.72,
+          "endSec": 184.1,
+          "score": 0.83
+        },
+        {
+          "word": "festivals.",
+          "startSec": 184.1,
+          "endSec": 184.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 185.74,
+      "end": 189.81,
+      "text": "Kuldiga has many festivals in summer and winter.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 185.94,
+          "endSec": 186.62,
+          "score": 0.44
+        },
+        {
+          "word": "has",
+          "startSec": 186.62,
+          "endSec": 187.1,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 187.1,
+          "endSec": 187.36,
+          "score": 1.0
+        },
+        {
+          "word": "festivals",
+          "startSec": 187.36,
+          "endSec": 188.1,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 188.1,
+          "endSec": 188.54,
+          "score": 1.0
+        },
+        {
+          "word": "summer",
+          "startSec": 188.54,
+          "endSec": 188.84,
+          "score": 0.92
+        },
+        {
+          "word": "and",
+          "startSec": 188.84,
+          "endSec": 189.22,
+          "score": 0.99
+        },
+        {
+          "word": "winter.",
+          "startSec": 189.22,
+          "endSec": 189.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 190.22,
+      "end": 194.57,
+      "text": "People celebrate music, dance, and local traditions.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 190.42,
+          "endSec": 190.74,
+          "score": 0.99
+        },
+        {
+          "word": "celebrate",
+          "startSec": 190.74,
+          "endSec": 191.24,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 191.24,
+          "endSec": 191.96,
+          "score": 1.0
+        },
+        {
+          "word": "dance,",
+          "startSec": 192.06,
+          "endSec": 192.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 193.26,
+          "endSec": 193.6,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 193.6,
+          "endSec": 193.9,
+          "score": 1.0
+        },
+        {
+          "word": "traditions.",
+          "startSec": 193.9,
+          "endSec": 194.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 195.81,
+      "end": 201.18,
+      "text": "Folk music is common and people wear traditional clothes and festivals.",
+      "words": [
+        {
+          "word": "Folk",
+          "startSec": 196.01,
+          "endSec": 196.23,
+          "score": 0.95
+        },
+        {
+          "word": "music",
+          "startSec": 196.23,
+          "endSec": 196.67,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 196.67,
+          "endSec": 197.11,
+          "score": 1.0
+        },
+        {
+          "word": "common",
+          "startSec": 197.11,
+          "endSec": 197.65,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 197.65,
+          "endSec": 198.51,
+          "score": 0.54
+        },
+        {
+          "word": "people",
+          "startSec": 198.51,
+          "endSec": 198.77,
+          "score": 1.0
+        },
+        {
+          "word": "wear",
+          "startSec": 198.77,
+          "endSec": 199.19,
+          "score": 1.0
+        },
+        {
+          "word": "traditional",
+          "startSec": 199.19,
+          "endSec": 199.67,
+          "score": 1.0
+        },
+        {
+          "word": "clothes",
+          "startSec": 199.67,
+          "endSec": 200.29,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 200.29,
+          "endSec": 200.67,
+          "score": 0.86
+        },
+        {
+          "word": "festivals.",
+          "startSec": 200.67,
+          "endSec": 201.03,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 201.81,
+      "end": 205.7,
+      "text": "Visitors can join and enjoy the celebrations.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 202.01,
+          "endSec": 202.89,
+          "score": 0.05
+        },
+        {
+          "word": "can",
+          "startSec": 202.89,
+          "endSec": 203.43,
+          "score": 0.99
+        },
+        {
+          "word": "join",
+          "startSec": 203.43,
+          "endSec": 203.87,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 203.87,
+          "endSec": 204.15,
+          "score": 0.98
+        },
+        {
+          "word": "enjoy",
+          "startSec": 204.15,
+          "endSec": 204.53,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 204.53,
+          "endSec": 204.81,
+          "score": 0.98
+        },
+        {
+          "word": "celebrations.",
+          "startSec": 204.81,
+          "endSec": 205.55,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 207.18,
+      "end": 210.13,
+      "text": "Part 9, nature around Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 207.38,
+          "endSec": 207.56,
+          "score": 0.94
+        },
+        {
+          "word": "9,",
+          "startSec": 207.56,
+          "endSec": 208.12,
+          "score": 0.54
+        },
+        {
+          "word": "nature",
+          "startSec": 208.72,
+          "endSec": 208.9,
+          "score": 0.62
+        },
+        {
+          "word": "around",
+          "startSec": 208.9,
+          "endSec": 209.32,
+          "score": 0.97
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 209.32,
+          "endSec": 209.98,
+          "score": 0.54
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 210.66,
+      "end": 215.03,
+      "text": "Kuldiga is near forests, rivers, and fields.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 210.86,
+          "endSec": 211.62,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 211.62,
+          "endSec": 212.06,
+          "score": 0.99
+        },
+        {
+          "word": "near",
+          "startSec": 212.06,
+          "endSec": 212.32,
+          "score": 1.0
+        },
+        {
+          "word": "forests,",
+          "startSec": 212.32,
+          "endSec": 212.98,
+          "score": 0.98
+        },
+        {
+          "word": "rivers,",
+          "startSec": 213.68,
+          "endSec": 213.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 214.46,
+          "endSec": 214.52,
+          "score": 1.0
+        },
+        {
+          "word": "fields.",
+          "startSec": 214.52,
+          "endSec": 214.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 216.02,
+      "end": 221.45,
+      "text": "You can go hiking, cycling, or just walk along the Venta River.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 216.22,
+          "endSec": 216.22,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 216.22,
+          "endSec": 216.4,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 216.4,
+          "endSec": 216.66,
+          "score": 1.0
+        },
+        {
+          "word": "hiking,",
+          "startSec": 216.66,
+          "endSec": 217.0,
+          "score": 1.0
+        },
+        {
+          "word": "cycling,",
+          "startSec": 217.68,
+          "endSec": 218.26,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 218.92,
+          "endSec": 219.08,
+          "score": 1.0
+        },
+        {
+          "word": "just",
+          "startSec": 219.08,
+          "endSec": 219.34,
+          "score": 0.98
+        },
+        {
+          "word": "walk",
+          "startSec": 219.34,
+          "endSec": 219.76,
+          "score": 1.0
+        },
+        {
+          "word": "along",
+          "startSec": 219.76,
+          "endSec": 220.2,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 220.2,
+          "endSec": 220.48,
+          "score": 1.0
+        },
+        {
+          "word": "Venta",
+          "startSec": 220.48,
+          "endSec": 220.98,
+          "score": 0.69
+        },
+        {
+          "word": "River.",
+          "startSec": 220.98,
+          "endSec": 221.3,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 222.53,
+      "end": 226.9,
+      "text": "The air is fresh and nature is very peaceful.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 222.73,
+          "endSec": 222.99,
+          "score": 1.0
+        },
+        {
+          "word": "air",
+          "startSec": 222.99,
+          "endSec": 223.21,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 223.21,
+          "endSec": 223.53,
+          "score": 1.0
+        },
+        {
+          "word": "fresh",
+          "startSec": 223.53,
+          "endSec": 223.89,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 223.89,
+          "endSec": 225.01,
+          "score": 0.51
+        },
+        {
+          "word": "nature",
+          "startSec": 225.01,
+          "endSec": 225.31,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 225.31,
+          "endSec": 225.81,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 225.81,
+          "endSec": 226.09,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful.",
+          "startSec": 226.09,
+          "endSec": 226.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 227.09,
+      "end": 231.72,
+      "text": "It is a great place to relax and enjoy the outdoors.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 227.29,
+          "endSec": 227.73,
+          "score": 0.59
+        },
+        {
+          "word": "is",
+          "startSec": 227.83,
+          "endSec": 228.29,
+          "score": 0.89
+        },
+        {
+          "word": "a",
+          "startSec": 228.29,
+          "endSec": 228.45,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 228.45,
+          "endSec": 228.71,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 228.71,
+          "endSec": 229.15,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 229.15,
+          "endSec": 229.47,
+          "score": 1.0
+        },
+        {
+          "word": "relax",
+          "startSec": 229.47,
+          "endSec": 229.91,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 229.91,
+          "endSec": 230.41,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 230.41,
+          "endSec": 230.85,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 230.85,
+          "endSec": 231.17,
+          "score": 0.99
+        },
+        {
+          "word": "outdoors.",
+          "startSec": 231.17,
+          "endSec": 231.57,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 233.07,
+      "end": 235.74,
+      "text": "Part 10, travel and tourism.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 233.27,
+          "endSec": 233.43,
+          "score": 0.6
+        },
+        {
+          "word": "10,",
+          "startSec": 233.43,
+          "endSec": 233.97,
+          "score": 0.91
+        },
+        {
+          "word": "travel",
+          "startSec": 234.97,
+          "endSec": 234.97,
+          "score": 0.33
+        },
+        {
+          "word": "and",
+          "startSec": 234.97,
+          "endSec": 235.25,
+          "score": 0.6
+        },
+        {
+          "word": "tourism.",
+          "startSec": 235.25,
+          "endSec": 235.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 236.31,
+      "end": 243.34,
+      "text": "Kuldiga is small but reachable by bus or car from bigger cities in Latvia.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 236.51,
+          "endSec": 237.09,
+          "score": 0.46
+        },
+        {
+          "word": "is",
+          "startSec": 237.09,
+          "endSec": 237.47,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 237.47,
+          "endSec": 237.95,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 237.95,
+          "endSec": 238.85,
+          "score": 0.37
+        },
+        {
+          "word": "reachable",
+          "startSec": 238.85,
+          "endSec": 239.49,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 239.49,
+          "endSec": 239.81,
+          "score": 1.0
+        },
+        {
+          "word": "bus",
+          "startSec": 239.81,
+          "endSec": 240.23,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 240.23,
+          "endSec": 240.59,
+          "score": 0.99
+        },
+        {
+          "word": "car",
+          "startSec": 240.59,
+          "endSec": 240.97,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 240.97,
+          "endSec": 241.53,
+          "score": 0.99
+        },
+        {
+          "word": "bigger",
+          "startSec": 241.53,
+          "endSec": 241.85,
+          "score": 0.96
+        },
+        {
+          "word": "cities",
+          "startSec": 241.85,
+          "endSec": 242.49,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 242.49,
+          "endSec": 242.85,
+          "score": 0.99
+        },
+        {
+          "word": "Latvia.",
+          "startSec": 242.85,
+          "endSec": 243.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 244.28,
+      "end": 249.67,
+      "text": "Tourists come to see the Old Town, the Waterfall, and local museums.",
+      "words": [
+        {
+          "word": "Tourists",
+          "startSec": 244.48,
+          "endSec": 245.26,
+          "score": 0.9
+        },
+        {
+          "word": "come",
+          "startSec": 245.26,
+          "endSec": 245.5,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 245.5,
+          "endSec": 245.74,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 245.74,
+          "endSec": 245.98,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 245.98,
+          "endSec": 246.16,
+          "score": 0.99
+        },
+        {
+          "word": "Old",
+          "startSec": 246.16,
+          "endSec": 246.44,
+          "score": 0.41
+        },
+        {
+          "word": "Town,",
+          "startSec": 246.44,
+          "endSec": 246.92,
+          "score": 0.94
+        },
+        {
+          "word": "the",
+          "startSec": 247.46,
+          "endSec": 247.5,
+          "score": 0.97
+        },
+        {
+          "word": "Waterfall,",
+          "startSec": 247.5,
+          "endSec": 248.26,
+          "score": 0.76
+        },
+        {
+          "word": "and",
+          "startSec": 248.6,
+          "endSec": 248.7,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 248.7,
+          "endSec": 249.08,
+          "score": 0.93
+        },
+        {
+          "word": "museums.",
+          "startSec": 249.08,
+          "endSec": 249.52,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 251.19,
+      "end": 256.7,
+      "text": "Tourism helps local people earn money and keep traditions alive.",
+      "words": [
+        {
+          "word": "Tourism",
+          "startSec": 251.39,
+          "endSec": 251.89,
+          "score": 0.97
+        },
+        {
+          "word": "helps",
+          "startSec": 251.89,
+          "endSec": 252.41,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 252.41,
+          "endSec": 252.81,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 252.81,
+          "endSec": 253.37,
+          "score": 1.0
+        },
+        {
+          "word": "earn",
+          "startSec": 253.37,
+          "endSec": 253.85,
+          "score": 1.0
+        },
+        {
+          "word": "money",
+          "startSec": 253.85,
+          "endSec": 254.41,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 254.41,
+          "endSec": 254.95,
+          "score": 0.96
+        },
+        {
+          "word": "keep",
+          "startSec": 254.95,
+          "endSec": 255.25,
+          "score": 1.0
+        },
+        {
+          "word": "traditions",
+          "startSec": 255.25,
+          "endSec": 255.75,
+          "score": 0.99
+        },
+        {
+          "word": "alive.",
+          "startSec": 255.75,
+          "endSec": 256.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 257.86,
+      "end": 261.53,
+      "text": "Part 11, daily life in Kuldiga.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 258.06,
+          "endSec": 258.5,
+          "score": 0.75
+        },
+        {
+          "word": "11,",
+          "startSec": 258.5,
+          "endSec": 259.1,
+          "score": 0.96
+        },
+        {
+          "word": "daily",
+          "startSec": 259.6,
+          "endSec": 259.94,
+          "score": 0.55
+        },
+        {
+          "word": "life",
+          "startSec": 259.94,
+          "endSec": 260.56,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 260.56,
+          "endSec": 260.78,
+          "score": 0.97
+        },
+        {
+          "word": "Kuldiga.",
+          "startSec": 260.78,
+          "endSec": 261.38,
+          "score": 0.57
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 262.16,
+      "end": 265.97,
+      "text": "Life in Kuldiga is common simple.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 262.36,
+          "endSec": 263.1,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 263.1,
+          "endSec": 263.42,
+          "score": 1.0
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 263.42,
+          "endSec": 264.04,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 264.04,
+          "endSec": 264.48,
+          "score": 1.0
+        },
+        {
+          "word": "common",
+          "startSec": 264.48,
+          "endSec": 264.96,
+          "score": 0.53
+        },
+        {
+          "word": "simple.",
+          "startSec": 264.96,
+          "endSec": 265.82,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 266.79,
+      "end": 272.56,
+      "text": "People wake up early, go to work or school, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 266.99,
+          "endSec": 267.29,
+          "score": 1.0
+        },
+        {
+          "word": "wake",
+          "startSec": 267.29,
+          "endSec": 267.75,
+          "score": 1.0
+        },
+        {
+          "word": "up",
+          "startSec": 267.75,
+          "endSec": 268.03,
+          "score": 1.0
+        },
+        {
+          "word": "early,",
+          "startSec": 268.03,
+          "endSec": 268.45,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 268.97,
+          "endSec": 269.21,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 269.21,
+          "endSec": 269.41,
+          "score": 1.0
+        },
+        {
+          "word": "work",
+          "startSec": 269.41,
+          "endSec": 269.71,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 269.71,
+          "endSec": 269.97,
+          "score": 0.98
+        },
+        {
+          "word": "school,",
+          "startSec": 269.97,
+          "endSec": 270.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 270.91,
+          "endSec": 271.03,
+          "score": 1.0
+        },
+        {
+          "word": "spend",
+          "startSec": 271.03,
+          "endSec": 271.39,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 271.39,
+          "endSec": 271.77,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 271.77,
+          "endSec": 272.05,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 272.05,
+          "endSec": 272.41,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 273.43,
+      "end": 278.88,
+      "text": "Children play in the streets and families enjoy walks by the river.",
+      "words": [
+        {
+          "word": "Children",
+          "startSec": 273.63,
+          "endSec": 274.11,
+          "score": 1.0
+        },
+        {
+          "word": "play",
+          "startSec": 274.11,
+          "endSec": 274.63,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 274.63,
+          "endSec": 274.93,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 274.93,
+          "endSec": 275.07,
+          "score": 1.0
+        },
+        {
+          "word": "streets",
+          "startSec": 275.07,
+          "endSec": 275.47,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 275.47,
+          "endSec": 276.21,
+          "score": 0.29
+        },
+        {
+          "word": "families",
+          "startSec": 276.21,
+          "endSec": 276.81,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 276.81,
+          "endSec": 277.37,
+          "score": 0.99
+        },
+        {
+          "word": "walks",
+          "startSec": 277.37,
+          "endSec": 277.85,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 277.85,
+          "endSec": 278.23,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 278.23,
+          "endSec": 278.43,
+          "score": 1.0
+        },
+        {
+          "word": "river.",
+          "startSec": 278.43,
+          "endSec": 278.73,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 279.47,
+      "end": 282.74,
+      "text": "Life feels natural and connected to history.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 279.67,
+          "endSec": 279.95,
+          "score": 0.99
+        },
+        {
+          "word": "feels",
+          "startSec": 279.95,
+          "endSec": 280.35,
+          "score": 1.0
+        },
+        {
+          "word": "natural",
+          "startSec": 280.35,
+          "endSec": 280.83,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 280.83,
+          "endSec": 281.43,
+          "score": 1.0
+        },
+        {
+          "word": "connected",
+          "startSec": 281.43,
+          "endSec": 281.89,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 281.89,
+          "endSec": 282.31,
+          "score": 1.0
+        },
+        {
+          "word": "history.",
+          "startSec": 282.31,
+          "endSec": 282.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 283.84,
+      "end": 287.07,
+      "text": "Part 12, why Kuldiga is special?",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 284.04,
+          "endSec": 284.1,
+          "score": 0.99
+        },
+        {
+          "word": "12,",
+          "startSec": 284.1,
+          "endSec": 284.74,
+          "score": 0.99
+        },
+        {
+          "word": "why",
+          "startSec": 285.36,
+          "endSec": 285.56,
+          "score": 0.91
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 285.56,
+          "endSec": 286.28,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 286.28,
+          "endSec": 286.6,
+          "score": 0.96
+        },
+        {
+          "word": "special?",
+          "startSec": 286.6,
+          "endSec": 286.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 288.14,
+      "end": 294.81,
+      "text": "Kuldiga is not a famous city, but it is full of charm and nature.",
+      "words": [
+        {
+          "word": "Kuldiga",
+          "startSec": 288.34,
+          "endSec": 288.92,
+          "score": 0.52
+        },
+        {
+          "word": "is",
+          "startSec": 288.92,
+          "endSec": 289.54,
+          "score": 0.99
+        },
+        {
+          "word": "not",
+          "startSec": 289.54,
+          "endSec": 289.86,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 289.86,
+          "endSec": 290.06,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 290.06,
+          "endSec": 290.52,
+          "score": 1.0
+        },
+        {
+          "word": "city,",
+          "startSec": 290.52,
+          "endSec": 291.04,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 291.86,
+          "endSec": 292.14,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 292.14,
+          "endSec": 292.34,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 292.34,
+          "endSec": 292.56,
+          "score": 0.98
+        },
+        {
+          "word": "full",
+          "startSec": 292.56,
+          "endSec": 292.94,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 292.94,
+          "endSec": 293.22,
+          "score": 1.0
+        },
+        {
+          "word": "charm",
+          "startSec": 293.22,
+          "endSec": 293.72,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 293.72,
+          "endSec": 294.12,
+          "score": 0.98
+        },
+        {
+          "word": "nature.",
+          "startSec": 294.12,
+          "endSec": 294.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 295.79,
+      "end": 301.84,
+      "text": "It combines history, old buildings, and peaceful life beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 295.99,
+          "endSec": 296.09,
+          "score": 0.99
+        },
+        {
+          "word": "combines",
+          "startSec": 296.09,
+          "endSec": 296.55,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 296.55,
+          "endSec": 297.47,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 298.19,
+          "endSec": 298.47,
+          "score": 0.99
+        },
+        {
+          "word": "buildings,",
+          "startSec": 298.47,
+          "endSec": 299.11,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 299.85,
+          "endSec": 300.09,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 300.09,
+          "endSec": 300.53,
+          "score": 0.98
+        },
+        {
+          "word": "life",
+          "startSec": 300.53,
+          "endSec": 301.11,
+          "score": 0.99
+        },
+        {
+          "word": "beautifully.",
+          "startSec": 301.11,
+          "endSec": 301.69,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 302.71,
+      "end": 309.18,
+      "text": "Visitors feel relaxed and enjoy the beauty of this hidden European gem.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 302.91,
+          "endSec": 303.23,
+          "score": 0.97
+        },
+        {
+          "word": "feel",
+          "startSec": 303.23,
+          "endSec": 303.95,
+          "score": 1.0
+        },
+        {
+          "word": "relaxed",
+          "startSec": 303.95,
+          "endSec": 304.67,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 304.67,
+          "endSec": 305.27,
+          "score": 0.95
+        },
+        {
+          "word": "enjoy",
+          "startSec": 305.27,
+          "endSec": 305.69,
+          "score": 0.77
+        },
+        {
+          "word": "the",
+          "startSec": 305.69,
+          "endSec": 306.09,
+          "score": 1.0
+        },
+        {
+          "word": "beauty",
+          "startSec": 306.09,
+          "endSec": 306.57,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 306.57,
+          "endSec": 306.95,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 306.95,
+          "endSec": 307.21,
+          "score": 0.99
+        },
+        {
+          "word": "hidden",
+          "startSec": 307.21,
+          "endSec": 307.63,
+          "score": 0.97
+        },
+        {
+          "word": "European",
+          "startSec": 307.63,
+          "endSec": 308.31,
+          "score": 0.99
+        },
+        {
+          "word": "gem.",
+          "startSec": 308.31,
+          "endSec": 309.03,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 315.49,
+      "end": 321.68,
+      "text": "I am Emili and I hope you enjoyed this journey through Kuldiga Latvia.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 315.69,
+          "endSec": 316.53,
+          "score": 0.43
+        },
+        {
+          "word": "am",
+          "startSec": 316.53,
+          "endSec": 316.79,
+          "score": 0.78
+        },
+        {
+          "word": "Emili",
+          "startSec": 316.79,
+          "endSec": 317.21,
+          "score": 0.55
+        },
+        {
+          "word": "and",
+          "startSec": 317.21,
+          "endSec": 317.93,
+          "score": 0.6
+        },
+        {
+          "word": "I",
+          "startSec": 317.93,
+          "endSec": 318.15,
+          "score": 0.94
+        },
+        {
+          "word": "hope",
+          "startSec": 318.15,
+          "endSec": 318.41,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 318.41,
+          "endSec": 318.67,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 318.67,
+          "endSec": 319.03,
+          "score": 0.99
+        },
+        {
+          "word": "this",
+          "startSec": 319.03,
+          "endSec": 319.45,
+          "score": 1.0
+        },
+        {
+          "word": "journey",
+          "startSec": 319.45,
+          "endSec": 319.85,
+          "score": 0.99
+        },
+        {
+          "word": "through",
+          "startSec": 319.85,
+          "endSec": 320.49,
+          "score": 0.99
+        },
+        {
+          "word": "Kuldiga",
+          "startSec": 320.49,
+          "endSec": 321.07,
+          "score": 0.24
+        },
+        {
+          "word": "Latvia.",
+          "startSec": 321.07,
+          "endSec": 321.53,
+          "score": 0.88
         }
       ]
     }

@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 3.74,
-      "end": 5.47,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 3.94,
-          "endSec": 4.2,
-          "score": 0.98
-        },
-        {
-          "word": "name",
-          "startSec": 4.2,
-          "endSec": 4.38,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 4.38,
-          "endSec": 4.68,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 4.68,
-          "endSec": 5.32,
-          "score": 0.6
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 5.4,
       "end": 7.23,
       "text": "I am happy you are here.",
@@ -146,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 7.92,
       "end": 11.33,
       "text": "Today, we will talk about Montenegro.",
@@ -190,7 +158,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 12.08,
       "end": 14.95,
       "text": "Montenegro is a small, beautiful,",
@@ -228,7 +196,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 15.32,
       "end": 19.41,
       "text": "and peaceful country in Southeastern Europe.",
@@ -272,7 +240,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 19.82,
       "end": 23.47,
       "text": "Let's learn about it in slow and easy English.",
@@ -334,7 +302,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 23.96,
       "end": 24.99,
       "text": "Are you ready?",
@@ -360,7 +328,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 25.5,
       "end": 26.63,
       "text": "Let's begin.",
@@ -380,7 +348,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 28.24,
       "end": 29.91,
       "text": "Where is Montenegro?",
@@ -402,6 +370,4218 @@
           "startSec": 28.8,
           "endSec": 29.76,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 30.69,
+      "end": 34.3,
+      "text": "Montenegro is in Europe on the Balkan Peninsula.",
+      "words": [
+        {
+          "word": "Montenegro",
+          "startSec": 30.89,
+          "endSec": 31.69,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 31.69,
+          "endSec": 31.87,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 31.87,
+          "endSec": 32.05,
+          "score": 0.98
+        },
+        {
+          "word": "Europe",
+          "startSec": 32.05,
+          "endSec": 32.47,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 32.47,
+          "endSec": 33.05,
+          "score": 0.78
+        },
+        {
+          "word": "the",
+          "startSec": 33.05,
+          "endSec": 33.23,
+          "score": 0.99
+        },
+        {
+          "word": "Balkan",
+          "startSec": 33.23,
+          "endSec": 33.77,
+          "score": 0.99
+        },
+        {
+          "word": "Peninsula.",
+          "startSec": 33.77,
+          "endSec": 34.15,
+          "score": 0.66
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 35.27,
+      "end": 42.7,
+      "text": "It is next to Croatia, Bosnia and Herzegovina, Serbia, Kosovo, and Albania.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 35.47,
+          "endSec": 35.73,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 35.73,
+          "endSec": 35.89,
+          "score": 0.99
+        },
+        {
+          "word": "next",
+          "startSec": 35.89,
+          "endSec": 36.17,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 36.17,
+          "endSec": 36.43,
+          "score": 0.98
+        },
+        {
+          "word": "Croatia,",
+          "startSec": 36.43,
+          "endSec": 36.85,
+          "score": 1.0
+        },
+        {
+          "word": "Bosnia",
+          "startSec": 37.49,
+          "endSec": 37.85,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 37.85,
+          "endSec": 38.41,
+          "score": 0.65
+        },
+        {
+          "word": "Herzegovina,",
+          "startSec": 38.41,
+          "endSec": 39.29,
+          "score": 0.98
+        },
+        {
+          "word": "Serbia,",
+          "startSec": 39.83,
+          "endSec": 39.99,
+          "score": 1.0
+        },
+        {
+          "word": "Kosovo,",
+          "startSec": 40.81,
+          "endSec": 41.21,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 41.89,
+          "endSec": 42.01,
+          "score": 1.0
+        },
+        {
+          "word": "Albania.",
+          "startSec": 42.01,
+          "endSec": 42.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 43.48,
+      "end": 47.73,
+      "text": "To the west, it has a coast on the Adriatic Sea.",
+      "words": [
+        {
+          "word": "To",
+          "startSec": 43.68,
+          "endSec": 43.96,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 43.96,
+          "endSec": 44.14,
+          "score": 1.0
+        },
+        {
+          "word": "west,",
+          "startSec": 44.14,
+          "endSec": 44.48,
+          "score": 0.75
+        },
+        {
+          "word": "it",
+          "startSec": 44.96,
+          "endSec": 45.04,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 45.04,
+          "endSec": 45.26,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 45.26,
+          "endSec": 45.44,
+          "score": 1.0
+        },
+        {
+          "word": "coast",
+          "startSec": 45.44,
+          "endSec": 45.84,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 45.84,
+          "endSec": 46.3,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 46.3,
+          "endSec": 46.48,
+          "score": 1.0
+        },
+        {
+          "word": "Adriatic",
+          "startSec": 46.48,
+          "endSec": 47.22,
+          "score": 0.98
+        },
+        {
+          "word": "Sea.",
+          "startSec": 47.22,
+          "endSec": 47.58,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 48.28,
+      "end": 52.51,
+      "text": "Montenegro has mountains, rivers, and sea views.",
+      "words": [
+        {
+          "word": "Montenegro",
+          "startSec": 48.48,
+          "endSec": 49.28,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 49.28,
+          "endSec": 49.54,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 49.54,
+          "endSec": 49.88,
+          "score": 0.99
+        },
+        {
+          "word": "rivers,",
+          "startSec": 50.56,
+          "endSec": 50.76,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 51.54,
+          "endSec": 51.58,
+          "score": 1.0
+        },
+        {
+          "word": "sea",
+          "startSec": 51.58,
+          "endSec": 51.94,
+          "score": 0.96
+        },
+        {
+          "word": "views.",
+          "startSec": 51.94,
+          "endSec": 52.36,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 53.46,
+      "end": 56.77,
+      "text": "What is the capital city of Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 53.66,
+          "endSec": 53.8,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 53.8,
+          "endSec": 54.02,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 54.02,
+          "endSec": 54.22,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 54.22,
+          "endSec": 54.72,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 54.72,
+          "endSec": 55.2,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 55.2,
+          "endSec": 55.5,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 55.5,
+          "endSec": 56.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 56.42,
+      "end": 60.27,
+      "text": "The capital city is Padgoreza.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 56.62,
+          "endSec": 57.5,
+          "score": 0.3
+        },
+        {
+          "word": "capital",
+          "startSec": 57.5,
+          "endSec": 58.02,
+          "score": 0.83
+        },
+        {
+          "word": "city",
+          "startSec": 58.02,
+          "endSec": 58.6,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 58.6,
+          "endSec": 59.12,
+          "score": 0.99
+        },
+        {
+          "word": "Padgoreza.",
+          "startSec": 59.12,
+          "endSec": 60.12,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 60.64,
+      "end": 63.63,
+      "text": "It is the largest city in the country.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 60.84,
+          "endSec": 61.04,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 61.04,
+          "endSec": 61.24,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 61.24,
+          "endSec": 61.44,
+          "score": 1.0
+        },
+        {
+          "word": "largest",
+          "startSec": 61.44,
+          "endSec": 61.96,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 61.96,
+          "endSec": 62.58,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 62.58,
+          "endSec": 62.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 62.86,
+          "endSec": 63.0,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 63.0,
+          "endSec": 63.48,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 64.28,
+      "end": 67.93,
+      "text": "It has parks, bridges, and modern buildings.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 64.48,
+          "endSec": 64.6,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 64.6,
+          "endSec": 64.82,
+          "score": 1.0
+        },
+        {
+          "word": "parks,",
+          "startSec": 64.82,
+          "endSec": 65.22,
+          "score": 0.99
+        },
+        {
+          "word": "bridges,",
+          "startSec": 65.44,
+          "endSec": 66.1,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 66.24,
+          "endSec": 66.8,
+          "score": 1.0
+        },
+        {
+          "word": "modern",
+          "startSec": 66.8,
+          "endSec": 67.12,
+          "score": 1.0
+        },
+        {
+          "word": "buildings.",
+          "startSec": 67.12,
+          "endSec": 67.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 68.68,
+      "end": 72.71,
+      "text": "Other important places include Kotor,",
+      "words": [
+        {
+          "word": "Other",
+          "startSec": 68.88,
+          "endSec": 69.24,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 69.24,
+          "endSec": 69.66,
+          "score": 1.0
+        },
+        {
+          "word": "places",
+          "startSec": 69.66,
+          "endSec": 70.34,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 70.34,
+          "endSec": 71.06,
+          "score": 1.0
+        },
+        {
+          "word": "Kotor,",
+          "startSec": 71.06,
+          "endSec": 72.56,
+          "score": 0.22
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 72.94,
+      "end": 75.71,
+      "text": "a beautiful old town by the sea.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 73.14,
+          "endSec": 73.24,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 73.24,
+          "endSec": 73.7,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 73.7,
+          "endSec": 74.16,
+          "score": 0.82
+        },
+        {
+          "word": "town",
+          "startSec": 74.16,
+          "endSec": 74.72,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 74.72,
+          "endSec": 75.04,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 75.04,
+          "endSec": 75.22,
+          "score": 0.99
+        },
+        {
+          "word": "sea.",
+          "startSec": 75.22,
+          "endSec": 75.56,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 76.53,
+      "end": 79.98,
+      "text": "Budva, known for beaches and nightlife.",
+      "words": [
+        {
+          "word": "Budva,",
+          "startSec": 76.73,
+          "endSec": 77.35,
+          "score": 0.72
+        },
+        {
+          "word": "known",
+          "startSec": 77.73,
+          "endSec": 78.01,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 78.01,
+          "endSec": 78.35,
+          "score": 1.0
+        },
+        {
+          "word": "beaches",
+          "startSec": 78.35,
+          "endSec": 78.69,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 78.69,
+          "endSec": 79.21,
+          "score": 0.96
+        },
+        {
+          "word": "nightlife.",
+          "startSec": 79.21,
+          "endSec": 79.83,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 80.94,
+      "end": 84.13,
+      "text": "Satinja, a historic royal town.",
+      "words": [
+        {
+          "word": "Satinja,",
+          "startSec": 81.14,
+          "endSec": 81.88,
+          "score": 0.49
+        },
+        {
+          "word": "a",
+          "startSec": 82.16,
+          "endSec": 82.26,
+          "score": 0.99
+        },
+        {
+          "word": "historic",
+          "startSec": 82.26,
+          "endSec": 82.76,
+          "score": 0.99
+        },
+        {
+          "word": "royal",
+          "startSec": 82.76,
+          "endSec": 83.32,
+          "score": 0.8
+        },
+        {
+          "word": "town.",
+          "startSec": 83.32,
+          "endSec": 83.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 84.68,
+      "end": 88.87,
+      "text": "Herchek Novi, a lovely town near the Croatian border.",
+      "words": [
+        {
+          "word": "Herchek",
+          "startSec": 84.88,
+          "endSec": 85.32,
+          "score": 0.28
+        },
+        {
+          "word": "Novi,",
+          "startSec": 85.32,
+          "endSec": 85.9,
+          "score": 0.66
+        },
+        {
+          "word": "a",
+          "startSec": 86.04,
+          "endSec": 86.16,
+          "score": 0.99
+        },
+        {
+          "word": "lovely",
+          "startSec": 86.16,
+          "endSec": 86.44,
+          "score": 1.0
+        },
+        {
+          "word": "town",
+          "startSec": 86.44,
+          "endSec": 87.04,
+          "score": 1.0
+        },
+        {
+          "word": "near",
+          "startSec": 87.04,
+          "endSec": 87.48,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 87.48,
+          "endSec": 87.66,
+          "score": 0.99
+        },
+        {
+          "word": "Croatian",
+          "startSec": 87.66,
+          "endSec": 88.1,
+          "score": 0.91
+        },
+        {
+          "word": "border.",
+          "startSec": 88.1,
+          "endSec": 88.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 89.66,
+      "end": 92.61,
+      "text": "How many people live in Montenegro?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 89.86,
+          "endSec": 90.02,
+          "score": 0.92
+        },
+        {
+          "word": "many",
+          "startSec": 90.02,
+          "endSec": 90.26,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 90.26,
+          "endSec": 90.82,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 90.82,
+          "endSec": 91.12,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 91.12,
+          "endSec": 91.36,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 91.36,
+          "endSec": 92.46,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 92.86,
+      "end": 97.23,
+      "text": "About 600,000 people live in Montenegro.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 93.06,
+          "endSec": 93.28,
+          "score": 0.95
+        },
+        {
+          "word": "600",
+          "startSec": 93.28,
+          "endSec": 93.9,
+          "score": 0.97
+        },
+        {
+          "word": ",000",
+          "startSec": 93.9,
+          "endSec": 94.9,
+          "score": 0.97
+        },
+        {
+          "word": "people",
+          "startSec": 94.9,
+          "endSec": 95.44,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 95.44,
+          "endSec": 95.82,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 95.82,
+          "endSec": 96.08,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro.",
+          "startSec": 96.08,
+          "endSec": 97.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 98.13,
+      "end": 101.92,
+      "text": "It is a small country with a low population.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 98.33,
+          "endSec": 98.87,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 98.87,
+          "endSec": 99.03,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 99.03,
+          "endSec": 99.23,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 99.23,
+          "endSec": 99.55,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 99.55,
+          "endSec": 100.23,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 100.23,
+          "endSec": 100.85,
+          "score": 0.91
+        },
+        {
+          "word": "a",
+          "startSec": 100.85,
+          "endSec": 101.03,
+          "score": 1.0
+        },
+        {
+          "word": "low",
+          "startSec": 101.03,
+          "endSec": 101.25,
+          "score": 0.99
+        },
+        {
+          "word": "population.",
+          "startSec": 101.25,
+          "endSec": 101.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 103.56,
+      "end": 109.11,
+      "text": "Most people live in towns and cities along the coast or in the valleys.",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 103.76,
+          "endSec": 104.08,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 104.08,
+          "endSec": 104.6,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 104.6,
+          "endSec": 104.96,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 104.96,
+          "endSec": 105.2,
+          "score": 1.0
+        },
+        {
+          "word": "towns",
+          "startSec": 105.2,
+          "endSec": 105.52,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 105.52,
+          "endSec": 105.96,
+          "score": 0.99
+        },
+        {
+          "word": "cities",
+          "startSec": 105.96,
+          "endSec": 106.42,
+          "score": 1.0
+        },
+        {
+          "word": "along",
+          "startSec": 106.42,
+          "endSec": 106.78,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 106.78,
+          "endSec": 107.12,
+          "score": 0.99
+        },
+        {
+          "word": "coast",
+          "startSec": 107.12,
+          "endSec": 107.56,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 107.56,
+          "endSec": 108.26,
+          "score": 0.87
+        },
+        {
+          "word": "in",
+          "startSec": 108.26,
+          "endSec": 108.44,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 108.44,
+          "endSec": 108.6,
+          "score": 0.97
+        },
+        {
+          "word": "valleys.",
+          "startSec": 108.6,
+          "endSec": 108.96,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 110.22,
+      "end": 114.03,
+      "text": "What language do people speak in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 110.42,
+          "endSec": 110.94,
+          "score": 0.99
+        },
+        {
+          "word": "language",
+          "startSec": 110.94,
+          "endSec": 111.38,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 111.38,
+          "endSec": 111.8,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 111.8,
+          "endSec": 112.08,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 112.08,
+          "endSec": 112.66,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 112.66,
+          "endSec": 112.96,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 112.96,
+          "endSec": 113.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 113.68,
+      "end": 118.01,
+      "text": "The official language is Montenegrin.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 113.88,
+          "endSec": 114.9,
+          "score": 0.38
+        },
+        {
+          "word": "official",
+          "startSec": 115.28,
+          "endSec": 115.74,
+          "score": 0.95
+        },
+        {
+          "word": "language",
+          "startSec": 115.74,
+          "endSec": 116.36,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 116.36,
+          "endSec": 116.82,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegrin.",
+          "startSec": 116.82,
+          "endSec": 117.86,
+          "score": 0.55
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 118.81,
+      "end": 126.49,
+      "text": "Many people also speak Serbian Bosnian, Croatian, Albanian.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 119.01,
+          "endSec": 119.29,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 119.29,
+          "endSec": 119.83,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 119.83,
+          "endSec": 120.31,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 120.31,
+          "endSec": 120.79,
+          "score": 1.0
+        },
+        {
+          "word": "Serbian",
+          "startSec": 120.79,
+          "endSec": 121.91,
+          "score": 0.61
+        },
+        {
+          "word": "Bosnian,",
+          "startSec": 121.91,
+          "endSec": 122.93,
+          "score": 0.89
+        },
+        {
+          "word": "Croatian,",
+          "startSec": 123.43,
+          "endSec": 123.85,
+          "score": 0.96
+        },
+        {
+          "word": "Albanian.",
+          "startSec": 125.62,
+          "endSec": 126.34,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 127.52,
+      "end": 132.25,
+      "text": "English is taught in schools and spoken in tourist areas.",
+      "words": [
+        {
+          "word": "English",
+          "startSec": 127.72,
+          "endSec": 128.14,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 128.14,
+          "endSec": 128.6,
+          "score": 1.0
+        },
+        {
+          "word": "taught",
+          "startSec": 128.6,
+          "endSec": 128.88,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 128.88,
+          "endSec": 129.22,
+          "score": 1.0
+        },
+        {
+          "word": "schools",
+          "startSec": 129.22,
+          "endSec": 129.72,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 129.72,
+          "endSec": 130.2,
+          "score": 0.95
+        },
+        {
+          "word": "spoken",
+          "startSec": 130.2,
+          "endSec": 130.74,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 130.74,
+          "endSec": 131.14,
+          "score": 0.85
+        },
+        {
+          "word": "tourist",
+          "startSec": 131.14,
+          "endSec": 131.4,
+          "score": 1.0
+        },
+        {
+          "word": "areas.",
+          "startSec": 131.4,
+          "endSec": 132.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 133.04,
+      "end": 135.43,
+      "text": "What is the weather like in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 133.24,
+          "endSec": 133.26,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 133.26,
+          "endSec": 133.44,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 133.44,
+          "endSec": 133.6,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 133.6,
+          "endSec": 133.82,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 133.82,
+          "endSec": 134.16,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 134.16,
+          "endSec": 134.36,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 134.36,
+          "endSec": 135.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 135.62,
+      "end": 138.15,
+      "text": "Montenegro has two main climates.",
+      "words": [
+        {
+          "word": "Montenegro",
+          "startSec": 135.82,
+          "endSec": 136.66,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 136.66,
+          "endSec": 136.88,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 136.88,
+          "endSec": 137.28,
+          "score": 0.96
+        },
+        {
+          "word": "main",
+          "startSec": 137.28,
+          "endSec": 137.62,
+          "score": 1.0
+        },
+        {
+          "word": "climates.",
+          "startSec": 137.62,
+          "endSec": 138.0,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 138.52,
+      "end": 141.63,
+      "text": "On the coast, the weather is Mediterranean.",
+      "words": [
+        {
+          "word": "On",
+          "startSec": 138.72,
+          "endSec": 139.14,
+          "score": 0.27
+        },
+        {
+          "word": "the",
+          "startSec": 139.14,
+          "endSec": 139.32,
+          "score": 0.99
+        },
+        {
+          "word": "coast,",
+          "startSec": 139.32,
+          "endSec": 139.72,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 140.14,
+          "endSec": 140.22,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 140.22,
+          "endSec": 140.52,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 140.52,
+          "endSec": 140.9,
+          "score": 1.0
+        },
+        {
+          "word": "Mediterranean.",
+          "startSec": 140.9,
+          "endSec": 141.48,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 142.26,
+      "end": 144.73,
+      "text": "Hot summers and mild winters.",
+      "words": [
+        {
+          "word": "Hot",
+          "startSec": 142.46,
+          "endSec": 142.66,
+          "score": 0.93
+        },
+        {
+          "word": "summers",
+          "startSec": 142.66,
+          "endSec": 143.18,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 143.18,
+          "endSec": 143.7,
+          "score": 0.96
+        },
+        {
+          "word": "mild",
+          "startSec": 143.7,
+          "endSec": 143.98,
+          "score": 0.99
+        },
+        {
+          "word": "winters.",
+          "startSec": 143.98,
+          "endSec": 144.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 145.26,
+      "end": 149.81,
+      "text": "In the mountains, the weather is colder with snow and winter.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 145.46,
+          "endSec": 145.94,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 145.94,
+          "endSec": 146.1,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 146.1,
+          "endSec": 146.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 147.06,
+          "endSec": 147.12,
+          "score": 1.0
+        },
+        {
+          "word": "weather",
+          "startSec": 147.12,
+          "endSec": 147.38,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 147.38,
+          "endSec": 147.76,
+          "score": 0.99
+        },
+        {
+          "word": "colder",
+          "startSec": 147.76,
+          "endSec": 148.2,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 148.2,
+          "endSec": 148.62,
+          "score": 0.98
+        },
+        {
+          "word": "snow",
+          "startSec": 148.62,
+          "endSec": 148.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 148.98,
+          "endSec": 149.26,
+          "score": 0.74
+        },
+        {
+          "word": "winter.",
+          "startSec": 149.26,
+          "endSec": 149.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 150.9,
+      "end": 157.29,
+      "text": "Summers are perfect for beach trips and winters are good for skiing.",
+      "words": [
+        {
+          "word": "Summers",
+          "startSec": 151.1,
+          "endSec": 151.52,
+          "score": 0.46
+        },
+        {
+          "word": "are",
+          "startSec": 151.52,
+          "endSec": 151.92,
+          "score": 1.0
+        },
+        {
+          "word": "perfect",
+          "startSec": 151.92,
+          "endSec": 152.48,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 152.48,
+          "endSec": 152.92,
+          "score": 1.0
+        },
+        {
+          "word": "beach",
+          "startSec": 152.92,
+          "endSec": 153.26,
+          "score": 0.99
+        },
+        {
+          "word": "trips",
+          "startSec": 153.26,
+          "endSec": 153.82,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 153.82,
+          "endSec": 155.06,
+          "score": 0.55
+        },
+        {
+          "word": "winters",
+          "startSec": 155.06,
+          "endSec": 155.6,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 155.6,
+          "endSec": 156.14,
+          "score": 0.99
+        },
+        {
+          "word": "good",
+          "startSec": 156.14,
+          "endSec": 156.44,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 156.44,
+          "endSec": 156.74,
+          "score": 1.0
+        },
+        {
+          "word": "skiing.",
+          "startSec": 156.74,
+          "endSec": 157.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 158.37,
+      "end": 161.16,
+      "text": "What does Montenegro look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 158.57,
+          "endSec": 158.85,
+          "score": 0.98
+        },
+        {
+          "word": "does",
+          "startSec": 158.85,
+          "endSec": 159.07,
+          "score": 0.99
+        },
+        {
+          "word": "Montenegro",
+          "startSec": 159.07,
+          "endSec": 160.03,
+          "score": 0.88
+        },
+        {
+          "word": "look",
+          "startSec": 160.03,
+          "endSec": 160.33,
+          "score": 0.99
+        },
+        {
+          "word": "like?",
+          "startSec": 160.33,
+          "endSec": 161.01,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 161.83,
+      "end": 167.2,
+      "text": "Montenegro has high mountains and deep canyons,",
+      "words": [
+        {
+          "word": "Montenegro",
+          "startSec": 162.03,
+          "endSec": 162.87,
+          "score": 0.95
+        },
+        {
+          "word": "has",
+          "startSec": 162.87,
+          "endSec": 163.31,
+          "score": 1.0
+        },
+        {
+          "word": "high",
+          "startSec": 163.31,
+          "endSec": 164.17,
+          "score": 0.95
+        },
+        {
+          "word": "mountains",
+          "startSec": 164.17,
+          "endSec": 164.73,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 164.73,
+          "endSec": 165.57,
+          "score": 0.97
+        },
+        {
+          "word": "deep",
+          "startSec": 165.57,
+          "endSec": 165.87,
+          "score": 1.0
+        },
+        {
+          "word": "canyons,",
+          "startSec": 165.87,
+          "endSec": 167.05,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 166.85,
+      "end": 169.68,
+      "text": "clear rivers and green forests,",
+      "words": [
+        {
+          "word": "clear",
+          "startSec": 167.05,
+          "endSec": 167.91,
+          "score": 0.12
+        },
+        {
+          "word": "rivers",
+          "startSec": 167.91,
+          "endSec": 168.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 168.35,
+          "endSec": 168.71,
+          "score": 0.95
+        },
+        {
+          "word": "green",
+          "startSec": 168.71,
+          "endSec": 168.89,
+          "score": 0.97
+        },
+        {
+          "word": "forests,",
+          "startSec": 168.89,
+          "endSec": 169.53,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 170.23,
+      "end": 172.68,
+      "text": "old towns with stone houses,",
+      "words": [
+        {
+          "word": "old",
+          "startSec": 170.43,
+          "endSec": 170.77,
+          "score": 0.83
+        },
+        {
+          "word": "towns",
+          "startSec": 170.77,
+          "endSec": 171.23,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 171.23,
+          "endSec": 171.61,
+          "score": 0.98
+        },
+        {
+          "word": "stone",
+          "startSec": 171.61,
+          "endSec": 171.97,
+          "score": 0.99
+        },
+        {
+          "word": "houses,",
+          "startSec": 171.97,
+          "endSec": 172.53,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 173.23,
+      "end": 176.56,
+      "text": "beautiful beaches by the Adriatic Sea,",
+      "words": [
+        {
+          "word": "beautiful",
+          "startSec": 173.43,
+          "endSec": 173.97,
+          "score": 0.99
+        },
+        {
+          "word": "beaches",
+          "startSec": 173.97,
+          "endSec": 174.51,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 174.51,
+          "endSec": 174.97,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 174.97,
+          "endSec": 175.17,
+          "score": 0.98
+        },
+        {
+          "word": "Adriatic",
+          "startSec": 175.17,
+          "endSec": 175.95,
+          "score": 0.97
+        },
+        {
+          "word": "Sea,",
+          "startSec": 175.95,
+          "endSec": 176.41,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 177.09,
+      "end": 181.55,
+      "text": "Lake Skadar, the biggest lake in the Balkans.",
+      "words": [
+        {
+          "word": "Lake",
+          "startSec": 177.29,
+          "endSec": 177.73,
+          "score": 0.81
+        },
+        {
+          "word": "Skadar,",
+          "startSec": 178.02,
+          "endSec": 179.58,
+          "score": 0.59
+        },
+        {
+          "word": "the",
+          "startSec": 179.84,
+          "endSec": 179.92,
+          "score": 0.98
+        },
+        {
+          "word": "biggest",
+          "startSec": 179.92,
+          "endSec": 180.26,
+          "score": 0.95
+        },
+        {
+          "word": "lake",
+          "startSec": 180.26,
+          "endSec": 180.72,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 180.72,
+          "endSec": 180.98,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 180.98,
+          "endSec": 181.12,
+          "score": 1.0
+        },
+        {
+          "word": "Balkans.",
+          "startSec": 181.12,
+          "endSec": 181.4,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 182.5,
+      "end": 187.29,
+      "text": "It is a country full of natural beauty and historic places.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 182.7,
+          "endSec": 183.12,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 183.12,
+          "endSec": 183.26,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 183.26,
+          "endSec": 183.4,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 183.4,
+          "endSec": 183.68,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 183.68,
+          "endSec": 184.3,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 184.3,
+          "endSec": 184.52,
+          "score": 1.0
+        },
+        {
+          "word": "natural",
+          "startSec": 184.52,
+          "endSec": 184.88,
+          "score": 1.0
+        },
+        {
+          "word": "beauty",
+          "startSec": 184.88,
+          "endSec": 185.6,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 185.6,
+          "endSec": 185.94,
+          "score": 0.97
+        },
+        {
+          "word": "historic",
+          "startSec": 185.94,
+          "endSec": 186.34,
+          "score": 1.0
+        },
+        {
+          "word": "places.",
+          "startSec": 186.34,
+          "endSec": 187.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 187.86,
+      "end": 190.59,
+      "text": "What animals live in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 188.06,
+          "endSec": 188.3,
+          "score": 0.99
+        },
+        {
+          "word": "animals",
+          "startSec": 188.3,
+          "endSec": 188.8,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 188.8,
+          "endSec": 189.28,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 189.28,
+          "endSec": 189.9,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 189.9,
+          "endSec": 190.44,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 190.8,
+      "end": 194.15,
+      "text": "In Montenegro, you can find bears,",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 191.0,
+          "endSec": 191.54,
+          "score": 0.98
+        },
+        {
+          "word": "Montenegro,",
+          "startSec": 191.54,
+          "endSec": 192.46,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 192.62,
+          "endSec": 192.72,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 192.72,
+          "endSec": 192.9,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 192.9,
+          "endSec": 193.36,
+          "score": 1.0
+        },
+        {
+          "word": "bears,",
+          "startSec": 193.36,
+          "endSec": 194.0,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 193.8,
+      "end": 197.43,
+      "text": "wolves and foxes in the forests,",
+      "words": [
+        {
+          "word": "wolves",
+          "startSec": 194.0,
+          "endSec": 195.32,
+          "score": 0.0
+        },
+        {
+          "word": "and",
+          "startSec": 195.32,
+          "endSec": 195.84,
+          "score": 0.78
+        },
+        {
+          "word": "foxes",
+          "startSec": 195.84,
+          "endSec": 196.54,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 196.54,
+          "endSec": 196.72,
+          "score": 0.84
+        },
+        {
+          "word": "the",
+          "startSec": 196.72,
+          "endSec": 196.84,
+          "score": 0.97
+        },
+        {
+          "word": "forests,",
+          "startSec": 196.84,
+          "endSec": 197.28,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 197.8,
+      "end": 200.23,
+      "text": "eagles, owls and pelicans,",
+      "words": [
+        {
+          "word": "eagles,",
+          "startSec": 198.0,
+          "endSec": 198.44,
+          "score": 0.99
+        },
+        {
+          "word": "owls",
+          "startSec": 198.88,
+          "endSec": 199.28,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 199.28,
+          "endSec": 199.44,
+          "score": 0.68
+        },
+        {
+          "word": "pelicans,",
+          "startSec": 199.44,
+          "endSec": 200.08,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 200.58,
+      "end": 204.47,
+      "text": "fish, frogs and snakes in rivers and lakes,",
+      "words": [
+        {
+          "word": "fish,",
+          "startSec": 200.78,
+          "endSec": 201.36,
+          "score": 1.0
+        },
+        {
+          "word": "frogs",
+          "startSec": 201.78,
+          "endSec": 202.0,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 202.0,
+          "endSec": 202.6,
+          "score": 0.76
+        },
+        {
+          "word": "snakes",
+          "startSec": 202.6,
+          "endSec": 202.98,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 202.98,
+          "endSec": 203.38,
+          "score": 0.75
+        },
+        {
+          "word": "rivers",
+          "startSec": 203.38,
+          "endSec": 203.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 203.64,
+          "endSec": 204.04,
+          "score": 1.0
+        },
+        {
+          "word": "lakes,",
+          "startSec": 204.04,
+          "endSec": 204.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 205.08,
+      "end": 208.49,
+      "text": "sheep, goats and cows on farms.",
+      "words": [
+        {
+          "word": "sheep,",
+          "startSec": 205.28,
+          "endSec": 205.7,
+          "score": 1.0
+        },
+        {
+          "word": "goats",
+          "startSec": 206.02,
+          "endSec": 206.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 206.24,
+          "endSec": 207.28,
+          "score": 0.63
+        },
+        {
+          "word": "cows",
+          "startSec": 207.28,
+          "endSec": 207.58,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 207.58,
+          "endSec": 207.92,
+          "score": 0.99
+        },
+        {
+          "word": "farms.",
+          "startSec": 207.92,
+          "endSec": 208.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 209.37,
+      "end": 213.2,
+      "text": "Nature is clean and protected in many areas.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 209.57,
+          "endSec": 210.15,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 210.15,
+          "endSec": 210.43,
+          "score": 1.0
+        },
+        {
+          "word": "clean",
+          "startSec": 210.43,
+          "endSec": 210.83,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 210.83,
+          "endSec": 211.31,
+          "score": 1.0
+        },
+        {
+          "word": "protected",
+          "startSec": 211.31,
+          "endSec": 211.81,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 211.81,
+          "endSec": 212.29,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 212.29,
+          "endSec": 212.47,
+          "score": 1.0
+        },
+        {
+          "word": "areas.",
+          "startSec": 212.47,
+          "endSec": 213.05,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 213.93,
+      "end": 216.5,
+      "text": "What do people eat in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 214.13,
+          "endSec": 214.33,
+          "score": 0.97
+        },
+        {
+          "word": "do",
+          "startSec": 214.33,
+          "endSec": 214.51,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 214.51,
+          "endSec": 214.73,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 214.73,
+          "endSec": 215.19,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 215.19,
+          "endSec": 215.43,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 215.43,
+          "endSec": 216.35,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 217.15,
+      "end": 222.08,
+      "text": "Montenegrin food is fresh, hardy and influenced by neighbors.",
+      "words": [
+        {
+          "word": "Montenegrin",
+          "startSec": 217.35,
+          "endSec": 217.85,
+          "score": 0.91
+        },
+        {
+          "word": "food",
+          "startSec": 217.85,
+          "endSec": 218.11,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 218.11,
+          "endSec": 218.45,
+          "score": 1.0
+        },
+        {
+          "word": "fresh,",
+          "startSec": 218.45,
+          "endSec": 218.79,
+          "score": 1.0
+        },
+        {
+          "word": "hardy",
+          "startSec": 219.59,
+          "endSec": 219.97,
+          "score": 0.6
+        },
+        {
+          "word": "and",
+          "startSec": 219.97,
+          "endSec": 220.49,
+          "score": 0.71
+        },
+        {
+          "word": "influenced",
+          "startSec": 220.49,
+          "endSec": 220.99,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 220.99,
+          "endSec": 221.55,
+          "score": 1.0
+        },
+        {
+          "word": "neighbors.",
+          "startSec": 221.55,
+          "endSec": 221.93,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 221.73,
+      "end": 226.45,
+      "text": "People eat bread, cheese and meat,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 221.93,
+          "endSec": 223.55,
+          "score": 0.01
+        },
+        {
+          "word": "eat",
+          "startSec": 224.0,
+          "endSec": 224.34,
+          "score": 0.99
+        },
+        {
+          "word": "bread,",
+          "startSec": 224.34,
+          "endSec": 225.02,
+          "score": 0.85
+        },
+        {
+          "word": "cheese",
+          "startSec": 225.38,
+          "endSec": 225.56,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 225.56,
+          "endSec": 226.04,
+          "score": 0.46
+        },
+        {
+          "word": "meat,",
+          "startSec": 226.04,
+          "endSec": 226.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 227.18,
+      "end": 229.97,
+      "text": "fish, potatoes and vegetables,",
+      "words": [
+        {
+          "word": "fish,",
+          "startSec": 227.38,
+          "endSec": 228.0,
+          "score": 0.98
+        },
+        {
+          "word": "potatoes",
+          "startSec": 228.48,
+          "endSec": 229.08,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 229.08,
+          "endSec": 229.42,
+          "score": 0.86
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 229.42,
+          "endSec": 229.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 230.84,
+      "end": 233.27,
+      "text": "olives, fruit and honey,",
+      "words": [
+        {
+          "word": "olives,",
+          "startSec": 231.04,
+          "endSec": 232.0,
+          "score": 0.99
+        },
+        {
+          "word": "fruit",
+          "startSec": 232.26,
+          "endSec": 232.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 232.48,
+          "endSec": 232.86,
+          "score": 0.87
+        },
+        {
+          "word": "honey,",
+          "startSec": 232.86,
+          "endSec": 233.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 233.71,
+      "end": 236.48,
+      "text": "popular dishes, chevafy,",
+      "words": [
+        {
+          "word": "popular",
+          "startSec": 233.91,
+          "endSec": 234.53,
+          "score": 0.98
+        },
+        {
+          "word": "dishes,",
+          "startSec": 234.53,
+          "endSec": 235.07,
+          "score": 1.0
+        },
+        {
+          "word": "chevafy,",
+          "startSec": 235.85,
+          "endSec": 236.33,
+          "score": 0.37
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 236.79,
+      "end": 239.4,
+      "text": "small grilled meat sausages,",
+      "words": [
+        {
+          "word": "small",
+          "startSec": 236.99,
+          "endSec": 237.47,
+          "score": 0.99
+        },
+        {
+          "word": "grilled",
+          "startSec": 237.47,
+          "endSec": 237.93,
+          "score": 0.96
+        },
+        {
+          "word": "meat",
+          "startSec": 237.93,
+          "endSec": 238.33,
+          "score": 0.98
+        },
+        {
+          "word": "sausages,",
+          "startSec": 238.33,
+          "endSec": 239.25,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 240.1,
+      "end": 244.25,
+      "text": "burak, pastry with meat, cheese or spinach,",
+      "words": [
+        {
+          "word": "burak,",
+          "startSec": 240.3,
+          "endSec": 240.96,
+          "score": 0.44
+        },
+        {
+          "word": "pastry",
+          "startSec": 241.48,
+          "endSec": 242.1,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 242.1,
+          "endSec": 242.42,
+          "score": 0.99
+        },
+        {
+          "word": "meat,",
+          "startSec": 242.42,
+          "endSec": 242.72,
+          "score": 1.0
+        },
+        {
+          "word": "cheese",
+          "startSec": 242.72,
+          "endSec": 243.3,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 243.3,
+          "endSec": 243.68,
+          "score": 0.85
+        },
+        {
+          "word": "spinach,",
+          "startSec": 243.68,
+          "endSec": 244.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 244.92,
+      "end": 248.29,
+      "text": "kachamak, cornmeal with cheese and cream,",
+      "words": [
+        {
+          "word": "kachamak,",
+          "startSec": 245.12,
+          "endSec": 245.98,
+          "score": 0.8
+        },
+        {
+          "word": "cornmeal",
+          "startSec": 246.4,
+          "endSec": 246.9,
+          "score": 0.91
+        },
+        {
+          "word": "with",
+          "startSec": 246.9,
+          "endSec": 247.2,
+          "score": 0.98
+        },
+        {
+          "word": "cheese",
+          "startSec": 247.2,
+          "endSec": 247.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 247.48,
+          "endSec": 247.86,
+          "score": 0.99
+        },
+        {
+          "word": "cream,",
+          "startSec": 247.86,
+          "endSec": 248.14,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 248.66,
+      "end": 251.01,
+      "text": "fish soup by the coast,",
+      "words": [
+        {
+          "word": "fish",
+          "startSec": 248.86,
+          "endSec": 249.28,
+          "score": 1.0
+        },
+        {
+          "word": "soup",
+          "startSec": 249.28,
+          "endSec": 249.68,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 249.68,
+          "endSec": 250.42,
+          "score": 0.82
+        },
+        {
+          "word": "the",
+          "startSec": 250.42,
+          "endSec": 250.6,
+          "score": 1.0
+        },
+        {
+          "word": "coast,",
+          "startSec": 250.6,
+          "endSec": 250.86,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 251.42,
+      "end": 256.67,
+      "text": "pursued smoked ham like prosciutto drink in Montenegro.",
+      "words": [
+        {
+          "word": "pursued",
+          "startSec": 251.62,
+          "endSec": 252.08,
+          "score": 0.0
+        },
+        {
+          "word": "smoked",
+          "startSec": 252.08,
+          "endSec": 252.84,
+          "score": 0.26
+        },
+        {
+          "word": "ham",
+          "startSec": 252.84,
+          "endSec": 253.54,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 253.54,
+          "endSec": 254.04,
+          "score": 0.81
+        },
+        {
+          "word": "prosciutto",
+          "startSec": 254.04,
+          "endSec": 254.88,
+          "score": 0.69
+        },
+        {
+          "word": "drink",
+          "startSec": 254.88,
+          "endSec": 255.28,
+          "score": 0.81
+        },
+        {
+          "word": "in",
+          "startSec": 255.28,
+          "endSec": 255.5,
+          "score": 0.84
+        },
+        {
+          "word": "Montenegro.",
+          "startSec": 255.5,
+          "endSec": 256.52,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 256.6,
+      "end": 261.09,
+      "text": "People drink water often from natural springs.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 256.8,
+          "endSec": 257.34,
+          "score": 0.84
+        },
+        {
+          "word": "drink",
+          "startSec": 257.34,
+          "endSec": 257.72,
+          "score": 0.99
+        },
+        {
+          "word": "water",
+          "startSec": 257.72,
+          "endSec": 258.88,
+          "score": 0.91
+        },
+        {
+          "word": "often",
+          "startSec": 258.88,
+          "endSec": 259.68,
+          "score": 0.86
+        },
+        {
+          "word": "from",
+          "startSec": 259.68,
+          "endSec": 259.94,
+          "score": 0.99
+        },
+        {
+          "word": "natural",
+          "startSec": 259.94,
+          "endSec": 260.34,
+          "score": 0.99
+        },
+        {
+          "word": "springs.",
+          "startSec": 260.34,
+          "endSec": 260.94,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 262.12,
+      "end": 265.79,
+      "text": "Coffee, strong and served in small cups,",
+      "words": [
+        {
+          "word": "Coffee,",
+          "startSec": 262.32,
+          "endSec": 262.66,
+          "score": 0.87
+        },
+        {
+          "word": "strong",
+          "startSec": 263.32,
+          "endSec": 263.96,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 263.96,
+          "endSec": 264.3,
+          "score": 0.94
+        },
+        {
+          "word": "served",
+          "startSec": 264.3,
+          "endSec": 264.58,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 264.58,
+          "endSec": 264.88,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 264.88,
+          "endSec": 265.22,
+          "score": 1.0
+        },
+        {
+          "word": "cups,",
+          "startSec": 265.22,
+          "endSec": 265.64,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 266.04,
+      "end": 267.97,
+      "text": "herbal tea, fruit juice.",
+      "words": [
+        {
+          "word": "herbal",
+          "startSec": 266.24,
+          "endSec": 266.48,
+          "score": 0.99
+        },
+        {
+          "word": "tea,",
+          "startSec": 266.48,
+          "endSec": 266.96,
+          "score": 1.0
+        },
+        {
+          "word": "fruit",
+          "startSec": 267.3,
+          "endSec": 267.42,
+          "score": 1.0
+        },
+        {
+          "word": "juice.",
+          "startSec": 267.42,
+          "endSec": 267.82,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 268.26,
+      "end": 270.27,
+      "text": "Adults may drink rakia,",
+      "words": [
+        {
+          "word": "Adults",
+          "startSec": 268.46,
+          "endSec": 268.88,
+          "score": 0.99
+        },
+        {
+          "word": "may",
+          "startSec": 268.88,
+          "endSec": 269.26,
+          "score": 0.98
+        },
+        {
+          "word": "drink",
+          "startSec": 269.26,
+          "endSec": 269.66,
+          "score": 1.0
+        },
+        {
+          "word": "rakia,",
+          "startSec": 269.66,
+          "endSec": 270.12,
+          "score": 0.32
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 271.02,
+      "end": 274.21,
+      "text": "a strong fruit brandy or local wine.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 271.22,
+          "endSec": 271.28,
+          "score": 0.94
+        },
+        {
+          "word": "strong",
+          "startSec": 271.28,
+          "endSec": 271.68,
+          "score": 0.99
+        },
+        {
+          "word": "fruit",
+          "startSec": 271.68,
+          "endSec": 272.2,
+          "score": 0.99
+        },
+        {
+          "word": "brandy",
+          "startSec": 272.2,
+          "endSec": 272.88,
+          "score": 0.89
+        },
+        {
+          "word": "or",
+          "startSec": 272.88,
+          "endSec": 273.16,
+          "score": 0.83
+        },
+        {
+          "word": "local",
+          "startSec": 273.16,
+          "endSec": 273.44,
+          "score": 0.99
+        },
+        {
+          "word": "wine.",
+          "startSec": 273.44,
+          "endSec": 274.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 274.99,
+      "end": 278.5,
+      "text": "Coffee is part of everyday social life.",
+      "words": [
+        {
+          "word": "Coffee",
+          "startSec": 275.19,
+          "endSec": 275.59,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 275.59,
+          "endSec": 276.07,
+          "score": 0.99
+        },
+        {
+          "word": "part",
+          "startSec": 276.07,
+          "endSec": 276.33,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 276.33,
+          "endSec": 276.55,
+          "score": 1.0
+        },
+        {
+          "word": "everyday",
+          "startSec": 276.55,
+          "endSec": 277.01,
+          "score": 0.9
+        },
+        {
+          "word": "social",
+          "startSec": 277.01,
+          "endSec": 277.69,
+          "score": 0.98
+        },
+        {
+          "word": "life.",
+          "startSec": 277.69,
+          "endSec": 278.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 278.15,
+      "end": 282.0,
+      "text": "What is life like in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 278.35,
+          "endSec": 279.49,
+          "score": 0.55
+        },
+        {
+          "word": "is",
+          "startSec": 279.49,
+          "endSec": 279.69,
+          "score": 0.94
+        },
+        {
+          "word": "life",
+          "startSec": 279.69,
+          "endSec": 280.07,
+          "score": 0.87
+        },
+        {
+          "word": "like",
+          "startSec": 280.07,
+          "endSec": 280.49,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 280.49,
+          "endSec": 280.77,
+          "score": 0.99
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 280.77,
+          "endSec": 281.85,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 282.35,
+      "end": 286.7,
+      "text": "Life is peaceful, slow and family focused.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 282.55,
+          "endSec": 282.93,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 282.93,
+          "endSec": 283.19,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful,",
+          "startSec": 283.19,
+          "endSec": 283.75,
+          "score": 0.99
+        },
+        {
+          "word": "slow",
+          "startSec": 284.33,
+          "endSec": 284.81,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 284.81,
+          "endSec": 285.51,
+          "score": 0.5
+        },
+        {
+          "word": "family",
+          "startSec": 285.51,
+          "endSec": 285.99,
+          "score": 0.99
+        },
+        {
+          "word": "focused.",
+          "startSec": 285.99,
+          "endSec": 286.55,
+          "score": 0.68
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 287.36,
+      "end": 290.73,
+      "text": "People enjoy walking by the sea,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 287.56,
+          "endSec": 288.02,
+          "score": 0.98
+        },
+        {
+          "word": "enjoy",
+          "startSec": 288.02,
+          "endSec": 288.64,
+          "score": 0.99
+        },
+        {
+          "word": "walking",
+          "startSec": 288.64,
+          "endSec": 289.54,
+          "score": 0.95
+        },
+        {
+          "word": "by",
+          "startSec": 289.54,
+          "endSec": 290.04,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 290.04,
+          "endSec": 290.24,
+          "score": 0.99
+        },
+        {
+          "word": "sea,",
+          "startSec": 290.24,
+          "endSec": 290.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 291.08,
+      "end": 292.33,
+      "text": "eating with family,",
+      "words": [
+        {
+          "word": "eating",
+          "startSec": 291.28,
+          "endSec": 291.56,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 291.56,
+          "endSec": 291.84,
+          "score": 1.0
+        },
+        {
+          "word": "family,",
+          "startSec": 291.84,
+          "endSec": 292.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 292.78,
+      "end": 294.91,
+      "text": "talking with friends in cafes,",
+      "words": [
+        {
+          "word": "talking",
+          "startSec": 292.98,
+          "endSec": 293.32,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 293.32,
+          "endSec": 293.76,
+          "score": 1.0
+        },
+        {
+          "word": "friends",
+          "startSec": 293.76,
+          "endSec": 294.14,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 294.14,
+          "endSec": 294.4,
+          "score": 0.77
+        },
+        {
+          "word": "cafes,",
+          "startSec": 294.4,
+          "endSec": 294.76,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 295.32,
+      "end": 297.01,
+      "text": "celebrating holidays,",
+      "words": [
+        {
+          "word": "celebrating",
+          "startSec": 295.52,
+          "endSec": 296.2,
+          "score": 0.99
+        },
+        {
+          "word": "holidays,",
+          "startSec": 296.2,
+          "endSec": 296.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 297.7,
+      "end": 299.77,
+      "text": "spending time in nature.",
+      "words": [
+        {
+          "word": "spending",
+          "startSec": 297.9,
+          "endSec": 298.32,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 298.32,
+          "endSec": 298.86,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 298.86,
+          "endSec": 299.18,
+          "score": 0.91
+        },
+        {
+          "word": "nature.",
+          "startSec": 299.18,
+          "endSec": 299.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 300.44,
+      "end": 304.79,
+      "text": "People are proud of their land, traditions and hospitality.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 300.64,
+          "endSec": 300.92,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 300.92,
+          "endSec": 301.28,
+          "score": 1.0
+        },
+        {
+          "word": "proud",
+          "startSec": 301.28,
+          "endSec": 301.62,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 301.62,
+          "endSec": 301.82,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 301.82,
+          "endSec": 302.02,
+          "score": 1.0
+        },
+        {
+          "word": "land,",
+          "startSec": 302.02,
+          "endSec": 302.48,
+          "score": 0.99
+        },
+        {
+          "word": "traditions",
+          "startSec": 302.48,
+          "endSec": 303.3,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 303.3,
+          "endSec": 304.14,
+          "score": 0.68
+        },
+        {
+          "word": "hospitality.",
+          "startSec": 304.14,
+          "endSec": 304.64,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 305.6,
+      "end": 310.43,
+      "text": "What are some holidays and traditions in Montenegro?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 305.8,
+          "endSec": 306.6,
+          "score": 0.36
+        },
+        {
+          "word": "are",
+          "startSec": 306.6,
+          "endSec": 306.8,
+          "score": 0.96
+        },
+        {
+          "word": "some",
+          "startSec": 306.8,
+          "endSec": 307.04,
+          "score": 0.97
+        },
+        {
+          "word": "holidays",
+          "startSec": 307.04,
+          "endSec": 307.6,
+          "score": 0.93
+        },
+        {
+          "word": "and",
+          "startSec": 307.6,
+          "endSec": 308.14,
+          "score": 0.98
+        },
+        {
+          "word": "traditions",
+          "startSec": 308.14,
+          "endSec": 308.54,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 308.54,
+          "endSec": 309.2,
+          "score": 0.99
+        },
+        {
+          "word": "Montenegro?",
+          "startSec": 309.2,
+          "endSec": 310.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 311.0,
+      "end": 315.19,
+      "text": "Independence Day, May 21st,",
+      "words": [
+        {
+          "word": "Independence",
+          "startSec": 311.2,
+          "endSec": 311.96,
+          "score": 0.96
+        },
+        {
+          "word": "Day,",
+          "startSec": 311.96,
+          "endSec": 312.74,
+          "score": 0.95
+        },
+        {
+          "word": "May",
+          "startSec": 313.18,
+          "endSec": 313.38,
+          "score": 0.98
+        },
+        {
+          "word": "21st,",
+          "startSec": 313.38,
+          "endSec": 315.04,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 314.96,
+      "end": 317.73,
+      "text": "Statehood Day, July 13,",
+      "words": [
+        {
+          "word": "Statehood",
+          "startSec": 315.16,
+          "endSec": 315.72,
+          "score": 0.62
+        },
+        {
+          "word": "Day,",
+          "startSec": 315.72,
+          "endSec": 316.12,
+          "score": 0.98
+        },
+        {
+          "word": "July",
+          "startSec": 316.58,
+          "endSec": 316.66,
+          "score": 0.99
+        },
+        {
+          "word": "13,",
+          "startSec": 316.66,
+          "endSec": 317.58,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 318.0,
+      "end": 320.73,
+      "text": "Christmas, January 7,",
+      "words": [
+        {
+          "word": "Christmas,",
+          "startSec": 318.2,
+          "endSec": 318.82,
+          "score": 0.97
+        },
+        {
+          "word": "January",
+          "startSec": 319.52,
+          "endSec": 319.64,
+          "score": 0.98
+        },
+        {
+          "word": "7,",
+          "startSec": 319.64,
+          "endSec": 320.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 320.7,
+      "end": 322.15,
+      "text": "Orthodox calendar,",
+      "words": [
+        {
+          "word": "Orthodox",
+          "startSec": 320.9,
+          "endSec": 321.16,
+          "score": 0.98
+        },
+        {
+          "word": "calendar,",
+          "startSec": 321.16,
+          "endSec": 322.0,
+          "score": 0.54
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 322.96,
+      "end": 326.27,
+      "text": "Easter, a big holiday with red eggs,",
+      "words": [
+        {
+          "word": "Easter,",
+          "startSec": 323.16,
+          "endSec": 323.5,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 323.84,
+          "endSec": 323.86,
+          "score": 0.87
+        },
+        {
+          "word": "big",
+          "startSec": 323.86,
+          "endSec": 324.16,
+          "score": 0.98
+        },
+        {
+          "word": "holiday",
+          "startSec": 324.16,
+          "endSec": 324.66,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 324.66,
+          "endSec": 325.18,
+          "score": 0.99
+        },
+        {
+          "word": "red",
+          "startSec": 325.18,
+          "endSec": 325.44,
+          "score": 0.97
+        },
+        {
+          "word": "eggs,",
+          "startSec": 325.44,
+          "endSec": 326.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 326.88,
+      "end": 330.87,
+      "text": "carnival and co-tour with music and costumes.",
+      "words": [
+        {
+          "word": "carnival",
+          "startSec": 327.08,
+          "endSec": 327.8,
+          "score": 0.62
+        },
+        {
+          "word": "and",
+          "startSec": 327.8,
+          "endSec": 328.1,
+          "score": 0.91
+        },
+        {
+          "word": "co",
+          "startSec": 328.1,
+          "endSec": 328.32,
+          "score": 0.34
+        },
+        {
+          "word": "-tour",
+          "startSec": 328.32,
+          "endSec": 328.82,
+          "score": 0.88
+        },
+        {
+          "word": "with",
+          "startSec": 328.82,
+          "endSec": 329.4,
+          "score": 0.74
+        },
+        {
+          "word": "music",
+          "startSec": 329.4,
+          "endSec": 329.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 329.74,
+          "endSec": 330.24,
+          "score": 0.98
+        },
+        {
+          "word": "costumes.",
+          "startSec": 330.24,
+          "endSec": 330.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 331.5,
+      "end": 333.41,
+      "text": "Many people go to church,",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 331.7,
+          "endSec": 332.12,
+          "score": 0.35
+        },
+        {
+          "word": "people",
+          "startSec": 332.12,
+          "endSec": 332.52,
+          "score": 0.95
+        },
+        {
+          "word": "go",
+          "startSec": 332.52,
+          "endSec": 332.8,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 332.8,
+          "endSec": 332.98,
+          "score": 1.0
+        },
+        {
+          "word": "church,",
+          "startSec": 332.98,
+          "endSec": 333.26,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 333.28,
+      "end": 337.11,
+      "text": "make traditional food and visit family.",
+      "words": [
+        {
+          "word": "make",
+          "startSec": 333.48,
+          "endSec": 334.06,
+          "score": 0.99
+        },
+        {
+          "word": "traditional",
+          "startSec": 334.06,
+          "endSec": 334.4,
+          "score": 0.99
+        },
+        {
+          "word": "food",
+          "startSec": 334.4,
+          "endSec": 335.38,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 335.38,
+          "endSec": 335.92,
+          "score": 0.36
+        },
+        {
+          "word": "visit",
+          "startSec": 335.92,
+          "endSec": 336.36,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 336.36,
+          "endSec": 336.96,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 337.4,
+      "end": 340.79,
+      "text": "Some fun facts about Montenegro.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 337.6,
+          "endSec": 337.88,
+          "score": 0.93
+        },
+        {
+          "word": "fun",
+          "startSec": 337.88,
+          "endSec": 338.26,
+          "score": 0.99
+        },
+        {
+          "word": "facts",
+          "startSec": 338.26,
+          "endSec": 338.68,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 338.68,
+          "endSec": 339.3,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro.",
+          "startSec": 339.3,
+          "endSec": 340.64,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 341.1,
+      "end": 345.19,
+      "text": "The name Montenegro means black mountain.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 341.3,
+          "endSec": 341.52,
+          "score": 0.97
+        },
+        {
+          "word": "name",
+          "startSec": 341.52,
+          "endSec": 341.9,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro",
+          "startSec": 341.9,
+          "endSec": 343.24,
+          "score": 0.92
+        },
+        {
+          "word": "means",
+          "startSec": 343.24,
+          "endSec": 343.6,
+          "score": 0.97
+        },
+        {
+          "word": "black",
+          "startSec": 343.6,
+          "endSec": 344.64,
+          "score": 0.22
+        },
+        {
+          "word": "mountain.",
+          "startSec": 344.64,
+          "endSec": 345.04,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 346.36,
+      "end": 351.39,
+      "text": "The Bay of co-tour is one of the most beautiful bays in Europe.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 346.56,
+          "endSec": 346.74,
+          "score": 0.98
+        },
+        {
+          "word": "Bay",
+          "startSec": 346.74,
+          "endSec": 347.0,
+          "score": 0.95
+        },
+        {
+          "word": "of",
+          "startSec": 347.0,
+          "endSec": 347.32,
+          "score": 0.99
+        },
+        {
+          "word": "co",
+          "startSec": 347.32,
+          "endSec": 347.58,
+          "score": 0.0
+        },
+        {
+          "word": "-tour",
+          "startSec": 347.58,
+          "endSec": 348.12,
+          "score": 0.72
+        },
+        {
+          "word": "is",
+          "startSec": 348.12,
+          "endSec": 348.54,
+          "score": 0.98
+        },
+        {
+          "word": "one",
+          "startSec": 348.54,
+          "endSec": 348.82,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 348.82,
+          "endSec": 348.98,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 348.98,
+          "endSec": 349.12,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 349.12,
+          "endSec": 349.38,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 349.38,
+          "endSec": 349.8,
+          "score": 1.0
+        },
+        {
+          "word": "bays",
+          "startSec": 349.8,
+          "endSec": 350.54,
+          "score": 0.91
+        },
+        {
+          "word": "in",
+          "startSec": 350.54,
+          "endSec": 350.82,
+          "score": 1.0
+        },
+        {
+          "word": "Europe.",
+          "startSec": 350.82,
+          "endSec": 351.24,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 352.78,
+      "end": 357.01,
+      "text": "Montenegro became independent in 2006.",
+      "words": [
+        {
+          "word": "Montenegro",
+          "startSec": 352.98,
+          "endSec": 353.82,
+          "score": 0.98
+        },
+        {
+          "word": "became",
+          "startSec": 353.82,
+          "endSec": 354.22,
+          "score": 0.99
+        },
+        {
+          "word": "independent",
+          "startSec": 354.22,
+          "endSec": 354.8,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 354.8,
+          "endSec": 355.74,
+          "score": 0.99
+        },
+        {
+          "word": "2006.",
+          "startSec": 355.74,
+          "endSec": 356.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 357.34,
+      "end": 360.09,
+      "text": "It uses the euro as its currency,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 357.54,
+          "endSec": 357.72,
+          "score": 0.99
+        },
+        {
+          "word": "uses",
+          "startSec": 357.72,
+          "endSec": 358.18,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 358.18,
+          "endSec": 358.54,
+          "score": 1.0
+        },
+        {
+          "word": "euro",
+          "startSec": 358.54,
+          "endSec": 358.92,
+          "score": 0.66
+        },
+        {
+          "word": "as",
+          "startSec": 358.92,
+          "endSec": 359.34,
+          "score": 0.99
+        },
+        {
+          "word": "its",
+          "startSec": 359.34,
+          "endSec": 359.52,
+          "score": 0.97
+        },
+        {
+          "word": "currency,",
+          "startSec": 359.52,
+          "endSec": 359.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 359.74,
+      "end": 362.89,
+      "text": "but is not in the EU.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 359.94,
+          "endSec": 361.26,
+          "score": 0.02
+        },
+        {
+          "word": "is",
+          "startSec": 361.26,
+          "endSec": 361.48,
+          "score": 0.81
+        },
+        {
+          "word": "not",
+          "startSec": 361.48,
+          "endSec": 361.8,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 361.8,
+          "endSec": 362.2,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 362.2,
+          "endSec": 362.44,
+          "score": 1.0
+        },
+        {
+          "word": "EU.",
+          "startSec": 362.44,
+          "endSec": 362.74,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 364.63,
+      "end": 370.26,
+      "text": "The Dermatore National Park is a UNESCO World Heritage Site.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 364.83,
+          "endSec": 364.95,
+          "score": 0.94
+        },
+        {
+          "word": "Dermatore",
+          "startSec": 364.95,
+          "endSec": 365.61,
+          "score": 0.54
+        },
+        {
+          "word": "National",
+          "startSec": 365.61,
+          "endSec": 365.99,
+          "score": 0.99
+        },
+        {
+          "word": "Park",
+          "startSec": 365.99,
+          "endSec": 366.71,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 366.71,
+          "endSec": 367.27,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 367.27,
+          "endSec": 367.39,
+          "score": 0.97
+        },
+        {
+          "word": "UNESCO",
+          "startSec": 367.39,
+          "endSec": 367.83,
+          "score": 0.99
+        },
+        {
+          "word": "World",
+          "startSec": 367.83,
+          "endSec": 368.83,
+          "score": 0.94
+        },
+        {
+          "word": "Heritage",
+          "startSec": 368.83,
+          "endSec": 369.21,
+          "score": 1.0
+        },
+        {
+          "word": "Site.",
+          "startSec": 369.21,
+          "endSec": 370.11,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 371.38,
+      "end": 374.91,
+      "text": "Now you know many things about Montenegro.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 371.58,
+          "endSec": 372.0,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 372.0,
+          "endSec": 372.24,
+          "score": 0.88
+        },
+        {
+          "word": "know",
+          "startSec": 372.24,
+          "endSec": 372.46,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 372.46,
+          "endSec": 372.78,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 372.78,
+          "endSec": 373.28,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 373.28,
+          "endSec": 373.64,
+          "score": 1.0
+        },
+        {
+          "word": "Montenegro.",
+          "startSec": 373.64,
+          "endSec": 374.76,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 374.96,
+      "end": 380.23,
+      "text": "You know where it is, what people speak and what they eat.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 375.16,
+          "endSec": 375.72,
+          "score": 0.99
+        },
+        {
+          "word": "know",
+          "startSec": 375.72,
+          "endSec": 375.92,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 375.92,
+          "endSec": 376.26,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 376.26,
+          "endSec": 376.48,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 376.48,
+          "endSec": 376.9,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 377.36,
+          "endSec": 377.64,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 377.64,
+          "endSec": 378.08,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 378.08,
+          "endSec": 378.56,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 378.56,
+          "endSec": 379.26,
+          "score": 0.58
+        },
+        {
+          "word": "what",
+          "startSec": 379.26,
+          "endSec": 379.48,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 379.48,
+          "endSec": 379.7,
+          "score": 1.0
+        },
+        {
+          "word": "eat.",
+          "startSec": 379.7,
+          "endSec": 380.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 380.58,
+      "end": 384.99,
+      "text": "You learned about the land, the people and daily life.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 380.78,
+          "endSec": 381.02,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 381.02,
+          "endSec": 381.22,
+          "score": 0.93
+        },
+        {
+          "word": "about",
+          "startSec": 381.22,
+          "endSec": 381.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 381.56,
+          "endSec": 381.82,
+          "score": 0.99
+        },
+        {
+          "word": "land,",
+          "startSec": 381.82,
+          "endSec": 382.3,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 382.92,
+          "endSec": 382.96,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 382.96,
+          "endSec": 383.44,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 383.44,
+          "endSec": 384.06,
+          "score": 0.52
+        },
+        {
+          "word": "daily",
+          "startSec": 384.06,
+          "endSec": 384.44,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 384.44,
+          "endSec": 384.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 386.27,
+      "end": 387.44,
+      "text": "Great job!",
+      "words": [
+        {
+          "word": "Great",
+          "startSec": 386.47,
+          "endSec": 386.87,
+          "score": 0.99
+        },
+        {
+          "word": "job!",
+          "startSec": 386.87,
+          "endSec": 387.29,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 390.63,
+      "end": 392.86,
+      "text": "I am Emily.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 390.83,
+          "endSec": 392.11,
+          "score": 0.39
+        },
+        {
+          "word": "am",
+          "startSec": 392.11,
+          "endSec": 392.33,
+          "score": 0.62
+        },
+        {
+          "word": "Emily.",
+          "startSec": 392.33,
+          "endSec": 392.71,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 395.35,
+      "end": 395.9,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 395.55,
+          "endSec": 395.75,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 396.43,
+      "end": 398.92,
+      "text": "Or as they say in Montenegrin,",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 396.63,
+          "endSec": 396.79,
+          "score": 0.94
+        },
+        {
+          "word": "as",
+          "startSec": 396.79,
+          "endSec": 396.99,
+          "score": 0.92
+        },
+        {
+          "word": "they",
+          "startSec": 396.99,
+          "endSec": 397.15,
+          "score": 1.0
+        },
+        {
+          "word": "say",
+          "startSec": 397.15,
+          "endSec": 397.45,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 397.45,
+          "endSec": 397.69,
+          "score": 0.99
+        },
+        {
+          "word": "Montenegrin,",
+          "startSec": 397.69,
+          "endSec": 398.77,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 398.95,
+      "end": 400.1,
+      "text": "Dovigena.",
+      "words": [
+        {
+          "word": "Dovigena.",
+          "startSec": 399.15,
+          "endSec": 399.95,
+          "score": 0.38
         }
       ]
     }

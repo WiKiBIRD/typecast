@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 2.49,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.28,
-          "score": 0.87
-        },
-        {
-          "word": "and",
-          "startSec": 0.28,
-          "endSec": 0.64,
-          "score": 0.73
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.64,
-          "endSec": 1.1,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 1.1,
-          "endSec": 1.36,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.36,
-          "endSec": 1.6,
-          "score": 0.6
-        },
-        {
-          "word": "English",
-          "startSec": 1.6,
-          "endSec": 1.92,
-          "score": 0.87
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 1.92,
-          "endSec": 2.34,
-          "score": 0.91
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 3.36,
       "end": 4.91,
       "text": "My name is Emily.",
@@ -96,7 +46,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 5.4,
       "end": 7.37,
       "text": "I'm so happy you're here today",
@@ -140,7 +90,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 7.02,
       "end": 10.01,
       "text": "because we are going to talk about a small",
@@ -202,7 +152,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 9.66,
       "end": 12.31,
       "text": "but very interesting country.",
@@ -234,7 +184,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 12.4,
       "end": 15.05,
       "text": "This country is called Belize.",
@@ -272,7 +222,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 15.5,
       "end": 18.65,
       "text": "It's a place filled with beautiful nature,",
@@ -322,7 +272,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 19.08,
       "end": 22.15,
       "text": "rich history and warm, friendly people.",
@@ -366,7 +316,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 22.74,
       "end": 25.55,
       "text": "Listen carefully and try to understand.",
@@ -410,7 +360,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 26.5,
       "end": 27.95,
       "text": "I will speak slowly.",
@@ -437,6 +387,7408 @@
           "word": "slowly.",
           "startSec": 27.36,
           "endSec": 27.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 28.44,
+      "end": 29.43,
+      "text": "Let's begin.",
+      "words": [
+        {
+          "word": "Let's",
+          "startSec": 28.64,
+          "endSec": 28.98,
+          "score": 0.59
+        },
+        {
+          "word": "begin.",
+          "startSec": 28.98,
+          "endSec": 29.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 30.2,
+      "end": 31.49,
+      "text": "Where is Belize?",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 30.4,
+          "endSec": 30.7,
+          "score": 0.89
+        },
+        {
+          "word": "is",
+          "startSec": 30.7,
+          "endSec": 30.92,
+          "score": 0.97
+        },
+        {
+          "word": "Belize?",
+          "startSec": 30.92,
+          "endSec": 31.34,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 31.84,
+      "end": 36.27,
+      "text": "Belize is a small country located in Central America.",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 32.04,
+          "endSec": 32.56,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 32.56,
+          "endSec": 32.84,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 32.84,
+          "endSec": 33.0,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 33.0,
+          "endSec": 33.3,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 33.3,
+          "endSec": 33.94,
+          "score": 1.0
+        },
+        {
+          "word": "located",
+          "startSec": 33.94,
+          "endSec": 34.54,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 34.54,
+          "endSec": 35.02,
+          "score": 1.0
+        },
+        {
+          "word": "Central",
+          "startSec": 35.02,
+          "endSec": 35.3,
+          "score": 0.98
+        },
+        {
+          "word": "America.",
+          "startSec": 35.3,
+          "endSec": 36.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 36.86,
+      "end": 39.91,
+      "text": "It lies between Mexico to the north,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 37.06,
+          "endSec": 37.3,
+          "score": 0.99
+        },
+        {
+          "word": "lies",
+          "startSec": 37.3,
+          "endSec": 37.54,
+          "score": 0.99
+        },
+        {
+          "word": "between",
+          "startSec": 37.54,
+          "endSec": 38.08,
+          "score": 1.0
+        },
+        {
+          "word": "Mexico",
+          "startSec": 38.08,
+          "endSec": 38.76,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 38.76,
+          "endSec": 39.26,
+          "score": 0.91
+        },
+        {
+          "word": "the",
+          "startSec": 39.26,
+          "endSec": 39.42,
+          "score": 0.99
+        },
+        {
+          "word": "north,",
+          "startSec": 39.42,
+          "endSec": 39.76,
+          "score": 0.74
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 40.36,
+      "end": 42.57,
+      "text": "Guatemala to the west and south,",
+      "words": [
+        {
+          "word": "Guatemala",
+          "startSec": 40.56,
+          "endSec": 40.62,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 40.62,
+          "endSec": 41.32,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 41.32,
+          "endSec": 41.46,
+          "score": 1.0
+        },
+        {
+          "word": "west",
+          "startSec": 41.46,
+          "endSec": 41.74,
+          "score": 0.95
+        },
+        {
+          "word": "and",
+          "startSec": 41.74,
+          "endSec": 42.08,
+          "score": 0.96
+        },
+        {
+          "word": "south,",
+          "startSec": 42.08,
+          "endSec": 42.42,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 42.86,
+      "end": 45.21,
+      "text": "and the Caribbean Sea to the east.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 43.06,
+          "endSec": 43.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 43.22,
+          "endSec": 43.36,
+          "score": 1.0
+        },
+        {
+          "word": "Caribbean",
+          "startSec": 43.36,
+          "endSec": 43.74,
+          "score": 0.96
+        },
+        {
+          "word": "Sea",
+          "startSec": 43.74,
+          "endSec": 44.28,
+          "score": 0.91
+        },
+        {
+          "word": "to",
+          "startSec": 44.28,
+          "endSec": 44.6,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 44.6,
+          "endSec": 44.74,
+          "score": 1.0
+        },
+        {
+          "word": "east.",
+          "startSec": 44.74,
+          "endSec": 45.06,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 45.92,
+      "end": 48.43,
+      "text": "The country is not very big,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 46.12,
+          "endSec": 46.4,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 46.4,
+          "endSec": 46.8,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 46.8,
+          "endSec": 47.14,
+          "score": 1.0
+        },
+        {
+          "word": "not",
+          "startSec": 47.14,
+          "endSec": 47.42,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 47.42,
+          "endSec": 47.86,
+          "score": 0.99
+        },
+        {
+          "word": "big,",
+          "startSec": 47.86,
+          "endSec": 48.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 48.64,
+      "end": 50.57,
+      "text": "but it has a lot to offer.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 48.84,
+          "endSec": 49.06,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 49.06,
+          "endSec": 49.18,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 49.18,
+          "endSec": 49.36,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 49.36,
+          "endSec": 49.52,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 49.52,
+          "endSec": 49.74,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 49.74,
+          "endSec": 49.98,
+          "score": 1.0
+        },
+        {
+          "word": "offer.",
+          "startSec": 49.98,
+          "endSec": 50.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 51.47,
+      "end": 54.82,
+      "text": "The capital city of Belize is Belmo Pan,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 51.67,
+          "endSec": 51.81,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 51.81,
+          "endSec": 52.21,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 52.21,
+          "endSec": 52.65,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 52.65,
+          "endSec": 53.01,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 53.01,
+          "endSec": 53.51,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 53.51,
+          "endSec": 53.83,
+          "score": 0.98
+        },
+        {
+          "word": "Belmo",
+          "startSec": 53.83,
+          "endSec": 54.33,
+          "score": 0.55
+        },
+        {
+          "word": "Pan,",
+          "startSec": 54.33,
+          "endSec": 54.67,
+          "score": 0.66
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 55.05,
+      "end": 56.7,
+      "text": "which is located inland.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 55.25,
+          "endSec": 55.45,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 55.45,
+          "endSec": 55.63,
+          "score": 1.0
+        },
+        {
+          "word": "located",
+          "startSec": 55.63,
+          "endSec": 56.07,
+          "score": 1.0
+        },
+        {
+          "word": "inland.",
+          "startSec": 56.07,
+          "endSec": 56.55,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 57.41,
+      "end": 61.36,
+      "text": "However, the biggest city in Belize is Belize City,",
+      "words": [
+        {
+          "word": "However,",
+          "startSec": 57.61,
+          "endSec": 58.01,
+          "score": 0.17
+        },
+        {
+          "word": "the",
+          "startSec": 58.31,
+          "endSec": 58.43,
+          "score": 0.99
+        },
+        {
+          "word": "biggest",
+          "startSec": 58.43,
+          "endSec": 58.75,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 58.75,
+          "endSec": 59.15,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 59.15,
+          "endSec": 59.43,
+          "score": 0.96
+        },
+        {
+          "word": "Belize",
+          "startSec": 59.43,
+          "endSec": 59.87,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 59.87,
+          "endSec": 60.23,
+          "score": 0.96
+        },
+        {
+          "word": "Belize",
+          "startSec": 60.23,
+          "endSec": 60.77,
+          "score": 0.98
+        },
+        {
+          "word": "City,",
+          "startSec": 60.77,
+          "endSec": 61.21,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 61.37,
+      "end": 64.6,
+      "text": "which is on the coast and next to the sea.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 61.57,
+          "endSec": 62.13,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 62.13,
+          "endSec": 62.31,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 62.31,
+          "endSec": 62.51,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 62.51,
+          "endSec": 62.69,
+          "score": 0.99
+        },
+        {
+          "word": "coast",
+          "startSec": 62.69,
+          "endSec": 63.01,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 63.01,
+          "endSec": 63.47,
+          "score": 0.97
+        },
+        {
+          "word": "next",
+          "startSec": 63.47,
+          "endSec": 63.73,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 63.73,
+          "endSec": 64.07,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 64.07,
+          "endSec": 64.19,
+          "score": 0.99
+        },
+        {
+          "word": "sea.",
+          "startSec": 64.19,
+          "endSec": 64.45,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 64.95,
+      "end": 70.02,
+      "text": "Belize City is a very important place for trade and tourism",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 65.15,
+          "endSec": 65.57,
+          "score": 0.99
+        },
+        {
+          "word": "City",
+          "startSec": 65.57,
+          "endSec": 65.97,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 65.97,
+          "endSec": 66.31,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 66.31,
+          "endSec": 66.49,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 66.49,
+          "endSec": 66.89,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 66.89,
+          "endSec": 67.19,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 67.19,
+          "endSec": 67.97,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 67.97,
+          "endSec": 68.61,
+          "score": 0.99
+        },
+        {
+          "word": "trade",
+          "startSec": 68.61,
+          "endSec": 69.05,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 69.05,
+          "endSec": 69.49,
+          "score": 1.0
+        },
+        {
+          "word": "tourism",
+          "startSec": 69.49,
+          "endSec": 69.87,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 70.56,
+      "end": 72.36,
+      "text": "because it is near the coast",
+      "words": [
+        {
+          "word": "because",
+          "startSec": 70.76,
+          "endSec": 71.11,
+          "score": 0.8
+        },
+        {
+          "word": "it",
+          "startSec": 71.11,
+          "endSec": 71.37,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 71.37,
+          "endSec": 71.51,
+          "score": 1.0
+        },
+        {
+          "word": "near",
+          "startSec": 71.51,
+          "endSec": 71.71,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 71.71,
+          "endSec": 71.89,
+          "score": 1.0
+        },
+        {
+          "word": "coast",
+          "startSec": 71.89,
+          "endSec": 72.21,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 72.01,
+      "end": 75.58,
+      "text": "and has a lot of things to see and do.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 72.21,
+          "endSec": 72.83,
+          "score": 0.95
+        },
+        {
+          "word": "has",
+          "startSec": 72.83,
+          "endSec": 73.13,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 73.13,
+          "endSec": 73.33,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 73.33,
+          "endSec": 73.63,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 73.63,
+          "endSec": 73.79,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 73.79,
+          "endSec": 74.07,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 74.07,
+          "endSec": 74.43,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 74.43,
+          "endSec": 74.75,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 74.75,
+          "endSec": 75.17,
+          "score": 1.0
+        },
+        {
+          "word": "do.",
+          "startSec": 75.17,
+          "endSec": 75.43,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 76.89,
+      "end": 79.84,
+      "text": "Belize is a very unique country",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 77.09,
+          "endSec": 77.79,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 77.79,
+          "endSec": 78.07,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 78.07,
+          "endSec": 78.25,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 78.25,
+          "endSec": 78.53,
+          "score": 1.0
+        },
+        {
+          "word": "unique",
+          "startSec": 78.53,
+          "endSec": 78.99,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 78.99,
+          "endSec": 79.69,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 79.49,
+      "end": 83.14,
+      "text": "because it has both tropical rainforests",
+      "words": [
+        {
+          "word": "because",
+          "startSec": 79.69,
+          "endSec": 80.43,
+          "score": 0.97
+        },
+        {
+          "word": "it",
+          "startSec": 80.43,
+          "endSec": 80.67,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 80.67,
+          "endSec": 80.91,
+          "score": 1.0
+        },
+        {
+          "word": "both",
+          "startSec": 80.91,
+          "endSec": 81.27,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 81.27,
+          "endSec": 81.67,
+          "score": 0.99
+        },
+        {
+          "word": "rainforests",
+          "startSec": 81.67,
+          "endSec": 82.99,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 82.79,
+      "end": 84.38,
+      "text": "and beautiful beaches.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 82.99,
+          "endSec": 83.35,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 83.35,
+          "endSec": 83.69,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 83.69,
+          "endSec": 84.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 85.03,
+      "end": 88.7,
+      "text": "Many people come to Belize for the beautiful weather,",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 85.23,
+          "endSec": 85.63,
+          "score": 0.25
+        },
+        {
+          "word": "people",
+          "startSec": 85.63,
+          "endSec": 86.19,
+          "score": 0.98
+        },
+        {
+          "word": "come",
+          "startSec": 86.19,
+          "endSec": 86.49,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 86.49,
+          "endSec": 86.75,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 86.75,
+          "endSec": 87.15,
+          "score": 0.96
+        },
+        {
+          "word": "for",
+          "startSec": 87.15,
+          "endSec": 87.41,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 87.41,
+          "endSec": 87.55,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 87.55,
+          "endSec": 87.97,
+          "score": 0.99
+        },
+        {
+          "word": "weather,",
+          "startSec": 87.97,
+          "endSec": 88.55,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 89.29,
+      "end": 92.92,
+      "text": "the crystal clear water, and the diverse wildlife.",
+      "words": [
+        {
+          "word": "the",
+          "startSec": 89.49,
+          "endSec": 89.57,
+          "score": 0.97
+        },
+        {
+          "word": "crystal",
+          "startSec": 89.57,
+          "endSec": 89.87,
+          "score": 0.98
+        },
+        {
+          "word": "clear",
+          "startSec": 89.87,
+          "endSec": 90.41,
+          "score": 0.83
+        },
+        {
+          "word": "water,",
+          "startSec": 90.41,
+          "endSec": 90.77,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 91.59,
+          "endSec": 91.81,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 91.81,
+          "endSec": 91.95,
+          "score": 1.0
+        },
+        {
+          "word": "diverse",
+          "startSec": 91.95,
+          "endSec": 92.25,
+          "score": 0.95
+        },
+        {
+          "word": "wildlife.",
+          "startSec": 92.25,
+          "endSec": 92.77,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 94.21,
+      "end": 98.68,
+      "text": "It's a great destination for people who love nature and adventure.",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 94.41,
+          "endSec": 94.61,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 94.61,
+          "endSec": 94.69,
+          "score": 1.0
+        },
+        {
+          "word": "great",
+          "startSec": 94.69,
+          "endSec": 94.97,
+          "score": 1.0
+        },
+        {
+          "word": "destination",
+          "startSec": 94.97,
+          "endSec": 95.55,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 95.55,
+          "endSec": 96.25,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 96.25,
+          "endSec": 96.53,
+          "score": 1.0
+        },
+        {
+          "word": "who",
+          "startSec": 96.53,
+          "endSec": 96.85,
+          "score": 0.99
+        },
+        {
+          "word": "love",
+          "startSec": 96.85,
+          "endSec": 97.11,
+          "score": 1.0
+        },
+        {
+          "word": "nature",
+          "startSec": 97.11,
+          "endSec": 97.65,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 97.65,
+          "endSec": 98.01,
+          "score": 1.0
+        },
+        {
+          "word": "adventure.",
+          "startSec": 98.01,
+          "endSec": 98.53,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 99.83,
+      "end": 102.12,
+      "text": "What is Belize famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 100.03,
+          "endSec": 100.33,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 100.33,
+          "endSec": 100.63,
+          "score": 0.99
+        },
+        {
+          "word": "Belize",
+          "startSec": 100.63,
+          "endSec": 101.09,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 101.09,
+          "endSec": 101.61,
+          "score": 0.75
+        },
+        {
+          "word": "for?",
+          "startSec": 101.61,
+          "endSec": 101.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 102.61,
+      "end": 105.4,
+      "text": "Belize is famous for many things,",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 102.81,
+          "endSec": 103.57,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 103.57,
+          "endSec": 103.87,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 103.87,
+          "endSec": 104.25,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 104.25,
+          "endSec": 104.59,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 104.59,
+          "endSec": 104.79,
+          "score": 1.0
+        },
+        {
+          "word": "things,",
+          "startSec": 104.79,
+          "endSec": 105.25,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 105.77,
+      "end": 110.14,
+      "text": "especially its nature, history, and cultural diversity.",
+      "words": [
+        {
+          "word": "especially",
+          "startSec": 105.97,
+          "endSec": 106.47,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 106.47,
+          "endSec": 107.03,
+          "score": 0.86
+        },
+        {
+          "word": "nature,",
+          "startSec": 107.03,
+          "endSec": 107.59,
+          "score": 0.99
+        },
+        {
+          "word": "history,",
+          "startSec": 108.05,
+          "endSec": 108.51,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 108.95,
+          "endSec": 109.05,
+          "score": 1.0
+        },
+        {
+          "word": "cultural",
+          "startSec": 109.05,
+          "endSec": 109.37,
+          "score": 0.99
+        },
+        {
+          "word": "diversity.",
+          "startSec": 109.37,
+          "endSec": 109.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 111.53,
+      "end": 114.52,
+      "text": "One of the most famous things about Belize",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 111.73,
+          "endSec": 111.91,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 111.91,
+          "endSec": 112.09,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 112.09,
+          "endSec": 112.23,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 112.23,
+          "endSec": 112.47,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 112.47,
+          "endSec": 113.01,
+          "score": 0.99
+        },
+        {
+          "word": "things",
+          "startSec": 113.01,
+          "endSec": 113.39,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 113.39,
+          "endSec": 113.77,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 113.77,
+          "endSec": 114.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 114.17,
+      "end": 116.56,
+      "text": "is its Belize Barrier Reef,",
+      "words": [
+        {
+          "word": "is",
+          "startSec": 114.37,
+          "endSec": 114.71,
+          "score": 0.7
+        },
+        {
+          "word": "its",
+          "startSec": 114.71,
+          "endSec": 114.87,
+          "score": 0.8
+        },
+        {
+          "word": "Belize",
+          "startSec": 114.87,
+          "endSec": 115.43,
+          "score": 0.89
+        },
+        {
+          "word": "Barrier",
+          "startSec": 115.43,
+          "endSec": 115.95,
+          "score": 0.81
+        },
+        {
+          "word": "Reef,",
+          "startSec": 115.95,
+          "endSec": 116.41,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 117.01,
+      "end": 120.52,
+      "text": "which is the second largest coral reef in the world.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 117.21,
+          "endSec": 117.41,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 117.41,
+          "endSec": 117.61,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 117.61,
+          "endSec": 117.81,
+          "score": 0.99
+        },
+        {
+          "word": "second",
+          "startSec": 117.81,
+          "endSec": 118.29,
+          "score": 0.98
+        },
+        {
+          "word": "largest",
+          "startSec": 118.29,
+          "endSec": 118.89,
+          "score": 0.82
+        },
+        {
+          "word": "coral",
+          "startSec": 118.89,
+          "endSec": 119.29,
+          "score": 1.0
+        },
+        {
+          "word": "reef",
+          "startSec": 119.29,
+          "endSec": 119.71,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 119.71,
+          "endSec": 119.89,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 119.89,
+          "endSec": 120.03,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 120.03,
+          "endSec": 120.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 121.48,
+      "end": 124.61,
+      "text": "The reef is home to many beautiful fish,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 121.68,
+          "endSec": 121.82,
+          "score": 0.99
+        },
+        {
+          "word": "reef",
+          "startSec": 121.82,
+          "endSec": 122.06,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 122.06,
+          "endSec": 122.32,
+          "score": 1.0
+        },
+        {
+          "word": "home",
+          "startSec": 122.32,
+          "endSec": 122.6,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 122.6,
+          "endSec": 122.94,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 122.94,
+          "endSec": 123.28,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 123.28,
+          "endSec": 123.78,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 123.78,
+          "endSec": 124.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 125.0,
+      "end": 128.35,
+      "text": "sea turtles, and other marine animals.",
+      "words": [
+        {
+          "word": "sea",
+          "startSec": 125.2,
+          "endSec": 125.46,
+          "score": 1.0
+        },
+        {
+          "word": "turtles,",
+          "startSec": 125.46,
+          "endSec": 125.82,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 126.66,
+          "endSec": 126.7,
+          "score": 1.0
+        },
+        {
+          "word": "other",
+          "startSec": 126.7,
+          "endSec": 127.1,
+          "score": 1.0
+        },
+        {
+          "word": "marine",
+          "startSec": 127.1,
+          "endSec": 127.32,
+          "score": 0.99
+        },
+        {
+          "word": "animals.",
+          "startSec": 127.32,
+          "endSec": 128.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 129.06,
+      "end": 131.79,
+      "text": "People come from all over the world",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 129.26,
+          "endSec": 129.62,
+          "score": 0.99
+        },
+        {
+          "word": "come",
+          "startSec": 129.62,
+          "endSec": 130.04,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 130.04,
+          "endSec": 130.36,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 130.36,
+          "endSec": 130.78,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 130.78,
+          "endSec": 131.08,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 131.08,
+          "endSec": 131.28,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "startSec": 131.28,
+          "endSec": 131.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 131.44,
+      "end": 135.27,
+      "text": "to visit the reef for snorkeling and scuba diving.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 131.64,
+          "endSec": 131.94,
+          "score": 0.99
+        },
+        {
+          "word": "visit",
+          "startSec": 131.94,
+          "endSec": 132.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 132.22,
+          "endSec": 132.48,
+          "score": 1.0
+        },
+        {
+          "word": "reef",
+          "startSec": 132.48,
+          "endSec": 132.78,
+          "score": 0.98
+        },
+        {
+          "word": "for",
+          "startSec": 132.78,
+          "endSec": 133.14,
+          "score": 0.99
+        },
+        {
+          "word": "snorkeling",
+          "startSec": 133.14,
+          "endSec": 133.98,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 133.98,
+          "endSec": 134.34,
+          "score": 1.0
+        },
+        {
+          "word": "scuba",
+          "startSec": 134.34,
+          "endSec": 134.78,
+          "score": 1.0
+        },
+        {
+          "word": "diving.",
+          "startSec": 134.78,
+          "endSec": 135.12,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 136.56,
+      "end": 141.77,
+      "text": "One of the most famous spots for divers is the Great Blue Hole,",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 136.76,
+          "endSec": 137.1,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 137.1,
+          "endSec": 137.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 137.26,
+          "endSec": 137.4,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 137.4,
+          "endSec": 137.64,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 137.64,
+          "endSec": 138.2,
+          "score": 1.0
+        },
+        {
+          "word": "spots",
+          "startSec": 138.2,
+          "endSec": 138.56,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 138.56,
+          "endSec": 139.0,
+          "score": 1.0
+        },
+        {
+          "word": "divers",
+          "startSec": 139.0,
+          "endSec": 139.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 139.32,
+          "endSec": 140.22,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 140.22,
+          "endSec": 140.48,
+          "score": 0.98
+        },
+        {
+          "word": "Great",
+          "startSec": 140.48,
+          "endSec": 140.78,
+          "score": 0.83
+        },
+        {
+          "word": "Blue",
+          "startSec": 140.78,
+          "endSec": 141.22,
+          "score": 0.99
+        },
+        {
+          "word": "Hole,",
+          "startSec": 141.22,
+          "endSec": 141.62,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 142.04,
+      "end": 145.87,
+      "text": "which is a large, deep underwater hole.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 142.24,
+          "endSec": 142.66,
+          "score": 0.56
+        },
+        {
+          "word": "is",
+          "startSec": 142.66,
+          "endSec": 142.9,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 142.9,
+          "endSec": 143.06,
+          "score": 1.0
+        },
+        {
+          "word": "large,",
+          "startSec": 143.06,
+          "endSec": 143.52,
+          "score": 1.0
+        },
+        {
+          "word": "deep",
+          "startSec": 143.52,
+          "endSec": 144.22,
+          "score": 1.0
+        },
+        {
+          "word": "underwater",
+          "startSec": 144.22,
+          "endSec": 144.88,
+          "score": 0.89
+        },
+        {
+          "word": "hole.",
+          "startSec": 144.88,
+          "endSec": 145.72,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 146.02,
+      "end": 149.09,
+      "text": "It's a popular place for experienced divers",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 146.22,
+          "endSec": 146.48,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 146.48,
+          "endSec": 146.56,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 146.56,
+          "endSec": 146.96,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 146.96,
+          "endSec": 147.52,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 147.52,
+          "endSec": 147.72,
+          "score": 0.99
+        },
+        {
+          "word": "experienced",
+          "startSec": 147.72,
+          "endSec": 148.48,
+          "score": 0.85
+        },
+        {
+          "word": "divers",
+          "startSec": 148.48,
+          "endSec": 148.94,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 149.24,
+      "end": 152.63,
+      "text": "because of its unique underwater formations",
+      "words": [
+        {
+          "word": "because",
+          "startSec": 149.44,
+          "endSec": 149.86,
+          "score": 0.93
+        },
+        {
+          "word": "of",
+          "startSec": 149.86,
+          "endSec": 150.16,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 150.16,
+          "endSec": 150.34,
+          "score": 0.97
+        },
+        {
+          "word": "unique",
+          "startSec": 150.34,
+          "endSec": 150.8,
+          "score": 1.0
+        },
+        {
+          "word": "underwater",
+          "startSec": 150.8,
+          "endSec": 151.44,
+          "score": 0.99
+        },
+        {
+          "word": "formations",
+          "startSec": 151.44,
+          "endSec": 152.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 153.08,
+      "end": 156.75,
+      "text": "and the variety of sea creatures that live there.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 153.28,
+          "endSec": 153.7,
+          "score": 0.88
+        },
+        {
+          "word": "the",
+          "startSec": 153.7,
+          "endSec": 153.86,
+          "score": 0.98
+        },
+        {
+          "word": "variety",
+          "startSec": 153.86,
+          "endSec": 154.36,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 154.36,
+          "endSec": 154.78,
+          "score": 1.0
+        },
+        {
+          "word": "sea",
+          "startSec": 154.78,
+          "endSec": 155.04,
+          "score": 1.0
+        },
+        {
+          "word": "creatures",
+          "startSec": 155.04,
+          "endSec": 155.44,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 155.44,
+          "endSec": 155.9,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 155.9,
+          "endSec": 156.16,
+          "score": 0.78
+        },
+        {
+          "word": "there.",
+          "startSec": 156.16,
+          "endSec": 156.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 157.23,
+      "end": 161.24,
+      "text": "Belize is also very famous for its Maya ruins.",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 157.43,
+          "endSec": 158.07,
+          "score": 0.92
+        },
+        {
+          "word": "is",
+          "startSec": 158.07,
+          "endSec": 158.37,
+          "score": 0.98
+        },
+        {
+          "word": "also",
+          "startSec": 158.37,
+          "endSec": 158.63,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 158.63,
+          "endSec": 159.15,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 159.15,
+          "endSec": 159.77,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 159.77,
+          "endSec": 160.09,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 160.09,
+          "endSec": 160.27,
+          "score": 0.96
+        },
+        {
+          "word": "Maya",
+          "startSec": 160.27,
+          "endSec": 160.59,
+          "score": 0.77
+        },
+        {
+          "word": "ruins.",
+          "startSec": 160.59,
+          "endSec": 161.09,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 162.24,
+      "end": 166.87,
+      "text": "The ancient Maya people lived in this region many years ago",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 162.44,
+          "endSec": 162.68,
+          "score": 0.99
+        },
+        {
+          "word": "ancient",
+          "startSec": 162.68,
+          "endSec": 163.0,
+          "score": 0.98
+        },
+        {
+          "word": "Maya",
+          "startSec": 163.0,
+          "endSec": 163.4,
+          "score": 0.94
+        },
+        {
+          "word": "people",
+          "startSec": 163.4,
+          "endSec": 163.9,
+          "score": 1.0
+        },
+        {
+          "word": "lived",
+          "startSec": 163.9,
+          "endSec": 164.54,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 164.54,
+          "endSec": 164.8,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 164.8,
+          "endSec": 165.06,
+          "score": 1.0
+        },
+        {
+          "word": "region",
+          "startSec": 165.06,
+          "endSec": 165.42,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 165.42,
+          "endSec": 165.86,
+          "score": 0.99
+        },
+        {
+          "word": "years",
+          "startSec": 165.86,
+          "endSec": 166.28,
+          "score": 1.0
+        },
+        {
+          "word": "ago",
+          "startSec": 166.28,
+          "endSec": 166.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 167.06,
+      "end": 171.27,
+      "text": "and today you can still visit their old cities",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 167.26,
+          "endSec": 167.68,
+          "score": 0.41
+        },
+        {
+          "word": "today",
+          "startSec": 167.68,
+          "endSec": 168.14,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 168.14,
+          "endSec": 169.18,
+          "score": 0.74
+        },
+        {
+          "word": "can",
+          "startSec": 169.18,
+          "endSec": 169.36,
+          "score": 1.0
+        },
+        {
+          "word": "still",
+          "startSec": 169.36,
+          "endSec": 169.72,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 169.72,
+          "endSec": 170.04,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 170.04,
+          "endSec": 170.38,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 170.38,
+          "endSec": 170.72,
+          "score": 0.98
+        },
+        {
+          "word": "cities",
+          "startSec": 170.72,
+          "endSec": 171.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 170.92,
+      "end": 172.25,
+      "text": "and pyramids.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 171.12,
+          "endSec": 171.6,
+          "score": 0.18
+        },
+        {
+          "word": "pyramids.",
+          "startSec": 171.6,
+          "endSec": 172.1,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 172.86,
+      "end": 178.27,
+      "text": "Some of the most famous Maya sites are Sunan Tunich and Caracol.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 173.06,
+          "endSec": 173.46,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 173.46,
+          "endSec": 173.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 173.64,
+          "endSec": 173.78,
+          "score": 0.99
+        },
+        {
+          "word": "most",
+          "startSec": 173.78,
+          "endSec": 174.0,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 174.0,
+          "endSec": 174.62,
+          "score": 0.99
+        },
+        {
+          "word": "Maya",
+          "startSec": 174.62,
+          "endSec": 174.8,
+          "score": 0.24
+        },
+        {
+          "word": "sites",
+          "startSec": 174.8,
+          "endSec": 175.38,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 175.38,
+          "endSec": 175.64,
+          "score": 0.99
+        },
+        {
+          "word": "Sunan",
+          "startSec": 175.64,
+          "endSec": 176.18,
+          "score": 0.59
+        },
+        {
+          "word": "Tunich",
+          "startSec": 176.18,
+          "endSec": 176.86,
+          "score": 0.46
+        },
+        {
+          "word": "and",
+          "startSec": 176.86,
+          "endSec": 177.3,
+          "score": 0.98
+        },
+        {
+          "word": "Caracol.",
+          "startSec": 177.3,
+          "endSec": 178.12,
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 178.94,
+      "end": 183.67,
+      "text": "These are both ancient cities with big stone temples,",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 179.14,
+          "endSec": 179.58,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 179.58,
+          "endSec": 179.78,
+          "score": 1.0
+        },
+        {
+          "word": "both",
+          "startSec": 179.78,
+          "endSec": 180.12,
+          "score": 1.0
+        },
+        {
+          "word": "ancient",
+          "startSec": 180.12,
+          "endSec": 180.52,
+          "score": 1.0
+        },
+        {
+          "word": "cities",
+          "startSec": 180.52,
+          "endSec": 181.4,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 181.4,
+          "endSec": 181.98,
+          "score": 0.88
+        },
+        {
+          "word": "big",
+          "startSec": 181.98,
+          "endSec": 182.38,
+          "score": 1.0
+        },
+        {
+          "word": "stone",
+          "startSec": 182.38,
+          "endSec": 182.92,
+          "score": 0.99
+        },
+        {
+          "word": "temples,",
+          "startSec": 182.92,
+          "endSec": 183.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 184.08,
+      "end": 186.31,
+      "text": "palaces, and pyramids.",
+      "words": [
+        {
+          "word": "palaces,",
+          "startSec": 184.28,
+          "endSec": 184.94,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 185.06,
+          "endSec": 185.62,
+          "score": 1.0
+        },
+        {
+          "word": "pyramids.",
+          "startSec": 185.62,
+          "endSec": 186.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 187.31,
+      "end": 189.42,
+      "text": "People can walk through the ruins",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 187.51,
+          "endSec": 187.81,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 187.81,
+          "endSec": 188.15,
+          "score": 1.0
+        },
+        {
+          "word": "walk",
+          "startSec": 188.15,
+          "endSec": 188.45,
+          "score": 1.0
+        },
+        {
+          "word": "through",
+          "startSec": 188.45,
+          "endSec": 188.79,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 188.79,
+          "endSec": 188.97,
+          "score": 1.0
+        },
+        {
+          "word": "ruins",
+          "startSec": 188.97,
+          "endSec": 189.27,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 189.07,
+      "end": 192.34,
+      "text": "and learn about the history of the Maya civilization.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 189.27,
+          "endSec": 189.81,
+          "score": 0.97
+        },
+        {
+          "word": "learn",
+          "startSec": 189.81,
+          "endSec": 190.09,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 190.09,
+          "endSec": 190.51,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 190.51,
+          "endSec": 190.71,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 190.71,
+          "endSec": 191.15,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 191.15,
+          "endSec": 191.39,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 191.39,
+          "endSec": 191.53,
+          "score": 0.99
+        },
+        {
+          "word": "Maya",
+          "startSec": 191.53,
+          "endSec": 191.79,
+          "score": 0.96
+        },
+        {
+          "word": "civilization.",
+          "startSec": 191.79,
+          "endSec": 192.19,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 194.02,
+      "end": 197.55,
+      "text": "The Maya people were known for their advanced knowledge",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 194.22,
+          "endSec": 194.32,
+          "score": 0.99
+        },
+        {
+          "word": "Maya",
+          "startSec": 194.32,
+          "endSec": 194.52,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 194.52,
+          "endSec": 195.06,
+          "score": 1.0
+        },
+        {
+          "word": "were",
+          "startSec": 195.06,
+          "endSec": 195.34,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 195.34,
+          "endSec": 195.62,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 195.62,
+          "endSec": 195.96,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 195.96,
+          "endSec": 196.18,
+          "score": 1.0
+        },
+        {
+          "word": "advanced",
+          "startSec": 196.18,
+          "endSec": 196.66,
+          "score": 0.98
+        },
+        {
+          "word": "knowledge",
+          "startSec": 196.66,
+          "endSec": 197.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 197.2,
+      "end": 201.33,
+      "text": "of mathematics, astronomy, and architecture.",
+      "words": [
+        {
+          "word": "of",
+          "startSec": 197.4,
+          "endSec": 197.66,
+          "score": 1.0
+        },
+        {
+          "word": "mathematics,",
+          "startSec": 197.66,
+          "endSec": 198.04,
+          "score": 0.98
+        },
+        {
+          "word": "astronomy,",
+          "startSec": 199.12,
+          "endSec": 199.46,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 200.32,
+          "endSec": 200.64,
+          "score": 1.0
+        },
+        {
+          "word": "architecture.",
+          "startSec": 200.64,
+          "endSec": 201.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 202.27,
+      "end": 205.5,
+      "text": "These ruins are a great way to learn",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 202.47,
+          "endSec": 203.05,
+          "score": 0.93
+        },
+        {
+          "word": "ruins",
+          "startSec": 203.05,
+          "endSec": 203.43,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 203.43,
+          "endSec": 203.85,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 203.85,
+          "endSec": 203.99,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 203.99,
+          "endSec": 204.41,
+          "score": 1.0
+        },
+        {
+          "word": "way",
+          "startSec": 204.41,
+          "endSec": 204.81,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 204.81,
+          "endSec": 205.01,
+          "score": 1.0
+        },
+        {
+          "word": "learn",
+          "startSec": 205.01,
+          "endSec": 205.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 205.15,
+      "end": 208.04,
+      "text": "about Belize's rich cultural heritage.",
+      "words": [
+        {
+          "word": "about",
+          "startSec": 205.35,
+          "endSec": 205.73,
+          "score": 0.99
+        },
+        {
+          "word": "Belize's",
+          "startSec": 205.73,
+          "endSec": 206.39,
+          "score": 0.96
+        },
+        {
+          "word": "rich",
+          "startSec": 206.39,
+          "endSec": 206.67,
+          "score": 0.99
+        },
+        {
+          "word": "cultural",
+          "startSec": 206.67,
+          "endSec": 207.13,
+          "score": 0.99
+        },
+        {
+          "word": "heritage.",
+          "startSec": 207.13,
+          "endSec": 207.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 208.45,
+      "end": 210.89,
+      "text": "Food and Belize.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 208.65,
+          "endSec": 208.89,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 210.14,
+          "endSec": 210.32,
+          "score": 0.54
+        },
+        {
+          "word": "Belize.",
+          "startSec": 210.32,
+          "endSec": 210.74,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 211.36,
+      "end": 215.71,
+      "text": "One of the best things about visiting Belize is the food.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 211.56,
+          "endSec": 211.94,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 211.94,
+          "endSec": 212.14,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 212.14,
+          "endSec": 212.28,
+          "score": 1.0
+        },
+        {
+          "word": "best",
+          "startSec": 212.28,
+          "endSec": 212.66,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 212.66,
+          "endSec": 213.0,
+          "score": 0.99
+        },
+        {
+          "word": "about",
+          "startSec": 213.0,
+          "endSec": 213.4,
+          "score": 1.0
+        },
+        {
+          "word": "visiting",
+          "startSec": 213.4,
+          "endSec": 213.94,
+          "score": 0.99
+        },
+        {
+          "word": "Belize",
+          "startSec": 213.94,
+          "endSec": 214.5,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 214.5,
+          "endSec": 214.98,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 214.98,
+          "endSec": 215.22,
+          "score": 0.99
+        },
+        {
+          "word": "food.",
+          "startSec": 215.22,
+          "endSec": 215.56,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 215.99,
+      "end": 220.42,
+      "text": "The food in Belize is very delicious and full of flavors.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 216.19,
+          "endSec": 216.71,
+          "score": 0.99
+        },
+        {
+          "word": "food",
+          "startSec": 216.71,
+          "endSec": 216.99,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 216.99,
+          "endSec": 217.23,
+          "score": 0.61
+        },
+        {
+          "word": "Belize",
+          "startSec": 217.23,
+          "endSec": 217.65,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 217.65,
+          "endSec": 217.93,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 217.93,
+          "endSec": 218.31,
+          "score": 1.0
+        },
+        {
+          "word": "delicious",
+          "startSec": 218.31,
+          "endSec": 218.93,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 218.93,
+          "endSec": 219.47,
+          "score": 0.94
+        },
+        {
+          "word": "full",
+          "startSec": 219.47,
+          "endSec": 219.75,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 219.75,
+          "endSec": 219.93,
+          "score": 1.0
+        },
+        {
+          "word": "flavors.",
+          "startSec": 219.93,
+          "endSec": 220.27,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 221.29,
+      "end": 225.38,
+      "text": "People in Belize eat a lot of rice, beans, and seafood",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 221.49,
+          "endSec": 221.71,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 221.71,
+          "endSec": 222.09,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 222.09,
+          "endSec": 222.51,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 222.51,
+          "endSec": 222.85,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 222.85,
+          "endSec": 222.99,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 222.99,
+          "endSec": 223.21,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 223.21,
+          "endSec": 223.35,
+          "score": 0.99
+        },
+        {
+          "word": "rice,",
+          "startSec": 223.35,
+          "endSec": 223.71,
+          "score": 0.99
+        },
+        {
+          "word": "beans,",
+          "startSec": 224.25,
+          "endSec": 224.45,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 224.81,
+          "endSec": 224.95,
+          "score": 1.0
+        },
+        {
+          "word": "seafood",
+          "startSec": 224.95,
+          "endSec": 225.23,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 225.57,
+      "end": 228.04,
+      "text": "which are staples in many dishes.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 225.77,
+          "endSec": 226.15,
+          "score": 0.29
+        },
+        {
+          "word": "are",
+          "startSec": 226.15,
+          "endSec": 226.37,
+          "score": 1.0
+        },
+        {
+          "word": "staples",
+          "startSec": 226.37,
+          "endSec": 226.69,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 226.69,
+          "endSec": 227.29,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 227.29,
+          "endSec": 227.51,
+          "score": 1.0
+        },
+        {
+          "word": "dishes.",
+          "startSec": 227.51,
+          "endSec": 227.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 228.64,
+      "end": 233.17,
+      "text": "One popular dish in Belize is called Al Matchboos.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 228.84,
+          "endSec": 229.52,
+          "score": 0.36
+        },
+        {
+          "word": "popular",
+          "startSec": 229.52,
+          "endSec": 230.04,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 230.04,
+          "endSec": 230.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 230.5,
+          "endSec": 230.76,
+          "score": 0.95
+        },
+        {
+          "word": "Belize",
+          "startSec": 230.76,
+          "endSec": 231.12,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 231.12,
+          "endSec": 231.42,
+          "score": 0.95
+        },
+        {
+          "word": "called",
+          "startSec": 231.42,
+          "endSec": 231.72,
+          "score": 0.99
+        },
+        {
+          "word": "Al",
+          "startSec": 231.72,
+          "endSec": 232.08,
+          "score": 0.46
+        },
+        {
+          "word": "Matchboos.",
+          "startSec": 232.08,
+          "endSec": 233.02,
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 233.48,
+      "end": 237.51,
+      "text": "It's a dish made with rice, meat, usually chicken,",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 233.68,
+          "endSec": 234.08,
+          "score": 0.93
+        },
+        {
+          "word": "a",
+          "startSec": 234.08,
+          "endSec": 234.14,
+          "score": 0.98
+        },
+        {
+          "word": "dish",
+          "startSec": 234.14,
+          "endSec": 234.36,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 234.36,
+          "endSec": 234.72,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 234.72,
+          "endSec": 235.0,
+          "score": 1.0
+        },
+        {
+          "word": "rice,",
+          "startSec": 235.0,
+          "endSec": 235.32,
+          "score": 0.99
+        },
+        {
+          "word": "meat,",
+          "startSec": 235.86,
+          "endSec": 236.08,
+          "score": 1.0
+        },
+        {
+          "word": "usually",
+          "startSec": 236.56,
+          "endSec": 236.82,
+          "score": 0.99
+        },
+        {
+          "word": "chicken,",
+          "startSec": 236.82,
+          "endSec": 237.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 237.62,
+      "end": 240.25,
+      "text": "beef, or pork, and special spices.",
+      "words": [
+        {
+          "word": "beef,",
+          "startSec": 237.82,
+          "endSec": 238.08,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 238.36,
+          "endSec": 238.42,
+          "score": 0.95
+        },
+        {
+          "word": "pork,",
+          "startSec": 238.42,
+          "endSec": 238.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 239.18,
+          "endSec": 239.3,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 239.3,
+          "endSec": 239.6,
+          "score": 1.0
+        },
+        {
+          "word": "spices.",
+          "startSec": 239.6,
+          "endSec": 240.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 240.68,
+      "end": 245.49,
+      "text": "The dish has a rich flavor and is loved by many people",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 240.88,
+          "endSec": 240.98,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 240.98,
+          "endSec": 241.22,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 241.22,
+          "endSec": 241.56,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 241.56,
+          "endSec": 241.76,
+          "score": 0.99
+        },
+        {
+          "word": "rich",
+          "startSec": 241.76,
+          "endSec": 242.0,
+          "score": 1.0
+        },
+        {
+          "word": "flavor",
+          "startSec": 242.0,
+          "endSec": 242.52,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 242.52,
+          "endSec": 243.54,
+          "score": 0.75
+        },
+        {
+          "word": "is",
+          "startSec": 243.54,
+          "endSec": 243.78,
+          "score": 0.99
+        },
+        {
+          "word": "loved",
+          "startSec": 243.78,
+          "endSec": 244.16,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 244.16,
+          "endSec": 244.56,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 244.56,
+          "endSec": 244.84,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 244.84,
+          "endSec": 245.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 245.14,
+      "end": 246.17,
+      "text": "in Belize.",
+      "words": [
+        {
+          "word": "in",
+          "startSec": 245.34,
+          "endSec": 245.56,
+          "score": 0.99
+        },
+        {
+          "word": "Belize.",
+          "startSec": 245.56,
+          "endSec": 246.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 246.66,
+      "end": 250.21,
+      "text": "Another famous dish in Belize is Shawarma,",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 246.86,
+          "endSec": 247.34,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 247.34,
+          "endSec": 247.88,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 247.88,
+          "endSec": 248.28,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 248.28,
+          "endSec": 248.54,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 248.54,
+          "endSec": 249.14,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 249.14,
+          "endSec": 249.42,
+          "score": 0.99
+        },
+        {
+          "word": "Shawarma,",
+          "startSec": 249.42,
+          "endSec": 250.06,
+          "score": 0.69
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 250.48,
+      "end": 254.07,
+      "text": "which is grilled meat served in a sandwich or wrap.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 250.68,
+          "endSec": 250.86,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 250.86,
+          "endSec": 251.06,
+          "score": 0.99
+        },
+        {
+          "word": "grilled",
+          "startSec": 251.06,
+          "endSec": 251.38,
+          "score": 0.98
+        },
+        {
+          "word": "meat",
+          "startSec": 251.38,
+          "endSec": 251.8,
+          "score": 1.0
+        },
+        {
+          "word": "served",
+          "startSec": 251.8,
+          "endSec": 252.28,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 252.28,
+          "endSec": 252.6,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 252.6,
+          "endSec": 252.7,
+          "score": 0.99
+        },
+        {
+          "word": "sandwich",
+          "startSec": 252.7,
+          "endSec": 253.12,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 253.12,
+          "endSec": 253.64,
+          "score": 0.97
+        },
+        {
+          "word": "wrap.",
+          "startSec": 253.64,
+          "endSec": 253.92,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 254.82,
+      "end": 257.63,
+      "text": "The meat is cooked on a spit and served",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 255.02,
+          "endSec": 255.22,
+          "score": 1.0
+        },
+        {
+          "word": "meat",
+          "startSec": 255.22,
+          "endSec": 255.46,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 255.46,
+          "endSec": 255.66,
+          "score": 1.0
+        },
+        {
+          "word": "cooked",
+          "startSec": 255.66,
+          "endSec": 256.0,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 256.0,
+          "endSec": 256.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 256.28,
+          "endSec": 256.42,
+          "score": 1.0
+        },
+        {
+          "word": "spit",
+          "startSec": 256.42,
+          "endSec": 256.76,
+          "score": 0.93
+        },
+        {
+          "word": "and",
+          "startSec": 256.76,
+          "endSec": 257.16,
+          "score": 0.98
+        },
+        {
+          "word": "served",
+          "startSec": 257.16,
+          "endSec": 257.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 257.28,
+      "end": 260.47,
+      "text": "with garlic sauce, pickles, and vegetables.",
+      "words": [
+        {
+          "word": "with",
+          "startSec": 257.48,
+          "endSec": 257.8,
+          "score": 0.82
+        },
+        {
+          "word": "garlic",
+          "startSec": 257.8,
+          "endSec": 258.06,
+          "score": 1.0
+        },
+        {
+          "word": "sauce,",
+          "startSec": 258.06,
+          "endSec": 258.58,
+          "score": 1.0
+        },
+        {
+          "word": "pickles,",
+          "startSec": 259.14,
+          "endSec": 259.66,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 259.66,
+          "endSec": 260.0,
+          "score": 1.0
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 260.0,
+          "endSec": 260.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 261.8,
+      "end": 265.05,
+      "text": "It's a popular street food and is often eaten",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 262.0,
+          "endSec": 262.28,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 262.28,
+          "endSec": 262.34,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 262.34,
+          "endSec": 262.74,
+          "score": 1.0
+        },
+        {
+          "word": "street",
+          "startSec": 262.74,
+          "endSec": 263.24,
+          "score": 1.0
+        },
+        {
+          "word": "food",
+          "startSec": 263.24,
+          "endSec": 263.58,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 263.58,
+          "endSec": 264.04,
+          "score": 0.82
+        },
+        {
+          "word": "is",
+          "startSec": 264.04,
+          "endSec": 264.2,
+          "score": 0.99
+        },
+        {
+          "word": "often",
+          "startSec": 264.2,
+          "endSec": 264.62,
+          "score": 1.0
+        },
+        {
+          "word": "eaten",
+          "startSec": 264.62,
+          "endSec": 264.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 264.7,
+      "end": 266.41,
+      "text": "for lunch or dinner.",
+      "words": [
+        {
+          "word": "for",
+          "startSec": 264.9,
+          "endSec": 265.2,
+          "score": 1.0
+        },
+        {
+          "word": "lunch",
+          "startSec": 265.2,
+          "endSec": 265.64,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 265.64,
+          "endSec": 265.9,
+          "score": 0.99
+        },
+        {
+          "word": "dinner.",
+          "startSec": 265.9,
+          "endSec": 266.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 267.24,
+      "end": 270.73,
+      "text": "People in Belize also enjoy sweet desserts.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 267.44,
+          "endSec": 267.74,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 267.74,
+          "endSec": 268.1,
+          "score": 0.94
+        },
+        {
+          "word": "Belize",
+          "startSec": 268.1,
+          "endSec": 268.52,
+          "score": 0.96
+        },
+        {
+          "word": "also",
+          "startSec": 268.52,
+          "endSec": 269.06,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 269.06,
+          "endSec": 269.66,
+          "score": 1.0
+        },
+        {
+          "word": "sweet",
+          "startSec": 269.66,
+          "endSec": 270.22,
+          "score": 1.0
+        },
+        {
+          "word": "desserts.",
+          "startSec": 270.22,
+          "endSec": 270.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 271.91,
+      "end": 276.86,
+      "text": "One of the most popular desserts in Belize is Leucaimat.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 272.11,
+          "endSec": 272.55,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 272.55,
+          "endSec": 272.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 272.73,
+          "endSec": 272.87,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 272.87,
+          "endSec": 273.07,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 273.07,
+          "endSec": 273.67,
+          "score": 1.0
+        },
+        {
+          "word": "desserts",
+          "startSec": 273.67,
+          "endSec": 274.15,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 274.15,
+          "endSec": 274.59,
+          "score": 0.97
+        },
+        {
+          "word": "Belize",
+          "startSec": 274.59,
+          "endSec": 275.09,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 275.09,
+          "endSec": 275.57,
+          "score": 0.98
+        },
+        {
+          "word": "Leucaimat.",
+          "startSec": 275.57,
+          "endSec": 276.71,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 276.91,
+      "end": 279.46,
+      "text": "These are small, round dumplings",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 277.11,
+          "endSec": 277.51,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 277.51,
+          "endSec": 277.73,
+          "score": 1.0
+        },
+        {
+          "word": "small,",
+          "startSec": 277.73,
+          "endSec": 278.23,
+          "score": 1.0
+        },
+        {
+          "word": "round",
+          "startSec": 278.41,
+          "endSec": 278.67,
+          "score": 0.99
+        },
+        {
+          "word": "dumplings",
+          "startSec": 278.67,
+          "endSec": 279.31,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 279.11,
+      "end": 282.58,
+      "text": "that are fried and coated with honey or syrup.",
+      "words": [
+        {
+          "word": "that",
+          "startSec": 279.31,
+          "endSec": 279.89,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 279.89,
+          "endSec": 280.05,
+          "score": 1.0
+        },
+        {
+          "word": "fried",
+          "startSec": 280.05,
+          "endSec": 280.37,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 280.37,
+          "endSec": 280.79,
+          "score": 0.99
+        },
+        {
+          "word": "coated",
+          "startSec": 280.79,
+          "endSec": 281.09,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 281.09,
+          "endSec": 281.45,
+          "score": 1.0
+        },
+        {
+          "word": "honey",
+          "startSec": 281.45,
+          "endSec": 281.83,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 281.83,
+          "endSec": 282.15,
+          "score": 0.99
+        },
+        {
+          "word": "syrup.",
+          "startSec": 282.15,
+          "endSec": 282.43,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 283.33,
+      "end": 287.74,
+      "text": "They are crispy on the outside and soft on the inside.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 283.53,
+          "endSec": 283.89,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 283.89,
+          "endSec": 284.05,
+          "score": 1.0
+        },
+        {
+          "word": "crispy",
+          "startSec": 284.05,
+          "endSec": 284.51,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 284.51,
+          "endSec": 284.85,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 284.85,
+          "endSec": 284.99,
+          "score": 1.0
+        },
+        {
+          "word": "outside",
+          "startSec": 284.99,
+          "endSec": 285.31,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 285.31,
+          "endSec": 286.43,
+          "score": 0.78
+        },
+        {
+          "word": "soft",
+          "startSec": 286.43,
+          "endSec": 286.75,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 286.75,
+          "endSec": 287.15,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 287.15,
+          "endSec": 287.33,
+          "score": 1.0
+        },
+        {
+          "word": "inside.",
+          "startSec": 287.33,
+          "endSec": 287.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 288.37,
+      "end": 292.52,
+      "text": "Making them a delicious treat for anyone with a sweet tooth.",
+      "words": [
+        {
+          "word": "Making",
+          "startSec": 288.57,
+          "endSec": 288.91,
+          "score": 0.01
+        },
+        {
+          "word": "them",
+          "startSec": 288.91,
+          "endSec": 289.33,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 289.33,
+          "endSec": 289.49,
+          "score": 0.99
+        },
+        {
+          "word": "delicious",
+          "startSec": 289.49,
+          "endSec": 289.93,
+          "score": 1.0
+        },
+        {
+          "word": "treat",
+          "startSec": 289.93,
+          "endSec": 290.53,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 290.53,
+          "endSec": 290.83,
+          "score": 0.99
+        },
+        {
+          "word": "anyone",
+          "startSec": 290.83,
+          "endSec": 291.21,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 291.21,
+          "endSec": 291.63,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 291.63,
+          "endSec": 291.77,
+          "score": 0.97
+        },
+        {
+          "word": "sweet",
+          "startSec": 291.77,
+          "endSec": 292.01,
+          "score": 0.99
+        },
+        {
+          "word": "tooth.",
+          "startSec": 292.01,
+          "endSec": 292.37,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 294.22,
+      "end": 297.69,
+      "text": "Another popular dessert is Confiroush,",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 294.42,
+          "endSec": 294.7,
+          "score": 0.95
+        },
+        {
+          "word": "popular",
+          "startSec": 294.7,
+          "endSec": 295.22,
+          "score": 1.0
+        },
+        {
+          "word": "dessert",
+          "startSec": 295.22,
+          "endSec": 295.88,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 295.88,
+          "endSec": 296.38,
+          "score": 0.98
+        },
+        {
+          "word": "Confiroush,",
+          "startSec": 296.38,
+          "endSec": 297.54,
+          "score": 0.41
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 297.6,
+      "end": 302.13,
+      "text": "which is a type of fried cake made with saffron and cardamom.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 297.8,
+          "endSec": 298.1,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 298.1,
+          "endSec": 298.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 298.28,
+          "endSec": 298.44,
+          "score": 0.93
+        },
+        {
+          "word": "type",
+          "startSec": 298.44,
+          "endSec": 298.76,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 298.76,
+          "endSec": 298.98,
+          "score": 1.0
+        },
+        {
+          "word": "fried",
+          "startSec": 298.98,
+          "endSec": 299.26,
+          "score": 0.99
+        },
+        {
+          "word": "cake",
+          "startSec": 299.26,
+          "endSec": 299.68,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 299.68,
+          "endSec": 300.08,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 300.08,
+          "endSec": 300.32,
+          "score": 1.0
+        },
+        {
+          "word": "saffron",
+          "startSec": 300.32,
+          "endSec": 300.96,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 300.96,
+          "endSec": 301.3,
+          "score": 0.99
+        },
+        {
+          "word": "cardamom.",
+          "startSec": 301.3,
+          "endSec": 301.98,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 302.56,
+      "end": 305.79,
+      "text": "It's a very flavorful dessert that people enjoy",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 302.76,
+          "endSec": 303.26,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 303.26,
+          "endSec": 303.34,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 303.34,
+          "endSec": 303.56,
+          "score": 0.99
+        },
+        {
+          "word": "flavorful",
+          "startSec": 303.56,
+          "endSec": 303.88,
+          "score": 0.99
+        },
+        {
+          "word": "dessert",
+          "startSec": 303.88,
+          "endSec": 304.62,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 304.62,
+          "endSec": 304.86,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 304.86,
+          "endSec": 305.1,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 305.1,
+          "endSec": 305.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 305.44,
+      "end": 307.67,
+      "text": "with a cup of tea or coffee.",
+      "words": [
+        {
+          "word": "with",
+          "startSec": 305.64,
+          "endSec": 305.98,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 305.98,
+          "endSec": 306.12,
+          "score": 0.99
+        },
+        {
+          "word": "cup",
+          "startSec": 306.12,
+          "endSec": 306.34,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 306.34,
+          "endSec": 306.52,
+          "score": 0.99
+        },
+        {
+          "word": "tea",
+          "startSec": 306.52,
+          "endSec": 306.8,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 306.8,
+          "endSec": 307.08,
+          "score": 0.99
+        },
+        {
+          "word": "coffee.",
+          "startSec": 307.08,
+          "endSec": 307.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 308.98,
+      "end": 312.43,
+      "text": "Seafood is also a big part of Belizean cuisine.",
+      "words": [
+        {
+          "word": "Seafood",
+          "startSec": 309.18,
+          "endSec": 309.86,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 309.86,
+          "endSec": 310.06,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 310.06,
+          "endSec": 310.52,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 310.52,
+          "endSec": 310.72,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 310.72,
+          "endSec": 310.94,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 310.94,
+          "endSec": 311.28,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 311.28,
+          "endSec": 311.48,
+          "score": 1.0
+        },
+        {
+          "word": "Belizean",
+          "startSec": 311.48,
+          "endSec": 312.1,
+          "score": 0.55
+        },
+        {
+          "word": "cuisine.",
+          "startSec": 312.1,
+          "endSec": 312.28,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 313.46,
+      "end": 318.67,
+      "text": "Belize is known for its lobster, shrimp, and fish,",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 313.66,
+          "endSec": 314.24,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 314.24,
+          "endSec": 314.5,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 314.5,
+          "endSec": 314.82,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 314.82,
+          "endSec": 315.24,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 315.24,
+          "endSec": 315.4,
+          "score": 0.91
+        },
+        {
+          "word": "lobster,",
+          "startSec": 315.4,
+          "endSec": 315.82,
+          "score": 0.97
+        },
+        {
+          "word": "shrimp,",
+          "startSec": 316.78,
+          "endSec": 317.16,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 317.7,
+          "endSec": 318.18,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 318.18,
+          "endSec": 318.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 318.54,
+      "end": 321.13,
+      "text": "which are caught fresh from the sea.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 318.74,
+          "endSec": 319.14,
+          "score": 0.07
+        },
+        {
+          "word": "are",
+          "startSec": 319.14,
+          "endSec": 319.34,
+          "score": 0.99
+        },
+        {
+          "word": "caught",
+          "startSec": 319.34,
+          "endSec": 319.58,
+          "score": 0.98
+        },
+        {
+          "word": "fresh",
+          "startSec": 319.58,
+          "endSec": 320.12,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 320.12,
+          "endSec": 320.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 320.52,
+          "endSec": 320.7,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 320.7,
+          "endSec": 320.98,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 322.68,
+      "end": 326.19,
+      "text": "One dish you might wanna try is called Houdut,",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 322.88,
+          "endSec": 323.2,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 323.2,
+          "endSec": 323.44,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 323.44,
+          "endSec": 323.7,
+          "score": 0.99
+        },
+        {
+          "word": "might",
+          "startSec": 323.7,
+          "endSec": 323.9,
+          "score": 0.99
+        },
+        {
+          "word": "wanna",
+          "startSec": 323.9,
+          "endSec": 324.1,
+          "score": 0.26
+        },
+        {
+          "word": "try",
+          "startSec": 324.1,
+          "endSec": 324.62,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 324.62,
+          "endSec": 324.98,
+          "score": 0.98
+        },
+        {
+          "word": "called",
+          "startSec": 324.98,
+          "endSec": 325.34,
+          "score": 1.0
+        },
+        {
+          "word": "Houdut,",
+          "startSec": 325.34,
+          "endSec": 326.04,
+          "score": 0.34
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 326.4,
+      "end": 330.61,
+      "text": "a fish stew made with coconut milk and plantains.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 326.6,
+          "endSec": 327.0,
+          "score": 1.0
+        },
+        {
+          "word": "fish",
+          "startSec": 327.0,
+          "endSec": 327.28,
+          "score": 0.99
+        },
+        {
+          "word": "stew",
+          "startSec": 327.28,
+          "endSec": 327.72,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 327.72,
+          "endSec": 328.22,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 328.22,
+          "endSec": 328.44,
+          "score": 1.0
+        },
+        {
+          "word": "coconut",
+          "startSec": 328.44,
+          "endSec": 328.76,
+          "score": 1.0
+        },
+        {
+          "word": "milk",
+          "startSec": 328.76,
+          "endSec": 329.38,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 329.38,
+          "endSec": 329.76,
+          "score": 0.99
+        },
+        {
+          "word": "plantains.",
+          "startSec": 329.76,
+          "endSec": 330.46,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 331.91,
+      "end": 334.9,
+      "text": "People in Belize also love tamales,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 332.11,
+          "endSec": 332.55,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 332.55,
+          "endSec": 332.77,
+          "score": 0.96
+        },
+        {
+          "word": "Belize",
+          "startSec": 332.77,
+          "endSec": 333.19,
+          "score": 0.95
+        },
+        {
+          "word": "also",
+          "startSec": 333.19,
+          "endSec": 333.65,
+          "score": 1.0
+        },
+        {
+          "word": "love",
+          "startSec": 333.65,
+          "endSec": 334.15,
+          "score": 0.99
+        },
+        {
+          "word": "tamales,",
+          "startSec": 334.15,
+          "endSec": 334.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 335.41,
+      "end": 337.32,
+      "text": "which are made from corn dough,",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 335.61,
+          "endSec": 335.81,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 335.81,
+          "endSec": 336.01,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 336.01,
+          "endSec": 336.19,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 336.19,
+          "endSec": 336.45,
+          "score": 1.0
+        },
+        {
+          "word": "corn",
+          "startSec": 336.45,
+          "endSec": 336.77,
+          "score": 0.95
+        },
+        {
+          "word": "dough,",
+          "startSec": 336.77,
+          "endSec": 337.17,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 337.55,
+      "end": 339.62,
+      "text": "stuffed with meat or vegetables,",
+      "words": [
+        {
+          "word": "stuffed",
+          "startSec": 337.75,
+          "endSec": 338.07,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 338.07,
+          "endSec": 338.47,
+          "score": 1.0
+        },
+        {
+          "word": "meat",
+          "startSec": 338.47,
+          "endSec": 338.81,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 338.81,
+          "endSec": 339.07,
+          "score": 0.99
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 339.07,
+          "endSec": 339.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 340.03,
+      "end": 342.16,
+      "text": "and wrapped in banana leaves.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 340.23,
+          "endSec": 340.39,
+          "score": 1.0
+        },
+        {
+          "word": "wrapped",
+          "startSec": 340.39,
+          "endSec": 340.69,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 340.69,
+          "endSec": 341.13,
+          "score": 0.99
+        },
+        {
+          "word": "banana",
+          "startSec": 341.13,
+          "endSec": 341.53,
+          "score": 1.0
+        },
+        {
+          "word": "leaves.",
+          "startSec": 341.53,
+          "endSec": 342.01,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 342.78,
+      "end": 344.77,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "startSec": 342.98,
+          "endSec": 343.62,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 343.62,
+          "endSec": 344.2,
+          "score": 0.97
+        },
+        {
+          "word": "people.",
+          "startSec": 344.2,
+          "endSec": 344.62,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 344.92,
+      "end": 347.99,
+      "text": "The people of Belize are friendly, welcoming,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 345.12,
+          "endSec": 345.46,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 345.46,
+          "endSec": 345.8,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 345.8,
+          "endSec": 346.0,
+          "score": 0.94
+        },
+        {
+          "word": "Belize",
+          "startSec": 346.0,
+          "endSec": 346.36,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 346.36,
+          "endSec": 346.58,
+          "score": 0.99
+        },
+        {
+          "word": "friendly,",
+          "startSec": 346.58,
+          "endSec": 346.96,
+          "score": 1.0
+        },
+        {
+          "word": "welcoming,",
+          "startSec": 347.6,
+          "endSec": 347.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 348.35,
+      "end": 351.93,
+      "text": "and always happy to share their culture with visitors.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 348.55,
+          "endSec": 348.96,
+          "score": 0.08
+        },
+        {
+          "word": "always",
+          "startSec": 348.96,
+          "endSec": 349.28,
+          "score": 0.69
+        },
+        {
+          "word": "happy",
+          "startSec": 349.28,
+          "endSec": 349.68,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 349.68,
+          "endSec": 350.06,
+          "score": 1.0
+        },
+        {
+          "word": "share",
+          "startSec": 350.06,
+          "endSec": 350.32,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 350.32,
+          "endSec": 350.58,
+          "score": 0.99
+        },
+        {
+          "word": "culture",
+          "startSec": 350.58,
+          "endSec": 350.92,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 350.92,
+          "endSec": 351.38,
+          "score": 1.0
+        },
+        {
+          "word": "visitors.",
+          "startSec": 351.38,
+          "endSec": 351.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 352.66,
+      "end": 355.53,
+      "text": "Belizeans come from many different backgrounds,",
+      "words": [
+        {
+          "word": "Belizeans",
+          "startSec": 352.86,
+          "endSec": 353.52,
+          "score": 0.48
+        },
+        {
+          "word": "come",
+          "startSec": 353.52,
+          "endSec": 353.84,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 353.84,
+          "endSec": 354.18,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 354.18,
+          "endSec": 354.52,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 354.52,
+          "endSec": 354.9,
+          "score": 0.99
+        },
+        {
+          "word": "backgrounds,",
+          "startSec": 354.9,
+          "endSec": 355.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 356.06,
+      "end": 360.83,
+      "text": "including Maya, Garifuna, Creole, and Mestizo,",
+      "words": [
+        {
+          "word": "including",
+          "startSec": 356.26,
+          "endSec": 356.74,
+          "score": 1.0
+        },
+        {
+          "word": "Maya,",
+          "startSec": 356.74,
+          "endSec": 357.22,
+          "score": 0.92
+        },
+        {
+          "word": "Garifuna,",
+          "startSec": 357.88,
+          "endSec": 358.52,
+          "score": 0.8
+        },
+        {
+          "word": "Creole,",
+          "startSec": 359.1,
+          "endSec": 359.5,
+          "score": 0.89
+        },
+        {
+          "word": "and",
+          "startSec": 360.02,
+          "endSec": 360.06,
+          "score": 1.0
+        },
+        {
+          "word": "Mestizo,",
+          "startSec": 360.06,
+          "endSec": 360.68,
+          "score": 0.7
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 361.08,
+      "end": 364.67,
+      "text": "which makes the country a very diverse place.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 361.28,
+          "endSec": 361.56,
+          "score": 1.0
+        },
+        {
+          "word": "makes",
+          "startSec": 361.56,
+          "endSec": 361.8,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 361.8,
+          "endSec": 362.06,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 362.06,
+          "endSec": 362.5,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 362.5,
+          "endSec": 363.16,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 363.16,
+          "endSec": 363.56,
+          "score": 1.0
+        },
+        {
+          "word": "diverse",
+          "startSec": 363.56,
+          "endSec": 363.96,
+          "score": 1.0
+        },
+        {
+          "word": "place.",
+          "startSec": 363.96,
+          "endSec": 364.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 365.49,
+      "end": 368.8,
+      "text": "The main language spoken in Belize is English,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 365.69,
+          "endSec": 365.93,
+          "score": 0.99
+        },
+        {
+          "word": "main",
+          "startSec": 365.93,
+          "endSec": 366.15,
+          "score": 0.98
+        },
+        {
+          "word": "language",
+          "startSec": 366.15,
+          "endSec": 366.71,
+          "score": 1.0
+        },
+        {
+          "word": "spoken",
+          "startSec": 366.71,
+          "endSec": 367.05,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 367.05,
+          "endSec": 367.45,
+          "score": 0.98
+        },
+        {
+          "word": "Belize",
+          "startSec": 367.45,
+          "endSec": 367.89,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 367.89,
+          "endSec": 368.23,
+          "score": 0.99
+        },
+        {
+          "word": "English,",
+          "startSec": 368.23,
+          "endSec": 368.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 369.31,
+      "end": 374.02,
+      "text": "but many people also speak Spanish, Creole,",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 369.51,
+          "endSec": 369.87,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 369.87,
+          "endSec": 370.15,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 370.15,
+          "endSec": 370.75,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 370.75,
+          "endSec": 371.15,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 371.15,
+          "endSec": 371.87,
+          "score": 1.0
+        },
+        {
+          "word": "Spanish,",
+          "startSec": 371.87,
+          "endSec": 372.55,
+          "score": 1.0
+        },
+        {
+          "word": "Creole,",
+          "startSec": 373.19,
+          "endSec": 373.87,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 374.39,
+      "end": 376.46,
+      "text": "and some speak Maya languages.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 374.59,
+          "endSec": 374.79,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 374.79,
+          "endSec": 375.03,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 375.03,
+          "endSec": 375.41,
+          "score": 1.0
+        },
+        {
+          "word": "Maya",
+          "startSec": 375.41,
+          "endSec": 375.69,
+          "score": 0.98
+        },
+        {
+          "word": "languages.",
+          "startSec": 375.69,
+          "endSec": 376.31,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 377.23,
+      "end": 380.06,
+      "text": "This mix of languages and cultures",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 377.43,
+          "endSec": 377.81,
+          "score": 0.54
+        },
+        {
+          "word": "mix",
+          "startSec": 377.81,
+          "endSec": 378.17,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 378.17,
+          "endSec": 378.51,
+          "score": 1.0
+        },
+        {
+          "word": "languages",
+          "startSec": 378.51,
+          "endSec": 379.01,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 379.01,
+          "endSec": 379.47,
+          "score": 0.99
+        },
+        {
+          "word": "cultures",
+          "startSec": 379.47,
+          "endSec": 379.91,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 379.97,
+      "end": 384.1,
+      "text": "makes Belize an exciting and vibrant place to visit.",
+      "words": [
+        {
+          "word": "makes",
+          "startSec": 380.17,
+          "endSec": 380.55,
+          "score": 0.98
+        },
+        {
+          "word": "Belize",
+          "startSec": 380.55,
+          "endSec": 381.09,
+          "score": 0.78
+        },
+        {
+          "word": "an",
+          "startSec": 381.09,
+          "endSec": 381.45,
+          "score": 0.98
+        },
+        {
+          "word": "exciting",
+          "startSec": 381.45,
+          "endSec": 382.17,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 382.17,
+          "endSec": 382.53,
+          "score": 0.98
+        },
+        {
+          "word": "vibrant",
+          "startSec": 382.53,
+          "endSec": 382.91,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 382.91,
+          "endSec": 383.45,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 383.45,
+          "endSec": 383.73,
+          "score": 1.0
+        },
+        {
+          "word": "visit.",
+          "startSec": 383.73,
+          "endSec": 383.95,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 385.23,
+      "end": 388.48,
+      "text": "Belize is known for its music and dance.",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 385.43,
+          "endSec": 386.07,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 386.07,
+          "endSec": 386.33,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 386.33,
+          "endSec": 386.63,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 386.63,
+          "endSec": 387.07,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 387.07,
+          "endSec": 387.29,
+          "score": 0.95
+        },
+        {
+          "word": "music",
+          "startSec": 387.29,
+          "endSec": 387.79,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 387.79,
+          "endSec": 388.07,
+          "score": 0.99
+        },
+        {
+          "word": "dance.",
+          "startSec": 388.07,
+          "endSec": 388.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 389.05,
+      "end": 392.86,
+      "text": "One of the most famous types of music is called Punta.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 389.25,
+          "endSec": 389.59,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 389.59,
+          "endSec": 389.75,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 389.75,
+          "endSec": 389.89,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 389.89,
+          "endSec": 390.11,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 390.11,
+          "endSec": 390.55,
+          "score": 1.0
+        },
+        {
+          "word": "types",
+          "startSec": 390.55,
+          "endSec": 390.89,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 390.89,
+          "endSec": 391.13,
+          "score": 0.99
+        },
+        {
+          "word": "music",
+          "startSec": 391.13,
+          "endSec": 391.47,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 391.47,
+          "endSec": 391.87,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 391.87,
+          "endSec": 392.23,
+          "score": 1.0
+        },
+        {
+          "word": "Punta.",
+          "startSec": 392.23,
+          "endSec": 392.71,
+          "score": 0.68
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 393.49,
+      "end": 397.32,
+      "text": "Punta is a fast and rhythmic type of music,",
+      "words": [
+        {
+          "word": "Punta",
+          "startSec": 393.69,
+          "endSec": 394.23,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 394.23,
+          "endSec": 394.61,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 394.61,
+          "endSec": 394.79,
+          "score": 0.99
+        },
+        {
+          "word": "fast",
+          "startSec": 394.79,
+          "endSec": 395.27,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 395.27,
+          "endSec": 395.71,
+          "score": 0.99
+        },
+        {
+          "word": "rhythmic",
+          "startSec": 395.71,
+          "endSec": 396.29,
+          "score": 1.0
+        },
+        {
+          "word": "type",
+          "startSec": 396.29,
+          "endSec": 396.57,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 396.57,
+          "endSec": 396.77,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 396.77,
+          "endSec": 397.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 397.39,
+      "end": 399.8,
+      "text": "often played at parties and festivals.",
+      "words": [
+        {
+          "word": "often",
+          "startSec": 397.59,
+          "endSec": 398.03,
+          "score": 1.0
+        },
+        {
+          "word": "played",
+          "startSec": 398.03,
+          "endSec": 398.39,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 398.39,
+          "endSec": 398.59,
+          "score": 0.99
+        },
+        {
+          "word": "parties",
+          "startSec": 398.59,
+          "endSec": 398.91,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 398.91,
+          "endSec": 399.31,
+          "score": 0.99
+        },
+        {
+          "word": "festivals.",
+          "startSec": 399.31,
+          "endSec": 399.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 400.15,
+      "end": 402.16,
+      "text": "It's very fun to dance to.",
+      "words": [
+        {
+          "word": "It's",
+          "startSec": 400.35,
+          "endSec": 400.53,
+          "score": 0.97
+        },
+        {
+          "word": "very",
+          "startSec": 400.53,
+          "endSec": 400.75,
+          "score": 1.0
+        },
+        {
+          "word": "fun",
+          "startSec": 400.75,
+          "endSec": 401.17,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 401.17,
+          "endSec": 401.39,
+          "score": 1.0
+        },
+        {
+          "word": "dance",
+          "startSec": 401.39,
+          "endSec": 401.63,
+          "score": 1.0
+        },
+        {
+          "word": "to.",
+          "startSec": 401.63,
+          "endSec": 402.01,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 402.23,
+      "end": 404.94,
+      "text": "Another important tradition in Belize",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 402.43,
+          "endSec": 402.77,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 402.77,
+          "endSec": 403.31,
+          "score": 0.99
+        },
+        {
+          "word": "tradition",
+          "startSec": 403.31,
+          "endSec": 403.85,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 403.85,
+          "endSec": 404.23,
+          "score": 0.98
+        },
+        {
+          "word": "Belize",
+          "startSec": 404.23,
+          "endSec": 404.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 404.59,
+      "end": 407.26,
+      "text": "is Garifuna Settlement Day,",
+      "words": [
+        {
+          "word": "is",
+          "startSec": 404.79,
+          "endSec": 405.21,
+          "score": 0.47
+        },
+        {
+          "word": "Garifuna",
+          "startSec": 405.21,
+          "endSec": 405.91,
+          "score": 0.75
+        },
+        {
+          "word": "Settlement",
+          "startSec": 405.91,
+          "endSec": 406.51,
+          "score": 0.86
+        },
+        {
+          "word": "Day,",
+          "startSec": 406.51,
+          "endSec": 407.11,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 407.65,
+      "end": 410.96,
+      "text": "which celebrates the Garifuna people who have",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 407.85,
+          "endSec": 408.09,
+          "score": 1.0
+        },
+        {
+          "word": "celebrates",
+          "startSec": 408.09,
+          "endSec": 408.59,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 408.59,
+          "endSec": 409.07,
+          "score": 1.0
+        },
+        {
+          "word": "Garifuna",
+          "startSec": 409.07,
+          "endSec": 409.65,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 409.65,
+          "endSec": 409.99,
+          "score": 0.99
+        },
+        {
+          "word": "who",
+          "startSec": 409.99,
+          "endSec": 410.61,
+          "score": 0.97
+        },
+        {
+          "word": "have",
+          "startSec": 410.61,
+          "endSec": 410.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 410.61,
+      "end": 412.7,
+      "text": "a long history in Belize.",
+      "words": [
+        {
+          "word": "a",
+          "startSec": 410.81,
+          "endSec": 410.97,
+          "score": 0.99
+        },
+        {
+          "word": "long",
+          "startSec": 410.97,
+          "endSec": 411.27,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 411.27,
+          "endSec": 411.81,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 411.81,
+          "endSec": 412.11,
+          "score": 0.47
+        },
+        {
+          "word": "Belize.",
+          "startSec": 412.11,
+          "endSec": 412.55,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 413.87,
+      "end": 417.44,
+      "text": "During this festival, people dance, sing,",
+      "words": [
+        {
+          "word": "During",
+          "startSec": 414.07,
+          "endSec": 414.41,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 414.41,
+          "endSec": 414.73,
+          "score": 1.0
+        },
+        {
+          "word": "festival,",
+          "startSec": 414.73,
+          "endSec": 415.19,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 415.51,
+          "endSec": 415.79,
+          "score": 1.0
+        },
+        {
+          "word": "dance,",
+          "startSec": 415.79,
+          "endSec": 416.41,
+          "score": 1.0
+        },
+        {
+          "word": "sing,",
+          "startSec": 416.93,
+          "endSec": 417.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 417.53,
+      "end": 419.08,
+      "text": "and celebrate their culture.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 417.73,
+          "endSec": 417.79,
+          "score": 1.0
+        },
+        {
+          "word": "celebrate",
+          "startSec": 417.79,
+          "endSec": 418.25,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 418.25,
+          "endSec": 418.67,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 418.67,
+          "endSec": 418.93,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 420.61,
+      "end": 422.16,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 420.81,
+          "endSec": 421.23,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 421.23,
+          "endSec": 421.49,
+          "score": 0.92
+        },
+        {
+          "word": "animals.",
+          "startSec": 421.49,
+          "endSec": 422.01,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 422.7,
+      "end": 425.25,
+      "text": "Belize is full of beautiful nature.",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 422.9,
+          "endSec": 423.54,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 423.54,
+          "endSec": 423.78,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 423.78,
+          "endSec": 424.1,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 424.1,
+          "endSec": 424.32,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 424.32,
+          "endSec": 424.64,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 424.64,
+          "endSec": 425.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 426.26,
+      "end": 429.43,
+      "text": "The country has vast rainforests, rivers,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 426.46,
+          "endSec": 426.66,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 426.66,
+          "endSec": 427.02,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 427.02,
+          "endSec": 427.36,
+          "score": 1.0
+        },
+        {
+          "word": "vast",
+          "startSec": 427.36,
+          "endSec": 427.66,
+          "score": 1.0
+        },
+        {
+          "word": "rainforests,",
+          "startSec": 427.66,
+          "endSec": 428.88,
+          "score": 0.8
+        },
+        {
+          "word": "rivers,",
+          "startSec": 428.96,
+          "endSec": 429.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 429.56,
+      "end": 432.79,
+      "text": "and islands that are home to many unique animals.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 429.76,
+          "endSec": 429.86,
+          "score": 1.0
+        },
+        {
+          "word": "islands",
+          "startSec": 429.86,
+          "endSec": 430.24,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 430.24,
+          "endSec": 430.76,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 430.76,
+          "endSec": 430.9,
+          "score": 1.0
+        },
+        {
+          "word": "home",
+          "startSec": 430.9,
+          "endSec": 431.14,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 431.14,
+          "endSec": 431.42,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 431.42,
+          "endSec": 431.7,
+          "score": 1.0
+        },
+        {
+          "word": "unique",
+          "startSec": 431.7,
+          "endSec": 432.14,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 432.14,
+          "endSec": 432.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 433.92,
+      "end": 438.21,
+      "text": "One of the most famous places in Belize for nature lovers",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 434.12,
+          "endSec": 434.54,
+          "score": 0.29
+        },
+        {
+          "word": "of",
+          "startSec": 434.54,
+          "endSec": 434.72,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 434.72,
+          "endSec": 434.86,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 434.86,
+          "endSec": 435.12,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 435.12,
+          "endSec": 435.54,
+          "score": 0.99
+        },
+        {
+          "word": "places",
+          "startSec": 435.54,
+          "endSec": 436.3,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 436.3,
+          "endSec": 436.54,
+          "score": 0.81
+        },
+        {
+          "word": "Belize",
+          "startSec": 436.54,
+          "endSec": 436.96,
+          "score": 0.96
+        },
+        {
+          "word": "for",
+          "startSec": 436.96,
+          "endSec": 437.28,
+          "score": 0.98
+        },
+        {
+          "word": "nature",
+          "startSec": 437.28,
+          "endSec": 437.54,
+          "score": 0.68
+        },
+        {
+          "word": "lovers",
+          "startSec": 437.54,
+          "endSec": 438.06,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 437.86,
+      "end": 441.83,
+      "text": "is the Coxcombe Basin Wildlife Sanctuary,",
+      "words": [
+        {
+          "word": "is",
+          "startSec": 438.06,
+          "endSec": 439.08,
+          "score": 0.91
+        },
+        {
+          "word": "the",
+          "startSec": 439.08,
+          "endSec": 439.26,
+          "score": 0.99
+        },
+        {
+          "word": "Coxcombe",
+          "startSec": 439.26,
+          "endSec": 439.94,
+          "score": 0.38
+        },
+        {
+          "word": "Basin",
+          "startSec": 439.94,
+          "endSec": 440.38,
+          "score": 0.98
+        },
+        {
+          "word": "Wildlife",
+          "startSec": 440.38,
+          "endSec": 440.84,
+          "score": 0.81
+        },
+        {
+          "word": "Sanctuary,",
+          "startSec": 440.84,
+          "endSec": 441.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 442.3,
+      "end": 445.31,
+      "text": "which is a protected area for jaguars.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 442.5,
+          "endSec": 442.72,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 442.72,
+          "endSec": 442.9,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 442.9,
+          "endSec": 443.06,
+          "score": 0.99
+        },
+        {
+          "word": "protected",
+          "startSec": 443.06,
+          "endSec": 443.42,
+          "score": 1.0
+        },
+        {
+          "word": "area",
+          "startSec": 443.42,
+          "endSec": 444.04,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 444.04,
+          "endSec": 444.4,
+          "score": 1.0
+        },
+        {
+          "word": "jaguars.",
+          "startSec": 444.4,
+          "endSec": 445.16,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 446.1,
+      "end": 449.27,
+      "text": "Jaguars are one of the most beautiful",
+      "words": [
+        {
+          "word": "Jaguars",
+          "startSec": 446.3,
+          "endSec": 446.82,
+          "score": 0.36
+        },
+        {
+          "word": "are",
+          "startSec": 446.82,
+          "endSec": 447.7,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 447.7,
+          "endSec": 447.96,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 447.96,
+          "endSec": 448.12,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 448.12,
+          "endSec": 448.26,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 448.26,
+          "endSec": 448.5,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 448.5,
+          "endSec": 449.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 448.92,
+      "end": 451.89,
+      "text": "and powerful animals in Belize.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 449.12,
+          "endSec": 449.6,
+          "score": 0.98
+        },
+        {
+          "word": "powerful",
+          "startSec": 449.6,
+          "endSec": 450.12,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 450.12,
+          "endSec": 450.82,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 450.82,
+          "endSec": 451.24,
+          "score": 0.99
+        },
+        {
+          "word": "Belize.",
+          "startSec": 451.24,
+          "endSec": 451.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "start": 452.06,
+      "end": 456.29,
+      "text": "You can also find monkeys, parrots, iguanas,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 452.26,
+          "endSec": 452.46,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 452.46,
+          "endSec": 452.64,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 452.64,
+          "endSec": 452.86,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 452.86,
+          "endSec": 453.4,
+          "score": 1.0
+        },
+        {
+          "word": "monkeys,",
+          "startSec": 453.4,
+          "endSec": 453.9,
+          "score": 0.97
+        },
+        {
+          "word": "parrots,",
+          "startSec": 454.48,
+          "endSec": 455.12,
+          "score": 0.96
+        },
+        {
+          "word": "iguanas,",
+          "startSec": 455.5,
+          "endSec": 456.14,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "start": 456.18,
+      "end": 458.13,
+      "text": "and butterflies in the forests.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 456.38,
+          "endSec": 456.46,
+          "score": 0.99
+        },
+        {
+          "word": "butterflies",
+          "startSec": 456.46,
+          "endSec": 456.82,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 456.82,
+          "endSec": 457.52,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 457.52,
+          "endSec": 457.64,
+          "score": 0.99
+        },
+        {
+          "word": "forests.",
+          "startSec": 457.64,
+          "endSec": 457.98,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "start": 459.91,
+      "end": 463.3,
+      "text": "Belize's beaches are another big attraction for tourists.",
+      "words": [
+        {
+          "word": "Belize's",
+          "startSec": 460.11,
+          "endSec": 460.57,
+          "score": 0.97
+        },
+        {
+          "word": "beaches",
+          "startSec": 460.57,
+          "endSec": 460.79,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 460.79,
+          "endSec": 461.29,
+          "score": 1.0
+        },
+        {
+          "word": "another",
+          "startSec": 461.29,
+          "endSec": 461.63,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 461.63,
+          "endSec": 462.01,
+          "score": 1.0
+        },
+        {
+          "word": "attraction",
+          "startSec": 462.01,
+          "endSec": 462.35,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 462.35,
+          "endSec": 462.95,
+          "score": 1.0
+        },
+        {
+          "word": "tourists.",
+          "startSec": 462.95,
+          "endSec": 463.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "start": 464.3,
+      "end": 467.63,
+      "text": "The water in Belize is warm and clear,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 464.5,
+          "endSec": 464.74,
+          "score": 0.85
+        },
+        {
+          "word": "water",
+          "startSec": 464.74,
+          "endSec": 465.02,
+          "score": 0.91
+        },
+        {
+          "word": "in",
+          "startSec": 465.02,
+          "endSec": 465.32,
+          "score": 0.71
+        },
+        {
+          "word": "Belize",
+          "startSec": 465.32,
+          "endSec": 465.76,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 465.76,
+          "endSec": 466.22,
+          "score": 0.98
+        },
+        {
+          "word": "warm",
+          "startSec": 466.22,
+          "endSec": 466.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 466.68,
+          "endSec": 467.06,
+          "score": 1.0
+        },
+        {
+          "word": "clear,",
+          "startSec": 467.06,
+          "endSec": 467.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "start": 467.78,
+      "end": 471.07,
+      "text": "making it perfect for swimming, snorkeling,",
+      "words": [
+        {
+          "word": "making",
+          "startSec": 467.98,
+          "endSec": 468.38,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 468.38,
+          "endSec": 468.6,
+          "score": 1.0
+        },
+        {
+          "word": "perfect",
+          "startSec": 468.6,
+          "endSec": 469.0,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 469.0,
+          "endSec": 469.38,
+          "score": 1.0
+        },
+        {
+          "word": "swimming,",
+          "startSec": 469.38,
+          "endSec": 469.74,
+          "score": 0.99
+        },
+        {
+          "word": "snorkeling,",
+          "startSec": 470.38,
+          "endSec": 470.92,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "start": 471.1,
+      "end": 472.25,
+      "text": "and scuba diving.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 471.3,
+          "endSec": 471.34,
+          "score": 1.0
+        },
+        {
+          "word": "scuba",
+          "startSec": 471.34,
+          "endSec": 471.78,
+          "score": 1.0
+        },
+        {
+          "word": "diving.",
+          "startSec": 471.78,
+          "endSec": 472.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "start": 472.92,
+      "end": 476.15,
+      "text": "You can also find many beautiful coral reefs",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 473.12,
+          "endSec": 473.26,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 473.26,
+          "endSec": 473.44,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 473.44,
+          "endSec": 473.72,
+          "score": 0.99
+        },
+        {
+          "word": "find",
+          "startSec": 473.72,
+          "endSec": 474.2,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 474.2,
+          "endSec": 474.5,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 474.5,
+          "endSec": 475.14,
+          "score": 1.0
+        },
+        {
+          "word": "coral",
+          "startSec": 475.14,
+          "endSec": 475.52,
+          "score": 0.99
+        },
+        {
+          "word": "reefs",
+          "startSec": 475.52,
+          "endSec": 476.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "start": 475.8,
+      "end": 477.23,
+      "text": "around the country.",
+      "words": [
+        {
+          "word": "around",
+          "startSec": 476.0,
+          "endSec": 476.44,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 476.44,
+          "endSec": 476.66,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 476.66,
+          "endSec": 477.08,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "start": 477.86,
+      "end": 479.91,
+      "text": "The island of Ambergris Kai",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 478.06,
+          "endSec": 478.24,
+          "score": 0.99
+        },
+        {
+          "word": "island",
+          "startSec": 478.24,
+          "endSec": 478.62,
+          "score": 0.66
+        },
+        {
+          "word": "of",
+          "startSec": 478.62,
+          "endSec": 478.9,
+          "score": 1.0
+        },
+        {
+          "word": "Ambergris",
+          "startSec": 478.9,
+          "endSec": 479.5,
+          "score": 0.68
+        },
+        {
+          "word": "Kai",
+          "startSec": 479.5,
+          "endSec": 479.76,
+          "score": 0.17
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "start": 479.56,
+      "end": 483.05,
+      "text": "is one of the most popular islands in Belize.",
+      "words": [
+        {
+          "word": "is",
+          "startSec": 479.76,
+          "endSec": 480.42,
+          "score": 0.98
+        },
+        {
+          "word": "one",
+          "startSec": 480.42,
+          "endSec": 480.68,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 480.68,
+          "endSec": 480.8,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 480.8,
+          "endSec": 480.9,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 480.9,
+          "endSec": 481.1,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 481.1,
+          "endSec": 481.66,
+          "score": 1.0
+        },
+        {
+          "word": "islands",
+          "startSec": 481.66,
+          "endSec": 482.14,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 482.14,
+          "endSec": 482.46,
+          "score": 1.0
+        },
+        {
+          "word": "Belize.",
+          "startSec": 482.46,
+          "endSec": 482.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "start": 483.48,
+      "end": 485.73,
+      "text": "People go there to relax,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 483.68,
+          "endSec": 484.32,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 484.32,
+          "endSec": 484.64,
+          "score": 1.0
+        },
+        {
+          "word": "there",
+          "startSec": 484.64,
+          "endSec": 484.92,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 484.92,
+          "endSec": 485.16,
+          "score": 1.0
+        },
+        {
+          "word": "relax,",
+          "startSec": 485.16,
+          "endSec": 485.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "start": 486.08,
+      "end": 489.07,
+      "text": "go fishing, or enjoy the beautiful beaches.",
+      "words": [
+        {
+          "word": "go",
+          "startSec": 486.28,
+          "endSec": 486.56,
+          "score": 0.99
+        },
+        {
+          "word": "fishing,",
+          "startSec": 486.56,
+          "endSec": 486.94,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 487.48,
+          "endSec": 487.62,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 487.62,
+          "endSec": 487.9,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 487.9,
+          "endSec": 488.18,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 488.18,
+          "endSec": 488.6,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 488.6,
+          "endSec": 488.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "start": 490.28,
+      "end": 492.47,
+      "text": "Fujima, another island,",
+      "words": [
+        {
+          "word": "Fujima,",
+          "startSec": 490.48,
+          "endSec": 491.12,
+          "score": 0.92
+        },
+        {
+          "word": "another",
+          "startSec": 491.46,
+          "endSec": 491.88,
+          "score": 0.99
+        },
+        {
+          "word": "island,",
+          "startSec": 491.88,
+          "endSec": 492.32,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "start": 492.12,
+      "end": 496.93,
+      "text": "has amazing coral reefs where you can see colorful fish",
+      "words": [
+        {
+          "word": "has",
+          "startSec": 492.32,
+          "endSec": 493.14,
+          "score": 0.35
+        },
+        {
+          "word": "amazing",
+          "startSec": 493.14,
+          "endSec": 493.52,
+          "score": 0.99
+        },
+        {
+          "word": "coral",
+          "startSec": 493.52,
+          "endSec": 494.18,
+          "score": 1.0
+        },
+        {
+          "word": "reefs",
+          "startSec": 494.18,
+          "endSec": 494.72,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 494.72,
+          "endSec": 495.1,
+          "score": 0.94
+        },
+        {
+          "word": "you",
+          "startSec": 495.1,
+          "endSec": 495.28,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 495.28,
+          "endSec": 495.46,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 495.46,
+          "endSec": 495.7,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 495.7,
+          "endSec": 496.16,
+          "score": 0.98
+        },
+        {
+          "word": "fish",
+          "startSec": 496.16,
+          "endSec": 496.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "start": 496.58,
+      "end": 497.89,
+      "text": "and sea turtles.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 496.78,
+          "endSec": 497.18,
+          "score": 0.99
+        },
+        {
+          "word": "sea",
+          "startSec": 497.18,
+          "endSec": 497.4,
+          "score": 0.99
+        },
+        {
+          "word": "turtles.",
+          "startSec": 497.4,
+          "endSec": 497.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "start": 498.9,
+      "end": 501.03,
+      "text": "Belize also has mountains,",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 499.1,
+          "endSec": 499.58,
+          "score": 0.84
+        },
+        {
+          "word": "also",
+          "startSec": 499.58,
+          "endSec": 499.96,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 499.96,
+          "endSec": 500.4,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 500.4,
+          "endSec": 500.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "start": 501.5,
+      "end": 503.25,
+      "text": "like the Hajar Mountains,",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 501.7,
+          "endSec": 502.08,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 502.08,
+          "endSec": 502.3,
+          "score": 0.99
+        },
+        {
+          "word": "Hajar",
+          "startSec": 502.3,
+          "endSec": 502.78,
+          "score": 0.59
+        },
+        {
+          "word": "Mountains,",
+          "startSec": 502.78,
+          "endSec": 503.1,
+          "score": 0.68
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "start": 503.76,
+      "end": 506.05,
+      "text": "which are great for hiking and camping.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 503.96,
+          "endSec": 504.18,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 504.18,
+          "endSec": 504.36,
+          "score": 1.0
+        },
+        {
+          "word": "great",
+          "startSec": 504.36,
+          "endSec": 504.66,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 504.66,
+          "endSec": 504.92,
+          "score": 1.0
+        },
+        {
+          "word": "hiking",
+          "startSec": 504.92,
+          "endSec": 505.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 505.24,
+          "endSec": 505.6,
+          "score": 1.0
+        },
+        {
+          "word": "camping.",
+          "startSec": 505.6,
+          "endSec": 505.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "start": 506.76,
+      "end": 509.77,
+      "text": "People enjoy going there for fresh air,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 506.96,
+          "endSec": 507.38,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 507.38,
+          "endSec": 507.82,
+          "score": 1.0
+        },
+        {
+          "word": "going",
+          "startSec": 507.82,
+          "endSec": 508.34,
+          "score": 1.0
+        },
+        {
+          "word": "there",
+          "startSec": 508.34,
+          "endSec": 508.66,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 508.66,
+          "endSec": 508.86,
+          "score": 1.0
+        },
+        {
+          "word": "fresh",
+          "startSec": 508.86,
+          "endSec": 509.26,
+          "score": 1.0
+        },
+        {
+          "word": "air,",
+          "startSec": 509.26,
+          "endSec": 509.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "start": 510.18,
+      "end": 511.37,
+      "text": "stunning views,",
+      "words": [
+        {
+          "word": "stunning",
+          "startSec": 510.38,
+          "endSec": 510.78,
+          "score": 0.99
+        },
+        {
+          "word": "views,",
+          "startSec": 510.78,
+          "endSec": 511.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "start": 511.76,
+      "end": 515.33,
+      "text": "and a chance to explore the country's natural beauty.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 511.96,
+          "endSec": 512.22,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 512.22,
+          "endSec": 512.34,
+          "score": 1.0
+        },
+        {
+          "word": "chance",
+          "startSec": 512.34,
+          "endSec": 512.62,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 512.62,
+          "endSec": 512.98,
+          "score": 1.0
+        },
+        {
+          "word": "explore",
+          "startSec": 512.98,
+          "endSec": 513.46,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 513.46,
+          "endSec": 513.78,
+          "score": 1.0
+        },
+        {
+          "word": "country's",
+          "startSec": 513.78,
+          "endSec": 514.36,
+          "score": 0.99
+        },
+        {
+          "word": "natural",
+          "startSec": 514.36,
+          "endSec": 514.76,
+          "score": 1.0
+        },
+        {
+          "word": "beauty.",
+          "startSec": 514.76,
+          "endSec": 515.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "start": 517.19,
+      "end": 519.88,
+      "text": "Conclusion Belize is a beautiful country",
+      "words": [
+        {
+          "word": "Conclusion",
+          "startSec": 517.39,
+          "endSec": 517.91,
+          "score": 0.36
+        },
+        {
+          "word": "Belize",
+          "startSec": 517.91,
+          "endSec": 518.49,
+          "score": 0.88
+        },
+        {
+          "word": "is",
+          "startSec": 518.49,
+          "endSec": 518.69,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 518.69,
+          "endSec": 518.83,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 518.83,
+          "endSec": 519.13,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 519.13,
+          "endSec": 519.73,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "start": 519.53,
+      "end": 521.36,
+      "text": "with a lot to offer.",
+      "words": [
+        {
+          "word": "with",
+          "startSec": 519.73,
+          "endSec": 520.05,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 520.05,
+          "endSec": 520.23,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 520.23,
+          "endSec": 520.55,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 520.55,
+          "endSec": 520.81,
+          "score": 1.0
+        },
+        {
+          "word": "offer.",
+          "startSec": 520.81,
+          "endSec": 521.21,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "start": 521.79,
+      "end": 524.08,
+      "text": "It has incredible nature,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 521.99,
+          "endSec": 522.37,
+          "score": 0.47
+        },
+        {
+          "word": "has",
+          "startSec": 522.37,
+          "endSec": 522.63,
+          "score": 0.99
+        },
+        {
+          "word": "incredible",
+          "startSec": 522.63,
+          "endSec": 523.23,
+          "score": 0.99
+        },
+        {
+          "word": "nature,",
+          "startSec": 523.23,
+          "endSec": 523.93,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "start": 524.41,
+      "end": 525.98,
+      "text": "delicious food,",
+      "words": [
+        {
+          "word": "delicious",
+          "startSec": 524.61,
+          "endSec": 525.03,
+          "score": 1.0
+        },
+        {
+          "word": "food,",
+          "startSec": 525.03,
+          "endSec": 525.83,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "start": 526.01,
+      "end": 527.76,
+      "text": "friendly people,",
+      "words": [
+        {
+          "word": "friendly",
+          "startSec": 526.21,
+          "endSec": 526.89,
+          "score": 0.98
+        },
+        {
+          "word": "people,",
+          "startSec": 526.89,
+          "endSec": 527.61,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "start": 527.83,
+      "end": 529.3,
+      "text": "and a rich history.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 528.03,
+          "endSec": 528.21,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 528.21,
+          "endSec": 528.31,
+          "score": 0.96
+        },
+        {
+          "word": "rich",
+          "startSec": 528.31,
+          "endSec": 528.53,
+          "score": 1.0
+        },
+        {
+          "word": "history.",
+          "startSec": 528.53,
+          "endSec": 529.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "start": 530.42,
+      "end": 533.05,
+      "text": "Whether you are visiting the Maya ruins,",
+      "words": [
+        {
+          "word": "Whether",
+          "startSec": 530.62,
+          "endSec": 530.96,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 530.96,
+          "endSec": 531.26,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 531.26,
+          "endSec": 531.4,
+          "score": 0.98
+        },
+        {
+          "word": "visiting",
+          "startSec": 531.4,
+          "endSec": 531.8,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 531.8,
+          "endSec": 532.08,
+          "score": 0.97
+        },
+        {
+          "word": "Maya",
+          "startSec": 532.08,
+          "endSec": 532.4,
+          "score": 0.78
+        },
+        {
+          "word": "ruins,",
+          "startSec": 532.4,
+          "endSec": 532.9,
+          "score": 0.7
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "start": 533.5,
+      "end": 535.25,
+      "text": "relaxing on the beach,",
+      "words": [
+        {
+          "word": "relaxing",
+          "startSec": 533.7,
+          "endSec": 534.14,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 534.14,
+          "endSec": 534.62,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 534.62,
+          "endSec": 534.78,
+          "score": 1.0
+        },
+        {
+          "word": "beach,",
+          "startSec": 534.78,
+          "endSec": 535.1,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "start": 534.9,
+      "end": 537.79,
+      "text": "or diving in the great blue hole,",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 535.1,
+          "endSec": 535.6,
+          "score": 0.99
+        },
+        {
+          "word": "diving",
+          "startSec": 535.6,
+          "endSec": 536.08,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 536.08,
+          "endSec": 536.54,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 536.54,
+          "endSec": 536.68,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 536.68,
+          "endSec": 536.94,
+          "score": 0.68
+        },
+        {
+          "word": "blue",
+          "startSec": 536.94,
+          "endSec": 537.22,
+          "score": 0.86
+        },
+        {
+          "word": "hole,",
+          "startSec": 537.22,
+          "endSec": 537.64,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "start": 538.14,
+      "end": 541.77,
+      "text": "Belize is a place that has something for everyone.",
+      "words": [
+        {
+          "word": "Belize",
+          "startSec": 538.34,
+          "endSec": 538.84,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 538.84,
+          "endSec": 539.12,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 539.12,
+          "endSec": 539.28,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 539.28,
+          "endSec": 539.7,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 539.7,
+          "endSec": 540.02,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 540.02,
+          "endSec": 540.28,
+          "score": 1.0
+        },
+        {
+          "word": "something",
+          "startSec": 540.28,
+          "endSec": 540.64,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 540.64,
+          "endSec": 541.06,
+          "score": 1.0
+        },
+        {
+          "word": "everyone.",
+          "startSec": 541.06,
+          "endSec": 541.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "start": 543.04,
+      "end": 545.71,
+      "text": "Would you like to visit Belize one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 543.24,
+          "endSec": 543.48,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 543.48,
+          "endSec": 543.64,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 543.64,
+          "endSec": 543.84,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 543.84,
+          "endSec": 544.04,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 544.04,
+          "endSec": 544.38,
+          "score": 1.0
+        },
+        {
+          "word": "Belize",
+          "startSec": 544.38,
+          "endSec": 544.88,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 544.88,
+          "endSec": 545.2,
+          "score": 0.9
+        },
+        {
+          "word": "day?",
+          "startSec": 545.2,
+          "endSec": 545.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "start": 546.12,
+      "end": 549.85,
+      "text": "I hope you enjoyed learning about this wonderful country.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 546.32,
+          "endSec": 546.66,
+          "score": 1.0
+        },
+        {
+          "word": "hope",
+          "startSec": 546.66,
+          "endSec": 546.92,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 546.92,
+          "endSec": 547.16,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 547.16,
+          "endSec": 547.44,
+          "score": 0.98
+        },
+        {
+          "word": "learning",
+          "startSec": 547.44,
+          "endSec": 547.96,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 547.96,
+          "endSec": 548.34,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 548.34,
+          "endSec": 548.68,
+          "score": 1.0
+        },
+        {
+          "word": "wonderful",
+          "startSec": 548.68,
+          "endSec": 549.14,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 549.14,
+          "endSec": 549.7,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "start": 554.92,
+      "end": 557.49,
+      "text": "I hope you learned something new today.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 555.12,
+          "endSec": 555.34,
+          "score": 0.99
+        },
+        {
+          "word": "hope",
+          "startSec": 555.34,
+          "endSec": 555.56,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 555.56,
+          "endSec": 555.78,
+          "score": 1.0
+        },
+        {
+          "word": "learned",
+          "startSec": 555.78,
+          "endSec": 556.0,
+          "score": 0.89
+        },
+        {
+          "word": "something",
+          "startSec": 556.0,
+          "endSec": 556.46,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 556.46,
+          "endSec": 556.9,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 556.9,
+          "endSec": 557.34,
           "score": 1.0
         }
       ]

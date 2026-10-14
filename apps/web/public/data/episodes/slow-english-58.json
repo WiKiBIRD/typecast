@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.17,
-      "end": 3.28,
-      "text": "Hello, and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello,",
-          "startSec": 0.37,
-          "endSec": 0.97,
-          "score": 0.84
-        },
-        {
-          "word": "and",
-          "startSec": 0.97,
-          "endSec": 1.31,
-          "score": 0.97
-        },
-        {
-          "word": "welcome",
-          "startSec": 1.31,
-          "endSec": 1.71,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 1.71,
-          "endSec": 1.97,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.97,
-          "endSec": 2.23,
-          "score": 0.65
-        },
-        {
-          "word": "English",
-          "startSec": 2.23,
-          "endSec": 2.65,
-          "score": 0.95
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 2.65,
-          "endSec": 3.13,
-          "score": 0.89
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 4.01,
       "end": 9.24,
       "text": "My name is Amelie, today we will talk about a beautiful island country.",
@@ -150,7 +100,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 9.65,
       "end": 12.1,
       "text": "This country is called Barbados.",
@@ -188,7 +138,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 12.45,
       "end": 15.3,
       "text": "Listen carefully and try to understand.",
@@ -232,7 +182,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 16.11,
       "end": 17.38,
       "text": "I will speak slowly.",
@@ -264,7 +214,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 18.13,
       "end": 19.06,
       "text": "Let's begin.",
@@ -284,7 +234,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 20.07,
       "end": 21.32,
       "text": "Where is Barbados?",
@@ -310,7 +260,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 21.96,
       "end": 24.97,
       "text": "Barbados is a small island country.",
@@ -354,7 +304,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 25.22,
       "end": 27.09,
       "text": "It is in the Caribbean Sea.",
@@ -398,7 +348,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 26.74,
       "end": 31.83,
       "text": "It is east of the Caribbean islands and close to South America.",
@@ -473,6 +423,4096 @@
           "word": "America.",
           "startSec": 31.2,
           "endSec": 31.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 32.44,
+      "end": 34.67,
+      "text": "The country is not very big.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 32.64,
+          "endSec": 32.88,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 32.88,
+          "endSec": 33.18,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 33.18,
+          "endSec": 33.56,
+          "score": 1.0
+        },
+        {
+          "word": "not",
+          "startSec": 33.56,
+          "endSec": 33.78,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 33.78,
+          "endSec": 34.04,
+          "score": 0.99
+        },
+        {
+          "word": "big.",
+          "startSec": 34.04,
+          "endSec": 34.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 35.06,
+      "end": 37.45,
+      "text": "Let me know if you need anything else.",
+      "words": [
+        {
+          "word": "Let",
+          "startSec": 35.26,
+          "endSec": 35.56,
+          "score": 0.99
+        },
+        {
+          "word": "me",
+          "startSec": 35.56,
+          "endSec": 35.74,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 35.74,
+          "endSec": 35.98,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 35.98,
+          "endSec": 36.2,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 36.2,
+          "endSec": 36.34,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 36.34,
+          "endSec": 36.54,
+          "score": 1.0
+        },
+        {
+          "word": "anything",
+          "startSec": 36.54,
+          "endSec": 36.76,
+          "score": 1.0
+        },
+        {
+          "word": "else.",
+          "startSec": 36.76,
+          "endSec": 37.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 39.04,
+      "end": 41.93,
+      "text": "Here is the exact text you requested.",
+      "words": [
+        {
+          "word": "Here",
+          "startSec": 39.24,
+          "endSec": 39.62,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 39.62,
+          "endSec": 39.88,
+          "score": 0.92
+        },
+        {
+          "word": "the",
+          "startSec": 39.88,
+          "endSec": 40.04,
+          "score": 1.0
+        },
+        {
+          "word": "exact",
+          "startSec": 40.04,
+          "endSec": 40.3,
+          "score": 0.99
+        },
+        {
+          "word": "text",
+          "startSec": 40.3,
+          "endSec": 41.1,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 41.1,
+          "endSec": 41.38,
+          "score": 0.99
+        },
+        {
+          "word": "requested.",
+          "startSec": 41.38,
+          "endSec": 41.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 43.3,
+      "end": 47.95,
+      "text": "It is about 34 kilometers long and 23 kilometers wide.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 43.5,
+          "endSec": 43.64,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 43.64,
+          "endSec": 43.82,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 43.82,
+          "endSec": 44.02,
+          "score": 1.0
+        },
+        {
+          "word": "34",
+          "startSec": 44.02,
+          "endSec": 44.58,
+          "score": 0.99
+        },
+        {
+          "word": "kilometers",
+          "startSec": 44.58,
+          "endSec": 45.08,
+          "score": 0.58
+        },
+        {
+          "word": "long",
+          "startSec": 45.08,
+          "endSec": 45.78,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 45.78,
+          "endSec": 46.1,
+          "score": 0.98
+        },
+        {
+          "word": "23",
+          "startSec": 46.1,
+          "endSec": 46.54,
+          "score": 1.0
+        },
+        {
+          "word": "kilometers",
+          "startSec": 46.54,
+          "endSec": 47.14,
+          "score": 0.98
+        },
+        {
+          "word": "wide.",
+          "startSec": 47.14,
+          "endSec": 47.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 48.76,
+      "end": 51.95,
+      "text": "The capital city of Barbados is Bridgestown.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 48.96,
+          "endSec": 49.1,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 49.1,
+          "endSec": 49.46,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 49.46,
+          "endSec": 49.88,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 49.88,
+          "endSec": 50.06,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 50.06,
+          "endSec": 50.7,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 50.7,
+          "endSec": 51.08,
+          "score": 1.0
+        },
+        {
+          "word": "Bridgestown.",
+          "startSec": 51.08,
+          "endSec": 51.8,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 52.78,
+      "end": 58.41,
+      "text": "Many people live in Bridgestown and it is the biggest city in the country.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 52.98,
+          "endSec": 53.56,
+          "score": 0.12
+        },
+        {
+          "word": "people",
+          "startSec": 53.56,
+          "endSec": 54.14,
+          "score": 0.98
+        },
+        {
+          "word": "live",
+          "startSec": 54.14,
+          "endSec": 54.42,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 54.42,
+          "endSec": 54.64,
+          "score": 1.0
+        },
+        {
+          "word": "Bridgestown",
+          "startSec": 54.64,
+          "endSec": 55.34,
+          "score": 0.56
+        },
+        {
+          "word": "and",
+          "startSec": 55.34,
+          "endSec": 56.26,
+          "score": 0.54
+        },
+        {
+          "word": "it",
+          "startSec": 56.26,
+          "endSec": 56.46,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 56.46,
+          "endSec": 56.68,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 56.68,
+          "endSec": 56.8,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 56.8,
+          "endSec": 57.08,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 57.08,
+          "endSec": 57.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 57.5,
+          "endSec": 57.68,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 57.68,
+          "endSec": 57.78,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 57.78,
+          "endSec": 58.26,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 59.17,
+      "end": 61.38,
+      "text": "Barbados has a warm climate.",
+      "words": [
+        {
+          "word": "Barbados",
+          "startSec": 59.37,
+          "endSec": 59.95,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 59.95,
+          "endSec": 60.27,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 60.27,
+          "endSec": 60.45,
+          "score": 1.0
+        },
+        {
+          "word": "warm",
+          "startSec": 60.45,
+          "endSec": 60.75,
+          "score": 1.0
+        },
+        {
+          "word": "climate.",
+          "startSec": 60.75,
+          "endSec": 61.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 61.97,
+      "end": 65.12,
+      "text": "The weather is sunny and hot for most of the year.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 62.17,
+          "endSec": 62.23,
+          "score": 0.98
+        },
+        {
+          "word": "weather",
+          "startSec": 62.23,
+          "endSec": 62.51,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 62.51,
+          "endSec": 62.79,
+          "score": 1.0
+        },
+        {
+          "word": "sunny",
+          "startSec": 62.79,
+          "endSec": 63.09,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 63.09,
+          "endSec": 63.41,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 63.41,
+          "endSec": 63.69,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 63.69,
+          "endSec": 63.97,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 63.97,
+          "endSec": 64.25,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 64.25,
+          "endSec": 64.47,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 64.47,
+          "endSec": 64.63,
+          "score": 1.0
+        },
+        {
+          "word": "year.",
+          "startSec": 64.63,
+          "endSec": 64.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 65.57,
+      "end": 67.5,
+      "text": "It does not get very cold.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 65.77,
+          "endSec": 65.89,
+          "score": 0.99
+        },
+        {
+          "word": "does",
+          "startSec": 65.89,
+          "endSec": 66.07,
+          "score": 0.99
+        },
+        {
+          "word": "not",
+          "startSec": 66.07,
+          "endSec": 66.31,
+          "score": 1.0
+        },
+        {
+          "word": "get",
+          "startSec": 66.31,
+          "endSec": 66.55,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 66.55,
+          "endSec": 66.91,
+          "score": 1.0
+        },
+        {
+          "word": "cold.",
+          "startSec": 66.91,
+          "endSec": 67.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 68.29,
+      "end": 72.4,
+      "text": "Many tourists come to Barbados because of the beautiful weather.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 68.49,
+          "endSec": 68.73,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 68.73,
+          "endSec": 69.25,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 69.25,
+          "endSec": 69.71,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 69.71,
+          "endSec": 69.89,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 69.89,
+          "endSec": 70.41,
+          "score": 1.0
+        },
+        {
+          "word": "because",
+          "startSec": 70.41,
+          "endSec": 70.79,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 70.79,
+          "endSec": 71.31,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 71.31,
+          "endSec": 71.47,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 71.47,
+          "endSec": 71.81,
+          "score": 1.0
+        },
+        {
+          "word": "weather.",
+          "startSec": 71.81,
+          "endSec": 72.25,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 72.91,
+      "end": 76.68,
+      "text": "They enjoy the sun, the beach, and the sea.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 73.11,
+          "endSec": 73.33,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 73.33,
+          "endSec": 73.57,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 73.57,
+          "endSec": 73.91,
+          "score": 1.0
+        },
+        {
+          "word": "sun,",
+          "startSec": 73.91,
+          "endSec": 74.23,
+          "score": 0.85
+        },
+        {
+          "word": "the",
+          "startSec": 74.93,
+          "endSec": 75.01,
+          "score": 1.0
+        },
+        {
+          "word": "beach,",
+          "startSec": 75.01,
+          "endSec": 75.25,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 75.87,
+          "endSec": 76.15,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 76.15,
+          "endSec": 76.33,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 76.33,
+          "endSec": 76.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 78.13,
+      "end": 80.64,
+      "text": "What is Barbados famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 78.33,
+          "endSec": 78.37,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 78.37,
+          "endSec": 78.55,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados",
+          "startSec": 78.55,
+          "endSec": 79.17,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 79.17,
+          "endSec": 79.41,
+          "score": 0.96
+        },
+        {
+          "word": "for?",
+          "startSec": 79.41,
+          "endSec": 80.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 81.02,
+      "end": 84.29,
+      "text": "Barbados is famous for its beautiful beaches.",
+      "words": [
+        {
+          "word": "Barbados",
+          "startSec": 81.22,
+          "endSec": 81.84,
+          "score": 0.91
+        },
+        {
+          "word": "is",
+          "startSec": 81.84,
+          "endSec": 82.2,
+          "score": 0.95
+        },
+        {
+          "word": "famous",
+          "startSec": 82.2,
+          "endSec": 82.56,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 82.56,
+          "endSec": 83.08,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 83.08,
+          "endSec": 83.26,
+          "score": 0.94
+        },
+        {
+          "word": "beautiful",
+          "startSec": 83.26,
+          "endSec": 83.62,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 83.62,
+          "endSec": 84.14,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 85.24,
+      "end": 89.87,
+      "text": "The water is blue and clear, the sand is soft and white.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 85.44,
+          "endSec": 85.56,
+          "score": 0.98
+        },
+        {
+          "word": "water",
+          "startSec": 85.56,
+          "endSec": 85.84,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 85.84,
+          "endSec": 86.3,
+          "score": 1.0
+        },
+        {
+          "word": "blue",
+          "startSec": 86.3,
+          "endSec": 86.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 86.64,
+          "endSec": 86.94,
+          "score": 1.0
+        },
+        {
+          "word": "clear,",
+          "startSec": 86.94,
+          "endSec": 87.3,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 87.78,
+          "endSec": 87.88,
+          "score": 0.99
+        },
+        {
+          "word": "sand",
+          "startSec": 87.88,
+          "endSec": 88.2,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 88.2,
+          "endSec": 88.48,
+          "score": 1.0
+        },
+        {
+          "word": "soft",
+          "startSec": 88.48,
+          "endSec": 88.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 88.94,
+          "endSec": 89.34,
+          "score": 0.99
+        },
+        {
+          "word": "white.",
+          "startSec": 89.34,
+          "endSec": 89.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 90.88,
+      "end": 93.41,
+      "text": "Many people go to Barbados for a holiday.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 91.08,
+          "endSec": 91.08,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 91.08,
+          "endSec": 91.56,
+          "score": 0.98
+        },
+        {
+          "word": "go",
+          "startSec": 91.56,
+          "endSec": 91.8,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 91.8,
+          "endSec": 91.92,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 91.92,
+          "endSec": 92.5,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 92.5,
+          "endSec": 92.8,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 92.8,
+          "endSec": 92.94,
+          "score": 1.0
+        },
+        {
+          "word": "holiday.",
+          "startSec": 92.94,
+          "endSec": 93.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 94.77,
+      "end": 97.02,
+      "text": "Let me know if you need anything else.",
+      "words": [
+        {
+          "word": "Let",
+          "startSec": 94.97,
+          "endSec": 95.17,
+          "score": 0.99
+        },
+        {
+          "word": "me",
+          "startSec": 95.17,
+          "endSec": 95.35,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 95.35,
+          "endSec": 95.59,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 95.59,
+          "endSec": 95.79,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 95.79,
+          "endSec": 95.89,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 95.89,
+          "endSec": 96.09,
+          "score": 1.0
+        },
+        {
+          "word": "anything",
+          "startSec": 96.09,
+          "endSec": 96.33,
+          "score": 1.0
+        },
+        {
+          "word": "else.",
+          "startSec": 96.33,
+          "endSec": 96.87,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 97.72,
+      "end": 100.69,
+      "text": "Here is the exact text you requested.",
+      "words": [
+        {
+          "word": "Here",
+          "startSec": 97.92,
+          "endSec": 98.28,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 98.28,
+          "endSec": 98.66,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 98.66,
+          "endSec": 98.86,
+          "score": 1.0
+        },
+        {
+          "word": "exact",
+          "startSec": 98.86,
+          "endSec": 99.14,
+          "score": 0.99
+        },
+        {
+          "word": "text",
+          "startSec": 99.14,
+          "endSec": 99.8,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 99.8,
+          "endSec": 100.2,
+          "score": 0.99
+        },
+        {
+          "word": "requested.",
+          "startSec": 100.2,
+          "endSec": 100.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 101.5,
+      "end": 106.17,
+      "text": "They swim in the sea, relax on the beach, and enjoy the sunshine.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 101.7,
+          "endSec": 101.8,
+          "score": 0.93
+        },
+        {
+          "word": "swim",
+          "startSec": 101.8,
+          "endSec": 102.1,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 102.1,
+          "endSec": 102.38,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 102.38,
+          "endSec": 102.52,
+          "score": 1.0
+        },
+        {
+          "word": "sea,",
+          "startSec": 102.52,
+          "endSec": 102.84,
+          "score": 1.0
+        },
+        {
+          "word": "relax",
+          "startSec": 103.5,
+          "endSec": 103.76,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 103.76,
+          "endSec": 104.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 104.22,
+          "endSec": 104.38,
+          "score": 1.0
+        },
+        {
+          "word": "beach,",
+          "startSec": 104.38,
+          "endSec": 104.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 105.06,
+          "endSec": 105.14,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 105.14,
+          "endSec": 105.44,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 105.44,
+          "endSec": 105.74,
+          "score": 1.0
+        },
+        {
+          "word": "sunshine.",
+          "startSec": 105.74,
+          "endSec": 106.02,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 106.86,
+      "end": 109.29,
+      "text": "Some people also do water sports.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 107.06,
+          "endSec": 107.52,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 107.52,
+          "endSec": 107.86,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 107.86,
+          "endSec": 108.12,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 108.12,
+          "endSec": 108.5,
+          "score": 1.0
+        },
+        {
+          "word": "water",
+          "startSec": 108.5,
+          "endSec": 108.74,
+          "score": 0.95
+        },
+        {
+          "word": "sports.",
+          "startSec": 108.74,
+          "endSec": 109.14,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 109.48,
+      "end": 112.27,
+      "text": "They surf, dive, and go on boat trips.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 109.68,
+          "endSec": 110.04,
+          "score": 0.25
+        },
+        {
+          "word": "surf,",
+          "startSec": 110.04,
+          "endSec": 110.4,
+          "score": 0.95
+        },
+        {
+          "word": "dive,",
+          "startSec": 110.6,
+          "endSec": 110.88,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 111.06,
+          "endSec": 111.24,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 111.24,
+          "endSec": 111.4,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 111.4,
+          "endSec": 111.58,
+          "score": 0.99
+        },
+        {
+          "word": "boat",
+          "startSec": 111.58,
+          "endSec": 111.76,
+          "score": 0.99
+        },
+        {
+          "word": "trips.",
+          "startSec": 111.76,
+          "endSec": 112.12,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 113.12,
+      "end": 116.33,
+      "text": "Barbados is also famous for its music.",
+      "words": [
+        {
+          "word": "Barbados",
+          "startSec": 113.32,
+          "endSec": 114.04,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 114.04,
+          "endSec": 114.34,
+          "score": 0.97
+        },
+        {
+          "word": "also",
+          "startSec": 114.34,
+          "endSec": 114.74,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 114.74,
+          "endSec": 115.4,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 115.4,
+          "endSec": 115.8,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 115.8,
+          "endSec": 115.94,
+          "score": 0.94
+        },
+        {
+          "word": "music.",
+          "startSec": 115.94,
+          "endSec": 116.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 117.12,
+      "end": 120.83,
+      "text": "The people love to listen to Calypso and reggae music.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 117.32,
+          "endSec": 117.46,
+          "score": 0.96
+        },
+        {
+          "word": "people",
+          "startSec": 117.46,
+          "endSec": 117.84,
+          "score": 1.0
+        },
+        {
+          "word": "love",
+          "startSec": 117.84,
+          "endSec": 118.18,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 118.18,
+          "endSec": 118.42,
+          "score": 1.0
+        },
+        {
+          "word": "listen",
+          "startSec": 118.42,
+          "endSec": 118.82,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 118.82,
+          "endSec": 119.06,
+          "score": 1.0
+        },
+        {
+          "word": "Calypso",
+          "startSec": 119.06,
+          "endSec": 119.72,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "startSec": 119.72,
+          "endSec": 120.02,
+          "score": 0.99
+        },
+        {
+          "word": "reggae",
+          "startSec": 120.02,
+          "endSec": 120.46,
+          "score": 0.9
+        },
+        {
+          "word": "music.",
+          "startSec": 120.46,
+          "endSec": 120.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 121.57,
+      "end": 124.38,
+      "text": "These types of music make people happy.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 121.77,
+          "endSec": 121.95,
+          "score": 1.0
+        },
+        {
+          "word": "types",
+          "startSec": 121.95,
+          "endSec": 122.29,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 122.29,
+          "endSec": 122.61,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 122.61,
+          "endSec": 122.99,
+          "score": 1.0
+        },
+        {
+          "word": "make",
+          "startSec": 122.99,
+          "endSec": 123.45,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 123.45,
+          "endSec": 123.79,
+          "score": 1.0
+        },
+        {
+          "word": "happy.",
+          "startSec": 123.79,
+          "endSec": 124.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 125.16,
+      "end": 129.99,
+      "text": "There are many festivals in Barbados with music, dance, and fun.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 125.36,
+          "endSec": 125.52,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 125.52,
+          "endSec": 125.68,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 125.68,
+          "endSec": 125.94,
+          "score": 1.0
+        },
+        {
+          "word": "festivals",
+          "startSec": 125.94,
+          "endSec": 126.64,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 126.64,
+          "endSec": 127.08,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados",
+          "startSec": 127.08,
+          "endSec": 127.78,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 127.78,
+          "endSec": 128.1,
+          "score": 0.94
+        },
+        {
+          "word": "music,",
+          "startSec": 128.1,
+          "endSec": 128.34,
+          "score": 1.0
+        },
+        {
+          "word": "dance,",
+          "startSec": 128.84,
+          "endSec": 129.0,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 129.46,
+          "endSec": 129.6,
+          "score": 1.0
+        },
+        {
+          "word": "fun.",
+          "startSec": 129.6,
+          "endSec": 129.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 130.7,
+      "end": 134.39,
+      "text": "A very famous singer from Barbados is Rihanna.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 130.9,
+          "endSec": 131.06,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 131.06,
+          "endSec": 131.3,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 131.3,
+          "endSec": 131.8,
+          "score": 1.0
+        },
+        {
+          "word": "singer",
+          "startSec": 131.8,
+          "endSec": 132.18,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 132.18,
+          "endSec": 132.6,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 132.6,
+          "endSec": 133.3,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 133.3,
+          "endSec": 133.7,
+          "score": 0.95
+        },
+        {
+          "word": "Rihanna.",
+          "startSec": 133.7,
+          "endSec": 134.24,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 134.89,
+      "end": 139.82,
+      "text": "She is a pop star, and people all over the world know her songs.",
+      "words": [
+        {
+          "word": "She",
+          "startSec": 135.09,
+          "endSec": 135.43,
+          "score": 0.49
+        },
+        {
+          "word": "is",
+          "startSec": 135.43,
+          "endSec": 135.61,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 135.61,
+          "endSec": 135.71,
+          "score": 0.99
+        },
+        {
+          "word": "pop",
+          "startSec": 135.71,
+          "endSec": 135.89,
+          "score": 0.91
+        },
+        {
+          "word": "star,",
+          "startSec": 135.89,
+          "endSec": 136.33,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 136.77,
+          "endSec": 137.01,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 137.01,
+          "endSec": 137.41,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 137.41,
+          "endSec": 137.83,
+          "score": 0.99
+        },
+        {
+          "word": "over",
+          "startSec": 137.83,
+          "endSec": 138.17,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 138.17,
+          "endSec": 138.29,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "startSec": 138.29,
+          "endSec": 138.63,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 138.63,
+          "endSec": 138.97,
+          "score": 1.0
+        },
+        {
+          "word": "her",
+          "startSec": 138.97,
+          "endSec": 139.23,
+          "score": 1.0
+        },
+        {
+          "word": "songs.",
+          "startSec": 139.23,
+          "endSec": 139.67,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 140.6,
+      "end": 142.21,
+      "text": "Food in Barbados.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 140.8,
+          "endSec": 141.22,
+          "score": 0.29
+        },
+        {
+          "word": "in",
+          "startSec": 141.22,
+          "endSec": 141.42,
+          "score": 0.69
+        },
+        {
+          "word": "Barbados.",
+          "startSec": 141.42,
+          "endSec": 142.06,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 142.4,
+      "end": 144.87,
+      "text": "The food in Barbados is very delicious.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 142.6,
+          "endSec": 142.62,
+          "score": 0.95
+        },
+        {
+          "word": "food",
+          "startSec": 142.62,
+          "endSec": 142.86,
+          "score": 0.76
+        },
+        {
+          "word": "in",
+          "startSec": 142.86,
+          "endSec": 143.1,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados",
+          "startSec": 143.1,
+          "endSec": 143.7,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 143.7,
+          "endSec": 143.94,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 143.94,
+          "endSec": 144.24,
+          "score": 1.0
+        },
+        {
+          "word": "delicious.",
+          "startSec": 144.24,
+          "endSec": 144.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 145.58,
+      "end": 148.59,
+      "text": "Many dishes have fish, rice, and vegetables.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 145.78,
+          "endSec": 145.94,
+          "score": 0.98
+        },
+        {
+          "word": "dishes",
+          "startSec": 145.94,
+          "endSec": 146.34,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 146.34,
+          "endSec": 146.82,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 146.82,
+          "endSec": 147.18,
+          "score": 0.99
+        },
+        {
+          "word": "rice,",
+          "startSec": 147.38,
+          "endSec": 147.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 148.08,
+          "endSec": 148.14,
+          "score": 1.0
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 148.14,
+          "endSec": 148.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 149.78,
+      "end": 153.47,
+      "text": "One popular dish is flying fish and cuckoo.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 149.98,
+          "endSec": 150.0,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 150.0,
+          "endSec": 150.42,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 150.42,
+          "endSec": 151.02,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 151.02,
+          "endSec": 151.3,
+          "score": 1.0
+        },
+        {
+          "word": "flying",
+          "startSec": 151.3,
+          "endSec": 151.62,
+          "score": 0.51
+        },
+        {
+          "word": "fish",
+          "startSec": 151.62,
+          "endSec": 152.16,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 152.16,
+          "endSec": 152.7,
+          "score": 0.89
+        },
+        {
+          "word": "cuckoo.",
+          "startSec": 152.7,
+          "endSec": 153.32,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 154.13,
+      "end": 157.42,
+      "text": "Flying fish is a special fish in Barbados.",
+      "words": [
+        {
+          "word": "Flying",
+          "startSec": 154.33,
+          "endSec": 154.61,
+          "score": 0.99
+        },
+        {
+          "word": "fish",
+          "startSec": 154.61,
+          "endSec": 155.07,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 155.07,
+          "endSec": 155.47,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 155.47,
+          "endSec": 155.63,
+          "score": 0.98
+        },
+        {
+          "word": "special",
+          "startSec": 155.63,
+          "endSec": 155.91,
+          "score": 1.0
+        },
+        {
+          "word": "fish",
+          "startSec": 155.91,
+          "endSec": 156.45,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 156.45,
+          "endSec": 156.67,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados.",
+          "startSec": 156.67,
+          "endSec": 157.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 157.93,
+      "end": 161.6,
+      "text": "People cook it with spices and serve it with cuckoo.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 158.13,
+          "endSec": 158.41,
+          "score": 0.99
+        },
+        {
+          "word": "cook",
+          "startSec": 158.41,
+          "endSec": 158.73,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 158.73,
+          "endSec": 158.97,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 158.97,
+          "endSec": 159.15,
+          "score": 1.0
+        },
+        {
+          "word": "spices",
+          "startSec": 159.15,
+          "endSec": 159.49,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 159.49,
+          "endSec": 160.21,
+          "score": 0.87
+        },
+        {
+          "word": "serve",
+          "startSec": 160.21,
+          "endSec": 160.49,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 160.49,
+          "endSec": 160.73,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 160.73,
+          "endSec": 160.89,
+          "score": 1.0
+        },
+        {
+          "word": "cuckoo.",
+          "startSec": 160.89,
+          "endSec": 161.45,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 161.97,
+      "end": 165.0,
+      "text": "Cuckoo is made with cornmeal and okra.",
+      "words": [
+        {
+          "word": "Cuckoo",
+          "startSec": 162.17,
+          "endSec": 162.79,
+          "score": 0.54
+        },
+        {
+          "word": "is",
+          "startSec": 162.79,
+          "endSec": 163.01,
+          "score": 0.89
+        },
+        {
+          "word": "made",
+          "startSec": 163.01,
+          "endSec": 163.23,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 163.23,
+          "endSec": 163.49,
+          "score": 0.99
+        },
+        {
+          "word": "cornmeal",
+          "startSec": 163.49,
+          "endSec": 164.15,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 164.15,
+          "endSec": 164.33,
+          "score": 0.99
+        },
+        {
+          "word": "okra.",
+          "startSec": 164.33,
+          "endSec": 164.85,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 165.31,
+      "end": 166.92,
+      "text": "It is soft and tasty.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 165.51,
+          "endSec": 165.61,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 165.61,
+          "endSec": 165.75,
+          "score": 0.99
+        },
+        {
+          "word": "soft",
+          "startSec": 165.75,
+          "endSec": 166.13,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 166.13,
+          "endSec": 166.47,
+          "score": 0.99
+        },
+        {
+          "word": "tasty.",
+          "startSec": 166.47,
+          "endSec": 166.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 167.73,
+      "end": 170.64,
+      "text": "Another popular dish is macaroni pie.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 167.93,
+          "endSec": 168.25,
+          "score": 0.96
+        },
+        {
+          "word": "popular",
+          "startSec": 168.25,
+          "endSec": 168.69,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 168.69,
+          "endSec": 169.33,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 169.33,
+          "endSec": 169.49,
+          "score": 1.0
+        },
+        {
+          "word": "macaroni",
+          "startSec": 169.49,
+          "endSec": 170.25,
+          "score": 0.96
+        },
+        {
+          "word": "pie.",
+          "startSec": 170.25,
+          "endSec": 170.49,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 171.31,
+      "end": 173.62,
+      "text": "It is like baked pasta with cheese.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 171.51,
+          "endSec": 171.61,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 171.61,
+          "endSec": 171.75,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 171.75,
+          "endSec": 171.99,
+          "score": 0.64
+        },
+        {
+          "word": "baked",
+          "startSec": 171.99,
+          "endSec": 172.25,
+          "score": 0.99
+        },
+        {
+          "word": "pasta",
+          "startSec": 172.25,
+          "endSec": 172.75,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 172.75,
+          "endSec": 173.17,
+          "score": 1.0
+        },
+        {
+          "word": "cheese.",
+          "startSec": 173.17,
+          "endSec": 173.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 174.11,
+      "end": 176.52,
+      "text": "It is very creamy and delicious.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 174.31,
+          "endSec": 174.47,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 174.47,
+          "endSec": 174.61,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 174.61,
+          "endSec": 174.91,
+          "score": 0.99
+        },
+        {
+          "word": "creamy",
+          "startSec": 174.91,
+          "endSec": 175.41,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 175.41,
+          "endSec": 175.97,
+          "score": 0.99
+        },
+        {
+          "word": "delicious.",
+          "startSec": 175.97,
+          "endSec": 176.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 177.35,
+      "end": 179.8,
+      "text": "Let me know if you need anything else.",
+      "words": [
+        {
+          "word": "Let",
+          "startSec": 177.55,
+          "endSec": 177.81,
+          "score": 0.99
+        },
+        {
+          "word": "me",
+          "startSec": 177.81,
+          "endSec": 177.97,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 177.97,
+          "endSec": 178.27,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 178.27,
+          "endSec": 178.49,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 178.49,
+          "endSec": 178.61,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 178.61,
+          "endSec": 178.85,
+          "score": 1.0
+        },
+        {
+          "word": "anything",
+          "startSec": 178.85,
+          "endSec": 179.09,
+          "score": 1.0
+        },
+        {
+          "word": "else.",
+          "startSec": 179.09,
+          "endSec": 179.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 181.24,
+      "end": 183.85,
+      "text": "Here is the exact text you requested.",
+      "words": [
+        {
+          "word": "Here",
+          "startSec": 181.44,
+          "endSec": 181.82,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 181.82,
+          "endSec": 182.06,
+          "score": 0.85
+        },
+        {
+          "word": "the",
+          "startSec": 182.06,
+          "endSec": 182.22,
+          "score": 1.0
+        },
+        {
+          "word": "exact",
+          "startSec": 182.22,
+          "endSec": 182.46,
+          "score": 0.99
+        },
+        {
+          "word": "text",
+          "startSec": 182.46,
+          "endSec": 182.98,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 182.98,
+          "endSec": 183.32,
+          "score": 1.0
+        },
+        {
+          "word": "requested.",
+          "startSec": 183.32,
+          "endSec": 183.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 184.85,
+      "end": 188.6,
+      "text": "People in Barbados also eat a lot of fresh fruit.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 185.05,
+          "endSec": 185.47,
+          "score": 0.9
+        },
+        {
+          "word": "in",
+          "startSec": 185.47,
+          "endSec": 185.73,
+          "score": 0.98
+        },
+        {
+          "word": "Barbados",
+          "startSec": 185.73,
+          "endSec": 186.35,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 186.35,
+          "endSec": 186.75,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 186.75,
+          "endSec": 187.23,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 187.23,
+          "endSec": 187.35,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 187.35,
+          "endSec": 187.57,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 187.57,
+          "endSec": 187.71,
+          "score": 1.0
+        },
+        {
+          "word": "fresh",
+          "startSec": 187.71,
+          "endSec": 187.99,
+          "score": 1.0
+        },
+        {
+          "word": "fruit.",
+          "startSec": 187.99,
+          "endSec": 188.45,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 188.89,
+      "end": 192.56,
+      "text": "They eat mangoes, bananas, and pineapples.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 189.09,
+          "endSec": 189.43,
+          "score": 0.82
+        },
+        {
+          "word": "eat",
+          "startSec": 189.43,
+          "endSec": 189.73,
+          "score": 1.0
+        },
+        {
+          "word": "mangoes,",
+          "startSec": 189.73,
+          "endSec": 190.77,
+          "score": 0.91
+        },
+        {
+          "word": "bananas,",
+          "startSec": 190.87,
+          "endSec": 191.13,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 191.39,
+          "endSec": 191.63,
+          "score": 0.99
+        },
+        {
+          "word": "pineapples.",
+          "startSec": 191.63,
+          "endSec": 192.41,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 192.85,
+      "end": 195.14,
+      "text": "These fruits are sweet and juicy.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 193.05,
+          "endSec": 193.33,
+          "score": 0.99
+        },
+        {
+          "word": "fruits",
+          "startSec": 193.33,
+          "endSec": 193.65,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 193.65,
+          "endSec": 193.95,
+          "score": 1.0
+        },
+        {
+          "word": "sweet",
+          "startSec": 193.95,
+          "endSec": 194.37,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 194.37,
+          "endSec": 194.71,
+          "score": 0.99
+        },
+        {
+          "word": "juicy.",
+          "startSec": 194.71,
+          "endSec": 194.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 195.77,
+      "end": 196.9,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "startSec": 195.97,
+          "endSec": 196.03,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 196.03,
+          "endSec": 196.39,
+          "score": 0.98
+        },
+        {
+          "word": "people.",
+          "startSec": 196.39,
+          "endSec": 196.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 197.33,
+      "end": 199.64,
+      "text": "The people in Barbados are friendly.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 197.53,
+          "endSec": 197.75,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 197.75,
+          "endSec": 198.07,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 198.07,
+          "endSec": 198.31,
+          "score": 0.98
+        },
+        {
+          "word": "Barbados",
+          "startSec": 198.31,
+          "endSec": 198.83,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 198.83,
+          "endSec": 199.13,
+          "score": 1.0
+        },
+        {
+          "word": "friendly.",
+          "startSec": 199.13,
+          "endSec": 199.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 200.11,
+      "end": 202.56,
+      "text": "They smile a lot and like to talk.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 200.31,
+          "endSec": 200.37,
+          "score": 1.0
+        },
+        {
+          "word": "smile",
+          "startSec": 200.37,
+          "endSec": 200.75,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 200.75,
+          "endSec": 201.17,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 201.17,
+          "endSec": 201.41,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 201.41,
+          "endSec": 201.65,
+          "score": 0.97
+        },
+        {
+          "word": "like",
+          "startSec": 201.65,
+          "endSec": 201.87,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 201.87,
+          "endSec": 202.07,
+          "score": 1.0
+        },
+        {
+          "word": "talk.",
+          "startSec": 202.07,
+          "endSec": 202.41,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 203.32,
+      "end": 207.61,
+      "text": "They speak English, but their English has a special accent.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 203.52,
+          "endSec": 203.68,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 203.68,
+          "endSec": 203.98,
+          "score": 1.0
+        },
+        {
+          "word": "English,",
+          "startSec": 203.98,
+          "endSec": 204.6,
+          "score": 0.99
+        },
+        {
+          "word": "but",
+          "startSec": 205.2,
+          "endSec": 205.68,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 205.68,
+          "endSec": 205.86,
+          "score": 0.99
+        },
+        {
+          "word": "English",
+          "startSec": 205.86,
+          "endSec": 206.26,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 206.26,
+          "endSec": 206.52,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 206.52,
+          "endSec": 206.68,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 206.68,
+          "endSec": 207.06,
+          "score": 1.0
+        },
+        {
+          "word": "accent.",
+          "startSec": 207.06,
+          "endSec": 207.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 208.47,
+      "end": 211.38,
+      "text": "This accent is called Beijing English.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 208.67,
+          "endSec": 208.93,
+          "score": 1.0
+        },
+        {
+          "word": "accent",
+          "startSec": 208.93,
+          "endSec": 209.25,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 209.25,
+          "endSec": 209.65,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 209.65,
+          "endSec": 209.93,
+          "score": 1.0
+        },
+        {
+          "word": "Beijing",
+          "startSec": 209.93,
+          "endSec": 210.43,
+          "score": 0.08
+        },
+        {
+          "word": "English.",
+          "startSec": 210.43,
+          "endSec": 211.23,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 211.79,
+      "end": 215.34,
+      "text": "Sometimes it is a little different from standard English,",
+      "words": [
+        {
+          "word": "Sometimes",
+          "startSec": 211.99,
+          "endSec": 212.67,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 212.67,
+          "endSec": 213.17,
+          "score": 0.82
+        },
+        {
+          "word": "is",
+          "startSec": 213.17,
+          "endSec": 213.27,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 213.27,
+          "endSec": 213.41,
+          "score": 1.0
+        },
+        {
+          "word": "little",
+          "startSec": 213.41,
+          "endSec": 213.63,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 213.63,
+          "endSec": 214.03,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 214.03,
+          "endSec": 214.35,
+          "score": 1.0
+        },
+        {
+          "word": "standard",
+          "startSec": 214.35,
+          "endSec": 214.59,
+          "score": 0.88
+        },
+        {
+          "word": "English,",
+          "startSec": 214.59,
+          "endSec": 215.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 215.52,
+      "end": 218.32,
+      "text": "but it is still easy to understand.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 215.72,
+          "endSec": 216.15,
+          "score": 0.21
+        },
+        {
+          "word": "it",
+          "startSec": 216.15,
+          "endSec": 216.33,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 216.33,
+          "endSec": 216.49,
+          "score": 0.99
+        },
+        {
+          "word": "still",
+          "startSec": 216.49,
+          "endSec": 216.79,
+          "score": 1.0
+        },
+        {
+          "word": "easy",
+          "startSec": 216.79,
+          "endSec": 217.27,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 217.27,
+          "endSec": 217.47,
+          "score": 1.0
+        },
+        {
+          "word": "understand.",
+          "startSec": 217.47,
+          "endSec": 218.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 219.62,
+      "end": 225.05,
+      "text": "Every year, Barbados has a big festival called Crop Over.",
+      "words": [
+        {
+          "word": "Every",
+          "startSec": 219.82,
+          "endSec": 220.26,
+          "score": 0.98
+        },
+        {
+          "word": "year,",
+          "startSec": 220.26,
+          "endSec": 220.7,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 221.4,
+          "endSec": 222.06,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 222.06,
+          "endSec": 222.4,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 222.4,
+          "endSec": 222.64,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 222.64,
+          "endSec": 222.9,
+          "score": 1.0
+        },
+        {
+          "word": "festival",
+          "startSec": 222.9,
+          "endSec": 223.46,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 223.46,
+          "endSec": 224.02,
+          "score": 1.0
+        },
+        {
+          "word": "Crop",
+          "startSec": 224.02,
+          "endSec": 224.46,
+          "score": 0.85
+        },
+        {
+          "word": "Over.",
+          "startSec": 224.46,
+          "endSec": 224.9,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 225.8,
+      "end": 228.27,
+      "text": "This festival happens in the summer.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 226.0,
+          "endSec": 226.34,
+          "score": 0.98
+        },
+        {
+          "word": "festival",
+          "startSec": 226.34,
+          "endSec": 226.86,
+          "score": 0.99
+        },
+        {
+          "word": "happens",
+          "startSec": 226.86,
+          "endSec": 227.26,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 227.26,
+          "endSec": 227.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 227.66,
+          "endSec": 227.78,
+          "score": 1.0
+        },
+        {
+          "word": "summer.",
+          "startSec": 227.78,
+          "endSec": 228.12,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 228.92,
+      "end": 231.15,
+      "text": "People wear colorful clothes,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 229.12,
+          "endSec": 229.48,
+          "score": 0.99
+        },
+        {
+          "word": "wear",
+          "startSec": 229.48,
+          "endSec": 229.82,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 229.82,
+          "endSec": 230.28,
+          "score": 0.99
+        },
+        {
+          "word": "clothes,",
+          "startSec": 230.28,
+          "endSec": 231.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 231.31,
+      "end": 233.99,
+      "text": "dance in the streets, and play music.",
+      "words": [
+        {
+          "word": "dance",
+          "startSec": 231.51,
+          "endSec": 231.94,
+          "score": 0.88
+        },
+        {
+          "word": "in",
+          "startSec": 231.94,
+          "endSec": 232.26,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 232.26,
+          "endSec": 232.4,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 232.4,
+          "endSec": 232.8,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 232.8,
+          "endSec": 233.24,
+          "score": 1.0
+        },
+        {
+          "word": "play",
+          "startSec": 233.24,
+          "endSec": 233.5,
+          "score": 1.0
+        },
+        {
+          "word": "music.",
+          "startSec": 233.5,
+          "endSec": 233.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 234.71,
+      "end": 237.28,
+      "text": "It is a time for fun and celebration.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 234.91,
+          "endSec": 235.09,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 235.09,
+          "endSec": 235.23,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 235.23,
+          "endSec": 235.37,
+          "score": 0.9
+        },
+        {
+          "word": "time",
+          "startSec": 235.37,
+          "endSec": 235.69,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 235.69,
+          "endSec": 235.93,
+          "score": 1.0
+        },
+        {
+          "word": "fun",
+          "startSec": 235.93,
+          "endSec": 236.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 236.35,
+          "endSec": 236.63,
+          "score": 1.0
+        },
+        {
+          "word": "celebration.",
+          "startSec": 236.63,
+          "endSec": 237.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 238.89,
+      "end": 243.02,
+      "text": "Many tourists come to Barbados to see this festival.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 239.09,
+          "endSec": 239.45,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 239.45,
+          "endSec": 239.97,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 239.97,
+          "endSec": 240.47,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 240.47,
+          "endSec": 240.65,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 240.65,
+          "endSec": 241.27,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 241.27,
+          "endSec": 241.73,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 241.73,
+          "endSec": 242.03,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 242.03,
+          "endSec": 242.31,
+          "score": 1.0
+        },
+        {
+          "word": "festival.",
+          "startSec": 242.31,
+          "endSec": 242.87,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 244.06,
+      "end": 245.69,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 244.26,
+          "endSec": 244.88,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 244.88,
+          "endSec": 245.1,
+          "score": 0.99
+        },
+        {
+          "word": "animals.",
+          "startSec": 245.1,
+          "endSec": 245.54,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 246.22,
+      "end": 248.47,
+      "text": "Barbados has beautiful nature.",
+      "words": [
+        {
+          "word": "Barbados",
+          "startSec": 246.42,
+          "endSec": 247.18,
+          "score": 0.7
+        },
+        {
+          "word": "has",
+          "startSec": 247.18,
+          "endSec": 247.42,
+          "score": 0.61
+        },
+        {
+          "word": "beautiful",
+          "startSec": 247.42,
+          "endSec": 247.8,
+          "score": 0.99
+        },
+        {
+          "word": "nature.",
+          "startSec": 247.8,
+          "endSec": 248.32,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 248.92,
+      "end": 251.19,
+      "text": "There are many green forests and gardens.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 249.12,
+          "endSec": 249.22,
+          "score": 0.95
+        },
+        {
+          "word": "are",
+          "startSec": 249.22,
+          "endSec": 249.38,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 249.38,
+          "endSec": 249.58,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 249.58,
+          "endSec": 249.92,
+          "score": 0.96
+        },
+        {
+          "word": "forests",
+          "startSec": 249.92,
+          "endSec": 250.46,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 250.46,
+          "endSec": 250.8,
+          "score": 1.0
+        },
+        {
+          "word": "gardens.",
+          "startSec": 250.8,
+          "endSec": 251.04,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 251.92,
+      "end": 255.33,
+      "text": "You can see tropical flowers and tall palm trees.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 252.12,
+          "endSec": 252.3,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 252.3,
+          "endSec": 252.48,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 252.48,
+          "endSec": 252.7,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 252.7,
+          "endSec": 253.1,
+          "score": 0.99
+        },
+        {
+          "word": "flowers",
+          "startSec": 253.1,
+          "endSec": 253.66,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 253.66,
+          "endSec": 254.16,
+          "score": 0.97
+        },
+        {
+          "word": "tall",
+          "startSec": 254.16,
+          "endSec": 254.38,
+          "score": 0.98
+        },
+        {
+          "word": "palm",
+          "startSec": 254.38,
+          "endSec": 254.66,
+          "score": 0.99
+        },
+        {
+          "word": "trees.",
+          "startSec": 254.66,
+          "endSec": 255.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 255.78,
+      "end": 258.35,
+      "text": "The island is home to many animals.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 255.98,
+          "endSec": 256.1,
+          "score": 0.99
+        },
+        {
+          "word": "island",
+          "startSec": 256.1,
+          "endSec": 256.46,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 256.46,
+          "endSec": 256.78,
+          "score": 1.0
+        },
+        {
+          "word": "home",
+          "startSec": 256.78,
+          "endSec": 257.06,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 257.06,
+          "endSec": 257.34,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 257.34,
+          "endSec": 257.58,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 257.58,
+          "endSec": 258.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 258.92,
+      "end": 262.89,
+      "text": "One special animal in Barbados is the green monkey.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 259.12,
+          "endSec": 259.58,
+          "score": 0.99
+        },
+        {
+          "word": "special",
+          "startSec": 259.58,
+          "endSec": 260.0,
+          "score": 1.0
+        },
+        {
+          "word": "animal",
+          "startSec": 260.0,
+          "endSec": 260.62,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 260.62,
+          "endSec": 260.88,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados",
+          "startSec": 260.88,
+          "endSec": 261.5,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 261.5,
+          "endSec": 261.86,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 261.86,
+          "endSec": 262.08,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 262.08,
+          "endSec": 262.34,
+          "score": 0.88
+        },
+        {
+          "word": "monkey.",
+          "startSec": 262.34,
+          "endSec": 262.74,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 263.24,
+      "end": 266.13,
+      "text": "These monkeys are small and playful.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 263.44,
+          "endSec": 263.8,
+          "score": 1.0
+        },
+        {
+          "word": "monkeys",
+          "startSec": 263.8,
+          "endSec": 264.18,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 264.18,
+          "endSec": 264.74,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 264.74,
+          "endSec": 265.12,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 265.12,
+          "endSec": 265.64,
+          "score": 1.0
+        },
+        {
+          "word": "playful.",
+          "startSec": 265.64,
+          "endSec": 265.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 266.7,
+      "end": 270.79,
+      "text": "They live in trees and sometimes come to people's gardens.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 266.9,
+          "endSec": 267.1,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 267.1,
+          "endSec": 267.32,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 267.32,
+          "endSec": 267.58,
+          "score": 1.0
+        },
+        {
+          "word": "trees",
+          "startSec": 267.58,
+          "endSec": 267.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 267.98,
+          "endSec": 268.68,
+          "score": 0.88
+        },
+        {
+          "word": "sometimes",
+          "startSec": 268.68,
+          "endSec": 269.22,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 269.22,
+          "endSec": 269.6,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 269.6,
+          "endSec": 269.82,
+          "score": 1.0
+        },
+        {
+          "word": "people's",
+          "startSec": 269.82,
+          "endSec": 270.34,
+          "score": 0.96
+        },
+        {
+          "word": "gardens.",
+          "startSec": 270.34,
+          "endSec": 270.64,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 271.48,
+      "end": 273.45,
+      "text": "Barbados also has caves.",
+      "words": [
+        {
+          "word": "Barbados",
+          "startSec": 271.68,
+          "endSec": 272.24,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 272.24,
+          "endSec": 272.54,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 272.54,
+          "endSec": 272.96,
+          "score": 0.96
+        },
+        {
+          "word": "caves.",
+          "startSec": 272.96,
+          "endSec": 273.3,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 273.86,
+      "end": 277.43,
+      "text": "One famous cave is called Harrison's Cave.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 274.06,
+          "endSec": 274.44,
+          "score": 0.23
+        },
+        {
+          "word": "famous",
+          "startSec": 274.44,
+          "endSec": 274.92,
+          "score": 0.99
+        },
+        {
+          "word": "cave",
+          "startSec": 274.92,
+          "endSec": 275.4,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 275.4,
+          "endSec": 275.98,
+          "score": 0.96
+        },
+        {
+          "word": "called",
+          "startSec": 275.98,
+          "endSec": 276.24,
+          "score": 1.0
+        },
+        {
+          "word": "Harrison's",
+          "startSec": 276.24,
+          "endSec": 277.06,
+          "score": 0.95
+        },
+        {
+          "word": "Cave.",
+          "startSec": 277.06,
+          "endSec": 277.28,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 278.06,
+      "end": 281.59,
+      "text": "This cave has big rocks and clear water inside.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 278.26,
+          "endSec": 278.42,
+          "score": 0.99
+        },
+        {
+          "word": "cave",
+          "startSec": 278.42,
+          "endSec": 278.8,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 278.8,
+          "endSec": 279.1,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 279.1,
+          "endSec": 279.44,
+          "score": 1.0
+        },
+        {
+          "word": "rocks",
+          "startSec": 279.44,
+          "endSec": 279.82,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 279.82,
+          "endSec": 280.32,
+          "score": 0.99
+        },
+        {
+          "word": "clear",
+          "startSec": 280.32,
+          "endSec": 280.66,
+          "score": 0.99
+        },
+        {
+          "word": "water",
+          "startSec": 280.66,
+          "endSec": 281.04,
+          "score": 1.0
+        },
+        {
+          "word": "inside.",
+          "startSec": 281.04,
+          "endSec": 281.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 282.42,
+      "end": 284.41,
+      "text": "Many people visit the cave",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 282.62,
+          "endSec": 282.94,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 282.94,
+          "endSec": 283.4,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 283.7,
+          "endSec": 283.96,
+          "score": 1.0
+        },
+        {
+          "word": "cave",
+          "startSec": 283.96,
+          "endSec": 284.26,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 284.06,
+      "end": 287.05,
+      "text": "to see the beautiful stones and waterfalls.",
+      "words": [
+        {
+          "word": "to",
+          "startSec": 284.26,
+          "endSec": 284.66,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 284.66,
+          "endSec": 284.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 284.86,
+          "endSec": 285.04,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 285.04,
+          "endSec": 285.42,
+          "score": 1.0
+        },
+        {
+          "word": "stones",
+          "startSec": 285.42,
+          "endSec": 285.94,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 285.94,
+          "endSec": 286.24,
+          "score": 0.93
+        },
+        {
+          "word": "waterfalls.",
+          "startSec": 286.24,
+          "endSec": 286.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 287.9,
+      "end": 292.21,
+      "text": "Conclusion, Barbados is a wonderful place.",
+      "words": [
+        {
+          "word": "Conclusion,",
+          "startSec": 288.1,
+          "endSec": 288.86,
+          "score": 0.72
+        },
+        {
+          "word": "Barbados",
+          "startSec": 289.6,
+          "endSec": 290.26,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 290.26,
+          "endSec": 290.68,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 290.68,
+          "endSec": 290.84,
+          "score": 0.99
+        },
+        {
+          "word": "wonderful",
+          "startSec": 290.84,
+          "endSec": 291.3,
+          "score": 1.0
+        },
+        {
+          "word": "place.",
+          "startSec": 291.3,
+          "endSec": 292.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 292.68,
+      "end": 295.61,
+      "text": "It has warm weather, friendly people,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 292.88,
+          "endSec": 293.0,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 293.0,
+          "endSec": 293.18,
+          "score": 1.0
+        },
+        {
+          "word": "warm",
+          "startSec": 293.18,
+          "endSec": 293.54,
+          "score": 1.0
+        },
+        {
+          "word": "weather,",
+          "startSec": 293.54,
+          "endSec": 294.1,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 294.4,
+          "endSec": 294.92,
+          "score": 1.0
+        },
+        {
+          "word": "people,",
+          "startSec": 294.92,
+          "endSec": 295.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 295.58,
+      "end": 298.39,
+      "text": "delicious food, and great music.",
+      "words": [
+        {
+          "word": "delicious",
+          "startSec": 295.78,
+          "endSec": 296.14,
+          "score": 1.0
+        },
+        {
+          "word": "food,",
+          "startSec": 296.14,
+          "endSec": 296.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 297.26,
+          "endSec": 297.36,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 297.36,
+          "endSec": 297.7,
+          "score": 1.0
+        },
+        {
+          "word": "music.",
+          "startSec": 297.7,
+          "endSec": 298.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 299.02,
+      "end": 301.67,
+      "text": "The island is full of life and culture.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 299.22,
+          "endSec": 299.44,
+          "score": 0.99
+        },
+        {
+          "word": "island",
+          "startSec": 299.44,
+          "endSec": 299.74,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 299.74,
+          "endSec": 300.06,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 300.06,
+          "endSec": 300.34,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 300.34,
+          "endSec": 300.62,
+          "score": 1.0
+        },
+        {
+          "word": "life",
+          "startSec": 300.62,
+          "endSec": 300.9,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 300.9,
+          "endSec": 301.22,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 301.22,
+          "endSec": 301.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 301.96,
+      "end": 304.73,
+      "text": "Let me know if you need anything else.",
+      "words": [
+        {
+          "word": "Let",
+          "startSec": 302.16,
+          "endSec": 302.78,
+          "score": 0.27
+        },
+        {
+          "word": "me",
+          "startSec": 302.78,
+          "endSec": 302.94,
+          "score": 1.0
+        },
+        {
+          "word": "know",
+          "startSec": 302.94,
+          "endSec": 303.18,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 303.18,
+          "endSec": 303.4,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 303.4,
+          "endSec": 303.52,
+          "score": 1.0
+        },
+        {
+          "word": "need",
+          "startSec": 303.52,
+          "endSec": 303.74,
+          "score": 0.99
+        },
+        {
+          "word": "anything",
+          "startSec": 303.74,
+          "endSec": 304.02,
+          "score": 0.99
+        },
+        {
+          "word": "else.",
+          "startSec": 304.02,
+          "endSec": 304.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 305.73,
+      "end": 308.46,
+      "text": "Here is the exact text you requested.",
+      "words": [
+        {
+          "word": "Here",
+          "startSec": 305.93,
+          "endSec": 306.17,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 306.17,
+          "endSec": 306.41,
+          "score": 0.86
+        },
+        {
+          "word": "the",
+          "startSec": 306.41,
+          "endSec": 306.57,
+          "score": 1.0
+        },
+        {
+          "word": "exact",
+          "startSec": 306.57,
+          "endSec": 306.81,
+          "score": 0.96
+        },
+        {
+          "word": "text",
+          "startSec": 306.81,
+          "endSec": 307.63,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 307.63,
+          "endSec": 307.85,
+          "score": 0.99
+        },
+        {
+          "word": "requested.",
+          "startSec": 307.85,
+          "endSec": 308.31,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 310.02,
+      "end": 314.17,
+      "text": "Many people visit Barbados to relax and have fun.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 310.22,
+          "endSec": 310.48,
+          "score": 0.72
+        },
+        {
+          "word": "people",
+          "startSec": 310.48,
+          "endSec": 310.98,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 310.98,
+          "endSec": 311.42,
+          "score": 0.99
+        },
+        {
+          "word": "Barbados",
+          "startSec": 311.42,
+          "endSec": 312.08,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 312.08,
+          "endSec": 312.5,
+          "score": 1.0
+        },
+        {
+          "word": "relax",
+          "startSec": 312.5,
+          "endSec": 312.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 312.86,
+          "endSec": 313.42,
+          "score": 0.98
+        },
+        {
+          "word": "have",
+          "startSec": 313.42,
+          "endSec": 313.68,
+          "score": 1.0
+        },
+        {
+          "word": "fun.",
+          "startSec": 313.68,
+          "endSec": 314.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 314.72,
+      "end": 317.53,
+      "text": "Would you like to visit Barbados one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 314.92,
+          "endSec": 315.12,
+          "score": 0.9
+        },
+        {
+          "word": "you",
+          "startSec": 315.12,
+          "endSec": 315.3,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 315.3,
+          "endSec": 315.54,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 315.54,
+          "endSec": 315.76,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 315.76,
+          "endSec": 315.96,
+          "score": 1.0
+        },
+        {
+          "word": "Barbados",
+          "startSec": 315.96,
+          "endSec": 316.76,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 316.76,
+          "endSec": 317.08,
+          "score": 0.99
+        },
+        {
+          "word": "day?",
+          "startSec": 317.08,
+          "endSec": 317.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 321.9,
+      "end": 324.43,
+      "text": "I hope you learned something new today.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 322.1,
+          "endSec": 322.42,
+          "score": 1.0
+        },
+        {
+          "word": "hope",
+          "startSec": 322.42,
+          "endSec": 322.64,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 322.64,
+          "endSec": 322.86,
+          "score": 1.0
+        },
+        {
+          "word": "learned",
+          "startSec": 322.86,
+          "endSec": 323.08,
+          "score": 0.92
+        },
+        {
+          "word": "something",
+          "startSec": 323.08,
+          "endSec": 323.52,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 323.52,
+          "endSec": 323.92,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 323.92,
+          "endSec": 324.28,
           "score": 1.0
         }
       ]

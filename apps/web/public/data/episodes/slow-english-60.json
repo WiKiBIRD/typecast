@@ -15,88 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 2.55,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.14,
-          "score": 0.9
-        },
-        {
-          "word": "and",
-          "startSec": 0.14,
-          "endSec": 0.54,
-          "score": 0.78
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.54,
-          "endSec": 0.94,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 0.94,
-          "endSec": 1.28,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.28,
-          "endSec": 1.6,
-          "score": 0.48
-        },
-        {
-          "word": "English",
-          "startSec": 1.6,
-          "endSec": 1.94,
-          "score": 0.96
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 1.94,
-          "endSec": 2.4,
-          "score": 0.91
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "start": 3.24,
-      "end": 4.95,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 3.44,
-          "endSec": 3.72,
-          "score": 0.96
-        },
-        {
-          "word": "name",
-          "startSec": 3.72,
-          "endSec": 3.92,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 3.92,
-          "endSec": 4.24,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 4.24,
-          "endSec": 4.8,
-          "score": 0.6
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 4.92,
       "end": 8.51,
       "text": "Today we will talk about a beautiful country in Europe.",
@@ -164,7 +82,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 2,
       "start": 9.01,
       "end": 11.22,
       "text": "This country is called Belgium.",
@@ -202,7 +120,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
       "start": 11.91,
       "end": 16.14,
       "text": "Belgium is a small but very interesting country.",
@@ -258,7 +176,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 4,
       "start": 16.41,
       "end": 19.02,
       "text": "Listen carefully and try to understand.",
@@ -302,7 +220,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 5,
       "start": 19.89,
       "end": 21.24,
       "text": "I will speak slowly.",
@@ -334,7 +252,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 6,
       "start": 21.99,
       "end": 22.94,
       "text": "Let's begin.",
@@ -354,7 +272,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 7,
       "start": 23.49,
       "end": 24.4,
       "text": "Where is Belgium?",
@@ -380,7 +298,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 8,
       "start": 24.99,
       "end": 28.38,
       "text": "Belgium is a small country in Western Europe.",
@@ -431,6 +349,5910 @@
           "word": "Europe.",
           "startSec": 27.69,
           "endSec": 28.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 28.7,
+      "end": 32.3,
+      "text": "It is between France, Germany and the Netherlands.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 28.9,
+          "endSec": 29.29,
+          "score": 0.58
+        },
+        {
+          "word": "is",
+          "startSec": 29.29,
+          "endSec": 29.47,
+          "score": 0.97
+        },
+        {
+          "word": "between",
+          "startSec": 29.47,
+          "endSec": 29.81,
+          "score": 0.99
+        },
+        {
+          "word": "France,",
+          "startSec": 29.81,
+          "endSec": 30.35,
+          "score": 1.0
+        },
+        {
+          "word": "Germany",
+          "startSec": 30.93,
+          "endSec": 31.19,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 31.19,
+          "endSec": 31.75,
+          "score": 0.5
+        },
+        {
+          "word": "the",
+          "startSec": 31.75,
+          "endSec": 31.89,
+          "score": 0.99
+        },
+        {
+          "word": "Netherlands.",
+          "startSec": 31.89,
+          "endSec": 32.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 32.85,
+      "end": 35.6,
+      "text": "The capital city of Belgium is Brussels.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 33.05,
+          "endSec": 33.15,
+          "score": 0.81
+        },
+        {
+          "word": "capital",
+          "startSec": 33.15,
+          "endSec": 33.61,
+          "score": 0.96
+        },
+        {
+          "word": "city",
+          "startSec": 33.61,
+          "endSec": 34.01,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 34.01,
+          "endSec": 34.27,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 34.27,
+          "endSec": 34.59,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 34.59,
+          "endSec": 35.15,
+          "score": 1.0
+        },
+        {
+          "word": "Brussels.",
+          "startSec": 35.15,
+          "endSec": 35.45,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 36.66,
+      "end": 39.65,
+      "text": "Brussels is a very important city.",
+      "words": [
+        {
+          "word": "Brussels",
+          "startSec": 36.86,
+          "endSec": 37.3,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 37.3,
+          "endSec": 38.1,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 38.1,
+          "endSec": 38.26,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 38.26,
+          "endSec": 38.52,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 38.52,
+          "endSec": 38.92,
+          "score": 1.0
+        },
+        {
+          "word": "city.",
+          "startSec": 38.92,
+          "endSec": 39.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 40.34,
+      "end": 42.95,
+      "text": "It is not only the capital of Belgium,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 40.54,
+          "endSec": 40.8,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 40.8,
+          "endSec": 40.96,
+          "score": 1.0
+        },
+        {
+          "word": "not",
+          "startSec": 40.96,
+          "endSec": 41.18,
+          "score": 1.0
+        },
+        {
+          "word": "only",
+          "startSec": 41.18,
+          "endSec": 41.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 41.56,
+          "endSec": 41.78,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 41.78,
+          "endSec": 42.22,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 42.22,
+          "endSec": 42.52,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium,",
+          "startSec": 42.52,
+          "endSec": 42.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 43.34,
+      "end": 46.59,
+      "text": "but also the capital of the European Union.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 43.54,
+          "endSec": 43.78,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 43.78,
+          "endSec": 44.16,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 44.16,
+          "endSec": 44.48,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 44.48,
+          "endSec": 44.92,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 44.92,
+          "endSec": 45.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 45.26,
+          "endSec": 45.42,
+          "score": 1.0
+        },
+        {
+          "word": "European",
+          "startSec": 45.42,
+          "endSec": 45.7,
+          "score": 1.0
+        },
+        {
+          "word": "Union.",
+          "startSec": 45.7,
+          "endSec": 46.44,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 47.17,
+      "end": 51.3,
+      "text": "This means that many important leaders and politicians",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 47.37,
+          "endSec": 47.75,
+          "score": 0.99
+        },
+        {
+          "word": "means",
+          "startSec": 47.75,
+          "endSec": 48.15,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 48.15,
+          "endSec": 48.73,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 48.73,
+          "endSec": 49.09,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 49.09,
+          "endSec": 49.69,
+          "score": 1.0
+        },
+        {
+          "word": "leaders",
+          "startSec": 49.69,
+          "endSec": 50.19,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 50.19,
+          "endSec": 50.67,
+          "score": 1.0
+        },
+        {
+          "word": "politicians",
+          "startSec": 50.67,
+          "endSec": 51.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 51.32,
+      "end": 55.12,
+      "text": "from different countries go to Brussels for meetings.",
+      "words": [
+        {
+          "word": "from",
+          "startSec": 51.52,
+          "endSec": 51.91,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 51.91,
+          "endSec": 52.15,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 52.15,
+          "endSec": 52.89,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 52.89,
+          "endSec": 53.53,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 53.53,
+          "endSec": 53.83,
+          "score": 1.0
+        },
+        {
+          "word": "Brussels",
+          "startSec": 53.83,
+          "endSec": 54.15,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 54.15,
+          "endSec": 54.69,
+          "score": 0.99
+        },
+        {
+          "word": "meetings.",
+          "startSec": 54.69,
+          "endSec": 54.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 55.92,
+      "end": 59.61,
+      "text": "Belgium has many borders with other countries,",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 56.12,
+          "endSec": 56.88,
+          "score": 0.37
+        },
+        {
+          "word": "has",
+          "startSec": 56.88,
+          "endSec": 57.26,
+          "score": 0.75
+        },
+        {
+          "word": "many",
+          "startSec": 57.26,
+          "endSec": 57.66,
+          "score": 0.99
+        },
+        {
+          "word": "borders",
+          "startSec": 57.66,
+          "endSec": 58.2,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 58.2,
+          "endSec": 58.66,
+          "score": 0.99
+        },
+        {
+          "word": "other",
+          "startSec": 58.66,
+          "endSec": 58.9,
+          "score": 0.99
+        },
+        {
+          "word": "countries,",
+          "startSec": 58.9,
+          "endSec": 59.46,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 60.16,
+      "end": 65.85,
+      "text": "so people can easily travel to France, Germany and the Netherlands.",
+      "words": [
+        {
+          "word": "so",
+          "startSec": 60.36,
+          "endSec": 60.62,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 60.62,
+          "endSec": 61.0,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 61.0,
+          "endSec": 61.26,
+          "score": 1.0
+        },
+        {
+          "word": "easily",
+          "startSec": 61.26,
+          "endSec": 61.64,
+          "score": 1.0
+        },
+        {
+          "word": "travel",
+          "startSec": 61.64,
+          "endSec": 62.32,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 62.32,
+          "endSec": 62.62,
+          "score": 1.0
+        },
+        {
+          "word": "France,",
+          "startSec": 62.62,
+          "endSec": 63.06,
+          "score": 1.0
+        },
+        {
+          "word": "Germany",
+          "startSec": 63.78,
+          "endSec": 64.3,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 64.3,
+          "endSec": 65.2,
+          "score": 0.44
+        },
+        {
+          "word": "the",
+          "startSec": 65.2,
+          "endSec": 65.36,
+          "score": 0.98
+        },
+        {
+          "word": "Netherlands.",
+          "startSec": 65.36,
+          "endSec": 65.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 66.54,
+      "end": 68.73,
+      "text": "Belgium is a small country,",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 66.74,
+          "endSec": 67.2,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 67.2,
+          "endSec": 67.5,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 67.5,
+          "endSec": 67.66,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 67.66,
+          "endSec": 67.98,
+          "score": 1.0
+        },
+        {
+          "word": "country,",
+          "startSec": 67.98,
+          "endSec": 68.58,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 68.94,
+      "end": 72.75,
+      "text": "but it has a lot of history and many things to see.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 69.14,
+          "endSec": 69.5,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 69.5,
+          "endSec": 69.64,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 69.64,
+          "endSec": 69.84,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 69.84,
+          "endSec": 70.04,
+          "score": 0.99
+        },
+        {
+          "word": "lot",
+          "startSec": 70.04,
+          "endSec": 70.3,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 70.3,
+          "endSec": 70.48,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 70.48,
+          "endSec": 70.9,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 70.9,
+          "endSec": 71.28,
+          "score": 0.98
+        },
+        {
+          "word": "many",
+          "startSec": 71.28,
+          "endSec": 71.5,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 71.5,
+          "endSec": 72.0,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 72.0,
+          "endSec": 72.32,
+          "score": 1.0
+        },
+        {
+          "word": "see.",
+          "startSec": 72.32,
+          "endSec": 72.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 73.75,
+      "end": 76.22,
+      "text": "What is Belgium famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 73.95,
+          "endSec": 74.31,
+          "score": 0.85
+        },
+        {
+          "word": "is",
+          "startSec": 74.31,
+          "endSec": 74.59,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium",
+          "startSec": 74.59,
+          "endSec": 75.19,
+          "score": 0.97
+        },
+        {
+          "word": "famous",
+          "startSec": 75.19,
+          "endSec": 75.63,
+          "score": 0.93
+        },
+        {
+          "word": "for?",
+          "startSec": 75.63,
+          "endSec": 76.07,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 76.99,
+      "end": 79.54,
+      "text": "Belgium is famous for many things.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 77.19,
+          "endSec": 77.67,
+          "score": 0.91
+        },
+        {
+          "word": "is",
+          "startSec": 77.67,
+          "endSec": 78.03,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 78.03,
+          "endSec": 78.33,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 78.33,
+          "endSec": 78.69,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 78.69,
+          "endSec": 78.91,
+          "score": 1.0
+        },
+        {
+          "word": "things.",
+          "startSec": 78.91,
+          "endSec": 79.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 80.15,
+      "end": 83.02,
+      "text": "One of the most famous things is chocolate.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 80.35,
+          "endSec": 80.47,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 80.47,
+          "endSec": 80.65,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 80.65,
+          "endSec": 80.75,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 80.75,
+          "endSec": 80.97,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 80.97,
+          "endSec": 81.49,
+          "score": 1.0
+        },
+        {
+          "word": "things",
+          "startSec": 81.49,
+          "endSec": 81.97,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 81.97,
+          "endSec": 82.51,
+          "score": 0.97
+        },
+        {
+          "word": "chocolate.",
+          "startSec": 82.51,
+          "endSec": 82.87,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 83.41,
+      "end": 87.14,
+      "text": "Belgian chocolate is considered the best in the world.",
+      "words": [
+        {
+          "word": "Belgian",
+          "startSec": 83.61,
+          "endSec": 83.99,
+          "score": 0.02
+        },
+        {
+          "word": "chocolate",
+          "startSec": 83.99,
+          "endSec": 84.41,
+          "score": 0.68
+        },
+        {
+          "word": "is",
+          "startSec": 84.41,
+          "endSec": 84.95,
+          "score": 0.99
+        },
+        {
+          "word": "considered",
+          "startSec": 84.95,
+          "endSec": 85.43,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 85.43,
+          "endSec": 85.83,
+          "score": 0.98
+        },
+        {
+          "word": "best",
+          "startSec": 85.83,
+          "endSec": 86.23,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 86.23,
+          "endSec": 86.51,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 86.51,
+          "endSec": 86.63,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 86.63,
+          "endSec": 86.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 87.69,
+      "end": 89.62,
+      "text": "It is sweet and rich,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 87.89,
+          "endSec": 88.05,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 88.05,
+          "endSec": 88.19,
+          "score": 0.99
+        },
+        {
+          "word": "sweet",
+          "startSec": 88.19,
+          "endSec": 88.59,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 88.59,
+          "endSec": 89.01,
+          "score": 0.98
+        },
+        {
+          "word": "rich,",
+          "startSec": 89.01,
+          "endSec": 89.47,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 89.91,
+      "end": 94.34,
+      "text": "and people from all over the world visit Belgium to taste it.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 90.11,
+          "endSec": 90.35,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 90.35,
+          "endSec": 90.71,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 90.71,
+          "endSec": 91.03,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 91.03,
+          "endSec": 91.37,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 91.37,
+          "endSec": 91.65,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 91.65,
+          "endSec": 91.85,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "startSec": 91.85,
+          "endSec": 92.23,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 92.23,
+          "endSec": 92.67,
+          "score": 0.97
+        },
+        {
+          "word": "Belgium",
+          "startSec": 92.67,
+          "endSec": 93.05,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 93.05,
+          "endSec": 93.49,
+          "score": 0.99
+        },
+        {
+          "word": "taste",
+          "startSec": 93.49,
+          "endSec": 93.81,
+          "score": 1.0
+        },
+        {
+          "word": "it.",
+          "startSec": 93.81,
+          "endSec": 94.19,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 95.19,
+      "end": 98.92,
+      "text": "Belgium also has many famous chocolate factories.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 95.39,
+          "endSec": 95.81,
+          "score": 0.97
+        },
+        {
+          "word": "also",
+          "startSec": 95.81,
+          "endSec": 96.29,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 96.29,
+          "endSec": 96.87,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 96.87,
+          "endSec": 97.33,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 97.33,
+          "endSec": 97.99,
+          "score": 0.99
+        },
+        {
+          "word": "chocolate",
+          "startSec": 97.99,
+          "endSec": 98.31,
+          "score": 0.98
+        },
+        {
+          "word": "factories.",
+          "startSec": 98.31,
+          "endSec": 98.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 99.71,
+      "end": 102.48,
+      "text": "You can take tours in some of these factories",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 99.91,
+          "endSec": 100.23,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 100.23,
+          "endSec": 100.39,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 100.39,
+          "endSec": 100.65,
+          "score": 1.0
+        },
+        {
+          "word": "tours",
+          "startSec": 100.65,
+          "endSec": 101.05,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 101.05,
+          "endSec": 101.31,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 101.31,
+          "endSec": 101.51,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 101.51,
+          "endSec": 101.65,
+          "score": 1.0
+        },
+        {
+          "word": "these",
+          "startSec": 101.65,
+          "endSec": 101.83,
+          "score": 1.0
+        },
+        {
+          "word": "factories",
+          "startSec": 101.83,
+          "endSec": 102.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 102.13,
+      "end": 104.96,
+      "text": "and see how the chocolate is made.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 102.33,
+          "endSec": 103.23,
+          "score": 0.81
+        },
+        {
+          "word": "see",
+          "startSec": 103.23,
+          "endSec": 103.47,
+          "score": 1.0
+        },
+        {
+          "word": "how",
+          "startSec": 103.47,
+          "endSec": 103.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 103.73,
+          "endSec": 103.87,
+          "score": 1.0
+        },
+        {
+          "word": "chocolate",
+          "startSec": 103.87,
+          "endSec": 104.17,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 104.17,
+          "endSec": 104.49,
+          "score": 1.0
+        },
+        {
+          "word": "made.",
+          "startSec": 104.49,
+          "endSec": 104.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 105.99,
+      "end": 109.76,
+      "text": "Another thing Belgium is famous for is waffles.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 106.19,
+          "endSec": 106.49,
+          "score": 0.99
+        },
+        {
+          "word": "thing",
+          "startSec": 106.49,
+          "endSec": 106.87,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 106.87,
+          "endSec": 107.23,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 107.23,
+          "endSec": 107.57,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 107.57,
+          "endSec": 107.83,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 107.83,
+          "endSec": 108.47,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 108.47,
+          "endSec": 109.03,
+          "score": 0.88
+        },
+        {
+          "word": "waffles.",
+          "startSec": 109.03,
+          "endSec": 109.61,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 110.41,
+      "end": 113.34,
+      "text": "Belgian waffles are soft and sweet.",
+      "words": [
+        {
+          "word": "Belgian",
+          "startSec": 110.61,
+          "endSec": 111.05,
+          "score": 0.15
+        },
+        {
+          "word": "waffles",
+          "startSec": 111.05,
+          "endSec": 111.71,
+          "score": 0.88
+        },
+        {
+          "word": "are",
+          "startSec": 111.71,
+          "endSec": 112.09,
+          "score": 0.98
+        },
+        {
+          "word": "soft",
+          "startSec": 112.09,
+          "endSec": 112.51,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 112.51,
+          "endSec": 112.83,
+          "score": 0.99
+        },
+        {
+          "word": "sweet.",
+          "startSec": 112.83,
+          "endSec": 113.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 113.99,
+      "end": 116.74,
+      "text": "You can eat them with different toppings,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 114.19,
+          "endSec": 114.31,
+          "score": 0.96
+        },
+        {
+          "word": "can",
+          "startSec": 114.31,
+          "endSec": 114.49,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 114.49,
+          "endSec": 114.69,
+          "score": 1.0
+        },
+        {
+          "word": "them",
+          "startSec": 114.69,
+          "endSec": 114.93,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 114.93,
+          "endSec": 115.09,
+          "score": 0.99
+        },
+        {
+          "word": "different",
+          "startSec": 115.09,
+          "endSec": 115.51,
+          "score": 1.0
+        },
+        {
+          "word": "toppings,",
+          "startSec": 115.51,
+          "endSec": 116.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 116.67,
+      "end": 119.7,
+      "text": "like chocolate, cream or fruit.",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 116.87,
+          "endSec": 117.13,
+          "score": 1.0
+        },
+        {
+          "word": "chocolate,",
+          "startSec": 117.13,
+          "endSec": 117.59,
+          "score": 0.99
+        },
+        {
+          "word": "cream",
+          "startSec": 118.11,
+          "endSec": 118.39,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 118.39,
+          "endSec": 119.23,
+          "score": 0.34
+        },
+        {
+          "word": "fruit.",
+          "startSec": 119.23,
+          "endSec": 119.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 120.75,
+      "end": 123.14,
+      "text": "They are a very popular snack",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 120.95,
+          "endSec": 121.23,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 121.23,
+          "endSec": 121.41,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 121.41,
+          "endSec": 121.53,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 121.53,
+          "endSec": 121.77,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 121.77,
+          "endSec": 122.43,
+          "score": 1.0
+        },
+        {
+          "word": "snack",
+          "startSec": 122.43,
+          "endSec": 122.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 122.79,
+      "end": 126.8,
+      "text": "and you can find waffles in many places in Belgium.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 122.99,
+          "endSec": 123.73,
+          "score": 0.51
+        },
+        {
+          "word": "you",
+          "startSec": 123.73,
+          "endSec": 123.91,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 123.91,
+          "endSec": 124.05,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 124.05,
+          "endSec": 124.33,
+          "score": 1.0
+        },
+        {
+          "word": "waffles",
+          "startSec": 124.33,
+          "endSec": 124.85,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 124.85,
+          "endSec": 125.15,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 125.15,
+          "endSec": 125.39,
+          "score": 1.0
+        },
+        {
+          "word": "places",
+          "startSec": 125.39,
+          "endSec": 126.01,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 126.01,
+          "endSec": 126.35,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium.",
+          "startSec": 126.35,
+          "endSec": 126.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 127.72,
+      "end": 132.01,
+      "text": "People also eat waffles for breakfast or as a dessert.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 127.92,
+          "endSec": 128.28,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 128.28,
+          "endSec": 128.6,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 128.6,
+          "endSec": 129.02,
+          "score": 1.0
+        },
+        {
+          "word": "waffles",
+          "startSec": 129.02,
+          "endSec": 129.48,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 129.48,
+          "endSec": 129.84,
+          "score": 1.0
+        },
+        {
+          "word": "breakfast",
+          "startSec": 129.84,
+          "endSec": 130.28,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 130.28,
+          "endSec": 131.08,
+          "score": 0.94
+        },
+        {
+          "word": "as",
+          "startSec": 131.08,
+          "endSec": 131.4,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 131.4,
+          "endSec": 131.56,
+          "score": 0.97
+        },
+        {
+          "word": "dessert.",
+          "startSec": 131.56,
+          "endSec": 131.86,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 133.15,
+      "end": 137.76,
+      "text": "Belgium is also known for its beautiful cities and old buildings.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 133.35,
+          "endSec": 133.79,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 133.79,
+          "endSec": 134.07,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 134.07,
+          "endSec": 134.31,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 134.31,
+          "endSec": 134.73,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 134.73,
+          "endSec": 135.09,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 135.09,
+          "endSec": 135.29,
+          "score": 0.96
+        },
+        {
+          "word": "beautiful",
+          "startSec": 135.29,
+          "endSec": 135.71,
+          "score": 1.0
+        },
+        {
+          "word": "cities",
+          "startSec": 135.71,
+          "endSec": 136.43,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 136.43,
+          "endSec": 136.83,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 136.83,
+          "endSec": 137.07,
+          "score": 0.99
+        },
+        {
+          "word": "buildings.",
+          "startSec": 137.07,
+          "endSec": 137.61,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 138.6,
+      "end": 142.53,
+      "text": "Brussels has a famous square called the Grand Place.",
+      "words": [
+        {
+          "word": "Brussels",
+          "startSec": 138.8,
+          "endSec": 139.22,
+          "score": 0.69
+        },
+        {
+          "word": "has",
+          "startSec": 139.22,
+          "endSec": 139.7,
+          "score": 0.93
+        },
+        {
+          "word": "a",
+          "startSec": 139.7,
+          "endSec": 139.9,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 139.9,
+          "endSec": 140.28,
+          "score": 1.0
+        },
+        {
+          "word": "square",
+          "startSec": 140.28,
+          "endSec": 140.76,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 140.76,
+          "endSec": 141.48,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 141.48,
+          "endSec": 141.7,
+          "score": 0.87
+        },
+        {
+          "word": "Grand",
+          "startSec": 141.7,
+          "endSec": 141.96,
+          "score": 0.68
+        },
+        {
+          "word": "Place.",
+          "startSec": 141.96,
+          "endSec": 142.38,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 142.9,
+      "end": 145.21,
+      "text": "The Grand Place is very big",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 143.1,
+          "endSec": 143.44,
+          "score": 0.97
+        },
+        {
+          "word": "Grand",
+          "startSec": 143.44,
+          "endSec": 143.66,
+          "score": 0.9
+        },
+        {
+          "word": "Place",
+          "startSec": 143.66,
+          "endSec": 144.0,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 144.0,
+          "endSec": 144.26,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 144.26,
+          "endSec": 144.64,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 144.64,
+          "endSec": 145.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 145.28,
+      "end": 148.63,
+      "text": "and it is surrounded by beautiful old buildings",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 145.48,
+          "endSec": 145.9,
+          "score": 0.64
+        },
+        {
+          "word": "it",
+          "startSec": 145.9,
+          "endSec": 146.04,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 146.04,
+          "endSec": 146.16,
+          "score": 0.99
+        },
+        {
+          "word": "surrounded",
+          "startSec": 146.16,
+          "endSec": 146.52,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 146.52,
+          "endSec": 147.0,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 147.0,
+          "endSec": 147.44,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 147.44,
+          "endSec": 147.86,
+          "score": 0.92
+        },
+        {
+          "word": "buildings",
+          "startSec": 147.86,
+          "endSec": 148.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 148.28,
+      "end": 150.05,
+      "text": "with golden decorations.",
+      "words": [
+        {
+          "word": "with",
+          "startSec": 148.48,
+          "endSec": 148.9,
+          "score": 0.98
+        },
+        {
+          "word": "golden",
+          "startSec": 148.9,
+          "endSec": 149.24,
+          "score": 0.93
+        },
+        {
+          "word": "decorations.",
+          "startSec": 149.24,
+          "endSec": 149.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 151.18,
+      "end": 154.01,
+      "text": "It is a very popular place for tourists.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 151.38,
+          "endSec": 151.58,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 151.58,
+          "endSec": 151.72,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 151.72,
+          "endSec": 151.86,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 151.86,
+          "endSec": 152.2,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 152.2,
+          "endSec": 152.66,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 152.66,
+          "endSec": 153.36,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 153.36,
+          "endSec": 153.62,
+          "score": 1.0
+        },
+        {
+          "word": "tourists.",
+          "startSec": 153.62,
+          "endSec": 153.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 155.04,
+      "end": 159.13,
+      "text": "Another famous city in Belgium is Bruges.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 155.24,
+          "endSec": 155.76,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 155.76,
+          "endSec": 156.36,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 156.36,
+          "endSec": 156.86,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 156.86,
+          "endSec": 157.12,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 157.12,
+          "endSec": 157.42,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 157.42,
+          "endSec": 158.22,
+          "score": 0.99
+        },
+        {
+          "word": "Bruges.",
+          "startSec": 158.22,
+          "endSec": 158.98,
+          "score": 0.68
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 159.3,
+      "end": 164.15,
+      "text": "Bruges is a small beautiful city with canals and old houses.",
+      "words": [
+        {
+          "word": "Bruges",
+          "startSec": 159.5,
+          "endSec": 160.34,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 160.34,
+          "endSec": 160.48,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 160.48,
+          "endSec": 160.66,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 160.66,
+          "endSec": 161.04,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 161.04,
+          "endSec": 161.48,
+          "score": 0.53
+        },
+        {
+          "word": "city",
+          "startSec": 161.48,
+          "endSec": 162.12,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 162.12,
+          "endSec": 162.4,
+          "score": 1.0
+        },
+        {
+          "word": "canals",
+          "startSec": 162.4,
+          "endSec": 163.02,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 163.02,
+          "endSec": 163.32,
+          "score": 0.97
+        },
+        {
+          "word": "old",
+          "startSec": 163.32,
+          "endSec": 163.56,
+          "score": 1.0
+        },
+        {
+          "word": "houses.",
+          "startSec": 163.56,
+          "endSec": 164.0,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 164.54,
+      "end": 168.77,
+      "text": "Many people say that Bruges looks like a fairy tale.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 164.74,
+          "endSec": 165.42,
+          "score": 0.1
+        },
+        {
+          "word": "people",
+          "startSec": 165.42,
+          "endSec": 165.92,
+          "score": 0.97
+        },
+        {
+          "word": "say",
+          "startSec": 165.92,
+          "endSec": 166.28,
+          "score": 0.99
+        },
+        {
+          "word": "that",
+          "startSec": 166.28,
+          "endSec": 166.54,
+          "score": 0.99
+        },
+        {
+          "word": "Bruges",
+          "startSec": 166.54,
+          "endSec": 167.16,
+          "score": 0.6
+        },
+        {
+          "word": "looks",
+          "startSec": 167.16,
+          "endSec": 167.42,
+          "score": 0.94
+        },
+        {
+          "word": "like",
+          "startSec": 167.42,
+          "endSec": 167.74,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 167.74,
+          "endSec": 167.88,
+          "score": 0.95
+        },
+        {
+          "word": "fairy",
+          "startSec": 167.88,
+          "endSec": 168.08,
+          "score": 0.55
+        },
+        {
+          "word": "tale.",
+          "startSec": 168.08,
+          "endSec": 168.62,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 169.46,
+      "end": 172.05,
+      "text": "You can take boat rides through the canals",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 169.66,
+          "endSec": 169.84,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 169.84,
+          "endSec": 170.02,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 170.02,
+          "endSec": 170.28,
+          "score": 1.0
+        },
+        {
+          "word": "boat",
+          "startSec": 170.28,
+          "endSec": 170.6,
+          "score": 1.0
+        },
+        {
+          "word": "rides",
+          "startSec": 170.6,
+          "endSec": 170.88,
+          "score": 1.0
+        },
+        {
+          "word": "through",
+          "startSec": 170.88,
+          "endSec": 171.3,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 171.3,
+          "endSec": 171.44,
+          "score": 0.98
+        },
+        {
+          "word": "canals",
+          "startSec": 171.44,
+          "endSec": 171.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 171.7,
+      "end": 175.87,
+      "text": "or just walk around the city and enjoy the beautiful views.",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 171.9,
+          "endSec": 172.62,
+          "score": 0.64
+        },
+        {
+          "word": "just",
+          "startSec": 172.62,
+          "endSec": 172.84,
+          "score": 0.94
+        },
+        {
+          "word": "walk",
+          "startSec": 172.84,
+          "endSec": 173.14,
+          "score": 1.0
+        },
+        {
+          "word": "around",
+          "startSec": 173.14,
+          "endSec": 173.54,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 173.54,
+          "endSec": 173.74,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 173.74,
+          "endSec": 174.08,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 174.08,
+          "endSec": 174.34,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 174.34,
+          "endSec": 174.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 174.66,
+          "endSec": 174.92,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 174.92,
+          "endSec": 175.4,
+          "score": 1.0
+        },
+        {
+          "word": "views.",
+          "startSec": 175.4,
+          "endSec": 175.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 176.8,
+      "end": 177.97,
+      "text": "Food in Belgium",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 177.0,
+          "endSec": 177.26,
+          "score": 0.58
+        },
+        {
+          "word": "in",
+          "startSec": 177.26,
+          "endSec": 177.5,
+          "score": 0.98
+        },
+        {
+          "word": "Belgium",
+          "startSec": 177.5,
+          "endSec": 177.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 177.62,
+      "end": 183.06,
+      "text": "The food in Belgium is very tasty.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 177.82,
+          "endSec": 179.16,
+          "score": 0.26
+        },
+        {
+          "word": "food",
+          "startSec": 180.53,
+          "endSec": 180.81,
+          "score": 0.74
+        },
+        {
+          "word": "in",
+          "startSec": 180.81,
+          "endSec": 181.09,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium",
+          "startSec": 181.09,
+          "endSec": 181.47,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 181.47,
+          "endSec": 181.95,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 181.95,
+          "endSec": 182.31,
+          "score": 1.0
+        },
+        {
+          "word": "tasty.",
+          "startSec": 182.31,
+          "endSec": 182.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 183.68,
+      "end": 186.29,
+      "text": "People in Belgium eat a lot of potatoes.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 183.88,
+          "endSec": 184.1,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 184.1,
+          "endSec": 184.46,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 184.46,
+          "endSec": 184.86,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 184.86,
+          "endSec": 185.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 185.28,
+          "endSec": 185.44,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 185.44,
+          "endSec": 185.68,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 185.68,
+          "endSec": 185.8,
+          "score": 1.0
+        },
+        {
+          "word": "potatoes.",
+          "startSec": 185.8,
+          "endSec": 186.14,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 187.29,
+      "end": 191.94,
+      "text": "One famous dish in Belgium is called frites or french fries.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 187.49,
+          "endSec": 187.71,
+          "score": 0.98
+        },
+        {
+          "word": "famous",
+          "startSec": 187.71,
+          "endSec": 188.11,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 188.11,
+          "endSec": 188.53,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 188.53,
+          "endSec": 188.77,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium",
+          "startSec": 188.77,
+          "endSec": 189.09,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 189.09,
+          "endSec": 189.59,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 189.59,
+          "endSec": 189.95,
+          "score": 1.0
+        },
+        {
+          "word": "frites",
+          "startSec": 189.95,
+          "endSec": 190.43,
+          "score": 0.66
+        },
+        {
+          "word": "or",
+          "startSec": 190.43,
+          "endSec": 191.05,
+          "score": 0.69
+        },
+        {
+          "word": "french",
+          "startSec": 191.05,
+          "endSec": 191.37,
+          "score": 0.6
+        },
+        {
+          "word": "fries.",
+          "startSec": 191.37,
+          "endSec": 191.79,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 192.69,
+      "end": 197.96,
+      "text": "Frites are very popular and you can find them in almost every city.",
+      "words": [
+        {
+          "word": "Frites",
+          "startSec": 192.89,
+          "endSec": 193.25,
+          "score": 0.03
+        },
+        {
+          "word": "are",
+          "startSec": 193.25,
+          "endSec": 193.69,
+          "score": 0.54
+        },
+        {
+          "word": "very",
+          "startSec": 193.69,
+          "endSec": 193.91,
+          "score": 0.87
+        },
+        {
+          "word": "popular",
+          "startSec": 193.91,
+          "endSec": 194.57,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 194.57,
+          "endSec": 195.39,
+          "score": 0.66
+        },
+        {
+          "word": "you",
+          "startSec": 195.39,
+          "endSec": 195.55,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 195.55,
+          "endSec": 195.69,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 195.69,
+          "endSec": 195.95,
+          "score": 0.99
+        },
+        {
+          "word": "them",
+          "startSec": 195.95,
+          "endSec": 196.19,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 196.19,
+          "endSec": 196.35,
+          "score": 0.99
+        },
+        {
+          "word": "almost",
+          "startSec": 196.35,
+          "endSec": 196.83,
+          "score": 0.99
+        },
+        {
+          "word": "every",
+          "startSec": 196.83,
+          "endSec": 197.23,
+          "score": 0.99
+        },
+        {
+          "word": "city.",
+          "startSec": 197.23,
+          "endSec": 197.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 198.6,
+      "end": 201.71,
+      "text": "People eat fries with many different sauces,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 198.8,
+          "endSec": 199.12,
+          "score": 0.8
+        },
+        {
+          "word": "eat",
+          "startSec": 199.12,
+          "endSec": 199.38,
+          "score": 1.0
+        },
+        {
+          "word": "fries",
+          "startSec": 199.38,
+          "endSec": 199.8,
+          "score": 0.95
+        },
+        {
+          "word": "with",
+          "startSec": 199.8,
+          "endSec": 200.36,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 200.36,
+          "endSec": 200.66,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 200.66,
+          "endSec": 201.08,
+          "score": 1.0
+        },
+        {
+          "word": "sauces,",
+          "startSec": 201.08,
+          "endSec": 201.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 202.4,
+      "end": 204.59,
+      "text": "like mayonnaise or ketchup.",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 202.6,
+          "endSec": 202.88,
+          "score": 0.99
+        },
+        {
+          "word": "mayonnaise",
+          "startSec": 202.88,
+          "endSec": 203.84,
+          "score": 0.97
+        },
+        {
+          "word": "or",
+          "startSec": 203.84,
+          "endSec": 204.02,
+          "score": 0.97
+        },
+        {
+          "word": "ketchup.",
+          "startSec": 204.02,
+          "endSec": 204.44,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 205.33,
+      "end": 209.76,
+      "text": "Some people also like to put a little bit of salt on their fries.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 205.53,
+          "endSec": 205.83,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 205.83,
+          "endSec": 206.31,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 206.31,
+          "endSec": 206.79,
+          "score": 0.98
+        },
+        {
+          "word": "like",
+          "startSec": 206.79,
+          "endSec": 207.21,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 207.21,
+          "endSec": 207.39,
+          "score": 1.0
+        },
+        {
+          "word": "put",
+          "startSec": 207.39,
+          "endSec": 207.63,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 207.63,
+          "endSec": 207.75,
+          "score": 0.99
+        },
+        {
+          "word": "little",
+          "startSec": 207.75,
+          "endSec": 208.01,
+          "score": 1.0
+        },
+        {
+          "word": "bit",
+          "startSec": 208.01,
+          "endSec": 208.19,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 208.19,
+          "endSec": 208.31,
+          "score": 1.0
+        },
+        {
+          "word": "salt",
+          "startSec": 208.31,
+          "endSec": 208.67,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 208.67,
+          "endSec": 209.11,
+          "score": 0.99
+        },
+        {
+          "word": "their",
+          "startSec": 209.11,
+          "endSec": 209.31,
+          "score": 1.0
+        },
+        {
+          "word": "fries.",
+          "startSec": 209.31,
+          "endSec": 209.61,
+          "score": 0.32
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 210.63,
+      "end": 213.38,
+      "text": "Belgium is also famous for its beer.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 210.83,
+          "endSec": 211.27,
+          "score": 0.8
+        },
+        {
+          "word": "is",
+          "startSec": 211.27,
+          "endSec": 211.55,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 211.55,
+          "endSec": 211.87,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 211.87,
+          "endSec": 212.43,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 212.43,
+          "endSec": 212.71,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 212.71,
+          "endSec": 212.89,
+          "score": 0.91
+        },
+        {
+          "word": "beer.",
+          "startSec": 212.89,
+          "endSec": 213.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 214.57,
+      "end": 217.48,
+      "text": "Belgian beer is known all over the world.",
+      "words": [
+        {
+          "word": "Belgian",
+          "startSec": 214.77,
+          "endSec": 214.77,
+          "score": 0.84
+        },
+        {
+          "word": "beer",
+          "startSec": 214.77,
+          "endSec": 215.17,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 215.17,
+          "endSec": 215.53,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 215.53,
+          "endSec": 215.79,
+          "score": 1.0
+        },
+        {
+          "word": "all",
+          "startSec": 215.79,
+          "endSec": 216.37,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 216.37,
+          "endSec": 216.77,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 216.77,
+          "endSec": 216.93,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 216.93,
+          "endSec": 217.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 217.87,
+      "end": 221.04,
+      "text": "There are many different types of beer in Belgium",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 218.07,
+          "endSec": 218.37,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 218.37,
+          "endSec": 218.53,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 218.53,
+          "endSec": 218.81,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 218.81,
+          "endSec": 219.29,
+          "score": 1.0
+        },
+        {
+          "word": "types",
+          "startSec": 219.29,
+          "endSec": 219.67,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 219.67,
+          "endSec": 219.97,
+          "score": 1.0
+        },
+        {
+          "word": "beer",
+          "startSec": 219.97,
+          "endSec": 220.25,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 220.25,
+          "endSec": 220.53,
+          "score": 0.98
+        },
+        {
+          "word": "Belgium",
+          "startSec": 220.53,
+          "endSec": 220.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 220.69,
+      "end": 224.14,
+      "text": "and each type has a special taste.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 220.89,
+          "endSec": 221.91,
+          "score": 0.23
+        },
+        {
+          "word": "each",
+          "startSec": 221.91,
+          "endSec": 222.21,
+          "score": 0.85
+        },
+        {
+          "word": "type",
+          "startSec": 222.21,
+          "endSec": 222.67,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 222.67,
+          "endSec": 223.03,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 223.03,
+          "endSec": 223.21,
+          "score": 0.99
+        },
+        {
+          "word": "special",
+          "startSec": 223.21,
+          "endSec": 223.59,
+          "score": 1.0
+        },
+        {
+          "word": "taste.",
+          "startSec": 223.59,
+          "endSec": 223.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 225.53,
+      "end": 229.64,
+      "text": "People in Belgium drink beer in many different places",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 225.73,
+          "endSec": 226.13,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 226.13,
+          "endSec": 226.35,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 226.35,
+          "endSec": 226.59,
+          "score": 1.0
+        },
+        {
+          "word": "drink",
+          "startSec": 226.59,
+          "endSec": 227.27,
+          "score": 0.99
+        },
+        {
+          "word": "beer",
+          "startSec": 227.27,
+          "endSec": 227.75,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 227.75,
+          "endSec": 228.15,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 228.15,
+          "endSec": 228.45,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 228.45,
+          "endSec": 228.89,
+          "score": 1.0
+        },
+        {
+          "word": "places",
+          "startSec": 228.89,
+          "endSec": 229.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 229.29,
+      "end": 232.4,
+      "text": "and it is a big part of their culture.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 229.49,
+          "endSec": 230.63,
+          "score": 0.46
+        },
+        {
+          "word": "it",
+          "startSec": 230.63,
+          "endSec": 230.77,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 230.77,
+          "endSec": 230.93,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 230.93,
+          "endSec": 231.05,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 231.05,
+          "endSec": 231.25,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 231.25,
+          "endSec": 231.59,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 231.59,
+          "endSec": 231.77,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 231.77,
+          "endSec": 231.93,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 231.93,
+          "endSec": 232.25,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 233.13,
+      "end": 236.08,
+      "text": "There are also beer festivals in Belgium",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 233.33,
+          "endSec": 233.63,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 233.63,
+          "endSec": 233.81,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 233.81,
+          "endSec": 234.23,
+          "score": 0.99
+        },
+        {
+          "word": "beer",
+          "startSec": 234.23,
+          "endSec": 234.59,
+          "score": 0.99
+        },
+        {
+          "word": "festivals",
+          "startSec": 234.59,
+          "endSec": 235.07,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 235.07,
+          "endSec": 235.61,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 235.61,
+          "endSec": 235.93,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 236.39,
+      "end": 239.68,
+      "text": "where you can try many different kinds of beer.",
+      "words": [
+        {
+          "word": "where",
+          "startSec": 236.59,
+          "endSec": 236.95,
+          "score": 0.73
+        },
+        {
+          "word": "you",
+          "startSec": 236.95,
+          "endSec": 237.13,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 237.13,
+          "endSec": 237.31,
+          "score": 1.0
+        },
+        {
+          "word": "try",
+          "startSec": 237.31,
+          "endSec": 237.57,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 237.57,
+          "endSec": 238.07,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 238.07,
+          "endSec": 238.61,
+          "score": 1.0
+        },
+        {
+          "word": "kinds",
+          "startSec": 238.61,
+          "endSec": 238.95,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 238.95,
+          "endSec": 239.25,
+          "score": 1.0
+        },
+        {
+          "word": "beer.",
+          "startSec": 239.25,
+          "endSec": 239.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 240.31,
+      "end": 244.28,
+      "text": "Another famous Belgian dish is called Stu Fles,",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 240.51,
+          "endSec": 241.05,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 241.05,
+          "endSec": 241.63,
+          "score": 1.0
+        },
+        {
+          "word": "Belgian",
+          "startSec": 241.63,
+          "endSec": 242.09,
+          "score": 0.91
+        },
+        {
+          "word": "dish",
+          "startSec": 242.09,
+          "endSec": 242.49,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 242.49,
+          "endSec": 242.79,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 242.79,
+          "endSec": 243.11,
+          "score": 1.0
+        },
+        {
+          "word": "Stu",
+          "startSec": 243.11,
+          "endSec": 243.71,
+          "score": 0.46
+        },
+        {
+          "word": "Fles,",
+          "startSec": 243.71,
+          "endSec": 244.13,
+          "score": 0.41
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 244.43,
+      "end": 246.52,
+      "text": "which is a type of beef stew.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 244.63,
+          "endSec": 244.91,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 244.91,
+          "endSec": 245.09,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 245.09,
+          "endSec": 245.25,
+          "score": 0.89
+        },
+        {
+          "word": "type",
+          "startSec": 245.25,
+          "endSec": 245.49,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 245.49,
+          "endSec": 245.71,
+          "score": 1.0
+        },
+        {
+          "word": "beef",
+          "startSec": 245.71,
+          "endSec": 245.97,
+          "score": 0.99
+        },
+        {
+          "word": "stew.",
+          "startSec": 245.97,
+          "endSec": 246.37,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 246.94,
+      "end": 250.47,
+      "text": "It is made with beef, onions and beer.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 247.14,
+          "endSec": 247.6,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 247.6,
+          "endSec": 247.76,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 247.76,
+          "endSec": 248.02,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 248.02,
+          "endSec": 248.34,
+          "score": 1.0
+        },
+        {
+          "word": "beef,",
+          "startSec": 248.34,
+          "endSec": 248.72,
+          "score": 0.99
+        },
+        {
+          "word": "onions",
+          "startSec": 249.18,
+          "endSec": 249.5,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 249.5,
+          "endSec": 250.06,
+          "score": 0.55
+        },
+        {
+          "word": "beer.",
+          "startSec": 250.06,
+          "endSec": 250.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 250.12,
+      "end": 254.93,
+      "text": "It is very tasty and often served with fried eights.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 250.32,
+          "endSec": 251.44,
+          "score": 0.66
+        },
+        {
+          "word": "is",
+          "startSec": 251.44,
+          "endSec": 251.62,
+          "score": 0.98
+        },
+        {
+          "word": "very",
+          "startSec": 251.62,
+          "endSec": 251.86,
+          "score": 0.99
+        },
+        {
+          "word": "tasty",
+          "startSec": 251.86,
+          "endSec": 252.4,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 252.4,
+          "endSec": 252.88,
+          "score": 0.95
+        },
+        {
+          "word": "often",
+          "startSec": 252.88,
+          "endSec": 253.28,
+          "score": 0.99
+        },
+        {
+          "word": "served",
+          "startSec": 253.28,
+          "endSec": 253.72,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 253.72,
+          "endSec": 254.02,
+          "score": 1.0
+        },
+        {
+          "word": "fried",
+          "startSec": 254.02,
+          "endSec": 254.24,
+          "score": 0.29
+        },
+        {
+          "word": "eights.",
+          "startSec": 254.24,
+          "endSec": 254.78,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 256.06,
+      "end": 259.77,
+      "text": "People in Belgium also eat many delicious desserts.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 256.26,
+          "endSec": 256.68,
+          "score": 0.96
+        },
+        {
+          "word": "in",
+          "startSec": 256.68,
+          "endSec": 256.9,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 256.9,
+          "endSec": 257.14,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 257.14,
+          "endSec": 257.74,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 257.74,
+          "endSec": 258.16,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 258.16,
+          "endSec": 258.48,
+          "score": 0.97
+        },
+        {
+          "word": "delicious",
+          "startSec": 258.48,
+          "endSec": 259.04,
+          "score": 1.0
+        },
+        {
+          "word": "desserts.",
+          "startSec": 259.04,
+          "endSec": 259.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 260.48,
+      "end": 263.41,
+      "text": "One popular dessert is called speculus.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 260.68,
+          "endSec": 260.88,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 260.88,
+          "endSec": 261.36,
+          "score": 1.0
+        },
+        {
+          "word": "dessert",
+          "startSec": 261.36,
+          "endSec": 261.86,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 261.86,
+          "endSec": 262.2,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 262.2,
+          "endSec": 262.48,
+          "score": 1.0
+        },
+        {
+          "word": "speculus.",
+          "startSec": 262.48,
+          "endSec": 263.26,
+          "score": 0.21
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 263.9,
+      "end": 268.03,
+      "text": "It is a type of spiced cookie and it is very sweet.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 264.1,
+          "endSec": 264.66,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 264.66,
+          "endSec": 264.94,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 264.94,
+          "endSec": 265.1,
+          "score": 0.96
+        },
+        {
+          "word": "type",
+          "startSec": 265.1,
+          "endSec": 265.34,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 265.34,
+          "endSec": 265.54,
+          "score": 1.0
+        },
+        {
+          "word": "spiced",
+          "startSec": 265.54,
+          "endSec": 265.98,
+          "score": 0.93
+        },
+        {
+          "word": "cookie",
+          "startSec": 265.98,
+          "endSec": 266.34,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 266.34,
+          "endSec": 266.84,
+          "score": 0.88
+        },
+        {
+          "word": "it",
+          "startSec": 266.84,
+          "endSec": 266.98,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 266.98,
+          "endSec": 267.16,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 267.16,
+          "endSec": 267.38,
+          "score": 1.0
+        },
+        {
+          "word": "sweet.",
+          "startSec": 267.38,
+          "endSec": 267.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 268.68,
+      "end": 271.81,
+      "text": "Another popular dessert is Belgian pralines.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 268.88,
+          "endSec": 269.24,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 269.24,
+          "endSec": 269.66,
+          "score": 1.0
+        },
+        {
+          "word": "dessert",
+          "startSec": 269.66,
+          "endSec": 270.28,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 270.28,
+          "endSec": 270.64,
+          "score": 1.0
+        },
+        {
+          "word": "Belgian",
+          "startSec": 270.64,
+          "endSec": 270.96,
+          "score": 0.87
+        },
+        {
+          "word": "pralines.",
+          "startSec": 270.96,
+          "endSec": 271.66,
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 272.46,
+      "end": 275.17,
+      "text": "These are chocolates filled with cream or caramel.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 272.66,
+          "endSec": 272.82,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 272.82,
+          "endSec": 273.02,
+          "score": 1.0
+        },
+        {
+          "word": "chocolates",
+          "startSec": 273.02,
+          "endSec": 273.6,
+          "score": 0.98
+        },
+        {
+          "word": "filled",
+          "startSec": 273.6,
+          "endSec": 273.82,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 273.82,
+          "endSec": 274.1,
+          "score": 1.0
+        },
+        {
+          "word": "cream",
+          "startSec": 274.1,
+          "endSec": 274.38,
+          "score": 0.97
+        },
+        {
+          "word": "or",
+          "startSec": 274.38,
+          "endSec": 274.78,
+          "score": 0.99
+        },
+        {
+          "word": "caramel.",
+          "startSec": 274.78,
+          "endSec": 275.02,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 277.13,
+      "end": 280.44,
+      "text": "They are perfect for anyone who loves chocolate,",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 277.33,
+          "endSec": 277.83,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 277.83,
+          "endSec": 277.99,
+          "score": 1.0
+        },
+        {
+          "word": "perfect",
+          "startSec": 277.99,
+          "endSec": 278.49,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 278.49,
+          "endSec": 278.83,
+          "score": 1.0
+        },
+        {
+          "word": "anyone",
+          "startSec": 278.83,
+          "endSec": 279.15,
+          "score": 1.0
+        },
+        {
+          "word": "who",
+          "startSec": 279.15,
+          "endSec": 279.61,
+          "score": 1.0
+        },
+        {
+          "word": "loves",
+          "startSec": 279.61,
+          "endSec": 279.85,
+          "score": 1.0
+        },
+        {
+          "word": "chocolate,",
+          "startSec": 279.85,
+          "endSec": 280.29,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 280.09,
+      "end": 283.14,
+      "text": "culture and people.",
+      "words": [
+        {
+          "word": "culture",
+          "startSec": 280.29,
+          "endSec": 281.61,
+          "score": 0.01
+        },
+        {
+          "word": "and",
+          "startSec": 282.25,
+          "endSec": 282.65,
+          "score": 0.89
+        },
+        {
+          "word": "people.",
+          "startSec": 282.65,
+          "endSec": 282.99,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 283.43,
+      "end": 286.86,
+      "text": "People in Belgium speak different languages.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 283.63,
+          "endSec": 284.43,
+          "score": 0.78
+        },
+        {
+          "word": "in",
+          "startSec": 284.43,
+          "endSec": 284.69,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 284.69,
+          "endSec": 285.03,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 285.03,
+          "endSec": 285.61,
+          "score": 0.99
+        },
+        {
+          "word": "different",
+          "startSec": 285.61,
+          "endSec": 286.13,
+          "score": 0.99
+        },
+        {
+          "word": "languages.",
+          "startSec": 286.13,
+          "endSec": 286.71,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 287.53,
+      "end": 291.42,
+      "text": "The main languages are Dutch, French and German.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 287.73,
+          "endSec": 287.97,
+          "score": 0.98
+        },
+        {
+          "word": "main",
+          "startSec": 287.97,
+          "endSec": 288.19,
+          "score": 0.98
+        },
+        {
+          "word": "languages",
+          "startSec": 288.19,
+          "endSec": 288.83,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 288.83,
+          "endSec": 289.45,
+          "score": 0.99
+        },
+        {
+          "word": "Dutch,",
+          "startSec": 289.45,
+          "endSec": 289.83,
+          "score": 0.98
+        },
+        {
+          "word": "French",
+          "startSec": 290.29,
+          "endSec": 290.55,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 290.55,
+          "endSec": 291.01,
+          "score": 0.59
+        },
+        {
+          "word": "German.",
+          "startSec": 291.01,
+          "endSec": 291.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 292.09,
+      "end": 295.58,
+      "text": "In the north of Belgium, people speak Dutch,",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 292.29,
+          "endSec": 292.57,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 292.57,
+          "endSec": 292.69,
+          "score": 1.0
+        },
+        {
+          "word": "north",
+          "startSec": 292.69,
+          "endSec": 292.97,
+          "score": 0.92
+        },
+        {
+          "word": "of",
+          "startSec": 292.97,
+          "endSec": 293.21,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium,",
+          "startSec": 293.21,
+          "endSec": 293.57,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 294.17,
+          "endSec": 294.43,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 294.43,
+          "endSec": 294.99,
+          "score": 1.0
+        },
+        {
+          "word": "Dutch,",
+          "startSec": 294.99,
+          "endSec": 295.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 295.75,
+      "end": 297.92,
+      "text": "which is also called Flemish.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 295.95,
+          "endSec": 296.17,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 296.17,
+          "endSec": 296.35,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 296.35,
+          "endSec": 296.75,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 296.75,
+          "endSec": 297.13,
+          "score": 1.0
+        },
+        {
+          "word": "Flemish.",
+          "startSec": 297.13,
+          "endSec": 297.77,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 298.31,
+      "end": 300.74,
+      "text": "In the south, people speak French.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 298.51,
+          "endSec": 298.73,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 298.73,
+          "endSec": 298.85,
+          "score": 1.0
+        },
+        {
+          "word": "south,",
+          "startSec": 298.85,
+          "endSec": 299.25,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 299.33,
+          "endSec": 299.79,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 299.79,
+          "endSec": 300.23,
+          "score": 1.0
+        },
+        {
+          "word": "French.",
+          "startSec": 300.23,
+          "endSec": 300.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 301.11,
+      "end": 304.9,
+      "text": "There is a small part of Belgium where people speak German.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 301.31,
+          "endSec": 301.51,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 301.51,
+          "endSec": 301.71,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 301.71,
+          "endSec": 301.83,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 301.83,
+          "endSec": 302.15,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 302.15,
+          "endSec": 302.59,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 302.59,
+          "endSec": 302.75,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 302.75,
+          "endSec": 303.07,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 303.07,
+          "endSec": 303.57,
+          "score": 0.89
+        },
+        {
+          "word": "people",
+          "startSec": 303.57,
+          "endSec": 303.87,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 303.87,
+          "endSec": 304.41,
+          "score": 1.0
+        },
+        {
+          "word": "German.",
+          "startSec": 304.41,
+          "endSec": 304.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 305.54,
+      "end": 309.69,
+      "text": "Many people in Belgium also speak English,",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 305.74,
+          "endSec": 306.38,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 306.38,
+          "endSec": 306.88,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 306.88,
+          "endSec": 307.16,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 307.16,
+          "endSec": 307.5,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 307.5,
+          "endSec": 308.38,
+          "score": 0.93
+        },
+        {
+          "word": "speak",
+          "startSec": 308.38,
+          "endSec": 308.98,
+          "score": 1.0
+        },
+        {
+          "word": "English,",
+          "startSec": 308.98,
+          "endSec": 309.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 309.34,
+      "end": 314.49,
+      "text": "especially in big cities like Brussels and Antwerp.",
+      "words": [
+        {
+          "word": "especially",
+          "startSec": 309.54,
+          "endSec": 310.66,
+          "score": 0.28
+        },
+        {
+          "word": "in",
+          "startSec": 310.66,
+          "endSec": 311.36,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 311.36,
+          "endSec": 311.6,
+          "score": 0.99
+        },
+        {
+          "word": "cities",
+          "startSec": 311.6,
+          "endSec": 312.0,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 312.0,
+          "endSec": 312.46,
+          "score": 0.98
+        },
+        {
+          "word": "Brussels",
+          "startSec": 312.46,
+          "endSec": 312.86,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 312.86,
+          "endSec": 313.48,
+          "score": 0.98
+        },
+        {
+          "word": "Antwerp.",
+          "startSec": 313.48,
+          "endSec": 314.34,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 314.62,
+      "end": 317.33,
+      "text": "Belgium is a country with many traditions.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 314.82,
+          "endSec": 315.26,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 315.26,
+          "endSec": 315.6,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 315.6,
+          "endSec": 315.72,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 315.72,
+          "endSec": 316.14,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 316.14,
+          "endSec": 316.44,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 316.44,
+          "endSec": 316.7,
+          "score": 1.0
+        },
+        {
+          "word": "traditions.",
+          "startSec": 316.7,
+          "endSec": 317.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 318.85,
+      "end": 322.54,
+      "text": "One famous tradition is called carnival.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 319.05,
+          "endSec": 319.35,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 319.35,
+          "endSec": 319.83,
+          "score": 1.0
+        },
+        {
+          "word": "tradition",
+          "startSec": 319.83,
+          "endSec": 320.27,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 320.27,
+          "endSec": 320.89,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 320.89,
+          "endSec": 321.29,
+          "score": 1.0
+        },
+        {
+          "word": "carnival.",
+          "startSec": 321.29,
+          "endSec": 322.39,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 323.15,
+      "end": 328.28,
+      "text": "The carnival of bench is one of the most famous festivals in Belgium.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 323.35,
+          "endSec": 323.65,
+          "score": 0.98
+        },
+        {
+          "word": "carnival",
+          "startSec": 323.65,
+          "endSec": 324.23,
+          "score": 0.92
+        },
+        {
+          "word": "of",
+          "startSec": 324.23,
+          "endSec": 324.51,
+          "score": 1.0
+        },
+        {
+          "word": "bench",
+          "startSec": 324.51,
+          "endSec": 324.79,
+          "score": 0.53
+        },
+        {
+          "word": "is",
+          "startSec": 324.79,
+          "endSec": 325.43,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 325.43,
+          "endSec": 325.69,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 325.69,
+          "endSec": 325.87,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 325.87,
+          "endSec": 326.01,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 326.01,
+          "endSec": 326.23,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 326.23,
+          "endSec": 326.77,
+          "score": 1.0
+        },
+        {
+          "word": "festivals",
+          "startSec": 326.77,
+          "endSec": 327.37,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 327.37,
+          "endSec": 327.85,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium.",
+          "startSec": 327.85,
+          "endSec": 328.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 328.89,
+      "end": 331.8,
+      "text": "It happens every year before Easter.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 329.09,
+          "endSec": 329.41,
+          "score": 0.99
+        },
+        {
+          "word": "happens",
+          "startSec": 329.41,
+          "endSec": 329.69,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 329.69,
+          "endSec": 330.33,
+          "score": 1.0
+        },
+        {
+          "word": "year",
+          "startSec": 330.33,
+          "endSec": 330.75,
+          "score": 1.0
+        },
+        {
+          "word": "before",
+          "startSec": 330.75,
+          "endSec": 331.17,
+          "score": 0.99
+        },
+        {
+          "word": "Easter.",
+          "startSec": 331.17,
+          "endSec": 331.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 332.46,
+      "end": 335.67,
+      "text": "People wear colorful costumes and masks",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 332.66,
+          "endSec": 333.28,
+          "score": 0.99
+        },
+        {
+          "word": "wear",
+          "startSec": 333.28,
+          "endSec": 333.58,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 333.58,
+          "endSec": 334.0,
+          "score": 0.99
+        },
+        {
+          "word": "costumes",
+          "startSec": 334.0,
+          "endSec": 334.72,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 334.72,
+          "endSec": 335.2,
+          "score": 0.98
+        },
+        {
+          "word": "masks",
+          "startSec": 335.2,
+          "endSec": 335.52,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 335.32,
+      "end": 338.23,
+      "text": "and they dance and sing in the streets.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 335.52,
+          "endSec": 336.32,
+          "score": 0.67
+        },
+        {
+          "word": "they",
+          "startSec": 336.32,
+          "endSec": 336.48,
+          "score": 1.0
+        },
+        {
+          "word": "dance",
+          "startSec": 336.48,
+          "endSec": 336.8,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 336.8,
+          "endSec": 337.14,
+          "score": 1.0
+        },
+        {
+          "word": "sing",
+          "startSec": 337.14,
+          "endSec": 337.42,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 337.42,
+          "endSec": 337.62,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 337.62,
+          "endSec": 337.76,
+          "score": 1.0
+        },
+        {
+          "word": "streets.",
+          "startSec": 337.76,
+          "endSec": 338.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 337.88,
+      "end": 341.61,
+      "text": "It is a very fun time for everyone",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 338.08,
+          "endSec": 339.38,
+          "score": 0.49
+        },
+        {
+          "word": "is",
+          "startSec": 339.44,
+          "endSec": 339.6,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 339.6,
+          "endSec": 339.76,
+          "score": 0.98
+        },
+        {
+          "word": "very",
+          "startSec": 339.76,
+          "endSec": 340.04,
+          "score": 0.95
+        },
+        {
+          "word": "fun",
+          "startSec": 340.04,
+          "endSec": 340.36,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 340.36,
+          "endSec": 340.66,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 340.66,
+          "endSec": 340.96,
+          "score": 0.99
+        },
+        {
+          "word": "everyone",
+          "startSec": 340.96,
+          "endSec": 341.46,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 341.26,
+      "end": 346.65,
+      "text": "and people from all over the world visit Belgium to see the carnival.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 341.46,
+          "endSec": 342.38,
+          "score": 0.61
+        },
+        {
+          "word": "people",
+          "startSec": 342.38,
+          "endSec": 342.76,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 342.76,
+          "endSec": 343.02,
+          "score": 0.98
+        },
+        {
+          "word": "all",
+          "startSec": 343.02,
+          "endSec": 343.32,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 343.32,
+          "endSec": 343.58,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 343.58,
+          "endSec": 343.78,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "startSec": 343.78,
+          "endSec": 344.14,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 344.14,
+          "endSec": 344.56,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium",
+          "startSec": 344.56,
+          "endSec": 345.0,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 345.0,
+          "endSec": 345.48,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 345.48,
+          "endSec": 345.7,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 345.7,
+          "endSec": 345.9,
+          "score": 0.99
+        },
+        {
+          "word": "carnival.",
+          "startSec": 345.9,
+          "endSec": 346.5,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 347.22,
+      "end": 349.01,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 347.42,
+          "endSec": 348.12,
+          "score": 0.93
+        },
+        {
+          "word": "and",
+          "startSec": 348.12,
+          "endSec": 348.36,
+          "score": 0.97
+        },
+        {
+          "word": "animals.",
+          "startSec": 348.36,
+          "endSec": 348.86,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 350.18,
+      "end": 355.65,
+      "text": "Belgium has many beautiful parks, forests and nature areas.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 350.38,
+          "endSec": 351.14,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 351.14,
+          "endSec": 351.48,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 351.48,
+          "endSec": 351.82,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 351.82,
+          "endSec": 352.38,
+          "score": 1.0
+        },
+        {
+          "word": "parks,",
+          "startSec": 352.38,
+          "endSec": 353.0,
+          "score": 0.99
+        },
+        {
+          "word": "forests",
+          "startSec": 353.22,
+          "endSec": 353.88,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 353.88,
+          "endSec": 354.6,
+          "score": 0.64
+        },
+        {
+          "word": "nature",
+          "startSec": 354.6,
+          "endSec": 354.94,
+          "score": 1.0
+        },
+        {
+          "word": "areas.",
+          "startSec": 354.94,
+          "endSec": 355.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 356.06,
+      "end": 359.59,
+      "text": "One famous area in Belgium is called the Ardennes.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 356.26,
+          "endSec": 356.58,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 356.58,
+          "endSec": 357.0,
+          "score": 1.0
+        },
+        {
+          "word": "area",
+          "startSec": 357.0,
+          "endSec": 357.46,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 357.46,
+          "endSec": 357.74,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 357.74,
+          "endSec": 358.06,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 358.06,
+          "endSec": 358.44,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 358.44,
+          "endSec": 358.74,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 358.74,
+          "endSec": 358.96,
+          "score": 0.96
+        },
+        {
+          "word": "Ardennes.",
+          "startSec": 358.96,
+          "endSec": 359.44,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 360.13,
+      "end": 364.82,
+      "text": "The Ardennes is a large forest with many hills and rivers.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 360.33,
+          "endSec": 360.83,
+          "score": 0.98
+        },
+        {
+          "word": "Ardennes",
+          "startSec": 360.83,
+          "endSec": 361.37,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 361.37,
+          "endSec": 361.77,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 361.77,
+          "endSec": 361.95,
+          "score": 1.0
+        },
+        {
+          "word": "large",
+          "startSec": 361.95,
+          "endSec": 362.17,
+          "score": 1.0
+        },
+        {
+          "word": "forest",
+          "startSec": 362.17,
+          "endSec": 362.75,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 362.75,
+          "endSec": 363.27,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 363.27,
+          "endSec": 363.61,
+          "score": 0.99
+        },
+        {
+          "word": "hills",
+          "startSec": 363.61,
+          "endSec": 364.13,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 364.13,
+          "endSec": 364.41,
+          "score": 1.0
+        },
+        {
+          "word": "rivers.",
+          "startSec": 364.41,
+          "endSec": 364.67,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 364.47,
+      "end": 370.34,
+      "text": "It is a great place for hiking, biking and exploring nature.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 364.67,
+          "endSec": 365.81,
+          "score": 0.49
+        },
+        {
+          "word": "is",
+          "startSec": 365.81,
+          "endSec": 365.97,
+          "score": 0.93
+        },
+        {
+          "word": "a",
+          "startSec": 365.97,
+          "endSec": 366.11,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 366.11,
+          "endSec": 366.35,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 366.35,
+          "endSec": 366.75,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 366.75,
+          "endSec": 366.97,
+          "score": 1.0
+        },
+        {
+          "word": "hiking,",
+          "startSec": 366.97,
+          "endSec": 367.41,
+          "score": 1.0
+        },
+        {
+          "word": "biking",
+          "startSec": 367.87,
+          "endSec": 368.39,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 368.39,
+          "endSec": 369.01,
+          "score": 0.46
+        },
+        {
+          "word": "exploring",
+          "startSec": 369.01,
+          "endSec": 369.57,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 369.57,
+          "endSec": 370.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 371.2,
+      "end": 375.87,
+      "text": "Many people go to the Ardennes to relax and enjoy the fresh air.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 371.4,
+          "endSec": 371.68,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 371.68,
+          "endSec": 372.18,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 372.18,
+          "endSec": 372.44,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 372.44,
+          "endSec": 372.6,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 372.6,
+          "endSec": 372.74,
+          "score": 0.99
+        },
+        {
+          "word": "Ardennes",
+          "startSec": 372.74,
+          "endSec": 373.2,
+          "score": 0.86
+        },
+        {
+          "word": "to",
+          "startSec": 373.2,
+          "endSec": 373.52,
+          "score": 0.99
+        },
+        {
+          "word": "relax",
+          "startSec": 373.52,
+          "endSec": 373.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 373.92,
+          "endSec": 374.48,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 374.48,
+          "endSec": 374.78,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 374.78,
+          "endSec": 375.06,
+          "score": 0.99
+        },
+        {
+          "word": "fresh",
+          "startSec": 375.06,
+          "endSec": 375.28,
+          "score": 1.0
+        },
+        {
+          "word": "air.",
+          "startSec": 375.28,
+          "endSec": 375.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 376.93,
+      "end": 380.14,
+      "text": "Belgium is also home to many different animals.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 377.13,
+          "endSec": 377.51,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 377.51,
+          "endSec": 377.85,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 377.85,
+          "endSec": 378.27,
+          "score": 1.0
+        },
+        {
+          "word": "home",
+          "startSec": 378.27,
+          "endSec": 378.55,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 378.55,
+          "endSec": 378.81,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 378.81,
+          "endSec": 379.07,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 379.07,
+          "endSec": 379.43,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 379.43,
+          "endSec": 379.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 380.79,
+      "end": 386.44,
+      "text": "In the forests, you can find animals like deer, foxes and wild boars.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 380.99,
+          "endSec": 381.15,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 381.15,
+          "endSec": 381.29,
+          "score": 1.0
+        },
+        {
+          "word": "forests,",
+          "startSec": 381.29,
+          "endSec": 381.71,
+          "score": 0.92
+        },
+        {
+          "word": "you",
+          "startSec": 382.29,
+          "endSec": 382.35,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 382.35,
+          "endSec": 382.51,
+          "score": 1.0
+        },
+        {
+          "word": "find",
+          "startSec": 382.51,
+          "endSec": 382.77,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 382.77,
+          "endSec": 383.29,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 383.29,
+          "endSec": 383.63,
+          "score": 0.98
+        },
+        {
+          "word": "deer,",
+          "startSec": 383.63,
+          "endSec": 383.99,
+          "score": 0.99
+        },
+        {
+          "word": "foxes",
+          "startSec": 384.51,
+          "endSec": 385.05,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 385.05,
+          "endSec": 385.41,
+          "score": 0.65
+        },
+        {
+          "word": "wild",
+          "startSec": 385.41,
+          "endSec": 385.65,
+          "score": 1.0
+        },
+        {
+          "word": "boars.",
+          "startSec": 385.65,
+          "endSec": 386.29,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 387.68,
+      "end": 392.83,
+      "text": "Belgium has many birds too, and you can see them in the forests and parks.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 387.88,
+          "endSec": 388.44,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 388.44,
+          "endSec": 388.74,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 388.74,
+          "endSec": 389.02,
+          "score": 1.0
+        },
+        {
+          "word": "birds",
+          "startSec": 389.02,
+          "endSec": 389.42,
+          "score": 0.99
+        },
+        {
+          "word": "too,",
+          "startSec": 389.42,
+          "endSec": 389.9,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 390.32,
+          "endSec": 390.48,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 390.48,
+          "endSec": 390.66,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 390.66,
+          "endSec": 390.82,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 390.82,
+          "endSec": 391.12,
+          "score": 1.0
+        },
+        {
+          "word": "them",
+          "startSec": 391.12,
+          "endSec": 391.4,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 391.4,
+          "endSec": 391.54,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 391.54,
+          "endSec": 391.66,
+          "score": 0.99
+        },
+        {
+          "word": "forests",
+          "startSec": 391.66,
+          "endSec": 392.0,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 392.0,
+          "endSec": 392.4,
+          "score": 1.0
+        },
+        {
+          "word": "parks.",
+          "startSec": 392.4,
+          "endSec": 392.68,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 393.77,
+      "end": 398.31,
+      "text": "There are also many small animals like rabbits and squirrels.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 393.97,
+          "endSec": 394.36,
+          "score": 0.26
+        },
+        {
+          "word": "are",
+          "startSec": 394.36,
+          "endSec": 394.5,
+          "score": 0.97
+        },
+        {
+          "word": "also",
+          "startSec": 394.5,
+          "endSec": 394.86,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 394.86,
+          "endSec": 395.12,
+          "score": 0.98
+        },
+        {
+          "word": "small",
+          "startSec": 395.12,
+          "endSec": 395.56,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 395.56,
+          "endSec": 396.02,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 396.02,
+          "endSec": 396.52,
+          "score": 0.84
+        },
+        {
+          "word": "rabbits",
+          "startSec": 396.52,
+          "endSec": 396.88,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 396.88,
+          "endSec": 397.22,
+          "score": 0.98
+        },
+        {
+          "word": "squirrels.",
+          "startSec": 397.22,
+          "endSec": 398.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 398.6,
+      "end": 401.17,
+      "text": "Belgium has many lakes and rivers.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 398.8,
+          "endSec": 399.34,
+          "score": 0.94
+        },
+        {
+          "word": "has",
+          "startSec": 399.34,
+          "endSec": 399.64,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 399.64,
+          "endSec": 399.92,
+          "score": 1.0
+        },
+        {
+          "word": "lakes",
+          "startSec": 399.92,
+          "endSec": 400.36,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 400.36,
+          "endSec": 400.76,
+          "score": 1.0
+        },
+        {
+          "word": "rivers.",
+          "startSec": 400.76,
+          "endSec": 401.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 402.42,
+      "end": 406.17,
+      "text": "The largest lake in Belgium is Lake Genval,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 402.62,
+          "endSec": 402.8,
+          "score": 1.0
+        },
+        {
+          "word": "largest",
+          "startSec": 402.8,
+          "endSec": 403.22,
+          "score": 1.0
+        },
+        {
+          "word": "lake",
+          "startSec": 403.22,
+          "endSec": 403.76,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 403.76,
+          "endSec": 404.02,
+          "score": 0.98
+        },
+        {
+          "word": "Belgium",
+          "startSec": 404.02,
+          "endSec": 404.4,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 404.4,
+          "endSec": 405.02,
+          "score": 0.99
+        },
+        {
+          "word": "Lake",
+          "startSec": 405.02,
+          "endSec": 405.36,
+          "score": 0.98
+        },
+        {
+          "word": "Genval,",
+          "startSec": 405.36,
+          "endSec": 406.02,
+          "score": 0.34
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 406.44,
+      "end": 410.65,
+      "text": "which is a popular place to relax and have a picnic.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 406.64,
+          "endSec": 407.02,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 407.02,
+          "endSec": 407.18,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 407.18,
+          "endSec": 407.34,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 407.34,
+          "endSec": 407.76,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 407.76,
+          "endSec": 408.38,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 408.38,
+          "endSec": 408.66,
+          "score": 1.0
+        },
+        {
+          "word": "relax",
+          "startSec": 408.66,
+          "endSec": 409.06,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 409.06,
+          "endSec": 409.66,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 409.66,
+          "endSec": 409.98,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 409.98,
+          "endSec": 410.12,
+          "score": 1.0
+        },
+        {
+          "word": "picnic.",
+          "startSec": 410.12,
+          "endSec": 410.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 411.45,
+      "end": 415.68,
+      "text": "People in Belgium like to go fishing in the lakes and rivers",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 411.65,
+          "endSec": 412.13,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 412.13,
+          "endSec": 412.45,
+          "score": 0.99
+        },
+        {
+          "word": "Belgium",
+          "startSec": 412.45,
+          "endSec": 412.99,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 412.99,
+          "endSec": 413.29,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 413.29,
+          "endSec": 413.51,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 413.51,
+          "endSec": 413.73,
+          "score": 1.0
+        },
+        {
+          "word": "fishing",
+          "startSec": 413.73,
+          "endSec": 414.09,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 414.09,
+          "endSec": 414.51,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 414.51,
+          "endSec": 414.67,
+          "score": 1.0
+        },
+        {
+          "word": "lakes",
+          "startSec": 414.67,
+          "endSec": 414.95,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 414.95,
+          "endSec": 415.25,
+          "score": 1.0
+        },
+        {
+          "word": "rivers",
+          "startSec": 415.25,
+          "endSec": 415.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 415.33,
+      "end": 420.86,
+      "text": "and some people even enjoy ice fishing during the winter.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 415.53,
+          "endSec": 416.53,
+          "score": 0.4
+        },
+        {
+          "word": "some",
+          "startSec": 416.53,
+          "endSec": 416.79,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 416.79,
+          "endSec": 417.31,
+          "score": 1.0
+        },
+        {
+          "word": "even",
+          "startSec": 417.31,
+          "endSec": 417.71,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 417.71,
+          "endSec": 418.37,
+          "score": 1.0
+        },
+        {
+          "word": "ice",
+          "startSec": 418.37,
+          "endSec": 418.87,
+          "score": 1.0
+        },
+        {
+          "word": "fishing",
+          "startSec": 418.87,
+          "endSec": 419.39,
+          "score": 0.96
+        },
+        {
+          "word": "during",
+          "startSec": 419.39,
+          "endSec": 420.15,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 420.15,
+          "endSec": 420.41,
+          "score": 0.99
+        },
+        {
+          "word": "winter.",
+          "startSec": 420.41,
+          "endSec": 420.71,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 422.04,
+      "end": 423.17,
+      "text": "Conclusion",
+      "words": [
+        {
+          "word": "Conclusion",
+          "startSec": 422.24,
+          "endSec": 423.02,
+          "score": 0.01
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 422.82,
+      "end": 429.09,
+      "text": "Belgium is a beautiful country with amazing food, history and nature.",
+      "words": [
+        {
+          "word": "Belgium",
+          "startSec": 423.02,
+          "endSec": 424.1,
+          "score": 0.24
+        },
+        {
+          "word": "is",
+          "startSec": 424.1,
+          "endSec": 424.6,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 424.6,
+          "endSec": 424.7,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 424.7,
+          "endSec": 425.1,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 425.1,
+          "endSec": 425.8,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 425.8,
+          "endSec": 426.14,
+          "score": 0.98
+        },
+        {
+          "word": "amazing",
+          "startSec": 426.14,
+          "endSec": 426.5,
+          "score": 1.0
+        },
+        {
+          "word": "food,",
+          "startSec": 426.5,
+          "endSec": 427.24,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 427.84,
+          "endSec": 428.02,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 428.02,
+          "endSec": 428.52,
+          "score": 0.62
+        },
+        {
+          "word": "nature.",
+          "startSec": 428.52,
+          "endSec": 428.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 429.74,
+      "end": 433.91,
+      "text": "It has friendly people and many interesting places to visit.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 429.94,
+          "endSec": 430.14,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 430.14,
+          "endSec": 430.32,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 430.32,
+          "endSec": 430.62,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 430.62,
+          "endSec": 431.28,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 431.28,
+          "endSec": 431.62,
+          "score": 0.96
+        },
+        {
+          "word": "many",
+          "startSec": 431.62,
+          "endSec": 431.92,
+          "score": 1.0
+        },
+        {
+          "word": "interesting",
+          "startSec": 431.92,
+          "endSec": 432.44,
+          "score": 1.0
+        },
+        {
+          "word": "places",
+          "startSec": 432.44,
+          "endSec": 433.1,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 433.1,
+          "endSec": 433.5,
+          "score": 1.0
+        },
+        {
+          "word": "visit.",
+          "startSec": 433.5,
+          "endSec": 433.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 434.72,
+      "end": 440.67,
+      "text": "If you ever have the chance, you should visit Belgium to see its beautiful cities,",
+      "words": [
+        {
+          "word": "If",
+          "startSec": 434.92,
+          "endSec": 435.3,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 435.3,
+          "endSec": 435.46,
+          "score": 1.0
+        },
+        {
+          "word": "ever",
+          "startSec": 435.46,
+          "endSec": 435.68,
+          "score": 0.97
+        },
+        {
+          "word": "have",
+          "startSec": 435.68,
+          "endSec": 435.94,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 435.94,
+          "endSec": 436.08,
+          "score": 0.94
+        },
+        {
+          "word": "chance,",
+          "startSec": 436.08,
+          "endSec": 436.4,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 437.08,
+          "endSec": 437.42,
+          "score": 0.99
+        },
+        {
+          "word": "should",
+          "startSec": 437.42,
+          "endSec": 437.62,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 437.62,
+          "endSec": 437.92,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 437.92,
+          "endSec": 438.48,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 438.48,
+          "endSec": 438.9,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 438.9,
+          "endSec": 439.16,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 439.16,
+          "endSec": 439.38,
+          "score": 0.96
+        },
+        {
+          "word": "beautiful",
+          "startSec": 439.38,
+          "endSec": 439.78,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 439.78,
+          "endSec": 440.52,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 440.82,
+      "end": 446.43,
+      "text": "try the famous chocolate and waffles and enjoy the culture and nature.",
+      "words": [
+        {
+          "word": "try",
+          "startSec": 441.02,
+          "endSec": 441.18,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 441.18,
+          "endSec": 441.42,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 441.42,
+          "endSec": 441.92,
+          "score": 1.0
+        },
+        {
+          "word": "chocolate",
+          "startSec": 441.92,
+          "endSec": 442.34,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 442.34,
+          "endSec": 442.84,
+          "score": 0.99
+        },
+        {
+          "word": "waffles",
+          "startSec": 442.84,
+          "endSec": 443.42,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 443.42,
+          "endSec": 444.3,
+          "score": 0.53
+        },
+        {
+          "word": "enjoy",
+          "startSec": 444.3,
+          "endSec": 444.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 444.66,
+          "endSec": 445.14,
+          "score": 0.99
+        },
+        {
+          "word": "culture",
+          "startSec": 445.14,
+          "endSec": 445.46,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 445.46,
+          "endSec": 445.88,
+          "score": 0.93
+        },
+        {
+          "word": "nature.",
+          "startSec": 445.88,
+          "endSec": 446.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 447.74,
+      "end": 450.25,
+      "text": "Would you like to visit Belgium one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 447.94,
+          "endSec": 448.18,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 448.18,
+          "endSec": 448.36,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 448.36,
+          "endSec": 448.58,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 448.58,
+          "endSec": 448.8,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 448.8,
+          "endSec": 449.04,
+          "score": 1.0
+        },
+        {
+          "word": "Belgium",
+          "startSec": 449.04,
+          "endSec": 449.42,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 449.42,
+          "endSec": 449.82,
+          "score": 0.98
+        },
+        {
+          "word": "day?",
+          "startSec": 449.82,
+          "endSec": 450.1,
           "score": 1.0
         }
       ]

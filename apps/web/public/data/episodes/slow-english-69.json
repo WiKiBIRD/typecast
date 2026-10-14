@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 3.33,
-      "text": "Hello, and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.34,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 0.34,
-          "endSec": 1.0,
-          "score": 0.99
-        },
-        {
-          "word": "welcome",
-          "startSec": 1.0,
-          "endSec": 1.58,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 1.58,
-          "endSec": 1.9,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.9,
-          "endSec": 2.2,
-          "score": 0.61
-        },
-        {
-          "word": "English",
-          "startSec": 2.2,
-          "endSec": 2.62,
-          "score": 0.96
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 2.62,
-          "endSec": 3.18,
-          "score": 0.87
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 4.2,
       "end": 8.87,
       "text": "My name is Emili, and I'm very happy you are here today.",
@@ -144,7 +94,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 9.06,
       "end": 12.91,
       "text": "In this episode, we will talk about",
@@ -194,7 +144,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 12.56,
       "end": 15.49,
       "text": "a small and interesting country.",
@@ -232,7 +182,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 16.16,
       "end": 18.95,
       "text": "This country is called Brunei.",
@@ -270,7 +220,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 19.2,
       "end": 23.19,
       "text": "Brunei is in Asia, and it is full of history,",
@@ -338,7 +288,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 23.36,
       "end": 25.15,
       "text": "nature, and culture.",
@@ -364,7 +314,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 25.59,
       "end": 29.77,
       "text": "I will speak slowly and clearly so you can understand.",
@@ -432,7 +382,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 30.68,
       "end": 31.73,
       "text": "Let's begin.",
@@ -452,7 +402,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 32.54,
       "end": 34.49,
       "text": "Where is Brunei?",
@@ -474,6 +424,4380 @@
           "startSec": 33.5,
           "endSec": 34.34,
           "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 35.45,
+      "end": 39.54,
+      "text": "Brunei is a small country in Southeast Asia.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 35.65,
+          "endSec": 36.43,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 36.43,
+          "endSec": 36.61,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 36.61,
+          "endSec": 36.79,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 36.79,
+          "endSec": 37.11,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 37.11,
+          "endSec": 37.75,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 37.75,
+          "endSec": 38.13,
+          "score": 0.99
+        },
+        {
+          "word": "Southeast",
+          "startSec": 38.13,
+          "endSec": 38.51,
+          "score": 0.79
+        },
+        {
+          "word": "Asia.",
+          "startSec": 38.51,
+          "endSec": 39.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 39.69,
+      "end": 42.96,
+      "text": "It is located on the island of Borneo.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 39.89,
+          "endSec": 39.97,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 39.97,
+          "endSec": 40.13,
+          "score": 0.99
+        },
+        {
+          "word": "located",
+          "startSec": 40.13,
+          "endSec": 40.63,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 40.63,
+          "endSec": 41.11,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 41.11,
+          "endSec": 41.31,
+          "score": 1.0
+        },
+        {
+          "word": "island",
+          "startSec": 41.31,
+          "endSec": 41.77,
+          "score": 0.91
+        },
+        {
+          "word": "of",
+          "startSec": 41.77,
+          "endSec": 42.03,
+          "score": 1.0
+        },
+        {
+          "word": "Borneo.",
+          "startSec": 42.03,
+          "endSec": 42.81,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 43.62,
+      "end": 47.19,
+      "text": "Brunei shares the island with two other countries,",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 43.82,
+          "endSec": 44.52,
+          "score": 1.0
+        },
+        {
+          "word": "shares",
+          "startSec": 44.52,
+          "endSec": 44.8,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 44.8,
+          "endSec": 45.2,
+          "score": 1.0
+        },
+        {
+          "word": "island",
+          "startSec": 45.2,
+          "endSec": 45.54,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 45.54,
+          "endSec": 45.9,
+          "score": 1.0
+        },
+        {
+          "word": "two",
+          "startSec": 45.9,
+          "endSec": 46.2,
+          "score": 0.95
+        },
+        {
+          "word": "other",
+          "startSec": 46.2,
+          "endSec": 46.6,
+          "score": 0.99
+        },
+        {
+          "word": "countries,",
+          "startSec": 46.6,
+          "endSec": 47.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 47.9,
+      "end": 49.79,
+      "text": "Malaysia and Indonesia.",
+      "words": [
+        {
+          "word": "Malaysia",
+          "startSec": 48.1,
+          "endSec": 48.42,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 48.42,
+          "endSec": 49.24,
+          "score": 0.98
+        },
+        {
+          "word": "Indonesia.",
+          "startSec": 49.24,
+          "endSec": 49.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 51.12,
+      "end": 54.35,
+      "text": "Brunei is next to the South China Sea.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 51.32,
+          "endSec": 52.1,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 52.1,
+          "endSec": 52.28,
+          "score": 1.0
+        },
+        {
+          "word": "next",
+          "startSec": 52.28,
+          "endSec": 52.56,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 52.56,
+          "endSec": 52.92,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 52.92,
+          "endSec": 53.04,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 53.04,
+          "endSec": 53.28,
+          "score": 0.91
+        },
+        {
+          "word": "China",
+          "startSec": 53.28,
+          "endSec": 53.7,
+          "score": 0.99
+        },
+        {
+          "word": "Sea.",
+          "startSec": 53.7,
+          "endSec": 54.2,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 54.0,
+      "end": 58.75,
+      "text": "It has beaches, forests, and small towns.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 54.2,
+          "endSec": 54.7,
+          "score": 0.58
+        },
+        {
+          "word": "has",
+          "startSec": 54.7,
+          "endSec": 55.58,
+          "score": 0.98
+        },
+        {
+          "word": "beaches,",
+          "startSec": 55.58,
+          "endSec": 55.94,
+          "score": 0.99
+        },
+        {
+          "word": "forests,",
+          "startSec": 56.26,
+          "endSec": 57.04,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 57.04,
+          "endSec": 57.52,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 57.52,
+          "endSec": 57.88,
+          "score": 0.99
+        },
+        {
+          "word": "towns.",
+          "startSec": 57.88,
+          "endSec": 58.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 59.58,
+      "end": 64.03,
+      "text": "The capital city of Brunei is Bandar-Sari-Begawan.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 59.78,
+          "endSec": 59.9,
+          "score": 0.97
+        },
+        {
+          "word": "capital",
+          "startSec": 59.9,
+          "endSec": 60.38,
+          "score": 0.94
+        },
+        {
+          "word": "city",
+          "startSec": 60.38,
+          "endSec": 60.9,
+          "score": 0.96
+        },
+        {
+          "word": "of",
+          "startSec": 60.9,
+          "endSec": 61.18,
+          "score": 0.99
+        },
+        {
+          "word": "Brunei",
+          "startSec": 61.18,
+          "endSec": 61.88,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 61.88,
+          "endSec": 62.08,
+          "score": 0.99
+        },
+        {
+          "word": "Bandar",
+          "startSec": 62.08,
+          "endSec": 62.74,
+          "score": 0.72
+        },
+        {
+          "word": "-Sari",
+          "startSec": 62.74,
+          "endSec": 63.08,
+          "score": 0.38
+        },
+        {
+          "word": "-Begawan.",
+          "startSec": 63.08,
+          "endSec": 63.88,
+          "score": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 64.58,
+      "end": 67.35,
+      "text": "It is a quiet and clean city.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 64.78,
+          "endSec": 65.06,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 65.06,
+          "endSec": 65.2,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 65.2,
+          "endSec": 65.36,
+          "score": 0.98
+        },
+        {
+          "word": "quiet",
+          "startSec": 65.36,
+          "endSec": 65.78,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 65.78,
+          "endSec": 66.1,
+          "score": 0.98
+        },
+        {
+          "word": "clean",
+          "startSec": 66.1,
+          "endSec": 66.48,
+          "score": 1.0
+        },
+        {
+          "word": "city.",
+          "startSec": 66.48,
+          "endSec": 67.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 67.92,
+      "end": 71.75,
+      "text": "The city has big mosques, markets, and museums.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 68.12,
+          "endSec": 68.3,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 68.3,
+          "endSec": 68.64,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 68.64,
+          "endSec": 69.0,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 69.0,
+          "endSec": 69.36,
+          "score": 1.0
+        },
+        {
+          "word": "mosques,",
+          "startSec": 69.36,
+          "endSec": 69.88,
+          "score": 0.98
+        },
+        {
+          "word": "markets,",
+          "startSec": 70.42,
+          "endSec": 70.74,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 70.74,
+          "endSec": 71.32,
+          "score": 1.0
+        },
+        {
+          "word": "museums.",
+          "startSec": 71.32,
+          "endSec": 71.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 73.07,
+      "end": 77.2,
+      "text": "Many people in Brunei live in or near this city.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 73.27,
+          "endSec": 73.53,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 73.53,
+          "endSec": 74.05,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 74.05,
+          "endSec": 74.29,
+          "score": 1.0
+        },
+        {
+          "word": "Brunei",
+          "startSec": 74.29,
+          "endSec": 74.85,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 74.85,
+          "endSec": 75.23,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 75.23,
+          "endSec": 75.61,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 75.61,
+          "endSec": 75.93,
+          "score": 0.98
+        },
+        {
+          "word": "near",
+          "startSec": 75.93,
+          "endSec": 76.25,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 76.25,
+          "endSec": 76.55,
+          "score": 0.88
+        },
+        {
+          "word": "city.",
+          "startSec": 76.55,
+          "endSec": 77.05,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 77.89,
+      "end": 80.2,
+      "text": "What is Brunei famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 78.09,
+          "endSec": 78.39,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 78.39,
+          "endSec": 78.59,
+          "score": 0.99
+        },
+        {
+          "word": "Brunei",
+          "startSec": 78.59,
+          "endSec": 79.15,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 79.15,
+          "endSec": 79.63,
+          "score": 0.97
+        },
+        {
+          "word": "for?",
+          "startSec": 79.63,
+          "endSec": 80.05,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 80.61,
+      "end": 83.32,
+      "text": "Brunei is famous for its wealth,",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 80.81,
+          "endSec": 81.57,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 81.57,
+          "endSec": 81.77,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 81.77,
+          "endSec": 82.11,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 82.11,
+          "endSec": 82.63,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 82.63,
+          "endSec": 82.81,
+          "score": 0.96
+        },
+        {
+          "word": "wealth,",
+          "startSec": 82.81,
+          "endSec": 83.17,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 83.85,
+      "end": 86.76,
+      "text": "nature, and Islamic culture.",
+      "words": [
+        {
+          "word": "nature,",
+          "startSec": 84.05,
+          "endSec": 84.57,
+          "score": 0.05
+        },
+        {
+          "word": "and",
+          "startSec": 85.07,
+          "endSec": 85.35,
+          "score": 0.94
+        },
+        {
+          "word": "Islamic",
+          "startSec": 85.35,
+          "endSec": 85.81,
+          "score": 0.95
+        },
+        {
+          "word": "culture.",
+          "startSec": 85.81,
+          "endSec": 86.61,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 86.83,
+      "end": 89.76,
+      "text": "The country has a lot of oil and gas,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 87.03,
+          "endSec": 87.09,
+          "score": 0.91
+        },
+        {
+          "word": "country",
+          "startSec": 87.09,
+          "endSec": 87.43,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 87.43,
+          "endSec": 88.01,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 88.01,
+          "endSec": 88.23,
+          "score": 0.98
+        },
+        {
+          "word": "lot",
+          "startSec": 88.23,
+          "endSec": 88.51,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 88.51,
+          "endSec": 88.67,
+          "score": 1.0
+        },
+        {
+          "word": "oil",
+          "startSec": 88.67,
+          "endSec": 89.01,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 89.01,
+          "endSec": 89.31,
+          "score": 0.99
+        },
+        {
+          "word": "gas,",
+          "startSec": 89.31,
+          "endSec": 89.61,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 90.23,
+      "end": 92.46,
+      "text": "so the government is rich.",
+      "words": [
+        {
+          "word": "so",
+          "startSec": 90.43,
+          "endSec": 90.91,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 90.91,
+          "endSec": 91.07,
+          "score": 0.99
+        },
+        {
+          "word": "government",
+          "startSec": 91.07,
+          "endSec": 91.49,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 91.49,
+          "endSec": 91.99,
+          "score": 1.0
+        },
+        {
+          "word": "rich.",
+          "startSec": 91.99,
+          "endSec": 92.31,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 92.87,
+      "end": 95.86,
+      "text": "People in Brunei do not pay taxes,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 93.07,
+          "endSec": 93.43,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 93.43,
+          "endSec": 93.67,
+          "score": 0.98
+        },
+        {
+          "word": "Brunei",
+          "startSec": 93.67,
+          "endSec": 94.23,
+          "score": 0.99
+        },
+        {
+          "word": "do",
+          "startSec": 94.23,
+          "endSec": 94.47,
+          "score": 0.98
+        },
+        {
+          "word": "not",
+          "startSec": 94.47,
+          "endSec": 94.73,
+          "score": 1.0
+        },
+        {
+          "word": "pay",
+          "startSec": 94.73,
+          "endSec": 95.09,
+          "score": 1.0
+        },
+        {
+          "word": "taxes,",
+          "startSec": 95.09,
+          "endSec": 95.71,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 95.91,
+      "end": 99.18,
+      "text": "and education and healthcare are free.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 96.11,
+          "endSec": 96.53,
+          "score": 0.99
+        },
+        {
+          "word": "education",
+          "startSec": 96.53,
+          "endSec": 97.13,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 97.13,
+          "endSec": 97.81,
+          "score": 0.97
+        },
+        {
+          "word": "healthcare",
+          "startSec": 97.81,
+          "endSec": 98.15,
+          "score": 0.53
+        },
+        {
+          "word": "are",
+          "startSec": 98.15,
+          "endSec": 98.71,
+          "score": 0.99
+        },
+        {
+          "word": "free.",
+          "startSec": 98.71,
+          "endSec": 99.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 99.97,
+      "end": 103.92,
+      "text": "Brunei is also famous for its beautiful mosques.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 100.17,
+          "endSec": 100.97,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 100.97,
+          "endSec": 101.13,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 101.13,
+          "endSec": 101.63,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 101.63,
+          "endSec": 102.15,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 102.15,
+          "endSec": 102.51,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 102.51,
+          "endSec": 102.71,
+          "score": 0.94
+        },
+        {
+          "word": "beautiful",
+          "startSec": 102.71,
+          "endSec": 103.23,
+          "score": 1.0
+        },
+        {
+          "word": "mosques.",
+          "startSec": 103.23,
+          "endSec": 103.77,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 105.02,
+      "end": 109.57,
+      "text": "One famous mosque is the Omar Ali-Sifudian mosque.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 105.22,
+          "endSec": 105.56,
+          "score": 0.98
+        },
+        {
+          "word": "famous",
+          "startSec": 105.56,
+          "endSec": 105.96,
+          "score": 0.99
+        },
+        {
+          "word": "mosque",
+          "startSec": 105.96,
+          "endSec": 106.64,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 106.64,
+          "endSec": 107.1,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 107.1,
+          "endSec": 107.32,
+          "score": 0.99
+        },
+        {
+          "word": "Omar",
+          "startSec": 107.32,
+          "endSec": 107.74,
+          "score": 0.87
+        },
+        {
+          "word": "Ali",
+          "startSec": 107.74,
+          "endSec": 108.18,
+          "score": 0.93
+        },
+        {
+          "word": "-Sifudian",
+          "startSec": 108.18,
+          "endSec": 109.16,
+          "score": 0.53
+        },
+        {
+          "word": "mosque.",
+          "startSec": 109.16,
+          "endSec": 109.42,
+          "score": 0.7
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 109.22,
+      "end": 114.77,
+      "text": "It has a big golden dome and is surrounded by water.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 109.42,
+          "endSec": 110.22,
+          "score": 0.45
+        },
+        {
+          "word": "has",
+          "startSec": 110.22,
+          "endSec": 110.94,
+          "score": 0.94
+        },
+        {
+          "word": "a",
+          "startSec": 110.94,
+          "endSec": 111.12,
+          "score": 0.98
+        },
+        {
+          "word": "big",
+          "startSec": 111.12,
+          "endSec": 111.42,
+          "score": 0.98
+        },
+        {
+          "word": "golden",
+          "startSec": 111.42,
+          "endSec": 111.86,
+          "score": 0.94
+        },
+        {
+          "word": "dome",
+          "startSec": 111.86,
+          "endSec": 112.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 112.36,
+          "endSec": 113.0,
+          "score": 0.92
+        },
+        {
+          "word": "is",
+          "startSec": 113.0,
+          "endSec": 113.16,
+          "score": 0.97
+        },
+        {
+          "word": "surrounded",
+          "startSec": 113.16,
+          "endSec": 113.6,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 113.6,
+          "endSec": 114.12,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 114.12,
+          "endSec": 114.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 115.53,
+      "end": 120.64,
+      "text": "Another big mosque is Jam-asar-Hasanil-Bolchia Mosque,",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 115.73,
+          "endSec": 116.07,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 116.07,
+          "endSec": 116.47,
+          "score": 0.99
+        },
+        {
+          "word": "mosque",
+          "startSec": 116.47,
+          "endSec": 116.89,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 116.89,
+          "endSec": 117.35,
+          "score": 0.99
+        },
+        {
+          "word": "Jam",
+          "startSec": 117.35,
+          "endSec": 117.75,
+          "score": 0.37
+        },
+        {
+          "word": "-asar",
+          "startSec": 117.75,
+          "endSec": 118.51,
+          "score": 0.18
+        },
+        {
+          "word": "-Hasanil",
+          "startSec": 118.51,
+          "endSec": 119.35,
+          "score": 0.5
+        },
+        {
+          "word": "-Bolchia",
+          "startSec": 119.35,
+          "endSec": 120.13,
+          "score": 0.61
+        },
+        {
+          "word": "Mosque,",
+          "startSec": 120.13,
+          "endSec": 120.49,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 121.37,
+      "end": 124.8,
+      "text": "which is also very beautiful and peaceful.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 121.57,
+          "endSec": 121.73,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 121.73,
+          "endSec": 121.95,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 121.95,
+          "endSec": 122.51,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 122.51,
+          "endSec": 123.03,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 123.03,
+          "endSec": 123.73,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 123.73,
+          "endSec": 124.17,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful.",
+          "startSec": 124.17,
+          "endSec": 124.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 126.51,
+      "end": 129.56,
+      "text": "Brunei has many rainforests.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 126.71,
+          "endSec": 127.35,
+          "score": 0.94
+        },
+        {
+          "word": "has",
+          "startSec": 127.35,
+          "endSec": 127.55,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 127.55,
+          "endSec": 127.95,
+          "score": 1.0
+        },
+        {
+          "word": "rainforests.",
+          "startSec": 127.95,
+          "endSec": 129.41,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 130.12,
+      "end": 134.47,
+      "text": "The country works hard to protect its trees and animals.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 130.32,
+          "endSec": 130.46,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 130.46,
+          "endSec": 130.88,
+          "score": 1.0
+        },
+        {
+          "word": "works",
+          "startSec": 130.88,
+          "endSec": 131.32,
+          "score": 1.0
+        },
+        {
+          "word": "hard",
+          "startSec": 131.32,
+          "endSec": 131.8,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 131.8,
+          "endSec": 132.1,
+          "score": 1.0
+        },
+        {
+          "word": "protect",
+          "startSec": 132.1,
+          "endSec": 132.48,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 132.48,
+          "endSec": 133.0,
+          "score": 0.97
+        },
+        {
+          "word": "trees",
+          "startSec": 133.0,
+          "endSec": 133.5,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 133.5,
+          "endSec": 133.86,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 133.86,
+          "endSec": 134.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 135.12,
+      "end": 139.85,
+      "text": "One popular place is Ulutemburong National Park.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 135.32,
+          "endSec": 135.6,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 135.6,
+          "endSec": 136.14,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 136.14,
+          "endSec": 136.88,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 136.88,
+          "endSec": 137.42,
+          "score": 0.99
+        },
+        {
+          "word": "Ulutemburong",
+          "startSec": 137.42,
+          "endSec": 138.7,
+          "score": 0.48
+        },
+        {
+          "word": "National",
+          "startSec": 138.7,
+          "endSec": 139.06,
+          "score": 0.99
+        },
+        {
+          "word": "Park.",
+          "startSec": 139.06,
+          "endSec": 139.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 140.48,
+      "end": 143.35,
+      "text": "People go there to walk in the forest,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 140.68,
+          "endSec": 141.02,
+          "score": 0.13
+        },
+        {
+          "word": "go",
+          "startSec": 141.02,
+          "endSec": 141.48,
+          "score": 0.94
+        },
+        {
+          "word": "there",
+          "startSec": 141.48,
+          "endSec": 141.82,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 141.82,
+          "endSec": 142.02,
+          "score": 0.99
+        },
+        {
+          "word": "walk",
+          "startSec": 142.02,
+          "endSec": 142.32,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 142.32,
+          "endSec": 142.58,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 142.58,
+          "endSec": 142.7,
+          "score": 0.99
+        },
+        {
+          "word": "forest,",
+          "startSec": 142.7,
+          "endSec": 143.2,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 143.36,
+      "end": 146.73,
+      "text": "climb towers, and see birds and monkeys.",
+      "words": [
+        {
+          "word": "climb",
+          "startSec": 143.56,
+          "endSec": 143.94,
+          "score": 0.99
+        },
+        {
+          "word": "towers,",
+          "startSec": 143.94,
+          "endSec": 144.42,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 145.16,
+          "endSec": 145.24,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 145.24,
+          "endSec": 145.54,
+          "score": 0.97
+        },
+        {
+          "word": "birds",
+          "startSec": 145.54,
+          "endSec": 146.0,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 146.0,
+          "endSec": 146.34,
+          "score": 0.99
+        },
+        {
+          "word": "monkeys.",
+          "startSec": 146.34,
+          "endSec": 146.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 147.88,
+      "end": 150.67,
+      "text": "What is the food like in Brunei?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 148.08,
+          "endSec": 148.22,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 148.22,
+          "endSec": 148.38,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 148.38,
+          "endSec": 148.58,
+          "score": 0.98
+        },
+        {
+          "word": "food",
+          "startSec": 148.58,
+          "endSec": 148.9,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 148.9,
+          "endSec": 149.24,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 149.24,
+          "endSec": 149.54,
+          "score": 1.0
+        },
+        {
+          "word": "Brunei?",
+          "startSec": 149.54,
+          "endSec": 150.52,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 151.0,
+      "end": 154.57,
+      "text": "The food in Brunei is tasty and full of flavor.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 151.2,
+          "endSec": 151.44,
+          "score": 0.98
+        },
+        {
+          "word": "food",
+          "startSec": 151.44,
+          "endSec": 151.78,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 151.78,
+          "endSec": 151.96,
+          "score": 1.0
+        },
+        {
+          "word": "Brunei",
+          "startSec": 151.96,
+          "endSec": 152.56,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 152.56,
+          "endSec": 152.7,
+          "score": 1.0
+        },
+        {
+          "word": "tasty",
+          "startSec": 152.7,
+          "endSec": 153.02,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 153.02,
+          "endSec": 153.56,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 153.56,
+          "endSec": 153.78,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 153.78,
+          "endSec": 154.0,
+          "score": 1.0
+        },
+        {
+          "word": "flavor.",
+          "startSec": 154.0,
+          "endSec": 154.42,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 155.26,
+      "end": 159.41,
+      "text": "It is similar to Malay, Chinese, and Indian food.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 155.46,
+          "endSec": 155.6,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 155.6,
+          "endSec": 155.74,
+          "score": 0.99
+        },
+        {
+          "word": "similar",
+          "startSec": 155.74,
+          "endSec": 156.22,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 156.22,
+          "endSec": 156.58,
+          "score": 1.0
+        },
+        {
+          "word": "Malay,",
+          "startSec": 156.58,
+          "endSec": 157.16,
+          "score": 0.9
+        },
+        {
+          "word": "Chinese,",
+          "startSec": 157.46,
+          "endSec": 157.7,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 158.3,
+          "endSec": 158.38,
+          "score": 0.99
+        },
+        {
+          "word": "Indian",
+          "startSec": 158.38,
+          "endSec": 158.7,
+          "score": 1.0
+        },
+        {
+          "word": "food.",
+          "startSec": 158.7,
+          "endSec": 159.26,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 159.96,
+      "end": 163.99,
+      "text": "People eat rice, noodles, meat, and fish.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 160.16,
+          "endSec": 160.6,
+          "score": 0.97
+        },
+        {
+          "word": "eat",
+          "startSec": 160.6,
+          "endSec": 161.0,
+          "score": 1.0
+        },
+        {
+          "word": "rice,",
+          "startSec": 161.0,
+          "endSec": 161.34,
+          "score": 0.99
+        },
+        {
+          "word": "noodles,",
+          "startSec": 162.22,
+          "endSec": 162.32,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 163.06,
+          "endSec": 163.28,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 163.46,
+          "endSec": 163.56,
+          "score": 1.0
+        },
+        {
+          "word": "fish.",
+          "startSec": 163.56,
+          "endSec": 163.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 164.6,
+      "end": 168.79,
+      "text": "Some popular dishes are Nasi Lamak,",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 164.8,
+          "endSec": 165.22,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 165.22,
+          "endSec": 165.54,
+          "score": 1.0
+        },
+        {
+          "word": "dishes",
+          "startSec": 165.54,
+          "endSec": 166.18,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 166.18,
+          "endSec": 166.76,
+          "score": 1.0
+        },
+        {
+          "word": "Nasi",
+          "startSec": 166.76,
+          "endSec": 168.02,
+          "score": 0.51
+        },
+        {
+          "word": "Lamak,",
+          "startSec": 168.02,
+          "endSec": 168.64,
+          "score": 0.61
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 169.01,
+      "end": 173.73,
+      "text": "rice with coconut milk, served with egg, peanuts,",
+      "words": [
+        {
+          "word": "rice",
+          "startSec": 169.21,
+          "endSec": 169.68,
+          "score": 0.3
+        },
+        {
+          "word": "with",
+          "startSec": 169.68,
+          "endSec": 170.02,
+          "score": 0.99
+        },
+        {
+          "word": "coconut",
+          "startSec": 170.02,
+          "endSec": 170.42,
+          "score": 1.0
+        },
+        {
+          "word": "milk,",
+          "startSec": 170.42,
+          "endSec": 171.16,
+          "score": 1.0
+        },
+        {
+          "word": "served",
+          "startSec": 171.18,
+          "endSec": 171.9,
+          "score": 0.8
+        },
+        {
+          "word": "with",
+          "startSec": 171.9,
+          "endSec": 172.2,
+          "score": 0.99
+        },
+        {
+          "word": "egg,",
+          "startSec": 172.2,
+          "endSec": 172.64,
+          "score": 0.97
+        },
+        {
+          "word": "peanuts,",
+          "startSec": 173.04,
+          "endSec": 173.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 173.98,
+      "end": 176.27,
+      "text": "cucumber, and spicy sauce.",
+      "words": [
+        {
+          "word": "cucumber,",
+          "startSec": 174.18,
+          "endSec": 174.9,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 175.02,
+          "endSec": 175.12,
+          "score": 1.0
+        },
+        {
+          "word": "spicy",
+          "startSec": 175.12,
+          "endSec": 175.42,
+          "score": 1.0
+        },
+        {
+          "word": "sauce.",
+          "startSec": 175.42,
+          "endSec": 176.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 176.81,
+      "end": 181.94,
+      "text": "Sate grilled meat on sticks, served with peanut sauce.",
+      "words": [
+        {
+          "word": "Sate",
+          "startSec": 177.01,
+          "endSec": 177.53,
+          "score": 0.58
+        },
+        {
+          "word": "grilled",
+          "startSec": 177.53,
+          "endSec": 178.59,
+          "score": 0.73
+        },
+        {
+          "word": "meat",
+          "startSec": 178.59,
+          "endSec": 179.05,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 179.05,
+          "endSec": 179.29,
+          "score": 1.0
+        },
+        {
+          "word": "sticks,",
+          "startSec": 179.29,
+          "endSec": 179.69,
+          "score": 0.97
+        },
+        {
+          "word": "served",
+          "startSec": 179.79,
+          "endSec": 180.65,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 180.65,
+          "endSec": 180.95,
+          "score": 1.0
+        },
+        {
+          "word": "peanut",
+          "startSec": 180.95,
+          "endSec": 181.31,
+          "score": 0.94
+        },
+        {
+          "word": "sauce.",
+          "startSec": 181.31,
+          "endSec": 181.79,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 183.01,
+      "end": 188.34,
+      "text": "Meat goring, fried noodles with vegetables and meat.",
+      "words": [
+        {
+          "word": "Meat",
+          "startSec": 183.21,
+          "endSec": 183.73,
+          "score": 0.88
+        },
+        {
+          "word": "goring,",
+          "startSec": 183.73,
+          "endSec": 184.25,
+          "score": 0.68
+        },
+        {
+          "word": "fried",
+          "startSec": 185.11,
+          "endSec": 185.75,
+          "score": 1.0
+        },
+        {
+          "word": "noodles",
+          "startSec": 185.75,
+          "endSec": 186.27,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 186.27,
+          "endSec": 186.71,
+          "score": 0.98
+        },
+        {
+          "word": "vegetables",
+          "startSec": 186.71,
+          "endSec": 187.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 187.35,
+          "endSec": 187.91,
+          "score": 0.89
+        },
+        {
+          "word": "meat.",
+          "startSec": 187.91,
+          "endSec": 188.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 189.65,
+      "end": 193.44,
+      "text": "Ambuyat, a sticky dish made from sago,",
+      "words": [
+        {
+          "word": "Ambuyat,",
+          "startSec": 189.85,
+          "endSec": 190.75,
+          "score": 0.72
+        },
+        {
+          "word": "a",
+          "startSec": 191.03,
+          "endSec": 191.25,
+          "score": 1.0
+        },
+        {
+          "word": "sticky",
+          "startSec": 191.25,
+          "endSec": 191.55,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 191.55,
+          "endSec": 192.13,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 192.13,
+          "endSec": 192.39,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 192.39,
+          "endSec": 192.75,
+          "score": 1.0
+        },
+        {
+          "word": "sago,",
+          "startSec": 192.75,
+          "endSec": 193.29,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 193.65,
+      "end": 196.46,
+      "text": "eaten with sour and spicy sauces.",
+      "words": [
+        {
+          "word": "eaten",
+          "startSec": 193.85,
+          "endSec": 193.97,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 193.97,
+          "endSec": 194.33,
+          "score": 1.0
+        },
+        {
+          "word": "sour",
+          "startSec": 194.33,
+          "endSec": 194.75,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 194.75,
+          "endSec": 195.21,
+          "score": 0.99
+        },
+        {
+          "word": "spicy",
+          "startSec": 195.21,
+          "endSec": 195.53,
+          "score": 1.0
+        },
+        {
+          "word": "sauces.",
+          "startSec": 195.53,
+          "endSec": 196.31,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 197.43,
+      "end": 200.84,
+      "text": "For dessert, people enjoy kui,",
+      "words": [
+        {
+          "word": "For",
+          "startSec": 197.63,
+          "endSec": 198.13,
+          "score": 0.31
+        },
+        {
+          "word": "dessert,",
+          "startSec": 198.13,
+          "endSec": 198.53,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 199.09,
+          "endSec": 199.33,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 199.33,
+          "endSec": 200.03,
+          "score": 0.98
+        },
+        {
+          "word": "kui,",
+          "startSec": 200.03,
+          "endSec": 200.69,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 200.81,
+      "end": 202.88,
+      "text": "which are small, sweet snacks,",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 201.01,
+          "endSec": 201.09,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 201.09,
+          "endSec": 201.27,
+          "score": 1.0
+        },
+        {
+          "word": "small,",
+          "startSec": 201.27,
+          "endSec": 201.65,
+          "score": 0.99
+        },
+        {
+          "word": "sweet",
+          "startSec": 201.65,
+          "endSec": 202.17,
+          "score": 1.0
+        },
+        {
+          "word": "snacks,",
+          "startSec": 202.17,
+          "endSec": 202.73,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 203.23,
+      "end": 206.12,
+      "text": "often made with coconut and rice flour.",
+      "words": [
+        {
+          "word": "often",
+          "startSec": 203.43,
+          "endSec": 203.89,
+          "score": 0.99
+        },
+        {
+          "word": "made",
+          "startSec": 203.89,
+          "endSec": 204.17,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 204.17,
+          "endSec": 204.41,
+          "score": 0.99
+        },
+        {
+          "word": "coconut",
+          "startSec": 204.41,
+          "endSec": 204.83,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 204.83,
+          "endSec": 205.27,
+          "score": 0.99
+        },
+        {
+          "word": "rice",
+          "startSec": 205.27,
+          "endSec": 205.51,
+          "score": 1.0
+        },
+        {
+          "word": "flour.",
+          "startSec": 205.51,
+          "endSec": 205.97,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 206.99,
+      "end": 211.4,
+      "text": "People also like tatari, a sweet milk tea,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 207.19,
+          "endSec": 207.71,
+          "score": 0.97
+        },
+        {
+          "word": "also",
+          "startSec": 207.71,
+          "endSec": 208.09,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 208.09,
+          "endSec": 208.67,
+          "score": 0.99
+        },
+        {
+          "word": "tatari,",
+          "startSec": 208.67,
+          "endSec": 209.37,
+          "score": 0.6
+        },
+        {
+          "word": "a",
+          "startSec": 209.83,
+          "endSec": 210.07,
+          "score": 0.98
+        },
+        {
+          "word": "sweet",
+          "startSec": 210.07,
+          "endSec": 210.41,
+          "score": 0.99
+        },
+        {
+          "word": "milk",
+          "startSec": 210.41,
+          "endSec": 210.75,
+          "score": 0.98
+        },
+        {
+          "word": "tea,",
+          "startSec": 210.75,
+          "endSec": 211.25,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 211.75,
+      "end": 215.08,
+      "text": "and fruit juices made from tropical fruits",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 211.95,
+          "endSec": 212.23,
+          "score": 0.99
+        },
+        {
+          "word": "fruit",
+          "startSec": 212.23,
+          "endSec": 212.53,
+          "score": 1.0
+        },
+        {
+          "word": "juices",
+          "startSec": 212.53,
+          "endSec": 213.05,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 213.05,
+          "endSec": 213.55,
+          "score": 0.98
+        },
+        {
+          "word": "from",
+          "startSec": 213.55,
+          "endSec": 213.89,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 213.89,
+          "endSec": 214.31,
+          "score": 1.0
+        },
+        {
+          "word": "fruits",
+          "startSec": 214.31,
+          "endSec": 214.93,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 214.73,
+      "end": 217.02,
+      "text": "like mango and papaya.",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 214.93,
+          "endSec": 215.45,
+          "score": 0.87
+        },
+        {
+          "word": "mango",
+          "startSec": 215.45,
+          "endSec": 215.79,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 215.79,
+          "endSec": 216.25,
+          "score": 0.98
+        },
+        {
+          "word": "papaya.",
+          "startSec": 216.25,
+          "endSec": 216.87,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 217.63,
+      "end": 219.38,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "startSec": 217.83,
+          "endSec": 218.47,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 218.47,
+          "endSec": 218.77,
+          "score": 0.97
+        },
+        {
+          "word": "people.",
+          "startSec": 218.77,
+          "endSec": 219.23,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 220.48,
+      "end": 225.57,
+      "text": "People in Brunei are very polite, respectful, and kind.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 220.68,
+          "endSec": 221.14,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 221.14,
+          "endSec": 221.58,
+          "score": 0.83
+        },
+        {
+          "word": "Brunei",
+          "startSec": 221.58,
+          "endSec": 222.14,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 222.14,
+          "endSec": 222.34,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 222.34,
+          "endSec": 222.6,
+          "score": 1.0
+        },
+        {
+          "word": "polite,",
+          "startSec": 222.6,
+          "endSec": 223.06,
+          "score": 1.0
+        },
+        {
+          "word": "respectful,",
+          "startSec": 224.26,
+          "endSec": 224.26,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 224.94,
+          "endSec": 225.02,
+          "score": 1.0
+        },
+        {
+          "word": "kind.",
+          "startSec": 225.02,
+          "endSec": 225.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 226.34,
+      "end": 229.29,
+      "text": "Most people in Brunei are Malay,",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 226.54,
+          "endSec": 227.06,
+          "score": 0.19
+        },
+        {
+          "word": "people",
+          "startSec": 227.06,
+          "endSec": 227.58,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 227.58,
+          "endSec": 227.86,
+          "score": 0.97
+        },
+        {
+          "word": "Brunei",
+          "startSec": 227.86,
+          "endSec": 228.42,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 228.42,
+          "endSec": 228.6,
+          "score": 0.98
+        },
+        {
+          "word": "Malay,",
+          "startSec": 228.6,
+          "endSec": 229.14,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 229.28,
+      "end": 232.91,
+      "text": "but there are also Chinese and indigenous groups.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 229.48,
+          "endSec": 229.56,
+          "score": 0.99
+        },
+        {
+          "word": "there",
+          "startSec": 229.56,
+          "endSec": 229.8,
+          "score": 0.91
+        },
+        {
+          "word": "are",
+          "startSec": 229.8,
+          "endSec": 230.0,
+          "score": 0.98
+        },
+        {
+          "word": "also",
+          "startSec": 230.0,
+          "endSec": 230.52,
+          "score": 0.98
+        },
+        {
+          "word": "Chinese",
+          "startSec": 230.52,
+          "endSec": 231.18,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 231.18,
+          "endSec": 231.62,
+          "score": 0.99
+        },
+        {
+          "word": "indigenous",
+          "startSec": 231.62,
+          "endSec": 232.08,
+          "score": 0.76
+        },
+        {
+          "word": "groups.",
+          "startSec": 232.08,
+          "endSec": 232.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 233.92,
+      "end": 236.19,
+      "text": "The main language is Malay,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 234.12,
+          "endSec": 234.22,
+          "score": 0.92
+        },
+        {
+          "word": "main",
+          "startSec": 234.22,
+          "endSec": 234.46,
+          "score": 0.93
+        },
+        {
+          "word": "language",
+          "startSec": 234.46,
+          "endSec": 235.08,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 235.08,
+          "endSec": 235.38,
+          "score": 1.0
+        },
+        {
+          "word": "Malay,",
+          "startSec": 235.38,
+          "endSec": 236.04,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 236.38,
+      "end": 239.03,
+      "text": "but many people speak English,",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 236.58,
+          "endSec": 236.92,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 236.92,
+          "endSec": 237.2,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 237.2,
+          "endSec": 237.84,
+          "score": 0.98
+        },
+        {
+          "word": "speak",
+          "startSec": 237.84,
+          "endSec": 238.24,
+          "score": 1.0
+        },
+        {
+          "word": "English,",
+          "startSec": 238.24,
+          "endSec": 238.88,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 239.18,
+      "end": 241.77,
+      "text": "especially in schools and cities.",
+      "words": [
+        {
+          "word": "especially",
+          "startSec": 239.38,
+          "endSec": 239.84,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 239.84,
+          "endSec": 240.44,
+          "score": 1.0
+        },
+        {
+          "word": "schools",
+          "startSec": 240.44,
+          "endSec": 240.82,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 240.82,
+          "endSec": 241.2,
+          "score": 0.99
+        },
+        {
+          "word": "cities.",
+          "startSec": 241.2,
+          "endSec": 241.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 243.25,
+      "end": 246.46,
+      "text": "The main religion in Brunei is Islam.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 243.45,
+          "endSec": 243.53,
+          "score": 0.96
+        },
+        {
+          "word": "main",
+          "startSec": 243.53,
+          "endSec": 243.79,
+          "score": 0.99
+        },
+        {
+          "word": "religion",
+          "startSec": 243.79,
+          "endSec": 244.27,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 244.27,
+          "endSec": 244.75,
+          "score": 0.99
+        },
+        {
+          "word": "Brunei",
+          "startSec": 244.75,
+          "endSec": 245.43,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 245.43,
+          "endSec": 245.75,
+          "score": 1.0
+        },
+        {
+          "word": "Islam.",
+          "startSec": 245.75,
+          "endSec": 246.31,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 247.38,
+      "end": 252.15,
+      "text": "People go to the mosque to pray, especially on Fridays.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 247.58,
+          "endSec": 248.02,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 248.02,
+          "endSec": 248.3,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 248.3,
+          "endSec": 248.56,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 248.56,
+          "endSec": 248.7,
+          "score": 0.99
+        },
+        {
+          "word": "mosque",
+          "startSec": 248.7,
+          "endSec": 248.96,
+          "score": 0.93
+        },
+        {
+          "word": "to",
+          "startSec": 248.96,
+          "endSec": 249.36,
+          "score": 1.0
+        },
+        {
+          "word": "pray,",
+          "startSec": 249.36,
+          "endSec": 249.7,
+          "score": 1.0
+        },
+        {
+          "word": "especially",
+          "startSec": 250.36,
+          "endSec": 251.0,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 251.0,
+          "endSec": 251.62,
+          "score": 0.99
+        },
+        {
+          "word": "Fridays.",
+          "startSec": 251.62,
+          "endSec": 252.0,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 252.92,
+      "end": 255.97,
+      "text": "Brunei follows Islamic laws,",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 253.12,
+          "endSec": 254.04,
+          "score": 0.5
+        },
+        {
+          "word": "follows",
+          "startSec": 254.04,
+          "endSec": 254.46,
+          "score": 0.98
+        },
+        {
+          "word": "Islamic",
+          "startSec": 254.46,
+          "endSec": 255.1,
+          "score": 0.99
+        },
+        {
+          "word": "laws,",
+          "startSec": 255.1,
+          "endSec": 255.82,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 256.42,
+      "end": 258.69,
+      "text": "and people wear modest clothes.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 256.62,
+          "endSec": 256.7,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 256.7,
+          "endSec": 257.0,
+          "score": 0.99
+        },
+        {
+          "word": "wear",
+          "startSec": 257.0,
+          "endSec": 257.5,
+          "score": 1.0
+        },
+        {
+          "word": "modest",
+          "startSec": 257.5,
+          "endSec": 257.94,
+          "score": 0.97
+        },
+        {
+          "word": "clothes.",
+          "startSec": 257.94,
+          "endSec": 258.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 259.44,
+      "end": 262.09,
+      "text": "Men often wear shirts and trousers.",
+      "words": [
+        {
+          "word": "Men",
+          "startSec": 259.64,
+          "endSec": 259.94,
+          "score": 0.77
+        },
+        {
+          "word": "often",
+          "startSec": 259.94,
+          "endSec": 260.26,
+          "score": 1.0
+        },
+        {
+          "word": "wear",
+          "startSec": 260.26,
+          "endSec": 260.8,
+          "score": 1.0
+        },
+        {
+          "word": "shirts",
+          "startSec": 260.8,
+          "endSec": 261.18,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 261.18,
+          "endSec": 261.6,
+          "score": 0.99
+        },
+        {
+          "word": "trousers.",
+          "startSec": 261.6,
+          "endSec": 261.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 262.99,
+      "end": 266.84,
+      "text": "Women may wear a hijab, a headscarf.",
+      "words": [
+        {
+          "word": "Women",
+          "startSec": 263.19,
+          "endSec": 263.81,
+          "score": 0.99
+        },
+        {
+          "word": "may",
+          "startSec": 263.81,
+          "endSec": 264.19,
+          "score": 0.99
+        },
+        {
+          "word": "wear",
+          "startSec": 264.19,
+          "endSec": 264.55,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 264.55,
+          "endSec": 264.73,
+          "score": 0.99
+        },
+        {
+          "word": "hijab,",
+          "startSec": 264.73,
+          "endSec": 265.09,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 265.65,
+          "endSec": 265.67,
+          "score": 1.0
+        },
+        {
+          "word": "headscarf.",
+          "startSec": 265.67,
+          "endSec": 266.69,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 267.5,
+      "end": 270.89,
+      "text": "People in Brunei love spending time with family.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 267.7,
+          "endSec": 268.0,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 268.0,
+          "endSec": 268.32,
+          "score": 0.97
+        },
+        {
+          "word": "Brunei",
+          "startSec": 268.32,
+          "endSec": 268.82,
+          "score": 1.0
+        },
+        {
+          "word": "love",
+          "startSec": 268.82,
+          "endSec": 269.18,
+          "score": 1.0
+        },
+        {
+          "word": "spending",
+          "startSec": 269.18,
+          "endSec": 269.7,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 269.7,
+          "endSec": 270.14,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 270.14,
+          "endSec": 270.42,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 270.42,
+          "endSec": 270.74,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 271.66,
+      "end": 273.99,
+      "text": "Families eat meals together,",
+      "words": [
+        {
+          "word": "Families",
+          "startSec": 271.86,
+          "endSec": 272.32,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 272.32,
+          "endSec": 272.94,
+          "score": 1.0
+        },
+        {
+          "word": "meals",
+          "startSec": 272.94,
+          "endSec": 273.28,
+          "score": 1.0
+        },
+        {
+          "word": "together,",
+          "startSec": 273.28,
+          "endSec": 273.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 274.14,
+      "end": 276.59,
+      "text": "visit parks or go shopping.",
+      "words": [
+        {
+          "word": "visit",
+          "startSec": 274.34,
+          "endSec": 274.66,
+          "score": 1.0
+        },
+        {
+          "word": "parks",
+          "startSec": 274.66,
+          "endSec": 275.02,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 275.02,
+          "endSec": 275.7,
+          "score": 0.36
+        },
+        {
+          "word": "go",
+          "startSec": 275.7,
+          "endSec": 275.92,
+          "score": 0.99
+        },
+        {
+          "word": "shopping.",
+          "startSec": 275.92,
+          "endSec": 276.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 278.07,
+      "end": 282.18,
+      "text": "People are very respectful to elders and teachers.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 278.27,
+          "endSec": 278.73,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 278.73,
+          "endSec": 279.01,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 279.01,
+          "endSec": 279.29,
+          "score": 1.0
+        },
+        {
+          "word": "respectful",
+          "startSec": 279.29,
+          "endSec": 280.03,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 280.03,
+          "endSec": 280.67,
+          "score": 1.0
+        },
+        {
+          "word": "elders",
+          "startSec": 280.67,
+          "endSec": 281.13,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 281.13,
+          "endSec": 281.59,
+          "score": 1.0
+        },
+        {
+          "word": "teachers.",
+          "startSec": 281.59,
+          "endSec": 282.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 283.37,
+      "end": 285.26,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 283.57,
+          "endSec": 284.33,
+          "score": 0.31
+        },
+        {
+          "word": "and",
+          "startSec": 284.33,
+          "endSec": 284.57,
+          "score": 0.74
+        },
+        {
+          "word": "animals.",
+          "startSec": 284.57,
+          "endSec": 285.11,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 285.73,
+      "end": 288.38,
+      "text": "Brunei has amazing nature.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 285.93,
+          "endSec": 286.69,
+          "score": 0.85
+        },
+        {
+          "word": "has",
+          "startSec": 286.69,
+          "endSec": 286.97,
+          "score": 0.99
+        },
+        {
+          "word": "amazing",
+          "startSec": 286.97,
+          "endSec": 287.25,
+          "score": 0.99
+        },
+        {
+          "word": "nature.",
+          "startSec": 287.25,
+          "endSec": 288.23,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 289.3,
+      "end": 292.09,
+      "text": "There are jungles, rivers, and beaches.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 289.5,
+          "endSec": 289.76,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 289.76,
+          "endSec": 289.96,
+          "score": 1.0
+        },
+        {
+          "word": "jungles,",
+          "startSec": 289.96,
+          "endSec": 290.86,
+          "score": 0.99
+        },
+        {
+          "word": "rivers,",
+          "startSec": 291.02,
+          "endSec": 291.16,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 291.66,
+          "endSec": 291.7,
+          "score": 0.95
+        },
+        {
+          "word": "beaches.",
+          "startSec": 291.7,
+          "endSec": 291.94,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 292.84,
+      "end": 296.59,
+      "text": "People can see monkeys, tropical birds,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 293.04,
+          "endSec": 293.3,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 293.3,
+          "endSec": 293.7,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 293.7,
+          "endSec": 294.06,
+          "score": 1.0
+        },
+        {
+          "word": "monkeys,",
+          "startSec": 294.06,
+          "endSec": 294.48,
+          "score": 0.99
+        },
+        {
+          "word": "tropical",
+          "startSec": 295.38,
+          "endSec": 295.64,
+          "score": 0.99
+        },
+        {
+          "word": "birds,",
+          "startSec": 295.64,
+          "endSec": 296.44,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 296.98,
+      "end": 298.85,
+      "text": "butterflies, and lizards.",
+      "words": [
+        {
+          "word": "butterflies,",
+          "startSec": 297.18,
+          "endSec": 297.56,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 298.26,
+          "endSec": 298.34,
+          "score": 1.0
+        },
+        {
+          "word": "lizards.",
+          "startSec": 298.34,
+          "endSec": 298.7,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 299.86,
+      "end": 305.61,
+      "text": "The proboscis monkey is a special animal that lives in Brunei.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 300.06,
+          "endSec": 300.16,
+          "score": 0.99
+        },
+        {
+          "word": "proboscis",
+          "startSec": 300.16,
+          "endSec": 301.08,
+          "score": 0.89
+        },
+        {
+          "word": "monkey",
+          "startSec": 301.08,
+          "endSec": 301.4,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 301.4,
+          "endSec": 302.36,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 302.36,
+          "endSec": 302.56,
+          "score": 0.99
+        },
+        {
+          "word": "special",
+          "startSec": 302.56,
+          "endSec": 302.88,
+          "score": 1.0
+        },
+        {
+          "word": "animal",
+          "startSec": 302.88,
+          "endSec": 303.62,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 303.62,
+          "endSec": 304.08,
+          "score": 1.0
+        },
+        {
+          "word": "lives",
+          "startSec": 304.08,
+          "endSec": 304.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 304.5,
+          "endSec": 304.7,
+          "score": 1.0
+        },
+        {
+          "word": "Brunei.",
+          "startSec": 304.7,
+          "endSec": 305.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 306.2,
+      "end": 310.87,
+      "text": "It has a big nose and lives in the trees near the rivers.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 306.4,
+          "endSec": 306.66,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 306.66,
+          "endSec": 306.9,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 306.9,
+          "endSec": 307.12,
+          "score": 0.98
+        },
+        {
+          "word": "big",
+          "startSec": 307.12,
+          "endSec": 307.38,
+          "score": 1.0
+        },
+        {
+          "word": "nose",
+          "startSec": 307.38,
+          "endSec": 307.82,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 307.82,
+          "endSec": 308.54,
+          "score": 0.9
+        },
+        {
+          "word": "lives",
+          "startSec": 308.54,
+          "endSec": 308.86,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 308.86,
+          "endSec": 309.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 309.22,
+          "endSec": 309.36,
+          "score": 0.96
+        },
+        {
+          "word": "trees",
+          "startSec": 309.36,
+          "endSec": 309.74,
+          "score": 1.0
+        },
+        {
+          "word": "near",
+          "startSec": 309.74,
+          "endSec": 310.16,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 310.16,
+          "endSec": 310.36,
+          "score": 1.0
+        },
+        {
+          "word": "rivers.",
+          "startSec": 310.36,
+          "endSec": 310.72,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 311.98,
+      "end": 315.49,
+      "text": "Brunei's rainforests are very clean and quiet.",
+      "words": [
+        {
+          "word": "Brunei's",
+          "startSec": 312.18,
+          "endSec": 312.98,
+          "score": 0.6
+        },
+        {
+          "word": "rainforests",
+          "startSec": 312.98,
+          "endSec": 313.78,
+          "score": 0.8
+        },
+        {
+          "word": "are",
+          "startSec": 313.78,
+          "endSec": 313.94,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 313.94,
+          "endSec": 314.2,
+          "score": 0.99
+        },
+        {
+          "word": "clean",
+          "startSec": 314.2,
+          "endSec": 314.72,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 314.72,
+          "endSec": 315.0,
+          "score": 0.99
+        },
+        {
+          "word": "quiet.",
+          "startSec": 315.0,
+          "endSec": 315.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 316.17,
+      "end": 318.4,
+      "text": "People can take boat rides,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 316.37,
+          "endSec": 316.77,
+          "score": 0.95
+        },
+        {
+          "word": "can",
+          "startSec": 316.77,
+          "endSec": 317.05,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 317.05,
+          "endSec": 317.37,
+          "score": 1.0
+        },
+        {
+          "word": "boat",
+          "startSec": 317.37,
+          "endSec": 317.79,
+          "score": 1.0
+        },
+        {
+          "word": "rides,",
+          "startSec": 317.79,
+          "endSec": 318.25,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 318.89,
+      "end": 323.1,
+      "text": "forest walks, or sleep in ecologes.",
+      "words": [
+        {
+          "word": "forest",
+          "startSec": 319.09,
+          "endSec": 319.61,
+          "score": 0.96
+        },
+        {
+          "word": "walks,",
+          "startSec": 319.61,
+          "endSec": 320.07,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 320.75,
+          "endSec": 320.81,
+          "score": 0.99
+        },
+        {
+          "word": "sleep",
+          "startSec": 320.81,
+          "endSec": 321.33,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 321.33,
+          "endSec": 321.73,
+          "score": 0.95
+        },
+        {
+          "word": "ecologes.",
+          "startSec": 321.73,
+          "endSec": 322.95,
+          "score": 0.57
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 324.02,
+      "end": 328.25,
+      "text": "The air is fresh, and the views are green and peaceful.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 324.22,
+          "endSec": 324.38,
+          "score": 0.99
+        },
+        {
+          "word": "air",
+          "startSec": 324.38,
+          "endSec": 324.7,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 324.7,
+          "endSec": 325.0,
+          "score": 1.0
+        },
+        {
+          "word": "fresh,",
+          "startSec": 325.0,
+          "endSec": 325.38,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 326.12,
+          "endSec": 326.28,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 326.28,
+          "endSec": 326.46,
+          "score": 0.99
+        },
+        {
+          "word": "views",
+          "startSec": 326.46,
+          "endSec": 326.74,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 326.74,
+          "endSec": 327.12,
+          "score": 1.0
+        },
+        {
+          "word": "green",
+          "startSec": 327.12,
+          "endSec": 327.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 327.48,
+          "endSec": 327.76,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful.",
+          "startSec": 327.76,
+          "endSec": 328.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 330.54,
+      "end": 332.59,
+      "text": "Festivals and celebrations.",
+      "words": [
+        {
+          "word": "Festivals",
+          "startSec": 330.74,
+          "endSec": 331.54,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 331.54,
+          "endSec": 331.84,
+          "score": 0.95
+        },
+        {
+          "word": "celebrations.",
+          "startSec": 331.84,
+          "endSec": 332.44,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 334.81,
+      "end": 339.52,
+      "text": "One big celebration in Brunei is Hari Raya idol fishery.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 335.01,
+          "endSec": 335.01,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 335.01,
+          "endSec": 335.31,
+          "score": 1.0
+        },
+        {
+          "word": "celebration",
+          "startSec": 335.31,
+          "endSec": 336.09,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 336.09,
+          "endSec": 336.55,
+          "score": 0.99
+        },
+        {
+          "word": "Brunei",
+          "startSec": 336.55,
+          "endSec": 337.23,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 337.23,
+          "endSec": 337.37,
+          "score": 1.0
+        },
+        {
+          "word": "Hari",
+          "startSec": 337.37,
+          "endSec": 337.89,
+          "score": 0.68
+        },
+        {
+          "word": "Raya",
+          "startSec": 337.89,
+          "endSec": 338.29,
+          "score": 0.57
+        },
+        {
+          "word": "idol",
+          "startSec": 338.29,
+          "endSec": 338.59,
+          "score": 0.57
+        },
+        {
+          "word": "fishery.",
+          "startSec": 338.59,
+          "endSec": 339.37,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 339.43,
+      "end": 341.52,
+      "text": "It is the end of Ramadan,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 339.63,
+          "endSec": 340.07,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 340.07,
+          "endSec": 340.23,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 340.23,
+          "endSec": 340.45,
+          "score": 1.0
+        },
+        {
+          "word": "end",
+          "startSec": 340.45,
+          "endSec": 340.75,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 340.75,
+          "endSec": 340.95,
+          "score": 1.0
+        },
+        {
+          "word": "Ramadan,",
+          "startSec": 340.95,
+          "endSec": 341.37,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 341.17,
+      "end": 344.14,
+      "text": "the fasting month for Muslims.",
+      "words": [
+        {
+          "word": "the",
+          "startSec": 341.37,
+          "endSec": 341.59,
+          "score": 0.14
+        },
+        {
+          "word": "fasting",
+          "startSec": 341.59,
+          "endSec": 342.93,
+          "score": 0.91
+        },
+        {
+          "word": "month",
+          "startSec": 342.93,
+          "endSec": 343.29,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 343.29,
+          "endSec": 343.63,
+          "score": 0.95
+        },
+        {
+          "word": "Muslims.",
+          "startSec": 343.63,
+          "endSec": 343.99,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 345.18,
+      "end": 347.13,
+      "text": "People wear new clothes,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 345.38,
+          "endSec": 345.78,
+          "score": 0.64
+        },
+        {
+          "word": "wear",
+          "startSec": 345.78,
+          "endSec": 346.08,
+          "score": 0.99
+        },
+        {
+          "word": "new",
+          "startSec": 346.08,
+          "endSec": 346.38,
+          "score": 0.99
+        },
+        {
+          "word": "clothes,",
+          "startSec": 346.38,
+          "endSec": 346.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 347.42,
+      "end": 349.71,
+      "text": "visit family and friends,",
+      "words": [
+        {
+          "word": "visit",
+          "startSec": 347.62,
+          "endSec": 348.16,
+          "score": 1.0
+        },
+        {
+          "word": "family",
+          "startSec": 348.16,
+          "endSec": 348.86,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 348.86,
+          "endSec": 349.16,
+          "score": 0.96
+        },
+        {
+          "word": "friends,",
+          "startSec": 349.16,
+          "endSec": 349.56,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 349.4,
+      "end": 351.53,
+      "text": "and eat special food.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 349.6,
+          "endSec": 350.14,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 350.14,
+          "endSec": 350.36,
+          "score": 0.98
+        },
+        {
+          "word": "special",
+          "startSec": 350.36,
+          "endSec": 350.88,
+          "score": 1.0
+        },
+        {
+          "word": "food.",
+          "startSec": 350.88,
+          "endSec": 351.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 352.22,
+      "end": 355.75,
+      "text": "The Sultan's birthday is also a big event.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 352.42,
+          "endSec": 352.52,
+          "score": 0.97
+        },
+        {
+          "word": "Sultan's",
+          "startSec": 352.52,
+          "endSec": 353.26,
+          "score": 0.93
+        },
+        {
+          "word": "birthday",
+          "startSec": 353.26,
+          "endSec": 353.48,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 353.48,
+          "endSec": 354.08,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 354.08,
+          "endSec": 354.72,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 354.72,
+          "endSec": 354.96,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 354.96,
+          "endSec": 355.16,
+          "score": 1.0
+        },
+        {
+          "word": "event.",
+          "startSec": 355.16,
+          "endSec": 355.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 356.63,
+      "end": 360.9,
+      "text": "The Sultan of Brunei is the king and leader of the country.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 356.83,
+          "endSec": 356.93,
+          "score": 0.99
+        },
+        {
+          "word": "Sultan",
+          "startSec": 356.93,
+          "endSec": 357.31,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 357.31,
+          "endSec": 357.73,
+          "score": 0.99
+        },
+        {
+          "word": "Brunei",
+          "startSec": 357.73,
+          "endSec": 358.41,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 358.41,
+          "endSec": 358.65,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 358.65,
+          "endSec": 358.85,
+          "score": 1.0
+        },
+        {
+          "word": "king",
+          "startSec": 358.85,
+          "endSec": 359.21,
+          "score": 0.78
+        },
+        {
+          "word": "and",
+          "startSec": 359.21,
+          "endSec": 359.57,
+          "score": 1.0
+        },
+        {
+          "word": "leader",
+          "startSec": 359.57,
+          "endSec": 359.83,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 359.83,
+          "endSec": 360.17,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 360.17,
+          "endSec": 360.31,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 360.31,
+          "endSec": 360.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 361.61,
+      "end": 365.0,
+      "text": "People celebrate his birthday with parades,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 361.81,
+          "endSec": 362.23,
+          "score": 0.99
+        },
+        {
+          "word": "celebrate",
+          "startSec": 362.23,
+          "endSec": 362.65,
+          "score": 0.99
+        },
+        {
+          "word": "his",
+          "startSec": 362.65,
+          "endSec": 363.27,
+          "score": 1.0
+        },
+        {
+          "word": "birthday",
+          "startSec": 363.27,
+          "endSec": 363.83,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 363.83,
+          "endSec": 364.15,
+          "score": 1.0
+        },
+        {
+          "word": "parades,",
+          "startSec": 364.15,
+          "endSec": 364.85,
+          "score": 0.7
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 365.25,
+      "end": 367.86,
+      "text": "fireworks, and concerts.",
+      "words": [
+        {
+          "word": "fireworks,",
+          "startSec": 365.45,
+          "endSec": 365.61,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 367.07,
+          "endSec": 367.15,
+          "score": 0.99
+        },
+        {
+          "word": "concerts.",
+          "startSec": 367.15,
+          "endSec": 367.71,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 368.97,
+      "end": 370.04,
+      "text": "Conclusion.",
+      "words": [
+        {
+          "word": "Conclusion.",
+          "startSec": 369.17,
+          "endSec": 369.89,
+          "score": 0.02
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 370.85,
+      "end": 374.54,
+      "text": "Brunei is a small but beautiful country.",
+      "words": [
+        {
+          "word": "Brunei",
+          "startSec": 371.05,
+          "endSec": 371.77,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 371.77,
+          "endSec": 371.93,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 371.93,
+          "endSec": 372.07,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 372.07,
+          "endSec": 372.59,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 372.59,
+          "endSec": 373.15,
+          "score": 0.73
+        },
+        {
+          "word": "beautiful",
+          "startSec": 373.15,
+          "endSec": 373.55,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 373.55,
+          "endSec": 374.39,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 375.26,
+      "end": 378.55,
+      "text": "It has kind people, peaceful cities,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 375.46,
+          "endSec": 375.58,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 375.58,
+          "endSec": 375.82,
+          "score": 1.0
+        },
+        {
+          "word": "kind",
+          "startSec": 375.82,
+          "endSec": 376.16,
+          "score": 0.99
+        },
+        {
+          "word": "people,",
+          "startSec": 376.16,
+          "endSec": 376.86,
+          "score": 0.99
+        },
+        {
+          "word": "peaceful",
+          "startSec": 377.2,
+          "endSec": 377.58,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 377.58,
+          "endSec": 378.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 379.08,
+      "end": 381.75,
+      "text": "green forests, and a rich culture.",
+      "words": [
+        {
+          "word": "green",
+          "startSec": 379.28,
+          "endSec": 379.44,
+          "score": 0.98
+        },
+        {
+          "word": "forests,",
+          "startSec": 379.44,
+          "endSec": 380.1,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 380.7,
+          "endSec": 380.74,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 380.74,
+          "endSec": 380.86,
+          "score": 0.97
+        },
+        {
+          "word": "rich",
+          "startSec": 380.86,
+          "endSec": 381.1,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 381.1,
+          "endSec": 381.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 383.34,
+      "end": 387.77,
+      "text": "It is a clean and quiet place with a lot to see and enjoy.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 383.54,
+          "endSec": 383.56,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 383.56,
+          "endSec": 383.72,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 383.72,
+          "endSec": 383.92,
+          "score": 1.0
+        },
+        {
+          "word": "clean",
+          "startSec": 383.92,
+          "endSec": 384.3,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 384.3,
+          "endSec": 384.68,
+          "score": 0.99
+        },
+        {
+          "word": "quiet",
+          "startSec": 384.68,
+          "endSec": 385.08,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 385.08,
+          "endSec": 385.66,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 385.66,
+          "endSec": 386.08,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 386.08,
+          "endSec": 386.26,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 386.26,
+          "endSec": 386.48,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 386.48,
+          "endSec": 386.74,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 386.74,
+          "endSec": 387.04,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 387.04,
+          "endSec": 387.26,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy.",
+          "startSec": 387.26,
+          "endSec": 387.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 388.73,
+      "end": 391.38,
+      "text": "Would you like to visit Brunei one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 388.93,
+          "endSec": 389.19,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 389.19,
+          "endSec": 389.37,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 389.37,
+          "endSec": 389.59,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 389.59,
+          "endSec": 389.81,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 389.81,
+          "endSec": 390.11,
+          "score": 1.0
+        },
+        {
+          "word": "Brunei",
+          "startSec": 390.11,
+          "endSec": 390.69,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 390.69,
+          "endSec": 390.97,
+          "score": 0.99
+        },
+        {
+          "word": "day?",
+          "startSec": 390.97,
+          "endSec": 391.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 395.52,
+      "end": 399.09,
+      "text": "I hope you learned something new today.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 395.72,
+          "endSec": 396.18,
+          "score": 0.59
+        },
+        {
+          "word": "hope",
+          "startSec": 396.18,
+          "endSec": 397.1,
+          "score": 0.96
+        },
+        {
+          "word": "you",
+          "startSec": 397.1,
+          "endSec": 397.38,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 397.38,
+          "endSec": 397.6,
+          "score": 0.85
+        },
+        {
+          "word": "something",
+          "startSec": 397.6,
+          "endSec": 398.06,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 398.06,
+          "endSec": 398.46,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 398.46,
+          "endSec": 398.94,
+          "score": 0.99
         }
       ]
     }

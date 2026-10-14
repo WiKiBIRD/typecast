@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 2.53,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.3,
-          "score": 0.8
-        },
-        {
-          "word": "and",
-          "startSec": 0.3,
-          "endSec": 0.6,
-          "score": 0.79
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.6,
-          "endSec": 1.06,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 1.06,
-          "endSec": 1.32,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.32,
-          "endSec": 1.6,
-          "score": 0.58
-        },
-        {
-          "word": "English",
-          "startSec": 1.6,
-          "endSec": 1.94,
-          "score": 0.94
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 1.94,
-          "endSec": 2.38,
-          "score": 0.93
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 3.18,
       "end": 4.91,
       "text": "I'm Emily, your host.",
@@ -96,7 +46,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 5.5,
       "end": 9.51,
       "text": "This podcast is for people who are learning English.",
@@ -158,7 +108,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 10.08,
       "end": 13.65,
       "text": "If you are an A1 level learner, don't worry.",
@@ -220,7 +170,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 14.04,
       "end": 16.89,
       "text": "I will speak slowly and clearly",
@@ -264,7 +214,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 16.54,
       "end": 18.99,
       "text": "so you can understand everything.",
@@ -302,7 +252,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 19.64,
       "end": 23.91,
       "text": "In today's episode, we are going to talk about Australia,",
@@ -370,7 +320,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 24.3,
       "end": 27.17,
       "text": "a beautiful country in the Southern Hemisphere.",
@@ -420,7 +370,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 27.82,
       "end": 29.25,
       "text": "Let's get started.",
@@ -446,7 +396,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 30.51,
       "end": 33.94,
       "text": "Part one, introduction to Australia.",
@@ -480,6 +430,5050 @@
           "startSec": 33.31,
           "endSec": 33.79,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 34.66,
+      "end": 37.41,
+      "text": "Australia is a large country.",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 34.86,
+          "endSec": 35.68,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 35.68,
+          "endSec": 36.2,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 36.2,
+          "endSec": 36.36,
+          "score": 1.0
+        },
+        {
+          "word": "large",
+          "startSec": 36.36,
+          "endSec": 36.62,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 36.62,
+          "endSec": 37.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 38.1,
+      "end": 40.57,
+      "text": "It is an island and a continent.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 38.3,
+          "endSec": 38.46,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 38.46,
+          "endSec": 38.68,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 38.68,
+          "endSec": 38.9,
+          "score": 1.0
+        },
+        {
+          "word": "island",
+          "startSec": 38.9,
+          "endSec": 39.44,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 39.44,
+          "endSec": 39.8,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "startSec": 39.8,
+          "endSec": 39.94,
+          "score": 0.94
+        },
+        {
+          "word": "continent.",
+          "startSec": 39.94,
+          "endSec": 40.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 40.98,
+      "end": 44.05,
+      "text": "Australia is in the southern part of the world",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 41.18,
+          "endSec": 41.74,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 41.74,
+          "endSec": 42.22,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 42.22,
+          "endSec": 42.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 42.4,
+          "endSec": 42.54,
+          "score": 1.0
+        },
+        {
+          "word": "southern",
+          "startSec": 42.54,
+          "endSec": 42.88,
+          "score": 0.96
+        },
+        {
+          "word": "part",
+          "startSec": 42.88,
+          "endSec": 43.24,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 43.24,
+          "endSec": 43.42,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 43.42,
+          "endSec": 43.58,
+          "score": 1.0
+        },
+        {
+          "word": "world",
+          "startSec": 43.58,
+          "endSec": 43.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 44.22,
+      "end": 46.65,
+      "text": "and it is surrounded by the sea.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 44.42,
+          "endSec": 44.84,
+          "score": 0.44
+        },
+        {
+          "word": "it",
+          "startSec": 44.84,
+          "endSec": 45.0,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 45.0,
+          "endSec": 45.18,
+          "score": 1.0
+        },
+        {
+          "word": "surrounded",
+          "startSec": 45.18,
+          "endSec": 45.5,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 45.5,
+          "endSec": 46.02,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 46.02,
+          "endSec": 46.2,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 46.2,
+          "endSec": 46.5,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 47.36,
+      "end": 50.45,
+      "text": "The capital city of Australia is Canberra,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 47.56,
+          "endSec": 47.66,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 47.66,
+          "endSec": 48.16,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 48.16,
+          "endSec": 48.58,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 48.58,
+          "endSec": 48.88,
+          "score": 1.0
+        },
+        {
+          "word": "Australia",
+          "startSec": 48.88,
+          "endSec": 49.38,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 49.38,
+          "endSec": 49.94,
+          "score": 1.0
+        },
+        {
+          "word": "Canberra,",
+          "startSec": 49.94,
+          "endSec": 50.3,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 50.9,
+      "end": 54.53,
+      "text": "but the biggest and most famous city is Sydney.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 51.1,
+          "endSec": 51.56,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 51.56,
+          "endSec": 51.74,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 51.74,
+          "endSec": 52.18,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 52.18,
+          "endSec": 52.64,
+          "score": 0.99
+        },
+        {
+          "word": "most",
+          "startSec": 52.64,
+          "endSec": 52.94,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 52.94,
+          "endSec": 53.48,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 53.48,
+          "endSec": 53.84,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 53.84,
+          "endSec": 54.1,
+          "score": 1.0
+        },
+        {
+          "word": "Sydney.",
+          "startSec": 54.1,
+          "endSec": 54.38,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 55.35,
+      "end": 58.34,
+      "text": "Sydney is known for its beautiful beach",
+      "words": [
+        {
+          "word": "Sydney",
+          "startSec": 55.55,
+          "endSec": 56.03,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 56.03,
+          "endSec": 56.49,
+          "score": 1.0
+        },
+        {
+          "word": "known",
+          "startSec": 56.49,
+          "endSec": 56.77,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 56.77,
+          "endSec": 57.09,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 57.09,
+          "endSec": 57.25,
+          "score": 0.96
+        },
+        {
+          "word": "beautiful",
+          "startSec": 57.25,
+          "endSec": 57.61,
+          "score": 1.0
+        },
+        {
+          "word": "beach",
+          "startSec": 57.61,
+          "endSec": 58.19,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 57.99,
+      "end": 60.72,
+      "text": "and the famous opera house.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 58.19,
+          "endSec": 59.05,
+          "score": 0.17
+        },
+        {
+          "word": "the",
+          "startSec": 59.05,
+          "endSec": 59.19,
+          "score": 0.95
+        },
+        {
+          "word": "famous",
+          "startSec": 59.19,
+          "endSec": 59.65,
+          "score": 0.98
+        },
+        {
+          "word": "opera",
+          "startSec": 59.65,
+          "endSec": 60.01,
+          "score": 0.37
+        },
+        {
+          "word": "house.",
+          "startSec": 60.01,
+          "endSec": 60.57,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 61.53,
+      "end": 64.86,
+      "text": "People from many different countries live in Australia.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 61.73,
+          "endSec": 62.09,
+          "score": 0.72
+        },
+        {
+          "word": "from",
+          "startSec": 62.09,
+          "endSec": 62.43,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 62.43,
+          "endSec": 62.71,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 62.71,
+          "endSec": 63.11,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 63.11,
+          "endSec": 63.45,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 63.45,
+          "endSec": 64.05,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 64.05,
+          "endSec": 64.25,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 64.25,
+          "endSec": 64.71,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 65.62,
+      "end": 68.19,
+      "text": "Part two, geography of Australia.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 65.82,
+          "endSec": 66.14,
+          "score": 0.92
+        },
+        {
+          "word": "two,",
+          "startSec": 66.14,
+          "endSec": 66.48,
+          "score": 0.49
+        },
+        {
+          "word": "geography",
+          "startSec": 66.48,
+          "endSec": 67.04,
+          "score": 0.82
+        },
+        {
+          "word": "of",
+          "startSec": 67.04,
+          "endSec": 67.64,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 67.64,
+          "endSec": 68.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 68.76,
+      "end": 72.15,
+      "text": "Australia has many different types of land.",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 68.96,
+          "endSec": 69.7,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 69.7,
+          "endSec": 70.22,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 70.22,
+          "endSec": 70.58,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 70.58,
+          "endSec": 71.04,
+          "score": 1.0
+        },
+        {
+          "word": "types",
+          "startSec": 71.04,
+          "endSec": 71.4,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 71.4,
+          "endSec": 71.7,
+          "score": 1.0
+        },
+        {
+          "word": "land.",
+          "startSec": 71.7,
+          "endSec": 72.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 72.68,
+      "end": 75.49,
+      "text": "In the east, there are big mountains",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 72.88,
+          "endSec": 73.06,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 73.06,
+          "endSec": 73.22,
+          "score": 1.0
+        },
+        {
+          "word": "east,",
+          "startSec": 73.22,
+          "endSec": 73.7,
+          "score": 0.72
+        },
+        {
+          "word": "there",
+          "startSec": 74.06,
+          "endSec": 74.44,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 74.44,
+          "endSec": 74.6,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 74.6,
+          "endSec": 74.84,
+          "score": 1.0
+        },
+        {
+          "word": "mountains",
+          "startSec": 74.84,
+          "endSec": 75.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 75.14,
+      "end": 77.57,
+      "text": "called the Great Dividing Range.",
+      "words": [
+        {
+          "word": "called",
+          "startSec": 75.34,
+          "endSec": 75.88,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 75.88,
+          "endSec": 76.16,
+          "score": 0.96
+        },
+        {
+          "word": "Great",
+          "startSec": 76.16,
+          "endSec": 76.46,
+          "score": 0.81
+        },
+        {
+          "word": "Dividing",
+          "startSec": 76.46,
+          "endSec": 77.2,
+          "score": 0.94
+        },
+        {
+          "word": "Range.",
+          "startSec": 77.2,
+          "endSec": 77.42,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 78.4,
+      "end": 80.93,
+      "text": "These mountains are not very high,",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 78.6,
+          "endSec": 78.98,
+          "score": 1.0
+        },
+        {
+          "word": "mountains",
+          "startSec": 78.98,
+          "endSec": 79.36,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 79.36,
+          "endSec": 79.84,
+          "score": 1.0
+        },
+        {
+          "word": "not",
+          "startSec": 79.84,
+          "endSec": 80.08,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 80.08,
+          "endSec": 80.38,
+          "score": 1.0
+        },
+        {
+          "word": "high,",
+          "startSec": 80.38,
+          "endSec": 80.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 81.35,
+      "end": 84.61,
+      "text": "but they are long and cover a lot of land.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 81.55,
+          "endSec": 81.92,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 81.92,
+          "endSec": 82.1,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 82.1,
+          "endSec": 82.22,
+          "score": 0.98
+        },
+        {
+          "word": "long",
+          "startSec": 82.22,
+          "endSec": 82.58,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 82.58,
+          "endSec": 83.02,
+          "score": 0.97
+        },
+        {
+          "word": "cover",
+          "startSec": 83.02,
+          "endSec": 83.4,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 83.4,
+          "endSec": 83.64,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 83.64,
+          "endSec": 83.9,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 83.9,
+          "endSec": 84.08,
+          "score": 1.0
+        },
+        {
+          "word": "land.",
+          "startSec": 84.08,
+          "endSec": 84.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 85.32,
+      "end": 87.23,
+      "text": "In the center of Australia,",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 85.52,
+          "endSec": 85.84,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 85.84,
+          "endSec": 85.96,
+          "score": 1.0
+        },
+        {
+          "word": "center",
+          "startSec": 85.96,
+          "endSec": 86.3,
+          "score": 0.89
+        },
+        {
+          "word": "of",
+          "startSec": 86.3,
+          "endSec": 86.6,
+          "score": 1.0
+        },
+        {
+          "word": "Australia,",
+          "startSec": 86.6,
+          "endSec": 87.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 87.46,
+      "end": 91.91,
+      "text": "there is a very dry and hot place called the Outback.",
+      "words": [
+        {
+          "word": "there",
+          "startSec": 87.66,
+          "endSec": 88.06,
+          "score": 0.05
+        },
+        {
+          "word": "is",
+          "startSec": 88.06,
+          "endSec": 88.28,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 88.28,
+          "endSec": 88.4,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 88.4,
+          "endSec": 88.82,
+          "score": 0.99
+        },
+        {
+          "word": "dry",
+          "startSec": 88.82,
+          "endSec": 89.26,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 89.26,
+          "endSec": 89.64,
+          "score": 0.98
+        },
+        {
+          "word": "hot",
+          "startSec": 89.64,
+          "endSec": 89.94,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 89.94,
+          "endSec": 90.44,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 90.44,
+          "endSec": 90.98,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 90.98,
+          "endSec": 91.24,
+          "score": 0.96
+        },
+        {
+          "word": "Outback.",
+          "startSec": 91.24,
+          "endSec": 91.76,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 93.05,
+      "end": 97.0,
+      "text": "The Outback has deserts and is very different",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 93.25,
+          "endSec": 93.55,
+          "score": 0.99
+        },
+        {
+          "word": "Outback",
+          "startSec": 93.55,
+          "endSec": 94.07,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 94.07,
+          "endSec": 94.37,
+          "score": 1.0
+        },
+        {
+          "word": "deserts",
+          "startSec": 94.37,
+          "endSec": 94.71,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 94.71,
+          "endSec": 95.75,
+          "score": 0.85
+        },
+        {
+          "word": "is",
+          "startSec": 95.75,
+          "endSec": 95.93,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 95.93,
+          "endSec": 96.27,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 96.27,
+          "endSec": 96.85,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 96.65,
+      "end": 98.98,
+      "text": "from the cities near the coast.",
+      "words": [
+        {
+          "word": "from",
+          "startSec": 96.85,
+          "endSec": 97.37,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 97.37,
+          "endSec": 97.59,
+          "score": 0.99
+        },
+        {
+          "word": "cities",
+          "startSec": 97.59,
+          "endSec": 97.97,
+          "score": 0.92
+        },
+        {
+          "word": "near",
+          "startSec": 97.97,
+          "endSec": 98.35,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 98.35,
+          "endSec": 98.53,
+          "score": 1.0
+        },
+        {
+          "word": "coast.",
+          "startSec": 98.53,
+          "endSec": 98.83,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 99.53,
+      "end": 102.62,
+      "text": "The weather can be very hot in the Outback.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 99.73,
+          "endSec": 100.01,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 100.01,
+          "endSec": 100.23,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 100.23,
+          "endSec": 100.55,
+          "score": 1.0
+        },
+        {
+          "word": "be",
+          "startSec": 100.55,
+          "endSec": 100.73,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 100.73,
+          "endSec": 101.13,
+          "score": 1.0
+        },
+        {
+          "word": "hot",
+          "startSec": 101.13,
+          "endSec": 101.57,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 101.57,
+          "endSec": 101.83,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 101.83,
+          "endSec": 101.99,
+          "score": 1.0
+        },
+        {
+          "word": "Outback.",
+          "startSec": 101.99,
+          "endSec": 102.47,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 103.06,
+      "end": 107.33,
+      "text": "In the west, Australia has some very beautiful beaches",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 103.26,
+          "endSec": 103.72,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 103.72,
+          "endSec": 103.88,
+          "score": 1.0
+        },
+        {
+          "word": "west,",
+          "startSec": 103.88,
+          "endSec": 104.18,
+          "score": 0.44
+        },
+        {
+          "word": "Australia",
+          "startSec": 104.64,
+          "endSec": 105.04,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 105.04,
+          "endSec": 105.52,
+          "score": 1.0
+        },
+        {
+          "word": "some",
+          "startSec": 105.52,
+          "endSec": 105.78,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 105.78,
+          "endSec": 106.22,
+          "score": 0.98
+        },
+        {
+          "word": "beautiful",
+          "startSec": 106.22,
+          "endSec": 106.66,
+          "score": 1.0
+        },
+        {
+          "word": "beaches",
+          "startSec": 106.66,
+          "endSec": 107.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 107.2,
+      "end": 109.09,
+      "text": "and rainforests.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 107.4,
+          "endSec": 107.8,
+          "score": 1.0
+        },
+        {
+          "word": "rainforests.",
+          "startSec": 107.8,
+          "endSec": 108.94,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 109.78,
+      "end": 113.81,
+      "text": "The country is also famous for its Great Barrier Reef,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 109.98,
+          "endSec": 110.24,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 110.24,
+          "endSec": 110.5,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 110.5,
+          "endSec": 110.92,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 110.92,
+          "endSec": 111.38,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 111.38,
+          "endSec": 111.88,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 111.88,
+          "endSec": 112.24,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 112.24,
+          "endSec": 112.4,
+          "score": 0.94
+        },
+        {
+          "word": "Great",
+          "startSec": 112.4,
+          "endSec": 112.72,
+          "score": 0.55
+        },
+        {
+          "word": "Barrier",
+          "startSec": 112.72,
+          "endSec": 113.16,
+          "score": 1.0
+        },
+        {
+          "word": "Reef,",
+          "startSec": 113.16,
+          "endSec": 113.66,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 114.24,
+      "end": 117.11,
+      "text": "which is the world's largest coral reef.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 114.44,
+          "endSec": 114.68,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 114.68,
+          "endSec": 114.84,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 114.84,
+          "endSec": 115.02,
+          "score": 1.0
+        },
+        {
+          "word": "world's",
+          "startSec": 115.02,
+          "endSec": 115.6,
+          "score": 0.98
+        },
+        {
+          "word": "largest",
+          "startSec": 115.6,
+          "endSec": 116.12,
+          "score": 1.0
+        },
+        {
+          "word": "coral",
+          "startSec": 116.12,
+          "endSec": 116.46,
+          "score": 1.0
+        },
+        {
+          "word": "reef.",
+          "startSec": 116.46,
+          "endSec": 116.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 118.39,
+      "end": 122.84,
+      "text": "Many people visit Australia to see the reef and go diving.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 118.59,
+          "endSec": 118.95,
+          "score": 0.57
+        },
+        {
+          "word": "people",
+          "startSec": 118.95,
+          "endSec": 119.45,
+          "score": 0.99
+        },
+        {
+          "word": "visit",
+          "startSec": 119.45,
+          "endSec": 119.81,
+          "score": 0.99
+        },
+        {
+          "word": "Australia",
+          "startSec": 119.81,
+          "endSec": 120.21,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 120.21,
+          "endSec": 120.95,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 120.95,
+          "endSec": 121.19,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 121.19,
+          "endSec": 121.39,
+          "score": 1.0
+        },
+        {
+          "word": "reef",
+          "startSec": 121.39,
+          "endSec": 121.69,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 121.69,
+          "endSec": 122.01,
+          "score": 0.98
+        },
+        {
+          "word": "go",
+          "startSec": 122.01,
+          "endSec": 122.23,
+          "score": 0.99
+        },
+        {
+          "word": "diving.",
+          "startSec": 122.23,
+          "endSec": 122.69,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 123.65,
+      "end": 126.58,
+      "text": "Part three, animals in Australia.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 123.85,
+          "endSec": 123.99,
+          "score": 0.91
+        },
+        {
+          "word": "three,",
+          "startSec": 123.99,
+          "endSec": 124.45,
+          "score": 0.31
+        },
+        {
+          "word": "animals",
+          "startSec": 125.15,
+          "endSec": 125.63,
+          "score": 0.58
+        },
+        {
+          "word": "in",
+          "startSec": 125.63,
+          "endSec": 125.97,
+          "score": 0.98
+        },
+        {
+          "word": "Australia.",
+          "startSec": 125.97,
+          "endSec": 126.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 127.44,
+      "end": 130.79,
+      "text": "Australia is famous for its unique animals.",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 127.64,
+          "endSec": 128.36,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 128.36,
+          "endSec": 128.78,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 128.78,
+          "endSec": 129.12,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 129.12,
+          "endSec": 129.56,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 129.56,
+          "endSec": 129.72,
+          "score": 0.94
+        },
+        {
+          "word": "unique",
+          "startSec": 129.72,
+          "endSec": 130.08,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 130.08,
+          "endSec": 130.64,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 131.75,
+      "end": 134.98,
+      "text": "One of the most famous animals is the kangaroo.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 131.95,
+          "endSec": 132.09,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 132.09,
+          "endSec": 132.27,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 132.27,
+          "endSec": 132.39,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 132.39,
+          "endSec": 132.61,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 132.61,
+          "endSec": 133.09,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 133.09,
+          "endSec": 133.53,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 133.53,
+          "endSec": 134.07,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 134.07,
+          "endSec": 134.25,
+          "score": 0.99
+        },
+        {
+          "word": "kangaroo.",
+          "startSec": 134.25,
+          "endSec": 134.83,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 135.59,
+      "end": 139.58,
+      "text": "Kangaroos live in the wild and can hop very high.",
+      "words": [
+        {
+          "word": "Kangaroos",
+          "startSec": 135.79,
+          "endSec": 136.51,
+          "score": 0.93
+        },
+        {
+          "word": "live",
+          "startSec": 136.51,
+          "endSec": 136.75,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 136.75,
+          "endSec": 136.97,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 136.97,
+          "endSec": 137.11,
+          "score": 1.0
+        },
+        {
+          "word": "wild",
+          "startSec": 137.11,
+          "endSec": 137.43,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 137.43,
+          "endSec": 137.95,
+          "score": 0.94
+        },
+        {
+          "word": "can",
+          "startSec": 137.95,
+          "endSec": 138.15,
+          "score": 1.0
+        },
+        {
+          "word": "hop",
+          "startSec": 138.15,
+          "endSec": 138.43,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 138.43,
+          "endSec": 138.85,
+          "score": 1.0
+        },
+        {
+          "word": "high.",
+          "startSec": 138.85,
+          "endSec": 139.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 140.13,
+      "end": 142.38,
+      "text": "You can also see koalas,",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 140.33,
+          "endSec": 140.43,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 140.43,
+          "endSec": 140.59,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 140.59,
+          "endSec": 140.81,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 140.81,
+          "endSec": 141.27,
+          "score": 1.0
+        },
+        {
+          "word": "koalas,",
+          "startSec": 141.27,
+          "endSec": 142.23,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 142.27,
+      "end": 145.18,
+      "text": "which are small animals that sleep in trees.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 142.47,
+          "endSec": 142.69,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 142.69,
+          "endSec": 142.87,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 142.87,
+          "endSec": 143.15,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 143.15,
+          "endSec": 143.77,
+          "score": 1.0
+        },
+        {
+          "word": "that",
+          "startSec": 143.77,
+          "endSec": 144.13,
+          "score": 1.0
+        },
+        {
+          "word": "sleep",
+          "startSec": 144.13,
+          "endSec": 144.43,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 144.43,
+          "endSec": 144.69,
+          "score": 1.0
+        },
+        {
+          "word": "trees.",
+          "startSec": 144.69,
+          "endSec": 145.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 145.59,
+      "end": 147.18,
+      "text": "They look very cute.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 145.79,
+          "endSec": 146.09,
+          "score": 1.0
+        },
+        {
+          "word": "look",
+          "startSec": 146.09,
+          "endSec": 146.29,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 146.29,
+          "endSec": 146.55,
+          "score": 1.0
+        },
+        {
+          "word": "cute.",
+          "startSec": 146.55,
+          "endSec": 147.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 147.63,
+      "end": 150.81,
+      "text": "Another famous animal is the platypus.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 147.83,
+          "endSec": 148.22,
+          "score": 0.81
+        },
+        {
+          "word": "famous",
+          "startSec": 148.22,
+          "endSec": 148.72,
+          "score": 0.99
+        },
+        {
+          "word": "animal",
+          "startSec": 148.72,
+          "endSec": 149.22,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 149.22,
+          "endSec": 149.66,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 149.66,
+          "endSec": 149.82,
+          "score": 0.98
+        },
+        {
+          "word": "platypus.",
+          "startSec": 149.82,
+          "endSec": 150.66,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 151.1,
+      "end": 153.97,
+      "text": "The platypus is a strange animal",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 151.3,
+          "endSec": 151.52,
+          "score": 0.98
+        },
+        {
+          "word": "platypus",
+          "startSec": 151.52,
+          "endSec": 152.38,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 152.38,
+          "endSec": 152.62,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 152.62,
+          "endSec": 152.78,
+          "score": 1.0
+        },
+        {
+          "word": "strange",
+          "startSec": 152.78,
+          "endSec": 153.08,
+          "score": 1.0
+        },
+        {
+          "word": "animal",
+          "startSec": 153.08,
+          "endSec": 153.82,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 153.62,
+      "end": 157.07,
+      "text": "because it lays eggs and has a beak like a duck.",
+      "words": [
+        {
+          "word": "because",
+          "startSec": 153.82,
+          "endSec": 154.3,
+          "score": 0.92
+        },
+        {
+          "word": "it",
+          "startSec": 154.3,
+          "endSec": 154.5,
+          "score": 1.0
+        },
+        {
+          "word": "lays",
+          "startSec": 154.5,
+          "endSec": 154.72,
+          "score": 1.0
+        },
+        {
+          "word": "eggs",
+          "startSec": 154.72,
+          "endSec": 155.18,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 155.18,
+          "endSec": 155.5,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 155.5,
+          "endSec": 155.72,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 155.72,
+          "endSec": 155.9,
+          "score": 0.99
+        },
+        {
+          "word": "beak",
+          "startSec": 155.9,
+          "endSec": 156.3,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 156.3,
+          "endSec": 156.48,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 156.48,
+          "endSec": 156.64,
+          "score": 0.97
+        },
+        {
+          "word": "duck.",
+          "startSec": 156.64,
+          "endSec": 156.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 158.28,
+      "end": 161.61,
+      "text": "Australia also has many dangerous animals,",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 158.48,
+          "endSec": 159.1,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 159.1,
+          "endSec": 159.62,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 159.62,
+          "endSec": 160.1,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 160.1,
+          "endSec": 160.34,
+          "score": 1.0
+        },
+        {
+          "word": "dangerous",
+          "startSec": 160.34,
+          "endSec": 160.96,
+          "score": 1.0
+        },
+        {
+          "word": "animals,",
+          "startSec": 160.96,
+          "endSec": 161.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 162.02,
+      "end": 163.67,
+      "text": "like snakes and spiders.",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 162.22,
+          "endSec": 162.44,
+          "score": 0.99
+        },
+        {
+          "word": "snakes",
+          "startSec": 162.44,
+          "endSec": 162.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 162.74,
+          "endSec": 163.14,
+          "score": 0.99
+        },
+        {
+          "word": "spiders.",
+          "startSec": 163.14,
+          "endSec": 163.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 164.71,
+      "end": 165.96,
+      "text": "But don't worry,",
+      "words": [
+        {
+          "word": "But",
+          "startSec": 164.91,
+          "endSec": 165.05,
+          "score": 0.99
+        },
+        {
+          "word": "don't",
+          "startSec": 165.05,
+          "endSec": 165.45,
+          "score": 0.97
+        },
+        {
+          "word": "worry,",
+          "startSec": 165.45,
+          "endSec": 165.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 166.33,
+      "end": 169.48,
+      "text": "these animals usually stay in the wild",
+      "words": [
+        {
+          "word": "these",
+          "startSec": 166.53,
+          "endSec": 166.75,
+          "score": 0.99
+        },
+        {
+          "word": "animals",
+          "startSec": 166.75,
+          "endSec": 167.39,
+          "score": 1.0
+        },
+        {
+          "word": "usually",
+          "startSec": 167.39,
+          "endSec": 168.13,
+          "score": 1.0
+        },
+        {
+          "word": "stay",
+          "startSec": 168.13,
+          "endSec": 168.67,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 168.67,
+          "endSec": 168.89,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 168.89,
+          "endSec": 169.01,
+          "score": 1.0
+        },
+        {
+          "word": "wild",
+          "startSec": 169.01,
+          "endSec": 169.33,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 169.13,
+      "end": 172.04,
+      "text": "and people are careful to avoid them.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 169.33,
+          "endSec": 169.91,
+          "score": 0.68
+        },
+        {
+          "word": "people",
+          "startSec": 169.91,
+          "endSec": 170.27,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 170.27,
+          "endSec": 170.47,
+          "score": 1.0
+        },
+        {
+          "word": "careful",
+          "startSec": 170.47,
+          "endSec": 170.93,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 170.93,
+          "endSec": 171.19,
+          "score": 1.0
+        },
+        {
+          "word": "avoid",
+          "startSec": 171.19,
+          "endSec": 171.45,
+          "score": 1.0
+        },
+        {
+          "word": "them.",
+          "startSec": 171.45,
+          "endSec": 171.89,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 172.86,
+      "end": 175.29,
+      "text": "Part four, the food of Australia.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 173.06,
+          "endSec": 173.44,
+          "score": 0.74
+        },
+        {
+          "word": "four,",
+          "startSec": 173.44,
+          "endSec": 173.84,
+          "score": 0.31
+        },
+        {
+          "word": "the",
+          "startSec": 174.3,
+          "endSec": 174.38,
+          "score": 0.92
+        },
+        {
+          "word": "food",
+          "startSec": 174.38,
+          "endSec": 174.64,
+          "score": 0.93
+        },
+        {
+          "word": "of",
+          "startSec": 174.64,
+          "endSec": 174.84,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 174.84,
+          "endSec": 175.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 175.94,
+      "end": 179.61,
+      "text": "In Australia, people eat a lot of different foods.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 176.14,
+          "endSec": 176.54,
+          "score": 0.54
+        },
+        {
+          "word": "Australia,",
+          "startSec": 176.54,
+          "endSec": 176.9,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 177.52,
+          "endSec": 177.62,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 177.62,
+          "endSec": 178.04,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 178.04,
+          "endSec": 178.2,
+          "score": 0.99
+        },
+        {
+          "word": "lot",
+          "startSec": 178.2,
+          "endSec": 178.52,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 178.52,
+          "endSec": 178.68,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 178.68,
+          "endSec": 178.88,
+          "score": 0.98
+        },
+        {
+          "word": "foods.",
+          "startSec": 178.88,
+          "endSec": 179.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 180.14,
+      "end": 182.83,
+      "text": "Barbecue is very popular in Australia.",
+      "words": [
+        {
+          "word": "Barbecue",
+          "startSec": 180.34,
+          "endSec": 180.88,
+          "score": 0.67
+        },
+        {
+          "word": "is",
+          "startSec": 180.88,
+          "endSec": 181.28,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 181.28,
+          "endSec": 181.48,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 181.48,
+          "endSec": 182.1,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 182.1,
+          "endSec": 182.46,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 182.46,
+          "endSec": 182.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 183.66,
+      "end": 188.21,
+      "text": "People cook meat on a grill and eat it with salads and bread.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 183.86,
+          "endSec": 184.18,
+          "score": 0.99
+        },
+        {
+          "word": "cook",
+          "startSec": 184.18,
+          "endSec": 184.58,
+          "score": 0.99
+        },
+        {
+          "word": "meat",
+          "startSec": 184.58,
+          "endSec": 184.96,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 184.96,
+          "endSec": 185.28,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 185.28,
+          "endSec": 185.42,
+          "score": 0.98
+        },
+        {
+          "word": "grill",
+          "startSec": 185.42,
+          "endSec": 185.74,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 185.74,
+          "endSec": 186.26,
+          "score": 0.9
+        },
+        {
+          "word": "eat",
+          "startSec": 186.26,
+          "endSec": 186.58,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 186.58,
+          "endSec": 186.74,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 186.74,
+          "endSec": 186.92,
+          "score": 1.0
+        },
+        {
+          "word": "salads",
+          "startSec": 186.92,
+          "endSec": 187.4,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 187.4,
+          "endSec": 187.78,
+          "score": 0.99
+        },
+        {
+          "word": "bread.",
+          "startSec": 187.78,
+          "endSec": 188.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 188.76,
+      "end": 191.75,
+      "text": "It is called an Aussie Baba Queue.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 188.96,
+          "endSec": 189.16,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 189.16,
+          "endSec": 189.3,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 189.3,
+          "endSec": 189.7,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 189.7,
+          "endSec": 190.02,
+          "score": 0.97
+        },
+        {
+          "word": "Aussie",
+          "startSec": 190.02,
+          "endSec": 190.52,
+          "score": 0.82
+        },
+        {
+          "word": "Baba",
+          "startSec": 190.52,
+          "endSec": 190.96,
+          "score": 0.83
+        },
+        {
+          "word": "Queue.",
+          "startSec": 190.96,
+          "endSec": 191.6,
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 192.01,
+      "end": 195.3,
+      "text": "You will find many people having a barbecue",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 192.21,
+          "endSec": 192.61,
+          "score": 0.99
+        },
+        {
+          "word": "will",
+          "startSec": 192.61,
+          "endSec": 192.77,
+          "score": 0.99
+        },
+        {
+          "word": "find",
+          "startSec": 192.77,
+          "endSec": 193.11,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 193.11,
+          "endSec": 193.49,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 193.49,
+          "endSec": 194.13,
+          "score": 1.0
+        },
+        {
+          "word": "having",
+          "startSec": 194.13,
+          "endSec": 194.49,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 194.49,
+          "endSec": 194.75,
+          "score": 1.0
+        },
+        {
+          "word": "barbecue",
+          "startSec": 194.75,
+          "endSec": 195.15,
+          "score": 0.82
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 194.95,
+      "end": 197.24,
+      "text": "in their gardens or parks.",
+      "words": [
+        {
+          "word": "in",
+          "startSec": 195.15,
+          "endSec": 195.73,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 195.73,
+          "endSec": 195.89,
+          "score": 1.0
+        },
+        {
+          "word": "gardens",
+          "startSec": 195.89,
+          "endSec": 196.25,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 196.25,
+          "endSec": 196.83,
+          "score": 0.98
+        },
+        {
+          "word": "parks.",
+          "startSec": 196.83,
+          "endSec": 197.09,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 198.15,
+      "end": 200.66,
+      "text": "Another famous food is Vegemite.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 198.35,
+          "endSec": 198.59,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 198.59,
+          "endSec": 199.09,
+          "score": 1.0
+        },
+        {
+          "word": "food",
+          "startSec": 199.09,
+          "endSec": 199.49,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 199.49,
+          "endSec": 199.87,
+          "score": 1.0
+        },
+        {
+          "word": "Vegemite.",
+          "startSec": 199.87,
+          "endSec": 200.51,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 200.95,
+      "end": 204.52,
+      "text": "Vegemite is a dark, salty spread",
+      "words": [
+        {
+          "word": "Vegemite",
+          "startSec": 201.15,
+          "endSec": 201.91,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 201.91,
+          "endSec": 202.23,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 202.23,
+          "endSec": 202.37,
+          "score": 0.99
+        },
+        {
+          "word": "dark,",
+          "startSec": 202.37,
+          "endSec": 202.75,
+          "score": 1.0
+        },
+        {
+          "word": "salty",
+          "startSec": 203.19,
+          "endSec": 203.75,
+          "score": 1.0
+        },
+        {
+          "word": "spread",
+          "startSec": 203.75,
+          "endSec": 204.37,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 204.17,
+      "end": 207.22,
+      "text": "that people put on bread or crackers.",
+      "words": [
+        {
+          "word": "that",
+          "startSec": 204.37,
+          "endSec": 204.71,
+          "score": 0.5
+        },
+        {
+          "word": "people",
+          "startSec": 204.71,
+          "endSec": 204.97,
+          "score": 1.0
+        },
+        {
+          "word": "put",
+          "startSec": 204.97,
+          "endSec": 205.41,
+          "score": 0.98
+        },
+        {
+          "word": "on",
+          "startSec": 205.41,
+          "endSec": 205.65,
+          "score": 1.0
+        },
+        {
+          "word": "bread",
+          "startSec": 205.65,
+          "endSec": 205.97,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 205.97,
+          "endSec": 206.23,
+          "score": 0.97
+        },
+        {
+          "word": "crackers.",
+          "startSec": 206.23,
+          "endSec": 207.07,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 207.85,
+      "end": 212.02,
+      "text": "Some people love it and some people don't like it at all.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 208.05,
+          "endSec": 208.49,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 208.49,
+          "endSec": 208.95,
+          "score": 1.0
+        },
+        {
+          "word": "love",
+          "startSec": 208.95,
+          "endSec": 209.29,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 209.29,
+          "endSec": 209.55,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 209.55,
+          "endSec": 210.11,
+          "score": 0.55
+        },
+        {
+          "word": "some",
+          "startSec": 210.11,
+          "endSec": 210.33,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 210.33,
+          "endSec": 210.71,
+          "score": 1.0
+        },
+        {
+          "word": "don't",
+          "startSec": 210.71,
+          "endSec": 211.09,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 211.09,
+          "endSec": 211.27,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 211.27,
+          "endSec": 211.47,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 211.47,
+          "endSec": 211.63,
+          "score": 0.99
+        },
+        {
+          "word": "all.",
+          "startSec": 211.63,
+          "endSec": 211.87,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 212.63,
+      "end": 215.86,
+      "text": "If you visit Australia, you can try it",
+      "words": [
+        {
+          "word": "If",
+          "startSec": 212.83,
+          "endSec": 212.99,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 212.99,
+          "endSec": 213.17,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 213.17,
+          "endSec": 213.39,
+          "score": 1.0
+        },
+        {
+          "word": "Australia,",
+          "startSec": 213.39,
+          "endSec": 213.91,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 214.69,
+          "endSec": 214.97,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 214.97,
+          "endSec": 215.13,
+          "score": 1.0
+        },
+        {
+          "word": "try",
+          "startSec": 215.13,
+          "endSec": 215.45,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 215.45,
+          "endSec": 215.71,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 215.51,
+      "end": 217.26,
+      "text": "and see if you like it.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 215.71,
+          "endSec": 215.89,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 215.89,
+          "endSec": 216.17,
+          "score": 1.0
+        },
+        {
+          "word": "if",
+          "startSec": 216.17,
+          "endSec": 216.39,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 216.39,
+          "endSec": 216.55,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 216.55,
+          "endSec": 216.81,
+          "score": 1.0
+        },
+        {
+          "word": "it.",
+          "startSec": 216.81,
+          "endSec": 217.11,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 217.66,
+      "end": 221.11,
+      "text": "People in Australia also eat meat pies.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 217.86,
+          "endSec": 218.12,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 218.12,
+          "endSec": 219.28,
+          "score": 1.0
+        },
+        {
+          "word": "Australia",
+          "startSec": 219.28,
+          "endSec": 219.28,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 219.28,
+          "endSec": 219.56,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 219.56,
+          "endSec": 220.18,
+          "score": 1.0
+        },
+        {
+          "word": "meat",
+          "startSec": 220.18,
+          "endSec": 220.58,
+          "score": 0.99
+        },
+        {
+          "word": "pies.",
+          "startSec": 220.58,
+          "endSec": 220.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 221.6,
+      "end": 225.61,
+      "text": "These are small pies filled with meat, gravy and vegetables.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 221.8,
+          "endSec": 221.98,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 221.98,
+          "endSec": 222.16,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 222.16,
+          "endSec": 222.44,
+          "score": 1.0
+        },
+        {
+          "word": "pies",
+          "startSec": 222.44,
+          "endSec": 223.02,
+          "score": 1.0
+        },
+        {
+          "word": "filled",
+          "startSec": 223.02,
+          "endSec": 223.38,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 223.38,
+          "endSec": 223.68,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 223.68,
+          "endSec": 224.02,
+          "score": 1.0
+        },
+        {
+          "word": "gravy",
+          "startSec": 224.32,
+          "endSec": 224.56,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 224.56,
+          "endSec": 225.06,
+          "score": 0.54
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 225.06,
+          "endSec": 225.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 226.72,
+      "end": 231.05,
+      "text": "They are very tasty and easy to eat for lunch or dinner.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 226.92,
+          "endSec": 227.18,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 227.18,
+          "endSec": 227.3,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 227.3,
+          "endSec": 227.5,
+          "score": 1.0
+        },
+        {
+          "word": "tasty",
+          "startSec": 227.5,
+          "endSec": 228.12,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 228.12,
+          "endSec": 228.62,
+          "score": 0.98
+        },
+        {
+          "word": "easy",
+          "startSec": 228.62,
+          "endSec": 228.94,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 228.94,
+          "endSec": 229.24,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 229.24,
+          "endSec": 229.48,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 229.48,
+          "endSec": 229.82,
+          "score": 0.99
+        },
+        {
+          "word": "lunch",
+          "startSec": 229.82,
+          "endSec": 230.14,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 230.14,
+          "endSec": 230.56,
+          "score": 1.0
+        },
+        {
+          "word": "dinner.",
+          "startSec": 230.56,
+          "endSec": 230.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 231.52,
+      "end": 234.28,
+      "text": "Part five, sports in Australia.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 231.72,
+          "endSec": 232.13,
+          "score": 0.26
+        },
+        {
+          "word": "five,",
+          "startSec": 232.13,
+          "endSec": 232.77,
+          "score": 0.13
+        },
+        {
+          "word": "sports",
+          "startSec": 233.15,
+          "endSec": 233.37,
+          "score": 0.51
+        },
+        {
+          "word": "in",
+          "startSec": 233.37,
+          "endSec": 233.69,
+          "score": 0.98
+        },
+        {
+          "word": "Australia.",
+          "startSec": 233.69,
+          "endSec": 234.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 234.83,
+      "end": 237.04,
+      "text": "Australians love sports.",
+      "words": [
+        {
+          "word": "Australians",
+          "startSec": 235.03,
+          "endSec": 235.77,
+          "score": 0.91
+        },
+        {
+          "word": "love",
+          "startSec": 235.77,
+          "endSec": 236.35,
+          "score": 0.99
+        },
+        {
+          "word": "sports.",
+          "startSec": 236.35,
+          "endSec": 236.89,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 238.01,
+      "end": 240.26,
+      "text": "The most popular sport in Australia",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 238.21,
+          "endSec": 238.31,
+          "score": 0.96
+        },
+        {
+          "word": "most",
+          "startSec": 238.31,
+          "endSec": 238.53,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 238.53,
+          "endSec": 239.05,
+          "score": 1.0
+        },
+        {
+          "word": "sport",
+          "startSec": 239.05,
+          "endSec": 239.55,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 239.55,
+          "endSec": 239.81,
+          "score": 1.0
+        },
+        {
+          "word": "Australia",
+          "startSec": 239.81,
+          "endSec": 240.11,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 240.24,
+      "end": 242.46,
+      "text": "is Australian rules football.",
+      "words": [
+        {
+          "word": "is",
+          "startSec": 240.44,
+          "endSec": 240.85,
+          "score": 0.98
+        },
+        {
+          "word": "Australian",
+          "startSec": 240.85,
+          "endSec": 241.37,
+          "score": 0.97
+        },
+        {
+          "word": "rules",
+          "startSec": 241.37,
+          "endSec": 241.89,
+          "score": 0.5
+        },
+        {
+          "word": "football.",
+          "startSec": 241.89,
+          "endSec": 242.31,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 243.05,
+      "end": 246.18,
+      "text": "This sport is a bit like soccer and rugby,",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 243.25,
+          "endSec": 243.43,
+          "score": 0.99
+        },
+        {
+          "word": "sport",
+          "startSec": 243.43,
+          "endSec": 243.77,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 243.77,
+          "endSec": 244.17,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 244.17,
+          "endSec": 244.35,
+          "score": 1.0
+        },
+        {
+          "word": "bit",
+          "startSec": 244.35,
+          "endSec": 244.57,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 244.57,
+          "endSec": 244.87,
+          "score": 0.99
+        },
+        {
+          "word": "soccer",
+          "startSec": 244.87,
+          "endSec": 245.29,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 245.29,
+          "endSec": 245.77,
+          "score": 0.97
+        },
+        {
+          "word": "rugby,",
+          "startSec": 245.77,
+          "endSec": 246.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 246.47,
+      "end": 248.44,
+      "text": "but it has different rules.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 246.67,
+          "endSec": 247.07,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 247.07,
+          "endSec": 247.21,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 247.21,
+          "endSec": 247.41,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 247.41,
+          "endSec": 247.73,
+          "score": 1.0
+        },
+        {
+          "word": "rules.",
+          "startSec": 247.73,
+          "endSec": 248.29,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 249.09,
+      "end": 251.44,
+      "text": "Many people watch the games",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 249.29,
+          "endSec": 249.53,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 249.53,
+          "endSec": 250.17,
+          "score": 1.0
+        },
+        {
+          "word": "watch",
+          "startSec": 250.17,
+          "endSec": 250.51,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 250.51,
+          "endSec": 250.89,
+          "score": 1.0
+        },
+        {
+          "word": "games",
+          "startSec": 250.89,
+          "endSec": 251.29,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 251.09,
+      "end": 253.58,
+      "text": "and cheer for their favorite teams.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 251.29,
+          "endSec": 251.63,
+          "score": 0.99
+        },
+        {
+          "word": "cheer",
+          "startSec": 251.63,
+          "endSec": 251.97,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 251.97,
+          "endSec": 252.37,
+          "score": 1.0
+        },
+        {
+          "word": "their",
+          "startSec": 252.37,
+          "endSec": 252.57,
+          "score": 1.0
+        },
+        {
+          "word": "favorite",
+          "startSec": 252.57,
+          "endSec": 252.99,
+          "score": 0.94
+        },
+        {
+          "word": "teams.",
+          "startSec": 252.99,
+          "endSec": 253.43,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 254.25,
+      "end": 257.8,
+      "text": "Another popular sport in Australia is cricket.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 254.45,
+          "endSec": 255.05,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 255.05,
+          "endSec": 255.61,
+          "score": 1.0
+        },
+        {
+          "word": "sport",
+          "startSec": 255.61,
+          "endSec": 256.15,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 256.15,
+          "endSec": 256.45,
+          "score": 0.99
+        },
+        {
+          "word": "Australia",
+          "startSec": 256.45,
+          "endSec": 256.71,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 256.71,
+          "endSec": 257.39,
+          "score": 0.99
+        },
+        {
+          "word": "cricket.",
+          "startSec": 257.39,
+          "endSec": 257.65,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 257.45,
+      "end": 261.77,
+      "text": "Cricket is a game played with a bat and ball,",
+      "words": [
+        {
+          "word": "Cricket",
+          "startSec": 257.65,
+          "endSec": 258.01,
+          "score": 0.68
+        },
+        {
+          "word": "is",
+          "startSec": 258.04,
+          "endSec": 259.38,
+          "score": 0.36
+        },
+        {
+          "word": "a",
+          "startSec": 259.38,
+          "endSec": 259.56,
+          "score": 0.99
+        },
+        {
+          "word": "game",
+          "startSec": 259.56,
+          "endSec": 259.86,
+          "score": 0.99
+        },
+        {
+          "word": "played",
+          "startSec": 259.86,
+          "endSec": 260.32,
+          "score": 0.98
+        },
+        {
+          "word": "with",
+          "startSec": 260.32,
+          "endSec": 260.62,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 260.62,
+          "endSec": 260.74,
+          "score": 0.98
+        },
+        {
+          "word": "bat",
+          "startSec": 260.74,
+          "endSec": 261.02,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 261.02,
+          "endSec": 261.3,
+          "score": 0.99
+        },
+        {
+          "word": "ball,",
+          "startSec": 261.3,
+          "endSec": 261.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 262.1,
+      "end": 265.33,
+      "text": "and people play it in parks and on the beach.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 262.3,
+          "endSec": 262.48,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 262.48,
+          "endSec": 262.72,
+          "score": 1.0
+        },
+        {
+          "word": "play",
+          "startSec": 262.72,
+          "endSec": 263.26,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 263.26,
+          "endSec": 263.46,
+          "score": 0.87
+        },
+        {
+          "word": "in",
+          "startSec": 263.46,
+          "endSec": 263.7,
+          "score": 0.99
+        },
+        {
+          "word": "parks",
+          "startSec": 263.7,
+          "endSec": 264.04,
+          "score": 0.87
+        },
+        {
+          "word": "and",
+          "startSec": 264.04,
+          "endSec": 264.54,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 264.54,
+          "endSec": 264.74,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 264.74,
+          "endSec": 264.92,
+          "score": 1.0
+        },
+        {
+          "word": "beach.",
+          "startSec": 264.92,
+          "endSec": 265.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 265.98,
+      "end": 268.49,
+      "text": "Swimming is also very popular",
+      "words": [
+        {
+          "word": "Swimming",
+          "startSec": 266.18,
+          "endSec": 266.78,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 266.78,
+          "endSec": 267.08,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 267.08,
+          "endSec": 267.48,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 267.48,
+          "endSec": 267.82,
+          "score": 0.97
+        },
+        {
+          "word": "popular",
+          "startSec": 267.82,
+          "endSec": 268.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 268.14,
+      "end": 271.57,
+      "text": "because Australia has many beautiful beaches.",
+      "words": [
+        {
+          "word": "because",
+          "startSec": 268.34,
+          "endSec": 268.88,
+          "score": 0.9
+        },
+        {
+          "word": "Australia",
+          "startSec": 268.88,
+          "endSec": 269.18,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 269.18,
+          "endSec": 269.98,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 269.98,
+          "endSec": 270.34,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 270.34,
+          "endSec": 270.96,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 270.96,
+          "endSec": 271.42,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 273.45,
+      "end": 277.32,
+      "text": "Australia is also famous for its great athletes,",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 273.65,
+          "endSec": 274.17,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 274.17,
+          "endSec": 274.63,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 274.63,
+          "endSec": 275.13,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 275.13,
+          "endSec": 275.67,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 275.67,
+          "endSec": 276.09,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 276.09,
+          "endSec": 276.33,
+          "score": 0.89
+        },
+        {
+          "word": "great",
+          "startSec": 276.33,
+          "endSec": 276.57,
+          "score": 0.99
+        },
+        {
+          "word": "athletes,",
+          "startSec": 276.57,
+          "endSec": 277.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 277.51,
+      "end": 278.72,
+      "text": "like Kathy Freeman,",
+      "words": [
+        {
+          "word": "like",
+          "startSec": 277.71,
+          "endSec": 277.83,
+          "score": 1.0
+        },
+        {
+          "word": "Kathy",
+          "startSec": 277.83,
+          "endSec": 278.13,
+          "score": 0.52
+        },
+        {
+          "word": "Freeman,",
+          "startSec": 278.13,
+          "endSec": 278.57,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 279.25,
+      "end": 281.62,
+      "text": "who won a gold medal in the Olympics.",
+      "words": [
+        {
+          "word": "who",
+          "startSec": 279.45,
+          "endSec": 279.63,
+          "score": 1.0
+        },
+        {
+          "word": "won",
+          "startSec": 279.63,
+          "endSec": 279.85,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 279.85,
+          "endSec": 279.99,
+          "score": 0.98
+        },
+        {
+          "word": "gold",
+          "startSec": 279.99,
+          "endSec": 280.21,
+          "score": 0.98
+        },
+        {
+          "word": "medal",
+          "startSec": 280.21,
+          "endSec": 280.65,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 280.65,
+          "endSec": 281.03,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 281.03,
+          "endSec": 281.15,
+          "score": 0.99
+        },
+        {
+          "word": "Olympics.",
+          "startSec": 281.15,
+          "endSec": 281.47,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 282.88,
+      "end": 286.93,
+      "text": "Part six, famous places to visit in Australia.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 283.08,
+          "endSec": 283.2,
+          "score": 0.71
+        },
+        {
+          "word": "six,",
+          "startSec": 283.2,
+          "endSec": 283.68,
+          "score": 0.27
+        },
+        {
+          "word": "famous",
+          "startSec": 284.42,
+          "endSec": 284.84,
+          "score": 0.94
+        },
+        {
+          "word": "places",
+          "startSec": 284.84,
+          "endSec": 285.28,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 285.28,
+          "endSec": 285.76,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 285.76,
+          "endSec": 285.96,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 285.96,
+          "endSec": 286.34,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 286.34,
+          "endSec": 286.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 287.3,
+      "end": 290.75,
+      "text": "Australia has many famous places to visit.",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 287.5,
+          "endSec": 287.98,
+          "score": 0.93
+        },
+        {
+          "word": "has",
+          "startSec": 287.98,
+          "endSec": 288.62,
+          "score": 0.49
+        },
+        {
+          "word": "many",
+          "startSec": 288.62,
+          "endSec": 288.98,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 288.98,
+          "endSec": 289.58,
+          "score": 0.95
+        },
+        {
+          "word": "places",
+          "startSec": 289.58,
+          "endSec": 289.94,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 289.94,
+          "endSec": 290.36,
+          "score": 0.99
+        },
+        {
+          "word": "visit.",
+          "startSec": 290.36,
+          "endSec": 290.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 291.22,
+      "end": 295.19,
+      "text": "One of the most famous places is the Sydney Opera House.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 291.42,
+          "endSec": 291.58,
+          "score": 0.93
+        },
+        {
+          "word": "of",
+          "startSec": 291.58,
+          "endSec": 291.74,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 291.74,
+          "endSec": 291.88,
+          "score": 0.99
+        },
+        {
+          "word": "most",
+          "startSec": 291.88,
+          "endSec": 292.08,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 292.08,
+          "endSec": 292.58,
+          "score": 0.99
+        },
+        {
+          "word": "places",
+          "startSec": 292.58,
+          "endSec": 293.26,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 293.26,
+          "endSec": 293.6,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 293.6,
+          "endSec": 293.8,
+          "score": 0.99
+        },
+        {
+          "word": "Sydney",
+          "startSec": 293.8,
+          "endSec": 294.16,
+          "score": 0.97
+        },
+        {
+          "word": "Opera",
+          "startSec": 294.16,
+          "endSec": 294.56,
+          "score": 0.99
+        },
+        {
+          "word": "House.",
+          "startSec": 294.56,
+          "endSec": 295.04,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 295.72,
+      "end": 298.99,
+      "text": "This building looks like a giant sailboat",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 295.92,
+          "endSec": 296.28,
+          "score": 0.99
+        },
+        {
+          "word": "building",
+          "startSec": 296.28,
+          "endSec": 296.82,
+          "score": 1.0
+        },
+        {
+          "word": "looks",
+          "startSec": 296.82,
+          "endSec": 297.16,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 297.16,
+          "endSec": 297.52,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 297.52,
+          "endSec": 297.66,
+          "score": 0.99
+        },
+        {
+          "word": "giant",
+          "startSec": 297.66,
+          "endSec": 298.04,
+          "score": 1.0
+        },
+        {
+          "word": "sailboat",
+          "startSec": 298.04,
+          "endSec": 298.84,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 298.64,
+      "end": 300.37,
+      "text": "and is on the water.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 298.84,
+          "endSec": 299.28,
+          "score": 0.91
+        },
+        {
+          "word": "is",
+          "startSec": 299.28,
+          "endSec": 299.44,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 299.44,
+          "endSec": 299.68,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 299.68,
+          "endSec": 299.88,
+          "score": 1.0
+        },
+        {
+          "word": "water.",
+          "startSec": 299.88,
+          "endSec": 300.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 301.06,
+      "end": 304.29,
+      "text": "People go to the Opera House to watch concerts,",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 301.26,
+          "endSec": 301.52,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 301.52,
+          "endSec": 301.9,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 301.9,
+          "endSec": 302.02,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 302.02,
+          "endSec": 302.14,
+          "score": 0.99
+        },
+        {
+          "word": "Opera",
+          "startSec": 302.14,
+          "endSec": 302.38,
+          "score": 0.84
+        },
+        {
+          "word": "House",
+          "startSec": 302.38,
+          "endSec": 302.92,
+          "score": 0.97
+        },
+        {
+          "word": "to",
+          "startSec": 302.92,
+          "endSec": 303.26,
+          "score": 0.98
+        },
+        {
+          "word": "watch",
+          "startSec": 303.26,
+          "endSec": 303.5,
+          "score": 1.0
+        },
+        {
+          "word": "concerts,",
+          "startSec": 303.5,
+          "endSec": 304.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 304.1,
+      "end": 306.87,
+      "text": "plays and dance performances.",
+      "words": [
+        {
+          "word": "plays",
+          "startSec": 304.3,
+          "endSec": 304.92,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 304.92,
+          "endSec": 305.84,
+          "score": 0.53
+        },
+        {
+          "word": "dance",
+          "startSec": 305.84,
+          "endSec": 306.14,
+          "score": 1.0
+        },
+        {
+          "word": "performances.",
+          "startSec": 306.14,
+          "endSec": 306.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 307.88,
+      "end": 312.33,
+      "text": "Another famous place is Uluru, also called Ayers Rock.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 308.08,
+          "endSec": 308.34,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 308.34,
+          "endSec": 308.86,
+          "score": 0.99
+        },
+        {
+          "word": "place",
+          "startSec": 308.86,
+          "endSec": 309.36,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 309.36,
+          "endSec": 309.64,
+          "score": 0.98
+        },
+        {
+          "word": "Uluru,",
+          "startSec": 309.64,
+          "endSec": 310.26,
+          "score": 0.94
+        },
+        {
+          "word": "also",
+          "startSec": 310.68,
+          "endSec": 310.96,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "startSec": 310.96,
+          "endSec": 311.32,
+          "score": 1.0
+        },
+        {
+          "word": "Ayers",
+          "startSec": 311.32,
+          "endSec": 311.8,
+          "score": 0.76
+        },
+        {
+          "word": "Rock.",
+          "startSec": 311.8,
+          "endSec": 312.18,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 313.14,
+      "end": 315.65,
+      "text": "Uluru is a very big rock",
+      "words": [
+        {
+          "word": "Uluru",
+          "startSec": 313.34,
+          "endSec": 314.06,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 314.06,
+          "endSec": 314.4,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 314.4,
+          "endSec": 314.56,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 314.56,
+          "endSec": 314.9,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 314.9,
+          "endSec": 315.22,
+          "score": 1.0
+        },
+        {
+          "word": "rock",
+          "startSec": 315.22,
+          "endSec": 315.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 315.48,
+      "end": 317.35,
+      "text": "in the middle of Australia,",
+      "words": [
+        {
+          "word": "in",
+          "startSec": 315.68,
+          "endSec": 316.12,
+          "score": 0.24
+        },
+        {
+          "word": "the",
+          "startSec": 316.12,
+          "endSec": 316.26,
+          "score": 0.98
+        },
+        {
+          "word": "middle",
+          "startSec": 316.26,
+          "endSec": 316.54,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 316.54,
+          "endSec": 316.74,
+          "score": 1.0
+        },
+        {
+          "word": "Australia,",
+          "startSec": 316.74,
+          "endSec": 317.2,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 317.7,
+      "end": 320.93,
+      "text": "and it is very special to the Aboriginal people.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 317.9,
+          "endSec": 318.08,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 318.08,
+          "endSec": 318.2,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 318.2,
+          "endSec": 318.36,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 318.36,
+          "endSec": 318.64,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 318.64,
+          "endSec": 319.36,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 319.36,
+          "endSec": 319.6,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 319.6,
+          "endSec": 319.74,
+          "score": 1.0
+        },
+        {
+          "word": "Aboriginal",
+          "startSec": 319.74,
+          "endSec": 320.18,
+          "score": 0.98
+        },
+        {
+          "word": "people.",
+          "startSec": 320.18,
+          "endSec": 320.78,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 321.44,
+      "end": 324.03,
+      "text": "Many visitors come to see it",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 321.64,
+          "endSec": 322.12,
+          "score": 0.99
+        },
+        {
+          "word": "visitors",
+          "startSec": 322.12,
+          "endSec": 322.6,
+          "score": 1.0
+        },
+        {
+          "word": "come",
+          "startSec": 322.6,
+          "endSec": 323.12,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 323.12,
+          "endSec": 323.36,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 323.36,
+          "endSec": 323.62,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 323.62,
+          "endSec": 323.88,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 323.68,
+      "end": 326.29,
+      "text": "and learn about its cultural importance.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 323.88,
+          "endSec": 324.16,
+          "score": 0.94
+        },
+        {
+          "word": "learn",
+          "startSec": 324.16,
+          "endSec": 324.42,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 324.42,
+          "endSec": 324.82,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 324.82,
+          "endSec": 324.98,
+          "score": 0.96
+        },
+        {
+          "word": "cultural",
+          "startSec": 324.98,
+          "endSec": 325.34,
+          "score": 1.0
+        },
+        {
+          "word": "importance.",
+          "startSec": 325.34,
+          "endSec": 326.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 326.98,
+      "end": 330.33,
+      "text": "Australia also has many beautiful beaches.",
+      "words": [
+        {
+          "word": "Australia",
+          "startSec": 327.18,
+          "endSec": 327.88,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 327.88,
+          "endSec": 328.36,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 328.36,
+          "endSec": 328.84,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 328.84,
+          "endSec": 329.08,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 329.08,
+          "endSec": 329.66,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 329.66,
+          "endSec": 330.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 330.94,
+      "end": 333.31,
+      "text": "Some of the most famous beaches",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 331.14,
+          "endSec": 331.6,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 331.6,
+          "endSec": 331.76,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 331.76,
+          "endSec": 331.86,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 331.86,
+          "endSec": 332.08,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 332.08,
+          "endSec": 332.6,
+          "score": 1.0
+        },
+        {
+          "word": "beaches",
+          "startSec": 332.6,
+          "endSec": 333.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 333.42,
+      "end": 335.65,
+      "text": "are Bondi Beach and Sydney",
+      "words": [
+        {
+          "word": "are",
+          "startSec": 333.62,
+          "endSec": 334.06,
+          "score": 0.99
+        },
+        {
+          "word": "Bondi",
+          "startSec": 334.06,
+          "endSec": 334.66,
+          "score": 0.68
+        },
+        {
+          "word": "Beach",
+          "startSec": 334.66,
+          "endSec": 334.9,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 334.9,
+          "endSec": 335.22,
+          "score": 0.27
+        },
+        {
+          "word": "Sydney",
+          "startSec": 335.22,
+          "endSec": 335.5,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 335.74,
+      "end": 338.63,
+      "text": "and White Haven Beach in Queensland.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 335.94,
+          "endSec": 336.38,
+          "score": 0.61
+        },
+        {
+          "word": "White",
+          "startSec": 336.38,
+          "endSec": 336.64,
+          "score": 0.98
+        },
+        {
+          "word": "Haven",
+          "startSec": 336.64,
+          "endSec": 336.98,
+          "score": 0.49
+        },
+        {
+          "word": "Beach",
+          "startSec": 336.98,
+          "endSec": 337.46,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 337.46,
+          "endSec": 337.96,
+          "score": 0.95
+        },
+        {
+          "word": "Queensland.",
+          "startSec": 337.96,
+          "endSec": 338.48,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 339.14,
+      "end": 342.85,
+      "text": "These beaches have white sand and clear water,",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 339.34,
+          "endSec": 339.7,
+          "score": 1.0
+        },
+        {
+          "word": "beaches",
+          "startSec": 339.7,
+          "endSec": 340.04,
+          "score": 1.0
+        },
+        {
+          "word": "have",
+          "startSec": 340.04,
+          "endSec": 340.68,
+          "score": 1.0
+        },
+        {
+          "word": "white",
+          "startSec": 340.68,
+          "endSec": 341.08,
+          "score": 0.92
+        },
+        {
+          "word": "sand",
+          "startSec": 341.08,
+          "endSec": 341.56,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 341.56,
+          "endSec": 341.96,
+          "score": 0.98
+        },
+        {
+          "word": "clear",
+          "startSec": 341.96,
+          "endSec": 342.22,
+          "score": 0.98
+        },
+        {
+          "word": "water,",
+          "startSec": 342.22,
+          "endSec": 342.7,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 343.02,
+      "end": 347.21,
+      "text": "and many people go there to swim, surf and relax.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 343.22,
+          "endSec": 343.58,
+          "score": 0.53
+        },
+        {
+          "word": "many",
+          "startSec": 343.58,
+          "endSec": 343.8,
+          "score": 0.98
+        },
+        {
+          "word": "people",
+          "startSec": 343.8,
+          "endSec": 344.34,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 344.34,
+          "endSec": 344.58,
+          "score": 1.0
+        },
+        {
+          "word": "there",
+          "startSec": 344.58,
+          "endSec": 344.92,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 344.92,
+          "endSec": 345.06,
+          "score": 1.0
+        },
+        {
+          "word": "swim,",
+          "startSec": 345.06,
+          "endSec": 345.48,
+          "score": 1.0
+        },
+        {
+          "word": "surf",
+          "startSec": 345.8,
+          "endSec": 346.22,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 346.22,
+          "endSec": 346.7,
+          "score": 0.54
+        },
+        {
+          "word": "relax.",
+          "startSec": 346.7,
+          "endSec": 347.06,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 349.53,
+      "end": 352.7,
+      "text": "Closing, that's all for today's episode.",
+      "words": [
+        {
+          "word": "Closing,",
+          "startSec": 349.73,
+          "endSec": 350.45,
+          "score": 0.89
+        },
+        {
+          "word": "that's",
+          "startSec": 350.99,
+          "endSec": 351.47,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 351.47,
+          "endSec": 351.61,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 351.61,
+          "endSec": 351.81,
+          "score": 1.0
+        },
+        {
+          "word": "today's",
+          "startSec": 351.81,
+          "endSec": 352.35,
+          "score": 0.99
+        },
+        {
+          "word": "episode.",
+          "startSec": 352.35,
+          "endSec": 352.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 353.21,
+      "end": 355.96,
+      "text": "I hope you learned something new about Australia.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 353.41,
+          "endSec": 353.53,
+          "score": 1.0
+        },
+        {
+          "word": "hope",
+          "startSec": 353.53,
+          "endSec": 353.77,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 353.77,
+          "endSec": 353.99,
+          "score": 1.0
+        },
+        {
+          "word": "learned",
+          "startSec": 353.99,
+          "endSec": 354.19,
+          "score": 0.82
+        },
+        {
+          "word": "something",
+          "startSec": 354.19,
+          "endSec": 354.61,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 354.61,
+          "endSec": 354.95,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 354.95,
+          "endSec": 355.23,
+          "score": 1.0
+        },
+        {
+          "word": "Australia.",
+          "startSec": 355.23,
+          "endSec": 355.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 356.53,
+      "end": 359.36,
+      "text": "It is a country with beautiful nature,",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 356.73,
+          "endSec": 356.99,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 356.99,
+          "endSec": 357.13,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 357.13,
+          "endSec": 357.29,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 357.29,
+          "endSec": 357.59,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 357.59,
+          "endSec": 357.97,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 357.97,
+          "endSec": 358.45,
+          "score": 1.0
+        },
+        {
+          "word": "nature,",
+          "startSec": 358.45,
+          "endSec": 359.21,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 359.37,
+      "end": 362.36,
+      "text": "amazing animals and fun activities.",
+      "words": [
+        {
+          "word": "amazing",
+          "startSec": 359.57,
+          "endSec": 360.19,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 360.19,
+          "endSec": 361.03,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 361.03,
+          "endSec": 361.49,
+          "score": 0.77
+        },
+        {
+          "word": "fun",
+          "startSec": 361.49,
+          "endSec": 361.77,
+          "score": 1.0
+        },
+        {
+          "word": "activities.",
+          "startSec": 361.77,
+          "endSec": 362.21,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 363.38,
+      "end": 366.03,
+      "text": "If you ever have the chance to visit,",
+      "words": [
+        {
+          "word": "If",
+          "startSec": 363.58,
+          "endSec": 363.92,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 363.92,
+          "endSec": 364.12,
+          "score": 1.0
+        },
+        {
+          "word": "ever",
+          "startSec": 364.12,
+          "endSec": 364.5,
+          "score": 0.99
+        },
+        {
+          "word": "have",
+          "startSec": 364.5,
+          "endSec": 364.8,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 364.8,
+          "endSec": 364.98,
+          "score": 0.99
+        },
+        {
+          "word": "chance",
+          "startSec": 364.98,
+          "endSec": 365.24,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 365.24,
+          "endSec": 365.6,
+          "score": 1.0
+        },
+        {
+          "word": "visit,",
+          "startSec": 365.6,
+          "endSec": 365.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 366.34,
+      "end": 369.11,
+      "text": "make sure to try an Aussie Baba queue,",
+      "words": [
+        {
+          "word": "make",
+          "startSec": 366.54,
+          "endSec": 366.8,
+          "score": 1.0
+        },
+        {
+          "word": "sure",
+          "startSec": 366.8,
+          "endSec": 367.12,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 367.12,
+          "endSec": 367.32,
+          "score": 1.0
+        },
+        {
+          "word": "try",
+          "startSec": 367.32,
+          "endSec": 367.68,
+          "score": 1.0
+        },
+        {
+          "word": "an",
+          "startSec": 367.68,
+          "endSec": 367.84,
+          "score": 0.84
+        },
+        {
+          "word": "Aussie",
+          "startSec": 367.84,
+          "endSec": 368.26,
+          "score": 0.89
+        },
+        {
+          "word": "Baba",
+          "startSec": 368.26,
+          "endSec": 368.68,
+          "score": 0.76
+        },
+        {
+          "word": "queue,",
+          "startSec": 368.68,
+          "endSec": 368.96,
+          "score": 0.28
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 369.5,
+      "end": 373.25,
+      "text": "see the Opera House and visit Uluru.",
+      "words": [
+        {
+          "word": "see",
+          "startSec": 369.7,
+          "endSec": 370.0,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 370.0,
+          "endSec": 370.2,
+          "score": 0.94
+        },
+        {
+          "word": "Opera",
+          "startSec": 370.2,
+          "endSec": 370.5,
+          "score": 0.77
+        },
+        {
+          "word": "House",
+          "startSec": 370.5,
+          "endSec": 371.12,
+          "score": 0.86
+        },
+        {
+          "word": "and",
+          "startSec": 371.12,
+          "endSec": 371.96,
+          "score": 0.52
+        },
+        {
+          "word": "visit",
+          "startSec": 371.96,
+          "endSec": 372.32,
+          "score": 0.98
+        },
+        {
+          "word": "Uluru.",
+          "startSec": 372.32,
+          "endSec": 373.1,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 376.71,
+      "end": 378.56,
+      "text": "of Slow English Podcast.",
+      "words": [
+        {
+          "word": "of",
+          "startSec": 376.91,
+          "endSec": 377.15,
+          "score": 1.0
+        },
+        {
+          "word": "Slow",
+          "startSec": 377.15,
+          "endSec": 377.47,
+          "score": 0.63
+        },
+        {
+          "word": "English",
+          "startSec": 377.47,
+          "endSec": 377.95,
+          "score": 0.98
+        },
+        {
+          "word": "Podcast.",
+          "startSec": 377.95,
+          "endSec": 378.41,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 379.19,
+      "end": 382.58,
+      "text": "I hope you enjoyed it and learned some new words in English.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 379.39,
+          "endSec": 379.69,
+          "score": 1.0
+        },
+        {
+          "word": "hope",
+          "startSec": 379.69,
+          "endSec": 379.89,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 379.89,
+          "endSec": 380.11,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 380.11,
+          "endSec": 380.41,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 380.41,
+          "endSec": 380.73,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 380.73,
+          "endSec": 380.91,
+          "score": 0.97
+        },
+        {
+          "word": "learned",
+          "startSec": 380.91,
+          "endSec": 381.09,
+          "score": 0.85
+        },
+        {
+          "word": "some",
+          "startSec": 381.09,
+          "endSec": 381.35,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 381.35,
+          "endSec": 381.55,
+          "score": 1.0
+        },
+        {
+          "word": "words",
+          "startSec": 381.55,
+          "endSec": 381.81,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 381.81,
+          "endSec": 382.07,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 382.07,
+          "endSec": 382.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 385.24,
+      "end": 385.91,
+      "text": "Bye.",
+      "words": [
+        {
+          "word": "Bye.",
+          "startSec": 385.44,
+          "endSec": 385.76,
+          "score": 0.95
         }
       ]
     }

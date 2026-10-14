@@ -15,56 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 2.47,
-      "text": "Hello and welcome to Slow English Podcast.",
-      "words": [
-        {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.16,
-          "score": 0.9
-        },
-        {
-          "word": "and",
-          "startSec": 0.16,
-          "endSec": 0.64,
-          "score": 0.72
-        },
-        {
-          "word": "welcome",
-          "startSec": 0.64,
-          "endSec": 1.04,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 1.04,
-          "endSec": 1.26,
-          "score": 1.0
-        },
-        {
-          "word": "Slow",
-          "startSec": 1.26,
-          "endSec": 1.54,
-          "score": 0.48
-        },
-        {
-          "word": "English",
-          "startSec": 1.54,
-          "endSec": 1.84,
-          "score": 0.89
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 1.84,
-          "endSec": 2.32,
-          "score": 0.89
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 3.1,
       "end": 4.51,
       "text": "My name is Emili.",
@@ -96,7 +46,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 4.7,
       "end": 8.39,
       "text": "Today we will talk about a very interesting country.",
@@ -158,7 +108,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.88,
       "end": 12.23,
       "text": "This country is called the United Arab Emirates.",
@@ -214,7 +164,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 12.56,
       "end": 15.37,
       "text": "Listen carefully and try to understand.",
@@ -258,7 +208,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 16.36,
       "end": 17.73,
       "text": "I will speak slowly.",
@@ -290,7 +240,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 18.22,
       "end": 19.15,
       "text": "Let's begin.",
@@ -310,7 +260,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 20.32,
       "end": 22.69,
       "text": "Where is the United Arab Emirates?",
@@ -354,7 +304,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 23.22,
       "end": 26.23,
       "text": "The United Arab Emirates, or UAE,",
@@ -398,7 +348,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 26.72,
       "end": 28.93,
       "text": "is a country in the Middle East.",
@@ -443,6 +393,7534 @@
           "word": "East.",
           "startSec": 28.36,
           "endSec": 28.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 29.36,
+      "end": 32.83,
+      "text": "It is in the southeast of the Arabian Peninsula.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 29.56,
+          "endSec": 29.88,
+          "score": 0.52
+        },
+        {
+          "word": "is",
+          "startSec": 29.88,
+          "endSec": 30.08,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 30.08,
+          "endSec": 30.22,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 30.22,
+          "endSec": 30.36,
+          "score": 0.99
+        },
+        {
+          "word": "southeast",
+          "startSec": 30.36,
+          "endSec": 30.82,
+          "score": 0.6
+        },
+        {
+          "word": "of",
+          "startSec": 30.82,
+          "endSec": 31.36,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 31.36,
+          "endSec": 31.52,
+          "score": 0.99
+        },
+        {
+          "word": "Arabian",
+          "startSec": 31.52,
+          "endSec": 31.72,
+          "score": 0.98
+        },
+        {
+          "word": "Peninsula.",
+          "startSec": 31.72,
+          "endSec": 32.68,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 33.08,
+      "end": 36.39,
+      "text": "The UAE is next to Saudi Arabia and Oman.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 33.28,
+          "endSec": 33.36,
+          "score": 0.98
+        },
+        {
+          "word": "UAE",
+          "startSec": 33.36,
+          "endSec": 33.6,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 33.6,
+          "endSec": 34.22,
+          "score": 1.0
+        },
+        {
+          "word": "next",
+          "startSec": 34.22,
+          "endSec": 34.46,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 34.46,
+          "endSec": 34.78,
+          "score": 1.0
+        },
+        {
+          "word": "Saudi",
+          "startSec": 34.78,
+          "endSec": 35.04,
+          "score": 1.0
+        },
+        {
+          "word": "Arabia",
+          "startSec": 35.04,
+          "endSec": 35.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 35.68,
+          "endSec": 36.04,
+          "score": 0.98
+        },
+        {
+          "word": "Oman.",
+          "startSec": 36.04,
+          "endSec": 36.24,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 37.04,
+      "end": 39.63,
+      "text": "The country is close to the Persian Gulf.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 37.24,
+          "endSec": 37.46,
+          "score": 0.99
+        },
+        {
+          "word": "country",
+          "startSec": 37.46,
+          "endSec": 37.78,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 37.78,
+          "endSec": 38.1,
+          "score": 1.0
+        },
+        {
+          "word": "close",
+          "startSec": 38.1,
+          "endSec": 38.34,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 38.34,
+          "endSec": 38.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 38.66,
+          "endSec": 38.76,
+          "score": 0.97
+        },
+        {
+          "word": "Persian",
+          "startSec": 38.76,
+          "endSec": 39.04,
+          "score": 1.0
+        },
+        {
+          "word": "Gulf.",
+          "startSec": 39.04,
+          "endSec": 39.48,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 41.01,
+      "end": 43.5,
+      "text": "The UAE is made up of seven Emirates.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 41.21,
+          "endSec": 41.31,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 41.31,
+          "endSec": 41.57,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 41.57,
+          "endSec": 42.09,
+          "score": 1.0
+        },
+        {
+          "word": "made",
+          "startSec": 42.09,
+          "endSec": 42.29,
+          "score": 1.0
+        },
+        {
+          "word": "up",
+          "startSec": 42.29,
+          "endSec": 42.49,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 42.49,
+          "endSec": 42.67,
+          "score": 1.0
+        },
+        {
+          "word": "seven",
+          "startSec": 42.67,
+          "endSec": 43.11,
+          "score": 0.8
+        },
+        {
+          "word": "Emirates.",
+          "startSec": 43.11,
+          "endSec": 43.35,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 44.39,
+      "end": 46.36,
+      "text": "An Emirate is like a state.",
+      "words": [
+        {
+          "word": "An",
+          "startSec": 44.59,
+          "endSec": 44.67,
+          "score": 0.87
+        },
+        {
+          "word": "Emirate",
+          "startSec": 44.67,
+          "endSec": 45.29,
+          "score": 0.77
+        },
+        {
+          "word": "is",
+          "startSec": 45.29,
+          "endSec": 45.49,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 45.49,
+          "endSec": 45.71,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 45.71,
+          "endSec": 45.91,
+          "score": 1.0
+        },
+        {
+          "word": "state.",
+          "startSec": 45.91,
+          "endSec": 46.21,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 47.19,
+      "end": 49.34,
+      "text": "Each Emirate has its own ruler.",
+      "words": [
+        {
+          "word": "Each",
+          "startSec": 47.39,
+          "endSec": 47.65,
+          "score": 1.0
+        },
+        {
+          "word": "Emirate",
+          "startSec": 47.65,
+          "endSec": 48.23,
+          "score": 0.95
+        },
+        {
+          "word": "has",
+          "startSec": 48.23,
+          "endSec": 48.43,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 48.43,
+          "endSec": 48.65,
+          "score": 0.92
+        },
+        {
+          "word": "own",
+          "startSec": 48.65,
+          "endSec": 48.89,
+          "score": 1.0
+        },
+        {
+          "word": "ruler.",
+          "startSec": 48.89,
+          "endSec": 49.19,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 50.07,
+      "end": 52.82,
+      "text": "The seven Emirates are Abu Dhabi, Dubai,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 50.27,
+          "endSec": 50.39,
+          "score": 0.99
+        },
+        {
+          "word": "seven",
+          "startSec": 50.39,
+          "endSec": 50.73,
+          "score": 0.97
+        },
+        {
+          "word": "Emirates",
+          "startSec": 50.73,
+          "endSec": 51.09,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 51.09,
+          "endSec": 51.49,
+          "score": 1.0
+        },
+        {
+          "word": "Abu",
+          "startSec": 51.49,
+          "endSec": 51.83,
+          "score": 0.99
+        },
+        {
+          "word": "Dhabi,",
+          "startSec": 51.83,
+          "endSec": 52.07,
+          "score": 0.99
+        },
+        {
+          "word": "Dubai,",
+          "startSec": 52.61,
+          "endSec": 52.67,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 53.43,
+      "end": 58.26,
+      "text": "Sharjah, Ajman, Umaal Kwein, Ras al-Kaima and Fajayra.",
+      "words": [
+        {
+          "word": "Sharjah,",
+          "startSec": 53.63,
+          "endSec": 53.87,
+          "score": 0.68
+        },
+        {
+          "word": "Ajman,",
+          "startSec": 54.33,
+          "endSec": 54.69,
+          "score": 0.81
+        },
+        {
+          "word": "Umaal",
+          "startSec": 55.21,
+          "endSec": 55.61,
+          "score": 0.48
+        },
+        {
+          "word": "Kwein,",
+          "startSec": 55.61,
+          "endSec": 56.07,
+          "score": 0.4
+        },
+        {
+          "word": "Ras",
+          "startSec": 56.47,
+          "endSec": 56.47,
+          "score": 0.58
+        },
+        {
+          "word": "al",
+          "startSec": 56.47,
+          "endSec": 56.71,
+          "score": 0.2
+        },
+        {
+          "word": "-Kaima",
+          "startSec": 56.71,
+          "endSec": 57.27,
+          "score": 0.61
+        },
+        {
+          "word": "and",
+          "startSec": 57.27,
+          "endSec": 57.49,
+          "score": 0.57
+        },
+        {
+          "word": "Fajayra.",
+          "startSec": 57.49,
+          "endSec": 58.11,
+          "score": 0.51
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 58.68,
+      "end": 61.16,
+      "text": "Abu Dhabi is the largest Emirate",
+      "words": [
+        {
+          "word": "Abu",
+          "startSec": 58.88,
+          "endSec": 59.23,
+          "score": 0.97
+        },
+        {
+          "word": "Dhabi",
+          "startSec": 59.23,
+          "endSec": 59.43,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 59.43,
+          "endSec": 59.79,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 59.79,
+          "endSec": 59.93,
+          "score": 0.98
+        },
+        {
+          "word": "largest",
+          "startSec": 59.93,
+          "endSec": 60.31,
+          "score": 1.0
+        },
+        {
+          "word": "Emirate",
+          "startSec": 60.31,
+          "endSec": 61.01,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 61.16,
+      "end": 63.9,
+      "text": "and it is also the capital of the country.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 61.36,
+          "endSec": 61.71,
+          "score": 0.58
+        },
+        {
+          "word": "it",
+          "startSec": 61.71,
+          "endSec": 61.83,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 61.83,
+          "endSec": 62.01,
+          "score": 0.98
+        },
+        {
+          "word": "also",
+          "startSec": 62.01,
+          "endSec": 62.37,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 62.37,
+          "endSec": 62.61,
+          "score": 0.99
+        },
+        {
+          "word": "capital",
+          "startSec": 62.61,
+          "endSec": 63.03,
+          "score": 0.95
+        },
+        {
+          "word": "of",
+          "startSec": 63.03,
+          "endSec": 63.29,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 63.29,
+          "endSec": 63.39,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 63.39,
+          "endSec": 63.75,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 64.7,
+      "end": 68.01,
+      "text": "The capital city of the UAE is Abu Dhabi.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 64.9,
+          "endSec": 65.0,
+          "score": 0.94
+        },
+        {
+          "word": "capital",
+          "startSec": 65.0,
+          "endSec": 65.42,
+          "score": 0.96
+        },
+        {
+          "word": "city",
+          "startSec": 65.42,
+          "endSec": 65.82,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 65.82,
+          "endSec": 66.18,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 66.18,
+          "endSec": 66.34,
+          "score": 0.98
+        },
+        {
+          "word": "UAE",
+          "startSec": 66.34,
+          "endSec": 66.58,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 66.58,
+          "endSec": 67.28,
+          "score": 0.99
+        },
+        {
+          "word": "Abu",
+          "startSec": 67.28,
+          "endSec": 67.54,
+          "score": 1.0
+        },
+        {
+          "word": "Dhabi.",
+          "startSec": 67.54,
+          "endSec": 67.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 68.5,
+      "end": 71.19,
+      "text": "Abu Dhabi is a modern and beautiful city.",
+      "words": [
+        {
+          "word": "Abu",
+          "startSec": 68.7,
+          "endSec": 69.0,
+          "score": 1.0
+        },
+        {
+          "word": "Dhabi",
+          "startSec": 69.0,
+          "endSec": 69.28,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 69.28,
+          "endSec": 69.58,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 69.58,
+          "endSec": 69.68,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 69.68,
+          "endSec": 70.04,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 70.04,
+          "endSec": 70.28,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful",
+          "startSec": 70.28,
+          "endSec": 70.52,
+          "score": 1.0
+        },
+        {
+          "word": "city.",
+          "startSec": 70.52,
+          "endSec": 71.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 71.82,
+      "end": 75.41,
+      "text": "It has many tall buildings and big shopping malls.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 72.02,
+          "endSec": 72.12,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 72.12,
+          "endSec": 72.3,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 72.3,
+          "endSec": 72.54,
+          "score": 0.99
+        },
+        {
+          "word": "tall",
+          "startSec": 72.54,
+          "endSec": 72.92,
+          "score": 1.0
+        },
+        {
+          "word": "buildings",
+          "startSec": 72.92,
+          "endSec": 73.54,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 73.54,
+          "endSec": 74.02,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 74.02,
+          "endSec": 74.32,
+          "score": 1.0
+        },
+        {
+          "word": "shopping",
+          "startSec": 74.32,
+          "endSec": 74.76,
+          "score": 1.0
+        },
+        {
+          "word": "malls.",
+          "startSec": 74.76,
+          "endSec": 75.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 76.38,
+      "end": 79.83,
+      "text": "There are also many parks and gardens in the city.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 76.58,
+          "endSec": 76.76,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 76.76,
+          "endSec": 76.9,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 76.9,
+          "endSec": 77.36,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 77.36,
+          "endSec": 77.62,
+          "score": 1.0
+        },
+        {
+          "word": "parks",
+          "startSec": 77.62,
+          "endSec": 78.02,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 78.02,
+          "endSec": 78.46,
+          "score": 1.0
+        },
+        {
+          "word": "gardens",
+          "startSec": 78.46,
+          "endSec": 78.72,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 78.72,
+          "endSec": 79.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 79.22,
+          "endSec": 79.36,
+          "score": 0.99
+        },
+        {
+          "word": "city.",
+          "startSec": 79.36,
+          "endSec": 79.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 80.56,
+      "end": 84.79,
+      "text": "Abu Dhabi is also home to the Sheikh Zayed Grand Mosque.",
+      "words": [
+        {
+          "word": "Abu",
+          "startSec": 80.76,
+          "endSec": 81.14,
+          "score": 1.0
+        },
+        {
+          "word": "Dhabi",
+          "startSec": 81.14,
+          "endSec": 81.42,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 81.42,
+          "endSec": 81.78,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 81.78,
+          "endSec": 82.26,
+          "score": 1.0
+        },
+        {
+          "word": "home",
+          "startSec": 82.26,
+          "endSec": 82.6,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 82.6,
+          "endSec": 82.94,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 82.94,
+          "endSec": 83.08,
+          "score": 0.99
+        },
+        {
+          "word": "Sheikh",
+          "startSec": 83.08,
+          "endSec": 83.36,
+          "score": 0.85
+        },
+        {
+          "word": "Zayed",
+          "startSec": 83.36,
+          "endSec": 83.94,
+          "score": 0.79
+        },
+        {
+          "word": "Grand",
+          "startSec": 83.94,
+          "endSec": 84.24,
+          "score": 0.86
+        },
+        {
+          "word": "Mosque.",
+          "startSec": 84.24,
+          "endSec": 84.64,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 85.51,
+      "end": 89.34,
+      "text": "This mosque is one of the most beautiful in the world.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 85.71,
+          "endSec": 86.05,
+          "score": 0.58
+        },
+        {
+          "word": "mosque",
+          "startSec": 86.05,
+          "endSec": 86.37,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 86.37,
+          "endSec": 86.91,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 86.91,
+          "endSec": 87.21,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 87.21,
+          "endSec": 87.37,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 87.37,
+          "endSec": 87.51,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 87.51,
+          "endSec": 87.75,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 87.75,
+          "endSec": 88.35,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 88.35,
+          "endSec": 88.67,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 88.67,
+          "endSec": 88.81,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 88.81,
+          "endSec": 89.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 90.03,
+      "end": 94.14,
+      "text": "It is white and has large domes and tall minarets.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 90.23,
+          "endSec": 90.39,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 90.39,
+          "endSec": 90.55,
+          "score": 0.98
+        },
+        {
+          "word": "white",
+          "startSec": 90.55,
+          "endSec": 90.85,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 90.85,
+          "endSec": 91.09,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 91.09,
+          "endSec": 91.33,
+          "score": 1.0
+        },
+        {
+          "word": "large",
+          "startSec": 91.33,
+          "endSec": 91.61,
+          "score": 0.99
+        },
+        {
+          "word": "domes",
+          "startSec": 91.61,
+          "endSec": 92.55,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 92.55,
+          "endSec": 92.71,
+          "score": 0.98
+        },
+        {
+          "word": "tall",
+          "startSec": 92.71,
+          "endSec": 93.05,
+          "score": 1.0
+        },
+        {
+          "word": "minarets.",
+          "startSec": 93.05,
+          "endSec": 93.99,
+          "score": 0.77
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 94.62,
+      "end": 98.29,
+      "text": "Many people visit this mosque to see its beauty",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 94.82,
+          "endSec": 95.26,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 95.26,
+          "endSec": 95.7,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 95.7,
+          "endSec": 96.02,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "startSec": 96.02,
+          "endSec": 96.34,
+          "score": 1.0
+        },
+        {
+          "word": "mosque",
+          "startSec": 96.34,
+          "endSec": 96.72,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 96.72,
+          "endSec": 97.24,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 97.24,
+          "endSec": 97.52,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 97.52,
+          "endSec": 97.74,
+          "score": 0.96
+        },
+        {
+          "word": "beauty",
+          "startSec": 97.74,
+          "endSec": 98.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 97.94,
+      "end": 100.15,
+      "text": "and learn about its history.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 98.14,
+          "endSec": 98.72,
+          "score": 0.99
+        },
+        {
+          "word": "learn",
+          "startSec": 98.72,
+          "endSec": 98.94,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 98.94,
+          "endSec": 99.32,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 99.32,
+          "endSec": 99.5,
+          "score": 0.98
+        },
+        {
+          "word": "history.",
+          "startSec": 99.5,
+          "endSec": 100.0,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 101.02,
+      "end": 104.07,
+      "text": "Another famous city in the UAE is Dubai.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 101.22,
+          "endSec": 101.48,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 101.48,
+          "endSec": 101.96,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 101.96,
+          "endSec": 102.46,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 102.46,
+          "endSec": 102.66,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 102.66,
+          "endSec": 102.78,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 102.78,
+          "endSec": 103.04,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 103.04,
+          "endSec": 103.74,
+          "score": 1.0
+        },
+        {
+          "word": "Dubai.",
+          "startSec": 103.74,
+          "endSec": 103.92,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 105.11,
+      "end": 108.24,
+      "text": "Dubai is the biggest city in the country.",
+      "words": [
+        {
+          "word": "Dubai",
+          "startSec": 105.31,
+          "endSec": 105.55,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 105.55,
+          "endSec": 106.19,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 106.19,
+          "endSec": 106.39,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 106.39,
+          "endSec": 106.73,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 106.73,
+          "endSec": 107.37,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 107.37,
+          "endSec": 107.57,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 107.57,
+          "endSec": 107.71,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 107.71,
+          "endSec": 108.09,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 109.0,
+      "end": 111.89,
+      "text": "Many tourists visit Dubai every year.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 109.2,
+          "endSec": 109.54,
+          "score": 1.0
+        },
+        {
+          "word": "tourists",
+          "startSec": 109.54,
+          "endSec": 109.98,
+          "score": 0.99
+        },
+        {
+          "word": "visit",
+          "startSec": 109.98,
+          "endSec": 110.48,
+          "score": 1.0
+        },
+        {
+          "word": "Dubai",
+          "startSec": 110.48,
+          "endSec": 110.7,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 110.7,
+          "endSec": 111.32,
+          "score": 0.99
+        },
+        {
+          "word": "year.",
+          "startSec": 111.32,
+          "endSec": 111.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 112.46,
+      "end": 115.23,
+      "text": "Dubai is known for its modern buildings,",
+      "words": [
+        {
+          "word": "Dubai",
+          "startSec": 112.66,
+          "endSec": 113.06,
+          "score": 0.67
+        },
+        {
+          "word": "is",
+          "startSec": 113.06,
+          "endSec": 113.44,
+          "score": 0.98
+        },
+        {
+          "word": "known",
+          "startSec": 113.44,
+          "endSec": 113.68,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 113.68,
+          "endSec": 113.96,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 113.96,
+          "endSec": 114.12,
+          "score": 0.98
+        },
+        {
+          "word": "modern",
+          "startSec": 114.12,
+          "endSec": 114.38,
+          "score": 1.0
+        },
+        {
+          "word": "buildings,",
+          "startSec": 114.38,
+          "endSec": 115.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 115.52,
+      "end": 118.47,
+      "text": "luxury hotels and exciting attractions.",
+      "words": [
+        {
+          "word": "luxury",
+          "startSec": 115.72,
+          "endSec": 116.28,
+          "score": 0.99
+        },
+        {
+          "word": "hotels",
+          "startSec": 116.28,
+          "endSec": 116.76,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 116.76,
+          "endSec": 117.42,
+          "score": 0.46
+        },
+        {
+          "word": "exciting",
+          "startSec": 117.42,
+          "endSec": 117.9,
+          "score": 0.99
+        },
+        {
+          "word": "attractions.",
+          "startSec": 117.9,
+          "endSec": 118.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 119.65,
+      "end": 121.74,
+      "text": "The city is always growing",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 119.85,
+          "endSec": 119.99,
+          "score": 0.97
+        },
+        {
+          "word": "city",
+          "startSec": 119.99,
+          "endSec": 120.27,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 120.27,
+          "endSec": 120.59,
+          "score": 1.0
+        },
+        {
+          "word": "always",
+          "startSec": 120.59,
+          "endSec": 120.97,
+          "score": 1.0
+        },
+        {
+          "word": "growing",
+          "startSec": 120.97,
+          "endSec": 121.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 122.21,
+      "end": 126.24,
+      "text": "and new buildings and projects are built every year.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 122.41,
+          "endSec": 122.81,
+          "score": 0.59
+        },
+        {
+          "word": "new",
+          "startSec": 122.81,
+          "endSec": 123.03,
+          "score": 1.0
+        },
+        {
+          "word": "buildings",
+          "startSec": 123.03,
+          "endSec": 123.53,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 123.53,
+          "endSec": 123.91,
+          "score": 1.0
+        },
+        {
+          "word": "projects",
+          "startSec": 123.91,
+          "endSec": 124.45,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 124.45,
+          "endSec": 124.91,
+          "score": 1.0
+        },
+        {
+          "word": "built",
+          "startSec": 124.91,
+          "endSec": 125.23,
+          "score": 1.0
+        },
+        {
+          "word": "every",
+          "startSec": 125.23,
+          "endSec": 125.69,
+          "score": 1.0
+        },
+        {
+          "word": "year.",
+          "startSec": 125.69,
+          "endSec": 126.09,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 126.98,
+      "end": 129.13,
+      "text": "What is the UAE famous for?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 127.18,
+          "endSec": 127.34,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 127.34,
+          "endSec": 127.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 127.52,
+          "endSec": 127.72,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 127.72,
+          "endSec": 127.92,
+          "score": 0.97
+        },
+        {
+          "word": "famous",
+          "startSec": 127.92,
+          "endSec": 128.6,
+          "score": 0.96
+        },
+        {
+          "word": "for?",
+          "startSec": 128.6,
+          "endSec": 128.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 129.62,
+      "end": 133.13,
+      "text": "The UAE is famous for its modern cities,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 129.82,
+          "endSec": 130.46,
+          "score": 0.96
+        },
+        {
+          "word": "UAE",
+          "startSec": 130.46,
+          "endSec": 130.7,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 130.7,
+          "endSec": 131.2,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 131.2,
+          "endSec": 131.5,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 131.5,
+          "endSec": 131.88,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 131.88,
+          "endSec": 132.02,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 132.02,
+          "endSec": 132.34,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 132.34,
+          "endSec": 132.98,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 133.64,
+      "end": 136.17,
+      "text": "luxury hotels and tall buildings.",
+      "words": [
+        {
+          "word": "luxury",
+          "startSec": 133.84,
+          "endSec": 134.24,
+          "score": 1.0
+        },
+        {
+          "word": "hotels",
+          "startSec": 134.24,
+          "endSec": 134.72,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 134.72,
+          "endSec": 135.36,
+          "score": 0.77
+        },
+        {
+          "word": "tall",
+          "startSec": 135.36,
+          "endSec": 135.56,
+          "score": 0.99
+        },
+        {
+          "word": "buildings.",
+          "startSec": 135.56,
+          "endSec": 136.02,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 136.93,
+      "end": 139.76,
+      "text": "Dubai has the tallest building in the world.",
+      "words": [
+        {
+          "word": "Dubai",
+          "startSec": 137.13,
+          "endSec": 137.43,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 137.43,
+          "endSec": 137.87,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 137.87,
+          "endSec": 138.05,
+          "score": 1.0
+        },
+        {
+          "word": "tallest",
+          "startSec": 138.05,
+          "endSec": 138.39,
+          "score": 1.0
+        },
+        {
+          "word": "building",
+          "startSec": 138.39,
+          "endSec": 138.87,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 138.87,
+          "endSec": 139.17,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 139.17,
+          "endSec": 139.29,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 139.29,
+          "endSec": 139.61,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 140.01,
+      "end": 143.06,
+      "text": "This building is called the Burj Khalifa.",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 140.21,
+          "endSec": 140.55,
+          "score": 0.63
+        },
+        {
+          "word": "building",
+          "startSec": 140.55,
+          "endSec": 141.03,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 141.03,
+          "endSec": 141.29,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 141.29,
+          "endSec": 141.61,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 141.61,
+          "endSec": 141.95,
+          "score": 0.83
+        },
+        {
+          "word": "Burj",
+          "startSec": 141.95,
+          "endSec": 142.39,
+          "score": 0.45
+        },
+        {
+          "word": "Khalifa.",
+          "startSec": 142.39,
+          "endSec": 142.91,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 143.69,
+      "end": 146.42,
+      "text": "It is 828 meters high.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 143.89,
+          "endSec": 144.03,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 144.03,
+          "endSec": 144.17,
+          "score": 0.99
+        },
+        {
+          "word": "828",
+          "startSec": 144.17,
+          "endSec": 144.83,
+          "score": 0.97
+        },
+        {
+          "word": "meters",
+          "startSec": 144.83,
+          "endSec": 145.77,
+          "score": 0.83
+        },
+        {
+          "word": "high.",
+          "startSec": 145.77,
+          "endSec": 146.27,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 147.04,
+      "end": 150.65,
+      "text": "Many people visit Dubai to see the Burj Khalifa",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 147.24,
+          "endSec": 147.6,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 147.6,
+          "endSec": 148.04,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 148.04,
+          "endSec": 148.44,
+          "score": 1.0
+        },
+        {
+          "word": "Dubai",
+          "startSec": 148.44,
+          "endSec": 148.7,
+          "score": 0.96
+        },
+        {
+          "word": "to",
+          "startSec": 148.7,
+          "endSec": 149.28,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 149.28,
+          "endSec": 149.46,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 149.46,
+          "endSec": 149.64,
+          "score": 1.0
+        },
+        {
+          "word": "Burj",
+          "startSec": 149.64,
+          "endSec": 150.02,
+          "score": 0.99
+        },
+        {
+          "word": "Khalifa",
+          "startSec": 150.02,
+          "endSec": 150.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 150.3,
+      "end": 152.89,
+      "text": "and enjoy the view from the top.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 150.5,
+          "endSec": 151.08,
+          "score": 0.93
+        },
+        {
+          "word": "enjoy",
+          "startSec": 151.08,
+          "endSec": 151.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 151.4,
+          "endSec": 151.72,
+          "score": 1.0
+        },
+        {
+          "word": "view",
+          "startSec": 151.72,
+          "endSec": 151.96,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 151.96,
+          "endSec": 152.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 152.26,
+          "endSec": 152.44,
+          "score": 1.0
+        },
+        {
+          "word": "top.",
+          "startSec": 152.44,
+          "endSec": 152.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 153.69,
+      "end": 156.6,
+      "text": "At night, the building lights up",
+      "words": [
+        {
+          "word": "At",
+          "startSec": 153.89,
+          "endSec": 154.23,
+          "score": 1.0
+        },
+        {
+          "word": "night,",
+          "startSec": 154.23,
+          "endSec": 154.53,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 155.19,
+          "endSec": 155.35,
+          "score": 1.0
+        },
+        {
+          "word": "building",
+          "startSec": 155.35,
+          "endSec": 155.75,
+          "score": 1.0
+        },
+        {
+          "word": "lights",
+          "startSec": 155.75,
+          "endSec": 156.07,
+          "score": 1.0
+        },
+        {
+          "word": "up",
+          "startSec": 156.07,
+          "endSec": 156.45,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 156.25,
+      "end": 159.78,
+      "text": "and there is a beautiful fountain show at its base.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 156.45,
+          "endSec": 156.97,
+          "score": 0.83
+        },
+        {
+          "word": "there",
+          "startSec": 156.97,
+          "endSec": 157.19,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 157.19,
+          "endSec": 157.37,
+          "score": 0.85
+        },
+        {
+          "word": "a",
+          "startSec": 157.37,
+          "endSec": 157.49,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 157.49,
+          "endSec": 157.81,
+          "score": 1.0
+        },
+        {
+          "word": "fountain",
+          "startSec": 157.81,
+          "endSec": 158.33,
+          "score": 0.98
+        },
+        {
+          "word": "show",
+          "startSec": 158.33,
+          "endSec": 158.81,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 158.81,
+          "endSec": 159.15,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 159.15,
+          "endSec": 159.27,
+          "score": 0.96
+        },
+        {
+          "word": "base.",
+          "startSec": 159.27,
+          "endSec": 159.63,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 160.8,
+      "end": 164.37,
+      "text": "The UAE is also famous for its shopping malls.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 161.0,
+          "endSec": 161.2,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 161.2,
+          "endSec": 161.44,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 161.44,
+          "endSec": 162.04,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 162.04,
+          "endSec": 162.34,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 162.34,
+          "endSec": 162.96,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 162.96,
+          "endSec": 163.28,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 163.28,
+          "endSec": 163.42,
+          "score": 0.97
+        },
+        {
+          "word": "shopping",
+          "startSec": 163.42,
+          "endSec": 163.7,
+          "score": 1.0
+        },
+        {
+          "word": "malls.",
+          "startSec": 163.7,
+          "endSec": 164.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 165.17,
+      "end": 168.92,
+      "text": "The Dubai mall is one of the biggest malls in the world.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 165.37,
+          "endSec": 165.69,
+          "score": 0.98
+        },
+        {
+          "word": "Dubai",
+          "startSec": 165.69,
+          "endSec": 165.87,
+          "score": 1.0
+        },
+        {
+          "word": "mall",
+          "startSec": 165.87,
+          "endSec": 166.43,
+          "score": 0.35
+        },
+        {
+          "word": "is",
+          "startSec": 166.43,
+          "endSec": 166.83,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 166.83,
+          "endSec": 167.03,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 167.03,
+          "endSec": 167.17,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 167.17,
+          "endSec": 167.29,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 167.29,
+          "endSec": 167.59,
+          "score": 1.0
+        },
+        {
+          "word": "malls",
+          "startSec": 167.59,
+          "endSec": 167.97,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 167.97,
+          "endSec": 168.31,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 168.31,
+          "endSec": 168.43,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 168.43,
+          "endSec": 168.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 169.03,
+      "end": 173.5,
+      "text": "It has many shops, restaurants and even an aquarium.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 169.23,
+          "endSec": 169.57,
+          "score": 0.79
+        },
+        {
+          "word": "has",
+          "startSec": 169.57,
+          "endSec": 169.77,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 169.77,
+          "endSec": 170.03,
+          "score": 0.94
+        },
+        {
+          "word": "shops,",
+          "startSec": 170.03,
+          "endSec": 170.63,
+          "score": 1.0
+        },
+        {
+          "word": "restaurants",
+          "startSec": 170.67,
+          "endSec": 171.57,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 171.57,
+          "endSec": 172.45,
+          "score": 0.4
+        },
+        {
+          "word": "even",
+          "startSec": 172.45,
+          "endSec": 172.83,
+          "score": 0.99
+        },
+        {
+          "word": "an",
+          "startSec": 172.83,
+          "endSec": 173.01,
+          "score": 0.92
+        },
+        {
+          "word": "aquarium.",
+          "startSec": 173.01,
+          "endSec": 173.35,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 174.84,
+      "end": 178.49,
+      "text": "People from different countries come to the UAE to shop.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 175.04,
+          "endSec": 175.44,
+          "score": 0.98
+        },
+        {
+          "word": "from",
+          "startSec": 175.44,
+          "endSec": 175.72,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 175.72,
+          "endSec": 175.92,
+          "score": 1.0
+        },
+        {
+          "word": "countries",
+          "startSec": 175.92,
+          "endSec": 176.62,
+          "score": 0.99
+        },
+        {
+          "word": "come",
+          "startSec": 176.62,
+          "endSec": 176.96,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 176.96,
+          "endSec": 177.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 177.22,
+          "endSec": 177.36,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 177.36,
+          "endSec": 177.58,
+          "score": 0.93
+        },
+        {
+          "word": "to",
+          "startSec": 177.58,
+          "endSec": 178.08,
+          "score": 0.99
+        },
+        {
+          "word": "shop.",
+          "startSec": 178.08,
+          "endSec": 178.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 180.08,
+      "end": 183.73,
+      "text": "Another famous shopping place is the Gold Suke.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 180.28,
+          "endSec": 180.6,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 180.6,
+          "endSec": 181.14,
+          "score": 1.0
+        },
+        {
+          "word": "shopping",
+          "startSec": 181.14,
+          "endSec": 181.5,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 181.5,
+          "endSec": 182.18,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 182.18,
+          "endSec": 182.5,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 182.5,
+          "endSec": 182.68,
+          "score": 0.99
+        },
+        {
+          "word": "Gold",
+          "startSec": 182.68,
+          "endSec": 182.92,
+          "score": 0.56
+        },
+        {
+          "word": "Suke.",
+          "startSec": 182.92,
+          "endSec": 183.58,
+          "score": 0.27
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 184.06,
+      "end": 186.63,
+      "text": "This is a traditional market in Dubai",
+      "words": [
+        {
+          "word": "This",
+          "startSec": 184.26,
+          "endSec": 184.6,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 184.6,
+          "endSec": 184.76,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 184.76,
+          "endSec": 184.94,
+          "score": 0.99
+        },
+        {
+          "word": "traditional",
+          "startSec": 184.94,
+          "endSec": 185.32,
+          "score": 1.0
+        },
+        {
+          "word": "market",
+          "startSec": 185.32,
+          "endSec": 186.04,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 186.04,
+          "endSec": 186.28,
+          "score": 0.99
+        },
+        {
+          "word": "Dubai",
+          "startSec": 186.28,
+          "endSec": 186.48,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 186.8,
+      "end": 191.05,
+      "text": "where people buy gold, jewelry and precious stones.",
+      "words": [
+        {
+          "word": "where",
+          "startSec": 187.0,
+          "endSec": 187.34,
+          "score": 0.56
+        },
+        {
+          "word": "people",
+          "startSec": 187.34,
+          "endSec": 187.64,
+          "score": 1.0
+        },
+        {
+          "word": "buy",
+          "startSec": 187.64,
+          "endSec": 187.96,
+          "score": 1.0
+        },
+        {
+          "word": "gold,",
+          "startSec": 187.96,
+          "endSec": 188.3,
+          "score": 0.98
+        },
+        {
+          "word": "jewelry",
+          "startSec": 188.94,
+          "endSec": 189.2,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 189.2,
+          "endSec": 190.1,
+          "score": 0.82
+        },
+        {
+          "word": "precious",
+          "startSec": 190.1,
+          "endSec": 190.38,
+          "score": 0.99
+        },
+        {
+          "word": "stones.",
+          "startSec": 190.38,
+          "endSec": 190.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 192.08,
+      "end": 196.29,
+      "text": "Another famous place in the UAE is the Palm Jumera.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 192.28,
+          "endSec": 192.72,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 192.72,
+          "endSec": 193.18,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 193.18,
+          "endSec": 193.64,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 193.64,
+          "endSec": 193.88,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 193.88,
+          "endSec": 194.02,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 194.02,
+          "endSec": 194.26,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 194.26,
+          "endSec": 195.04,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 195.04,
+          "endSec": 195.24,
+          "score": 0.99
+        },
+        {
+          "word": "Palm",
+          "startSec": 195.24,
+          "endSec": 195.54,
+          "score": 0.9
+        },
+        {
+          "word": "Jumera.",
+          "startSec": 195.54,
+          "endSec": 196.14,
+          "score": 0.55
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 196.9,
+      "end": 200.64,
+      "text": "It is a man-made island in the shape of a palm tree.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 197.1,
+          "endSec": 197.43,
+          "score": 0.56
+        },
+        {
+          "word": "is",
+          "startSec": 197.43,
+          "endSec": 197.61,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 197.61,
+          "endSec": 197.73,
+          "score": 0.99
+        },
+        {
+          "word": "man",
+          "startSec": 197.73,
+          "endSec": 197.91,
+          "score": 0.98
+        },
+        {
+          "word": "-made",
+          "startSec": 197.91,
+          "endSec": 198.21,
+          "score": 0.93
+        },
+        {
+          "word": "island",
+          "startSec": 198.21,
+          "endSec": 198.67,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 198.67,
+          "endSec": 199.03,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 199.03,
+          "endSec": 199.17,
+          "score": 1.0
+        },
+        {
+          "word": "shape",
+          "startSec": 199.17,
+          "endSec": 199.47,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 199.47,
+          "endSec": 199.67,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 199.67,
+          "endSec": 199.81,
+          "score": 0.98
+        },
+        {
+          "word": "palm",
+          "startSec": 199.81,
+          "endSec": 200.03,
+          "score": 0.96
+        },
+        {
+          "word": "tree.",
+          "startSec": 200.03,
+          "endSec": 200.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 201.21,
+      "end": 205.3,
+      "text": "There are many hotels, beaches and houses on this island.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 201.41,
+          "endSec": 201.53,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 201.53,
+          "endSec": 201.69,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 201.69,
+          "endSec": 201.89,
+          "score": 0.99
+        },
+        {
+          "word": "hotels,",
+          "startSec": 201.89,
+          "endSec": 202.35,
+          "score": 0.99
+        },
+        {
+          "word": "beaches",
+          "startSec": 202.73,
+          "endSec": 203.21,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 203.21,
+          "endSec": 203.83,
+          "score": 0.39
+        },
+        {
+          "word": "houses",
+          "startSec": 203.83,
+          "endSec": 204.27,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 204.27,
+          "endSec": 204.57,
+          "score": 0.99
+        },
+        {
+          "word": "this",
+          "startSec": 204.57,
+          "endSec": 204.75,
+          "score": 0.99
+        },
+        {
+          "word": "island.",
+          "startSec": 204.75,
+          "endSec": 205.15,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 206.13,
+      "end": 210.3,
+      "text": "People can stay in luxury hotels, relax on the beach",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 206.33,
+          "endSec": 206.67,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 206.67,
+          "endSec": 207.03,
+          "score": 1.0
+        },
+        {
+          "word": "stay",
+          "startSec": 207.03,
+          "endSec": 207.35,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 207.35,
+          "endSec": 207.57,
+          "score": 1.0
+        },
+        {
+          "word": "luxury",
+          "startSec": 207.57,
+          "endSec": 207.89,
+          "score": 1.0
+        },
+        {
+          "word": "hotels,",
+          "startSec": 207.89,
+          "endSec": 208.59,
+          "score": 0.99
+        },
+        {
+          "word": "relax",
+          "startSec": 208.59,
+          "endSec": 209.35,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 209.35,
+          "endSec": 209.79,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 209.79,
+          "endSec": 209.93,
+          "score": 1.0
+        },
+        {
+          "word": "beach",
+          "startSec": 209.93,
+          "endSec": 210.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 209.95,
+      "end": 212.32,
+      "text": "or eat at fancy restaurants.",
+      "words": [
+        {
+          "word": "or",
+          "startSec": 210.15,
+          "endSec": 210.69,
+          "score": 0.56
+        },
+        {
+          "word": "eat",
+          "startSec": 210.69,
+          "endSec": 210.93,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 210.93,
+          "endSec": 211.11,
+          "score": 1.0
+        },
+        {
+          "word": "fancy",
+          "startSec": 211.11,
+          "endSec": 211.35,
+          "score": 1.0
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 211.35,
+          "endSec": 212.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 213.47,
+      "end": 217.68,
+      "text": "The Palm Jumera is one of the most unique places in the world.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 213.67,
+          "endSec": 213.79,
+          "score": 0.99
+        },
+        {
+          "word": "Palm",
+          "startSec": 213.79,
+          "endSec": 214.05,
+          "score": 0.62
+        },
+        {
+          "word": "Jumera",
+          "startSec": 214.05,
+          "endSec": 214.57,
+          "score": 0.42
+        },
+        {
+          "word": "is",
+          "startSec": 214.57,
+          "endSec": 214.97,
+          "score": 0.99
+        },
+        {
+          "word": "one",
+          "startSec": 214.97,
+          "endSec": 215.23,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 215.23,
+          "endSec": 215.37,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 215.37,
+          "endSec": 215.51,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 215.51,
+          "endSec": 215.73,
+          "score": 1.0
+        },
+        {
+          "word": "unique",
+          "startSec": 215.73,
+          "endSec": 216.17,
+          "score": 1.0
+        },
+        {
+          "word": "places",
+          "startSec": 216.17,
+          "endSec": 216.67,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 216.67,
+          "endSec": 217.11,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 217.11,
+          "endSec": 217.23,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 217.23,
+          "endSec": 217.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 218.63,
+      "end": 223.72,
+      "text": "The UAE is also famous for its cultural and historical sites.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 218.83,
+          "endSec": 218.99,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 218.99,
+          "endSec": 219.25,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 219.25,
+          "endSec": 220.07,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 220.07,
+          "endSec": 220.65,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 220.65,
+          "endSec": 221.11,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 221.11,
+          "endSec": 221.55,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 221.55,
+          "endSec": 221.71,
+          "score": 0.98
+        },
+        {
+          "word": "cultural",
+          "startSec": 221.71,
+          "endSec": 222.01,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 222.01,
+          "endSec": 222.59,
+          "score": 1.0
+        },
+        {
+          "word": "historical",
+          "startSec": 222.59,
+          "endSec": 223.01,
+          "score": 1.0
+        },
+        {
+          "word": "sites.",
+          "startSec": 223.01,
+          "endSec": 223.57,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 224.67,
+      "end": 228.6,
+      "text": "In Sharjah, there are many museums and art galleries.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 224.87,
+          "endSec": 225.47,
+          "score": 0.6
+        },
+        {
+          "word": "Sharjah,",
+          "startSec": 225.47,
+          "endSec": 225.97,
+          "score": 0.55
+        },
+        {
+          "word": "there",
+          "startSec": 226.23,
+          "endSec": 226.31,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 226.31,
+          "endSec": 226.47,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 226.47,
+          "endSec": 226.71,
+          "score": 1.0
+        },
+        {
+          "word": "museums",
+          "startSec": 226.71,
+          "endSec": 227.23,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 227.23,
+          "endSec": 227.79,
+          "score": 0.99
+        },
+        {
+          "word": "art",
+          "startSec": 227.79,
+          "endSec": 228.03,
+          "score": 0.99
+        },
+        {
+          "word": "galleries.",
+          "startSec": 228.03,
+          "endSec": 228.45,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 229.7,
+      "end": 232.41,
+      "text": "The Sharjah Museum of Islamic Civilization",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 229.9,
+          "endSec": 230.0,
+          "score": 0.98
+        },
+        {
+          "word": "Sharjah",
+          "startSec": 230.0,
+          "endSec": 230.48,
+          "score": 0.99
+        },
+        {
+          "word": "Museum",
+          "startSec": 230.48,
+          "endSec": 230.82,
+          "score": 0.93
+        },
+        {
+          "word": "of",
+          "startSec": 230.82,
+          "endSec": 231.2,
+          "score": 0.93
+        },
+        {
+          "word": "Islamic",
+          "startSec": 231.2,
+          "endSec": 231.44,
+          "score": 1.0
+        },
+        {
+          "word": "Civilization",
+          "startSec": 231.44,
+          "endSec": 232.26,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 232.44,
+      "end": 236.13,
+      "text": "has many old books, artifacts and artworks.",
+      "words": [
+        {
+          "word": "has",
+          "startSec": 232.64,
+          "endSec": 232.94,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 232.94,
+          "endSec": 233.32,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 233.32,
+          "endSec": 233.82,
+          "score": 0.99
+        },
+        {
+          "word": "books,",
+          "startSec": 233.82,
+          "endSec": 234.14,
+          "score": 1.0
+        },
+        {
+          "word": "artifacts",
+          "startSec": 234.22,
+          "endSec": 235.06,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 235.06,
+          "endSec": 235.46,
+          "score": 0.46
+        },
+        {
+          "word": "artworks.",
+          "startSec": 235.46,
+          "endSec": 235.98,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 236.72,
+      "end": 240.89,
+      "text": "It teaches people about the rich history of the Islamic world.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 236.92,
+          "endSec": 237.18,
+          "score": 0.99
+        },
+        {
+          "word": "teaches",
+          "startSec": 237.18,
+          "endSec": 237.52,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 237.52,
+          "endSec": 238.02,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 238.02,
+          "endSec": 238.46,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 238.46,
+          "endSec": 238.72,
+          "score": 0.99
+        },
+        {
+          "word": "rich",
+          "startSec": 238.72,
+          "endSec": 238.96,
+          "score": 1.0
+        },
+        {
+          "word": "history",
+          "startSec": 238.96,
+          "endSec": 239.48,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 239.48,
+          "endSec": 239.76,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 239.76,
+          "endSec": 239.9,
+          "score": 1.0
+        },
+        {
+          "word": "Islamic",
+          "startSec": 239.9,
+          "endSec": 240.2,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 240.2,
+          "endSec": 240.74,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 241.61,
+      "end": 242.82,
+      "text": "Food in the UAE.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 241.81,
+          "endSec": 242.11,
+          "score": 0.79
+        },
+        {
+          "word": "in",
+          "startSec": 242.11,
+          "endSec": 242.35,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 242.35,
+          "endSec": 242.45,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 242.45,
+          "endSec": 242.67,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 243.45,
+      "end": 246.2,
+      "text": "The food in the UAE is very delicious.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 243.65,
+          "endSec": 243.89,
+          "score": 0.98
+        },
+        {
+          "word": "food",
+          "startSec": 243.89,
+          "endSec": 244.13,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 244.13,
+          "endSec": 244.33,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 244.33,
+          "endSec": 244.47,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 244.47,
+          "endSec": 244.67,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 244.67,
+          "endSec": 245.27,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 245.27,
+          "endSec": 245.61,
+          "score": 1.0
+        },
+        {
+          "word": "delicious.",
+          "startSec": 245.61,
+          "endSec": 246.05,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 246.89,
+      "end": 249.6,
+      "text": "People eat a lot of rice, meat and spices.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 247.09,
+          "endSec": 247.41,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 247.41,
+          "endSec": 247.69,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 247.69,
+          "endSec": 247.85,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 247.85,
+          "endSec": 248.05,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 248.05,
+          "endSec": 248.19,
+          "score": 1.0
+        },
+        {
+          "word": "rice,",
+          "startSec": 248.19,
+          "endSec": 248.45,
+          "score": 1.0
+        },
+        {
+          "word": "meat",
+          "startSec": 248.75,
+          "endSec": 248.99,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 248.99,
+          "endSec": 249.21,
+          "score": 0.76
+        },
+        {
+          "word": "spices.",
+          "startSec": 249.21,
+          "endSec": 249.45,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 250.69,
+      "end": 253.4,
+      "text": "One popular dish is al-mash-us.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 250.89,
+          "endSec": 251.09,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 251.09,
+          "endSec": 251.49,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 251.49,
+          "endSec": 252.03,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 252.03,
+          "endSec": 252.31,
+          "score": 1.0
+        },
+        {
+          "word": "al",
+          "startSec": 252.31,
+          "endSec": 252.61,
+          "score": 0.58
+        },
+        {
+          "word": "-mash",
+          "startSec": 252.61,
+          "endSec": 252.95,
+          "score": 0.57
+        },
+        {
+          "word": "-us.",
+          "startSec": 252.95,
+          "endSec": 253.25,
+          "score": 0.45
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 253.71,
+      "end": 257.24,
+      "text": "It is made with rice, meat and special spices.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 253.91,
+          "endSec": 254.29,
+          "score": 0.44
+        },
+        {
+          "word": "is",
+          "startSec": 254.29,
+          "endSec": 254.45,
+          "score": 0.56
+        },
+        {
+          "word": "made",
+          "startSec": 254.45,
+          "endSec": 254.69,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 254.69,
+          "endSec": 254.95,
+          "score": 0.99
+        },
+        {
+          "word": "rice,",
+          "startSec": 254.95,
+          "endSec": 255.27,
+          "score": 0.99
+        },
+        {
+          "word": "meat",
+          "startSec": 255.61,
+          "endSec": 255.87,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 255.87,
+          "endSec": 256.23,
+          "score": 0.49
+        },
+        {
+          "word": "special",
+          "startSec": 256.23,
+          "endSec": 256.71,
+          "score": 0.99
+        },
+        {
+          "word": "spices.",
+          "startSec": 256.71,
+          "endSec": 257.09,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 258.15,
+      "end": 261.9,
+      "text": "It has a rich flavor and is a favorite in many homes.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 258.35,
+          "endSec": 258.49,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 258.49,
+          "endSec": 258.69,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 258.69,
+          "endSec": 258.87,
+          "score": 0.98
+        },
+        {
+          "word": "rich",
+          "startSec": 258.87,
+          "endSec": 259.07,
+          "score": 1.0
+        },
+        {
+          "word": "flavor",
+          "startSec": 259.07,
+          "endSec": 259.47,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 259.47,
+          "endSec": 260.17,
+          "score": 0.91
+        },
+        {
+          "word": "is",
+          "startSec": 260.17,
+          "endSec": 260.33,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 260.33,
+          "endSec": 260.47,
+          "score": 0.98
+        },
+        {
+          "word": "favorite",
+          "startSec": 260.47,
+          "endSec": 260.85,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 260.85,
+          "endSec": 261.15,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 261.15,
+          "endSec": 261.31,
+          "score": 1.0
+        },
+        {
+          "word": "homes.",
+          "startSec": 261.31,
+          "endSec": 261.75,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 263.42,
+      "end": 266.03,
+      "text": "Another famous dish is shawarma.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 263.62,
+          "endSec": 263.84,
+          "score": 0.98
+        },
+        {
+          "word": "famous",
+          "startSec": 263.84,
+          "endSec": 264.36,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 264.36,
+          "endSec": 264.92,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 264.92,
+          "endSec": 265.16,
+          "score": 1.0
+        },
+        {
+          "word": "shawarma.",
+          "startSec": 265.16,
+          "endSec": 265.88,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 266.64,
+      "end": 270.47,
+      "text": "Shawarma is grilled meat in a sandwich or wrap.",
+      "words": [
+        {
+          "word": "Shawarma",
+          "startSec": 266.84,
+          "endSec": 267.6,
+          "score": 0.69
+        },
+        {
+          "word": "is",
+          "startSec": 267.6,
+          "endSec": 267.9,
+          "score": 1.0
+        },
+        {
+          "word": "grilled",
+          "startSec": 267.9,
+          "endSec": 268.28,
+          "score": 0.99
+        },
+        {
+          "word": "meat",
+          "startSec": 268.28,
+          "endSec": 268.72,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 268.72,
+          "endSec": 269.06,
+          "score": 0.93
+        },
+        {
+          "word": "a",
+          "startSec": 269.06,
+          "endSec": 269.2,
+          "score": 1.0
+        },
+        {
+          "word": "sandwich",
+          "startSec": 269.2,
+          "endSec": 269.64,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 269.64,
+          "endSec": 270.02,
+          "score": 0.99
+        },
+        {
+          "word": "wrap.",
+          "startSec": 270.02,
+          "endSec": 270.32,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 270.95,
+      "end": 274.3,
+      "text": "People eat it with garlic sauce and pickles.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 271.15,
+          "endSec": 271.55,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 271.55,
+          "endSec": 271.85,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 271.85,
+          "endSec": 272.01,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 272.01,
+          "endSec": 272.17,
+          "score": 1.0
+        },
+        {
+          "word": "garlic",
+          "startSec": 272.17,
+          "endSec": 272.53,
+          "score": 1.0
+        },
+        {
+          "word": "sauce",
+          "startSec": 272.53,
+          "endSec": 273.01,
+          "score": 0.87
+        },
+        {
+          "word": "and",
+          "startSec": 273.01,
+          "endSec": 273.37,
+          "score": 1.0
+        },
+        {
+          "word": "pickles.",
+          "startSec": 273.37,
+          "endSec": 274.15,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 274.51,
+      "end": 277.26,
+      "text": "It is a very popular street food.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 274.71,
+          "endSec": 274.95,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 274.95,
+          "endSec": 275.11,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 275.11,
+          "endSec": 275.25,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 275.25,
+          "endSec": 275.71,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 275.71,
+          "endSec": 276.25,
+          "score": 1.0
+        },
+        {
+          "word": "street",
+          "startSec": 276.25,
+          "endSec": 276.71,
+          "score": 0.99
+        },
+        {
+          "word": "food.",
+          "startSec": 276.71,
+          "endSec": 277.11,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 277.93,
+      "end": 281.64,
+      "text": "People in the UAE also enjoy sweet desserts.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 278.13,
+          "endSec": 278.59,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 278.59,
+          "endSec": 278.91,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 278.91,
+          "endSec": 279.09,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 279.09,
+          "endSec": 279.33,
+          "score": 0.94
+        },
+        {
+          "word": "also",
+          "startSec": 279.33,
+          "endSec": 280.07,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 280.07,
+          "endSec": 280.59,
+          "score": 1.0
+        },
+        {
+          "word": "sweet",
+          "startSec": 280.59,
+          "endSec": 281.11,
+          "score": 1.0
+        },
+        {
+          "word": "desserts.",
+          "startSec": 281.11,
+          "endSec": 281.49,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 282.19,
+      "end": 285.74,
+      "text": "One popular dessert is lukeimat.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 282.39,
+          "endSec": 283.07,
+          "score": 0.2
+        },
+        {
+          "word": "popular",
+          "startSec": 283.07,
+          "endSec": 283.57,
+          "score": 0.99
+        },
+        {
+          "word": "dessert",
+          "startSec": 283.57,
+          "endSec": 284.09,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 284.09,
+          "endSec": 284.59,
+          "score": 0.99
+        },
+        {
+          "word": "lukeimat.",
+          "startSec": 284.59,
+          "endSec": 285.59,
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 285.93,
+      "end": 290.9,
+      "text": "These are small, round and sweet dumplings with honey or syrup.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 286.13,
+          "endSec": 286.65,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 286.65,
+          "endSec": 286.85,
+          "score": 1.0
+        },
+        {
+          "word": "small,",
+          "startSec": 286.85,
+          "endSec": 287.31,
+          "score": 0.99
+        },
+        {
+          "word": "round",
+          "startSec": 287.39,
+          "endSec": 287.85,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 287.85,
+          "endSec": 288.39,
+          "score": 0.37
+        },
+        {
+          "word": "sweet",
+          "startSec": 288.39,
+          "endSec": 288.77,
+          "score": 1.0
+        },
+        {
+          "word": "dumplings",
+          "startSec": 288.77,
+          "endSec": 289.47,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 289.47,
+          "endSec": 289.85,
+          "score": 0.99
+        },
+        {
+          "word": "honey",
+          "startSec": 289.85,
+          "endSec": 290.15,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 290.15,
+          "endSec": 290.49,
+          "score": 0.99
+        },
+        {
+          "word": "syrup.",
+          "startSec": 290.49,
+          "endSec": 290.75,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 291.47,
+      "end": 294.86,
+      "text": "They are crispy on the outside and soft on the inside.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 291.67,
+          "endSec": 291.89,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 291.89,
+          "endSec": 292.01,
+          "score": 0.99
+        },
+        {
+          "word": "crispy",
+          "startSec": 292.01,
+          "endSec": 292.41,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 292.41,
+          "endSec": 292.73,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 292.73,
+          "endSec": 292.89,
+          "score": 1.0
+        },
+        {
+          "word": "outside",
+          "startSec": 292.89,
+          "endSec": 293.19,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 293.19,
+          "endSec": 293.69,
+          "score": 0.96
+        },
+        {
+          "word": "soft",
+          "startSec": 293.69,
+          "endSec": 293.97,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 293.97,
+          "endSec": 294.29,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 294.29,
+          "endSec": 294.47,
+          "score": 1.0
+        },
+        {
+          "word": "inside.",
+          "startSec": 294.47,
+          "endSec": 294.71,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 295.84,
+      "end": 298.63,
+      "text": "Another famous dessert is kunferush,",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 296.04,
+          "endSec": 296.3,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 296.3,
+          "endSec": 296.84,
+          "score": 1.0
+        },
+        {
+          "word": "dessert",
+          "startSec": 296.84,
+          "endSec": 297.36,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 297.36,
+          "endSec": 297.7,
+          "score": 1.0
+        },
+        {
+          "word": "kunferush,",
+          "startSec": 297.7,
+          "endSec": 298.48,
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 298.62,
+      "end": 302.45,
+      "text": "which is a type of fried cake with saffron and cardamom.",
+      "words": [
+        {
+          "word": "which",
+          "startSec": 298.82,
+          "endSec": 298.96,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 298.96,
+          "endSec": 299.16,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 299.16,
+          "endSec": 299.3,
+          "score": 0.96
+        },
+        {
+          "word": "type",
+          "startSec": 299.3,
+          "endSec": 299.56,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 299.56,
+          "endSec": 299.76,
+          "score": 1.0
+        },
+        {
+          "word": "fried",
+          "startSec": 299.76,
+          "endSec": 300.04,
+          "score": 0.99
+        },
+        {
+          "word": "cake",
+          "startSec": 300.04,
+          "endSec": 300.42,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 300.42,
+          "endSec": 300.76,
+          "score": 1.0
+        },
+        {
+          "word": "saffron",
+          "startSec": 300.76,
+          "endSec": 301.4,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 301.4,
+          "endSec": 301.68,
+          "score": 0.99
+        },
+        {
+          "word": "cardamom.",
+          "startSec": 301.68,
+          "endSec": 302.3,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 303.16,
+      "end": 307.11,
+      "text": "People in the UAE drink a lot of tea and coffee.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 303.36,
+          "endSec": 304.0,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 304.0,
+          "endSec": 304.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 304.26,
+          "endSec": 304.44,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 304.44,
+          "endSec": 304.7,
+          "score": 0.97
+        },
+        {
+          "word": "drink",
+          "startSec": 304.7,
+          "endSec": 305.4,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 305.4,
+          "endSec": 305.64,
+          "score": 1.0
+        },
+        {
+          "word": "lot",
+          "startSec": 305.64,
+          "endSec": 305.86,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 305.86,
+          "endSec": 306.0,
+          "score": 1.0
+        },
+        {
+          "word": "tea",
+          "startSec": 306.0,
+          "endSec": 306.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 306.24,
+          "endSec": 306.5,
+          "score": 0.99
+        },
+        {
+          "word": "coffee.",
+          "startSec": 306.5,
+          "endSec": 306.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 307.62,
+      "end": 312.07,
+      "text": "Arabic coffee, called gahwa, is very special.",
+      "words": [
+        {
+          "word": "Arabic",
+          "startSec": 307.82,
+          "endSec": 308.42,
+          "score": 0.12
+        },
+        {
+          "word": "coffee,",
+          "startSec": 308.42,
+          "endSec": 308.88,
+          "score": 0.83
+        },
+        {
+          "word": "called",
+          "startSec": 309.58,
+          "endSec": 309.74,
+          "score": 0.99
+        },
+        {
+          "word": "gahwa,",
+          "startSec": 309.74,
+          "endSec": 310.38,
+          "score": 0.51
+        },
+        {
+          "word": "is",
+          "startSec": 310.66,
+          "endSec": 310.84,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 310.84,
+          "endSec": 311.2,
+          "score": 1.0
+        },
+        {
+          "word": "special.",
+          "startSec": 311.2,
+          "endSec": 311.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 312.87,
+      "end": 316.68,
+      "text": "It has a unique taste and people drink it with dates.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 313.07,
+          "endSec": 313.17,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 313.17,
+          "endSec": 313.35,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 313.35,
+          "endSec": 313.55,
+          "score": 1.0
+        },
+        {
+          "word": "unique",
+          "startSec": 313.55,
+          "endSec": 313.85,
+          "score": 1.0
+        },
+        {
+          "word": "taste",
+          "startSec": 313.85,
+          "endSec": 314.35,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 314.35,
+          "endSec": 315.21,
+          "score": 0.54
+        },
+        {
+          "word": "people",
+          "startSec": 315.21,
+          "endSec": 315.43,
+          "score": 1.0
+        },
+        {
+          "word": "drink",
+          "startSec": 315.43,
+          "endSec": 315.87,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 315.87,
+          "endSec": 316.07,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 316.07,
+          "endSec": 316.23,
+          "score": 1.0
+        },
+        {
+          "word": "dates.",
+          "startSec": 316.23,
+          "endSec": 316.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 317.3,
+      "end": 320.45,
+      "text": "Dates are a very popular snack in the UAE.",
+      "words": [
+        {
+          "word": "Dates",
+          "startSec": 317.5,
+          "endSec": 317.88,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 317.88,
+          "endSec": 318.24,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 318.24,
+          "endSec": 318.38,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 318.38,
+          "endSec": 318.64,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 318.64,
+          "endSec": 319.18,
+          "score": 1.0
+        },
+        {
+          "word": "snack",
+          "startSec": 319.18,
+          "endSec": 319.66,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 319.66,
+          "endSec": 319.98,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 319.98,
+          "endSec": 320.1,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 320.1,
+          "endSec": 320.3,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 320.9,
+      "end": 323.81,
+      "text": "They are sweet, soft and full of energy.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 321.1,
+          "endSec": 321.22,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 321.22,
+          "endSec": 321.36,
+          "score": 0.99
+        },
+        {
+          "word": "sweet,",
+          "startSec": 321.36,
+          "endSec": 321.72,
+          "score": 1.0
+        },
+        {
+          "word": "soft",
+          "startSec": 322.0,
+          "endSec": 322.28,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 322.28,
+          "endSec": 322.9,
+          "score": 0.53
+        },
+        {
+          "word": "full",
+          "startSec": 322.9,
+          "endSec": 323.18,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 323.18,
+          "endSec": 323.36,
+          "score": 1.0
+        },
+        {
+          "word": "energy.",
+          "startSec": 323.36,
+          "endSec": 323.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 324.7,
+      "end": 328.95,
+      "text": "There are many types of dates and people enjoy them with tea or coffee.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 324.9,
+          "endSec": 325.1,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 325.1,
+          "endSec": 325.26,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 325.26,
+          "endSec": 325.5,
+          "score": 1.0
+        },
+        {
+          "word": "types",
+          "startSec": 325.5,
+          "endSec": 325.86,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 325.86,
+          "endSec": 326.1,
+          "score": 1.0
+        },
+        {
+          "word": "dates",
+          "startSec": 326.1,
+          "endSec": 326.34,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 326.34,
+          "endSec": 326.8,
+          "score": 0.86
+        },
+        {
+          "word": "people",
+          "startSec": 326.8,
+          "endSec": 327.06,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 327.06,
+          "endSec": 327.42,
+          "score": 1.0
+        },
+        {
+          "word": "them",
+          "startSec": 327.42,
+          "endSec": 327.8,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 327.8,
+          "endSec": 327.98,
+          "score": 0.99
+        },
+        {
+          "word": "tea",
+          "startSec": 327.98,
+          "endSec": 328.26,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 328.26,
+          "endSec": 328.56,
+          "score": 0.99
+        },
+        {
+          "word": "coffee.",
+          "startSec": 328.56,
+          "endSec": 328.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 331.19,
+      "end": 332.18,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "startSec": 331.39,
+          "endSec": 331.41,
+          "score": 0.95
+        },
+        {
+          "word": "and",
+          "startSec": 331.41,
+          "endSec": 331.75,
+          "score": 0.97
+        },
+        {
+          "word": "people.",
+          "startSec": 331.75,
+          "endSec": 332.03,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 333.53,
+      "end": 336.7,
+      "text": "People in the UAE are very friendly.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 333.73,
+          "endSec": 334.31,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 334.31,
+          "endSec": 334.55,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 334.55,
+          "endSec": 334.71,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 334.71,
+          "endSec": 334.99,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 334.99,
+          "endSec": 335.69,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 335.69,
+          "endSec": 335.97,
+          "score": 1.0
+        },
+        {
+          "word": "friendly.",
+          "startSec": 335.97,
+          "endSec": 336.55,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 337.21,
+      "end": 340.52,
+      "text": "They welcome visitors from all over the world.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 337.41,
+          "endSec": 337.75,
+          "score": 0.29
+        },
+        {
+          "word": "welcome",
+          "startSec": 337.75,
+          "endSec": 338.27,
+          "score": 0.96
+        },
+        {
+          "word": "visitors",
+          "startSec": 338.27,
+          "endSec": 338.75,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 338.75,
+          "endSec": 339.29,
+          "score": 0.99
+        },
+        {
+          "word": "all",
+          "startSec": 339.29,
+          "endSec": 339.59,
+          "score": 1.0
+        },
+        {
+          "word": "over",
+          "startSec": 339.59,
+          "endSec": 339.87,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 339.87,
+          "endSec": 340.03,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 340.03,
+          "endSec": 340.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 341.29,
+      "end": 344.28,
+      "text": "The main language in the UAE is Arabic,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 341.49,
+          "endSec": 341.59,
+          "score": 0.99
+        },
+        {
+          "word": "main",
+          "startSec": 341.59,
+          "endSec": 341.83,
+          "score": 0.98
+        },
+        {
+          "word": "language",
+          "startSec": 341.83,
+          "endSec": 342.35,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 342.35,
+          "endSec": 342.57,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 342.57,
+          "endSec": 342.71,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 342.71,
+          "endSec": 342.97,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 342.97,
+          "endSec": 343.79,
+          "score": 1.0
+        },
+        {
+          "word": "Arabic,",
+          "startSec": 343.79,
+          "endSec": 344.13,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 344.67,
+      "end": 347.12,
+      "text": "but many people also speak English.",
+      "words": [
+        {
+          "word": "but",
+          "startSec": 344.87,
+          "endSec": 345.05,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 345.05,
+          "endSec": 345.27,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 345.27,
+          "endSec": 345.73,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 345.73,
+          "endSec": 346.01,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 346.01,
+          "endSec": 346.47,
+          "score": 1.0
+        },
+        {
+          "word": "English.",
+          "startSec": 346.47,
+          "endSec": 346.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 348.06,
+      "end": 350.89,
+      "text": "The UAE has people from different countries,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 348.26,
+          "endSec": 348.42,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 348.42,
+          "endSec": 348.7,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 348.7,
+          "endSec": 349.26,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 349.26,
+          "endSec": 349.52,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 349.52,
+          "endSec": 349.88,
+          "score": 1.0
+        },
+        {
+          "word": "different",
+          "startSec": 349.88,
+          "endSec": 350.14,
+          "score": 1.0
+        },
+        {
+          "word": "countries,",
+          "startSec": 350.14,
+          "endSec": 350.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 351.36,
+      "end": 355.03,
+      "text": "so you can hear many languages in big cities.",
+      "words": [
+        {
+          "word": "so",
+          "startSec": 351.56,
+          "endSec": 351.9,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 351.9,
+          "endSec": 352.06,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 352.06,
+          "endSec": 352.24,
+          "score": 1.0
+        },
+        {
+          "word": "hear",
+          "startSec": 352.24,
+          "endSec": 352.5,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 352.5,
+          "endSec": 352.84,
+          "score": 1.0
+        },
+        {
+          "word": "languages",
+          "startSec": 352.84,
+          "endSec": 353.62,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 353.62,
+          "endSec": 354.08,
+          "score": 0.99
+        },
+        {
+          "word": "big",
+          "startSec": 354.08,
+          "endSec": 354.34,
+          "score": 0.99
+        },
+        {
+          "word": "cities.",
+          "startSec": 354.34,
+          "endSec": 354.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 356.45,
+      "end": 358.38,
+      "text": "The country has many traditions.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 356.65,
+          "endSec": 356.77,
+          "score": 0.97
+        },
+        {
+          "word": "country",
+          "startSec": 356.77,
+          "endSec": 357.15,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 357.15,
+          "endSec": 357.47,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 357.47,
+          "endSec": 357.75,
+          "score": 1.0
+        },
+        {
+          "word": "traditions.",
+          "startSec": 357.75,
+          "endSec": 358.23,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 359.69,
+      "end": 362.46,
+      "text": "One important tradition is falconry.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 359.89,
+          "endSec": 360.09,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 360.09,
+          "endSec": 360.43,
+          "score": 1.0
+        },
+        {
+          "word": "tradition",
+          "startSec": 360.43,
+          "endSec": 360.97,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 360.97,
+          "endSec": 361.51,
+          "score": 1.0
+        },
+        {
+          "word": "falconry.",
+          "startSec": 361.51,
+          "endSec": 362.31,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 362.85,
+      "end": 366.58,
+      "text": "Falconry is a sport where people train falcons for hunting.",
+      "words": [
+        {
+          "word": "Falconry",
+          "startSec": 363.05,
+          "endSec": 363.73,
+          "score": 0.85
+        },
+        {
+          "word": "is",
+          "startSec": 363.73,
+          "endSec": 363.95,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 363.95,
+          "endSec": 364.07,
+          "score": 1.0
+        },
+        {
+          "word": "sport",
+          "startSec": 364.07,
+          "endSec": 364.41,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 364.41,
+          "endSec": 364.65,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 364.65,
+          "endSec": 364.93,
+          "score": 1.0
+        },
+        {
+          "word": "train",
+          "startSec": 364.93,
+          "endSec": 365.31,
+          "score": 1.0
+        },
+        {
+          "word": "falcons",
+          "startSec": 365.31,
+          "endSec": 365.87,
+          "score": 0.95
+        },
+        {
+          "word": "for",
+          "startSec": 365.87,
+          "endSec": 366.13,
+          "score": 1.0
+        },
+        {
+          "word": "hunting.",
+          "startSec": 366.13,
+          "endSec": 366.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 367.07,
+      "end": 371.12,
+      "text": "It is a very old and respected tradition in the UAE.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 367.27,
+          "endSec": 367.65,
+          "score": 0.53
+        },
+        {
+          "word": "is",
+          "startSec": 367.65,
+          "endSec": 367.81,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "startSec": 367.81,
+          "endSec": 367.93,
+          "score": 0.98
+        },
+        {
+          "word": "very",
+          "startSec": 367.93,
+          "endSec": 368.25,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 368.25,
+          "endSec": 368.77,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 368.77,
+          "endSec": 369.05,
+          "score": 0.98
+        },
+        {
+          "word": "respected",
+          "startSec": 369.05,
+          "endSec": 369.53,
+          "score": 0.99
+        },
+        {
+          "word": "tradition",
+          "startSec": 369.53,
+          "endSec": 370.37,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 370.37,
+          "endSec": 370.61,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 370.61,
+          "endSec": 370.73,
+          "score": 0.99
+        },
+        {
+          "word": "UAE.",
+          "startSec": 370.73,
+          "endSec": 370.97,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 372.29,
+      "end": 377.74,
+      "text": "Falcons are very special birds and they are a symbol of strength and pride.",
+      "words": [
+        {
+          "word": "Falcons",
+          "startSec": 372.49,
+          "endSec": 373.05,
+          "score": 0.33
+        },
+        {
+          "word": "are",
+          "startSec": 373.05,
+          "endSec": 373.29,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 373.29,
+          "endSec": 373.55,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 373.55,
+          "endSec": 374.19,
+          "score": 1.0
+        },
+        {
+          "word": "birds",
+          "startSec": 374.19,
+          "endSec": 374.53,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 374.53,
+          "endSec": 375.29,
+          "score": 0.52
+        },
+        {
+          "word": "they",
+          "startSec": 375.29,
+          "endSec": 375.47,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 375.47,
+          "endSec": 375.61,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 375.61,
+          "endSec": 375.73,
+          "score": 0.99
+        },
+        {
+          "word": "symbol",
+          "startSec": 375.73,
+          "endSec": 376.13,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 376.13,
+          "endSec": 376.41,
+          "score": 1.0
+        },
+        {
+          "word": "strength",
+          "startSec": 376.41,
+          "endSec": 376.79,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 376.79,
+          "endSec": 377.21,
+          "score": 1.0
+        },
+        {
+          "word": "pride.",
+          "startSec": 377.21,
+          "endSec": 377.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 378.54,
+      "end": 381.19,
+      "text": "The UAE also has many festivals.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 378.74,
+          "endSec": 378.96,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 378.96,
+          "endSec": 379.22,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 379.22,
+          "endSec": 379.94,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 379.94,
+          "endSec": 380.24,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 380.24,
+          "endSec": 380.5,
+          "score": 0.96
+        },
+        {
+          "word": "festivals.",
+          "startSec": 380.5,
+          "endSec": 381.04,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 381.94,
+      "end": 385.53,
+      "text": "One of the biggest celebrations is National Day.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 382.14,
+          "endSec": 382.36,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 382.36,
+          "endSec": 382.5,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 382.5,
+          "endSec": 382.64,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 382.64,
+          "endSec": 383.02,
+          "score": 1.0
+        },
+        {
+          "word": "celebrations",
+          "startSec": 383.02,
+          "endSec": 383.58,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 383.58,
+          "endSec": 384.44,
+          "score": 1.0
+        },
+        {
+          "word": "National",
+          "startSec": 384.44,
+          "endSec": 384.76,
+          "score": 0.74
+        },
+        {
+          "word": "Day.",
+          "startSec": 384.76,
+          "endSec": 385.38,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 385.84,
+      "end": 388.89,
+      "text": "It happens on December 2nd every year.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 386.04,
+          "endSec": 386.26,
+          "score": 1.0
+        },
+        {
+          "word": "happens",
+          "startSec": 386.26,
+          "endSec": 386.52,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 386.52,
+          "endSec": 386.92,
+          "score": 1.0
+        },
+        {
+          "word": "December",
+          "startSec": 386.92,
+          "endSec": 387.16,
+          "score": 0.99
+        },
+        {
+          "word": "2nd",
+          "startSec": 387.16,
+          "endSec": 388.06,
+          "score": 0.96
+        },
+        {
+          "word": "every",
+          "startSec": 388.06,
+          "endSec": 388.38,
+          "score": 0.9
+        },
+        {
+          "word": "year.",
+          "startSec": 388.38,
+          "endSec": 388.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 389.62,
+      "end": 393.35,
+      "text": "People celebrate with fireworks, parades and music.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 389.82,
+          "endSec": 390.24,
+          "score": 1.0
+        },
+        {
+          "word": "celebrate",
+          "startSec": 390.24,
+          "endSec": 390.64,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 390.64,
+          "endSec": 391.0,
+          "score": 1.0
+        },
+        {
+          "word": "fireworks,",
+          "startSec": 391.0,
+          "endSec": 391.38,
+          "score": 0.98
+        },
+        {
+          "word": "parades",
+          "startSec": 392.2,
+          "endSec": 392.6,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 392.6,
+          "endSec": 392.98,
+          "score": 0.61
+        },
+        {
+          "word": "music.",
+          "startSec": 392.98,
+          "endSec": 393.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 394.03,
+      "end": 400.77,
+      "text": "They decorate their houses, cars and streets with the UAE flag.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 394.23,
+          "endSec": 394.68,
+          "score": 0.43
+        },
+        {
+          "word": "decorate",
+          "startSec": 394.68,
+          "endSec": 395.38,
+          "score": 0.96
+        },
+        {
+          "word": "their",
+          "startSec": 395.38,
+          "endSec": 395.58,
+          "score": 1.0
+        },
+        {
+          "word": "houses,",
+          "startSec": 395.58,
+          "endSec": 396.08,
+          "score": 0.99
+        },
+        {
+          "word": "cars",
+          "startSec": 396.28,
+          "endSec": 397.06,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 397.06,
+          "endSec": 397.86,
+          "score": 0.34
+        },
+        {
+          "word": "streets",
+          "startSec": 397.86,
+          "endSec": 398.36,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 398.36,
+          "endSec": 399.22,
+          "score": 0.89
+        },
+        {
+          "word": "the",
+          "startSec": 399.22,
+          "endSec": 399.44,
+          "score": 0.62
+        },
+        {
+          "word": "UAE",
+          "startSec": 399.44,
+          "endSec": 399.96,
+          "score": 0.8
+        },
+        {
+          "word": "flag.",
+          "startSec": 399.96,
+          "endSec": 400.62,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 401.52,
+      "end": 404.49,
+      "text": "Another important celebration is Ramadan.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 401.72,
+          "endSec": 402.02,
+          "score": 0.99
+        },
+        {
+          "word": "important",
+          "startSec": 402.02,
+          "endSec": 402.58,
+          "score": 1.0
+        },
+        {
+          "word": "celebration",
+          "startSec": 402.58,
+          "endSec": 403.18,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 403.18,
+          "endSec": 404.04,
+          "score": 1.0
+        },
+        {
+          "word": "Ramadan.",
+          "startSec": 404.04,
+          "endSec": 404.34,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 405.51,
+      "end": 410.58,
+      "text": "Ramadan is a holy month when Muslims fast from sunrise to sunset.",
+      "words": [
+        {
+          "word": "Ramadan",
+          "startSec": 405.71,
+          "endSec": 406.13,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 406.13,
+          "endSec": 406.73,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 406.73,
+          "endSec": 406.89,
+          "score": 0.99
+        },
+        {
+          "word": "holy",
+          "startSec": 406.89,
+          "endSec": 407.09,
+          "score": 0.97
+        },
+        {
+          "word": "month",
+          "startSec": 407.09,
+          "endSec": 407.53,
+          "score": 1.0
+        },
+        {
+          "word": "when",
+          "startSec": 407.53,
+          "endSec": 407.85,
+          "score": 0.99
+        },
+        {
+          "word": "Muslims",
+          "startSec": 407.85,
+          "endSec": 408.23,
+          "score": 0.99
+        },
+        {
+          "word": "fast",
+          "startSec": 408.23,
+          "endSec": 408.81,
+          "score": 0.97
+        },
+        {
+          "word": "from",
+          "startSec": 408.81,
+          "endSec": 409.27,
+          "score": 1.0
+        },
+        {
+          "word": "sunrise",
+          "startSec": 409.27,
+          "endSec": 409.59,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 409.59,
+          "endSec": 410.17,
+          "score": 1.0
+        },
+        {
+          "word": "sunset.",
+          "startSec": 410.17,
+          "endSec": 410.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 411.57,
+      "end": 416.68,
+      "text": "At sunset, they eat a meal called iftar with their family and friends.",
+      "words": [
+        {
+          "word": "At",
+          "startSec": 411.77,
+          "endSec": 412.11,
+          "score": 1.0
+        },
+        {
+          "word": "sunset,",
+          "startSec": 412.11,
+          "endSec": 412.45,
+          "score": 1.0
+        },
+        {
+          "word": "they",
+          "startSec": 413.01,
+          "endSec": 413.05,
+          "score": 1.0
+        },
+        {
+          "word": "eat",
+          "startSec": 413.05,
+          "endSec": 413.35,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 413.35,
+          "endSec": 413.49,
+          "score": 1.0
+        },
+        {
+          "word": "meal",
+          "startSec": 413.49,
+          "endSec": 413.73,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 413.73,
+          "endSec": 414.27,
+          "score": 1.0
+        },
+        {
+          "word": "iftar",
+          "startSec": 414.27,
+          "endSec": 414.95,
+          "score": 0.39
+        },
+        {
+          "word": "with",
+          "startSec": 414.95,
+          "endSec": 415.31,
+          "score": 0.98
+        },
+        {
+          "word": "their",
+          "startSec": 415.31,
+          "endSec": 415.51,
+          "score": 1.0
+        },
+        {
+          "word": "family",
+          "startSec": 415.51,
+          "endSec": 415.99,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 415.99,
+          "endSec": 416.21,
+          "score": 1.0
+        },
+        {
+          "word": "friends.",
+          "startSec": 416.21,
+          "endSec": 416.53,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 417.36,
+      "end": 420.95,
+      "text": "Traditional clothing is also important in the UAE.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 417.56,
+          "endSec": 418.06,
+          "score": 0.97
+        },
+        {
+          "word": "clothing",
+          "startSec": 418.06,
+          "endSec": 418.84,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 418.84,
+          "endSec": 419.14,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 419.14,
+          "endSec": 419.48,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 419.48,
+          "endSec": 420.04,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 420.04,
+          "endSec": 420.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 420.4,
+          "endSec": 420.56,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 420.56,
+          "endSec": 420.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 421.48,
+      "end": 425.39,
+      "text": "Men wear a long white robe called a kandura,",
+      "words": [
+        {
+          "word": "Men",
+          "startSec": 421.68,
+          "endSec": 422.22,
+          "score": 0.01
+        },
+        {
+          "word": "wear",
+          "startSec": 422.22,
+          "endSec": 422.58,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 422.58,
+          "endSec": 422.74,
+          "score": 0.99
+        },
+        {
+          "word": "long",
+          "startSec": 422.74,
+          "endSec": 423.06,
+          "score": 0.99
+        },
+        {
+          "word": "white",
+          "startSec": 423.06,
+          "endSec": 423.44,
+          "score": 0.88
+        },
+        {
+          "word": "robe",
+          "startSec": 423.44,
+          "endSec": 423.9,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 423.9,
+          "endSec": 424.36,
+          "score": 0.96
+        },
+        {
+          "word": "a",
+          "startSec": 424.36,
+          "endSec": 424.54,
+          "score": 0.97
+        },
+        {
+          "word": "kandura,",
+          "startSec": 424.54,
+          "endSec": 425.24,
+          "score": 0.47
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 425.68,
+      "end": 429.17,
+      "text": "and women wear a black robe called an abaya.",
+      "words": [
+        {
+          "word": "and",
+          "startSec": 425.88,
+          "endSec": 426.2,
+          "score": 0.95
+        },
+        {
+          "word": "women",
+          "startSec": 426.2,
+          "endSec": 426.58,
+          "score": 0.98
+        },
+        {
+          "word": "wear",
+          "startSec": 426.58,
+          "endSec": 427.02,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 427.02,
+          "endSec": 427.2,
+          "score": 0.99
+        },
+        {
+          "word": "black",
+          "startSec": 427.2,
+          "endSec": 427.44,
+          "score": 0.99
+        },
+        {
+          "word": "robe",
+          "startSec": 427.44,
+          "endSec": 427.9,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 427.9,
+          "endSec": 428.36,
+          "score": 0.98
+        },
+        {
+          "word": "an",
+          "startSec": 428.36,
+          "endSec": 428.56,
+          "score": 0.61
+        },
+        {
+          "word": "abaya.",
+          "startSec": 428.56,
+          "endSec": 429.02,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 429.64,
+      "end": 433.65,
+      "text": "These clothes are comfortable and protect people from the sun.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 429.84,
+          "endSec": 430.08,
+          "score": 0.98
+        },
+        {
+          "word": "clothes",
+          "startSec": 430.08,
+          "endSec": 430.46,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 430.46,
+          "endSec": 430.82,
+          "score": 1.0
+        },
+        {
+          "word": "comfortable",
+          "startSec": 430.82,
+          "endSec": 431.28,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 431.28,
+          "endSec": 431.86,
+          "score": 0.98
+        },
+        {
+          "word": "protect",
+          "startSec": 431.86,
+          "endSec": 432.24,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 432.24,
+          "endSec": 432.76,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 432.76,
+          "endSec": 433.04,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 433.04,
+          "endSec": 433.22,
+          "score": 1.0
+        },
+        {
+          "word": "sun.",
+          "startSec": 433.22,
+          "endSec": 433.5,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 434.1,
+      "end": 435.71,
+      "text": "Nature and animals.",
+      "words": [
+        {
+          "word": "Nature",
+          "startSec": 434.3,
+          "endSec": 434.88,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "startSec": 434.88,
+          "endSec": 435.14,
+          "score": 0.98
+        },
+        {
+          "word": "animals.",
+          "startSec": 435.14,
+          "endSec": 435.56,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 436.57,
+      "end": 439.06,
+      "text": "The UAE has beautiful deserts.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 436.77,
+          "endSec": 436.95,
+          "score": 0.98
+        },
+        {
+          "word": "UAE",
+          "startSec": 436.95,
+          "endSec": 437.23,
+          "score": 0.95
+        },
+        {
+          "word": "has",
+          "startSec": 437.23,
+          "endSec": 437.97,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 437.97,
+          "endSec": 438.35,
+          "score": 1.0
+        },
+        {
+          "word": "deserts.",
+          "startSec": 438.35,
+          "endSec": 438.91,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 439.67,
+      "end": 442.82,
+      "text": "Many people visit the desert for fun activities.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 439.87,
+          "endSec": 440.13,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 440.13,
+          "endSec": 440.65,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 440.65,
+          "endSec": 441.03,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 441.03,
+          "endSec": 441.25,
+          "score": 1.0
+        },
+        {
+          "word": "desert",
+          "startSec": 441.25,
+          "endSec": 441.63,
+          "score": 0.97
+        },
+        {
+          "word": "for",
+          "startSec": 441.63,
+          "endSec": 441.97,
+          "score": 1.0
+        },
+        {
+          "word": "fun",
+          "startSec": 441.97,
+          "endSec": 442.29,
+          "score": 1.0
+        },
+        {
+          "word": "activities.",
+          "startSec": 442.29,
+          "endSec": 442.67,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 443.69,
+      "end": 449.14,
+      "text": "They ride camels, go sandboarding and drive special cars in the sand.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 443.89,
+          "endSec": 444.11,
+          "score": 0.99
+        },
+        {
+          "word": "ride",
+          "startSec": 444.11,
+          "endSec": 444.37,
+          "score": 1.0
+        },
+        {
+          "word": "camels,",
+          "startSec": 444.37,
+          "endSec": 445.07,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 445.57,
+          "endSec": 445.71,
+          "score": 0.89
+        },
+        {
+          "word": "sandboarding",
+          "startSec": 445.71,
+          "endSec": 446.43,
+          "score": 0.73
+        },
+        {
+          "word": "and",
+          "startSec": 446.43,
+          "endSec": 447.07,
+          "score": 0.19
+        },
+        {
+          "word": "drive",
+          "startSec": 447.07,
+          "endSec": 447.33,
+          "score": 0.99
+        },
+        {
+          "word": "special",
+          "startSec": 447.33,
+          "endSec": 447.73,
+          "score": 1.0
+        },
+        {
+          "word": "cars",
+          "startSec": 447.73,
+          "endSec": 448.21,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 448.21,
+          "endSec": 448.53,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 448.53,
+          "endSec": 448.67,
+          "score": 1.0
+        },
+        {
+          "word": "sand.",
+          "startSec": 448.67,
+          "endSec": 448.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 449.21,
+      "end": 453.6,
+      "text": "The desert looks very beautiful, especially at sunset.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 449.41,
+          "endSec": 449.77,
+          "score": 0.67
+        },
+        {
+          "word": "desert",
+          "startSec": 449.77,
+          "endSec": 450.21,
+          "score": 0.98
+        },
+        {
+          "word": "looks",
+          "startSec": 450.21,
+          "endSec": 450.57,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 450.57,
+          "endSec": 451.03,
+          "score": 0.99
+        },
+        {
+          "word": "beautiful,",
+          "startSec": 451.03,
+          "endSec": 451.61,
+          "score": 1.0
+        },
+        {
+          "word": "especially",
+          "startSec": 452.09,
+          "endSec": 452.73,
+          "score": 1.0
+        },
+        {
+          "word": "at",
+          "startSec": 452.73,
+          "endSec": 453.21,
+          "score": 1.0
+        },
+        {
+          "word": "sunset.",
+          "startSec": 453.21,
+          "endSec": 453.45,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 454.4,
+      "end": 460.89,
+      "text": "Some people also stay in desert camps and enjoy traditional Emirati food and music.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 454.6,
+          "endSec": 454.88,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 454.88,
+          "endSec": 455.24,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 455.24,
+          "endSec": 455.52,
+          "score": 1.0
+        },
+        {
+          "word": "stay",
+          "startSec": 455.52,
+          "endSec": 456.02,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 456.02,
+          "endSec": 456.24,
+          "score": 1.0
+        },
+        {
+          "word": "desert",
+          "startSec": 456.24,
+          "endSec": 456.6,
+          "score": 0.98
+        },
+        {
+          "word": "camps",
+          "startSec": 456.6,
+          "endSec": 456.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 456.94,
+          "endSec": 457.68,
+          "score": 0.86
+        },
+        {
+          "word": "enjoy",
+          "startSec": 457.68,
+          "endSec": 458.02,
+          "score": 1.0
+        },
+        {
+          "word": "traditional",
+          "startSec": 458.02,
+          "endSec": 458.8,
+          "score": 1.0
+        },
+        {
+          "word": "Emirati",
+          "startSec": 458.8,
+          "endSec": 459.5,
+          "score": 0.9
+        },
+        {
+          "word": "food",
+          "startSec": 459.5,
+          "endSec": 459.92,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 459.92,
+          "endSec": 460.3,
+          "score": 1.0
+        },
+        {
+          "word": "music.",
+          "startSec": 460.3,
+          "endSec": 460.74,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 461.56,
+      "end": 464.21,
+      "text": "There are also many animals in the UAE.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 461.76,
+          "endSec": 461.98,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 461.98,
+          "endSec": 462.12,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 462.12,
+          "endSec": 462.48,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 462.48,
+          "endSec": 462.74,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 462.74,
+          "endSec": 463.34,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 463.34,
+          "endSec": 463.66,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 463.66,
+          "endSec": 463.82,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 463.82,
+          "endSec": 464.06,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 464.92,
+      "end": 470.15,
+      "text": "Some animals live in the desert, like camels, foxes and oryx.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 465.12,
+          "endSec": 465.6,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 465.6,
+          "endSec": 466.18,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 466.18,
+          "endSec": 466.48,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 466.48,
+          "endSec": 466.68,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 466.68,
+          "endSec": 466.8,
+          "score": 0.99
+        },
+        {
+          "word": "desert,",
+          "startSec": 466.8,
+          "endSec": 467.16,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 467.62,
+          "endSec": 467.76,
+          "score": 1.0
+        },
+        {
+          "word": "camels,",
+          "startSec": 467.76,
+          "endSec": 468.36,
+          "score": 0.97
+        },
+        {
+          "word": "foxes",
+          "startSec": 468.66,
+          "endSec": 469.16,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 469.16,
+          "endSec": 469.48,
+          "score": 0.39
+        },
+        {
+          "word": "oryx.",
+          "startSec": 469.48,
+          "endSec": 470.0,
+          "score": 0.57
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 470.8,
+      "end": 474.69,
+      "text": "The Arabian oryx is a special animal in the UAE.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 471.0,
+          "endSec": 471.14,
+          "score": 1.0
+        },
+        {
+          "word": "Arabian",
+          "startSec": 471.14,
+          "endSec": 471.42,
+          "score": 0.99
+        },
+        {
+          "word": "oryx",
+          "startSec": 471.42,
+          "endSec": 472.3,
+          "score": 0.89
+        },
+        {
+          "word": "is",
+          "startSec": 472.3,
+          "endSec": 472.6,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 472.6,
+          "endSec": 472.78,
+          "score": 1.0
+        },
+        {
+          "word": "special",
+          "startSec": 472.78,
+          "endSec": 473.14,
+          "score": 0.99
+        },
+        {
+          "word": "animal",
+          "startSec": 473.14,
+          "endSec": 473.7,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 473.7,
+          "endSec": 474.16,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 474.16,
+          "endSec": 474.32,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 474.32,
+          "endSec": 474.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 475.26,
+      "end": 478.23,
+      "text": "It is a white antelope with long horns.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 475.46,
+          "endSec": 475.78,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 475.78,
+          "endSec": 475.9,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 475.9,
+          "endSec": 476.06,
+          "score": 0.99
+        },
+        {
+          "word": "white",
+          "startSec": 476.06,
+          "endSec": 476.32,
+          "score": 0.99
+        },
+        {
+          "word": "antelope",
+          "startSec": 476.32,
+          "endSec": 476.98,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 476.98,
+          "endSec": 477.38,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 477.38,
+          "endSec": 477.54,
+          "score": 0.98
+        },
+        {
+          "word": "horns.",
+          "startSec": 477.54,
+          "endSec": 478.08,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 479.59,
+      "end": 483.78,
+      "text": "People in the UAE take care of these animals to protect them.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 479.79,
+          "endSec": 480.07,
+          "score": 0.59
+        },
+        {
+          "word": "in",
+          "startSec": 480.07,
+          "endSec": 480.23,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "startSec": 480.23,
+          "endSec": 480.33,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 480.33,
+          "endSec": 480.55,
+          "score": 0.95
+        },
+        {
+          "word": "take",
+          "startSec": 480.55,
+          "endSec": 481.23,
+          "score": 0.97
+        },
+        {
+          "word": "care",
+          "startSec": 481.23,
+          "endSec": 481.59,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 481.59,
+          "endSec": 481.77,
+          "score": 1.0
+        },
+        {
+          "word": "these",
+          "startSec": 481.77,
+          "endSec": 481.95,
+          "score": 0.99
+        },
+        {
+          "word": "animals",
+          "startSec": 481.95,
+          "endSec": 482.41,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 482.41,
+          "endSec": 482.79,
+          "score": 0.99
+        },
+        {
+          "word": "protect",
+          "startSec": 482.79,
+          "endSec": 483.11,
+          "score": 1.0
+        },
+        {
+          "word": "them.",
+          "startSec": 483.11,
+          "endSec": 483.63,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 484.29,
+      "end": 486.92,
+      "text": "The UAE also has beautiful beaches.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 484.49,
+          "endSec": 484.61,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 484.61,
+          "endSec": 484.87,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 484.87,
+          "endSec": 485.67,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 485.67,
+          "endSec": 485.93,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 485.93,
+          "endSec": 486.29,
+          "score": 1.0
+        },
+        {
+          "word": "beaches.",
+          "startSec": 486.29,
+          "endSec": 486.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 487.55,
+      "end": 492.98,
+      "text": "Many tourists visit the beaches to swim, relax and do water sports.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 487.75,
+          "endSec": 487.95,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 487.95,
+          "endSec": 488.35,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 488.35,
+          "endSec": 488.89,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 488.89,
+          "endSec": 489.21,
+          "score": 1.0
+        },
+        {
+          "word": "beaches",
+          "startSec": 489.21,
+          "endSec": 489.53,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 489.53,
+          "endSec": 489.95,
+          "score": 1.0
+        },
+        {
+          "word": "swim,",
+          "startSec": 489.95,
+          "endSec": 490.33,
+          "score": 1.0
+        },
+        {
+          "word": "relax",
+          "startSec": 490.73,
+          "endSec": 491.21,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 491.21,
+          "endSec": 491.89,
+          "score": 0.41
+        },
+        {
+          "word": "do",
+          "startSec": 491.89,
+          "endSec": 492.09,
+          "score": 1.0
+        },
+        {
+          "word": "water",
+          "startSec": 492.09,
+          "endSec": 492.37,
+          "score": 0.95
+        },
+        {
+          "word": "sports.",
+          "startSec": 492.37,
+          "endSec": 492.83,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 493.81,
+      "end": 495.88,
+      "text": "The water is warm and clear.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 494.01,
+          "endSec": 494.09,
+          "score": 0.99
+        },
+        {
+          "word": "water",
+          "startSec": 494.09,
+          "endSec": 494.33,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 494.33,
+          "endSec": 494.69,
+          "score": 1.0
+        },
+        {
+          "word": "warm",
+          "startSec": 494.69,
+          "endSec": 495.11,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 495.11,
+          "endSec": 495.37,
+          "score": 1.0
+        },
+        {
+          "word": "clear.",
+          "startSec": 495.37,
+          "endSec": 495.73,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 496.67,
+      "end": 500.18,
+      "text": "People enjoy jet skiing, scuba diving and fishing.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 496.87,
+          "endSec": 496.91,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 496.91,
+          "endSec": 497.41,
+          "score": 1.0
+        },
+        {
+          "word": "jet",
+          "startSec": 497.41,
+          "endSec": 497.83,
+          "score": 0.96
+        },
+        {
+          "word": "skiing,",
+          "startSec": 497.83,
+          "endSec": 498.19,
+          "score": 0.99
+        },
+        {
+          "word": "scuba",
+          "startSec": 498.83,
+          "endSec": 498.97,
+          "score": 0.99
+        },
+        {
+          "word": "diving",
+          "startSec": 498.97,
+          "endSec": 499.29,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 499.29,
+          "endSec": 499.79,
+          "score": 0.59
+        },
+        {
+          "word": "fishing.",
+          "startSec": 499.79,
+          "endSec": 500.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "start": 501.32,
+      "end": 505.49,
+      "text": "Fujaira, one of the Emirates, has beautiful coral reefs.",
+      "words": [
+        {
+          "word": "Fujaira,",
+          "startSec": 501.52,
+          "endSec": 502.1,
+          "score": 0.69
+        },
+        {
+          "word": "one",
+          "startSec": 502.32,
+          "endSec": 502.56,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 502.56,
+          "endSec": 502.7,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 502.7,
+          "endSec": 502.86,
+          "score": 1.0
+        },
+        {
+          "word": "Emirates,",
+          "startSec": 502.86,
+          "endSec": 503.16,
+          "score": 0.89
+        },
+        {
+          "word": "has",
+          "startSec": 503.88,
+          "endSec": 504.0,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 504.0,
+          "endSec": 504.44,
+          "score": 1.0
+        },
+        {
+          "word": "coral",
+          "startSec": 504.44,
+          "endSec": 504.88,
+          "score": 1.0
+        },
+        {
+          "word": "reefs.",
+          "startSec": 504.88,
+          "endSec": 505.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "start": 505.88,
+      "end": 510.07,
+      "text": "Many people go there to see colorful fish and sea turtles.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 506.08,
+          "endSec": 506.44,
+          "score": 0.3
+        },
+        {
+          "word": "people",
+          "startSec": 506.44,
+          "endSec": 506.96,
+          "score": 0.98
+        },
+        {
+          "word": "go",
+          "startSec": 506.96,
+          "endSec": 507.2,
+          "score": 0.99
+        },
+        {
+          "word": "there",
+          "startSec": 507.2,
+          "endSec": 507.56,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 507.56,
+          "endSec": 507.78,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 507.78,
+          "endSec": 508.0,
+          "score": 1.0
+        },
+        {
+          "word": "colorful",
+          "startSec": 508.0,
+          "endSec": 508.46,
+          "score": 0.98
+        },
+        {
+          "word": "fish",
+          "startSec": 508.46,
+          "endSec": 509.04,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 509.04,
+          "endSec": 509.36,
+          "score": 0.99
+        },
+        {
+          "word": "sea",
+          "startSec": 509.36,
+          "endSec": 509.62,
+          "score": 0.99
+        },
+        {
+          "word": "turtles.",
+          "startSec": 509.62,
+          "endSec": 509.92,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "start": 510.82,
+      "end": 512.97,
+      "text": "There are also mountains in the UAE.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 511.02,
+          "endSec": 511.2,
+          "score": 0.94
+        },
+        {
+          "word": "are",
+          "startSec": 511.2,
+          "endSec": 511.32,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 511.32,
+          "endSec": 511.66,
+          "score": 0.99
+        },
+        {
+          "word": "mountains",
+          "startSec": 511.66,
+          "endSec": 512.1,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 512.1,
+          "endSec": 512.46,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 512.46,
+          "endSec": 512.58,
+          "score": 1.0
+        },
+        {
+          "word": "UAE.",
+          "startSec": 512.58,
+          "endSec": 512.82,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "start": 513.88,
+      "end": 518.01,
+      "text": "The Hajar Mountains are very popular for hiking and camping.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 514.08,
+          "endSec": 514.26,
+          "score": 0.98
+        },
+        {
+          "word": "Hajar",
+          "startSec": 514.26,
+          "endSec": 514.7,
+          "score": 0.65
+        },
+        {
+          "word": "Mountains",
+          "startSec": 514.7,
+          "endSec": 515.04,
+          "score": 0.72
+        },
+        {
+          "word": "are",
+          "startSec": 515.04,
+          "endSec": 515.5,
+          "score": 1.0
+        },
+        {
+          "word": "very",
+          "startSec": 515.5,
+          "endSec": 515.76,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 515.76,
+          "endSec": 516.52,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 516.52,
+          "endSec": 516.86,
+          "score": 1.0
+        },
+        {
+          "word": "hiking",
+          "startSec": 516.86,
+          "endSec": 517.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 517.14,
+          "endSec": 517.58,
+          "score": 0.99
+        },
+        {
+          "word": "camping.",
+          "startSec": 517.58,
+          "endSec": 517.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "start": 519.0,
+      "end": 522.99,
+      "text": "Many people go there to enjoy the fresh air and beautiful views.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 519.2,
+          "endSec": 519.2,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 519.2,
+          "endSec": 519.7,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 519.7,
+          "endSec": 519.96,
+          "score": 1.0
+        },
+        {
+          "word": "there",
+          "startSec": 519.96,
+          "endSec": 520.26,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 520.26,
+          "endSec": 520.48,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 520.48,
+          "endSec": 520.7,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 520.7,
+          "endSec": 521.04,
+          "score": 0.99
+        },
+        {
+          "word": "fresh",
+          "startSec": 521.04,
+          "endSec": 521.36,
+          "score": 1.0
+        },
+        {
+          "word": "air",
+          "startSec": 521.36,
+          "endSec": 521.7,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 521.7,
+          "endSec": 522.04,
+          "score": 0.98
+        },
+        {
+          "word": "beautiful",
+          "startSec": 522.04,
+          "endSec": 522.42,
+          "score": 1.0
+        },
+        {
+          "word": "views.",
+          "startSec": 522.42,
+          "endSec": 522.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "start": 524.88,
+      "end": 525.85,
+      "text": "Conclusion",
+      "words": [
+        {
+          "word": "Conclusion",
+          "startSec": 525.08,
+          "endSec": 525.7,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "start": 526.7,
+      "end": 531.27,
+      "text": "The United Arab Emirates is a modern and exciting country.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 526.9,
+          "endSec": 527.26,
+          "score": 0.48
+        },
+        {
+          "word": "United",
+          "startSec": 527.26,
+          "endSec": 527.66,
+          "score": 0.98
+        },
+        {
+          "word": "Arab",
+          "startSec": 527.66,
+          "endSec": 528.1,
+          "score": 1.0
+        },
+        {
+          "word": "Emirates",
+          "startSec": 528.1,
+          "endSec": 528.58,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 528.58,
+          "endSec": 529.08,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 529.08,
+          "endSec": 529.24,
+          "score": 0.99
+        },
+        {
+          "word": "modern",
+          "startSec": 529.24,
+          "endSec": 529.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 529.66,
+          "endSec": 530.02,
+          "score": 0.99
+        },
+        {
+          "word": "exciting",
+          "startSec": 530.02,
+          "endSec": 530.46,
+          "score": 1.0
+        },
+        {
+          "word": "country.",
+          "startSec": 530.46,
+          "endSec": 531.12,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "start": 531.6,
+      "end": 536.61,
+      "text": "It has amazing cities, delicious food and beautiful nature.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 531.8,
+          "endSec": 532.12,
+          "score": 0.58
+        },
+        {
+          "word": "has",
+          "startSec": 532.12,
+          "endSec": 532.36,
+          "score": 0.98
+        },
+        {
+          "word": "amazing",
+          "startSec": 532.36,
+          "endSec": 532.76,
+          "score": 1.0
+        },
+        {
+          "word": "cities,",
+          "startSec": 532.76,
+          "endSec": 533.5,
+          "score": 0.98
+        },
+        {
+          "word": "delicious",
+          "startSec": 533.5,
+          "endSec": 534.34,
+          "score": 1.0
+        },
+        {
+          "word": "food",
+          "startSec": 534.34,
+          "endSec": 534.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 534.92,
+          "endSec": 535.48,
+          "score": 0.43
+        },
+        {
+          "word": "beautiful",
+          "startSec": 535.48,
+          "endSec": 535.88,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 535.88,
+          "endSec": 536.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "start": 537.36,
+      "end": 543.75,
+      "text": "Many tourists visit the UAE to see its famous places and enjoy its culture.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 537.56,
+          "endSec": 537.86,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 537.86,
+          "endSec": 538.34,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 538.34,
+          "endSec": 538.98,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 538.98,
+          "endSec": 539.28,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 539.28,
+          "endSec": 539.54,
+          "score": 0.94
+        },
+        {
+          "word": "to",
+          "startSec": 539.54,
+          "endSec": 540.34,
+          "score": 0.98
+        },
+        {
+          "word": "see",
+          "startSec": 540.34,
+          "endSec": 540.56,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 540.56,
+          "endSec": 540.76,
+          "score": 0.95
+        },
+        {
+          "word": "famous",
+          "startSec": 540.76,
+          "endSec": 541.04,
+          "score": 0.99
+        },
+        {
+          "word": "places",
+          "startSec": 541.04,
+          "endSec": 541.82,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 541.82,
+          "endSec": 542.44,
+          "score": 0.94
+        },
+        {
+          "word": "enjoy",
+          "startSec": 542.44,
+          "endSec": 542.76,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "startSec": 542.76,
+          "endSec": 543.08,
+          "score": 0.98
+        },
+        {
+          "word": "culture.",
+          "startSec": 543.08,
+          "endSec": 543.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "start": 544.72,
+      "end": 549.21,
+      "text": "The UAE is a mix of old traditions and new technology.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 544.92,
+          "endSec": 545.06,
+          "score": 0.99
+        },
+        {
+          "word": "UAE",
+          "startSec": 545.06,
+          "endSec": 545.34,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 545.34,
+          "endSec": 546.2,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 546.2,
+          "endSec": 546.34,
+          "score": 0.99
+        },
+        {
+          "word": "mix",
+          "startSec": 546.34,
+          "endSec": 546.6,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 546.6,
+          "endSec": 546.82,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 546.82,
+          "endSec": 547.14,
+          "score": 0.98
+        },
+        {
+          "word": "traditions",
+          "startSec": 547.14,
+          "endSec": 547.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 547.66,
+          "endSec": 548.46,
+          "score": 0.98
+        },
+        {
+          "word": "new",
+          "startSec": 548.46,
+          "endSec": 548.68,
+          "score": 1.0
+        },
+        {
+          "word": "technology.",
+          "startSec": 548.68,
+          "endSec": 549.06,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "start": 550.14,
+      "end": 554.01,
+      "text": "It is a great place to visit, live and work.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 550.34,
+          "endSec": 550.54,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 550.54,
+          "endSec": 550.66,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 550.66,
+          "endSec": 550.8,
+          "score": 1.0
+        },
+        {
+          "word": "great",
+          "startSec": 550.8,
+          "endSec": 551.02,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 551.02,
+          "endSec": 551.38,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 551.38,
+          "endSec": 551.64,
+          "score": 1.0
+        },
+        {
+          "word": "visit,",
+          "startSec": 551.64,
+          "endSec": 551.96,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 552.38,
+          "endSec": 552.82,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 552.82,
+          "endSec": 553.58,
+          "score": 0.68
+        },
+        {
+          "word": "work.",
+          "startSec": 553.58,
+          "endSec": 553.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "start": 554.81,
+      "end": 557.64,
+      "text": "Would you like to visit the UAE one day?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 555.01,
+          "endSec": 555.19,
+          "score": 0.97
+        },
+        {
+          "word": "you",
+          "startSec": 555.19,
+          "endSec": 555.35,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 555.35,
+          "endSec": 555.59,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 555.59,
+          "endSec": 555.83,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 555.83,
+          "endSec": 556.13,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 556.13,
+          "endSec": 556.41,
+          "score": 1.0
+        },
+        {
+          "word": "UAE",
+          "startSec": 556.41,
+          "endSec": 556.63,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 556.63,
+          "endSec": 557.21,
+          "score": 0.94
+        },
+        {
+          "word": "day?",
+          "startSec": 557.21,
+          "endSec": 557.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "start": 560.91,
+      "end": 563.78,
+      "text": "I hope you learned something new today.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 561.11,
+          "endSec": 561.53,
+          "score": 0.6
+        },
+        {
+          "word": "hope",
+          "startSec": 561.53,
+          "endSec": 562.05,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "startSec": 562.05,
+          "endSec": 562.23,
+          "score": 1.0
+        },
+        {
+          "word": "learned",
+          "startSec": 562.23,
+          "endSec": 562.43,
+          "score": 0.85
+        },
+        {
+          "word": "something",
+          "startSec": 562.43,
+          "endSec": 562.79,
+          "score": 1.0
+        },
+        {
+          "word": "new",
+          "startSec": 562.79,
+          "endSec": 563.21,
+          "score": 1.0
+        },
+        {
+          "word": "today.",
+          "startSec": 563.21,
+          "endSec": 563.63,
           "score": 1.0
         }
       ]

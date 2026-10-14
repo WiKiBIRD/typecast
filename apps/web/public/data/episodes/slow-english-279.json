@@ -15,92 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.52,
-      "end": 7.23,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emilie, your host.",
-      "words": [
-        {
-          "word": "Hello,",
-          "startSec": 0.72,
-          "endSec": 1.34,
-          "score": 0.9
-        },
-        {
-          "word": "everyone.",
-          "startSec": 1.34,
-          "endSec": 1.84,
-          "score": 0.99
-        },
-        {
-          "word": "Welcome",
-          "startSec": 2.88,
-          "endSec": 2.88,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 2.88,
-          "endSec": 3.14,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 3.14,
-          "endSec": 3.3,
-          "score": 0.96
-        },
-        {
-          "word": "Slow",
-          "startSec": 3.3,
-          "endSec": 3.6,
-          "score": 0.87
-        },
-        {
-          "word": "English",
-          "startSec": 3.6,
-          "endSec": 3.98,
-          "score": 0.97
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 3.98,
-          "endSec": 4.56,
-          "score": 0.82
-        },
-        {
-          "word": "I",
-          "startSec": 5.4,
-          "endSec": 5.64,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 5.64,
-          "endSec": 5.88,
-          "score": 0.97
-        },
-        {
-          "word": "Emilie,",
-          "startSec": 5.88,
-          "endSec": 6.5,
-          "score": 0.66
-        },
-        {
-          "word": "your",
-          "startSec": 6.6,
-          "endSec": 6.66,
-          "score": 1.0
-        },
-        {
-          "word": "host.",
-          "startSec": 6.66,
-          "endSec": 7.08,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 7.78,
       "end": 15.79,
       "text": "Today, we are traveling to a small and beautiful city in Europe. It is called Kotor.",
@@ -204,7 +118,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 16.12,
       "end": 21.31,
       "text": "Kotor is in Montenegro, a small country on the Adriatic Sea.",
@@ -278,7 +192,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 22.05,
       "end": 27.3,
       "text": "This city is full of history, mountains and friendly people.",
@@ -346,7 +260,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 26.95,
       "end": 33.89,
       "text": "Let's explore Kotor together. Part two, where is Kotor?",
@@ -408,7 +322,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 33.96,
       "end": 40.45,
       "text": "Kotor is on the southwestern coast of Montenegro, at the Bay of Kotor.",
@@ -494,7 +408,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 41.2,
       "end": 45.19,
       "text": "The city is surrounded by mountains and the sea.",
@@ -556,7 +470,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 46.43,
       "end": 52.32,
       "text": "It is calm, peaceful and perfect for enjoying nature and history.",
@@ -630,7 +544,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 54.01,
       "end": 57.02,
       "text": "Part three, history of Kotor.",
@@ -668,7 +582,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 56.92,
       "end": 62.23,
       "text": "Kotor has a long history dating back to Roman times.",
@@ -732,6 +646,2816 @@
           "startSec": 61.52,
           "endSec": 62.08,
           "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 62.98,
+      "end": 67.05,
+      "text": "The city has old walls, fortresses and churches.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 63.18,
+          "endSec": 63.28,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 63.28,
+          "endSec": 63.62,
+          "score": 0.98
+        },
+        {
+          "word": "has",
+          "startSec": 63.62,
+          "endSec": 64.06,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 64.06,
+          "endSec": 64.44,
+          "score": 0.97
+        },
+        {
+          "word": "walls,",
+          "startSec": 64.44,
+          "endSec": 64.96,
+          "score": 1.0
+        },
+        {
+          "word": "fortresses",
+          "startSec": 65.44,
+          "endSec": 66.08,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 66.08,
+          "endSec": 66.6,
+          "score": 0.41
+        },
+        {
+          "word": "churches.",
+          "startSec": 66.6,
+          "endSec": 66.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 67.84,
+      "end": 75.81,
+      "text": "Walking in Kotor is like walking through time, with narrow streets and historic buildings everywhere.",
+      "words": [
+        {
+          "word": "Walking",
+          "startSec": 68.04,
+          "endSec": 68.4,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 68.4,
+          "endSec": 68.78,
+          "score": 1.0
+        },
+        {
+          "word": "Kotor",
+          "startSec": 68.78,
+          "endSec": 69.36,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 69.36,
+          "endSec": 69.64,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 69.64,
+          "endSec": 69.92,
+          "score": 0.99
+        },
+        {
+          "word": "walking",
+          "startSec": 69.92,
+          "endSec": 70.32,
+          "score": 1.0
+        },
+        {
+          "word": "through",
+          "startSec": 70.32,
+          "endSec": 70.82,
+          "score": 0.99
+        },
+        {
+          "word": "time,",
+          "startSec": 70.82,
+          "endSec": 71.36,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 71.88,
+          "endSec": 72.24,
+          "score": 1.0
+        },
+        {
+          "word": "narrow",
+          "startSec": 72.24,
+          "endSec": 72.58,
+          "score": 0.99
+        },
+        {
+          "word": "streets",
+          "startSec": 72.58,
+          "endSec": 73.32,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 73.32,
+          "endSec": 73.8,
+          "score": 0.97
+        },
+        {
+          "word": "historic",
+          "startSec": 73.8,
+          "endSec": 74.18,
+          "score": 1.0
+        },
+        {
+          "word": "buildings",
+          "startSec": 74.18,
+          "endSec": 75.04,
+          "score": 1.0
+        },
+        {
+          "word": "everywhere.",
+          "startSec": 75.04,
+          "endSec": 75.66,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 77.26,
+      "end": 79.53,
+      "text": "Part four, main attractions.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 77.46,
+          "endSec": 77.46,
+          "score": 0.69
+        },
+        {
+          "word": "four,",
+          "startSec": 77.46,
+          "endSec": 77.98,
+          "score": 0.34
+        },
+        {
+          "word": "main",
+          "startSec": 78.9,
+          "endSec": 78.9,
+          "score": 0.54
+        },
+        {
+          "word": "attractions.",
+          "startSec": 78.9,
+          "endSec": 79.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 79.9,
+      "end": 88.95,
+      "text": "The main attractions include Kotor Old Town, St. Trifon Cathedral and the city walls.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 80.1,
+          "endSec": 80.56,
+          "score": 0.3
+        },
+        {
+          "word": "main",
+          "startSec": 81.04,
+          "endSec": 81.92,
+          "score": 0.98
+        },
+        {
+          "word": "attractions",
+          "startSec": 81.92,
+          "endSec": 82.58,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 82.58,
+          "endSec": 83.28,
+          "score": 0.99
+        },
+        {
+          "word": "Kotor",
+          "startSec": 83.28,
+          "endSec": 83.96,
+          "score": 0.38
+        },
+        {
+          "word": "Old",
+          "startSec": 83.96,
+          "endSec": 84.3,
+          "score": 0.94
+        },
+        {
+          "word": "Town,",
+          "startSec": 84.3,
+          "endSec": 84.7,
+          "score": 0.9
+        },
+        {
+          "word": "St.",
+          "startSec": 85.58,
+          "endSec": 85.9,
+          "score": 0.77
+        },
+        {
+          "word": "Trifon",
+          "startSec": 86.24,
+          "endSec": 86.66,
+          "score": 0.76
+        },
+        {
+          "word": "Cathedral",
+          "startSec": 86.66,
+          "endSec": 87.02,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 87.02,
+          "endSec": 87.94,
+          "score": 0.37
+        },
+        {
+          "word": "the",
+          "startSec": 87.94,
+          "endSec": 88.06,
+          "score": 0.75
+        },
+        {
+          "word": "city",
+          "startSec": 88.06,
+          "endSec": 88.38,
+          "score": 0.21
+        },
+        {
+          "word": "walls.",
+          "startSec": 88.38,
+          "endSec": 88.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 89.8,
+      "end": 95.37,
+      "text": "You can also climb to the Kotor Fortress for a panoramic view of the bay.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 90.0,
+          "endSec": 90.24,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 90.24,
+          "endSec": 90.44,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 90.44,
+          "endSec": 90.66,
+          "score": 1.0
+        },
+        {
+          "word": "climb",
+          "startSec": 90.66,
+          "endSec": 91.28,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 91.28,
+          "endSec": 91.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 91.52,
+          "endSec": 91.68,
+          "score": 0.99
+        },
+        {
+          "word": "Kotor",
+          "startSec": 91.68,
+          "endSec": 92.2,
+          "score": 0.96
+        },
+        {
+          "word": "Fortress",
+          "startSec": 92.2,
+          "endSec": 92.68,
+          "score": 0.69
+        },
+        {
+          "word": "for",
+          "startSec": 92.68,
+          "endSec": 93.14,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 93.14,
+          "endSec": 93.28,
+          "score": 1.0
+        },
+        {
+          "word": "panoramic",
+          "startSec": 93.28,
+          "endSec": 94.16,
+          "score": 0.99
+        },
+        {
+          "word": "view",
+          "startSec": 94.16,
+          "endSec": 94.54,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 94.54,
+          "endSec": 94.76,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 94.76,
+          "endSec": 94.94,
+          "score": 1.0
+        },
+        {
+          "word": "bay.",
+          "startSec": 94.94,
+          "endSec": 95.22,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 96.16,
+      "end": 101.67,
+      "text": "The city combines history, architecture and natural beauty beautifully.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 96.36,
+          "endSec": 96.48,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 96.48,
+          "endSec": 96.82,
+          "score": 0.97
+        },
+        {
+          "word": "combines",
+          "startSec": 96.82,
+          "endSec": 97.36,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 97.36,
+          "endSec": 97.92,
+          "score": 0.98
+        },
+        {
+          "word": "architecture",
+          "startSec": 98.62,
+          "endSec": 99.08,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 99.08,
+          "endSec": 99.78,
+          "score": 0.64
+        },
+        {
+          "word": "natural",
+          "startSec": 99.78,
+          "endSec": 100.24,
+          "score": 1.0
+        },
+        {
+          "word": "beauty",
+          "startSec": 100.24,
+          "endSec": 100.9,
+          "score": 1.0
+        },
+        {
+          "word": "beautifully.",
+          "startSec": 100.9,
+          "endSec": 101.52,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 103.06,
+      "end": 105.85,
+      "text": "Part five, the city of Kotor.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 103.26,
+          "endSec": 103.26,
+          "score": 0.93
+        },
+        {
+          "word": "five,",
+          "startSec": 103.26,
+          "endSec": 103.9,
+          "score": 0.15
+        },
+        {
+          "word": "the",
+          "startSec": 104.46,
+          "endSec": 104.48,
+          "score": 0.85
+        },
+        {
+          "word": "city",
+          "startSec": 104.48,
+          "endSec": 104.82,
+          "score": 0.6
+        },
+        {
+          "word": "of",
+          "startSec": 104.82,
+          "endSec": 105.1,
+          "score": 1.0
+        },
+        {
+          "word": "Kotor.",
+          "startSec": 105.1,
+          "endSec": 105.7,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 106.5,
+      "end": 109.05,
+      "text": "Kotor is small but lively.",
+      "words": [
+        {
+          "word": "Kotor",
+          "startSec": 106.7,
+          "endSec": 107.22,
+          "score": 0.24
+        },
+        {
+          "word": "is",
+          "startSec": 107.22,
+          "endSec": 107.48,
+          "score": 0.88
+        },
+        {
+          "word": "small",
+          "startSec": 107.48,
+          "endSec": 107.94,
+          "score": 0.97
+        },
+        {
+          "word": "but",
+          "startSec": 107.94,
+          "endSec": 108.48,
+          "score": 0.82
+        },
+        {
+          "word": "lively.",
+          "startSec": 108.48,
+          "endSec": 108.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 109.82,
+      "end": 113.49,
+      "text": "There are cafes, shops and local restaurants.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 110.02,
+          "endSec": 110.1,
+          "score": 0.93
+        },
+        {
+          "word": "are",
+          "startSec": 110.1,
+          "endSec": 110.26,
+          "score": 1.0
+        },
+        {
+          "word": "cafes,",
+          "startSec": 110.26,
+          "endSec": 110.6,
+          "score": 0.91
+        },
+        {
+          "word": "shops",
+          "startSec": 111.04,
+          "endSec": 111.76,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 111.76,
+          "endSec": 112.52,
+          "score": 0.5
+        },
+        {
+          "word": "local",
+          "startSec": 112.52,
+          "endSec": 112.88,
+          "score": 1.0
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 112.88,
+          "endSec": 113.34,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 114.81,
+      "end": 120.64,
+      "text": "People walk in the streets, ride bicycles and enjoy the calm life.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 115.01,
+          "endSec": 115.45,
+          "score": 0.99
+        },
+        {
+          "word": "walk",
+          "startSec": 115.45,
+          "endSec": 115.85,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 115.85,
+          "endSec": 116.11,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 116.11,
+          "endSec": 116.25,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 116.25,
+          "endSec": 116.71,
+          "score": 0.99
+        },
+        {
+          "word": "ride",
+          "startSec": 116.81,
+          "endSec": 117.85,
+          "score": 1.0
+        },
+        {
+          "word": "bicycles",
+          "startSec": 117.85,
+          "endSec": 118.47,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 118.47,
+          "endSec": 119.09,
+          "score": 0.89
+        },
+        {
+          "word": "enjoy",
+          "startSec": 119.09,
+          "endSec": 119.47,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 119.47,
+          "endSec": 119.75,
+          "score": 0.99
+        },
+        {
+          "word": "calm",
+          "startSec": 119.75,
+          "endSec": 120.01,
+          "score": 0.99
+        },
+        {
+          "word": "life.",
+          "startSec": 120.01,
+          "endSec": 120.49,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 121.31,
+      "end": 124.36,
+      "text": "The city is safe, welcoming and colorful.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 121.51,
+          "endSec": 121.61,
+          "score": 0.98
+        },
+        {
+          "word": "city",
+          "startSec": 121.61,
+          "endSec": 121.89,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 121.89,
+          "endSec": 122.21,
+          "score": 1.0
+        },
+        {
+          "word": "safe,",
+          "startSec": 122.21,
+          "endSec": 122.69,
+          "score": 1.0
+        },
+        {
+          "word": "welcoming",
+          "startSec": 122.69,
+          "endSec": 123.51,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 123.51,
+          "endSec": 123.89,
+          "score": 0.93
+        },
+        {
+          "word": "colorful.",
+          "startSec": 123.89,
+          "endSec": 124.21,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 125.72,
+      "end": 128.51,
+      "text": "Part six, food and Kotor.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 125.92,
+          "endSec": 125.96,
+          "score": 0.74
+        },
+        {
+          "word": "six,",
+          "startSec": 125.96,
+          "endSec": 126.58,
+          "score": 0.32
+        },
+        {
+          "word": "food",
+          "startSec": 127.44,
+          "endSec": 127.46,
+          "score": 0.83
+        },
+        {
+          "word": "and",
+          "startSec": 127.46,
+          "endSec": 127.7,
+          "score": 0.94
+        },
+        {
+          "word": "Kotor.",
+          "startSec": 127.7,
+          "endSec": 128.36,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 129.65,
+      "end": 132.96,
+      "text": "Food and Kotor is fresh and delicious.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 129.85,
+          "endSec": 130.37,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 130.37,
+          "endSec": 130.65,
+          "score": 0.98
+        },
+        {
+          "word": "Kotor",
+          "startSec": 130.65,
+          "endSec": 131.29,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 131.29,
+          "endSec": 131.61,
+          "score": 0.99
+        },
+        {
+          "word": "fresh",
+          "startSec": 131.61,
+          "endSec": 131.99,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 131.99,
+          "endSec": 132.39,
+          "score": 1.0
+        },
+        {
+          "word": "delicious.",
+          "startSec": 132.39,
+          "endSec": 132.81,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 133.48,
+      "end": 137.92,
+      "text": "People eat fish, seafood, bread and vegetables.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 133.68,
+          "endSec": 134.13,
+          "score": 0.08
+        },
+        {
+          "word": "eat",
+          "startSec": 134.13,
+          "endSec": 134.63,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 134.63,
+          "endSec": 135.11,
+          "score": 0.99
+        },
+        {
+          "word": "seafood,",
+          "startSec": 135.61,
+          "endSec": 136.01,
+          "score": 0.98
+        },
+        {
+          "word": "bread",
+          "startSec": 136.73,
+          "endSec": 136.95,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 136.95,
+          "endSec": 137.29,
+          "score": 0.51
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 137.29,
+          "endSec": 137.77,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 138.99,
+      "end": 143.66,
+      "text": "A popular dish is grilled fish with olive oil and herbs.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 139.19,
+          "endSec": 139.35,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 139.35,
+          "endSec": 139.81,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 139.81,
+          "endSec": 140.39,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 140.39,
+          "endSec": 140.65,
+          "score": 0.99
+        },
+        {
+          "word": "grilled",
+          "startSec": 140.65,
+          "endSec": 141.01,
+          "score": 1.0
+        },
+        {
+          "word": "fish",
+          "startSec": 141.01,
+          "endSec": 141.55,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 141.55,
+          "endSec": 141.91,
+          "score": 0.99
+        },
+        {
+          "word": "olive",
+          "startSec": 141.91,
+          "endSec": 142.31,
+          "score": 1.0
+        },
+        {
+          "word": "oil",
+          "startSec": 142.31,
+          "endSec": 142.85,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 142.85,
+          "endSec": 143.11,
+          "score": 0.99
+        },
+        {
+          "word": "herbs.",
+          "startSec": 143.11,
+          "endSec": 143.51,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 144.25,
+      "end": 148.8,
+      "text": "Local desserts and fresh fruits are also very popular.",
+      "words": [
+        {
+          "word": "Local",
+          "startSec": 144.45,
+          "endSec": 145.07,
+          "score": 0.99
+        },
+        {
+          "word": "desserts",
+          "startSec": 145.07,
+          "endSec": 145.55,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 145.55,
+          "endSec": 146.05,
+          "score": 0.98
+        },
+        {
+          "word": "fresh",
+          "startSec": 146.05,
+          "endSec": 146.33,
+          "score": 1.0
+        },
+        {
+          "word": "fruits",
+          "startSec": 146.33,
+          "endSec": 146.83,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 146.83,
+          "endSec": 147.17,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 147.17,
+          "endSec": 147.57,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 147.57,
+          "endSec": 148.01,
+          "score": 0.98
+        },
+        {
+          "word": "popular.",
+          "startSec": 148.01,
+          "endSec": 148.65,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 149.51,
+      "end": 152.92,
+      "text": "Part seven, the people of Kotor.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 149.71,
+          "endSec": 149.85,
+          "score": 0.66
+        },
+        {
+          "word": "seven,",
+          "startSec": 149.85,
+          "endSec": 150.57,
+          "score": 0.19
+        },
+        {
+          "word": "the",
+          "startSec": 151.43,
+          "endSec": 151.45,
+          "score": 0.83
+        },
+        {
+          "word": "people",
+          "startSec": 151.45,
+          "endSec": 151.85,
+          "score": 0.84
+        },
+        {
+          "word": "of",
+          "startSec": 151.85,
+          "endSec": 152.17,
+          "score": 1.0
+        },
+        {
+          "word": "Kotor.",
+          "startSec": 152.17,
+          "endSec": 152.77,
+          "score": 0.28
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 153.15,
+      "end": 156.5,
+      "text": "People in Kotor are friendly and polite.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 153.35,
+          "endSec": 153.75,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 153.75,
+          "endSec": 154.19,
+          "score": 0.99
+        },
+        {
+          "word": "Kotor",
+          "startSec": 154.19,
+          "endSec": 154.85,
+          "score": 0.98
+        },
+        {
+          "word": "are",
+          "startSec": 154.85,
+          "endSec": 155.15,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 155.15,
+          "endSec": 155.49,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 155.49,
+          "endSec": 155.91,
+          "score": 0.91
+        },
+        {
+          "word": "polite.",
+          "startSec": 155.91,
+          "endSec": 156.35,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 156.83,
+      "end": 162.14,
+      "text": "They speak Montenegrin and many speak English for tourists.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 157.03,
+          "endSec": 157.53,
+          "score": 0.34
+        },
+        {
+          "word": "speak",
+          "startSec": 157.53,
+          "endSec": 157.89,
+          "score": 0.99
+        },
+        {
+          "word": "Montenegrin",
+          "startSec": 157.89,
+          "endSec": 159.19,
+          "score": 0.71
+        },
+        {
+          "word": "and",
+          "startSec": 159.19,
+          "endSec": 159.85,
+          "score": 0.69
+        },
+        {
+          "word": "many",
+          "startSec": 159.85,
+          "endSec": 160.13,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 160.13,
+          "endSec": 160.67,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 160.67,
+          "endSec": 161.37,
+          "score": 0.99
+        },
+        {
+          "word": "for",
+          "startSec": 161.37,
+          "endSec": 161.73,
+          "score": 0.99
+        },
+        {
+          "word": "tourists.",
+          "startSec": 161.73,
+          "endSec": 161.99,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 163.19,
+      "end": 169.34,
+      "text": "Life is calm, family is important and traditions are respected.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 163.39,
+          "endSec": 163.83,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 163.83,
+          "endSec": 164.15,
+          "score": 1.0
+        },
+        {
+          "word": "calm,",
+          "startSec": 164.15,
+          "endSec": 164.59,
+          "score": 0.99
+        },
+        {
+          "word": "family",
+          "startSec": 165.31,
+          "endSec": 165.77,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 165.77,
+          "endSec": 166.31,
+          "score": 1.0
+        },
+        {
+          "word": "important",
+          "startSec": 166.31,
+          "endSec": 166.79,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 166.79,
+          "endSec": 167.69,
+          "score": 0.52
+        },
+        {
+          "word": "traditions",
+          "startSec": 167.69,
+          "endSec": 168.13,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 168.13,
+          "endSec": 168.73,
+          "score": 1.0
+        },
+        {
+          "word": "respected.",
+          "startSec": 168.73,
+          "endSec": 169.19,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 170.35,
+      "end": 176.18,
+      "text": "People enjoy festivals, music and spending time with family and friends.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 170.55,
+          "endSec": 170.73,
+          "score": 0.98
+        },
+        {
+          "word": "enjoy",
+          "startSec": 170.73,
+          "endSec": 171.31,
+          "score": 1.0
+        },
+        {
+          "word": "festivals,",
+          "startSec": 171.31,
+          "endSec": 171.87,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 172.39,
+          "endSec": 173.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 173.39,
+          "endSec": 173.75,
+          "score": 0.82
+        },
+        {
+          "word": "spending",
+          "startSec": 173.75,
+          "endSec": 174.17,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 174.17,
+          "endSec": 174.63,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 174.63,
+          "endSec": 174.89,
+          "score": 1.0
+        },
+        {
+          "word": "family",
+          "startSec": 174.89,
+          "endSec": 175.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 175.39,
+          "endSec": 175.67,
+          "score": 1.0
+        },
+        {
+          "word": "friends.",
+          "startSec": 175.67,
+          "endSec": 176.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 176.79,
+      "end": 179.52,
+      "text": "Part eight, culture and festivals.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 176.99,
+          "endSec": 176.99,
+          "score": 0.91
+        },
+        {
+          "word": "eight,",
+          "startSec": 176.99,
+          "endSec": 177.49,
+          "score": 0.47
+        },
+        {
+          "word": "culture",
+          "startSec": 178.01,
+          "endSec": 178.37,
+          "score": 0.73
+        },
+        {
+          "word": "and",
+          "startSec": 178.37,
+          "endSec": 178.85,
+          "score": 0.98
+        },
+        {
+          "word": "festivals.",
+          "startSec": 178.85,
+          "endSec": 179.37,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 180.58,
+      "end": 184.33,
+      "text": "Kotor has many cultural events and festivals.",
+      "words": [
+        {
+          "word": "Kotor",
+          "startSec": 180.78,
+          "endSec": 181.54,
+          "score": 0.31
+        },
+        {
+          "word": "has",
+          "startSec": 181.54,
+          "endSec": 181.84,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 181.84,
+          "endSec": 182.2,
+          "score": 1.0
+        },
+        {
+          "word": "cultural",
+          "startSec": 182.2,
+          "endSec": 182.7,
+          "score": 1.0
+        },
+        {
+          "word": "events",
+          "startSec": 182.7,
+          "endSec": 183.42,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 183.42,
+          "endSec": 183.76,
+          "score": 0.99
+        },
+        {
+          "word": "festivals.",
+          "startSec": 183.76,
+          "endSec": 184.18,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 184.9,
+      "end": 189.99,
+      "text": "People celebrate music, dance and traditional holidays.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 185.1,
+          "endSec": 185.66,
+          "score": 0.02
+        },
+        {
+          "word": "celebrate",
+          "startSec": 185.66,
+          "endSec": 186.22,
+          "score": 0.95
+        },
+        {
+          "word": "music,",
+          "startSec": 186.22,
+          "endSec": 186.88,
+          "score": 0.99
+        },
+        {
+          "word": "dance",
+          "startSec": 187.06,
+          "endSec": 187.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 187.96,
+          "endSec": 188.54,
+          "score": 0.36
+        },
+        {
+          "word": "traditional",
+          "startSec": 188.54,
+          "endSec": 188.84,
+          "score": 0.99
+        },
+        {
+          "word": "holidays.",
+          "startSec": 188.84,
+          "endSec": 189.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 190.9,
+      "end": 196.61,
+      "text": "Classical music, folk dances and street performances are common.",
+      "words": [
+        {
+          "word": "Classical",
+          "startSec": 191.1,
+          "endSec": 191.38,
+          "score": 0.91
+        },
+        {
+          "word": "music,",
+          "startSec": 191.38,
+          "endSec": 192.12,
+          "score": 1.0
+        },
+        {
+          "word": "folk",
+          "startSec": 192.72,
+          "endSec": 192.9,
+          "score": 1.0
+        },
+        {
+          "word": "dances",
+          "startSec": 192.9,
+          "endSec": 193.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 193.36,
+          "endSec": 194.24,
+          "score": 0.73
+        },
+        {
+          "word": "street",
+          "startSec": 194.24,
+          "endSec": 194.6,
+          "score": 1.0
+        },
+        {
+          "word": "performances",
+          "startSec": 194.6,
+          "endSec": 195.38,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 195.38,
+          "endSec": 195.98,
+          "score": 1.0
+        },
+        {
+          "word": "common.",
+          "startSec": 195.98,
+          "endSec": 196.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 197.16,
+      "end": 202.05,
+      "text": "Visitors can enjoy and sometimes join the local celebrations.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 197.36,
+          "endSec": 197.76,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 197.76,
+          "endSec": 198.28,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 198.28,
+          "endSec": 198.72,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 198.72,
+          "endSec": 199.16,
+          "score": 0.96
+        },
+        {
+          "word": "sometimes",
+          "startSec": 199.16,
+          "endSec": 199.8,
+          "score": 0.99
+        },
+        {
+          "word": "join",
+          "startSec": 199.8,
+          "endSec": 200.42,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 200.42,
+          "endSec": 200.84,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 200.84,
+          "endSec": 201.08,
+          "score": 1.0
+        },
+        {
+          "word": "celebrations.",
+          "startSec": 201.08,
+          "endSec": 201.9,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 203.48,
+      "end": 206.83,
+      "text": "Part nine, nature around Kotor.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 203.68,
+          "endSec": 203.84,
+          "score": 0.48
+        },
+        {
+          "word": "nine,",
+          "startSec": 203.84,
+          "endSec": 204.36,
+          "score": 0.42
+        },
+        {
+          "word": "nature",
+          "startSec": 204.86,
+          "endSec": 205.5,
+          "score": 0.84
+        },
+        {
+          "word": "around",
+          "startSec": 205.5,
+          "endSec": 205.98,
+          "score": 0.99
+        },
+        {
+          "word": "Kotor.",
+          "startSec": 205.98,
+          "endSec": 206.68,
+          "score": 0.37
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 207.28,
+      "end": 211.73,
+      "text": "Kotor is surrounded by the Adriatic Sea and mountains.",
+      "words": [
+        {
+          "word": "Kotor",
+          "startSec": 207.48,
+          "endSec": 208.4,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 208.4,
+          "endSec": 208.64,
+          "score": 0.99
+        },
+        {
+          "word": "surrounded",
+          "startSec": 208.64,
+          "endSec": 209.06,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 209.06,
+          "endSec": 209.64,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 209.64,
+          "endSec": 209.84,
+          "score": 1.0
+        },
+        {
+          "word": "Adriatic",
+          "startSec": 209.84,
+          "endSec": 210.68,
+          "score": 0.96
+        },
+        {
+          "word": "Sea",
+          "startSec": 210.68,
+          "endSec": 211.02,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 211.02,
+          "endSec": 211.3,
+          "score": 0.95
+        },
+        {
+          "word": "mountains.",
+          "startSec": 211.3,
+          "endSec": 211.58,
+          "score": 0.61
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 212.2,
+      "end": 216.37,
+      "text": "You can hike, swim or explore the bay by boat.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 212.4,
+          "endSec": 212.84,
+          "score": 0.28
+        },
+        {
+          "word": "can",
+          "startSec": 212.84,
+          "endSec": 213.06,
+          "score": 0.99
+        },
+        {
+          "word": "hike,",
+          "startSec": 213.06,
+          "endSec": 213.42,
+          "score": 1.0
+        },
+        {
+          "word": "swim",
+          "startSec": 213.54,
+          "endSec": 214.12,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 214.12,
+          "endSec": 214.56,
+          "score": 0.32
+        },
+        {
+          "word": "explore",
+          "startSec": 214.56,
+          "endSec": 215.08,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 215.08,
+          "endSec": 215.36,
+          "score": 1.0
+        },
+        {
+          "word": "bay",
+          "startSec": 215.36,
+          "endSec": 215.58,
+          "score": 0.58
+        },
+        {
+          "word": "by",
+          "startSec": 215.58,
+          "endSec": 215.86,
+          "score": 0.99
+        },
+        {
+          "word": "boat.",
+          "startSec": 215.86,
+          "endSec": 216.22,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 217.11,
+      "end": 221.88,
+      "text": "The views are breathtaking with clear water and green hills.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 217.31,
+          "endSec": 217.45,
+          "score": 0.99
+        },
+        {
+          "word": "views",
+          "startSec": 217.45,
+          "endSec": 217.69,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 217.69,
+          "endSec": 218.01,
+          "score": 0.99
+        },
+        {
+          "word": "breathtaking",
+          "startSec": 218.01,
+          "endSec": 218.63,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 218.63,
+          "endSec": 219.47,
+          "score": 0.69
+        },
+        {
+          "word": "clear",
+          "startSec": 219.47,
+          "endSec": 219.81,
+          "score": 0.97
+        },
+        {
+          "word": "water",
+          "startSec": 219.81,
+          "endSec": 220.39,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 220.39,
+          "endSec": 220.87,
+          "score": 0.99
+        },
+        {
+          "word": "green",
+          "startSec": 220.87,
+          "endSec": 221.15,
+          "score": 0.98
+        },
+        {
+          "word": "hills.",
+          "startSec": 221.15,
+          "endSec": 221.73,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 223.57,
+      "end": 230.12,
+      "text": "It is perfect for photography, relaxing walks and enjoying nature.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 223.77,
+          "endSec": 223.91,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 223.91,
+          "endSec": 224.07,
+          "score": 0.99
+        },
+        {
+          "word": "perfect",
+          "startSec": 224.07,
+          "endSec": 224.63,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 224.63,
+          "endSec": 225.03,
+          "score": 1.0
+        },
+        {
+          "word": "photography,",
+          "startSec": 225.03,
+          "endSec": 225.55,
+          "score": 1.0
+        },
+        {
+          "word": "relaxing",
+          "startSec": 226.47,
+          "endSec": 227.61,
+          "score": 1.0
+        },
+        {
+          "word": "walks",
+          "startSec": 227.61,
+          "endSec": 227.97,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 227.97,
+          "endSec": 228.69,
+          "score": 0.66
+        },
+        {
+          "word": "enjoying",
+          "startSec": 228.69,
+          "endSec": 229.09,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 229.09,
+          "endSec": 229.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 231.04,
+      "end": 233.81,
+      "text": "Part ten, travel and tourism.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 231.24,
+          "endSec": 231.44,
+          "score": 0.89
+        },
+        {
+          "word": "ten,",
+          "startSec": 231.44,
+          "endSec": 232.0,
+          "score": 0.03
+        },
+        {
+          "word": "travel",
+          "startSec": 233.06,
+          "endSec": 233.06,
+          "score": 0.69
+        },
+        {
+          "word": "and",
+          "startSec": 233.06,
+          "endSec": 233.34,
+          "score": 0.87
+        },
+        {
+          "word": "tourism.",
+          "startSec": 233.34,
+          "endSec": 233.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 235.54,
+      "end": 242.23,
+      "text": "Kotor is reachable by plane, bus or car from Pagorata or Dubrovnik.",
+      "words": [
+        {
+          "word": "Kotor",
+          "startSec": 235.74,
+          "endSec": 236.34,
+          "score": 0.25
+        },
+        {
+          "word": "is",
+          "startSec": 236.34,
+          "endSec": 236.62,
+          "score": 0.98
+        },
+        {
+          "word": "reachable",
+          "startSec": 236.62,
+          "endSec": 237.18,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 237.18,
+          "endSec": 237.46,
+          "score": 1.0
+        },
+        {
+          "word": "plane,",
+          "startSec": 237.46,
+          "endSec": 237.84,
+          "score": 0.86
+        },
+        {
+          "word": "bus",
+          "startSec": 238.42,
+          "endSec": 238.62,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 238.62,
+          "endSec": 239.16,
+          "score": 0.62
+        },
+        {
+          "word": "car",
+          "startSec": 239.16,
+          "endSec": 239.48,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 239.48,
+          "endSec": 239.9,
+          "score": 0.98
+        },
+        {
+          "word": "Pagorata",
+          "startSec": 239.9,
+          "endSec": 240.78,
+          "score": 0.33
+        },
+        {
+          "word": "or",
+          "startSec": 240.78,
+          "endSec": 241.18,
+          "score": 0.97
+        },
+        {
+          "word": "Dubrovnik.",
+          "startSec": 241.18,
+          "endSec": 242.08,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 242.45,
+      "end": 248.58,
+      "text": "Tourists come to see history, nature and peaceful surroundings.",
+      "words": [
+        {
+          "word": "Tourists",
+          "startSec": 242.65,
+          "endSec": 243.99,
+          "score": 0.75
+        },
+        {
+          "word": "come",
+          "startSec": 243.99,
+          "endSec": 244.25,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 244.25,
+          "endSec": 244.49,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 244.49,
+          "endSec": 244.73,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 244.73,
+          "endSec": 245.27,
+          "score": 0.99
+        },
+        {
+          "word": "nature",
+          "startSec": 245.97,
+          "endSec": 246.47,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 246.47,
+          "endSec": 247.03,
+          "score": 0.48
+        },
+        {
+          "word": "peaceful",
+          "startSec": 247.03,
+          "endSec": 247.41,
+          "score": 0.99
+        },
+        {
+          "word": "surroundings.",
+          "startSec": 247.41,
+          "endSec": 248.43,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 249.25,
+      "end": 253.82,
+      "text": "Tourism helps local people earn money and preserve traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "startSec": 249.45,
+          "endSec": 249.73,
+          "score": 0.75
+        },
+        {
+          "word": "helps",
+          "startSec": 249.73,
+          "endSec": 250.27,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 250.27,
+          "endSec": 250.77,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 250.77,
+          "endSec": 251.37,
+          "score": 1.0
+        },
+        {
+          "word": "earn",
+          "startSec": 251.37,
+          "endSec": 251.81,
+          "score": 1.0
+        },
+        {
+          "word": "money",
+          "startSec": 251.81,
+          "endSec": 252.35,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 252.35,
+          "endSec": 252.61,
+          "score": 0.99
+        },
+        {
+          "word": "preserve",
+          "startSec": 252.61,
+          "endSec": 252.91,
+          "score": 0.99
+        },
+        {
+          "word": "traditions.",
+          "startSec": 252.91,
+          "endSec": 253.67,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 255.62,
+      "end": 258.81,
+      "text": "Part eleven, daily life in Kotor.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 255.82,
+          "endSec": 255.84,
+          "score": 0.95
+        },
+        {
+          "word": "eleven,",
+          "startSec": 255.84,
+          "endSec": 256.26,
+          "score": 0.02
+        },
+        {
+          "word": "daily",
+          "startSec": 257.16,
+          "endSec": 257.3,
+          "score": 0.82
+        },
+        {
+          "word": "life",
+          "startSec": 257.3,
+          "endSec": 257.8,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 257.8,
+          "endSec": 258.06,
+          "score": 0.88
+        },
+        {
+          "word": "Kotor.",
+          "startSec": 258.06,
+          "endSec": 258.66,
+          "score": 0.27
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 259.33,
+      "end": 262.58,
+      "text": "Life in Kotor is common simple.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 259.53,
+          "endSec": 260.21,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 260.21,
+          "endSec": 260.53,
+          "score": 0.99
+        },
+        {
+          "word": "Kotor",
+          "startSec": 260.53,
+          "endSec": 261.13,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 261.13,
+          "endSec": 261.35,
+          "score": 0.99
+        },
+        {
+          "word": "common",
+          "startSec": 261.35,
+          "endSec": 261.69,
+          "score": 0.97
+        },
+        {
+          "word": "simple.",
+          "startSec": 261.69,
+          "endSec": 262.43,
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 263.09,
+      "end": 268.86,
+      "text": "People wake up early, go to work or school and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 263.29,
+          "endSec": 263.51,
+          "score": 1.0
+        },
+        {
+          "word": "wake",
+          "startSec": 263.51,
+          "endSec": 263.95,
+          "score": 1.0
+        },
+        {
+          "word": "up",
+          "startSec": 263.95,
+          "endSec": 264.21,
+          "score": 1.0
+        },
+        {
+          "word": "early,",
+          "startSec": 264.21,
+          "endSec": 264.65,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 265.39,
+          "endSec": 265.47,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 265.47,
+          "endSec": 265.65,
+          "score": 0.99
+        },
+        {
+          "word": "work",
+          "startSec": 265.65,
+          "endSec": 265.93,
+          "score": 0.96
+        },
+        {
+          "word": "or",
+          "startSec": 265.93,
+          "endSec": 266.13,
+          "score": 0.99
+        },
+        {
+          "word": "school",
+          "startSec": 266.13,
+          "endSec": 266.53,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 266.53,
+          "endSec": 267.19,
+          "score": 0.64
+        },
+        {
+          "word": "spend",
+          "startSec": 267.19,
+          "endSec": 267.53,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 267.53,
+          "endSec": 267.95,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 267.95,
+          "endSec": 268.23,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 268.23,
+          "endSec": 268.71,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 269.54,
+      "end": 276.73,
+      "text": "Children play in streets or by the bay and families enjoy cafes and local markets.",
+      "words": [
+        {
+          "word": "Children",
+          "startSec": 269.74,
+          "endSec": 270.18,
+          "score": 0.2
+        },
+        {
+          "word": "play",
+          "startSec": 270.18,
+          "endSec": 270.7,
+          "score": 0.85
+        },
+        {
+          "word": "in",
+          "startSec": 270.7,
+          "endSec": 270.94,
+          "score": 0.99
+        },
+        {
+          "word": "streets",
+          "startSec": 270.94,
+          "endSec": 271.32,
+          "score": 0.89
+        },
+        {
+          "word": "or",
+          "startSec": 271.32,
+          "endSec": 271.68,
+          "score": 0.95
+        },
+        {
+          "word": "by",
+          "startSec": 271.68,
+          "endSec": 271.9,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 271.9,
+          "endSec": 272.1,
+          "score": 0.99
+        },
+        {
+          "word": "bay",
+          "startSec": 272.1,
+          "endSec": 272.4,
+          "score": 0.87
+        },
+        {
+          "word": "and",
+          "startSec": 272.4,
+          "endSec": 273.12,
+          "score": 0.5
+        },
+        {
+          "word": "families",
+          "startSec": 273.12,
+          "endSec": 273.74,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 273.74,
+          "endSec": 274.3,
+          "score": 0.98
+        },
+        {
+          "word": "cafes",
+          "startSec": 274.3,
+          "endSec": 274.82,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 274.82,
+          "endSec": 275.6,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 275.6,
+          "endSec": 275.86,
+          "score": 1.0
+        },
+        {
+          "word": "markets.",
+          "startSec": 275.86,
+          "endSec": 276.58,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 277.58,
+      "end": 282.31,
+      "text": "Life is connected to nature, community and culture.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 277.78,
+          "endSec": 278.18,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 278.18,
+          "endSec": 278.64,
+          "score": 1.0
+        },
+        {
+          "word": "connected",
+          "startSec": 278.64,
+          "endSec": 279.02,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 279.02,
+          "endSec": 279.52,
+          "score": 1.0
+        },
+        {
+          "word": "nature,",
+          "startSec": 279.52,
+          "endSec": 280.08,
+          "score": 0.98
+        },
+        {
+          "word": "community",
+          "startSec": 280.52,
+          "endSec": 280.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 280.96,
+          "endSec": 281.72,
+          "score": 0.59
+        },
+        {
+          "word": "culture.",
+          "startSec": 281.72,
+          "endSec": 282.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 283.75,
+      "end": 287.0,
+      "text": "Part twelve, why Kotor is special?",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 283.95,
+          "endSec": 284.03,
+          "score": 0.96
+        },
+        {
+          "word": "twelve,",
+          "startSec": 284.03,
+          "endSec": 284.69,
+          "score": 0.04
+        },
+        {
+          "word": "why",
+          "startSec": 285.57,
+          "endSec": 285.65,
+          "score": 0.76
+        },
+        {
+          "word": "Kotor",
+          "startSec": 285.65,
+          "endSec": 286.29,
+          "score": 0.13
+        },
+        {
+          "word": "is",
+          "startSec": 286.29,
+          "endSec": 286.49,
+          "score": 0.9
+        },
+        {
+          "word": "special?",
+          "startSec": 286.49,
+          "endSec": 286.85,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 287.87,
+      "end": 296.1,
+      "text": "Kotor is not a famous city like Dubrovnik but it is full of charm, history and calm life.",
+      "words": [
+        {
+          "word": "Kotor",
+          "startSec": 288.07,
+          "endSec": 288.65,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 288.65,
+          "endSec": 288.99,
+          "score": 0.99
+        },
+        {
+          "word": "not",
+          "startSec": 288.99,
+          "endSec": 289.33,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 289.33,
+          "endSec": 289.53,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 289.53,
+          "endSec": 289.97,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 289.97,
+          "endSec": 290.43,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 290.43,
+          "endSec": 290.81,
+          "score": 0.98
+        },
+        {
+          "word": "Dubrovnik",
+          "startSec": 290.81,
+          "endSec": 291.67,
+          "score": 0.83
+        },
+        {
+          "word": "but",
+          "startSec": 291.67,
+          "endSec": 292.23,
+          "score": 0.48
+        },
+        {
+          "word": "it",
+          "startSec": 292.23,
+          "endSec": 292.43,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 292.43,
+          "endSec": 292.63,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 292.63,
+          "endSec": 292.91,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 292.91,
+          "endSec": 293.13,
+          "score": 1.0
+        },
+        {
+          "word": "charm,",
+          "startSec": 293.13,
+          "endSec": 293.57,
+          "score": 0.99
+        },
+        {
+          "word": "history",
+          "startSec": 294.19,
+          "endSec": 294.31,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 294.31,
+          "endSec": 295.17,
+          "score": 0.78
+        },
+        {
+          "word": "calm",
+          "startSec": 295.17,
+          "endSec": 295.47,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 295.47,
+          "endSec": 295.95,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 296.69,
+      "end": 304.68,
+      "text": "It combines mountains, the sea, historic streets and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 296.89,
+          "endSec": 297.37,
+          "score": 0.67
+        },
+        {
+          "word": "combines",
+          "startSec": 297.37,
+          "endSec": 297.63,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 297.63,
+          "endSec": 298.59,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 299.47,
+          "endSec": 299.49,
+          "score": 0.89
+        },
+        {
+          "word": "sea,",
+          "startSec": 299.49,
+          "endSec": 299.83,
+          "score": 0.99
+        },
+        {
+          "word": "historic",
+          "startSec": 300.91,
+          "endSec": 300.91,
+          "score": 0.99
+        },
+        {
+          "word": "streets",
+          "startSec": 300.91,
+          "endSec": 301.69,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 301.69,
+          "endSec": 302.81,
+          "score": 0.4
+        },
+        {
+          "word": "friendly",
+          "startSec": 302.81,
+          "endSec": 303.19,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 303.19,
+          "endSec": 303.93,
+          "score": 0.99
+        },
+        {
+          "word": "beautifully.",
+          "startSec": 303.93,
+          "endSec": 304.53,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 305.36,
+      "end": 310.93,
+      "text": "Visitors feel relaxed, inspired and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 305.56,
+          "endSec": 306.16,
+          "score": 0.99
+        },
+        {
+          "word": "feel",
+          "startSec": 306.16,
+          "endSec": 306.72,
+          "score": 1.0
+        },
+        {
+          "word": "relaxed,",
+          "startSec": 306.72,
+          "endSec": 307.56,
+          "score": 1.0
+        },
+        {
+          "word": "inspired",
+          "startSec": 308.08,
+          "endSec": 308.62,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 308.62,
+          "endSec": 309.76,
+          "score": 0.67
+        },
+        {
+          "word": "peaceful",
+          "startSec": 309.76,
+          "endSec": 310.24,
+          "score": 1.0
+        },
+        {
+          "word": "here.",
+          "startSec": 310.24,
+          "endSec": 310.78,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 316.32,
+      "end": 322.71,
+      "text": "I am Emily and I hope you enjoyed this journey through Kotor, Montenegro.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 316.52,
+          "endSec": 316.88,
+          "score": 1.0
+        },
+        {
+          "word": "am",
+          "startSec": 316.88,
+          "endSec": 317.1,
+          "score": 0.74
+        },
+        {
+          "word": "Emily",
+          "startSec": 317.1,
+          "endSec": 317.24,
+          "score": 0.19
+        },
+        {
+          "word": "and",
+          "startSec": 317.24,
+          "endSec": 318.08,
+          "score": 0.85
+        },
+        {
+          "word": "I",
+          "startSec": 318.08,
+          "endSec": 318.24,
+          "score": 0.98
+        },
+        {
+          "word": "hope",
+          "startSec": 318.24,
+          "endSec": 318.54,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 318.54,
+          "endSec": 318.82,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 318.82,
+          "endSec": 319.12,
+          "score": 0.98
+        },
+        {
+          "word": "this",
+          "startSec": 319.12,
+          "endSec": 319.62,
+          "score": 1.0
+        },
+        {
+          "word": "journey",
+          "startSec": 319.62,
+          "endSec": 319.96,
+          "score": 0.99
+        },
+        {
+          "word": "through",
+          "startSec": 319.96,
+          "endSec": 320.54,
+          "score": 1.0
+        },
+        {
+          "word": "Kotor,",
+          "startSec": 320.54,
+          "endSec": 321.3,
+          "score": 0.37
+        },
+        {
+          "word": "Montenegro.",
+          "startSec": 321.52,
+          "endSec": 322.56,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 323.98,
+      "end": 326.39,
+      "text": "Goodbye for now.",
+      "words": [
+        {
+          "word": "Goodbye",
+          "startSec": 324.18,
+          "endSec": 325.46,
+          "score": 0.15
+        },
+        {
+          "word": "for",
+          "startSec": 325.46,
+          "endSec": 325.9,
+          "score": 0.89
+        },
+        {
+          "word": "now.",
+          "startSec": 325.9,
+          "endSec": 326.24,
+          "score": 0.99
         }
       ]
     }

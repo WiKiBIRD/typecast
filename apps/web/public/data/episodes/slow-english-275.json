@@ -15,92 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.23,
-      "end": 6.86,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emilie, your host.",
-      "words": [
-        {
-          "word": "Hello,",
-          "startSec": 0.43,
-          "endSec": 0.89,
-          "score": 0.83
-        },
-        {
-          "word": "everyone.",
-          "startSec": 1.09,
-          "endSec": 1.61,
-          "score": 0.98
-        },
-        {
-          "word": "Welcome",
-          "startSec": 2.83,
-          "endSec": 2.83,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 2.83,
-          "endSec": 3.13,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 3.13,
-          "endSec": 3.31,
-          "score": 0.97
-        },
-        {
-          "word": "Slow",
-          "startSec": 3.31,
-          "endSec": 3.57,
-          "score": 0.86
-        },
-        {
-          "word": "English",
-          "startSec": 3.57,
-          "endSec": 3.93,
-          "score": 0.91
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 3.93,
-          "endSec": 4.53,
-          "score": 0.85
-        },
-        {
-          "word": "I",
-          "startSec": 5.21,
-          "endSec": 5.31,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.31,
-          "endSec": 5.51,
-          "score": 0.97
-        },
-        {
-          "word": "Emilie,",
-          "startSec": 5.51,
-          "endSec": 6.15,
-          "score": 0.58
-        },
-        {
-          "word": "your",
-          "startSec": 6.25,
-          "endSec": 6.33,
-          "score": 1.0
-        },
-        {
-          "word": "host.",
-          "startSec": 6.33,
-          "endSec": 6.71,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 7.21,
       "end": 14.0,
       "text": "Today, we are traveling to a small and charming city in Asia. It is called Galle.",
@@ -204,7 +118,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 14.52,
       "end": 20.13,
       "text": "Galle is in Sri Lanka, an island country in South Asia.",
@@ -278,7 +192,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 20.44,
       "end": 25.91,
       "text": "This city is full of history, beaches, and friendly people.",
@@ -346,7 +260,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 26.76,
       "end": 29.57,
       "text": "Let's explore Gal together.",
@@ -378,7 +292,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 29.22,
       "end": 33.69,
       "text": "Part 2. Where is Galle?",
@@ -416,7 +330,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 33.58,
       "end": 39.41,
       "text": "Galle is on the southern coast of Sri Lanka near the Indian Ocean.",
@@ -502,7 +416,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 40.39,
       "end": 46.3,
       "text": "The city is surrounded by beaches, small hills, and green landscapes.",
@@ -576,7 +490,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 47.48,
       "end": 51.37,
       "text": "It is calm and perfect for enjoying history and nature.",
@@ -644,7 +558,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 53.18,
       "end": 55.59,
       "text": "Part 3. History of Gal.",
@@ -678,6 +592,2826 @@
           "startSec": 55.16,
           "endSec": 55.44,
           "score": 0.89
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 56.59,
+      "end": 60.82,
+      "text": "Galle has a long history as a trading port.",
+      "words": [
+        {
+          "word": "Galle",
+          "startSec": 56.79,
+          "endSec": 57.57,
+          "score": 0.97
+        },
+        {
+          "word": "has",
+          "startSec": 57.57,
+          "endSec": 57.81,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 57.81,
+          "endSec": 57.99,
+          "score": 1.0
+        },
+        {
+          "word": "long",
+          "startSec": 57.99,
+          "endSec": 58.33,
+          "score": 0.99
+        },
+        {
+          "word": "history",
+          "startSec": 58.33,
+          "endSec": 59.03,
+          "score": 1.0
+        },
+        {
+          "word": "as",
+          "startSec": 59.03,
+          "endSec": 59.65,
+          "score": 0.98
+        },
+        {
+          "word": "a",
+          "startSec": 59.65,
+          "endSec": 59.83,
+          "score": 0.92
+        },
+        {
+          "word": "trading",
+          "startSec": 59.83,
+          "endSec": 60.15,
+          "score": 0.99
+        },
+        {
+          "word": "port.",
+          "startSec": 60.15,
+          "endSec": 60.67,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 60.47,
+      "end": 66.61,
+      "text": "It was influenced by Portuguese, Dutch, and British colonization.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 60.67,
+          "endSec": 61.69,
+          "score": 0.56
+        },
+        {
+          "word": "was",
+          "startSec": 61.76,
+          "endSec": 61.98,
+          "score": 0.99
+        },
+        {
+          "word": "influenced",
+          "startSec": 61.98,
+          "endSec": 62.38,
+          "score": 0.98
+        },
+        {
+          "word": "by",
+          "startSec": 62.38,
+          "endSec": 63.14,
+          "score": 1.0
+        },
+        {
+          "word": "Portuguese,",
+          "startSec": 63.14,
+          "endSec": 63.84,
+          "score": 0.98
+        },
+        {
+          "word": "Dutch,",
+          "startSec": 64.66,
+          "endSec": 64.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 65.52,
+          "endSec": 65.64,
+          "score": 0.99
+        },
+        {
+          "word": "British",
+          "startSec": 65.64,
+          "endSec": 66.04,
+          "score": 0.99
+        },
+        {
+          "word": "colonization.",
+          "startSec": 66.04,
+          "endSec": 66.46,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 67.8,
+      "end": 73.19,
+      "text": "You can see old forts, colonial buildings, and ancient streets.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 68.0,
+          "endSec": 68.18,
+          "score": 0.97
+        },
+        {
+          "word": "can",
+          "startSec": 68.18,
+          "endSec": 68.36,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 68.36,
+          "endSec": 68.66,
+          "score": 1.0
+        },
+        {
+          "word": "old",
+          "startSec": 68.66,
+          "endSec": 69.04,
+          "score": 0.67
+        },
+        {
+          "word": "forts,",
+          "startSec": 69.04,
+          "endSec": 69.88,
+          "score": 0.9
+        },
+        {
+          "word": "colonial",
+          "startSec": 70.2,
+          "endSec": 70.6,
+          "score": 0.98
+        },
+        {
+          "word": "buildings,",
+          "startSec": 70.6,
+          "endSec": 71.48,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 71.6,
+          "endSec": 71.98,
+          "score": 1.0
+        },
+        {
+          "word": "ancient",
+          "startSec": 71.98,
+          "endSec": 72.28,
+          "score": 1.0
+        },
+        {
+          "word": "streets.",
+          "startSec": 72.28,
+          "endSec": 73.04,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 73.88,
+      "end": 77.41,
+      "text": "Walking in gal is like stepping back in time.",
+      "words": [
+        {
+          "word": "Walking",
+          "startSec": 74.08,
+          "endSec": 74.6,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 74.6,
+          "endSec": 74.88,
+          "score": 1.0
+        },
+        {
+          "word": "gal",
+          "startSec": 74.88,
+          "endSec": 75.16,
+          "score": 0.46
+        },
+        {
+          "word": "is",
+          "startSec": 75.16,
+          "endSec": 75.56,
+          "score": 0.96
+        },
+        {
+          "word": "like",
+          "startSec": 75.56,
+          "endSec": 75.8,
+          "score": 1.0
+        },
+        {
+          "word": "stepping",
+          "startSec": 75.8,
+          "endSec": 76.18,
+          "score": 0.99
+        },
+        {
+          "word": "back",
+          "startSec": 76.18,
+          "endSec": 76.66,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 76.66,
+          "endSec": 76.94,
+          "score": 1.0
+        },
+        {
+          "word": "time.",
+          "startSec": 76.94,
+          "endSec": 77.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 78.64,
+      "end": 81.27,
+      "text": "Part 4. Main Attractions",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 78.84,
+          "endSec": 78.84,
+          "score": 0.64
+        },
+        {
+          "word": "4.",
+          "startSec": 78.84,
+          "endSec": 79.3,
+          "score": 0.47
+        },
+        {
+          "word": "Main",
+          "startSec": 80.38,
+          "endSec": 80.38,
+          "score": 0.96
+        },
+        {
+          "word": "Attractions",
+          "startSec": 80.38,
+          "endSec": 81.12,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 81.86,
+      "end": 88.41,
+      "text": "The main attractions include galle fort, lighthouse, and old city walls.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 82.06,
+          "endSec": 82.66,
+          "score": 0.62
+        },
+        {
+          "word": "main",
+          "startSec": 82.66,
+          "endSec": 82.92,
+          "score": 0.89
+        },
+        {
+          "word": "attractions",
+          "startSec": 82.92,
+          "endSec": 83.54,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 83.54,
+          "endSec": 84.3,
+          "score": 0.99
+        },
+        {
+          "word": "galle",
+          "startSec": 84.3,
+          "endSec": 84.94,
+          "score": 0.33
+        },
+        {
+          "word": "fort,",
+          "startSec": 84.94,
+          "endSec": 85.2,
+          "score": 0.56
+        },
+        {
+          "word": "lighthouse,",
+          "startSec": 86.22,
+          "endSec": 86.22,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 87.02,
+          "endSec": 87.12,
+          "score": 0.99
+        },
+        {
+          "word": "old",
+          "startSec": 87.12,
+          "endSec": 87.4,
+          "score": 0.94
+        },
+        {
+          "word": "city",
+          "startSec": 87.4,
+          "endSec": 87.84,
+          "score": 0.96
+        },
+        {
+          "word": "walls.",
+          "startSec": 87.84,
+          "endSec": 88.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 88.06,
+      "end": 93.69,
+      "text": "You can visit museums, art galleries, and local markets.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 88.26,
+          "endSec": 89.6,
+          "score": 0.44
+        },
+        {
+          "word": "can",
+          "startSec": 89.6,
+          "endSec": 89.84,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 89.84,
+          "endSec": 90.12,
+          "score": 0.99
+        },
+        {
+          "word": "museums,",
+          "startSec": 90.12,
+          "endSec": 90.92,
+          "score": 0.98
+        },
+        {
+          "word": "art",
+          "startSec": 91.04,
+          "endSec": 91.68,
+          "score": 0.99
+        },
+        {
+          "word": "galleries,",
+          "startSec": 91.68,
+          "endSec": 92.14,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 92.38,
+          "endSec": 92.68,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 92.68,
+          "endSec": 93.0,
+          "score": 1.0
+        },
+        {
+          "word": "markets.",
+          "startSec": 93.0,
+          "endSec": 93.54,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 94.72,
+      "end": 99.37,
+      "text": "The city combines history, culture, and the beauty of the sea.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 94.92,
+          "endSec": 95.0,
+          "score": 0.96
+        },
+        {
+          "word": "city",
+          "startSec": 95.0,
+          "endSec": 95.36,
+          "score": 0.64
+        },
+        {
+          "word": "combines",
+          "startSec": 95.36,
+          "endSec": 95.72,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 95.72,
+          "endSec": 96.4,
+          "score": 0.98
+        },
+        {
+          "word": "culture,",
+          "startSec": 96.52,
+          "endSec": 97.3,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 97.86,
+          "endSec": 97.94,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 97.94,
+          "endSec": 98.12,
+          "score": 0.99
+        },
+        {
+          "word": "beauty",
+          "startSec": 98.12,
+          "endSec": 98.48,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 98.48,
+          "endSec": 98.78,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 98.78,
+          "endSec": 98.94,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 98.94,
+          "endSec": 99.22,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 101.34,
+      "end": 104.13,
+      "text": "Part 5. The City of Gal.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 101.54,
+          "endSec": 101.66,
+          "score": 0.71
+        },
+        {
+          "word": "5.",
+          "startSec": 101.66,
+          "endSec": 102.36,
+          "score": 0.57
+        },
+        {
+          "word": "The",
+          "startSec": 103.1,
+          "endSec": 103.1,
+          "score": 0.98
+        },
+        {
+          "word": "City",
+          "startSec": 103.1,
+          "endSec": 103.36,
+          "score": 0.79
+        },
+        {
+          "word": "of",
+          "startSec": 103.36,
+          "endSec": 103.74,
+          "score": 0.98
+        },
+        {
+          "word": "Gal.",
+          "startSec": 103.74,
+          "endSec": 103.98,
+          "score": 0.56
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 105.06,
+      "end": 106.71,
+      "text": "Gal is small but lively.",
+      "words": [
+        {
+          "word": "Gal",
+          "startSec": 105.26,
+          "endSec": 105.26,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 105.26,
+          "endSec": 105.5,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 105.5,
+          "endSec": 105.88,
+          "score": 0.99
+        },
+        {
+          "word": "but",
+          "startSec": 105.88,
+          "endSec": 106.22,
+          "score": 0.78
+        },
+        {
+          "word": "lively.",
+          "startSec": 106.22,
+          "endSec": 106.56,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 107.36,
+      "end": 110.61,
+      "text": "There are cafes, shops, and local restaurants.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 107.56,
+          "endSec": 107.72,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 107.72,
+          "endSec": 107.86,
+          "score": 1.0
+        },
+        {
+          "word": "cafes,",
+          "startSec": 107.86,
+          "endSec": 108.2,
+          "score": 0.9
+        },
+        {
+          "word": "shops,",
+          "startSec": 108.84,
+          "endSec": 109.08,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 109.58,
+          "endSec": 109.7,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 109.7,
+          "endSec": 110.06,
+          "score": 1.0
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 110.06,
+          "endSec": 110.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 111.78,
+      "end": 116.99,
+      "text": "People walk in the streets, ride bicycles, or take tuck tucks.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 111.98,
+          "endSec": 112.56,
+          "score": 0.99
+        },
+        {
+          "word": "walk",
+          "startSec": 112.56,
+          "endSec": 112.94,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 112.94,
+          "endSec": 113.22,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 113.22,
+          "endSec": 113.36,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 113.36,
+          "endSec": 113.8,
+          "score": 0.99
+        },
+        {
+          "word": "ride",
+          "startSec": 114.22,
+          "endSec": 114.46,
+          "score": 1.0
+        },
+        {
+          "word": "bicycles,",
+          "startSec": 114.46,
+          "endSec": 115.0,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 115.58,
+          "endSec": 115.74,
+          "score": 1.0
+        },
+        {
+          "word": "take",
+          "startSec": 115.74,
+          "endSec": 116.06,
+          "score": 1.0
+        },
+        {
+          "word": "tuck",
+          "startSec": 116.06,
+          "endSec": 116.46,
+          "score": 0.8
+        },
+        {
+          "word": "tucks.",
+          "startSec": 116.46,
+          "endSec": 116.84,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 116.64,
+      "end": 121.37,
+      "text": "The city is safe, welcoming, and full of charm.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 116.84,
+          "endSec": 118.02,
+          "score": 0.36
+        },
+        {
+          "word": "city",
+          "startSec": 118.02,
+          "endSec": 118.34,
+          "score": 0.83
+        },
+        {
+          "word": "is",
+          "startSec": 118.34,
+          "endSec": 118.68,
+          "score": 1.0
+        },
+        {
+          "word": "safe,",
+          "startSec": 118.68,
+          "endSec": 119.1,
+          "score": 0.99
+        },
+        {
+          "word": "welcoming,",
+          "startSec": 119.1,
+          "endSec": 119.92,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 120.18,
+          "endSec": 120.4,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 120.4,
+          "endSec": 120.66,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 120.66,
+          "endSec": 120.88,
+          "score": 1.0
+        },
+        {
+          "word": "charm.",
+          "startSec": 120.88,
+          "endSec": 121.22,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 122.4,
+      "end": 124.93,
+      "text": "Part 6. Food and Gal.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 122.6,
+          "endSec": 122.7,
+          "score": 0.45
+        },
+        {
+          "word": "6.",
+          "startSec": 122.7,
+          "endSec": 123.22,
+          "score": 0.5
+        },
+        {
+          "word": "Food",
+          "startSec": 124.24,
+          "endSec": 124.24,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 124.24,
+          "endSec": 124.5,
+          "score": 0.71
+        },
+        {
+          "word": "Gal.",
+          "startSec": 124.5,
+          "endSec": 124.78,
+          "score": 0.36
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 125.48,
+      "end": 128.49,
+      "text": "Food and Gal is fresh and flavorful.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 125.68,
+          "endSec": 126.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 126.24,
+          "endSec": 126.54,
+          "score": 0.98
+        },
+        {
+          "word": "Gal",
+          "startSec": 126.54,
+          "endSec": 126.84,
+          "score": 0.49
+        },
+        {
+          "word": "is",
+          "startSec": 126.84,
+          "endSec": 127.2,
+          "score": 0.99
+        },
+        {
+          "word": "fresh",
+          "startSec": 127.2,
+          "endSec": 127.5,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 127.5,
+          "endSec": 127.84,
+          "score": 0.99
+        },
+        {
+          "word": "flavorful.",
+          "startSec": 127.84,
+          "endSec": 128.34,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 129.14,
+      "end": 134.77,
+      "text": "People eat rice, seafood, vegetables, and tropical fruits.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 129.34,
+          "endSec": 129.52,
+          "score": 0.99
+        },
+        {
+          "word": "eat",
+          "startSec": 129.52,
+          "endSec": 130.02,
+          "score": 1.0
+        },
+        {
+          "word": "rice,",
+          "startSec": 130.02,
+          "endSec": 130.4,
+          "score": 0.99
+        },
+        {
+          "word": "seafood,",
+          "startSec": 131.44,
+          "endSec": 131.46,
+          "score": 0.99
+        },
+        {
+          "word": "vegetables,",
+          "startSec": 132.28,
+          "endSec": 132.66,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 133.56,
+          "endSec": 133.64,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 133.64,
+          "endSec": 133.98,
+          "score": 1.0
+        },
+        {
+          "word": "fruits.",
+          "startSec": 133.98,
+          "endSec": 134.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 135.52,
+      "end": 138.03,
+      "text": "A popular dish is hoppers.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 135.72,
+          "endSec": 135.92,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 135.92,
+          "endSec": 136.34,
+          "score": 1.0
+        },
+        {
+          "word": "dish",
+          "startSec": 136.34,
+          "endSec": 136.9,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 136.9,
+          "endSec": 137.2,
+          "score": 1.0
+        },
+        {
+          "word": "hoppers.",
+          "startSec": 137.2,
+          "endSec": 137.88,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 138.46,
+      "end": 142.35,
+      "text": "A pancake made from rice flour and coconut milk.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 138.66,
+          "endSec": 138.74,
+          "score": 0.99
+        },
+        {
+          "word": "pancake",
+          "startSec": 138.74,
+          "endSec": 139.38,
+          "score": 0.99
+        },
+        {
+          "word": "made",
+          "startSec": 139.38,
+          "endSec": 139.66,
+          "score": 0.99
+        },
+        {
+          "word": "from",
+          "startSec": 139.66,
+          "endSec": 139.96,
+          "score": 1.0
+        },
+        {
+          "word": "rice",
+          "startSec": 139.96,
+          "endSec": 140.22,
+          "score": 1.0
+        },
+        {
+          "word": "flour",
+          "startSec": 140.22,
+          "endSec": 140.6,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 140.6,
+          "endSec": 141.18,
+          "score": 0.94
+        },
+        {
+          "word": "coconut",
+          "startSec": 141.18,
+          "endSec": 141.62,
+          "score": 1.0
+        },
+        {
+          "word": "milk.",
+          "startSec": 141.62,
+          "endSec": 142.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 142.1,
+      "end": 147.77,
+      "text": "Seafood curries and local sweets are also very popular.",
+      "words": [
+        {
+          "word": "Seafood",
+          "startSec": 142.3,
+          "endSec": 143.7,
+          "score": 0.5
+        },
+        {
+          "word": "curries",
+          "startSec": 143.7,
+          "endSec": 144.32,
+          "score": 0.69
+        },
+        {
+          "word": "and",
+          "startSec": 144.32,
+          "endSec": 144.66,
+          "score": 0.97
+        },
+        {
+          "word": "local",
+          "startSec": 144.66,
+          "endSec": 144.88,
+          "score": 0.99
+        },
+        {
+          "word": "sweets",
+          "startSec": 144.88,
+          "endSec": 145.42,
+          "score": 0.92
+        },
+        {
+          "word": "are",
+          "startSec": 145.42,
+          "endSec": 146.06,
+          "score": 0.99
+        },
+        {
+          "word": "also",
+          "startSec": 146.06,
+          "endSec": 146.6,
+          "score": 0.97
+        },
+        {
+          "word": "very",
+          "startSec": 146.6,
+          "endSec": 146.96,
+          "score": 0.98
+        },
+        {
+          "word": "popular.",
+          "startSec": 146.96,
+          "endSec": 147.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 148.88,
+      "end": 151.79,
+      "text": "Part 7. The People of Galle.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 149.08,
+          "endSec": 149.18,
+          "score": 0.57
+        },
+        {
+          "word": "7.",
+          "startSec": 149.18,
+          "endSec": 149.86,
+          "score": 0.39
+        },
+        {
+          "word": "The",
+          "startSec": 150.36,
+          "endSec": 150.36,
+          "score": 0.94
+        },
+        {
+          "word": "People",
+          "startSec": 150.36,
+          "endSec": 150.8,
+          "score": 0.68
+        },
+        {
+          "word": "of",
+          "startSec": 150.8,
+          "endSec": 151.06,
+          "score": 0.97
+        },
+        {
+          "word": "Galle.",
+          "startSec": 151.06,
+          "endSec": 151.64,
+          "score": 0.15
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 151.98,
+      "end": 155.11,
+      "text": "People in Galle are friendly and warm.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 152.18,
+          "endSec": 152.82,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 152.82,
+          "endSec": 153.24,
+          "score": 0.96
+        },
+        {
+          "word": "Galle",
+          "startSec": 153.24,
+          "endSec": 153.76,
+          "score": 0.84
+        },
+        {
+          "word": "are",
+          "startSec": 153.76,
+          "endSec": 153.92,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 153.92,
+          "endSec": 154.18,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 154.18,
+          "endSec": 154.6,
+          "score": 1.0
+        },
+        {
+          "word": "warm.",
+          "startSec": 154.6,
+          "endSec": 154.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 155.6,
+      "end": 159.43,
+      "text": "They speak Sinhala, Tamil, and some English.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 155.8,
+          "endSec": 155.9,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 155.9,
+          "endSec": 156.22,
+          "score": 1.0
+        },
+        {
+          "word": "Sinhala,",
+          "startSec": 156.22,
+          "endSec": 157.12,
+          "score": 0.75
+        },
+        {
+          "word": "Tamil,",
+          "startSec": 157.66,
+          "endSec": 157.94,
+          "score": 0.91
+        },
+        {
+          "word": "and",
+          "startSec": 158.64,
+          "endSec": 158.68,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 158.68,
+          "endSec": 158.9,
+          "score": 0.97
+        },
+        {
+          "word": "English.",
+          "startSec": 158.9,
+          "endSec": 159.28,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 160.28,
+      "end": 165.35,
+      "text": "Life is calm, family is important, and traditions are respected.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 160.48,
+          "endSec": 160.84,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 160.84,
+          "endSec": 161.14,
+          "score": 1.0
+        },
+        {
+          "word": "calm,",
+          "startSec": 161.14,
+          "endSec": 161.4,
+          "score": 0.99
+        },
+        {
+          "word": "family",
+          "startSec": 162.32,
+          "endSec": 162.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 162.32,
+          "endSec": 162.64,
+          "score": 1.0
+        },
+        {
+          "word": "important,",
+          "startSec": 162.64,
+          "endSec": 163.04,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 163.72,
+          "endSec": 163.8,
+          "score": 1.0
+        },
+        {
+          "word": "traditions",
+          "startSec": 163.8,
+          "endSec": 164.2,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 164.2,
+          "endSec": 164.78,
+          "score": 1.0
+        },
+        {
+          "word": "respected.",
+          "startSec": 164.78,
+          "endSec": 165.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 166.33,
+      "end": 169.98,
+      "text": "People enjoy festivals, music, and gatherings.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 166.53,
+          "endSec": 166.77,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 166.77,
+          "endSec": 167.35,
+          "score": 1.0
+        },
+        {
+          "word": "festivals,",
+          "startSec": 167.35,
+          "endSec": 167.91,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 168.63,
+          "endSec": 168.81,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 169.49,
+          "endSec": 169.57,
+          "score": 1.0
+        },
+        {
+          "word": "gatherings.",
+          "startSec": 169.57,
+          "endSec": 169.83,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 170.88,
+      "end": 174.61,
+      "text": "Part 8. Culture and Festivals.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 171.08,
+          "endSec": 171.72,
+          "score": 0.11
+        },
+        {
+          "word": "8.",
+          "startSec": 171.72,
+          "endSec": 172.14,
+          "score": 0.48
+        },
+        {
+          "word": "Culture",
+          "startSec": 172.72,
+          "endSec": 173.32,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 173.32,
+          "endSec": 173.64,
+          "score": 0.76
+        },
+        {
+          "word": "Festivals.",
+          "startSec": 173.64,
+          "endSec": 174.46,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 175.0,
+      "end": 178.43,
+      "text": "Galle has many cultural events and festivals.",
+      "words": [
+        {
+          "word": "Galle",
+          "startSec": 175.2,
+          "endSec": 175.96,
+          "score": 0.15
+        },
+        {
+          "word": "has",
+          "startSec": 175.96,
+          "endSec": 176.2,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 176.2,
+          "endSec": 176.5,
+          "score": 0.99
+        },
+        {
+          "word": "cultural",
+          "startSec": 176.5,
+          "endSec": 176.98,
+          "score": 0.99
+        },
+        {
+          "word": "events",
+          "startSec": 176.98,
+          "endSec": 177.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 177.64,
+          "endSec": 177.96,
+          "score": 0.99
+        },
+        {
+          "word": "festivals.",
+          "startSec": 177.96,
+          "endSec": 178.28,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 179.59,
+      "end": 184.1,
+      "text": "People celebrate religious events, music, and dance.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 179.79,
+          "endSec": 180.15,
+          "score": 0.99
+        },
+        {
+          "word": "celebrate",
+          "startSec": 180.15,
+          "endSec": 180.83,
+          "score": 0.97
+        },
+        {
+          "word": "religious",
+          "startSec": 180.83,
+          "endSec": 181.49,
+          "score": 1.0
+        },
+        {
+          "word": "events,",
+          "startSec": 181.49,
+          "endSec": 182.23,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 182.77,
+          "endSec": 183.31,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 183.57,
+          "endSec": 183.61,
+          "score": 0.99
+        },
+        {
+          "word": "dance.",
+          "startSec": 183.61,
+          "endSec": 183.95,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 184.65,
+      "end": 188.98,
+      "text": "Traditional drumming and folk music are part of celebrations.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 184.85,
+          "endSec": 185.25,
+          "score": 0.97
+        },
+        {
+          "word": "drumming",
+          "startSec": 185.25,
+          "endSec": 186.29,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 186.29,
+          "endSec": 186.53,
+          "score": 0.98
+        },
+        {
+          "word": "folk",
+          "startSec": 186.53,
+          "endSec": 186.85,
+          "score": 1.0
+        },
+        {
+          "word": "music",
+          "startSec": 186.85,
+          "endSec": 187.47,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 187.47,
+          "endSec": 187.81,
+          "score": 0.99
+        },
+        {
+          "word": "part",
+          "startSec": 187.81,
+          "endSec": 188.09,
+          "score": 0.96
+        },
+        {
+          "word": "of",
+          "startSec": 188.09,
+          "endSec": 188.35,
+          "score": 1.0
+        },
+        {
+          "word": "celebrations.",
+          "startSec": 188.35,
+          "endSec": 188.83,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 190.56,
+      "end": 194.61,
+      "text": "Visitors can enjoy and sometimes join the events.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 190.76,
+          "endSec": 191.22,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 191.22,
+          "endSec": 191.78,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 191.78,
+          "endSec": 192.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 192.24,
+          "endSec": 192.8,
+          "score": 0.92
+        },
+        {
+          "word": "sometimes",
+          "startSec": 192.8,
+          "endSec": 193.44,
+          "score": 1.0
+        },
+        {
+          "word": "join",
+          "startSec": 193.44,
+          "endSec": 193.84,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 193.84,
+          "endSec": 194.18,
+          "score": 1.0
+        },
+        {
+          "word": "events.",
+          "startSec": 194.18,
+          "endSec": 194.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 195.87,
+      "end": 198.1,
+      "text": "Part 9. Nature Around Gal.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 196.07,
+          "endSec": 196.07,
+          "score": 0.98
+        },
+        {
+          "word": "9.",
+          "startSec": 196.07,
+          "endSec": 196.37,
+          "score": 0.94
+        },
+        {
+          "word": "Nature",
+          "startSec": 196.91,
+          "endSec": 197.11,
+          "score": 0.93
+        },
+        {
+          "word": "Around",
+          "startSec": 197.11,
+          "endSec": 197.59,
+          "score": 0.83
+        },
+        {
+          "word": "Gal.",
+          "startSec": 197.59,
+          "endSec": 197.95,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 199.2,
+      "end": 203.87,
+      "text": "Galle is near beautiful beaches, cliffs, and small hills.",
+      "words": [
+        {
+          "word": "Galle",
+          "startSec": 199.4,
+          "endSec": 200.08,
+          "score": 0.14
+        },
+        {
+          "word": "is",
+          "startSec": 200.08,
+          "endSec": 200.22,
+          "score": 0.84
+        },
+        {
+          "word": "near",
+          "startSec": 200.22,
+          "endSec": 200.46,
+          "score": 1.0
+        },
+        {
+          "word": "beautiful",
+          "startSec": 200.46,
+          "endSec": 200.8,
+          "score": 0.98
+        },
+        {
+          "word": "beaches,",
+          "startSec": 200.8,
+          "endSec": 201.52,
+          "score": 0.97
+        },
+        {
+          "word": "cliffs,",
+          "startSec": 201.64,
+          "endSec": 202.24,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 202.82,
+          "endSec": 202.86,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 202.86,
+          "endSec": 203.28,
+          "score": 0.99
+        },
+        {
+          "word": "hills.",
+          "startSec": 203.28,
+          "endSec": 203.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 204.66,
+      "end": 208.49,
+      "text": "You can swim, surf, or relax by the ocean.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 204.86,
+          "endSec": 205.08,
+          "score": 0.95
+        },
+        {
+          "word": "can",
+          "startSec": 205.08,
+          "endSec": 205.28,
+          "score": 1.0
+        },
+        {
+          "word": "swim,",
+          "startSec": 205.28,
+          "endSec": 205.64,
+          "score": 1.0
+        },
+        {
+          "word": "surf,",
+          "startSec": 205.96,
+          "endSec": 206.3,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 206.84,
+          "endSec": 206.92,
+          "score": 0.98
+        },
+        {
+          "word": "relax",
+          "startSec": 206.92,
+          "endSec": 207.3,
+          "score": 0.99
+        },
+        {
+          "word": "by",
+          "startSec": 207.3,
+          "endSec": 207.82,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 207.82,
+          "endSec": 208.02,
+          "score": 1.0
+        },
+        {
+          "word": "ocean.",
+          "startSec": 208.02,
+          "endSec": 208.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 209.88,
+      "end": 213.99,
+      "text": "The air is fresh, and nature is close to the city.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 210.08,
+          "endSec": 210.2,
+          "score": 0.99
+        },
+        {
+          "word": "air",
+          "startSec": 210.2,
+          "endSec": 210.48,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 210.48,
+          "endSec": 210.72,
+          "score": 1.0
+        },
+        {
+          "word": "fresh,",
+          "startSec": 210.72,
+          "endSec": 211.02,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 211.76,
+          "endSec": 211.96,
+          "score": 0.97
+        },
+        {
+          "word": "nature",
+          "startSec": 211.96,
+          "endSec": 212.42,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 212.42,
+          "endSec": 212.72,
+          "score": 1.0
+        },
+        {
+          "word": "close",
+          "startSec": 212.72,
+          "endSec": 212.98,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 212.98,
+          "endSec": 213.38,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 213.38,
+          "endSec": 213.54,
+          "score": 1.0
+        },
+        {
+          "word": "city.",
+          "startSec": 213.54,
+          "endSec": 213.84,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 214.98,
+      "end": 220.11,
+      "text": "It is perfect for walking, photography, and enjoying sunsets.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 215.18,
+          "endSec": 215.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 215.32,
+          "endSec": 215.48,
+          "score": 0.98
+        },
+        {
+          "word": "perfect",
+          "startSec": 215.48,
+          "endSec": 215.98,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 215.98,
+          "endSec": 216.32,
+          "score": 1.0
+        },
+        {
+          "word": "walking,",
+          "startSec": 216.32,
+          "endSec": 216.9,
+          "score": 1.0
+        },
+        {
+          "word": "photography,",
+          "startSec": 217.28,
+          "endSec": 217.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 218.54,
+          "endSec": 218.64,
+          "score": 1.0
+        },
+        {
+          "word": "enjoying",
+          "startSec": 218.64,
+          "endSec": 219.1,
+          "score": 1.0
+        },
+        {
+          "word": "sunsets.",
+          "startSec": 219.1,
+          "endSec": 219.96,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 221.25,
+      "end": 224.04,
+      "text": "Part 10. Travel and Tourism.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 221.45,
+          "endSec": 221.59,
+          "score": 0.93
+        },
+        {
+          "word": "10.",
+          "startSec": 221.59,
+          "endSec": 222.13,
+          "score": 0.92
+        },
+        {
+          "word": "Travel",
+          "startSec": 223.37,
+          "endSec": 223.37,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 223.37,
+          "endSec": 223.65,
+          "score": 0.32
+        },
+        {
+          "word": "Tourism.",
+          "startSec": 223.65,
+          "endSec": 223.89,
+          "score": 0.67
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 224.69,
+      "end": 231.52,
+      "text": "Galle is reachable by train, bus, or car from Colombo and other cities.",
+      "words": [
+        {
+          "word": "Galle",
+          "startSec": 224.89,
+          "endSec": 225.81,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "startSec": 225.81,
+          "endSec": 226.03,
+          "score": 0.95
+        },
+        {
+          "word": "reachable",
+          "startSec": 226.03,
+          "endSec": 226.65,
+          "score": 0.92
+        },
+        {
+          "word": "by",
+          "startSec": 226.65,
+          "endSec": 226.97,
+          "score": 0.99
+        },
+        {
+          "word": "train,",
+          "startSec": 226.97,
+          "endSec": 227.39,
+          "score": 0.95
+        },
+        {
+          "word": "bus,",
+          "startSec": 227.85,
+          "endSec": 228.09,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 228.59,
+          "endSec": 228.73,
+          "score": 0.96
+        },
+        {
+          "word": "car",
+          "startSec": 228.73,
+          "endSec": 229.11,
+          "score": 0.98
+        },
+        {
+          "word": "from",
+          "startSec": 229.11,
+          "endSec": 229.57,
+          "score": 0.98
+        },
+        {
+          "word": "Colombo",
+          "startSec": 229.57,
+          "endSec": 230.23,
+          "score": 0.84
+        },
+        {
+          "word": "and",
+          "startSec": 230.23,
+          "endSec": 230.59,
+          "score": 0.89
+        },
+        {
+          "word": "other",
+          "startSec": 230.59,
+          "endSec": 230.85,
+          "score": 0.99
+        },
+        {
+          "word": "cities.",
+          "startSec": 230.85,
+          "endSec": 231.37,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 232.57,
+      "end": 237.36,
+      "text": "Tourists come to see history, beaches, and local culture.",
+      "words": [
+        {
+          "word": "Tourists",
+          "startSec": 232.77,
+          "endSec": 233.43,
+          "score": 0.76
+        },
+        {
+          "word": "come",
+          "startSec": 233.43,
+          "endSec": 233.65,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 233.65,
+          "endSec": 233.87,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 233.87,
+          "endSec": 234.11,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 234.11,
+          "endSec": 234.67,
+          "score": 0.99
+        },
+        {
+          "word": "beaches,",
+          "startSec": 235.15,
+          "endSec": 235.47,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 235.71,
+          "endSec": 236.19,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 236.19,
+          "endSec": 236.53,
+          "score": 1.0
+        },
+        {
+          "word": "culture.",
+          "startSec": 236.53,
+          "endSec": 237.21,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 237.91,
+      "end": 243.26,
+      "text": "Tourism helps local people earn money and preserve traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "startSec": 238.11,
+          "endSec": 238.93,
+          "score": 0.76
+        },
+        {
+          "word": "helps",
+          "startSec": 238.93,
+          "endSec": 239.31,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 239.31,
+          "endSec": 239.93,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 239.93,
+          "endSec": 240.67,
+          "score": 1.0
+        },
+        {
+          "word": "earn",
+          "startSec": 240.67,
+          "endSec": 241.01,
+          "score": 1.0
+        },
+        {
+          "word": "money",
+          "startSec": 241.01,
+          "endSec": 241.59,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 241.59,
+          "endSec": 241.89,
+          "score": 0.93
+        },
+        {
+          "word": "preserve",
+          "startSec": 241.89,
+          "endSec": 242.33,
+          "score": 0.98
+        },
+        {
+          "word": "traditions.",
+          "startSec": 242.33,
+          "endSec": 243.11,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 245.01,
+      "end": 248.36,
+      "text": "Part 11. Daily Life in Gal.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 245.21,
+          "endSec": 245.21,
+          "score": 0.93
+        },
+        {
+          "word": "11.",
+          "startSec": 245.21,
+          "endSec": 245.59,
+          "score": 0.94
+        },
+        {
+          "word": "Daily",
+          "startSec": 247.09,
+          "endSec": 247.11,
+          "score": 0.95
+        },
+        {
+          "word": "Life",
+          "startSec": 247.11,
+          "endSec": 247.69,
+          "score": 0.73
+        },
+        {
+          "word": "in",
+          "startSec": 247.69,
+          "endSec": 247.97,
+          "score": 0.28
+        },
+        {
+          "word": "Gal.",
+          "startSec": 247.97,
+          "endSec": 248.21,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 249.34,
+      "end": 252.11,
+      "text": "Life in Galle is common simple.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 249.54,
+          "endSec": 250.0,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 250.0,
+          "endSec": 250.28,
+          "score": 0.99
+        },
+        {
+          "word": "Galle",
+          "startSec": 250.28,
+          "endSec": 250.8,
+          "score": 0.48
+        },
+        {
+          "word": "is",
+          "startSec": 250.8,
+          "endSec": 250.92,
+          "score": 0.99
+        },
+        {
+          "word": "common",
+          "startSec": 250.92,
+          "endSec": 251.38,
+          "score": 0.93
+        },
+        {
+          "word": "simple.",
+          "startSec": 251.38,
+          "endSec": 251.96,
+          "score": 0.82
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 252.69,
+      "end": 259.04,
+      "text": "People wake up early, go to work or school, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 252.89,
+          "endSec": 253.29,
+          "score": 0.35
+        },
+        {
+          "word": "wake",
+          "startSec": 253.29,
+          "endSec": 253.79,
+          "score": 0.97
+        },
+        {
+          "word": "up",
+          "startSec": 253.79,
+          "endSec": 254.11,
+          "score": 0.99
+        },
+        {
+          "word": "early,",
+          "startSec": 254.11,
+          "endSec": 254.51,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 255.17,
+          "endSec": 255.53,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 255.53,
+          "endSec": 255.71,
+          "score": 0.99
+        },
+        {
+          "word": "work",
+          "startSec": 255.71,
+          "endSec": 256.07,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 256.07,
+          "endSec": 256.31,
+          "score": 0.97
+        },
+        {
+          "word": "school,",
+          "startSec": 256.31,
+          "endSec": 256.67,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 257.29,
+          "endSec": 257.39,
+          "score": 0.98
+        },
+        {
+          "word": "spend",
+          "startSec": 257.39,
+          "endSec": 257.75,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 257.75,
+          "endSec": 258.21,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 258.21,
+          "endSec": 258.47,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 258.47,
+          "endSec": 258.89,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 259.85,
+      "end": 266.14,
+      "text": "Children play in streets or near the beach, and families enjoy markets or cafes.",
+      "words": [
+        {
+          "word": "Children",
+          "startSec": 260.05,
+          "endSec": 260.53,
+          "score": 0.99
+        },
+        {
+          "word": "play",
+          "startSec": 260.53,
+          "endSec": 261.05,
+          "score": 0.94
+        },
+        {
+          "word": "in",
+          "startSec": 261.05,
+          "endSec": 261.35,
+          "score": 0.99
+        },
+        {
+          "word": "streets",
+          "startSec": 261.35,
+          "endSec": 261.71,
+          "score": 0.9
+        },
+        {
+          "word": "or",
+          "startSec": 261.71,
+          "endSec": 262.07,
+          "score": 0.98
+        },
+        {
+          "word": "near",
+          "startSec": 262.07,
+          "endSec": 262.25,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 262.25,
+          "endSec": 262.47,
+          "score": 1.0
+        },
+        {
+          "word": "beach,",
+          "startSec": 262.47,
+          "endSec": 262.75,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 263.35,
+          "endSec": 263.67,
+          "score": 0.99
+        },
+        {
+          "word": "families",
+          "startSec": 263.67,
+          "endSec": 264.23,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 264.23,
+          "endSec": 264.71,
+          "score": 1.0
+        },
+        {
+          "word": "markets",
+          "startSec": 264.71,
+          "endSec": 265.43,
+          "score": 0.98
+        },
+        {
+          "word": "or",
+          "startSec": 265.43,
+          "endSec": 265.69,
+          "score": 0.99
+        },
+        {
+          "word": "cafes.",
+          "startSec": 265.69,
+          "endSec": 265.99,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 267.37,
+      "end": 271.84,
+      "text": "Life is connected to nature, community, and traditions.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 267.57,
+          "endSec": 267.85,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 267.85,
+          "endSec": 268.25,
+          "score": 1.0
+        },
+        {
+          "word": "connected",
+          "startSec": 268.25,
+          "endSec": 268.71,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 268.71,
+          "endSec": 269.19,
+          "score": 1.0
+        },
+        {
+          "word": "nature,",
+          "startSec": 269.19,
+          "endSec": 269.73,
+          "score": 0.99
+        },
+        {
+          "word": "community,",
+          "startSec": 270.25,
+          "endSec": 270.61,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 271.29,
+          "endSec": 271.39,
+          "score": 1.0
+        },
+        {
+          "word": "traditions.",
+          "startSec": 271.39,
+          "endSec": 271.69,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 274.16,
+      "end": 277.11,
+      "text": "Part 12. Why Galle is special.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 274.36,
+          "endSec": 274.36,
+          "score": 0.97
+        },
+        {
+          "word": "12.",
+          "startSec": 274.36,
+          "endSec": 274.88,
+          "score": 0.94
+        },
+        {
+          "word": "Why",
+          "startSec": 276.02,
+          "endSec": 276.02,
+          "score": 0.95
+        },
+        {
+          "word": "Galle",
+          "startSec": 276.02,
+          "endSec": 276.56,
+          "score": 0.08
+        },
+        {
+          "word": "is",
+          "startSec": 276.56,
+          "endSec": 276.7,
+          "score": 0.94
+        },
+        {
+          "word": "special.",
+          "startSec": 276.7,
+          "endSec": 276.96,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 278.18,
+      "end": 286.75,
+      "text": "Galle is not a famous city like Colombo, but it is full of charm, history, and calm life.",
+      "words": [
+        {
+          "word": "Galle",
+          "startSec": 278.38,
+          "endSec": 279.12,
+          "score": 0.01
+        },
+        {
+          "word": "is",
+          "startSec": 279.12,
+          "endSec": 279.24,
+          "score": 0.98
+        },
+        {
+          "word": "not",
+          "startSec": 279.24,
+          "endSec": 279.58,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 279.58,
+          "endSec": 279.76,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 279.76,
+          "endSec": 280.14,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 280.14,
+          "endSec": 280.54,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 280.54,
+          "endSec": 280.88,
+          "score": 0.98
+        },
+        {
+          "word": "Colombo,",
+          "startSec": 280.88,
+          "endSec": 281.5,
+          "score": 0.86
+        },
+        {
+          "word": "but",
+          "startSec": 282.26,
+          "endSec": 282.5,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 282.5,
+          "endSec": 282.68,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 282.68,
+          "endSec": 282.88,
+          "score": 0.97
+        },
+        {
+          "word": "full",
+          "startSec": 282.88,
+          "endSec": 283.12,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 283.12,
+          "endSec": 283.32,
+          "score": 1.0
+        },
+        {
+          "word": "charm,",
+          "startSec": 283.32,
+          "endSec": 283.84,
+          "score": 0.99
+        },
+        {
+          "word": "history,",
+          "startSec": 284.54,
+          "endSec": 284.78,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 285.76,
+          "endSec": 285.76,
+          "score": 1.0
+        },
+        {
+          "word": "calm",
+          "startSec": 285.76,
+          "endSec": 286.08,
+          "score": 0.99
+        },
+        {
+          "word": "life.",
+          "startSec": 286.08,
+          "endSec": 286.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 287.65,
+      "end": 294.18,
+      "text": "It combines beaches, colonial architecture, and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 287.85,
+          "endSec": 287.97,
+          "score": 0.98
+        },
+        {
+          "word": "combines",
+          "startSec": 287.97,
+          "endSec": 288.43,
+          "score": 1.0
+        },
+        {
+          "word": "beaches,",
+          "startSec": 288.43,
+          "endSec": 289.05,
+          "score": 1.0
+        },
+        {
+          "word": "colonial",
+          "startSec": 290.17,
+          "endSec": 290.19,
+          "score": 0.99
+        },
+        {
+          "word": "architecture,",
+          "startSec": 290.19,
+          "endSec": 291.11,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 292.09,
+          "endSec": 292.31,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 292.31,
+          "endSec": 292.69,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 292.69,
+          "endSec": 293.41,
+          "score": 1.0
+        },
+        {
+          "word": "beautifully.",
+          "startSec": 293.41,
+          "endSec": 294.03,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 295.6,
+      "end": 301.09,
+      "text": "Visitors feel relaxed, inspired, and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 295.8,
+          "endSec": 296.28,
+          "score": 0.97
+        },
+        {
+          "word": "feel",
+          "startSec": 296.28,
+          "endSec": 296.9,
+          "score": 1.0
+        },
+        {
+          "word": "relaxed,",
+          "startSec": 296.9,
+          "endSec": 297.66,
+          "score": 1.0
+        },
+        {
+          "word": "inspired,",
+          "startSec": 298.4,
+          "endSec": 298.88,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 299.82,
+          "endSec": 299.88,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 299.88,
+          "endSec": 300.42,
+          "score": 1.0
+        },
+        {
+          "word": "here.",
+          "startSec": 300.42,
+          "endSec": 300.94,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 305.85,
+      "end": 311.58,
+      "text": "I am Emili, and I hope you enjoyed this journey through Gal Sri Lanka.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 306.05,
+          "endSec": 306.71,
+          "score": 0.63
+        },
+        {
+          "word": "am",
+          "startSec": 306.71,
+          "endSec": 306.91,
+          "score": 0.77
+        },
+        {
+          "word": "Emili,",
+          "startSec": 306.91,
+          "endSec": 307.25,
+          "score": 0.48
+        },
+        {
+          "word": "and",
+          "startSec": 307.85,
+          "endSec": 308.21,
+          "score": 0.97
+        },
+        {
+          "word": "I",
+          "startSec": 308.21,
+          "endSec": 308.35,
+          "score": 0.98
+        },
+        {
+          "word": "hope",
+          "startSec": 308.35,
+          "endSec": 308.57,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 308.57,
+          "endSec": 308.81,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 308.81,
+          "endSec": 309.09,
+          "score": 0.98
+        },
+        {
+          "word": "this",
+          "startSec": 309.09,
+          "endSec": 309.59,
+          "score": 0.99
+        },
+        {
+          "word": "journey",
+          "startSec": 309.59,
+          "endSec": 309.91,
+          "score": 0.99
+        },
+        {
+          "word": "through",
+          "startSec": 309.91,
+          "endSec": 310.41,
+          "score": 0.99
+        },
+        {
+          "word": "Gal",
+          "startSec": 310.41,
+          "endSec": 310.65,
+          "score": 0.35
+        },
+        {
+          "word": "Sri",
+          "startSec": 310.65,
+          "endSec": 310.95,
+          "score": 0.43
+        },
+        {
+          "word": "Lanka.",
+          "startSec": 310.95,
+          "endSec": 311.43,
+          "score": 1.0
         }
       ]
     }

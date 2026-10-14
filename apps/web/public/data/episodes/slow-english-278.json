@@ -15,92 +15,6 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.19,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emilie, your host.",
-      "words": [
-        {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.44,
-          "score": 0.9
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.6,
-          "endSec": 1.1,
-          "score": 0.99
-        },
-        {
-          "word": "Welcome",
-          "startSec": 1.96,
-          "endSec": 2.52,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 2.52,
-          "endSec": 2.8,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 2.8,
-          "endSec": 2.96,
-          "score": 0.98
-        },
-        {
-          "word": "Slow",
-          "startSec": 2.96,
-          "endSec": 3.22,
-          "score": 0.89
-        },
-        {
-          "word": "English",
-          "startSec": 3.22,
-          "endSec": 3.64,
-          "score": 0.87
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 3.64,
-          "endSec": 4.2,
-          "score": 0.89
-        },
-        {
-          "word": "I",
-          "startSec": 5.18,
-          "endSec": 5.54,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.54,
-          "endSec": 5.76,
-          "score": 0.98
-        },
-        {
-          "word": "Emilie,",
-          "startSec": 5.76,
-          "endSec": 6.4,
-          "score": 0.55
-        },
-        {
-          "word": "your",
-          "startSec": 6.48,
-          "endSec": 6.56,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 6.56,
-          "endSec": 7.04,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 2,
       "start": 7.78,
       "end": 15.18,
       "text": "Today we are traveling to a small and charming city in Europe. It is called PEX.",
@@ -204,7 +118,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "start": 15.87,
       "end": 23.33,
       "text": "PEX is in Hungary, a country in Central Europe. This city is full of history,",
@@ -302,7 +216,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 23.62,
       "end": 26.91,
       "text": "museums, and friendly people.",
@@ -334,7 +248,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 27.7,
       "end": 33.31,
       "text": "Let's explore PEX together. Part two, where is PEX?",
@@ -396,7 +310,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 34.19,
       "end": 38.58,
       "text": "PEX is in southern Hungary, near the Mexican mountains.",
@@ -458,7 +372,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 39.29,
       "end": 44.48,
       "text": "The city is surrounded by green hills, rivers, and vineyards.",
@@ -526,7 +440,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 45.25,
       "end": 51.32,
       "text": "It is calm and peaceful, perfect for enjoying history, art, and nature.",
@@ -606,7 +520,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 52.33,
       "end": 61.19,
       "text": "Part three, history of PEX. PEX has a long history, dating back to Roman times.",
@@ -704,7 +618,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 61.94,
       "end": 66.97,
       "text": "The city has old churches, mosques, and historic buildings.",
@@ -762,6 +676,2730 @@
           "startSec": 66.3,
           "endSec": 66.82,
           "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 67.87,
+      "end": 72.64,
+      "text": "Walking in PEX is like stepping into a story of centuries.",
+      "words": [
+        {
+          "word": "Walking",
+          "startSec": 68.07,
+          "endSec": 68.63,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 68.63,
+          "endSec": 68.91,
+          "score": 1.0
+        },
+        {
+          "word": "PEX",
+          "startSec": 68.91,
+          "endSec": 69.31,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 69.31,
+          "endSec": 69.59,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 69.59,
+          "endSec": 69.87,
+          "score": 1.0
+        },
+        {
+          "word": "stepping",
+          "startSec": 69.87,
+          "endSec": 70.29,
+          "score": 0.99
+        },
+        {
+          "word": "into",
+          "startSec": 70.29,
+          "endSec": 70.91,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 70.91,
+          "endSec": 71.21,
+          "score": 1.0
+        },
+        {
+          "word": "story",
+          "startSec": 71.21,
+          "endSec": 71.59,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 71.59,
+          "endSec": 72.07,
+          "score": 0.99
+        },
+        {
+          "word": "centuries.",
+          "startSec": 72.07,
+          "endSec": 72.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 73.82,
+      "end": 78.29,
+      "text": "The Zomai Cultural District is famous for art and crafts.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 74.02,
+          "endSec": 74.14,
+          "score": 0.99
+        },
+        {
+          "word": "Zomai",
+          "startSec": 74.14,
+          "endSec": 74.72,
+          "score": 0.6
+        },
+        {
+          "word": "Cultural",
+          "startSec": 74.72,
+          "endSec": 75.08,
+          "score": 0.76
+        },
+        {
+          "word": "District",
+          "startSec": 75.08,
+          "endSec": 75.9,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 75.9,
+          "endSec": 76.34,
+          "score": 1.0
+        },
+        {
+          "word": "famous",
+          "startSec": 76.34,
+          "endSec": 76.8,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 76.8,
+          "endSec": 77.24,
+          "score": 1.0
+        },
+        {
+          "word": "art",
+          "startSec": 77.24,
+          "endSec": 77.52,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 77.52,
+          "endSec": 77.8,
+          "score": 0.99
+        },
+        {
+          "word": "crafts.",
+          "startSec": 77.8,
+          "endSec": 78.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 79.16,
+      "end": 82.09,
+      "text": "Part four, main attractions.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 79.36,
+          "endSec": 79.92,
+          "score": 0.4
+        },
+        {
+          "word": "four,",
+          "startSec": 79.92,
+          "endSec": 80.48,
+          "score": 0.22
+        },
+        {
+          "word": "main",
+          "startSec": 81.1,
+          "endSec": 81.4,
+          "score": 0.52
+        },
+        {
+          "word": "attractions.",
+          "startSec": 81.4,
+          "endSec": 81.94,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 82.9,
+      "end": 91.69,
+      "text": "The main attractions include PEX Cathedral, Early Christian Mausoleum, and the Mosque of Pasha-Kassim.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 83.1,
+          "endSec": 83.32,
+          "score": 0.97
+        },
+        {
+          "word": "main",
+          "startSec": 83.32,
+          "endSec": 83.56,
+          "score": 1.0
+        },
+        {
+          "word": "attractions",
+          "startSec": 83.56,
+          "endSec": 84.26,
+          "score": 1.0
+        },
+        {
+          "word": "include",
+          "startSec": 84.26,
+          "endSec": 84.98,
+          "score": 1.0
+        },
+        {
+          "word": "PEX",
+          "startSec": 84.98,
+          "endSec": 85.52,
+          "score": 0.37
+        },
+        {
+          "word": "Cathedral,",
+          "startSec": 85.52,
+          "endSec": 86.08,
+          "score": 0.92
+        },
+        {
+          "word": "Early",
+          "startSec": 86.96,
+          "endSec": 87.38,
+          "score": 0.93
+        },
+        {
+          "word": "Christian",
+          "startSec": 87.38,
+          "endSec": 87.94,
+          "score": 0.98
+        },
+        {
+          "word": "Mausoleum,",
+          "startSec": 87.94,
+          "endSec": 89.0,
+          "score": 0.78
+        },
+        {
+          "word": "and",
+          "startSec": 89.44,
+          "endSec": 89.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 89.52,
+          "endSec": 89.68,
+          "score": 0.93
+        },
+        {
+          "word": "Mosque",
+          "startSec": 89.68,
+          "endSec": 90.04,
+          "score": 0.79
+        },
+        {
+          "word": "of",
+          "startSec": 90.04,
+          "endSec": 90.34,
+          "score": 0.99
+        },
+        {
+          "word": "Pasha",
+          "startSec": 90.34,
+          "endSec": 90.92,
+          "score": 0.82
+        },
+        {
+          "word": "-Kassim.",
+          "startSec": 90.92,
+          "endSec": 91.54,
+          "score": 0.57
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 92.22,
+      "end": 97.07,
+      "text": "You can visit museums, galleries, and charming squares.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 92.42,
+          "endSec": 92.92,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 92.92,
+          "endSec": 93.1,
+          "score": 1.0
+        },
+        {
+          "word": "visit",
+          "startSec": 93.1,
+          "endSec": 93.4,
+          "score": 1.0
+        },
+        {
+          "word": "museums,",
+          "startSec": 93.4,
+          "endSec": 94.1,
+          "score": 0.98
+        },
+        {
+          "word": "galleries,",
+          "startSec": 94.84,
+          "endSec": 95.22,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 95.9,
+          "endSec": 95.98,
+          "score": 1.0
+        },
+        {
+          "word": "charming",
+          "startSec": 95.98,
+          "endSec": 96.32,
+          "score": 0.97
+        },
+        {
+          "word": "squares.",
+          "startSec": 96.32,
+          "endSec": 96.92,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 98.12,
+      "end": 103.53,
+      "text": "The city combines history, culture, and calm European charm.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 98.32,
+          "endSec": 98.66,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 98.66,
+          "endSec": 98.94,
+          "score": 0.86
+        },
+        {
+          "word": "combines",
+          "startSec": 98.94,
+          "endSec": 99.5,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 99.5,
+          "endSec": 100.08,
+          "score": 0.96
+        },
+        {
+          "word": "culture,",
+          "startSec": 100.76,
+          "endSec": 101.12,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 101.62,
+          "endSec": 101.76,
+          "score": 1.0
+        },
+        {
+          "word": "calm",
+          "startSec": 101.76,
+          "endSec": 102.1,
+          "score": 0.96
+        },
+        {
+          "word": "European",
+          "startSec": 102.1,
+          "endSec": 102.74,
+          "score": 0.99
+        },
+        {
+          "word": "charm.",
+          "startSec": 102.74,
+          "endSec": 103.38,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 104.26,
+      "end": 109.17,
+      "text": "Part five, the city of PEX. PEX is small but lively.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 104.46,
+          "endSec": 104.82,
+          "score": 0.14
+        },
+        {
+          "word": "five,",
+          "startSec": 104.82,
+          "endSec": 105.42,
+          "score": 0.25
+        },
+        {
+          "word": "the",
+          "startSec": 105.76,
+          "endSec": 105.78,
+          "score": 0.85
+        },
+        {
+          "word": "city",
+          "startSec": 105.78,
+          "endSec": 106.04,
+          "score": 0.69
+        },
+        {
+          "word": "of",
+          "startSec": 106.04,
+          "endSec": 106.3,
+          "score": 1.0
+        },
+        {
+          "word": "PEX.",
+          "startSec": 106.3,
+          "endSec": 106.66,
+          "score": 0.26
+        },
+        {
+          "word": "PEX",
+          "startSec": 107.2,
+          "endSec": 107.58,
+          "score": 0.96
+        },
+        {
+          "word": "is",
+          "startSec": 107.58,
+          "endSec": 107.86,
+          "score": 0.99
+        },
+        {
+          "word": "small",
+          "startSec": 107.86,
+          "endSec": 108.28,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 108.28,
+          "endSec": 108.64,
+          "score": 0.74
+        },
+        {
+          "word": "lively.",
+          "startSec": 108.64,
+          "endSec": 109.02,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 109.98,
+      "end": 113.91,
+      "text": "There are cafes, shops, and local restaurants.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 110.18,
+          "endSec": 110.38,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 110.38,
+          "endSec": 110.52,
+          "score": 1.0
+        },
+        {
+          "word": "cafes,",
+          "startSec": 110.52,
+          "endSec": 110.9,
+          "score": 0.94
+        },
+        {
+          "word": "shops,",
+          "startSec": 111.36,
+          "endSec": 112.24,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 112.86,
+          "endSec": 112.96,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 112.96,
+          "endSec": 113.24,
+          "score": 1.0
+        },
+        {
+          "word": "restaurants.",
+          "startSec": 113.24,
+          "endSec": 113.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 115.18,
+      "end": 120.77,
+      "text": "People walk in the streets, ride bicycles, and enjoy the city slowly.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 115.38,
+          "endSec": 115.68,
+          "score": 1.0
+        },
+        {
+          "word": "walk",
+          "startSec": 115.68,
+          "endSec": 116.18,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 116.18,
+          "endSec": 116.46,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 116.46,
+          "endSec": 116.58,
+          "score": 1.0
+        },
+        {
+          "word": "streets,",
+          "startSec": 116.58,
+          "endSec": 117.0,
+          "score": 1.0
+        },
+        {
+          "word": "ride",
+          "startSec": 117.1,
+          "endSec": 117.84,
+          "score": 1.0
+        },
+        {
+          "word": "bicycles,",
+          "startSec": 117.84,
+          "endSec": 118.4,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 118.64,
+          "endSec": 119.2,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 119.2,
+          "endSec": 119.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 119.56,
+          "endSec": 119.88,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 119.88,
+          "endSec": 120.22,
+          "score": 0.99
+        },
+        {
+          "word": "slowly.",
+          "startSec": 120.22,
+          "endSec": 120.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 121.44,
+      "end": 125.55,
+      "text": "The city is safe, welcoming, and full of character.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 121.64,
+          "endSec": 121.76,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 121.76,
+          "endSec": 122.12,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 122.12,
+          "endSec": 122.4,
+          "score": 1.0
+        },
+        {
+          "word": "safe,",
+          "startSec": 122.4,
+          "endSec": 122.86,
+          "score": 1.0
+        },
+        {
+          "word": "welcoming,",
+          "startSec": 123.46,
+          "endSec": 123.94,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 124.52,
+          "endSec": 124.64,
+          "score": 1.0
+        },
+        {
+          "word": "full",
+          "startSec": 124.64,
+          "endSec": 124.92,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 124.92,
+          "endSec": 125.14,
+          "score": 1.0
+        },
+        {
+          "word": "character.",
+          "startSec": 125.14,
+          "endSec": 125.4,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 126.3,
+      "end": 129.67,
+      "text": "Part six, food and PEX.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 126.5,
+          "endSec": 126.94,
+          "score": 0.2
+        },
+        {
+          "word": "six,",
+          "startSec": 126.94,
+          "endSec": 127.54,
+          "score": 0.21
+        },
+        {
+          "word": "food",
+          "startSec": 128.32,
+          "endSec": 128.78,
+          "score": 0.89
+        },
+        {
+          "word": "and",
+          "startSec": 128.78,
+          "endSec": 129.02,
+          "score": 0.91
+        },
+        {
+          "word": "PEX.",
+          "startSec": 129.02,
+          "endSec": 129.52,
+          "score": 0.12
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 129.92,
+      "end": 132.89,
+      "text": "Food and PEX is hearty and flavorful.",
+      "words": [
+        {
+          "word": "Food",
+          "startSec": 130.12,
+          "endSec": 130.6,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 130.6,
+          "endSec": 130.9,
+          "score": 0.94
+        },
+        {
+          "word": "PEX",
+          "startSec": 130.9,
+          "endSec": 131.38,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 131.38,
+          "endSec": 131.62,
+          "score": 0.99
+        },
+        {
+          "word": "hearty",
+          "startSec": 131.62,
+          "endSec": 132.0,
+          "score": 0.58
+        },
+        {
+          "word": "and",
+          "startSec": 132.0,
+          "endSec": 132.4,
+          "score": 0.99
+        },
+        {
+          "word": "flavorful.",
+          "startSec": 132.4,
+          "endSec": 132.74,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 133.86,
+      "end": 137.61,
+      "text": "People eat meat, potatoes, bread, and vegetables.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 134.06,
+          "endSec": 134.48,
+          "score": 0.95
+        },
+        {
+          "word": "eat",
+          "startSec": 134.48,
+          "endSec": 134.82,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 134.82,
+          "endSec": 135.22,
+          "score": 1.0
+        },
+        {
+          "word": "potatoes,",
+          "startSec": 135.22,
+          "endSec": 135.9,
+          "score": 0.99
+        },
+        {
+          "word": "bread,",
+          "startSec": 136.44,
+          "endSec": 136.6,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 136.6,
+          "endSec": 137.04,
+          "score": 1.0
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 137.04,
+          "endSec": 137.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 138.58,
+      "end": 144.75,
+      "text": "A popular dish is goulash, a soup or stew with meat and paprika.",
+      "words": [
+        {
+          "word": "A",
+          "startSec": 138.78,
+          "endSec": 139.0,
+          "score": 0.99
+        },
+        {
+          "word": "popular",
+          "startSec": 139.0,
+          "endSec": 139.48,
+          "score": 0.99
+        },
+        {
+          "word": "dish",
+          "startSec": 139.48,
+          "endSec": 139.98,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 139.98,
+          "endSec": 140.26,
+          "score": 1.0
+        },
+        {
+          "word": "goulash,",
+          "startSec": 140.26,
+          "endSec": 140.92,
+          "score": 0.77
+        },
+        {
+          "word": "a",
+          "startSec": 141.66,
+          "endSec": 141.78,
+          "score": 0.99
+        },
+        {
+          "word": "soup",
+          "startSec": 141.78,
+          "endSec": 142.18,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 142.18,
+          "endSec": 142.58,
+          "score": 0.92
+        },
+        {
+          "word": "stew",
+          "startSec": 142.58,
+          "endSec": 142.98,
+          "score": 0.99
+        },
+        {
+          "word": "with",
+          "startSec": 142.98,
+          "endSec": 143.4,
+          "score": 1.0
+        },
+        {
+          "word": "meat",
+          "startSec": 143.4,
+          "endSec": 143.72,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 143.72,
+          "endSec": 144.1,
+          "score": 0.94
+        },
+        {
+          "word": "paprika.",
+          "startSec": 144.1,
+          "endSec": 144.6,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 145.28,
+      "end": 149.35,
+      "text": "Local pastries and desserts are also very popular.",
+      "words": [
+        {
+          "word": "Local",
+          "startSec": 145.48,
+          "endSec": 145.96,
+          "score": 0.99
+        },
+        {
+          "word": "pastries",
+          "startSec": 145.96,
+          "endSec": 146.82,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 146.82,
+          "endSec": 147.1,
+          "score": 1.0
+        },
+        {
+          "word": "desserts",
+          "startSec": 147.1,
+          "endSec": 147.42,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 147.42,
+          "endSec": 147.96,
+          "score": 1.0
+        },
+        {
+          "word": "also",
+          "startSec": 147.96,
+          "endSec": 148.42,
+          "score": 0.99
+        },
+        {
+          "word": "very",
+          "startSec": 148.42,
+          "endSec": 148.76,
+          "score": 1.0
+        },
+        {
+          "word": "popular.",
+          "startSec": 148.76,
+          "endSec": 149.2,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 150.56,
+      "end": 153.11,
+      "text": "Part seven, the people of PEX.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 150.76,
+          "endSec": 150.92,
+          "score": 0.97
+        },
+        {
+          "word": "seven,",
+          "startSec": 150.92,
+          "endSec": 151.58,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 151.88,
+          "endSec": 152.0,
+          "score": 0.95
+        },
+        {
+          "word": "people",
+          "startSec": 152.0,
+          "endSec": 152.36,
+          "score": 0.92
+        },
+        {
+          "word": "of",
+          "startSec": 152.36,
+          "endSec": 152.62,
+          "score": 0.99
+        },
+        {
+          "word": "PEX.",
+          "startSec": 152.62,
+          "endSec": 152.96,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 153.66,
+      "end": 156.53,
+      "text": "People in PEX are friendly and polite.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 153.86,
+          "endSec": 154.28,
+          "score": 0.53
+        },
+        {
+          "word": "in",
+          "startSec": 154.28,
+          "endSec": 154.64,
+          "score": 0.79
+        },
+        {
+          "word": "PEX",
+          "startSec": 154.64,
+          "endSec": 154.94,
+          "score": 0.18
+        },
+        {
+          "word": "are",
+          "startSec": 154.94,
+          "endSec": 155.24,
+          "score": 0.96
+        },
+        {
+          "word": "friendly",
+          "startSec": 155.24,
+          "endSec": 155.56,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 155.56,
+          "endSec": 156.02,
+          "score": 0.93
+        },
+        {
+          "word": "polite.",
+          "startSec": 156.02,
+          "endSec": 156.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 157.34,
+      "end": 161.69,
+      "text": "They speak Hungarian, and some speak English for tourists.",
+      "words": [
+        {
+          "word": "They",
+          "startSec": 157.54,
+          "endSec": 157.72,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 157.72,
+          "endSec": 158.04,
+          "score": 1.0
+        },
+        {
+          "word": "Hungarian,",
+          "startSec": 158.04,
+          "endSec": 158.64,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 159.68,
+          "endSec": 159.76,
+          "score": 0.99
+        },
+        {
+          "word": "some",
+          "startSec": 159.76,
+          "endSec": 160.04,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 160.04,
+          "endSec": 160.42,
+          "score": 1.0
+        },
+        {
+          "word": "English",
+          "startSec": 160.42,
+          "endSec": 161.0,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 161.0,
+          "endSec": 161.32,
+          "score": 1.0
+        },
+        {
+          "word": "tourists.",
+          "startSec": 161.32,
+          "endSec": 161.54,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 162.72,
+      "end": 168.55,
+      "text": "Life is calm, family is important, and traditions are respected.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 162.92,
+          "endSec": 163.32,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 163.32,
+          "endSec": 163.7,
+          "score": 1.0
+        },
+        {
+          "word": "calm,",
+          "startSec": 163.7,
+          "endSec": 164.0,
+          "score": 1.0
+        },
+        {
+          "word": "family",
+          "startSec": 164.86,
+          "endSec": 165.24,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 165.24,
+          "endSec": 165.76,
+          "score": 1.0
+        },
+        {
+          "word": "important,",
+          "startSec": 165.76,
+          "endSec": 166.2,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 166.86,
+          "endSec": 166.96,
+          "score": 1.0
+        },
+        {
+          "word": "traditions",
+          "startSec": 166.96,
+          "endSec": 167.38,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 167.38,
+          "endSec": 167.92,
+          "score": 1.0
+        },
+        {
+          "word": "respected.",
+          "startSec": 167.92,
+          "endSec": 168.4,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 169.48,
+      "end": 174.45,
+      "text": "People enjoy music, art, and festivals throughout the year.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 169.68,
+          "endSec": 169.74,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 169.74,
+          "endSec": 170.36,
+          "score": 1.0
+        },
+        {
+          "word": "music,",
+          "startSec": 170.36,
+          "endSec": 171.1,
+          "score": 0.99
+        },
+        {
+          "word": "art,",
+          "startSec": 171.1,
+          "endSec": 171.9,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 172.14,
+          "endSec": 172.2,
+          "score": 1.0
+        },
+        {
+          "word": "festivals",
+          "startSec": 172.2,
+          "endSec": 172.84,
+          "score": 1.0
+        },
+        {
+          "word": "throughout",
+          "startSec": 172.84,
+          "endSec": 173.56,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 173.56,
+          "endSec": 173.98,
+          "score": 1.0
+        },
+        {
+          "word": "year.",
+          "startSec": 173.98,
+          "endSec": 174.3,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 175.48,
+      "end": 179.3,
+      "text": "Part eight, culture and festivals.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 175.68,
+          "endSec": 176.22,
+          "score": 0.57
+        },
+        {
+          "word": "eight,",
+          "startSec": 176.22,
+          "endSec": 176.68,
+          "score": 0.34
+        },
+        {
+          "word": "culture",
+          "startSec": 177.47,
+          "endSec": 178.15,
+          "score": 0.53
+        },
+        {
+          "word": "and",
+          "startSec": 178.15,
+          "endSec": 178.49,
+          "score": 0.98
+        },
+        {
+          "word": "festivals.",
+          "startSec": 178.49,
+          "endSec": 179.15,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 179.49,
+      "end": 183.26,
+      "text": "PEX has many cultural events and festivals.",
+      "words": [
+        {
+          "word": "PEX",
+          "startSec": 179.69,
+          "endSec": 179.95,
+          "score": 0.45
+        },
+        {
+          "word": "has",
+          "startSec": 179.95,
+          "endSec": 180.39,
+          "score": 0.99
+        },
+        {
+          "word": "many",
+          "startSec": 180.39,
+          "endSec": 180.93,
+          "score": 1.0
+        },
+        {
+          "word": "cultural",
+          "startSec": 180.93,
+          "endSec": 181.47,
+          "score": 1.0
+        },
+        {
+          "word": "events",
+          "startSec": 181.47,
+          "endSec": 182.27,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 182.27,
+          "endSec": 182.67,
+          "score": 0.98
+        },
+        {
+          "word": "festivals.",
+          "startSec": 182.67,
+          "endSec": 183.11,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 184.5,
+      "end": 189.31,
+      "text": "People celebrate music, dance, and art exhibitions.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 184.7,
+          "endSec": 184.96,
+          "score": 0.99
+        },
+        {
+          "word": "celebrate",
+          "startSec": 184.96,
+          "endSec": 185.6,
+          "score": 0.99
+        },
+        {
+          "word": "music,",
+          "startSec": 185.6,
+          "endSec": 186.3,
+          "score": 0.98
+        },
+        {
+          "word": "dance,",
+          "startSec": 186.44,
+          "endSec": 187.46,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 188.04,
+          "endSec": 188.18,
+          "score": 1.0
+        },
+        {
+          "word": "art",
+          "startSec": 188.18,
+          "endSec": 188.44,
+          "score": 1.0
+        },
+        {
+          "word": "exhibitions.",
+          "startSec": 188.44,
+          "endSec": 189.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 190.24,
+      "end": 196.01,
+      "text": "Classical music, folk dances, and street performances are common.",
+      "words": [
+        {
+          "word": "Classical",
+          "startSec": 190.44,
+          "endSec": 190.78,
+          "score": 0.95
+        },
+        {
+          "word": "music,",
+          "startSec": 190.78,
+          "endSec": 191.72,
+          "score": 1.0
+        },
+        {
+          "word": "folk",
+          "startSec": 192.24,
+          "endSec": 192.32,
+          "score": 1.0
+        },
+        {
+          "word": "dances,",
+          "startSec": 192.32,
+          "endSec": 192.8,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 193.54,
+          "endSec": 193.7,
+          "score": 1.0
+        },
+        {
+          "word": "street",
+          "startSec": 193.7,
+          "endSec": 194.08,
+          "score": 1.0
+        },
+        {
+          "word": "performances",
+          "startSec": 194.08,
+          "endSec": 194.78,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 194.78,
+          "endSec": 195.36,
+          "score": 1.0
+        },
+        {
+          "word": "common.",
+          "startSec": 195.36,
+          "endSec": 195.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 196.76,
+      "end": 201.01,
+      "text": "Visitors can enjoy and sometimes join the celebrations.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 196.96,
+          "endSec": 197.32,
+          "score": 0.98
+        },
+        {
+          "word": "can",
+          "startSec": 197.32,
+          "endSec": 197.88,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 197.88,
+          "endSec": 198.28,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 198.28,
+          "endSec": 198.9,
+          "score": 0.86
+        },
+        {
+          "word": "sometimes",
+          "startSec": 198.9,
+          "endSec": 199.52,
+          "score": 0.99
+        },
+        {
+          "word": "join",
+          "startSec": 199.52,
+          "endSec": 199.98,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 199.98,
+          "endSec": 200.34,
+          "score": 0.99
+        },
+        {
+          "word": "celebrations.",
+          "startSec": 200.34,
+          "endSec": 200.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 201.95,
+      "end": 205.74,
+      "text": "Part nine, nature around PEX.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 202.15,
+          "endSec": 203.03,
+          "score": 0.15
+        },
+        {
+          "word": "nine,",
+          "startSec": 203.03,
+          "endSec": 203.61,
+          "score": 0.2
+        },
+        {
+          "word": "nature",
+          "startSec": 204.11,
+          "endSec": 204.67,
+          "score": 0.63
+        },
+        {
+          "word": "around",
+          "startSec": 204.67,
+          "endSec": 205.11,
+          "score": 0.95
+        },
+        {
+          "word": "PEX.",
+          "startSec": 205.11,
+          "endSec": 205.59,
+          "score": 0.22
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 206.14,
+      "end": 210.31,
+      "text": "PEX is near the mexec mountains and rivers.",
+      "words": [
+        {
+          "word": "PEX",
+          "startSec": 206.34,
+          "endSec": 207.02,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 207.02,
+          "endSec": 207.36,
+          "score": 0.99
+        },
+        {
+          "word": "near",
+          "startSec": 207.36,
+          "endSec": 207.76,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 207.76,
+          "endSec": 208.12,
+          "score": 0.99
+        },
+        {
+          "word": "mexec",
+          "startSec": 208.12,
+          "endSec": 208.7,
+          "score": 0.46
+        },
+        {
+          "word": "mountains",
+          "startSec": 208.7,
+          "endSec": 209.3,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 209.3,
+          "endSec": 209.84,
+          "score": 1.0
+        },
+        {
+          "word": "rivers.",
+          "startSec": 209.84,
+          "endSec": 210.16,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 211.08,
+      "end": 214.89,
+      "text": "You can hike, cycle, or explore nature.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 211.28,
+          "endSec": 211.52,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 211.52,
+          "endSec": 211.74,
+          "score": 1.0
+        },
+        {
+          "word": "hike,",
+          "startSec": 211.74,
+          "endSec": 212.2,
+          "score": 0.99
+        },
+        {
+          "word": "cycle,",
+          "startSec": 212.36,
+          "endSec": 213.02,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 213.74,
+          "endSec": 213.8,
+          "score": 0.99
+        },
+        {
+          "word": "explore",
+          "startSec": 213.8,
+          "endSec": 214.34,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 214.34,
+          "endSec": 214.74,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 215.7,
+      "end": 221.13,
+      "text": "The air is fresh, and the hills and forests are perfect for quiet walks.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 215.9,
+          "endSec": 216.12,
+          "score": 1.0
+        },
+        {
+          "word": "air",
+          "startSec": 216.12,
+          "endSec": 216.38,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 216.38,
+          "endSec": 216.66,
+          "score": 1.0
+        },
+        {
+          "word": "fresh,",
+          "startSec": 216.66,
+          "endSec": 216.98,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 217.7,
+          "endSec": 217.92,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 217.92,
+          "endSec": 218.1,
+          "score": 0.99
+        },
+        {
+          "word": "hills",
+          "startSec": 218.1,
+          "endSec": 218.36,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 218.36,
+          "endSec": 218.64,
+          "score": 0.99
+        },
+        {
+          "word": "forests",
+          "startSec": 218.64,
+          "endSec": 219.0,
+          "score": 0.96
+        },
+        {
+          "word": "are",
+          "startSec": 219.0,
+          "endSec": 219.38,
+          "score": 1.0
+        },
+        {
+          "word": "perfect",
+          "startSec": 219.38,
+          "endSec": 219.88,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 219.88,
+          "endSec": 220.2,
+          "score": 1.0
+        },
+        {
+          "word": "quiet",
+          "startSec": 220.2,
+          "endSec": 220.66,
+          "score": 1.0
+        },
+        {
+          "word": "walks.",
+          "startSec": 220.66,
+          "endSec": 220.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 221.94,
+      "end": 226.25,
+      "text": "It is ideal for photography and enjoying nature.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 222.14,
+          "endSec": 222.34,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 222.34,
+          "endSec": 222.48,
+          "score": 0.99
+        },
+        {
+          "word": "ideal",
+          "startSec": 222.48,
+          "endSec": 222.8,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "startSec": 222.8,
+          "endSec": 223.42,
+          "score": 1.0
+        },
+        {
+          "word": "photography",
+          "startSec": 223.42,
+          "endSec": 223.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 223.86,
+          "endSec": 224.96,
+          "score": 0.97
+        },
+        {
+          "word": "enjoying",
+          "startSec": 224.96,
+          "endSec": 225.4,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 225.4,
+          "endSec": 226.1,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 225.9,
+      "end": 234.17,
+      "text": "Part ten, travel and tourism PEX is reachable by train, bus, or car,",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 226.1,
+          "endSec": 227.04,
+          "score": 0.25
+        },
+        {
+          "word": "ten,",
+          "startSec": 227.04,
+          "endSec": 227.58,
+          "score": 0.03
+        },
+        {
+          "word": "travel",
+          "startSec": 228.42,
+          "endSec": 229.06,
+          "score": 0.77
+        },
+        {
+          "word": "and",
+          "startSec": 229.06,
+          "endSec": 229.36,
+          "score": 0.91
+        },
+        {
+          "word": "tourism",
+          "startSec": 229.36,
+          "endSec": 229.7,
+          "score": 1.0
+        },
+        {
+          "word": "PEX",
+          "startSec": 229.7,
+          "endSec": 230.46,
+          "score": 0.2
+        },
+        {
+          "word": "is",
+          "startSec": 230.46,
+          "endSec": 230.94,
+          "score": 0.96
+        },
+        {
+          "word": "reachable",
+          "startSec": 230.94,
+          "endSec": 231.6,
+          "score": 0.98
+        },
+        {
+          "word": "by",
+          "startSec": 231.6,
+          "endSec": 231.92,
+          "score": 0.99
+        },
+        {
+          "word": "train,",
+          "startSec": 231.92,
+          "endSec": 232.34,
+          "score": 0.99
+        },
+        {
+          "word": "bus,",
+          "startSec": 232.86,
+          "endSec": 233.16,
+          "score": 1.0
+        },
+        {
+          "word": "or",
+          "startSec": 233.6,
+          "endSec": 233.68,
+          "score": 0.99
+        },
+        {
+          "word": "car,",
+          "startSec": 233.68,
+          "endSec": 234.02,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 234.42,
+      "end": 237.03,
+      "text": "from Budapest or other cities.",
+      "words": [
+        {
+          "word": "from",
+          "startSec": 234.62,
+          "endSec": 234.9,
+          "score": 0.99
+        },
+        {
+          "word": "Budapest",
+          "startSec": 234.9,
+          "endSec": 235.32,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 235.32,
+          "endSec": 236.08,
+          "score": 0.97
+        },
+        {
+          "word": "other",
+          "startSec": 236.08,
+          "endSec": 236.4,
+          "score": 1.0
+        },
+        {
+          "word": "cities.",
+          "startSec": 236.4,
+          "endSec": 236.88,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 237.78,
+      "end": 242.87,
+      "text": "Tourists come to see history, culture, and peaceful surroundings.",
+      "words": [
+        {
+          "word": "Tourists",
+          "startSec": 237.98,
+          "endSec": 238.7,
+          "score": 0.93
+        },
+        {
+          "word": "come",
+          "startSec": 238.7,
+          "endSec": 239.08,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 239.08,
+          "endSec": 239.4,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 239.4,
+          "endSec": 239.66,
+          "score": 1.0
+        },
+        {
+          "word": "history,",
+          "startSec": 239.66,
+          "endSec": 240.24,
+          "score": 1.0
+        },
+        {
+          "word": "culture,",
+          "startSec": 240.26,
+          "endSec": 240.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 241.4,
+          "endSec": 241.44,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 241.44,
+          "endSec": 241.84,
+          "score": 1.0
+        },
+        {
+          "word": "surroundings.",
+          "startSec": 241.84,
+          "endSec": 242.72,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 243.89,
+      "end": 248.8,
+      "text": "Tourism helps local people earn money and preserve traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "startSec": 244.09,
+          "endSec": 244.51,
+          "score": 0.97
+        },
+        {
+          "word": "helps",
+          "startSec": 244.51,
+          "endSec": 245.11,
+          "score": 0.99
+        },
+        {
+          "word": "local",
+          "startSec": 245.11,
+          "endSec": 245.59,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 245.59,
+          "endSec": 246.21,
+          "score": 1.0
+        },
+        {
+          "word": "earn",
+          "startSec": 246.21,
+          "endSec": 246.69,
+          "score": 1.0
+        },
+        {
+          "word": "money",
+          "startSec": 246.69,
+          "endSec": 247.31,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 247.31,
+          "endSec": 247.63,
+          "score": 0.93
+        },
+        {
+          "word": "preserve",
+          "startSec": 247.63,
+          "endSec": 247.93,
+          "score": 1.0
+        },
+        {
+          "word": "traditions.",
+          "startSec": 247.93,
+          "endSec": 248.65,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 249.99,
+      "end": 253.22,
+      "text": "Part eleven, daily life in PEX.",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 250.19,
+          "endSec": 250.19,
+          "score": 0.99
+        },
+        {
+          "word": "eleven,",
+          "startSec": 250.19,
+          "endSec": 250.61,
+          "score": 0.4
+        },
+        {
+          "word": "daily",
+          "startSec": 251.41,
+          "endSec": 251.73,
+          "score": 0.96
+        },
+        {
+          "word": "life",
+          "startSec": 251.73,
+          "endSec": 252.33,
+          "score": 0.97
+        },
+        {
+          "word": "in",
+          "startSec": 252.33,
+          "endSec": 252.65,
+          "score": 0.87
+        },
+        {
+          "word": "PEX.",
+          "startSec": 252.65,
+          "endSec": 253.07,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 253.83,
+      "end": 257.14,
+      "text": "Life in PEX is calm and simple.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 254.03,
+          "endSec": 254.47,
+          "score": 0.29
+        },
+        {
+          "word": "in",
+          "startSec": 254.47,
+          "endSec": 254.71,
+          "score": 0.91
+        },
+        {
+          "word": "PEX",
+          "startSec": 254.71,
+          "endSec": 255.11,
+          "score": 0.32
+        },
+        {
+          "word": "is",
+          "startSec": 255.11,
+          "endSec": 255.53,
+          "score": 0.97
+        },
+        {
+          "word": "calm",
+          "startSec": 255.53,
+          "endSec": 256.01,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 256.01,
+          "endSec": 256.45,
+          "score": 0.99
+        },
+        {
+          "word": "simple.",
+          "startSec": 256.45,
+          "endSec": 256.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 257.71,
+      "end": 263.76,
+      "text": "People wake up early, go to work or school, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 257.91,
+          "endSec": 258.35,
+          "score": 0.98
+        },
+        {
+          "word": "wake",
+          "startSec": 258.35,
+          "endSec": 258.71,
+          "score": 1.0
+        },
+        {
+          "word": "up",
+          "startSec": 258.71,
+          "endSec": 259.01,
+          "score": 1.0
+        },
+        {
+          "word": "early,",
+          "startSec": 259.01,
+          "endSec": 259.51,
+          "score": 1.0
+        },
+        {
+          "word": "go",
+          "startSec": 260.07,
+          "endSec": 260.27,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 260.27,
+          "endSec": 260.47,
+          "score": 0.99
+        },
+        {
+          "word": "work",
+          "startSec": 260.47,
+          "endSec": 260.79,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 260.79,
+          "endSec": 261.03,
+          "score": 0.99
+        },
+        {
+          "word": "school,",
+          "startSec": 261.03,
+          "endSec": 261.45,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 262.03,
+          "endSec": 262.15,
+          "score": 0.99
+        },
+        {
+          "word": "spend",
+          "startSec": 262.15,
+          "endSec": 262.49,
+          "score": 1.0
+        },
+        {
+          "word": "time",
+          "startSec": 262.49,
+          "endSec": 262.95,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 262.95,
+          "endSec": 263.23,
+          "score": 1.0
+        },
+        {
+          "word": "family.",
+          "startSec": 263.23,
+          "endSec": 263.61,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 264.45,
+      "end": 271.14,
+      "text": "Children play in streets or parks, and families enjoy cafes or walking.",
+      "words": [
+        {
+          "word": "Children",
+          "startSec": 264.65,
+          "endSec": 265.15,
+          "score": 0.99
+        },
+        {
+          "word": "play",
+          "startSec": 265.15,
+          "endSec": 265.75,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 265.75,
+          "endSec": 266.11,
+          "score": 1.0
+        },
+        {
+          "word": "streets",
+          "startSec": 266.11,
+          "endSec": 266.47,
+          "score": 0.97
+        },
+        {
+          "word": "or",
+          "startSec": 266.47,
+          "endSec": 267.01,
+          "score": 0.98
+        },
+        {
+          "word": "parks,",
+          "startSec": 267.01,
+          "endSec": 267.35,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 268.05,
+          "endSec": 268.25,
+          "score": 1.0
+        },
+        {
+          "word": "families",
+          "startSec": 268.25,
+          "endSec": 268.89,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 268.89,
+          "endSec": 269.49,
+          "score": 1.0
+        },
+        {
+          "word": "cafes",
+          "startSec": 269.49,
+          "endSec": 270.11,
+          "score": 0.95
+        },
+        {
+          "word": "or",
+          "startSec": 270.11,
+          "endSec": 270.57,
+          "score": 0.99
+        },
+        {
+          "word": "walking.",
+          "startSec": 270.57,
+          "endSec": 270.99,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 271.97,
+      "end": 276.64,
+      "text": "Life is connected to culture, community, and nature.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 272.17,
+          "endSec": 272.41,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 272.41,
+          "endSec": 272.79,
+          "score": 1.0
+        },
+        {
+          "word": "connected",
+          "startSec": 272.79,
+          "endSec": 273.23,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 273.23,
+          "endSec": 273.73,
+          "score": 1.0
+        },
+        {
+          "word": "culture,",
+          "startSec": 273.73,
+          "endSec": 274.25,
+          "score": 0.99
+        },
+        {
+          "word": "community,",
+          "startSec": 275.03,
+          "endSec": 275.43,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 276.07,
+          "endSec": 276.13,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 276.13,
+          "endSec": 276.49,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 279.05,
+      "end": 282.14,
+      "text": "Part twelve, why PEX is special?",
+      "words": [
+        {
+          "word": "Part",
+          "startSec": 279.25,
+          "endSec": 279.25,
+          "score": 0.92
+        },
+        {
+          "word": "twelve,",
+          "startSec": 279.25,
+          "endSec": 279.87,
+          "score": 0.02
+        },
+        {
+          "word": "why",
+          "startSec": 280.73,
+          "endSec": 280.77,
+          "score": 0.76
+        },
+        {
+          "word": "PEX",
+          "startSec": 280.77,
+          "endSec": 281.33,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 281.33,
+          "endSec": 281.61,
+          "score": 0.97
+        },
+        {
+          "word": "special?",
+          "startSec": 281.61,
+          "endSec": 281.99,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 283.11,
+      "end": 291.76,
+      "text": "PEX is not a famous city like Budapest, but it is full of charm, history, and calm life.",
+      "words": [
+        {
+          "word": "PEX",
+          "startSec": 283.31,
+          "endSec": 283.85,
+          "score": 0.19
+        },
+        {
+          "word": "is",
+          "startSec": 283.85,
+          "endSec": 284.17,
+          "score": 0.94
+        },
+        {
+          "word": "not",
+          "startSec": 284.17,
+          "endSec": 284.47,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 284.47,
+          "endSec": 284.65,
+          "score": 0.99
+        },
+        {
+          "word": "famous",
+          "startSec": 284.65,
+          "endSec": 285.09,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 285.09,
+          "endSec": 285.57,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 285.57,
+          "endSec": 285.93,
+          "score": 0.97
+        },
+        {
+          "word": "Budapest,",
+          "startSec": 285.93,
+          "endSec": 286.27,
+          "score": 0.99
+        },
+        {
+          "word": "but",
+          "startSec": 287.47,
+          "endSec": 287.71,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 287.71,
+          "endSec": 287.87,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 287.87,
+          "endSec": 288.07,
+          "score": 0.98
+        },
+        {
+          "word": "full",
+          "startSec": 288.07,
+          "endSec": 288.33,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 288.33,
+          "endSec": 288.55,
+          "score": 1.0
+        },
+        {
+          "word": "charm,",
+          "startSec": 288.55,
+          "endSec": 289.01,
+          "score": 0.99
+        },
+        {
+          "word": "history,",
+          "startSec": 289.69,
+          "endSec": 289.77,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 290.75,
+          "endSec": 290.75,
+          "score": 0.99
+        },
+        {
+          "word": "calm",
+          "startSec": 290.75,
+          "endSec": 291.05,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 291.05,
+          "endSec": 291.61,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 292.44,
+      "end": 297.89,
+      "text": "It combines European architecture, nature, and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 292.64,
+          "endSec": 292.8,
+          "score": 0.98
+        },
+        {
+          "word": "combines",
+          "startSec": 292.8,
+          "endSec": 293.18,
+          "score": 1.0
+        },
+        {
+          "word": "European",
+          "startSec": 293.18,
+          "endSec": 293.86,
+          "score": 1.0
+        },
+        {
+          "word": "architecture,",
+          "startSec": 293.86,
+          "endSec": 294.58,
+          "score": 0.99
+        },
+        {
+          "word": "nature,",
+          "startSec": 295.36,
+          "endSec": 295.66,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 295.98,
+          "endSec": 296.06,
+          "score": 1.0
+        },
+        {
+          "word": "friendly",
+          "startSec": 296.06,
+          "endSec": 296.42,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 296.42,
+          "endSec": 297.12,
+          "score": 1.0
+        },
+        {
+          "word": "beautifully.",
+          "startSec": 297.12,
+          "endSec": 297.74,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 298.83,
+      "end": 303.92,
+      "text": "Visitors feel relaxed, inspired, and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "startSec": 299.03,
+          "endSec": 299.45,
+          "score": 0.98
+        },
+        {
+          "word": "feel",
+          "startSec": 299.45,
+          "endSec": 300.07,
+          "score": 1.0
+        },
+        {
+          "word": "relaxed,",
+          "startSec": 300.07,
+          "endSec": 300.75,
+          "score": 1.0
+        },
+        {
+          "word": "inspired,",
+          "startSec": 301.97,
+          "endSec": 301.97,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 302.77,
+          "endSec": 302.81,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 302.81,
+          "endSec": 303.27,
+          "score": 1.0
+        },
+        {
+          "word": "here.",
+          "startSec": 303.27,
+          "endSec": 303.77,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 308.92,
+      "end": 314.81,
+      "text": "I am Emily, and I hope you enjoyed this journey through PEX Hungary.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 309.12,
+          "endSec": 309.86,
+          "score": 0.57
+        },
+        {
+          "word": "am",
+          "startSec": 309.86,
+          "endSec": 310.08,
+          "score": 0.77
+        },
+        {
+          "word": "Emily,",
+          "startSec": 310.08,
+          "endSec": 310.46,
+          "score": 0.22
+        },
+        {
+          "word": "and",
+          "startSec": 311.14,
+          "endSec": 311.26,
+          "score": 0.97
+        },
+        {
+          "word": "I",
+          "startSec": 311.26,
+          "endSec": 311.42,
+          "score": 0.99
+        },
+        {
+          "word": "hope",
+          "startSec": 311.42,
+          "endSec": 311.72,
+          "score": 1.0
+        },
+        {
+          "word": "you",
+          "startSec": 311.72,
+          "endSec": 312.0,
+          "score": 1.0
+        },
+        {
+          "word": "enjoyed",
+          "startSec": 312.0,
+          "endSec": 312.28,
+          "score": 0.97
+        },
+        {
+          "word": "this",
+          "startSec": 312.28,
+          "endSec": 312.74,
+          "score": 0.99
+        },
+        {
+          "word": "journey",
+          "startSec": 312.74,
+          "endSec": 313.04,
+          "score": 0.99
+        },
+        {
+          "word": "through",
+          "startSec": 313.04,
+          "endSec": 313.64,
+          "score": 0.97
+        },
+        {
+          "word": "PEX",
+          "startSec": 313.64,
+          "endSec": 314.02,
+          "score": 0.19
+        },
+        {
+          "word": "Hungary.",
+          "startSec": 314.02,
+          "endSec": 314.66,
+          "score": 0.56
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 317.71,
+      "end": 319.04,
+      "text": "Goodbye for now.",
+      "words": [
+        {
+          "word": "Goodbye",
+          "startSec": 317.91,
+          "endSec": 318.07,
+          "score": 0.82
+        },
+        {
+          "word": "for",
+          "startSec": 318.07,
+          "endSec": 318.59,
+          "score": 0.97
+        },
+        {
+          "word": "now.",
+          "startSec": 318.59,
+          "endSec": 318.89,
+          "score": 0.99
         }
       ]
     }

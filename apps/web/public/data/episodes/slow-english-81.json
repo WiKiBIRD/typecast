@@ -71,38 +71,6 @@
     },
     {
       "id": 2,
-      "start": 4.18,
-      "end": 6.19,
-      "text": "My name is Emilie.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 4.38,
-          "endSec": 4.74,
-          "score": 1.0
-        },
-        {
-          "word": "name",
-          "startSec": 4.74,
-          "endSec": 4.96,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 4.96,
-          "endSec": 5.3,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie.",
-          "startSec": 5.3,
-          "endSec": 6.04,
-          "score": 0.6
-        }
-      ]
-    },
-    {
-      "id": 3,
       "start": 6.08,
       "end": 7.83,
       "text": "I am happy you are here.",
@@ -146,7 +114,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "start": 8.2,
       "end": 11.73,
       "text": "Today, we will talk about Fiji.",
@@ -190,7 +158,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "start": 12.97,
       "end": 16.66,
       "text": "Fiji is a group of islands in the Pacific Ocean.",
@@ -258,7 +226,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "start": 17.55,
       "end": 20.24,
       "text": "Let's learn about it in simple English.",
@@ -308,7 +276,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "start": 20.97,
       "end": 22.5,
       "text": "I will speak slowly.",
@@ -340,7 +308,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "start": 22.81,
       "end": 25.88,
       "text": "You can listen and repeat if you want.",
@@ -396,7 +364,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "start": 26.11,
       "end": 27.42,
       "text": "Are you ready?",
@@ -422,7 +390,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "start": 27.93,
       "end": 29.06,
       "text": "Let's begin.",
@@ -438,6 +406,4224 @@
           "startSec": 28.57,
           "endSec": 28.91,
           "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 30.1,
+      "end": 31.31,
+      "text": "Where is Fiji?",
+      "words": [
+        {
+          "word": "Where",
+          "startSec": 30.3,
+          "endSec": 30.64,
+          "score": 0.73
+        },
+        {
+          "word": "is",
+          "startSec": 30.64,
+          "endSec": 30.94,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 30.94,
+          "endSec": 31.16,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 32.16,
+      "end": 35.15,
+      "text": "Fiji is in the South Pacific Ocean.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 32.36,
+          "endSec": 32.68,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 32.68,
+          "endSec": 33.24,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 33.24,
+          "endSec": 33.4,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 33.4,
+          "endSec": 33.56,
+          "score": 0.99
+        },
+        {
+          "word": "South",
+          "startSec": 33.56,
+          "endSec": 33.88,
+          "score": 0.86
+        },
+        {
+          "word": "Pacific",
+          "startSec": 33.88,
+          "endSec": 34.32,
+          "score": 1.0
+        },
+        {
+          "word": "Ocean.",
+          "startSec": 34.32,
+          "endSec": 35.0,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 35.74,
+      "end": 38.05,
+      "text": "It is far from big continents.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 35.94,
+          "endSec": 36.04,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 36.04,
+          "endSec": 36.24,
+          "score": 0.99
+        },
+        {
+          "word": "far",
+          "startSec": 36.24,
+          "endSec": 36.54,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 36.54,
+          "endSec": 37.1,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 37.1,
+          "endSec": 37.36,
+          "score": 0.96
+        },
+        {
+          "word": "continents.",
+          "startSec": 37.36,
+          "endSec": 37.9,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 38.62,
+      "end": 43.21,
+      "text": "It is close to New Zealand, Australia and Tonga.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 38.82,
+          "endSec": 38.96,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 38.96,
+          "endSec": 39.14,
+          "score": 0.99
+        },
+        {
+          "word": "close",
+          "startSec": 39.14,
+          "endSec": 39.46,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 39.46,
+          "endSec": 39.9,
+          "score": 1.0
+        },
+        {
+          "word": "New",
+          "startSec": 39.9,
+          "endSec": 40.12,
+          "score": 0.99
+        },
+        {
+          "word": "Zealand,",
+          "startSec": 40.12,
+          "endSec": 40.64,
+          "score": 1.0
+        },
+        {
+          "word": "Australia",
+          "startSec": 41.14,
+          "endSec": 41.68,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 41.68,
+          "endSec": 42.38,
+          "score": 0.66
+        },
+        {
+          "word": "Tonga.",
+          "startSec": 42.38,
+          "endSec": 43.06,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 44.11,
+      "end": 47.5,
+      "text": "Fiji is made of over 300 islands.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 44.31,
+          "endSec": 44.61,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 44.61,
+          "endSec": 45.13,
+          "score": 0.99
+        },
+        {
+          "word": "made",
+          "startSec": 45.13,
+          "endSec": 45.47,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 45.47,
+          "endSec": 45.71,
+          "score": 0.98
+        },
+        {
+          "word": "over",
+          "startSec": 45.71,
+          "endSec": 46.11,
+          "score": 0.99
+        },
+        {
+          "word": "300",
+          "startSec": 46.11,
+          "endSec": 46.57,
+          "score": 0.97
+        },
+        {
+          "word": "islands.",
+          "startSec": 46.57,
+          "endSec": 47.35,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 48.13,
+      "end": 52.58,
+      "text": "Only about 100 islands have people living on them.",
+      "words": [
+        {
+          "word": "Only",
+          "startSec": 48.33,
+          "endSec": 48.81,
+          "score": 0.99
+        },
+        {
+          "word": "about",
+          "startSec": 48.81,
+          "endSec": 49.09,
+          "score": 0.99
+        },
+        {
+          "word": "100",
+          "startSec": 49.09,
+          "endSec": 49.55,
+          "score": 0.95
+        },
+        {
+          "word": "islands",
+          "startSec": 49.55,
+          "endSec": 50.49,
+          "score": 0.98
+        },
+        {
+          "word": "have",
+          "startSec": 50.49,
+          "endSec": 51.01,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 51.01,
+          "endSec": 51.33,
+          "score": 1.0
+        },
+        {
+          "word": "living",
+          "startSec": 51.33,
+          "endSec": 51.79,
+          "score": 1.0
+        },
+        {
+          "word": "on",
+          "startSec": 51.79,
+          "endSec": 52.19,
+          "score": 1.0
+        },
+        {
+          "word": "them.",
+          "startSec": 52.19,
+          "endSec": 52.43,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 53.55,
+      "end": 56.32,
+      "text": "What is the capital city of Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 53.75,
+          "endSec": 54.23,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 54.23,
+          "endSec": 54.43,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 54.43,
+          "endSec": 54.63,
+          "score": 1.0
+        },
+        {
+          "word": "capital",
+          "startSec": 54.63,
+          "endSec": 55.09,
+          "score": 0.99
+        },
+        {
+          "word": "city",
+          "startSec": 55.09,
+          "endSec": 55.57,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 55.57,
+          "endSec": 55.87,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 55.87,
+          "endSec": 56.17,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 56.61,
+      "end": 59.92,
+      "text": "The capital city is Suva.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 56.81,
+          "endSec": 57.23,
+          "score": 0.23
+        },
+        {
+          "word": "capital",
+          "startSec": 57.39,
+          "endSec": 58.15,
+          "score": 0.84
+        },
+        {
+          "word": "city",
+          "startSec": 58.15,
+          "endSec": 58.75,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 58.75,
+          "endSec": 59.17,
+          "score": 0.99
+        },
+        {
+          "word": "Suva.",
+          "startSec": 59.17,
+          "endSec": 59.77,
+          "score": 0.71
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 59.85,
+      "end": 62.98,
+      "text": "Suva is on the island of Vidi Livu.",
+      "words": [
+        {
+          "word": "Suva",
+          "startSec": 60.05,
+          "endSec": 60.55,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 60.55,
+          "endSec": 60.75,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 60.75,
+          "endSec": 60.93,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 60.93,
+          "endSec": 61.09,
+          "score": 0.99
+        },
+        {
+          "word": "island",
+          "startSec": 61.09,
+          "endSec": 61.59,
+          "score": 0.94
+        },
+        {
+          "word": "of",
+          "startSec": 61.59,
+          "endSec": 61.91,
+          "score": 0.99
+        },
+        {
+          "word": "Vidi",
+          "startSec": 61.91,
+          "endSec": 62.29,
+          "score": 0.47
+        },
+        {
+          "word": "Livu.",
+          "startSec": 62.29,
+          "endSec": 62.83,
+          "score": 0.39
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 63.46,
+      "end": 65.81,
+      "text": "It is the biggest city in Fiji.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 63.66,
+          "endSec": 63.9,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 63.9,
+          "endSec": 64.08,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 64.08,
+          "endSec": 64.24,
+          "score": 1.0
+        },
+        {
+          "word": "biggest",
+          "startSec": 64.24,
+          "endSec": 64.58,
+          "score": 1.0
+        },
+        {
+          "word": "city",
+          "startSec": 64.58,
+          "endSec": 65.12,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 65.12,
+          "endSec": 65.4,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji.",
+          "startSec": 65.4,
+          "endSec": 65.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 66.52,
+      "end": 69.95,
+      "text": "It has shops, schools and offices.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 66.72,
+          "endSec": 66.86,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 66.86,
+          "endSec": 67.12,
+          "score": 1.0
+        },
+        {
+          "word": "shops,",
+          "startSec": 67.12,
+          "endSec": 67.56,
+          "score": 1.0
+        },
+        {
+          "word": "schools",
+          "startSec": 67.82,
+          "endSec": 68.68,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 68.68,
+          "endSec": 69.24,
+          "score": 0.56
+        },
+        {
+          "word": "offices.",
+          "startSec": 69.24,
+          "endSec": 69.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 70.38,
+      "end": 72.79,
+      "text": "Another big town is Nadi.",
+      "words": [
+        {
+          "word": "Another",
+          "startSec": 70.58,
+          "endSec": 70.96,
+          "score": 1.0
+        },
+        {
+          "word": "big",
+          "startSec": 70.96,
+          "endSec": 71.28,
+          "score": 1.0
+        },
+        {
+          "word": "town",
+          "startSec": 71.28,
+          "endSec": 71.68,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 71.68,
+          "endSec": 72.22,
+          "score": 1.0
+        },
+        {
+          "word": "Nadi.",
+          "startSec": 72.22,
+          "endSec": 72.64,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 73.42,
+      "end": 75.67,
+      "text": "Nadi has the main airport.",
+      "words": [
+        {
+          "word": "Nadi",
+          "startSec": 73.62,
+          "endSec": 74.1,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 74.1,
+          "endSec": 74.54,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 74.54,
+          "endSec": 74.78,
+          "score": 1.0
+        },
+        {
+          "word": "main",
+          "startSec": 74.78,
+          "endSec": 75.04,
+          "score": 1.0
+        },
+        {
+          "word": "airport.",
+          "startSec": 75.04,
+          "endSec": 75.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 76.6,
+      "end": 78.99,
+      "text": "Many tourists arrive there.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 76.8,
+          "endSec": 77.12,
+          "score": 0.99
+        },
+        {
+          "word": "tourists",
+          "startSec": 77.12,
+          "endSec": 77.72,
+          "score": 1.0
+        },
+        {
+          "word": "arrive",
+          "startSec": 77.72,
+          "endSec": 78.28,
+          "score": 0.8
+        },
+        {
+          "word": "there.",
+          "startSec": 78.28,
+          "endSec": 78.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 80.02,
+      "end": 82.11,
+      "text": "How many people live in Fiji?",
+      "words": [
+        {
+          "word": "How",
+          "startSec": 80.22,
+          "endSec": 80.46,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 80.46,
+          "endSec": 80.66,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 80.66,
+          "endSec": 81.2,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 81.2,
+          "endSec": 81.5,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 81.5,
+          "endSec": 81.72,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 81.72,
+          "endSec": 81.96,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 82.83,
+      "end": 86.62,
+      "text": "About 900,000 people live in Fiji.",
+      "words": [
+        {
+          "word": "About",
+          "startSec": 83.03,
+          "endSec": 83.53,
+          "score": 0.01
+        },
+        {
+          "word": "900",
+          "startSec": 83.53,
+          "endSec": 84.19,
+          "score": 0.94
+        },
+        {
+          "word": ",000",
+          "startSec": 84.19,
+          "endSec": 85.27,
+          "score": 0.96
+        },
+        {
+          "word": "people",
+          "startSec": 85.27,
+          "endSec": 85.67,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 85.67,
+          "endSec": 86.05,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 86.05,
+          "endSec": 86.23,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji.",
+          "startSec": 86.23,
+          "endSec": 86.47,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 87.68,
+      "end": 91.13,
+      "text": "Most people live on the two biggest islands.",
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 87.88,
+          "endSec": 88.22,
+          "score": 0.97
+        },
+        {
+          "word": "people",
+          "startSec": 88.22,
+          "endSec": 88.58,
+          "score": 1.0
+        },
+        {
+          "word": "live",
+          "startSec": 88.58,
+          "endSec": 89.14,
+          "score": 0.99
+        },
+        {
+          "word": "on",
+          "startSec": 89.14,
+          "endSec": 89.56,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 89.56,
+          "endSec": 89.74,
+          "score": 0.98
+        },
+        {
+          "word": "two",
+          "startSec": 89.74,
+          "endSec": 89.96,
+          "score": 0.97
+        },
+        {
+          "word": "biggest",
+          "startSec": 89.96,
+          "endSec": 90.38,
+          "score": 0.99
+        },
+        {
+          "word": "islands.",
+          "startSec": 90.38,
+          "endSec": 90.98,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 91.92,
+      "end": 95.09,
+      "text": "Vidi Livu and Vanualavu.",
+      "words": [
+        {
+          "word": "Vidi",
+          "startSec": 92.12,
+          "endSec": 92.54,
+          "score": 0.34
+        },
+        {
+          "word": "Livu",
+          "startSec": 92.54,
+          "endSec": 93.1,
+          "score": 0.35
+        },
+        {
+          "word": "and",
+          "startSec": 93.1,
+          "endSec": 93.84,
+          "score": 0.94
+        },
+        {
+          "word": "Vanualavu.",
+          "startSec": 93.84,
+          "endSec": 94.94,
+          "score": 0.58
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 95.4,
+      "end": 98.03,
+      "text": "Many people live near the sea.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 95.6,
+          "endSec": 96.12,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 96.12,
+          "endSec": 96.7,
+          "score": 0.99
+        },
+        {
+          "word": "live",
+          "startSec": 96.7,
+          "endSec": 97.06,
+          "score": 0.98
+        },
+        {
+          "word": "near",
+          "startSec": 97.06,
+          "endSec": 97.36,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 97.36,
+          "endSec": 97.6,
+          "score": 0.99
+        },
+        {
+          "word": "sea.",
+          "startSec": 97.6,
+          "endSec": 97.88,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 98.8,
+      "end": 102.49,
+      "text": "The country is peaceful and full of nature.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 99.0,
+          "endSec": 99.16,
+          "score": 1.0
+        },
+        {
+          "word": "country",
+          "startSec": 99.16,
+          "endSec": 99.52,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 99.52,
+          "endSec": 100.08,
+          "score": 1.0
+        },
+        {
+          "word": "peaceful",
+          "startSec": 100.08,
+          "endSec": 100.74,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 100.74,
+          "endSec": 101.36,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 101.36,
+          "endSec": 101.66,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 101.66,
+          "endSec": 101.9,
+          "score": 1.0
+        },
+        {
+          "word": "nature.",
+          "startSec": 101.9,
+          "endSec": 102.34,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 103.34,
+      "end": 106.13,
+      "text": "What language do people speak in Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 103.54,
+          "endSec": 103.66,
+          "score": 0.98
+        },
+        {
+          "word": "language",
+          "startSec": 103.66,
+          "endSec": 104.14,
+          "score": 1.0
+        },
+        {
+          "word": "do",
+          "startSec": 104.14,
+          "endSec": 104.54,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 104.54,
+          "endSec": 104.94,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 104.94,
+          "endSec": 105.38,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 105.38,
+          "endSec": 105.66,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 105.66,
+          "endSec": 105.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 106.8,
+      "end": 111.29,
+      "text": "People in Fiji speak Fijian, Hindi and English.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 107.0,
+          "endSec": 107.22,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 107.22,
+          "endSec": 107.64,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji",
+          "startSec": 107.64,
+          "endSec": 107.9,
+          "score": 1.0
+        },
+        {
+          "word": "speak",
+          "startSec": 107.9,
+          "endSec": 108.62,
+          "score": 0.99
+        },
+        {
+          "word": "Fijian,",
+          "startSec": 108.62,
+          "endSec": 109.4,
+          "score": 0.73
+        },
+        {
+          "word": "Hindi",
+          "startSec": 109.88,
+          "endSec": 109.96,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "startSec": 109.96,
+          "endSec": 110.7,
+          "score": 0.6
+        },
+        {
+          "word": "English.",
+          "startSec": 110.7,
+          "endSec": 111.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 111.82,
+      "end": 114.95,
+      "text": "These are the three official languages.",
+      "words": [
+        {
+          "word": "These",
+          "startSec": 112.02,
+          "endSec": 112.48,
+          "score": 0.33
+        },
+        {
+          "word": "are",
+          "startSec": 112.48,
+          "endSec": 112.78,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 112.78,
+          "endSec": 112.94,
+          "score": 0.91
+        },
+        {
+          "word": "three",
+          "startSec": 112.94,
+          "endSec": 113.48,
+          "score": 0.68
+        },
+        {
+          "word": "official",
+          "startSec": 113.48,
+          "endSec": 114.16,
+          "score": 0.99
+        },
+        {
+          "word": "languages.",
+          "startSec": 114.16,
+          "endSec": 114.8,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 115.72,
+      "end": 118.69,
+      "text": "English is used in schools and government.",
+      "words": [
+        {
+          "word": "English",
+          "startSec": 115.92,
+          "endSec": 116.32,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 116.32,
+          "endSec": 116.6,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 116.6,
+          "endSec": 116.94,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 116.94,
+          "endSec": 117.26,
+          "score": 1.0
+        },
+        {
+          "word": "schools",
+          "startSec": 117.26,
+          "endSec": 117.68,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "startSec": 117.68,
+          "endSec": 118.14,
+          "score": 0.99
+        },
+        {
+          "word": "government.",
+          "startSec": 118.14,
+          "endSec": 118.54,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 119.69,
+      "end": 123.26,
+      "text": "Many people are bilingual or trilingual.",
+      "words": [
+        {
+          "word": "Many",
+          "startSec": 119.89,
+          "endSec": 120.25,
+          "score": 0.95
+        },
+        {
+          "word": "people",
+          "startSec": 120.25,
+          "endSec": 120.89,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 120.89,
+          "endSec": 121.15,
+          "score": 1.0
+        },
+        {
+          "word": "bilingual",
+          "startSec": 121.15,
+          "endSec": 121.63,
+          "score": 0.99
+        },
+        {
+          "word": "or",
+          "startSec": 121.63,
+          "endSec": 122.37,
+          "score": 0.99
+        },
+        {
+          "word": "trilingual.",
+          "startSec": 122.37,
+          "endSec": 123.11,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 124.3,
+      "end": 126.81,
+      "text": "Fijian is the local language.",
+      "words": [
+        {
+          "word": "Fijian",
+          "startSec": 124.5,
+          "endSec": 125.18,
+          "score": 0.51
+        },
+        {
+          "word": "is",
+          "startSec": 125.18,
+          "endSec": 125.38,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 125.38,
+          "endSec": 125.6,
+          "score": 1.0
+        },
+        {
+          "word": "local",
+          "startSec": 125.6,
+          "endSec": 125.88,
+          "score": 0.99
+        },
+        {
+          "word": "language.",
+          "startSec": 125.88,
+          "endSec": 126.66,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 127.18,
+      "end": 130.83,
+      "text": "Hindi is spoken by people with Indian roots.",
+      "words": [
+        {
+          "word": "Hindi",
+          "startSec": 127.38,
+          "endSec": 127.62,
+          "score": 0.95
+        },
+        {
+          "word": "is",
+          "startSec": 127.62,
+          "endSec": 128.0,
+          "score": 0.98
+        },
+        {
+          "word": "spoken",
+          "startSec": 128.0,
+          "endSec": 128.36,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "startSec": 128.36,
+          "endSec": 128.86,
+          "score": 0.99
+        },
+        {
+          "word": "people",
+          "startSec": 128.86,
+          "endSec": 129.36,
+          "score": 1.0
+        },
+        {
+          "word": "with",
+          "startSec": 129.36,
+          "endSec": 129.7,
+          "score": 1.0
+        },
+        {
+          "word": "Indian",
+          "startSec": 129.7,
+          "endSec": 130.06,
+          "score": 1.0
+        },
+        {
+          "word": "roots.",
+          "startSec": 130.06,
+          "endSec": 130.68,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 132.1,
+      "end": 134.03,
+      "text": "What is the weather like in Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 132.3,
+          "endSec": 132.38,
+          "score": 0.94
+        },
+        {
+          "word": "is",
+          "startSec": 132.38,
+          "endSec": 132.52,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 132.52,
+          "endSec": 132.7,
+          "score": 0.99
+        },
+        {
+          "word": "weather",
+          "startSec": 132.7,
+          "endSec": 132.96,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 132.96,
+          "endSec": 133.4,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 133.4,
+          "endSec": 133.6,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 133.6,
+          "endSec": 133.88,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 135.06,
+      "end": 137.53,
+      "text": "Fiji has tropical weather.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 135.26,
+          "endSec": 135.52,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 135.52,
+          "endSec": 136.16,
+          "score": 1.0
+        },
+        {
+          "word": "tropical",
+          "startSec": 136.16,
+          "endSec": 136.62,
+          "score": 0.99
+        },
+        {
+          "word": "weather.",
+          "startSec": 136.62,
+          "endSec": 137.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 138.16,
+      "end": 140.95,
+      "text": "It is warm and humid all year.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 138.36,
+          "endSec": 138.44,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 138.44,
+          "endSec": 138.62,
+          "score": 0.99
+        },
+        {
+          "word": "warm",
+          "startSec": 138.62,
+          "endSec": 139.08,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 139.08,
+          "endSec": 139.48,
+          "score": 1.0
+        },
+        {
+          "word": "humid",
+          "startSec": 139.48,
+          "endSec": 139.98,
+          "score": 1.0
+        },
+        {
+          "word": "all",
+          "startSec": 139.98,
+          "endSec": 140.38,
+          "score": 1.0
+        },
+        {
+          "word": "year.",
+          "startSec": 140.38,
+          "endSec": 140.8,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 141.38,
+      "end": 145.99,
+      "text": "There are two seasons, the wet season and the dry season.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 141.58,
+          "endSec": 141.92,
+          "score": 0.34
+        },
+        {
+          "word": "are",
+          "startSec": 141.92,
+          "endSec": 142.1,
+          "score": 0.98
+        },
+        {
+          "word": "two",
+          "startSec": 142.1,
+          "endSec": 142.4,
+          "score": 0.9
+        },
+        {
+          "word": "seasons,",
+          "startSec": 142.4,
+          "endSec": 143.0,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "startSec": 143.48,
+          "endSec": 143.58,
+          "score": 0.95
+        },
+        {
+          "word": "wet",
+          "startSec": 143.58,
+          "endSec": 143.8,
+          "score": 0.98
+        },
+        {
+          "word": "season",
+          "startSec": 143.8,
+          "endSec": 144.22,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 144.22,
+          "endSec": 144.96,
+          "score": 0.82
+        },
+        {
+          "word": "the",
+          "startSec": 144.96,
+          "endSec": 145.14,
+          "score": 0.99
+        },
+        {
+          "word": "dry",
+          "startSec": 145.14,
+          "endSec": 145.34,
+          "score": 1.0
+        },
+        {
+          "word": "season.",
+          "startSec": 145.34,
+          "endSec": 145.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 146.7,
+      "end": 150.41,
+      "text": "The wet season is from November to April.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 146.9,
+          "endSec": 147.12,
+          "score": 0.93
+        },
+        {
+          "word": "wet",
+          "startSec": 147.12,
+          "endSec": 147.36,
+          "score": 1.0
+        },
+        {
+          "word": "season",
+          "startSec": 147.36,
+          "endSec": 148.02,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 148.02,
+          "endSec": 148.44,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 148.44,
+          "endSec": 148.74,
+          "score": 1.0
+        },
+        {
+          "word": "November",
+          "startSec": 148.74,
+          "endSec": 149.22,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "startSec": 149.22,
+          "endSec": 149.78,
+          "score": 0.99
+        },
+        {
+          "word": "April.",
+          "startSec": 149.78,
+          "endSec": 150.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 150.94,
+      "end": 154.39,
+      "text": "It can rain a lot, but it is still warm.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 151.14,
+          "endSec": 151.4,
+          "score": 0.99
+        },
+        {
+          "word": "can",
+          "startSec": 151.4,
+          "endSec": 151.6,
+          "score": 1.0
+        },
+        {
+          "word": "rain",
+          "startSec": 151.6,
+          "endSec": 151.86,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 151.86,
+          "endSec": 152.16,
+          "score": 1.0
+        },
+        {
+          "word": "lot,",
+          "startSec": 152.16,
+          "endSec": 152.44,
+          "score": 1.0
+        },
+        {
+          "word": "but",
+          "startSec": 152.44,
+          "endSec": 153.02,
+          "score": 1.0
+        },
+        {
+          "word": "it",
+          "startSec": 153.02,
+          "endSec": 153.2,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 153.2,
+          "endSec": 153.38,
+          "score": 0.99
+        },
+        {
+          "word": "still",
+          "startSec": 153.38,
+          "endSec": 153.7,
+          "score": 1.0
+        },
+        {
+          "word": "warm.",
+          "startSec": 153.7,
+          "endSec": 154.24,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 155.06,
+      "end": 158.41,
+      "text": "The dry season is from May to October.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 155.26,
+          "endSec": 155.38,
+          "score": 0.99
+        },
+        {
+          "word": "dry",
+          "startSec": 155.38,
+          "endSec": 155.62,
+          "score": 1.0
+        },
+        {
+          "word": "season",
+          "startSec": 155.62,
+          "endSec": 156.24,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 156.24,
+          "endSec": 156.58,
+          "score": 1.0
+        },
+        {
+          "word": "from",
+          "startSec": 156.58,
+          "endSec": 156.88,
+          "score": 1.0
+        },
+        {
+          "word": "May",
+          "startSec": 156.88,
+          "endSec": 157.26,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 157.26,
+          "endSec": 157.56,
+          "score": 0.41
+        },
+        {
+          "word": "October.",
+          "startSec": 157.56,
+          "endSec": 158.26,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 159.08,
+      "end": 160.93,
+      "text": "It is sunny and cooler.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 159.28,
+          "endSec": 159.32,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 159.32,
+          "endSec": 159.5,
+          "score": 1.0
+        },
+        {
+          "word": "sunny",
+          "startSec": 159.5,
+          "endSec": 159.9,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 159.9,
+          "endSec": 160.44,
+          "score": 1.0
+        },
+        {
+          "word": "cooler.",
+          "startSec": 160.44,
+          "endSec": 160.78,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 161.95,
+      "end": 165.96,
+      "text": "Fiji is a great place to enjoy the sun and sea.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 162.15,
+          "endSec": 162.41,
+          "score": 0.93
+        },
+        {
+          "word": "is",
+          "startSec": 162.41,
+          "endSec": 162.95,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "startSec": 162.95,
+          "endSec": 163.11,
+          "score": 0.99
+        },
+        {
+          "word": "great",
+          "startSec": 163.11,
+          "endSec": 163.41,
+          "score": 1.0
+        },
+        {
+          "word": "place",
+          "startSec": 163.41,
+          "endSec": 163.93,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 163.93,
+          "endSec": 164.29,
+          "score": 1.0
+        },
+        {
+          "word": "enjoy",
+          "startSec": 164.29,
+          "endSec": 164.55,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 164.55,
+          "endSec": 164.91,
+          "score": 1.0
+        },
+        {
+          "word": "sun",
+          "startSec": 164.91,
+          "endSec": 165.17,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "startSec": 165.17,
+          "endSec": 165.47,
+          "score": 0.99
+        },
+        {
+          "word": "sea.",
+          "startSec": 165.47,
+          "endSec": 165.81,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 166.7,
+      "end": 169.13,
+      "text": "What does Fiji look like?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 166.9,
+          "endSec": 167.38,
+          "score": 0.99
+        },
+        {
+          "word": "does",
+          "startSec": 167.38,
+          "endSec": 167.6,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji",
+          "startSec": 167.6,
+          "endSec": 167.92,
+          "score": 0.99
+        },
+        {
+          "word": "look",
+          "startSec": 167.92,
+          "endSec": 168.46,
+          "score": 1.0
+        },
+        {
+          "word": "like?",
+          "startSec": 168.46,
+          "endSec": 168.98,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 169.63,
+      "end": 174.61,
+      "text": "Fiji has beaches, mountains, forests and volcanoes.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 169.83,
+          "endSec": 170.26,
+          "score": 0.36
+        },
+        {
+          "word": "has",
+          "startSec": 170.26,
+          "endSec": 170.78,
+          "score": 0.98
+        },
+        {
+          "word": "beaches,",
+          "startSec": 170.78,
+          "endSec": 171.14,
+          "score": 1.0
+        },
+        {
+          "word": "mountains,",
+          "startSec": 171.38,
+          "endSec": 172.28,
+          "score": 1.0
+        },
+        {
+          "word": "forests",
+          "startSec": 172.78,
+          "endSec": 173.12,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 173.12,
+          "endSec": 173.58,
+          "score": 0.55
+        },
+        {
+          "word": "volcanoes.",
+          "startSec": 173.58,
+          "endSec": 174.46,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 175.28,
+      "end": 177.51,
+      "text": "The water is blue and clear.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 175.48,
+          "endSec": 175.56,
+          "score": 0.98
+        },
+        {
+          "word": "water",
+          "startSec": 175.56,
+          "endSec": 175.88,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 175.88,
+          "endSec": 176.32,
+          "score": 1.0
+        },
+        {
+          "word": "blue",
+          "startSec": 176.32,
+          "endSec": 176.66,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 176.66,
+          "endSec": 176.94,
+          "score": 1.0
+        },
+        {
+          "word": "clear.",
+          "startSec": 176.94,
+          "endSec": 177.36,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 178.24,
+      "end": 181.37,
+      "text": "There are many coral reefs near the islands.",
+      "words": [
+        {
+          "word": "There",
+          "startSec": 178.44,
+          "endSec": 178.5,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 178.5,
+          "endSec": 178.7,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 178.7,
+          "endSec": 178.98,
+          "score": 0.99
+        },
+        {
+          "word": "coral",
+          "startSec": 178.98,
+          "endSec": 179.42,
+          "score": 1.0
+        },
+        {
+          "word": "reefs",
+          "startSec": 179.42,
+          "endSec": 180.06,
+          "score": 0.99
+        },
+        {
+          "word": "near",
+          "startSec": 180.06,
+          "endSec": 180.54,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 180.54,
+          "endSec": 180.76,
+          "score": 0.99
+        },
+        {
+          "word": "islands.",
+          "startSec": 180.76,
+          "endSec": 181.22,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 182.26,
+      "end": 185.91,
+      "text": "The land is green and full of coconut trees,",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 182.46,
+          "endSec": 182.64,
+          "score": 0.99
+        },
+        {
+          "word": "land",
+          "startSec": 182.64,
+          "endSec": 182.96,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 182.96,
+          "endSec": 183.24,
+          "score": 1.0
+        },
+        {
+          "word": "green",
+          "startSec": 183.24,
+          "endSec": 183.7,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 183.7,
+          "endSec": 184.1,
+          "score": 0.99
+        },
+        {
+          "word": "full",
+          "startSec": 184.1,
+          "endSec": 184.42,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 184.42,
+          "endSec": 184.6,
+          "score": 1.0
+        },
+        {
+          "word": "coconut",
+          "startSec": 184.6,
+          "endSec": 185.1,
+          "score": 0.99
+        },
+        {
+          "word": "trees,",
+          "startSec": 185.1,
+          "endSec": 185.76,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 185.94,
+      "end": 188.33,
+      "text": "flowers and tropical plants.",
+      "words": [
+        {
+          "word": "flowers",
+          "startSec": 186.14,
+          "endSec": 186.42,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 186.42,
+          "endSec": 187.08,
+          "score": 0.83
+        },
+        {
+          "word": "tropical",
+          "startSec": 187.08,
+          "endSec": 187.46,
+          "score": 1.0
+        },
+        {
+          "word": "plants.",
+          "startSec": 187.46,
+          "endSec": 188.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 189.16,
+      "end": 191.77,
+      "text": "Some islands are small and quiet.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 189.36,
+          "endSec": 189.68,
+          "score": 0.99
+        },
+        {
+          "word": "islands",
+          "startSec": 189.68,
+          "endSec": 190.16,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 190.16,
+          "endSec": 190.52,
+          "score": 1.0
+        },
+        {
+          "word": "small",
+          "startSec": 190.52,
+          "endSec": 190.96,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 190.96,
+          "endSec": 191.3,
+          "score": 0.99
+        },
+        {
+          "word": "quiet.",
+          "startSec": 191.3,
+          "endSec": 191.62,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 192.48,
+      "end": 196.01,
+      "text": "Others have hotels, towns and activities.",
+      "words": [
+        {
+          "word": "Others",
+          "startSec": 192.68,
+          "endSec": 192.98,
+          "score": 0.99
+        },
+        {
+          "word": "have",
+          "startSec": 192.98,
+          "endSec": 193.38,
+          "score": 1.0
+        },
+        {
+          "word": "hotels,",
+          "startSec": 193.38,
+          "endSec": 193.86,
+          "score": 1.0
+        },
+        {
+          "word": "towns",
+          "startSec": 194.62,
+          "endSec": 194.92,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 194.92,
+          "endSec": 195.4,
+          "score": 0.87
+        },
+        {
+          "word": "activities.",
+          "startSec": 195.4,
+          "endSec": 195.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 196.97,
+      "end": 199.5,
+      "text": "What animals live in Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 197.17,
+          "endSec": 197.87,
+          "score": 0.47
+        },
+        {
+          "word": "animals",
+          "startSec": 197.87,
+          "endSec": 198.39,
+          "score": 0.96
+        },
+        {
+          "word": "live",
+          "startSec": 198.39,
+          "endSec": 198.85,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 198.85,
+          "endSec": 199.09,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 199.09,
+          "endSec": 199.35,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 200.11,
+      "end": 204.54,
+      "text": "Fiji has many birds, lizards and sea animals.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 200.31,
+          "endSec": 200.49,
+          "score": 0.99
+        },
+        {
+          "word": "has",
+          "startSec": 200.49,
+          "endSec": 200.99,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 200.99,
+          "endSec": 201.27,
+          "score": 0.99
+        },
+        {
+          "word": "birds,",
+          "startSec": 201.27,
+          "endSec": 201.79,
+          "score": 0.99
+        },
+        {
+          "word": "lizards",
+          "startSec": 202.35,
+          "endSec": 202.81,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 202.81,
+          "endSec": 203.57,
+          "score": 0.47
+        },
+        {
+          "word": "sea",
+          "startSec": 203.57,
+          "endSec": 203.83,
+          "score": 1.0
+        },
+        {
+          "word": "animals.",
+          "startSec": 203.83,
+          "endSec": 204.39,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 205.4,
+      "end": 209.43,
+      "text": "You can see parrots, fruit, bats and geckos.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 205.6,
+          "endSec": 205.6,
+          "score": 0.96
+        },
+        {
+          "word": "can",
+          "startSec": 205.6,
+          "endSec": 205.8,
+          "score": 1.0
+        },
+        {
+          "word": "see",
+          "startSec": 205.8,
+          "endSec": 206.08,
+          "score": 0.99
+        },
+        {
+          "word": "parrots,",
+          "startSec": 206.08,
+          "endSec": 206.84,
+          "score": 0.96
+        },
+        {
+          "word": "fruit,",
+          "startSec": 207.5,
+          "endSec": 207.56,
+          "score": 0.99
+        },
+        {
+          "word": "bats",
+          "startSec": 207.8,
+          "endSec": 207.98,
+          "score": 0.96
+        },
+        {
+          "word": "and",
+          "startSec": 207.98,
+          "endSec": 208.5,
+          "score": 0.8
+        },
+        {
+          "word": "geckos.",
+          "startSec": 208.5,
+          "endSec": 209.28,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 209.8,
+      "end": 214.77,
+      "text": "In the ocean, you can see fish, sea turtles and coral.",
+      "words": [
+        {
+          "word": "In",
+          "startSec": 210.0,
+          "endSec": 210.26,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 210.26,
+          "endSec": 210.42,
+          "score": 1.0
+        },
+        {
+          "word": "ocean,",
+          "startSec": 210.42,
+          "endSec": 210.8,
+          "score": 0.99
+        },
+        {
+          "word": "you",
+          "startSec": 211.28,
+          "endSec": 211.28,
+          "score": 1.0
+        },
+        {
+          "word": "can",
+          "startSec": 211.28,
+          "endSec": 211.48,
+          "score": 0.99
+        },
+        {
+          "word": "see",
+          "startSec": 211.48,
+          "endSec": 211.76,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 211.76,
+          "endSec": 212.2,
+          "score": 1.0
+        },
+        {
+          "word": "sea",
+          "startSec": 212.84,
+          "endSec": 213.12,
+          "score": 1.0
+        },
+        {
+          "word": "turtles",
+          "startSec": 213.12,
+          "endSec": 213.52,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 213.52,
+          "endSec": 214.34,
+          "score": 0.84
+        },
+        {
+          "word": "coral.",
+          "startSec": 214.34,
+          "endSec": 214.62,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 216.1,
+      "end": 219.85,
+      "text": "People go snorkeling and diving to explore the sea.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 216.3,
+          "endSec": 216.3,
+          "score": 0.99
+        },
+        {
+          "word": "go",
+          "startSec": 216.3,
+          "endSec": 216.56,
+          "score": 0.98
+        },
+        {
+          "word": "snorkeling",
+          "startSec": 216.56,
+          "endSec": 217.38,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 217.38,
+          "endSec": 217.6,
+          "score": 1.0
+        },
+        {
+          "word": "diving",
+          "startSec": 217.6,
+          "endSec": 218.0,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "startSec": 218.0,
+          "endSec": 218.62,
+          "score": 0.99
+        },
+        {
+          "word": "explore",
+          "startSec": 218.62,
+          "endSec": 219.1,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 219.1,
+          "endSec": 219.4,
+          "score": 1.0
+        },
+        {
+          "word": "sea.",
+          "startSec": 219.4,
+          "endSec": 219.7,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 220.9,
+      "end": 225.29,
+      "text": "Fiji has many protected areas to help animals and nature.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 221.1,
+          "endSec": 221.1,
+          "score": 1.0
+        },
+        {
+          "word": "has",
+          "startSec": 221.1,
+          "endSec": 221.56,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 221.56,
+          "endSec": 221.86,
+          "score": 1.0
+        },
+        {
+          "word": "protected",
+          "startSec": 221.86,
+          "endSec": 222.36,
+          "score": 1.0
+        },
+        {
+          "word": "areas",
+          "startSec": 222.36,
+          "endSec": 223.02,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 223.02,
+          "endSec": 223.4,
+          "score": 1.0
+        },
+        {
+          "word": "help",
+          "startSec": 223.4,
+          "endSec": 223.6,
+          "score": 1.0
+        },
+        {
+          "word": "animals",
+          "startSec": 223.6,
+          "endSec": 224.08,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 224.08,
+          "endSec": 224.7,
+          "score": 0.98
+        },
+        {
+          "word": "nature.",
+          "startSec": 224.7,
+          "endSec": 225.14,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 225.86,
+      "end": 228.27,
+      "text": "What do people eat in Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 226.06,
+          "endSec": 226.48,
+          "score": 0.32
+        },
+        {
+          "word": "do",
+          "startSec": 226.48,
+          "endSec": 226.72,
+          "score": 0.96
+        },
+        {
+          "word": "people",
+          "startSec": 226.72,
+          "endSec": 226.98,
+          "score": 0.95
+        },
+        {
+          "word": "eat",
+          "startSec": 226.98,
+          "endSec": 227.52,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 227.52,
+          "endSec": 227.86,
+          "score": 0.96
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 227.86,
+          "endSec": 228.12,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 228.84,
+      "end": 231.63,
+      "text": "Fiji and food is fresh and healthy.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 229.04,
+          "endSec": 229.24,
+          "score": 0.02
+        },
+        {
+          "word": "and",
+          "startSec": 229.24,
+          "endSec": 229.6,
+          "score": 0.88
+        },
+        {
+          "word": "food",
+          "startSec": 229.6,
+          "endSec": 229.86,
+          "score": 0.97
+        },
+        {
+          "word": "is",
+          "startSec": 229.86,
+          "endSec": 230.26,
+          "score": 0.95
+        },
+        {
+          "word": "fresh",
+          "startSec": 230.26,
+          "endSec": 230.6,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 230.6,
+          "endSec": 230.94,
+          "score": 0.99
+        },
+        {
+          "word": "healthy.",
+          "startSec": 230.94,
+          "endSec": 231.48,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 232.54,
+      "end": 237.47,
+      "text": "People eat fish, rice, taro, cassava and vegetables.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 232.74,
+          "endSec": 232.74,
+          "score": 0.8
+        },
+        {
+          "word": "eat",
+          "startSec": 232.74,
+          "endSec": 233.06,
+          "score": 1.0
+        },
+        {
+          "word": "fish,",
+          "startSec": 233.06,
+          "endSec": 233.58,
+          "score": 0.97
+        },
+        {
+          "word": "rice,",
+          "startSec": 234.06,
+          "endSec": 234.34,
+          "score": 1.0
+        },
+        {
+          "word": "taro,",
+          "startSec": 235.18,
+          "endSec": 235.56,
+          "score": 0.82
+        },
+        {
+          "word": "cassava",
+          "startSec": 235.98,
+          "endSec": 236.58,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 236.58,
+          "endSec": 236.9,
+          "score": 0.54
+        },
+        {
+          "word": "vegetables.",
+          "startSec": 236.9,
+          "endSec": 237.32,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 238.34,
+      "end": 241.01,
+      "text": "Coconut is used in many dishes.",
+      "words": [
+        {
+          "word": "Coconut",
+          "startSec": 238.54,
+          "endSec": 239.12,
+          "score": 0.71
+        },
+        {
+          "word": "is",
+          "startSec": 239.12,
+          "endSec": 239.6,
+          "score": 1.0
+        },
+        {
+          "word": "used",
+          "startSec": 239.6,
+          "endSec": 239.86,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 239.86,
+          "endSec": 240.16,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 240.16,
+          "endSec": 240.32,
+          "score": 0.94
+        },
+        {
+          "word": "dishes.",
+          "startSec": 240.32,
+          "endSec": 240.86,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 241.9,
+      "end": 244.73,
+      "text": "One traditional food is called lovo.",
+      "words": [
+        {
+          "word": "One",
+          "startSec": 242.1,
+          "endSec": 242.34,
+          "score": 0.98
+        },
+        {
+          "word": "traditional",
+          "startSec": 242.34,
+          "endSec": 242.72,
+          "score": 1.0
+        },
+        {
+          "word": "food",
+          "startSec": 242.72,
+          "endSec": 243.44,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 243.44,
+          "endSec": 243.72,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 243.72,
+          "endSec": 244.02,
+          "score": 1.0
+        },
+        {
+          "word": "lovo.",
+          "startSec": 244.02,
+          "endSec": 244.58,
+          "score": 0.67
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 245.26,
+      "end": 251.43,
+      "text": "Lovo is meat, fish and vegetables cooked underground with hot stones.",
+      "words": [
+        {
+          "word": "Lovo",
+          "startSec": 245.46,
+          "endSec": 245.98,
+          "score": 0.91
+        },
+        {
+          "word": "is",
+          "startSec": 245.98,
+          "endSec": 246.38,
+          "score": 1.0
+        },
+        {
+          "word": "meat,",
+          "startSec": 246.38,
+          "endSec": 246.7,
+          "score": 0.99
+        },
+        {
+          "word": "fish",
+          "startSec": 247.1,
+          "endSec": 247.36,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 247.36,
+          "endSec": 247.8,
+          "score": 0.81
+        },
+        {
+          "word": "vegetables",
+          "startSec": 247.8,
+          "endSec": 248.54,
+          "score": 0.99
+        },
+        {
+          "word": "cooked",
+          "startSec": 248.54,
+          "endSec": 249.0,
+          "score": 0.97
+        },
+        {
+          "word": "underground",
+          "startSec": 249.0,
+          "endSec": 249.82,
+          "score": 0.95
+        },
+        {
+          "word": "with",
+          "startSec": 249.82,
+          "endSec": 250.4,
+          "score": 0.96
+        },
+        {
+          "word": "hot",
+          "startSec": 250.4,
+          "endSec": 250.68,
+          "score": 0.99
+        },
+        {
+          "word": "stones.",
+          "startSec": 250.68,
+          "endSec": 251.28,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 252.04,
+      "end": 259.05,
+      "text": "People also eat Indian style curries and roti because of the Indian community.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 252.24,
+          "endSec": 252.98,
+          "score": 0.15
+        },
+        {
+          "word": "also",
+          "startSec": 252.98,
+          "endSec": 253.48,
+          "score": 0.97
+        },
+        {
+          "word": "eat",
+          "startSec": 253.48,
+          "endSec": 254.0,
+          "score": 1.0
+        },
+        {
+          "word": "Indian",
+          "startSec": 254.0,
+          "endSec": 254.38,
+          "score": 0.97
+        },
+        {
+          "word": "style",
+          "startSec": 254.38,
+          "endSec": 255.06,
+          "score": 0.84
+        },
+        {
+          "word": "curries",
+          "startSec": 255.06,
+          "endSec": 255.82,
+          "score": 0.87
+        },
+        {
+          "word": "and",
+          "startSec": 255.82,
+          "endSec": 256.08,
+          "score": 0.96
+        },
+        {
+          "word": "roti",
+          "startSec": 256.08,
+          "endSec": 256.64,
+          "score": 0.66
+        },
+        {
+          "word": "because",
+          "startSec": 256.64,
+          "endSec": 257.16,
+          "score": 0.94
+        },
+        {
+          "word": "of",
+          "startSec": 257.16,
+          "endSec": 257.42,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 257.42,
+          "endSec": 257.64,
+          "score": 0.94
+        },
+        {
+          "word": "Indian",
+          "startSec": 257.64,
+          "endSec": 257.9,
+          "score": 1.0
+        },
+        {
+          "word": "community.",
+          "startSec": 257.9,
+          "endSec": 258.9,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 259.78,
+      "end": 263.95,
+      "text": "For dessert, they enjoy tropical fruits like pineapple,",
+      "words": [
+        {
+          "word": "For",
+          "startSec": 259.98,
+          "endSec": 260.16,
+          "score": 0.98
+        },
+        {
+          "word": "dessert,",
+          "startSec": 260.16,
+          "endSec": 260.58,
+          "score": 0.99
+        },
+        {
+          "word": "they",
+          "startSec": 260.98,
+          "endSec": 261.04,
+          "score": 0.99
+        },
+        {
+          "word": "enjoy",
+          "startSec": 261.04,
+          "endSec": 261.4,
+          "score": 0.99
+        },
+        {
+          "word": "tropical",
+          "startSec": 261.4,
+          "endSec": 262.04,
+          "score": 1.0
+        },
+        {
+          "word": "fruits",
+          "startSec": 262.04,
+          "endSec": 262.66,
+          "score": 0.99
+        },
+        {
+          "word": "like",
+          "startSec": 262.66,
+          "endSec": 263.18,
+          "score": 0.93
+        },
+        {
+          "word": "pineapple,",
+          "startSec": 263.18,
+          "endSec": 263.8,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 264.62,
+      "end": 266.19,
+      "text": "papaya and banana.",
+      "words": [
+        {
+          "word": "papaya",
+          "startSec": 264.82,
+          "endSec": 265.28,
+          "score": 0.85
+        },
+        {
+          "word": "and",
+          "startSec": 265.28,
+          "endSec": 265.7,
+          "score": 0.52
+        },
+        {
+          "word": "banana.",
+          "startSec": 265.7,
+          "endSec": 266.04,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 267.32,
+      "end": 269.33,
+      "text": "What is life like in Fiji?",
+      "words": [
+        {
+          "word": "What",
+          "startSec": 267.52,
+          "endSec": 267.72,
+          "score": 0.9
+        },
+        {
+          "word": "is",
+          "startSec": 267.72,
+          "endSec": 267.9,
+          "score": 0.98
+        },
+        {
+          "word": "life",
+          "startSec": 267.9,
+          "endSec": 268.24,
+          "score": 0.83
+        },
+        {
+          "word": "like",
+          "startSec": 268.24,
+          "endSec": 268.58,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "startSec": 268.58,
+          "endSec": 268.86,
+          "score": 0.99
+        },
+        {
+          "word": "Fiji?",
+          "startSec": 268.86,
+          "endSec": 269.18,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 270.18,
+      "end": 273.53,
+      "text": "Life in Fiji is relaxed and friendly.",
+      "words": [
+        {
+          "word": "Life",
+          "startSec": 270.38,
+          "endSec": 270.7,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 270.7,
+          "endSec": 270.98,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji",
+          "startSec": 270.98,
+          "endSec": 271.3,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 271.3,
+          "endSec": 271.84,
+          "score": 1.0
+        },
+        {
+          "word": "relaxed",
+          "startSec": 271.84,
+          "endSec": 272.22,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 272.22,
+          "endSec": 272.74,
+          "score": 1.0
+        },
+        {
+          "word": "friendly.",
+          "startSec": 272.74,
+          "endSec": 273.38,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 274.36,
+      "end": 276.13,
+      "text": "People smile and say hello.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 274.56,
+          "endSec": 274.58,
+          "score": 0.99
+        },
+        {
+          "word": "smile",
+          "startSec": 274.58,
+          "endSec": 274.86,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 274.86,
+          "endSec": 275.34,
+          "score": 0.99
+        },
+        {
+          "word": "say",
+          "startSec": 275.34,
+          "endSec": 275.6,
+          "score": 1.0
+        },
+        {
+          "word": "hello.",
+          "startSec": 275.6,
+          "endSec": 275.98,
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 276.8,
+      "end": 279.61,
+      "text": "The Fiji ingredient is bula.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 277.0,
+          "endSec": 277.4,
+          "score": 0.12
+        },
+        {
+          "word": "Fiji",
+          "startSec": 277.4,
+          "endSec": 277.68,
+          "score": 0.23
+        },
+        {
+          "word": "ingredient",
+          "startSec": 277.68,
+          "endSec": 278.06,
+          "score": 0.16
+        },
+        {
+          "word": "is",
+          "startSec": 278.06,
+          "endSec": 278.9,
+          "score": 0.98
+        },
+        {
+          "word": "bula.",
+          "startSec": 278.9,
+          "endSec": 279.46,
+          "score": 0.35
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 280.14,
+      "end": 282.51,
+      "text": "It means hello and life.",
+      "words": [
+        {
+          "word": "It",
+          "startSec": 280.34,
+          "endSec": 280.44,
+          "score": 0.96
+        },
+        {
+          "word": "means",
+          "startSec": 280.44,
+          "endSec": 280.72,
+          "score": 1.0
+        },
+        {
+          "word": "hello",
+          "startSec": 280.72,
+          "endSec": 281.34,
+          "score": 0.66
+        },
+        {
+          "word": "and",
+          "startSec": 281.34,
+          "endSec": 281.98,
+          "score": 0.96
+        },
+        {
+          "word": "life.",
+          "startSec": 281.98,
+          "endSec": 282.36,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 283.38,
+      "end": 284.89,
+      "text": "Would you like to try?",
+      "words": [
+        {
+          "word": "Would",
+          "startSec": 283.58,
+          "endSec": 283.82,
+          "score": 0.9
+        },
+        {
+          "word": "you",
+          "startSec": 283.82,
+          "endSec": 283.98,
+          "score": 1.0
+        },
+        {
+          "word": "like",
+          "startSec": 283.98,
+          "endSec": 284.2,
+          "score": 1.0
+        },
+        {
+          "word": "to",
+          "startSec": 284.2,
+          "endSec": 284.4,
+          "score": 1.0
+        },
+        {
+          "word": "try?",
+          "startSec": 284.4,
+          "endSec": 284.74,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 285.26,
+      "end": 287.6,
+      "text": "Say, bula.",
+      "words": [
+        {
+          "word": "Say,",
+          "startSec": 285.46,
+          "endSec": 285.76,
+          "score": 0.9
+        },
+        {
+          "word": "bula.",
+          "startSec": 286.69,
+          "endSec": 287.45,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 288.27,
+      "end": 290.14,
+      "text": "Families are important.",
+      "words": [
+        {
+          "word": "Families",
+          "startSec": 288.47,
+          "endSec": 289.11,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 289.11,
+          "endSec": 289.59,
+          "score": 1.0
+        },
+        {
+          "word": "important.",
+          "startSec": 289.59,
+          "endSec": 289.99,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 290.89,
+      "end": 292.74,
+      "text": "People help each other.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 291.09,
+          "endSec": 291.27,
+          "score": 0.99
+        },
+        {
+          "word": "help",
+          "startSec": 291.27,
+          "endSec": 291.83,
+          "score": 1.0
+        },
+        {
+          "word": "each",
+          "startSec": 291.83,
+          "endSec": 292.15,
+          "score": 1.0
+        },
+        {
+          "word": "other.",
+          "startSec": 292.15,
+          "endSec": 292.59,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 293.33,
+      "end": 295.66,
+      "text": "Villages are strong communities.",
+      "words": [
+        {
+          "word": "Villages",
+          "startSec": 293.53,
+          "endSec": 294.13,
+          "score": 0.99
+        },
+        {
+          "word": "are",
+          "startSec": 294.13,
+          "endSec": 294.53,
+          "score": 1.0
+        },
+        {
+          "word": "strong",
+          "startSec": 294.53,
+          "endSec": 294.97,
+          "score": 1.0
+        },
+        {
+          "word": "communities.",
+          "startSec": 294.97,
+          "endSec": 295.51,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 296.51,
+      "end": 299.18,
+      "text": "Music and dance are part of life.",
+      "words": [
+        {
+          "word": "Music",
+          "startSec": 296.71,
+          "endSec": 297.07,
+          "score": 0.99
+        },
+        {
+          "word": "and",
+          "startSec": 297.07,
+          "endSec": 297.55,
+          "score": 1.0
+        },
+        {
+          "word": "dance",
+          "startSec": 297.55,
+          "endSec": 297.85,
+          "score": 1.0
+        },
+        {
+          "word": "are",
+          "startSec": 297.85,
+          "endSec": 298.23,
+          "score": 1.0
+        },
+        {
+          "word": "part",
+          "startSec": 298.23,
+          "endSec": 298.45,
+          "score": 0.98
+        },
+        {
+          "word": "of",
+          "startSec": 298.45,
+          "endSec": 298.73,
+          "score": 1.0
+        },
+        {
+          "word": "life.",
+          "startSec": 298.73,
+          "endSec": 299.03,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 299.63,
+      "end": 303.58,
+      "text": "People sing songs and play the guitar and drums.",
+      "words": [
+        {
+          "word": "People",
+          "startSec": 299.83,
+          "endSec": 300.11,
+          "score": 0.99
+        },
+        {
+          "word": "sing",
+          "startSec": 300.11,
+          "endSec": 300.49,
+          "score": 1.0
+        },
+        {
+          "word": "songs",
+          "startSec": 300.49,
+          "endSec": 300.89,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 300.89,
+          "endSec": 301.67,
+          "score": 0.96
+        },
+        {
+          "word": "play",
+          "startSec": 301.67,
+          "endSec": 301.97,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 301.97,
+          "endSec": 302.25,
+          "score": 0.99
+        },
+        {
+          "word": "guitar",
+          "startSec": 302.25,
+          "endSec": 302.61,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 302.61,
+          "endSec": 303.11,
+          "score": 0.92
+        },
+        {
+          "word": "drums.",
+          "startSec": 303.11,
+          "endSec": 303.43,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 304.19,
+      "end": 307.78,
+      "text": "Traditional dances are colorful and fun.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startSec": 304.39,
+          "endSec": 304.99,
+          "score": 0.06
+        },
+        {
+          "word": "dances",
+          "startSec": 304.99,
+          "endSec": 305.45,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "startSec": 305.45,
+          "endSec": 306.23,
+          "score": 0.99
+        },
+        {
+          "word": "colorful",
+          "startSec": 306.23,
+          "endSec": 306.69,
+          "score": 0.95
+        },
+        {
+          "word": "and",
+          "startSec": 306.69,
+          "endSec": 307.29,
+          "score": 0.99
+        },
+        {
+          "word": "fun.",
+          "startSec": 307.29,
+          "endSec": 307.63,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 308.23,
+      "end": 310.54,
+      "text": "Some fun facts about Fiji.",
+      "words": [
+        {
+          "word": "Some",
+          "startSec": 308.43,
+          "endSec": 308.73,
+          "score": 0.98
+        },
+        {
+          "word": "fun",
+          "startSec": 308.73,
+          "endSec": 309.05,
+          "score": 0.99
+        },
+        {
+          "word": "facts",
+          "startSec": 309.05,
+          "endSec": 309.49,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 309.49,
+          "endSec": 310.09,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji.",
+          "startSec": 310.09,
+          "endSec": 310.39,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 311.37,
+      "end": 315.18,
+      "text": "Fiji became independent in 1970.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 311.57,
+          "endSec": 311.81,
+          "score": 0.99
+        },
+        {
+          "word": "became",
+          "startSec": 311.81,
+          "endSec": 312.51,
+          "score": 0.99
+        },
+        {
+          "word": "independent",
+          "startSec": 312.51,
+          "endSec": 313.13,
+          "score": 0.98
+        },
+        {
+          "word": "in",
+          "startSec": 313.13,
+          "endSec": 313.99,
+          "score": 1.0
+        },
+        {
+          "word": "1970.",
+          "startSec": 313.99,
+          "endSec": 315.03,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 316.18,
+      "end": 320.67,
+      "text": "The flag is light blue with the union jack and a shield.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 316.38,
+          "endSec": 316.54,
+          "score": 0.99
+        },
+        {
+          "word": "flag",
+          "startSec": 316.54,
+          "endSec": 316.8,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "startSec": 316.8,
+          "endSec": 317.18,
+          "score": 1.0
+        },
+        {
+          "word": "light",
+          "startSec": 317.18,
+          "endSec": 317.52,
+          "score": 0.96
+        },
+        {
+          "word": "blue",
+          "startSec": 317.52,
+          "endSec": 317.86,
+          "score": 0.97
+        },
+        {
+          "word": "with",
+          "startSec": 317.86,
+          "endSec": 318.52,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "startSec": 318.52,
+          "endSec": 318.7,
+          "score": 0.84
+        },
+        {
+          "word": "union",
+          "startSec": 318.7,
+          "endSec": 319.06,
+          "score": 0.42
+        },
+        {
+          "word": "jack",
+          "startSec": 319.06,
+          "endSec": 319.56,
+          "score": 0.69
+        },
+        {
+          "word": "and",
+          "startSec": 319.56,
+          "endSec": 319.98,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "startSec": 319.98,
+          "endSec": 320.1,
+          "score": 0.92
+        },
+        {
+          "word": "shield.",
+          "startSec": 320.1,
+          "endSec": 320.52,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 321.5,
+      "end": 324.55,
+      "text": "The money is called the Fiji and Dollar.",
+      "words": [
+        {
+          "word": "The",
+          "startSec": 321.7,
+          "endSec": 321.82,
+          "score": 0.99
+        },
+        {
+          "word": "money",
+          "startSec": 321.82,
+          "endSec": 322.08,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 322.08,
+          "endSec": 322.56,
+          "score": 1.0
+        },
+        {
+          "word": "called",
+          "startSec": 322.56,
+          "endSec": 322.96,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 322.96,
+          "endSec": 323.2,
+          "score": 0.97
+        },
+        {
+          "word": "Fiji",
+          "startSec": 323.2,
+          "endSec": 323.56,
+          "score": 0.72
+        },
+        {
+          "word": "and",
+          "startSec": 323.56,
+          "endSec": 323.92,
+          "score": 0.2
+        },
+        {
+          "word": "Dollar.",
+          "startSec": 323.92,
+          "endSec": 324.4,
+          "score": 0.41
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 324.88,
+      "end": 327.65,
+      "text": "Rugby is the most popular sport.",
+      "words": [
+        {
+          "word": "Rugby",
+          "startSec": 325.08,
+          "endSec": 325.34,
+          "score": 0.92
+        },
+        {
+          "word": "is",
+          "startSec": 325.34,
+          "endSec": 325.86,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 325.86,
+          "endSec": 326.1,
+          "score": 1.0
+        },
+        {
+          "word": "most",
+          "startSec": 326.1,
+          "endSec": 326.38,
+          "score": 1.0
+        },
+        {
+          "word": "popular",
+          "startSec": 326.38,
+          "endSec": 326.98,
+          "score": 1.0
+        },
+        {
+          "word": "sport.",
+          "startSec": 326.98,
+          "endSec": 327.5,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 328.16,
+      "end": 331.99,
+      "text": "Fiji's rugby team is one of the best in the world.",
+      "words": [
+        {
+          "word": "Fiji's",
+          "startSec": 328.36,
+          "endSec": 328.88,
+          "score": 0.99
+        },
+        {
+          "word": "rugby",
+          "startSec": 328.88,
+          "endSec": 329.16,
+          "score": 0.9
+        },
+        {
+          "word": "team",
+          "startSec": 329.16,
+          "endSec": 329.76,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "startSec": 329.76,
+          "endSec": 330.02,
+          "score": 1.0
+        },
+        {
+          "word": "one",
+          "startSec": 330.02,
+          "endSec": 330.24,
+          "score": 1.0
+        },
+        {
+          "word": "of",
+          "startSec": 330.24,
+          "endSec": 330.4,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 330.4,
+          "endSec": 330.54,
+          "score": 1.0
+        },
+        {
+          "word": "best",
+          "startSec": 330.54,
+          "endSec": 330.88,
+          "score": 1.0
+        },
+        {
+          "word": "in",
+          "startSec": 330.88,
+          "endSec": 331.26,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 331.26,
+          "endSec": 331.42,
+          "score": 1.0
+        },
+        {
+          "word": "world.",
+          "startSec": 331.42,
+          "endSec": 331.84,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 332.87,
+      "end": 337.08,
+      "text": "Fiji is one of the happiest countries in the Pacific.",
+      "words": [
+        {
+          "word": "Fiji",
+          "startSec": 333.07,
+          "endSec": 333.45,
+          "score": 0.05
+        },
+        {
+          "word": "is",
+          "startSec": 333.45,
+          "endSec": 333.91,
+          "score": 0.95
+        },
+        {
+          "word": "one",
+          "startSec": 333.91,
+          "endSec": 334.11,
+          "score": 0.99
+        },
+        {
+          "word": "of",
+          "startSec": 334.11,
+          "endSec": 334.27,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 334.27,
+          "endSec": 334.43,
+          "score": 1.0
+        },
+        {
+          "word": "happiest",
+          "startSec": 334.43,
+          "endSec": 335.09,
+          "score": 0.98
+        },
+        {
+          "word": "countries",
+          "startSec": 335.09,
+          "endSec": 335.83,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 335.83,
+          "endSec": 336.25,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 336.25,
+          "endSec": 336.41,
+          "score": 1.0
+        },
+        {
+          "word": "Pacific.",
+          "startSec": 336.41,
+          "endSec": 336.93,
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 338.19,
+      "end": 341.12,
+      "text": "Now you know many things about Fiji.",
+      "words": [
+        {
+          "word": "Now",
+          "startSec": 338.39,
+          "endSec": 338.77,
+          "score": 0.93
+        },
+        {
+          "word": "you",
+          "startSec": 338.77,
+          "endSec": 339.03,
+          "score": 0.76
+        },
+        {
+          "word": "know",
+          "startSec": 339.03,
+          "endSec": 339.27,
+          "score": 1.0
+        },
+        {
+          "word": "many",
+          "startSec": 339.27,
+          "endSec": 339.63,
+          "score": 0.99
+        },
+        {
+          "word": "things",
+          "startSec": 339.63,
+          "endSec": 340.25,
+          "score": 1.0
+        },
+        {
+          "word": "about",
+          "startSec": 340.25,
+          "endSec": 340.59,
+          "score": 1.0
+        },
+        {
+          "word": "Fiji.",
+          "startSec": 340.59,
+          "endSec": 340.97,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 341.71,
+      "end": 347.06,
+      "text": "You know where it is, what people speak and what the weather is like.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 341.91,
+          "endSec": 342.09,
+          "score": 0.99
+        },
+        {
+          "word": "know",
+          "startSec": 342.09,
+          "endSec": 342.33,
+          "score": 1.0
+        },
+        {
+          "word": "where",
+          "startSec": 342.33,
+          "endSec": 342.67,
+          "score": 0.99
+        },
+        {
+          "word": "it",
+          "startSec": 342.67,
+          "endSec": 342.87,
+          "score": 1.0
+        },
+        {
+          "word": "is,",
+          "startSec": 342.87,
+          "endSec": 343.31,
+          "score": 1.0
+        },
+        {
+          "word": "what",
+          "startSec": 343.63,
+          "endSec": 343.95,
+          "score": 1.0
+        },
+        {
+          "word": "people",
+          "startSec": 343.95,
+          "endSec": 344.41,
+          "score": 0.99
+        },
+        {
+          "word": "speak",
+          "startSec": 344.41,
+          "endSec": 344.91,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 344.91,
+          "endSec": 345.55,
+          "score": 0.34
+        },
+        {
+          "word": "what",
+          "startSec": 345.55,
+          "endSec": 345.75,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 345.75,
+          "endSec": 345.91,
+          "score": 1.0
+        },
+        {
+          "word": "weather",
+          "startSec": 345.91,
+          "endSec": 346.21,
+          "score": 1.0
+        },
+        {
+          "word": "is",
+          "startSec": 346.21,
+          "endSec": 346.57,
+          "score": 1.0
+        },
+        {
+          "word": "like.",
+          "startSec": 346.57,
+          "endSec": 346.91,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 347.68,
+      "end": 353.83,
+      "text": "You learned about the islands, the sea, the food and the people.",
+      "words": [
+        {
+          "word": "You",
+          "startSec": 347.88,
+          "endSec": 348.26,
+          "score": 0.99
+        },
+        {
+          "word": "learned",
+          "startSec": 348.26,
+          "endSec": 348.46,
+          "score": 0.94
+        },
+        {
+          "word": "about",
+          "startSec": 348.46,
+          "endSec": 348.88,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "startSec": 348.88,
+          "endSec": 349.12,
+          "score": 0.99
+        },
+        {
+          "word": "islands,",
+          "startSec": 349.12,
+          "endSec": 349.72,
+          "score": 0.95
+        },
+        {
+          "word": "the",
+          "startSec": 350.82,
+          "endSec": 350.84,
+          "score": 0.99
+        },
+        {
+          "word": "sea,",
+          "startSec": 350.84,
+          "endSec": 351.26,
+          "score": 0.99
+        },
+        {
+          "word": "the",
+          "startSec": 351.96,
+          "endSec": 352.0,
+          "score": 1.0
+        },
+        {
+          "word": "food",
+          "startSec": 352.0,
+          "endSec": 352.4,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "startSec": 352.4,
+          "endSec": 353.04,
+          "score": 0.6
+        },
+        {
+          "word": "the",
+          "startSec": 353.04,
+          "endSec": 353.22,
+          "score": 0.99
+        },
+        {
+          "word": "people.",
+          "startSec": 353.22,
+          "endSec": 353.68,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 354.56,
+      "end": 355.75,
+      "text": "Great work.",
+      "words": [
+        {
+          "word": "Great",
+          "startSec": 354.76,
+          "endSec": 355.24,
+          "score": 0.97
+        },
+        {
+          "word": "work.",
+          "startSec": 355.24,
+          "endSec": 355.6,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 360.86,
+      "end": 362.13,
+      "text": "I am Emili.",
+      "words": [
+        {
+          "word": "I",
+          "startSec": 361.06,
+          "endSec": 361.38,
+          "score": 0.5
+        },
+        {
+          "word": "am",
+          "startSec": 361.38,
+          "endSec": 361.62,
+          "score": 0.83
+        },
+        {
+          "word": "Emili.",
+          "startSec": 361.62,
+          "endSec": 361.98,
+          "score": 0.39
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 364.68,
+      "end": 365.29,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "word": "Goodbye.",
+          "startSec": 364.88,
+          "endSec": 365.14,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 366.08,
+      "end": 368.03,
+      "text": "Or as they say in Fiji.",
+      "words": [
+        {
+          "word": "Or",
+          "startSec": 366.28,
+          "endSec": 366.54,
+          "score": 0.94
+        },
+        {
+          "word": "as",
+          "startSec": 366.54,
+          "endSec": 366.76,
+          "score": 0.91
+        },
+        {
+          "word": "they",
+          "startSec": 366.76,
+          "endSec": 366.94,
+          "score": 1.0
+        },
+        {
+          "word": "say",
+          "startSec": 366.94,
+          "endSec": 367.24,
+          "score": 0.99
+        },
+        {
+          "word": "in",
+          "startSec": 367.24,
+          "endSec": 367.56,
+          "score": 0.84
+        },
+        {
+          "word": "Fiji.",
+          "startSec": 367.56,
+          "endSec": 367.88,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 369.22,
+      "end": 370.01,
+      "text": "Mo say.",
+      "words": [
+        {
+          "word": "Mo",
+          "startSec": 369.42,
+          "endSec": 369.48,
+          "score": 0.26
+        },
+        {
+          "word": "say.",
+          "startSec": 369.48,
+          "endSec": 369.86,
+          "score": 0.74
         }
       ]
     }
