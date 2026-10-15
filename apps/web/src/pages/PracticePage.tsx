@@ -44,6 +44,7 @@ export function PracticePage() {
     handleEpisodeLoad,
     handleTabKey,
     handleReset,
+    restartFromBeginning,
     selectRound,
     togglePlayPause,
     isAudioPaused,
@@ -360,6 +361,14 @@ export function PracticePage() {
           >
             <span>←</span>
             <span>返回列表</span>
+          </button>
+          <button
+            onClick={() => restartFromBeginning()}
+            title="清空当前集进度缓存，从第 1 句重新开始打字练习"
+            className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-900 hover:bg-blue-600/20 active:scale-95 border border-gray-800 hover:border-blue-500/50 text-gray-300 hover:text-blue-300 rounded-lg text-xs font-medium transition-all cursor-pointer"
+          >
+            <span>↺</span>
+            <span>从头开始</span>
           </button>
           <div className="h-4 w-[1px] bg-gray-800" />
           <div className="flex items-center gap-3">

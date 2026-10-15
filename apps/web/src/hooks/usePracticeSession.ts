@@ -451,6 +451,51 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     setIsAudioPaused(false);
   }, []);
 
+  const restartFromBeginning = useCallback(async () => {
+    const ep = episodeRef.current;
+    const engine = engineRef.current;
+    const player = playerRef.current;
+    const fsm = fsmRef.current;
+    if (!ep || !engine || !player || !fsm) return;
+
+    sentenceIdxRef.current = 0;
+    completedSentencesRef.current = [];
+    setIsAudioPaused(false);
+
+    // 重置数据库中的句子进度为 0
+    try {
+      const existing = await db.progress.get(ep.episodeId);
+      if (existing) {
+        await db.progress.put({
+          ...existing,
+          currentSentenceIdx: 0,
+          updatedAt: Date.now(),
+        });
+      }
+    } catch (e) {
+      console.warn('重置进度数据库失败:', e);
+    }
+
+    fsm.transition('RESET');
+    const firstSentence = ep.sentences[0];
+    engine.loadSentence(firstSentence);
+
+    const chunk: AudioChunk = {
+      audioUrl: ep.audioUrl,
+      startSec: firstSentence.start,
+      endSec: firstSentence.end,
+      seekAheadMs,
+      sentenceId: firstSentence.id,
+    };
+    player.playChunk(chunk);
+    player.setLooping(currentRoundRef.current !== 4);
+    fsm.transition('LOAD');
+    fsm.transition('AUDIO_CAN_PLAY');
+
+    dispatch({ type: 'RESET', totalSentences: ep.sentences.length });
+    dispatch({ type: 'READY' });
+  }, [seekAheadMs]);
+
   const handleReset = useCallback(async () => {
     await saveProgressToDb();
     playerRef.current?.pause();
@@ -468,6 +513,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     handleEpisodeLoad,
     handleTabKey,
     handleReset,
+    restartFromBeginning,
     selectRound,
     togglePlayPause,
     isAudioPaused,
