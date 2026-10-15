@@ -56,7 +56,7 @@ export function PracticePage() {
   useEffect(() => {
     async function initCatalog() {
       try {
-        const res = await fetch('/data/manifest.json');
+        const res = await fetch(`/data/manifest.json?t=${Date.now()}`, { cache: 'no-cache' });
         if (res.ok) {
           const data: ManifestData = await res.json();
           setManifest(data);
@@ -88,7 +88,7 @@ export function PracticePage() {
     try {
       setIsLoading(true);
       setLoadError(null);
-      const res = await fetch(epItem.dataFile);
+      const res = await fetch(`${epItem.dataFile}?t=${Date.now()}`, { cache: 'no-cache' });
       if (!res.ok) {
         throw new Error(`无法获取集数数据: HTTP ${res.status}`);
       }
