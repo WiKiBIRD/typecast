@@ -15,3281 +15,3088 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.01,
-      "end": 6.62,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emilia, your host.",
+      "start": 2.02,
+      "end": 4.48,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.11,
-          "endSec": 0.53,
-          "score": 0.83
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.67,
-          "endSec": 1.19,
-          "score": 0.99
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.87,
-          "endSec": 2.31,
-          "score": 1.0
+          "start": 2.02,
+          "end": 2.32
         },
         {
           "word": "to",
-          "startSec": 2.31,
-          "endSec": 2.59,
-          "score": 1.0
+          "start": 2.32,
+          "end": 2.64
         },
         {
           "word": "the",
-          "startSec": 2.59,
-          "endSec": 2.73,
-          "score": 0.99
+          "start": 2.64,
+          "end": 2.84
         },
         {
           "word": "Slow",
-          "startSec": 2.73,
-          "endSec": 3.01,
-          "score": 0.73
+          "start": 2.84,
+          "end": 3.12
         },
         {
           "word": "English",
-          "startSec": 3.01,
-          "endSec": 3.47,
-          "score": 0.96
+          "start": 3.12,
+          "end": 3.58
         },
         {
           "word": "Podcast.",
-          "startSec": 3.47,
-          "endSec": 4.15,
-          "score": 0.8
-        },
-        {
-          "word": "I",
-          "startSec": 4.83,
-          "endSec": 5.05,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.05,
-          "endSec": 5.25,
-          "score": 0.96
-        },
-        {
-          "word": "Emilia,",
-          "startSec": 5.25,
-          "endSec": 5.67,
-          "score": 0.41
-        },
-        {
-          "word": "your",
-          "startSec": 5.97,
-          "endSec": 6.05,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 6.05,
-          "endSec": 6.47,
-          "score": 1.0
+          "start": 3.58,
+          "end": 4.48
         }
       ]
     },
     {
       "id": 2,
-      "start": 7.25,
-      "end": 16.93,
-      "text": "Today, we are traveling to a small and historic city in Europe. It is called Tartu. Tartu",
+      "start": 4.9,
+      "end": 7.06,
+      "text": "I am Emilie, your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 7.45,
-          "endSec": 8.03,
-          "score": 0.99
+          "word": "I",
+          "start": 4.9,
+          "end": 5.1
         },
         {
-          "word": "we",
-          "startSec": 8.11,
-          "endSec": 8.55,
-          "score": 1.0
+          "word": "am",
+          "start": 5.1,
+          "end": 5.3
         },
         {
-          "word": "are",
-          "startSec": 8.55,
-          "endSec": 8.69,
-          "score": 0.98
+          "word": "Emilie,",
+          "start": 5.3,
+          "end": 5.88
         },
         {
-          "word": "traveling",
-          "startSec": 8.69,
-          "endSec": 9.23,
-          "score": 0.94
+          "word": "your",
+          "start": 6.02,
+          "end": 6.1
         },
         {
-          "word": "to",
-          "startSec": 9.23,
-          "endSec": 9.63,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 9.63,
-          "endSec": 9.79,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 9.79,
-          "endSec": 10.29,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 10.29,
-          "endSec": 10.55,
-          "score": 0.99
-        },
-        {
-          "word": "historic",
-          "startSec": 10.55,
-          "endSec": 10.99,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 10.99,
-          "endSec": 11.61,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 11.61,
-          "endSec": 11.95,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 11.95,
-          "endSec": 12.33,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 13.2,
-          "endSec": 13.5,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 13.5,
-          "endSec": 13.66,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 13.66,
-          "endSec": 14.02,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 14.02,
-          "endSec": 14.8,
-          "score": 0.89
-        },
-        {
-          "word": "Tartu",
-          "startSec": 15.98,
-          "endSec": 16.78,
-          "score": 1.0
+          "word": "host.",
+          "start": 6.1,
+          "end": 7.06
         }
       ]
     },
     {
       "id": 3,
-      "start": 16.58,
-      "end": 24.33,
-      "text": "is in Estonia, a country in northern Europe. This city is full of history, universities,",
+      "start": 7.64,
+      "end": 12.78,
+      "text": "Today, we are traveling to a small and historic city in Europe.",
       "words": [
         {
-          "word": "is",
-          "startSec": 16.78,
-          "endSec": 17.0,
-          "score": 0.99
+          "word": "Today,",
+          "start": 7.64,
+          "end": 8.08
         },
         {
-          "word": "in",
-          "startSec": 17.0,
-          "endSec": 17.12,
-          "score": 0.99
+          "word": "we",
+          "start": 8.36,
+          "end": 8.6
         },
         {
-          "word": "Estonia,",
-          "startSec": 17.12,
-          "endSec": 17.52,
-          "score": 0.99
+          "word": "are",
+          "start": 8.6,
+          "end": 8.74
+        },
+        {
+          "word": "traveling",
+          "start": 8.74,
+          "end": 9.28
+        },
+        {
+          "word": "to",
+          "start": 9.28,
+          "end": 9.68
         },
         {
           "word": "a",
-          "startSec": 18.32,
-          "endSec": 18.5,
-          "score": 1.0
+          "start": 9.68,
+          "end": 9.9
         },
         {
-          "word": "country",
-          "startSec": 18.5,
-          "endSec": 18.96,
-          "score": 1.0
+          "word": "small",
+          "start": 9.9,
+          "end": 10.36
         },
         {
-          "word": "in",
-          "startSec": 18.96,
-          "endSec": 19.3,
-          "score": 1.0
+          "word": "and",
+          "start": 10.36,
+          "end": 10.6
         },
         {
-          "word": "northern",
-          "startSec": 19.3,
-          "endSec": 19.56,
-          "score": 0.6
-        },
-        {
-          "word": "Europe.",
-          "startSec": 19.56,
-          "endSec": 20.22,
-          "score": 1.0
-        },
-        {
-          "word": "This",
-          "startSec": 21.18,
-          "endSec": 21.42,
-          "score": 0.99
+          "word": "historic",
+          "start": 10.6,
+          "end": 11.2
         },
         {
           "word": "city",
-          "startSec": 21.42,
-          "endSec": 21.84,
-          "score": 1.0
+          "start": 11.2,
+          "end": 11.72
         },
         {
-          "word": "is",
-          "startSec": 21.84,
-          "endSec": 22.1,
-          "score": 1.0
+          "word": "in",
+          "start": 11.72,
+          "end": 12.02
         },
         {
-          "word": "full",
-          "startSec": 22.1,
-          "endSec": 22.36,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 22.36,
-          "endSec": 22.56,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 22.56,
-          "endSec": 22.9,
-          "score": 0.99
-        },
-        {
-          "word": "universities,",
-          "startSec": 23.0,
-          "endSec": 24.18,
-          "score": 0.99
+          "word": "Europe.",
+          "start": 12.02,
+          "end": 12.78
         }
       ]
     },
     {
       "id": 4,
-      "start": 23.98,
-      "end": 34.9,
-      "text": "and peaceful streets. Let's explore Tartu together. Part two, where is Tartu? Tartu",
+      "start": 13.4,
+      "end": 15.26,
+      "text": "It is called Tartu.",
       "words": [
         {
-          "word": "and",
-          "startSec": 24.18,
-          "endSec": 25.0,
-          "score": 0.05
-        },
-        {
-          "word": "peaceful",
-          "startSec": 25.0,
-          "endSec": 25.34,
-          "score": 0.98
-        },
-        {
-          "word": "streets.",
-          "startSec": 25.34,
-          "endSec": 25.98,
-          "score": 0.99
-        },
-        {
-          "word": "Let's",
-          "startSec": 27.32,
-          "endSec": 27.74,
-          "score": 0.97
-        },
-        {
-          "word": "explore",
-          "startSec": 27.74,
-          "endSec": 28.22,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu",
-          "startSec": 28.22,
-          "endSec": 28.8,
-          "score": 0.79
-        },
-        {
-          "word": "together.",
-          "startSec": 28.8,
-          "endSec": 29.2,
-          "score": 0.97
-        },
-        {
-          "word": "Part",
-          "startSec": 30.63,
-          "endSec": 30.99,
-          "score": 0.49
-        },
-        {
-          "word": "two,",
-          "startSec": 30.99,
-          "endSec": 31.41,
-          "score": 0.2
-        },
-        {
-          "word": "where",
-          "startSec": 32.15,
-          "endSec": 32.55,
-          "score": 0.88
+          "word": "It",
+          "start": 13.4,
+          "end": 13.54
         },
         {
           "word": "is",
-          "startSec": 32.55,
-          "endSec": 32.83,
-          "score": 0.99
+          "start": 13.54,
+          "end": 13.74
         },
         {
-          "word": "Tartu?",
-          "startSec": 32.83,
-          "endSec": 33.49,
-          "score": 0.99
+          "word": "called",
+          "start": 13.74,
+          "end": 14.08
         },
         {
-          "word": "Tartu",
-          "startSec": 33.99,
-          "endSec": 34.75,
-          "score": 0.99
+          "word": "Tartu.",
+          "start": 14.08,
+          "end": 15.26
         }
       ]
     },
     {
       "id": 5,
-      "start": 34.55,
-      "end": 43.37,
-      "text": "is in southern Estonia, near the Imajogi River. The city is surrounded by forests,",
+      "start": 16.06,
+      "end": 20.68,
+      "text": "Tartu is in Estonia, a country in northern Europe.",
       "words": [
         {
+          "word": "Tartu",
+          "start": 16.06,
+          "end": 16.82
+        },
+        {
           "word": "is",
-          "startSec": 34.75,
-          "endSec": 34.97,
-          "score": 0.89
+          "start": 16.82,
+          "end": 17.02
         },
         {
           "word": "in",
-          "startSec": 34.97,
-          "endSec": 35.19,
-          "score": 0.99
-        },
-        {
-          "word": "southern",
-          "startSec": 35.19,
-          "endSec": 35.57,
-          "score": 0.65
+          "start": 17.02,
+          "end": 17.18
         },
         {
           "word": "Estonia,",
-          "startSec": 35.57,
-          "endSec": 36.25,
-          "score": 0.98
+          "start": 17.18,
+          "end": 17.8
         },
         {
-          "word": "near",
-          "startSec": 36.97,
-          "endSec": 37.65,
-          "score": 1.0
+          "word": "a",
+          "start": 18.44,
+          "end": 18.58
         },
         {
-          "word": "the",
-          "startSec": 37.65,
-          "endSec": 37.85,
-          "score": 1.0
+          "word": "country",
+          "start": 18.58,
+          "end": 19.08
         },
         {
-          "word": "Imajogi",
-          "startSec": 37.85,
-          "endSec": 38.65,
-          "score": 0.43
+          "word": "in",
+          "start": 19.08,
+          "end": 19.36
         },
         {
-          "word": "River.",
-          "startSec": 38.65,
-          "endSec": 39.43,
-          "score": 0.9
+          "word": "northern",
+          "start": 19.36,
+          "end": 19.68
         },
         {
-          "word": "The",
-          "startSec": 40.56,
-          "endSec": 40.84,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 40.84,
-          "endSec": 41.22,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 41.22,
-          "endSec": 41.64,
-          "score": 1.0
-        },
-        {
-          "word": "surrounded",
-          "startSec": 41.64,
-          "endSec": 42.1,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 42.1,
-          "endSec": 42.64,
-          "score": 1.0
-        },
-        {
-          "word": "forests,",
-          "startSec": 42.64,
-          "endSec": 43.22,
-          "score": 0.98
+          "word": "Europe.",
+          "start": 19.68,
+          "end": 20.68
         }
       ]
     },
     {
       "id": 6,
-      "start": 43.36,
-      "end": 51.61,
-      "text": "lakes, and green landscapes. It is small and calm, perfect for learning about",
+      "start": 21.26,
+      "end": 26.46,
+      "text": "This city is full of history, universities, and peaceful streets.",
       "words": [
         {
-          "word": "lakes,",
-          "startSec": 43.56,
-          "endSec": 44.24,
-          "score": 1.0
+          "word": "This",
+          "start": 21.26,
+          "end": 21.5
         },
         {
-          "word": "and",
-          "startSec": 44.88,
-          "endSec": 44.94,
-          "score": 1.0
-        },
-        {
-          "word": "green",
-          "startSec": 44.94,
-          "endSec": 45.3,
-          "score": 0.79
-        },
-        {
-          "word": "landscapes.",
-          "startSec": 45.3,
-          "endSec": 46.08,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 47.26,
-          "endSec": 47.56,
-          "score": 0.99
+          "word": "city",
+          "start": 21.5,
+          "end": 21.88
         },
         {
           "word": "is",
-          "startSec": 47.56,
-          "endSec": 47.7,
-          "score": 0.99
+          "start": 21.88,
+          "end": 22.16
         },
         {
-          "word": "small",
-          "startSec": 47.7,
-          "endSec": 48.18,
-          "score": 0.99
+          "word": "full",
+          "start": 22.16,
+          "end": 22.42
+        },
+        {
+          "word": "of",
+          "start": 22.42,
+          "end": 22.6
+        },
+        {
+          "word": "history,",
+          "start": 22.6,
+          "end": 23.2
+        },
+        {
+          "word": "universities,",
+          "start": 23.74,
+          "end": 24.36
         },
         {
           "word": "and",
-          "startSec": 48.18,
-          "endSec": 48.66,
-          "score": 1.0
+          "start": 24.9,
+          "end": 25.02
         },
         {
-          "word": "calm,",
-          "startSec": 48.66,
-          "endSec": 49.06,
-          "score": 1.0
+          "word": "peaceful",
+          "start": 25.02,
+          "end": 25.56
         },
         {
-          "word": "perfect",
-          "startSec": 49.76,
-          "endSec": 50.24,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 50.24,
-          "endSec": 50.62,
-          "score": 1.0
-        },
-        {
-          "word": "learning",
-          "startSec": 50.62,
-          "endSec": 50.98,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 50.98,
-          "endSec": 51.46,
-          "score": 1.0
+          "word": "streets.",
+          "start": 25.56,
+          "end": 26.46
         }
       ]
     },
     {
       "id": 7,
-      "start": 51.26,
-      "end": 60.42,
-      "text": "Estonian culture and history. Part three, history of Tartu. Tartu is one of the",
+      "start": 27.06,
+      "end": 29.68,
+      "text": "Let's explore Tartu together.",
       "words": [
         {
-          "word": "Estonian",
-          "startSec": 51.46,
-          "endSec": 52.24,
-          "score": 0.52
+          "word": "Let's",
+          "start": 27.06,
+          "end": 27.78
         },
         {
-          "word": "culture",
-          "startSec": 52.24,
-          "endSec": 52.6,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 52.6,
-          "endSec": 53.24,
-          "score": 0.96
-        },
-        {
-          "word": "history.",
-          "startSec": 53.24,
-          "endSec": 53.72,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 55.6,
-          "endSec": 55.78,
-          "score": 0.94
-        },
-        {
-          "word": "three,",
-          "startSec": 55.78,
-          "endSec": 56.28,
-          "score": 0.38
-        },
-        {
-          "word": "history",
-          "startSec": 56.28,
-          "endSec": 56.84,
-          "score": 0.65
-        },
-        {
-          "word": "of",
-          "startSec": 56.84,
-          "endSec": 57.16,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 57.16,
-          "endSec": 57.8,
-          "score": 0.81
+          "word": "explore",
+          "start": 27.78,
+          "end": 28.26
         },
         {
           "word": "Tartu",
-          "startSec": 58.65,
-          "endSec": 59.53,
-          "score": 1.0
+          "start": 28.26,
+          "end": 28.82
         },
         {
-          "word": "is",
-          "startSec": 59.53,
-          "endSec": 59.67,
-          "score": 0.98
-        },
-        {
-          "word": "one",
-          "startSec": 59.67,
-          "endSec": 59.95,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 59.95,
-          "endSec": 60.11,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 60.11,
-          "endSec": 60.27,
-          "score": 1.0
+          "word": "together.",
+          "start": 28.82,
+          "end": 29.68
         }
       ]
     },
     {
       "id": 8,
-      "start": 60.07,
-      "end": 68.38,
-      "text": "oldest cities in Estonia. It has a long history with universities, churches, and",
+      "start": 30.2,
+      "end": 31.96,
+      "text": "Part 2.",
       "words": [
         {
-          "word": "oldest",
-          "startSec": 60.27,
-          "endSec": 60.71,
-          "score": 1.0
+          "word": "Part",
+          "start": 30.2,
+          "end": 31.0
         },
         {
-          "word": "cities",
-          "startSec": 60.71,
-          "endSec": 61.31,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 61.31,
-          "endSec": 61.65,
-          "score": 1.0
-        },
-        {
-          "word": "Estonia.",
-          "startSec": 61.65,
-          "endSec": 61.99,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 63.11,
-          "endSec": 63.57,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 63.57,
-          "endSec": 63.75,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 63.75,
-          "endSec": 64.01,
-          "score": 1.0
-        },
-        {
-          "word": "long",
-          "startSec": 64.01,
-          "endSec": 64.29,
-          "score": 1.0
-        },
-        {
-          "word": "history",
-          "startSec": 64.29,
-          "endSec": 64.79,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 64.79,
-          "endSec": 65.27,
-          "score": 0.99
-        },
-        {
-          "word": "universities,",
-          "startSec": 65.27,
-          "endSec": 66.09,
-          "score": 0.96
-        },
-        {
-          "word": "churches,",
-          "startSec": 66.09,
-          "endSec": 67.23,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 67.43,
-          "endSec": 68.23,
-          "score": 1.0
+          "word": "2.",
+          "start": 31.0,
+          "end": 31.96
         }
       ]
     },
     {
       "id": 9,
-      "start": 68.03,
-      "end": 75.73,
-      "text": "trade. The University of Tartu is famous and attracts students from all over the",
+      "start": 32.22,
+      "end": 33.86,
+      "text": "Where is Tartu?",
       "words": [
         {
-          "word": "trade.",
-          "startSec": 68.23,
-          "endSec": 68.57,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 69.98,
-          "endSec": 70.12,
-          "score": 1.0
-        },
-        {
-          "word": "University",
-          "startSec": 70.12,
-          "endSec": 70.64,
-          "score": 0.9
-        },
-        {
-          "word": "of",
-          "startSec": 70.64,
-          "endSec": 71.24,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu",
-          "startSec": 71.24,
-          "endSec": 71.98,
-          "score": 1.0
+          "word": "Where",
+          "start": 32.22,
+          "end": 32.6
         },
         {
           "word": "is",
-          "startSec": 71.98,
-          "endSec": 72.24,
-          "score": 1.0
+          "start": 32.6,
+          "end": 32.88
         },
         {
-          "word": "famous",
-          "startSec": 72.24,
-          "endSec": 72.8,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 72.8,
-          "endSec": 73.38,
-          "score": 0.96
-        },
-        {
-          "word": "attracts",
-          "startSec": 73.38,
-          "endSec": 73.66,
-          "score": 0.99
-        },
-        {
-          "word": "students",
-          "startSec": 73.66,
-          "endSec": 74.48,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 74.48,
-          "endSec": 74.78,
-          "score": 1.0
-        },
-        {
-          "word": "all",
-          "startSec": 74.78,
-          "endSec": 75.08,
-          "score": 1.0
-        },
-        {
-          "word": "over",
-          "startSec": 75.08,
-          "endSec": 75.4,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 75.4,
-          "endSec": 75.58,
-          "score": 1.0
+          "word": "Tartu?",
+          "start": 32.88,
+          "end": 33.86
         }
       ]
     },
     {
       "id": 10,
-      "start": 75.38,
-      "end": 82.59,
-      "text": "world. Walking in the city, you can see old buildings and learn about its past.",
+      "start": 34.06,
+      "end": 39.8,
+      "text": "Tartu is in southern Estonia, near the Amma Jogi River.",
       "words": [
         {
-          "word": "world.",
-          "startSec": 75.58,
-          "endSec": 76.04,
-          "score": 1.0
+          "word": "Tartu",
+          "start": 34.06,
+          "end": 34.8
         },
         {
-          "word": "Walking",
-          "startSec": 76.7,
-          "endSec": 77.32,
-          "score": 0.99
+          "word": "is",
+          "start": 34.8,
+          "end": 35.04
         },
         {
           "word": "in",
-          "startSec": 77.32,
-          "endSec": 77.76,
-          "score": 1.0
+          "start": 35.04,
+          "end": 35.26
+        },
+        {
+          "word": "southern",
+          "start": 35.26,
+          "end": 35.7
+        },
+        {
+          "word": "Estonia,",
+          "start": 35.7,
+          "end": 36.48
+        },
+        {
+          "word": "near",
+          "start": 37.46,
+          "end": 37.68
         },
         {
           "word": "the",
-          "startSec": 77.76,
-          "endSec": 77.92,
-          "score": 0.96
+          "start": 37.68,
+          "end": 37.9
         },
         {
-          "word": "city,",
-          "startSec": 77.92,
-          "endSec": 78.34,
-          "score": 0.99
+          "word": "Amma",
+          "start": 37.9,
+          "end": 38.4
         },
         {
-          "word": "you",
-          "startSec": 78.82,
-          "endSec": 79.08,
-          "score": 1.0
+          "word": "Jogi",
+          "start": 38.4,
+          "end": 38.78
         },
         {
-          "word": "can",
-          "startSec": 79.08,
-          "endSec": 79.28,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 79.28,
-          "endSec": 79.64,
-          "score": 1.0
-        },
-        {
-          "word": "old",
-          "startSec": 79.64,
-          "endSec": 79.96,
-          "score": 1.0
-        },
-        {
-          "word": "buildings",
-          "startSec": 79.96,
-          "endSec": 80.62,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 80.62,
-          "endSec": 81.06,
-          "score": 0.98
-        },
-        {
-          "word": "learn",
-          "startSec": 81.06,
-          "endSec": 81.34,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 81.34,
-          "endSec": 81.8,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 81.8,
-          "endSec": 82.02,
-          "score": 0.94
-        },
-        {
-          "word": "past.",
-          "startSec": 82.02,
-          "endSec": 82.44,
-          "score": 0.99
+          "word": "River.",
+          "start": 38.78,
+          "end": 39.8
         }
       ]
     },
     {
       "id": 11,
-      "start": 83.67,
-      "end": 91.63,
-      "text": "Part four, main attractions. The main attractions include the University of",
+      "start": 40.52,
+      "end": 46.6,
+      "text": "The city is surrounded by forests, lakes, and green landscapes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 83.87,
-          "endSec": 84.47,
-          "score": 0.32
-        },
-        {
-          "word": "four,",
-          "startSec": 84.47,
-          "endSec": 84.99,
-          "score": 0.23
-        },
-        {
-          "word": "main",
-          "startSec": 85.61,
-          "endSec": 85.97,
-          "score": 0.42
-        },
-        {
-          "word": "attractions.",
-          "startSec": 85.97,
-          "endSec": 86.61,
-          "score": 1.0
-        },
-        {
           "word": "The",
-          "startSec": 87.88,
-          "endSec": 88.32,
-          "score": 0.98
+          "start": 40.52,
+          "end": 40.88
         },
         {
-          "word": "main",
-          "startSec": 88.32,
-          "endSec": 88.56,
-          "score": 1.0
+          "word": "city",
+          "start": 40.88,
+          "end": 41.3
         },
         {
-          "word": "attractions",
-          "startSec": 88.56,
-          "endSec": 89.28,
-          "score": 1.0
+          "word": "is",
+          "start": 41.3,
+          "end": 41.7
         },
         {
-          "word": "include",
-          "startSec": 89.28,
-          "endSec": 89.94,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 41.7,
+          "end": 42.26
         },
         {
-          "word": "the",
-          "startSec": 89.94,
-          "endSec": 90.42,
-          "score": 0.93
+          "word": "by",
+          "start": 42.26,
+          "end": 42.68
         },
         {
-          "word": "University",
-          "startSec": 90.42,
-          "endSec": 90.98,
-          "score": 0.99
+          "word": "forests,",
+          "start": 42.68,
+          "end": 43.44
         },
         {
-          "word": "of",
-          "startSec": 90.98,
-          "endSec": 91.48,
-          "score": 1.0
+          "word": "lakes,",
+          "start": 43.9,
+          "end": 44.34
+        },
+        {
+          "word": "and",
+          "start": 44.92,
+          "end": 45.04
+        },
+        {
+          "word": "green",
+          "start": 45.04,
+          "end": 45.44
+        },
+        {
+          "word": "landscapes.",
+          "start": 45.44,
+          "end": 46.6
         }
       ]
     },
     {
       "id": 12,
-      "start": 91.28,
-      "end": 99.57,
-      "text": "Tartu, Tartu Cathedral, and Town Hall Square. You can visit museums, art galleries,",
+      "start": 47.3,
+      "end": 54.24,
+      "text": "It is small and calm, perfect for learning about Estonian culture and history.",
       "words": [
         {
-          "word": "Tartu,",
-          "startSec": 91.48,
-          "endSec": 92.12,
-          "score": 0.94
+          "word": "It",
+          "start": 47.3,
+          "end": 47.6
         },
         {
-          "word": "Tartu",
-          "startSec": 92.58,
-          "endSec": 93.44,
-          "score": 1.0
+          "word": "is",
+          "start": 47.6,
+          "end": 47.8
         },
         {
-          "word": "Cathedral,",
-          "startSec": 93.44,
-          "endSec": 93.78,
-          "score": 1.0
+          "word": "small",
+          "start": 47.8,
+          "end": 48.42
         },
         {
           "word": "and",
-          "startSec": 94.62,
-          "endSec": 94.72,
-          "score": 1.0
+          "start": 48.42,
+          "end": 48.72
         },
         {
-          "word": "Town",
-          "startSec": 94.72,
-          "endSec": 94.96,
-          "score": 0.97
+          "word": "calm,",
+          "start": 48.72,
+          "end": 49.3
         },
         {
-          "word": "Hall",
-          "startSec": 94.96,
-          "endSec": 95.3,
-          "score": 0.94
+          "word": "perfect",
+          "start": 49.78,
+          "end": 50.28
         },
         {
-          "word": "Square.",
-          "startSec": 95.3,
-          "endSec": 95.72,
-          "score": 0.98
+          "word": "for",
+          "start": 50.28,
+          "end": 50.68
         },
         {
-          "word": "You",
-          "startSec": 96.76,
-          "endSec": 97.04,
-          "score": 0.99
+          "word": "learning",
+          "start": 50.68,
+          "end": 51.1
         },
         {
-          "word": "can",
-          "startSec": 97.04,
-          "endSec": 97.2,
-          "score": 1.0
+          "word": "about",
+          "start": 51.1,
+          "end": 51.44
         },
         {
-          "word": "visit",
-          "startSec": 97.2,
-          "endSec": 97.54,
-          "score": 1.0
+          "word": "Estonian",
+          "start": 51.44,
+          "end": 52.16
         },
         {
-          "word": "museums,",
-          "startSec": 97.54,
-          "endSec": 98.02,
-          "score": 0.98
+          "word": "culture",
+          "start": 52.16,
+          "end": 52.86
         },
         {
-          "word": "art",
-          "startSec": 98.4,
-          "endSec": 98.94,
-          "score": 0.99
+          "word": "and",
+          "start": 52.86,
+          "end": 53.3
         },
         {
-          "word": "galleries,",
-          "startSec": 98.94,
-          "endSec": 99.42,
-          "score": 1.0
+          "word": "history.",
+          "start": 53.3,
+          "end": 54.24
         }
       ]
     },
     {
       "id": 13,
-      "start": 99.78,
-      "end": 114.05,
-      "text": "and small cafes. The city combines history, learning, and peaceful nature. Part five,",
+      "start": 54.96,
+      "end": 56.62,
+      "text": "Part 3.",
       "words": [
         {
-          "word": "and",
-          "startSec": 99.98,
-          "endSec": 99.98,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 99.98,
-          "endSec": 100.4,
-          "score": 1.0
-        },
-        {
-          "word": "cafes.",
-          "startSec": 100.4,
-          "endSec": 100.78,
-          "score": 0.88
-        },
-        {
-          "word": "The",
-          "startSec": 101.96,
-          "endSec": 102.48,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 102.48,
-          "endSec": 102.78,
-          "score": 0.85
-        },
-        {
-          "word": "combines",
-          "startSec": 102.78,
-          "endSec": 103.32,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 103.32,
-          "endSec": 103.84,
-          "score": 1.0
-        },
-        {
-          "word": "learning,",
-          "startSec": 103.92,
-          "endSec": 104.84,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 105.4,
-          "endSec": 105.52,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 105.52,
-          "endSec": 105.98,
-          "score": 0.99
-        },
-        {
-          "word": "nature.",
-          "startSec": 105.98,
-          "endSec": 106.52,
-          "score": 1.0
-        },
-        {
           "word": "Part",
-          "startSec": 112.88,
-          "endSec": 113.9,
-          "score": 0.98
+          "start": 54.96,
+          "end": 55.82
         },
         {
-          "word": "five,",
-          "startSec": 113.9,
-          "endSec": 113.9,
-          "score": 0.92
+          "word": "3.",
+          "start": 55.82,
+          "end": 56.62
         }
       ]
     },
     {
       "id": 14,
-      "start": 113.7,
-      "end": 120.97,
-      "text": "there are markets, shops, and local restaurants. People walk, ride bicycles, or",
+      "start": 56.82,
+      "end": 62.68,
+      "text": "History of Tartu Tartu is one of the oldest cities in Estonia.",
       "words": [
         {
-          "word": "there",
-          "startSec": 113.9,
-          "endSec": 114.74,
-          "score": 0.08
+          "word": "History",
+          "start": 56.82,
+          "end": 56.86
         },
         {
-          "word": "are",
-          "startSec": 114.74,
-          "endSec": 114.92,
-          "score": 0.99
+          "word": "of",
+          "start": 56.86,
+          "end": 57.2
         },
         {
-          "word": "markets,",
-          "startSec": 114.92,
-          "endSec": 115.38,
-          "score": 0.83
+          "word": "Tartu",
+          "start": 57.2,
+          "end": 57.84
         },
         {
-          "word": "shops,",
-          "startSec": 115.38,
-          "endSec": 115.94,
-          "score": 1.0
+          "word": "Tartu",
+          "start": 58.72,
+          "end": 59.58
         },
         {
-          "word": "and",
-          "startSec": 116.26,
-          "endSec": 116.36,
-          "score": 0.98
+          "word": "is",
+          "start": 59.58,
+          "end": 59.78
         },
         {
-          "word": "local",
-          "startSec": 116.36,
-          "endSec": 116.7,
-          "score": 1.0
+          "word": "one",
+          "start": 59.78,
+          "end": 60.02
         },
         {
-          "word": "restaurants.",
-          "startSec": 116.7,
-          "endSec": 117.16,
-          "score": 0.99
+          "word": "of",
+          "start": 60.02,
+          "end": 60.18
         },
         {
-          "word": "People",
-          "startSec": 118.48,
-          "endSec": 118.58,
-          "score": 0.93
+          "word": "the",
+          "start": 60.18,
+          "end": 60.32
         },
         {
-          "word": "walk,",
-          "startSec": 118.58,
-          "endSec": 119.0,
-          "score": 0.99
+          "word": "oldest",
+          "start": 60.32,
+          "end": 60.76
         },
         {
-          "word": "ride",
-          "startSec": 119.38,
-          "endSec": 119.72,
-          "score": 1.0
+          "word": "cities",
+          "start": 60.76,
+          "end": 61.34
         },
         {
-          "word": "bicycles,",
-          "startSec": 119.72,
-          "endSec": 120.28,
-          "score": 0.99
+          "word": "in",
+          "start": 61.34,
+          "end": 61.72
         },
         {
-          "word": "or",
-          "startSec": 120.74,
-          "endSec": 120.82,
-          "score": 1.0
+          "word": "Estonia.",
+          "start": 61.72,
+          "end": 62.68
         }
       ]
     },
     {
       "id": 15,
-      "start": 120.62,
-      "end": 130.31,
-      "text": "take small cars. The city is safe, friendly, and welcoming. Part six, food and Tartu.",
+      "start": 62.9,
+      "end": 69.12,
+      "text": "It has a long history with universities, churches, and trade.",
       "words": [
         {
-          "word": "take",
-          "startSec": 120.82,
-          "endSec": 121.08,
-          "score": 0.99
+          "word": "It",
+          "start": 62.9,
+          "end": 63.6
         },
         {
-          "word": "small",
-          "startSec": 121.08,
-          "endSec": 121.5,
-          "score": 1.0
+          "word": "has",
+          "start": 63.6,
+          "end": 63.84
         },
         {
-          "word": "cars.",
-          "startSec": 121.5,
-          "endSec": 122.04,
-          "score": 1.0
+          "word": "a",
+          "start": 63.84,
+          "end": 64.08
         },
         {
-          "word": "The",
-          "startSec": 123.16,
-          "endSec": 123.2,
-          "score": 0.98
+          "word": "long",
+          "start": 64.08,
+          "end": 64.4
         },
         {
-          "word": "city",
-          "startSec": 123.2,
-          "endSec": 123.5,
-          "score": 0.94
+          "word": "history",
+          "start": 64.4,
+          "end": 64.96
         },
         {
-          "word": "is",
-          "startSec": 123.5,
-          "endSec": 123.84,
-          "score": 1.0
+          "word": "with",
+          "start": 64.96,
+          "end": 65.38
         },
         {
-          "word": "safe,",
-          "startSec": 123.84,
-          "endSec": 124.3,
-          "score": 1.0
+          "word": "universities,",
+          "start": 65.38,
+          "end": 66.18
         },
         {
-          "word": "friendly,",
-          "startSec": 124.3,
-          "endSec": 125.3,
-          "score": 1.0
+          "word": "churches,",
+          "start": 67.02,
+          "end": 67.36
         },
         {
           "word": "and",
-          "startSec": 125.72,
-          "endSec": 125.76,
-          "score": 1.0
+          "start": 68.18,
+          "end": 68.28
         },
         {
-          "word": "welcoming.",
-          "startSec": 125.76,
-          "endSec": 126.24,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 128.04,
-          "endSec": 128.04,
-          "score": 0.51
-        },
-        {
-          "word": "six,",
-          "startSec": 128.04,
-          "endSec": 128.5,
-          "score": 0.29
-        },
-        {
-          "word": "food",
-          "startSec": 129.24,
-          "endSec": 129.32,
-          "score": 0.75
-        },
-        {
-          "word": "and",
-          "startSec": 129.32,
-          "endSec": 129.54,
-          "score": 0.84
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 129.54,
-          "endSec": 130.16,
-          "score": 0.56
+          "word": "trade.",
+          "start": 68.28,
+          "end": 69.12
         }
       ]
     },
     {
       "id": 16,
-      "start": 130.86,
-      "end": 138.21,
-      "text": "Food and Tartu is fresh and simple. People eat potatoes, fish, meat, and vegetables.",
+      "start": 69.84,
+      "end": 76.02,
+      "text": "The University of Tartu is famous and attracts students from all over the world.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 131.06,
-          "endSec": 131.48,
-          "score": 0.99
+          "word": "The",
+          "start": 69.84,
+          "end": 70.18
         },
         {
-          "word": "and",
-          "startSec": 131.48,
-          "endSec": 131.76,
-          "score": 0.95
+          "word": "University",
+          "start": 70.18,
+          "end": 70.88
+        },
+        {
+          "word": "of",
+          "start": 70.88,
+          "end": 71.3
         },
         {
           "word": "Tartu",
-          "startSec": 131.76,
-          "endSec": 132.3,
-          "score": 0.99
+          "start": 71.3,
+          "end": 72.02
         },
         {
           "word": "is",
-          "startSec": 132.3,
-          "endSec": 132.52,
-          "score": 0.99
+          "start": 72.02,
+          "end": 72.32
         },
         {
-          "word": "fresh",
-          "startSec": 132.52,
-          "endSec": 132.86,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 132.86,
-          "endSec": 133.2,
-          "score": 1.0
-        },
-        {
-          "word": "simple.",
-          "startSec": 133.2,
-          "endSec": 133.72,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 134.68,
-          "endSec": 134.88,
-          "score": 1.0
-        },
-        {
-          "word": "eat",
-          "startSec": 134.88,
-          "endSec": 135.3,
-          "score": 1.0
-        },
-        {
-          "word": "potatoes,",
-          "startSec": 135.3,
-          "endSec": 136.06,
-          "score": 1.0
-        },
-        {
-          "word": "fish,",
-          "startSec": 136.44,
-          "endSec": 136.7,
-          "score": 1.0
-        },
-        {
-          "word": "meat,",
-          "startSec": 137.1,
-          "endSec": 137.3,
-          "score": 1.0
+          "word": "famous",
+          "start": 72.32,
+          "end": 72.88
         },
         {
           "word": "and",
-          "startSec": 137.3,
-          "endSec": 137.66,
-          "score": 1.0
+          "start": 72.88,
+          "end": 73.44
         },
         {
-          "word": "vegetables.",
-          "startSec": 137.66,
-          "endSec": 138.06,
-          "score": 1.0
+          "word": "attracts",
+          "start": 73.44,
+          "end": 73.82
+        },
+        {
+          "word": "students",
+          "start": 73.82,
+          "end": 74.5
+        },
+        {
+          "word": "from",
+          "start": 74.5,
+          "end": 74.84
+        },
+        {
+          "word": "all",
+          "start": 74.84,
+          "end": 75.16
+        },
+        {
+          "word": "over",
+          "start": 75.16,
+          "end": 75.46
+        },
+        {
+          "word": "the",
+          "start": 75.46,
+          "end": 75.62
+        },
+        {
+          "word": "world.",
+          "start": 75.62,
+          "end": 76.02
         }
       ]
     },
     {
       "id": 17,
-      "start": 138.6,
-      "end": 146.82,
-      "text": "A popular dish is black bread with fish or meat. Local desserts like pastries and",
+      "start": 76.02,
+      "end": 83.18,
+      "text": "Walking in the city, you can see old buildings and learn about its past.",
       "words": [
         {
-          "word": "A",
-          "startSec": 138.8,
-          "endSec": 139.24,
-          "score": 0.13
+          "word": "Walking",
+          "start": 76.02,
+          "end": 77.5
         },
         {
-          "word": "popular",
-          "startSec": 139.27,
-          "endSec": 140.31,
-          "score": 0.99
+          "word": "in",
+          "start": 77.5,
+          "end": 77.84
         },
         {
-          "word": "dish",
-          "startSec": 140.31,
-          "endSec": 140.85,
-          "score": 1.0
+          "word": "the",
+          "start": 77.84,
+          "end": 77.98
         },
         {
-          "word": "is",
-          "startSec": 140.85,
-          "endSec": 141.09,
-          "score": 0.99
+          "word": "city,",
+          "start": 77.98,
+          "end": 78.38
         },
         {
-          "word": "black",
-          "startSec": 141.09,
-          "endSec": 141.53,
-          "score": 0.98
+          "word": "you",
+          "start": 78.92,
+          "end": 79.12
         },
         {
-          "word": "bread",
-          "startSec": 141.53,
-          "endSec": 141.99,
-          "score": 0.97
+          "word": "can",
+          "start": 79.12,
+          "end": 79.38
         },
         {
-          "word": "with",
-          "startSec": 141.99,
-          "endSec": 142.31,
-          "score": 0.99
+          "word": "see",
+          "start": 79.38,
+          "end": 79.68
         },
         {
-          "word": "fish",
-          "startSec": 142.31,
-          "endSec": 142.65,
-          "score": 0.98
+          "word": "old",
+          "start": 79.68,
+          "end": 80.12
         },
         {
-          "word": "or",
-          "startSec": 142.65,
-          "endSec": 142.99,
-          "score": 0.99
-        },
-        {
-          "word": "meat.",
-          "startSec": 142.99,
-          "endSec": 143.33,
-          "score": 1.0
-        },
-        {
-          "word": "Local",
-          "startSec": 144.13,
-          "endSec": 144.49,
-          "score": 0.99
-        },
-        {
-          "word": "desserts",
-          "startSec": 144.49,
-          "endSec": 145.13,
-          "score": 0.98
-        },
-        {
-          "word": "like",
-          "startSec": 145.13,
-          "endSec": 145.65,
-          "score": 0.94
-        },
-        {
-          "word": "pastries",
-          "startSec": 145.65,
-          "endSec": 146.41,
-          "score": 0.99
+          "word": "buildings",
+          "start": 80.12,
+          "end": 80.68
         },
         {
           "word": "and",
-          "startSec": 146.41,
-          "endSec": 146.67,
-          "score": 0.98
+          "start": 80.68,
+          "end": 81.14
+        },
+        {
+          "word": "learn",
+          "start": 81.14,
+          "end": 81.46
+        },
+        {
+          "word": "about",
+          "start": 81.46,
+          "end": 81.78
+        },
+        {
+          "word": "its",
+          "start": 81.78,
+          "end": 82.1
+        },
+        {
+          "word": "past.",
+          "start": 82.1,
+          "end": 83.18
         }
       ]
     },
     {
       "id": 18,
-      "start": 146.47,
-      "end": 155.33,
-      "text": "berries are also very popular. Part seven, the people of Tartu. People in",
+      "start": 83.62,
+      "end": 85.52,
+      "text": "Part 4.",
       "words": [
         {
-          "word": "berries",
-          "startSec": 146.67,
-          "endSec": 146.99,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 146.99,
-          "endSec": 147.53,
-          "score": 0.99
-        },
-        {
-          "word": "also",
-          "startSec": 147.53,
-          "endSec": 147.99,
-          "score": 0.98
-        },
-        {
-          "word": "very",
-          "startSec": 147.99,
-          "endSec": 148.41,
-          "score": 0.97
-        },
-        {
-          "word": "popular.",
-          "startSec": 148.41,
-          "endSec": 149.01,
-          "score": 1.0
-        },
-        {
           "word": "Part",
-          "startSec": 150.5,
-          "endSec": 150.6,
-          "score": 0.64
+          "start": 83.62,
+          "end": 84.52
         },
         {
-          "word": "seven,",
-          "startSec": 150.6,
-          "endSec": 151.28,
-          "score": 0.19
-        },
-        {
-          "word": "the",
-          "startSec": 152.32,
-          "endSec": 152.32,
-          "score": 0.8
-        },
-        {
-          "word": "people",
-          "startSec": 152.32,
-          "endSec": 152.76,
-          "score": 0.89
-        },
-        {
-          "word": "of",
-          "startSec": 152.76,
-          "endSec": 153.02,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 153.02,
-          "endSec": 153.72,
-          "score": 0.94
-        },
-        {
-          "word": "People",
-          "startSec": 154.16,
-          "endSec": 154.8,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 154.8,
-          "endSec": 155.18,
-          "score": 0.94
+          "word": "4.",
+          "start": 84.52,
+          "end": 85.52
         }
       ]
     },
     {
       "id": 19,
-      "start": 154.98,
-      "end": 162.75,
-      "text": "Tartu are friendly and polite. They speak Estonian and many speak English. Life is",
+      "start": 85.96,
+      "end": 96.26,
+      "text": "Main Attractions The main attractions include the University of Tartu, Tartu Cathedral, and Town Hall Square.",
       "words": [
         {
+          "word": "Main",
+          "start": 85.96,
+          "end": 86.04
+        },
+        {
+          "word": "Attractions",
+          "start": 86.04,
+          "end": 87.06
+        },
+        {
+          "word": "The",
+          "start": 87.06,
+          "end": 88.34
+        },
+        {
+          "word": "main",
+          "start": 88.34,
+          "end": 88.66
+        },
+        {
+          "word": "attractions",
+          "start": 88.66,
+          "end": 89.3
+        },
+        {
+          "word": "include",
+          "start": 89.3,
+          "end": 90.12
+        },
+        {
+          "word": "the",
+          "start": 90.12,
+          "end": 90.46
+        },
+        {
+          "word": "University",
+          "start": 90.46,
+          "end": 91.18
+        },
+        {
+          "word": "of",
+          "start": 91.18,
+          "end": 91.5
+        },
+        {
+          "word": "Tartu,",
+          "start": 91.5,
+          "end": 92.24
+        },
+        {
           "word": "Tartu",
-          "startSec": 155.18,
-          "endSec": 155.68,
-          "score": 1.0
+          "start": 92.7,
+          "end": 93.48
         },
         {
-          "word": "are",
-          "startSec": 155.68,
-          "endSec": 155.88,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 155.88,
-          "endSec": 156.2,
-          "score": 1.0
+          "word": "Cathedral,",
+          "start": 93.48,
+          "end": 94.12
         },
         {
           "word": "and",
-          "startSec": 156.2,
-          "endSec": 156.64,
-          "score": 0.99
+          "start": 94.68,
+          "end": 94.8
         },
         {
-          "word": "polite.",
-          "startSec": 156.64,
-          "endSec": 157.04,
-          "score": 1.0
+          "word": "Town",
+          "start": 94.8,
+          "end": 95.08
         },
         {
-          "word": "They",
-          "startSec": 157.88,
-          "endSec": 157.94,
-          "score": 0.99
+          "word": "Hall",
+          "start": 95.08,
+          "end": 95.38
         },
         {
-          "word": "speak",
-          "startSec": 157.94,
-          "endSec": 158.32,
-          "score": 1.0
-        },
-        {
-          "word": "Estonian",
-          "startSec": 158.32,
-          "endSec": 159.28,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 159.28,
-          "endSec": 159.5,
-          "score": 0.83
-        },
-        {
-          "word": "many",
-          "startSec": 159.5,
-          "endSec": 159.72,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 159.72,
-          "endSec": 160.22,
-          "score": 1.0
-        },
-        {
-          "word": "English.",
-          "startSec": 160.22,
-          "endSec": 160.78,
-          "score": 1.0
-        },
-        {
-          "word": "Life",
-          "startSec": 161.8,
-          "endSec": 162.16,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 162.16,
-          "endSec": 162.6,
-          "score": 1.0
+          "word": "Square.",
+          "start": 95.38,
+          "end": 96.26
         }
       ]
     },
     {
       "id": 20,
-      "start": 162.4,
-      "end": 169.93,
-      "text": "calm. Family is important and traditions are respected. People enjoy festivals,",
+      "start": 96.78,
+      "end": 101.36,
+      "text": "You can visit museums, art galleries, and small cafes.",
       "words": [
         {
-          "word": "calm.",
-          "startSec": 162.6,
-          "endSec": 162.92,
-          "score": 0.02
+          "word": "You",
+          "start": 96.78,
+          "end": 97.08
         },
         {
-          "word": "Family",
-          "startSec": 163.68,
-          "endSec": 164.04,
-          "score": 0.94
+          "word": "can",
+          "start": 97.08,
+          "end": 97.3
         },
         {
-          "word": "is",
-          "startSec": 164.04,
-          "endSec": 164.52,
-          "score": 1.0
+          "word": "visit",
+          "start": 97.3,
+          "end": 97.6
         },
         {
-          "word": "important",
-          "startSec": 164.52,
-          "endSec": 164.96,
-          "score": 1.0
+          "word": "museums,",
+          "start": 97.6,
+          "end": 98.56
+        },
+        {
+          "word": "art",
+          "start": 98.86,
+          "end": 99.04
+        },
+        {
+          "word": "galleries,",
+          "start": 99.04,
+          "end": 99.64
         },
         {
           "word": "and",
-          "startSec": 164.96,
-          "endSec": 165.6,
-          "score": 0.78
+          "start": 99.9,
+          "end": 100.06
         },
         {
-          "word": "traditions",
-          "startSec": 165.6,
-          "endSec": 166.0,
-          "score": 0.99
+          "word": "small",
+          "start": 100.06,
+          "end": 100.5
         },
         {
-          "word": "are",
-          "startSec": 166.0,
-          "endSec": 166.54,
-          "score": 1.0
-        },
-        {
-          "word": "respected.",
-          "startSec": 166.54,
-          "endSec": 167.0,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 168.46,
-          "endSec": 168.62,
-          "score": 0.86
-        },
-        {
-          "word": "enjoy",
-          "startSec": 168.62,
-          "endSec": 169.18,
-          "score": 1.0
-        },
-        {
-          "word": "festivals,",
-          "startSec": 169.18,
-          "endSec": 169.78,
-          "score": 0.99
+          "word": "cafes.",
+          "start": 100.5,
+          "end": 101.36
         }
       ]
     },
     {
       "id": 21,
-      "start": 170.06,
-      "end": 179.48,
-      "text": "music, and cultural events. Part eight, culture and festivals. Tartu has many",
+      "start": 101.96,
+      "end": 107.16,
+      "text": "The city combines history, learning, and peaceful nature.",
       "words": [
         {
-          "word": "music,",
-          "startSec": 170.26,
-          "endSec": 170.7,
-          "score": 1.0
+          "word": "The",
+          "start": 101.96,
+          "end": 102.5
+        },
+        {
+          "word": "city",
+          "start": 102.5,
+          "end": 102.86
+        },
+        {
+          "word": "combines",
+          "start": 102.86,
+          "end": 103.56
+        },
+        {
+          "word": "history,",
+          "start": 103.56,
+          "end": 104.24
+        },
+        {
+          "word": "learning,",
+          "start": 104.74,
+          "end": 105.06
         },
         {
           "word": "and",
-          "startSec": 171.24,
-          "endSec": 171.3,
-          "score": 1.0
+          "start": 105.52,
+          "end": 105.56
         },
         {
-          "word": "cultural",
-          "startSec": 171.3,
-          "endSec": 171.7,
-          "score": 0.99
+          "word": "peaceful",
+          "start": 105.56,
+          "end": 106.16
         },
         {
-          "word": "events.",
-          "startSec": 171.7,
-          "endSec": 172.42,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 174.11,
-          "endSec": 174.15,
-          "score": 0.9
-        },
-        {
-          "word": "eight,",
-          "startSec": 174.15,
-          "endSec": 174.59,
-          "score": 0.46
-        },
-        {
-          "word": "culture",
-          "startSec": 175.27,
-          "endSec": 175.77,
-          "score": 0.73
-        },
-        {
-          "word": "and",
-          "startSec": 175.77,
-          "endSec": 176.23,
-          "score": 0.96
-        },
-        {
-          "word": "festivals.",
-          "startSec": 176.23,
-          "endSec": 176.65,
-          "score": 1.0
-        },
-        {
-          "word": "Tartu",
-          "startSec": 178.15,
-          "endSec": 178.77,
-          "score": 0.8
-        },
-        {
-          "word": "has",
-          "startSec": 178.77,
-          "endSec": 179.03,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 179.03,
-          "endSec": 179.33,
-          "score": 1.0
+          "word": "nature.",
+          "start": 106.16,
+          "end": 107.16
         }
       ]
     },
     {
       "id": 22,
-      "start": 179.13,
-      "end": 186.41,
-      "text": "cultural events and festivals. People celebrate music, art, and university",
+      "start": 107.8,
+      "end": 109.32,
+      "text": "Part 5.",
       "words": [
         {
-          "word": "cultural",
-          "startSec": 179.33,
-          "endSec": 179.81,
-          "score": 1.0
+          "word": "Part",
+          "start": 107.8,
+          "end": 108.6
         },
         {
-          "word": "events",
-          "startSec": 179.81,
-          "endSec": 180.53,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 180.53,
-          "endSec": 180.79,
-          "score": 0.98
-        },
-        {
-          "word": "festivals.",
-          "startSec": 180.79,
-          "endSec": 181.13,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 182.6,
-          "endSec": 182.88,
-          "score": 1.0
-        },
-        {
-          "word": "celebrate",
-          "startSec": 182.88,
-          "endSec": 183.56,
-          "score": 1.0
-        },
-        {
-          "word": "music,",
-          "startSec": 183.56,
-          "endSec": 184.36,
-          "score": 0.98
-        },
-        {
-          "word": "art,",
-          "startSec": 184.76,
-          "endSec": 185.08,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 185.56,
-          "endSec": 185.64,
-          "score": 1.0
-        },
-        {
-          "word": "university",
-          "startSec": 185.64,
-          "endSec": 186.26,
-          "score": 0.97
+          "word": "5.",
+          "start": 108.6,
+          "end": 109.32
         }
       ]
     },
     {
       "id": 23,
-      "start": 186.06,
-      "end": 193.65,
-      "text": "traditions. Folk music, concerts, and traditional dances are part of",
+      "start": 109.48,
+      "end": 114.24,
+      "text": "The City of Tartu Tartu is small but lively.",
       "words": [
         {
-          "word": "traditions.",
-          "startSec": 186.26,
-          "endSec": 187.16,
-          "score": 0.0
+          "word": "The",
+          "start": 109.48,
+          "end": 109.5
         },
         {
-          "word": "Folk",
-          "startSec": 188.32,
-          "endSec": 188.68,
-          "score": 0.96
-        },
-        {
-          "word": "music,",
-          "startSec": 188.68,
-          "endSec": 189.36,
-          "score": 0.98
-        },
-        {
-          "word": "concerts,",
-          "startSec": 189.66,
-          "endSec": 190.3,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 191.1,
-          "endSec": 191.14,
-          "score": 0.99
-        },
-        {
-          "word": "traditional",
-          "startSec": 191.14,
-          "endSec": 191.58,
-          "score": 0.99
-        },
-        {
-          "word": "dances",
-          "startSec": 191.58,
-          "endSec": 192.3,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 192.3,
-          "endSec": 192.94,
-          "score": 0.99
-        },
-        {
-          "word": "part",
-          "startSec": 192.94,
-          "endSec": 193.24,
-          "score": 0.98
+          "word": "City",
+          "start": 109.5,
+          "end": 109.88
         },
         {
           "word": "of",
-          "startSec": 193.24,
-          "endSec": 193.5,
-          "score": 1.0
+          "start": 109.88,
+          "end": 110.1
+        },
+        {
+          "word": "Tartu",
+          "start": 110.1,
+          "end": 110.78
+        },
+        {
+          "word": "Tartu",
+          "start": 110.78,
+          "end": 112.28
+        },
+        {
+          "word": "is",
+          "start": 112.28,
+          "end": 112.5
+        },
+        {
+          "word": "small",
+          "start": 112.5,
+          "end": 112.98
+        },
+        {
+          "word": "but",
+          "start": 112.98,
+          "end": 113.2
+        },
+        {
+          "word": "lively.",
+          "start": 113.2,
+          "end": 114.24
         }
       ]
     },
     {
       "id": 24,
-      "start": 193.3,
-      "end": 201.82,
-      "text": "celebrations. Visitors can enjoy and sometimes join the events. Part nine,",
+      "start": 114.56,
+      "end": 118.04,
+      "text": "There are markets, shops, and local restaurants.",
       "words": [
         {
-          "word": "celebrations.",
-          "startSec": 193.5,
-          "endSec": 194.1,
-          "score": 0.99
+          "word": "There",
+          "start": 114.56,
+          "end": 114.82
         },
         {
-          "word": "Visitors",
-          "startSec": 195.55,
-          "endSec": 196.03,
-          "score": 0.99
+          "word": "are",
+          "start": 114.82,
+          "end": 114.96
         },
         {
-          "word": "can",
-          "startSec": 196.03,
-          "endSec": 196.45,
-          "score": 1.0
+          "word": "markets,",
+          "start": 114.96,
+          "end": 115.42
         },
         {
-          "word": "enjoy",
-          "startSec": 196.45,
-          "endSec": 196.89,
-          "score": 1.0
+          "word": "shops,",
+          "start": 115.76,
+          "end": 116.0
         },
         {
           "word": "and",
-          "startSec": 196.89,
-          "endSec": 197.35,
-          "score": 0.94
+          "start": 116.3,
+          "end": 116.42
         },
         {
-          "word": "sometimes",
-          "startSec": 197.35,
-          "endSec": 197.83,
-          "score": 0.99
+          "word": "local",
+          "start": 116.42,
+          "end": 116.74
         },
         {
-          "word": "join",
-          "startSec": 197.83,
-          "endSec": 198.33,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 198.33,
-          "endSec": 198.61,
-          "score": 1.0
-        },
-        {
-          "word": "events.",
-          "startSec": 198.61,
-          "endSec": 198.87,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 201.01,
-          "endSec": 201.21,
-          "score": 0.78
-        },
-        {
-          "word": "nine,",
-          "startSec": 201.21,
-          "endSec": 201.67,
-          "score": 0.3
+          "word": "restaurants.",
+          "start": 116.74,
+          "end": 118.04
         }
       ]
     },
     {
       "id": 25,
-      "start": 202.11,
-      "end": 210.94,
-      "text": "nature around Tartu. Tartu is surrounded by rivers, forests, and lakes. You can walk,",
+      "start": 118.3,
+      "end": 122.58,
+      "text": "People walk, ride bicycles, or take small cars.",
       "words": [
         {
-          "word": "nature",
-          "startSec": 202.31,
-          "endSec": 202.79,
-          "score": 0.67
-        },
-        {
-          "word": "around",
-          "startSec": 202.79,
-          "endSec": 203.21,
-          "score": 0.99
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 203.21,
-          "endSec": 203.99,
-          "score": 0.89
-        },
-        {
-          "word": "Tartu",
-          "startSec": 204.55,
-          "endSec": 205.47,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 205.47,
-          "endSec": 205.65,
-          "score": 0.99
-        },
-        {
-          "word": "surrounded",
-          "startSec": 205.65,
-          "endSec": 206.11,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 206.11,
-          "endSec": 206.67,
-          "score": 1.0
-        },
-        {
-          "word": "rivers,",
-          "startSec": 206.67,
-          "endSec": 207.05,
-          "score": 1.0
-        },
-        {
-          "word": "forests,",
-          "startSec": 207.77,
-          "endSec": 208.13,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 208.27,
-          "endSec": 208.63,
-          "score": 1.0
-        },
-        {
-          "word": "lakes.",
-          "startSec": 208.63,
-          "endSec": 208.87,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 210.01,
-          "endSec": 210.23,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 210.23,
-          "endSec": 210.39,
-          "score": 1.0
+          "word": "People",
+          "start": 118.3,
+          "end": 118.6
         },
         {
           "word": "walk,",
-          "startSec": 210.39,
-          "endSec": 210.79,
-          "score": 1.0
+          "start": 118.6,
+          "end": 119.1
+        },
+        {
+          "word": "ride",
+          "start": 119.5,
+          "end": 119.78
+        },
+        {
+          "word": "bicycles,",
+          "start": 119.78,
+          "end": 120.4
+        },
+        {
+          "word": "or",
+          "start": 120.74,
+          "end": 120.88
+        },
+        {
+          "word": "take",
+          "start": 120.88,
+          "end": 121.16
+        },
+        {
+          "word": "small",
+          "start": 121.16,
+          "end": 121.64
+        },
+        {
+          "word": "cars.",
+          "start": 121.64,
+          "end": 122.58
         }
       ]
     },
     {
       "id": 26,
-      "start": 210.59,
-      "end": 218.69,
-      "text": "cycle, or explore the green nature around the city. The air is fresh and nature is",
+      "start": 123.0,
+      "end": 126.74,
+      "text": "The city is safe, friendly, and welcoming.",
       "words": [
         {
-          "word": "cycle,",
-          "startSec": 210.79,
-          "endSec": 211.81,
-          "score": 0.11
-        },
-        {
-          "word": "or",
-          "startSec": 212.07,
-          "endSec": 212.19,
-          "score": 0.99
-        },
-        {
-          "word": "explore",
-          "startSec": 212.19,
-          "endSec": 212.67,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 212.67,
-          "endSec": 213.01,
-          "score": 0.99
-        },
-        {
-          "word": "green",
-          "startSec": 213.01,
-          "endSec": 213.29,
-          "score": 0.98
-        },
-        {
-          "word": "nature",
-          "startSec": 213.29,
-          "endSec": 213.95,
-          "score": 1.0
-        },
-        {
-          "word": "around",
-          "startSec": 213.95,
-          "endSec": 214.45,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 214.45,
-          "endSec": 214.71,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 214.71,
-          "endSec": 215.09,
-          "score": 0.98
-        },
-        {
           "word": "The",
-          "startSec": 216.08,
-          "endSec": 216.2,
-          "score": 0.99
+          "start": 123.0,
+          "end": 123.26
         },
         {
-          "word": "air",
-          "startSec": 216.2,
-          "endSec": 216.5,
-          "score": 1.0
+          "word": "city",
+          "start": 123.26,
+          "end": 123.6
         },
         {
           "word": "is",
-          "startSec": 216.5,
-          "endSec": 216.74,
-          "score": 1.0
+          "start": 123.6,
+          "end": 123.88
         },
         {
-          "word": "fresh",
-          "startSec": 216.74,
-          "endSec": 217.1,
-          "score": 1.0
+          "word": "safe,",
+          "start": 123.88,
+          "end": 124.38
+        },
+        {
+          "word": "friendly,",
+          "start": 124.78,
+          "end": 125.36
         },
         {
           "word": "and",
-          "startSec": 217.1,
-          "endSec": 217.74,
-          "score": 0.72
+          "start": 125.72,
+          "end": 125.82
         },
         {
-          "word": "nature",
-          "startSec": 217.74,
-          "endSec": 218.22,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 218.22,
-          "endSec": 218.54,
-          "score": 1.0
+          "word": "welcoming.",
+          "start": 125.82,
+          "end": 126.74
         }
       ]
     },
     {
       "id": 27,
-      "start": 218.34,
-      "end": 227.12,
-      "text": "part of daily life. It is perfect for photography and quiet walks. Part ten,",
+      "start": 127.34,
+      "end": 128.95,
+      "text": "Part 6.",
       "words": [
         {
-          "word": "part",
-          "startSec": 218.54,
-          "endSec": 218.8,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 218.8,
-          "endSec": 219.06,
-          "score": 1.0
-        },
-        {
-          "word": "daily",
-          "startSec": 219.06,
-          "endSec": 219.32,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 219.32,
-          "endSec": 219.9,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 221.01,
-          "endSec": 221.11,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 221.11,
-          "endSec": 221.25,
-          "score": 1.0
-        },
-        {
-          "word": "perfect",
-          "startSec": 221.25,
-          "endSec": 221.85,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 221.85,
-          "endSec": 222.25,
-          "score": 1.0
-        },
-        {
-          "word": "photography",
-          "startSec": 222.25,
-          "endSec": 222.71,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 222.71,
-          "endSec": 223.77,
-          "score": 0.97
-        },
-        {
-          "word": "quiet",
-          "startSec": 223.77,
-          "endSec": 224.17,
-          "score": 1.0
-        },
-        {
-          "word": "walks.",
-          "startSec": 224.17,
-          "endSec": 224.63,
-          "score": 1.0
-        },
-        {
           "word": "Part",
-          "startSec": 226.49,
-          "endSec": 226.49,
-          "score": 0.97
+          "start": 127.34,
+          "end": 128.08
         },
         {
-          "word": "ten,",
-          "startSec": 226.49,
-          "endSec": 226.97,
-          "score": 0.05
+          "word": "6.",
+          "start": 128.08,
+          "end": 128.95
         }
       ]
     },
     {
       "id": 28,
-      "start": 227.49,
-      "end": 235.45,
-      "text": "travel and tourism. Tartu is reachable by train, bus, or car from Tallinn and other",
+      "start": 129.18,
+      "end": 134.18,
+      "text": "Food in Tartu Food in Tartu is fresh and simple.",
       "words": [
         {
-          "word": "travel",
-          "startSec": 227.69,
-          "endSec": 228.13,
-          "score": 0.87
+          "word": "Food",
+          "start": 129.18,
+          "end": 129.36
         },
         {
-          "word": "and",
-          "startSec": 228.13,
-          "endSec": 228.41,
-          "score": 0.91
-        },
-        {
-          "word": "tourism.",
-          "startSec": 228.41,
-          "endSec": 228.69,
-          "score": 1.0
+          "word": "in",
+          "start": 129.36,
+          "end": 129.6
         },
         {
           "word": "Tartu",
-          "startSec": 229.98,
-          "endSec": 230.6,
-          "score": 0.87
+          "start": 129.6,
+          "end": 130.22
+        },
+        {
+          "word": "Food",
+          "start": 130.22,
+          "end": 131.62
+        },
+        {
+          "word": "in",
+          "start": 131.62,
+          "end": 131.82
+        },
+        {
+          "word": "Tartu",
+          "start": 131.82,
+          "end": 132.32
         },
         {
           "word": "is",
-          "startSec": 230.6,
-          "endSec": 230.8,
-          "score": 0.98
+          "start": 132.32,
+          "end": 132.6
         },
         {
-          "word": "reachable",
-          "startSec": 230.8,
-          "endSec": 231.36,
-          "score": 0.99
-        },
-        {
-          "word": "by",
-          "startSec": 231.36,
-          "endSec": 231.68,
-          "score": 1.0
-        },
-        {
-          "word": "train,",
-          "startSec": 231.68,
-          "endSec": 232.06,
-          "score": 0.99
-        },
-        {
-          "word": "bus,",
-          "startSec": 232.5,
-          "endSec": 232.72,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 233.08,
-          "endSec": 233.18,
-          "score": 1.0
-        },
-        {
-          "word": "car",
-          "startSec": 233.18,
-          "endSec": 233.48,
-          "score": 0.99
-        },
-        {
-          "word": "from",
-          "startSec": 233.48,
-          "endSec": 234.04,
-          "score": 0.96
-        },
-        {
-          "word": "Tallinn",
-          "startSec": 234.04,
-          "endSec": 234.68,
-          "score": 0.8
+          "word": "fresh",
+          "start": 132.6,
+          "end": 133.06
         },
         {
           "word": "and",
-          "startSec": 234.68,
-          "endSec": 234.94,
-          "score": 0.98
+          "start": 133.06,
+          "end": 133.26
         },
         {
-          "word": "other",
-          "startSec": 234.94,
-          "endSec": 235.3,
-          "score": 1.0
+          "word": "simple.",
+          "start": 133.26,
+          "end": 134.18
         }
       ]
     },
     {
       "id": 29,
-      "start": 235.1,
-      "end": 243.12,
-      "text": "cities. Tourists come to see history, culture, and nature. Tourism helps local",
+      "start": 134.56,
+      "end": 138.76,
+      "text": "People eat potatoes, fish, meat, and vegetables.",
       "words": [
         {
-          "word": "cities.",
-          "startSec": 235.3,
-          "endSec": 235.84,
-          "score": 0.16
+          "word": "People",
+          "start": 134.56,
+          "end": 135.06
         },
         {
-          "word": "Tourists",
-          "startSec": 236.79,
-          "endSec": 237.43,
-          "score": 0.58
+          "word": "eat",
+          "start": 135.06,
+          "end": 135.4
         },
         {
-          "word": "come",
-          "startSec": 237.43,
-          "endSec": 237.69,
-          "score": 1.0
+          "word": "potatoes,",
+          "start": 135.4,
+          "end": 136.12
         },
         {
-          "word": "to",
-          "startSec": 237.69,
-          "endSec": 237.93,
-          "score": 1.0
+          "word": "fish,",
+          "start": 136.5,
+          "end": 136.84
         },
         {
-          "word": "see",
-          "startSec": 237.93,
-          "endSec": 238.17,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 238.17,
-          "endSec": 238.73,
-          "score": 0.99
-        },
-        {
-          "word": "culture,",
-          "startSec": 239.31,
-          "endSec": 239.97,
-          "score": 1.0
+          "word": "meat,",
+          "start": 137.2,
+          "end": 137.42
         },
         {
           "word": "and",
-          "startSec": 239.99,
-          "endSec": 240.43,
-          "score": 1.0
+          "start": 137.58,
+          "end": 137.72
         },
         {
-          "word": "nature.",
-          "startSec": 240.43,
-          "endSec": 240.91,
-          "score": 1.0
-        },
-        {
-          "word": "Tourism",
-          "startSec": 241.63,
-          "endSec": 241.99,
-          "score": 0.97
-        },
-        {
-          "word": "helps",
-          "startSec": 241.99,
-          "endSec": 242.53,
-          "score": 0.99
-        },
-        {
-          "word": "local",
-          "startSec": 242.53,
-          "endSec": 242.97,
-          "score": 0.99
+          "word": "vegetables.",
+          "start": 137.72,
+          "end": 138.76
         }
       ]
     },
     {
       "id": 30,
-      "start": 242.77,
-      "end": 254.09,
-      "text": "people earn money and preserve traditions. Part 11, daily life in Tartu. Life in",
+      "start": 139.48,
+      "end": 143.8,
+      "text": "A popular dish is black bread with fish or meat.",
       "words": [
         {
-          "word": "people",
-          "startSec": 242.97,
-          "endSec": 243.57,
-          "score": 1.0
+          "word": "A",
+          "start": 139.48,
+          "end": 139.82
         },
         {
-          "word": "earn",
-          "startSec": 243.57,
-          "endSec": 244.09,
-          "score": 0.99
+          "word": "popular",
+          "start": 139.82,
+          "end": 140.4
         },
         {
-          "word": "money",
-          "startSec": 244.09,
-          "endSec": 244.69,
-          "score": 1.0
+          "word": "dish",
+          "start": 140.4,
+          "end": 140.9
         },
         {
-          "word": "and",
-          "startSec": 244.69,
-          "endSec": 245.47,
-          "score": 0.86
+          "word": "is",
+          "start": 140.9,
+          "end": 141.18
         },
         {
-          "word": "preserve",
-          "startSec": 245.47,
-          "endSec": 245.81,
-          "score": 1.0
+          "word": "black",
+          "start": 141.18,
+          "end": 141.58
         },
         {
-          "word": "traditions.",
-          "startSec": 245.81,
-          "endSec": 246.65,
-          "score": 1.0
+          "word": "bread",
+          "start": 141.58,
+          "end": 142.08
         },
         {
-          "word": "Part",
-          "startSec": 248.54,
-          "endSec": 248.54,
-          "score": 0.97
+          "word": "with",
+          "start": 142.08,
+          "end": 142.38
         },
         {
-          "word": "11,",
-          "startSec": 248.54,
-          "endSec": 249.1,
-          "score": 0.93
+          "word": "fish",
+          "start": 142.38,
+          "end": 142.84
         },
         {
-          "word": "daily",
-          "startSec": 249.8,
-          "endSec": 250.14,
-          "score": 0.45
+          "word": "or",
+          "start": 142.84,
+          "end": 143.04
         },
         {
-          "word": "life",
-          "startSec": 250.14,
-          "endSec": 250.68,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 250.68,
-          "endSec": 250.96,
-          "score": 0.89
-        },
-        {
-          "word": "Tartu.",
-          "startSec": 250.96,
-          "endSec": 251.6,
-          "score": 0.91
-        },
-        {
-          "word": "Life",
-          "startSec": 252.96,
-          "endSec": 253.62,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 253.62,
-          "endSec": 253.94,
-          "score": 1.0
+          "word": "meat.",
+          "start": 143.04,
+          "end": 143.8
         }
       ]
     },
     {
       "id": 31,
-      "start": 253.74,
-      "end": 261.35,
-      "text": "Tartu is calm and simple. People wake up early, go to school or work, and spend",
+      "start": 144.26,
+      "end": 149.6,
+      "text": "Local desserts like pastries and berries are also very popular.",
       "words": [
         {
-          "word": "Tartu",
-          "startSec": 253.94,
-          "endSec": 254.54,
-          "score": 1.0
+          "word": "Local",
+          "start": 144.26,
+          "end": 144.68
         },
         {
-          "word": "is",
-          "startSec": 254.54,
-          "endSec": 254.72,
-          "score": 1.0
+          "word": "desserts",
+          "start": 144.68,
+          "end": 145.18
         },
         {
-          "word": "calm",
-          "startSec": 254.72,
-          "endSec": 255.06,
-          "score": 1.0
+          "word": "like",
+          "start": 145.18,
+          "end": 145.72
         },
         {
-          "word": "and",
-          "startSec": 255.06,
-          "endSec": 255.42,
-          "score": 1.0
-        },
-        {
-          "word": "simple.",
-          "startSec": 255.42,
-          "endSec": 255.94,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 256.7,
-          "endSec": 257.04,
-          "score": 1.0
-        },
-        {
-          "word": "wake",
-          "startSec": 257.04,
-          "endSec": 257.4,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 257.4,
-          "endSec": 257.68,
-          "score": 1.0
-        },
-        {
-          "word": "early,",
-          "startSec": 257.68,
-          "endSec": 258.1,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 258.7,
-          "endSec": 258.94,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 258.94,
-          "endSec": 259.1,
-          "score": 1.0
-        },
-        {
-          "word": "school",
-          "startSec": 259.1,
-          "endSec": 259.46,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 259.46,
-          "endSec": 259.9,
-          "score": 0.88
-        },
-        {
-          "word": "work,",
-          "startSec": 259.9,
-          "endSec": 260.26,
-          "score": 1.0
+          "word": "pastries",
+          "start": 145.72,
+          "end": 146.46
         },
         {
           "word": "and",
-          "startSec": 260.7,
-          "endSec": 260.86,
-          "score": 1.0
+          "start": 146.46,
+          "end": 146.74
         },
         {
-          "word": "spend",
-          "startSec": 260.86,
-          "endSec": 261.2,
-          "score": 1.0
+          "word": "berries",
+          "start": 146.74,
+          "end": 147.18
+        },
+        {
+          "word": "are",
+          "start": 147.18,
+          "end": 147.6
+        },
+        {
+          "word": "also",
+          "start": 147.6,
+          "end": 148.08
+        },
+        {
+          "word": "very",
+          "start": 148.08,
+          "end": 148.46
+        },
+        {
+          "word": "popular.",
+          "start": 148.46,
+          "end": 149.6
         }
       ]
     },
     {
       "id": 32,
-      "start": 261.0,
-      "end": 269.45,
-      "text": "time with family. Children play in streets or parks and families enjoy cafes or",
+      "start": 150.2,
+      "end": 151.7,
+      "text": "Part 7.",
       "words": [
         {
-          "word": "time",
-          "startSec": 261.2,
-          "endSec": 261.34,
-          "score": 0.01
+          "word": "Part",
+          "start": 150.2,
+          "end": 150.72
         },
         {
-          "word": "with",
-          "startSec": 261.34,
-          "endSec": 261.86,
-          "score": 0.99
-        },
-        {
-          "word": "family.",
-          "startSec": 261.86,
-          "endSec": 262.18,
-          "score": 0.99
-        },
-        {
-          "word": "Children",
-          "startSec": 263.08,
-          "endSec": 263.42,
-          "score": 0.99
-        },
-        {
-          "word": "play",
-          "startSec": 263.42,
-          "endSec": 263.98,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 263.98,
-          "endSec": 264.38,
-          "score": 0.99
-        },
-        {
-          "word": "streets",
-          "startSec": 264.38,
-          "endSec": 264.76,
-          "score": 0.95
-        },
-        {
-          "word": "or",
-          "startSec": 264.76,
-          "endSec": 265.2,
-          "score": 0.92
-        },
-        {
-          "word": "parks",
-          "startSec": 265.2,
-          "endSec": 265.52,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 265.52,
-          "endSec": 266.6,
-          "score": 0.53
-        },
-        {
-          "word": "families",
-          "startSec": 266.6,
-          "endSec": 267.18,
-          "score": 0.98
-        },
-        {
-          "word": "enjoy",
-          "startSec": 267.18,
-          "endSec": 267.76,
-          "score": 0.97
-        },
-        {
-          "word": "cafes",
-          "startSec": 267.76,
-          "endSec": 268.3,
-          "score": 0.93
-        },
-        {
-          "word": "or",
-          "startSec": 268.3,
-          "endSec": 269.3,
-          "score": 0.97
+          "word": "7.",
+          "start": 150.72,
+          "end": 151.7
         }
       ]
     },
     {
       "id": 33,
-      "start": 269.1,
-      "end": 278.23,
-      "text": "walking in nature. Life is connected to culture, learning, and community. Part",
+      "start": 152.32,
+      "end": 157.56,
+      "text": "The People of Tartu People in Tartu are friendly and polite.",
       "words": [
         {
-          "word": "walking",
-          "startSec": 269.3,
-          "endSec": 269.76,
-          "score": 1.0
+          "word": "The",
+          "start": 152.32,
+          "end": 152.36
+        },
+        {
+          "word": "People",
+          "start": 152.36,
+          "end": 152.78
+        },
+        {
+          "word": "of",
+          "start": 152.78,
+          "end": 153.06
+        },
+        {
+          "word": "Tartu",
+          "start": 153.06,
+          "end": 153.78
+        },
+        {
+          "word": "People",
+          "start": 153.78,
+          "end": 154.98
         },
         {
           "word": "in",
-          "startSec": 269.76,
-          "endSec": 270.1,
-          "score": 0.99
+          "start": 154.98,
+          "end": 155.24
         },
         {
-          "word": "nature.",
-          "startSec": 270.1,
-          "endSec": 270.62,
-          "score": 1.0
+          "word": "Tartu",
+          "start": 155.24,
+          "end": 155.72
         },
         {
-          "word": "Life",
-          "startSec": 271.64,
-          "endSec": 271.98,
-          "score": 0.99
+          "word": "are",
+          "start": 155.72,
+          "end": 155.94
         },
         {
-          "word": "is",
-          "startSec": 271.98,
-          "endSec": 272.34,
-          "score": 1.0
-        },
-        {
-          "word": "connected",
-          "startSec": 272.34,
-          "endSec": 272.8,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 272.8,
-          "endSec": 273.24,
-          "score": 1.0
-        },
-        {
-          "word": "culture,",
-          "startSec": 273.24,
-          "endSec": 273.74,
-          "score": 0.99
-        },
-        {
-          "word": "learning,",
-          "startSec": 273.78,
-          "endSec": 275.02,
-          "score": 1.0
+          "word": "friendly",
+          "start": 155.94,
+          "end": 156.42
         },
         {
           "word": "and",
-          "startSec": 275.82,
-          "endSec": 275.88,
-          "score": 0.99
+          "start": 156.42,
+          "end": 156.7
         },
         {
-          "word": "community.",
-          "startSec": 275.88,
-          "endSec": 276.32,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 278.08,
-          "endSec": 278.08,
-          "score": 0.96
+          "word": "polite.",
+          "start": 156.7,
+          "end": 157.56
         }
       ]
     },
     {
       "id": 34,
-      "start": 277.88,
-      "end": 286.95,
-      "text": "12, why Tartu is special? Tartu is not a famous city like Tallinn, but it is full",
+      "start": 157.86,
+      "end": 161.26,
+      "text": "They speak Estonian and many speak English.",
       "words": [
         {
-          "word": "12,",
-          "startSec": 278.08,
-          "endSec": 278.7,
-          "score": 0.95
+          "word": "They",
+          "start": 157.86,
+          "end": 158.0
         },
         {
-          "word": "why",
-          "startSec": 279.4,
-          "endSec": 279.52,
-          "score": 0.52
+          "word": "speak",
+          "start": 158.0,
+          "end": 158.48
         },
         {
-          "word": "Tartu",
-          "startSec": 279.52,
-          "endSec": 280.14,
-          "score": 0.75
+          "word": "Estonian",
+          "start": 158.48,
+          "end": 159.16
         },
         {
-          "word": "is",
-          "startSec": 280.14,
-          "endSec": 280.3,
-          "score": 0.97
+          "word": "and",
+          "start": 159.16,
+          "end": 159.56
         },
         {
-          "word": "special?",
-          "startSec": 280.3,
-          "endSec": 280.6,
-          "score": 0.96
+          "word": "many",
+          "start": 159.56,
+          "end": 159.9
         },
         {
-          "word": "Tartu",
-          "startSec": 282.26,
-          "endSec": 282.8,
-          "score": 1.0
+          "word": "speak",
+          "start": 159.9,
+          "end": 160.28
         },
         {
-          "word": "is",
-          "startSec": 282.8,
-          "endSec": 282.98,
-          "score": 0.99
-        },
-        {
-          "word": "not",
-          "startSec": 282.98,
-          "endSec": 283.3,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 283.3,
-          "endSec": 283.46,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 283.46,
-          "endSec": 283.94,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 283.94,
-          "endSec": 284.38,
-          "score": 1.0
-        },
-        {
-          "word": "like",
-          "startSec": 284.38,
-          "endSec": 284.7,
-          "score": 0.99
-        },
-        {
-          "word": "Tallinn,",
-          "startSec": 284.7,
-          "endSec": 285.4,
-          "score": 0.71
-        },
-        {
-          "word": "but",
-          "startSec": 285.82,
-          "endSec": 286.16,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 286.16,
-          "endSec": 286.34,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 286.34,
-          "endSec": 286.54,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 286.54,
-          "endSec": 286.8,
-          "score": 1.0
+          "word": "English.",
+          "start": 160.28,
+          "end": 161.26
         }
       ]
     },
     {
       "id": 35,
-      "start": 286.6,
-      "end": 294.59,
-      "text": "of charm, history, and calm life. It combines learning, nature, and traditions",
+      "start": 161.84,
+      "end": 167.7,
+      "text": "Life is calm, family is important, and traditions are respected.",
       "words": [
         {
-          "word": "of",
-          "startSec": 286.8,
-          "endSec": 287.02,
-          "score": 0.73
+          "word": "Life",
+          "start": 161.84,
+          "end": 162.2
         },
         {
-          "word": "charm,",
-          "startSec": 287.02,
-          "endSec": 287.44,
-          "score": 0.87
+          "word": "is",
+          "start": 162.2,
+          "end": 162.54
         },
         {
-          "word": "history,",
-          "startSec": 288.1,
-          "endSec": 288.5,
-          "score": 1.0
+          "word": "calm,",
+          "start": 162.54,
+          "end": 163.04
         },
         {
-          "word": "and",
-          "startSec": 288.94,
-          "endSec": 288.96,
-          "score": 1.0
+          "word": "family",
+          "start": 163.68,
+          "end": 164.26
         },
         {
-          "word": "calm",
-          "startSec": 288.96,
-          "endSec": 289.3,
-          "score": 1.0
+          "word": "is",
+          "start": 164.26,
+          "end": 164.58
         },
         {
-          "word": "life.",
-          "startSec": 289.3,
-          "endSec": 289.86,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 290.9,
-          "endSec": 291.02,
-          "score": 0.98
-        },
-        {
-          "word": "combines",
-          "startSec": 291.02,
-          "endSec": 291.28,
-          "score": 1.0
-        },
-        {
-          "word": "learning,",
-          "startSec": 291.28,
-          "endSec": 292.2,
-          "score": 0.99
-        },
-        {
-          "word": "nature,",
-          "startSec": 293.0,
-          "endSec": 293.38,
-          "score": 1.0
+          "word": "important,",
+          "start": 164.58,
+          "end": 165.24
         },
         {
           "word": "and",
-          "startSec": 293.8,
-          "endSec": 294.0,
-          "score": 1.0
+          "start": 165.56,
+          "end": 165.68
         },
         {
           "word": "traditions",
-          "startSec": 294.0,
-          "endSec": 294.44,
-          "score": 0.99
+          "start": 165.68,
+          "end": 166.16
+        },
+        {
+          "word": "are",
+          "start": 166.16,
+          "end": 166.58
+        },
+        {
+          "word": "respected.",
+          "start": 166.58,
+          "end": 167.7
         }
       ]
     },
     {
       "id": 36,
-      "start": 294.24,
-      "end": 303.83,
-      "text": "beautifully. Visitors feel relaxed, inspired, and peaceful here. Thank you for",
+      "start": 168.26,
+      "end": 173.02,
+      "text": "People enjoy festivals, music, and cultural events.",
       "words": [
         {
-          "word": "beautifully.",
-          "startSec": 294.44,
-          "endSec": 295.38,
-          "score": 0.99
+          "word": "People",
+          "start": 168.26,
+          "end": 168.84
         },
         {
-          "word": "Visitors",
-          "startSec": 296.5,
-          "endSec": 296.92,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 168.84,
+          "end": 169.36
         },
         {
-          "word": "feel",
-          "startSec": 296.92,
-          "endSec": 297.46,
-          "score": 1.0
+          "word": "festivals,",
+          "start": 169.36,
+          "end": 169.9
         },
         {
-          "word": "relaxed,",
-          "startSec": 297.46,
-          "endSec": 298.2,
-          "score": 1.0
-        },
-        {
-          "word": "inspired,",
-          "startSec": 298.9,
-          "endSec": 299.52,
-          "score": 1.0
+          "word": "music,",
+          "start": 170.54,
+          "end": 170.98
         },
         {
           "word": "and",
-          "startSec": 300.72,
-          "endSec": 300.76,
-          "score": 1.0
+          "start": 171.3,
+          "end": 171.36
         },
         {
-          "word": "peaceful",
-          "startSec": 300.76,
-          "endSec": 301.28,
-          "score": 1.0
+          "word": "cultural",
+          "start": 171.36,
+          "end": 171.96
         },
         {
-          "word": "here.",
-          "startSec": 301.28,
-          "endSec": 301.74,
-          "score": 0.99
-        },
-        {
-          "word": "Thank",
-          "startSec": 302.88,
-          "endSec": 303.14,
-          "score": 0.98
-        },
-        {
-          "word": "you",
-          "startSec": 303.14,
-          "endSec": 303.48,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 303.48,
-          "endSec": 303.68,
-          "score": 1.0
+          "word": "events.",
+          "start": 171.96,
+          "end": 173.02
         }
       ]
     },
     {
       "id": 37,
-      "start": 303.48,
-      "end": 310.93,
-      "text": "listening to the Slow English Podcast. I am Emily and I hope you enjoyed this",
+      "start": 173.42,
+      "end": 175.08,
+      "text": "Part 8.",
       "words": [
         {
-          "word": "listening",
-          "startSec": 303.68,
-          "endSec": 304.14,
-          "score": 1.0
+          "word": "Part",
+          "start": 173.42,
+          "end": 174.28
         },
         {
-          "word": "to",
-          "startSec": 304.14,
-          "endSec": 304.5,
-          "score": 1.0
-        },
+          "word": "8.",
+          "start": 174.28,
+          "end": 175.08
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 175.62,
+      "end": 181.86,
+      "text": "Culture and Festivals Tartu has many cultural events and festivals.",
+      "words": [
         {
-          "word": "the",
-          "startSec": 304.5,
-          "endSec": 304.66,
-          "score": 0.88
-        },
-        {
-          "word": "Slow",
-          "startSec": 304.66,
-          "endSec": 304.92,
-          "score": 0.84
-        },
-        {
-          "word": "English",
-          "startSec": 304.92,
-          "endSec": 305.3,
-          "score": 0.92
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 305.3,
-          "endSec": 305.84,
-          "score": 0.88
-        },
-        {
-          "word": "I",
-          "startSec": 307.18,
-          "endSec": 307.78,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 307.78,
-          "endSec": 308.0,
-          "score": 0.97
-        },
-        {
-          "word": "Emily",
-          "startSec": 308.0,
-          "endSec": 308.48,
-          "score": 0.98
+          "word": "Culture",
+          "start": 175.62,
+          "end": 175.92
         },
         {
           "word": "and",
-          "startSec": 308.48,
-          "endSec": 309.24,
-          "score": 0.37
+          "start": 175.92,
+          "end": 176.3
         },
         {
-          "word": "I",
-          "startSec": 309.24,
-          "endSec": 309.4,
-          "score": 0.98
+          "word": "Festivals",
+          "start": 176.3,
+          "end": 177.1
         },
         {
-          "word": "hope",
-          "startSec": 309.4,
-          "endSec": 309.68,
-          "score": 1.0
+          "word": "Tartu",
+          "start": 178.1,
+          "end": 178.82
+        },
+        {
+          "word": "has",
+          "start": 178.82,
+          "end": 179.06
+        },
+        {
+          "word": "many",
+          "start": 179.06,
+          "end": 179.46
+        },
+        {
+          "word": "cultural",
+          "start": 179.46,
+          "end": 180.0
+        },
+        {
+          "word": "events",
+          "start": 180.0,
+          "end": 180.58
+        },
+        {
+          "word": "and",
+          "start": 180.58,
+          "end": 180.84
+        },
+        {
+          "word": "festivals.",
+          "start": 180.84,
+          "end": 181.86
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 182.56,
+      "end": 187.68,
+      "text": "People celebrate music, art, and university traditions.",
+      "words": [
+        {
+          "word": "People",
+          "start": 182.56,
+          "end": 183.06
+        },
+        {
+          "word": "celebrate",
+          "start": 183.06,
+          "end": 183.78
+        },
+        {
+          "word": "music,",
+          "start": 183.78,
+          "end": 184.38
+        },
+        {
+          "word": "art,",
+          "start": 184.84,
+          "end": 185.2
+        },
+        {
+          "word": "and",
+          "start": 185.6,
+          "end": 185.72
+        },
+        {
+          "word": "university",
+          "start": 185.72,
+          "end": 186.24
+        },
+        {
+          "word": "traditions.",
+          "start": 186.24,
+          "end": 187.68
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 188.36,
+      "end": 194.58,
+      "text": "Folk music, concerts, and traditional dances are part of celebrations.",
+      "words": [
+        {
+          "word": "Folk",
+          "start": 188.36,
+          "end": 188.88
+        },
+        {
+          "word": "music,",
+          "start": 188.88,
+          "end": 189.28
+        },
+        {
+          "word": "concerts,",
+          "start": 189.68,
+          "end": 190.46
+        },
+        {
+          "word": "and",
+          "start": 190.92,
+          "end": 191.2
+        },
+        {
+          "word": "traditional",
+          "start": 191.2,
+          "end": 191.8
+        },
+        {
+          "word": "dances",
+          "start": 191.8,
+          "end": 192.6
+        },
+        {
+          "word": "are",
+          "start": 192.6,
+          "end": 192.98
+        },
+        {
+          "word": "part",
+          "start": 192.98,
+          "end": 193.36
+        },
+        {
+          "word": "of",
+          "start": 193.36,
+          "end": 193.52
+        },
+        {
+          "word": "celebrations.",
+          "start": 193.52,
+          "end": 194.58
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 195.54,
+      "end": 199.46,
+      "text": "Visitors can enjoy and sometimes join the events.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 195.54,
+          "end": 196.18
+        },
+        {
+          "word": "can",
+          "start": 196.18,
+          "end": 196.5
+        },
+        {
+          "word": "enjoy",
+          "start": 196.5,
+          "end": 197.02
+        },
+        {
+          "word": "and",
+          "start": 197.02,
+          "end": 197.42
+        },
+        {
+          "word": "sometimes",
+          "start": 197.42,
+          "end": 197.98
+        },
+        {
+          "word": "join",
+          "start": 197.98,
+          "end": 198.4
+        },
+        {
+          "word": "the",
+          "start": 198.4,
+          "end": 198.64
+        },
+        {
+          "word": "events.",
+          "start": 198.64,
+          "end": 199.46
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 200.98,
+      "end": 202.1,
+      "text": "Part 9.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 200.98,
+          "end": 201.28
+        },
+        {
+          "word": "9.",
+          "start": 201.28,
+          "end": 202.1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 202.74,
+      "end": 209.46,
+      "text": "Nature Around Tartu Tartu is surrounded by rivers, forests, and lakes.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 202.74,
+          "end": 202.74
+        },
+        {
+          "word": "Around",
+          "start": 202.74,
+          "end": 203.28
+        },
+        {
+          "word": "Tartu",
+          "start": 203.28,
+          "end": 204.14
+        },
+        {
+          "word": "Tartu",
+          "start": 204.14,
+          "end": 205.52
+        },
+        {
+          "word": "is",
+          "start": 205.52,
+          "end": 205.72
+        },
+        {
+          "word": "surrounded",
+          "start": 205.72,
+          "end": 206.22
+        },
+        {
+          "word": "by",
+          "start": 206.22,
+          "end": 206.7
+        },
+        {
+          "word": "rivers,",
+          "start": 206.7,
+          "end": 207.2
+        },
+        {
+          "word": "forests,",
+          "start": 207.76,
+          "end": 208.32
+        },
+        {
+          "word": "and",
+          "start": 208.66,
+          "end": 208.68
+        },
+        {
+          "word": "lakes.",
+          "start": 208.68,
+          "end": 209.46
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 210.06,
+      "end": 215.52,
+      "text": "You can walk, cycle, or explore the green nature around the city.",
+      "words": [
+        {
+          "word": "You",
+          "start": 210.06,
+          "end": 210.26
+        },
+        {
+          "word": "can",
+          "start": 210.26,
+          "end": 210.46
+        },
+        {
+          "word": "walk,",
+          "start": 210.46,
+          "end": 210.88
+        },
+        {
+          "word": "cycle,",
+          "start": 211.42,
+          "end": 211.76
+        },
+        {
+          "word": "or",
+          "start": 212.08,
+          "end": 212.2
+        },
+        {
+          "word": "explore",
+          "start": 212.2,
+          "end": 212.78
+        },
+        {
+          "word": "the",
+          "start": 212.78,
+          "end": 213.06
+        },
+        {
+          "word": "green",
+          "start": 213.06,
+          "end": 213.42
+        },
+        {
+          "word": "nature",
+          "start": 213.42,
+          "end": 214.0
+        },
+        {
+          "word": "around",
+          "start": 214.0,
+          "end": 214.52
+        },
+        {
+          "word": "the",
+          "start": 214.52,
+          "end": 214.78
+        },
+        {
+          "word": "city.",
+          "start": 214.78,
+          "end": 215.52
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 216.1,
+      "end": 220.54,
+      "text": "The air is fresh and nature is part of daily life.",
+      "words": [
+        {
+          "word": "The",
+          "start": 216.1,
+          "end": 216.24
+        },
+        {
+          "word": "air",
+          "start": 216.24,
+          "end": 216.58
+        },
+        {
+          "word": "is",
+          "start": 216.58,
+          "end": 216.82
+        },
+        {
+          "word": "fresh",
+          "start": 216.82,
+          "end": 217.2
+        },
+        {
+          "word": "and",
+          "start": 217.2,
+          "end": 217.82
+        },
+        {
+          "word": "nature",
+          "start": 217.82,
+          "end": 218.26
+        },
+        {
+          "word": "is",
+          "start": 218.26,
+          "end": 218.6
+        },
+        {
+          "word": "part",
+          "start": 218.6,
+          "end": 218.92
+        },
+        {
+          "word": "of",
+          "start": 218.92,
+          "end": 219.12
+        },
+        {
+          "word": "daily",
+          "start": 219.12,
+          "end": 219.44
+        },
+        {
+          "word": "life.",
+          "start": 219.44,
+          "end": 220.54
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 220.96,
+      "end": 225.18,
+      "text": "It is perfect for photography and quiet walks.",
+      "words": [
+        {
+          "word": "It",
+          "start": 220.96,
+          "end": 221.16
+        },
+        {
+          "word": "is",
+          "start": 221.16,
+          "end": 221.36
+        },
+        {
+          "word": "perfect",
+          "start": 221.36,
+          "end": 221.9
+        },
+        {
+          "word": "for",
+          "start": 221.9,
+          "end": 222.28
+        },
+        {
+          "word": "photography",
+          "start": 222.28,
+          "end": 223.02
+        },
+        {
+          "word": "and",
+          "start": 223.02,
+          "end": 223.82
+        },
+        {
+          "word": "quiet",
+          "start": 223.82,
+          "end": 224.28
+        },
+        {
+          "word": "walks.",
+          "start": 224.28,
+          "end": 225.18
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 226.24,
+      "end": 227.58,
+      "text": "Part 10.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 226.24,
+          "end": 226.54
+        },
+        {
+          "word": "10.",
+          "start": 226.54,
+          "end": 227.58
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 227.92,
+      "end": 236.26,
+      "text": "Travel and Tourism Tartu is reachable by train, bus, or car from Tallinn and other cities.",
+      "words": [
+        {
+          "word": "Travel",
+          "start": 227.92,
+          "end": 228.12
+        },
+        {
+          "word": "and",
+          "start": 228.12,
+          "end": 228.48
+        },
+        {
+          "word": "Tourism",
+          "start": 228.48,
+          "end": 229.18
+        },
+        {
+          "word": "Tartu",
+          "start": 229.18,
+          "end": 230.64
+        },
+        {
+          "word": "is",
+          "start": 230.64,
+          "end": 230.86
+        },
+        {
+          "word": "reachable",
+          "start": 230.86,
+          "end": 231.46
+        },
+        {
+          "word": "by",
+          "start": 231.46,
+          "end": 231.74
+        },
+        {
+          "word": "train,",
+          "start": 231.74,
+          "end": 232.24
+        },
+        {
+          "word": "bus,",
+          "start": 232.66,
+          "end": 232.8
+        },
+        {
+          "word": "or",
+          "start": 233.12,
+          "end": 233.22
+        },
+        {
+          "word": "car",
+          "start": 233.22,
+          "end": 233.66
+        },
+        {
+          "word": "from",
+          "start": 233.66,
+          "end": 234.06
+        },
+        {
+          "word": "Tallinn",
+          "start": 234.06,
+          "end": 234.74
+        },
+        {
+          "word": "and",
+          "start": 234.74,
+          "end": 235.0
+        },
+        {
+          "word": "other",
+          "start": 235.0,
+          "end": 235.38
+        },
+        {
+          "word": "cities.",
+          "start": 235.38,
+          "end": 236.26
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 236.66,
+      "end": 241.34,
+      "text": "Tourists come to see history, culture, and nature.",
+      "words": [
+        {
+          "word": "Tourists",
+          "start": 236.66,
+          "end": 237.46
+        },
+        {
+          "word": "come",
+          "start": 237.46,
+          "end": 237.76
+        },
+        {
+          "word": "to",
+          "start": 237.76,
+          "end": 238.0
+        },
+        {
+          "word": "see",
+          "start": 238.0,
+          "end": 238.22
+        },
+        {
+          "word": "history,",
+          "start": 238.22,
+          "end": 238.92
+        },
+        {
+          "word": "culture,",
+          "start": 239.5,
+          "end": 240.02
+        },
+        {
+          "word": "and",
+          "start": 240.34,
+          "end": 240.46
+        },
+        {
+          "word": "nature.",
+          "start": 240.46,
+          "end": 241.34
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 241.76,
+      "end": 247.16,
+      "text": "Tourism helps local people earn money and preserve traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "start": 241.76,
+          "end": 242.28
+        },
+        {
+          "word": "helps",
+          "start": 242.28,
+          "end": 242.66
+        },
+        {
+          "word": "local",
+          "start": 242.66,
+          "end": 243.12
+        },
+        {
+          "word": "people",
+          "start": 243.12,
+          "end": 243.68
+        },
+        {
+          "word": "earn",
+          "start": 243.68,
+          "end": 244.18
+        },
+        {
+          "word": "money",
+          "start": 244.18,
+          "end": 244.68
+        },
+        {
+          "word": "and",
+          "start": 244.68,
+          "end": 245.52
+        },
+        {
+          "word": "preserve",
+          "start": 245.52,
+          "end": 246.06
+        },
+        {
+          "word": "traditions.",
+          "start": 246.06,
+          "end": 247.16
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 248.36,
+      "end": 249.54,
+      "text": "Part 11.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 248.36,
+          "end": 248.58
+        },
+        {
+          "word": "11.",
+          "start": 248.58,
+          "end": 249.54
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 249.96,
+      "end": 256.37,
+      "text": "Daily Life in Tartu Life in Tartu is calm and simple.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 249.96,
+          "end": 250.3
+        },
+        {
+          "word": "Life",
+          "start": 250.3,
+          "end": 250.72
+        },
+        {
+          "word": "in",
+          "start": 250.72,
+          "end": 251.04
+        },
+        {
+          "word": "Tartu",
+          "start": 251.04,
+          "end": 251.74
+        },
+        {
+          "word": "Life",
+          "start": 252.78,
+          "end": 253.72
+        },
+        {
+          "word": "in",
+          "start": 253.72,
+          "end": 254.08
+        },
+        {
+          "word": "Tartu",
+          "start": 254.08,
+          "end": 254.54
+        },
+        {
+          "word": "is",
+          "start": 254.54,
+          "end": 254.76
+        },
+        {
+          "word": "calm",
+          "start": 254.76,
+          "end": 255.24
+        },
+        {
+          "word": "and",
+          "start": 255.24,
+          "end": 255.48
+        },
+        {
+          "word": "simple.",
+          "start": 255.48,
+          "end": 256.37
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 256.62,
+      "end": 262.84,
+      "text": "People wake up early, go to school or work, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "start": 256.62,
+          "end": 257.14
+        },
+        {
+          "word": "wake",
+          "start": 257.14,
+          "end": 257.48
+        },
+        {
+          "word": "up",
+          "start": 257.48,
+          "end": 257.78
+        },
+        {
+          "word": "early,",
+          "start": 257.78,
+          "end": 258.26
+        },
+        {
+          "word": "go",
+          "start": 258.88,
+          "end": 259.0
+        },
+        {
+          "word": "to",
+          "start": 259.0,
+          "end": 259.14
+        },
+        {
+          "word": "school",
+          "start": 259.14,
+          "end": 259.64
+        },
+        {
+          "word": "or",
+          "start": 259.64,
+          "end": 259.96
+        },
+        {
+          "word": "work,",
+          "start": 259.96,
+          "end": 260.4
+        },
+        {
+          "word": "and",
+          "start": 260.74,
+          "end": 260.94
+        },
+        {
+          "word": "spend",
+          "start": 260.94,
+          "end": 261.22
+        },
+        {
+          "word": "time",
+          "start": 261.22,
+          "end": 261.66
+        },
+        {
+          "word": "with",
+          "start": 261.66,
+          "end": 261.9
+        },
+        {
+          "word": "family.",
+          "start": 261.9,
+          "end": 262.84
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 263.2,
+      "end": 271.02,
+      "text": "Children play in streets or parks, and families enjoy cafes or walking in nature.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 263.2,
+          "end": 263.54
+        },
+        {
+          "word": "play",
+          "start": 263.54,
+          "end": 264.1
+        },
+        {
+          "word": "in",
+          "start": 264.1,
+          "end": 264.42
+        },
+        {
+          "word": "streets",
+          "start": 264.42,
+          "end": 264.86
+        },
+        {
+          "word": "or",
+          "start": 264.86,
+          "end": 265.24
+        },
+        {
+          "word": "parks,",
+          "start": 265.24,
+          "end": 265.86
+        },
+        {
+          "word": "and",
+          "start": 266.34,
+          "end": 266.66
+        },
+        {
+          "word": "families",
+          "start": 266.66,
+          "end": 267.26
+        },
+        {
+          "word": "enjoy",
+          "start": 267.26,
+          "end": 267.88
+        },
+        {
+          "word": "cafes",
+          "start": 267.88,
+          "end": 268.54
+        },
+        {
+          "word": "or",
+          "start": 268.54,
+          "end": 269.36
+        },
+        {
+          "word": "walking",
+          "start": 269.36,
+          "end": 269.86
+        },
+        {
+          "word": "in",
+          "start": 269.86,
+          "end": 270.16
+        },
+        {
+          "word": "nature.",
+          "start": 270.16,
+          "end": 271.02
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 271.68,
+      "end": 277.04,
+      "text": "Life is connected to culture, learning, and community.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 271.68,
+          "end": 272.1
+        },
+        {
+          "word": "is",
+          "start": 272.1,
+          "end": 272.42
+        },
+        {
+          "word": "connected",
+          "start": 272.42,
+          "end": 272.98
+        },
+        {
+          "word": "to",
+          "start": 272.98,
+          "end": 273.3
+        },
+        {
+          "word": "culture,",
+          "start": 273.3,
+          "end": 273.9
+        },
+        {
+          "word": "learning,",
+          "start": 274.5,
+          "end": 275.12
+        },
+        {
+          "word": "and",
+          "start": 275.64,
+          "end": 275.96
+        },
+        {
+          "word": "community.",
+          "start": 275.96,
+          "end": 277.04
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 277.64,
+      "end": 279.14,
+      "text": "Part 12.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 277.64,
+          "end": 278.12
+        },
+        {
+          "word": "12.",
+          "start": 278.12,
+          "end": 279.14
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 279.4,
+      "end": 290.38,
+      "text": "Why Tartu is Special Tartu is not a famous city like Tallinn, but it is full of charm, history, and calm life.",
+      "words": [
+        {
+          "word": "Why",
+          "start": 279.4,
+          "end": 279.54
+        },
+        {
+          "word": "Tartu",
+          "start": 279.54,
+          "end": 280.22
+        },
+        {
+          "word": "is",
+          "start": 280.22,
+          "end": 280.38
+        },
+        {
+          "word": "Special",
+          "start": 280.38,
+          "end": 280.86
+        },
+        {
+          "word": "Tartu",
+          "start": 281.9,
+          "end": 282.86
+        },
+        {
+          "word": "is",
+          "start": 282.86,
+          "end": 283.06
+        },
+        {
+          "word": "not",
+          "start": 283.06,
+          "end": 283.36
+        },
+        {
+          "word": "a",
+          "start": 283.36,
+          "end": 283.54
+        },
+        {
+          "word": "famous",
+          "start": 283.54,
+          "end": 283.96
+        },
+        {
+          "word": "city",
+          "start": 283.96,
+          "end": 284.42
+        },
+        {
+          "word": "like",
+          "start": 284.42,
+          "end": 284.78
+        },
+        {
+          "word": "Tallinn,",
+          "start": 284.78,
+          "end": 285.5
+        },
+        {
+          "word": "but",
+          "start": 285.9,
+          "end": 286.24
+        },
+        {
+          "word": "it",
+          "start": 286.24,
+          "end": 286.4
+        },
+        {
+          "word": "is",
+          "start": 286.4,
+          "end": 286.58
+        },
+        {
+          "word": "full",
+          "start": 286.58,
+          "end": 286.88
+        },
+        {
+          "word": "of",
+          "start": 286.88,
+          "end": 287.06
+        },
+        {
+          "word": "charm,",
+          "start": 287.06,
+          "end": 287.64
+        },
+        {
+          "word": "history,",
+          "start": 288.16,
+          "end": 288.58
+        },
+        {
+          "word": "and",
+          "start": 288.98,
+          "end": 289.02
+        },
+        {
+          "word": "calm",
+          "start": 289.02,
+          "end": 289.44
+        },
+        {
+          "word": "life.",
+          "start": 289.44,
+          "end": 290.38
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 290.8,
+      "end": 295.98,
+      "text": "It combines learning, nature, and traditions beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "start": 290.8,
+          "end": 291.06
+        },
+        {
+          "word": "combines",
+          "start": 291.06,
+          "end": 291.5
+        },
+        {
+          "word": "learning,",
+          "start": 291.5,
+          "end": 292.3
+        },
+        {
+          "word": "nature,",
+          "start": 292.98,
+          "end": 293.4
+        },
+        {
+          "word": "and",
+          "start": 293.92,
+          "end": 294.06
+        },
+        {
+          "word": "traditions",
+          "start": 294.06,
+          "end": 294.64
+        },
+        {
+          "word": "beautifully.",
+          "start": 294.64,
+          "end": 295.98
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 296.58,
+      "end": 302.28,
+      "text": "Visitors feel relaxed, inspired, and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 296.58,
+          "end": 297.12
+        },
+        {
+          "word": "feel",
+          "start": 297.12,
+          "end": 297.52
+        },
+        {
+          "word": "relaxed,",
+          "start": 297.52,
+          "end": 298.36
+        },
+        {
+          "word": "inspired,",
+          "start": 299.08,
+          "end": 299.8
+        },
+        {
+          "word": "and",
+          "start": 300.68,
+          "end": 300.8
+        },
+        {
+          "word": "peaceful",
+          "start": 300.8,
+          "end": 301.38
+        },
+        {
+          "word": "here.",
+          "start": 301.38,
+          "end": 302.28
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 302.74,
+      "end": 306.46,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 302.74,
+          "end": 303.14
         },
         {
           "word": "you",
-          "startSec": 309.68,
-          "endSec": 309.94,
-          "score": 1.0
+          "start": 303.14,
+          "end": 303.5
+        },
+        {
+          "word": "for",
+          "start": 303.5,
+          "end": 303.72
+        },
+        {
+          "word": "listening",
+          "start": 303.72,
+          "end": 304.2
+        },
+        {
+          "word": "to",
+          "start": 304.2,
+          "end": 304.52
+        },
+        {
+          "word": "the",
+          "start": 304.52,
+          "end": 304.74
+        },
+        {
+          "word": "Slow",
+          "start": 304.74,
+          "end": 305.0
+        },
+        {
+          "word": "English",
+          "start": 305.0,
+          "end": 305.4
+        },
+        {
+          "word": "Podcast.",
+          "start": 305.4,
+          "end": 306.46
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 307.56,
+      "end": 313.54,
+      "text": "I am Emily, and I hope you enjoyed this journey through Tartu, Estonia.",
+      "words": [
+        {
+          "word": "I",
+          "start": 307.56,
+          "end": 307.82
+        },
+        {
+          "word": "am",
+          "start": 307.82,
+          "end": 308.04
+        },
+        {
+          "word": "Emily,",
+          "start": 308.04,
+          "end": 308.52
+        },
+        {
+          "word": "and",
+          "start": 309.18,
+          "end": 309.3
+        },
+        {
+          "word": "I",
+          "start": 309.3,
+          "end": 309.46
+        },
+        {
+          "word": "hope",
+          "start": 309.46,
+          "end": 309.7
+        },
+        {
+          "word": "you",
+          "start": 309.7,
+          "end": 309.98
         },
         {
           "word": "enjoyed",
-          "startSec": 309.94,
-          "endSec": 310.32,
-          "score": 0.97
+          "start": 309.98,
+          "end": 310.54
         },
         {
           "word": "this",
-          "startSec": 310.32,
-          "endSec": 310.78,
-          "score": 1.0
+          "start": 310.54,
+          "end": 310.84
+        },
+        {
+          "word": "journey",
+          "start": 310.84,
+          "end": 311.42
+        },
+        {
+          "word": "through",
+          "start": 311.42,
+          "end": 311.82
+        },
+        {
+          "word": "Tartu,",
+          "start": 311.82,
+          "end": 312.48
+        },
+        {
+          "word": "Estonia.",
+          "start": 312.52,
+          "end": 313.54
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 313.84,
+      "end": 315.28,
+      "text": "See you next time.",
+      "words": [
+        {
+          "word": "See",
+          "start": 313.84,
+          "end": 314.0
+        },
+        {
+          "word": "you",
+          "start": 314.0,
+          "end": 314.14
+        },
+        {
+          "word": "next",
+          "start": 314.14,
+          "end": 314.38
+        },
+        {
+          "word": "time.",
+          "start": 314.38,
+          "end": 315.28
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 315.7,
+      "end": 317.37,
+      "text": "Goodbye for now.",
+      "words": [
+        {
+          "word": "Goodbye",
+          "start": 315.7,
+          "end": 316.18
+        },
+        {
+          "word": "for",
+          "start": 316.18,
+          "end": 316.66
+        },
+        {
+          "word": "now.",
+          "start": 316.66,
+          "end": 317.37
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 63
 }

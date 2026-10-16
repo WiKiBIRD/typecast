@@ -15,3583 +15,3801 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 8.25,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. My name is Emily. In this podcast, we speak",
+      "start": 1.8,
+      "end": 4.3,
+      "text": "Welcome to the Slow English podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.28,
-          "score": 0.86
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.4,
-          "endSec": 0.84,
-          "score": 0.99
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.74,
-          "endSec": 2.26,
-          "score": 0.99
+          "start": 1.8,
+          "end": 2.26
         },
         {
           "word": "to",
-          "startSec": 2.26,
-          "endSec": 2.52,
-          "score": 1.0
+          "start": 2.26,
+          "end": 2.56
         },
         {
           "word": "the",
-          "startSec": 2.52,
-          "endSec": 2.66,
-          "score": 0.97
+          "start": 2.56,
+          "end": 2.74
         },
         {
           "word": "Slow",
-          "startSec": 2.66,
-          "endSec": 2.88,
-          "score": 0.76
+          "start": 2.74,
+          "end": 2.98
         },
         {
           "word": "English",
-          "startSec": 2.88,
-          "endSec": 3.24,
-          "score": 0.94
+          "start": 2.98,
+          "end": 3.32
         },
         {
-          "word": "Podcast.",
-          "startSec": 3.24,
-          "endSec": 3.78,
-          "score": 0.77
-        },
-        {
-          "word": "My",
-          "startSec": 4.62,
-          "endSec": 4.86,
-          "score": 1.0
-        },
-        {
-          "word": "name",
-          "startSec": 4.86,
-          "endSec": 5.04,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 5.04,
-          "endSec": 5.32,
-          "score": 1.0
-        },
-        {
-          "word": "Emily.",
-          "startSec": 5.32,
-          "endSec": 5.68,
-          "score": 0.95
-        },
-        {
-          "word": "In",
-          "startSec": 6.32,
-          "endSec": 6.4,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 6.4,
-          "endSec": 6.58,
-          "score": 1.0
-        },
-        {
-          "word": "podcast,",
-          "startSec": 6.58,
-          "endSec": 7.12,
-          "score": 0.99
-        },
-        {
-          "word": "we",
-          "startSec": 7.84,
-          "endSec": 7.88,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 7.88,
-          "endSec": 8.1,
-          "score": 1.0
+          "word": "podcast.",
+          "start": 3.32,
+          "end": 4.3
         }
       ]
     },
     {
       "id": 2,
-      "start": 7.9,
-      "end": 17.11,
-      "text": "very slowly. We use easy English. We repeat words and ideas. Today, we travel very far.",
+      "start": 4.66,
+      "end": 6.09,
+      "text": "My name is Emily.",
       "words": [
         {
-          "word": "very",
-          "startSec": 8.1,
-          "endSec": 8.64,
-          "score": 1.0
+          "word": "My",
+          "start": 4.66,
+          "end": 4.9
         },
         {
-          "word": "slowly.",
-          "startSec": 8.64,
-          "endSec": 9.06,
-          "score": 0.99
+          "word": "name",
+          "start": 4.9,
+          "end": 5.16
         },
         {
-          "word": "We",
-          "startSec": 9.76,
-          "endSec": 10.02,
-          "score": 1.0
+          "word": "is",
+          "start": 5.16,
+          "end": 5.34
         },
         {
-          "word": "use",
-          "startSec": 10.02,
-          "endSec": 10.32,
-          "score": 1.0
-        },
-        {
-          "word": "easy",
-          "startSec": 10.32,
-          "endSec": 10.62,
-          "score": 0.87
-        },
-        {
-          "word": "English.",
-          "startSec": 10.62,
-          "endSec": 11.24,
-          "score": 1.0
-        },
-        {
-          "word": "We",
-          "startSec": 12.04,
-          "endSec": 12.24,
-          "score": 1.0
-        },
-        {
-          "word": "repeat",
-          "startSec": 12.24,
-          "endSec": 12.64,
-          "score": 1.0
-        },
-        {
-          "word": "words",
-          "startSec": 12.64,
-          "endSec": 13.12,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 13.12,
-          "endSec": 13.4,
-          "score": 0.99
-        },
-        {
-          "word": "ideas.",
-          "startSec": 13.4,
-          "endSec": 13.84,
-          "score": 1.0
-        },
-        {
-          "word": "Today,",
-          "startSec": 14.98,
-          "endSec": 15.22,
-          "score": 0.98
-        },
-        {
-          "word": "we",
-          "startSec": 15.36,
-          "endSec": 15.7,
-          "score": 1.0
-        },
-        {
-          "word": "travel",
-          "startSec": 15.7,
-          "endSec": 16.04,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 16.04,
-          "endSec": 16.52,
-          "score": 1.0
-        },
-        {
-          "word": "far.",
-          "startSec": 16.52,
-          "endSec": 16.96,
-          "score": 1.0
+          "word": "Emily.",
+          "start": 5.34,
+          "end": 6.09
         }
       ]
     },
     {
       "id": 3,
-      "start": 17.84,
-      "end": 27.65,
-      "text": "We go to Australia. Our city today is Hobart. Hobart is calm. Hobart is natural. Hobart is",
+      "start": 6.32,
+      "end": 9.7,
+      "text": "In this podcast, we speak very slowly.",
       "words": [
         {
-          "word": "We",
-          "startSec": 18.04,
-          "endSec": 18.24,
-          "score": 0.99
+          "word": "In",
+          "start": 6.32,
+          "end": 6.46
         },
         {
-          "word": "go",
-          "startSec": 18.24,
-          "endSec": 18.48,
-          "score": 1.0
+          "word": "this",
+          "start": 6.46,
+          "end": 6.66
         },
         {
-          "word": "to",
-          "startSec": 18.48,
-          "endSec": 18.64,
-          "score": 1.0
+          "word": "podcast,",
+          "start": 6.66,
+          "end": 7.4
         },
         {
-          "word": "Australia.",
-          "startSec": 18.64,
-          "endSec": 19.3,
-          "score": 1.0
+          "word": "we",
+          "start": 7.74,
+          "end": 7.92
         },
         {
-          "word": "Our",
-          "startSec": 20.06,
-          "endSec": 20.18,
-          "score": 1.0
+          "word": "speak",
+          "start": 7.92,
+          "end": 8.22
         },
         {
-          "word": "city",
-          "startSec": 20.18,
-          "endSec": 20.52,
-          "score": 0.98
+          "word": "very",
+          "start": 8.22,
+          "end": 8.68
         },
         {
-          "word": "today",
-          "startSec": 20.52,
-          "endSec": 21.02,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 21.02,
-          "endSec": 21.38,
-          "score": 1.0
-        },
-        {
-          "word": "Hobart.",
-          "startSec": 21.38,
-          "endSec": 22.04,
-          "score": 0.99
-        },
-        {
-          "word": "Hobart",
-          "startSec": 22.82,
-          "endSec": 23.32,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 23.32,
-          "endSec": 23.54,
-          "score": 1.0
-        },
-        {
-          "word": "calm.",
-          "startSec": 23.54,
-          "endSec": 23.84,
-          "score": 0.98
-        },
-        {
-          "word": "Hobart",
-          "startSec": 24.84,
-          "endSec": 25.16,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 25.16,
-          "endSec": 25.36,
-          "score": 1.0
-        },
-        {
-          "word": "natural.",
-          "startSec": 25.36,
-          "endSec": 25.7,
-          "score": 1.0
-        },
-        {
-          "word": "Hobart",
-          "startSec": 27.02,
-          "endSec": 27.3,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 27.3,
-          "endSec": 27.5,
-          "score": 1.0
+          "word": "slowly.",
+          "start": 8.68,
+          "end": 9.7
         }
       ]
     },
     {
       "id": 4,
-      "start": 27.3,
-      "end": 36.93,
-      "text": "full of sea, history, and fresh air. Please relax. Please listen slowly. Let's begin our journey.",
+      "start": 9.96,
+      "end": 11.76,
+      "text": "We use easy English.",
       "words": [
         {
-          "word": "full",
-          "startSec": 27.5,
-          "endSec": 27.8,
-          "score": 0.1
+          "word": "We",
+          "start": 9.96,
+          "end": 10.06
         },
         {
-          "word": "of",
-          "startSec": 27.8,
-          "endSec": 28.02,
-          "score": 1.0
+          "word": "use",
+          "start": 10.06,
+          "end": 10.4
         },
         {
-          "word": "sea,",
-          "startSec": 28.02,
-          "endSec": 28.44,
-          "score": 0.92
+          "word": "easy",
+          "start": 10.4,
+          "end": 10.9
         },
         {
-          "word": "history,",
-          "startSec": 29.4,
-          "endSec": 29.4,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 29.82,
-          "endSec": 29.86,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 29.86,
-          "endSec": 30.16,
-          "score": 1.0
-        },
-        {
-          "word": "air.",
-          "startSec": 30.16,
-          "endSec": 30.68,
-          "score": 1.0
-        },
-        {
-          "word": "Please",
-          "startSec": 31.56,
-          "endSec": 31.82,
-          "score": 0.98
-        },
-        {
-          "word": "relax.",
-          "startSec": 31.82,
-          "endSec": 32.34,
-          "score": 0.97
-        },
-        {
-          "word": "Please",
-          "startSec": 33.18,
-          "endSec": 33.46,
-          "score": 0.99
-        },
-        {
-          "word": "listen",
-          "startSec": 33.46,
-          "endSec": 34.0,
-          "score": 0.99
-        },
-        {
-          "word": "slowly.",
-          "startSec": 34.0,
-          "endSec": 34.48,
-          "score": 1.0
-        },
-        {
-          "word": "Let's",
-          "startSec": 35.34,
-          "endSec": 35.7,
-          "score": 0.98
-        },
-        {
-          "word": "begin",
-          "startSec": 35.7,
-          "endSec": 35.9,
-          "score": 1.0
-        },
-        {
-          "word": "our",
-          "startSec": 35.9,
-          "endSec": 36.24,
-          "score": 1.0
-        },
-        {
-          "word": "journey.",
-          "startSec": 36.24,
-          "endSec": 36.78,
-          "score": 1.0
+          "word": "English.",
+          "start": 10.9,
+          "end": 11.76
         }
       ]
     },
     {
       "id": 5,
-      "start": 37.85,
-      "end": 44.3,
-      "text": "Part 2. Australia and the world. Australia is a country and a continent.",
+      "start": 12.02,
+      "end": 14.34,
+      "text": "We repeat words and ideas.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 38.05,
-          "endSec": 38.25,
-          "score": 0.93
+          "word": "We",
+          "start": 12.02,
+          "end": 12.3
         },
         {
-          "word": "2.",
-          "startSec": 38.25,
-          "endSec": 38.69,
-          "score": 0.56
+          "word": "repeat",
+          "start": 12.3,
+          "end": 12.8
         },
         {
-          "word": "Australia",
-          "startSec": 40.01,
-          "endSec": 40.01,
-          "score": 0.96
+          "word": "words",
+          "start": 12.8,
+          "end": 13.26
         },
         {
           "word": "and",
-          "startSec": 40.01,
-          "endSec": 40.39,
-          "score": 0.8
+          "start": 13.26,
+          "end": 13.46
         },
         {
-          "word": "the",
-          "startSec": 40.39,
-          "endSec": 40.53,
-          "score": 0.98
-        },
-        {
-          "word": "world.",
-          "startSec": 40.53,
-          "endSec": 40.93,
-          "score": 0.88
-        },
-        {
-          "word": "Australia",
-          "startSec": 41.47,
-          "endSec": 41.93,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 41.93,
-          "endSec": 42.65,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 42.65,
-          "endSec": 42.81,
-          "score": 0.99
-        },
-        {
-          "word": "country",
-          "startSec": 42.81,
-          "endSec": 43.31,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 43.31,
-          "endSec": 43.59,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 43.59,
-          "endSec": 43.69,
-          "score": 0.86
-        },
-        {
-          "word": "continent.",
-          "startSec": 43.69,
-          "endSec": 44.15,
-          "score": 1.0
+          "word": "ideas.",
+          "start": 13.46,
+          "end": 14.34
         }
       ]
     },
     {
       "id": 6,
-      "start": 45.25,
-      "end": 54.04,
-      "text": "It is far from Europe. It is far from Asia. Australia has deserts. Australia has forests.",
+      "start": 14.86,
+      "end": 17.44,
+      "text": "Today, we travel very far.",
       "words": [
         {
-          "word": "It",
-          "startSec": 45.45,
-          "endSec": 45.53,
-          "score": 0.99
+          "word": "Today,",
+          "start": 14.86,
+          "end": 15.3
         },
         {
-          "word": "is",
-          "startSec": 45.53,
-          "endSec": 45.67,
-          "score": 1.0
+          "word": "we",
+          "start": 15.52,
+          "end": 15.72
         },
         {
-          "word": "far",
-          "startSec": 45.67,
-          "endSec": 46.01,
-          "score": 1.0
+          "word": "travel",
+          "start": 15.72,
+          "end": 16.18
         },
         {
-          "word": "from",
-          "startSec": 46.01,
-          "endSec": 46.45,
-          "score": 1.0
+          "word": "very",
+          "start": 16.18,
+          "end": 16.56
         },
         {
-          "word": "Europe.",
-          "startSec": 46.45,
-          "endSec": 46.81,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 47.89,
-          "endSec": 47.97,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 47.97,
-          "endSec": 48.11,
-          "score": 1.0
-        },
-        {
-          "word": "far",
-          "startSec": 48.11,
-          "endSec": 48.43,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 48.43,
-          "endSec": 48.87,
-          "score": 1.0
-        },
-        {
-          "word": "Asia.",
-          "startSec": 48.87,
-          "endSec": 49.17,
-          "score": 1.0
-        },
-        {
-          "word": "Australia",
-          "startSec": 50.81,
-          "endSec": 50.81,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 50.81,
-          "endSec": 51.27,
-          "score": 1.0
-        },
-        {
-          "word": "deserts.",
-          "startSec": 51.27,
-          "endSec": 51.59,
-          "score": 0.99
-        },
-        {
-          "word": "Australia",
-          "startSec": 52.65,
-          "endSec": 53.05,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 53.05,
-          "endSec": 53.55,
-          "score": 1.0
-        },
-        {
-          "word": "forests.",
-          "startSec": 53.55,
-          "endSec": 53.89,
-          "score": 0.99
+          "word": "far.",
+          "start": 16.56,
+          "end": 17.44
         }
       ]
     },
     {
       "id": 7,
-      "start": 54.51,
-      "end": 64.42,
-      "text": "Australia has oceans. Many people know Sydney. Many people know Melbourne. But today, we visit Hobart.",
+      "start": 17.94,
+      "end": 19.72,
+      "text": "We go to Australia.",
       "words": [
         {
-          "word": "Australia",
-          "startSec": 54.71,
-          "endSec": 55.53,
-          "score": 0.0
+          "word": "We",
+          "start": 17.94,
+          "end": 18.28
         },
         {
-          "word": "has",
-          "startSec": 55.53,
-          "endSec": 56.07,
-          "score": 0.95
+          "word": "go",
+          "start": 18.28,
+          "end": 18.52
         },
         {
-          "word": "oceans.",
-          "startSec": 56.07,
-          "endSec": 56.45,
-          "score": 0.98
+          "word": "to",
+          "start": 18.52,
+          "end": 18.68
         },
         {
-          "word": "Many",
-          "startSec": 57.51,
-          "endSec": 57.65,
-          "score": 0.97
-        },
-        {
-          "word": "people",
-          "startSec": 57.65,
-          "endSec": 58.15,
-          "score": 0.99
-        },
-        {
-          "word": "know",
-          "startSec": 58.15,
-          "endSec": 58.45,
-          "score": 1.0
-        },
-        {
-          "word": "Sydney.",
-          "startSec": 58.45,
-          "endSec": 58.79,
-          "score": 0.96
-        },
-        {
-          "word": "Many",
-          "startSec": 59.65,
-          "endSec": 59.73,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 59.73,
-          "endSec": 60.25,
-          "score": 1.0
-        },
-        {
-          "word": "know",
-          "startSec": 60.25,
-          "endSec": 60.55,
-          "score": 1.0
-        },
-        {
-          "word": "Melbourne.",
-          "startSec": 60.55,
-          "endSec": 61.13,
-          "score": 0.99
-        },
-        {
-          "word": "But",
-          "startSec": 61.93,
-          "endSec": 62.07,
-          "score": 0.97
-        },
-        {
-          "word": "today,",
-          "startSec": 62.07,
-          "endSec": 62.49,
-          "score": 0.96
-        },
-        {
-          "word": "we",
-          "startSec": 63.05,
-          "endSec": 63.25,
-          "score": 0.99
-        },
-        {
-          "word": "visit",
-          "startSec": 63.25,
-          "endSec": 63.61,
-          "score": 1.0
-        },
-        {
-          "word": "Hobart.",
-          "startSec": 63.61,
-          "endSec": 64.27,
-          "score": 1.0
+          "word": "Australia.",
+          "start": 18.68,
+          "end": 19.72
         }
       ]
     },
     {
       "id": 8,
-      "start": 64.72,
-      "end": 67.81,
-      "text": "Hobart is smaller. Hobart is quieter.",
+      "start": 20.1,
+      "end": 22.45,
+      "text": "Our city today is Hobart.",
       "words": [
         {
-          "word": "Hobart",
-          "startSec": 64.92,
-          "endSec": 65.56,
-          "score": 1.0
+          "word": "Our",
+          "start": 20.1,
+          "end": 20.22
+        },
+        {
+          "word": "city",
+          "start": 20.22,
+          "end": 20.62
+        },
+        {
+          "word": "today",
+          "start": 20.62,
+          "end": 21.06
         },
         {
           "word": "is",
-          "startSec": 65.56,
-          "endSec": 65.8,
-          "score": 1.0
+          "start": 21.06,
+          "end": 21.4
         },
         {
-          "word": "smaller.",
-          "startSec": 65.8,
-          "endSec": 66.2,
-          "score": 0.99
-        },
-        {
-          "word": "Hobart",
-          "startSec": 66.86,
-          "endSec": 67.22,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 67.22,
-          "endSec": 67.44,
-          "score": 1.0
-        },
-        {
-          "word": "quieter.",
-          "startSec": 67.44,
-          "endSec": 67.66,
-          "score": 1.0
+          "word": "Hobart.",
+          "start": 21.4,
+          "end": 22.45
         }
       ]
     },
     {
       "id": 9,
-      "start": 69.33,
-      "end": 78.8,
-      "text": "Top part 3. Where is Hobart? Hobart is in the south of Australia. It is on an island called Tasmania.",
+      "start": 22.7,
+      "end": 24.43,
+      "text": "Hobart is calm.",
       "words": [
         {
-          "word": "Top",
-          "startSec": 69.53,
-          "endSec": 69.55,
-          "score": 0.16
-        },
-        {
-          "word": "part",
-          "startSec": 69.55,
-          "endSec": 69.91,
-          "score": 0.76
-        },
-        {
-          "word": "3.",
-          "startSec": 69.91,
-          "endSec": 70.39,
-          "score": 0.24
-        },
-        {
-          "word": "Where",
-          "startSec": 71.05,
-          "endSec": 71.05,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 71.05,
-          "endSec": 71.33,
-          "score": 0.97
-        },
-        {
-          "word": "Hobart?",
-          "startSec": 71.33,
-          "endSec": 71.83,
-          "score": 1.0
-        },
-        {
           "word": "Hobart",
-          "startSec": 72.61,
-          "endSec": 73.37,
-          "score": 1.0
+          "start": 22.7,
+          "end": 23.38
         },
         {
           "word": "is",
-          "startSec": 73.37,
-          "endSec": 73.73,
-          "score": 0.99
+          "start": 23.38,
+          "end": 23.6
         },
         {
-          "word": "in",
-          "startSec": 73.73,
-          "endSec": 73.99,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 73.99,
-          "endSec": 74.17,
-          "score": 0.99
-        },
-        {
-          "word": "south",
-          "startSec": 74.17,
-          "endSec": 74.61,
-          "score": 0.73
-        },
-        {
-          "word": "of",
-          "startSec": 74.61,
-          "endSec": 74.91,
-          "score": 1.0
-        },
-        {
-          "word": "Australia.",
-          "startSec": 74.91,
-          "endSec": 75.39,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 76.55,
-          "endSec": 76.67,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 76.67,
-          "endSec": 76.87,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 76.87,
-          "endSec": 77.05,
-          "score": 0.99
-        },
-        {
-          "word": "an",
-          "startSec": 77.05,
-          "endSec": 77.25,
-          "score": 0.99
-        },
-        {
-          "word": "island",
-          "startSec": 77.25,
-          "endSec": 77.75,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 77.75,
-          "endSec": 78.27,
-          "score": 1.0
-        },
-        {
-          "word": "Tasmania.",
-          "startSec": 78.27,
-          "endSec": 78.65,
-          "score": 0.93
+          "word": "calm.",
+          "start": 23.6,
+          "end": 24.43
         }
       ]
     },
     {
       "id": 10,
-      "start": 79.41,
-      "end": 87.36,
-      "text": "The city is next to the sea. It is near mountains. Water and land meet here.",
+      "start": 24.68,
+      "end": 26.4,
+      "text": "Hobart is natural.",
       "words": [
         {
-          "word": "The",
-          "startSec": 79.61,
-          "endSec": 80.41,
-          "score": 0.13
-        },
-        {
-          "word": "city",
-          "startSec": 80.41,
-          "endSec": 80.77,
-          "score": 0.89
+          "word": "Hobart",
+          "start": 24.68,
+          "end": 25.2
         },
         {
           "word": "is",
-          "startSec": 80.77,
-          "endSec": 81.11,
-          "score": 0.99
+          "start": 25.2,
+          "end": 25.44
         },
         {
-          "word": "next",
-          "startSec": 81.11,
-          "endSec": 81.43,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 81.43,
-          "endSec": 81.83,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 81.83,
-          "endSec": 81.97,
-          "score": 0.99
-        },
-        {
-          "word": "sea.",
-          "startSec": 81.97,
-          "endSec": 82.31,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 83.27,
-          "endSec": 83.35,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 83.35,
-          "endSec": 83.51,
-          "score": 0.99
-        },
-        {
-          "word": "near",
-          "startSec": 83.51,
-          "endSec": 83.73,
-          "score": 0.99
-        },
-        {
-          "word": "mountains.",
-          "startSec": 83.73,
-          "endSec": 84.29,
-          "score": 0.98
-        },
-        {
-          "word": "Water",
-          "startSec": 85.35,
-          "endSec": 85.69,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 85.69,
-          "endSec": 86.05,
-          "score": 0.99
-        },
-        {
-          "word": "land",
-          "startSec": 86.05,
-          "endSec": 86.31,
-          "score": 0.99
-        },
-        {
-          "word": "meet",
-          "startSec": 86.31,
-          "endSec": 86.77,
-          "score": 0.98
-        },
-        {
-          "word": "here.",
-          "startSec": 86.77,
-          "endSec": 87.21,
-          "score": 0.99
+          "word": "natural.",
+          "start": 25.44,
+          "end": 26.4
         }
       ]
     },
     {
       "id": 11,
-      "start": 87.92,
-      "end": 95.43,
-      "text": "Nature is very close. Hobart feels open. Hobart feels fresh and clean.",
+      "start": 26.88,
+      "end": 31.16,
+      "text": "Hobart is full of sea, history, and fresh air.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 88.12,
-          "endSec": 88.74,
-          "score": 0.99
+          "word": "Hobart",
+          "start": 26.88,
+          "end": 27.36
         },
         {
           "word": "is",
-          "startSec": 88.74,
-          "endSec": 89.0,
-          "score": 1.0
+          "start": 27.36,
+          "end": 27.54
         },
         {
-          "word": "very",
-          "startSec": 89.0,
-          "endSec": 89.22,
-          "score": 1.0
+          "word": "full",
+          "start": 27.54,
+          "end": 27.86
         },
         {
-          "word": "close.",
-          "startSec": 89.22,
-          "endSec": 89.74,
-          "score": 1.0
+          "word": "of",
+          "start": 27.86,
+          "end": 28.06
         },
         {
-          "word": "Hobart",
-          "startSec": 90.74,
-          "endSec": 91.18,
-          "score": 0.99
+          "word": "sea,",
+          "start": 28.06,
+          "end": 28.58
         },
         {
-          "word": "feels",
-          "startSec": 91.18,
-          "endSec": 91.56,
-          "score": 0.97
-        },
-        {
-          "word": "open.",
-          "startSec": 91.56,
-          "endSec": 92.22,
-          "score": 1.0
-        },
-        {
-          "word": "Hobart",
-          "startSec": 93.1,
-          "endSec": 93.58,
-          "score": 1.0
-        },
-        {
-          "word": "feels",
-          "startSec": 93.58,
-          "endSec": 94.04,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 94.04,
-          "endSec": 94.4,
-          "score": 1.0
+          "word": "history,",
+          "start": 29.02,
+          "end": 29.52
         },
         {
           "word": "and",
-          "startSec": 94.4,
-          "endSec": 94.9,
-          "score": 1.0
+          "start": 29.82,
+          "end": 29.92
         },
         {
-          "word": "clean.",
-          "startSec": 94.9,
-          "endSec": 95.28,
-          "score": 1.0
+          "word": "fresh",
+          "start": 29.92,
+          "end": 30.28
+        },
+        {
+          "word": "air.",
+          "start": 30.28,
+          "end": 31.16
         }
       ]
     },
     {
       "id": 12,
-      "start": 96.62,
-      "end": 105.85,
-      "text": "Part 4. Weather and Seasons. Hobart has four seasons. Summer is mild. It is not very hot.",
+      "start": 31.4,
+      "end": 32.82,
+      "text": "Please relax.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 96.82,
-          "endSec": 96.82,
-          "score": 0.88
+          "word": "Please",
+          "start": 31.4,
+          "end": 31.86
         },
         {
-          "word": "4.",
-          "startSec": 96.82,
-          "endSec": 97.22,
-          "score": 0.49
-        },
-        {
-          "word": "Weather",
-          "startSec": 97.92,
-          "endSec": 97.98,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 97.98,
-          "endSec": 98.38,
-          "score": 0.92
-        },
-        {
-          "word": "Seasons.",
-          "startSec": 98.38,
-          "endSec": 98.8,
-          "score": 0.48
-        },
-        {
-          "word": "Hobart",
-          "startSec": 99.98,
-          "endSec": 100.5,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 100.5,
-          "endSec": 100.76,
-          "score": 1.0
-        },
-        {
-          "word": "four",
-          "startSec": 100.76,
-          "endSec": 101.08,
-          "score": 0.59
-        },
-        {
-          "word": "seasons.",
-          "startSec": 101.08,
-          "endSec": 101.68,
-          "score": 0.99
-        },
-        {
-          "word": "Summer",
-          "startSec": 102.5,
-          "endSec": 102.88,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 102.88,
-          "endSec": 103.24,
-          "score": 0.99
-        },
-        {
-          "word": "mild.",
-          "startSec": 103.24,
-          "endSec": 103.52,
-          "score": 0.98
-        },
-        {
-          "word": "It",
-          "startSec": 104.46,
-          "endSec": 104.48,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 104.48,
-          "endSec": 104.64,
-          "score": 0.99
-        },
-        {
-          "word": "not",
-          "startSec": 104.64,
-          "endSec": 104.94,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 104.94,
-          "endSec": 105.26,
-          "score": 1.0
-        },
-        {
-          "word": "hot.",
-          "startSec": 105.26,
-          "endSec": 105.7,
-          "score": 1.0
+          "word": "relax.",
+          "start": 31.86,
+          "end": 32.82
         }
       ]
     },
     {
       "id": 13,
-      "start": 106.46,
-      "end": 114.21,
-      "text": "Winter is cool. Sometimes it is cold and windy. Spring is fresh and green.",
+      "start": 33.12,
+      "end": 35.04,
+      "text": "Please listen slowly.",
       "words": [
         {
-          "word": "Winter",
-          "startSec": 106.66,
-          "endSec": 107.08,
-          "score": 0.08
+          "word": "Please",
+          "start": 33.12,
+          "end": 33.52
         },
         {
-          "word": "is",
-          "startSec": 107.08,
-          "endSec": 107.38,
-          "score": 1.0
+          "word": "listen",
+          "start": 33.52,
+          "end": 34.04
         },
         {
-          "word": "cool.",
-          "startSec": 107.38,
-          "endSec": 107.64,
-          "score": 0.99
-        },
-        {
-          "word": "Sometimes",
-          "startSec": 108.7,
-          "endSec": 109.28,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 109.28,
-          "endSec": 109.7,
-          "score": 0.94
-        },
-        {
-          "word": "is",
-          "startSec": 109.7,
-          "endSec": 109.86,
-          "score": 0.99
-        },
-        {
-          "word": "cold",
-          "startSec": 109.86,
-          "endSec": 110.36,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 110.36,
-          "endSec": 110.7,
-          "score": 0.99
-        },
-        {
-          "word": "windy.",
-          "startSec": 110.7,
-          "endSec": 111.32,
-          "score": 1.0
-        },
-        {
-          "word": "Spring",
-          "startSec": 112.04,
-          "endSec": 112.42,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 112.42,
-          "endSec": 112.8,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 112.8,
-          "endSec": 113.18,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 113.18,
-          "endSec": 113.66,
-          "score": 1.0
-        },
-        {
-          "word": "green.",
-          "startSec": 113.66,
-          "endSec": 114.06,
-          "score": 1.0
+          "word": "slowly.",
+          "start": 34.04,
+          "end": 35.04
         }
       ]
     },
     {
       "id": 14,
-      "start": 114.76,
-      "end": 124.98,
-      "text": "Autumn is calm and colorful. The weather changes often. People dress for the wind. Nature shapes",
+      "start": 37.72,
+      "end": 39.2,
+      "text": "Part two.",
       "words": [
         {
-          "word": "Autumn",
-          "startSec": 114.96,
-          "endSec": 115.38,
-          "score": 0.98
+          "word": "Part",
+          "start": 37.72,
+          "end": 38.3
         },
         {
-          "word": "is",
-          "startSec": 115.38,
-          "endSec": 115.72,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 115.72,
-          "endSec": 116.22,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 116.22,
-          "endSec": 116.74,
-          "score": 1.0
-        },
-        {
-          "word": "colorful.",
-          "startSec": 116.74,
-          "endSec": 117.24,
-          "score": 0.95
-        },
-        {
-          "word": "The",
-          "startSec": 118.79,
-          "endSec": 118.87,
-          "score": 0.99
-        },
-        {
-          "word": "weather",
-          "startSec": 118.87,
-          "endSec": 119.21,
-          "score": 1.0
-        },
-        {
-          "word": "changes",
-          "startSec": 119.21,
-          "endSec": 119.61,
-          "score": 0.99
-        },
-        {
-          "word": "often.",
-          "startSec": 119.61,
-          "endSec": 120.13,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 121.29,
-          "endSec": 121.49,
-          "score": 1.0
-        },
-        {
-          "word": "dress",
-          "startSec": 121.49,
-          "endSec": 121.87,
-          "score": 0.89
-        },
-        {
-          "word": "for",
-          "startSec": 121.87,
-          "endSec": 122.23,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 122.23,
-          "endSec": 122.43,
-          "score": 1.0
-        },
-        {
-          "word": "wind.",
-          "startSec": 122.43,
-          "endSec": 122.69,
-          "score": 1.0
-        },
-        {
-          "word": "Nature",
-          "startSec": 124.13,
-          "endSec": 124.29,
-          "score": 0.99
-        },
-        {
-          "word": "shapes",
-          "startSec": 124.29,
-          "endSec": 124.83,
-          "score": 0.91
+          "word": "two.",
+          "start": 38.3,
+          "end": 39.2
         }
       ]
     },
     {
       "id": 15,
-      "start": 124.63,
-      "end": 132.72,
-      "text": "life in Hobart, a city with history. Hobart is one of the oldest cities in Australia.",
+      "start": 39.54,
+      "end": 41.25,
+      "text": "Australia and the world.",
       "words": [
         {
-          "word": "life",
-          "startSec": 124.83,
-          "endSec": 125.17,
-          "score": 1.0
+          "word": "Australia",
+          "start": 39.54,
+          "end": 40.04
         },
         {
-          "word": "in",
-          "startSec": 125.17,
-          "endSec": 125.57,
-          "score": 0.9
-        },
-        {
-          "word": "Hobart,",
-          "startSec": 125.57,
-          "endSec": 126.09,
-          "score": 0.97
-        },
-        {
-          "word": "a",
-          "startSec": 126.47,
-          "endSec": 126.79,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 126.79,
-          "endSec": 127.13,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 127.13,
-          "endSec": 127.43,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 127.43,
-          "endSec": 128.01,
-          "score": 0.99
-        },
-        {
-          "word": "Hobart",
-          "startSec": 129.45,
-          "endSec": 130.05,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 130.05,
-          "endSec": 130.25,
-          "score": 0.99
-        },
-        {
-          "word": "one",
-          "startSec": 130.25,
-          "endSec": 130.51,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 130.51,
-          "endSec": 130.69,
-          "score": 1.0
+          "word": "and",
+          "start": 40.04,
+          "end": 40.44
         },
         {
           "word": "the",
-          "startSec": 130.69,
-          "endSec": 130.87,
-          "score": 1.0
+          "start": 40.44,
+          "end": 40.58
         },
         {
-          "word": "oldest",
-          "startSec": 130.87,
-          "endSec": 131.33,
-          "score": 1.0
-        },
-        {
-          "word": "cities",
-          "startSec": 131.33,
-          "endSec": 131.75,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 131.75,
-          "endSec": 132.11,
-          "score": 1.0
-        },
-        {
-          "word": "Australia.",
-          "startSec": 132.11,
-          "endSec": 132.57,
-          "score": 1.0
+          "word": "world.",
+          "start": 40.58,
+          "end": 41.25
         }
       ]
     },
     {
       "id": 16,
-      "start": 133.46,
-      "end": 141.45,
-      "text": "People came here many years ago. The city started as a port. Ships came and went.",
+      "start": 41.4,
+      "end": 44.72,
+      "text": "Australia is a country and a continent.",
       "words": [
         {
-          "word": "People",
-          "startSec": 133.66,
-          "endSec": 134.3,
-          "score": 0.03
+          "word": "Australia",
+          "start": 41.4,
+          "end": 42.02
         },
         {
-          "word": "came",
-          "startSec": 134.3,
-          "endSec": 134.8,
-          "score": 0.99
-        },
-        {
-          "word": "here",
-          "startSec": 134.8,
-          "endSec": 135.18,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 135.18,
-          "endSec": 135.5,
-          "score": 0.99
-        },
-        {
-          "word": "years",
-          "startSec": 135.5,
-          "endSec": 135.9,
-          "score": 1.0
-        },
-        {
-          "word": "ago.",
-          "startSec": 135.9,
-          "endSec": 136.36,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 137.28,
-          "endSec": 137.36,
-          "score": 0.97
-        },
-        {
-          "word": "city",
-          "startSec": 137.36,
-          "endSec": 137.66,
-          "score": 0.99
-        },
-        {
-          "word": "started",
-          "startSec": 137.66,
-          "endSec": 138.12,
-          "score": 1.0
-        },
-        {
-          "word": "as",
-          "startSec": 138.12,
-          "endSec": 138.58,
-          "score": 1.0
+          "word": "is",
+          "start": 42.02,
+          "end": 42.72
         },
         {
           "word": "a",
-          "startSec": 138.58,
-          "endSec": 138.72,
-          "score": 1.0
+          "start": 42.72,
+          "end": 42.88
         },
         {
-          "word": "port.",
-          "startSec": 138.72,
-          "endSec": 139.12,
-          "score": 0.99
-        },
-        {
-          "word": "Ships",
-          "startSec": 139.58,
-          "endSec": 139.88,
-          "score": 0.95
-        },
-        {
-          "word": "came",
-          "startSec": 139.88,
-          "endSec": 140.44,
-          "score": 1.0
+          "word": "country",
+          "start": 42.88,
+          "end": 43.4
         },
         {
           "word": "and",
-          "startSec": 140.44,
-          "endSec": 140.94,
-          "score": 0.99
+          "start": 43.4,
+          "end": 43.64
         },
         {
-          "word": "went.",
-          "startSec": 140.94,
-          "endSec": 141.3,
-          "score": 1.0
+          "word": "a",
+          "start": 43.64,
+          "end": 43.82
+        },
+        {
+          "word": "continent.",
+          "start": 43.82,
+          "end": 44.72
         }
       ]
     },
     {
       "id": 17,
-      "start": 141.76,
-      "end": 150.81,
-      "text": "Old buildings still stand today. History is part of the streets. The past is quiet but present.",
+      "start": 45.34,
+      "end": 47.5,
+      "text": "It is far from Europe.",
       "words": [
         {
-          "word": "Old",
-          "startSec": 141.96,
-          "endSec": 142.24,
-          "score": 0.99
-        },
-        {
-          "word": "buildings",
-          "startSec": 142.24,
-          "endSec": 142.82,
-          "score": 0.99
-        },
-        {
-          "word": "still",
-          "startSec": 142.82,
-          "endSec": 143.34,
-          "score": 1.0
-        },
-        {
-          "word": "stand",
-          "startSec": 143.34,
-          "endSec": 143.88,
-          "score": 0.99
-        },
-        {
-          "word": "today.",
-          "startSec": 143.88,
-          "endSec": 144.42,
-          "score": 1.0
-        },
-        {
-          "word": "History",
-          "startSec": 145.24,
-          "endSec": 145.6,
-          "score": 0.99
+          "word": "It",
+          "start": 45.34,
+          "end": 45.58
         },
         {
           "word": "is",
-          "startSec": 145.6,
-          "endSec": 146.02,
-          "score": 1.0
+          "start": 45.58,
+          "end": 45.78
         },
         {
-          "word": "part",
-          "startSec": 146.02,
-          "endSec": 146.36,
-          "score": 0.99
+          "word": "far",
+          "start": 45.78,
+          "end": 46.16
         },
         {
-          "word": "of",
-          "startSec": 146.36,
-          "endSec": 146.64,
-          "score": 1.0
+          "word": "from",
+          "start": 46.16,
+          "end": 46.52
         },
         {
-          "word": "the",
-          "startSec": 146.64,
-          "endSec": 146.8,
-          "score": 1.0
-        },
-        {
-          "word": "streets.",
-          "startSec": 146.8,
-          "endSec": 147.22,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 148.3,
-          "endSec": 148.36,
-          "score": 1.0
-        },
-        {
-          "word": "past",
-          "startSec": 148.36,
-          "endSec": 148.64,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 148.64,
-          "endSec": 149.06,
-          "score": 1.0
-        },
-        {
-          "word": "quiet",
-          "startSec": 149.06,
-          "endSec": 149.48,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 149.48,
-          "endSec": 150.14,
-          "score": 0.54
-        },
-        {
-          "word": "present.",
-          "startSec": 150.14,
-          "endSec": 150.66,
-          "score": 1.0
+          "word": "Europe.",
+          "start": 46.52,
+          "end": 47.5
         }
       ]
     },
     {
       "id": 18,
-      "start": 153.16,
-      "end": 159.39,
-      "text": "Part 6. The harbor and the sea. The harbor is very important.",
+      "start": 47.82,
+      "end": 49.8,
+      "text": "It is far from Asia.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 153.36,
-          "endSec": 153.36,
-          "score": 0.62
-        },
-        {
-          "word": "6.",
-          "startSec": 153.36,
-          "endSec": 153.92,
-          "score": 0.4
-        },
-        {
-          "word": "The",
-          "startSec": 154.72,
-          "endSec": 154.72,
-          "score": 0.96
-        },
-        {
-          "word": "harbor",
-          "startSec": 154.72,
-          "endSec": 155.1,
-          "score": 0.57
-        },
-        {
-          "word": "and",
-          "startSec": 155.1,
-          "endSec": 155.82,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 155.82,
-          "endSec": 156.02,
-          "score": 0.99
-        },
-        {
-          "word": "sea.",
-          "startSec": 156.02,
-          "endSec": 156.3,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 157.6,
-          "endSec": 157.68,
-          "score": 0.99
-        },
-        {
-          "word": "harbor",
-          "startSec": 157.68,
-          "endSec": 158.02,
-          "score": 0.99
+          "word": "It",
+          "start": 47.82,
+          "end": 48.0
         },
         {
           "word": "is",
-          "startSec": 158.02,
-          "endSec": 158.42,
-          "score": 1.0
+          "start": 48.0,
+          "end": 48.22
         },
         {
-          "word": "very",
-          "startSec": 158.42,
-          "endSec": 158.66,
-          "score": 1.0
+          "word": "far",
+          "start": 48.22,
+          "end": 48.58
         },
         {
-          "word": "important.",
-          "startSec": 158.66,
-          "endSec": 159.24,
-          "score": 1.0
+          "word": "from",
+          "start": 48.58,
+          "end": 48.92
+        },
+        {
+          "word": "Asia.",
+          "start": 48.92,
+          "end": 49.8
         }
       ]
     },
     {
       "id": 19,
-      "start": 159.76,
-      "end": 167.45,
-      "text": "Boats move slowly in the water. People walk near the sea. They watch the boats. The sea gives food.",
+      "start": 50.06,
+      "end": 52.54,
+      "text": "Australia has deserts.",
       "words": [
         {
-          "word": "Boats",
-          "startSec": 159.96,
-          "endSec": 160.46,
-          "score": 0.5
+          "word": "Australia",
+          "start": 50.06,
+          "end": 50.8
         },
         {
-          "word": "move",
-          "startSec": 160.46,
-          "endSec": 160.64,
-          "score": 0.96
+          "word": "has",
+          "start": 50.8,
+          "end": 51.34
         },
         {
-          "word": "slowly",
-          "startSec": 160.64,
-          "endSec": 161.16,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 161.16,
-          "endSec": 161.56,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 161.56,
-          "endSec": 161.7,
-          "score": 0.99
-        },
-        {
-          "word": "water.",
-          "startSec": 161.7,
-          "endSec": 162.06,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 162.48,
-          "endSec": 162.78,
-          "score": 0.96
-        },
-        {
-          "word": "walk",
-          "startSec": 162.78,
-          "endSec": 163.14,
-          "score": 1.0
-        },
-        {
-          "word": "near",
-          "startSec": 163.14,
-          "endSec": 163.58,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 163.58,
-          "endSec": 163.8,
-          "score": 1.0
-        },
-        {
-          "word": "sea.",
-          "startSec": 163.8,
-          "endSec": 164.1,
-          "score": 0.99
-        },
-        {
-          "word": "They",
-          "startSec": 164.58,
-          "endSec": 164.7,
-          "score": 0.99
-        },
-        {
-          "word": "watch",
-          "startSec": 164.7,
-          "endSec": 164.96,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 164.96,
-          "endSec": 165.3,
-          "score": 1.0
-        },
-        {
-          "word": "boats.",
-          "startSec": 165.3,
-          "endSec": 165.64,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 166.26,
-          "endSec": 166.26,
-          "score": 0.98
-        },
-        {
-          "word": "sea",
-          "startSec": 166.26,
-          "endSec": 166.52,
-          "score": 0.98
-        },
-        {
-          "word": "gives",
-          "startSec": 166.52,
-          "endSec": 166.88,
-          "score": 0.99
-        },
-        {
-          "word": "food.",
-          "startSec": 166.88,
-          "endSec": 167.3,
-          "score": 1.0
+          "word": "deserts.",
+          "start": 51.34,
+          "end": 52.54
         }
       ]
     },
     {
       "id": 20,
-      "start": 167.82,
-      "end": 175.11,
-      "text": "The sea gives work. The sound of water is everywhere. The city feels calm and open.",
+      "start": 52.54,
+      "end": 54.54,
+      "text": "Australia has forests.",
       "words": [
         {
-          "word": "The",
-          "startSec": 168.02,
-          "endSec": 168.14,
-          "score": 0.99
+          "word": "Australia",
+          "start": 52.54,
+          "end": 53.12
         },
         {
-          "word": "sea",
-          "startSec": 168.14,
-          "endSec": 168.42,
-          "score": 0.99
+          "word": "has",
+          "start": 53.12,
+          "end": 53.62
         },
         {
-          "word": "gives",
-          "startSec": 168.42,
-          "endSec": 168.84,
-          "score": 1.0
-        },
-        {
-          "word": "work.",
-          "startSec": 168.84,
-          "endSec": 169.36,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 170.16,
-          "endSec": 170.34,
-          "score": 0.99
-        },
-        {
-          "word": "sound",
-          "startSec": 170.34,
-          "endSec": 170.72,
-          "score": 0.96
-        },
-        {
-          "word": "of",
-          "startSec": 170.72,
-          "endSec": 170.96,
-          "score": 1.0
-        },
-        {
-          "word": "water",
-          "startSec": 170.96,
-          "endSec": 171.22,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 171.22,
-          "endSec": 171.62,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 171.62,
-          "endSec": 171.96,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 173.1,
-          "endSec": 173.1,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 173.1,
-          "endSec": 173.38,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 173.38,
-          "endSec": 173.9,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 173.9,
-          "endSec": 174.26,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 174.26,
-          "endSec": 174.62,
-          "score": 1.0
-        },
-        {
-          "word": "open.",
-          "startSec": 174.62,
-          "endSec": 174.96,
-          "score": 1.0
+          "word": "forests.",
+          "start": 53.62,
+          "end": 54.54
         }
       ]
     },
     {
       "id": 21,
-      "start": 177.64,
-      "end": 185.96,
-      "text": "Part 7. Salamanca Place. Hobart has a famous place called Salamanca Place.",
+      "start": 54.92,
+      "end": 57.14,
+      "text": "Australia has oceans.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 177.84,
-          "endSec": 177.84,
-          "score": 0.47
-        },
-        {
-          "word": "7.",
-          "startSec": 177.84,
-          "endSec": 178.5,
-          "score": 0.39
-        },
-        {
-          "word": "Salamanca",
-          "startSec": 179.12,
-          "endSec": 179.54,
-          "score": 0.84
-        },
-        {
-          "word": "Place.",
-          "startSec": 179.54,
-          "endSec": 180.14,
-          "score": 0.97
-        },
-        {
-          "word": "Hobart",
-          "startSec": 181.95,
-          "endSec": 182.59,
-          "score": 0.99
+          "word": "Australia",
+          "start": 54.92,
+          "end": 55.62
         },
         {
           "word": "has",
-          "startSec": 182.59,
-          "endSec": 182.85,
-          "score": 1.0
+          "start": 55.62,
+          "end": 56.18
         },
         {
-          "word": "a",
-          "startSec": 182.85,
-          "endSec": 183.03,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 183.03,
-          "endSec": 183.51,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 183.51,
-          "endSec": 184.11,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 184.11,
-          "endSec": 184.47,
-          "score": 0.99
-        },
-        {
-          "word": "Salamanca",
-          "startSec": 184.47,
-          "endSec": 185.23,
-          "score": 0.93
-        },
-        {
-          "word": "Place.",
-          "startSec": 185.23,
-          "endSec": 185.81,
-          "score": 0.99
+          "word": "oceans.",
+          "start": 56.18,
+          "end": 57.14
         }
       ]
     },
     {
       "id": 22,
-      "start": 186.43,
-      "end": 195.8,
-      "text": "It has old stone buildings. Today these buildings have cafes and shops. People meet here.",
+      "start": 57.52,
+      "end": 59.4,
+      "text": "Many people know Sydney.",
       "words": [
         {
-          "word": "It",
-          "startSec": 186.63,
-          "endSec": 187.05,
-          "score": 0.3
+          "word": "Many",
+          "start": 57.52,
+          "end": 57.72
         },
         {
-          "word": "has",
-          "startSec": 187.05,
-          "endSec": 187.25,
-          "score": 0.95
+          "word": "people",
+          "start": 57.72,
+          "end": 58.16
         },
         {
-          "word": "old",
-          "startSec": 187.25,
-          "endSec": 187.63,
-          "score": 0.92
+          "word": "know",
+          "start": 58.16,
+          "end": 58.5
         },
         {
-          "word": "stone",
-          "startSec": 187.63,
-          "endSec": 188.17,
-          "score": 0.95
-        },
-        {
-          "word": "buildings.",
-          "startSec": 188.17,
-          "endSec": 188.79,
-          "score": 1.0
-        },
-        {
-          "word": "Today",
-          "startSec": 189.79,
-          "endSec": 190.37,
-          "score": 0.98
-        },
-        {
-          "word": "these",
-          "startSec": 190.37,
-          "endSec": 190.89,
-          "score": 0.49
-        },
-        {
-          "word": "buildings",
-          "startSec": 190.89,
-          "endSec": 191.45,
-          "score": 1.0
-        },
-        {
-          "word": "have",
-          "startSec": 191.45,
-          "endSec": 191.83,
-          "score": 1.0
-        },
-        {
-          "word": "cafes",
-          "startSec": 191.83,
-          "endSec": 192.17,
-          "score": 0.93
-        },
-        {
-          "word": "and",
-          "startSec": 192.17,
-          "endSec": 193.05,
-          "score": 0.99
-        },
-        {
-          "word": "shops.",
-          "startSec": 193.05,
-          "endSec": 193.53,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 194.39,
-          "endSec": 194.81,
-          "score": 0.97
-        },
-        {
-          "word": "meet",
-          "startSec": 194.81,
-          "endSec": 195.13,
-          "score": 0.99
-        },
-        {
-          "word": "here.",
-          "startSec": 195.13,
-          "endSec": 195.65,
-          "score": 1.0
+          "word": "Sydney.",
+          "start": 58.5,
+          "end": 59.4
         }
       ]
     },
     {
       "id": 23,
-      "start": 196.13,
-      "end": 205.2,
-      "text": "On weekends there is a market. People sell food and art. This place feels social and alive.",
+      "start": 59.68,
+      "end": 61.54,
+      "text": "Many people know Melbourne.",
       "words": [
         {
-          "word": "On",
-          "startSec": 196.33,
-          "endSec": 196.67,
-          "score": 0.99
+          "word": "Many",
+          "start": 59.68,
+          "end": 59.86
         },
         {
-          "word": "weekends",
-          "startSec": 196.67,
-          "endSec": 197.17,
-          "score": 1.0
+          "word": "people",
+          "start": 59.86,
+          "end": 60.28
         },
         {
-          "word": "there",
-          "startSec": 197.17,
-          "endSec": 197.73,
-          "score": 0.66
+          "word": "know",
+          "start": 60.28,
+          "end": 60.64
         },
         {
-          "word": "is",
-          "startSec": 197.73,
-          "endSec": 197.97,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 197.97,
-          "endSec": 198.09,
-          "score": 0.99
-        },
-        {
-          "word": "market.",
-          "startSec": 198.09,
-          "endSec": 198.51,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 199.23,
-          "endSec": 199.49,
-          "score": 0.99
-        },
-        {
-          "word": "sell",
-          "startSec": 199.49,
-          "endSec": 199.95,
-          "score": 0.98
-        },
-        {
-          "word": "food",
-          "startSec": 199.95,
-          "endSec": 200.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 200.47,
-          "endSec": 200.93,
-          "score": 0.99
-        },
-        {
-          "word": "art.",
-          "startSec": 200.93,
-          "endSec": 201.33,
-          "score": 1.0
-        },
-        {
-          "word": "This",
-          "startSec": 202.41,
-          "endSec": 202.63,
-          "score": 0.99
-        },
-        {
-          "word": "place",
-          "startSec": 202.63,
-          "endSec": 203.03,
-          "score": 1.0
-        },
-        {
-          "word": "feels",
-          "startSec": 203.03,
-          "endSec": 203.41,
-          "score": 0.97
-        },
-        {
-          "word": "social",
-          "startSec": 203.41,
-          "endSec": 203.93,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 203.93,
-          "endSec": 204.63,
-          "score": 0.99
-        },
-        {
-          "word": "alive.",
-          "startSec": 204.63,
-          "endSec": 205.05,
-          "score": 1.0
+          "word": "Melbourne.",
+          "start": 60.64,
+          "end": 61.54
         }
       ]
     },
     {
       "id": 24,
-      "start": 207.19,
-      "end": 215.48,
-      "text": "Part 8. Nature and Mountains near Hobart. There is a big mountain. It is called Mount Wellington.",
+      "start": 61.86,
+      "end": 64.62,
+      "text": "But today, we visit Hobart.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 207.39,
-          "endSec": 207.53,
-          "score": 0.12
+          "word": "But",
+          "start": 61.86,
+          "end": 62.12
         },
         {
-          "word": "8.",
-          "startSec": 207.53,
-          "endSec": 207.91,
-          "score": 0.53
+          "word": "today,",
+          "start": 62.12,
+          "end": 62.62
         },
         {
-          "word": "Nature",
-          "startSec": 209.39,
-          "endSec": 209.39,
-          "score": 0.92
+          "word": "we",
+          "start": 63.06,
+          "end": 63.28
         },
         {
-          "word": "and",
-          "startSec": 209.39,
-          "endSec": 209.65,
-          "score": 0.77
-        },
-        {
-          "word": "Mountains",
-          "startSec": 209.65,
-          "endSec": 209.95,
-          "score": 0.39
-        },
-        {
-          "word": "near",
-          "startSec": 209.95,
-          "endSec": 210.59,
-          "score": 0.78
+          "word": "visit",
+          "start": 63.28,
+          "end": 63.7
         },
         {
           "word": "Hobart.",
-          "startSec": 210.59,
-          "endSec": 211.31,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 211.69,
-          "endSec": 211.75,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 211.75,
-          "endSec": 211.95,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 211.95,
-          "endSec": 212.09,
-          "score": 0.99
-        },
-        {
-          "word": "big",
-          "startSec": 212.09,
-          "endSec": 212.31,
-          "score": 0.97
-        },
-        {
-          "word": "mountain.",
-          "startSec": 212.31,
-          "endSec": 212.71,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 213.57,
-          "endSec": 213.79,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 213.79,
-          "endSec": 213.93,
-          "score": 0.99
-        },
-        {
-          "word": "called",
-          "startSec": 213.93,
-          "endSec": 214.31,
-          "score": 1.0
-        },
-        {
-          "word": "Mount",
-          "startSec": 214.31,
-          "endSec": 214.73,
-          "score": 0.91
-        },
-        {
-          "word": "Wellington.",
-          "startSec": 214.73,
-          "endSec": 215.33,
-          "score": 0.96
+          "start": 63.7,
+          "end": 64.62
         }
       ]
     },
     {
       "id": 25,
-      "start": 216.03,
-      "end": 224.46,
-      "text": "You can see the city from the top. You can see the sea and land. People hike and walk there.",
+      "start": 64.84,
+      "end": 66.7,
+      "text": "Hobart is smaller.",
       "words": [
         {
-          "word": "You",
-          "startSec": 216.23,
-          "endSec": 216.85,
-          "score": 0.24
+          "word": "Hobart",
+          "start": 64.84,
+          "end": 65.6
         },
         {
-          "word": "can",
-          "startSec": 216.85,
-          "endSec": 217.05,
-          "score": 0.99
+          "word": "is",
+          "start": 65.6,
+          "end": 65.86
         },
         {
-          "word": "see",
-          "startSec": 217.05,
-          "endSec": 217.35,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 217.35,
-          "endSec": 217.55,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 217.55,
-          "endSec": 217.89,
-          "score": 0.97
-        },
-        {
-          "word": "from",
-          "startSec": 217.89,
-          "endSec": 218.15,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 218.15,
-          "endSec": 218.35,
-          "score": 0.99
-        },
-        {
-          "word": "top.",
-          "startSec": 218.35,
-          "endSec": 218.71,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 219.55,
-          "endSec": 219.65,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 219.65,
-          "endSec": 219.83,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 219.83,
-          "endSec": 220.13,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 220.13,
-          "endSec": 220.35,
-          "score": 1.0
-        },
-        {
-          "word": "sea",
-          "startSec": 220.35,
-          "endSec": 220.69,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 220.69,
-          "endSec": 221.05,
-          "score": 0.97
-        },
-        {
-          "word": "land.",
-          "startSec": 221.05,
-          "endSec": 221.35,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 222.19,
-          "endSec": 222.63,
-          "score": 0.99
-        },
-        {
-          "word": "hike",
-          "startSec": 222.63,
-          "endSec": 223.05,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 223.05,
-          "endSec": 223.51,
-          "score": 1.0
-        },
-        {
-          "word": "walk",
-          "startSec": 223.51,
-          "endSec": 223.83,
-          "score": 1.0
-        },
-        {
-          "word": "there.",
-          "startSec": 223.83,
-          "endSec": 224.31,
-          "score": 0.99
+          "word": "smaller.",
+          "start": 65.86,
+          "end": 66.7
         }
       ]
     },
     {
       "id": 26,
-      "start": 224.79,
-      "end": 231.02,
-      "text": "Nature is strong and beautiful. The air is clean. The view is wide.",
+      "start": 66.88,
+      "end": 68.36,
+      "text": "Hobart is quieter.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 224.99,
-          "endSec": 225.61,
-          "score": 0.99
+          "word": "Hobart",
+          "start": 66.88,
+          "end": 67.26
         },
         {
           "word": "is",
-          "startSec": 225.61,
-          "endSec": 225.87,
-          "score": 1.0
+          "start": 67.26,
+          "end": 67.48
         },
         {
-          "word": "strong",
-          "startSec": 225.87,
-          "endSec": 226.33,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 226.33,
-          "endSec": 226.77,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful.",
-          "startSec": 226.77,
-          "endSec": 227.11,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 228.21,
-          "endSec": 228.31,
-          "score": 1.0
-        },
-        {
-          "word": "air",
-          "startSec": 228.31,
-          "endSec": 228.69,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 228.69,
-          "endSec": 228.99,
-          "score": 0.99
-        },
-        {
-          "word": "clean.",
-          "startSec": 228.99,
-          "endSec": 229.35,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 229.83,
-          "endSec": 229.89,
-          "score": 1.0
-        },
-        {
-          "word": "view",
-          "startSec": 229.89,
-          "endSec": 230.21,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 230.21,
-          "endSec": 230.51,
-          "score": 0.99
-        },
-        {
-          "word": "wide.",
-          "startSec": 230.51,
-          "endSec": 230.87,
-          "score": 1.0
+          "word": "quieter.",
+          "start": 67.48,
+          "end": 68.36
         }
       ]
     },
     {
       "id": 27,
-      "start": 232.88,
-      "end": 243.75,
-      "text": "Part 9. Daily life in Hobart. Daily life in Hobart is slow. People wake up early. They work and relax.",
+      "start": 68.86,
+      "end": 70.65,
+      "text": "Part three.",
       "words": [
         {
           "word": "Part",
-          "startSec": 233.08,
-          "endSec": 233.18,
-          "score": 0.9
+          "start": 68.86,
+          "end": 69.66
         },
         {
-          "word": "9.",
-          "startSec": 233.18,
-          "endSec": 233.76,
-          "score": 0.43
-        },
-        {
-          "word": "Daily",
-          "startSec": 234.78,
-          "endSec": 234.78,
-          "score": 0.95
-        },
-        {
-          "word": "life",
-          "startSec": 234.78,
-          "endSec": 235.1,
-          "score": 0.6
-        },
-        {
-          "word": "in",
-          "startSec": 235.1,
-          "endSec": 235.4,
-          "score": 0.45
-        },
-        {
-          "word": "Hobart.",
-          "startSec": 235.4,
-          "endSec": 235.9,
-          "score": 1.0
-        },
-        {
-          "word": "Daily",
-          "startSec": 236.62,
-          "endSec": 236.9,
-          "score": 1.0
-        },
-        {
-          "word": "life",
-          "startSec": 236.9,
-          "endSec": 237.52,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 237.52,
-          "endSec": 237.74,
-          "score": 0.98
-        },
-        {
-          "word": "Hobart",
-          "startSec": 237.74,
-          "endSec": 238.32,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 238.32,
-          "endSec": 238.7,
-          "score": 1.0
-        },
-        {
-          "word": "slow.",
-          "startSec": 238.7,
-          "endSec": 239.14,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 240.24,
-          "endSec": 240.66,
-          "score": 1.0
-        },
-        {
-          "word": "wake",
-          "startSec": 240.66,
-          "endSec": 240.92,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 240.92,
-          "endSec": 241.24,
-          "score": 1.0
-        },
-        {
-          "word": "early.",
-          "startSec": 241.24,
-          "endSec": 241.64,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 242.5,
-          "endSec": 242.54,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 242.54,
-          "endSec": 242.84,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 242.84,
-          "endSec": 243.14,
-          "score": 0.99
-        },
-        {
-          "word": "relax.",
-          "startSec": 243.14,
-          "endSec": 243.6,
-          "score": 1.0
+          "word": "three.",
+          "start": 69.66,
+          "end": 70.65
         }
       ]
     },
     {
       "id": 28,
-      "start": 243.4,
-      "end": 252.77,
-      "text": "They enjoy simple things. People like walking. People like nature. Life is not rushed. Life feels",
+      "start": 70.78,
+      "end": 72.28,
+      "text": "Where is Hobart?",
       "words": [
         {
-          "word": "They",
-          "startSec": 243.6,
-          "endSec": 244.12,
-          "score": 0.12
-        },
-        {
-          "word": "enjoy",
-          "startSec": 244.12,
-          "endSec": 244.52,
-          "score": 0.99
-        },
-        {
-          "word": "simple",
-          "startSec": 244.52,
-          "endSec": 245.02,
-          "score": 1.0
-        },
-        {
-          "word": "things.",
-          "startSec": 245.02,
-          "endSec": 245.7,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 246.44,
-          "endSec": 246.82,
-          "score": 0.97
-        },
-        {
-          "word": "like",
-          "startSec": 246.82,
-          "endSec": 247.08,
-          "score": 0.99
-        },
-        {
-          "word": "walking.",
-          "startSec": 247.08,
-          "endSec": 247.76,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 248.46,
-          "endSec": 248.66,
-          "score": 0.98
-        },
-        {
-          "word": "like",
-          "startSec": 248.66,
-          "endSec": 249.04,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 249.04,
-          "endSec": 249.58,
-          "score": 0.99
-        },
-        {
-          "word": "Life",
-          "startSec": 250.32,
-          "endSec": 250.6,
-          "score": 0.99
+          "word": "Where",
+          "start": 70.78,
+          "end": 71.08
         },
         {
           "word": "is",
-          "startSec": 250.6,
-          "endSec": 250.9,
-          "score": 0.99
+          "start": 71.08,
+          "end": 71.4
         },
         {
-          "word": "not",
-          "startSec": 250.9,
-          "endSec": 251.18,
-          "score": 1.0
-        },
-        {
-          "word": "rushed.",
-          "startSec": 251.18,
-          "endSec": 251.58,
-          "score": 0.97
-        },
-        {
-          "word": "Life",
-          "startSec": 252.16,
-          "endSec": 252.28,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 252.28,
-          "endSec": 252.62,
-          "score": 0.99
+          "word": "Hobart?",
+          "start": 71.4,
+          "end": 72.28
         }
       ]
     },
     {
       "id": 29,
-      "start": 252.42,
-      "end": 265.82,
-      "text": "balanced. Part 10. Food and local life. Hobart has fresh food. Sea food is very popular. People eat",
+      "start": 72.6,
+      "end": 75.9,
+      "text": "Hobart is in the south of Australia.",
       "words": [
         {
-          "word": "balanced.",
-          "startSec": 252.62,
-          "endSec": 253.2,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 255.38,
-          "endSec": 255.48,
-          "score": 0.85
-        },
-        {
-          "word": "10.",
-          "startSec": 255.48,
-          "endSec": 256.02,
-          "score": 0.91
-        },
-        {
-          "word": "Food",
-          "startSec": 256.64,
-          "endSec": 257.12,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 257.12,
-          "endSec": 257.34,
-          "score": 0.84
-        },
-        {
-          "word": "local",
-          "startSec": 257.34,
-          "endSec": 257.58,
-          "score": 0.55
-        },
-        {
-          "word": "life.",
-          "startSec": 257.58,
-          "endSec": 258.16,
-          "score": 0.99
-        },
-        {
           "word": "Hobart",
-          "startSec": 259.52,
-          "endSec": 260.06,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 260.06,
-          "endSec": 260.28,
-          "score": 0.99
-        },
-        {
-          "word": "fresh",
-          "startSec": 260.28,
-          "endSec": 260.62,
-          "score": 0.98
-        },
-        {
-          "word": "food.",
-          "startSec": 260.62,
-          "endSec": 261.18,
-          "score": 1.0
-        },
-        {
-          "word": "Sea",
-          "startSec": 262.25,
-          "endSec": 262.61,
-          "score": 0.02
-        },
-        {
-          "word": "food",
-          "startSec": 262.61,
-          "endSec": 262.91,
-          "score": 0.98
+          "start": 72.6,
+          "end": 73.4
         },
         {
           "word": "is",
-          "startSec": 262.91,
-          "endSec": 263.31,
-          "score": 1.0
+          "start": 73.4,
+          "end": 73.86
         },
         {
-          "word": "very",
-          "startSec": 263.31,
-          "endSec": 263.59,
-          "score": 1.0
+          "word": "in",
+          "start": 73.86,
+          "end": 74.06
         },
         {
-          "word": "popular.",
-          "startSec": 263.59,
-          "endSec": 264.23,
-          "score": 1.0
+          "word": "the",
+          "start": 74.06,
+          "end": 74.24
         },
         {
-          "word": "People",
-          "startSec": 265.27,
-          "endSec": 265.27,
-          "score": 0.99
+          "word": "south",
+          "start": 74.24,
+          "end": 74.68
         },
         {
-          "word": "eat",
-          "startSec": 265.27,
-          "endSec": 265.67,
-          "score": 1.0
+          "word": "of",
+          "start": 74.68,
+          "end": 74.94
+        },
+        {
+          "word": "Australia.",
+          "start": 74.94,
+          "end": 75.9
         }
       ]
     },
     {
       "id": 30,
-      "start": 265.47,
-      "end": 274.27,
-      "text": "fish. People eat local vegetables. Food is simple and clean. Meals are calm and friendly.",
+      "start": 76.32,
+      "end": 79.58,
+      "text": "It is on an island called Tasmania.",
       "words": [
         {
-          "word": "fish.",
-          "startSec": 265.67,
-          "endSec": 266.13,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 267.32,
-          "endSec": 267.74,
-          "score": 0.99
-        },
-        {
-          "word": "eat",
-          "startSec": 267.74,
-          "endSec": 268.02,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 268.02,
-          "endSec": 268.44,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 268.44,
-          "endSec": 268.86,
-          "score": 1.0
-        },
-        {
-          "word": "Food",
-          "startSec": 270.06,
-          "endSec": 270.34,
-          "score": 0.99
+          "word": "It",
+          "start": 76.32,
+          "end": 76.7
         },
         {
           "word": "is",
-          "startSec": 270.34,
-          "endSec": 270.52,
-          "score": 1.0
+          "start": 76.7,
+          "end": 76.9
         },
         {
-          "word": "simple",
-          "startSec": 270.52,
-          "endSec": 270.82,
-          "score": 1.0
+          "word": "on",
+          "start": 76.9,
+          "end": 77.12
         },
         {
-          "word": "and",
-          "startSec": 270.82,
-          "endSec": 271.2,
-          "score": 1.0
+          "word": "an",
+          "start": 77.12,
+          "end": 77.32
         },
         {
-          "word": "clean.",
-          "startSec": 271.2,
-          "endSec": 271.54,
-          "score": 1.0
+          "word": "island",
+          "start": 77.32,
+          "end": 77.78
         },
         {
-          "word": "Meals",
-          "startSec": 272.34,
-          "endSec": 272.58,
-          "score": 0.95
+          "word": "called",
+          "start": 77.78,
+          "end": 78.28
         },
         {
-          "word": "are",
-          "startSec": 272.58,
-          "endSec": 272.9,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 272.9,
-          "endSec": 273.26,
-          "score": 0.95
-        },
-        {
-          "word": "and",
-          "startSec": 273.26,
-          "endSec": 273.56,
-          "score": 1.0
-        },
-        {
-          "word": "friendly.",
-          "startSec": 273.56,
-          "endSec": 274.12,
-          "score": 1.0
+          "word": "Tasmania.",
+          "start": 78.28,
+          "end": 79.58
         }
       ]
     },
     {
       "id": 31,
-      "start": 274.58,
-      "end": 284.32,
-      "text": "Eating feels natural and healthy. Part 11. Culture and people. People in Hobart are friendly.",
+      "start": 80.06,
+      "end": 82.84,
+      "text": "The city is next to the sea.",
       "words": [
         {
-          "word": "Eating",
-          "startSec": 274.78,
-          "endSec": 275.26,
-          "score": 0.0
+          "word": "The",
+          "start": 80.06,
+          "end": 80.46
         },
         {
-          "word": "feels",
-          "startSec": 275.26,
-          "endSec": 275.76,
-          "score": 0.91
+          "word": "city",
+          "start": 80.46,
+          "end": 80.86
         },
         {
-          "word": "natural",
-          "startSec": 275.76,
-          "endSec": 276.22,
-          "score": 1.0
+          "word": "is",
+          "start": 80.86,
+          "end": 81.18
         },
         {
-          "word": "and",
-          "startSec": 276.22,
-          "endSec": 276.76,
-          "score": 1.0
+          "word": "next",
+          "start": 81.18,
+          "end": 81.52
         },
         {
-          "word": "healthy.",
-          "startSec": 276.76,
-          "endSec": 277.22,
-          "score": 1.0
+          "word": "to",
+          "start": 81.52,
+          "end": 81.88
         },
         {
-          "word": "Part",
-          "startSec": 278.62,
-          "endSec": 278.86,
-          "score": 0.93
+          "word": "the",
+          "start": 81.88,
+          "end": 82.04
         },
         {
-          "word": "11.",
-          "startSec": 278.86,
-          "endSec": 279.36,
-          "score": 0.94
-        },
-        {
-          "word": "Culture",
-          "startSec": 280.16,
-          "endSec": 280.72,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 280.72,
-          "endSec": 281.02,
-          "score": 0.94
-        },
-        {
-          "word": "people.",
-          "startSec": 281.02,
-          "endSec": 281.24,
-          "score": 0.68
-        },
-        {
-          "word": "People",
-          "startSec": 282.15,
-          "endSec": 282.79,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 282.79,
-          "endSec": 283.09,
-          "score": 0.96
-        },
-        {
-          "word": "Hobart",
-          "startSec": 283.09,
-          "endSec": 283.59,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 283.59,
-          "endSec": 283.85,
-          "score": 0.99
-        },
-        {
-          "word": "friendly.",
-          "startSec": 283.85,
-          "endSec": 284.17,
-          "score": 1.0
+          "word": "sea.",
+          "start": 82.04,
+          "end": 82.84
         }
       ]
     },
     {
       "id": 32,
-      "start": 285.11,
-      "end": 293.48,
-      "text": "They like simple life. Art and culture are important. There are small museums and galleries.",
+      "start": 83.2,
+      "end": 84.82,
+      "text": "It is near mountains.",
       "words": [
         {
-          "word": "They",
-          "startSec": 285.31,
-          "endSec": 285.45,
-          "score": 0.99
+          "word": "It",
+          "start": 83.2,
+          "end": 83.36
         },
         {
-          "word": "like",
-          "startSec": 285.45,
-          "endSec": 285.73,
-          "score": 0.99
+          "word": "is",
+          "start": 83.36,
+          "end": 83.54
         },
         {
-          "word": "simple",
-          "startSec": 285.73,
-          "endSec": 286.21,
-          "score": 1.0
+          "word": "near",
+          "start": 83.54,
+          "end": 83.8
         },
         {
-          "word": "life.",
-          "startSec": 286.21,
-          "endSec": 286.81,
-          "score": 1.0
-        },
-        {
-          "word": "Art",
-          "startSec": 287.94,
-          "endSec": 288.24,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 288.24,
-          "endSec": 288.54,
-          "score": 1.0
-        },
-        {
-          "word": "culture",
-          "startSec": 288.54,
-          "endSec": 288.92,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 288.92,
-          "endSec": 289.38,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 289.38,
-          "endSec": 289.74,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 290.91,
-          "endSec": 291.07,
-          "score": 0.83
-        },
-        {
-          "word": "are",
-          "startSec": 291.07,
-          "endSec": 291.27,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 291.27,
-          "endSec": 291.69,
-          "score": 1.0
-        },
-        {
-          "word": "museums",
-          "startSec": 291.69,
-          "endSec": 292.33,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 292.33,
-          "endSec": 292.85,
-          "score": 0.98
-        },
-        {
-          "word": "galleries.",
-          "startSec": 292.85,
-          "endSec": 293.33,
-          "score": 1.0
+          "word": "mountains.",
+          "start": 83.8,
+          "end": 84.82
         }
       ]
     },
     {
       "id": 33,
-      "start": 294.19,
-      "end": 301.5,
-      "text": "People enjoy quiet moments. They respect nature. The city feels human and real.",
+      "start": 85.22,
+      "end": 87.64,
+      "text": "Water and land meet here.",
       "words": [
         {
-          "word": "People",
-          "startSec": 294.39,
-          "endSec": 294.71,
-          "score": 1.0
-        },
-        {
-          "word": "enjoy",
-          "startSec": 294.71,
-          "endSec": 295.29,
-          "score": 1.0
-        },
-        {
-          "word": "quiet",
-          "startSec": 295.29,
-          "endSec": 295.77,
-          "score": 0.99
-        },
-        {
-          "word": "moments.",
-          "startSec": 295.77,
-          "endSec": 296.29,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 297.39,
-          "endSec": 297.41,
-          "score": 1.0
-        },
-        {
-          "word": "respect",
-          "startSec": 297.41,
-          "endSec": 297.85,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 297.85,
-          "endSec": 298.55,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 299.17,
-          "endSec": 299.23,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 299.23,
-          "endSec": 299.51,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 299.51,
-          "endSec": 300.21,
-          "score": 1.0
-        },
-        {
-          "word": "human",
-          "startSec": 300.21,
-          "endSec": 300.59,
-          "score": 1.0
+          "word": "Water",
+          "start": 85.22,
+          "end": 85.78
         },
         {
           "word": "and",
-          "startSec": 300.59,
-          "endSec": 301.07,
-          "score": 1.0
+          "start": 85.78,
+          "end": 86.08
         },
         {
-          "word": "real.",
-          "startSec": 301.07,
-          "endSec": 301.35,
-          "score": 1.0
+          "word": "land",
+          "start": 86.08,
+          "end": 86.4
+        },
+        {
+          "word": "meet",
+          "start": 86.4,
+          "end": 86.8
+        },
+        {
+          "word": "here.",
+          "start": 86.8,
+          "end": 87.64
         }
       ]
     },
     {
       "id": 34,
-      "start": 302.46,
-      "end": 312.55,
-      "text": "Part 12. Feeling nature and goodbye. Hobart is a city of sea, mountains, history, and calm life.",
+      "start": 88.14,
+      "end": 90.16,
+      "text": "Nature is very close.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 302.66,
-          "endSec": 303.08,
-          "score": 0.16
-        },
-        {
-          "word": "12.",
-          "startSec": 303.08,
-          "endSec": 303.78,
-          "score": 0.93
-        },
-        {
-          "word": "Feeling",
-          "startSec": 305.06,
-          "endSec": 305.06,
-          "score": 0.99
-        },
-        {
-          "word": "nature",
-          "startSec": 305.06,
-          "endSec": 305.44,
-          "score": 0.5
-        },
-        {
-          "word": "and",
-          "startSec": 305.44,
-          "endSec": 305.82,
-          "score": 0.94
-        },
-        {
-          "word": "goodbye.",
-          "startSec": 305.82,
-          "endSec": 306.04,
-          "score": 0.68
-        },
-        {
-          "word": "Hobart",
-          "startSec": 307.24,
-          "endSec": 307.92,
-          "score": 0.98
+          "word": "Nature",
+          "start": 88.14,
+          "end": 88.72
         },
         {
           "word": "is",
-          "startSec": 307.92,
-          "endSec": 308.2,
-          "score": 0.99
+          "start": 88.72,
+          "end": 89.04
         },
         {
-          "word": "a",
-          "startSec": 308.2,
-          "endSec": 308.34,
-          "score": 0.88
+          "word": "very",
+          "start": 89.04,
+          "end": 89.32
         },
         {
-          "word": "city",
-          "startSec": 308.34,
-          "endSec": 308.68,
-          "score": 0.97
-        },
-        {
-          "word": "of",
-          "startSec": 308.68,
-          "endSec": 309.0,
-          "score": 1.0
-        },
-        {
-          "word": "sea,",
-          "startSec": 309.0,
-          "endSec": 309.36,
-          "score": 0.91
-        },
-        {
-          "word": "mountains,",
-          "startSec": 310.22,
-          "endSec": 310.22,
-          "score": 0.99
-        },
-        {
-          "word": "history,",
-          "startSec": 310.74,
-          "endSec": 311.0,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 311.46,
-          "endSec": 311.5,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 311.5,
-          "endSec": 311.86,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 311.86,
-          "endSec": 312.4,
-          "score": 0.99
+          "word": "close.",
+          "start": 89.32,
+          "end": 90.16
         }
       ]
     },
     {
       "id": 35,
-      "start": 313.25,
-      "end": 324.53,
-      "text": "It is quiet. It is fresh. It is peaceful. People feel close to nature here. People feel free here.",
+      "start": 90.72,
+      "end": 92.66,
+      "text": "Hobart feels open.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 90.72,
+          "end": 91.26
+        },
+        {
+          "word": "feels",
+          "start": 91.26,
+          "end": 91.6
+        },
+        {
+          "word": "open.",
+          "start": 91.6,
+          "end": 92.66
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 93.0,
+      "end": 95.82,
+      "text": "Hobart feels fresh and clean.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 93.0,
+          "end": 93.64
+        },
+        {
+          "word": "feels",
+          "start": 93.64,
+          "end": 94.06
+        },
+        {
+          "word": "fresh",
+          "start": 94.06,
+          "end": 94.58
+        },
+        {
+          "word": "and",
+          "start": 94.58,
+          "end": 95.0
+        },
+        {
+          "word": "clean.",
+          "start": 95.0,
+          "end": 95.82
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 96.32,
+      "end": 97.69,
+      "text": "Part four.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 96.32,
+          "end": 96.84
+        },
+        {
+          "word": "four.",
+          "start": 96.84,
+          "end": 97.69
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 97.88,
+      "end": 99.32,
+      "text": "Weather and seasons.",
+      "words": [
+        {
+          "word": "Weather",
+          "start": 97.88,
+          "end": 98.06
+        },
+        {
+          "word": "and",
+          "start": 98.06,
+          "end": 98.44
+        },
+        {
+          "word": "seasons.",
+          "start": 98.44,
+          "end": 99.32
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 99.72,
+      "end": 102.24,
+      "text": "Hobart has four seasons.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 99.72,
+          "end": 100.54
+        },
+        {
+          "word": "has",
+          "start": 100.54,
+          "end": 100.86
+        },
+        {
+          "word": "four",
+          "start": 100.86,
+          "end": 101.2
+        },
+        {
+          "word": "seasons.",
+          "start": 101.2,
+          "end": 102.24
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 102.7,
+      "end": 104.2,
+      "text": "Summer is mild.",
+      "words": [
+        {
+          "word": "Summer",
+          "start": 102.7,
+          "end": 103.0
+        },
+        {
+          "word": "is",
+          "start": 103.0,
+          "end": 103.26
+        },
+        {
+          "word": "mild.",
+          "start": 103.26,
+          "end": 104.2
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 104.46,
+      "end": 106.26,
+      "text": "It is not very hot.",
       "words": [
         {
           "word": "It",
-          "startSec": 313.45,
-          "endSec": 313.65,
-          "score": 0.99
+          "start": 104.46,
+          "end": 104.54
         },
         {
           "word": "is",
-          "startSec": 313.65,
-          "endSec": 313.81,
-          "score": 1.0
+          "start": 104.54,
+          "end": 104.72
         },
         {
-          "word": "quiet.",
-          "startSec": 313.81,
-          "endSec": 314.23,
-          "score": 1.0
+          "word": "not",
+          "start": 104.72,
+          "end": 105.02
         },
         {
-          "word": "It",
-          "startSec": 315.31,
-          "endSec": 315.67,
-          "score": 1.0
+          "word": "very",
+          "start": 105.02,
+          "end": 105.4
         },
         {
-          "word": "is",
-          "startSec": 315.67,
-          "endSec": 315.85,
-          "score": 1.0
-        },
+          "word": "hot.",
+          "start": 105.4,
+          "end": 106.26
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 106.66,
+      "end": 108.24,
+      "text": "Winter is cool.",
+      "words": [
         {
-          "word": "fresh.",
-          "startSec": 315.85,
-          "endSec": 316.35,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 317.33,
-          "endSec": 317.43,
-          "score": 1.0
+          "word": "Winter",
+          "start": 106.66,
+          "end": 107.0
         },
         {
           "word": "is",
-          "startSec": 317.43,
-          "endSec": 317.61,
-          "score": 1.0
+          "start": 107.0,
+          "end": 107.42
         },
         {
-          "word": "peaceful.",
-          "startSec": 317.61,
-          "endSec": 318.21,
-          "score": 1.0
+          "word": "cool.",
+          "start": 107.42,
+          "end": 108.24
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 108.76,
+      "end": 111.58,
+      "text": "Sometimes it is cold and windy.",
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 108.76,
+          "end": 109.32
         },
+        {
+          "word": "it",
+          "start": 109.32,
+          "end": 109.74
+        },
+        {
+          "word": "is",
+          "start": 109.74,
+          "end": 109.94
+        },
+        {
+          "word": "cold",
+          "start": 109.94,
+          "end": 110.44
+        },
+        {
+          "word": "and",
+          "start": 110.44,
+          "end": 110.76
+        },
+        {
+          "word": "windy.",
+          "start": 110.76,
+          "end": 111.58
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 112.22,
+      "end": 114.48,
+      "text": "Spring is fresh and green.",
+      "words": [
+        {
+          "word": "Spring",
+          "start": 112.22,
+          "end": 112.56
+        },
+        {
+          "word": "is",
+          "start": 112.56,
+          "end": 112.9
+        },
+        {
+          "word": "fresh",
+          "start": 112.9,
+          "end": 113.38
+        },
+        {
+          "word": "and",
+          "start": 113.38,
+          "end": 113.72
+        },
+        {
+          "word": "green.",
+          "start": 113.72,
+          "end": 114.48
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 115.02,
+      "end": 117.86,
+      "text": "Autumn is calm and colorful.",
+      "words": [
+        {
+          "word": "Autumn",
+          "start": 115.02,
+          "end": 115.44
+        },
+        {
+          "word": "is",
+          "start": 115.44,
+          "end": 115.8
+        },
+        {
+          "word": "calm",
+          "start": 115.8,
+          "end": 116.46
+        },
+        {
+          "word": "and",
+          "start": 116.46,
+          "end": 116.8
+        },
+        {
+          "word": "colorful.",
+          "start": 116.8,
+          "end": 117.86
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 118.3,
+      "end": 120.82,
+      "text": "The weather changes often.",
+      "words": [
+        {
+          "word": "The",
+          "start": 118.3,
+          "end": 118.92
+        },
+        {
+          "word": "weather",
+          "start": 118.92,
+          "end": 119.24
+        },
+        {
+          "word": "changes",
+          "start": 119.24,
+          "end": 119.78
+        },
+        {
+          "word": "often.",
+          "start": 119.78,
+          "end": 120.82
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 121.36,
+      "end": 123.32,
+      "text": "People dress for the wind.",
+      "words": [
         {
           "word": "People",
-          "startSec": 319.24,
-          "endSec": 319.66,
-          "score": 0.99
+          "start": 121.36,
+          "end": 121.64
         },
         {
-          "word": "feel",
-          "startSec": 319.66,
-          "endSec": 320.14,
-          "score": 1.0
+          "word": "dress",
+          "start": 121.64,
+          "end": 122.02
         },
         {
-          "word": "close",
-          "startSec": 320.14,
-          "endSec": 320.62,
-          "score": 0.99
+          "word": "for",
+          "start": 122.02,
+          "end": 122.3
         },
         {
-          "word": "to",
-          "startSec": 320.62,
-          "endSec": 321.0,
-          "score": 1.0
+          "word": "the",
+          "start": 122.3,
+          "end": 122.48
+        },
+        {
+          "word": "wind.",
+          "start": 122.48,
+          "end": 123.32
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 123.68,
+      "end": 126.46,
+      "text": "Nature shapes life in Hobart.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 123.68,
+          "end": 124.32
+        },
+        {
+          "word": "shapes",
+          "start": 124.32,
+          "end": 124.86
+        },
+        {
+          "word": "life",
+          "start": 124.86,
+          "end": 125.3
+        },
+        {
+          "word": "in",
+          "start": 125.3,
+          "end": 125.62
+        },
+        {
+          "word": "Hobart.",
+          "start": 125.62,
+          "end": 126.46
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 126.68,
+      "end": 128.52,
+      "text": "A city with history.",
+      "words": [
+        {
+          "word": "A",
+          "start": 126.68,
+          "end": 126.84
+        },
+        {
+          "word": "city",
+          "start": 126.84,
+          "end": 127.18
+        },
+        {
+          "word": "with",
+          "start": 127.18,
+          "end": 127.52
+        },
+        {
+          "word": "history.",
+          "start": 127.52,
+          "end": 128.52
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 129.24,
+      "end": 133.04,
+      "text": "Hobart is one of the oldest cities in Australia.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 129.24,
+          "end": 130.08
+        },
+        {
+          "word": "is",
+          "start": 130.08,
+          "end": 130.32
+        },
+        {
+          "word": "one",
+          "start": 130.32,
+          "end": 130.58
+        },
+        {
+          "word": "of",
+          "start": 130.58,
+          "end": 130.76
+        },
+        {
+          "word": "the",
+          "start": 130.76,
+          "end": 130.94
+        },
+        {
+          "word": "oldest",
+          "start": 130.94,
+          "end": 131.36
+        },
+        {
+          "word": "cities",
+          "start": 131.36,
+          "end": 131.86
+        },
+        {
+          "word": "in",
+          "start": 131.86,
+          "end": 132.16
+        },
+        {
+          "word": "Australia.",
+          "start": 132.16,
+          "end": 133.04
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 134.02,
+      "end": 136.8,
+      "text": "People came here many years ago.",
+      "words": [
+        {
+          "word": "People",
+          "start": 134.02,
+          "end": 134.52
+        },
+        {
+          "word": "came",
+          "start": 134.52,
+          "end": 134.92
+        },
+        {
+          "word": "here",
+          "start": 134.92,
+          "end": 135.24
+        },
+        {
+          "word": "many",
+          "start": 135.24,
+          "end": 135.56
+        },
+        {
+          "word": "years",
+          "start": 135.56,
+          "end": 135.96
+        },
+        {
+          "word": "ago.",
+          "start": 135.96,
+          "end": 136.8
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 137.24,
+      "end": 139.45,
+      "text": "The city started as a port.",
+      "words": [
+        {
+          "word": "The",
+          "start": 137.24,
+          "end": 137.42
+        },
+        {
+          "word": "city",
+          "start": 137.42,
+          "end": 137.74
+        },
+        {
+          "word": "started",
+          "start": 137.74,
+          "end": 138.28
+        },
+        {
+          "word": "as",
+          "start": 138.28,
+          "end": 138.62
+        },
+        {
+          "word": "a",
+          "start": 138.62,
+          "end": 138.76
+        },
+        {
+          "word": "port.",
+          "start": 138.76,
+          "end": 139.45
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 139.68,
+      "end": 141.67,
+      "text": "Ships came and went.",
+      "words": [
+        {
+          "word": "Ships",
+          "start": 139.68,
+          "end": 140.06
+        },
+        {
+          "word": "came",
+          "start": 140.06,
+          "end": 140.6
+        },
+        {
+          "word": "and",
+          "start": 140.6,
+          "end": 141.02
+        },
+        {
+          "word": "went.",
+          "start": 141.02,
+          "end": 141.67
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 141.88,
+      "end": 144.86,
+      "text": "Old buildings still stand today.",
+      "words": [
+        {
+          "word": "Old",
+          "start": 141.88,
+          "end": 142.28
+        },
+        {
+          "word": "buildings",
+          "start": 142.28,
+          "end": 142.92
+        },
+        {
+          "word": "still",
+          "start": 142.92,
+          "end": 143.46
+        },
+        {
+          "word": "stand",
+          "start": 143.46,
+          "end": 143.98
+        },
+        {
+          "word": "today.",
+          "start": 143.98,
+          "end": 144.86
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 145.1,
+      "end": 147.76,
+      "text": "History is part of the streets.",
+      "words": [
+        {
+          "word": "History",
+          "start": 145.1,
+          "end": 145.68
+        },
+        {
+          "word": "is",
+          "start": 145.68,
+          "end": 146.08
+        },
+        {
+          "word": "part",
+          "start": 146.08,
+          "end": 146.48
+        },
+        {
+          "word": "of",
+          "start": 146.48,
+          "end": 146.68
+        },
+        {
+          "word": "the",
+          "start": 146.68,
+          "end": 146.86
+        },
+        {
+          "word": "streets.",
+          "start": 146.86,
+          "end": 147.76
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 148.16,
+      "end": 151.16,
+      "text": "The past is quiet but present.",
+      "words": [
+        {
+          "word": "The",
+          "start": 148.16,
+          "end": 148.42
+        },
+        {
+          "word": "past",
+          "start": 148.42,
+          "end": 148.76
+        },
+        {
+          "word": "is",
+          "start": 148.76,
+          "end": 149.14
+        },
+        {
+          "word": "quiet",
+          "start": 149.14,
+          "end": 149.7
+        },
+        {
+          "word": "but",
+          "start": 149.7,
+          "end": 150.18
+        },
+        {
+          "word": "present.",
+          "start": 150.18,
+          "end": 151.16
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 153.14,
+      "end": 154.45,
+      "text": "Part six.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 153.14,
+          "end": 153.46
+        },
+        {
+          "word": "six.",
+          "start": 153.46,
+          "end": 154.45
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 154.7,
+      "end": 156.88,
+      "text": "The harbor and the sea.",
+      "words": [
+        {
+          "word": "The",
+          "start": 154.7,
+          "end": 154.78
+        },
+        {
+          "word": "harbor",
+          "start": 154.78,
+          "end": 155.26
+        },
+        {
+          "word": "and",
+          "start": 155.26,
+          "end": 155.88
+        },
+        {
+          "word": "the",
+          "start": 155.88,
+          "end": 156.08
+        },
+        {
+          "word": "sea.",
+          "start": 156.08,
+          "end": 156.88
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 157.42,
+      "end": 159.84,
+      "text": "The harbor is very important.",
+      "words": [
+        {
+          "word": "The",
+          "start": 157.42,
+          "end": 157.74
+        },
+        {
+          "word": "harbor",
+          "start": 157.74,
+          "end": 158.12
+        },
+        {
+          "word": "is",
+          "start": 158.12,
+          "end": 158.46
+        },
+        {
+          "word": "very",
+          "start": 158.46,
+          "end": 158.8
+        },
+        {
+          "word": "important.",
+          "start": 158.8,
+          "end": 159.84
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 160.1,
+      "end": 162.37,
+      "text": "Boats move slowly in the water.",
+      "words": [
+        {
+          "word": "Boats",
+          "start": 160.1,
+          "end": 160.44
+        },
+        {
+          "word": "move",
+          "start": 160.44,
+          "end": 160.72
+        },
+        {
+          "word": "slowly",
+          "start": 160.72,
+          "end": 161.28
+        },
+        {
+          "word": "in",
+          "start": 161.28,
+          "end": 161.6
+        },
+        {
+          "word": "the",
+          "start": 161.6,
+          "end": 161.72
+        },
+        {
+          "word": "water.",
+          "start": 161.72,
+          "end": 162.37
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 162.54,
+      "end": 164.48,
+      "text": "People walk near the sea.",
+      "words": [
+        {
+          "word": "People",
+          "start": 162.54,
+          "end": 162.82
+        },
+        {
+          "word": "walk",
+          "start": 162.82,
+          "end": 163.24
+        },
+        {
+          "word": "near",
+          "start": 163.24,
+          "end": 163.62
+        },
+        {
+          "word": "the",
+          "start": 163.62,
+          "end": 163.86
+        },
+        {
+          "word": "sea.",
+          "start": 163.86,
+          "end": 164.48
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 164.62,
+      "end": 166.06,
+      "text": "They watch the boats.",
+      "words": [
+        {
+          "word": "They",
+          "start": 164.62,
+          "end": 164.76
+        },
+        {
+          "word": "watch",
+          "start": 164.76,
+          "end": 165.12
+        },
+        {
+          "word": "the",
+          "start": 165.12,
+          "end": 165.36
+        },
+        {
+          "word": "boats.",
+          "start": 165.36,
+          "end": 166.06
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 166.2,
+      "end": 167.87,
+      "text": "The sea gives food.",
+      "words": [
+        {
+          "word": "The",
+          "start": 166.2,
+          "end": 166.32
+        },
+        {
+          "word": "sea",
+          "start": 166.32,
+          "end": 166.64
+        },
+        {
+          "word": "gives",
+          "start": 166.64,
+          "end": 166.94
+        },
+        {
+          "word": "food.",
+          "start": 166.94,
+          "end": 167.87
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 168.1,
+      "end": 169.71,
+      "text": "The sea gives work.",
+      "words": [
+        {
+          "word": "The",
+          "start": 168.1,
+          "end": 168.18
+        },
+        {
+          "word": "sea",
+          "start": 168.18,
+          "end": 168.58
+        },
+        {
+          "word": "gives",
+          "start": 168.58,
+          "end": 168.98
+        },
+        {
+          "word": "work.",
+          "start": 168.98,
+          "end": 169.71
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 169.9,
+      "end": 172.48,
+      "text": "The sound of water is everywhere.",
+      "words": [
+        {
+          "word": "The",
+          "start": 169.9,
+          "end": 170.38
+        },
+        {
+          "word": "sound",
+          "start": 170.38,
+          "end": 170.74
+        },
+        {
+          "word": "of",
+          "start": 170.74,
+          "end": 171.02
+        },
+        {
+          "word": "water",
+          "start": 171.02,
+          "end": 171.34
+        },
+        {
+          "word": "is",
+          "start": 171.34,
+          "end": 171.64
+        },
+        {
+          "word": "everywhere.",
+          "start": 171.64,
+          "end": 172.48
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 172.7,
+      "end": 175.44,
+      "text": "The city feels calm and open.",
+      "words": [
+        {
+          "word": "The",
+          "start": 172.7,
+          "end": 173.16
+        },
+        {
+          "word": "city",
+          "start": 173.16,
+          "end": 173.48
+        },
+        {
+          "word": "feels",
+          "start": 173.48,
+          "end": 173.96
+        },
+        {
+          "word": "calm",
+          "start": 173.96,
+          "end": 174.44
+        },
+        {
+          "word": "and",
+          "start": 174.44,
+          "end": 174.7
+        },
+        {
+          "word": "open.",
+          "start": 174.7,
+          "end": 175.44
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 177.18,
+      "end": 178.83,
+      "text": "Part seven.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 177.18,
+          "end": 177.9
+        },
+        {
+          "word": "seven.",
+          "start": 177.9,
+          "end": 178.83
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 179.04,
+      "end": 180.64,
+      "text": "Salamanca Place.",
+      "words": [
+        {
+          "word": "Salamanca",
+          "start": 179.04,
+          "end": 179.76
+        },
+        {
+          "word": "Place.",
+          "start": 179.76,
+          "end": 180.64
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 181.7,
+      "end": 186.32,
+      "text": "Hobart has a famous place called Salamanca Place.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 181.7,
+          "end": 182.62
+        },
+        {
+          "word": "has",
+          "start": 182.62,
+          "end": 182.94
+        },
+        {
+          "word": "a",
+          "start": 182.94,
+          "end": 183.1
+        },
+        {
+          "word": "famous",
+          "start": 183.1,
+          "end": 183.54
+        },
+        {
+          "word": "place",
+          "start": 183.54,
+          "end": 184.08
+        },
+        {
+          "word": "called",
+          "start": 184.08,
+          "end": 184.54
+        },
+        {
+          "word": "Salamanca",
+          "start": 184.54,
+          "end": 185.46
+        },
+        {
+          "word": "Place.",
+          "start": 185.46,
+          "end": 186.32
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 186.76,
+      "end": 189.26,
+      "text": "It has old stone buildings.",
+      "words": [
+        {
+          "word": "It",
+          "start": 186.76,
+          "end": 187.08
+        },
+        {
+          "word": "has",
+          "start": 187.08,
+          "end": 187.32
+        },
+        {
+          "word": "old",
+          "start": 187.32,
+          "end": 187.78
+        },
+        {
+          "word": "stone",
+          "start": 187.78,
+          "end": 188.28
+        },
+        {
+          "word": "buildings.",
+          "start": 188.28,
+          "end": 189.26
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 189.96,
+      "end": 194.02,
+      "text": "Today these buildings have cafes and shops.",
+      "words": [
+        {
+          "word": "Today",
+          "start": 189.96,
+          "end": 190.42
+        },
+        {
+          "word": "these",
+          "start": 190.42,
+          "end": 190.98
+        },
+        {
+          "word": "buildings",
+          "start": 190.98,
+          "end": 191.52
+        },
+        {
+          "word": "have",
+          "start": 191.52,
+          "end": 191.92
+        },
+        {
+          "word": "cafes",
+          "start": 191.92,
+          "end": 192.5
+        },
+        {
+          "word": "and",
+          "start": 192.5,
+          "end": 193.14
+        },
+        {
+          "word": "shops.",
+          "start": 193.14,
+          "end": 194.02
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 194.36,
+      "end": 196.1,
+      "text": "People meet here.",
+      "words": [
+        {
+          "word": "People",
+          "start": 194.36,
+          "end": 194.8
+        },
+        {
+          "word": "meet",
+          "start": 194.8,
+          "end": 195.2
+        },
+        {
+          "word": "here.",
+          "start": 195.2,
+          "end": 196.1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 196.44,
+      "end": 198.94,
+      "text": "On weekends there is a market.",
+      "words": [
+        {
+          "word": "On",
+          "start": 196.44,
+          "end": 196.76
+        },
+        {
+          "word": "weekends",
+          "start": 196.76,
+          "end": 197.32
+        },
+        {
+          "word": "there",
+          "start": 197.32,
+          "end": 197.82
+        },
+        {
+          "word": "is",
+          "start": 197.82,
+          "end": 198.0
+        },
+        {
+          "word": "a",
+          "start": 198.0,
+          "end": 198.14
+        },
+        {
+          "word": "market.",
+          "start": 198.14,
+          "end": 198.94
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 199.18,
+      "end": 201.82,
+      "text": "People sell food and art.",
+      "words": [
+        {
+          "word": "People",
+          "start": 199.18,
+          "end": 199.66
+        },
+        {
+          "word": "sell",
+          "start": 199.66,
+          "end": 200.08
+        },
+        {
+          "word": "food",
+          "start": 200.08,
+          "end": 200.56
+        },
+        {
+          "word": "and",
+          "start": 200.56,
+          "end": 201.0
+        },
+        {
+          "word": "art.",
+          "start": 201.0,
+          "end": 201.82
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 202.34,
+      "end": 205.58,
+      "text": "This place feels social and alive.",
+      "words": [
+        {
+          "word": "This",
+          "start": 202.34,
+          "end": 202.74
+        },
+        {
+          "word": "place",
+          "start": 202.74,
+          "end": 203.08
+        },
+        {
+          "word": "feels",
+          "start": 203.08,
+          "end": 203.54
+        },
+        {
+          "word": "social",
+          "start": 203.54,
+          "end": 204.24
+        },
+        {
+          "word": "and",
+          "start": 204.24,
+          "end": 204.7
+        },
+        {
+          "word": "alive.",
+          "start": 204.7,
+          "end": 205.58
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 206.7,
+      "end": 208.44,
+      "text": "Part eight.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 206.7,
+          "end": 207.56
+        },
+        {
+          "word": "eight.",
+          "start": 207.56,
+          "end": 208.44
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 208.92,
+      "end": 211.6,
+      "text": "Nature and mountains near Hobart.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 208.92,
+          "end": 209.3
+        },
+        {
+          "word": "and",
+          "start": 209.3,
+          "end": 209.68
+        },
+        {
+          "word": "mountains",
+          "start": 209.68,
+          "end": 210.1
+        },
+        {
+          "word": "near",
+          "start": 210.1,
+          "end": 210.64
+        },
+        {
+          "word": "Hobart.",
+          "start": 210.64,
+          "end": 211.6
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 211.78,
+      "end": 213.28,
+      "text": "There is a big mountain.",
+      "words": [
+        {
+          "word": "There",
+          "start": 211.78,
+          "end": 211.8
+        },
+        {
+          "word": "is",
+          "start": 211.8,
+          "end": 212.0
+        },
+        {
+          "word": "a",
+          "start": 212.0,
+          "end": 212.16
+        },
+        {
+          "word": "big",
+          "start": 212.16,
+          "end": 212.4
+        },
+        {
+          "word": "mountain.",
+          "start": 212.4,
+          "end": 213.28
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 213.54,
+      "end": 215.82,
+      "text": "It is called Mount Wellington.",
+      "words": [
+        {
+          "word": "It",
+          "start": 213.54,
+          "end": 213.84
+        },
+        {
+          "word": "is",
+          "start": 213.84,
+          "end": 214.0
+        },
+        {
+          "word": "called",
+          "start": 214.0,
+          "end": 214.44
+        },
+        {
+          "word": "Mount",
+          "start": 214.44,
+          "end": 214.88
+        },
+        {
+          "word": "Wellington.",
+          "start": 214.88,
+          "end": 215.82
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 216.46,
+      "end": 219.08,
+      "text": "You can see the city from the top.",
+      "words": [
+        {
+          "word": "You",
+          "start": 216.46,
+          "end": 216.9
+        },
+        {
+          "word": "can",
+          "start": 216.9,
+          "end": 217.14
+        },
+        {
+          "word": "see",
+          "start": 217.14,
+          "end": 217.4
+        },
+        {
+          "word": "the",
+          "start": 217.4,
+          "end": 217.6
+        },
+        {
+          "word": "city",
+          "start": 217.6,
+          "end": 217.9
+        },
+        {
+          "word": "from",
+          "start": 217.9,
+          "end": 218.2
+        },
+        {
+          "word": "the",
+          "start": 218.2,
+          "end": 218.38
+        },
+        {
+          "word": "top.",
+          "start": 218.38,
+          "end": 219.08
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 219.24,
+      "end": 221.92,
+      "text": "You can see the sea and land.",
+      "words": [
+        {
+          "word": "You",
+          "start": 219.24,
+          "end": 219.66
+        },
+        {
+          "word": "can",
+          "start": 219.66,
+          "end": 219.92
+        },
+        {
+          "word": "see",
+          "start": 219.92,
+          "end": 220.2
+        },
+        {
+          "word": "the",
+          "start": 220.2,
+          "end": 220.4
+        },
+        {
+          "word": "sea",
+          "start": 220.4,
+          "end": 220.86
+        },
+        {
+          "word": "and",
+          "start": 220.86,
+          "end": 221.08
+        },
+        {
+          "word": "land.",
+          "start": 221.08,
+          "end": 221.92
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 222.18,
+      "end": 224.78,
+      "text": "People hike and walk there.",
+      "words": [
+        {
+          "word": "People",
+          "start": 222.18,
+          "end": 222.68
+        },
+        {
+          "word": "hike",
+          "start": 222.68,
+          "end": 223.16
+        },
+        {
+          "word": "and",
+          "start": 223.16,
+          "end": 223.58
+        },
+        {
+          "word": "walk",
+          "start": 223.58,
+          "end": 223.92
+        },
+        {
+          "word": "there.",
+          "start": 223.92,
+          "end": 224.78
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 225.02,
+      "end": 227.74,
+      "text": "Nature is strong and beautiful.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 225.02,
+          "end": 225.58
+        },
+        {
+          "word": "is",
+          "start": 225.58,
+          "end": 225.94
+        },
+        {
+          "word": "strong",
+          "start": 225.94,
+          "end": 226.54
+        },
+        {
+          "word": "and",
+          "start": 226.54,
+          "end": 226.82
+        },
+        {
+          "word": "beautiful.",
+          "start": 226.82,
+          "end": 227.74
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 228.2,
+      "end": 229.7,
+      "text": "The air is clean.",
+      "words": [
+        {
+          "word": "The",
+          "start": 228.2,
+          "end": 228.38
+        },
+        {
+          "word": "air",
+          "start": 228.38,
+          "end": 228.82
+        },
+        {
+          "word": "is",
+          "start": 228.82,
+          "end": 229.02
+        },
+        {
+          "word": "clean.",
+          "start": 229.02,
+          "end": 229.7
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 229.84,
+      "end": 231.44,
+      "text": "The view is wide.",
+      "words": [
+        {
+          "word": "The",
+          "start": 229.84,
+          "end": 229.92
+        },
+        {
+          "word": "view",
+          "start": 229.92,
+          "end": 230.32
+        },
+        {
+          "word": "is",
+          "start": 230.32,
+          "end": 230.54
+        },
+        {
+          "word": "wide.",
+          "start": 230.54,
+          "end": 231.44
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 233.12,
+      "end": 234.36,
+      "text": "Part nine.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 233.12,
+          "end": 233.3
+        },
+        {
+          "word": "nine.",
+          "start": 233.3,
+          "end": 234.36
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 234.58,
+      "end": 236.17,
+      "text": "Daily life in Hobart.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 234.58,
+          "end": 234.8
+        },
+        {
+          "word": "life",
+          "start": 234.8,
+          "end": 235.18
+        },
+        {
+          "word": "in",
+          "start": 235.18,
+          "end": 235.42
+        },
+        {
+          "word": "Hobart.",
+          "start": 235.42,
+          "end": 236.17
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 236.32,
+      "end": 239.76,
+      "text": "Daily life in Hobart is slow.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 236.32,
+          "end": 237.08
+        },
+        {
+          "word": "life",
+          "start": 237.08,
+          "end": 237.52
+        },
+        {
+          "word": "in",
+          "start": 237.52,
+          "end": 237.8
+        },
+        {
+          "word": "Hobart",
+          "start": 237.8,
+          "end": 238.38
+        },
+        {
+          "word": "is",
+          "start": 238.38,
+          "end": 238.78
+        },
+        {
+          "word": "slow.",
+          "start": 238.78,
+          "end": 239.76
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 240.26,
+      "end": 242.12,
+      "text": "People wake up early.",
+      "words": [
+        {
+          "word": "People",
+          "start": 240.26,
+          "end": 240.68
+        },
+        {
+          "word": "wake",
+          "start": 240.68,
+          "end": 241.02
+        },
+        {
+          "word": "up",
+          "start": 241.02,
+          "end": 241.32
+        },
+        {
+          "word": "early.",
+          "start": 241.32,
+          "end": 242.12
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 242.36,
+      "end": 243.92,
+      "text": "They work and relax.",
+      "words": [
+        {
+          "word": "They",
+          "start": 242.36,
+          "end": 242.62
+        },
+        {
+          "word": "work",
+          "start": 242.62,
+          "end": 242.94
+        },
+        {
+          "word": "and",
+          "start": 242.94,
+          "end": 243.2
+        },
+        {
+          "word": "relax.",
+          "start": 243.2,
+          "end": 243.92
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 244.08,
+      "end": 246.2,
+      "text": "They enjoy simple things.",
+      "words": [
+        {
+          "word": "They",
+          "start": 244.08,
+          "end": 244.22
+        },
+        {
+          "word": "enjoy",
+          "start": 244.22,
+          "end": 244.66
+        },
+        {
+          "word": "simple",
+          "start": 244.66,
+          "end": 245.2
+        },
+        {
+          "word": "things.",
+          "start": 245.2,
+          "end": 246.2
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 246.44,
+      "end": 248.09,
+      "text": "People like walking.",
+      "words": [
+        {
+          "word": "People",
+          "start": 246.44,
+          "end": 246.84
+        },
+        {
+          "word": "like",
+          "start": 246.84,
+          "end": 247.16
+        },
+        {
+          "word": "walking.",
+          "start": 247.16,
+          "end": 248.09
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 248.34,
+      "end": 249.96,
+      "text": "People like nature.",
+      "words": [
+        {
+          "word": "People",
+          "start": 248.34,
+          "end": 248.82
+        },
+        {
+          "word": "like",
+          "start": 248.82,
+          "end": 249.12
+        },
+        {
+          "word": "nature.",
+          "start": 249.12,
+          "end": 249.96
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 250.44,
+      "end": 252.04,
+      "text": "Life is not rushed.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 250.44,
+          "end": 250.66
+        },
+        {
+          "word": "is",
+          "start": 250.66,
+          "end": 250.98
+        },
+        {
+          "word": "not",
+          "start": 250.98,
+          "end": 251.26
+        },
+        {
+          "word": "rushed.",
+          "start": 251.26,
+          "end": 252.04
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 252.18,
+      "end": 253.88,
+      "text": "Life feels balanced.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 252.18,
+          "end": 252.34
+        },
+        {
+          "word": "feels",
+          "start": 252.34,
+          "end": 252.72
+        },
+        {
+          "word": "balanced.",
+          "start": 252.72,
+          "end": 253.88
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 255.0,
+      "end": 256.54,
+      "text": "Part 10.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 255.0,
+          "end": 255.54
+        },
+        {
+          "word": "10.",
+          "start": 255.54,
+          "end": 256.54
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 256.86,
+      "end": 258.6,
+      "text": "Food and local life.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 256.86,
+          "end": 257.16
+        },
+        {
+          "word": "and",
+          "start": 257.16,
+          "end": 257.4
+        },
+        {
+          "word": "local",
+          "start": 257.4,
+          "end": 257.68
+        },
+        {
+          "word": "life.",
+          "start": 257.68,
+          "end": 258.6
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 259.16,
+      "end": 261.76,
+      "text": "Hobart has fresh food.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 259.16,
+          "end": 260.08
+        },
+        {
+          "word": "has",
+          "start": 260.08,
+          "end": 260.34
+        },
+        {
+          "word": "fresh",
+          "start": 260.34,
+          "end": 260.76
+        },
+        {
+          "word": "food.",
+          "start": 260.76,
+          "end": 261.76
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 262.2,
+      "end": 264.68,
+      "text": "Seafood is very popular.",
+      "words": [
+        {
+          "word": "Seafood",
+          "start": 262.2,
+          "end": 262.88
+        },
+        {
+          "word": "is",
+          "start": 262.88,
+          "end": 263.38
+        },
+        {
+          "word": "very",
+          "start": 263.38,
+          "end": 263.74
+        },
+        {
+          "word": "popular.",
+          "start": 263.74,
+          "end": 264.68
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 265.0,
+      "end": 266.62,
+      "text": "People eat fish.",
+      "words": [
+        {
+          "word": "People",
+          "start": 265.0,
+          "end": 265.3
+        },
+        {
+          "word": "eat",
+          "start": 265.3,
+          "end": 265.72
+        },
+        {
+          "word": "fish.",
+          "start": 265.72,
+          "end": 266.62
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 267.32,
+      "end": 269.56,
+      "text": "People eat local vegetables.",
+      "words": [
+        {
+          "word": "People",
+          "start": 267.32,
+          "end": 267.78
+        },
+        {
+          "word": "eat",
+          "start": 267.78,
+          "end": 268.06
+        },
+        {
+          "word": "local",
+          "start": 268.06,
+          "end": 268.48
+        },
+        {
+          "word": "vegetables.",
+          "start": 268.48,
+          "end": 269.56
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 270.2,
+      "end": 272.06,
+      "text": "Food is simple and clean.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 270.2,
+          "end": 270.4
+        },
+        {
+          "word": "is",
+          "start": 270.4,
+          "end": 270.64
+        },
+        {
+          "word": "simple",
+          "start": 270.64,
+          "end": 271.0
+        },
+        {
+          "word": "and",
+          "start": 271.0,
+          "end": 271.28
+        },
+        {
+          "word": "clean.",
+          "start": 271.28,
+          "end": 272.06
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 272.32,
+      "end": 274.45,
+      "text": "Meals are calm and friendly.",
+      "words": [
+        {
+          "word": "Meals",
+          "start": 272.32,
+          "end": 272.68
+        },
+        {
+          "word": "are",
+          "start": 272.68,
+          "end": 272.96
+        },
+        {
+          "word": "calm",
+          "start": 272.96,
+          "end": 273.42
+        },
+        {
+          "word": "and",
+          "start": 273.42,
+          "end": 273.62
+        },
+        {
+          "word": "friendly.",
+          "start": 273.62,
+          "end": 274.45
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 274.66,
+      "end": 277.7,
+      "text": "Eating feels natural and healthy.",
+      "words": [
+        {
+          "word": "Eating",
+          "start": 274.66,
+          "end": 275.34
+        },
+        {
+          "word": "feels",
+          "start": 275.34,
+          "end": 275.84
+        },
+        {
+          "word": "natural",
+          "start": 275.84,
+          "end": 276.54
+        },
+        {
+          "word": "and",
+          "start": 276.54,
+          "end": 276.8
+        },
+        {
+          "word": "healthy.",
+          "start": 276.8,
+          "end": 277.7
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 278.0,
+      "end": 279.82,
+      "text": "Part 11.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 278.0,
+          "end": 278.88
+        },
+        {
+          "word": "11.",
+          "start": 278.88,
+          "end": 279.82
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 280.22,
+      "end": 281.88,
+      "text": "Culture and people.",
+      "words": [
+        {
+          "word": "Culture",
+          "start": 280.22,
+          "end": 280.68
+        },
+        {
+          "word": "and",
+          "start": 280.68,
+          "end": 281.08
+        },
+        {
+          "word": "people.",
+          "start": 281.08,
+          "end": 281.88
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 282.52,
+      "end": 284.8,
+      "text": "People in Hobart are friendly.",
+      "words": [
+        {
+          "word": "People",
+          "start": 282.52,
+          "end": 282.82
+        },
+        {
+          "word": "in",
+          "start": 282.82,
+          "end": 283.14
+        },
+        {
+          "word": "Hobart",
+          "start": 283.14,
+          "end": 283.64
+        },
+        {
+          "word": "are",
+          "start": 283.64,
+          "end": 283.88
+        },
+        {
+          "word": "friendly.",
+          "start": 283.88,
+          "end": 284.8
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 285.28,
+      "end": 287.28,
+      "text": "They like simple life.",
+      "words": [
+        {
+          "word": "They",
+          "start": 285.28,
+          "end": 285.52
+        },
+        {
+          "word": "like",
+          "start": 285.52,
+          "end": 285.88
+        },
+        {
+          "word": "simple",
+          "start": 285.88,
+          "end": 286.4
+        },
+        {
+          "word": "life.",
+          "start": 286.4,
+          "end": 287.28
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 287.92,
+      "end": 290.44,
+      "text": "Art and culture are important.",
+      "words": [
+        {
+          "word": "Art",
+          "start": 287.92,
+          "end": 288.3
+        },
+        {
+          "word": "and",
+          "start": 288.3,
+          "end": 288.6
+        },
+        {
+          "word": "culture",
+          "start": 288.6,
+          "end": 289.06
+        },
+        {
+          "word": "are",
+          "start": 289.06,
+          "end": 289.4
+        },
+        {
+          "word": "important.",
+          "start": 289.4,
+          "end": 290.44
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 290.88,
+      "end": 293.88,
+      "text": "There are small museums and galleries.",
+      "words": [
+        {
+          "word": "There",
+          "start": 290.88,
+          "end": 291.14
+        },
+        {
+          "word": "are",
+          "start": 291.14,
+          "end": 291.3
+        },
+        {
+          "word": "small",
+          "start": 291.3,
+          "end": 291.84
+        },
+        {
+          "word": "museums",
+          "start": 291.84,
+          "end": 292.52
+        },
+        {
+          "word": "and",
+          "start": 292.52,
+          "end": 292.92
+        },
+        {
+          "word": "galleries.",
+          "start": 292.92,
+          "end": 293.88
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 294.38,
+      "end": 296.94,
+      "text": "People enjoy quiet moments.",
+      "words": [
+        {
+          "word": "People",
+          "start": 294.38,
+          "end": 294.86
+        },
+        {
+          "word": "enjoy",
+          "start": 294.86,
+          "end": 295.28
+        },
+        {
+          "word": "quiet",
+          "start": 295.28,
+          "end": 295.98
+        },
+        {
+          "word": "moments.",
+          "start": 295.98,
+          "end": 296.94
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 297.34,
+      "end": 298.94,
+      "text": "They respect nature.",
+      "words": [
+        {
+          "word": "They",
+          "start": 297.34,
+          "end": 297.46
+        },
+        {
+          "word": "respect",
+          "start": 297.46,
+          "end": 297.92
+        },
+        {
+          "word": "nature.",
+          "start": 297.92,
+          "end": 298.94
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 299.16,
+      "end": 301.48,
+      "text": "The city feels human and real.",
+      "words": [
+        {
+          "word": "The",
+          "start": 299.16,
+          "end": 299.28
+        },
+        {
+          "word": "city",
+          "start": 299.28,
+          "end": 299.68
+        },
+        {
+          "word": "feels",
+          "start": 299.68,
+          "end": 300.26
+        },
+        {
+          "word": "human",
+          "start": 300.26,
+          "end": 300.82
+        },
+        {
+          "word": "and",
+          "start": 300.82,
+          "end": 301.14
+        },
+        {
+          "word": "real.",
+          "start": 301.14,
+          "end": 301.48
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 301.48,
+      "end": 304.14,
+      "text": "Part 12.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 301.48,
+          "end": 303.2
+        },
+        {
+          "word": "12.",
+          "start": 303.2,
+          "end": 304.14
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 304.34,
+      "end": 306.7,
+      "text": "Feeling nature and goodbye.",
+      "words": [
+        {
+          "word": "Feeling",
+          "start": 304.34,
+          "end": 305.04
         },
         {
           "word": "nature",
-          "startSec": 321.0,
-          "endSec": 321.26,
-          "score": 1.0
+          "start": 305.04,
+          "end": 305.62
         },
         {
-          "word": "here.",
-          "startSec": 321.26,
-          "endSec": 321.9,
-          "score": 0.99
+          "word": "and",
+          "start": 305.62,
+          "end": 305.88
         },
+        {
+          "word": "goodbye.",
+          "start": 305.88,
+          "end": 306.7
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 307.02,
+      "end": 312.9,
+      "text": "Hobart is a city of sea, mountains, history, and calm life.",
+      "words": [
+        {
+          "word": "Hobart",
+          "start": 307.02,
+          "end": 307.98
+        },
+        {
+          "word": "is",
+          "start": 307.98,
+          "end": 308.26
+        },
+        {
+          "word": "a",
+          "start": 308.26,
+          "end": 308.42
+        },
+        {
+          "word": "city",
+          "start": 308.42,
+          "end": 308.76
+        },
+        {
+          "word": "of",
+          "start": 308.76,
+          "end": 309.04
+        },
+        {
+          "word": "sea,",
+          "start": 309.04,
+          "end": 309.54
+        },
+        {
+          "word": "mountains,",
+          "start": 310.1,
+          "end": 310.36
+        },
+        {
+          "word": "history,",
+          "start": 310.72,
+          "end": 311.2
+        },
+        {
+          "word": "and",
+          "start": 311.48,
+          "end": 311.58
+        },
+        {
+          "word": "calm",
+          "start": 311.58,
+          "end": 312.02
+        },
+        {
+          "word": "life.",
+          "start": 312.02,
+          "end": 312.9
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 313.5,
+      "end": 314.88,
+      "text": "It is quiet.",
+      "words": [
+        {
+          "word": "It",
+          "start": 313.5,
+          "end": 313.72
+        },
+        {
+          "word": "is",
+          "start": 313.72,
+          "end": 313.9
+        },
+        {
+          "word": "quiet.",
+          "start": 313.9,
+          "end": 314.88
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 315.56,
+      "end": 316.84,
+      "text": "It is fresh.",
+      "words": [
+        {
+          "word": "It",
+          "start": 315.56,
+          "end": 315.74
+        },
+        {
+          "word": "is",
+          "start": 315.74,
+          "end": 315.96
+        },
+        {
+          "word": "fresh.",
+          "start": 315.96,
+          "end": 316.84
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 317.38,
+      "end": 318.72,
+      "text": "It is peaceful.",
+      "words": [
+        {
+          "word": "It",
+          "start": 317.38,
+          "end": 317.48
+        },
+        {
+          "word": "is",
+          "start": 317.48,
+          "end": 317.7
+        },
+        {
+          "word": "peaceful.",
+          "start": 317.7,
+          "end": 318.72
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 319.28,
+      "end": 322.4,
+      "text": "People feel close to nature here.",
+      "words": [
         {
           "word": "People",
-          "startSec": 322.74,
-          "endSec": 323.06,
-          "score": 1.0
+          "start": 319.28,
+          "end": 319.82
         },
         {
           "word": "feel",
-          "startSec": 323.06,
-          "endSec": 323.6,
-          "score": 1.0
+          "start": 319.82,
+          "end": 320.22
         },
         {
-          "word": "free",
-          "startSec": 323.6,
-          "endSec": 323.88,
-          "score": 1.0
+          "word": "close",
+          "start": 320.22,
+          "end": 320.7
+        },
+        {
+          "word": "to",
+          "start": 320.7,
+          "end": 321.04
+        },
+        {
+          "word": "nature",
+          "start": 321.04,
+          "end": 321.46
         },
         {
           "word": "here.",
-          "startSec": 323.88,
-          "endSec": 324.38,
-          "score": 1.0
+          "start": 321.46,
+          "end": 322.4
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 322.72,
+      "end": 324.86,
+      "text": "People feel free here.",
+      "words": [
+        {
+          "word": "People",
+          "start": 322.72,
+          "end": 323.26
+        },
+        {
+          "word": "feel",
+          "start": 323.26,
+          "end": 323.66
+        },
+        {
+          "word": "free",
+          "start": 323.66,
+          "end": 324.06
+        },
+        {
+          "word": "here.",
+          "start": 324.06,
+          "end": 324.86
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 325.12,
+      "end": 329.08,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 325.12,
+          "end": 325.74
+        },
+        {
+          "word": "you",
+          "start": 325.74,
+          "end": 326.02
+        },
+        {
+          "word": "for",
+          "start": 326.02,
+          "end": 326.24
+        },
+        {
+          "word": "listening",
+          "start": 326.24,
+          "end": 326.7
+        },
+        {
+          "word": "to",
+          "start": 326.7,
+          "end": 327.02
+        },
+        {
+          "word": "the",
+          "start": 327.02,
+          "end": 327.2
+        },
+        {
+          "word": "Slow",
+          "start": 327.2,
+          "end": 327.6
+        },
+        {
+          "word": "English",
+          "start": 327.6,
+          "end": 328.02
+        },
+        {
+          "word": "Podcast.",
+          "start": 328.02,
+          "end": 329.08
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 329.64,
+      "end": 331.0,
+      "text": "My name is Emily.",
+      "words": [
+        {
+          "word": "My",
+          "start": 329.64,
+          "end": 329.8
+        },
+        {
+          "word": "name",
+          "start": 329.8,
+          "end": 330.08
+        },
+        {
+          "word": "is",
+          "start": 330.08,
+          "end": 330.3
+        },
+        {
+          "word": "Emily.",
+          "start": 330.3,
+          "end": 331.0
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 331.46,
+      "end": 333.75,
+      "text": "See you in the next episode.",
+      "words": [
+        {
+          "word": "See",
+          "start": 331.46,
+          "end": 331.84
+        },
+        {
+          "word": "you",
+          "start": 331.84,
+          "end": 332.06
+        },
+        {
+          "word": "in",
+          "start": 332.06,
+          "end": 332.28
+        },
+        {
+          "word": "the",
+          "start": 332.28,
+          "end": 332.4
+        },
+        {
+          "word": "next",
+          "start": 332.4,
+          "end": 332.68
+        },
+        {
+          "word": "episode.",
+          "start": 332.68,
+          "end": 333.75
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 124
 }

@@ -15,3583 +15,3190 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.68,
-      "end": 7.94,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emilia, your host.",
+      "start": 3.56,
+      "end": 6.18,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.88,
-          "endSec": 1.32,
-          "score": 0.86
-        },
-        {
-          "word": "everyone.",
-          "startSec": 1.56,
-          "endSec": 2.08,
-          "score": 0.98
-        },
-        {
           "word": "Welcome",
-          "startSec": 3.49,
-          "endSec": 4.09,
-          "score": 0.99
+          "start": 3.56,
+          "end": 4.08
         },
         {
           "word": "to",
-          "startSec": 4.09,
-          "endSec": 4.39,
-          "score": 1.0
+          "start": 4.08,
+          "end": 4.44
         },
         {
           "word": "the",
-          "startSec": 4.39,
-          "endSec": 4.55,
-          "score": 0.94
+          "start": 4.44,
+          "end": 4.66
         },
         {
           "word": "Slow",
-          "startSec": 4.55,
-          "endSec": 4.79,
-          "score": 0.87
+          "start": 4.66,
+          "end": 4.9
         },
         {
           "word": "English",
-          "startSec": 4.79,
-          "endSec": 5.17,
-          "score": 0.91
+          "start": 4.9,
+          "end": 5.26
         },
         {
           "word": "Podcast.",
-          "startSec": 5.17,
-          "endSec": 5.71,
-          "score": 0.88
-        },
-        {
-          "word": "I",
-          "startSec": 6.49,
-          "endSec": 6.59,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 6.59,
-          "endSec": 6.75,
-          "score": 0.52
-        },
-        {
-          "word": "Emilia,",
-          "startSec": 6.75,
-          "endSec": 7.11,
-          "score": 0.59
-        },
-        {
-          "word": "your",
-          "startSec": 7.37,
-          "endSec": 7.41,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 7.41,
-          "endSec": 7.79,
-          "score": 1.0
+          "start": 5.26,
+          "end": 6.18
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.59,
-      "end": 16.04,
-      "text": "Today, we are traveling to a historic and peaceful city in Asia. It is called Luoyang.",
+      "start": 6.52,
+      "end": 8.22,
+      "text": "I am Emilia, your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 8.79,
-          "endSec": 9.09,
-          "score": 0.99
+          "word": "I",
+          "start": 6.52,
+          "end": 6.64
         },
         {
-          "word": "we",
-          "startSec": 9.15,
-          "endSec": 9.57,
-          "score": 1.0
+          "word": "am",
+          "start": 6.64,
+          "end": 6.8
         },
         {
-          "word": "are",
-          "startSec": 9.57,
-          "endSec": 9.71,
-          "score": 0.98
+          "word": "Emilia,",
+          "start": 6.8,
+          "end": 7.2
         },
         {
-          "word": "traveling",
-          "startSec": 9.71,
-          "endSec": 10.19,
-          "score": 0.9
+          "word": "your",
+          "start": 7.38,
+          "end": 7.48
         },
         {
-          "word": "to",
-          "startSec": 10.19,
-          "endSec": 10.51,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 10.51,
-          "endSec": 10.67,
-          "score": 1.0
-        },
-        {
-          "word": "historic",
-          "startSec": 10.67,
-          "endSec": 11.25,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 11.25,
-          "endSec": 11.53,
-          "score": 0.98
-        },
-        {
-          "word": "peaceful",
-          "startSec": 11.53,
-          "endSec": 11.83,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.83,
-          "endSec": 12.53,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 12.53,
-          "endSec": 12.79,
-          "score": 1.0
-        },
-        {
-          "word": "Asia.",
-          "startSec": 12.79,
-          "endSec": 13.21,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 14.03,
-          "endSec": 14.43,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 14.43,
-          "endSec": 14.59,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 14.59,
-          "endSec": 14.95,
-          "score": 1.0
-        },
-        {
-          "word": "Luoyang.",
-          "startSec": 14.95,
-          "endSec": 15.89,
-          "score": 0.88
+          "word": "host.",
+          "start": 7.48,
+          "end": 8.22
         }
       ]
     },
     {
       "id": 3,
-      "start": 16.65,
-      "end": 26.82,
-      "text": "Luoyang is in China, a country in East Asia. This city is full of temples, rivers, and friendly people.",
+      "start": 8.9,
+      "end": 13.76,
+      "text": "Today, we are traveling to a historic and peaceful city in Asia.",
       "words": [
         {
-          "word": "Luoyang",
-          "startSec": 16.85,
-          "endSec": 17.61,
-          "score": 0.99
+          "word": "Today,",
+          "start": 8.9,
+          "end": 9.2
         },
         {
-          "word": "is",
-          "startSec": 17.61,
-          "endSec": 17.99,
-          "score": 1.0
+          "word": "we",
+          "start": 9.46,
+          "end": 9.6
         },
         {
-          "word": "in",
-          "startSec": 17.99,
-          "endSec": 18.19,
-          "score": 1.0
+          "word": "are",
+          "start": 9.6,
+          "end": 9.76
         },
         {
-          "word": "China,",
-          "startSec": 18.19,
-          "endSec": 18.51,
-          "score": 1.0
+          "word": "traveling",
+          "start": 9.76,
+          "end": 10.26
+        },
+        {
+          "word": "to",
+          "start": 10.26,
+          "end": 10.56
         },
         {
           "word": "a",
-          "startSec": 19.07,
-          "endSec": 19.23,
-          "score": 1.0
+          "start": 10.56,
+          "end": 10.7
         },
         {
-          "word": "country",
-          "startSec": 19.23,
-          "endSec": 19.61,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 19.61,
-          "endSec": 19.95,
-          "score": 1.0
-        },
-        {
-          "word": "East",
-          "startSec": 19.95,
-          "endSec": 20.31,
-          "score": 0.91
-        },
-        {
-          "word": "Asia.",
-          "startSec": 20.31,
-          "endSec": 20.89,
-          "score": 1.0
-        },
-        {
-          "word": "This",
-          "startSec": 21.57,
-          "endSec": 21.99,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 21.99,
-          "endSec": 22.51,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 22.51,
-          "endSec": 22.85,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 22.85,
-          "endSec": 23.19,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 23.19,
-          "endSec": 23.39,
-          "score": 1.0
-        },
-        {
-          "word": "temples,",
-          "startSec": 23.39,
-          "endSec": 24.03,
-          "score": 1.0
-        },
-        {
-          "word": "rivers,",
-          "startSec": 24.19,
-          "endSec": 24.65,
-          "score": 1.0
+          "word": "historic",
+          "start": 10.7,
+          "end": 11.32
         },
         {
           "word": "and",
-          "startSec": 25.37,
-          "endSec": 25.51,
-          "score": 1.0
+          "start": 11.32,
+          "end": 11.62
         },
         {
-          "word": "friendly",
-          "startSec": 25.51,
-          "endSec": 26.09,
-          "score": 0.99
+          "word": "peaceful",
+          "start": 11.62,
+          "end": 12.08
         },
         {
-          "word": "people.",
-          "startSec": 26.09,
-          "endSec": 26.67,
-          "score": 0.99
+          "word": "city",
+          "start": 12.08,
+          "end": 12.56
+        },
+        {
+          "word": "in",
+          "start": 12.56,
+          "end": 12.84
+        },
+        {
+          "word": "Asia.",
+          "start": 12.84,
+          "end": 13.76
         }
       ]
     },
     {
       "id": 4,
-      "start": 27.79,
-      "end": 33.52,
-      "text": "Let's explore Luoyang together. Part 2 wears Luoyang.",
+      "start": 14.36,
+      "end": 16.3,
+      "text": "It is called Luoyang.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 27.99,
-          "endSec": 28.45,
-          "score": 0.76
+          "word": "It",
+          "start": 14.36,
+          "end": 14.5
         },
         {
-          "word": "explore",
-          "startSec": 28.45,
-          "endSec": 28.89,
-          "score": 0.98
+          "word": "is",
+          "start": 14.5,
+          "end": 14.66
         },
         {
-          "word": "Luoyang",
-          "startSec": 28.89,
-          "endSec": 29.67,
-          "score": 0.77
-        },
-        {
-          "word": "together.",
-          "startSec": 29.67,
-          "endSec": 30.17,
-          "score": 0.97
-        },
-        {
-          "word": "Part",
-          "startSec": 31.55,
-          "endSec": 31.71,
-          "score": 0.71
-        },
-        {
-          "word": "2",
-          "startSec": 31.71,
-          "endSec": 32.05,
-          "score": 0.55
-        },
-        {
-          "word": "wears",
-          "startSec": 32.05,
-          "endSec": 32.49,
-          "score": 0.86
+          "word": "called",
+          "start": 14.66,
+          "end": 15.06
         },
         {
           "word": "Luoyang.",
-          "startSec": 32.49,
-          "endSec": 33.37,
-          "score": 0.96
+          "start": 15.06,
+          "end": 16.3
         }
       ]
     },
     {
       "id": 5,
-      "start": 33.67,
-      "end": 37.78,
-      "text": "Luoyang is in central China, in Henan province.",
+      "start": 16.96,
+      "end": 21.32,
+      "text": "Luoyang is in China, a country in East Asia.",
       "words": [
         {
           "word": "Luoyang",
-          "startSec": 33.87,
-          "endSec": 34.61,
-          "score": 0.98
+          "start": 16.96,
+          "end": 17.76
         },
         {
           "word": "is",
-          "startSec": 34.61,
-          "endSec": 34.85,
-          "score": 1.0
+          "start": 17.76,
+          "end": 18.06
         },
         {
           "word": "in",
-          "startSec": 34.85,
-          "endSec": 35.09,
-          "score": 1.0
-        },
-        {
-          "word": "central",
-          "startSec": 35.09,
-          "endSec": 35.41,
-          "score": 0.84
+          "start": 18.06,
+          "end": 18.24
         },
         {
           "word": "China,",
-          "startSec": 35.41,
-          "endSec": 36.11,
-          "score": 0.99
+          "start": 18.24,
+          "end": 18.7
+        },
+        {
+          "word": "a",
+          "start": 19.18,
+          "end": 19.3
+        },
+        {
+          "word": "country",
+          "start": 19.3,
+          "end": 19.74
         },
         {
           "word": "in",
-          "startSec": 36.79,
-          "endSec": 36.87,
-          "score": 0.96
+          "start": 19.74,
+          "end": 20.02
         },
         {
-          "word": "Henan",
-          "startSec": 36.87,
-          "endSec": 37.29,
-          "score": 0.8
+          "word": "East",
+          "start": 20.02,
+          "end": 20.36
         },
         {
-          "word": "province.",
-          "startSec": 37.29,
-          "endSec": 37.63,
-          "score": 0.63
+          "word": "Asia.",
+          "start": 20.36,
+          "end": 21.32
         }
       ]
     },
     {
       "id": 6,
-      "start": 39.08,
-      "end": 44.47,
-      "text": "The city is near the Yellow River and surrounded by hills and plains.",
+      "start": 21.72,
+      "end": 27.06,
+      "text": "This city is full of temples, rivers, and friendly people.",
       "words": [
         {
-          "word": "The",
-          "startSec": 39.28,
-          "endSec": 39.58,
-          "score": 0.97
+          "word": "This",
+          "start": 21.72,
+          "end": 22.12
         },
         {
           "word": "city",
-          "startSec": 39.58,
-          "endSec": 39.88,
-          "score": 1.0
+          "start": 22.12,
+          "end": 22.54
         },
         {
           "word": "is",
-          "startSec": 39.88,
-          "endSec": 40.32,
-          "score": 1.0
+          "start": 22.54,
+          "end": 22.94
         },
         {
-          "word": "near",
-          "startSec": 40.32,
-          "endSec": 40.62,
-          "score": 1.0
+          "word": "full",
+          "start": 22.94,
+          "end": 23.26
         },
         {
-          "word": "the",
-          "startSec": 40.62,
-          "endSec": 40.84,
-          "score": 1.0
+          "word": "of",
+          "start": 23.26,
+          "end": 23.46
         },
         {
-          "word": "Yellow",
-          "startSec": 40.84,
-          "endSec": 41.16,
-          "score": 0.89
+          "word": "temples,",
+          "start": 23.46,
+          "end": 24.02
         },
         {
-          "word": "River",
-          "startSec": 41.16,
-          "endSec": 41.7,
-          "score": 0.98
+          "word": "rivers,",
+          "start": 24.44,
+          "end": 24.84
         },
         {
           "word": "and",
-          "startSec": 41.7,
-          "endSec": 42.08,
-          "score": 0.85
+          "start": 25.34,
+          "end": 25.58
         },
         {
-          "word": "surrounded",
-          "startSec": 42.08,
-          "endSec": 42.44,
-          "score": 0.96
+          "word": "friendly",
+          "start": 25.58,
+          "end": 26.12
         },
         {
-          "word": "by",
-          "startSec": 42.44,
-          "endSec": 43.1,
-          "score": 1.0
-        },
-        {
-          "word": "hills",
-          "startSec": 43.1,
-          "endSec": 43.5,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 43.5,
-          "endSec": 43.94,
-          "score": 1.0
-        },
-        {
-          "word": "plains.",
-          "startSec": 43.94,
-          "endSec": 44.32,
-          "score": 0.99
+          "word": "people.",
+          "start": 26.12,
+          "end": 27.06
         }
       ]
     },
     {
       "id": 7,
-      "start": 45.42,
-      "end": 51.89,
-      "text": "It is calm, peaceful, and perfect for enjoying history and culture.",
+      "start": 27.64,
+      "end": 30.6,
+      "text": "Let's explore Luoyang together.",
       "words": [
         {
-          "word": "It",
-          "startSec": 45.62,
-          "endSec": 45.78,
-          "score": 0.99
+          "word": "Let's",
+          "start": 27.64,
+          "end": 28.5
         },
         {
-          "word": "is",
-          "startSec": 45.78,
-          "endSec": 46.0,
-          "score": 0.99
+          "word": "explore",
+          "start": 28.5,
+          "end": 29.0
         },
         {
-          "word": "calm,",
-          "startSec": 46.0,
-          "endSec": 46.4,
-          "score": 1.0
+          "word": "Luoyang",
+          "start": 29.0,
+          "end": 29.68
         },
         {
-          "word": "peaceful,",
-          "startSec": 47.28,
-          "endSec": 47.62,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 48.5,
-          "endSec": 48.56,
-          "score": 0.99
-        },
-        {
-          "word": "perfect",
-          "startSec": 48.56,
-          "endSec": 49.28,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 49.28,
-          "endSec": 49.84,
-          "score": 1.0
-        },
-        {
-          "word": "enjoying",
-          "startSec": 49.84,
-          "endSec": 50.24,
-          "score": 1.0
-        },
-        {
-          "word": "history",
-          "startSec": 50.24,
-          "endSec": 50.8,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 50.8,
-          "endSec": 51.46,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 51.46,
-          "endSec": 51.74,
-          "score": 1.0
+          "word": "together.",
+          "start": 29.68,
+          "end": 30.6
         }
       ]
     },
     {
       "id": 8,
-      "start": 53.25,
-      "end": 55.84,
-      "text": "Part 3, History of Luoyang.",
+      "start": 31.34,
+      "end": 33.72,
+      "text": "Part two wears Luoyang.",
       "words": [
         {
           "word": "Part",
-          "startSec": 53.45,
-          "endSec": 53.47,
-          "score": 0.99
+          "start": 31.34,
+          "end": 31.74
         },
         {
-          "word": "3,",
-          "startSec": 53.47,
-          "endSec": 54.01,
-          "score": 0.99
+          "word": "two",
+          "start": 31.74,
+          "end": 32.12
         },
         {
-          "word": "History",
-          "startSec": 54.35,
-          "endSec": 54.63,
-          "score": 0.65
-        },
-        {
-          "word": "of",
-          "startSec": 54.63,
-          "endSec": 55.01,
-          "score": 0.99
+          "word": "wears",
+          "start": 32.12,
+          "end": 32.6
         },
         {
           "word": "Luoyang.",
-          "startSec": 55.01,
-          "endSec": 55.69,
-          "score": 0.98
+          "start": 32.6,
+          "end": 33.72
         }
       ]
     },
     {
       "id": 9,
-      "start": 56.62,
-      "end": 65.73,
-      "text": "Luoyang is one of the oldest cities in China. It was the capital for many dynasties over thousands of years.",
+      "start": 33.88,
+      "end": 38.28,
+      "text": "Luoyang is in central China, in Henan Province.",
       "words": [
         {
           "word": "Luoyang",
-          "startSec": 56.82,
-          "endSec": 57.34,
-          "score": 0.68
+          "start": 33.88,
+          "end": 34.6
         },
         {
           "word": "is",
-          "startSec": 57.34,
-          "endSec": 57.6,
-          "score": 0.98
-        },
-        {
-          "word": "one",
-          "startSec": 57.6,
-          "endSec": 57.86,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 57.86,
-          "endSec": 58.0,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 58.0,
-          "endSec": 58.16,
-          "score": 1.0
-        },
-        {
-          "word": "oldest",
-          "startSec": 58.16,
-          "endSec": 58.54,
-          "score": 0.99
-        },
-        {
-          "word": "cities",
-          "startSec": 58.54,
-          "endSec": 59.06,
-          "score": 1.0
+          "start": 34.6,
+          "end": 34.94
         },
         {
           "word": "in",
-          "startSec": 59.06,
-          "endSec": 59.36,
-          "score": 0.99
+          "start": 34.94,
+          "end": 35.16
         },
         {
-          "word": "China.",
-          "startSec": 59.36,
-          "endSec": 59.68,
-          "score": 0.99
+          "word": "central",
+          "start": 35.16,
+          "end": 35.7
         },
         {
-          "word": "It",
-          "startSec": 61.0,
-          "endSec": 61.14,
-          "score": 0.98
+          "word": "China,",
+          "start": 35.7,
+          "end": 36.34
         },
         {
-          "word": "was",
-          "startSec": 61.14,
-          "endSec": 61.3,
-          "score": 1.0
+          "word": "in",
+          "start": 36.76,
+          "end": 36.92
         },
         {
-          "word": "the",
-          "startSec": 61.3,
-          "endSec": 61.52,
-          "score": 0.98
+          "word": "Henan",
+          "start": 36.92,
+          "end": 37.34
         },
         {
-          "word": "capital",
-          "startSec": 61.52,
-          "endSec": 62.0,
-          "score": 0.97
-        },
-        {
-          "word": "for",
-          "startSec": 62.0,
-          "endSec": 62.44,
-          "score": 0.97
-        },
-        {
-          "word": "many",
-          "startSec": 62.44,
-          "endSec": 62.76,
-          "score": 1.0
-        },
-        {
-          "word": "dynasties",
-          "startSec": 62.76,
-          "endSec": 63.76,
-          "score": 0.99
-        },
-        {
-          "word": "over",
-          "startSec": 63.76,
-          "endSec": 64.2,
-          "score": 0.99
-        },
-        {
-          "word": "thousands",
-          "startSec": 64.2,
-          "endSec": 64.64,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 64.64,
-          "endSec": 65.18,
-          "score": 1.0
-        },
-        {
-          "word": "years.",
-          "startSec": 65.18,
-          "endSec": 65.58,
-          "score": 1.0
+          "word": "Province.",
+          "start": 37.34,
+          "end": 38.28
         }
       ]
     },
     {
       "id": 10,
-      "start": 66.4,
-      "end": 72.13,
-      "text": "The city has many ancient temples, palaces, and historic sites.",
+      "start": 39.42,
+      "end": 44.78,
+      "text": "The city is near the Yellow River and surrounded by hills and plains.",
       "words": [
         {
           "word": "The",
-          "startSec": 66.6,
-          "endSec": 66.76,
-          "score": 0.97
+          "start": 39.42,
+          "end": 39.64
         },
         {
           "word": "city",
-          "startSec": 66.76,
-          "endSec": 67.1,
-          "score": 0.99
+          "start": 39.64,
+          "end": 40.02
         },
         {
-          "word": "has",
-          "startSec": 67.1,
-          "endSec": 67.48,
-          "score": 1.0
+          "word": "is",
+          "start": 40.02,
+          "end": 40.38
         },
         {
-          "word": "many",
-          "startSec": 67.48,
-          "endSec": 67.82,
-          "score": 1.0
+          "word": "near",
+          "start": 40.38,
+          "end": 40.66
         },
         {
-          "word": "ancient",
-          "startSec": 67.82,
-          "endSec": 68.4,
-          "score": 1.0
+          "word": "the",
+          "start": 40.66,
+          "end": 40.88
         },
         {
-          "word": "temples,",
-          "startSec": 68.4,
-          "endSec": 69.12,
-          "score": 1.0
+          "word": "Yellow",
+          "start": 40.88,
+          "end": 41.26
         },
         {
-          "word": "palaces,",
-          "startSec": 69.62,
-          "endSec": 70.28,
-          "score": 0.99
+          "word": "River",
+          "start": 41.26,
+          "end": 41.74
         },
         {
           "word": "and",
-          "startSec": 70.84,
-          "endSec": 70.9,
-          "score": 1.0
+          "start": 41.74,
+          "end": 42.14
         },
         {
-          "word": "historic",
-          "startSec": 70.9,
-          "endSec": 71.44,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 42.14,
+          "end": 42.66
         },
         {
-          "word": "sites.",
-          "startSec": 71.44,
-          "endSec": 71.98,
-          "score": 0.97
+          "word": "by",
+          "start": 42.66,
+          "end": 43.14
+        },
+        {
+          "word": "hills",
+          "start": 43.14,
+          "end": 43.68
+        },
+        {
+          "word": "and",
+          "start": 43.68,
+          "end": 44.02
+        },
+        {
+          "word": "plains.",
+          "start": 44.02,
+          "end": 44.78
         }
       ]
     },
     {
       "id": 11,
-      "start": 73.41,
-      "end": 78.36,
-      "text": "Walking in Luoyang is like stepping into the history of China.",
+      "start": 45.68,
+      "end": 52.38,
+      "text": "It is calm, peaceful, and perfect for enjoying history and culture.",
       "words": [
         {
-          "word": "Walking",
-          "startSec": 73.61,
-          "endSec": 74.11,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 74.11,
-          "endSec": 74.47,
-          "score": 0.99
-        },
-        {
-          "word": "Luoyang",
-          "startSec": 74.47,
-          "endSec": 75.19,
-          "score": 0.98
+          "word": "It",
+          "start": 45.68,
+          "end": 45.84
         },
         {
           "word": "is",
-          "startSec": 75.19,
-          "endSec": 75.55,
-          "score": 1.0
+          "start": 45.84,
+          "end": 46.04
         },
         {
-          "word": "like",
-          "startSec": 75.55,
-          "endSec": 75.79,
-          "score": 1.0
+          "word": "calm,",
+          "start": 46.04,
+          "end": 46.76
         },
         {
-          "word": "stepping",
-          "startSec": 75.79,
-          "endSec": 76.31,
-          "score": 0.99
+          "word": "peaceful,",
+          "start": 47.08,
+          "end": 47.76
         },
         {
-          "word": "into",
-          "startSec": 76.31,
-          "endSec": 76.85,
-          "score": 0.99
+          "word": "and",
+          "start": 48.32,
+          "end": 48.64
         },
         {
-          "word": "the",
-          "startSec": 76.85,
-          "endSec": 77.11,
-          "score": 1.0
+          "word": "perfect",
+          "start": 48.64,
+          "end": 49.38
+        },
+        {
+          "word": "for",
+          "start": 49.38,
+          "end": 49.92
+        },
+        {
+          "word": "enjoying",
+          "start": 49.92,
+          "end": 50.46
         },
         {
           "word": "history",
-          "startSec": 77.11,
-          "endSec": 77.49,
-          "score": 0.99
+          "start": 50.46,
+          "end": 51.06
         },
         {
-          "word": "of",
-          "startSec": 77.49,
-          "endSec": 77.93,
-          "score": 1.0
+          "word": "and",
+          "start": 51.06,
+          "end": 51.48
         },
         {
-          "word": "China.",
-          "startSec": 77.93,
-          "endSec": 78.21,
-          "score": 1.0
+          "word": "culture.",
+          "start": 51.48,
+          "end": 52.38
         }
       ]
     },
     {
       "id": 12,
-      "start": 79.35,
-      "end": 91.06,
-      "text": "Part 4, Main Attractions. The main attractions include the Longman Grottos, White Horse Temple, and the Ancient Tunes Museum.",
+      "start": 53.0,
+      "end": 56.12,
+      "text": "Part three, history of Luoyang.",
       "words": [
         {
           "word": "Part",
-          "startSec": 79.55,
-          "endSec": 80.07,
-          "score": 0.38
+          "start": 53.0,
+          "end": 53.6
         },
         {
-          "word": "4,",
-          "startSec": 80.07,
-          "endSec": 80.61,
-          "score": 0.64
+          "word": "three,",
+          "start": 53.6,
+          "end": 54.04
         },
         {
-          "word": "Main",
-          "startSec": 81.33,
-          "endSec": 81.89,
-          "score": 0.71
+          "word": "history",
+          "start": 54.34,
+          "end": 54.68
         },
         {
-          "word": "Attractions.",
-          "startSec": 81.89,
-          "endSec": 82.61,
-          "score": 0.91
+          "word": "of",
+          "start": 54.68,
+          "end": 55.06
         },
         {
-          "word": "The",
-          "startSec": 83.21,
-          "endSec": 83.27,
-          "score": 0.94
-        },
-        {
-          "word": "main",
-          "startSec": 83.27,
-          "endSec": 83.53,
-          "score": 0.65
-        },
-        {
-          "word": "attractions",
-          "startSec": 83.53,
-          "endSec": 84.13,
-          "score": 0.99
-        },
-        {
-          "word": "include",
-          "startSec": 84.13,
-          "endSec": 84.87,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 84.87,
-          "endSec": 85.23,
-          "score": 0.92
-        },
-        {
-          "word": "Longman",
-          "startSec": 85.23,
-          "endSec": 85.87,
-          "score": 0.83
-        },
-        {
-          "word": "Grottos,",
-          "startSec": 85.87,
-          "endSec": 86.65,
-          "score": 0.62
-        },
-        {
-          "word": "White",
-          "startSec": 87.17,
-          "endSec": 87.57,
-          "score": 0.97
-        },
-        {
-          "word": "Horse",
-          "startSec": 87.57,
-          "endSec": 87.91,
-          "score": 0.82
-        },
-        {
-          "word": "Temple,",
-          "startSec": 87.91,
-          "endSec": 88.39,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 89.23,
-          "endSec": 89.33,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 89.33,
-          "endSec": 89.49,
-          "score": 0.95
-        },
-        {
-          "word": "Ancient",
-          "startSec": 89.49,
-          "endSec": 89.85,
-          "score": 0.86
-        },
-        {
-          "word": "Tunes",
-          "startSec": 89.85,
-          "endSec": 90.59,
-          "score": 0.46
-        },
-        {
-          "word": "Museum.",
-          "startSec": 90.59,
-          "endSec": 90.91,
-          "score": 0.97
+          "word": "Luoyang.",
+          "start": 55.06,
+          "end": 56.12
         }
       ]
     },
     {
       "id": 13,
-      "start": 91.98,
-      "end": 96.65,
-      "text": "You can see Buddha statues, caves, and old architecture.",
+      "start": 56.54,
+      "end": 60.3,
+      "text": "Luoyang is one of the oldest cities in China.",
       "words": [
         {
-          "word": "You",
-          "startSec": 92.18,
-          "endSec": 92.52,
-          "score": 0.99
+          "word": "Luoyang",
+          "start": 56.54,
+          "end": 57.38
         },
         {
-          "word": "can",
-          "startSec": 92.52,
-          "endSec": 92.72,
-          "score": 1.0
+          "word": "is",
+          "start": 57.38,
+          "end": 57.66
         },
         {
-          "word": "see",
-          "startSec": 92.72,
-          "endSec": 93.06,
-          "score": 1.0
+          "word": "one",
+          "start": 57.66,
+          "end": 57.92
         },
         {
-          "word": "Buddha",
-          "startSec": 93.06,
-          "endSec": 93.42,
-          "score": 0.73
+          "word": "of",
+          "start": 57.92,
+          "end": 58.06
         },
         {
-          "word": "statues,",
-          "startSec": 93.42,
-          "endSec": 94.18,
-          "score": 0.81
+          "word": "the",
+          "start": 58.06,
+          "end": 58.2
         },
         {
-          "word": "caves,",
-          "startSec": 94.82,
-          "endSec": 95.02,
-          "score": 0.99
+          "word": "oldest",
+          "start": 58.2,
+          "end": 58.58
         },
         {
-          "word": "and",
-          "startSec": 95.68,
-          "endSec": 95.74,
-          "score": 0.99
+          "word": "cities",
+          "start": 58.58,
+          "end": 59.08
         },
         {
-          "word": "old",
-          "startSec": 95.74,
-          "endSec": 96.08,
-          "score": 0.92
+          "word": "in",
+          "start": 59.08,
+          "end": 59.42
         },
         {
-          "word": "architecture.",
-          "startSec": 96.08,
-          "endSec": 96.5,
-          "score": 1.0
+          "word": "China.",
+          "start": 59.42,
+          "end": 60.3
         }
       ]
     },
     {
       "id": 14,
-      "start": 97.92,
-      "end": 103.51,
-      "text": "The city combines history, art, and natural beauty beautifully.",
+      "start": 60.98,
+      "end": 66.02,
+      "text": "It was the capital for many dynasties over thousands of years.",
       "words": [
         {
-          "word": "The",
-          "startSec": 98.12,
-          "endSec": 98.34,
-          "score": 0.99
+          "word": "It",
+          "start": 60.98,
+          "end": 61.18
         },
         {
-          "word": "city",
-          "startSec": 98.34,
-          "endSec": 98.66,
-          "score": 0.85
+          "word": "was",
+          "start": 61.18,
+          "end": 61.38
         },
         {
-          "word": "combines",
-          "startSec": 98.66,
-          "endSec": 99.04,
-          "score": 1.0
+          "word": "the",
+          "start": 61.38,
+          "end": 61.58
         },
         {
-          "word": "history,",
-          "startSec": 99.04,
-          "endSec": 99.72,
-          "score": 0.96
+          "word": "capital",
+          "start": 61.58,
+          "end": 62.12
         },
         {
-          "word": "art,",
-          "startSec": 100.44,
-          "endSec": 100.76,
-          "score": 1.0
+          "word": "for",
+          "start": 62.12,
+          "end": 62.46
         },
         {
-          "word": "and",
-          "startSec": 101.64,
-          "endSec": 101.76,
-          "score": 1.0
+          "word": "many",
+          "start": 62.46,
+          "end": 62.88
         },
         {
-          "word": "natural",
-          "startSec": 101.76,
-          "endSec": 102.28,
-          "score": 0.99
+          "word": "dynasties",
+          "start": 62.88,
+          "end": 63.8
         },
         {
-          "word": "beauty",
-          "startSec": 102.28,
-          "endSec": 102.8,
-          "score": 1.0
+          "word": "over",
+          "start": 63.8,
+          "end": 64.22
         },
         {
-          "word": "beautifully.",
-          "startSec": 102.8,
-          "endSec": 103.36,
-          "score": 0.96
+          "word": "thousands",
+          "start": 64.22,
+          "end": 64.84
+        },
+        {
+          "word": "of",
+          "start": 64.84,
+          "end": 65.22
+        },
+        {
+          "word": "years.",
+          "start": 65.22,
+          "end": 66.02
         }
       ]
     },
     {
       "id": 15,
-      "start": 105.21,
-      "end": 108.62,
-      "text": "Part 5, The City of Luoyang.",
+      "start": 66.64,
+      "end": 72.54,
+      "text": "The city has many ancient temples, palaces, and historic sites.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 105.41,
-          "endSec": 106.01,
-          "score": 0.15
-        },
-        {
-          "word": "5,",
-          "startSec": 106.01,
-          "endSec": 106.71,
-          "score": 0.62
-        },
-        {
           "word": "The",
-          "startSec": 107.03,
-          "endSec": 107.03,
-          "score": 0.34
+          "start": 66.64,
+          "end": 66.8
         },
         {
-          "word": "City",
-          "startSec": 107.03,
-          "endSec": 107.33,
-          "score": 0.97
+          "word": "city",
+          "start": 66.8,
+          "end": 67.16
         },
         {
-          "word": "of",
-          "startSec": 107.33,
-          "endSec": 107.69,
-          "score": 0.97
+          "word": "has",
+          "start": 67.16,
+          "end": 67.54
         },
         {
-          "word": "Luoyang.",
-          "startSec": 107.69,
-          "endSec": 108.47,
-          "score": 0.78
+          "word": "many",
+          "start": 67.54,
+          "end": 67.94
+        },
+        {
+          "word": "ancient",
+          "start": 67.94,
+          "end": 68.5
+        },
+        {
+          "word": "temples,",
+          "start": 68.5,
+          "end": 69.16
+        },
+        {
+          "word": "palaces,",
+          "start": 69.78,
+          "end": 70.36
+        },
+        {
+          "word": "and",
+          "start": 70.8,
+          "end": 70.96
+        },
+        {
+          "word": "historic",
+          "start": 70.96,
+          "end": 71.56
+        },
+        {
+          "word": "sites.",
+          "start": 71.56,
+          "end": 72.54
         }
       ]
     },
     {
       "id": 16,
-      "start": 109.12,
-      "end": 116.69,
-      "text": "Luoyang is medium-sized but lively. There are markets, shops, and local restaurants.",
+      "start": 73.48,
+      "end": 78.86,
+      "text": "Walking in Luoyang is like stepping into the history of China.",
       "words": [
         {
+          "word": "Walking",
+          "start": 73.48,
+          "end": 74.16
+        },
+        {
+          "word": "in",
+          "start": 74.16,
+          "end": 74.56
+        },
+        {
           "word": "Luoyang",
-          "startSec": 109.32,
-          "endSec": 110.2,
-          "score": 0.98
+          "start": 74.56,
+          "end": 75.28
         },
         {
           "word": "is",
-          "startSec": 110.2,
-          "endSec": 110.4,
-          "score": 1.0
+          "start": 75.28,
+          "end": 75.62
         },
         {
-          "word": "medium",
-          "startSec": 110.4,
-          "endSec": 110.66,
-          "score": 0.99
+          "word": "like",
+          "start": 75.62,
+          "end": 75.9
         },
         {
-          "word": "-sized",
-          "startSec": 110.66,
-          "endSec": 111.24,
-          "score": 0.71
+          "word": "stepping",
+          "start": 75.9,
+          "end": 76.42
         },
         {
-          "word": "but",
-          "startSec": 111.24,
-          "endSec": 111.68,
-          "score": 0.75
+          "word": "into",
+          "start": 76.42,
+          "end": 76.88
         },
         {
-          "word": "lively.",
-          "startSec": 111.68,
-          "endSec": 112.04,
-          "score": 0.99
+          "word": "the",
+          "start": 76.88,
+          "end": 77.14
         },
         {
-          "word": "There",
-          "startSec": 113.08,
-          "endSec": 113.26,
-          "score": 0.98
+          "word": "history",
+          "start": 77.14,
+          "end": 77.64
         },
         {
-          "word": "are",
-          "startSec": 113.26,
-          "endSec": 113.42,
-          "score": 1.0
+          "word": "of",
+          "start": 77.64,
+          "end": 77.98
         },
         {
-          "word": "markets,",
-          "startSec": 113.42,
-          "endSec": 114.02,
-          "score": 0.99
-        },
-        {
-          "word": "shops,",
-          "startSec": 114.08,
-          "endSec": 114.94,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 115.64,
-          "endSec": 115.74,
-          "score": 0.99
-        },
-        {
-          "word": "local",
-          "startSec": 115.74,
-          "endSec": 116.04,
-          "score": 1.0
-        },
-        {
-          "word": "restaurants.",
-          "startSec": 116.04,
-          "endSec": 116.54,
-          "score": 0.99
+          "word": "China.",
+          "start": 77.98,
+          "end": 78.86
         }
       ]
     },
     {
       "id": 17,
-      "start": 117.6,
-      "end": 123.33,
-      "text": "People walk in the streets, ride bicycles, and enjoy daily life slowly.",
+      "start": 79.48,
+      "end": 82.98,
+      "text": "Part four, main attractions.",
       "words": [
         {
-          "word": "People",
-          "startSec": 117.8,
-          "endSec": 118.22,
-          "score": 0.99
+          "word": "Part",
+          "start": 79.48,
+          "end": 80.12
         },
         {
-          "word": "walk",
-          "startSec": 118.22,
-          "endSec": 118.74,
-          "score": 0.99
+          "word": "four,",
+          "start": 80.12,
+          "end": 80.74
         },
         {
-          "word": "in",
-          "startSec": 118.74,
-          "endSec": 119.06,
-          "score": 1.0
+          "word": "main",
+          "start": 81.62,
+          "end": 81.92
         },
         {
-          "word": "the",
-          "startSec": 119.06,
-          "endSec": 119.22,
-          "score": 1.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 119.22,
-          "endSec": 119.66,
-          "score": 0.99
-        },
-        {
-          "word": "ride",
-          "startSec": 119.74,
-          "endSec": 120.26,
-          "score": 1.0
-        },
-        {
-          "word": "bicycles,",
-          "startSec": 120.26,
-          "endSec": 120.76,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 121.38,
-          "endSec": 121.44,
-          "score": 1.0
-        },
-        {
-          "word": "enjoy",
-          "startSec": 121.44,
-          "endSec": 121.8,
-          "score": 1.0
-        },
-        {
-          "word": "daily",
-          "startSec": 121.8,
-          "endSec": 122.28,
-          "score": 1.0
-        },
-        {
-          "word": "life",
-          "startSec": 122.28,
-          "endSec": 122.74,
-          "score": 0.95
-        },
-        {
-          "word": "slowly.",
-          "startSec": 122.74,
-          "endSec": 123.18,
-          "score": 1.0
+          "word": "attractions.",
+          "start": 81.92,
+          "end": 82.98
         }
       ]
     },
     {
       "id": 18,
-      "start": 124.0,
-      "end": 127.99,
-      "text": "The city is safe, welcoming, and full of charm.",
+      "start": 83.2,
+      "end": 91.5,
+      "text": "The main attractions include the Longmen Grottoes, White Horse Temple, and the Ancient Tombs Museum.",
       "words": [
         {
           "word": "The",
-          "startSec": 124.2,
-          "endSec": 124.34,
-          "score": 0.99
+          "start": 83.2,
+          "end": 83.32
         },
         {
-          "word": "city",
-          "startSec": 124.34,
-          "endSec": 124.64,
-          "score": 0.94
+          "word": "main",
+          "start": 83.32,
+          "end": 83.6
         },
         {
-          "word": "is",
-          "startSec": 124.64,
-          "endSec": 124.96,
-          "score": 1.0
+          "word": "attractions",
+          "start": 83.6,
+          "end": 84.24
         },
         {
-          "word": "safe,",
-          "startSec": 124.96,
-          "endSec": 125.4,
-          "score": 1.0
+          "word": "include",
+          "start": 84.24,
+          "end": 84.96
         },
         {
-          "word": "welcoming,",
-          "startSec": 125.94,
-          "endSec": 126.4,
-          "score": 0.99
+          "word": "the",
+          "start": 84.96,
+          "end": 85.26
+        },
+        {
+          "word": "Longmen",
+          "start": 85.26,
+          "end": 85.88
+        },
+        {
+          "word": "Grottoes,",
+          "start": 85.88,
+          "end": 86.88
+        },
+        {
+          "word": "White",
+          "start": 87.3,
+          "end": 87.72
+        },
+        {
+          "word": "Horse",
+          "start": 87.72,
+          "end": 88.02
+        },
+        {
+          "word": "Temple,",
+          "start": 88.02,
+          "end": 88.5
         },
         {
           "word": "and",
-          "startSec": 126.98,
-          "endSec": 127.06,
-          "score": 1.0
+          "start": 89.1,
+          "end": 89.36
         },
         {
-          "word": "full",
-          "startSec": 127.06,
-          "endSec": 127.32,
-          "score": 1.0
+          "word": "the",
+          "start": 89.36,
+          "end": 89.54
         },
         {
-          "word": "of",
-          "startSec": 127.32,
-          "endSec": 127.54,
-          "score": 1.0
+          "word": "Ancient",
+          "start": 89.54,
+          "end": 90.0
         },
         {
-          "word": "charm.",
-          "startSec": 127.54,
-          "endSec": 127.84,
-          "score": 1.0
+          "word": "Tombs",
+          "start": 90.0,
+          "end": 90.74
+        },
+        {
+          "word": "Museum.",
+          "start": 90.74,
+          "end": 91.5
         }
       ]
     },
     {
       "id": 19,
-      "start": 128.75,
-      "end": 135.76,
-      "text": "Part 6, Food in Luoyang. Food in Luoyang is tasty and simple.",
+      "start": 92.2,
+      "end": 97.28,
+      "text": "You can see Buddha statues, caves, and old architecture.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 128.95,
-          "endSec": 129.37,
-          "score": 0.13
+          "word": "You",
+          "start": 92.2,
+          "end": 92.56
         },
         {
-          "word": "6,",
-          "startSec": 129.37,
-          "endSec": 129.95,
-          "score": 0.53
+          "word": "can",
+          "start": 92.56,
+          "end": 92.8
         },
         {
-          "word": "Food",
-          "startSec": 130.79,
-          "endSec": 131.19,
-          "score": 0.47
+          "word": "see",
+          "start": 92.8,
+          "end": 93.12
         },
         {
-          "word": "in",
-          "startSec": 131.19,
-          "endSec": 131.51,
-          "score": 0.78
+          "word": "Buddha",
+          "start": 93.12,
+          "end": 93.52
         },
         {
-          "word": "Luoyang.",
-          "startSec": 131.51,
-          "endSec": 132.25,
-          "score": 0.73
+          "word": "statues,",
+          "start": 93.52,
+          "end": 94.32
         },
         {
-          "word": "Food",
-          "startSec": 132.75,
-          "endSec": 133.07,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 133.07,
-          "endSec": 133.37,
-          "score": 1.0
-        },
-        {
-          "word": "Luoyang",
-          "startSec": 133.37,
-          "endSec": 134.05,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 134.05,
-          "endSec": 134.19,
-          "score": 1.0
-        },
-        {
-          "word": "tasty",
-          "startSec": 134.19,
-          "endSec": 134.55,
-          "score": 0.99
+          "word": "caves,",
+          "start": 94.9,
+          "end": 95.26
         },
         {
           "word": "and",
-          "startSec": 134.55,
-          "endSec": 135.07,
-          "score": 1.0
+          "start": 95.66,
+          "end": 95.8
         },
         {
-          "word": "simple.",
-          "startSec": 135.07,
-          "endSec": 135.61,
-          "score": 1.0
+          "word": "old",
+          "start": 95.8,
+          "end": 96.2
+        },
+        {
+          "word": "architecture.",
+          "start": 96.2,
+          "end": 97.28
         }
       ]
     },
     {
       "id": 20,
-      "start": 136.19,
-      "end": 140.46,
-      "text": "People eat noodles, rice, vegetables, and meat.",
+      "start": 98.08,
+      "end": 103.96,
+      "text": "The city combines history, art, and natural beauty beautifully.",
       "words": [
         {
-          "word": "People",
-          "startSec": 136.39,
-          "endSec": 136.61,
-          "score": 0.99
+          "word": "The",
+          "start": 98.08,
+          "end": 98.38
         },
         {
-          "word": "eat",
-          "startSec": 136.61,
-          "endSec": 137.11,
-          "score": 1.0
+          "word": "city",
+          "start": 98.38,
+          "end": 98.74
         },
         {
-          "word": "noodles,",
-          "startSec": 137.11,
-          "endSec": 137.57,
-          "score": 1.0
+          "word": "combines",
+          "start": 98.74,
+          "end": 99.44
         },
         {
-          "word": "rice,",
-          "startSec": 137.97,
-          "endSec": 138.37,
-          "score": 1.0
+          "word": "history,",
+          "start": 99.44,
+          "end": 100.0
         },
         {
-          "word": "vegetables,",
-          "startSec": 138.97,
-          "endSec": 139.49,
-          "score": 1.0
+          "word": "art,",
+          "start": 100.52,
+          "end": 101.0
         },
         {
           "word": "and",
-          "startSec": 139.85,
-          "endSec": 140.05,
-          "score": 1.0
+          "start": 101.56,
+          "end": 101.8
         },
         {
-          "word": "meat.",
-          "startSec": 140.05,
-          "endSec": 140.31,
-          "score": 1.0
+          "word": "natural",
+          "start": 101.8,
+          "end": 102.4
+        },
+        {
+          "word": "beauty",
+          "start": 102.4,
+          "end": 103.02
+        },
+        {
+          "word": "beautifully.",
+          "start": 103.02,
+          "end": 103.96
         }
       ]
     },
     {
       "id": 21,
-      "start": 141.3,
-      "end": 149.25,
-      "text": "A popular dish is water banquet. A traditional meal with many small dishes served in soup.",
+      "start": 105.28,
+      "end": 108.88,
+      "text": "Part five, the city of Luoyang.",
       "words": [
         {
-          "word": "A",
-          "startSec": 141.5,
-          "endSec": 141.82,
-          "score": 0.99
+          "word": "Part",
+          "start": 105.28,
+          "end": 106.12
         },
         {
-          "word": "popular",
-          "startSec": 141.82,
-          "endSec": 142.24,
-          "score": 0.99
+          "word": "five,",
+          "start": 106.12,
+          "end": 106.64
         },
         {
-          "word": "dish",
-          "startSec": 142.24,
-          "endSec": 142.88,
-          "score": 1.0
+          "word": "the",
+          "start": 106.96,
+          "end": 107.08
         },
         {
-          "word": "is",
-          "startSec": 142.88,
-          "endSec": 143.08,
-          "score": 1.0
+          "word": "city",
+          "start": 107.08,
+          "end": 107.44
         },
         {
-          "word": "water",
-          "startSec": 143.08,
-          "endSec": 143.38,
-          "score": 0.85
+          "word": "of",
+          "start": 107.44,
+          "end": 107.74
         },
         {
-          "word": "banquet.",
-          "startSec": 143.38,
-          "endSec": 143.88,
-          "score": 0.79
-        },
-        {
-          "word": "A",
-          "startSec": 144.76,
-          "endSec": 144.96,
-          "score": 1.0
-        },
-        {
-          "word": "traditional",
-          "startSec": 144.96,
-          "endSec": 145.38,
-          "score": 1.0
-        },
-        {
-          "word": "meal",
-          "startSec": 145.38,
-          "endSec": 146.16,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 146.16,
-          "endSec": 146.52,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 146.52,
-          "endSec": 146.88,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 146.88,
-          "endSec": 147.46,
-          "score": 1.0
-        },
-        {
-          "word": "dishes",
-          "startSec": 147.46,
-          "endSec": 147.86,
-          "score": 1.0
-        },
-        {
-          "word": "served",
-          "startSec": 147.86,
-          "endSec": 148.46,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 148.46,
-          "endSec": 148.78,
-          "score": 0.99
-        },
-        {
-          "word": "soup.",
-          "startSec": 148.78,
-          "endSec": 149.1,
-          "score": 0.99
+          "word": "Luoyang.",
+          "start": 107.74,
+          "end": 108.88
         }
       ]
     },
     {
       "id": 22,
-      "start": 149.52,
-      "end": 153.49,
-      "text": "Local pastries and tea are also very popular.",
+      "start": 109.42,
+      "end": 112.68,
+      "text": "Luoyang is medium -sized but lively.",
       "words": [
         {
-          "word": "Local",
-          "startSec": 149.72,
-          "endSec": 149.98,
-          "score": 0.99
+          "word": "Luoyang",
+          "start": 109.42,
+          "end": 110.26
         },
         {
-          "word": "pastries",
-          "startSec": 149.98,
-          "endSec": 150.92,
-          "score": 0.97
+          "word": "is",
+          "start": 110.26,
+          "end": 110.46
         },
         {
-          "word": "and",
-          "startSec": 150.92,
-          "endSec": 151.28,
-          "score": 0.97
+          "word": "medium",
+          "start": 110.46,
+          "end": 110.88
         },
         {
-          "word": "tea",
-          "startSec": 151.28,
-          "endSec": 151.62,
-          "score": 0.99
+          "word": "-sized",
+          "start": 110.88,
+          "end": 111.28
         },
         {
-          "word": "are",
-          "startSec": 151.62,
-          "endSec": 151.98,
-          "score": 1.0
+          "word": "but",
+          "start": 111.28,
+          "end": 111.72
         },
         {
-          "word": "also",
-          "startSec": 151.98,
-          "endSec": 152.44,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 152.44,
-          "endSec": 152.84,
-          "score": 1.0
-        },
-        {
-          "word": "popular.",
-          "startSec": 152.84,
-          "endSec": 153.34,
-          "score": 1.0
+          "word": "lively.",
+          "start": 111.72,
+          "end": 112.68
         }
       ]
     },
     {
       "id": 23,
-      "start": 154.52,
-      "end": 158.61,
-      "text": "Part 7, The People of Luoyang.",
+      "start": 113.06,
+      "end": 117.38,
+      "text": "There are markets, shops, and local restaurants.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 154.72,
-          "endSec": 155.2,
-          "score": 0.51
+          "word": "There",
+          "start": 113.06,
+          "end": 113.3
         },
         {
-          "word": "7,",
-          "startSec": 155.2,
-          "endSec": 156.0,
-          "score": 0.52
+          "word": "are",
+          "start": 113.3,
+          "end": 113.48
         },
         {
-          "word": "The",
-          "startSec": 156.5,
-          "endSec": 156.92,
-          "score": 0.25
+          "word": "markets,",
+          "start": 113.48,
+          "end": 114.06
         },
         {
-          "word": "People",
-          "startSec": 156.92,
-          "endSec": 157.4,
-          "score": 0.67
+          "word": "shops,",
+          "start": 114.58,
+          "end": 115.12
         },
         {
-          "word": "of",
-          "startSec": 157.4,
-          "endSec": 157.68,
-          "score": 0.98
+          "word": "and",
+          "start": 115.7,
+          "end": 115.84
         },
         {
-          "word": "Luoyang.",
-          "startSec": 157.68,
-          "endSec": 158.46,
-          "score": 0.84
+          "word": "local",
+          "start": 115.84,
+          "end": 116.2
+        },
+        {
+          "word": "restaurants.",
+          "start": 116.2,
+          "end": 117.38
         }
       ]
     },
     {
       "id": 24,
-      "start": 159.4,
-      "end": 163.01,
-      "text": "People in Luoyang are friendly and polite.",
+      "start": 117.84,
+      "end": 123.8,
+      "text": "People walk in the streets, ride bicycles, and enjoy daily life slowly.",
       "words": [
         {
           "word": "People",
-          "startSec": 159.6,
-          "endSec": 160.28,
-          "score": 0.95
+          "start": 117.84,
+          "end": 118.44
+        },
+        {
+          "word": "walk",
+          "start": 118.44,
+          "end": 118.8
         },
         {
           "word": "in",
-          "startSec": 160.28,
-          "endSec": 160.64,
-          "score": 0.99
+          "start": 118.8,
+          "end": 119.14
         },
         {
-          "word": "Luoyang",
-          "startSec": 160.64,
-          "endSec": 161.38,
-          "score": 0.99
+          "word": "the",
+          "start": 119.14,
+          "end": 119.3
         },
         {
-          "word": "are",
-          "startSec": 161.38,
-          "endSec": 161.64,
-          "score": 0.99
+          "word": "streets,",
+          "start": 119.3,
+          "end": 119.68
         },
         {
-          "word": "friendly",
-          "startSec": 161.64,
-          "endSec": 162.02,
-          "score": 0.98
+          "word": "ride",
+          "start": 120.06,
+          "end": 120.4
+        },
+        {
+          "word": "bicycles,",
+          "start": 120.4,
+          "end": 121.02
         },
         {
           "word": "and",
-          "startSec": 162.02,
-          "endSec": 162.48,
-          "score": 0.99
+          "start": 121.38,
+          "end": 121.52
         },
         {
-          "word": "polite.",
-          "startSec": 162.48,
-          "endSec": 162.86,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 121.52,
+          "end": 121.96
+        },
+        {
+          "word": "daily",
+          "start": 121.96,
+          "end": 122.42
+        },
+        {
+          "word": "life",
+          "start": 122.42,
+          "end": 122.86
+        },
+        {
+          "word": "slowly.",
+          "start": 122.86,
+          "end": 123.8
         }
       ]
     },
     {
       "id": 25,
-      "start": 163.46,
-      "end": 168.05,
-      "text": "They speak Mandarin Chinese and some speak English for tourists.",
+      "start": 124.18,
+      "end": 128.46,
+      "text": "The city is safe, welcoming, and full of charm.",
       "words": [
         {
-          "word": "They",
-          "startSec": 163.66,
-          "endSec": 163.8,
-          "score": 0.99
+          "word": "The",
+          "start": 124.18,
+          "end": 124.4
         },
         {
-          "word": "speak",
-          "startSec": 163.8,
-          "endSec": 164.12,
-          "score": 1.0
+          "word": "city",
+          "start": 124.4,
+          "end": 124.74
         },
         {
-          "word": "Mandarin",
-          "startSec": 164.12,
-          "endSec": 164.66,
-          "score": 0.99
+          "word": "is",
+          "start": 124.74,
+          "end": 125.02
         },
         {
-          "word": "Chinese",
-          "startSec": 164.66,
-          "endSec": 165.06,
-          "score": 0.96
+          "word": "safe,",
+          "start": 125.02,
+          "end": 125.54
+        },
+        {
+          "word": "welcoming,",
+          "start": 125.96,
+          "end": 126.54
         },
         {
           "word": "and",
-          "startSec": 165.06,
-          "endSec": 165.98,
-          "score": 0.72
+          "start": 127.08,
+          "end": 127.12
         },
         {
-          "word": "some",
-          "startSec": 165.98,
-          "endSec": 166.28,
-          "score": 0.99
+          "word": "full",
+          "start": 127.12,
+          "end": 127.46
         },
         {
-          "word": "speak",
-          "startSec": 166.28,
-          "endSec": 166.62,
-          "score": 1.0
+          "word": "of",
+          "start": 127.46,
+          "end": 127.6
         },
         {
-          "word": "English",
-          "startSec": 166.62,
-          "endSec": 167.22,
-          "score": 0.99
-        },
-        {
-          "word": "for",
-          "startSec": 167.22,
-          "endSec": 167.64,
-          "score": 0.99
-        },
-        {
-          "word": "tourists.",
-          "startSec": 167.64,
-          "endSec": 167.9,
-          "score": 1.0
+          "word": "charm.",
+          "start": 127.6,
+          "end": 128.46
         }
       ]
     },
     {
       "id": 26,
-      "start": 168.96,
-      "end": 174.59,
-      "text": "Life is calm, family is important, and traditions are respected.",
+      "start": 129.14,
+      "end": 132.44,
+      "text": "Part six, food in Luoyang.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 169.16,
-          "endSec": 169.62,
-          "score": 0.98
+          "word": "Part",
+          "start": 129.14,
+          "end": 129.54
         },
         {
-          "word": "is",
-          "startSec": 169.62,
-          "endSec": 169.98,
-          "score": 1.0
+          "word": "six,",
+          "start": 129.54,
+          "end": 130.06
         },
         {
-          "word": "calm,",
-          "startSec": 169.98,
-          "endSec": 170.38,
-          "score": 1.0
+          "word": "food",
+          "start": 130.98,
+          "end": 131.28
         },
         {
-          "word": "family",
-          "startSec": 171.1,
-          "endSec": 171.38,
-          "score": 0.97
+          "word": "in",
+          "start": 131.28,
+          "end": 131.56
         },
         {
-          "word": "is",
-          "startSec": 171.38,
-          "endSec": 171.96,
-          "score": 1.0
-        },
-        {
-          "word": "important,",
-          "startSec": 171.96,
-          "endSec": 172.46,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 172.94,
-          "endSec": 173.02,
-          "score": 1.0
-        },
-        {
-          "word": "traditions",
-          "startSec": 173.02,
-          "endSec": 173.42,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 173.42,
-          "endSec": 173.94,
-          "score": 1.0
-        },
-        {
-          "word": "respected.",
-          "startSec": 173.94,
-          "endSec": 174.44,
-          "score": 1.0
+          "word": "Luoyang.",
+          "start": 131.56,
+          "end": 132.44
         }
       ]
     },
     {
       "id": 27,
-      "start": 175.58,
-      "end": 180.93,
-      "text": "People enjoy festivals, music, and cultural activities.",
+      "start": 132.44,
+      "end": 136.04,
+      "text": "Food in Luoyang is tasty and simple.",
       "words": [
         {
-          "word": "People",
-          "startSec": 175.78,
-          "endSec": 175.98,
-          "score": 0.99
+          "word": "Food",
+          "start": 132.44,
+          "end": 133.18
         },
         {
-          "word": "enjoy",
-          "startSec": 175.98,
-          "endSec": 176.52,
-          "score": 1.0
+          "word": "in",
+          "start": 133.18,
+          "end": 133.46
         },
         {
-          "word": "festivals,",
-          "startSec": 176.52,
-          "endSec": 177.2,
-          "score": 1.0
+          "word": "Luoyang",
+          "start": 133.46,
+          "end": 133.94
         },
         {
-          "word": "music,",
-          "startSec": 177.52,
-          "endSec": 178.66,
-          "score": 1.0
+          "word": "is",
+          "start": 133.94,
+          "end": 134.28
+        },
+        {
+          "word": "tasty",
+          "start": 134.28,
+          "end": 134.84
         },
         {
           "word": "and",
-          "startSec": 179.32,
-          "endSec": 179.6,
-          "score": 1.0
+          "start": 134.84,
+          "end": 135.12
         },
         {
-          "word": "cultural",
-          "startSec": 179.6,
-          "endSec": 180.06,
-          "score": 0.99
-        },
-        {
-          "word": "activities.",
-          "startSec": 180.06,
-          "endSec": 180.78,
-          "score": 1.0
+          "word": "simple.",
+          "start": 135.12,
+          "end": 136.04
         }
       ]
     },
     {
       "id": 28,
-      "start": 181.9,
-      "end": 186.09,
-      "text": "Part 8, Culture and Festivals.",
+      "start": 136.38,
+      "end": 140.84,
+      "text": "People eat noodles, rice, vegetables, and meat.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 182.1,
-          "endSec": 182.72,
-          "score": 0.18
+          "word": "People",
+          "start": 136.38,
+          "end": 136.84
         },
         {
-          "word": "8,",
-          "startSec": 182.72,
-          "endSec": 183.24,
-          "score": 0.55
+          "word": "eat",
+          "start": 136.84,
+          "end": 137.18
         },
         {
-          "word": "Culture",
-          "startSec": 184.18,
-          "endSec": 184.76,
-          "score": 0.86
+          "word": "noodles,",
+          "start": 137.18,
+          "end": 137.64
+        },
+        {
+          "word": "rice,",
+          "start": 138.14,
+          "end": 138.56
+        },
+        {
+          "word": "vegetables,",
+          "start": 138.96,
+          "end": 139.58
         },
         {
           "word": "and",
-          "startSec": 184.76,
-          "endSec": 185.1,
-          "score": 0.76
+          "start": 140.04,
+          "end": 140.12
         },
         {
-          "word": "Festivals.",
-          "startSec": 185.1,
-          "endSec": 185.94,
-          "score": 0.97
+          "word": "meat.",
+          "start": 140.12,
+          "end": 140.84
         }
       ]
     },
     {
       "id": 29,
-      "start": 186.64,
-      "end": 190.29,
-      "text": "Luoyang has many cultural events and festivals.",
+      "start": 141.66,
+      "end": 149.6,
+      "text": "A popular dish is water banquet, a traditional meal with many small dishes served in soup.",
       "words": [
         {
-          "word": "Luoyang",
-          "startSec": 186.84,
-          "endSec": 187.58,
-          "score": 0.53
+          "word": "A",
+          "start": 141.66,
+          "end": 141.86
         },
         {
-          "word": "has",
-          "startSec": 187.58,
-          "endSec": 187.88,
-          "score": 1.0
+          "word": "popular",
+          "start": 141.86,
+          "end": 142.38
+        },
+        {
+          "word": "dish",
+          "start": 142.38,
+          "end": 142.88
+        },
+        {
+          "word": "is",
+          "start": 142.88,
+          "end": 143.14
+        },
+        {
+          "word": "water",
+          "start": 143.14,
+          "end": 143.54
+        },
+        {
+          "word": "banquet,",
+          "start": 143.54,
+          "end": 144.12
+        },
+        {
+          "word": "a",
+          "start": 144.78,
+          "end": 145.02
+        },
+        {
+          "word": "traditional",
+          "start": 145.02,
+          "end": 145.66
+        },
+        {
+          "word": "meal",
+          "start": 145.66,
+          "end": 146.28
+        },
+        {
+          "word": "with",
+          "start": 146.28,
+          "end": 146.58
         },
         {
           "word": "many",
-          "startSec": 187.88,
-          "endSec": 188.2,
-          "score": 1.0
+          "start": 146.58,
+          "end": 147.06
         },
         {
-          "word": "cultural",
-          "startSec": 188.2,
-          "endSec": 188.72,
-          "score": 0.99
+          "word": "small",
+          "start": 147.06,
+          "end": 147.52
         },
         {
-          "word": "events",
-          "startSec": 188.72,
-          "endSec": 189.46,
-          "score": 1.0
+          "word": "dishes",
+          "start": 147.52,
+          "end": 147.98
         },
         {
-          "word": "and",
-          "startSec": 189.46,
-          "endSec": 189.78,
-          "score": 0.97
+          "word": "served",
+          "start": 147.98,
+          "end": 148.52
         },
         {
-          "word": "festivals.",
-          "startSec": 189.78,
-          "endSec": 190.14,
-          "score": 1.0
+          "word": "in",
+          "start": 148.52,
+          "end": 148.82
+        },
+        {
+          "word": "soup.",
+          "start": 148.82,
+          "end": 149.6
         }
       ]
     },
     {
       "id": 30,
-      "start": 191.4,
-      "end": 198.27,
-      "text": "The most famous is the Peony Festival in Spring, celebrating flowers and beauty.",
+      "start": 149.82,
+      "end": 154.06,
+      "text": "Local pastries and tea are also very popular.",
       "words": [
         {
-          "word": "The",
-          "startSec": 191.6,
-          "endSec": 191.8,
-          "score": 0.99
+          "word": "Local",
+          "start": 149.82,
+          "end": 150.16
         },
         {
-          "word": "most",
-          "startSec": 191.8,
-          "endSec": 192.02,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 192.02,
-          "endSec": 192.66,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 192.66,
-          "endSec": 193.04,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 193.04,
-          "endSec": 193.26,
-          "score": 0.99
-        },
-        {
-          "word": "Peony",
-          "startSec": 193.26,
-          "endSec": 193.78,
-          "score": 0.63
-        },
-        {
-          "word": "Festival",
-          "startSec": 193.78,
-          "endSec": 194.16,
-          "score": 0.87
-        },
-        {
-          "word": "in",
-          "startSec": 194.16,
-          "endSec": 194.82,
-          "score": 0.98
-        },
-        {
-          "word": "Spring,",
-          "startSec": 194.82,
-          "endSec": 195.22,
-          "score": 0.46
-        },
-        {
-          "word": "celebrating",
-          "startSec": 195.96,
-          "endSec": 196.48,
-          "score": 0.92
-        },
-        {
-          "word": "flowers",
-          "startSec": 196.48,
-          "endSec": 197.16,
-          "score": 0.79
+          "word": "pastries",
+          "start": 150.16,
+          "end": 150.98
         },
         {
           "word": "and",
-          "startSec": 197.16,
-          "endSec": 197.82,
-          "score": 0.98
+          "start": 150.98,
+          "end": 151.32
         },
         {
-          "word": "beauty.",
-          "startSec": 197.82,
-          "endSec": 198.12,
-          "score": 1.0
+          "word": "tea",
+          "start": 151.32,
+          "end": 151.72
+        },
+        {
+          "word": "are",
+          "start": 151.72,
+          "end": 152.04
+        },
+        {
+          "word": "also",
+          "start": 152.04,
+          "end": 152.54
+        },
+        {
+          "word": "very",
+          "start": 152.54,
+          "end": 152.96
+        },
+        {
+          "word": "popular.",
+          "start": 152.96,
+          "end": 154.06
         }
       ]
     },
     {
       "id": 31,
-      "start": 198.97,
-      "end": 204.68,
-      "text": "Traditional music, dance, and ceremonies are part of daily life.",
+      "start": 154.86,
+      "end": 159.06,
+      "text": "Part seven, the people of Luoyang.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 199.17,
-          "endSec": 199.69,
-          "score": 0.96
+          "word": "Part",
+          "start": 154.86,
+          "end": 155.38
         },
         {
-          "word": "music,",
-          "startSec": 199.69,
-          "endSec": 200.59,
-          "score": 0.99
+          "word": "seven,",
+          "start": 155.38,
+          "end": 156.02
         },
         {
-          "word": "dance,",
-          "startSec": 200.99,
-          "endSec": 201.31,
-          "score": 1.0
+          "word": "the",
+          "start": 156.8,
+          "end": 156.96
         },
         {
-          "word": "and",
-          "startSec": 201.87,
-          "endSec": 201.93,
-          "score": 0.99
-        },
-        {
-          "word": "ceremonies",
-          "startSec": 201.93,
-          "endSec": 202.57,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 202.57,
-          "endSec": 203.09,
-          "score": 1.0
-        },
-        {
-          "word": "part",
-          "startSec": 203.09,
-          "endSec": 203.37,
-          "score": 0.95
+          "word": "people",
+          "start": 156.96,
+          "end": 157.42
         },
         {
           "word": "of",
-          "startSec": 203.37,
-          "endSec": 203.65,
-          "score": 1.0
+          "start": 157.42,
+          "end": 157.74
         },
         {
-          "word": "daily",
-          "startSec": 203.65,
-          "endSec": 203.95,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 203.95,
-          "endSec": 204.53,
-          "score": 1.0
+          "word": "Luoyang.",
+          "start": 157.74,
+          "end": 159.06
         }
       ]
     },
     {
       "id": 32,
-      "start": 205.13,
-      "end": 209.34,
-      "text": "Visitors can enjoy and sometimes join local festivities.",
+      "start": 159.62,
+      "end": 163.36,
+      "text": "People in Luoyang are friendly and polite.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 205.33,
-          "endSec": 205.75,
-          "score": 0.98
+          "word": "People",
+          "start": 159.62,
+          "end": 160.34
         },
         {
-          "word": "can",
-          "startSec": 205.75,
-          "endSec": 206.31,
-          "score": 1.0
+          "word": "in",
+          "start": 160.34,
+          "end": 160.68
         },
         {
-          "word": "enjoy",
-          "startSec": 206.31,
-          "endSec": 206.77,
-          "score": 1.0
+          "word": "Luoyang",
+          "start": 160.68,
+          "end": 161.36
+        },
+        {
+          "word": "are",
+          "start": 161.36,
+          "end": 161.7
+        },
+        {
+          "word": "friendly",
+          "start": 161.7,
+          "end": 162.24
         },
         {
           "word": "and",
-          "startSec": 206.77,
-          "endSec": 207.19,
-          "score": 0.93
+          "start": 162.24,
+          "end": 162.52
         },
         {
-          "word": "sometimes",
-          "startSec": 207.19,
-          "endSec": 207.75,
-          "score": 1.0
-        },
-        {
-          "word": "join",
-          "startSec": 207.75,
-          "endSec": 208.31,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 208.31,
-          "endSec": 208.75,
-          "score": 1.0
-        },
-        {
-          "word": "festivities.",
-          "startSec": 208.75,
-          "endSec": 209.19,
-          "score": 0.99
+          "word": "polite.",
+          "start": 162.52,
+          "end": 163.36
         }
       ]
     },
     {
       "id": 33,
-      "start": 210.12,
-      "end": 214.11,
-      "text": "Part 9, Nature Around Luoyang.",
+      "start": 163.72,
+      "end": 168.56,
+      "text": "They speak Mandarin Chinese and some speak English for tourists.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 210.32,
-          "endSec": 211.12,
-          "score": 0.02
+          "word": "They",
+          "start": 163.72,
+          "end": 163.86
         },
         {
-          "word": "9,",
-          "startSec": 211.12,
-          "endSec": 211.64,
-          "score": 0.55
+          "word": "speak",
+          "start": 163.86,
+          "end": 164.26
         },
         {
-          "word": "Nature",
-          "startSec": 212.32,
-          "endSec": 212.84,
-          "score": 0.68
+          "word": "Mandarin",
+          "start": 164.26,
+          "end": 164.74
         },
         {
-          "word": "Around",
-          "startSec": 212.84,
-          "endSec": 213.22,
-          "score": 0.87
+          "word": "Chinese",
+          "start": 164.74,
+          "end": 165.24
         },
         {
-          "word": "Luoyang.",
-          "startSec": 213.22,
-          "endSec": 213.96,
-          "score": 0.61
+          "word": "and",
+          "start": 165.24,
+          "end": 166.04
+        },
+        {
+          "word": "some",
+          "start": 166.04,
+          "end": 166.34
+        },
+        {
+          "word": "speak",
+          "start": 166.34,
+          "end": 166.76
+        },
+        {
+          "word": "English",
+          "start": 166.76,
+          "end": 167.2
+        },
+        {
+          "word": "for",
+          "start": 167.2,
+          "end": 167.68
+        },
+        {
+          "word": "tourists.",
+          "start": 167.68,
+          "end": 168.56
         }
       ]
     },
     {
       "id": 34,
-      "start": 214.18,
-      "end": 218.97,
-      "text": "Luoyang is near rivers, hills, and green landscapes.",
+      "start": 169.38,
+      "end": 175.08,
+      "text": "Life is calm, family is important, and traditions are respected.",
       "words": [
         {
-          "word": "Luoyang",
-          "startSec": 214.38,
-          "endSec": 215.14,
-          "score": 0.98
+          "word": "Life",
+          "start": 169.38,
+          "end": 169.72
         },
         {
           "word": "is",
-          "startSec": 215.14,
-          "endSec": 215.32,
-          "score": 0.99
+          "start": 169.72,
+          "end": 170.04
         },
         {
-          "word": "near",
-          "startSec": 215.32,
-          "endSec": 215.56,
-          "score": 1.0
+          "word": "calm,",
+          "start": 170.04,
+          "end": 170.54
         },
         {
-          "word": "rivers,",
-          "startSec": 215.56,
-          "endSec": 216.1,
-          "score": 1.0
+          "word": "family",
+          "start": 171.12,
+          "end": 171.68
         },
         {
-          "word": "hills,",
-          "startSec": 216.28,
-          "endSec": 217.12,
-          "score": 1.0
+          "word": "is",
+          "start": 171.68,
+          "end": 171.98
+        },
+        {
+          "word": "important,",
+          "start": 171.98,
+          "end": 172.64
         },
         {
           "word": "and",
-          "startSec": 217.64,
-          "endSec": 217.68,
-          "score": 1.0
+          "start": 172.92,
+          "end": 173.08
         },
         {
-          "word": "green",
-          "startSec": 217.68,
-          "endSec": 217.96,
-          "score": 0.89
+          "word": "traditions",
+          "start": 173.08,
+          "end": 173.58
         },
         {
-          "word": "landscapes.",
-          "startSec": 217.96,
-          "endSec": 218.82,
-          "score": 1.0
+          "word": "are",
+          "start": 173.58,
+          "end": 173.98
+        },
+        {
+          "word": "respected.",
+          "start": 173.98,
+          "end": 175.08
         }
       ]
     },
     {
       "id": 35,
-      "start": 219.96,
-      "end": 225.09,
-      "text": "You can hike, visit parks, or explore nature around the city.",
+      "start": 175.32,
+      "end": 181.38,
+      "text": "People enjoy festivals, music, and cultural activities.",
       "words": [
         {
-          "word": "You",
-          "startSec": 220.16,
-          "endSec": 220.4,
-          "score": 0.99
+          "word": "People",
+          "start": 175.32,
+          "end": 176.16
         },
         {
-          "word": "can",
-          "startSec": 220.4,
-          "endSec": 220.62,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 176.16,
+          "end": 176.72
         },
         {
-          "word": "hike,",
-          "startSec": 220.62,
-          "endSec": 221.0,
-          "score": 1.0
+          "word": "festivals,",
+          "start": 176.72,
+          "end": 177.3
         },
         {
-          "word": "visit",
-          "startSec": 221.16,
-          "endSec": 221.7,
-          "score": 1.0
+          "word": "music,",
+          "start": 178.08,
+          "end": 178.7
         },
         {
-          "word": "parks,",
-          "startSec": 221.7,
-          "endSec": 222.14,
-          "score": 0.98
+          "word": "and",
+          "start": 179.38,
+          "end": 179.66
         },
         {
-          "word": "or",
-          "startSec": 222.7,
-          "endSec": 222.78,
-          "score": 0.99
+          "word": "cultural",
+          "start": 179.66,
+          "end": 180.16
         },
         {
-          "word": "explore",
-          "startSec": 222.78,
-          "endSec": 223.32,
-          "score": 1.0
-        },
-        {
-          "word": "nature",
-          "startSec": 223.32,
-          "endSec": 223.78,
-          "score": 0.99
-        },
-        {
-          "word": "around",
-          "startSec": 223.78,
-          "endSec": 224.3,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 224.3,
-          "endSec": 224.58,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 224.58,
-          "endSec": 224.94,
-          "score": 0.99
+          "word": "activities.",
+          "start": 180.16,
+          "end": 181.38
         }
       ]
     },
     {
       "id": 36,
-      "start": 226.03,
-      "end": 231.8,
-      "text": "The air is fresh, and natural scenery is beautiful and peaceful.",
+      "start": 182.08,
+      "end": 186.22,
+      "text": "Part eight, culture and festivals.",
       "words": [
         {
-          "word": "The",
-          "startSec": 226.23,
-          "endSec": 226.39,
-          "score": 1.0
+          "word": "Part",
+          "start": 182.08,
+          "end": 182.86
         },
         {
-          "word": "air",
-          "startSec": 226.39,
-          "endSec": 226.67,
-          "score": 1.0
+          "word": "eight,",
+          "start": 182.86,
+          "end": 183.34
         },
         {
-          "word": "is",
-          "startSec": 226.67,
-          "endSec": 226.97,
-          "score": 1.0
-        },
-        {
-          "word": "fresh,",
-          "startSec": 226.97,
-          "endSec": 227.39,
-          "score": 1.0
+          "word": "culture",
+          "start": 184.24,
+          "end": 184.78
         },
         {
           "word": "and",
-          "startSec": 228.01,
-          "endSec": 228.35,
-          "score": 1.0
+          "start": 184.78,
+          "end": 185.14
         },
         {
-          "word": "natural",
-          "startSec": 228.35,
-          "endSec": 228.93,
-          "score": 0.99
-        },
-        {
-          "word": "scenery",
-          "startSec": 228.93,
-          "endSec": 229.41,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 229.41,
-          "endSec": 230.07,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 230.07,
-          "endSec": 230.65,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 230.65,
-          "endSec": 231.21,
-          "score": 0.99
-        },
-        {
-          "word": "peaceful.",
-          "startSec": 231.21,
-          "endSec": 231.65,
-          "score": 1.0
+          "word": "festivals.",
+          "start": 185.14,
+          "end": 186.22
         }
       ]
     },
     {
       "id": 37,
-      "start": 232.62,
-      "end": 238.25,
-      "text": "It is perfect for photography, walking, and quiet reflection.",
+      "start": 186.86,
+      "end": 190.92,
+      "text": "Luoyang has many cultural events and festivals.",
       "words": [
         {
-          "word": "It",
-          "startSec": 232.82,
-          "endSec": 233.22,
-          "score": 1.0
+          "word": "Luoyang",
+          "start": 186.86,
+          "end": 187.64
         },
         {
-          "word": "is",
-          "startSec": 233.22,
-          "endSec": 233.36,
-          "score": 0.99
+          "word": "has",
+          "start": 187.64,
+          "end": 187.94
         },
         {
-          "word": "perfect",
-          "startSec": 233.36,
-          "endSec": 233.82,
-          "score": 1.0
+          "word": "many",
+          "start": 187.94,
+          "end": 188.32
         },
         {
-          "word": "for",
-          "startSec": 233.82,
-          "endSec": 234.38,
-          "score": 1.0
+          "word": "cultural",
+          "start": 188.32,
+          "end": 188.84
         },
         {
-          "word": "photography,",
-          "startSec": 234.38,
-          "endSec": 234.84,
-          "score": 1.0
-        },
-        {
-          "word": "walking,",
-          "startSec": 235.74,
-          "endSec": 236.06,
-          "score": 1.0
+          "word": "events",
+          "start": 188.84,
+          "end": 189.52
         },
         {
           "word": "and",
-          "startSec": 236.8,
-          "endSec": 236.88,
-          "score": 1.0
+          "start": 189.52,
+          "end": 189.86
         },
         {
-          "word": "quiet",
-          "startSec": 236.88,
-          "endSec": 237.28,
-          "score": 1.0
-        },
-        {
-          "word": "reflection.",
-          "startSec": 237.28,
-          "endSec": 238.1,
-          "score": 0.98
+          "word": "festivals.",
+          "start": 189.86,
+          "end": 190.92
         }
       ]
     },
     {
       "id": 38,
-      "start": 240.21,
-      "end": 243.49,
-      "text": "Part 10, Travel and Tourism.",
+      "start": 191.68,
+      "end": 198.72,
+      "text": "The most famous is the Peony Festival in Spring, celebrating flowers and beauty.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 240.41,
-          "endSec": 240.9,
-          "score": 0.25
+          "word": "The",
+          "start": 191.68,
+          "end": 191.84
         },
         {
-          "word": "10,",
-          "startSec": 240.9,
-          "endSec": 241.44,
-          "score": 0.88
+          "word": "most",
+          "start": 191.84,
+          "end": 192.18
         },
         {
-          "word": "Travel",
-          "startSec": 242.12,
-          "endSec": 242.72,
-          "score": 0.51
+          "word": "famous",
+          "start": 192.18,
+          "end": 192.7
+        },
+        {
+          "word": "is",
+          "start": 192.7,
+          "end": 193.1
+        },
+        {
+          "word": "the",
+          "start": 193.1,
+          "end": 193.32
+        },
+        {
+          "word": "Peony",
+          "start": 193.32,
+          "end": 193.82
+        },
+        {
+          "word": "Festival",
+          "start": 193.82,
+          "end": 194.4
+        },
+        {
+          "word": "in",
+          "start": 194.4,
+          "end": 194.86
+        },
+        {
+          "word": "Spring,",
+          "start": 194.86,
+          "end": 195.3
+        },
+        {
+          "word": "celebrating",
+          "start": 195.88,
+          "end": 196.64
+        },
+        {
+          "word": "flowers",
+          "start": 196.64,
+          "end": 197.46
         },
         {
           "word": "and",
-          "startSec": 242.72,
-          "endSec": 243.02,
-          "score": 0.82
+          "start": 197.46,
+          "end": 197.88
         },
         {
-          "word": "Tourism.",
-          "startSec": 243.02,
-          "endSec": 243.34,
-          "score": 0.96
+          "word": "beauty.",
+          "start": 197.88,
+          "end": 198.72
         }
       ]
     },
     {
       "id": 39,
-      "start": 244.44,
-      "end": 253.25,
-      "text": "Luoyang is reachable by plain, train, or bus from other Chinese cities like Beijing or Shian.",
+      "start": 199.32,
+      "end": 205.12,
+      "text": "Traditional music, dance, and ceremonies are part of daily life.",
       "words": [
         {
-          "word": "Luoyang",
-          "startSec": 244.64,
-          "endSec": 245.54,
-          "score": 0.78
+          "word": "Traditional",
+          "start": 199.32,
+          "end": 199.88
         },
         {
-          "word": "is",
-          "startSec": 245.54,
-          "endSec": 245.78,
-          "score": 0.99
+          "word": "music,",
+          "start": 199.88,
+          "end": 200.58
         },
         {
-          "word": "reachable",
-          "startSec": 245.78,
-          "endSec": 246.46,
-          "score": 0.98
+          "word": "dance,",
+          "start": 201.12,
+          "end": 201.54
         },
         {
-          "word": "by",
-          "startSec": 246.46,
-          "endSec": 246.74,
-          "score": 1.0
+          "word": "and",
+          "start": 201.86,
+          "end": 202.0
         },
         {
-          "word": "plain,",
-          "startSec": 246.74,
-          "endSec": 247.18,
-          "score": 0.07
+          "word": "ceremonies",
+          "start": 202.0,
+          "end": 202.7
         },
         {
-          "word": "train,",
-          "startSec": 247.8,
-          "endSec": 248.1,
-          "score": 0.94
+          "word": "are",
+          "start": 202.7,
+          "end": 203.14
         },
         {
-          "word": "or",
-          "startSec": 248.68,
-          "endSec": 248.72,
-          "score": 1.0
+          "word": "part",
+          "start": 203.14,
+          "end": 203.52
         },
         {
-          "word": "bus",
-          "startSec": 248.72,
-          "endSec": 249.0,
-          "score": 0.96
+          "word": "of",
+          "start": 203.52,
+          "end": 203.7
         },
         {
-          "word": "from",
-          "startSec": 249.0,
-          "endSec": 249.4,
-          "score": 0.99
+          "word": "daily",
+          "start": 203.7,
+          "end": 204.08
         },
         {
-          "word": "other",
-          "startSec": 249.4,
-          "endSec": 249.8,
-          "score": 1.0
-        },
-        {
-          "word": "Chinese",
-          "startSec": 249.8,
-          "endSec": 250.14,
-          "score": 0.96
-        },
-        {
-          "word": "cities",
-          "startSec": 250.14,
-          "endSec": 250.92,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 250.92,
-          "endSec": 251.42,
-          "score": 0.91
-        },
-        {
-          "word": "Beijing",
-          "startSec": 251.42,
-          "endSec": 251.96,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 251.96,
-          "endSec": 252.66,
-          "score": 0.93
-        },
-        {
-          "word": "Shian.",
-          "startSec": 252.66,
-          "endSec": 253.1,
-          "score": 0.31
+          "word": "life.",
+          "start": 204.08,
+          "end": 205.12
         }
       ]
     },
     {
       "id": 40,
-      "start": 253.83,
-      "end": 258.64,
-      "text": "Tourists come to see history, temples, and natural beauty.",
+      "start": 205.34,
+      "end": 210.14,
+      "text": "Visitors can enjoy and sometimes join local festivities.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 254.03,
-          "endSec": 254.81,
-          "score": 0.95
+          "word": "Visitors",
+          "start": 205.34,
+          "end": 206.0
         },
         {
-          "word": "come",
-          "startSec": 254.81,
-          "endSec": 255.07,
-          "score": 1.0
+          "word": "can",
+          "start": 206.0,
+          "end": 206.36
         },
         {
-          "word": "to",
-          "startSec": 255.07,
-          "endSec": 255.33,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 255.33,
-          "endSec": 255.57,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 255.57,
-          "endSec": 256.15,
-          "score": 0.99
-        },
-        {
-          "word": "temples,",
-          "startSec": 256.77,
-          "endSec": 256.91,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 206.36,
+          "end": 206.94
         },
         {
           "word": "and",
-          "startSec": 257.49,
-          "endSec": 257.57,
-          "score": 1.0
+          "start": 206.94,
+          "end": 207.26
         },
         {
-          "word": "natural",
-          "startSec": 257.57,
-          "endSec": 258.03,
-          "score": 1.0
+          "word": "sometimes",
+          "start": 207.26,
+          "end": 207.86
         },
         {
-          "word": "beauty.",
-          "startSec": 258.03,
-          "endSec": 258.49,
-          "score": 1.0
+          "word": "join",
+          "start": 207.86,
+          "end": 208.4
+        },
+        {
+          "word": "local",
+          "start": 208.4,
+          "end": 208.8
+        },
+        {
+          "word": "festivities.",
+          "start": 208.8,
+          "end": 210.14
         }
       ]
     },
     {
       "id": 41,
-      "start": 259.4,
-      "end": 263.83,
-      "text": "Tourism helps local people earn money and preserve traditions.",
+      "start": 210.84,
+      "end": 214.34,
+      "text": "Part nine, nature around Luoyang.",
       "words": [
         {
-          "word": "Tourism",
-          "startSec": 259.6,
-          "endSec": 259.92,
-          "score": 0.93
+          "word": "Part",
+          "start": 210.84,
+          "end": 211.3
         },
         {
-          "word": "helps",
-          "startSec": 259.92,
-          "endSec": 260.5,
-          "score": 1.0
+          "word": "nine,",
+          "start": 211.3,
+          "end": 211.8
         },
         {
-          "word": "local",
-          "startSec": 260.5,
-          "endSec": 260.98,
-          "score": 0.99
+          "word": "nature",
+          "start": 212.54,
+          "end": 212.78
         },
         {
-          "word": "people",
-          "startSec": 260.98,
-          "endSec": 261.58,
-          "score": 1.0
+          "word": "around",
+          "start": 212.78,
+          "end": 213.32
         },
         {
-          "word": "earn",
-          "startSec": 261.58,
-          "endSec": 261.94,
-          "score": 1.0
-        },
-        {
-          "word": "money",
-          "startSec": 261.94,
-          "endSec": 262.52,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 262.52,
-          "endSec": 262.74,
-          "score": 0.97
-        },
-        {
-          "word": "preserve",
-          "startSec": 262.74,
-          "endSec": 263.0,
-          "score": 0.99
-        },
-        {
-          "word": "traditions.",
-          "startSec": 263.0,
-          "endSec": 263.68,
-          "score": 0.99
+          "word": "Luoyang.",
+          "start": 213.32,
+          "end": 214.34
         }
       ]
     },
     {
       "id": 42,
-      "start": 264.6,
-      "end": 268.27,
-      "text": "Part 11, Daily Life in Luoyang.",
+      "start": 214.56,
+      "end": 219.26,
+      "text": "Luoyang is near rivers, hills, and green landscapes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 264.8,
-          "endSec": 265.36,
-          "score": 0.51
+          "word": "Luoyang",
+          "start": 214.56,
+          "end": 215.18
         },
         {
-          "word": "11,",
-          "startSec": 265.36,
-          "endSec": 266.04,
-          "score": 0.94
+          "word": "is",
+          "start": 215.18,
+          "end": 215.38
         },
         {
-          "word": "Daily",
-          "startSec": 266.48,
-          "endSec": 266.66,
-          "score": 0.64
+          "word": "near",
+          "start": 215.38,
+          "end": 215.64
         },
         {
-          "word": "Life",
-          "startSec": 266.66,
-          "endSec": 267.26,
-          "score": 0.96
+          "word": "rivers,",
+          "start": 215.64,
+          "end": 216.18
         },
         {
-          "word": "in",
-          "startSec": 267.26,
-          "endSec": 267.48,
-          "score": 0.9
+          "word": "hills,",
+          "start": 216.7,
+          "end": 217.28
         },
         {
-          "word": "Luoyang.",
-          "startSec": 267.48,
-          "endSec": 268.12,
-          "score": 0.55
+          "word": "and",
+          "start": 217.66,
+          "end": 217.78
+        },
+        {
+          "word": "green",
+          "start": 217.78,
+          "end": 218.12
+        },
+        {
+          "word": "landscapes.",
+          "start": 218.12,
+          "end": 219.26
         }
       ]
     },
     {
       "id": 43,
-      "start": 268.46,
-      "end": 272.05,
-      "text": "Life in Luoyang is calm and simple.",
+      "start": 220.04,
+      "end": 225.44,
+      "text": "You can hike, visit parks, or explore nature around the city.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 268.66,
-          "endSec": 269.36,
-          "score": 0.99
+          "word": "You",
+          "start": 220.04,
+          "end": 220.42
         },
         {
-          "word": "in",
-          "startSec": 269.36,
-          "endSec": 269.66,
-          "score": 0.99
+          "word": "can",
+          "start": 220.42,
+          "end": 220.7
         },
         {
-          "word": "Luoyang",
-          "startSec": 269.66,
-          "endSec": 270.34,
-          "score": 0.98
+          "word": "hike,",
+          "start": 220.7,
+          "end": 221.14
         },
         {
-          "word": "is",
-          "startSec": 270.34,
-          "endSec": 270.54,
-          "score": 0.99
+          "word": "visit",
+          "start": 221.62,
+          "end": 221.78
         },
         {
-          "word": "calm",
-          "startSec": 270.54,
-          "endSec": 270.98,
-          "score": 1.0
+          "word": "parks,",
+          "start": 221.78,
+          "end": 222.38
         },
         {
-          "word": "and",
-          "startSec": 270.98,
-          "endSec": 271.36,
-          "score": 1.0
+          "word": "or",
+          "start": 222.72,
+          "end": 222.84
         },
         {
-          "word": "simple.",
-          "startSec": 271.36,
-          "endSec": 271.9,
-          "score": 1.0
+          "word": "explore",
+          "start": 222.84,
+          "end": 223.36
+        },
+        {
+          "word": "nature",
+          "start": 223.36,
+          "end": 223.9
+        },
+        {
+          "word": "around",
+          "start": 223.9,
+          "end": 224.42
+        },
+        {
+          "word": "the",
+          "start": 224.42,
+          "end": 224.66
+        },
+        {
+          "word": "city.",
+          "start": 224.66,
+          "end": 225.44
         }
       ]
     },
     {
       "id": 44,
-      "start": 272.54,
-      "end": 278.79,
-      "text": "People wake up early, go to work or school, and spend time with family.",
+      "start": 226.14,
+      "end": 232.24,
+      "text": "The air is fresh and natural scenery is beautiful and peaceful.",
       "words": [
         {
-          "word": "People",
-          "startSec": 272.74,
-          "endSec": 273.04,
-          "score": 0.99
+          "word": "The",
+          "start": 226.14,
+          "end": 226.46
         },
         {
-          "word": "wake",
-          "startSec": 273.04,
-          "endSec": 273.5,
-          "score": 0.99
+          "word": "air",
+          "start": 226.46,
+          "end": 226.74
         },
         {
-          "word": "up",
-          "startSec": 273.5,
-          "endSec": 273.72,
-          "score": 1.0
+          "word": "is",
+          "start": 226.74,
+          "end": 227.04
         },
         {
-          "word": "early,",
-          "startSec": 273.72,
-          "endSec": 274.2,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 274.96,
-          "endSec": 275.16,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 275.16,
-          "endSec": 275.34,
-          "score": 0.99
-        },
-        {
-          "word": "work",
-          "startSec": 275.34,
-          "endSec": 275.66,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 275.66,
-          "endSec": 275.9,
-          "score": 0.99
-        },
-        {
-          "word": "school,",
-          "startSec": 275.9,
-          "endSec": 276.3,
-          "score": 1.0
+          "word": "fresh",
+          "start": 227.04,
+          "end": 227.46
         },
         {
           "word": "and",
-          "startSec": 277.04,
-          "endSec": 277.24,
-          "score": 0.99
+          "start": 227.46,
+          "end": 228.38
         },
         {
-          "word": "spend",
-          "startSec": 277.24,
-          "endSec": 277.6,
-          "score": 1.0
+          "word": "natural",
+          "start": 228.38,
+          "end": 229.02
         },
         {
-          "word": "time",
-          "startSec": 277.6,
-          "endSec": 278.0,
-          "score": 1.0
+          "word": "scenery",
+          "start": 229.02,
+          "end": 229.62
         },
         {
-          "word": "with",
-          "startSec": 278.0,
-          "endSec": 278.28,
-          "score": 1.0
+          "word": "is",
+          "start": 229.62,
+          "end": 230.18
         },
         {
-          "word": "family.",
-          "startSec": 278.28,
-          "endSec": 278.64,
-          "score": 0.98
+          "word": "beautiful",
+          "start": 230.18,
+          "end": 230.88
+        },
+        {
+          "word": "and",
+          "start": 230.88,
+          "end": 231.26
+        },
+        {
+          "word": "peaceful.",
+          "start": 231.26,
+          "end": 232.24
         }
       ]
     },
     {
       "id": 45,
-      "start": 279.49,
-      "end": 287.08,
-      "text": "Children play in streets or parks, and families enjoy local markets and tea houses.",
+      "start": 232.92,
+      "end": 238.62,
+      "text": "It is perfect for photography, walking, and quiet reflection.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 279.69,
-          "endSec": 280.19,
-          "score": 0.99
+          "word": "It",
+          "start": 232.92,
+          "end": 233.26
         },
         {
-          "word": "play",
-          "startSec": 280.19,
-          "endSec": 280.71,
-          "score": 0.99
+          "word": "is",
+          "start": 233.26,
+          "end": 233.46
         },
         {
-          "word": "in",
-          "startSec": 280.71,
-          "endSec": 280.97,
-          "score": 1.0
+          "word": "perfect",
+          "start": 233.46,
+          "end": 234.02
         },
         {
-          "word": "streets",
-          "startSec": 280.97,
-          "endSec": 281.35,
-          "score": 0.96
+          "word": "for",
+          "start": 234.02,
+          "end": 234.42
         },
         {
-          "word": "or",
-          "startSec": 281.35,
-          "endSec": 281.85,
-          "score": 0.98
+          "word": "photography,",
+          "start": 234.42,
+          "end": 235.16
         },
         {
-          "word": "parks,",
-          "startSec": 281.85,
-          "endSec": 282.17,
-          "score": 1.0
+          "word": "walking,",
+          "start": 235.76,
+          "end": 236.38
         },
         {
           "word": "and",
-          "startSec": 283.09,
-          "endSec": 283.51,
-          "score": 0.99
+          "start": 236.84,
+          "end": 236.92
         },
         {
-          "word": "families",
-          "startSec": 283.51,
-          "endSec": 284.07,
-          "score": 1.0
+          "word": "quiet",
+          "start": 236.92,
+          "end": 237.38
         },
         {
-          "word": "enjoy",
-          "startSec": 284.07,
-          "endSec": 284.57,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 284.57,
-          "endSec": 285.09,
-          "score": 1.0
-        },
-        {
-          "word": "markets",
-          "startSec": 285.09,
-          "endSec": 285.83,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 285.83,
-          "endSec": 286.19,
-          "score": 0.99
-        },
-        {
-          "word": "tea",
-          "startSec": 286.19,
-          "endSec": 286.43,
-          "score": 0.61
-        },
-        {
-          "word": "houses.",
-          "startSec": 286.43,
-          "endSec": 286.93,
-          "score": 0.92
+          "word": "reflection.",
+          "start": 237.38,
+          "end": 238.62
         }
       ]
     },
     {
       "id": 46,
-      "start": 287.67,
-      "end": 292.84,
-      "text": "Life is connected to culture, community, and nature.",
+      "start": 239.96,
+      "end": 244.2,
+      "text": "Part 10, travel and tourism.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 287.87,
-          "endSec": 288.19,
-          "score": 1.0
+          "word": "Part",
+          "start": 239.96,
+          "end": 240.96
         },
         {
-          "word": "is",
-          "startSec": 288.19,
-          "endSec": 288.53,
-          "score": 1.0
+          "word": "10,",
+          "start": 240.96,
+          "end": 241.56
         },
         {
-          "word": "connected",
-          "startSec": 288.53,
-          "endSec": 288.99,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 288.99,
-          "endSec": 289.51,
-          "score": 1.0
-        },
-        {
-          "word": "culture,",
-          "startSec": 289.51,
-          "endSec": 289.97,
-          "score": 0.99
-        },
-        {
-          "word": "community,",
-          "startSec": 290.79,
-          "endSec": 291.25,
-          "score": 1.0
+          "word": "travel",
+          "start": 242.14,
+          "end": 242.72
         },
         {
           "word": "and",
-          "startSec": 292.17,
-          "endSec": 292.21,
-          "score": 1.0
+          "start": 242.72,
+          "end": 243.08
         },
         {
-          "word": "nature.",
-          "startSec": 292.21,
-          "endSec": 292.69,
-          "score": 1.0
+          "word": "tourism.",
+          "start": 243.08,
+          "end": 244.2
         }
       ]
     },
     {
       "id": 47,
-      "start": 293.79,
-      "end": 297.44,
-      "text": "Part 12, Why Luoyang is special?",
+      "start": 244.72,
+      "end": 253.84,
+      "text": "Luoyang is reachable by plane, train, or bus from other Chinese cities like Beijing or Xi 'an.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 293.99,
-          "endSec": 294.47,
-          "score": 0.28
-        },
-        {
-          "word": "12,",
-          "startSec": 294.47,
-          "endSec": 295.17,
-          "score": 0.93
-        },
-        {
-          "word": "Why",
-          "startSec": 295.97,
-          "endSec": 296.31,
-          "score": 0.31
-        },
-        {
           "word": "Luoyang",
-          "startSec": 296.31,
-          "endSec": 296.87,
-          "score": 0.58
+          "start": 244.72,
+          "end": 245.56
         },
         {
           "word": "is",
-          "startSec": 296.87,
-          "endSec": 297.01,
-          "score": 0.97
+          "start": 245.56,
+          "end": 245.88
         },
         {
-          "word": "special?",
-          "startSec": 297.01,
-          "endSec": 297.29,
-          "score": 0.45
+          "word": "reachable",
+          "start": 245.88,
+          "end": 246.52
+        },
+        {
+          "word": "by",
+          "start": 246.52,
+          "end": 246.78
+        },
+        {
+          "word": "plane,",
+          "start": 246.78,
+          "end": 247.42
+        },
+        {
+          "word": "train,",
+          "start": 248.04,
+          "end": 248.26
+        },
+        {
+          "word": "or",
+          "start": 248.72,
+          "end": 248.76
+        },
+        {
+          "word": "bus",
+          "start": 248.76,
+          "end": 249.1
+        },
+        {
+          "word": "from",
+          "start": 249.1,
+          "end": 249.48
+        },
+        {
+          "word": "other",
+          "start": 249.48,
+          "end": 249.86
+        },
+        {
+          "word": "Chinese",
+          "start": 249.86,
+          "end": 250.42
+        },
+        {
+          "word": "cities",
+          "start": 250.42,
+          "end": 250.98
+        },
+        {
+          "word": "like",
+          "start": 250.98,
+          "end": 251.48
+        },
+        {
+          "word": "Beijing",
+          "start": 251.48,
+          "end": 252.1
+        },
+        {
+          "word": "or",
+          "start": 252.1,
+          "end": 252.7
+        },
+        {
+          "word": "Xi",
+          "start": 252.7,
+          "end": 253.06
+        },
+        {
+          "word": "'an.",
+          "start": 253.06,
+          "end": 253.84
         }
       ]
     },
     {
       "id": 48,
-      "start": 298.45,
-      "end": 307.02,
-      "text": "Luoyang is not as famous as Beijing or Shanghai, but it is full of history, culture, and calm",
+      "start": 254.1,
+      "end": 259.06,
+      "text": "Tourists come to see history, temples, and natural beauty.",
       "words": [
         {
-          "word": "Luoyang",
-          "startSec": 298.65,
-          "endSec": 299.31,
-          "score": 0.98
+          "word": "Tourists",
+          "start": 254.1,
+          "end": 254.84
         },
         {
-          "word": "is",
-          "startSec": 299.31,
-          "endSec": 299.49,
-          "score": 0.99
+          "word": "come",
+          "start": 254.84,
+          "end": 255.16
         },
         {
-          "word": "not",
-          "startSec": 299.49,
-          "endSec": 299.81,
-          "score": 1.0
+          "word": "to",
+          "start": 255.16,
+          "end": 255.38
         },
         {
-          "word": "as",
-          "startSec": 299.81,
-          "endSec": 300.05,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 300.05,
-          "endSec": 300.39,
-          "score": 1.0
-        },
-        {
-          "word": "as",
-          "startSec": 300.39,
-          "endSec": 300.79,
-          "score": 1.0
-        },
-        {
-          "word": "Beijing",
-          "startSec": 300.79,
-          "endSec": 301.19,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 301.19,
-          "endSec": 301.81,
-          "score": 0.97
-        },
-        {
-          "word": "Shanghai,",
-          "startSec": 301.81,
-          "endSec": 302.15,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 303.17,
-          "endSec": 303.47,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 303.47,
-          "endSec": 303.61,
-          "score": 0.93
-        },
-        {
-          "word": "is",
-          "startSec": 303.61,
-          "endSec": 303.79,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 303.79,
-          "endSec": 304.05,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 304.05,
-          "endSec": 304.25,
-          "score": 1.0
+          "word": "see",
+          "start": 255.38,
+          "end": 255.62
         },
         {
           "word": "history,",
-          "startSec": 304.25,
-          "endSec": 304.81,
-          "score": 0.97
+          "start": 255.62,
+          "end": 256.32
         },
         {
-          "word": "culture,",
-          "startSec": 305.29,
-          "endSec": 305.53,
-          "score": 1.0
+          "word": "temples,",
+          "start": 256.7,
+          "end": 257.14
         },
         {
           "word": "and",
-          "startSec": 306.51,
-          "endSec": 306.53,
-          "score": 1.0
+          "start": 257.48,
+          "end": 257.66
         },
         {
-          "word": "calm",
-          "startSec": 306.53,
-          "endSec": 306.87,
-          "score": 0.99
+          "word": "natural",
+          "start": 257.66,
+          "end": 258.12
+        },
+        {
+          "word": "beauty.",
+          "start": 258.12,
+          "end": 259.06
         }
       ]
     },
     {
       "id": 49,
-      "start": 306.67,
-      "end": 307.56,
-      "text": "life.",
+      "start": 259.46,
+      "end": 264.28,
+      "text": "Tourism helps local people earn money and preserve traditions.",
       "words": [
         {
-          "word": "life.",
-          "startSec": 306.87,
-          "endSec": 307.41,
-          "score": 0.99
+          "word": "Tourism",
+          "start": 259.46,
+          "end": 260.26
+        },
+        {
+          "word": "helps",
+          "start": 260.26,
+          "end": 260.64
+        },
+        {
+          "word": "local",
+          "start": 260.64,
+          "end": 261.1
+        },
+        {
+          "word": "people",
+          "start": 261.1,
+          "end": 261.62
+        },
+        {
+          "word": "earn",
+          "start": 261.62,
+          "end": 262.02
+        },
+        {
+          "word": "money",
+          "start": 262.02,
+          "end": 262.54
+        },
+        {
+          "word": "and",
+          "start": 262.54,
+          "end": 262.78
+        },
+        {
+          "word": "preserve",
+          "start": 262.78,
+          "end": 263.22
+        },
+        {
+          "word": "traditions.",
+          "start": 263.22,
+          "end": 264.28
         }
       ]
     },
     {
       "id": 50,
-      "start": 308.07,
-      "end": 314.06,
-      "text": "It combines ancient temples, rivers, and friendly people beautifully.",
+      "start": 264.84,
+      "end": 268.62,
+      "text": "Part 11, daily life in Luoyang.",
       "words": [
         {
-          "word": "It",
-          "startSec": 308.27,
-          "endSec": 308.51,
-          "score": 0.99
+          "word": "Part",
+          "start": 264.84,
+          "end": 265.46
         },
         {
-          "word": "combines",
-          "startSec": 308.51,
-          "endSec": 308.81,
-          "score": 1.0
+          "word": "11,",
+          "start": 265.46,
+          "end": 266.08
         },
         {
-          "word": "ancient",
-          "startSec": 308.81,
-          "endSec": 309.37,
-          "score": 1.0
+          "word": "daily",
+          "start": 266.52,
+          "end": 266.8
         },
         {
-          "word": "temples,",
-          "startSec": 309.37,
-          "endSec": 310.27,
-          "score": 1.0
+          "word": "life",
+          "start": 266.8,
+          "end": 267.3
         },
         {
-          "word": "rivers,",
-          "startSec": 310.47,
-          "endSec": 311.23,
-          "score": 1.0
+          "word": "in",
+          "start": 267.3,
+          "end": 267.54
         },
         {
-          "word": "and",
-          "startSec": 311.93,
-          "endSec": 311.99,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 311.99,
-          "endSec": 312.45,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 312.45,
-          "endSec": 313.19,
-          "score": 0.99
-        },
-        {
-          "word": "beautifully.",
-          "startSec": 313.19,
-          "endSec": 313.91,
-          "score": 0.93
+          "word": "Luoyang.",
+          "start": 267.54,
+          "end": 268.62
         }
       ]
     },
     {
       "id": 51,
-      "start": 314.98,
-      "end": 320.65,
-      "text": "Visitors feel relaxed, inspired, and peaceful here.",
+      "start": 268.88,
+      "end": 272.36,
+      "text": "Life in Luoyang is calm and simple.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 315.18,
-          "endSec": 315.66,
-          "score": 0.98
+          "word": "Life",
+          "start": 268.88,
+          "end": 269.44
         },
         {
-          "word": "feel",
-          "startSec": 315.66,
-          "endSec": 316.24,
-          "score": 1.0
+          "word": "in",
+          "start": 269.44,
+          "end": 269.74
         },
         {
-          "word": "relaxed,",
-          "startSec": 316.24,
-          "endSec": 317.0,
-          "score": 1.0
+          "word": "Luoyang",
+          "start": 269.74,
+          "end": 270.38
         },
         {
-          "word": "inspired,",
-          "startSec": 318.12,
-          "endSec": 318.58,
-          "score": 1.0
+          "word": "is",
+          "start": 270.38,
+          "end": 270.62
+        },
+        {
+          "word": "calm",
+          "start": 270.62,
+          "end": 271.18
         },
         {
           "word": "and",
-          "startSec": 319.4,
-          "endSec": 319.44,
-          "score": 1.0
+          "start": 271.18,
+          "end": 271.42
         },
         {
-          "word": "peaceful",
-          "startSec": 319.44,
-          "endSec": 319.92,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 319.92,
-          "endSec": 320.5,
-          "score": 0.97
+          "word": "simple.",
+          "start": 271.42,
+          "end": 272.36
         }
       ]
     },
     {
       "id": 52,
-      "start": 325.68,
-      "end": 332.43,
-      "text": "I am Emili, and I hope you enjoyed this journey through Luoyang, China.",
+      "start": 272.76,
+      "end": 279.3,
+      "text": "People wake up early, go to work or school, and spend time with family.",
       "words": [
         {
-          "word": "I",
-          "startSec": 325.88,
-          "endSec": 326.16,
-          "score": 0.99
+          "word": "People",
+          "start": 272.76,
+          "end": 273.22
         },
         {
-          "word": "am",
-          "startSec": 326.16,
-          "endSec": 326.36,
-          "score": 0.91
+          "word": "wake",
+          "start": 273.22,
+          "end": 273.56
         },
         {
-          "word": "Emili,",
-          "startSec": 326.36,
-          "endSec": 326.76,
-          "score": 0.51
+          "word": "up",
+          "start": 273.56,
+          "end": 273.82
+        },
+        {
+          "word": "early,",
+          "start": 273.82,
+          "end": 274.3
+        },
+        {
+          "word": "go",
+          "start": 275.02,
+          "end": 275.24
+        },
+        {
+          "word": "to",
+          "start": 275.24,
+          "end": 275.38
+        },
+        {
+          "word": "work",
+          "start": 275.38,
+          "end": 275.7
+        },
+        {
+          "word": "or",
+          "start": 275.7,
+          "end": 275.94
+        },
+        {
+          "word": "school,",
+          "start": 275.94,
+          "end": 276.48
         },
         {
           "word": "and",
-          "startSec": 327.4,
-          "endSec": 327.84,
-          "score": 0.97
+          "start": 277.08,
+          "end": 277.32
         },
         {
-          "word": "I",
-          "startSec": 327.84,
-          "endSec": 328.1,
-          "score": 0.99
+          "word": "spend",
+          "start": 277.32,
+          "end": 277.62
         },
         {
-          "word": "hope",
-          "startSec": 328.1,
-          "endSec": 328.48,
-          "score": 1.0
+          "word": "time",
+          "start": 277.62,
+          "end": 278.1
         },
         {
-          "word": "you",
-          "startSec": 328.48,
-          "endSec": 328.82,
-          "score": 0.99
+          "word": "with",
+          "start": 278.1,
+          "end": 278.34
         },
         {
-          "word": "enjoyed",
-          "startSec": 328.82,
-          "endSec": 329.22,
-          "score": 0.92
-        },
-        {
-          "word": "this",
-          "startSec": 329.22,
-          "endSec": 329.72,
-          "score": 0.99
-        },
-        {
-          "word": "journey",
-          "startSec": 329.72,
-          "endSec": 330.42,
-          "score": 0.99
-        },
-        {
-          "word": "through",
-          "startSec": 330.42,
-          "endSec": 331.06,
-          "score": 0.99
-        },
-        {
-          "word": "Luoyang,",
-          "startSec": 331.06,
-          "endSec": 331.86,
-          "score": 0.85
-        },
-        {
-          "word": "China.",
-          "startSec": 332.16,
-          "endSec": 332.28,
-          "score": 0.99
+          "word": "family.",
+          "start": 278.34,
+          "end": 279.3
         }
       ]
     },
     {
       "id": 53,
-      "start": 335.24,
-      "end": 336.73,
+      "start": 280.0,
+      "end": 287.38,
+      "text": "Children play in streets or parks, and families enjoy local markets and tea houses.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 280.0,
+          "end": 280.28
+        },
+        {
+          "word": "play",
+          "start": 280.28,
+          "end": 280.78
+        },
+        {
+          "word": "in",
+          "start": 280.78,
+          "end": 281.02
+        },
+        {
+          "word": "streets",
+          "start": 281.02,
+          "end": 281.42
+        },
+        {
+          "word": "or",
+          "start": 281.42,
+          "end": 281.88
+        },
+        {
+          "word": "parks,",
+          "start": 281.88,
+          "end": 282.46
+        },
+        {
+          "word": "and",
+          "start": 283.14,
+          "end": 283.58
+        },
+        {
+          "word": "families",
+          "start": 283.58,
+          "end": 284.14
+        },
+        {
+          "word": "enjoy",
+          "start": 284.14,
+          "end": 284.74
+        },
+        {
+          "word": "local",
+          "start": 284.74,
+          "end": 285.28
+        },
+        {
+          "word": "markets",
+          "start": 285.28,
+          "end": 285.94
+        },
+        {
+          "word": "and",
+          "start": 285.94,
+          "end": 286.28
+        },
+        {
+          "word": "tea",
+          "start": 286.28,
+          "end": 286.52
+        },
+        {
+          "word": "houses.",
+          "start": 286.52,
+          "end": 287.38
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 287.9,
+      "end": 293.14,
+      "text": "Life is connected to culture, community, and nature.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 287.9,
+          "end": 288.28
+        },
+        {
+          "word": "is",
+          "start": 288.28,
+          "end": 288.58
+        },
+        {
+          "word": "connected",
+          "start": 288.58,
+          "end": 289.18
+        },
+        {
+          "word": "to",
+          "start": 289.18,
+          "end": 289.56
+        },
+        {
+          "word": "culture,",
+          "start": 289.56,
+          "end": 290.22
+        },
+        {
+          "word": "community,",
+          "start": 290.84,
+          "end": 291.32
+        },
+        {
+          "word": "and",
+          "start": 292.24,
+          "end": 292.26
+        },
+        {
+          "word": "nature.",
+          "start": 292.26,
+          "end": 293.14
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 293.66,
+      "end": 297.96,
+      "text": "Part 12, why Luoyang is special.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 293.66,
+          "end": 294.62
+        },
+        {
+          "word": "12,",
+          "start": 294.62,
+          "end": 295.26
+        },
+        {
+          "word": "why",
+          "start": 296.02,
+          "end": 296.34
+        },
+        {
+          "word": "Luoyang",
+          "start": 296.34,
+          "end": 296.9
+        },
+        {
+          "word": "is",
+          "start": 296.9,
+          "end": 297.1
+        },
+        {
+          "word": "special.",
+          "start": 297.1,
+          "end": 297.96
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 298.42,
+      "end": 307.88,
+      "text": "Luoyang is not as famous as Beijing or Shanghai, but it is full of history, culture, and calm life.",
+      "words": [
+        {
+          "word": "Luoyang",
+          "start": 298.42,
+          "end": 299.38
+        },
+        {
+          "word": "is",
+          "start": 299.38,
+          "end": 299.6
+        },
+        {
+          "word": "not",
+          "start": 299.6,
+          "end": 299.92
+        },
+        {
+          "word": "as",
+          "start": 299.92,
+          "end": 300.14
+        },
+        {
+          "word": "famous",
+          "start": 300.14,
+          "end": 300.54
+        },
+        {
+          "word": "as",
+          "start": 300.54,
+          "end": 300.88
+        },
+        {
+          "word": "Beijing",
+          "start": 300.88,
+          "end": 301.36
+        },
+        {
+          "word": "or",
+          "start": 301.36,
+          "end": 301.86
+        },
+        {
+          "word": "Shanghai,",
+          "start": 301.86,
+          "end": 302.4
+        },
+        {
+          "word": "but",
+          "start": 302.4,
+          "end": 303.52
+        },
+        {
+          "word": "it",
+          "start": 303.52,
+          "end": 303.68
+        },
+        {
+          "word": "is",
+          "start": 303.68,
+          "end": 303.88
+        },
+        {
+          "word": "full",
+          "start": 303.88,
+          "end": 304.16
+        },
+        {
+          "word": "of",
+          "start": 304.16,
+          "end": 304.32
+        },
+        {
+          "word": "history,",
+          "start": 304.32,
+          "end": 304.84
+        },
+        {
+          "word": "culture,",
+          "start": 305.36,
+          "end": 305.82
+        },
+        {
+          "word": "and",
+          "start": 306.52,
+          "end": 306.58
+        },
+        {
+          "word": "calm",
+          "start": 306.58,
+          "end": 307.06
+        },
+        {
+          "word": "life.",
+          "start": 307.06,
+          "end": 307.88
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 308.38,
+      "end": 314.58,
+      "text": "It combines ancient temples, rivers, and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "start": 308.38,
+          "end": 308.56
+        },
+        {
+          "word": "combines",
+          "start": 308.56,
+          "end": 309.0
+        },
+        {
+          "word": "ancient",
+          "start": 309.0,
+          "end": 309.6
+        },
+        {
+          "word": "temples,",
+          "start": 309.6,
+          "end": 310.32
+        },
+        {
+          "word": "rivers,",
+          "start": 310.96,
+          "end": 311.4
+        },
+        {
+          "word": "and",
+          "start": 311.4,
+          "end": 312.04
+        },
+        {
+          "word": "friendly",
+          "start": 312.04,
+          "end": 312.58
+        },
+        {
+          "word": "people",
+          "start": 312.58,
+          "end": 313.22
+        },
+        {
+          "word": "beautifully.",
+          "start": 313.22,
+          "end": 314.58
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 315.24,
+      "end": 320.92,
+      "text": "Visitors feel relaxed, inspired, and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 315.24,
+          "end": 315.88
+        },
+        {
+          "word": "feel",
+          "start": 315.88,
+          "end": 316.32
+        },
+        {
+          "word": "relaxed,",
+          "start": 316.32,
+          "end": 317.32
+        },
+        {
+          "word": "inspired,",
+          "start": 317.9,
+          "end": 318.88
+        },
+        {
+          "word": "and",
+          "start": 319.4,
+          "end": 319.5
+        },
+        {
+          "word": "peaceful",
+          "start": 319.5,
+          "end": 320.06
+        },
+        {
+          "word": "here.",
+          "start": 320.06,
+          "end": 320.92
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 321.7,
+      "end": 325.22,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 321.7,
+          "end": 322.04
+        },
+        {
+          "word": "you",
+          "start": 322.04,
+          "end": 322.26
+        },
+        {
+          "word": "for",
+          "start": 322.26,
+          "end": 322.48
+        },
+        {
+          "word": "listening",
+          "start": 322.48,
+          "end": 322.96
+        },
+        {
+          "word": "to",
+          "start": 322.96,
+          "end": 323.28
+        },
+        {
+          "word": "the",
+          "start": 323.28,
+          "end": 323.48
+        },
+        {
+          "word": "Slow",
+          "start": 323.48,
+          "end": 323.84
+        },
+        {
+          "word": "English",
+          "start": 323.84,
+          "end": 324.2
+        },
+        {
+          "word": "Podcast.",
+          "start": 324.2,
+          "end": 325.22
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 326.0,
+      "end": 332.96,
+      "text": "I am Emily, and I hope you enjoyed this journey through Luoyang, China.",
+      "words": [
+        {
+          "word": "I",
+          "start": 326.0,
+          "end": 326.24
+        },
+        {
+          "word": "am",
+          "start": 326.24,
+          "end": 326.44
+        },
+        {
+          "word": "Emily,",
+          "start": 326.44,
+          "end": 326.68
+        },
+        {
+          "word": "and",
+          "start": 327.64,
+          "end": 327.92
+        },
+        {
+          "word": "I",
+          "start": 327.92,
+          "end": 328.18
+        },
+        {
+          "word": "hope",
+          "start": 328.18,
+          "end": 328.54
+        },
+        {
+          "word": "you",
+          "start": 328.54,
+          "end": 328.88
+        },
+        {
+          "word": "enjoyed",
+          "start": 328.88,
+          "end": 329.46
+        },
+        {
+          "word": "this",
+          "start": 329.46,
+          "end": 329.86
+        },
+        {
+          "word": "journey",
+          "start": 329.86,
+          "end": 330.52
+        },
+        {
+          "word": "through",
+          "start": 330.52,
+          "end": 331.08
+        },
+        {
+          "word": "Luoyang,",
+          "start": 331.08,
+          "end": 331.98
+        },
+        {
+          "word": "China.",
+          "start": 332.06,
+          "end": 332.96
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 333.3,
+      "end": 335.04,
+      "text": "See you next time.",
+      "words": [
+        {
+          "word": "See",
+          "start": 333.3,
+          "end": 333.66
+        },
+        {
+          "word": "you",
+          "start": 333.66,
+          "end": 333.8
+        },
+        {
+          "word": "next",
+          "start": 333.8,
+          "end": 334.08
+        },
+        {
+          "word": "time.",
+          "start": 334.08,
+          "end": 335.04
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 335.42,
+      "end": 336.99,
       "text": "Goodbye for now.",
       "words": [
         {
           "word": "Goodbye",
-          "startSec": 335.44,
-          "endSec": 335.66,
-          "score": 0.78
+          "start": 335.42,
+          "end": 335.88
         },
         {
           "word": "for",
-          "startSec": 335.66,
-          "endSec": 336.26,
-          "score": 0.95
+          "start": 335.88,
+          "end": 336.34
         },
         {
           "word": "now.",
-          "startSec": 336.26,
-          "endSec": 336.58,
-          "score": 1.0
+          "start": 336.34,
+          "end": 336.99
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 62
 }

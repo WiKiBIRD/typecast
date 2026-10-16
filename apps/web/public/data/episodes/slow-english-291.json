@@ -15,3537 +15,3700 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 8.44,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. My name is Emily. In this podcast,",
+      "start": 2.04,
+      "end": 4.64,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.05,
-          "endSec": 0.51,
-          "score": 0.83
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.73,
-          "endSec": 1.13,
-          "score": 0.99
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.93,
-          "endSec": 2.45,
-          "score": 1.0
+          "start": 2.04,
+          "end": 2.42
         },
         {
           "word": "to",
-          "startSec": 2.45,
-          "endSec": 2.73,
-          "score": 1.0
+          "start": 2.42,
+          "end": 2.76
         },
         {
           "word": "the",
-          "startSec": 2.73,
-          "endSec": 2.87,
-          "score": 0.98
+          "start": 2.76,
+          "end": 2.94
         },
         {
           "word": "Slow",
-          "startSec": 2.87,
-          "endSec": 3.11,
-          "score": 0.81
+          "start": 2.94,
+          "end": 3.22
         },
         {
           "word": "English",
-          "startSec": 3.11,
-          "endSec": 3.61,
-          "score": 0.96
+          "start": 3.22,
+          "end": 3.64
         },
         {
           "word": "Podcast.",
-          "startSec": 3.61,
-          "endSec": 4.09,
-          "score": 0.81
-        },
-        {
-          "word": "My",
-          "startSec": 5.17,
-          "endSec": 5.81,
-          "score": 0.98
-        },
-        {
-          "word": "name",
-          "startSec": 5.81,
-          "endSec": 6.01,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 6.01,
-          "endSec": 6.33,
-          "score": 1.0
-        },
-        {
-          "word": "Emily.",
-          "startSec": 6.33,
-          "endSec": 6.51,
-          "score": 0.68
-        },
-        {
-          "word": "In",
-          "startSec": 7.41,
-          "endSec": 7.53,
-          "score": 0.99
-        },
-        {
-          "word": "this",
-          "startSec": 7.53,
-          "endSec": 7.71,
-          "score": 1.0
-        },
-        {
-          "word": "podcast,",
-          "startSec": 7.71,
-          "endSec": 8.29,
-          "score": 0.99
+          "start": 3.64,
+          "end": 4.64
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.97,
-      "end": 17.72,
-      "text": "we speak slowly. We use very easy English. We repeat words and sentences. Today, we travel",
+      "start": 5.52,
+      "end": 7.02,
+      "text": "My name is Emily.",
       "words": [
         {
-          "word": "we",
-          "startSec": 9.17,
-          "endSec": 9.21,
-          "score": 0.99
+          "word": "My",
+          "start": 5.52,
+          "end": 5.86
         },
         {
-          "word": "speak",
-          "startSec": 9.21,
-          "endSec": 9.53,
-          "score": 0.99
+          "word": "name",
+          "start": 5.86,
+          "end": 6.12
         },
         {
-          "word": "slowly.",
-          "startSec": 9.53,
-          "endSec": 10.19,
-          "score": 0.99
+          "word": "is",
+          "start": 6.12,
+          "end": 6.34
         },
         {
-          "word": "We",
-          "startSec": 10.81,
-          "endSec": 10.99,
-          "score": 1.0
-        },
-        {
-          "word": "use",
-          "startSec": 10.99,
-          "endSec": 11.23,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 11.23,
-          "endSec": 11.59,
-          "score": 1.0
-        },
-        {
-          "word": "easy",
-          "startSec": 11.59,
-          "endSec": 12.17,
-          "score": 1.0
-        },
-        {
-          "word": "English.",
-          "startSec": 12.17,
-          "endSec": 12.61,
-          "score": 1.0
-        },
-        {
-          "word": "We",
-          "startSec": 13.25,
-          "endSec": 13.29,
-          "score": 1.0
-        },
-        {
-          "word": "repeat",
-          "startSec": 13.29,
-          "endSec": 13.69,
-          "score": 1.0
-        },
-        {
-          "word": "words",
-          "startSec": 13.69,
-          "endSec": 14.39,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 14.39,
-          "endSec": 14.79,
-          "score": 0.99
-        },
-        {
-          "word": "sentences.",
-          "startSec": 14.79,
-          "endSec": 15.45,
-          "score": 1.0
-        },
-        {
-          "word": "Today,",
-          "startSec": 16.79,
-          "endSec": 16.91,
-          "score": 0.98
-        },
-        {
-          "word": "we",
-          "startSec": 17.13,
-          "endSec": 17.27,
-          "score": 1.0
-        },
-        {
-          "word": "travel",
-          "startSec": 17.27,
-          "endSec": 17.57,
-          "score": 0.99
+          "word": "Emily.",
+          "start": 6.34,
+          "end": 7.02
         }
       ]
     },
     {
       "id": 3,
-      "start": 17.37,
-      "end": 26.98,
-      "text": "to Asia. We go to Indonesia. Our city is Yogiacarta. Yogiacarta is cultural. Yogiacarta",
+      "start": 7.34,
+      "end": 10.71,
+      "text": "In this podcast, we speak slowly.",
       "words": [
         {
-          "word": "to",
-          "startSec": 17.57,
-          "endSec": 17.91,
-          "score": 1.0
+          "word": "In",
+          "start": 7.34,
+          "end": 7.56
         },
         {
-          "word": "Asia.",
-          "startSec": 17.91,
-          "endSec": 18.23,
-          "score": 1.0
+          "word": "this",
+          "start": 7.56,
+          "end": 7.8
         },
         {
-          "word": "We",
-          "startSec": 18.93,
-          "endSec": 18.97,
-          "score": 1.0
+          "word": "podcast,",
+          "start": 7.8,
+          "end": 8.46
         },
         {
-          "word": "go",
-          "startSec": 18.97,
-          "endSec": 19.17,
-          "score": 1.0
+          "word": "we",
+          "start": 9.0,
+          "end": 9.24
         },
         {
-          "word": "to",
-          "startSec": 19.17,
-          "endSec": 19.39,
-          "score": 1.0
+          "word": "speak",
+          "start": 9.24,
+          "end": 9.7
         },
         {
-          "word": "Indonesia.",
-          "startSec": 19.39,
-          "endSec": 19.85,
-          "score": 1.0
-        },
-        {
-          "word": "Our",
-          "startSec": 21.01,
-          "endSec": 21.09,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 21.09,
-          "endSec": 21.45,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 21.45,
-          "endSec": 21.77,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta.",
-          "startSec": 21.77,
-          "endSec": 22.63,
-          "score": 0.55
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 23.57,
-          "endSec": 24.33,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 24.33,
-          "endSec": 24.61,
-          "score": 1.0
-        },
-        {
-          "word": "cultural.",
-          "startSec": 24.61,
-          "endSec": 24.95,
-          "score": 0.99
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 26.09,
-          "endSec": 26.83,
-          "score": 1.0
+          "word": "slowly.",
+          "start": 9.7,
+          "end": 10.71
         }
       ]
     },
     {
       "id": 4,
-      "start": 26.63,
-      "end": 34.74,
-      "text": "is calm. Yogiacarta is very special. Please relax. Please listen slowly.",
+      "start": 10.92,
+      "end": 13.0,
+      "text": "We use very easy English.",
       "words": [
         {
-          "word": "is",
-          "startSec": 26.83,
-          "endSec": 27.17,
-          "score": 0.18
+          "word": "We",
+          "start": 10.92,
+          "end": 11.02
         },
         {
-          "word": "calm.",
-          "startSec": 27.17,
-          "endSec": 27.57,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 28.23,
-          "endSec": 29.03,
-          "score": 0.37
-        },
-        {
-          "word": "is",
-          "startSec": 29.03,
-          "endSec": 29.31,
-          "score": 0.99
+          "word": "use",
+          "start": 11.02,
+          "end": 11.34
         },
         {
           "word": "very",
-          "startSec": 29.31,
-          "endSec": 29.61,
-          "score": 1.0
+          "start": 11.34,
+          "end": 11.74
         },
         {
-          "word": "special.",
-          "startSec": 29.61,
-          "endSec": 30.37,
-          "score": 1.0
+          "word": "easy",
+          "start": 11.74,
+          "end": 12.22
         },
         {
-          "word": "Please",
-          "startSec": 31.53,
-          "endSec": 31.53,
-          "score": 0.98
-        },
-        {
-          "word": "relax.",
-          "startSec": 31.53,
-          "endSec": 32.17,
-          "score": 0.98
-        },
-        {
-          "word": "Please",
-          "startSec": 33.19,
-          "endSec": 33.53,
-          "score": 0.99
-        },
-        {
-          "word": "listen",
-          "startSec": 33.53,
-          "endSec": 34.07,
-          "score": 0.99
-        },
-        {
-          "word": "slowly.",
-          "startSec": 34.07,
-          "endSec": 34.59,
-          "score": 1.0
+          "word": "English.",
+          "start": 12.22,
+          "end": 13.0
         }
       ]
     },
     {
       "id": 5,
-      "start": 35.45,
-      "end": 44.45,
-      "text": "Let's begin our journey. Part two, Indonesia and Asia. Indonesia is a country in Asia.",
+      "start": 13.2,
+      "end": 15.88,
+      "text": "We repeat words and sentences.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 35.65,
-          "endSec": 36.15,
-          "score": 0.99
+          "word": "We",
+          "start": 13.2,
+          "end": 13.34
         },
         {
-          "word": "begin",
-          "startSec": 36.15,
-          "endSec": 36.39,
-          "score": 0.99
+          "word": "repeat",
+          "start": 13.34,
+          "end": 13.92
         },
         {
-          "word": "our",
-          "startSec": 36.39,
-          "endSec": 36.81,
-          "score": 1.0
-        },
-        {
-          "word": "journey.",
-          "startSec": 36.81,
-          "endSec": 37.35,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 38.29,
-          "endSec": 38.29,
-          "score": 0.97
-        },
-        {
-          "word": "two,",
-          "startSec": 38.29,
-          "endSec": 38.85,
-          "score": 0.43
-        },
-        {
-          "word": "Indonesia",
-          "startSec": 39.87,
-          "endSec": 39.87,
-          "score": 0.98
+          "word": "words",
+          "start": 13.92,
+          "end": 14.5
         },
         {
           "word": "and",
-          "startSec": 39.87,
-          "endSec": 40.45,
-          "score": 0.98
+          "start": 14.5,
+          "end": 14.84
         },
         {
-          "word": "Asia.",
-          "startSec": 40.45,
-          "endSec": 40.83,
-          "score": 1.0
-        },
-        {
-          "word": "Indonesia",
-          "startSec": 41.76,
-          "endSec": 42.4,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 42.4,
-          "endSec": 43.04,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 43.04,
-          "endSec": 43.16,
-          "score": 1.0
-        },
-        {
-          "word": "country",
-          "startSec": 43.16,
-          "endSec": 43.6,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 43.6,
-          "endSec": 43.88,
-          "score": 0.99
-        },
-        {
-          "word": "Asia.",
-          "startSec": 43.88,
-          "endSec": 44.3,
-          "score": 1.0
+          "word": "sentences.",
+          "start": 14.84,
+          "end": 15.88
         }
       ]
     },
     {
       "id": 6,
-      "start": 44.46,
-      "end": 53.69,
-      "text": "It is a very big country. It has many islands. Indonesia has the sea. Indonesia has forests.",
+      "start": 16.58,
+      "end": 18.67,
+      "text": "Today we travel to Asia.",
       "words": [
         {
-          "word": "It",
-          "startSec": 44.66,
-          "endSec": 44.76,
-          "score": 0.99
+          "word": "Today",
+          "start": 16.58,
+          "end": 17.0
         },
         {
-          "word": "is",
-          "startSec": 44.76,
-          "endSec": 44.9,
-          "score": 1.0
+          "word": "we",
+          "start": 17.0,
+          "end": 17.3
         },
         {
-          "word": "a",
-          "startSec": 44.9,
-          "endSec": 45.02,
-          "score": 1.0
+          "word": "travel",
+          "start": 17.3,
+          "end": 17.7
         },
         {
-          "word": "very",
-          "startSec": 45.02,
-          "endSec": 45.3,
-          "score": 1.0
+          "word": "to",
+          "start": 17.7,
+          "end": 17.96
         },
         {
-          "word": "big",
-          "startSec": 45.3,
-          "endSec": 45.6,
-          "score": 1.0
-        },
-        {
-          "word": "country.",
-          "startSec": 45.6,
-          "endSec": 46.1,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 46.6,
-          "endSec": 46.72,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 46.72,
-          "endSec": 46.96,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 46.96,
-          "endSec": 47.36,
-          "score": 1.0
-        },
-        {
-          "word": "islands.",
-          "startSec": 47.36,
-          "endSec": 48.12,
-          "score": 1.0
-        },
-        {
-          "word": "Indonesia",
-          "startSec": 49.32,
-          "endSec": 49.7,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 49.7,
-          "endSec": 50.5,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 50.5,
-          "endSec": 50.78,
-          "score": 0.99
-        },
-        {
-          "word": "sea.",
-          "startSec": 50.78,
-          "endSec": 51.1,
-          "score": 0.98
-        },
-        {
-          "word": "Indonesia",
-          "startSec": 52.44,
-          "endSec": 52.5,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 52.5,
-          "endSec": 53.12,
-          "score": 1.0
-        },
-        {
-          "word": "forests.",
-          "startSec": 53.12,
-          "endSec": 53.54,
-          "score": 0.94
+          "word": "Asia.",
+          "start": 17.96,
+          "end": 18.67
         }
       ]
     },
     {
       "id": 7,
-      "start": 54.04,
-      "end": 62.47,
-      "text": "Indonesia has mountains. People from many cultures live here. There are many languages.",
+      "start": 18.82,
+      "end": 20.42,
+      "text": "We go to Indonesia.",
       "words": [
         {
-          "word": "Indonesia",
-          "startSec": 54.24,
-          "endSec": 54.92,
-          "score": 0.0
+          "word": "We",
+          "start": 18.82,
+          "end": 19.0
         },
         {
-          "word": "has",
-          "startSec": 54.92,
-          "endSec": 55.6,
-          "score": 0.7
+          "word": "go",
+          "start": 19.0,
+          "end": 19.24
         },
         {
-          "word": "mountains.",
-          "startSec": 55.6,
-          "endSec": 56.02,
-          "score": 0.99
+          "word": "to",
+          "start": 19.24,
+          "end": 19.44
         },
         {
-          "word": "People",
-          "startSec": 57.76,
-          "endSec": 58.02,
-          "score": 0.92
-        },
-        {
-          "word": "from",
-          "startSec": 58.02,
-          "endSec": 58.3,
-          "score": 0.9
-        },
-        {
-          "word": "many",
-          "startSec": 58.3,
-          "endSec": 58.56,
-          "score": 0.99
-        },
-        {
-          "word": "cultures",
-          "startSec": 58.56,
-          "endSec": 59.12,
-          "score": 0.99
-        },
-        {
-          "word": "live",
-          "startSec": 59.12,
-          "endSec": 59.56,
-          "score": 0.99
-        },
-        {
-          "word": "here.",
-          "startSec": 59.56,
-          "endSec": 59.98,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 60.86,
-          "endSec": 60.98,
-          "score": 0.92
-        },
-        {
-          "word": "are",
-          "startSec": 60.98,
-          "endSec": 61.16,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 61.16,
-          "endSec": 61.44,
-          "score": 1.0
-        },
-        {
-          "word": "languages.",
-          "startSec": 61.44,
-          "endSec": 62.32,
-          "score": 1.0
+          "word": "Indonesia.",
+          "start": 19.44,
+          "end": 20.42
         }
       ]
     },
     {
       "id": 8,
-      "start": 63.02,
-      "end": 71.14,
-      "text": "There are many traditions. Yogiacarta is one important city. It is not the capital of",
+      "start": 20.98,
+      "end": 23.2,
+      "text": "Our city is Yogyakarta.",
       "words": [
         {
-          "word": "There",
-          "startSec": 63.22,
-          "endSec": 63.34,
-          "score": 0.98
+          "word": "Our",
+          "start": 20.98,
+          "end": 21.12
         },
         {
-          "word": "are",
-          "startSec": 63.34,
-          "endSec": 63.5,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 63.5,
-          "endSec": 63.74,
-          "score": 1.0
-        },
-        {
-          "word": "traditions.",
-          "startSec": 63.74,
-          "endSec": 64.46,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 65.79,
-          "endSec": 66.47,
-          "score": 0.5
+          "word": "city",
+          "start": 21.12,
+          "end": 21.5
         },
         {
           "word": "is",
-          "startSec": 66.47,
-          "endSec": 66.77,
-          "score": 1.0
+          "start": 21.5,
+          "end": 21.82
         },
         {
-          "word": "one",
-          "startSec": 66.77,
-          "endSec": 67.07,
-          "score": 0.98
-        },
-        {
-          "word": "important",
-          "startSec": 67.07,
-          "endSec": 67.47,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 67.47,
-          "endSec": 68.15,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 69.27,
-          "endSec": 69.41,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 69.41,
-          "endSec": 69.57,
-          "score": 0.99
-        },
-        {
-          "word": "not",
-          "startSec": 69.57,
-          "endSec": 69.91,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 69.91,
-          "endSec": 70.15,
-          "score": 0.99
-        },
-        {
-          "word": "capital",
-          "startSec": 70.15,
-          "endSec": 70.67,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 70.67,
-          "endSec": 70.99,
-          "score": 1.0
+          "word": "Yogyakarta.",
+          "start": 21.82,
+          "end": 23.2
         }
       ]
     },
     {
       "id": 9,
-      "start": 70.79,
-      "end": 81.6,
-      "text": "Indonesia, but it is the heart of culture. Part three, where is Yogiacarta? Yogiacarta is on",
+      "start": 23.56,
+      "end": 25.3,
+      "text": "Yogyakarta is cultural.",
       "words": [
         {
-          "word": "Indonesia,",
-          "startSec": 70.99,
-          "endSec": 71.31,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 72.41,
-          "endSec": 72.67,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 72.67,
-          "endSec": 72.83,
-          "score": 0.99
+          "word": "Yogyakarta",
+          "start": 23.56,
+          "end": 24.36
         },
         {
           "word": "is",
-          "startSec": 72.83,
-          "endSec": 73.09,
-          "score": 1.0
+          "start": 24.36,
+          "end": 24.68
         },
         {
-          "word": "the",
-          "startSec": 73.09,
-          "endSec": 73.25,
-          "score": 1.0
-        },
-        {
-          "word": "heart",
-          "startSec": 73.25,
-          "endSec": 73.61,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 73.61,
-          "endSec": 73.85,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 73.85,
-          "endSec": 74.17,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 75.55,
-          "endSec": 75.81,
-          "score": 0.88
-        },
-        {
-          "word": "three,",
-          "startSec": 75.81,
-          "endSec": 76.43,
-          "score": 0.38
-        },
-        {
-          "word": "where",
-          "startSec": 77.29,
-          "endSec": 77.61,
-          "score": 0.84
-        },
-        {
-          "word": "is",
-          "startSec": 77.61,
-          "endSec": 77.95,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta?",
-          "startSec": 77.95,
-          "endSec": 78.83,
-          "score": 0.97
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 80.21,
-          "endSec": 80.89,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 80.89,
-          "endSec": 81.11,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 81.11,
-          "endSec": 81.45,
-          "score": 1.0
+          "word": "cultural.",
+          "start": 24.68,
+          "end": 25.3
         }
       ]
     },
     {
       "id": 10,
-      "start": 81.25,
-      "end": 88.82,
-      "text": "island of Java. Java is a very famous island. The city is in the center of Java.",
+      "start": 25.3,
+      "end": 28.0,
+      "text": "Yogyakarta is calm.",
       "words": [
         {
-          "word": "island",
-          "startSec": 81.45,
-          "endSec": 81.89,
-          "score": 0.05
-        },
-        {
-          "word": "of",
-          "startSec": 81.89,
-          "endSec": 82.13,
-          "score": 0.99
-        },
-        {
-          "word": "Java.",
-          "startSec": 82.13,
-          "endSec": 82.45,
-          "score": 0.98
-        },
-        {
-          "word": "Java",
-          "startSec": 83.27,
-          "endSec": 83.67,
-          "score": 0.99
+          "word": "Yogyakarta",
+          "start": 25.3,
+          "end": 26.92
         },
         {
           "word": "is",
-          "startSec": 83.67,
-          "endSec": 84.07,
-          "score": 1.0
+          "start": 26.92,
+          "end": 27.2
         },
         {
-          "word": "a",
-          "startSec": 84.07,
-          "endSec": 84.25,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 84.25,
-          "endSec": 84.53,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 84.53,
-          "endSec": 85.05,
-          "score": 1.0
-        },
-        {
-          "word": "island.",
-          "startSec": 85.05,
-          "endSec": 85.57,
-          "score": 0.98
-        },
-        {
-          "word": "The",
-          "startSec": 86.57,
-          "endSec": 86.69,
-          "score": 0.97
-        },
-        {
-          "word": "city",
-          "startSec": 86.69,
-          "endSec": 86.99,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 86.99,
-          "endSec": 87.33,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 87.33,
-          "endSec": 87.49,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 87.49,
-          "endSec": 87.65,
-          "score": 1.0
-        },
-        {
-          "word": "center",
-          "startSec": 87.65,
-          "endSec": 88.15,
-          "score": 0.97
-        },
-        {
-          "word": "of",
-          "startSec": 88.15,
-          "endSec": 88.37,
-          "score": 1.0
-        },
-        {
-          "word": "Java.",
-          "startSec": 88.37,
-          "endSec": 88.67,
-          "score": 1.0
+          "word": "calm.",
+          "start": 27.2,
+          "end": 28.0
         }
       ]
     },
     {
       "id": 11,
-      "start": 89.19,
-      "end": 98.04,
-      "text": "It is not near the sea. It is not very high. The city is easy to reach. Many people visit",
+      "start": 28.2,
+      "end": 30.76,
+      "text": "Yogyakarta is very special.",
       "words": [
         {
-          "word": "It",
-          "startSec": 89.39,
-          "endSec": 89.57,
-          "score": 0.99
+          "word": "Yogyakarta",
+          "start": 28.2,
+          "end": 29.06
         },
         {
           "word": "is",
-          "startSec": 89.57,
-          "endSec": 89.71,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 89.71,
-          "endSec": 90.05,
-          "score": 1.0
-        },
-        {
-          "word": "near",
-          "startSec": 90.05,
-          "endSec": 90.43,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 90.43,
-          "endSec": 90.69,
-          "score": 1.0
-        },
-        {
-          "word": "sea.",
-          "startSec": 90.69,
-          "endSec": 91.01,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 91.77,
-          "endSec": 92.07,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 92.07,
-          "endSec": 92.23,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 92.23,
-          "endSec": 92.57,
-          "score": 1.0
+          "start": 29.06,
+          "end": 29.38
         },
         {
           "word": "very",
-          "startSec": 92.57,
-          "endSec": 92.91,
-          "score": 1.0
+          "start": 29.38,
+          "end": 29.76
         },
         {
-          "word": "high.",
-          "startSec": 92.91,
-          "endSec": 93.41,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 94.11,
-          "endSec": 94.33,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 94.33,
-          "endSec": 94.61,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 94.61,
-          "endSec": 94.97,
-          "score": 1.0
-        },
-        {
-          "word": "easy",
-          "startSec": 94.97,
-          "endSec": 95.21,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 95.21,
-          "endSec": 95.53,
-          "score": 1.0
-        },
-        {
-          "word": "reach.",
-          "startSec": 95.53,
-          "endSec": 95.85,
-          "score": 1.0
-        },
-        {
-          "word": "Many",
-          "startSec": 96.69,
-          "endSec": 96.89,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 96.89,
-          "endSec": 97.43,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 97.43,
-          "endSec": 97.89,
-          "score": 1.0
+          "word": "special.",
+          "start": 29.76,
+          "end": 30.76
         }
       ]
     },
     {
       "id": 12,
-      "start": 97.69,
-      "end": 108.29,
-      "text": "every year. It is a popular place in Indonesia. Part four, weather and climate. The weather in",
+      "start": 31.16,
+      "end": 32.7,
+      "text": "Please relax.",
       "words": [
         {
-          "word": "every",
-          "startSec": 97.89,
-          "endSec": 98.59,
-          "score": 0.99
+          "word": "Please",
+          "start": 31.16,
+          "end": 31.56
         },
         {
-          "word": "year.",
-          "startSec": 98.59,
-          "endSec": 99.05,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 99.75,
-          "endSec": 100.05,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 100.05,
-          "endSec": 100.17,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 100.17,
-          "endSec": 100.31,
-          "score": 1.0
-        },
-        {
-          "word": "popular",
-          "startSec": 100.31,
-          "endSec": 100.73,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 100.73,
-          "endSec": 101.37,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 101.37,
-          "endSec": 101.71,
-          "score": 1.0
-        },
-        {
-          "word": "Indonesia.",
-          "startSec": 101.71,
-          "endSec": 102.27,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 103.66,
-          "endSec": 104.0,
-          "score": 0.95
-        },
-        {
-          "word": "four,",
-          "startSec": 104.0,
-          "endSec": 104.56,
-          "score": 0.41
-        },
-        {
-          "word": "weather",
-          "startSec": 105.08,
-          "endSec": 105.88,
-          "score": 0.78
-        },
-        {
-          "word": "and",
-          "startSec": 105.88,
-          "endSec": 106.18,
-          "score": 0.96
-        },
-        {
-          "word": "climate.",
-          "startSec": 106.18,
-          "endSec": 106.56,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 107.24,
-          "endSec": 107.48,
-          "score": 0.99
-        },
-        {
-          "word": "weather",
-          "startSec": 107.48,
-          "endSec": 107.8,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 107.8,
-          "endSec": 108.14,
-          "score": 0.94
+          "word": "relax.",
+          "start": 31.56,
+          "end": 32.7
         }
       ]
     },
     {
       "id": 13,
-      "start": 107.94,
-      "end": 117.23,
-      "text": "Yogiacarta is warm. It is warm almost every day. There is sun. There is rain. The air feels",
+      "start": 33.22,
+      "end": 35.16,
+      "text": "Please listen slowly.",
       "words": [
         {
-          "word": "Yogiacarta",
-          "startSec": 108.14,
-          "endSec": 109.0,
-          "score": 0.42
+          "word": "Please",
+          "start": 33.22,
+          "end": 33.56
         },
         {
-          "word": "is",
-          "startSec": 109.0,
-          "endSec": 109.28,
-          "score": 0.93
+          "word": "listen",
+          "start": 33.56,
+          "end": 34.16
         },
         {
-          "word": "warm.",
-          "startSec": 109.28,
-          "endSec": 109.64,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 110.18,
-          "endSec": 110.42,
-          "score": 0.92
-        },
-        {
-          "word": "is",
-          "startSec": 110.42,
-          "endSec": 110.56,
-          "score": 0.96
-        },
-        {
-          "word": "warm",
-          "startSec": 110.56,
-          "endSec": 110.92,
-          "score": 0.99
-        },
-        {
-          "word": "almost",
-          "startSec": 110.92,
-          "endSec": 111.5,
-          "score": 0.98
-        },
-        {
-          "word": "every",
-          "startSec": 111.5,
-          "endSec": 111.8,
-          "score": 0.84
-        },
-        {
-          "word": "day.",
-          "startSec": 111.8,
-          "endSec": 112.22,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 113.1,
-          "endSec": 113.28,
-          "score": 0.93
-        },
-        {
-          "word": "is",
-          "startSec": 113.28,
-          "endSec": 113.46,
-          "score": 0.99
-        },
-        {
-          "word": "sun.",
-          "startSec": 113.46,
-          "endSec": 113.88,
-          "score": 0.94
-        },
-        {
-          "word": "There",
-          "startSec": 114.66,
-          "endSec": 114.9,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 114.9,
-          "endSec": 115.12,
-          "score": 1.0
-        },
-        {
-          "word": "rain.",
-          "startSec": 115.12,
-          "endSec": 115.56,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 116.46,
-          "endSec": 116.5,
-          "score": 0.97
-        },
-        {
-          "word": "air",
-          "startSec": 116.5,
-          "endSec": 116.76,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 116.76,
-          "endSec": 117.08,
-          "score": 0.95
+          "word": "slowly.",
+          "start": 34.16,
+          "end": 35.16
         }
       ]
     },
     {
       "id": 14,
-      "start": 116.88,
-      "end": 124.81,
-      "text": "tropical. Some days are very hot. Some days are wet. People are used to this weather.",
+      "start": 38.34,
+      "end": 41.3,
+      "text": "Part 2, Indonesia and Asia.",
       "words": [
         {
-          "word": "tropical.",
-          "startSec": 117.08,
-          "endSec": 117.64,
-          "score": 1.0
+          "word": "Part",
+          "start": 38.34,
+          "end": 38.38
         },
         {
-          "word": "Some",
-          "startSec": 118.76,
-          "endSec": 118.98,
-          "score": 0.99
+          "word": "2,",
+          "start": 38.38,
+          "end": 39.04
         },
         {
-          "word": "days",
-          "startSec": 118.98,
-          "endSec": 119.28,
-          "score": 0.99
+          "word": "Indonesia",
+          "start": 39.42,
+          "end": 40.0
         },
         {
-          "word": "are",
-          "startSec": 119.28,
-          "endSec": 119.54,
-          "score": 0.99
+          "word": "and",
+          "start": 40.0,
+          "end": 40.5
         },
         {
-          "word": "very",
-          "startSec": 119.54,
-          "endSec": 119.82,
-          "score": 1.0
-        },
-        {
-          "word": "hot.",
-          "startSec": 119.82,
-          "endSec": 120.24,
-          "score": 1.0
-        },
-        {
-          "word": "Some",
-          "startSec": 120.98,
-          "endSec": 121.22,
-          "score": 1.0
-        },
-        {
-          "word": "days",
-          "startSec": 121.22,
-          "endSec": 121.48,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 121.48,
-          "endSec": 121.74,
-          "score": 1.0
-        },
-        {
-          "word": "wet.",
-          "startSec": 121.74,
-          "endSec": 122.04,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 123.2,
-          "endSec": 123.2,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 123.2,
-          "endSec": 123.44,
-          "score": 1.0
-        },
-        {
-          "word": "used",
-          "startSec": 123.44,
-          "endSec": 123.74,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 123.74,
-          "endSec": 124.08,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 124.08,
-          "endSec": 124.3,
-          "score": 1.0
-        },
-        {
-          "word": "weather.",
-          "startSec": 124.3,
-          "endSec": 124.66,
-          "score": 0.99
+          "word": "Asia.",
+          "start": 40.5,
+          "end": 41.3
         }
       ]
     },
     {
       "id": 15,
-      "start": 125.32,
-      "end": 133.86,
-      "text": "Life continues slowly. People adapt easily. Part five, a city of culture.",
+      "start": 41.64,
+      "end": 44.52,
+      "text": "Indonesia is a country in Asia.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 125.52,
-          "endSec": 125.74,
-          "score": 0.99
+          "word": "Indonesia",
+          "start": 41.64,
+          "end": 42.5
         },
         {
-          "word": "continues",
-          "startSec": 125.74,
-          "endSec": 126.1,
-          "score": 0.99
-        },
-        {
-          "word": "slowly.",
-          "startSec": 126.1,
-          "endSec": 127.04,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 127.98,
-          "endSec": 128.3,
-          "score": 0.99
-        },
-        {
-          "word": "adapt",
-          "startSec": 128.3,
-          "endSec": 128.68,
-          "score": 0.98
-        },
-        {
-          "word": "easily.",
-          "startSec": 128.68,
-          "endSec": 129.3,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 131.87,
-          "endSec": 131.87,
-          "score": 0.88
-        },
-        {
-          "word": "five,",
-          "startSec": 131.87,
-          "endSec": 132.49,
-          "score": 0.23
+          "word": "is",
+          "start": 42.5,
+          "end": 43.08
         },
         {
           "word": "a",
-          "startSec": 132.77,
-          "endSec": 132.81,
-          "score": 0.76
+          "start": 43.08,
+          "end": 43.22
         },
         {
-          "word": "city",
-          "startSec": 132.81,
-          "endSec": 133.09,
-          "score": 0.91
+          "word": "country",
+          "start": 43.22,
+          "end": 43.64
         },
         {
-          "word": "of",
-          "startSec": 133.09,
-          "endSec": 133.39,
-          "score": 1.0
+          "word": "in",
+          "start": 43.64,
+          "end": 43.92
         },
         {
-          "word": "culture.",
-          "startSec": 133.39,
-          "endSec": 133.71,
-          "score": 0.99
+          "word": "Asia.",
+          "start": 43.92,
+          "end": 44.52
         }
       ]
     },
     {
       "id": 16,
-      "start": 134.69,
-      "end": 144.55,
-      "text": "Yogiacarta is a cultural city. Culture is very important here. People love art. People love music.",
+      "start": 44.68,
+      "end": 46.24,
+      "text": "It is a very big country.",
       "words": [
         {
-          "word": "Yogiacarta",
-          "startSec": 134.89,
-          "endSec": 135.95,
-          "score": 0.3
+          "word": "It",
+          "start": 44.68,
+          "end": 44.78
         },
         {
           "word": "is",
-          "startSec": 135.95,
-          "endSec": 136.25,
-          "score": 0.98
+          "start": 44.78,
+          "end": 44.94
         },
         {
           "word": "a",
-          "startSec": 136.25,
-          "endSec": 136.39,
-          "score": 0.98
-        },
-        {
-          "word": "cultural",
-          "startSec": 136.39,
-          "endSec": 136.71,
-          "score": 0.97
-        },
-        {
-          "word": "city.",
-          "startSec": 136.71,
-          "endSec": 137.49,
-          "score": 0.99
-        },
-        {
-          "word": "Culture",
-          "startSec": 138.44,
-          "endSec": 138.9,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 138.9,
-          "endSec": 139.26,
-          "score": 1.0
+          "start": 44.94,
+          "end": 45.1
         },
         {
           "word": "very",
-          "startSec": 139.26,
-          "endSec": 139.52,
-          "score": 0.99
+          "start": 45.1,
+          "end": 45.34
         },
         {
-          "word": "important",
-          "startSec": 139.52,
-          "endSec": 140.1,
-          "score": 1.0
+          "word": "big",
+          "start": 45.34,
+          "end": 45.62
         },
         {
-          "word": "here.",
-          "startSec": 140.1,
-          "endSec": 140.76,
-          "score": 0.98
-        },
-        {
-          "word": "People",
-          "startSec": 141.32,
-          "endSec": 141.66,
-          "score": 0.98
-        },
-        {
-          "word": "love",
-          "startSec": 141.66,
-          "endSec": 142.02,
-          "score": 0.99
-        },
-        {
-          "word": "art.",
-          "startSec": 142.02,
-          "endSec": 142.56,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 143.12,
-          "endSec": 143.22,
-          "score": 0.99
-        },
-        {
-          "word": "love",
-          "startSec": 143.22,
-          "endSec": 143.74,
-          "score": 1.0
-        },
-        {
-          "word": "music.",
-          "startSec": 143.74,
-          "endSec": 144.4,
-          "score": 1.0
+          "word": "country.",
+          "start": 45.62,
+          "end": 46.24
         }
       ]
     },
     {
       "id": 17,
-      "start": 145.06,
-      "end": 154.17,
-      "text": "People love dance. Traditional clothes are common. Traditional food is popular. Old traditions are alive.",
+      "start": 46.24,
+      "end": 48.66,
+      "text": "It has many islands.",
       "words": [
         {
-          "word": "People",
-          "startSec": 145.26,
-          "endSec": 145.26,
-          "score": 1.0
+          "word": "It",
+          "start": 46.24,
+          "end": 46.74
         },
         {
-          "word": "love",
-          "startSec": 145.26,
-          "endSec": 145.7,
-          "score": 1.0
+          "word": "has",
+          "start": 46.74,
+          "end": 47.06
         },
         {
-          "word": "dance.",
-          "startSec": 145.7,
-          "endSec": 146.18,
-          "score": 1.0
+          "word": "many",
+          "start": 47.06,
+          "end": 47.52
         },
         {
-          "word": "Traditional",
-          "startSec": 146.72,
-          "endSec": 147.0,
-          "score": 0.97
-        },
-        {
-          "word": "clothes",
-          "startSec": 147.0,
-          "endSec": 147.78,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 147.78,
-          "endSec": 148.24,
-          "score": 0.99
-        },
-        {
-          "word": "common.",
-          "startSec": 148.24,
-          "endSec": 148.78,
-          "score": 1.0
-        },
-        {
-          "word": "Traditional",
-          "startSec": 149.42,
-          "endSec": 149.64,
-          "score": 0.98
-        },
-        {
-          "word": "food",
-          "startSec": 149.64,
-          "endSec": 150.46,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 150.46,
-          "endSec": 150.74,
-          "score": 1.0
-        },
-        {
-          "word": "popular.",
-          "startSec": 150.74,
-          "endSec": 151.1,
-          "score": 1.0
-        },
-        {
-          "word": "Old",
-          "startSec": 152.24,
-          "endSec": 152.44,
-          "score": 0.98
-        },
-        {
-          "word": "traditions",
-          "startSec": 152.44,
-          "endSec": 153.06,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 153.06,
-          "endSec": 153.66,
-          "score": 1.0
-        },
-        {
-          "word": "alive.",
-          "startSec": 153.66,
-          "endSec": 154.02,
-          "score": 0.99
+          "word": "islands.",
+          "start": 47.52,
+          "end": 48.66
         }
       ]
     },
     {
       "id": 18,
-      "start": 154.94,
-      "end": 164.24,
-      "text": "Have part six, the sultan and the palace. Yogiacarta has a sultan. This is very special.",
+      "start": 48.88,
+      "end": 51.68,
+      "text": "Indonesia has the sea.",
       "words": [
         {
-          "word": "Have",
-          "startSec": 155.14,
-          "endSec": 155.92,
-          "score": 0.07
-        },
-        {
-          "word": "part",
-          "startSec": 155.92,
-          "endSec": 156.2,
-          "score": 0.4
-        },
-        {
-          "word": "six,",
-          "startSec": 156.2,
-          "endSec": 156.72,
-          "score": 0.44
-        },
-        {
-          "word": "the",
-          "startSec": 157.18,
-          "endSec": 157.28,
-          "score": 0.71
-        },
-        {
-          "word": "sultan",
-          "startSec": 157.28,
-          "endSec": 157.68,
-          "score": 0.59
-        },
-        {
-          "word": "and",
-          "startSec": 157.68,
-          "endSec": 158.08,
-          "score": 0.57
-        },
-        {
-          "word": "the",
-          "startSec": 158.08,
-          "endSec": 158.22,
-          "score": 0.98
-        },
-        {
-          "word": "palace.",
-          "startSec": 158.22,
-          "endSec": 158.64,
-          "score": 0.95
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 159.87,
-          "endSec": 160.75,
-          "score": 0.32
+          "word": "Indonesia",
+          "start": 48.88,
+          "end": 49.84
         },
         {
           "word": "has",
-          "startSec": 160.75,
-          "endSec": 161.13,
-          "score": 0.99
+          "start": 49.84,
+          "end": 50.58
         },
         {
-          "word": "a",
-          "startSec": 161.13,
-          "endSec": 161.23,
-          "score": 0.96
+          "word": "the",
+          "start": 50.58,
+          "end": 50.84
         },
         {
-          "word": "sultan.",
-          "startSec": 161.23,
-          "endSec": 161.67,
-          "score": 0.94
-        },
-        {
-          "word": "This",
-          "startSec": 162.33,
-          "endSec": 162.67,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 162.67,
-          "endSec": 162.91,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 162.91,
-          "endSec": 163.31,
-          "score": 1.0
-        },
-        {
-          "word": "special.",
-          "startSec": 163.31,
-          "endSec": 164.09,
-          "score": 1.0
+          "word": "sea.",
+          "start": 50.84,
+          "end": 51.68
         }
       ]
     },
     {
       "id": 19,
-      "start": 164.37,
-      "end": 173.32,
-      "text": "The sultan lives in a palace. The palace is called kratan. The sultan is respected. People",
+      "start": 52.08,
+      "end": 54.18,
+      "text": "Indonesia has forests.",
       "words": [
         {
-          "word": "The",
-          "startSec": 164.57,
-          "endSec": 164.65,
-          "score": 0.98
+          "word": "Indonesia",
+          "start": 52.08,
+          "end": 52.6
         },
         {
-          "word": "sultan",
-          "startSec": 164.65,
-          "endSec": 165.09,
-          "score": 0.95
+          "word": "has",
+          "start": 52.6,
+          "end": 53.2
         },
         {
-          "word": "lives",
-          "startSec": 165.09,
-          "endSec": 165.79,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 165.79,
-          "endSec": 166.17,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 166.17,
-          "endSec": 166.27,
-          "score": 0.99
-        },
-        {
-          "word": "palace.",
-          "startSec": 166.27,
-          "endSec": 166.75,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 167.61,
-          "endSec": 167.79,
-          "score": 0.99
-        },
-        {
-          "word": "palace",
-          "startSec": 167.79,
-          "endSec": 168.23,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 168.23,
-          "endSec": 168.55,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 168.55,
-          "endSec": 168.89,
-          "score": 1.0
-        },
-        {
-          "word": "kratan.",
-          "startSec": 168.89,
-          "endSec": 169.69,
-          "score": 0.55
-        },
-        {
-          "word": "The",
-          "startSec": 170.63,
-          "endSec": 170.73,
-          "score": 0.99
-        },
-        {
-          "word": "sultan",
-          "startSec": 170.73,
-          "endSec": 171.13,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 171.13,
-          "endSec": 171.57,
-          "score": 1.0
-        },
-        {
-          "word": "respected.",
-          "startSec": 171.57,
-          "endSec": 172.13,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 173.09,
-          "endSec": 173.17,
-          "score": 0.99
+          "word": "forests.",
+          "start": 53.2,
+          "end": 54.18
         }
       ]
     },
     {
       "id": 20,
-      "start": 172.97,
-      "end": 183.51,
-      "text": "listen to him. Tradition and modern life live together. Part seven, old streets and daily life.",
+      "start": 54.44,
+      "end": 56.62,
+      "text": "Indonesia has mountains.",
       "words": [
         {
-          "word": "listen",
-          "startSec": 173.17,
-          "endSec": 173.79,
-          "score": 0.94
+          "word": "Indonesia",
+          "start": 54.44,
+          "end": 55.0
         },
         {
-          "word": "to",
-          "startSec": 173.79,
-          "endSec": 174.09,
-          "score": 1.0
+          "word": "has",
+          "start": 55.0,
+          "end": 55.66
         },
         {
-          "word": "him.",
-          "startSec": 174.09,
-          "endSec": 174.35,
-          "score": 1.0
-        },
-        {
-          "word": "Tradition",
-          "startSec": 174.87,
-          "endSec": 175.13,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 175.13,
-          "endSec": 175.65,
-          "score": 0.86
-        },
-        {
-          "word": "modern",
-          "startSec": 175.65,
-          "endSec": 175.99,
-          "score": 0.99
-        },
-        {
-          "word": "life",
-          "startSec": 175.99,
-          "endSec": 176.61,
-          "score": 0.99
-        },
-        {
-          "word": "live",
-          "startSec": 176.61,
-          "endSec": 177.01,
-          "score": 0.96
-        },
-        {
-          "word": "together.",
-          "startSec": 177.01,
-          "endSec": 177.35,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 179.64,
-          "endSec": 179.64,
-          "score": 0.76
-        },
-        {
-          "word": "seven,",
-          "startSec": 179.64,
-          "endSec": 180.34,
-          "score": 0.94
-        },
-        {
-          "word": "old",
-          "startSec": 181.18,
-          "endSec": 181.32,
-          "score": 0.22
-        },
-        {
-          "word": "streets",
-          "startSec": 181.32,
-          "endSec": 181.88,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 181.88,
-          "endSec": 182.52,
-          "score": 0.93
-        },
-        {
-          "word": "daily",
-          "startSec": 182.52,
-          "endSec": 182.84,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 182.84,
-          "endSec": 183.36,
-          "score": 1.0
+          "word": "mountains.",
+          "start": 55.66,
+          "end": 56.62
         }
       ]
     },
     {
       "id": 21,
-      "start": 184.37,
-      "end": 192.16,
-      "text": "The streets of Yogiacarta are busy. But life is not fast. People ride motorbikes.",
+      "start": 57.46,
+      "end": 60.44,
+      "text": "People from many cultures live here.",
       "words": [
         {
-          "word": "The",
-          "startSec": 184.57,
-          "endSec": 184.98,
-          "score": 0.29
-        },
-        {
-          "word": "streets",
-          "startSec": 184.98,
-          "endSec": 185.4,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 185.4,
-          "endSec": 185.74,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 185.74,
-          "endSec": 186.52,
-          "score": 0.36
-        },
-        {
-          "word": "are",
-          "startSec": 186.52,
-          "endSec": 186.8,
-          "score": 0.99
-        },
-        {
-          "word": "busy.",
-          "startSec": 186.8,
-          "endSec": 187.08,
-          "score": 0.99
-        },
-        {
-          "word": "But",
-          "startSec": 188.59,
-          "endSec": 188.59,
-          "score": 0.97
-        },
-        {
-          "word": "life",
-          "startSec": 188.59,
-          "endSec": 188.83,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 188.83,
-          "endSec": 189.17,
-          "score": 0.99
-        },
-        {
-          "word": "not",
-          "startSec": 189.17,
-          "endSec": 189.39,
-          "score": 1.0
-        },
-        {
-          "word": "fast.",
-          "startSec": 189.39,
-          "endSec": 189.83,
-          "score": 1.0
-        },
-        {
           "word": "People",
-          "startSec": 190.71,
-          "endSec": 190.97,
-          "score": 0.98
+          "start": 57.46,
+          "end": 58.06
         },
         {
-          "word": "ride",
-          "startSec": 190.97,
-          "endSec": 191.27,
-          "score": 1.0
+          "word": "from",
+          "start": 58.06,
+          "end": 58.32
         },
         {
-          "word": "motorbikes.",
-          "startSec": 191.27,
-          "endSec": 192.01,
-          "score": 0.97
+          "word": "many",
+          "start": 58.32,
+          "end": 58.7
+        },
+        {
+          "word": "cultures",
+          "start": 58.7,
+          "end": 59.14
+        },
+        {
+          "word": "live",
+          "start": 59.14,
+          "end": 59.62
+        },
+        {
+          "word": "here.",
+          "start": 59.62,
+          "end": 60.44
         }
       ]
     },
     {
       "id": 22,
-      "start": 192.65,
-      "end": 200.38,
-      "text": "People walk. People sell food on the street. Life feels friendly. People smile a lot.",
+      "start": 60.8,
+      "end": 62.64,
+      "text": "There are many languages.",
       "words": [
         {
-          "word": "People",
-          "startSec": 192.85,
-          "endSec": 192.87,
-          "score": 0.99
+          "word": "There",
+          "start": 60.8,
+          "end": 61.04
         },
         {
-          "word": "walk.",
-          "startSec": 192.87,
-          "endSec": 193.35,
-          "score": 1.0
+          "word": "are",
+          "start": 61.04,
+          "end": 61.2
         },
         {
-          "word": "People",
-          "startSec": 194.39,
-          "endSec": 194.43,
-          "score": 0.99
+          "word": "many",
+          "start": 61.2,
+          "end": 61.54
         },
         {
-          "word": "sell",
-          "startSec": 194.43,
-          "endSec": 194.83,
-          "score": 0.95
-        },
-        {
-          "word": "food",
-          "startSec": 194.83,
-          "endSec": 195.25,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 195.25,
-          "endSec": 195.45,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 195.45,
-          "endSec": 195.59,
-          "score": 1.0
-        },
-        {
-          "word": "street.",
-          "startSec": 195.59,
-          "endSec": 195.95,
-          "score": 0.98
-        },
-        {
-          "word": "Life",
-          "startSec": 196.99,
-          "endSec": 197.07,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 197.07,
-          "endSec": 197.47,
-          "score": 1.0
-        },
-        {
-          "word": "friendly.",
-          "startSec": 197.47,
-          "endSec": 197.87,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 199.21,
-          "endSec": 199.21,
-          "score": 0.99
-        },
-        {
-          "word": "smile",
-          "startSec": 199.21,
-          "endSec": 199.57,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 199.57,
-          "endSec": 199.97,
-          "score": 1.0
-        },
-        {
-          "word": "lot.",
-          "startSec": 199.97,
-          "endSec": 200.23,
-          "score": 1.0
+          "word": "languages.",
+          "start": 61.54,
+          "end": 62.64
         }
       ]
     },
     {
       "id": 23,
-      "start": 201.16,
-      "end": 210.91,
-      "text": "The city feels warm and human. Part eight, Borobudur temple near Yogiacarta is Borobudur.",
+      "start": 63.14,
+      "end": 64.88,
+      "text": "There are many traditions.",
       "words": [
         {
-          "word": "The",
-          "startSec": 201.36,
-          "endSec": 201.42,
-          "score": 0.99
+          "word": "There",
+          "start": 63.14,
+          "end": 63.4
         },
         {
-          "word": "city",
-          "startSec": 201.42,
-          "endSec": 201.66,
-          "score": 1.0
+          "word": "are",
+          "start": 63.4,
+          "end": 63.54
         },
         {
-          "word": "feels",
-          "startSec": 201.66,
-          "endSec": 202.18,
-          "score": 0.99
+          "word": "many",
+          "start": 63.54,
+          "end": 63.82
         },
         {
-          "word": "warm",
-          "startSec": 202.18,
-          "endSec": 202.64,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 202.64,
-          "endSec": 203.28,
-          "score": 0.99
-        },
-        {
-          "word": "human.",
-          "startSec": 203.28,
-          "endSec": 203.72,
-          "score": 0.97
-        },
-        {
-          "word": "Part",
-          "startSec": 206.2,
-          "endSec": 206.2,
-          "score": 0.82
-        },
-        {
-          "word": "eight,",
-          "startSec": 206.2,
-          "endSec": 206.52,
-          "score": 0.51
-        },
-        {
-          "word": "Borobudur",
-          "startSec": 207.26,
-          "endSec": 207.82,
-          "score": 0.67
-        },
-        {
-          "word": "temple",
-          "startSec": 207.82,
-          "endSec": 208.1,
-          "score": 0.39
-        },
-        {
-          "word": "near",
-          "startSec": 208.1,
-          "endSec": 208.86,
-          "score": 0.71
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 208.86,
-          "endSec": 209.78,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 209.78,
-          "endSec": 209.98,
-          "score": 0.93
-        },
-        {
-          "word": "Borobudur.",
-          "startSec": 209.98,
-          "endSec": 210.76,
-          "score": 0.99
+          "word": "traditions.",
+          "start": 63.82,
+          "end": 64.88
         }
       ]
     },
     {
       "id": 24,
-      "start": 211.58,
-      "end": 220.55,
-      "text": "Borobudur is very famous. It is a big temple. It is very old. People come from all over the world.",
+      "start": 65.7,
+      "end": 68.62,
+      "text": "Yogyakarta is one important city.",
       "words": [
         {
-          "word": "Borobudur",
-          "startSec": 211.78,
-          "endSec": 212.42,
-          "score": 0.56
+          "word": "Yogyakarta",
+          "start": 65.7,
+          "end": 66.5
         },
         {
           "word": "is",
-          "startSec": 212.42,
-          "endSec": 212.66,
-          "score": 0.98
+          "start": 66.5,
+          "end": 66.82
         },
         {
-          "word": "very",
-          "startSec": 212.66,
-          "endSec": 212.96,
-          "score": 0.99
+          "word": "one",
+          "start": 66.82,
+          "end": 67.16
         },
         {
-          "word": "famous.",
-          "startSec": 212.96,
-          "endSec": 213.62,
-          "score": 1.0
+          "word": "important",
+          "start": 67.16,
+          "end": 67.64
         },
         {
-          "word": "It",
-          "startSec": 214.7,
-          "endSec": 214.78,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 214.78,
-          "endSec": 214.94,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 214.94,
-          "endSec": 215.08,
-          "score": 1.0
-        },
-        {
-          "word": "big",
-          "startSec": 215.08,
-          "endSec": 215.28,
-          "score": 0.99
-        },
-        {
-          "word": "temple.",
-          "startSec": 215.28,
-          "endSec": 215.64,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 216.54,
-          "endSec": 216.68,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 216.68,
-          "endSec": 216.84,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 216.84,
-          "endSec": 217.1,
-          "score": 1.0
-        },
-        {
-          "word": "old.",
-          "startSec": 217.1,
-          "endSec": 217.58,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 218.26,
-          "endSec": 218.5,
-          "score": 0.99
-        },
-        {
-          "word": "come",
-          "startSec": 218.5,
-          "endSec": 218.94,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 218.94,
-          "endSec": 219.18,
-          "score": 0.99
-        },
-        {
-          "word": "all",
-          "startSec": 219.18,
-          "endSec": 219.52,
-          "score": 1.0
-        },
-        {
-          "word": "over",
-          "startSec": 219.52,
-          "endSec": 219.82,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 219.82,
-          "endSec": 220.0,
-          "score": 1.0
-        },
-        {
-          "word": "world.",
-          "startSec": 220.0,
-          "endSec": 220.4,
-          "score": 1.0
+          "word": "city.",
+          "start": 67.64,
+          "end": 68.62
         }
       ]
     },
     {
       "id": 25,
-      "start": 220.7,
-      "end": 229.95,
-      "text": "They walk quietly. They feel peace. It is a place of history and spirit. Part nine,",
+      "start": 69.2,
+      "end": 74.48,
+      "text": "It is not the capital of Indonesia, but it is the heart of culture.",
       "words": [
         {
-          "word": "They",
-          "startSec": 220.9,
-          "endSec": 221.04,
-          "score": 1.0
-        },
-        {
-          "word": "walk",
-          "startSec": 221.04,
-          "endSec": 221.3,
-          "score": 1.0
-        },
-        {
-          "word": "quietly.",
-          "startSec": 221.3,
-          "endSec": 221.84,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 222.6,
-          "endSec": 222.64,
-          "score": 1.0
-        },
-        {
-          "word": "feel",
-          "startSec": 222.64,
-          "endSec": 222.92,
-          "score": 1.0
-        },
-        {
-          "word": "peace.",
-          "startSec": 222.92,
-          "endSec": 223.18,
-          "score": 1.0
-        },
-        {
           "word": "It",
-          "startSec": 224.38,
-          "endSec": 224.48,
-          "score": 0.99
+          "start": 69.2,
+          "end": 69.46
         },
         {
           "word": "is",
-          "startSec": 224.48,
-          "endSec": 224.62,
-          "score": 1.0
+          "start": 69.46,
+          "end": 69.66
         },
         {
-          "word": "a",
-          "startSec": 224.62,
-          "endSec": 224.8,
-          "score": 0.97
+          "word": "not",
+          "start": 69.66,
+          "end": 69.96
         },
         {
-          "word": "place",
-          "startSec": 224.8,
-          "endSec": 225.12,
-          "score": 1.0
+          "word": "the",
+          "start": 69.96,
+          "end": 70.22
+        },
+        {
+          "word": "capital",
+          "start": 70.22,
+          "end": 70.7
         },
         {
           "word": "of",
-          "startSec": 225.12,
-          "endSec": 225.4,
-          "score": 1.0
+          "start": 70.7,
+          "end": 71.04
         },
         {
-          "word": "history",
-          "startSec": 225.4,
-          "endSec": 225.8,
-          "score": 0.99
+          "word": "Indonesia,",
+          "start": 71.04,
+          "end": 71.5
         },
         {
-          "word": "and",
-          "startSec": 225.8,
-          "endSec": 226.28,
-          "score": 0.99
+          "word": "but",
+          "start": 71.5,
+          "end": 72.72
         },
         {
-          "word": "spirit.",
-          "startSec": 226.28,
-          "endSec": 226.74,
-          "score": 0.99
+          "word": "it",
+          "start": 72.72,
+          "end": 72.92
         },
         {
-          "word": "Part",
-          "startSec": 229.08,
-          "endSec": 229.3,
-          "score": 0.76
+          "word": "is",
+          "start": 72.92,
+          "end": 73.12
         },
         {
-          "word": "nine,",
-          "startSec": 229.3,
-          "endSec": 229.8,
-          "score": 0.29
+          "word": "the",
+          "start": 73.12,
+          "end": 73.3
+        },
+        {
+          "word": "heart",
+          "start": 73.3,
+          "end": 73.68
+        },
+        {
+          "word": "of",
+          "start": 73.68,
+          "end": 73.9
+        },
+        {
+          "word": "culture.",
+          "start": 73.9,
+          "end": 74.48
         }
       ]
     },
     {
       "id": 26,
-      "start": 230.28,
-      "end": 237.35,
-      "text": "Prambanan temple. Another famous place is Prambanan. It is a Hindu temple.",
+      "start": 74.48,
+      "end": 79.26,
+      "text": "Part 3, where is Yogyakarta?",
       "words": [
         {
-          "word": "Prambanan",
-          "startSec": 230.48,
-          "endSec": 231.0,
-          "score": 0.75
+          "word": "Part",
+          "start": 74.48,
+          "end": 75.88
         },
         {
-          "word": "temple.",
-          "startSec": 231.0,
-          "endSec": 231.28,
-          "score": 0.73
+          "word": "3,",
+          "start": 75.88,
+          "end": 76.46
         },
         {
-          "word": "Another",
-          "startSec": 232.38,
-          "endSec": 232.78,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 232.78,
-          "endSec": 233.28,
-          "score": 0.99
-        },
-        {
-          "word": "place",
-          "startSec": 233.28,
-          "endSec": 233.74,
-          "score": 1.0
+          "word": "where",
+          "start": 76.74,
+          "end": 77.66
         },
         {
           "word": "is",
-          "startSec": 233.74,
-          "endSec": 234.0,
-          "score": 0.99
+          "start": 77.66,
+          "end": 78.0
         },
         {
-          "word": "Prambanan.",
-          "startSec": 234.0,
-          "endSec": 234.82,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 235.8,
-          "endSec": 236.1,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 236.1,
-          "endSec": 236.24,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 236.24,
-          "endSec": 236.42,
-          "score": 0.99
-        },
-        {
-          "word": "Hindu",
-          "startSec": 236.42,
-          "endSec": 236.62,
-          "score": 0.99
-        },
-        {
-          "word": "temple.",
-          "startSec": 236.62,
-          "endSec": 237.2,
-          "score": 0.98
+          "word": "Yogyakarta?",
+          "start": 78.0,
+          "end": 79.26
         }
       ]
     },
     {
       "id": 27,
-      "start": 237.95,
-      "end": 247.91,
-      "text": "The towers are tall. The stones are old. At sunset, it is very beautiful. People take photos.",
+      "start": 80.2,
+      "end": 83.08,
+      "text": "Yogyakarta is on the island of Java.",
       "words": [
         {
-          "word": "The",
-          "startSec": 238.15,
-          "endSec": 238.6,
-          "score": 0.31
-        },
-        {
-          "word": "towers",
-          "startSec": 238.6,
-          "endSec": 239.04,
-          "score": 0.51
-        },
-        {
-          "word": "are",
-          "startSec": 239.04,
-          "endSec": 239.44,
-          "score": 1.0
-        },
-        {
-          "word": "tall.",
-          "startSec": 239.44,
-          "endSec": 239.76,
-          "score": 0.98
-        },
-        {
-          "word": "The",
-          "startSec": 240.6,
-          "endSec": 240.72,
-          "score": 0.99
-        },
-        {
-          "word": "stones",
-          "startSec": 240.72,
-          "endSec": 241.04,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 241.04,
-          "endSec": 241.54,
-          "score": 1.0
-        },
-        {
-          "word": "old.",
-          "startSec": 241.54,
-          "endSec": 241.96,
-          "score": 1.0
-        },
-        {
-          "word": "At",
-          "startSec": 242.88,
-          "endSec": 243.14,
-          "score": 0.99
-        },
-        {
-          "word": "sunset,",
-          "startSec": 243.14,
-          "endSec": 243.56,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 244.38,
-          "endSec": 244.54,
-          "score": 0.99
+          "word": "Yogyakarta",
+          "start": 80.2,
+          "end": 80.92
         },
         {
           "word": "is",
-          "startSec": 244.54,
-          "endSec": 244.74,
-          "score": 0.99
+          "start": 80.92,
+          "end": 81.16
         },
         {
-          "word": "very",
-          "startSec": 244.74,
-          "endSec": 245.08,
-          "score": 1.0
+          "word": "on",
+          "start": 81.16,
+          "end": 81.34
         },
         {
-          "word": "beautiful.",
-          "startSec": 245.08,
-          "endSec": 245.6,
-          "score": 1.0
+          "word": "the",
+          "start": 81.34,
+          "end": 81.5
         },
         {
-          "word": "People",
-          "startSec": 246.6,
-          "endSec": 246.82,
-          "score": 0.99
+          "word": "island",
+          "start": 81.5,
+          "end": 81.88
         },
         {
-          "word": "take",
-          "startSec": 246.82,
-          "endSec": 247.26,
-          "score": 1.0
+          "word": "of",
+          "start": 81.88,
+          "end": 82.16
         },
         {
-          "word": "photos.",
-          "startSec": 247.26,
-          "endSec": 247.76,
-          "score": 1.0
+          "word": "Java.",
+          "start": 82.16,
+          "end": 83.08
         }
       ]
     },
     {
       "id": 28,
-      "start": 248.36,
-      "end": 258.58,
-      "text": "People feel amazed. Pampart 10, food in Yogiacarta. Food in Yogiacarta is sweet and soft.",
+      "start": 83.34,
+      "end": 86.04,
+      "text": "Java is a very famous island.",
       "words": [
         {
-          "word": "People",
-          "startSec": 248.56,
-          "endSec": 248.66,
-          "score": 0.99
-        },
-        {
-          "word": "feel",
-          "startSec": 248.66,
-          "endSec": 249.2,
-          "score": 0.99
-        },
-        {
-          "word": "amazed.",
-          "startSec": 249.2,
-          "endSec": 249.78,
-          "score": 0.99
-        },
-        {
-          "word": "Pampart",
-          "startSec": 251.24,
-          "endSec": 251.68,
-          "score": 0.45
-        },
-        {
-          "word": "10,",
-          "startSec": 251.68,
-          "endSec": 252.1,
-          "score": 0.88
-        },
-        {
-          "word": "food",
-          "startSec": 252.96,
-          "endSec": 252.96,
-          "score": 0.47
-        },
-        {
-          "word": "in",
-          "startSec": 252.96,
-          "endSec": 253.2,
-          "score": 0.23
-        },
-        {
-          "word": "Yogiacarta.",
-          "startSec": 253.2,
-          "endSec": 254.14,
-          "score": 0.52
-        },
-        {
-          "word": "Food",
-          "startSec": 254.93,
-          "endSec": 255.45,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 255.45,
-          "endSec": 255.75,
-          "score": 0.99
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 255.75,
-          "endSec": 256.69,
-          "score": 0.99
+          "word": "Java",
+          "start": 83.34,
+          "end": 83.8
         },
         {
           "word": "is",
-          "startSec": 256.69,
-          "endSec": 257.09,
-          "score": 0.99
+          "start": 83.8,
+          "end": 84.16
         },
         {
-          "word": "sweet",
-          "startSec": 257.09,
-          "endSec": 257.55,
-          "score": 1.0
+          "word": "a",
+          "start": 84.16,
+          "end": 84.3
         },
         {
-          "word": "and",
-          "startSec": 257.55,
-          "endSec": 257.97,
-          "score": 0.99
+          "word": "very",
+          "start": 84.3,
+          "end": 84.6
         },
         {
-          "word": "soft.",
-          "startSec": 257.97,
-          "endSec": 258.43,
-          "score": 1.0
+          "word": "famous",
+          "start": 84.6,
+          "end": 85.08
+        },
+        {
+          "word": "island.",
+          "start": 85.08,
+          "end": 86.04
         }
       ]
     },
     {
       "id": 29,
-      "start": 258.95,
-      "end": 268.12,
-      "text": "People like rice, people like vegetables. A famous dish is good egg. It is made from jack fruit.",
+      "start": 86.52,
+      "end": 89.2,
+      "text": "The city is in the center of Java.",
       "words": [
         {
-          "word": "People",
-          "startSec": 259.15,
-          "endSec": 259.57,
-          "score": 0.08
+          "word": "The",
+          "start": 86.52,
+          "end": 86.74
         },
         {
-          "word": "like",
-          "startSec": 259.57,
-          "endSec": 259.87,
-          "score": 0.98
-        },
-        {
-          "word": "rice,",
-          "startSec": 259.87,
-          "endSec": 260.27,
-          "score": 0.94
-        },
-        {
-          "word": "people",
-          "startSec": 261.05,
-          "endSec": 261.19,
-          "score": 0.98
-        },
-        {
-          "word": "like",
-          "startSec": 261.19,
-          "endSec": 261.59,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 261.59,
-          "endSec": 262.17,
-          "score": 1.0
-        },
-        {
-          "word": "A",
-          "startSec": 263.33,
-          "endSec": 263.43,
-          "score": 0.97
-        },
-        {
-          "word": "famous",
-          "startSec": 263.43,
-          "endSec": 263.91,
-          "score": 0.99
-        },
-        {
-          "word": "dish",
-          "startSec": 263.91,
-          "endSec": 264.37,
-          "score": 1.0
+          "word": "city",
+          "start": 86.74,
+          "end": 87.08
         },
         {
           "word": "is",
-          "startSec": 264.37,
-          "endSec": 264.77,
-          "score": 0.99
+          "start": 87.08,
+          "end": 87.38
         },
         {
-          "word": "good",
-          "startSec": 264.77,
-          "endSec": 265.07,
-          "score": 0.14
+          "word": "in",
+          "start": 87.38,
+          "end": 87.56
         },
         {
-          "word": "egg.",
-          "startSec": 265.07,
-          "endSec": 265.41,
-          "score": 0.99
+          "word": "the",
+          "start": 87.56,
+          "end": 87.7
         },
         {
-          "word": "It",
-          "startSec": 266.19,
-          "endSec": 266.31,
-          "score": 0.99
+          "word": "center",
+          "start": 87.7,
+          "end": 88.16
         },
         {
-          "word": "is",
-          "startSec": 266.31,
-          "endSec": 266.47,
-          "score": 0.99
+          "word": "of",
+          "start": 88.16,
+          "end": 88.42
         },
         {
-          "word": "made",
-          "startSec": 266.47,
-          "endSec": 266.73,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 266.73,
-          "endSec": 267.11,
-          "score": 0.99
-        },
-        {
-          "word": "jack",
-          "startSec": 267.11,
-          "endSec": 267.45,
-          "score": 0.92
-        },
-        {
-          "word": "fruit.",
-          "startSec": 267.45,
-          "endSec": 267.97,
-          "score": 0.03
+          "word": "Java.",
+          "start": 88.42,
+          "end": 89.2
         }
       ]
     },
     {
       "id": 30,
-      "start": 268.59,
-      "end": 276.45,
-      "text": "It is sweet. Food is cheap. Food is everywhere. Eating is part of daily life.",
+      "start": 89.38,
+      "end": 91.56,
+      "text": "It is not near the sea.",
       "words": [
         {
           "word": "It",
-          "startSec": 268.79,
-          "endSec": 268.85,
-          "score": 0.97
+          "start": 89.38,
+          "end": 89.6
         },
         {
           "word": "is",
-          "startSec": 268.85,
-          "endSec": 269.03,
-          "score": 0.99
+          "start": 89.6,
+          "end": 89.82
         },
         {
-          "word": "sweet.",
-          "startSec": 269.03,
-          "endSec": 269.45,
-          "score": 1.0
+          "word": "not",
+          "start": 89.82,
+          "end": 90.14
         },
         {
-          "word": "Food",
-          "startSec": 270.24,
-          "endSec": 270.68,
-          "score": 0.98
+          "word": "near",
+          "start": 90.14,
+          "end": 90.48
         },
         {
-          "word": "is",
-          "startSec": 270.68,
-          "endSec": 271.0,
-          "score": 1.0
+          "word": "the",
+          "start": 90.48,
+          "end": 90.74
         },
         {
-          "word": "cheap.",
-          "startSec": 271.0,
-          "endSec": 271.4,
-          "score": 1.0
-        },
-        {
-          "word": "Food",
-          "startSec": 272.1,
-          "endSec": 272.42,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 272.42,
-          "endSec": 272.72,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 272.72,
-          "endSec": 273.14,
-          "score": 1.0
-        },
-        {
-          "word": "Eating",
-          "startSec": 274.02,
-          "endSec": 274.38,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 274.38,
-          "endSec": 274.72,
-          "score": 1.0
-        },
-        {
-          "word": "part",
-          "startSec": 274.72,
-          "endSec": 275.02,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 275.02,
-          "endSec": 275.3,
-          "score": 1.0
-        },
-        {
-          "word": "daily",
-          "startSec": 275.3,
-          "endSec": 275.58,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 275.58,
-          "endSec": 276.3,
-          "score": 1.0
+          "word": "sea.",
+          "start": 90.74,
+          "end": 91.56
         }
       ]
     },
     {
       "id": 31,
-      "start": 276.68,
-      "end": 285.66,
-      "text": "Students and modern life. Yogiacarta is a student city. Many students live here.",
+      "start": 91.86,
+      "end": 93.9,
+      "text": "It is not very high.",
       "words": [
         {
-          "word": "Students",
-          "startSec": 276.88,
-          "endSec": 277.48,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 277.48,
-          "endSec": 277.94,
-          "score": 0.98
-        },
-        {
-          "word": "modern",
-          "startSec": 277.94,
-          "endSec": 278.28,
-          "score": 0.84
-        },
-        {
-          "word": "life.",
-          "startSec": 278.28,
-          "endSec": 278.9,
-          "score": 1.0
-        },
-        {
-          "word": "Yogiacarta",
-          "startSec": 280.37,
-          "endSec": 281.17,
-          "score": 0.4
+          "word": "It",
+          "start": 91.86,
+          "end": 92.12
         },
         {
           "word": "is",
-          "startSec": 281.17,
-          "endSec": 281.55,
-          "score": 1.0
+          "start": 92.12,
+          "end": 92.32
         },
         {
-          "word": "a",
-          "startSec": 281.55,
-          "endSec": 281.73,
-          "score": 0.97
+          "word": "not",
+          "start": 92.32,
+          "end": 92.62
         },
         {
-          "word": "student",
-          "startSec": 281.73,
-          "endSec": 282.15,
-          "score": 0.97
+          "word": "very",
+          "start": 92.62,
+          "end": 93.02
         },
         {
-          "word": "city.",
-          "startSec": 282.15,
-          "endSec": 282.53,
-          "score": 0.97
-        },
-        {
-          "word": "Many",
-          "startSec": 283.29,
-          "endSec": 283.91,
-          "score": 1.0
-        },
-        {
-          "word": "students",
-          "startSec": 283.91,
-          "endSec": 284.63,
-          "score": 1.0
-        },
-        {
-          "word": "live",
-          "startSec": 284.63,
-          "endSec": 285.01,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 285.01,
-          "endSec": 285.51,
-          "score": 1.0
+          "word": "high.",
+          "start": 93.02,
+          "end": 93.9
         }
       ]
     },
     {
       "id": 32,
-      "start": 285.95,
-      "end": 293.24,
-      "text": "There are universities. There are libraries. There are cafes. Young people study and relax.",
+      "start": 94.2,
+      "end": 96.06,
+      "text": "The city is easy to reach.",
       "words": [
         {
-          "word": "There",
-          "startSec": 286.15,
-          "endSec": 286.55,
-          "score": 0.66
+          "word": "The",
+          "start": 94.2,
+          "end": 94.36
         },
         {
-          "word": "are",
-          "startSec": 286.55,
-          "endSec": 286.73,
-          "score": 0.98
+          "word": "city",
+          "start": 94.36,
+          "end": 94.72
         },
         {
-          "word": "universities.",
-          "startSec": 286.73,
-          "endSec": 287.53,
-          "score": 0.81
+          "word": "is",
+          "start": 94.72,
+          "end": 95.04
         },
         {
-          "word": "There",
-          "startSec": 288.23,
-          "endSec": 288.33,
-          "score": 0.97
+          "word": "easy",
+          "start": 95.04,
+          "end": 95.4
         },
         {
-          "word": "are",
-          "startSec": 288.33,
-          "endSec": 288.49,
-          "score": 1.0
+          "word": "to",
+          "start": 95.4,
+          "end": 95.56
         },
         {
-          "word": "libraries.",
-          "startSec": 288.49,
-          "endSec": 289.05,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 289.81,
-          "endSec": 289.83,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 289.83,
-          "endSec": 289.99,
-          "score": 1.0
-        },
-        {
-          "word": "cafes.",
-          "startSec": 289.99,
-          "endSec": 290.39,
-          "score": 0.9
-        },
-        {
-          "word": "Young",
-          "startSec": 291.17,
-          "endSec": 291.35,
-          "score": 0.97
-        },
-        {
-          "word": "people",
-          "startSec": 291.35,
-          "endSec": 291.75,
-          "score": 0.99
-        },
-        {
-          "word": "study",
-          "startSec": 291.75,
-          "endSec": 292.23,
-          "score": 0.96
-        },
-        {
-          "word": "and",
-          "startSec": 292.23,
-          "endSec": 292.69,
-          "score": 0.99
-        },
-        {
-          "word": "relax.",
-          "startSec": 292.69,
-          "endSec": 293.09,
-          "score": 1.0
+          "word": "reach.",
+          "start": 95.56,
+          "end": 96.06
         }
       ]
     },
     {
       "id": 33,
-      "start": 293.81,
-      "end": 297.9,
-      "text": "Old people keep traditions. The city has balance.",
+      "start": 96.06,
+      "end": 99.58,
+      "text": "Many people visit every year.",
       "words": [
         {
-          "word": "Old",
-          "startSec": 294.01,
-          "endSec": 294.21,
-          "score": 0.99
+          "word": "Many",
+          "start": 96.06,
+          "end": 96.98
         },
         {
           "word": "people",
-          "startSec": 294.21,
-          "endSec": 294.53,
-          "score": 1.0
+          "start": 96.98,
+          "end": 97.48
         },
         {
-          "word": "keep",
-          "startSec": 294.53,
-          "endSec": 294.95,
-          "score": 0.99
+          "word": "visit",
+          "start": 97.48,
+          "end": 97.94
         },
         {
-          "word": "traditions.",
-          "startSec": 294.95,
-          "endSec": 295.41,
-          "score": 0.99
+          "word": "every",
+          "start": 97.94,
+          "end": 98.66
         },
         {
-          "word": "The",
-          "startSec": 296.51,
-          "endSec": 296.55,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 296.55,
-          "endSec": 296.85,
-          "score": 0.98
-        },
-        {
-          "word": "has",
-          "startSec": 296.85,
-          "endSec": 297.21,
-          "score": 1.0
-        },
-        {
-          "word": "balance.",
-          "startSec": 297.21,
-          "endSec": 297.75,
-          "score": 0.97
+          "word": "year.",
+          "start": 98.66,
+          "end": 99.58
         }
       ]
     },
     {
       "id": 34,
-      "start": 299.87,
-      "end": 309.63,
-      "text": "Part 12, nature, spirit and goodbye. Nature is close to Yogiacarta. There are mountains.",
+      "start": 99.92,
+      "end": 102.8,
+      "text": "It is a popular place in Indonesia.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 300.07,
-          "endSec": 300.13,
-          "score": 0.26
-        },
-        {
-          "word": "12,",
-          "startSec": 300.13,
-          "endSec": 300.89,
-          "score": 0.9
-        },
-        {
-          "word": "nature,",
-          "startSec": 301.47,
-          "endSec": 301.67,
-          "score": 0.68
-        },
-        {
-          "word": "spirit",
-          "startSec": 302.03,
-          "endSec": 302.39,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 302.39,
-          "endSec": 303.09,
-          "score": 0.5
-        },
-        {
-          "word": "goodbye.",
-          "startSec": 303.09,
-          "endSec": 303.35,
-          "score": 0.85
-        },
-        {
-          "word": "Nature",
-          "startSec": 305.72,
-          "endSec": 306.5,
-          "score": 0.97
+          "word": "It",
+          "start": 99.92,
+          "end": 100.08
         },
         {
           "word": "is",
-          "startSec": 306.5,
-          "endSec": 306.8,
-          "score": 1.0
+          "start": 100.08,
+          "end": 100.24
         },
         {
-          "word": "close",
-          "startSec": 306.8,
-          "endSec": 307.1,
-          "score": 0.97
+          "word": "a",
+          "start": 100.24,
+          "end": 100.38
         },
         {
-          "word": "to",
-          "startSec": 307.1,
-          "endSec": 307.48,
-          "score": 1.0
+          "word": "popular",
+          "start": 100.38,
+          "end": 100.78
         },
         {
-          "word": "Yogiacarta.",
-          "startSec": 307.48,
-          "endSec": 308.26,
-          "score": 0.33
+          "word": "place",
+          "start": 100.78,
+          "end": 101.4
         },
         {
-          "word": "There",
-          "startSec": 308.88,
-          "endSec": 308.96,
-          "score": 0.99
+          "word": "in",
+          "start": 101.4,
+          "end": 101.78
         },
         {
-          "word": "are",
-          "startSec": 308.96,
-          "endSec": 309.12,
-          "score": 1.0
-        },
-        {
-          "word": "mountains.",
-          "startSec": 309.12,
-          "endSec": 309.48,
-          "score": 0.99
+          "word": "Indonesia.",
+          "start": 101.78,
+          "end": 102.8
         }
       ]
     },
     {
       "id": 35,
-      "start": 309.28,
-      "end": 318.79,
-      "text": "There are rivers. Mount Marapi is nearby. It is an active volcano. People respect it.",
+      "start": 103.56,
+      "end": 107.19,
+      "text": "Part 4, weather and climate.",
       "words": [
         {
-          "word": "There",
-          "startSec": 309.48,
-          "endSec": 310.18,
-          "score": 0.15
+          "word": "Part",
+          "start": 103.56,
+          "end": 104.04
         },
         {
-          "word": "are",
-          "startSec": 310.18,
-          "endSec": 310.34,
-          "score": 0.97
+          "word": "4,",
+          "start": 104.04,
+          "end": 104.74
         },
         {
-          "word": "rivers.",
-          "startSec": 310.34,
-          "endSec": 310.8,
-          "score": 0.99
+          "word": "weather",
+          "start": 105.34,
+          "end": 105.88
         },
         {
-          "word": "Mount",
-          "startSec": 311.74,
-          "endSec": 312.08,
-          "score": 0.78
+          "word": "and",
+          "start": 105.88,
+          "end": 106.24
         },
         {
-          "word": "Marapi",
-          "startSec": 312.08,
-          "endSec": 312.68,
-          "score": 0.47
-        },
-        {
-          "word": "is",
-          "startSec": 312.68,
-          "endSec": 312.98,
-          "score": 0.99
-        },
-        {
-          "word": "nearby.",
-          "startSec": 312.98,
-          "endSec": 313.18,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 314.52,
-          "endSec": 314.54,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 314.54,
-          "endSec": 314.72,
-          "score": 0.99
-        },
-        {
-          "word": "an",
-          "startSec": 314.72,
-          "endSec": 314.88,
-          "score": 0.99
-        },
-        {
-          "word": "active",
-          "startSec": 314.88,
-          "endSec": 315.44,
-          "score": 1.0
-        },
-        {
-          "word": "volcano.",
-          "startSec": 315.44,
-          "endSec": 316.22,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 317.18,
-          "endSec": 317.42,
-          "score": 0.99
-        },
-        {
-          "word": "respect",
-          "startSec": 317.42,
-          "endSec": 318.14,
-          "score": 0.98
-        },
-        {
-          "word": "it.",
-          "startSec": 318.14,
-          "endSec": 318.64,
-          "score": 1.0
+          "word": "climate.",
+          "start": 106.24,
+          "end": 107.19
         }
       ]
     },
     {
       "id": 36,
-      "start": 319.43,
-      "end": 325.54,
-      "text": "Yogiacarta is a city of culture, history, students and spirit.",
+      "start": 107.4,
+      "end": 110.1,
+      "text": "The weather in Yogyakarta is warm.",
       "words": [
         {
-          "word": "Yogiacarta",
-          "startSec": 319.63,
-          "endSec": 320.33,
-          "score": 0.3
+          "word": "The",
+          "start": 107.4,
+          "end": 107.52
+        },
+        {
+          "word": "weather",
+          "start": 107.52,
+          "end": 107.88
+        },
+        {
+          "word": "in",
+          "start": 107.88,
+          "end": 108.22
+        },
+        {
+          "word": "Yogyakarta",
+          "start": 108.22,
+          "end": 108.96
         },
         {
           "word": "is",
-          "startSec": 320.33,
-          "endSec": 320.67,
-          "score": 1.0
+          "start": 108.96,
+          "end": 109.32
+        },
+        {
+          "word": "warm.",
+          "start": 109.32,
+          "end": 110.1
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 110.28,
+      "end": 112.68,
+      "text": "It is warm almost every day.",
+      "words": [
+        {
+          "word": "It",
+          "start": 110.28,
+          "end": 110.46
+        },
+        {
+          "word": "is",
+          "start": 110.46,
+          "end": 110.62
+        },
+        {
+          "word": "warm",
+          "start": 110.62,
+          "end": 111.02
+        },
+        {
+          "word": "almost",
+          "start": 111.02,
+          "end": 111.5
+        },
+        {
+          "word": "every",
+          "start": 111.5,
+          "end": 111.88
+        },
+        {
+          "word": "day.",
+          "start": 111.88,
+          "end": 112.68
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 113.02,
+      "end": 114.49,
+      "text": "There is sun.",
+      "words": [
+        {
+          "word": "There",
+          "start": 113.02,
+          "end": 113.34
+        },
+        {
+          "word": "is",
+          "start": 113.34,
+          "end": 113.52
+        },
+        {
+          "word": "sun.",
+          "start": 113.52,
+          "end": 114.49
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 114.72,
+      "end": 116.06,
+      "text": "There is rain.",
+      "words": [
+        {
+          "word": "There",
+          "start": 114.72,
+          "end": 114.98
+        },
+        {
+          "word": "is",
+          "start": 114.98,
+          "end": 115.2
+        },
+        {
+          "word": "rain.",
+          "start": 115.2,
+          "end": 116.06
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 116.46,
+      "end": 118.2,
+      "text": "The air feels tropical.",
+      "words": [
+        {
+          "word": "The",
+          "start": 116.46,
+          "end": 116.54
+        },
+        {
+          "word": "air",
+          "start": 116.54,
+          "end": 116.82
+        },
+        {
+          "word": "feels",
+          "start": 116.82,
+          "end": 117.16
+        },
+        {
+          "word": "tropical.",
+          "start": 117.16,
+          "end": 118.2
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 118.74,
+      "end": 120.72,
+      "text": "Some days are very hot.",
+      "words": [
+        {
+          "word": "Some",
+          "start": 118.74,
+          "end": 119.08
+        },
+        {
+          "word": "days",
+          "start": 119.08,
+          "end": 119.36
+        },
+        {
+          "word": "are",
+          "start": 119.36,
+          "end": 119.58
+        },
+        {
+          "word": "very",
+          "start": 119.58,
+          "end": 119.88
+        },
+        {
+          "word": "hot.",
+          "start": 119.88,
+          "end": 120.72
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 120.96,
+      "end": 122.14,
+      "text": "Some days are wet.",
+      "words": [
+        {
+          "word": "Some",
+          "start": 120.96,
+          "end": 121.26
+        },
+        {
+          "word": "days",
+          "start": 121.26,
+          "end": 121.56
+        },
+        {
+          "word": "are",
+          "start": 121.56,
+          "end": 121.78
+        },
+        {
+          "word": "wet.",
+          "start": 121.78,
+          "end": 122.14
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 122.14,
+      "end": 125.18,
+      "text": "People are used to this weather.",
+      "words": [
+        {
+          "word": "People",
+          "start": 122.14,
+          "end": 123.22
+        },
+        {
+          "word": "are",
+          "start": 123.22,
+          "end": 123.48
+        },
+        {
+          "word": "used",
+          "start": 123.48,
+          "end": 123.86
+        },
+        {
+          "word": "to",
+          "start": 123.86,
+          "end": 124.14
+        },
+        {
+          "word": "this",
+          "start": 124.14,
+          "end": 124.38
+        },
+        {
+          "word": "weather.",
+          "start": 124.38,
+          "end": 125.18
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 125.44,
+      "end": 127.54,
+      "text": "Life continues slowly.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 125.44,
+          "end": 125.8
+        },
+        {
+          "word": "continues",
+          "start": 125.8,
+          "end": 126.46
+        },
+        {
+          "word": "slowly.",
+          "start": 126.46,
+          "end": 127.54
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 127.76,
+      "end": 129.92,
+      "text": "People adapt easily.",
+      "words": [
+        {
+          "word": "People",
+          "start": 127.76,
+          "end": 128.32
+        },
+        {
+          "word": "adapt",
+          "start": 128.32,
+          "end": 128.88
+        },
+        {
+          "word": "easily.",
+          "start": 128.88,
+          "end": 129.92
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 131.88,
+      "end": 134.44,
+      "text": "Part 5, a city of culture.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 131.88,
+          "end": 131.9
+        },
+        {
+          "word": "5,",
+          "start": 131.9,
+          "end": 132.46
         },
         {
           "word": "a",
-          "startSec": 320.67,
-          "endSec": 320.81,
-          "score": 0.86
+          "start": 132.72,
+          "end": 132.88
         },
         {
           "word": "city",
-          "startSec": 320.81,
-          "endSec": 321.17,
-          "score": 0.98
+          "start": 132.88,
+          "end": 133.2
         },
         {
           "word": "of",
-          "startSec": 321.17,
-          "endSec": 321.45,
-          "score": 1.0
+          "start": 133.2,
+          "end": 133.46
         },
         {
-          "word": "culture,",
-          "startSec": 321.45,
-          "endSec": 322.07,
-          "score": 0.97
+          "word": "culture.",
+          "start": 133.46,
+          "end": 134.44
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 134.94,
+      "end": 137.92,
+      "text": "Yogyakarta is a cultural city.",
+      "words": [
+        {
+          "word": "Yogyakarta",
+          "start": 134.94,
+          "end": 135.9
         },
         {
-          "word": "history,",
-          "startSec": 322.69,
-          "endSec": 322.87,
-          "score": 1.0
+          "word": "is",
+          "start": 135.9,
+          "end": 136.3
         },
         {
-          "word": "students",
-          "startSec": 323.53,
-          "endSec": 324.13,
-          "score": 0.95
+          "word": "a",
+          "start": 136.3,
+          "end": 136.46
+        },
+        {
+          "word": "cultural",
+          "start": 136.46,
+          "end": 136.92
+        },
+        {
+          "word": "city.",
+          "start": 136.92,
+          "end": 137.92
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 138.38,
+      "end": 141.12,
+      "text": "Culture is very important here.",
+      "words": [
+        {
+          "word": "Culture",
+          "start": 138.38,
+          "end": 138.92
+        },
+        {
+          "word": "is",
+          "start": 138.92,
+          "end": 139.28
+        },
+        {
+          "word": "very",
+          "start": 139.28,
+          "end": 139.66
+        },
+        {
+          "word": "important",
+          "start": 139.66,
+          "end": 140.28
+        },
+        {
+          "word": "here.",
+          "start": 140.28,
+          "end": 141.12
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 141.36,
+      "end": 142.98,
+      "text": "People love art.",
+      "words": [
+        {
+          "word": "People",
+          "start": 141.36,
+          "end": 141.68
+        },
+        {
+          "word": "love",
+          "start": 141.68,
+          "end": 142.12
+        },
+        {
+          "word": "art.",
+          "start": 142.12,
+          "end": 142.98
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 143.14,
+      "end": 144.78,
+      "text": "People love music.",
+      "words": [
+        {
+          "word": "People",
+          "start": 143.14,
+          "end": 143.4
+        },
+        {
+          "word": "love",
+          "start": 143.4,
+          "end": 143.88
+        },
+        {
+          "word": "music.",
+          "start": 143.88,
+          "end": 144.78
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 145.06,
+      "end": 146.59,
+      "text": "People love dance.",
+      "words": [
+        {
+          "word": "People",
+          "start": 145.06,
+          "end": 145.42
+        },
+        {
+          "word": "love",
+          "start": 145.42,
+          "end": 145.82
+        },
+        {
+          "word": "dance.",
+          "start": 145.82,
+          "end": 146.59
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 146.8,
+      "end": 148.82,
+      "text": "Traditional clothes are common.",
+      "words": [
+        {
+          "word": "Traditional",
+          "start": 146.8,
+          "end": 147.26
+        },
+        {
+          "word": "clothes",
+          "start": 147.26,
+          "end": 147.86
+        },
+        {
+          "word": "are",
+          "start": 147.86,
+          "end": 148.28
+        },
+        {
+          "word": "common.",
+          "start": 148.28,
+          "end": 148.82
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 148.82,
+      "end": 151.7,
+      "text": "Traditional food is popular.",
+      "words": [
+        {
+          "word": "Traditional",
+          "start": 148.82,
+          "end": 149.9
+        },
+        {
+          "word": "food",
+          "start": 149.9,
+          "end": 150.52
+        },
+        {
+          "word": "is",
+          "start": 150.52,
+          "end": 150.78
+        },
+        {
+          "word": "popular.",
+          "start": 150.78,
+          "end": 151.7
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 152.08,
+      "end": 154.68,
+      "text": "Old traditions are alive.",
+      "words": [
+        {
+          "word": "Old",
+          "start": 152.08,
+          "end": 152.62
+        },
+        {
+          "word": "traditions",
+          "start": 152.62,
+          "end": 153.24
+        },
+        {
+          "word": "are",
+          "start": 153.24,
+          "end": 153.72
+        },
+        {
+          "word": "alive.",
+          "start": 153.72,
+          "end": 154.68
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 155.7,
+      "end": 159.12,
+      "text": "Part 6, the Sultan and the Palace.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 155.7,
+          "end": 156.0
+        },
+        {
+          "word": "6,",
+          "start": 156.0,
+          "end": 156.76
+        },
+        {
+          "word": "the",
+          "start": 157.22,
+          "end": 157.32
+        },
+        {
+          "word": "Sultan",
+          "start": 157.32,
+          "end": 157.8
         },
         {
           "word": "and",
-          "startSec": 324.13,
-          "endSec": 324.81,
-          "score": 0.47
+          "start": 157.8,
+          "end": 158.14
+        },
+        {
+          "word": "the",
+          "start": 158.14,
+          "end": 158.3
+        },
+        {
+          "word": "Palace.",
+          "start": 158.3,
+          "end": 159.12
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 159.8,
+      "end": 162.13,
+      "text": "Yogyakarta has a Sultan.",
+      "words": [
+        {
+          "word": "Yogyakarta",
+          "start": 159.8,
+          "end": 160.76
+        },
+        {
+          "word": "has",
+          "start": 160.76,
+          "end": 161.14
+        },
+        {
+          "word": "a",
+          "start": 161.14,
+          "end": 161.34
+        },
+        {
+          "word": "Sultan.",
+          "start": 161.34,
+          "end": 162.13
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 162.38,
+      "end": 164.38,
+      "text": "This is very special.",
+      "words": [
+        {
+          "word": "This",
+          "start": 162.38,
+          "end": 162.76
+        },
+        {
+          "word": "is",
+          "start": 162.76,
+          "end": 163.0
+        },
+        {
+          "word": "very",
+          "start": 163.0,
+          "end": 163.44
+        },
+        {
+          "word": "special.",
+          "start": 163.44,
+          "end": 164.38
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 164.6,
+      "end": 167.22,
+      "text": "The Sultan lives in a palace.",
+      "words": [
+        {
+          "word": "The",
+          "start": 164.6,
+          "end": 164.7
+        },
+        {
+          "word": "Sultan",
+          "start": 164.7,
+          "end": 165.28
+        },
+        {
+          "word": "lives",
+          "start": 165.28,
+          "end": 165.9
+        },
+        {
+          "word": "in",
+          "start": 165.9,
+          "end": 166.22
+        },
+        {
+          "word": "a",
+          "start": 166.22,
+          "end": 166.42
+        },
+        {
+          "word": "palace.",
+          "start": 166.42,
+          "end": 167.22
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 167.7,
+      "end": 170.2,
+      "text": "The palace is called Kratun.",
+      "words": [
+        {
+          "word": "The",
+          "start": 167.7,
+          "end": 167.84
+        },
+        {
+          "word": "palace",
+          "start": 167.84,
+          "end": 168.28
+        },
+        {
+          "word": "is",
+          "start": 168.28,
+          "end": 168.64
+        },
+        {
+          "word": "called",
+          "start": 168.64,
+          "end": 168.96
+        },
+        {
+          "word": "Kratun.",
+          "start": 168.96,
+          "end": 170.2
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 170.5,
+      "end": 172.26,
+      "text": "The Sultan is respected.",
+      "words": [
+        {
+          "word": "The",
+          "start": 170.5,
+          "end": 170.8
+        },
+        {
+          "word": "Sultan",
+          "start": 170.8,
+          "end": 171.28
+        },
+        {
+          "word": "is",
+          "start": 171.28,
+          "end": 171.64
+        },
+        {
+          "word": "respected.",
+          "start": 171.64,
+          "end": 172.26
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 172.26,
+      "end": 174.69,
+      "text": "People listen to him.",
+      "words": [
+        {
+          "word": "People",
+          "start": 172.26,
+          "end": 173.32
+        },
+        {
+          "word": "listen",
+          "start": 173.32,
+          "end": 173.82
+        },
+        {
+          "word": "to",
+          "start": 173.82,
+          "end": 174.14
+        },
+        {
+          "word": "him.",
+          "start": 174.14,
+          "end": 174.69
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 174.86,
+      "end": 178.12,
+      "text": "Tradition and modern life live together.",
+      "words": [
+        {
+          "word": "Tradition",
+          "start": 174.86,
+          "end": 175.48
+        },
+        {
+          "word": "and",
+          "start": 175.48,
+          "end": 175.72
+        },
+        {
+          "word": "modern",
+          "start": 175.72,
+          "end": 176.14
+        },
+        {
+          "word": "life",
+          "start": 176.14,
+          "end": 176.72
+        },
+        {
+          "word": "live",
+          "start": 176.72,
+          "end": 177.06
+        },
+        {
+          "word": "together.",
+          "start": 177.06,
+          "end": 178.12
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 179.44,
+      "end": 184.04,
+      "text": "Part 7, old streets and daily life.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 179.44,
+          "end": 179.72
+        },
+        {
+          "word": "7,",
+          "start": 179.72,
+          "end": 180.38
+        },
+        {
+          "word": "old",
+          "start": 180.86,
+          "end": 181.44
+        },
+        {
+          "word": "streets",
+          "start": 181.44,
+          "end": 182.06
+        },
+        {
+          "word": "and",
+          "start": 182.06,
+          "end": 182.58
+        },
+        {
+          "word": "daily",
+          "start": 182.58,
+          "end": 182.96
+        },
+        {
+          "word": "life.",
+          "start": 182.96,
+          "end": 184.04
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 184.36,
+      "end": 187.7,
+      "text": "The streets of Yogyakarta are busy.",
+      "words": [
+        {
+          "word": "The",
+          "start": 184.36,
+          "end": 185.1
+        },
+        {
+          "word": "streets",
+          "start": 185.1,
+          "end": 185.5
+        },
+        {
+          "word": "of",
+          "start": 185.5,
+          "end": 185.8
+        },
+        {
+          "word": "Yogyakarta",
+          "start": 185.8,
+          "end": 186.52
+        },
+        {
+          "word": "are",
+          "start": 186.52,
+          "end": 186.82
+        },
+        {
+          "word": "busy.",
+          "start": 186.82,
+          "end": 187.7
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 188.22,
+      "end": 190.38,
+      "text": "But life is not fast.",
+      "words": [
+        {
+          "word": "But",
+          "start": 188.22,
+          "end": 188.62
+        },
+        {
+          "word": "life",
+          "start": 188.62,
+          "end": 188.92
+        },
+        {
+          "word": "is",
+          "start": 188.92,
+          "end": 189.22
+        },
+        {
+          "word": "not",
+          "start": 189.22,
+          "end": 189.46
+        },
+        {
+          "word": "fast.",
+          "start": 189.46,
+          "end": 190.38
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 190.72,
+      "end": 192.42,
+      "text": "People ride motorbikes.",
+      "words": [
+        {
+          "word": "People",
+          "start": 190.72,
+          "end": 191.0
+        },
+        {
+          "word": "ride",
+          "start": 191.0,
+          "end": 191.36
+        },
+        {
+          "word": "motorbikes.",
+          "start": 191.36,
+          "end": 192.42
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 192.56,
+      "end": 193.86,
+      "text": "People walk.",
+      "words": [
+        {
+          "word": "People",
+          "start": 192.56,
+          "end": 193.0
+        },
+        {
+          "word": "walk.",
+          "start": 193.0,
+          "end": 193.86
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 194.22,
+      "end": 196.42,
+      "text": "People sell food on the street.",
+      "words": [
+        {
+          "word": "People",
+          "start": 194.22,
+          "end": 194.6
+        },
+        {
+          "word": "sell",
+          "start": 194.6,
+          "end": 194.92
+        },
+        {
+          "word": "food",
+          "start": 194.92,
+          "end": 195.26
+        },
+        {
+          "word": "on",
+          "start": 195.26,
+          "end": 195.5
+        },
+        {
+          "word": "the",
+          "start": 195.5,
+          "end": 195.64
+        },
+        {
+          "word": "street.",
+          "start": 195.64,
+          "end": 196.42
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 196.8,
+      "end": 198.12,
+      "text": "Life feels friendly.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 196.8,
+          "end": 197.16
+        },
+        {
+          "word": "feels",
+          "start": 197.16,
+          "end": 197.54
+        },
+        {
+          "word": "friendly.",
+          "start": 197.54,
+          "end": 198.12
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 198.12,
+      "end": 200.74,
+      "text": "People smile a lot.",
+      "words": [
+        {
+          "word": "People",
+          "start": 198.12,
+          "end": 199.2
+        },
+        {
+          "word": "smile",
+          "start": 199.2,
+          "end": 199.68
+        },
+        {
+          "word": "a",
+          "start": 199.68,
+          "end": 200.08
+        },
+        {
+          "word": "lot.",
+          "start": 200.08,
+          "end": 200.74
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 201.08,
+      "end": 204.18,
+      "text": "The city feels warm and human.",
+      "words": [
+        {
+          "word": "The",
+          "start": 201.08,
+          "end": 201.46
+        },
+        {
+          "word": "city",
+          "start": 201.46,
+          "end": 201.78
+        },
+        {
+          "word": "feels",
+          "start": 201.78,
+          "end": 202.22
+        },
+        {
+          "word": "warm",
+          "start": 202.22,
+          "end": 202.8
+        },
+        {
+          "word": "and",
+          "start": 202.8,
+          "end": 203.34
+        },
+        {
+          "word": "human.",
+          "start": 203.34,
+          "end": 204.18
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 205.42,
+      "end": 211.26,
+      "text": "Part 8, Borobudur Temple near Yogyakarta is Borobudur.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 205.42,
+          "end": 206.22
+        },
+        {
+          "word": "8,",
+          "start": 206.22,
+          "end": 206.66
+        },
+        {
+          "word": "Borobudur",
+          "start": 207.3,
+          "end": 207.86
+        },
+        {
+          "word": "Temple",
+          "start": 207.86,
+          "end": 208.26
+        },
+        {
+          "word": "near",
+          "start": 208.26,
+          "end": 208.94
+        },
+        {
+          "word": "Yogyakarta",
+          "start": 208.94,
+          "end": 209.76
+        },
+        {
+          "word": "is",
+          "start": 209.76,
+          "end": 210.0
+        },
+        {
+          "word": "Borobudur.",
+          "start": 210.0,
+          "end": 211.26
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 211.66,
+      "end": 214.04,
+      "text": "Borobudur is very famous.",
+      "words": [
+        {
+          "word": "Borobudur",
+          "start": 211.66,
+          "end": 212.46
+        },
+        {
+          "word": "is",
+          "start": 212.46,
+          "end": 212.7
+        },
+        {
+          "word": "very",
+          "start": 212.7,
+          "end": 213.08
+        },
+        {
+          "word": "famous.",
+          "start": 213.08,
+          "end": 214.04
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 214.68,
+      "end": 216.24,
+      "text": "It is a big temple.",
+      "words": [
+        {
+          "word": "It",
+          "start": 214.68,
+          "end": 214.8
+        },
+        {
+          "word": "is",
+          "start": 214.8,
+          "end": 214.98
+        },
+        {
+          "word": "a",
+          "start": 214.98,
+          "end": 215.16
+        },
+        {
+          "word": "big",
+          "start": 215.16,
+          "end": 215.36
+        },
+        {
+          "word": "temple.",
+          "start": 215.36,
+          "end": 216.24
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 216.52,
+      "end": 218.04,
+      "text": "It is very old.",
+      "words": [
+        {
+          "word": "It",
+          "start": 216.52,
+          "end": 216.72
+        },
+        {
+          "word": "is",
+          "start": 216.72,
+          "end": 216.9
+        },
+        {
+          "word": "very",
+          "start": 216.9,
+          "end": 217.22
+        },
+        {
+          "word": "old.",
+          "start": 217.22,
+          "end": 218.04
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 218.3,
+      "end": 220.76,
+      "text": "People come from all over the world.",
+      "words": [
+        {
+          "word": "People",
+          "start": 218.3,
+          "end": 218.68
+        },
+        {
+          "word": "come",
+          "start": 218.68,
+          "end": 219.0
+        },
+        {
+          "word": "from",
+          "start": 219.0,
+          "end": 219.24
+        },
+        {
+          "word": "all",
+          "start": 219.24,
+          "end": 219.62
+        },
+        {
+          "word": "over",
+          "start": 219.62,
+          "end": 219.9
+        },
+        {
+          "word": "the",
+          "start": 219.9,
+          "end": 220.04
+        },
+        {
+          "word": "world.",
+          "start": 220.04,
+          "end": 220.76
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 220.94,
+      "end": 222.33,
+      "text": "They walk quietly.",
+      "words": [
+        {
+          "word": "They",
+          "start": 220.94,
+          "end": 221.08
+        },
+        {
+          "word": "walk",
+          "start": 221.08,
+          "end": 221.36
+        },
+        {
+          "word": "quietly.",
+          "start": 221.36,
+          "end": 222.33
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 222.58,
+      "end": 223.76,
+      "text": "They feel peace.",
+      "words": [
+        {
+          "word": "They",
+          "start": 222.58,
+          "end": 222.68
+        },
+        {
+          "word": "feel",
+          "start": 222.68,
+          "end": 222.98
+        },
+        {
+          "word": "peace.",
+          "start": 222.98,
+          "end": 223.76
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 224.32,
+      "end": 227.18,
+      "text": "It is a place of history and spirit.",
+      "words": [
+        {
+          "word": "It",
+          "start": 224.32,
+          "end": 224.52
+        },
+        {
+          "word": "is",
+          "start": 224.52,
+          "end": 224.7
+        },
+        {
+          "word": "a",
+          "start": 224.7,
+          "end": 224.88
+        },
+        {
+          "word": "place",
+          "start": 224.88,
+          "end": 225.14
+        },
+        {
+          "word": "of",
+          "start": 225.14,
+          "end": 225.48
+        },
+        {
+          "word": "history",
+          "start": 225.48,
+          "end": 226.0
+        },
+        {
+          "word": "and",
+          "start": 226.0,
+          "end": 226.32
         },
         {
           "word": "spirit.",
-          "startSec": 324.81,
-          "endSec": 325.39,
-          "score": 0.97
+          "start": 226.32,
+          "end": 227.18
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 228.32,
+      "end": 231.94,
+      "text": "Part 9, Prambanan Temple.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 228.32,
+          "end": 229.36
+        },
+        {
+          "word": "9,",
+          "start": 229.36,
+          "end": 229.9
+        },
+        {
+          "word": "Prambanan",
+          "start": 230.5,
+          "end": 230.96
+        },
+        {
+          "word": "Temple.",
+          "start": 230.96,
+          "end": 231.94
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 232.5,
+      "end": 235.12,
+      "text": "Another famous place is Prambanan.",
+      "words": [
+        {
+          "word": "Another",
+          "start": 232.5,
+          "end": 232.82
+        },
+        {
+          "word": "famous",
+          "start": 232.82,
+          "end": 233.34
+        },
+        {
+          "word": "place",
+          "start": 233.34,
+          "end": 233.76
+        },
+        {
+          "word": "is",
+          "start": 233.76,
+          "end": 234.04
+        },
+        {
+          "word": "Prambanan.",
+          "start": 234.04,
+          "end": 235.12
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 235.62,
+      "end": 237.58,
+      "text": "It is a Hindu temple.",
+      "words": [
+        {
+          "word": "It",
+          "start": 235.62,
+          "end": 236.14
+        },
+        {
+          "word": "is",
+          "start": 236.14,
+          "end": 236.32
+        },
+        {
+          "word": "a",
+          "start": 236.32,
+          "end": 236.48
+        },
+        {
+          "word": "Hindu",
+          "start": 236.48,
+          "end": 236.78
+        },
+        {
+          "word": "temple.",
+          "start": 236.78,
+          "end": 237.58
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 238.5,
+      "end": 240.34,
+      "text": "The towers are tall.",
+      "words": [
+        {
+          "word": "The",
+          "start": 238.5,
+          "end": 238.64
+        },
+        {
+          "word": "towers",
+          "start": 238.64,
+          "end": 239.2
+        },
+        {
+          "word": "are",
+          "start": 239.2,
+          "end": 239.48
+        },
+        {
+          "word": "tall.",
+          "start": 239.48,
+          "end": 240.34
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 240.68,
+      "end": 242.54,
+      "text": "The stones are old.",
+      "words": [
+        {
+          "word": "The",
+          "start": 240.68,
+          "end": 240.76
+        },
+        {
+          "word": "stones",
+          "start": 240.76,
+          "end": 241.22
+        },
+        {
+          "word": "are",
+          "start": 241.22,
+          "end": 241.6
+        },
+        {
+          "word": "old.",
+          "start": 241.6,
+          "end": 242.54
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 242.98,
+      "end": 246.26,
+      "text": "At sunset it is very beautiful.",
+      "words": [
+        {
+          "word": "At",
+          "start": 242.98,
+          "end": 243.22
+        },
+        {
+          "word": "sunset",
+          "start": 243.22,
+          "end": 243.88
+        },
+        {
+          "word": "it",
+          "start": 243.88,
+          "end": 244.58
+        },
+        {
+          "word": "is",
+          "start": 244.58,
+          "end": 244.8
+        },
+        {
+          "word": "very",
+          "start": 244.8,
+          "end": 245.22
+        },
+        {
+          "word": "beautiful.",
+          "start": 245.22,
+          "end": 246.26
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 246.62,
+      "end": 248.24,
+      "text": "People take photos.",
+      "words": [
+        {
+          "word": "People",
+          "start": 246.62,
+          "end": 247.0
+        },
+        {
+          "word": "take",
+          "start": 247.0,
+          "end": 247.32
+        },
+        {
+          "word": "photos.",
+          "start": 247.32,
+          "end": 248.24
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 248.58,
+      "end": 250.42,
+      "text": "People feel amazed.",
+      "words": [
+        {
+          "word": "People",
+          "start": 248.58,
+          "end": 248.9
+        },
+        {
+          "word": "feel",
+          "start": 248.9,
+          "end": 249.38
+        },
+        {
+          "word": "amazed.",
+          "start": 249.38,
+          "end": 250.42
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 251.02,
+      "end": 254.54,
+      "text": "Part 10, Food in Yogyakarta.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 251.02,
+          "end": 251.48
+        },
+        {
+          "word": "10,",
+          "start": 251.48,
+          "end": 252.22
+        },
+        {
+          "word": "Food",
+          "start": 252.74,
+          "end": 253.0
+        },
+        {
+          "word": "in",
+          "start": 253.0,
+          "end": 253.28
+        },
+        {
+          "word": "Yogyakarta.",
+          "start": 253.28,
+          "end": 254.54
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 254.78,
+      "end": 259.03,
+      "text": "Food in Yogyakarta is sweet and soft.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 254.78,
+          "end": 255.58
+        },
+        {
+          "word": "in",
+          "start": 255.58,
+          "end": 255.84
+        },
+        {
+          "word": "Yogyakarta",
+          "start": 255.84,
+          "end": 256.7
+        },
+        {
+          "word": "is",
+          "start": 256.7,
+          "end": 257.16
+        },
+        {
+          "word": "sweet",
+          "start": 257.16,
+          "end": 257.7
+        },
+        {
+          "word": "and",
+          "start": 257.7,
+          "end": 258.06
+        },
+        {
+          "word": "soft.",
+          "start": 258.06,
+          "end": 259.03
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 259.26,
+      "end": 260.82,
+      "text": "People like rice.",
+      "words": [
+        {
+          "word": "People",
+          "start": 259.26,
+          "end": 259.58
+        },
+        {
+          "word": "like",
+          "start": 259.58,
+          "end": 259.96
+        },
+        {
+          "word": "rice.",
+          "start": 259.96,
+          "end": 260.82
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 261.28,
+      "end": 262.58,
+      "text": "People like vegetables.",
+      "words": [
+        {
+          "word": "People",
+          "start": 261.28,
+          "end": 261.38
+        },
+        {
+          "word": "like",
+          "start": 261.38,
+          "end": 261.7
+        },
+        {
+          "word": "vegetables.",
+          "start": 261.7,
+          "end": 262.58
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 263.32,
+      "end": 265.78,
+      "text": "A famous dish is goudeg.",
+      "words": [
+        {
+          "word": "A",
+          "start": 263.32,
+          "end": 263.48
+        },
+        {
+          "word": "famous",
+          "start": 263.48,
+          "end": 263.94
+        },
+        {
+          "word": "dish",
+          "start": 263.94,
+          "end": 264.44
+        },
+        {
+          "word": "is",
+          "start": 264.44,
+          "end": 264.88
+        },
+        {
+          "word": "goudeg.",
+          "start": 264.88,
+          "end": 265.78
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 266.02,
+      "end": 268.44,
+      "text": "It is made from jackfruit.",
+      "words": [
+        {
+          "word": "It",
+          "start": 266.02,
+          "end": 266.36
+        },
+        {
+          "word": "is",
+          "start": 266.36,
+          "end": 266.54
+        },
+        {
+          "word": "made",
+          "start": 266.54,
+          "end": 266.84
+        },
+        {
+          "word": "from",
+          "start": 266.84,
+          "end": 267.14
+        },
+        {
+          "word": "jackfruit.",
+          "start": 267.14,
+          "end": 268.44
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 268.76,
+      "end": 269.94,
+      "text": "It is sweet.",
+      "words": [
+        {
+          "word": "It",
+          "start": 268.76,
+          "end": 268.9
+        },
+        {
+          "word": "is",
+          "start": 268.9,
+          "end": 269.08
+        },
+        {
+          "word": "sweet.",
+          "start": 269.08,
+          "end": 269.94
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 270.34,
+      "end": 271.86,
+      "text": "Food is cheap.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 270.34,
+          "end": 270.8
+        },
+        {
+          "word": "is",
+          "start": 270.8,
+          "end": 271.08
+        },
+        {
+          "word": "cheap.",
+          "start": 271.08,
+          "end": 271.86
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 272.2,
+      "end": 273.68,
+      "text": "Food is everywhere.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 272.2,
+          "end": 272.54
+        },
+        {
+          "word": "is",
+          "start": 272.54,
+          "end": 272.78
+        },
+        {
+          "word": "everywhere.",
+          "start": 272.78,
+          "end": 273.68
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 274.14,
+      "end": 276.4,
+      "text": "Eating is part of daily life.",
+      "words": [
+        {
+          "word": "Eating",
+          "start": 274.14,
+          "end": 274.42
+        },
+        {
+          "word": "is",
+          "start": 274.42,
+          "end": 274.78
+        },
+        {
+          "word": "part",
+          "start": 274.78,
+          "end": 275.14
+        },
+        {
+          "word": "of",
+          "start": 275.14,
+          "end": 275.34
+        },
+        {
+          "word": "daily",
+          "start": 275.34,
+          "end": 275.7
+        },
+        {
+          "word": "life.",
+          "start": 275.7,
+          "end": 276.4
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 276.4,
+      "end": 279.5,
+      "text": "Students and Modern Life.",
+      "words": [
+        {
+          "word": "Students",
+          "start": 276.4,
+          "end": 277.46
+        },
+        {
+          "word": "and",
+          "start": 277.46,
+          "end": 278.02
+        },
+        {
+          "word": "Modern",
+          "start": 278.02,
+          "end": 278.42
+        },
+        {
+          "word": "Life.",
+          "start": 278.42,
+          "end": 279.5
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 280.28,
+      "end": 283.1,
+      "text": "Yogyakarta is a student city.",
+      "words": [
+        {
+          "word": "Yogyakarta",
+          "start": 280.28,
+          "end": 281.22
+        },
+        {
+          "word": "is",
+          "start": 281.22,
+          "end": 281.62
+        },
+        {
+          "word": "a",
+          "start": 281.62,
+          "end": 281.84
+        },
+        {
+          "word": "student",
+          "start": 281.84,
+          "end": 282.18
+        },
+        {
+          "word": "city.",
+          "start": 282.18,
+          "end": 283.1
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 283.6,
+      "end": 285.96,
+      "text": "Many students live here.",
+      "words": [
+        {
+          "word": "Many",
+          "start": 283.6,
+          "end": 284.06
+        },
+        {
+          "word": "students",
+          "start": 284.06,
+          "end": 284.62
+        },
+        {
+          "word": "live",
+          "start": 284.62,
+          "end": 285.1
+        },
+        {
+          "word": "here.",
+          "start": 285.1,
+          "end": 285.96
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 286.36,
+      "end": 288.0,
+      "text": "There are universities.",
+      "words": [
+        {
+          "word": "There",
+          "start": 286.36,
+          "end": 286.64
+        },
+        {
+          "word": "are",
+          "start": 286.64,
+          "end": 286.8
+        },
+        {
+          "word": "universities.",
+          "start": 286.8,
+          "end": 288.0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 288.28,
+      "end": 289.5,
+      "text": "There are libraries.",
+      "words": [
+        {
+          "word": "There",
+          "start": 288.28,
+          "end": 288.38
+        },
+        {
+          "word": "are",
+          "start": 288.38,
+          "end": 288.58
+        },
+        {
+          "word": "libraries.",
+          "start": 288.58,
+          "end": 289.5
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 289.82,
+      "end": 290.94,
+      "text": "There are cafes.",
+      "words": [
+        {
+          "word": "There",
+          "start": 289.82,
+          "end": 289.9
+        },
+        {
+          "word": "are",
+          "start": 289.9,
+          "end": 290.04
+        },
+        {
+          "word": "cafes.",
+          "start": 290.04,
+          "end": 290.94
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 291.2,
+      "end": 293.64,
+      "text": "Young people study and relax.",
+      "words": [
+        {
+          "word": "Young",
+          "start": 291.2,
+          "end": 291.42
+        },
+        {
+          "word": "people",
+          "start": 291.42,
+          "end": 291.8
+        },
+        {
+          "word": "study",
+          "start": 291.8,
+          "end": 292.38
+        },
+        {
+          "word": "and",
+          "start": 292.38,
+          "end": 292.76
+        },
+        {
+          "word": "relax.",
+          "start": 292.76,
+          "end": 293.64
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 293.9,
+      "end": 295.96,
+      "text": "Old people keep traditions.",
+      "words": [
+        {
+          "word": "Old",
+          "start": 293.9,
+          "end": 294.32
+        },
+        {
+          "word": "people",
+          "start": 294.32,
+          "end": 294.66
+        },
+        {
+          "word": "keep",
+          "start": 294.66,
+          "end": 295.0
+        },
+        {
+          "word": "traditions.",
+          "start": 295.0,
+          "end": 295.96
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 296.44,
+      "end": 298.28,
+      "text": "The city has balance.",
+      "words": [
+        {
+          "word": "The",
+          "start": 296.44,
+          "end": 296.6
+        },
+        {
+          "word": "city",
+          "start": 296.6,
+          "end": 296.94
+        },
+        {
+          "word": "has",
+          "start": 296.94,
+          "end": 297.28
+        },
+        {
+          "word": "balance.",
+          "start": 297.28,
+          "end": 298.28
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 299.24,
+      "end": 304.12,
+      "text": "Part 12, Nature, Spirit, and Goodbye.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 299.24,
+          "end": 300.2
+        },
+        {
+          "word": "12,",
+          "start": 300.2,
+          "end": 300.82
+        },
+        {
+          "word": "Nature,",
+          "start": 301.24,
+          "end": 301.68
+        },
+        {
+          "word": "Spirit,",
+          "start": 302.14,
+          "end": 302.62
+        },
+        {
+          "word": "and",
+          "start": 303.02,
+          "end": 303.2
+        },
+        {
+          "word": "Goodbye.",
+          "start": 303.2,
+          "end": 304.12
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 305.52,
+      "end": 308.6,
+      "text": "Nature is close to Yogyakarta.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 305.52,
+          "end": 306.48
+        },
+        {
+          "word": "is",
+          "start": 306.48,
+          "end": 306.86
+        },
+        {
+          "word": "close",
+          "start": 306.86,
+          "end": 307.24
+        },
+        {
+          "word": "to",
+          "start": 307.24,
+          "end": 307.54
+        },
+        {
+          "word": "Yogyakarta.",
+          "start": 307.54,
+          "end": 308.6
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 308.82,
+      "end": 309.98,
+      "text": "There are mountains.",
+      "words": [
+        {
+          "word": "There",
+          "start": 308.82,
+          "end": 309.02
+        },
+        {
+          "word": "are",
+          "start": 309.02,
+          "end": 309.14
+        },
+        {
+          "word": "mountains.",
+          "start": 309.14,
+          "end": 309.98
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 310.2,
+      "end": 311.26,
+      "text": "There are rivers.",
+      "words": [
+        {
+          "word": "There",
+          "start": 310.2,
+          "end": 310.2
+        },
+        {
+          "word": "are",
+          "start": 310.2,
+          "end": 310.4
+        },
+        {
+          "word": "rivers.",
+          "start": 310.4,
+          "end": 311.26
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 311.94,
+      "end": 313.84,
+      "text": "Mount Merapi is nearby.",
+      "words": [
+        {
+          "word": "Mount",
+          "start": 311.94,
+          "end": 312.12
+        },
+        {
+          "word": "Merapi",
+          "start": 312.12,
+          "end": 312.68
+        },
+        {
+          "word": "is",
+          "start": 312.68,
+          "end": 313.04
+        },
+        {
+          "word": "nearby.",
+          "start": 313.04,
+          "end": 313.84
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 314.46,
+      "end": 316.52,
+      "text": "It is an active volcano.",
+      "words": [
+        {
+          "word": "It",
+          "start": 314.46,
+          "end": 314.58
+        },
+        {
+          "word": "is",
+          "start": 314.58,
+          "end": 314.78
+        },
+        {
+          "word": "an",
+          "start": 314.78,
+          "end": 314.94
+        },
+        {
+          "word": "active",
+          "start": 314.94,
+          "end": 315.52
+        },
+        {
+          "word": "volcano.",
+          "start": 315.52,
+          "end": 316.52
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 317.16,
+      "end": 319.1,
+      "text": "People respect it.",
+      "words": [
+        {
+          "word": "People",
+          "start": 317.16,
+          "end": 317.62
+        },
+        {
+          "word": "respect",
+          "start": 317.62,
+          "end": 318.22
+        },
+        {
+          "word": "it.",
+          "start": 318.22,
+          "end": 319.1
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 319.5,
+      "end": 325.46,
+      "text": "Yogyakarta is a city of culture, history, students, and spirit.",
+      "words": [
+        {
+          "word": "Yogyakarta",
+          "start": 319.5,
+          "end": 320.42
+        },
+        {
+          "word": "is",
+          "start": 320.42,
+          "end": 320.72
+        },
+        {
+          "word": "a",
+          "start": 320.72,
+          "end": 320.88
+        },
+        {
+          "word": "city",
+          "start": 320.88,
+          "end": 321.22
+        },
+        {
+          "word": "of",
+          "start": 321.22,
+          "end": 321.5
+        },
+        {
+          "word": "culture,",
+          "start": 321.5,
+          "end": 322.1
+        },
+        {
+          "word": "history,",
+          "start": 322.62,
+          "end": 323.14
+        },
+        {
+          "word": "students,",
+          "start": 323.6,
+          "end": 324.1
+        },
+        {
+          "word": "and",
+          "start": 324.76,
+          "end": 324.9
+        },
+        {
+          "word": "spirit.",
+          "start": 324.9,
+          "end": 325.46
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 325.46,
+      "end": 330.42,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 325.46,
+          "end": 326.4
+        },
+        {
+          "word": "you",
+          "start": 326.4,
+          "end": 327.54
+        },
+        {
+          "word": "for",
+          "start": 327.54,
+          "end": 327.74
+        },
+        {
+          "word": "listening",
+          "start": 327.74,
+          "end": 328.16
+        },
+        {
+          "word": "to",
+          "start": 328.16,
+          "end": 328.46
+        },
+        {
+          "word": "the",
+          "start": 328.46,
+          "end": 328.62
+        },
+        {
+          "word": "Slow",
+          "start": 328.62,
+          "end": 328.96
+        },
+        {
+          "word": "English",
+          "start": 328.96,
+          "end": 329.38
+        },
+        {
+          "word": "Podcast.",
+          "start": 329.38,
+          "end": 330.42
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 331.1,
+      "end": 332.58,
+      "text": "My name is Emili.",
+      "words": [
+        {
+          "word": "My",
+          "start": 331.1,
+          "end": 331.26
+        },
+        {
+          "word": "name",
+          "start": 331.26,
+          "end": 331.56
+        },
+        {
+          "word": "is",
+          "start": 331.56,
+          "end": 331.78
+        },
+        {
+          "word": "Emili.",
+          "start": 331.78,
+          "end": 332.58
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 332.78,
+      "end": 334.85,
+      "text": "See you in the next episode.",
+      "words": [
+        {
+          "word": "See",
+          "start": 332.78,
+          "end": 333.08
+        },
+        {
+          "word": "you",
+          "start": 333.08,
+          "end": 333.26
+        },
+        {
+          "word": "in",
+          "start": 333.26,
+          "end": 333.42
+        },
+        {
+          "word": "the",
+          "start": 333.42,
+          "end": 333.54
+        },
+        {
+          "word": "next",
+          "start": 333.54,
+          "end": 333.82
+        },
+        {
+          "word": "episode.",
+          "start": 333.82,
+          "end": 334.85
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 117
 }

@@ -15,3531 +15,3109 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.28,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emily, your host.",
+      "start": 2.16,
+      "end": 4.98,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.05,
-          "endSec": 0.49,
-          "score": 0.77
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.71,
-          "endSec": 1.23,
-          "score": 0.98
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.65,
-          "endSec": 2.65,
-          "score": 1.0
+          "start": 2.16,
+          "end": 2.64
         },
         {
           "word": "to",
-          "startSec": 2.65,
-          "endSec": 2.99,
-          "score": 1.0
+          "start": 2.64,
+          "end": 3.04
         },
         {
           "word": "the",
-          "startSec": 2.99,
-          "endSec": 3.17,
-          "score": 0.96
+          "start": 3.04,
+          "end": 3.28
         },
         {
           "word": "Slow",
-          "startSec": 3.17,
-          "endSec": 3.47,
-          "score": 0.84
+          "start": 3.28,
+          "end": 3.58
         },
         {
           "word": "English",
-          "startSec": 3.47,
-          "endSec": 3.85,
-          "score": 0.9
+          "start": 3.58,
+          "end": 3.96
         },
         {
           "word": "Podcast.",
-          "startSec": 3.85,
-          "endSec": 4.51,
-          "score": 0.85
-        },
-        {
-          "word": "I",
-          "startSec": 5.31,
-          "endSec": 5.51,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 5.51,
-          "endSec": 5.73,
-          "score": 0.95
-        },
-        {
-          "word": "Emily,",
-          "startSec": 5.73,
-          "endSec": 6.15,
-          "score": 0.44
-        },
-        {
-          "word": "your",
-          "startSec": 6.57,
-          "endSec": 6.69,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 6.69,
-          "endSec": 7.13,
-          "score": 0.99
+          "start": 3.96,
+          "end": 4.98
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.24,
-      "end": 18.75,
-      "text": "Today, we visit Karaman, a historic city in Iran. Karaman is in the southeast of the country.",
+      "start": 5.34,
+      "end": 7.6,
+      "text": "I am Emily, your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 8.44,
-          "endSec": 9.12,
-          "score": 0.98
+          "word": "I",
+          "start": 5.34,
+          "end": 5.56
         },
         {
-          "word": "we",
-          "startSec": 9.62,
-          "endSec": 9.84,
-          "score": 1.0
+          "word": "am",
+          "start": 5.56,
+          "end": 5.8
         },
         {
-          "word": "visit",
-          "startSec": 9.84,
-          "endSec": 10.3,
-          "score": 0.99
+          "word": "Emily,",
+          "start": 5.8,
+          "end": 6.26
         },
         {
-          "word": "Karaman,",
-          "startSec": 10.3,
-          "endSec": 11.04,
-          "score": 0.47
+          "word": "your",
+          "start": 6.64,
+          "end": 6.76
         },
         {
-          "word": "a",
-          "startSec": 11.44,
-          "endSec": 11.66,
-          "score": 0.99
-        },
-        {
-          "word": "historic",
-          "startSec": 11.66,
-          "endSec": 12.2,
-          "score": 0.97
-        },
-        {
-          "word": "city",
-          "startSec": 12.2,
-          "endSec": 13.0,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 13.0,
-          "endSec": 13.44,
-          "score": 1.0
-        },
-        {
-          "word": "Iran.",
-          "startSec": 13.44,
-          "endSec": 13.76,
-          "score": 0.99
-        },
-        {
-          "word": "Karaman",
-          "startSec": 15.3,
-          "endSec": 15.98,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 15.98,
-          "endSec": 16.42,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 16.42,
-          "endSec": 16.66,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 16.66,
-          "endSec": 16.82,
-          "score": 1.0
-        },
-        {
-          "word": "southeast",
-          "startSec": 16.82,
-          "endSec": 17.36,
-          "score": 0.6
-        },
-        {
-          "word": "of",
-          "startSec": 17.36,
-          "endSec": 17.86,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 17.86,
-          "endSec": 18.04,
-          "score": 1.0
-        },
-        {
-          "word": "country.",
-          "startSec": 18.04,
-          "endSec": 18.6,
-          "score": 0.99
+          "word": "host.",
+          "start": 6.76,
+          "end": 7.6
         }
       ]
     },
     {
       "id": 3,
-      "start": 19.42,
-      "end": 25.83,
-      "text": "It is famous for its desert, old buildings, and kind people.",
+      "start": 8.48,
+      "end": 14.32,
+      "text": "Today, we visit Karaman, a historic city in Iran.",
       "words": [
         {
-          "word": "It",
-          "startSec": 19.62,
-          "endSec": 19.94,
-          "score": 1.0
+          "word": "Today,",
+          "start": 8.48,
+          "end": 9.16
         },
         {
-          "word": "is",
-          "startSec": 19.94,
-          "endSec": 20.1,
-          "score": 0.99
+          "word": "we",
+          "start": 9.8,
+          "end": 9.86
         },
         {
-          "word": "famous",
-          "startSec": 20.1,
-          "endSec": 20.58,
-          "score": 1.0
+          "word": "visit",
+          "start": 9.86,
+          "end": 10.4
         },
         {
-          "word": "for",
-          "startSec": 20.58,
-          "endSec": 21.14,
-          "score": 1.0
+          "word": "Karaman,",
+          "start": 10.4,
+          "end": 11.04
         },
         {
-          "word": "its",
-          "startSec": 21.14,
-          "endSec": 21.38,
-          "score": 0.97
+          "word": "a",
+          "start": 11.6,
+          "end": 11.76
         },
         {
-          "word": "desert,",
-          "startSec": 21.38,
-          "endSec": 22.1,
-          "score": 0.98
+          "word": "historic",
+          "start": 11.76,
+          "end": 12.42
         },
         {
-          "word": "old",
-          "startSec": 22.68,
-          "endSec": 22.94,
-          "score": 0.97
+          "word": "city",
+          "start": 12.42,
+          "end": 13.1
         },
         {
-          "word": "buildings,",
-          "startSec": 22.94,
-          "endSec": 23.74,
-          "score": 1.0
+          "word": "in",
+          "start": 13.1,
+          "end": 13.48
         },
         {
-          "word": "and",
-          "startSec": 24.0,
-          "endSec": 24.52,
-          "score": 1.0
-        },
-        {
-          "word": "kind",
-          "startSec": 24.52,
-          "endSec": 24.88,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 24.88,
-          "endSec": 25.68,
-          "score": 1.0
+          "word": "Iran.",
+          "start": 13.48,
+          "end": 14.32
         }
       ]
     },
     {
       "id": 4,
-      "start": 25.48,
-      "end": 35.61,
-      "text": "Let's explore Karaman together. Part 2. Where is Karaman?",
+      "start": 15.26,
+      "end": 19.1,
+      "text": "Karaman is in the southeast of the country.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 25.68,
-          "endSec": 27.18,
-          "score": 0.8
-        },
-        {
-          "word": "explore",
-          "startSec": 27.28,
-          "endSec": 27.88,
-          "score": 0.99
-        },
-        {
           "word": "Karaman",
-          "startSec": 27.88,
-          "endSec": 28.74,
-          "score": 0.06
-        },
-        {
-          "word": "together.",
-          "startSec": 28.74,
-          "endSec": 29.36,
-          "score": 0.89
-        },
-        {
-          "word": "Part",
-          "startSec": 31.97,
-          "endSec": 32.35,
-          "score": 0.93
-        },
-        {
-          "word": "2.",
-          "startSec": 32.35,
-          "endSec": 32.97,
-          "score": 0.6
-        },
-        {
-          "word": "Where",
-          "startSec": 34.1,
-          "endSec": 34.44,
-          "score": 0.97
+          "start": 15.26,
+          "end": 15.96
         },
         {
           "word": "is",
-          "startSec": 34.44,
-          "endSec": 34.78,
-          "score": 0.96
+          "start": 15.96,
+          "end": 16.52
         },
         {
-          "word": "Karaman?",
-          "startSec": 34.78,
-          "endSec": 35.46,
-          "score": 0.88
+          "word": "in",
+          "start": 16.52,
+          "end": 16.74
+        },
+        {
+          "word": "the",
+          "start": 16.74,
+          "end": 16.94
+        },
+        {
+          "word": "southeast",
+          "start": 16.94,
+          "end": 17.38
+        },
+        {
+          "word": "of",
+          "start": 17.38,
+          "end": 17.94
+        },
+        {
+          "word": "the",
+          "start": 17.94,
+          "end": 18.08
+        },
+        {
+          "word": "country.",
+          "start": 18.08,
+          "end": 19.1
         }
       ]
     },
     {
       "id": 5,
-      "start": 36.63,
-      "end": 42.9,
-      "text": "Karaman is close to the look desert, one of the hottest places on earth.",
+      "start": 19.62,
+      "end": 25.7,
+      "text": "It is famous for its desert, old buildings, and kind people.",
       "words": [
         {
-          "word": "Karaman",
-          "startSec": 36.83,
-          "endSec": 37.59,
-          "score": 0.86
+          "word": "It",
+          "start": 19.62,
+          "end": 19.98
         },
         {
           "word": "is",
-          "startSec": 37.59,
-          "endSec": 37.89,
-          "score": 1.0
+          "start": 19.98,
+          "end": 20.22
         },
         {
-          "word": "close",
-          "startSec": 37.89,
-          "endSec": 38.21,
-          "score": 0.99
+          "word": "famous",
+          "start": 20.22,
+          "end": 20.74
         },
         {
-          "word": "to",
-          "startSec": 38.21,
-          "endSec": 38.71,
-          "score": 1.0
+          "word": "for",
+          "start": 20.74,
+          "end": 21.22
         },
         {
-          "word": "the",
-          "startSec": 38.71,
-          "endSec": 38.89,
-          "score": 0.99
-        },
-        {
-          "word": "look",
-          "startSec": 38.89,
-          "endSec": 39.19,
-          "score": 0.12
+          "word": "its",
+          "start": 21.22,
+          "end": 21.48
         },
         {
           "word": "desert,",
-          "startSec": 39.19,
-          "endSec": 39.79,
-          "score": 0.91
+          "start": 21.48,
+          "end": 22.16
         },
         {
-          "word": "one",
-          "startSec": 40.31,
-          "endSec": 40.43,
-          "score": 0.99
+          "word": "old",
+          "start": 22.76,
+          "end": 23.08
         },
         {
-          "word": "of",
-          "startSec": 40.43,
-          "endSec": 40.59,
-          "score": 1.0
+          "word": "buildings,",
+          "start": 23.08,
+          "end": 23.8
         },
         {
-          "word": "the",
-          "startSec": 40.59,
-          "endSec": 40.77,
-          "score": 0.99
+          "word": "and",
+          "start": 24.42,
+          "end": 24.58
         },
         {
-          "word": "hottest",
-          "startSec": 40.77,
-          "endSec": 41.19,
-          "score": 0.99
+          "word": "kind",
+          "start": 24.58,
+          "end": 25.04
         },
         {
-          "word": "places",
-          "startSec": 41.19,
-          "endSec": 41.75,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 41.75,
-          "endSec": 42.33,
-          "score": 1.0
-        },
-        {
-          "word": "earth.",
-          "startSec": 42.33,
-          "endSec": 42.75,
-          "score": 0.52
+          "word": "people.",
+          "start": 25.04,
+          "end": 25.7
         }
       ]
     },
     {
       "id": 6,
-      "start": 43.75,
-      "end": 48.24,
-      "text": "The city is surrounded by mountains and dry lands.",
+      "start": 25.7,
+      "end": 29.82,
+      "text": "Let's explore Karaman together.",
       "words": [
         {
-          "word": "The",
-          "startSec": 43.95,
-          "endSec": 44.13,
-          "score": 0.98
+          "word": "Let's",
+          "start": 25.7,
+          "end": 27.34
         },
         {
-          "word": "city",
-          "startSec": 44.13,
-          "endSec": 44.59,
-          "score": 0.99
+          "word": "explore",
+          "start": 27.34,
+          "end": 28.02
         },
         {
-          "word": "is",
-          "startSec": 44.59,
-          "endSec": 44.89,
-          "score": 1.0
+          "word": "Karaman",
+          "start": 28.02,
+          "end": 28.76
         },
         {
-          "word": "surrounded",
-          "startSec": 44.89,
-          "endSec": 45.37,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 45.37,
-          "endSec": 45.91,
-          "score": 1.0
-        },
-        {
-          "word": "mountains",
-          "startSec": 45.91,
-          "endSec": 46.55,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 46.55,
-          "endSec": 47.19,
-          "score": 0.98
-        },
-        {
-          "word": "dry",
-          "startSec": 47.19,
-          "endSec": 47.55,
-          "score": 0.99
-        },
-        {
-          "word": "lands.",
-          "startSec": 47.55,
-          "endSec": 48.09,
-          "score": 0.94
+          "word": "together.",
+          "start": 28.76,
+          "end": 29.82
         }
       ]
     },
     {
       "id": 7,
-      "start": 49.71,
-      "end": 55.0,
-      "text": "It is far from Tehran and big cities, so life is calm.",
+      "start": 31.34,
+      "end": 35.9,
+      "text": "Part 2 Where is Karaman?",
       "words": [
         {
-          "word": "It",
-          "startSec": 49.91,
-          "endSec": 50.05,
-          "score": 0.99
+          "word": "Part",
+          "start": 31.34,
+          "end": 32.38
+        },
+        {
+          "word": "2",
+          "start": 32.38,
+          "end": 33.08
+        },
+        {
+          "word": "Where",
+          "start": 33.7,
+          "end": 34.46
         },
         {
           "word": "is",
-          "startSec": 50.05,
-          "endSec": 50.21,
-          "score": 0.99
+          "start": 34.46,
+          "end": 34.82
         },
         {
-          "word": "far",
-          "startSec": 50.21,
-          "endSec": 50.59,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 50.59,
-          "endSec": 51.09,
-          "score": 1.0
-        },
-        {
-          "word": "Tehran",
-          "startSec": 51.09,
-          "endSec": 51.45,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 51.45,
-          "endSec": 52.09,
-          "score": 0.9
-        },
-        {
-          "word": "big",
-          "startSec": 52.09,
-          "endSec": 52.39,
-          "score": 0.98
-        },
-        {
-          "word": "cities,",
-          "startSec": 52.39,
-          "endSec": 52.85,
-          "score": 0.95
-        },
-        {
-          "word": "so",
-          "startSec": 53.53,
-          "endSec": 53.69,
-          "score": 1.0
-        },
-        {
-          "word": "life",
-          "startSec": 53.69,
-          "endSec": 54.03,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 54.03,
-          "endSec": 54.41,
-          "score": 0.99
-        },
-        {
-          "word": "calm.",
-          "startSec": 54.41,
-          "endSec": 54.85,
-          "score": 1.0
+          "word": "Karaman?",
+          "start": 34.82,
+          "end": 35.9
         }
       ]
     },
     {
       "id": 8,
-      "start": 54.65,
-      "end": 64.32,
-      "text": "Karaman is large in area, but not crowded. Part 3. History of Karaman.",
+      "start": 36.66,
+      "end": 43.26,
+      "text": "Karaman is close to the Lut Desert, one of the hottest places on Earth.",
       "words": [
         {
           "word": "Karaman",
-          "startSec": 54.85,
-          "endSec": 56.47,
-          "score": 0.02
+          "start": 36.66,
+          "end": 37.54
         },
         {
           "word": "is",
-          "startSec": 56.7,
-          "endSec": 57.14,
-          "score": 0.82
+          "start": 37.54,
+          "end": 37.96
         },
         {
-          "word": "large",
-          "startSec": 57.14,
-          "endSec": 57.6,
-          "score": 0.97
+          "word": "close",
+          "start": 37.96,
+          "end": 38.36
         },
         {
-          "word": "in",
-          "startSec": 57.6,
-          "endSec": 58.06,
-          "score": 0.98
+          "word": "to",
+          "start": 38.36,
+          "end": 38.74
         },
         {
-          "word": "area,",
-          "startSec": 58.06,
-          "endSec": 58.52,
-          "score": 0.85
+          "word": "the",
+          "start": 38.74,
+          "end": 38.96
         },
         {
-          "word": "but",
-          "startSec": 59.22,
-          "endSec": 59.28,
-          "score": 0.99
+          "word": "Lut",
+          "start": 38.96,
+          "end": 39.26
         },
         {
-          "word": "not",
-          "startSec": 59.28,
-          "endSec": 59.6,
-          "score": 1.0
+          "word": "Desert,",
+          "start": 39.26,
+          "end": 39.82
         },
         {
-          "word": "crowded.",
-          "startSec": 59.6,
-          "endSec": 60.34,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 61.29,
-          "endSec": 61.45,
-          "score": 0.86
-        },
-        {
-          "word": "3.",
-          "startSec": 61.45,
-          "endSec": 62.17,
-          "score": 0.68
-        },
-        {
-          "word": "History",
-          "startSec": 63.19,
-          "endSec": 63.19,
-          "score": 0.99
+          "word": "one",
+          "start": 40.28,
+          "end": 40.48
         },
         {
           "word": "of",
-          "startSec": 63.19,
-          "endSec": 63.53,
-          "score": 0.98
+          "start": 40.48,
+          "end": 40.7
         },
         {
-          "word": "Karaman.",
-          "startSec": 63.53,
-          "endSec": 64.17,
-          "score": 0.77
+          "word": "the",
+          "start": 40.7,
+          "end": 40.84
+        },
+        {
+          "word": "hottest",
+          "start": 40.84,
+          "end": 41.22
+        },
+        {
+          "word": "places",
+          "start": 41.22,
+          "end": 41.9
+        },
+        {
+          "word": "on",
+          "start": 41.9,
+          "end": 42.42
+        },
+        {
+          "word": "Earth.",
+          "start": 42.42,
+          "end": 43.26
         }
       ]
     },
     {
       "id": 9,
-      "start": 65.37,
-      "end": 73.77,
-      "text": "Karaman has a very long history. It is more than 2000 years old.",
+      "start": 43.86,
+      "end": 48.4,
+      "text": "The city is surrounded by mountains and dry lands.",
       "words": [
         {
-          "word": "Karaman",
-          "startSec": 65.57,
-          "endSec": 66.31,
-          "score": 0.84
+          "word": "The",
+          "start": 43.86,
+          "end": 44.18
         },
         {
-          "word": "has",
-          "startSec": 66.31,
-          "endSec": 66.69,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 66.69,
-          "endSec": 66.95,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 66.95,
-          "endSec": 67.33,
-          "score": 0.99
-        },
-        {
-          "word": "long",
-          "startSec": 67.33,
-          "endSec": 67.87,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 67.87,
-          "endSec": 68.45,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 70.22,
-          "endSec": 70.36,
-          "score": 0.99
+          "word": "city",
+          "start": 44.18,
+          "end": 44.6
         },
         {
           "word": "is",
-          "startSec": 70.36,
-          "endSec": 70.54,
-          "score": 0.97
+          "start": 44.6,
+          "end": 44.96
         },
         {
-          "word": "more",
-          "startSec": 70.54,
-          "endSec": 70.88,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 44.96,
+          "end": 45.48
         },
         {
-          "word": "than",
-          "startSec": 70.88,
-          "endSec": 71.18,
-          "score": 0.99
+          "word": "by",
+          "start": 45.48,
+          "end": 45.94
         },
         {
-          "word": "2000",
-          "startSec": 71.18,
-          "endSec": 71.74,
-          "score": 0.52
+          "word": "mountains",
+          "start": 45.94,
+          "end": 46.62
         },
         {
-          "word": "years",
-          "startSec": 71.74,
-          "endSec": 73.0,
-          "score": 0.98
+          "word": "and",
+          "start": 46.62,
+          "end": 47.26
         },
         {
-          "word": "old.",
-          "startSec": 73.0,
-          "endSec": 73.62,
-          "score": 0.99
+          "word": "dry",
+          "start": 47.26,
+          "end": 47.7
+        },
+        {
+          "word": "lands.",
+          "start": 47.7,
+          "end": 48.4
         }
       ]
     },
     {
       "id": 10,
-      "start": 74.5,
-      "end": 81.85,
-      "text": "Many kings, traitors, and travelers visited Karaman in the past.",
+      "start": 48.4,
+      "end": 55.48,
+      "text": "It is far from Tehran and big cities, so life is calm.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 74.7,
-          "endSec": 75.02,
-          "score": 0.98
+          "word": "It",
+          "start": 48.4,
+          "end": 50.0
         },
         {
-          "word": "kings,",
-          "startSec": 75.02,
-          "endSec": 75.72,
-          "score": 0.92
+          "word": "is",
+          "start": 50.0,
+          "end": 50.3
         },
         {
-          "word": "traitors,",
-          "startSec": 76.46,
-          "endSec": 77.32,
-          "score": 0.83
+          "word": "far",
+          "start": 50.3,
+          "end": 50.74
+        },
+        {
+          "word": "from",
+          "start": 50.74,
+          "end": 51.12
+        },
+        {
+          "word": "Tehran",
+          "start": 51.12,
+          "end": 51.86
         },
         {
           "word": "and",
-          "startSec": 78.08,
-          "endSec": 78.2,
-          "score": 0.99
+          "start": 51.86,
+          "end": 52.14
         },
         {
-          "word": "travelers",
-          "startSec": 78.2,
-          "endSec": 78.9,
-          "score": 0.95
+          "word": "big",
+          "start": 52.14,
+          "end": 52.48
         },
         {
-          "word": "visited",
-          "startSec": 78.9,
-          "endSec": 79.86,
-          "score": 0.99
+          "word": "cities,",
+          "start": 52.48,
+          "end": 53.1
         },
         {
-          "word": "Karaman",
-          "startSec": 79.86,
-          "endSec": 80.72,
-          "score": 0.85
+          "word": "so",
+          "start": 53.5,
+          "end": 53.76
         },
         {
-          "word": "in",
-          "startSec": 80.72,
-          "endSec": 81.04,
-          "score": 0.98
+          "word": "life",
+          "start": 53.76,
+          "end": 54.14
         },
         {
-          "word": "the",
-          "startSec": 81.04,
-          "endSec": 81.24,
-          "score": 1.0
+          "word": "is",
+          "start": 54.14,
+          "end": 54.5
         },
         {
-          "word": "past.",
-          "startSec": 81.24,
-          "endSec": 81.7,
-          "score": 1.0
+          "word": "calm.",
+          "start": 54.5,
+          "end": 55.48
         }
       ]
     },
     {
       "id": 11,
-      "start": 81.5,
-      "end": 89.24,
-      "text": "The city was important on the Silk Road, the old trade route.",
+      "start": 56.06,
+      "end": 60.8,
+      "text": "Karaman is large in area, but not crowded.",
       "words": [
         {
-          "word": "The",
-          "startSec": 81.7,
-          "endSec": 83.04,
-          "score": 0.41
+          "word": "Karaman",
+          "start": 56.06,
+          "end": 56.72
         },
         {
-          "word": "city",
-          "startSec": 83.59,
-          "endSec": 84.03,
-          "score": 0.82
+          "word": "is",
+          "start": 56.72,
+          "end": 57.16
         },
         {
-          "word": "was",
-          "startSec": 84.03,
-          "endSec": 84.43,
-          "score": 0.99
+          "word": "large",
+          "start": 57.16,
+          "end": 57.86
         },
         {
-          "word": "important",
-          "startSec": 84.43,
-          "endSec": 85.19,
-          "score": 0.99
+          "word": "in",
+          "start": 57.86,
+          "end": 58.14
         },
         {
-          "word": "on",
-          "startSec": 85.19,
-          "endSec": 85.81,
-          "score": 0.98
+          "word": "area,",
+          "start": 58.14,
+          "end": 58.76
         },
         {
-          "word": "the",
-          "startSec": 85.81,
-          "endSec": 86.05,
-          "score": 0.93
+          "word": "but",
+          "start": 59.06,
+          "end": 59.34
         },
         {
-          "word": "Silk",
-          "startSec": 86.05,
-          "endSec": 86.39,
-          "score": 0.99
+          "word": "not",
+          "start": 59.34,
+          "end": 59.7
         },
         {
-          "word": "Road,",
-          "startSec": 86.39,
-          "endSec": 86.97,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 87.59,
-          "endSec": 87.69,
-          "score": 0.95
-        },
-        {
-          "word": "old",
-          "startSec": 87.69,
-          "endSec": 88.11,
-          "score": 0.88
-        },
-        {
-          "word": "trade",
-          "startSec": 88.11,
-          "endSec": 88.51,
-          "score": 0.98
-        },
-        {
-          "word": "route.",
-          "startSec": 88.51,
-          "endSec": 89.09,
-          "score": 0.99
+          "word": "crowded.",
+          "start": 59.7,
+          "end": 60.8
         }
       ]
     },
     {
       "id": 12,
-      "start": 90.12,
-      "end": 97.37,
-      "text": "Karaman is full of old mosques, baths, and markets from ancient times.",
+      "start": 61.2,
+      "end": 69.16,
+      "text": "Part 3 History of Karaman Karaman has a very long history.",
       "words": [
         {
-          "word": "Karaman",
-          "startSec": 90.32,
-          "endSec": 90.98,
-          "score": 0.13
+          "word": "Part",
+          "start": 61.2,
+          "end": 61.6
         },
         {
-          "word": "is",
-          "startSec": 90.98,
-          "endSec": 91.28,
-          "score": 0.99
+          "word": "3",
+          "start": 61.6,
+          "end": 62.2
         },
         {
-          "word": "full",
-          "startSec": 91.28,
-          "endSec": 91.62,
-          "score": 0.99
+          "word": "History",
+          "start": 62.2,
+          "end": 63.2
         },
         {
           "word": "of",
-          "startSec": 91.62,
-          "endSec": 91.9,
-          "score": 1.0
+          "start": 63.2,
+          "end": 63.56
         },
         {
-          "word": "old",
-          "startSec": 91.9,
-          "endSec": 92.28,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 63.56,
+          "end": 64.2
         },
         {
-          "word": "mosques,",
-          "startSec": 92.28,
-          "endSec": 92.86,
-          "score": 0.84
+          "word": "Karaman",
+          "start": 65.3,
+          "end": 66.24
         },
         {
-          "word": "baths,",
-          "startSec": 93.58,
-          "endSec": 93.88,
-          "score": 0.96
+          "word": "has",
+          "start": 66.24,
+          "end": 66.76
         },
         {
-          "word": "and",
-          "startSec": 94.92,
-          "endSec": 95.04,
-          "score": 0.99
+          "word": "a",
+          "start": 66.76,
+          "end": 67.02
         },
         {
-          "word": "markets",
-          "startSec": 95.04,
-          "endSec": 95.6,
-          "score": 0.99
+          "word": "very",
+          "start": 67.02,
+          "end": 67.5
         },
         {
-          "word": "from",
-          "startSec": 95.6,
-          "endSec": 96.04,
-          "score": 0.99
+          "word": "long",
+          "start": 67.5,
+          "end": 67.96
         },
         {
-          "word": "ancient",
-          "startSec": 96.04,
-          "endSec": 96.34,
-          "score": 0.99
-        },
-        {
-          "word": "times.",
-          "startSec": 96.34,
-          "endSec": 97.22,
-          "score": 1.0
+          "word": "history.",
+          "start": 67.96,
+          "end": 69.16
         }
       ]
     },
     {
       "id": 13,
-      "start": 98.12,
-      "end": 109.39,
-      "text": "Hatter part 4. The desert near Karaman. The most famous place near Karaman is the loot desert.",
+      "start": 69.76,
+      "end": 74.28,
+      "text": "It is more than 2,000 years old.",
       "words": [
         {
-          "word": "Hatter",
-          "startSec": 98.32,
-          "endSec": 98.72,
-          "score": 0.63
-        },
-        {
-          "word": "part",
-          "startSec": 98.72,
-          "endSec": 99.06,
-          "score": 0.76
-        },
-        {
-          "word": "4.",
-          "startSec": 99.06,
-          "endSec": 99.68,
-          "score": 0.47
-        },
-        {
-          "word": "The",
-          "startSec": 100.7,
-          "endSec": 100.7,
-          "score": 0.94
-        },
-        {
-          "word": "desert",
-          "startSec": 100.7,
-          "endSec": 101.38,
-          "score": 0.15
-        },
-        {
-          "word": "near",
-          "startSec": 101.38,
-          "endSec": 101.92,
-          "score": 0.98
-        },
-        {
-          "word": "Karaman.",
-          "startSec": 101.92,
-          "endSec": 102.74,
-          "score": 0.84
-        },
-        {
-          "word": "The",
-          "startSec": 103.92,
-          "endSec": 104.24,
-          "score": 0.98
-        },
-        {
-          "word": "most",
-          "startSec": 104.24,
-          "endSec": 104.58,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 104.58,
-          "endSec": 105.34,
-          "score": 0.99
-        },
-        {
-          "word": "place",
-          "startSec": 105.34,
-          "endSec": 105.96,
-          "score": 0.99
-        },
-        {
-          "word": "near",
-          "startSec": 105.96,
-          "endSec": 106.4,
-          "score": 1.0
-        },
-        {
-          "word": "Karaman",
-          "startSec": 106.4,
-          "endSec": 107.22,
-          "score": 0.92
+          "word": "It",
+          "start": 69.76,
+          "end": 70.34
         },
         {
           "word": "is",
-          "startSec": 107.22,
-          "endSec": 107.96,
-          "score": 0.88
+          "start": 70.34,
+          "end": 70.6
         },
         {
-          "word": "the",
-          "startSec": 107.96,
-          "endSec": 108.28,
-          "score": 0.99
+          "word": "more",
+          "start": 70.6,
+          "end": 70.96
         },
         {
-          "word": "loot",
-          "startSec": 108.28,
-          "endSec": 108.74,
-          "score": 0.36
+          "word": "than",
+          "start": 70.96,
+          "end": 71.26
         },
         {
-          "word": "desert.",
-          "startSec": 108.74,
-          "endSec": 109.24,
-          "score": 0.96
+          "word": "2",
+          "start": 71.26,
+          "end": 71.78
+        },
+        {
+          "word": ",000",
+          "start": 71.78,
+          "end": 72.54
+        },
+        {
+          "word": "years",
+          "start": 72.54,
+          "end": 73.08
+        },
+        {
+          "word": "old.",
+          "start": 73.08,
+          "end": 74.28
         }
       ]
     },
     {
       "id": 14,
-      "start": 109.04,
-      "end": 120.65,
-      "text": "The desert has tall sand formations called calutes. They look like castles made by nature.",
+      "start": 74.68,
+      "end": 82.24,
+      "text": "Many kings, traders, and travelers visited Karaman in the past.",
       "words": [
         {
-          "word": "The",
-          "startSec": 109.24,
-          "endSec": 110.62,
-          "score": 0.56
+          "word": "Many",
+          "start": 74.68,
+          "end": 75.22
         },
         {
-          "word": "desert",
-          "startSec": 110.81,
-          "endSec": 111.39,
-          "score": 0.95
+          "word": "kings,",
+          "start": 75.22,
+          "end": 76.08
         },
         {
-          "word": "has",
-          "startSec": 111.39,
-          "endSec": 111.87,
-          "score": 1.0
+          "word": "traders,",
+          "start": 76.66,
+          "end": 77.18
         },
         {
-          "word": "tall",
-          "startSec": 111.87,
-          "endSec": 112.43,
-          "score": 0.99
+          "word": "and",
+          "start": 78.16,
+          "end": 78.26
         },
         {
-          "word": "sand",
-          "startSec": 112.43,
-          "endSec": 113.23,
-          "score": 0.89
+          "word": "travelers",
+          "start": 78.26,
+          "end": 79.02
         },
         {
-          "word": "formations",
-          "startSec": 113.23,
-          "endSec": 113.95,
-          "score": 0.99
+          "word": "visited",
+          "start": 79.02,
+          "end": 80.02
         },
         {
-          "word": "called",
-          "startSec": 113.95,
-          "endSec": 115.05,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 80.02,
+          "end": 80.72
         },
         {
-          "word": "calutes.",
-          "startSec": 115.05,
-          "endSec": 116.03,
-          "score": 0.29
+          "word": "in",
+          "start": 80.72,
+          "end": 81.12
         },
         {
-          "word": "They",
-          "startSec": 117.04,
-          "endSec": 117.36,
-          "score": 0.99
+          "word": "the",
+          "start": 81.12,
+          "end": 81.28
         },
         {
-          "word": "look",
-          "startSec": 117.36,
-          "endSec": 117.72,
-          "score": 1.0
-        },
-        {
-          "word": "like",
-          "startSec": 117.72,
-          "endSec": 118.12,
-          "score": 1.0
-        },
-        {
-          "word": "castles",
-          "startSec": 118.12,
-          "endSec": 118.84,
-          "score": 0.99
-        },
-        {
-          "word": "made",
-          "startSec": 118.84,
-          "endSec": 119.5,
-          "score": 0.98
-        },
-        {
-          "word": "by",
-          "startSec": 119.5,
-          "endSec": 119.86,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 119.86,
-          "endSec": 120.5,
-          "score": 1.0
+          "word": "past.",
+          "start": 81.28,
+          "end": 82.24
         }
       ]
     },
     {
       "id": 15,
-      "start": 121.67,
-      "end": 136.01,
-      "text": "In summer, the desert becomes extremely hot. In winter, it is cooler and calm. Tourists come to see the sunset and stars.",
+      "start": 83.2,
+      "end": 89.66,
+      "text": "The city was important on the Silk Road, the old trade route.",
       "words": [
         {
-          "word": "In",
-          "startSec": 121.87,
-          "endSec": 122.17,
-          "score": 0.99
+          "word": "The",
+          "start": 83.2,
+          "end": 83.66
         },
         {
-          "word": "summer,",
-          "startSec": 122.17,
-          "endSec": 122.61,
-          "score": 0.98
+          "word": "city",
+          "start": 83.66,
+          "end": 84.1
         },
         {
-          "word": "the",
-          "startSec": 123.27,
-          "endSec": 123.49,
-          "score": 1.0
+          "word": "was",
+          "start": 84.1,
+          "end": 84.48
         },
         {
-          "word": "desert",
-          "startSec": 123.49,
-          "endSec": 124.05,
-          "score": 1.0
+          "word": "important",
+          "start": 84.48,
+          "end": 85.38
         },
         {
-          "word": "becomes",
-          "startSec": 124.05,
-          "endSec": 124.67,
-          "score": 1.0
-        },
-        {
-          "word": "extremely",
-          "startSec": 124.67,
-          "endSec": 125.65,
-          "score": 1.0
-        },
-        {
-          "word": "hot.",
-          "startSec": 125.65,
-          "endSec": 126.49,
-          "score": 1.0
-        },
-        {
-          "word": "In",
-          "startSec": 127.42,
-          "endSec": 127.74,
-          "score": 1.0
-        },
-        {
-          "word": "winter,",
-          "startSec": 127.74,
-          "endSec": 128.3,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 128.68,
-          "endSec": 128.76,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 128.76,
-          "endSec": 128.96,
-          "score": 0.99
-        },
-        {
-          "word": "cooler",
-          "startSec": 128.96,
-          "endSec": 129.44,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 129.44,
-          "endSec": 130.0,
-          "score": 0.97
-        },
-        {
-          "word": "calm.",
-          "startSec": 130.0,
-          "endSec": 130.46,
-          "score": 1.0
-        },
-        {
-          "word": "Tourists",
-          "startSec": 131.92,
-          "endSec": 132.7,
-          "score": 0.98
-        },
-        {
-          "word": "come",
-          "startSec": 132.7,
-          "endSec": 132.98,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 132.98,
-          "endSec": 133.3,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 133.3,
-          "endSec": 133.7,
-          "score": 0.99
+          "word": "on",
+          "start": 85.38,
+          "end": 85.88
         },
         {
           "word": "the",
-          "startSec": 133.7,
-          "endSec": 134.0,
-          "score": 0.99
+          "start": 85.88,
+          "end": 86.1
         },
         {
-          "word": "sunset",
-          "startSec": 134.0,
-          "endSec": 134.66,
-          "score": 0.89
+          "word": "Silk",
+          "start": 86.1,
+          "end": 86.58
         },
         {
-          "word": "and",
-          "startSec": 134.66,
-          "endSec": 135.34,
-          "score": 0.93
+          "word": "Road,",
+          "start": 86.58,
+          "end": 87.12
         },
         {
-          "word": "stars.",
-          "startSec": 135.34,
-          "endSec": 135.86,
-          "score": 1.0
+          "word": "the",
+          "start": 87.64,
+          "end": 87.74
+        },
+        {
+          "word": "old",
+          "start": 87.74,
+          "end": 88.2
+        },
+        {
+          "word": "trade",
+          "start": 88.2,
+          "end": 88.7
+        },
+        {
+          "word": "route.",
+          "start": 88.7,
+          "end": 89.66
         }
       ]
     },
     {
       "id": 16,
-      "start": 135.66,
-      "end": 140.25,
-      "text": "Part 5. The City of Karaman.",
+      "start": 90.1,
+      "end": 97.44,
+      "text": "Karaman is full of old mosques, baths, and markets from ancient times.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 135.86,
-          "endSec": 137.38,
-          "score": 0.03
+          "word": "Karaman",
+          "start": 90.1,
+          "end": 91.0
         },
         {
-          "word": "5.",
-          "startSec": 137.38,
-          "endSec": 138.32,
-          "score": 0.73
+          "word": "is",
+          "start": 91.0,
+          "end": 91.36
         },
         {
-          "word": "The",
-          "startSec": 138.72,
-          "endSec": 138.72,
-          "score": 0.95
-        },
-        {
-          "word": "City",
-          "startSec": 138.72,
-          "endSec": 139.06,
-          "score": 0.88
+          "word": "full",
+          "start": 91.36,
+          "end": 91.72
         },
         {
           "word": "of",
-          "startSec": 139.06,
-          "endSec": 139.46,
-          "score": 0.99
+          "start": 91.72,
+          "end": 91.96
         },
         {
-          "word": "Karaman.",
-          "startSec": 139.46,
-          "endSec": 140.1,
-          "score": 0.01
+          "word": "old",
+          "start": 91.96,
+          "end": 92.36
+        },
+        {
+          "word": "mosques,",
+          "start": 92.36,
+          "end": 93.3
+        },
+        {
+          "word": "baths,",
+          "start": 93.68,
+          "end": 94.8
+        },
+        {
+          "word": "and",
+          "start": 94.86,
+          "end": 95.12
+        },
+        {
+          "word": "markets",
+          "start": 95.12,
+          "end": 95.68
+        },
+        {
+          "word": "from",
+          "start": 95.68,
+          "end": 96.1
+        },
+        {
+          "word": "ancient",
+          "start": 96.1,
+          "end": 96.6
+        },
+        {
+          "word": "times.",
+          "start": 96.6,
+          "end": 97.44
         }
       ]
     },
     {
       "id": 17,
-      "start": 141.46,
-      "end": 147.37,
-      "text": "Karaman City has wide streets, parks, and old neighborhoods.",
+      "start": 97.44,
+      "end": 109.96,
+      "text": "Part 4 The Desert Near Karaman The most famous place near Karaman is the Lut Desert.",
       "words": [
         {
+          "word": "Part",
+          "start": 97.44,
+          "end": 98.7
+        },
+        {
+          "word": "4",
+          "start": 98.7,
+          "end": 99.72
+        },
+        {
+          "word": "The",
+          "start": 99.72,
+          "end": 100.74
+        },
+        {
+          "word": "Desert",
+          "start": 100.74,
+          "end": 101.46
+        },
+        {
+          "word": "Near",
+          "start": 101.46,
+          "end": 102.04
+        },
+        {
           "word": "Karaman",
-          "startSec": 141.66,
-          "endSec": 142.54,
-          "score": 0.81
+          "start": 102.04,
+          "end": 102.82
         },
         {
-          "word": "City",
-          "startSec": 142.54,
-          "endSec": 142.96,
-          "score": 0.87
+          "word": "The",
+          "start": 103.44,
+          "end": 104.28
         },
         {
-          "word": "has",
-          "startSec": 142.96,
-          "endSec": 143.5,
-          "score": 1.0
+          "word": "most",
+          "start": 104.28,
+          "end": 104.62
         },
         {
-          "word": "wide",
-          "startSec": 143.5,
-          "endSec": 143.88,
-          "score": 0.88
+          "word": "famous",
+          "start": 104.62,
+          "end": 105.38
         },
         {
-          "word": "streets,",
-          "startSec": 143.88,
-          "endSec": 144.68,
-          "score": 0.99
+          "word": "place",
+          "start": 105.38,
+          "end": 106.0
         },
         {
-          "word": "parks,",
-          "startSec": 144.86,
-          "endSec": 145.54,
-          "score": 1.0
+          "word": "near",
+          "start": 106.0,
+          "end": 106.48
         },
         {
-          "word": "and",
-          "startSec": 146.26,
-          "endSec": 146.32,
-          "score": 0.98
+          "word": "Karaman",
+          "start": 106.48,
+          "end": 107.16
         },
         {
-          "word": "old",
-          "startSec": 146.32,
-          "endSec": 146.62,
-          "score": 0.99
+          "word": "is",
+          "start": 107.16,
+          "end": 108.04
         },
         {
-          "word": "neighborhoods.",
-          "startSec": 146.62,
-          "endSec": 147.22,
-          "score": 0.94
+          "word": "the",
+          "start": 108.04,
+          "end": 108.34
+        },
+        {
+          "word": "Lut",
+          "start": 108.34,
+          "end": 108.78
+        },
+        {
+          "word": "Desert.",
+          "start": 108.78,
+          "end": 109.96
         }
       ]
     },
     {
       "id": 18,
-      "start": 148.54,
-      "end": 153.53,
-      "text": "There is a famous market called Grand Bazaar of Karaman.",
+      "start": 110.4,
+      "end": 116.36,
+      "text": "The desert has tall sand formations called Kaluts.",
       "words": [
         {
-          "word": "There",
-          "startSec": 148.74,
-          "endSec": 149.02,
-          "score": 0.98
+          "word": "The",
+          "start": 110.4,
+          "end": 110.84
         },
         {
-          "word": "is",
-          "startSec": 149.02,
-          "endSec": 149.3,
-          "score": 0.82
+          "word": "desert",
+          "start": 110.84,
+          "end": 111.38
         },
         {
-          "word": "a",
-          "startSec": 149.3,
-          "endSec": 149.44,
-          "score": 0.99
+          "word": "has",
+          "start": 111.38,
+          "end": 111.96
         },
         {
-          "word": "famous",
-          "startSec": 149.44,
-          "endSec": 149.86,
-          "score": 1.0
+          "word": "tall",
+          "start": 111.96,
+          "end": 112.68
         },
         {
-          "word": "market",
-          "startSec": 149.86,
-          "endSec": 150.66,
-          "score": 1.0
+          "word": "sand",
+          "start": 112.68,
+          "end": 113.34
+        },
+        {
+          "word": "formations",
+          "start": 113.34,
+          "end": 114.08
         },
         {
           "word": "called",
-          "startSec": 150.66,
-          "endSec": 151.18,
-          "score": 0.99
+          "start": 114.08,
+          "end": 115.14
         },
         {
-          "word": "Grand",
-          "startSec": 151.18,
-          "endSec": 151.68,
-          "score": 0.85
-        },
-        {
-          "word": "Bazaar",
-          "startSec": 151.68,
-          "endSec": 152.32,
-          "score": 0.81
-        },
-        {
-          "word": "of",
-          "startSec": 152.32,
-          "endSec": 152.72,
-          "score": 0.97
-        },
-        {
-          "word": "Karaman.",
-          "startSec": 152.72,
-          "endSec": 153.38,
-          "score": 0.74
+          "word": "Kaluts.",
+          "start": 115.14,
+          "end": 116.36
         }
       ]
     },
     {
       "id": 19,
-      "start": 154.34,
-      "end": 160.29,
-      "text": "People sell carpets, spices, copper products, and sweets.",
+      "start": 116.84,
+      "end": 120.92,
+      "text": "They look like castles made by nature.",
       "words": [
         {
-          "word": "People",
-          "startSec": 154.54,
-          "endSec": 154.86,
-          "score": 0.99
+          "word": "They",
+          "start": 116.84,
+          "end": 117.44
         },
         {
-          "word": "sell",
-          "startSec": 154.86,
-          "endSec": 155.4,
-          "score": 1.0
+          "word": "look",
+          "start": 117.44,
+          "end": 117.82
         },
         {
-          "word": "carpets,",
-          "startSec": 155.4,
-          "endSec": 156.34,
-          "score": 1.0
+          "word": "like",
+          "start": 117.82,
+          "end": 118.18
         },
         {
-          "word": "spices,",
-          "startSec": 156.86,
-          "endSec": 157.24,
-          "score": 1.0
+          "word": "castles",
+          "start": 118.18,
+          "end": 119.18
         },
         {
-          "word": "copper",
-          "startSec": 158.44,
-          "endSec": 158.56,
-          "score": 0.99
+          "word": "made",
+          "start": 119.18,
+          "end": 119.62
         },
         {
-          "word": "products,",
-          "startSec": 158.56,
-          "endSec": 159.24,
-          "score": 1.0
+          "word": "by",
+          "start": 119.62,
+          "end": 119.94
         },
         {
-          "word": "and",
-          "startSec": 159.72,
-          "endSec": 159.76,
-          "score": 0.99
-        },
-        {
-          "word": "sweets.",
-          "startSec": 159.76,
-          "endSec": 160.14,
-          "score": 0.98
+          "word": "nature.",
+          "start": 119.94,
+          "end": 120.92
         }
       ]
     },
     {
       "id": 20,
-      "start": 159.94,
-      "end": 170.33,
-      "text": "Life in Karaman is relaxed. People enjoy tea houses, small shops, and quiet evenings.",
+      "start": 121.72,
+      "end": 126.58,
+      "text": "In summer, the desert becomes extremely hot.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 160.14,
-          "endSec": 161.74,
-          "score": 0.03
+          "word": "In",
+          "start": 121.72,
+          "end": 122.22
         },
         {
-          "word": "in",
-          "startSec": 161.74,
-          "endSec": 162.16,
-          "score": 0.91
+          "word": "summer,",
+          "start": 122.22,
+          "end": 122.82
         },
         {
-          "word": "Karaman",
-          "startSec": 162.16,
-          "endSec": 162.76,
-          "score": 0.03
+          "word": "the",
+          "start": 123.5,
+          "end": 123.56
         },
         {
-          "word": "is",
-          "startSec": 162.76,
-          "endSec": 163.12,
-          "score": 0.98
+          "word": "desert",
+          "start": 123.56,
+          "end": 124.08
         },
         {
-          "word": "relaxed.",
-          "startSec": 163.12,
-          "endSec": 163.4,
-          "score": 0.98
+          "word": "becomes",
+          "start": 124.08,
+          "end": 124.86
         },
         {
-          "word": "People",
-          "startSec": 164.66,
-          "endSec": 164.86,
-          "score": 0.97
+          "word": "extremely",
+          "start": 124.86,
+          "end": 125.74
         },
         {
-          "word": "enjoy",
-          "startSec": 164.86,
-          "endSec": 165.62,
-          "score": 1.0
-        },
-        {
-          "word": "tea",
-          "startSec": 165.62,
-          "endSec": 166.2,
-          "score": 0.85
-        },
-        {
-          "word": "houses,",
-          "startSec": 166.2,
-          "endSec": 166.88,
-          "score": 0.98
-        },
-        {
-          "word": "small",
-          "startSec": 167.42,
-          "endSec": 167.66,
-          "score": 1.0
-        },
-        {
-          "word": "shops,",
-          "startSec": 167.66,
-          "endSec": 168.24,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 168.86,
-          "endSec": 168.98,
-          "score": 0.99
-        },
-        {
-          "word": "quiet",
-          "startSec": 168.98,
-          "endSec": 169.46,
-          "score": 0.99
-        },
-        {
-          "word": "evenings.",
-          "startSec": 169.46,
-          "endSec": 170.18,
-          "score": 0.99
+          "word": "hot.",
+          "start": 125.74,
+          "end": 126.58
         }
       ]
     },
     {
       "id": 21,
-      "start": 173.52,
-      "end": 181.54,
-      "text": "Part 6. Food in Karaman. Karaman has delicious traditional food.",
+      "start": 126.58,
+      "end": 131.04,
+      "text": "In winter, it is cooler and calm.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 173.72,
-          "endSec": 173.94,
-          "score": 0.59
+          "word": "In",
+          "start": 126.58,
+          "end": 127.74
         },
         {
-          "word": "6.",
-          "startSec": 173.94,
-          "endSec": 174.58,
-          "score": 0.69
+          "word": "winter,",
+          "start": 127.74,
+          "end": 128.36
         },
         {
-          "word": "Food",
-          "startSec": 175.5,
-          "endSec": 175.5,
-          "score": 0.98
+          "word": "it",
+          "start": 128.78,
+          "end": 128.8
         },
         {
-          "word": "in",
-          "startSec": 175.5,
-          "endSec": 175.78,
-          "score": 0.97
+          "word": "is",
+          "start": 128.8,
+          "end": 129.04
         },
         {
-          "word": "Karaman.",
-          "startSec": 175.78,
-          "endSec": 176.38,
-          "score": 0.93
+          "word": "cooler",
+          "start": 129.04,
+          "end": 129.64
         },
         {
-          "word": "Karaman",
-          "startSec": 178.05,
-          "endSec": 178.75,
-          "score": 0.94
+          "word": "and",
+          "start": 129.64,
+          "end": 130.08
         },
         {
-          "word": "has",
-          "startSec": 178.75,
-          "endSec": 179.07,
-          "score": 1.0
-        },
-        {
-          "word": "delicious",
-          "startSec": 179.07,
-          "endSec": 179.65,
-          "score": 0.99
-        },
-        {
-          "word": "traditional",
-          "startSec": 179.65,
-          "endSec": 180.53,
-          "score": 0.93
-        },
-        {
-          "word": "food.",
-          "startSec": 180.53,
-          "endSec": 181.39,
-          "score": 1.0
+          "word": "calm.",
+          "start": 130.08,
+          "end": 131.04
         }
       ]
     },
     {
       "id": 22,
-      "start": 182.24,
-      "end": 188.63,
-      "text": "A famous dish is Bosgorm, a lamb stew with special herbs.",
+      "start": 131.76,
+      "end": 136.48,
+      "text": "Tourists come to see the sunset and stars.",
       "words": [
         {
-          "word": "A",
-          "startSec": 182.44,
-          "endSec": 182.6,
-          "score": 0.99
+          "word": "Tourists",
+          "start": 131.76,
+          "end": 132.74
         },
         {
-          "word": "famous",
-          "startSec": 182.6,
-          "endSec": 183.06,
-          "score": 0.99
+          "word": "come",
+          "start": 132.74,
+          "end": 133.08
         },
         {
-          "word": "dish",
-          "startSec": 183.06,
-          "endSec": 183.78,
-          "score": 1.0
+          "word": "to",
+          "start": 133.08,
+          "end": 133.36
         },
         {
-          "word": "is",
-          "startSec": 183.78,
-          "endSec": 184.06,
-          "score": 1.0
+          "word": "see",
+          "start": 133.36,
+          "end": 133.76
         },
         {
-          "word": "Bosgorm,",
-          "startSec": 184.06,
-          "endSec": 185.4,
-          "score": 0.45
+          "word": "the",
+          "start": 133.76,
+          "end": 134.04
         },
         {
-          "word": "a",
-          "startSec": 186.12,
-          "endSec": 186.22,
-          "score": 0.97
+          "word": "sunset",
+          "start": 134.04,
+          "end": 134.78
         },
         {
-          "word": "lamb",
-          "startSec": 186.22,
-          "endSec": 186.6,
-          "score": 0.93
+          "word": "and",
+          "start": 134.78,
+          "end": 135.4
         },
         {
-          "word": "stew",
-          "startSec": 186.6,
-          "endSec": 187.0,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 187.0,
-          "endSec": 187.38,
-          "score": 0.99
-        },
-        {
-          "word": "special",
-          "startSec": 187.38,
-          "endSec": 187.74,
-          "score": 1.0
-        },
-        {
-          "word": "herbs.",
-          "startSec": 187.74,
-          "endSec": 188.48,
-          "score": 1.0
+          "word": "stars.",
+          "start": 135.4,
+          "end": 136.48
         }
       ]
     },
     {
       "id": 23,
-      "start": 188.28,
-      "end": 195.36,
-      "text": "Another dish is Dopiasse, made with potatoes and onions.",
+      "start": 137.3,
+      "end": 147.88,
+      "text": "Part 5 The City of Karaman Karaman City has wide streets, parks, and old neighborhoods.",
       "words": [
         {
-          "word": "Another",
-          "startSec": 188.48,
-          "endSec": 190.2,
-          "score": 0.21
+          "word": "Part",
+          "start": 137.3,
+          "end": 137.56
         },
         {
-          "word": "dish",
-          "startSec": 190.49,
-          "endSec": 191.15,
-          "score": 0.99
+          "word": "5",
+          "start": 137.56,
+          "end": 138.2
         },
         {
-          "word": "is",
-          "startSec": 191.15,
-          "endSec": 191.37,
-          "score": 1.0
+          "word": "The",
+          "start": 138.2,
+          "end": 138.78
         },
         {
-          "word": "Dopiasse,",
-          "startSec": 191.37,
-          "endSec": 192.53,
-          "score": 0.33
+          "word": "City",
+          "start": 138.78,
+          "end": 139.2
         },
         {
-          "word": "made",
-          "startSec": 192.97,
-          "endSec": 193.29,
-          "score": 0.96
+          "word": "of",
+          "start": 139.2,
+          "end": 139.5
         },
         {
-          "word": "with",
-          "startSec": 193.29,
-          "endSec": 193.59,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 139.5,
+          "end": 140.16
         },
         {
-          "word": "potatoes",
-          "startSec": 193.59,
-          "endSec": 194.19,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 141.4,
+          "end": 142.52
+        },
+        {
+          "word": "City",
+          "start": 142.52,
+          "end": 143.08
+        },
+        {
+          "word": "has",
+          "start": 143.08,
+          "end": 143.54
+        },
+        {
+          "word": "wide",
+          "start": 143.54,
+          "end": 144.1
+        },
+        {
+          "word": "streets,",
+          "start": 144.1,
+          "end": 144.72
+        },
+        {
+          "word": "parks,",
+          "start": 145.2,
+          "end": 145.74
         },
         {
           "word": "and",
-          "startSec": 194.19,
-          "endSec": 194.71,
-          "score": 0.99
+          "start": 146.28,
+          "end": 146.4
         },
         {
-          "word": "onions.",
-          "startSec": 194.71,
-          "endSec": 195.21,
-          "score": 0.99
+          "word": "old",
+          "start": 146.4,
+          "end": 146.72
+        },
+        {
+          "word": "neighborhoods.",
+          "start": 146.72,
+          "end": 147.88
         }
       ]
     },
     {
       "id": 24,
-      "start": 196.02,
-      "end": 203.59,
-      "text": "People also love pistachios, because Karaman has many pistachio farms.",
+      "start": 148.28,
+      "end": 153.44,
+      "text": "There is a famous market called Grand Bazaar of Karaman.",
       "words": [
         {
-          "word": "People",
-          "startSec": 196.22,
-          "endSec": 196.6,
-          "score": 0.98
+          "word": "There",
+          "start": 148.28,
+          "end": 149.1
         },
         {
-          "word": "also",
-          "startSec": 196.6,
-          "endSec": 196.98,
-          "score": 1.0
+          "word": "is",
+          "start": 149.1,
+          "end": 149.34
         },
         {
-          "word": "love",
-          "startSec": 196.98,
-          "endSec": 197.6,
-          "score": 1.0
+          "word": "a",
+          "start": 149.34,
+          "end": 149.6
         },
         {
-          "word": "pistachios,",
-          "startSec": 197.6,
-          "endSec": 198.78,
-          "score": 0.94
+          "word": "famous",
+          "start": 149.6,
+          "end": 149.96
         },
         {
-          "word": "because",
-          "startSec": 199.36,
-          "endSec": 200.12,
-          "score": 0.99
+          "word": "market",
+          "start": 149.96,
+          "end": 150.68
         },
         {
-          "word": "Karaman",
-          "startSec": 200.12,
-          "endSec": 200.92,
-          "score": 0.15
+          "word": "called",
+          "start": 150.68,
+          "end": 151.22
         },
         {
-          "word": "has",
-          "startSec": 200.92,
-          "endSec": 201.34,
-          "score": 1.0
+          "word": "Grand",
+          "start": 151.22,
+          "end": 151.78
         },
         {
-          "word": "many",
-          "startSec": 201.34,
-          "endSec": 201.76,
-          "score": 0.99
+          "word": "Bazaar",
+          "start": 151.78,
+          "end": 152.58
         },
         {
-          "word": "pistachio",
-          "startSec": 201.76,
-          "endSec": 202.96,
-          "score": 0.96
+          "word": "of",
+          "start": 152.58,
+          "end": 152.74
         },
         {
-          "word": "farms.",
-          "startSec": 202.96,
-          "endSec": 203.44,
-          "score": 0.98
+          "word": "Karaman.",
+          "start": 152.74,
+          "end": 153.44
         }
       ]
     },
     {
       "id": 25,
-      "start": 204.48,
-      "end": 210.15,
-      "text": "Tea is very important, and people drink it many times a day.",
+      "start": 153.44,
+      "end": 160.68,
+      "text": "People sell carpets, spices, copper products, and sweets.",
       "words": [
         {
-          "word": "Tea",
-          "startSec": 204.68,
-          "endSec": 205.14,
-          "score": 0.92
+          "word": "People",
+          "start": 153.44,
+          "end": 155.0
         },
         {
-          "word": "is",
-          "startSec": 205.14,
-          "endSec": 205.48,
-          "score": 1.0
+          "word": "sell",
+          "start": 155.0,
+          "end": 155.48
         },
         {
-          "word": "very",
-          "startSec": 205.48,
-          "endSec": 205.84,
-          "score": 1.0
+          "word": "carpets,",
+          "start": 155.48,
+          "end": 156.58
         },
         {
-          "word": "important,",
-          "startSec": 205.84,
-          "endSec": 206.62,
-          "score": 1.0
+          "word": "spices,",
+          "start": 157.0,
+          "end": 157.68
+        },
+        {
+          "word": "copper",
+          "start": 158.38,
+          "end": 158.72
+        },
+        {
+          "word": "products,",
+          "start": 158.72,
+          "end": 159.46
         },
         {
           "word": "and",
-          "startSec": 207.22,
-          "endSec": 207.5,
-          "score": 1.0
+          "start": 159.82,
+          "end": 159.82
         },
         {
-          "word": "people",
-          "startSec": 207.5,
-          "endSec": 207.96,
-          "score": 1.0
-        },
-        {
-          "word": "drink",
-          "startSec": 207.96,
-          "endSec": 208.34,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 208.34,
-          "endSec": 208.58,
-          "score": 0.99
-        },
-        {
-          "word": "many",
-          "startSec": 208.58,
-          "endSec": 208.84,
-          "score": 1.0
-        },
-        {
-          "word": "times",
-          "startSec": 208.84,
-          "endSec": 209.4,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 209.4,
-          "endSec": 209.74,
-          "score": 0.97
-        },
-        {
-          "word": "day.",
-          "startSec": 209.74,
-          "endSec": 210.0,
-          "score": 1.0
+          "word": "sweets.",
+          "start": 159.82,
+          "end": 160.68
         }
       ]
     },
     {
       "id": 26,
-      "start": 213.04,
-      "end": 217.29,
-      "text": "Part 7. People of Karaman.",
+      "start": 161.34,
+      "end": 164.44,
+      "text": "Life in Karaman is relaxed.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 213.24,
-          "endSec": 213.8,
-          "score": 0.43
+          "word": "Life",
+          "start": 161.34,
+          "end": 161.78
         },
         {
-          "word": "7.",
-          "startSec": 213.8,
-          "endSec": 214.66,
-          "score": 0.67
+          "word": "in",
+          "start": 161.78,
+          "end": 162.2
         },
         {
-          "word": "People",
-          "startSec": 215.28,
-          "endSec": 216.14,
-          "score": 0.97
+          "word": "Karaman",
+          "start": 162.2,
+          "end": 162.76
         },
         {
-          "word": "of",
-          "startSec": 216.14,
-          "endSec": 216.48,
-          "score": 0.84
+          "word": "is",
+          "start": 162.76,
+          "end": 163.16
         },
         {
-          "word": "Karaman.",
-          "startSec": 216.48,
-          "endSec": 217.14,
-          "score": 0.17
+          "word": "relaxed.",
+          "start": 163.16,
+          "end": 164.44
         }
       ]
     },
     {
       "id": 27,
-      "start": 217.65,
-      "end": 225.61,
-      "text": "People in Karaman are friendly and hospitable. They speak Persian farci.",
+      "start": 164.74,
+      "end": 170.68,
+      "text": "People enjoy tea houses, small shops, and quiet evenings.",
       "words": [
         {
           "word": "People",
-          "startSec": 217.85,
-          "endSec": 218.71,
-          "score": 0.98
+          "start": 164.74,
+          "end": 165.12
         },
         {
-          "word": "in",
-          "startSec": 218.71,
-          "endSec": 219.05,
-          "score": 0.95
+          "word": "enjoy",
+          "start": 165.12,
+          "end": 165.84
         },
         {
-          "word": "Karaman",
-          "startSec": 219.05,
-          "endSec": 219.61,
-          "score": 0.91
+          "word": "tea",
+          "start": 165.84,
+          "end": 166.3
         },
         {
-          "word": "are",
-          "startSec": 219.61,
-          "endSec": 219.93,
-          "score": 1.0
+          "word": "houses,",
+          "start": 166.3,
+          "end": 166.94
         },
         {
-          "word": "friendly",
-          "startSec": 219.93,
-          "endSec": 220.37,
-          "score": 0.99
+          "word": "small",
+          "start": 167.4,
+          "end": 167.78
+        },
+        {
+          "word": "shops,",
+          "start": 167.78,
+          "end": 168.46
         },
         {
           "word": "and",
-          "startSec": 220.37,
-          "endSec": 220.91,
-          "score": 0.99
+          "start": 168.9,
+          "end": 169.06
         },
         {
-          "word": "hospitable.",
-          "startSec": 220.91,
-          "endSec": 221.89,
-          "score": 1.0
+          "word": "quiet",
+          "start": 169.06,
+          "end": 169.58
         },
         {
-          "word": "They",
-          "startSec": 222.96,
-          "endSec": 223.16,
-          "score": 0.99
-        },
-        {
-          "word": "speak",
-          "startSec": 223.16,
-          "endSec": 223.64,
-          "score": 0.99
-        },
-        {
-          "word": "Persian",
-          "startSec": 223.64,
-          "endSec": 224.26,
-          "score": 1.0
-        },
-        {
-          "word": "farci.",
-          "startSec": 224.26,
-          "endSec": 225.46,
-          "score": 0.31
+          "word": "evenings.",
+          "start": 169.58,
+          "end": 170.68
         }
       ]
     },
     {
       "id": 28,
-      "start": 225.78,
-      "end": 236.51,
-      "text": "Most people also know simple English words. Families are close, and respect for elders is very important.",
+      "start": 172.76,
+      "end": 181.56,
+      "text": "Part 6 Food in Karaman Karaman has delicious traditional food.",
       "words": [
         {
-          "word": "Most",
-          "startSec": 225.98,
-          "endSec": 226.66,
-          "score": 0.99
+          "word": "Part",
+          "start": 172.76,
+          "end": 174.02
         },
         {
-          "word": "people",
-          "startSec": 226.66,
-          "endSec": 227.24,
-          "score": 1.0
+          "word": "6",
+          "start": 174.02,
+          "end": 174.64
         },
         {
-          "word": "also",
-          "startSec": 227.24,
-          "endSec": 227.6,
-          "score": 0.99
+          "word": "Food",
+          "start": 174.64,
+          "end": 175.58
         },
         {
-          "word": "know",
-          "startSec": 227.6,
-          "endSec": 228.18,
-          "score": 1.0
+          "word": "in",
+          "start": 175.58,
+          "end": 175.84
         },
         {
-          "word": "simple",
-          "startSec": 228.18,
-          "endSec": 228.6,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 175.84,
+          "end": 176.46
         },
         {
-          "word": "English",
-          "startSec": 228.6,
-          "endSec": 229.28,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 177.44,
+          "end": 178.7
         },
         {
-          "word": "words.",
-          "startSec": 229.28,
-          "endSec": 229.82,
-          "score": 0.99
+          "word": "has",
+          "start": 178.7,
+          "end": 179.14
         },
         {
-          "word": "Families",
-          "startSec": 230.74,
-          "endSec": 231.08,
-          "score": 0.99
+          "word": "delicious",
+          "start": 179.14,
+          "end": 179.96
         },
         {
-          "word": "are",
-          "startSec": 231.08,
-          "endSec": 231.62,
-          "score": 1.0
+          "word": "traditional",
+          "start": 179.96,
+          "end": 180.72
         },
         {
-          "word": "close,",
-          "startSec": 231.62,
-          "endSec": 232.08,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 232.84,
-          "endSec": 232.96,
-          "score": 1.0
-        },
-        {
-          "word": "respect",
-          "startSec": 232.96,
-          "endSec": 233.58,
-          "score": 0.98
-        },
-        {
-          "word": "for",
-          "startSec": 233.58,
-          "endSec": 234.18,
-          "score": 1.0
-        },
-        {
-          "word": "elders",
-          "startSec": 234.18,
-          "endSec": 234.7,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 234.7,
-          "endSec": 235.26,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 235.26,
-          "endSec": 235.78,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 235.78,
-          "endSec": 236.36,
-          "score": 1.0
+          "word": "food.",
+          "start": 180.72,
+          "end": 181.56
         }
       ]
     },
     {
       "id": 29,
-      "start": 237.38,
-      "end": 241.03,
-      "text": "People love poetry, music, and nature.",
+      "start": 181.56,
+      "end": 189.22,
+      "text": "A famous dish is Baal's Gorm, a lamb stew with special herbs.",
       "words": [
         {
-          "word": "People",
-          "startSec": 237.58,
-          "endSec": 237.88,
-          "score": 0.99
+          "word": "A",
+          "start": 181.56,
+          "end": 182.64
         },
         {
-          "word": "love",
-          "startSec": 237.88,
-          "endSec": 238.48,
-          "score": 1.0
+          "word": "famous",
+          "start": 182.64,
+          "end": 183.16
         },
         {
-          "word": "poetry,",
-          "startSec": 238.48,
-          "endSec": 238.9,
-          "score": 0.99
+          "word": "dish",
+          "start": 183.16,
+          "end": 183.68
         },
         {
-          "word": "music,",
-          "startSec": 239.22,
-          "endSec": 239.8,
-          "score": 1.0
+          "word": "is",
+          "start": 183.68,
+          "end": 184.18
         },
         {
-          "word": "and",
-          "startSec": 240.46,
-          "endSec": 240.56,
-          "score": 1.0
+          "word": "Baal's",
+          "start": 184.18,
+          "end": 185.02
         },
         {
-          "word": "nature.",
-          "startSec": 240.56,
-          "endSec": 240.88,
-          "score": 1.0
+          "word": "Gorm,",
+          "start": 185.02,
+          "end": 185.5
+        },
+        {
+          "word": "a",
+          "start": 186.12,
+          "end": 186.42
+        },
+        {
+          "word": "lamb",
+          "start": 186.42,
+          "end": 186.68
+        },
+        {
+          "word": "stew",
+          "start": 186.68,
+          "end": 187.1
+        },
+        {
+          "word": "with",
+          "start": 187.1,
+          "end": 187.48
+        },
+        {
+          "word": "special",
+          "start": 187.48,
+          "end": 188.02
+        },
+        {
+          "word": "herbs.",
+          "start": 188.02,
+          "end": 189.22
         }
       ]
     },
     {
       "id": 30,
-      "start": 240.68,
-      "end": 246.84,
-      "text": "Part 8. Culture and Crafts.",
+      "start": 190.06,
+      "end": 195.74,
+      "text": "Another dish is Doppia Zae, made with potatoes and onions.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 240.88,
-          "endSec": 242.4,
-          "score": 0.36
+          "word": "Another",
+          "start": 190.06,
+          "end": 190.56
         },
         {
-          "word": "8.",
-          "startSec": 243.33,
-          "endSec": 243.79,
-          "score": 0.48
+          "word": "dish",
+          "start": 190.56,
+          "end": 191.22
         },
         {
-          "word": "Culture",
-          "startSec": 245.13,
-          "endSec": 245.17,
-          "score": 0.99
+          "word": "is",
+          "start": 191.22,
+          "end": 191.46
+        },
+        {
+          "word": "Doppia",
+          "start": 191.46,
+          "end": 192.16
+        },
+        {
+          "word": "Zae,",
+          "start": 192.16,
+          "end": 192.68
+        },
+        {
+          "word": "made",
+          "start": 193.02,
+          "end": 193.42
+        },
+        {
+          "word": "with",
+          "start": 193.42,
+          "end": 193.68
+        },
+        {
+          "word": "potatoes",
+          "start": 193.68,
+          "end": 194.28
         },
         {
           "word": "and",
-          "startSec": 245.17,
-          "endSec": 245.57,
-          "score": 0.85
+          "start": 194.28,
+          "end": 194.78
         },
         {
-          "word": "Crafts.",
-          "startSec": 245.57,
-          "endSec": 246.69,
-          "score": 0.96
+          "word": "onions.",
+          "start": 194.78,
+          "end": 195.74
         }
       ]
     },
     {
       "id": 31,
-      "start": 247.47,
-      "end": 257.55,
-      "text": "Karaman is famous for carpets. Karaman carpets are colorful, soft, and world famous.",
+      "start": 196.28,
+      "end": 203.92,
+      "text": "People also love pistachios because Karaman has many pistachio farms.",
       "words": [
         {
-          "word": "Karaman",
-          "startSec": 247.67,
-          "endSec": 248.33,
-          "score": 0.2
+          "word": "People",
+          "start": 196.28,
+          "end": 196.62
         },
         {
-          "word": "is",
-          "startSec": 248.33,
-          "endSec": 248.75,
-          "score": 0.99
+          "word": "also",
+          "start": 196.62,
+          "end": 197.22
         },
         {
-          "word": "famous",
-          "startSec": 248.75,
-          "endSec": 249.13,
-          "score": 1.0
+          "word": "love",
+          "start": 197.22,
+          "end": 197.66
         },
         {
-          "word": "for",
-          "startSec": 249.13,
-          "endSec": 249.65,
-          "score": 1.0
+          "word": "pistachios",
+          "start": 197.66,
+          "end": 198.88
         },
         {
-          "word": "carpets.",
-          "startSec": 249.65,
-          "endSec": 250.43,
-          "score": 0.98
+          "word": "because",
+          "start": 198.88,
+          "end": 200.12
         },
         {
           "word": "Karaman",
-          "startSec": 251.64,
-          "endSec": 252.22,
-          "score": 0.96
+          "start": 200.12,
+          "end": 200.94
         },
         {
-          "word": "carpets",
-          "startSec": 252.22,
-          "endSec": 252.98,
-          "score": 1.0
+          "word": "has",
+          "start": 200.94,
+          "end": 201.42
         },
         {
-          "word": "are",
-          "startSec": 252.98,
-          "endSec": 253.28,
-          "score": 1.0
+          "word": "many",
+          "start": 201.42,
+          "end": 201.9
         },
         {
-          "word": "colorful,",
-          "startSec": 253.28,
-          "endSec": 253.82,
-          "score": 0.96
+          "word": "pistachio",
+          "start": 201.9,
+          "end": 203.02
         },
         {
-          "word": "soft,",
-          "startSec": 254.74,
-          "endSec": 255.14,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 256.22,
-          "endSec": 256.26,
-          "score": 0.99
-        },
-        {
-          "word": "world",
-          "startSec": 256.26,
-          "endSec": 256.62,
-          "score": 1.0
-        },
-        {
-          "word": "famous.",
-          "startSec": 256.62,
-          "endSec": 257.4,
-          "score": 0.86
+          "word": "farms.",
+          "start": 203.02,
+          "end": 203.92
         }
       ]
     },
     {
       "id": 32,
-      "start": 259.57,
-      "end": 266.7,
-      "text": "People also make copper handicrafts, traditional clothes, and wooden art.",
+      "start": 204.82,
+      "end": 210.52,
+      "text": "Tea is very important and people drink it many times a day.",
       "words": [
         {
-          "word": "People",
-          "startSec": 259.77,
-          "endSec": 259.77,
-          "score": 1.0
+          "word": "Tea",
+          "start": 204.82,
+          "end": 205.22
         },
         {
-          "word": "also",
-          "startSec": 259.77,
-          "endSec": 260.27,
-          "score": 1.0
+          "word": "is",
+          "start": 205.22,
+          "end": 205.56
         },
         {
-          "word": "make",
-          "startSec": 260.27,
-          "endSec": 261.03,
-          "score": 1.0
+          "word": "very",
+          "start": 205.56,
+          "end": 206.02
         },
         {
-          "word": "copper",
-          "startSec": 261.03,
-          "endSec": 261.51,
-          "score": 0.99
-        },
-        {
-          "word": "handicrafts,",
-          "startSec": 261.51,
-          "endSec": 263.15,
-          "score": 0.96
-        },
-        {
-          "word": "traditional",
-          "startSec": 263.55,
-          "endSec": 264.07,
-          "score": 1.0
-        },
-        {
-          "word": "clothes,",
-          "startSec": 264.07,
-          "endSec": 264.91,
-          "score": 1.0
+          "word": "important",
+          "start": 206.02,
+          "end": 206.76
         },
         {
           "word": "and",
-          "startSec": 265.57,
-          "endSec": 265.61,
-          "score": 1.0
+          "start": 206.76,
+          "end": 207.54
         },
         {
-          "word": "wooden",
-          "startSec": 265.61,
-          "endSec": 265.97,
-          "score": 0.99
+          "word": "people",
+          "start": 207.54,
+          "end": 207.98
         },
         {
-          "word": "art.",
-          "startSec": 265.97,
-          "endSec": 266.55,
-          "score": 0.99
+          "word": "drink",
+          "start": 207.98,
+          "end": 208.46
+        },
+        {
+          "word": "it",
+          "start": 208.46,
+          "end": 208.66
+        },
+        {
+          "word": "many",
+          "start": 208.66,
+          "end": 208.98
+        },
+        {
+          "word": "times",
+          "start": 208.98,
+          "end": 209.48
+        },
+        {
+          "word": "a",
+          "start": 209.48,
+          "end": 209.8
+        },
+        {
+          "word": "day.",
+          "start": 209.8,
+          "end": 210.52
         }
       ]
     },
     {
       "id": 33,
-      "start": 266.35,
-      "end": 273.93,
-      "text": "Cultural life includes poetry nights and small music gatherings.",
+      "start": 212.72,
+      "end": 222.28,
+      "text": "Part 7 People of Karaman People in Karaman are friendly and hospitable.",
       "words": [
         {
-          "word": "Cultural",
-          "startSec": 266.55,
-          "endSec": 267.67,
-          "score": 0.24
+          "word": "Part",
+          "start": 212.72,
+          "end": 213.94
         },
         {
-          "word": "life",
-          "startSec": 268.34,
-          "endSec": 269.24,
-          "score": 0.86
+          "word": "7",
+          "start": 213.94,
+          "end": 214.68
         },
         {
-          "word": "includes",
-          "startSec": 269.24,
-          "endSec": 270.08,
-          "score": 0.98
+          "word": "People",
+          "start": 214.68,
+          "end": 216.16
         },
         {
-          "word": "poetry",
-          "startSec": 270.08,
-          "endSec": 270.96,
-          "score": 0.93
+          "word": "of",
+          "start": 216.16,
+          "end": 216.5
         },
         {
-          "word": "nights",
-          "startSec": 270.96,
-          "endSec": 271.68,
-          "score": 0.96
+          "word": "Karaman",
+          "start": 216.5,
+          "end": 217.16
+        },
+        {
+          "word": "People",
+          "start": 218.12,
+          "end": 218.74
+        },
+        {
+          "word": "in",
+          "start": 218.74,
+          "end": 219.1
+        },
+        {
+          "word": "Karaman",
+          "start": 219.1,
+          "end": 219.66
+        },
+        {
+          "word": "are",
+          "start": 219.66,
+          "end": 219.98
+        },
+        {
+          "word": "friendly",
+          "start": 219.98,
+          "end": 220.62
         },
         {
           "word": "and",
-          "startSec": 271.68,
-          "endSec": 272.14,
-          "score": 0.95
+          "start": 220.62,
+          "end": 220.94
         },
         {
-          "word": "small",
-          "startSec": 272.14,
-          "endSec": 272.54,
-          "score": 0.99
-        },
-        {
-          "word": "music",
-          "startSec": 272.54,
-          "endSec": 273.12,
-          "score": 0.99
-        },
-        {
-          "word": "gatherings.",
-          "startSec": 273.12,
-          "endSec": 273.78,
-          "score": 0.99
+          "word": "hospitable.",
+          "start": 220.94,
+          "end": 222.28
         }
       ]
     },
     {
       "id": 34,
-      "start": 276.33,
-      "end": 284.74,
-      "text": "Part 9. Important Places in Karaman. Karaman has many beautiful places.",
+      "start": 222.52,
+      "end": 225.78,
+      "text": "They speak Persian, Farsi.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 276.53,
-          "endSec": 276.61,
-          "score": 0.0
+          "word": "They",
+          "start": 222.52,
+          "end": 223.24
         },
         {
-          "word": "9.",
-          "startSec": 276.61,
-          "endSec": 277.79,
-          "score": 0.54
+          "word": "speak",
+          "start": 223.24,
+          "end": 223.8
         },
         {
-          "word": "Important",
-          "startSec": 279.01,
-          "endSec": 279.01,
-          "score": 0.7
+          "word": "Persian,",
+          "start": 223.8,
+          "end": 224.62
         },
         {
-          "word": "Places",
-          "startSec": 279.01,
-          "endSec": 279.73,
-          "score": 0.4
-        },
-        {
-          "word": "in",
-          "startSec": 279.73,
-          "endSec": 280.19,
-          "score": 0.86
-        },
-        {
-          "word": "Karaman.",
-          "startSec": 280.19,
-          "endSec": 280.81,
-          "score": 0.03
-        },
-        {
-          "word": "Karaman",
-          "startSec": 281.57,
-          "endSec": 282.53,
-          "score": 0.97
-        },
-        {
-          "word": "has",
-          "startSec": 282.53,
-          "endSec": 282.87,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 282.87,
-          "endSec": 283.29,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 283.29,
-          "endSec": 283.89,
-          "score": 1.0
-        },
-        {
-          "word": "places.",
-          "startSec": 283.89,
-          "endSec": 284.59,
-          "score": 1.0
+          "word": "Farsi.",
+          "start": 224.92,
+          "end": 225.78
         }
       ]
     },
     {
       "id": 35,
-      "start": 285.73,
-      "end": 291.9,
-      "text": "Gangjali Khan Complex, an old bath, mosque, and bazaar.",
+      "start": 226.36,
+      "end": 230.36,
+      "text": "Most people also know simple English words.",
       "words": [
         {
-          "word": "Gangjali",
-          "startSec": 285.93,
-          "endSec": 287.01,
-          "score": 0.31
+          "word": "Most",
+          "start": 226.36,
+          "end": 226.8
         },
         {
-          "word": "Khan",
-          "startSec": 287.01,
-          "endSec": 287.47,
-          "score": 0.76
+          "word": "people",
+          "start": 226.8,
+          "end": 227.24
         },
         {
-          "word": "Complex,",
-          "startSec": 287.47,
-          "endSec": 288.27,
-          "score": 0.89
+          "word": "also",
+          "start": 227.24,
+          "end": 227.86
         },
         {
-          "word": "an",
-          "startSec": 288.77,
-          "endSec": 288.83,
-          "score": 0.78
+          "word": "know",
+          "start": 227.86,
+          "end": 228.24
         },
         {
-          "word": "old",
-          "startSec": 288.83,
-          "endSec": 289.19,
-          "score": 0.87
+          "word": "simple",
+          "start": 228.24,
+          "end": 228.82
         },
         {
-          "word": "bath,",
-          "startSec": 289.19,
-          "endSec": 289.73,
-          "score": 0.98
+          "word": "English",
+          "start": 228.82,
+          "end": 229.28
         },
         {
-          "word": "mosque,",
-          "startSec": 290.29,
-          "endSec": 290.63,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 291.11,
-          "endSec": 291.17,
-          "score": 0.94
-        },
-        {
-          "word": "bazaar.",
-          "startSec": 291.17,
-          "endSec": 291.75,
-          "score": 0.88
+          "word": "words.",
+          "start": 229.28,
+          "end": 230.36
         }
       ]
     },
     {
       "id": 36,
-      "start": 292.65,
-      "end": 302.84,
-      "text": "Jabali Dome, a mysterious stone building. Shada Desert, home of the famous sand formations.",
+      "start": 230.68,
+      "end": 236.64,
+      "text": "Families are close and respect for elders is very important.",
       "words": [
         {
-          "word": "Jabali",
-          "startSec": 292.85,
-          "endSec": 293.71,
-          "score": 0.32
+          "word": "Families",
+          "start": 230.68,
+          "end": 231.32
         },
         {
-          "word": "Dome,",
-          "startSec": 293.71,
-          "endSec": 294.25,
-          "score": 0.86
+          "word": "are",
+          "start": 231.32,
+          "end": 231.68
         },
         {
-          "word": "a",
-          "startSec": 294.95,
-          "endSec": 295.01,
-          "score": 0.99
+          "word": "close",
+          "start": 231.68,
+          "end": 232.22
         },
         {
-          "word": "mysterious",
-          "startSec": 295.01,
-          "endSec": 295.53,
-          "score": 1.0
+          "word": "and",
+          "start": 232.22,
+          "end": 233.02
         },
         {
-          "word": "stone",
-          "startSec": 295.53,
-          "endSec": 296.47,
-          "score": 0.98
+          "word": "respect",
+          "start": 233.02,
+          "end": 233.68
         },
         {
-          "word": "building.",
-          "startSec": 296.47,
-          "endSec": 296.95,
-          "score": 0.99
+          "word": "for",
+          "start": 233.68,
+          "end": 234.24
         },
         {
-          "word": "Shada",
-          "startSec": 298.19,
-          "endSec": 298.77,
-          "score": 0.5
+          "word": "elders",
+          "start": 234.24,
+          "end": 234.88
         },
         {
-          "word": "Desert,",
-          "startSec": 298.77,
-          "endSec": 299.45,
-          "score": 0.98
+          "word": "is",
+          "start": 234.88,
+          "end": 235.36
         },
         {
-          "word": "home",
-          "startSec": 300.25,
-          "endSec": 300.41,
-          "score": 0.97
+          "word": "very",
+          "start": 235.36,
+          "end": 235.82
         },
         {
-          "word": "of",
-          "startSec": 300.41,
-          "endSec": 300.71,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 300.71,
-          "endSec": 300.87,
-          "score": 0.94
-        },
-        {
-          "word": "famous",
-          "startSec": 300.87,
-          "endSec": 301.59,
-          "score": 1.0
-        },
-        {
-          "word": "sand",
-          "startSec": 301.59,
-          "endSec": 301.99,
-          "score": 0.74
-        },
-        {
-          "word": "formations.",
-          "startSec": 301.99,
-          "endSec": 302.69,
-          "score": 0.98
+          "word": "important.",
+          "start": 235.82,
+          "end": 236.64
         }
       ]
     },
     {
       "id": 37,
-      "start": 304.1,
-      "end": 308.97,
-      "text": "Ran Castle, an ancient mud brick castle.",
+      "start": 236.64,
+      "end": 241.56,
+      "text": "People love poetry, music, and nature.",
       "words": [
         {
-          "word": "Ran",
-          "startSec": 304.3,
-          "endSec": 304.8,
-          "score": 0.41
+          "word": "People",
+          "start": 236.64,
+          "end": 238.08
         },
         {
-          "word": "Castle,",
-          "startSec": 304.8,
-          "endSec": 305.34,
-          "score": 0.92
+          "word": "love",
+          "start": 238.08,
+          "end": 238.52
         },
         {
-          "word": "an",
-          "startSec": 306.62,
-          "endSec": 306.82,
-          "score": 0.97
+          "word": "poetry,",
+          "start": 238.52,
+          "end": 239.32
         },
         {
-          "word": "ancient",
-          "startSec": 306.82,
-          "endSec": 307.4,
-          "score": 0.99
+          "word": "music,",
+          "start": 239.66,
+          "end": 240.1
         },
         {
-          "word": "mud",
-          "startSec": 307.4,
-          "endSec": 307.92,
-          "score": 0.95
+          "word": "and",
+          "start": 240.36,
+          "end": 240.62
         },
         {
-          "word": "brick",
-          "startSec": 307.92,
-          "endSec": 308.24,
-          "score": 0.87
-        },
-        {
-          "word": "castle.",
-          "startSec": 308.24,
-          "endSec": 308.82,
-          "score": 0.96
+          "word": "nature.",
+          "start": 240.62,
+          "end": 241.56
         }
       ]
     },
     {
       "id": 38,
-      "start": 310.14,
-      "end": 314.71,
-      "text": "These places show the long history of the city.",
+      "start": 242.8,
+      "end": 251.12,
+      "text": "Part 8 Culture and Crafts Karaman is famous for carpets.",
       "words": [
         {
-          "word": "These",
-          "startSec": 310.34,
-          "endSec": 310.82,
-          "score": 0.4
+          "word": "Part",
+          "start": 242.8,
+          "end": 243.34
         },
         {
-          "word": "places",
-          "startSec": 310.82,
-          "endSec": 311.4,
-          "score": 0.99
+          "word": "8",
+          "start": 243.34,
+          "end": 243.94
         },
         {
-          "word": "show",
-          "startSec": 311.4,
-          "endSec": 312.04,
-          "score": 1.0
+          "word": "Culture",
+          "start": 244.64,
+          "end": 245.24
         },
         {
-          "word": "the",
-          "startSec": 312.04,
-          "endSec": 312.34,
-          "score": 1.0
+          "word": "and",
+          "start": 245.24,
+          "end": 245.66
         },
         {
-          "word": "long",
-          "startSec": 312.34,
-          "endSec": 312.74,
-          "score": 0.97
+          "word": "Crafts",
+          "start": 245.66,
+          "end": 246.92
         },
         {
-          "word": "history",
-          "startSec": 312.74,
-          "endSec": 313.32,
-          "score": 1.0
+          "word": "Karaman",
+          "start": 247.64,
+          "end": 248.38
         },
         {
-          "word": "of",
-          "startSec": 313.32,
-          "endSec": 313.96,
-          "score": 0.99
+          "word": "is",
+          "start": 248.38,
+          "end": 248.8
         },
         {
-          "word": "the",
-          "startSec": 313.96,
-          "endSec": 314.14,
-          "score": 0.98
+          "word": "famous",
+          "start": 248.8,
+          "end": 249.3
         },
         {
-          "word": "city.",
-          "startSec": 314.14,
-          "endSec": 314.56,
-          "score": 0.95
+          "word": "for",
+          "start": 249.3,
+          "end": 249.68
+        },
+        {
+          "word": "carpets.",
+          "start": 249.68,
+          "end": 251.12
         }
       ]
     },
     {
       "id": 39,
-      "start": 316.8,
-      "end": 326.11,
-      "text": "Part 10. Weather in Karaman. Karaman has hot summers and cold winters.",
+      "start": 251.36,
+      "end": 257.88,
+      "text": "Karaman carpets are colorful, soft, and world famous.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 317.0,
-          "endSec": 317.22,
-          "score": 0.8
-        },
-        {
-          "word": "10.",
-          "startSec": 317.22,
-          "endSec": 317.82,
-          "score": 0.91
-        },
-        {
-          "word": "Weather",
-          "startSec": 318.72,
-          "endSec": 318.82,
-          "score": 0.88
-        },
-        {
-          "word": "in",
-          "startSec": 318.82,
-          "endSec": 319.28,
-          "score": 0.35
-        },
-        {
-          "word": "Karaman.",
-          "startSec": 319.28,
-          "endSec": 319.86,
-          "score": 0.02
-        },
-        {
           "word": "Karaman",
-          "startSec": 322.16,
-          "endSec": 322.76,
-          "score": 0.95
+          "start": 251.36,
+          "end": 252.26
         },
         {
-          "word": "has",
-          "startSec": 322.76,
-          "endSec": 323.14,
-          "score": 1.0
+          "word": "carpets",
+          "start": 252.26,
+          "end": 253.14
         },
         {
-          "word": "hot",
-          "startSec": 323.14,
-          "endSec": 323.6,
-          "score": 0.99
+          "word": "are",
+          "start": 253.14,
+          "end": 253.32
         },
         {
-          "word": "summers",
-          "startSec": 323.6,
-          "endSec": 324.3,
-          "score": 0.98
+          "word": "colorful,",
+          "start": 253.32,
+          "end": 254.12
+        },
+        {
+          "word": "soft,",
+          "start": 254.68,
+          "end": 255.4
         },
         {
           "word": "and",
-          "startSec": 324.3,
-          "endSec": 324.92,
-          "score": 0.97
+          "start": 256.2,
+          "end": 256.36
         },
         {
-          "word": "cold",
-          "startSec": 324.92,
-          "endSec": 325.24,
-          "score": 1.0
+          "word": "world",
+          "start": 256.36,
+          "end": 256.78
         },
         {
-          "word": "winters.",
-          "startSec": 325.24,
-          "endSec": 325.96,
-          "score": 0.99
+          "word": "famous.",
+          "start": 256.78,
+          "end": 257.88
         }
       ]
     },
     {
       "id": 40,
-      "start": 326.8,
-      "end": 330.33,
-      "text": "In spring, the weather is soft and nice.",
+      "start": 258.86,
+      "end": 263.58,
+      "text": "People also make copper handicrafts.",
       "words": [
         {
-          "word": "In",
-          "startSec": 327.0,
-          "endSec": 327.24,
-          "score": 0.98
+          "word": "People",
+          "start": 258.86,
+          "end": 259.8
         },
         {
-          "word": "spring,",
-          "startSec": 327.24,
-          "endSec": 327.68,
-          "score": 0.9
+          "word": "also",
+          "start": 259.8,
+          "end": 260.58
         },
         {
-          "word": "the",
-          "startSec": 328.22,
-          "endSec": 328.28,
-          "score": 1.0
+          "word": "make",
+          "start": 260.58,
+          "end": 261.1
         },
         {
-          "word": "weather",
-          "startSec": 328.28,
-          "endSec": 328.66,
-          "score": 1.0
+          "word": "copper",
+          "start": 261.1,
+          "end": 261.66
         },
         {
-          "word": "is",
-          "startSec": 328.66,
-          "endSec": 328.98,
-          "score": 1.0
-        },
-        {
-          "word": "soft",
-          "startSec": 328.98,
-          "endSec": 329.38,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 329.38,
-          "endSec": 329.76,
-          "score": 1.0
-        },
-        {
-          "word": "nice.",
-          "startSec": 329.76,
-          "endSec": 330.18,
-          "score": 0.99
+          "word": "handicrafts.",
+          "start": 261.66,
+          "end": 263.58
         }
       ]
     },
     {
       "id": 41,
-      "start": 331.73,
-      "end": 339.94,
-      "text": "In autumn, the city is cool and colorful. Many people visit in spring and autumn.",
+      "start": 263.58,
+      "end": 267.14,
+      "text": "Traditional clothes and wooden art.",
       "words": [
         {
-          "word": "In",
-          "startSec": 331.93,
-          "endSec": 332.07,
-          "score": 0.99
+          "word": "Traditional",
+          "start": 263.58,
+          "end": 264.34
         },
         {
-          "word": "autumn,",
-          "startSec": 332.07,
-          "endSec": 332.59,
-          "score": 0.94
-        },
-        {
-          "word": "the",
-          "startSec": 333.31,
-          "endSec": 333.33,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 333.33,
-          "endSec": 333.77,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 333.77,
-          "endSec": 334.11,
-          "score": 1.0
-        },
-        {
-          "word": "cool",
-          "startSec": 334.11,
-          "endSec": 334.55,
-          "score": 1.0
+          "word": "clothes",
+          "start": 264.34,
+          "end": 265.12
         },
         {
           "word": "and",
-          "startSec": 334.55,
-          "endSec": 334.97,
-          "score": 1.0
+          "start": 265.12,
+          "end": 265.68
         },
         {
-          "word": "colorful.",
-          "startSec": 334.97,
-          "endSec": 335.43,
-          "score": 0.97
+          "word": "wooden",
+          "start": 265.68,
+          "end": 266.1
         },
         {
-          "word": "Many",
-          "startSec": 336.99,
-          "endSec": 337.03,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 337.03,
-          "endSec": 337.65,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 337.65,
-          "endSec": 338.17,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 338.17,
-          "endSec": 338.59,
-          "score": 0.99
-        },
-        {
-          "word": "spring",
-          "startSec": 338.59,
-          "endSec": 339.09,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 339.09,
-          "endSec": 339.43,
-          "score": 0.96
-        },
-        {
-          "word": "autumn.",
-          "startSec": 339.43,
-          "endSec": 339.79,
-          "score": 1.0
+          "word": "art.",
+          "start": 266.1,
+          "end": 267.14
         }
       ]
     },
     {
       "id": 42,
-      "start": 342.69,
-      "end": 349.93,
-      "text": "Part 11. Daily Life. Daily Life in Karaman is simple.",
+      "start": 267.88,
+      "end": 274.28,
+      "text": "Cultural life includes poetry nights and small music gatherings.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 342.89,
-          "endSec": 343.41,
-          "score": 0.24
+          "word": "Cultural",
+          "start": 267.88,
+          "end": 268.62
         },
         {
-          "word": "11.",
-          "startSec": 343.41,
-          "endSec": 344.03,
-          "score": 0.95
+          "word": "life",
+          "start": 268.62,
+          "end": 269.32
         },
         {
-          "word": "Daily",
-          "startSec": 344.83,
-          "endSec": 345.01,
-          "score": 0.94
+          "word": "includes",
+          "start": 269.32,
+          "end": 270.32
         },
         {
-          "word": "Life.",
-          "startSec": 345.01,
-          "endSec": 345.69,
-          "score": 0.51
+          "word": "poetry",
+          "start": 270.32,
+          "end": 270.96
         },
         {
-          "word": "Daily",
-          "startSec": 346.94,
-          "endSec": 347.52,
-          "score": 0.99
+          "word": "nights",
+          "start": 270.96,
+          "end": 271.74
         },
         {
-          "word": "Life",
-          "startSec": 347.52,
-          "endSec": 348.28,
-          "score": 0.7
+          "word": "and",
+          "start": 271.74,
+          "end": 272.2
         },
         {
-          "word": "in",
-          "startSec": 348.28,
-          "endSec": 348.44,
-          "score": 0.89
+          "word": "small",
+          "start": 272.2,
+          "end": 272.68
         },
         {
-          "word": "Karaman",
-          "startSec": 348.44,
-          "endSec": 349.0,
-          "score": 0.01
+          "word": "music",
+          "start": 272.68,
+          "end": 273.14
         },
         {
-          "word": "is",
-          "startSec": 349.0,
-          "endSec": 349.28,
-          "score": 0.89
-        },
-        {
-          "word": "simple.",
-          "startSec": 349.28,
-          "endSec": 349.78,
-          "score": 0.77
+          "word": "gatherings.",
+          "start": 273.14,
+          "end": 274.28
         }
       ]
     },
     {
       "id": 43,
-      "start": 350.61,
-      "end": 355.96,
-      "text": "People wake up early, work in shops, farms, or offices.",
+      "start": 275.9,
+      "end": 285.24,
+      "text": "Part 9 Important Places in Karaman Karaman has many beautiful places.",
       "words": [
         {
-          "word": "People",
-          "startSec": 350.81,
-          "endSec": 351.09,
-          "score": 0.99
+          "word": "Part",
+          "start": 275.9,
+          "end": 276.82
         },
         {
-          "word": "wake",
-          "startSec": 351.09,
-          "endSec": 351.47,
-          "score": 1.0
+          "word": "9",
+          "start": 276.82,
+          "end": 278.02
         },
         {
-          "word": "up",
-          "startSec": 351.47,
-          "endSec": 351.79,
-          "score": 1.0
+          "word": "Important",
+          "start": 278.46,
+          "end": 279.1
         },
         {
-          "word": "early,",
-          "startSec": 351.79,
-          "endSec": 352.33,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 352.77,
-          "endSec": 353.09,
-          "score": 0.98
+          "word": "Places",
+          "start": 279.1,
+          "end": 279.92
         },
         {
           "word": "in",
-          "startSec": 353.09,
-          "endSec": 353.41,
-          "score": 0.99
+          "start": 279.92,
+          "end": 280.28
         },
         {
-          "word": "shops,",
-          "startSec": 353.41,
-          "endSec": 353.87,
-          "score": 1.0
+          "word": "Karaman",
+          "start": 280.28,
+          "end": 280.9
         },
         {
-          "word": "farms,",
-          "startSec": 354.39,
-          "endSec": 354.81,
-          "score": 0.99
+          "word": "Karaman",
+          "start": 281.58,
+          "end": 282.48
         },
         {
-          "word": "or",
-          "startSec": 355.21,
-          "endSec": 355.25,
-          "score": 0.98
+          "word": "has",
+          "start": 282.48,
+          "end": 282.92
         },
         {
-          "word": "offices.",
-          "startSec": 355.25,
-          "endSec": 355.81,
-          "score": 1.0
+          "word": "many",
+          "start": 282.92,
+          "end": 283.48
+        },
+        {
+          "word": "beautiful",
+          "start": 283.48,
+          "end": 284.1
+        },
+        {
+          "word": "places.",
+          "start": 284.1,
+          "end": 285.24
         }
       ]
     },
     {
       "id": 44,
-      "start": 357.46,
-      "end": 363.73,
-      "text": "In the evening, families drink tea together. Children play in parks.",
+      "start": 285.9,
+      "end": 292.1,
+      "text": "Ganj Ali Khan Complex, an old bath, mosque, and bazaar.",
       "words": [
         {
-          "word": "In",
-          "startSec": 357.66,
-          "endSec": 357.84,
-          "score": 1.0
+          "word": "Ganj",
+          "start": 285.9,
+          "end": 286.7
         },
         {
-          "word": "the",
-          "startSec": 357.84,
-          "endSec": 358.0,
-          "score": 1.0
+          "word": "Ali",
+          "start": 286.7,
+          "end": 287.04
         },
         {
-          "word": "evening,",
-          "startSec": 358.0,
-          "endSec": 358.5,
-          "score": 1.0
+          "word": "Khan",
+          "start": 287.04,
+          "end": 287.6
         },
         {
-          "word": "families",
-          "startSec": 359.04,
-          "endSec": 359.68,
-          "score": 1.0
+          "word": "Complex,",
+          "start": 287.6,
+          "end": 288.36
         },
         {
-          "word": "drink",
-          "startSec": 359.68,
-          "endSec": 360.04,
-          "score": 1.0
+          "word": "an",
+          "start": 288.78,
+          "end": 288.9
         },
         {
-          "word": "tea",
-          "startSec": 360.04,
-          "endSec": 360.44,
-          "score": 1.0
+          "word": "old",
+          "start": 288.9,
+          "end": 289.28
         },
         {
-          "word": "together.",
-          "startSec": 360.44,
-          "endSec": 361.02,
-          "score": 1.0
+          "word": "bath,",
+          "start": 289.28,
+          "end": 289.84
         },
         {
-          "word": "Children",
-          "startSec": 361.92,
-          "endSec": 362.42,
-          "score": 0.99
+          "word": "mosque,",
+          "start": 290.46,
+          "end": 290.86
         },
         {
-          "word": "play",
-          "startSec": 362.42,
-          "endSec": 362.94,
-          "score": 0.99
+          "word": "and",
+          "start": 291.2,
+          "end": 291.22
         },
         {
-          "word": "in",
-          "startSec": 362.94,
-          "endSec": 363.24,
-          "score": 1.0
-        },
-        {
-          "word": "parks.",
-          "startSec": 363.24,
-          "endSec": 363.58,
-          "score": 0.99
+          "word": "bazaar.",
+          "start": 291.22,
+          "end": 292.1
         }
       ]
     },
     {
       "id": 45,
-      "start": 364.26,
-      "end": 370.89,
-      "text": "Markets stay open until late. Life is peaceful and slow.",
+      "start": 292.1,
+      "end": 297.6,
+      "text": "Jabali Dome, a mysterious stone building.",
       "words": [
         {
-          "word": "Markets",
-          "startSec": 364.46,
-          "endSec": 364.96,
-          "score": 0.94
+          "word": "Jabali",
+          "start": 292.1,
+          "end": 293.78
         },
         {
-          "word": "stay",
-          "startSec": 364.96,
-          "endSec": 365.5,
-          "score": 0.99
+          "word": "Dome,",
+          "start": 293.78,
+          "end": 294.68
         },
         {
-          "word": "open",
-          "startSec": 365.5,
-          "endSec": 366.1,
-          "score": 1.0
+          "word": "a",
+          "start": 294.94,
+          "end": 295.1
         },
         {
-          "word": "until",
-          "startSec": 366.1,
-          "endSec": 366.4,
-          "score": 1.0
+          "word": "mysterious",
+          "start": 295.1,
+          "end": 295.78
         },
         {
-          "word": "late.",
-          "startSec": 366.4,
-          "endSec": 367.12,
-          "score": 1.0
+          "word": "stone",
+          "start": 295.78,
+          "end": 296.58
         },
         {
-          "word": "Life",
-          "startSec": 368.6,
-          "endSec": 368.6,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 368.6,
-          "endSec": 368.88,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 368.88,
-          "endSec": 369.56,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 369.56,
-          "endSec": 370.22,
-          "score": 0.99
-        },
-        {
-          "word": "slow.",
-          "startSec": 370.22,
-          "endSec": 370.74,
-          "score": 1.0
+          "word": "building.",
+          "start": 296.58,
+          "end": 297.6
         }
       ]
     },
     {
       "id": 46,
-      "start": 371.16,
-      "end": 375.77,
-      "text": "Part 12. Why Karaman is special?",
+      "start": 298.12,
+      "end": 303.32,
+      "text": "Shaddai Desert, home of the famous sand formations.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 371.36,
-          "endSec": 372.06,
-          "score": 0.44
+          "word": "Shaddai",
+          "start": 298.12,
+          "end": 298.98
         },
         {
-          "word": "12.",
-          "startSec": 372.06,
-          "endSec": 372.96,
-          "score": 0.94
+          "word": "Desert,",
+          "start": 298.98,
+          "end": 299.56
         },
         {
-          "word": "Why",
-          "startSec": 373.98,
-          "endSec": 374.02,
-          "score": 0.98
+          "word": "home",
+          "start": 300.12,
+          "end": 300.44
         },
         {
-          "word": "Karaman",
-          "startSec": 374.02,
-          "endSec": 374.7,
-          "score": 0.22
+          "word": "of",
+          "start": 300.44,
+          "end": 300.78
         },
         {
-          "word": "is",
-          "startSec": 374.7,
-          "endSec": 374.94,
-          "score": 0.23
+          "word": "the",
+          "start": 300.78,
+          "end": 300.92
         },
         {
-          "word": "special?",
-          "startSec": 374.94,
-          "endSec": 375.62,
-          "score": 0.56
+          "word": "famous",
+          "start": 300.92,
+          "end": 301.5
+        },
+        {
+          "word": "sand",
+          "start": 301.5,
+          "end": 302.1
+        },
+        {
+          "word": "formations.",
+          "start": 302.1,
+          "end": 303.32
         }
       ]
     },
     {
       "id": 47,
-      "start": 376.85,
-      "end": 380.64,
-      "text": "Karaman is special because it has.",
+      "start": 304.3,
+      "end": 309.48,
+      "text": "Rehan Castle, an ancient mud brick castle.",
       "words": [
         {
-          "word": "Karaman",
-          "startSec": 377.05,
-          "endSec": 377.73,
-          "score": 0.97
+          "word": "Rehan",
+          "start": 304.3,
+          "end": 305.06
         },
         {
-          "word": "is",
-          "startSec": 377.73,
-          "endSec": 378.05,
-          "score": 1.0
+          "word": "Castle,",
+          "start": 305.06,
+          "end": 305.68
         },
         {
-          "word": "special",
-          "startSec": 378.05,
-          "endSec": 378.77,
-          "score": 1.0
+          "word": "an",
+          "start": 306.7,
+          "end": 306.88
         },
         {
-          "word": "because",
-          "startSec": 378.77,
-          "endSec": 379.67,
-          "score": 0.86
+          "word": "ancient",
+          "start": 306.88,
+          "end": 307.54
         },
         {
-          "word": "it",
-          "startSec": 379.67,
-          "endSec": 380.09,
-          "score": 1.0
+          "word": "mud",
+          "start": 307.54,
+          "end": 307.98
         },
         {
-          "word": "has.",
-          "startSec": 380.09,
-          "endSec": 380.49,
-          "score": 1.0
+          "word": "brick",
+          "start": 307.98,
+          "end": 308.32
+        },
+        {
+          "word": "castle.",
+          "start": 308.32,
+          "end": 309.48
         }
       ]
     },
     {
       "id": 48,
-      "start": 381.34,
-      "end": 393.82,
-      "text": "Ancient history, beautiful desert, kind people, delicious food, colorful art, and carpets.",
+      "start": 310.42,
+      "end": 315.04,
+      "text": "These places show the long history of the city.",
       "words": [
         {
-          "word": "Ancient",
-          "startSec": 381.54,
-          "endSec": 382.26,
-          "score": 0.99
+          "word": "These",
+          "start": 310.42,
+          "end": 310.98
         },
         {
-          "word": "history,",
-          "startSec": 382.26,
-          "endSec": 383.18,
-          "score": 0.93
+          "word": "places",
+          "start": 310.98,
+          "end": 311.6
         },
         {
-          "word": "beautiful",
-          "startSec": 384.23,
-          "endSec": 384.93,
-          "score": 0.98
+          "word": "show",
+          "start": 311.6,
+          "end": 312.14
         },
         {
-          "word": "desert,",
-          "startSec": 384.93,
-          "endSec": 385.81,
-          "score": 0.98
+          "word": "the",
+          "start": 312.14,
+          "end": 312.38
         },
         {
-          "word": "kind",
-          "startSec": 387.03,
-          "endSec": 387.13,
-          "score": 0.99
+          "word": "long",
+          "start": 312.38,
+          "end": 312.94
         },
         {
-          "word": "people,",
-          "startSec": 387.13,
-          "endSec": 387.99,
-          "score": 1.0
+          "word": "history",
+          "start": 312.94,
+          "end": 313.64
         },
         {
-          "word": "delicious",
-          "startSec": 388.75,
-          "endSec": 389.29,
-          "score": 1.0
+          "word": "of",
+          "start": 313.64,
+          "end": 314.02
         },
         {
-          "word": "food,",
-          "startSec": 389.29,
-          "endSec": 390.25,
-          "score": 1.0
+          "word": "the",
+          "start": 314.02,
+          "end": 314.2
         },
         {
-          "word": "colorful",
-          "startSec": 391.19,
-          "endSec": 391.51,
-          "score": 0.97
+          "word": "city.",
+          "start": 314.2,
+          "end": 315.04
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 316.06,
+      "end": 320.32,
+      "text": "Part 10 Weather in Karaman",
+      "words": [
+        {
+          "word": "Part",
+          "start": 316.06,
+          "end": 317.3
         },
         {
-          "word": "art,",
-          "startSec": 391.51,
-          "endSec": 392.29,
-          "score": 1.0
+          "word": "10",
+          "start": 317.3,
+          "end": 318.08
+        },
+        {
+          "word": "Weather",
+          "start": 318.08,
+          "end": 318.94
+        },
+        {
+          "word": "in",
+          "start": 318.94,
+          "end": 319.32
+        },
+        {
+          "word": "Karaman",
+          "start": 319.32,
+          "end": 320.32
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 321.8,
+      "end": 326.54,
+      "text": "Karaman has hot summers and cold winters.",
+      "words": [
+        {
+          "word": "Karaman",
+          "start": 321.8,
+          "end": 322.76
+        },
+        {
+          "word": "has",
+          "start": 322.76,
+          "end": 323.2
+        },
+        {
+          "word": "hot",
+          "start": 323.2,
+          "end": 323.72
+        },
+        {
+          "word": "summers",
+          "start": 323.72,
+          "end": 324.38
         },
         {
           "word": "and",
-          "startSec": 392.75,
-          "endSec": 392.83,
-          "score": 0.98
+          "start": 324.38,
+          "end": 325.0
+        },
+        {
+          "word": "cold",
+          "start": 325.0,
+          "end": 325.38
+        },
+        {
+          "word": "winters.",
+          "start": 325.38,
+          "end": 326.54
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 326.66,
+      "end": 330.72,
+      "text": "In spring, the weather is soft and nice.",
+      "words": [
+        {
+          "word": "In",
+          "start": 326.66,
+          "end": 327.32
+        },
+        {
+          "word": "spring,",
+          "start": 327.32,
+          "end": 327.8
+        },
+        {
+          "word": "the",
+          "start": 328.22,
+          "end": 328.32
+        },
+        {
+          "word": "weather",
+          "start": 328.32,
+          "end": 328.7
+        },
+        {
+          "word": "is",
+          "start": 328.7,
+          "end": 329.02
+        },
+        {
+          "word": "soft",
+          "start": 329.02,
+          "end": 329.5
+        },
+        {
+          "word": "and",
+          "start": 329.5,
+          "end": 329.84
+        },
+        {
+          "word": "nice.",
+          "start": 329.84,
+          "end": 330.72
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 331.64,
+      "end": 336.12,
+      "text": "In autumn, the city is cool and colorful.",
+      "words": [
+        {
+          "word": "In",
+          "start": 331.64,
+          "end": 332.12
+        },
+        {
+          "word": "autumn,",
+          "start": 332.12,
+          "end": 332.66
+        },
+        {
+          "word": "the",
+          "start": 333.3,
+          "end": 333.4
+        },
+        {
+          "word": "city",
+          "start": 333.4,
+          "end": 333.84
+        },
+        {
+          "word": "is",
+          "start": 333.84,
+          "end": 334.18
+        },
+        {
+          "word": "cool",
+          "start": 334.18,
+          "end": 334.74
+        },
+        {
+          "word": "and",
+          "start": 334.74,
+          "end": 335.04
+        },
+        {
+          "word": "colorful.",
+          "start": 335.04,
+          "end": 336.12
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 336.72,
+      "end": 340.42,
+      "text": "Many people visit in spring and autumn.",
+      "words": [
+        {
+          "word": "Many",
+          "start": 336.72,
+          "end": 337.18
+        },
+        {
+          "word": "people",
+          "start": 337.18,
+          "end": 337.66
+        },
+        {
+          "word": "visit",
+          "start": 337.66,
+          "end": 338.24
+        },
+        {
+          "word": "in",
+          "start": 338.24,
+          "end": 338.68
+        },
+        {
+          "word": "spring",
+          "start": 338.68,
+          "end": 339.1
+        },
+        {
+          "word": "and",
+          "start": 339.1,
+          "end": 339.52
+        },
+        {
+          "word": "autumn.",
+          "start": 339.52,
+          "end": 340.42
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 343.0,
+      "end": 350.26,
+      "text": "Part 11 Daily Life Daily life in Karaman is simple.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 343.0,
+          "end": 343.48
+        },
+        {
+          "word": "11",
+          "start": 343.48,
+          "end": 344.12
+        },
+        {
+          "word": "Daily",
+          "start": 344.12,
+          "end": 345.16
+        },
+        {
+          "word": "Life",
+          "start": 345.16,
+          "end": 345.72
+        },
+        {
+          "word": "Daily",
+          "start": 345.72,
+          "end": 346.7
+        },
+        {
+          "word": "life",
+          "start": 346.7,
+          "end": 348.2
+        },
+        {
+          "word": "in",
+          "start": 348.2,
+          "end": 348.5
+        },
+        {
+          "word": "Karaman",
+          "start": 348.5,
+          "end": 349.0
+        },
+        {
+          "word": "is",
+          "start": 349.0,
+          "end": 349.36
+        },
+        {
+          "word": "simple.",
+          "start": 349.36,
+          "end": 350.26
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 350.66,
+      "end": 356.38,
+      "text": "People wake up early, work in shops, farms, or offices.",
+      "words": [
+        {
+          "word": "People",
+          "start": 350.66,
+          "end": 351.2
+        },
+        {
+          "word": "wake",
+          "start": 351.2,
+          "end": 351.58
+        },
+        {
+          "word": "up",
+          "start": 351.58,
+          "end": 351.9
+        },
+        {
+          "word": "early,",
+          "start": 351.9,
+          "end": 352.44
+        },
+        {
+          "word": "work",
+          "start": 352.88,
+          "end": 353.16
+        },
+        {
+          "word": "in",
+          "start": 353.16,
+          "end": 353.48
+        },
+        {
+          "word": "shops,",
+          "start": 353.48,
+          "end": 354.02
+        },
+        {
+          "word": "farms,",
+          "start": 354.54,
+          "end": 354.98
+        },
+        {
+          "word": "or",
+          "start": 355.22,
+          "end": 355.34
+        },
+        {
+          "word": "offices.",
+          "start": 355.34,
+          "end": 356.38
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 357.36,
+      "end": 361.52,
+      "text": "In the evening, families drink tea together.",
+      "words": [
+        {
+          "word": "In",
+          "start": 357.36,
+          "end": 357.88
+        },
+        {
+          "word": "the",
+          "start": 357.88,
+          "end": 358.06
+        },
+        {
+          "word": "evening,",
+          "start": 358.06,
+          "end": 358.6
+        },
+        {
+          "word": "families",
+          "start": 359.18,
+          "end": 359.64
+        },
+        {
+          "word": "drink",
+          "start": 359.64,
+          "end": 360.12
+        },
+        {
+          "word": "tea",
+          "start": 360.12,
+          "end": 360.54
+        },
+        {
+          "word": "together.",
+          "start": 360.54,
+          "end": 361.52
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 362.08,
+      "end": 364.17,
+      "text": "Children play in parks.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 362.08,
+          "end": 362.52
+        },
+        {
+          "word": "play",
+          "start": 362.52,
+          "end": 363.04
+        },
+        {
+          "word": "in",
+          "start": 363.04,
+          "end": 363.26
+        },
+        {
+          "word": "parks.",
+          "start": 363.26,
+          "end": 364.17
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 364.42,
+      "end": 367.64,
+      "text": "Markets stay open until late.",
+      "words": [
+        {
+          "word": "Markets",
+          "start": 364.42,
+          "end": 365.2
+        },
+        {
+          "word": "stay",
+          "start": 365.2,
+          "end": 365.6
+        },
+        {
+          "word": "open",
+          "start": 365.6,
+          "end": 366.14
+        },
+        {
+          "word": "until",
+          "start": 366.14,
+          "end": 366.66
+        },
+        {
+          "word": "late.",
+          "start": 366.66,
+          "end": 367.64
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 368.02,
+      "end": 370.92,
+      "text": "Life is peaceful and slow.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 368.02,
+          "end": 368.56
+        },
+        {
+          "word": "is",
+          "start": 368.56,
+          "end": 368.94
+        },
+        {
+          "word": "peaceful",
+          "start": 368.94,
+          "end": 369.74
+        },
+        {
+          "word": "and",
+          "start": 369.74,
+          "end": 370.3
+        },
+        {
+          "word": "slow.",
+          "start": 370.3,
+          "end": 370.92
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 370.92,
+      "end": 394.13,
+      "text": "Part 12 Why Karaman is Special Karaman is special because it has ancient history, beautiful desert, kind people, delicious food, colorful art, and carpets.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 370.92,
+          "end": 372.2
+        },
+        {
+          "word": "12",
+          "start": 372.2,
+          "end": 372.94
+        },
+        {
+          "word": "Why",
+          "start": 372.94,
+          "end": 374.02
+        },
+        {
+          "word": "Karaman",
+          "start": 374.02,
+          "end": 374.74
+        },
+        {
+          "word": "is",
+          "start": 374.74,
+          "end": 375.1
+        },
+        {
+          "word": "Special",
+          "start": 375.1,
+          "end": 375.82
+        },
+        {
+          "word": "Karaman",
+          "start": 376.92,
+          "end": 377.76
+        },
+        {
+          "word": "is",
+          "start": 377.76,
+          "end": 378.14
+        },
+        {
+          "word": "special",
+          "start": 378.14,
+          "end": 378.86
+        },
+        {
+          "word": "because",
+          "start": 378.86,
+          "end": 379.8
+        },
+        {
+          "word": "it",
+          "start": 379.8,
+          "end": 380.14
+        },
+        {
+          "word": "has",
+          "start": 380.14,
+          "end": 380.64
+        },
+        {
+          "word": "ancient",
+          "start": 380.64,
+          "end": 382.4
+        },
+        {
+          "word": "history,",
+          "start": 382.4,
+          "end": 383.38
+        },
+        {
+          "word": "beautiful",
+          "start": 383.92,
+          "end": 385.14
+        },
+        {
+          "word": "desert,",
+          "start": 385.14,
+          "end": 385.86
+        },
+        {
+          "word": "kind",
+          "start": 386.74,
+          "end": 387.32
+        },
+        {
+          "word": "people,",
+          "start": 387.32,
+          "end": 388.1
+        },
+        {
+          "word": "delicious",
+          "start": 389.04,
+          "end": 389.52
+        },
+        {
+          "word": "food,",
+          "start": 389.52,
+          "end": 390.46
+        },
+        {
+          "word": "colorful",
+          "start": 390.92,
+          "end": 391.72
+        },
+        {
+          "word": "art,",
+          "start": 391.72,
+          "end": 392.44
+        },
+        {
+          "word": "and",
+          "start": 392.82,
+          "end": 392.88
         },
         {
           "word": "carpets.",
-          "startSec": 392.83,
-          "endSec": 393.67,
-          "score": 0.99
+          "start": 392.88,
+          "end": 394.13
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 60
 }

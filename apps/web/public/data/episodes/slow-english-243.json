@@ -15,5233 +15,4379 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 0.93,
-      "text": "Hello, everyone.",
+      "start": 5.24,
+      "end": 14.3,
+      "text": "I'm Emily, and today we are going to a beautiful city in Central America, Antigua, Guatemala.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.14,
-          "score": 0.84
+          "word": "I'm",
+          "start": 5.24,
+          "end": 5.74
         },
         {
-          "word": "everyone.",
-          "startSec": 0.36,
-          "endSec": 0.78,
-          "score": 0.99
+          "word": "Emily,",
+          "start": 5.74,
+          "end": 6.2
+        },
+        {
+          "word": "and",
+          "start": 6.66,
+          "end": 6.8
+        },
+        {
+          "word": "today",
+          "start": 6.8,
+          "end": 7.12
+        },
+        {
+          "word": "we",
+          "start": 7.12,
+          "end": 7.38
+        },
+        {
+          "word": "are",
+          "start": 7.38,
+          "end": 7.48
+        },
+        {
+          "word": "going",
+          "start": 7.48,
+          "end": 7.78
+        },
+        {
+          "word": "to",
+          "start": 7.78,
+          "end": 8.04
+        },
+        {
+          "word": "a",
+          "start": 8.04,
+          "end": 8.22
+        },
+        {
+          "word": "beautiful",
+          "start": 8.22,
+          "end": 8.78
+        },
+        {
+          "word": "city",
+          "start": 8.78,
+          "end": 9.34
+        },
+        {
+          "word": "in",
+          "start": 9.34,
+          "end": 9.64
+        },
+        {
+          "word": "Central",
+          "start": 9.64,
+          "end": 10.06
+        },
+        {
+          "word": "America,",
+          "start": 10.06,
+          "end": 10.84
+        },
+        {
+          "word": "Antigua,",
+          "start": 11.68,
+          "end": 12.68
+        },
+        {
+          "word": "Guatemala.",
+          "start": 13.36,
+          "end": 14.3
         }
       ]
     },
     {
       "id": 2,
-      "start": 1.34,
-      "end": 3.95,
-      "text": "Welcome to the Slow English Podcast.",
+      "start": 15.62,
+      "end": 20.4,
+      "text": "Antigua is full of colors, smiles, and history.",
       "words": [
         {
-          "word": "Welcome",
-          "startSec": 1.54,
-          "endSec": 2.04,
-          "score": 1.0
+          "word": "Antigua",
+          "start": 15.62,
+          "end": 16.46
         },
         {
-          "word": "to",
-          "startSec": 2.04,
-          "endSec": 2.3,
-          "score": 1.0
+          "word": "is",
+          "start": 16.46,
+          "end": 16.76
         },
         {
-          "word": "the",
-          "startSec": 2.3,
-          "endSec": 2.48,
-          "score": 0.97
+          "word": "full",
+          "start": 16.76,
+          "end": 17.08
         },
         {
-          "word": "Slow",
-          "startSec": 2.48,
-          "endSec": 2.78,
-          "score": 0.87
+          "word": "of",
+          "start": 17.08,
+          "end": 17.24
         },
         {
-          "word": "English",
-          "startSec": 2.78,
-          "endSec": 3.28,
-          "score": 0.98
+          "word": "colors,",
+          "start": 17.24,
+          "end": 17.8
         },
         {
-          "word": "Podcast.",
-          "startSec": 3.28,
-          "endSec": 3.8,
-          "score": 0.87
+          "word": "smiles,",
+          "start": 18.38,
+          "end": 19.1
+        },
+        {
+          "word": "and",
+          "start": 19.4,
+          "end": 19.48
+        },
+        {
+          "word": "history.",
+          "start": 19.48,
+          "end": 20.4
         }
       ]
     },
     {
       "id": 3,
-      "start": 4.9,
-      "end": 9.43,
-      "text": "I'm Emily, and today we are going to a beautiful city",
+      "start": 21.2,
+      "end": 29.68,
+      "text": "The streets are made of stones, the houses are painted in bright colors, and the people are warm and friendly.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 5.1,
-          "endSec": 5.74,
-          "score": 0.99
+          "word": "The",
+          "start": 21.2,
+          "end": 21.34
         },
         {
-          "word": "Emily,",
-          "startSec": 5.74,
-          "endSec": 5.94,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 5.94,
-          "endSec": 6.74,
-          "score": 1.0
-        },
-        {
-          "word": "today",
-          "startSec": 6.74,
-          "endSec": 7.1,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 7.1,
-          "endSec": 7.34,
-          "score": 0.9
+          "word": "streets",
+          "start": 21.34,
+          "end": 21.72
         },
         {
           "word": "are",
-          "startSec": 7.34,
-          "endSec": 7.46,
-          "score": 0.72
+          "start": 21.72,
+          "end": 22.02
         },
         {
-          "word": "going",
-          "startSec": 7.46,
-          "endSec": 7.78,
-          "score": 1.0
+          "word": "made",
+          "start": 22.02,
+          "end": 22.28
         },
         {
-          "word": "to",
-          "startSec": 7.78,
-          "endSec": 8.0,
-          "score": 1.0
+          "word": "of",
+          "start": 22.28,
+          "end": 22.44
         },
         {
-          "word": "a",
-          "startSec": 8.0,
-          "endSec": 8.16,
-          "score": 0.99
+          "word": "stones,",
+          "start": 22.44,
+          "end": 22.98
         },
         {
-          "word": "beautiful",
-          "startSec": 8.16,
-          "endSec": 8.6,
-          "score": 1.0
+          "word": "the",
+          "start": 23.84,
+          "end": 23.96
         },
         {
-          "word": "city",
-          "startSec": 8.6,
-          "endSec": 9.28,
-          "score": 1.0
+          "word": "houses",
+          "start": 23.96,
+          "end": 24.38
+        },
+        {
+          "word": "are",
+          "start": 24.38,
+          "end": 24.68
+        },
+        {
+          "word": "painted",
+          "start": 24.68,
+          "end": 25.12
+        },
+        {
+          "word": "in",
+          "start": 25.12,
+          "end": 25.38
+        },
+        {
+          "word": "bright",
+          "start": 25.38,
+          "end": 25.66
+        },
+        {
+          "word": "colors,",
+          "start": 25.66,
+          "end": 26.32
+        },
+        {
+          "word": "and",
+          "start": 26.71,
+          "end": 27.14
+        },
+        {
+          "word": "the",
+          "start": 27.14,
+          "end": 27.32
+        },
+        {
+          "word": "people",
+          "start": 27.32,
+          "end": 27.76
+        },
+        {
+          "word": "are",
+          "start": 27.76,
+          "end": 28.06
+        },
+        {
+          "word": "warm",
+          "start": 28.06,
+          "end": 28.58
+        },
+        {
+          "word": "and",
+          "start": 28.58,
+          "end": 28.76
+        },
+        {
+          "word": "friendly.",
+          "start": 28.76,
+          "end": 29.68
         }
       ]
     },
     {
       "id": 4,
-      "start": 9.08,
-      "end": 14.11,
-      "text": "in Central America, Antigua, Guatemala.",
+      "start": 30.32,
+      "end": 35.2,
+      "text": "When you walk in Antigua, you feel like you are in another time.",
       "words": [
         {
+          "word": "When",
+          "start": 30.32,
+          "end": 30.72
+        },
+        {
+          "word": "you",
+          "start": 30.72,
+          "end": 30.9
+        },
+        {
+          "word": "walk",
+          "start": 30.9,
+          "end": 31.26
+        },
+        {
           "word": "in",
-          "startSec": 9.28,
-          "endSec": 9.58,
-          "score": 0.99
-        },
-        {
-          "word": "Central",
-          "startSec": 9.58,
-          "endSec": 9.88,
-          "score": 0.98
-        },
-        {
-          "word": "America,",
-          "startSec": 9.88,
-          "endSec": 10.92,
-          "score": 1.0
+          "start": 31.26,
+          "end": 31.5
         },
         {
           "word": "Antigua,",
-          "startSec": 11.68,
-          "endSec": 12.66,
-          "score": 0.96
+          "start": 31.5,
+          "end": 32.26
         },
         {
-          "word": "Guatemala.",
-          "startSec": 13.96,
-          "endSec": 13.96,
-          "score": 0.99
+          "word": "you",
+          "start": 32.5,
+          "end": 32.78
+        },
+        {
+          "word": "feel",
+          "start": 32.78,
+          "end": 33.08
+        },
+        {
+          "word": "like",
+          "start": 33.08,
+          "end": 33.44
+        },
+        {
+          "word": "you",
+          "start": 33.44,
+          "end": 33.6
+        },
+        {
+          "word": "are",
+          "start": 33.6,
+          "end": 33.74
+        },
+        {
+          "word": "in",
+          "start": 33.74,
+          "end": 33.88
+        },
+        {
+          "word": "another",
+          "start": 33.88,
+          "end": 34.28
+        },
+        {
+          "word": "time.",
+          "start": 34.28,
+          "end": 35.2
         }
       ]
     },
     {
       "id": 5,
-      "start": 15.48,
-      "end": 19.99,
-      "text": "Antigua is full of colors, smiles, and history.",
+      "start": 35.5,
+      "end": 38.84,
+      "text": "Let's discover this magical city together.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 15.68,
-          "endSec": 16.4,
-          "score": 1.0
+          "word": "Let's",
+          "start": 35.5,
+          "end": 35.9
         },
         {
-          "word": "is",
-          "startSec": 16.4,
-          "endSec": 16.68,
-          "score": 1.0
+          "word": "discover",
+          "start": 35.9,
+          "end": 36.46
         },
         {
-          "word": "full",
-          "startSec": 16.68,
-          "endSec": 17.0,
-          "score": 1.0
+          "word": "this",
+          "start": 36.46,
+          "end": 36.8
         },
         {
-          "word": "of",
-          "startSec": 17.0,
-          "endSec": 17.2,
-          "score": 1.0
+          "word": "magical",
+          "start": 36.8,
+          "end": 37.38
         },
         {
-          "word": "colors,",
-          "startSec": 17.2,
-          "endSec": 17.8,
-          "score": 0.99
+          "word": "city",
+          "start": 37.38,
+          "end": 37.84
         },
         {
-          "word": "smiles,",
-          "startSec": 18.32,
-          "endSec": 18.8,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 19.38,
-          "endSec": 19.4,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 19.4,
-          "endSec": 19.84,
-          "score": 1.0
+          "word": "together.",
+          "start": 37.84,
+          "end": 38.84
         }
       ]
     },
     {
       "id": 6,
-      "start": 20.97,
-      "end": 22.98,
-      "text": "The streets are made of stones,",
+      "start": 39.44,
+      "end": 43.42,
+      "text": "Part two, where is Antigua?",
       "words": [
         {
-          "word": "The",
-          "startSec": 21.17,
-          "endSec": 21.29,
-          "score": 1.0
+          "word": "Part",
+          "start": 39.44,
+          "end": 40.12
         },
         {
-          "word": "streets",
-          "startSec": 21.29,
-          "endSec": 21.61,
-          "score": 1.0
+          "word": "two,",
+          "start": 40.12,
+          "end": 40.7
         },
         {
-          "word": "are",
-          "startSec": 21.61,
-          "endSec": 21.97,
-          "score": 1.0
+          "word": "where",
+          "start": 41.44,
+          "end": 41.86
         },
         {
-          "word": "made",
-          "startSec": 21.97,
-          "endSec": 22.19,
-          "score": 1.0
+          "word": "is",
+          "start": 41.86,
+          "end": 42.18
         },
         {
-          "word": "of",
-          "startSec": 22.19,
-          "endSec": 22.39,
-          "score": 1.0
-        },
-        {
-          "word": "stones,",
-          "startSec": 22.39,
-          "endSec": 22.83,
-          "score": 1.0
+          "word": "Antigua?",
+          "start": 42.18,
+          "end": 43.42
         }
       ]
     },
     {
       "id": 7,
-      "start": 23.51,
-      "end": 26.34,
-      "text": "the houses are painted in bright colors",
+      "start": 43.84,
+      "end": 47.22,
+      "text": "Antigua is in the country of Guatemala.",
       "words": [
         {
-          "word": "the",
-          "startSec": 23.71,
-          "endSec": 23.91,
-          "score": 1.0
+          "word": "Antigua",
+          "start": 43.84,
+          "end": 44.7
         },
         {
-          "word": "houses",
-          "startSec": 23.91,
-          "endSec": 24.27,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 24.27,
-          "endSec": 24.65,
-          "score": 1.0
-        },
-        {
-          "word": "painted",
-          "startSec": 24.65,
-          "endSec": 24.97,
-          "score": 1.0
+          "word": "is",
+          "start": 44.7,
+          "end": 45.1
         },
         {
           "word": "in",
-          "startSec": 24.97,
-          "endSec": 25.33,
-          "score": 1.0
+          "start": 45.1,
+          "end": 45.32
         },
         {
-          "word": "bright",
-          "startSec": 25.33,
-          "endSec": 25.61,
-          "score": 1.0
+          "word": "the",
+          "start": 45.32,
+          "end": 45.46
         },
         {
-          "word": "colors",
-          "startSec": 25.61,
-          "endSec": 26.19,
-          "score": 1.0
+          "word": "country",
+          "start": 45.46,
+          "end": 45.98
+        },
+        {
+          "word": "of",
+          "start": 45.98,
+          "end": 46.24
+        },
+        {
+          "word": "Guatemala.",
+          "start": 46.24,
+          "end": 47.22
         }
       ]
     },
     {
       "id": 8,
-      "start": 26.55,
-      "end": 29.42,
-      "text": "and the people are warm and friendly.",
+      "start": 47.98,
+      "end": 53.24,
+      "text": "It is in Central America, between Mexico and Honduras.",
       "words": [
         {
+          "word": "It",
+          "start": 47.98,
+          "end": 48.36
+        },
+        {
+          "word": "is",
+          "start": 48.36,
+          "end": 48.58
+        },
+        {
+          "word": "in",
+          "start": 48.58,
+          "end": 48.78
+        },
+        {
+          "word": "Central",
+          "start": 48.78,
+          "end": 49.3
+        },
+        {
+          "word": "America,",
+          "start": 49.3,
+          "end": 50.16
+        },
+        {
+          "word": "between",
+          "start": 50.64,
+          "end": 51.08
+        },
+        {
+          "word": "Mexico",
+          "start": 51.08,
+          "end": 51.82
+        },
+        {
           "word": "and",
-          "startSec": 26.75,
-          "endSec": 27.11,
-          "score": 0.06
+          "start": 51.82,
+          "end": 52.16
         },
         {
-          "word": "the",
-          "startSec": 27.11,
-          "endSec": 27.27,
-          "score": 1.0
-        },
-        {
-          "word": "people",
-          "startSec": 27.27,
-          "endSec": 27.71,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 27.71,
-          "endSec": 28.01,
-          "score": 1.0
-        },
-        {
-          "word": "warm",
-          "startSec": 28.01,
-          "endSec": 28.37,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 28.37,
-          "endSec": 28.67,
-          "score": 1.0
-        },
-        {
-          "word": "friendly.",
-          "startSec": 28.67,
-          "endSec": 29.27,
-          "score": 1.0
+          "word": "Honduras.",
+          "start": 52.16,
+          "end": 53.24
         }
       ]
     },
     {
       "id": 9,
-      "start": 30.01,
-      "end": 32.38,
-      "text": "When you walk in Antigua,",
+      "start": 53.74,
+      "end": 61.6,
+      "text": "The city is surrounded by three volcanoes, Agua, Fuego, and Acatenango.",
       "words": [
         {
-          "word": "When",
-          "startSec": 30.21,
-          "endSec": 30.61,
-          "score": 0.54
+          "word": "The",
+          "start": 53.74,
+          "end": 53.96
         },
         {
-          "word": "you",
-          "startSec": 30.61,
-          "endSec": 30.83,
-          "score": 1.0
+          "word": "city",
+          "start": 53.96,
+          "end": 54.3
         },
         {
-          "word": "walk",
-          "startSec": 30.83,
-          "endSec": 31.17,
-          "score": 1.0
+          "word": "is",
+          "start": 54.3,
+          "end": 54.56
         },
         {
-          "word": "in",
-          "startSec": 31.17,
-          "endSec": 31.45,
-          "score": 0.99
+          "word": "surrounded",
+          "start": 54.56,
+          "end": 55.08
         },
         {
-          "word": "Antigua,",
-          "startSec": 31.45,
-          "endSec": 32.23,
-          "score": 0.97
+          "word": "by",
+          "start": 55.08,
+          "end": 55.44
+        },
+        {
+          "word": "three",
+          "start": 55.44,
+          "end": 55.84
+        },
+        {
+          "word": "volcanoes,",
+          "start": 55.84,
+          "end": 56.64
+        },
+        {
+          "word": "Agua,",
+          "start": 57.38,
+          "end": 58.1
+        },
+        {
+          "word": "Fuego,",
+          "start": 58.72,
+          "end": 59.06
+        },
+        {
+          "word": "and",
+          "start": 59.74,
+          "end": 59.96
+        },
+        {
+          "word": "Acatenango.",
+          "start": 59.96,
+          "end": 61.6
         }
       ]
     },
     {
       "id": 10,
-      "start": 32.29,
-      "end": 34.86,
-      "text": "you feel like you were in another time.",
+      "start": 62.04,
+      "end": 67.88,
+      "text": "Sometimes you can even see smoke rising from Fuego volcano.",
       "words": [
         {
-          "word": "you",
-          "startSec": 32.49,
-          "endSec": 32.71,
-          "score": 1.0
-        },
-        {
-          "word": "feel",
-          "startSec": 32.71,
-          "endSec": 33.01,
-          "score": 1.0
-        },
-        {
-          "word": "like",
-          "startSec": 33.01,
-          "endSec": 33.29,
-          "score": 0.99
+          "word": "Sometimes",
+          "start": 62.04,
+          "end": 62.78
         },
         {
           "word": "you",
-          "startSec": 33.29,
-          "endSec": 33.53,
-          "score": 1.0
+          "start": 62.78,
+          "end": 63.68
         },
         {
-          "word": "were",
-          "startSec": 33.53,
-          "endSec": 33.71,
-          "score": 0.65
+          "word": "can",
+          "start": 63.68,
+          "end": 63.94
         },
         {
-          "word": "in",
-          "startSec": 33.71,
-          "endSec": 33.85,
-          "score": 0.99
+          "word": "even",
+          "start": 63.94,
+          "end": 64.24
         },
         {
-          "word": "another",
-          "startSec": 33.85,
-          "endSec": 34.17,
-          "score": 1.0
+          "word": "see",
+          "start": 64.24,
+          "end": 64.6
         },
         {
-          "word": "time.",
-          "startSec": 34.17,
-          "endSec": 34.71,
-          "score": 1.0
+          "word": "smoke",
+          "start": 64.6,
+          "end": 65.06
+        },
+        {
+          "word": "rising",
+          "start": 65.06,
+          "end": 65.86
+        },
+        {
+          "word": "from",
+          "start": 65.86,
+          "end": 66.32
+        },
+        {
+          "word": "Fuego",
+          "start": 66.32,
+          "end": 66.84
+        },
+        {
+          "word": "volcano.",
+          "start": 66.84,
+          "end": 67.88
         }
       ]
     },
     {
       "id": 11,
-      "start": 35.29,
-      "end": 38.42,
-      "text": "Let's discover this magical city together.",
+      "start": 68.66,
+      "end": 75.76,
+      "text": "Antigua is not a big city, but it is very famous for its beauty and culture.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 35.49,
-          "endSec": 35.85,
-          "score": 0.99
+          "word": "Antigua",
+          "start": 68.66,
+          "end": 69.66
         },
         {
-          "word": "discover",
-          "startSec": 35.85,
-          "endSec": 36.31,
-          "score": 0.99
+          "word": "is",
+          "start": 69.66,
+          "end": 69.88
         },
         {
-          "word": "this",
-          "startSec": 36.31,
-          "endSec": 36.75,
-          "score": 1.0
+          "word": "not",
+          "start": 69.88,
+          "end": 70.1
         },
         {
-          "word": "magical",
-          "startSec": 36.75,
-          "endSec": 37.05,
-          "score": 1.0
+          "word": "a",
+          "start": 70.1,
+          "end": 70.3
         },
         {
-          "word": "city",
-          "startSec": 37.05,
-          "endSec": 37.75,
-          "score": 0.99
+          "word": "big",
+          "start": 70.3,
+          "end": 70.46
         },
         {
-          "word": "together.",
-          "startSec": 37.75,
-          "endSec": 38.27,
-          "score": 0.99
+          "word": "city,",
+          "start": 70.46,
+          "end": 70.92
+        },
+        {
+          "word": "but",
+          "start": 71.48,
+          "end": 71.86
+        },
+        {
+          "word": "it",
+          "start": 71.86,
+          "end": 72.04
+        },
+        {
+          "word": "is",
+          "start": 72.04,
+          "end": 72.28
+        },
+        {
+          "word": "very",
+          "start": 72.28,
+          "end": 72.78
+        },
+        {
+          "word": "famous",
+          "start": 72.78,
+          "end": 73.36
+        },
+        {
+          "word": "for",
+          "start": 73.36,
+          "end": 73.8
+        },
+        {
+          "word": "its",
+          "start": 73.8,
+          "end": 74.02
+        },
+        {
+          "word": "beauty",
+          "start": 74.02,
+          "end": 74.54
+        },
+        {
+          "word": "and",
+          "start": 74.54,
+          "end": 75.08
+        },
+        {
+          "word": "culture.",
+          "start": 75.08,
+          "end": 75.76
         }
       ]
     },
     {
       "id": 12,
-      "start": 39.59,
-      "end": 43.14,
-      "text": "Part two, where is Antigua?",
+      "start": 75.76,
+      "end": 79.88,
+      "text": "A short history of Antigua.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 39.79,
-          "endSec": 40.01,
-          "score": 0.96
+          "word": "A",
+          "start": 75.76,
+          "end": 77.34
         },
         {
-          "word": "two,",
-          "startSec": 40.01,
-          "endSec": 40.57,
-          "score": 0.42
+          "word": "short",
+          "start": 77.34,
+          "end": 77.74
         },
         {
-          "word": "where",
-          "startSec": 41.49,
-          "endSec": 41.83,
-          "score": 0.85
+          "word": "history",
+          "start": 77.74,
+          "end": 78.4
         },
         {
-          "word": "is",
-          "startSec": 41.83,
-          "endSec": 42.15,
-          "score": 0.99
+          "word": "of",
+          "start": 78.4,
+          "end": 78.68
         },
         {
-          "word": "Antigua?",
-          "startSec": 42.15,
-          "endSec": 42.99,
-          "score": 0.99
+          "word": "Antigua.",
+          "start": 78.68,
+          "end": 79.88
         }
       ]
     },
     {
       "id": 13,
-      "start": 43.67,
-      "end": 46.74,
-      "text": "Antigua is in the country of Guatemala.",
+      "start": 80.14,
+      "end": 85.16,
+      "text": "Antigua was founded in the 1500s by the Spanish.",
       "words": [
         {
           "word": "Antigua",
-          "startSec": 43.87,
-          "endSec": 44.67,
-          "score": 1.0
+          "start": 80.14,
+          "end": 81.04
         },
         {
-          "word": "is",
-          "startSec": 44.67,
-          "endSec": 45.01,
-          "score": 1.0
+          "word": "was",
+          "start": 81.04,
+          "end": 81.32
+        },
+        {
+          "word": "founded",
+          "start": 81.32,
+          "end": 81.88
         },
         {
           "word": "in",
-          "startSec": 45.01,
-          "endSec": 45.27,
-          "score": 1.0
+          "start": 81.88,
+          "end": 82.26
         },
         {
           "word": "the",
-          "startSec": 45.27,
-          "endSec": 45.39,
-          "score": 1.0
+          "start": 82.26,
+          "end": 82.4
         },
         {
-          "word": "country",
-          "startSec": 45.39,
-          "endSec": 45.87,
-          "score": 0.98
+          "word": "1500s",
+          "start": 82.4,
+          "end": 83.8
         },
         {
-          "word": "of",
-          "startSec": 45.87,
-          "endSec": 46.19,
-          "score": 1.0
+          "word": "by",
+          "start": 83.8,
+          "end": 84.04
         },
         {
-          "word": "Guatemala.",
-          "startSec": 46.19,
-          "endSec": 46.59,
-          "score": 0.98
+          "word": "the",
+          "start": 84.04,
+          "end": 84.24
+        },
+        {
+          "word": "Spanish.",
+          "start": 84.24,
+          "end": 85.16
         }
       ]
     },
     {
       "id": 14,
-      "start": 47.82,
-      "end": 52.69,
-      "text": "It is in Central America, between Mexico and Honduras.",
+      "start": 85.68,
+      "end": 88.42,
+      "text": "It was once the capital of Guatemala.",
       "words": [
         {
           "word": "It",
-          "startSec": 48.02,
-          "endSec": 48.32,
-          "score": 1.0
+          "start": 85.68,
+          "end": 85.9
         },
         {
-          "word": "is",
-          "startSec": 48.32,
-          "endSec": 48.52,
-          "score": 0.99
+          "word": "was",
+          "start": 85.9,
+          "end": 86.08
         },
         {
-          "word": "in",
-          "startSec": 48.52,
-          "endSec": 48.72,
-          "score": 0.97
+          "word": "once",
+          "start": 86.08,
+          "end": 86.44
         },
         {
-          "word": "Central",
-          "startSec": 48.72,
-          "endSec": 49.2,
-          "score": 0.92
+          "word": "the",
+          "start": 86.44,
+          "end": 86.74
         },
         {
-          "word": "America,",
-          "startSec": 49.2,
-          "endSec": 50.08,
-          "score": 1.0
+          "word": "capital",
+          "start": 86.74,
+          "end": 87.2
         },
         {
-          "word": "between",
-          "startSec": 50.58,
-          "endSec": 51.02,
-          "score": 1.0
+          "word": "of",
+          "start": 87.2,
+          "end": 87.5
         },
         {
-          "word": "Mexico",
-          "startSec": 51.02,
-          "endSec": 51.62,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 51.62,
-          "endSec": 52.14,
-          "score": 1.0
-        },
-        {
-          "word": "Honduras.",
-          "startSec": 52.14,
-          "endSec": 52.54,
-          "score": 1.0
+          "word": "Guatemala.",
+          "start": 87.5,
+          "end": 88.42
         }
       ]
     },
     {
       "id": 15,
-      "start": 53.4,
-      "end": 57.11,
-      "text": "The city is surrounded by three volcanoes.",
+      "start": 88.98,
+      "end": 95.84,
+      "text": "In 1773, a big earthquake destroyed much of the city.",
       "words": [
         {
-          "word": "The",
-          "startSec": 53.6,
-          "endSec": 53.9,
-          "score": 0.99
+          "word": "In",
+          "start": 88.98,
+          "end": 89.42
         },
         {
-          "word": "city",
-          "startSec": 53.9,
-          "endSec": 54.26,
-          "score": 0.99
+          "word": "1773,",
+          "start": 89.42,
+          "end": 91.02
         },
         {
-          "word": "is",
-          "startSec": 54.26,
-          "endSec": 54.5,
-          "score": 1.0
+          "word": "a",
+          "start": 91.8,
+          "end": 92.04
         },
         {
-          "word": "surrounded",
-          "startSec": 54.5,
-          "endSec": 54.92,
-          "score": 1.0
+          "word": "big",
+          "start": 92.04,
+          "end": 92.4
         },
         {
-          "word": "by",
-          "startSec": 54.92,
-          "endSec": 55.4,
-          "score": 1.0
+          "word": "earthquake",
+          "start": 92.4,
+          "end": 93.16
         },
         {
-          "word": "three",
-          "startSec": 55.4,
-          "endSec": 55.78,
-          "score": 0.96
+          "word": "destroyed",
+          "start": 93.16,
+          "end": 94.04
         },
         {
-          "word": "volcanoes.",
-          "startSec": 55.78,
-          "endSec": 56.96,
-          "score": 1.0
+          "word": "much",
+          "start": 94.04,
+          "end": 94.56
+        },
+        {
+          "word": "of",
+          "start": 94.56,
+          "end": 94.88
+        },
+        {
+          "word": "the",
+          "start": 94.88,
+          "end": 95.02
+        },
+        {
+          "word": "city.",
+          "start": 95.02,
+          "end": 95.84
         }
       ]
     },
     {
       "id": 16,
-      "start": 56.76,
-      "end": 61.03,
-      "text": "Agua, Fuego, and Acatenango.",
+      "start": 96.24,
+      "end": 101.06,
+      "text": "After that, the capital moved to Guatemala City.",
       "words": [
         {
-          "word": "Agua,",
-          "startSec": 56.96,
-          "endSec": 58.1,
-          "score": 0.48
+          "word": "After",
+          "start": 96.24,
+          "end": 96.88
         },
         {
-          "word": "Fuego,",
-          "startSec": 58.52,
-          "endSec": 59.16,
-          "score": 0.92
+          "word": "that,",
+          "start": 96.88,
+          "end": 97.34
         },
         {
-          "word": "and",
-          "startSec": 59.66,
-          "endSec": 59.84,
-          "score": 0.98
+          "word": "the",
+          "start": 97.72,
+          "end": 97.88
         },
         {
-          "word": "Acatenango.",
-          "startSec": 59.84,
-          "endSec": 60.88,
-          "score": 0.49
+          "word": "capital",
+          "start": 97.88,
+          "end": 98.38
+        },
+        {
+          "word": "moved",
+          "start": 98.38,
+          "end": 99.02
+        },
+        {
+          "word": "to",
+          "start": 99.02,
+          "end": 99.42
+        },
+        {
+          "word": "Guatemala",
+          "start": 99.42,
+          "end": 99.9
+        },
+        {
+          "word": "City.",
+          "start": 99.9,
+          "end": 101.06
         }
       ]
     },
     {
       "id": 17,
-      "start": 61.76,
-      "end": 67.35,
-      "text": "Sometimes you can even see smoke rising from Fuego volcano.",
+      "start": 101.68,
+      "end": 107.58,
+      "text": "But Antigua was rebuilt and protected as a historical treasure.",
       "words": [
         {
-          "word": "Sometimes",
-          "startSec": 61.96,
-          "endSec": 62.76,
-          "score": 0.97
+          "word": "But",
+          "start": 101.68,
+          "end": 102.08
         },
         {
-          "word": "you",
-          "startSec": 62.76,
-          "endSec": 63.64,
-          "score": 0.52
+          "word": "Antigua",
+          "start": 102.08,
+          "end": 102.9
         },
         {
-          "word": "can",
-          "startSec": 63.64,
-          "endSec": 63.86,
-          "score": 0.99
+          "word": "was",
+          "start": 102.9,
+          "end": 103.3
         },
         {
-          "word": "even",
-          "startSec": 63.86,
-          "endSec": 64.18,
-          "score": 0.98
+          "word": "rebuilt",
+          "start": 103.3,
+          "end": 103.76
         },
         {
-          "word": "see",
-          "startSec": 64.18,
-          "endSec": 64.54,
-          "score": 1.0
+          "word": "and",
+          "start": 103.76,
+          "end": 104.42
         },
         {
-          "word": "smoke",
-          "startSec": 64.54,
-          "endSec": 65.0,
-          "score": 0.99
+          "word": "protected",
+          "start": 104.42,
+          "end": 105.1
         },
         {
-          "word": "rising",
-          "startSec": 65.0,
-          "endSec": 65.76,
-          "score": 1.0
+          "word": "as",
+          "start": 105.1,
+          "end": 105.76
         },
         {
-          "word": "from",
-          "startSec": 65.76,
-          "endSec": 66.26,
-          "score": 0.99
+          "word": "a",
+          "start": 105.76,
+          "end": 105.92
         },
         {
-          "word": "Fuego",
-          "startSec": 66.26,
-          "endSec": 66.9,
-          "score": 0.99
+          "word": "historical",
+          "start": 105.92,
+          "end": 106.54
         },
         {
-          "word": "volcano.",
-          "startSec": 66.9,
-          "endSec": 67.2,
-          "score": 0.42
+          "word": "treasure.",
+          "start": 106.54,
+          "end": 107.58
         }
       ]
     },
     {
       "id": 18,
-      "start": 68.55,
-      "end": 70.94,
-      "text": "Antigua is not a big city,",
+      "start": 108.14,
+      "end": 113.28,
+      "text": "Today, it is part of the UNESCO World Heritage List.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 68.75,
-          "endSec": 69.63,
-          "score": 0.97
+          "word": "Today,",
+          "start": 108.14,
+          "end": 108.7
+        },
+        {
+          "word": "it",
+          "start": 109.08,
+          "end": 109.34
         },
         {
           "word": "is",
-          "startSec": 69.63,
-          "endSec": 69.85,
-          "score": 0.99
+          "start": 109.34,
+          "end": 109.52
         },
         {
-          "word": "not",
-          "startSec": 69.85,
-          "endSec": 70.07,
-          "score": 1.0
+          "word": "part",
+          "start": 109.52,
+          "end": 109.88
         },
         {
-          "word": "a",
-          "startSec": 70.07,
-          "endSec": 70.23,
-          "score": 0.99
+          "word": "of",
+          "start": 109.88,
+          "end": 110.1
         },
         {
-          "word": "big",
-          "startSec": 70.23,
-          "endSec": 70.39,
-          "score": 0.99
+          "word": "the",
+          "start": 110.1,
+          "end": 110.28
         },
         {
-          "word": "city,",
-          "startSec": 70.39,
-          "endSec": 70.79,
-          "score": 1.0
+          "word": "UNESCO",
+          "start": 110.28,
+          "end": 111.1
+        },
+        {
+          "word": "World",
+          "start": 111.1,
+          "end": 111.64
+        },
+        {
+          "word": "Heritage",
+          "start": 111.64,
+          "end": 112.3
+        },
+        {
+          "word": "List.",
+          "start": 112.3,
+          "end": 113.28
         }
       ]
     },
     {
       "id": 19,
-      "start": 71.31,
-      "end": 75.82,
-      "text": "but it is very famous for its beauty and culture.",
+      "start": 114.02,
+      "end": 117.42,
+      "text": "Part four, the streets and buildings.",
       "words": [
         {
-          "word": "but",
-          "startSec": 71.51,
-          "endSec": 71.81,
-          "score": 0.99
+          "word": "Part",
+          "start": 114.02,
+          "end": 114.78
         },
         {
-          "word": "it",
-          "startSec": 71.81,
-          "endSec": 71.97,
-          "score": 0.97
+          "word": "four,",
+          "start": 114.78,
+          "end": 115.26
         },
         {
-          "word": "is",
-          "startSec": 71.97,
-          "endSec": 72.21,
-          "score": 0.98
+          "word": "the",
+          "start": 115.64,
+          "end": 115.72
         },
         {
-          "word": "very",
-          "startSec": 72.21,
-          "endSec": 72.57,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 72.57,
-          "endSec": 73.33,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 73.33,
-          "endSec": 73.73,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 73.73,
-          "endSec": 73.95,
-          "score": 0.98
-        },
-        {
-          "word": "beauty",
-          "startSec": 73.95,
-          "endSec": 74.37,
-          "score": 0.99
+          "word": "streets",
+          "start": 115.72,
+          "end": 116.16
         },
         {
           "word": "and",
-          "startSec": 74.37,
-          "endSec": 75.01,
-          "score": 1.0
+          "start": 116.16,
+          "end": 116.58
         },
         {
-          "word": "culture.",
-          "startSec": 75.01,
-          "endSec": 75.67,
-          "score": 1.0
+          "word": "buildings.",
+          "start": 116.58,
+          "end": 117.42
         }
       ]
     },
     {
       "id": 20,
-      "start": 76.96,
-      "end": 79.67,
-      "text": "A short history of Antigua.",
+      "start": 118.4,
+      "end": 122.74,
+      "text": "The streets of Antigua are narrow and made of stones.",
       "words": [
         {
-          "word": "A",
-          "startSec": 77.16,
-          "endSec": 77.3,
-          "score": 0.95
+          "word": "The",
+          "start": 118.4,
+          "end": 118.74
         },
         {
-          "word": "short",
-          "startSec": 77.3,
-          "endSec": 77.64,
-          "score": 0.96
-        },
-        {
-          "word": "history",
-          "startSec": 77.64,
-          "endSec": 78.2,
-          "score": 0.99
+          "word": "streets",
+          "start": 118.74,
+          "end": 119.16
         },
         {
           "word": "of",
-          "startSec": 78.2,
-          "endSec": 78.6,
-          "score": 1.0
+          "start": 119.16,
+          "end": 119.44
         },
         {
-          "word": "Antigua.",
-          "startSec": 78.6,
-          "endSec": 79.52,
-          "score": 0.91
+          "word": "Antigua",
+          "start": 119.44,
+          "end": 120.12
+        },
+        {
+          "word": "are",
+          "start": 120.12,
+          "end": 120.36
+        },
+        {
+          "word": "narrow",
+          "start": 120.36,
+          "end": 120.86
+        },
+        {
+          "word": "and",
+          "start": 120.86,
+          "end": 121.32
+        },
+        {
+          "word": "made",
+          "start": 121.32,
+          "end": 121.64
+        },
+        {
+          "word": "of",
+          "start": 121.64,
+          "end": 121.78
+        },
+        {
+          "word": "stones.",
+          "start": 121.78,
+          "end": 122.74
         }
       ]
     },
     {
       "id": 21,
-      "start": 79.92,
-      "end": 84.81,
-      "text": "Antigua was founded in the 1500s by the Spanish.",
+      "start": 123.48,
+      "end": 129.54,
+      "text": "You can see colorful houses, old churches, and beautiful gardens.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 80.12,
-          "endSec": 81.02,
-          "score": 0.99
+          "word": "You",
+          "start": 123.48,
+          "end": 123.82
         },
         {
-          "word": "was",
-          "startSec": 81.02,
-          "endSec": 81.24,
-          "score": 1.0
+          "word": "can",
+          "start": 123.82,
+          "end": 124.04
         },
         {
-          "word": "founded",
-          "startSec": 81.24,
-          "endSec": 81.76,
-          "score": 1.0
+          "word": "see",
+          "start": 124.04,
+          "end": 124.32
         },
         {
-          "word": "in",
-          "startSec": 81.76,
-          "endSec": 82.2,
-          "score": 1.0
+          "word": "colorful",
+          "start": 124.32,
+          "end": 124.78
         },
         {
-          "word": "the",
-          "startSec": 82.2,
-          "endSec": 82.36,
-          "score": 0.99
+          "word": "houses,",
+          "start": 124.78,
+          "end": 125.62
         },
         {
-          "word": "1500s",
-          "startSec": 82.36,
-          "endSec": 83.8,
-          "score": 0.89
+          "word": "old",
+          "start": 125.98,
+          "end": 126.46
         },
         {
-          "word": "by",
-          "startSec": 83.8,
-          "endSec": 83.98,
-          "score": 0.98
+          "word": "churches,",
+          "start": 126.46,
+          "end": 127.1
         },
         {
-          "word": "the",
-          "startSec": 83.98,
-          "endSec": 84.18,
-          "score": 0.99
+          "word": "and",
+          "start": 127.94,
+          "end": 128.02
         },
         {
-          "word": "Spanish.",
-          "startSec": 84.18,
-          "endSec": 84.66,
-          "score": 0.99
+          "word": "beautiful",
+          "start": 128.02,
+          "end": 128.52
+        },
+        {
+          "word": "gardens.",
+          "start": 128.52,
+          "end": 129.54
         }
       ]
     },
     {
       "id": 22,
-      "start": 84.46,
-      "end": 87.87,
-      "text": "It was once the capital of Guatemala.",
+      "start": 130.36,
+      "end": 134.7,
+      "text": "Many buildings are from the Spanish colonial time.",
       "words": [
         {
-          "word": "It",
-          "startSec": 84.66,
-          "endSec": 85.48,
-          "score": 0.37
+          "word": "Many",
+          "start": 130.36,
+          "end": 130.9
         },
         {
-          "word": "was",
-          "startSec": 85.48,
-          "endSec": 86.02,
-          "score": 0.99
+          "word": "buildings",
+          "start": 130.9,
+          "end": 131.38
         },
         {
-          "word": "once",
-          "startSec": 86.02,
-          "endSec": 86.4,
-          "score": 0.98
+          "word": "are",
+          "start": 131.38,
+          "end": 131.8
+        },
+        {
+          "word": "from",
+          "start": 131.8,
+          "end": 132.02
         },
         {
           "word": "the",
-          "startSec": 86.4,
-          "endSec": 86.66,
-          "score": 0.99
+          "start": 132.02,
+          "end": 132.24
         },
         {
-          "word": "capital",
-          "startSec": 86.66,
-          "endSec": 87.14,
-          "score": 0.94
+          "word": "Spanish",
+          "start": 132.24,
+          "end": 132.78
         },
         {
-          "word": "of",
-          "startSec": 87.14,
-          "endSec": 87.48,
-          "score": 1.0
+          "word": "colonial",
+          "start": 132.78,
+          "end": 133.4
         },
         {
-          "word": "Guatemala.",
-          "startSec": 87.48,
-          "endSec": 87.72,
-          "score": 0.99
+          "word": "time.",
+          "start": 133.4,
+          "end": 134.7
         }
       ]
     },
     {
       "id": 23,
-      "start": 88.78,
-      "end": 95.53,
-      "text": "In 1773, a big earthquake destroyed much of the city.",
+      "start": 135.1,
+      "end": 138.84,
+      "text": "They have red roofs and big wooden doors.",
       "words": [
         {
-          "word": "In",
-          "startSec": 88.98,
-          "endSec": 89.36,
-          "score": 0.99
+          "word": "They",
+          "start": 135.1,
+          "end": 135.44
         },
         {
-          "word": "1773,",
-          "startSec": 89.36,
-          "endSec": 91.08,
-          "score": 1.0
+          "word": "have",
+          "start": 135.44,
+          "end": 135.72
         },
         {
-          "word": "a",
-          "startSec": 91.68,
-          "endSec": 91.98,
-          "score": 0.99
+          "word": "red",
+          "start": 135.72,
+          "end": 136.04
+        },
+        {
+          "word": "roofs",
+          "start": 136.04,
+          "end": 136.54
+        },
+        {
+          "word": "and",
+          "start": 136.54,
+          "end": 137.12
         },
         {
           "word": "big",
-          "startSec": 91.98,
-          "endSec": 92.3,
-          "score": 0.99
+          "start": 137.12,
+          "end": 137.52
         },
         {
-          "word": "earthquake",
-          "startSec": 92.3,
-          "endSec": 92.88,
-          "score": 0.99
+          "word": "wooden",
+          "start": 137.52,
+          "end": 137.88
         },
         {
-          "word": "destroyed",
-          "startSec": 92.88,
-          "endSec": 93.84,
-          "score": 1.0
-        },
-        {
-          "word": "much",
-          "startSec": 93.84,
-          "endSec": 94.46,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 94.46,
-          "endSec": 94.76,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 94.76,
-          "endSec": 94.96,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 94.96,
-          "endSec": 95.38,
-          "score": 0.99
+          "word": "doors.",
+          "start": 137.88,
+          "end": 138.84
         }
       ]
     },
     {
       "id": 24,
-      "start": 96.08,
-      "end": 100.65,
-      "text": "After that, the capital moved to Guatemala City.",
+      "start": 139.6,
+      "end": 148.8,
+      "text": "One of the most famous places is Santa Catalina arch, a yellow arch in the middle of the city.",
       "words": [
         {
-          "word": "After",
-          "startSec": 96.28,
-          "endSec": 96.8,
-          "score": 0.99
+          "word": "One",
+          "start": 139.6,
+          "end": 140.12
         },
         {
-          "word": "that,",
-          "startSec": 96.8,
-          "endSec": 97.32,
-          "score": 1.0
+          "word": "of",
+          "start": 140.12,
+          "end": 140.3
         },
         {
           "word": "the",
-          "startSec": 97.72,
-          "endSec": 97.82,
-          "score": 0.99
+          "start": 140.3,
+          "end": 140.44
         },
         {
-          "word": "capital",
-          "startSec": 97.82,
-          "endSec": 98.3,
-          "score": 0.98
+          "word": "most",
+          "start": 140.44,
+          "end": 140.72
         },
         {
-          "word": "moved",
-          "startSec": 98.3,
-          "endSec": 98.86,
-          "score": 0.99
+          "word": "famous",
+          "start": 140.72,
+          "end": 141.2
         },
         {
-          "word": "to",
-          "startSec": 98.86,
-          "endSec": 99.36,
-          "score": 1.0
+          "word": "places",
+          "start": 141.2,
+          "end": 141.88
         },
         {
-          "word": "Guatemala",
-          "startSec": 99.36,
-          "endSec": 99.72,
-          "score": 1.0
+          "word": "is",
+          "start": 141.88,
+          "end": 142.48
         },
         {
-          "word": "City.",
-          "startSec": 99.72,
-          "endSec": 100.5,
-          "score": 0.8
+          "word": "Santa",
+          "start": 142.48,
+          "end": 142.96
+        },
+        {
+          "word": "Catalina",
+          "start": 142.96,
+          "end": 143.88
+        },
+        {
+          "word": "arch,",
+          "start": 143.88,
+          "end": 144.36
+        },
+        {
+          "word": "a",
+          "start": 145.42,
+          "end": 145.68
+        },
+        {
+          "word": "yellow",
+          "start": 145.68,
+          "end": 146.1
+        },
+        {
+          "word": "arch",
+          "start": 146.1,
+          "end": 146.78
+        },
+        {
+          "word": "in",
+          "start": 146.78,
+          "end": 147.14
+        },
+        {
+          "word": "the",
+          "start": 147.14,
+          "end": 147.3
+        },
+        {
+          "word": "middle",
+          "start": 147.3,
+          "end": 147.6
+        },
+        {
+          "word": "of",
+          "start": 147.6,
+          "end": 147.88
+        },
+        {
+          "word": "the",
+          "start": 147.88,
+          "end": 148.04
+        },
+        {
+          "word": "city.",
+          "start": 148.04,
+          "end": 148.8
         }
       ]
     },
     {
       "id": 25,
-      "start": 101.73,
-      "end": 107.14,
-      "text": "But Antigua was rebuilt and protected as a historical treasure.",
+      "start": 149.2,
+      "end": 153.46,
+      "text": "It is one of the most photographed spots in Guatemala.",
       "words": [
         {
-          "word": "But",
-          "startSec": 101.93,
-          "endSec": 102.03,
-          "score": 0.97
+          "word": "It",
+          "start": 149.2,
+          "end": 149.72
         },
         {
-          "word": "Antigua",
-          "startSec": 102.03,
-          "endSec": 102.89,
-          "score": 0.94
+          "word": "is",
+          "start": 149.72,
+          "end": 149.9
         },
         {
-          "word": "was",
-          "startSec": 102.89,
-          "endSec": 103.19,
-          "score": 1.0
+          "word": "one",
+          "start": 149.9,
+          "end": 150.12
         },
         {
-          "word": "rebuilt",
-          "startSec": 103.19,
-          "endSec": 103.75,
-          "score": 1.0
+          "word": "of",
+          "start": 150.12,
+          "end": 150.3
         },
         {
-          "word": "and",
-          "startSec": 103.75,
-          "endSec": 104.37,
-          "score": 0.99
+          "word": "the",
+          "start": 150.3,
+          "end": 150.46
         },
         {
-          "word": "protected",
-          "startSec": 104.37,
-          "endSec": 104.91,
-          "score": 1.0
+          "word": "most",
+          "start": 150.46,
+          "end": 150.82
         },
         {
-          "word": "as",
-          "startSec": 104.91,
-          "endSec": 105.69,
-          "score": 1.0
+          "word": "photographed",
+          "start": 150.82,
+          "end": 151.48
         },
         {
-          "word": "a",
-          "startSec": 105.69,
-          "endSec": 105.85,
-          "score": 0.99
+          "word": "spots",
+          "start": 151.48,
+          "end": 152.28
         },
         {
-          "word": "historical",
-          "startSec": 105.85,
-          "endSec": 106.33,
-          "score": 1.0
+          "word": "in",
+          "start": 152.28,
+          "end": 152.94
         },
         {
-          "word": "treasure.",
-          "startSec": 106.33,
-          "endSec": 106.99,
-          "score": 1.0
+          "word": "Guatemala.",
+          "start": 152.94,
+          "end": 153.46
         }
       ]
     },
     {
       "id": 26,
-      "start": 107.78,
-      "end": 112.93,
-      "text": "Today, it is part of the UNESCO World Heritage List.",
+      "start": 153.46,
+      "end": 158.6,
+      "text": "Part five, the people of Antigua.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 107.98,
-          "endSec": 108.66,
-          "score": 0.99
+          "word": "Part",
+          "start": 153.46,
+          "end": 155.16
         },
         {
-          "word": "it",
-          "startSec": 109.1,
-          "endSec": 109.3,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 109.3,
-          "endSec": 109.46,
-          "score": 0.99
-        },
-        {
-          "word": "part",
-          "startSec": 109.46,
-          "endSec": 109.76,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 109.76,
-          "endSec": 110.04,
-          "score": 1.0
+          "word": "five,",
+          "start": 155.16,
+          "end": 155.78
         },
         {
           "word": "the",
-          "startSec": 110.04,
-          "endSec": 110.24,
-          "score": 0.99
+          "start": 156.5,
+          "end": 156.62
         },
         {
-          "word": "UNESCO",
-          "startSec": 110.24,
-          "endSec": 110.76,
-          "score": 0.91
+          "word": "people",
+          "start": 156.62,
+          "end": 157.1
         },
         {
-          "word": "World",
-          "startSec": 110.76,
-          "endSec": 111.54,
-          "score": 0.98
+          "word": "of",
+          "start": 157.1,
+          "end": 157.42
         },
         {
-          "word": "Heritage",
-          "startSec": 111.54,
-          "endSec": 111.96,
-          "score": 1.0
-        },
-        {
-          "word": "List.",
-          "startSec": 111.96,
-          "endSec": 112.78,
-          "score": 0.83
+          "word": "Antigua.",
+          "start": 157.42,
+          "end": 158.6
         }
       ]
     },
     {
       "id": 27,
-      "start": 114.15,
-      "end": 117.0,
-      "text": "Part four, the streets and buildings.",
+      "start": 158.94,
+      "end": 163.66,
+      "text": "People in Antigua are kind and friendly.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 114.35,
-          "endSec": 114.75,
-          "score": 0.16
+          "word": "People",
+          "start": 158.94,
+          "end": 160.14
         },
         {
-          "word": "four,",
-          "startSec": 114.75,
-          "endSec": 115.19,
-          "score": 0.23
+          "word": "in",
+          "start": 160.14,
+          "end": 160.46
         },
         {
-          "word": "the",
-          "startSec": 115.59,
-          "endSec": 115.67,
-          "score": 0.64
+          "word": "Antigua",
+          "start": 160.46,
+          "end": 161.26
         },
         {
-          "word": "streets",
-          "startSec": 115.67,
-          "endSec": 116.01,
-          "score": 0.82
+          "word": "are",
+          "start": 161.26,
+          "end": 161.64
+        },
+        {
+          "word": "kind",
+          "start": 161.64,
+          "end": 162.38
         },
         {
           "word": "and",
-          "startSec": 116.01,
-          "endSec": 116.53,
-          "score": 0.99
+          "start": 162.38,
+          "end": 162.64
         },
         {
-          "word": "buildings.",
-          "startSec": 116.53,
-          "endSec": 116.85,
-          "score": 1.0
+          "word": "friendly.",
+          "start": 162.64,
+          "end": 163.66
         }
       ]
     },
     {
       "id": 28,
-      "start": 118.26,
-      "end": 122.43,
-      "text": "The streets of Antigua are narrow and made of stones.",
+      "start": 164.06,
+      "end": 170.12,
+      "text": "Many are of Mayan heritage and still wear traditional clothes.",
       "words": [
         {
-          "word": "The",
-          "startSec": 118.46,
-          "endSec": 118.66,
-          "score": 0.96
-        },
-        {
-          "word": "streets",
-          "startSec": 118.66,
-          "endSec": 119.08,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 119.08,
-          "endSec": 119.4,
-          "score": 0.99
-        },
-        {
-          "word": "Antigua",
-          "startSec": 119.4,
-          "endSec": 120.08,
-          "score": 0.91
+          "word": "Many",
+          "start": 164.06,
+          "end": 164.44
         },
         {
           "word": "are",
-          "startSec": 120.08,
-          "endSec": 120.3,
-          "score": 1.0
-        },
-        {
-          "word": "narrow",
-          "startSec": 120.3,
-          "endSec": 120.62,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 120.62,
-          "endSec": 121.26,
-          "score": 0.97
-        },
-        {
-          "word": "made",
-          "startSec": 121.26,
-          "endSec": 121.5,
-          "score": 0.99
+          "start": 164.44,
+          "end": 164.86
         },
         {
           "word": "of",
-          "startSec": 121.5,
-          "endSec": 121.74,
-          "score": 0.99
+          "start": 164.86,
+          "end": 165.1
         },
         {
-          "word": "stones.",
-          "startSec": 121.74,
-          "endSec": 122.28,
-          "score": 1.0
+          "word": "Mayan",
+          "start": 165.1,
+          "end": 165.76
+        },
+        {
+          "word": "heritage",
+          "start": 165.76,
+          "end": 166.38
+        },
+        {
+          "word": "and",
+          "start": 166.38,
+          "end": 167.22
+        },
+        {
+          "word": "still",
+          "start": 167.22,
+          "end": 167.7
+        },
+        {
+          "word": "wear",
+          "start": 167.7,
+          "end": 168.12
+        },
+        {
+          "word": "traditional",
+          "start": 168.12,
+          "end": 168.88
+        },
+        {
+          "word": "clothes.",
+          "start": 168.88,
+          "end": 170.12
         }
       ]
     },
     {
       "id": 29,
-      "start": 123.36,
-      "end": 127.11,
-      "text": "You can see colorful houses, old churches,",
+      "start": 170.8,
+      "end": 177.86,
+      "text": "Women wear colorful skirts and blouses with patterns that tell their village story.",
       "words": [
         {
-          "word": "You",
-          "startSec": 123.56,
-          "endSec": 123.78,
-          "score": 0.99
+          "word": "Women",
+          "start": 170.8,
+          "end": 171.4
         },
         {
-          "word": "can",
-          "startSec": 123.78,
-          "endSec": 123.98,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 123.98,
-          "endSec": 124.26,
-          "score": 1.0
+          "word": "wear",
+          "start": 171.4,
+          "end": 171.84
         },
         {
           "word": "colorful",
-          "startSec": 124.26,
-          "endSec": 124.66,
-          "score": 0.99
+          "start": 171.84,
+          "end": 172.5
         },
         {
-          "word": "houses,",
-          "startSec": 124.66,
-          "endSec": 125.56,
-          "score": 1.0
+          "word": "skirts",
+          "start": 172.5,
+          "end": 173.0
         },
         {
-          "word": "old",
-          "startSec": 126.1,
-          "endSec": 126.36,
-          "score": 0.99
+          "word": "and",
+          "start": 173.0,
+          "end": 173.42
         },
         {
-          "word": "churches,",
-          "startSec": 126.36,
-          "endSec": 126.96,
-          "score": 1.0
+          "word": "blouses",
+          "start": 173.42,
+          "end": 174.04
+        },
+        {
+          "word": "with",
+          "start": 174.04,
+          "end": 174.54
+        },
+        {
+          "word": "patterns",
+          "start": 174.54,
+          "end": 175.14
+        },
+        {
+          "word": "that",
+          "start": 175.14,
+          "end": 175.62
+        },
+        {
+          "word": "tell",
+          "start": 175.62,
+          "end": 175.98
+        },
+        {
+          "word": "their",
+          "start": 175.98,
+          "end": 176.28
+        },
+        {
+          "word": "village",
+          "start": 176.28,
+          "end": 176.74
+        },
+        {
+          "word": "story.",
+          "start": 176.74,
+          "end": 177.86
         }
       ]
     },
     {
       "id": 30,
-      "start": 127.44,
-      "end": 129.11,
-      "text": "and beautiful gardens.",
+      "start": 178.64,
+      "end": 185.16,
+      "text": "Family is very important and people love to celebrate together.",
       "words": [
         {
+          "word": "Family",
+          "start": 178.64,
+          "end": 179.48
+        },
+        {
+          "word": "is",
+          "start": 179.48,
+          "end": 180.06
+        },
+        {
+          "word": "very",
+          "start": 180.06,
+          "end": 180.6
+        },
+        {
+          "word": "important",
+          "start": 180.6,
+          "end": 181.36
+        },
+        {
           "word": "and",
-          "startSec": 127.64,
-          "endSec": 127.96,
-          "score": 1.0
+          "start": 181.36,
+          "end": 182.24
         },
         {
-          "word": "beautiful",
-          "startSec": 127.96,
-          "endSec": 128.36,
-          "score": 1.0
+          "word": "people",
+          "start": 182.24,
+          "end": 182.7
         },
         {
-          "word": "gardens.",
-          "startSec": 128.36,
-          "endSec": 128.96,
-          "score": 1.0
+          "word": "love",
+          "start": 182.7,
+          "end": 183.08
+        },
+        {
+          "word": "to",
+          "start": 183.08,
+          "end": 183.36
+        },
+        {
+          "word": "celebrate",
+          "start": 183.36,
+          "end": 184.0
+        },
+        {
+          "word": "together.",
+          "start": 184.0,
+          "end": 185.16
         }
       ]
     },
     {
       "id": 31,
-      "start": 130.22,
-      "end": 134.41,
-      "text": "Many buildings are from the Spanish colonial time.",
+      "start": 185.84,
+      "end": 192.82,
+      "text": "Many people speak Spanish, but you can also hear local Mayan languages.",
       "words": [
         {
           "word": "Many",
-          "startSec": 130.42,
-          "endSec": 130.74,
-          "score": 0.99
+          "start": 185.84,
+          "end": 186.38
         },
         {
-          "word": "buildings",
-          "startSec": 130.74,
-          "endSec": 131.34,
-          "score": 1.0
+          "word": "people",
+          "start": 186.38,
+          "end": 186.84
         },
         {
-          "word": "are",
-          "startSec": 131.34,
-          "endSec": 131.74,
-          "score": 1.0
+          "word": "speak",
+          "start": 186.84,
+          "end": 187.38
         },
         {
-          "word": "from",
-          "startSec": 131.74,
-          "endSec": 131.96,
-          "score": 1.0
+          "word": "Spanish,",
+          "start": 187.38,
+          "end": 188.08
         },
         {
-          "word": "the",
-          "startSec": 131.96,
-          "endSec": 132.18,
-          "score": 0.99
+          "word": "but",
+          "start": 188.08,
+          "end": 189.06
         },
         {
-          "word": "Spanish",
-          "startSec": 132.18,
-          "endSec": 132.78,
-          "score": 0.99
+          "word": "you",
+          "start": 189.06,
+          "end": 189.26
         },
         {
-          "word": "colonial",
-          "startSec": 132.78,
-          "endSec": 133.2,
-          "score": 0.82
+          "word": "can",
+          "start": 189.26,
+          "end": 189.52
         },
         {
-          "word": "time.",
-          "startSec": 133.2,
-          "endSec": 134.26,
-          "score": 1.0
+          "word": "also",
+          "start": 189.52,
+          "end": 190.0
+        },
+        {
+          "word": "hear",
+          "start": 190.0,
+          "end": 190.4
+        },
+        {
+          "word": "local",
+          "start": 190.4,
+          "end": 190.94
+        },
+        {
+          "word": "Mayan",
+          "start": 190.94,
+          "end": 191.66
+        },
+        {
+          "word": "languages.",
+          "start": 191.66,
+          "end": 192.82
         }
       ]
     },
     {
       "id": 32,
-      "start": 134.86,
-      "end": 138.41,
-      "text": "They have red roofs and big wooden doors.",
+      "start": 193.08,
+      "end": 197.06,
+      "text": "Some also speak English because of the many visitors.",
       "words": [
         {
-          "word": "They",
-          "startSec": 135.06,
-          "endSec": 135.4,
-          "score": 1.0
+          "word": "Some",
+          "start": 193.08,
+          "end": 193.46
         },
         {
-          "word": "have",
-          "startSec": 135.4,
-          "endSec": 135.66,
-          "score": 1.0
+          "word": "also",
+          "start": 193.46,
+          "end": 193.92
         },
         {
-          "word": "red",
-          "startSec": 135.66,
-          "endSec": 135.92,
-          "score": 0.96
+          "word": "speak",
+          "start": 193.92,
+          "end": 194.34
         },
         {
-          "word": "roofs",
-          "startSec": 135.92,
-          "endSec": 136.42,
-          "score": 1.0
+          "word": "English",
+          "start": 194.34,
+          "end": 194.88
         },
         {
-          "word": "and",
-          "startSec": 136.42,
-          "endSec": 137.04,
-          "score": 0.94
+          "word": "because",
+          "start": 194.88,
+          "end": 195.34
         },
         {
-          "word": "big",
-          "startSec": 137.04,
-          "endSec": 137.4,
-          "score": 0.99
+          "word": "of",
+          "start": 195.34,
+          "end": 195.66
         },
         {
-          "word": "wooden",
-          "startSec": 137.4,
-          "endSec": 137.76,
-          "score": 1.0
+          "word": "the",
+          "start": 195.66,
+          "end": 195.76
         },
         {
-          "word": "doors.",
-          "startSec": 137.76,
-          "endSec": 138.26,
-          "score": 1.0
+          "word": "many",
+          "start": 195.76,
+          "end": 196.08
+        },
+        {
+          "word": "visitors.",
+          "start": 196.08,
+          "end": 197.06
         }
       ]
     },
     {
       "id": 33,
-      "start": 139.28,
-      "end": 144.37,
-      "text": "One of the most famous places is Santa Catalina Arch,",
+      "start": 198.04,
+      "end": 201.81,
+      "text": "Part six, food in Antigua.",
       "words": [
         {
-          "word": "One",
-          "startSec": 139.48,
-          "endSec": 140.04,
-          "score": 0.22
+          "word": "Part",
+          "start": 198.04,
+          "end": 198.46
         },
         {
-          "word": "of",
-          "startSec": 140.04,
-          "endSec": 140.24,
-          "score": 1.0
+          "word": "six,",
+          "start": 198.46,
+          "end": 199.1
         },
         {
-          "word": "the",
-          "startSec": 140.24,
-          "endSec": 140.38,
-          "score": 0.99
+          "word": "food",
+          "start": 200.0,
+          "end": 200.34
         },
         {
-          "word": "most",
-          "startSec": 140.38,
-          "endSec": 140.64,
-          "score": 0.98
+          "word": "in",
+          "start": 200.34,
+          "end": 200.6
         },
         {
-          "word": "famous",
-          "startSec": 140.64,
-          "endSec": 141.14,
-          "score": 0.99
-        },
-        {
-          "word": "places",
-          "startSec": 141.14,
-          "endSec": 141.76,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 141.76,
-          "endSec": 142.4,
-          "score": 0.98
-        },
-        {
-          "word": "Santa",
-          "startSec": 142.4,
-          "endSec": 142.8,
-          "score": 0.99
-        },
-        {
-          "word": "Catalina",
-          "startSec": 142.8,
-          "endSec": 143.76,
-          "score": 0.97
-        },
-        {
-          "word": "Arch,",
-          "startSec": 143.76,
-          "endSec": 144.22,
-          "score": 0.89
+          "word": "Antigua.",
+          "start": 200.6,
+          "end": 201.81
         }
       ]
     },
     {
       "id": 34,
-      "start": 145.28,
-      "end": 148.51,
-      "text": "a yellow arch in the middle of the city.",
+      "start": 202.04,
+      "end": 206.3,
+      "text": "Food in Antigua is delicious and full of flavor.",
       "words": [
         {
-          "word": "a",
-          "startSec": 145.48,
-          "endSec": 145.6,
-          "score": 0.97
-        },
-        {
-          "word": "yellow",
-          "startSec": 145.6,
-          "endSec": 145.96,
-          "score": 0.94
-        },
-        {
-          "word": "arch",
-          "startSec": 145.96,
-          "endSec": 146.54,
-          "score": 0.99
+          "word": "Food",
+          "start": 202.04,
+          "end": 202.56
         },
         {
           "word": "in",
-          "startSec": 146.54,
-          "endSec": 147.06,
-          "score": 0.99
+          "start": 202.56,
+          "end": 202.78
         },
         {
-          "word": "the",
-          "startSec": 147.06,
-          "endSec": 147.24,
-          "score": 1.0
+          "word": "Antigua",
+          "start": 202.78,
+          "end": 203.58
         },
         {
-          "word": "middle",
-          "startSec": 147.24,
-          "endSec": 147.56,
-          "score": 0.99
+          "word": "is",
+          "start": 203.58,
+          "end": 203.86
+        },
+        {
+          "word": "delicious",
+          "start": 203.86,
+          "end": 204.48
+        },
+        {
+          "word": "and",
+          "start": 204.48,
+          "end": 204.9
+        },
+        {
+          "word": "full",
+          "start": 204.9,
+          "end": 205.22
         },
         {
           "word": "of",
-          "startSec": 147.56,
-          "endSec": 147.8,
-          "score": 0.99
+          "start": 205.22,
+          "end": 205.4
         },
         {
-          "word": "the",
-          "startSec": 147.8,
-          "endSec": 147.98,
-          "score": 0.99
-        },
-        {
-          "word": "city.",
-          "startSec": 147.98,
-          "endSec": 148.36,
-          "score": 0.99
+          "word": "flavor.",
+          "start": 205.4,
+          "end": 206.3
         }
       ]
     },
     {
       "id": 35,
-      "start": 149.29,
-      "end": 153.36,
-      "text": "It is one of the most photographed spots in Guatemala.",
+      "start": 206.96,
+      "end": 214.58,
+      "text": "A popular dish is pepean, a thick stew made with meat, vegetables, and spices.",
       "words": [
         {
-          "word": "It",
-          "startSec": 149.49,
-          "endSec": 149.67,
-          "score": 0.92
+          "word": "A",
+          "start": 206.96,
+          "end": 207.26
+        },
+        {
+          "word": "popular",
+          "start": 207.26,
+          "end": 207.74
+        },
+        {
+          "word": "dish",
+          "start": 207.74,
+          "end": 208.26
         },
         {
           "word": "is",
-          "startSec": 149.67,
-          "endSec": 149.85,
-          "score": 0.99
+          "start": 208.26,
+          "end": 208.5
         },
         {
-          "word": "one",
-          "startSec": 149.85,
-          "endSec": 150.07,
-          "score": 1.0
+          "word": "pepean,",
+          "start": 208.5,
+          "end": 209.32
         },
         {
-          "word": "of",
-          "startSec": 150.07,
-          "endSec": 150.21,
-          "score": 1.0
+          "word": "a",
+          "start": 210.0,
+          "end": 210.2
         },
         {
-          "word": "the",
-          "startSec": 150.21,
-          "endSec": 150.37,
-          "score": 0.99
+          "word": "thick",
+          "start": 210.2,
+          "end": 210.56
         },
         {
-          "word": "most",
-          "startSec": 150.37,
-          "endSec": 150.71,
-          "score": 1.0
+          "word": "stew",
+          "start": 210.56,
+          "end": 211.0
         },
         {
-          "word": "photographed",
-          "startSec": 150.71,
-          "endSec": 151.39,
-          "score": 0.92
+          "word": "made",
+          "start": 211.0,
+          "end": 211.42
         },
         {
-          "word": "spots",
-          "startSec": 151.39,
-          "endSec": 152.17,
-          "score": 1.0
+          "word": "with",
+          "start": 211.42,
+          "end": 211.7
         },
         {
-          "word": "in",
-          "startSec": 152.17,
-          "endSec": 152.85,
-          "score": 1.0
+          "word": "meat,",
+          "start": 211.7,
+          "end": 212.08
         },
         {
-          "word": "Guatemala.",
-          "startSec": 152.85,
-          "endSec": 153.21,
-          "score": 1.0
+          "word": "vegetables,",
+          "start": 212.48,
+          "end": 213.1
+        },
+        {
+          "word": "and",
+          "start": 213.52,
+          "end": 213.56
+        },
+        {
+          "word": "spices.",
+          "start": 213.56,
+          "end": 214.58
         }
       ]
     },
     {
       "id": 36,
-      "start": 154.65,
-      "end": 158.34,
-      "text": "Part five, the people of Antigua.",
+      "start": 215.34,
+      "end": 221.08,
+      "text": "People also eat tamales, tostadas, and frijoles beans.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 154.85,
-          "endSec": 155.09,
-          "score": 0.82
+          "word": "People",
+          "start": 215.34,
+          "end": 215.8
         },
         {
-          "word": "five,",
-          "startSec": 155.09,
-          "endSec": 155.89,
-          "score": 0.19
+          "word": "also",
+          "start": 215.8,
+          "end": 216.32
         },
         {
-          "word": "the",
-          "startSec": 156.51,
-          "endSec": 156.59,
-          "score": 0.88
+          "word": "eat",
+          "start": 216.32,
+          "end": 216.66
         },
         {
-          "word": "people",
-          "startSec": 156.59,
-          "endSec": 157.05,
-          "score": 0.61
+          "word": "tamales,",
+          "start": 216.66,
+          "end": 217.4
         },
         {
-          "word": "of",
-          "startSec": 157.05,
-          "endSec": 157.37,
-          "score": 0.99
+          "word": "tostadas,",
+          "start": 218.26,
+          "end": 218.92
         },
         {
-          "word": "Antigua.",
-          "startSec": 157.37,
-          "endSec": 158.19,
-          "score": 0.96
+          "word": "and",
+          "start": 219.26,
+          "end": 219.42
+        },
+        {
+          "word": "frijoles",
+          "start": 219.42,
+          "end": 220.04
+        },
+        {
+          "word": "beans.",
+          "start": 220.04,
+          "end": 221.08
         }
       ]
     },
     {
       "id": 37,
-      "start": 159.43,
-      "end": 163.36,
-      "text": "People in Antigua are kind and friendly.",
+      "start": 221.76,
+      "end": 228.16,
+      "text": "For dessert, you can try platanos fritos, fried bananas with sugar.",
       "words": [
         {
-          "word": "People",
-          "startSec": 159.63,
-          "endSec": 160.05,
-          "score": 0.99
+          "word": "For",
+          "start": 221.76,
+          "end": 222.02
         },
         {
-          "word": "in",
-          "startSec": 160.05,
-          "endSec": 160.39,
-          "score": 0.98
+          "word": "dessert,",
+          "start": 222.02,
+          "end": 222.48
         },
         {
-          "word": "Antigua",
-          "startSec": 160.39,
-          "endSec": 161.23,
-          "score": 0.99
+          "word": "you",
+          "start": 223.14,
+          "end": 223.3
         },
         {
-          "word": "are",
-          "startSec": 161.23,
-          "endSec": 161.59,
-          "score": 1.0
+          "word": "can",
+          "start": 223.3,
+          "end": 223.52
         },
         {
-          "word": "kind",
-          "startSec": 161.59,
-          "endSec": 161.99,
-          "score": 1.0
+          "word": "try",
+          "start": 223.52,
+          "end": 223.8
         },
         {
-          "word": "and",
-          "startSec": 161.99,
-          "endSec": 162.57,
-          "score": 1.0
+          "word": "platanos",
+          "start": 223.8,
+          "end": 224.66
         },
         {
-          "word": "friendly.",
-          "startSec": 162.57,
-          "endSec": 163.21,
-          "score": 1.0
+          "word": "fritos,",
+          "start": 224.66,
+          "end": 225.4
+        },
+        {
+          "word": "fried",
+          "start": 225.98,
+          "end": 226.32
+        },
+        {
+          "word": "bananas",
+          "start": 226.32,
+          "end": 226.98
+        },
+        {
+          "word": "with",
+          "start": 226.98,
+          "end": 227.3
+        },
+        {
+          "word": "sugar.",
+          "start": 227.3,
+          "end": 228.16
         }
       ]
     },
     {
       "id": 38,
-      "start": 163.59,
-      "end": 169.68,
-      "text": "Many are of Mayan heritage and still wear traditional clothes.",
+      "start": 228.62,
+      "end": 231.46,
+      "text": "And don't forget Guatemalan coffee.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 163.79,
-          "endSec": 164.33,
-          "score": 0.47
+          "word": "And",
+          "start": 228.62,
+          "end": 228.9
         },
         {
-          "word": "are",
-          "startSec": 164.33,
-          "endSec": 164.81,
-          "score": 0.96
+          "word": "don't",
+          "start": 228.9,
+          "end": 229.2
         },
         {
-          "word": "of",
-          "startSec": 164.81,
-          "endSec": 165.05,
-          "score": 0.99
+          "word": "forget",
+          "start": 229.2,
+          "end": 229.62
         },
         {
-          "word": "Mayan",
-          "startSec": 165.05,
-          "endSec": 165.75,
-          "score": 0.87
+          "word": "Guatemalan",
+          "start": 229.62,
+          "end": 230.46
         },
         {
-          "word": "heritage",
-          "startSec": 165.75,
-          "endSec": 166.17,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 166.17,
-          "endSec": 167.15,
-          "score": 0.81
-        },
-        {
-          "word": "still",
-          "startSec": 167.15,
-          "endSec": 167.61,
-          "score": 1.0
-        },
-        {
-          "word": "wear",
-          "startSec": 167.61,
-          "endSec": 168.01,
-          "score": 1.0
-        },
-        {
-          "word": "traditional",
-          "startSec": 168.01,
-          "endSec": 168.75,
-          "score": 1.0
-        },
-        {
-          "word": "clothes.",
-          "startSec": 168.75,
-          "endSec": 169.53,
-          "score": 1.0
+          "word": "coffee.",
+          "start": 230.46,
+          "end": 231.46
         }
       ]
     },
     {
       "id": 39,
-      "start": 170.62,
-      "end": 174.13,
-      "text": "Women wear colorful skirts and blouses",
+      "start": 231.84,
+      "end": 234.32,
+      "text": "It's some of the best in the world.",
       "words": [
         {
-          "word": "Women",
-          "startSec": 170.82,
-          "endSec": 171.38,
-          "score": 0.97
+          "word": "It's",
+          "start": 231.84,
+          "end": 232.18
         },
         {
-          "word": "wear",
-          "startSec": 171.38,
-          "endSec": 171.74,
-          "score": 1.0
+          "word": "some",
+          "start": 232.18,
+          "end": 232.42
         },
         {
-          "word": "colorful",
-          "startSec": 171.74,
-          "endSec": 172.26,
-          "score": 0.97
+          "word": "of",
+          "start": 232.42,
+          "end": 232.58
         },
         {
-          "word": "skirts",
-          "startSec": 172.26,
-          "endSec": 172.98,
-          "score": 0.99
+          "word": "the",
+          "start": 232.58,
+          "end": 232.72
         },
         {
-          "word": "and",
-          "startSec": 172.98,
-          "endSec": 173.36,
-          "score": 0.99
+          "word": "best",
+          "start": 232.72,
+          "end": 232.98
         },
         {
-          "word": "blouses",
-          "startSec": 173.36,
-          "endSec": 173.98,
-          "score": 0.99
+          "word": "in",
+          "start": 232.98,
+          "end": 233.34
+        },
+        {
+          "word": "the",
+          "start": 233.34,
+          "end": 233.48
+        },
+        {
+          "word": "world.",
+          "start": 233.48,
+          "end": 234.32
         }
       ]
     },
     {
       "id": 40,
-      "start": 173.78,
-      "end": 177.43,
-      "text": "with patterns that tell their village story.",
+      "start": 235.02,
+      "end": 239.9,
+      "text": "Many coffee farms are near Antigua and you can visit them.",
       "words": [
         {
-          "word": "with",
-          "startSec": 173.98,
-          "endSec": 174.48,
-          "score": 0.98
+          "word": "Many",
+          "start": 235.02,
+          "end": 235.48
         },
         {
-          "word": "patterns",
-          "startSec": 174.48,
-          "endSec": 175.06,
-          "score": 0.99
+          "word": "coffee",
+          "start": 235.48,
+          "end": 235.98
         },
         {
-          "word": "that",
-          "startSec": 175.06,
-          "endSec": 175.52,
-          "score": 1.0
+          "word": "farms",
+          "start": 235.98,
+          "end": 236.58
         },
         {
-          "word": "tell",
-          "startSec": 175.52,
-          "endSec": 175.92,
-          "score": 0.99
+          "word": "are",
+          "start": 236.58,
+          "end": 236.86
         },
         {
-          "word": "their",
-          "startSec": 175.92,
-          "endSec": 176.24,
-          "score": 1.0
+          "word": "near",
+          "start": 236.86,
+          "end": 237.12
         },
         {
-          "word": "village",
-          "startSec": 176.24,
-          "endSec": 176.66,
-          "score": 0.99
+          "word": "Antigua",
+          "start": 237.12,
+          "end": 237.9
         },
         {
-          "word": "story.",
-          "startSec": 176.66,
-          "endSec": 177.28,
-          "score": 0.99
+          "word": "and",
+          "start": 237.9,
+          "end": 238.26
+        },
+        {
+          "word": "you",
+          "start": 238.26,
+          "end": 238.46
+        },
+        {
+          "word": "can",
+          "start": 238.46,
+          "end": 238.68
+        },
+        {
+          "word": "visit",
+          "start": 238.68,
+          "end": 239.02
+        },
+        {
+          "word": "them.",
+          "start": 239.02,
+          "end": 239.9
         }
       ]
     },
     {
       "id": 41,
-      "start": 178.49,
-      "end": 181.32,
-      "text": "Family is very important,",
+      "start": 240.78,
+      "end": 244.32,
+      "text": "Part seven, markets and crafts.",
       "words": [
         {
-          "word": "Family",
-          "startSec": 178.69,
-          "endSec": 179.29,
-          "score": 0.95
+          "word": "Part",
+          "start": 240.78,
+          "end": 241.48
         },
         {
-          "word": "is",
-          "startSec": 179.29,
-          "endSec": 179.91,
-          "score": 1.0
+          "word": "seven,",
+          "start": 241.48,
+          "end": 242.06
         },
         {
-          "word": "very",
-          "startSec": 179.91,
-          "endSec": 180.37,
-          "score": 1.0
+          "word": "markets",
+          "start": 242.76,
+          "end": 243.1
         },
         {
-          "word": "important,",
-          "startSec": 180.37,
-          "endSec": 181.17,
-          "score": 1.0
+          "word": "and",
+          "start": 243.1,
+          "end": 243.44
+        },
+        {
+          "word": "crafts.",
+          "start": 243.44,
+          "end": 244.32
         }
       ]
     },
     {
       "id": 42,
-      "start": 181.77,
-      "end": 184.66,
-      "text": "and people love to celebrate together.",
+      "start": 245.06,
+      "end": 249.26,
+      "text": "The markets in Antigua are colorful and lively.",
       "words": [
         {
+          "word": "The",
+          "start": 245.06,
+          "end": 245.3
+        },
+        {
+          "word": "markets",
+          "start": 245.3,
+          "end": 245.72
+        },
+        {
+          "word": "in",
+          "start": 245.72,
+          "end": 246.04
+        },
+        {
+          "word": "Antigua",
+          "start": 246.04,
+          "end": 246.78
+        },
+        {
+          "word": "are",
+          "start": 246.78,
+          "end": 247.08
+        },
+        {
+          "word": "colorful",
+          "start": 247.08,
+          "end": 247.86
+        },
+        {
           "word": "and",
-          "startSec": 181.97,
-          "endSec": 182.21,
-          "score": 1.0
+          "start": 247.86,
+          "end": 248.3
         },
         {
-          "word": "people",
-          "startSec": 182.21,
-          "endSec": 182.55,
-          "score": 1.0
-        },
-        {
-          "word": "love",
-          "startSec": 182.55,
-          "endSec": 183.03,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 183.03,
-          "endSec": 183.31,
-          "score": 1.0
-        },
-        {
-          "word": "celebrate",
-          "startSec": 183.31,
-          "endSec": 183.89,
-          "score": 1.0
-        },
-        {
-          "word": "together.",
-          "startSec": 183.89,
-          "endSec": 184.51,
-          "score": 1.0
+          "word": "lively.",
+          "start": 248.3,
+          "end": 249.26
         }
       ]
     },
     {
       "id": 43,
-      "start": 185.7,
-      "end": 188.19,
-      "text": "Many people speak Spanish,",
+      "start": 249.84,
+      "end": 255.34,
+      "text": "You can buy handmade clothes, bags, jewelry, and art.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 185.9,
-          "endSec": 186.26,
-          "score": 0.99
+          "word": "You",
+          "start": 249.84,
+          "end": 250.2
         },
         {
-          "word": "people",
-          "startSec": 186.26,
-          "endSec": 186.84,
-          "score": 0.99
+          "word": "can",
+          "start": 250.2,
+          "end": 250.4
         },
         {
-          "word": "speak",
-          "startSec": 186.84,
-          "endSec": 187.26,
-          "score": 1.0
+          "word": "buy",
+          "start": 250.4,
+          "end": 250.66
         },
         {
-          "word": "Spanish,",
-          "startSec": 187.26,
-          "endSec": 188.04,
-          "score": 0.99
+          "word": "handmade",
+          "start": 250.66,
+          "end": 251.22
+        },
+        {
+          "word": "clothes,",
+          "start": 251.22,
+          "end": 252.06
+        },
+        {
+          "word": "bags,",
+          "start": 252.36,
+          "end": 252.88
+        },
+        {
+          "word": "jewelry,",
+          "start": 253.52,
+          "end": 253.92
+        },
+        {
+          "word": "and",
+          "start": 254.38,
+          "end": 254.5
+        },
+        {
+          "word": "art.",
+          "start": 254.5,
+          "end": 255.34
         }
       ]
     },
     {
       "id": 44,
-      "start": 187.94,
-      "end": 192.33,
-      "text": "but you can also hear local Mayan languages.",
+      "start": 255.86,
+      "end": 259.04,
+      "text": "Many products are made by local women.",
       "words": [
         {
-          "word": "but",
-          "startSec": 188.14,
-          "endSec": 189.02,
-          "score": 1.0
+          "word": "Many",
+          "start": 255.86,
+          "end": 256.46
         },
         {
-          "word": "you",
-          "startSec": 189.02,
-          "endSec": 189.24,
-          "score": 1.0
+          "word": "products",
+          "start": 256.46,
+          "end": 257.04
         },
         {
-          "word": "can",
-          "startSec": 189.24,
-          "endSec": 189.46,
-          "score": 1.0
+          "word": "are",
+          "start": 257.04,
+          "end": 257.32
         },
         {
-          "word": "also",
-          "startSec": 189.46,
-          "endSec": 189.78,
-          "score": 1.0
+          "word": "made",
+          "start": 257.32,
+          "end": 257.56
         },
         {
-          "word": "hear",
-          "startSec": 189.78,
-          "endSec": 190.34,
-          "score": 1.0
+          "word": "by",
+          "start": 257.56,
+          "end": 257.8
         },
         {
           "word": "local",
-          "startSec": 190.34,
-          "endSec": 190.78,
-          "score": 1.0
+          "start": 257.8,
+          "end": 258.22
         },
         {
-          "word": "Mayan",
-          "startSec": 190.78,
-          "endSec": 191.64,
-          "score": 0.98
-        },
-        {
-          "word": "languages.",
-          "startSec": 191.64,
-          "endSec": 192.18,
-          "score": 0.99
+          "word": "women.",
+          "start": 258.22,
+          "end": 259.04
         }
       ]
     },
     {
       "id": 45,
-      "start": 191.98,
-      "end": 196.65,
-      "text": "Some also speak English because of the many visitors.",
+      "start": 259.27,
+      "end": 265.48,
+      "text": "The colors, red, blue, yellow, green are bright and happy.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 192.18,
-          "endSec": 193.34,
-          "score": 0.71
+          "word": "The",
+          "start": 259.27,
+          "end": 259.74
         },
         {
-          "word": "also",
-          "startSec": 193.34,
-          "endSec": 193.7,
-          "score": 0.98
+          "word": "colors,",
+          "start": 259.74,
+          "end": 260.34
         },
         {
-          "word": "speak",
-          "startSec": 193.7,
-          "endSec": 194.24,
-          "score": 1.0
+          "word": "red,",
+          "start": 260.82,
+          "end": 261.3
         },
         {
-          "word": "English",
-          "startSec": 194.24,
-          "endSec": 194.8,
-          "score": 0.98
+          "word": "blue,",
+          "start": 261.6,
+          "end": 261.94
         },
         {
-          "word": "because",
-          "startSec": 194.8,
-          "endSec": 195.2,
-          "score": 0.99
+          "word": "yellow,",
+          "start": 262.16,
+          "end": 262.52
         },
         {
-          "word": "of",
-          "startSec": 195.2,
-          "endSec": 195.58,
-          "score": 1.0
+          "word": "green",
+          "start": 262.74,
+          "end": 263.12
         },
         {
-          "word": "the",
-          "startSec": 195.58,
-          "endSec": 195.74,
-          "score": 0.97
+          "word": "are",
+          "start": 263.12,
+          "end": 263.7
         },
         {
-          "word": "many",
-          "startSec": 195.74,
-          "endSec": 195.96,
-          "score": 0.99
+          "word": "bright",
+          "start": 263.7,
+          "end": 264.3
         },
         {
-          "word": "visitors.",
-          "startSec": 195.96,
-          "endSec": 196.5,
-          "score": 1.0
+          "word": "and",
+          "start": 264.3,
+          "end": 264.62
+        },
+        {
+          "word": "happy.",
+          "start": 264.62,
+          "end": 265.48
         }
       ]
     },
     {
       "id": 46,
-      "start": 198.05,
-      "end": 201.54,
-      "text": "Part six, food in Antigua.",
+      "start": 266.18,
+      "end": 270.72,
+      "text": "Each pattern and design has meaning and tradition.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 198.25,
-          "endSec": 198.33,
-          "score": 0.37
+          "word": "Each",
+          "start": 266.18,
+          "end": 266.78
         },
         {
-          "word": "six,",
-          "startSec": 198.33,
-          "endSec": 198.87,
-          "score": 0.35
+          "word": "pattern",
+          "start": 266.78,
+          "end": 267.34
         },
         {
-          "word": "food",
-          "startSec": 199.85,
-          "endSec": 200.19,
-          "score": 0.79
+          "word": "and",
+          "start": 267.34,
+          "end": 267.64
         },
         {
-          "word": "in",
-          "startSec": 200.19,
-          "endSec": 200.51,
-          "score": 0.46
+          "word": "design",
+          "start": 267.64,
+          "end": 268.16
         },
         {
-          "word": "Antigua.",
-          "startSec": 200.51,
-          "endSec": 201.39,
-          "score": 0.94
+          "word": "has",
+          "start": 268.16,
+          "end": 268.76
+        },
+        {
+          "word": "meaning",
+          "start": 268.76,
+          "end": 269.34
+        },
+        {
+          "word": "and",
+          "start": 269.34,
+          "end": 269.72
+        },
+        {
+          "word": "tradition.",
+          "start": 269.72,
+          "end": 270.72
         }
       ]
     },
     {
       "id": 47,
-      "start": 201.83,
-      "end": 205.88,
-      "text": "Food in Antigua is delicious and full of flavor.",
+      "start": 271.24,
+      "end": 276.9,
+      "text": "Even if you don't buy anything, walking in the market is a joy.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 202.03,
-          "endSec": 202.43,
-          "score": 0.94
+          "word": "Even",
+          "start": 271.24,
+          "end": 272.04
+        },
+        {
+          "word": "if",
+          "start": 272.04,
+          "end": 272.3
+        },
+        {
+          "word": "you",
+          "start": 272.3,
+          "end": 272.44
+        },
+        {
+          "word": "don't",
+          "start": 272.44,
+          "end": 272.62
+        },
+        {
+          "word": "buy",
+          "start": 272.62,
+          "end": 273.0
+        },
+        {
+          "word": "anything,",
+          "start": 273.0,
+          "end": 273.64
+        },
+        {
+          "word": "walking",
+          "start": 274.26,
+          "end": 274.64
         },
         {
           "word": "in",
-          "startSec": 202.43,
-          "endSec": 202.71,
-          "score": 0.99
+          "start": 274.64,
+          "end": 274.98
         },
         {
-          "word": "Antigua",
-          "startSec": 202.71,
-          "endSec": 203.53,
-          "score": 0.99
+          "word": "the",
+          "start": 274.98,
+          "end": 275.12
+        },
+        {
+          "word": "market",
+          "start": 275.12,
+          "end": 275.52
         },
         {
           "word": "is",
-          "startSec": 203.53,
-          "endSec": 203.75,
-          "score": 1.0
+          "start": 275.52,
+          "end": 275.92
         },
         {
-          "word": "delicious",
-          "startSec": 203.75,
-          "endSec": 204.33,
-          "score": 1.0
+          "word": "a",
+          "start": 275.92,
+          "end": 276.08
         },
         {
-          "word": "and",
-          "startSec": 204.33,
-          "endSec": 204.83,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 204.83,
-          "endSec": 205.11,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 205.11,
-          "endSec": 205.35,
-          "score": 1.0
-        },
-        {
-          "word": "flavor.",
-          "startSec": 205.35,
-          "endSec": 205.73,
-          "score": 0.97
+          "word": "joy.",
+          "start": 276.08,
+          "end": 276.9
         }
       ]
     },
     {
       "id": 48,
-      "start": 206.82,
-      "end": 209.29,
-      "text": "A popular dish is Pepian,",
+      "start": 277.28,
+      "end": 280.7,
+      "text": "Part eight, nature around Antigua.",
       "words": [
         {
-          "word": "A",
-          "startSec": 207.02,
-          "endSec": 207.2,
-          "score": 1.0
+          "word": "Part",
+          "start": 277.28,
+          "end": 277.48
         },
         {
-          "word": "popular",
-          "startSec": 207.2,
-          "endSec": 207.64,
-          "score": 1.0
+          "word": "eight,",
+          "start": 277.48,
+          "end": 277.98
         },
         {
-          "word": "dish",
-          "startSec": 207.64,
-          "endSec": 208.22,
-          "score": 1.0
+          "word": "nature",
+          "start": 278.36,
+          "end": 278.86
         },
         {
-          "word": "is",
-          "startSec": 208.22,
-          "endSec": 208.46,
-          "score": 1.0
+          "word": "around",
+          "start": 278.86,
+          "end": 279.44
         },
         {
-          "word": "Pepian,",
-          "startSec": 208.46,
-          "endSec": 209.14,
-          "score": 0.47
+          "word": "Antigua.",
+          "start": 279.44,
+          "end": 280.7
         }
       ]
     },
     {
       "id": 49,
-      "start": 209.42,
-      "end": 214.03,
-      "text": "a thick stew made with meat, vegetables, and spices.",
+      "start": 280.96,
+      "end": 284.6,
+      "text": "Antigua is surrounded by mountains and volcanoes.",
       "words": [
         {
-          "word": "a",
-          "startSec": 209.62,
-          "endSec": 210.12,
-          "score": 1.0
+          "word": "Antigua",
+          "start": 280.96,
+          "end": 281.9
         },
         {
-          "word": "thick",
-          "startSec": 210.12,
-          "endSec": 210.44,
-          "score": 1.0
+          "word": "is",
+          "start": 281.9,
+          "end": 282.12
         },
         {
-          "word": "stew",
-          "startSec": 210.44,
-          "endSec": 210.92,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 282.12,
+          "end": 282.68
         },
         {
-          "word": "made",
-          "startSec": 210.92,
-          "endSec": 211.38,
-          "score": 0.99
+          "word": "by",
+          "start": 282.68,
+          "end": 283.1
         },
         {
-          "word": "with",
-          "startSec": 211.38,
-          "endSec": 211.62,
-          "score": 1.0
-        },
-        {
-          "word": "meat,",
-          "startSec": 211.62,
-          "endSec": 211.94,
-          "score": 0.93
-        },
-        {
-          "word": "vegetables,",
-          "startSec": 212.48,
-          "endSec": 212.9,
-          "score": 1.0
+          "word": "mountains",
+          "start": 283.1,
+          "end": 283.7
         },
         {
           "word": "and",
-          "startSec": 213.14,
-          "endSec": 213.5,
-          "score": 1.0
+          "start": 283.7,
+          "end": 284.16
         },
         {
-          "word": "spices.",
-          "startSec": 213.5,
-          "endSec": 213.88,
-          "score": 1.0
+          "word": "volcanoes.",
+          "start": 284.16,
+          "end": 284.6
         }
       ]
     },
     {
       "id": 50,
-      "start": 215.13,
-      "end": 220.66,
-      "text": "People also eat tamales, tostadas, and frijoles beans.",
+      "start": 284.6,
+      "end": 290.46,
+      "text": "You can hike up Akatanango volcano to see the sunrise.",
       "words": [
         {
-          "word": "People",
-          "startSec": 215.33,
-          "endSec": 215.73,
-          "score": 1.0
+          "word": "You",
+          "start": 284.6,
+          "end": 286.14
         },
         {
-          "word": "also",
-          "startSec": 215.73,
-          "endSec": 216.31,
-          "score": 1.0
+          "word": "can",
+          "start": 286.14,
+          "end": 286.4
         },
         {
-          "word": "eat",
-          "startSec": 216.31,
-          "endSec": 216.63,
-          "score": 1.0
+          "word": "hike",
+          "start": 286.4,
+          "end": 286.7
         },
         {
-          "word": "tamales,",
-          "startSec": 216.63,
-          "endSec": 217.33,
-          "score": 0.99
+          "word": "up",
+          "start": 286.7,
+          "end": 287.06
         },
         {
-          "word": "tostadas,",
-          "startSec": 218.17,
-          "endSec": 218.97,
-          "score": 0.8
+          "word": "Akatanango",
+          "start": 287.06,
+          "end": 288.04
         },
         {
-          "word": "and",
-          "startSec": 218.97,
-          "endSec": 219.39,
-          "score": 1.0
+          "word": "volcano",
+          "start": 288.04,
+          "end": 288.46
         },
         {
-          "word": "frijoles",
-          "startSec": 219.39,
-          "endSec": 220.05,
-          "score": 0.75
+          "word": "to",
+          "start": 288.46,
+          "end": 289.18
         },
         {
-          "word": "beans.",
-          "startSec": 220.05,
-          "endSec": 220.51,
-          "score": 0.87
+          "word": "see",
+          "start": 289.18,
+          "end": 289.42
+        },
+        {
+          "word": "the",
+          "start": 289.42,
+          "end": 289.66
+        },
+        {
+          "word": "sunrise.",
+          "start": 289.66,
+          "end": 290.46
         }
       ]
     },
     {
       "id": 51,
-      "start": 221.31,
-      "end": 225.5,
-      "text": "For dessert, you can try platanos fritos,",
+      "start": 291.0,
+      "end": 293.3,
+      "text": "It's an amazing view.",
       "words": [
         {
-          "word": "For",
-          "startSec": 221.51,
-          "endSec": 221.97,
-          "score": 0.41
+          "word": "It's",
+          "start": 291.0,
+          "end": 291.76
         },
         {
-          "word": "dessert,",
-          "startSec": 221.97,
-          "endSec": 222.37,
-          "score": 0.99
+          "word": "an",
+          "start": 291.76,
+          "end": 291.9
         },
         {
-          "word": "you",
-          "startSec": 223.19,
-          "endSec": 223.29,
-          "score": 0.99
+          "word": "amazing",
+          "start": 291.9,
+          "end": 292.34
         },
         {
-          "word": "can",
-          "startSec": 223.29,
-          "endSec": 223.45,
-          "score": 1.0
-        },
-        {
-          "word": "try",
-          "startSec": 223.45,
-          "endSec": 223.77,
-          "score": 0.98
-        },
-        {
-          "word": "platanos",
-          "startSec": 223.77,
-          "endSec": 224.61,
-          "score": 0.33
-        },
-        {
-          "word": "fritos,",
-          "startSec": 224.61,
-          "endSec": 225.35,
-          "score": 0.73
+          "word": "view.",
+          "start": 292.34,
+          "end": 293.3
         }
       ]
     },
     {
       "id": 52,
-      "start": 225.65,
-      "end": 227.9,
-      "text": "fried bananas with sugar.",
+      "start": 293.9,
+      "end": 298.26,
+      "text": "There are also coffee farms, forests, and rivers nearby.",
       "words": [
         {
-          "word": "fried",
-          "startSec": 225.85,
-          "endSec": 226.17,
-          "score": 0.97
+          "word": "There",
+          "start": 293.9,
+          "end": 294.18
         },
         {
-          "word": "bananas",
-          "startSec": 226.17,
-          "endSec": 226.77,
-          "score": 0.98
+          "word": "are",
+          "start": 294.18,
+          "end": 294.36
         },
         {
-          "word": "with",
-          "startSec": 226.77,
-          "endSec": 227.27,
-          "score": 0.98
+          "word": "also",
+          "start": 294.36,
+          "end": 294.76
         },
         {
-          "word": "sugar.",
-          "startSec": 227.27,
-          "endSec": 227.75,
-          "score": 1.0
+          "word": "coffee",
+          "start": 294.76,
+          "end": 295.24
+        },
+        {
+          "word": "farms,",
+          "start": 295.24,
+          "end": 295.68
+        },
+        {
+          "word": "forests,",
+          "start": 296.02,
+          "end": 296.28
+        },
+        {
+          "word": "and",
+          "start": 296.82,
+          "end": 296.88
+        },
+        {
+          "word": "rivers",
+          "start": 296.88,
+          "end": 297.22
+        },
+        {
+          "word": "nearby.",
+          "start": 297.22,
+          "end": 298.26
         }
       ]
     },
     {
       "id": 53,
-      "start": 228.47,
-      "end": 230.96,
-      "text": "And don't forget Guatemalan coffee.",
+      "start": 298.76,
+      "end": 304.24,
+      "text": "Birds singing in the morning and the air smells fresh and sweet.",
       "words": [
         {
-          "word": "And",
-          "startSec": 228.67,
-          "endSec": 228.85,
-          "score": 0.96
+          "word": "Birds",
+          "start": 298.76,
+          "end": 299.64
         },
         {
-          "word": "don't",
-          "startSec": 228.85,
-          "endSec": 229.19,
-          "score": 0.98
+          "word": "singing",
+          "start": 299.64,
+          "end": 300.22
         },
         {
-          "word": "forget",
-          "startSec": 229.19,
-          "endSec": 229.51,
-          "score": 1.0
+          "word": "in",
+          "start": 300.22,
+          "end": 300.5
         },
         {
-          "word": "Guatemalan",
-          "startSec": 229.51,
-          "endSec": 230.45,
-          "score": 0.85
+          "word": "the",
+          "start": 300.5,
+          "end": 300.6
         },
         {
-          "word": "coffee.",
-          "startSec": 230.45,
-          "endSec": 230.81,
-          "score": 0.98
+          "word": "morning",
+          "start": 300.6,
+          "end": 301.04
+        },
+        {
+          "word": "and",
+          "start": 301.04,
+          "end": 301.7
+        },
+        {
+          "word": "the",
+          "start": 301.7,
+          "end": 301.86
+        },
+        {
+          "word": "air",
+          "start": 301.86,
+          "end": 302.16
+        },
+        {
+          "word": "smells",
+          "start": 302.16,
+          "end": 302.62
+        },
+        {
+          "word": "fresh",
+          "start": 302.62,
+          "end": 303.04
+        },
+        {
+          "word": "and",
+          "start": 303.04,
+          "end": 303.36
+        },
+        {
+          "word": "sweet.",
+          "start": 303.36,
+          "end": 304.24
         }
       ]
     },
     {
       "id": 54,
-      "start": 231.69,
-      "end": 234.0,
-      "text": "It's some of the best in the world.",
+      "start": 304.82,
+      "end": 308.64,
+      "text": "Nature makes Antigua peaceful and beautiful.",
       "words": [
         {
-          "word": "It's",
-          "startSec": 231.89,
-          "endSec": 232.15,
-          "score": 0.98
+          "word": "Nature",
+          "start": 304.82,
+          "end": 305.5
         },
         {
-          "word": "some",
-          "startSec": 232.15,
-          "endSec": 232.35,
-          "score": 0.98
+          "word": "makes",
+          "start": 305.5,
+          "end": 305.92
         },
         {
-          "word": "of",
-          "startSec": 232.35,
-          "endSec": 232.51,
-          "score": 1.0
+          "word": "Antigua",
+          "start": 305.92,
+          "end": 306.68
         },
         {
-          "word": "the",
-          "startSec": 232.51,
-          "endSec": 232.67,
-          "score": 1.0
+          "word": "peaceful",
+          "start": 306.68,
+          "end": 307.28
         },
         {
-          "word": "best",
-          "startSec": 232.67,
-          "endSec": 232.93,
-          "score": 1.0
+          "word": "and",
+          "start": 307.28,
+          "end": 307.74
         },
         {
-          "word": "in",
-          "startSec": 232.93,
-          "endSec": 233.29,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 233.29,
-          "endSec": 233.43,
-          "score": 1.0
-        },
-        {
-          "word": "world.",
-          "startSec": 233.43,
-          "endSec": 233.85,
-          "score": 1.0
+          "word": "beautiful.",
+          "start": 307.74,
+          "end": 308.64
         }
       ]
     },
     {
       "id": 55,
-      "start": 234.91,
-      "end": 239.6,
-      "text": "Many coffee farms are near Antigua and you can visit them.",
+      "start": 309.64,
+      "end": 314.14,
+      "text": "Part nine, festivals and traditions.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 235.11,
-          "endSec": 235.35,
-          "score": 0.98
+          "word": "Part",
+          "start": 309.64,
+          "end": 310.62
         },
         {
-          "word": "coffee",
-          "startSec": 235.35,
-          "endSec": 235.79,
-          "score": 1.0
+          "word": "nine,",
+          "start": 310.62,
+          "end": 311.26
         },
         {
-          "word": "farms",
-          "startSec": 235.79,
-          "endSec": 236.49,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 236.49,
-          "endSec": 236.79,
-          "score": 0.99
-        },
-        {
-          "word": "near",
-          "startSec": 236.79,
-          "endSec": 237.05,
-          "score": 1.0
-        },
-        {
-          "word": "Antigua",
-          "startSec": 237.05,
-          "endSec": 237.87,
-          "score": 0.89
+          "word": "festivals",
+          "start": 311.96,
+          "end": 312.68
         },
         {
           "word": "and",
-          "startSec": 237.87,
-          "endSec": 238.17,
-          "score": 0.7
+          "start": 312.68,
+          "end": 313.18
         },
         {
-          "word": "you",
-          "startSec": 238.17,
-          "endSec": 238.41,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 238.41,
-          "endSec": 238.61,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 238.61,
-          "endSec": 238.89,
-          "score": 1.0
-        },
-        {
-          "word": "them.",
-          "startSec": 238.89,
-          "endSec": 239.45,
-          "score": 1.0
+          "word": "traditions.",
+          "start": 313.18,
+          "end": 314.14
         }
       ]
     },
     {
       "id": 56,
-      "start": 240.95,
-      "end": 243.88,
-      "text": "Part seven, markets and crafts.",
+      "start": 316.42,
+      "end": 319.68,
+      "text": "Antigua is famous for its festivals.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 241.15,
-          "endSec": 241.37,
-          "score": 0.5
+          "word": "Antigua",
+          "start": 316.42,
+          "end": 317.4
         },
         {
-          "word": "seven,",
-          "startSec": 241.37,
-          "endSec": 242.07,
-          "score": 0.43
+          "word": "is",
+          "start": 317.4,
+          "end": 317.6
         },
         {
-          "word": "markets",
-          "startSec": 242.53,
-          "endSec": 242.97,
-          "score": 0.89
+          "word": "famous",
+          "start": 317.6,
+          "end": 318.0
         },
         {
-          "word": "and",
-          "startSec": 242.97,
-          "endSec": 243.39,
-          "score": 0.98
+          "word": "for",
+          "start": 318.0,
+          "end": 318.42
         },
         {
-          "word": "crafts.",
-          "startSec": 243.39,
-          "endSec": 243.73,
-          "score": 1.0
+          "word": "its",
+          "start": 318.42,
+          "end": 318.64
+        },
+        {
+          "word": "festivals.",
+          "start": 318.64,
+          "end": 319.68
         }
       ]
     },
     {
       "id": 57,
-      "start": 244.62,
-      "end": 248.77,
-      "text": "The markets in Antigua are colorful and lively.",
+      "start": 320.3,
+      "end": 325.36,
+      "text": "The biggest one is Samana Santa, holy week before Easter.",
       "words": [
         {
           "word": "The",
-          "startSec": 244.82,
-          "endSec": 245.26,
-          "score": 0.99
+          "start": 320.3,
+          "end": 320.66
         },
         {
-          "word": "markets",
-          "startSec": 245.26,
-          "endSec": 245.64,
-          "score": 1.0
+          "word": "biggest",
+          "start": 320.66,
+          "end": 321.04
         },
         {
-          "word": "in",
-          "startSec": 245.64,
-          "endSec": 246.0,
-          "score": 0.85
+          "word": "one",
+          "start": 321.04,
+          "end": 321.5
         },
         {
-          "word": "Antigua",
-          "startSec": 246.0,
-          "endSec": 246.74,
-          "score": 0.99
+          "word": "is",
+          "start": 321.5,
+          "end": 321.72
         },
         {
-          "word": "are",
-          "startSec": 246.74,
-          "endSec": 247.04,
-          "score": 1.0
+          "word": "Samana",
+          "start": 321.72,
+          "end": 322.22
         },
         {
-          "word": "colorful",
-          "startSec": 247.04,
-          "endSec": 247.52,
-          "score": 0.98
+          "word": "Santa,",
+          "start": 322.22,
+          "end": 322.82
         },
         {
-          "word": "and",
-          "startSec": 247.52,
-          "endSec": 248.2,
-          "score": 1.0
+          "word": "holy",
+          "start": 323.32,
+          "end": 323.68
         },
         {
-          "word": "lively.",
-          "startSec": 248.2,
-          "endSec": 248.62,
-          "score": 1.0
+          "word": "week",
+          "start": 323.68,
+          "end": 323.98
+        },
+        {
+          "word": "before",
+          "start": 323.98,
+          "end": 324.36
+        },
+        {
+          "word": "Easter.",
+          "start": 324.36,
+          "end": 325.36
         }
       ]
     },
     {
       "id": 58,
-      "start": 249.54,
-      "end": 254.94,
-      "text": "You can buy handmade clothes, bags, jewelry, and art.",
+      "start": 325.7,
+      "end": 330.98,
+      "text": "People make carpets from flowers and colored sawdust on the streets.",
       "words": [
         {
-          "word": "You",
-          "startSec": 249.74,
-          "endSec": 250.15,
-          "score": 0.38
+          "word": "People",
+          "start": 325.7,
+          "end": 326.12
         },
         {
-          "word": "can",
-          "startSec": 250.15,
-          "endSec": 250.37,
-          "score": 0.99
+          "word": "make",
+          "start": 326.12,
+          "end": 326.48
         },
         {
-          "word": "buy",
-          "startSec": 250.37,
-          "endSec": 250.61,
-          "score": 0.99
+          "word": "carpets",
+          "start": 326.48,
+          "end": 327.16
         },
         {
-          "word": "handmade",
-          "startSec": 250.61,
-          "endSec": 251.07,
-          "score": 0.93
+          "word": "from",
+          "start": 327.16,
+          "end": 327.48
         },
         {
-          "word": "clothes,",
-          "startSec": 251.07,
-          "endSec": 251.73,
-          "score": 1.0
-        },
-        {
-          "word": "bags,",
-          "startSec": 252.37,
-          "endSec": 252.59,
-          "score": 1.0
-        },
-        {
-          "word": "jewelry,",
-          "startSec": 253.79,
-          "endSec": 253.93,
-          "score": 0.99
+          "word": "flowers",
+          "start": 327.48,
+          "end": 328.14
         },
         {
           "word": "and",
-          "startSec": 254.39,
-          "endSec": 254.43,
-          "score": 1.0
+          "start": 328.14,
+          "end": 328.52
         },
         {
-          "word": "art.",
-          "startSec": 254.43,
-          "endSec": 254.79,
-          "score": 1.0
+          "word": "colored",
+          "start": 328.52,
+          "end": 328.94
+        },
+        {
+          "word": "sawdust",
+          "start": 328.94,
+          "end": 329.66
+        },
+        {
+          "word": "on",
+          "start": 329.66,
+          "end": 330.0
+        },
+        {
+          "word": "the",
+          "start": 330.0,
+          "end": 330.18
+        },
+        {
+          "word": "streets.",
+          "start": 330.18,
+          "end": 330.98
         }
       ]
     },
     {
       "id": 59,
-      "start": 255.88,
-      "end": 258.77,
-      "text": "Many products are made by local women.",
+      "start": 331.62,
+      "end": 334.84,
+      "text": "Then big processions walk over them.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 256.08,
-          "endSec": 256.3,
-          "score": 0.99
+          "word": "Then",
+          "start": 331.62,
+          "end": 332.12
         },
         {
-          "word": "products",
-          "startSec": 256.3,
-          "endSec": 256.86,
-          "score": 1.0
+          "word": "big",
+          "start": 332.12,
+          "end": 332.6
         },
         {
-          "word": "are",
-          "startSec": 256.86,
-          "endSec": 257.28,
-          "score": 1.0
+          "word": "processions",
+          "start": 332.6,
+          "end": 333.4
         },
         {
-          "word": "made",
-          "startSec": 257.28,
-          "endSec": 257.52,
-          "score": 1.0
+          "word": "walk",
+          "start": 333.4,
+          "end": 333.74
         },
         {
-          "word": "by",
-          "startSec": 257.52,
-          "endSec": 257.76,
-          "score": 1.0
+          "word": "over",
+          "start": 333.74,
+          "end": 334.14
         },
         {
-          "word": "local",
-          "startSec": 257.76,
-          "endSec": 258.04,
-          "score": 0.98
-        },
-        {
-          "word": "women.",
-          "startSec": 258.04,
-          "endSec": 258.62,
-          "score": 1.0
+          "word": "them.",
+          "start": 334.14,
+          "end": 334.84
         }
       ]
     },
     {
       "id": 60,
-      "start": 259.4,
-      "end": 265.15,
-      "text": "The colors, red, blue, yellow, green are bright and happy.",
+      "start": 335.2,
+      "end": 337.54,
+      "text": "It's beautiful and emotional.",
       "words": [
         {
-          "word": "The",
-          "startSec": 259.6,
-          "endSec": 259.72,
-          "score": 0.99
+          "word": "It's",
+          "start": 335.2,
+          "end": 335.38
         },
         {
-          "word": "colors,",
-          "startSec": 259.72,
-          "endSec": 260.24,
-          "score": 0.97
-        },
-        {
-          "word": "red,",
-          "startSec": 260.66,
-          "endSec": 261.14,
-          "score": 0.99
-        },
-        {
-          "word": "blue,",
-          "startSec": 261.54,
-          "endSec": 261.78,
-          "score": 1.0
-        },
-        {
-          "word": "yellow,",
-          "startSec": 262.12,
-          "endSec": 262.44,
-          "score": 0.99
-        },
-        {
-          "word": "green",
-          "startSec": 262.82,
-          "endSec": 263.12,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 263.12,
-          "endSec": 263.64,
-          "score": 0.57
-        },
-        {
-          "word": "bright",
-          "startSec": 263.64,
-          "endSec": 264.2,
-          "score": 0.99
+          "word": "beautiful",
+          "start": 335.38,
+          "end": 336.02
         },
         {
           "word": "and",
-          "startSec": 264.2,
-          "endSec": 264.52,
-          "score": 0.99
+          "start": 336.02,
+          "end": 336.52
         },
         {
-          "word": "happy.",
-          "startSec": 264.52,
-          "endSec": 265.0,
-          "score": 1.0
+          "word": "emotional.",
+          "start": 336.52,
+          "end": 337.54
         }
       ]
     },
     {
       "id": 61,
-      "start": 266.24,
-      "end": 270.11,
-      "text": "Each pattern and design has meaning and tradition.",
+      "start": 338.58,
+      "end": 344.8,
+      "text": "Other festivals celebrate independence, music, and Mayan culture.",
       "words": [
         {
-          "word": "Each",
-          "startSec": 266.44,
-          "endSec": 266.68,
-          "score": 1.0
+          "word": "Other",
+          "start": 338.58,
+          "end": 338.9
         },
         {
-          "word": "pattern",
-          "startSec": 266.68,
-          "endSec": 267.24,
-          "score": 1.0
+          "word": "festivals",
+          "start": 338.9,
+          "end": 339.62
         },
         {
-          "word": "and",
-          "startSec": 267.24,
-          "endSec": 267.58,
-          "score": 0.68
+          "word": "celebrate",
+          "start": 339.62,
+          "end": 340.42
         },
         {
-          "word": "design",
-          "startSec": 267.58,
-          "endSec": 268.0,
-          "score": 1.0
+          "word": "independence,",
+          "start": 340.42,
+          "end": 341.32
         },
         {
-          "word": "has",
-          "startSec": 268.0,
-          "endSec": 268.68,
-          "score": 1.0
-        },
-        {
-          "word": "meaning",
-          "startSec": 268.68,
-          "endSec": 269.1,
-          "score": 1.0
+          "word": "music,",
+          "start": 342.06,
+          "end": 342.74
         },
         {
           "word": "and",
-          "startSec": 269.1,
-          "endSec": 269.68,
-          "score": 1.0
+          "start": 343.34,
+          "end": 343.42
         },
         {
-          "word": "tradition.",
-          "startSec": 269.68,
-          "endSec": 269.96,
-          "score": 1.0
+          "word": "Mayan",
+          "start": 343.42,
+          "end": 343.88
+        },
+        {
+          "word": "culture.",
+          "start": 343.88,
+          "end": 344.8
         }
       ]
     },
     {
       "id": 62,
-      "start": 271.32,
-      "end": 273.49,
-      "text": "Even if you don't buy anything,",
+      "start": 345.5,
+      "end": 350.74,
+      "text": "In Antigua, every week feels like a celebration of life.",
       "words": [
         {
-          "word": "Even",
-          "startSec": 271.52,
-          "endSec": 271.98,
-          "score": 1.0
+          "word": "In",
+          "start": 345.5,
+          "end": 345.66
         },
         {
-          "word": "if",
-          "startSec": 271.98,
-          "endSec": 272.24,
-          "score": 1.0
+          "word": "Antigua,",
+          "start": 345.66,
+          "end": 346.46
         },
         {
-          "word": "you",
-          "startSec": 272.24,
-          "endSec": 272.4,
-          "score": 1.0
+          "word": "every",
+          "start": 346.84,
+          "end": 347.32
         },
         {
-          "word": "don't",
-          "startSec": 272.4,
-          "endSec": 272.64,
-          "score": 1.0
+          "word": "week",
+          "start": 347.32,
+          "end": 347.7
         },
         {
-          "word": "buy",
-          "startSec": 272.64,
-          "endSec": 272.9,
-          "score": 1.0
+          "word": "feels",
+          "start": 347.7,
+          "end": 348.14
         },
         {
-          "word": "anything,",
-          "startSec": 272.9,
-          "endSec": 273.34,
-          "score": 1.0
+          "word": "like",
+          "start": 348.14,
+          "end": 348.48
+        },
+        {
+          "word": "a",
+          "start": 348.48,
+          "end": 348.66
+        },
+        {
+          "word": "celebration",
+          "start": 348.66,
+          "end": 349.36
+        },
+        {
+          "word": "of",
+          "start": 349.36,
+          "end": 349.92
+        },
+        {
+          "word": "life.",
+          "start": 349.92,
+          "end": 350.74
         }
       ]
     },
     {
       "id": 63,
-      "start": 273.94,
-      "end": 276.53,
-      "text": "walking in the market is a joy.",
+      "start": 351.86,
+      "end": 355.24,
+      "text": "Part 10, weather in Antigua.",
       "words": [
         {
-          "word": "walking",
-          "startSec": 274.14,
-          "endSec": 274.46,
-          "score": 0.99
+          "word": "Part",
+          "start": 351.86,
+          "end": 352.36
+        },
+        {
+          "word": "10,",
+          "start": 352.36,
+          "end": 353.02
+        },
+        {
+          "word": "weather",
+          "start": 353.4,
+          "end": 353.78
         },
         {
           "word": "in",
-          "startSec": 274.46,
-          "endSec": 274.92,
-          "score": 1.0
+          "start": 353.78,
+          "end": 354.1
         },
         {
-          "word": "the",
-          "startSec": 274.92,
-          "endSec": 275.1,
-          "score": 1.0
-        },
-        {
-          "word": "market",
-          "startSec": 275.1,
-          "endSec": 275.38,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 275.38,
-          "endSec": 275.84,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 275.84,
-          "endSec": 276.02,
-          "score": 1.0
-        },
-        {
-          "word": "joy.",
-          "startSec": 276.02,
-          "endSec": 276.38,
-          "score": 1.0
+          "word": "Antigua.",
+          "start": 354.1,
+          "end": 355.24
         }
       ]
     },
     {
       "id": 64,
-      "start": 276.18,
-      "end": 280.43,
-      "text": "Part eight, nature around Antigua.",
+      "start": 355.52,
+      "end": 358.36,
+      "text": "Antigua has a perfect climate.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 276.38,
-          "endSec": 277.44,
-          "score": 0.58
+          "word": "Antigua",
+          "start": 355.52,
+          "end": 356.3
         },
         {
-          "word": "eight,",
-          "startSec": 277.44,
-          "endSec": 277.86,
-          "score": 0.23
+          "word": "has",
+          "start": 356.3,
+          "end": 356.64
         },
         {
-          "word": "nature",
-          "startSec": 278.52,
-          "endSec": 278.88,
-          "score": 0.58
+          "word": "a",
+          "start": 356.64,
+          "end": 356.84
         },
         {
-          "word": "around",
-          "startSec": 278.88,
-          "endSec": 279.34,
-          "score": 0.97
+          "word": "perfect",
+          "start": 356.84,
+          "end": 357.34
         },
         {
-          "word": "Antigua.",
-          "startSec": 279.34,
-          "endSec": 280.28,
-          "score": 0.95
+          "word": "climate.",
+          "start": 357.34,
+          "end": 358.36
         }
       ]
     },
     {
       "id": 65,
-      "start": 280.76,
-      "end": 285.27,
-      "text": "Antigua is surrounded by mountains and volcanoes.",
+      "start": 358.72,
+      "end": 361.93,
+      "text": "It's called the land of eternal spring.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 280.96,
-          "endSec": 281.84,
-          "score": 1.0
+          "word": "It's",
+          "start": 358.72,
+          "end": 359.04
         },
         {
-          "word": "is",
-          "startSec": 281.84,
-          "endSec": 282.06,
-          "score": 1.0
+          "word": "called",
+          "start": 359.04,
+          "end": 359.38
         },
         {
-          "word": "surrounded",
-          "startSec": 282.06,
-          "endSec": 282.48,
-          "score": 1.0
+          "word": "the",
+          "start": 359.38,
+          "end": 359.66
         },
         {
-          "word": "by",
-          "startSec": 282.48,
-          "endSec": 283.06,
-          "score": 1.0
+          "word": "land",
+          "start": 359.66,
+          "end": 360.22
         },
         {
-          "word": "mountains",
-          "startSec": 283.06,
-          "endSec": 283.66,
-          "score": 0.99
+          "word": "of",
+          "start": 360.22,
+          "end": 360.54
         },
         {
-          "word": "and",
-          "startSec": 283.66,
-          "endSec": 284.1,
-          "score": 1.0
+          "word": "eternal",
+          "start": 360.54,
+          "end": 361.02
         },
         {
-          "word": "volcanoes.",
-          "startSec": 284.1,
-          "endSec": 285.12,
-          "score": 1.0
+          "word": "spring.",
+          "start": 361.02,
+          "end": 361.93
         }
       ]
     },
     {
       "id": 66,
-      "start": 285.66,
-      "end": 290.09,
-      "text": "You can hike up Akatonango volcano to see the sunrise.",
+      "start": 362.18,
+      "end": 367.7,
+      "text": "The temperature is around 20 to 25 degrees Celsius all year.",
       "words": [
         {
-          "word": "You",
-          "startSec": 285.86,
-          "endSec": 286.14,
-          "score": 0.99
+          "word": "The",
+          "start": 362.18,
+          "end": 362.44
         },
         {
-          "word": "can",
-          "startSec": 286.14,
-          "endSec": 286.34,
-          "score": 1.0
+          "word": "temperature",
+          "start": 362.44,
+          "end": 363.12
         },
         {
-          "word": "hike",
-          "startSec": 286.34,
-          "endSec": 286.64,
-          "score": 0.99
+          "word": "is",
+          "start": 363.12,
+          "end": 363.5
         },
         {
-          "word": "up",
-          "startSec": 286.64,
-          "endSec": 286.96,
-          "score": 1.0
+          "word": "around",
+          "start": 363.5,
+          "end": 363.86
         },
         {
-          "word": "Akatonango",
-          "startSec": 286.96,
-          "endSec": 287.78,
-          "score": 0.49
-        },
-        {
-          "word": "volcano",
-          "startSec": 287.78,
-          "endSec": 288.26,
-          "score": 0.6
+          "word": "20",
+          "start": 363.86,
+          "end": 364.44
         },
         {
           "word": "to",
-          "startSec": 288.26,
-          "endSec": 289.14,
-          "score": 0.99
+          "start": 364.44,
+          "end": 364.64
         },
         {
-          "word": "see",
-          "startSec": 289.14,
-          "endSec": 289.36,
-          "score": 1.0
+          "word": "25",
+          "start": 364.64,
+          "end": 365.54
         },
         {
-          "word": "the",
-          "startSec": 289.36,
-          "endSec": 289.58,
-          "score": 1.0
+          "word": "degrees",
+          "start": 365.54,
+          "end": 365.94
         },
         {
-          "word": "sunrise.",
-          "startSec": 289.58,
-          "endSec": 289.94,
-          "score": 0.97
+          "word": "Celsius",
+          "start": 365.94,
+          "end": 366.38
+        },
+        {
+          "word": "all",
+          "start": 366.38,
+          "end": 366.9
+        },
+        {
+          "word": "year.",
+          "start": 366.9,
+          "end": 367.7
         }
       ]
     },
     {
       "id": 67,
-      "start": 290.98,
-      "end": 292.99,
-      "text": "It's an amazing view.",
+      "start": 368.06,
+      "end": 371.27,
+      "text": "Days are sunny and nights are cool.",
       "words": [
         {
-          "word": "It's",
-          "startSec": 291.18,
-          "endSec": 291.74,
-          "score": 0.98
+          "word": "Days",
+          "start": 368.06,
+          "end": 368.5
         },
         {
-          "word": "an",
-          "startSec": 291.74,
-          "endSec": 291.86,
-          "score": 1.0
+          "word": "are",
+          "start": 368.5,
+          "end": 368.8
         },
         {
-          "word": "amazing",
-          "startSec": 291.86,
-          "endSec": 292.2,
-          "score": 1.0
+          "word": "sunny",
+          "start": 368.8,
+          "end": 369.3
         },
         {
-          "word": "view.",
-          "startSec": 292.2,
-          "endSec": 292.84,
-          "score": 1.0
+          "word": "and",
+          "start": 369.3,
+          "end": 369.84
+        },
+        {
+          "word": "nights",
+          "start": 369.84,
+          "end": 370.18
+        },
+        {
+          "word": "are",
+          "start": 370.18,
+          "end": 370.38
+        },
+        {
+          "word": "cool.",
+          "start": 370.38,
+          "end": 371.27
         }
       ]
     },
     {
       "id": 68,
-      "start": 293.75,
-      "end": 297.96,
-      "text": "There are also coffee farms forests and rivers nearby.",
+      "start": 371.5,
+      "end": 374.82,
+      "text": "Sometimes it rains, but not for long.",
       "words": [
         {
-          "word": "There",
-          "startSec": 293.95,
-          "endSec": 294.15,
-          "score": 0.99
+          "word": "Sometimes",
+          "start": 371.5,
+          "end": 372.26
         },
         {
-          "word": "are",
-          "startSec": 294.15,
-          "endSec": 294.29,
-          "score": 1.0
+          "word": "it",
+          "start": 372.26,
+          "end": 372.62
         },
         {
-          "word": "also",
-          "startSec": 294.29,
-          "endSec": 294.69,
-          "score": 0.99
+          "word": "rains,",
+          "start": 372.62,
+          "end": 373.06
         },
         {
-          "word": "coffee",
-          "startSec": 294.69,
-          "endSec": 295.01,
-          "score": 0.99
+          "word": "but",
+          "start": 373.3,
+          "end": 373.42
         },
         {
-          "word": "farms",
-          "startSec": 295.01,
-          "endSec": 295.63,
-          "score": 0.98
+          "word": "not",
+          "start": 373.42,
+          "end": 373.74
         },
         {
-          "word": "forests",
-          "startSec": 295.63,
-          "endSec": 296.05,
-          "score": 0.53
+          "word": "for",
+          "start": 373.74,
+          "end": 374.02
         },
         {
-          "word": "and",
-          "startSec": 296.05,
-          "endSec": 296.79,
-          "score": 0.99
-        },
-        {
-          "word": "rivers",
-          "startSec": 296.79,
-          "endSec": 297.17,
-          "score": 1.0
-        },
-        {
-          "word": "nearby.",
-          "startSec": 297.17,
-          "endSec": 297.81,
-          "score": 1.0
+          "word": "long.",
+          "start": 374.02,
+          "end": 374.82
         }
       ]
     },
     {
       "id": 69,
-      "start": 298.76,
-      "end": 303.85,
-      "text": "Birds singing in the morning and the air smells fresh and sweet.",
+      "start": 375.04,
+      "end": 380.52,
+      "text": "People enjoy walking, drinking coffee, and relaxing outside.",
       "words": [
         {
-          "word": "Birds",
-          "startSec": 298.96,
-          "endSec": 299.54,
-          "score": 0.93
+          "word": "People",
+          "start": 375.04,
+          "end": 375.56
         },
         {
-          "word": "singing",
-          "startSec": 299.54,
-          "endSec": 300.14,
-          "score": 0.86
+          "word": "enjoy",
+          "start": 375.56,
+          "end": 375.96
         },
         {
-          "word": "in",
-          "startSec": 300.14,
-          "endSec": 300.42,
-          "score": 1.0
+          "word": "walking,",
+          "start": 375.96,
+          "end": 376.72
         },
         {
-          "word": "the",
-          "startSec": 300.42,
-          "endSec": 300.56,
-          "score": 1.0
+          "word": "drinking",
+          "start": 377.24,
+          "end": 377.56
         },
         {
-          "word": "morning",
-          "startSec": 300.56,
-          "endSec": 300.98,
-          "score": 1.0
+          "word": "coffee,",
+          "start": 377.56,
+          "end": 378.22
         },
         {
           "word": "and",
-          "startSec": 300.98,
-          "endSec": 301.64,
-          "score": 0.81
+          "start": 378.72,
+          "end": 378.82
         },
         {
-          "word": "the",
-          "startSec": 301.64,
-          "endSec": 301.84,
-          "score": 1.0
+          "word": "relaxing",
+          "start": 378.82,
+          "end": 379.44
         },
         {
-          "word": "air",
-          "startSec": 301.84,
-          "endSec": 302.06,
-          "score": 1.0
-        },
-        {
-          "word": "smells",
-          "startSec": 302.06,
-          "endSec": 302.52,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 302.52,
-          "endSec": 302.96,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 302.96,
-          "endSec": 303.32,
-          "score": 1.0
-        },
-        {
-          "word": "sweet.",
-          "startSec": 303.32,
-          "endSec": 303.7,
-          "score": 1.0
+          "word": "outside.",
+          "start": 379.44,
+          "end": 380.52
         }
       ]
     },
     {
       "id": 70,
-      "start": 304.62,
-      "end": 308.15,
-      "text": "Nature makes Antigua peaceful and beautiful.",
+      "start": 381.42,
+      "end": 384.74,
+      "text": "Part 11, life in Antigua.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 304.82,
-          "endSec": 305.5,
-          "score": 0.03
+          "word": "Part",
+          "start": 381.42,
+          "end": 381.88
         },
         {
-          "word": "makes",
-          "startSec": 305.5,
-          "endSec": 305.82,
-          "score": 0.97
+          "word": "11,",
+          "start": 381.88,
+          "end": 382.42
         },
         {
-          "word": "Antigua",
-          "startSec": 305.82,
-          "endSec": 306.66,
-          "score": 0.86
+          "word": "life",
+          "start": 383.16,
+          "end": 383.46
         },
         {
-          "word": "peaceful",
-          "startSec": 306.66,
-          "endSec": 307.14,
-          "score": 0.99
+          "word": "in",
+          "start": 383.46,
+          "end": 383.68
         },
         {
-          "word": "and",
-          "startSec": 307.14,
-          "endSec": 307.66,
-          "score": 0.99
-        },
-        {
-          "word": "beautiful.",
-          "startSec": 307.66,
-          "endSec": 308.0,
-          "score": 1.0
+          "word": "Antigua.",
+          "start": 383.68,
+          "end": 384.74
         }
       ]
     },
     {
       "id": 71,
-      "start": 309.85,
-      "end": 313.72,
-      "text": "Part nine, festivals and traditions.",
+      "start": 384.96,
+      "end": 388.58,
+      "text": "Life in Antigua is calm and joyful.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 310.05,
-          "endSec": 310.59,
-          "score": 0.79
+          "word": "Life",
+          "start": 384.96,
+          "end": 385.44
         },
         {
-          "word": "nine,",
-          "startSec": 310.59,
-          "endSec": 311.19,
-          "score": 0.32
+          "word": "in",
+          "start": 385.44,
+          "end": 385.68
         },
         {
-          "word": "festivals",
-          "startSec": 311.71,
-          "endSec": 312.35,
-          "score": 0.8
+          "word": "Antigua",
+          "start": 385.68,
+          "end": 386.44
+        },
+        {
+          "word": "is",
+          "start": 386.44,
+          "end": 386.7
+        },
+        {
+          "word": "calm",
+          "start": 386.7,
+          "end": 387.44
         },
         {
           "word": "and",
-          "startSec": 312.35,
-          "endSec": 313.11,
-          "score": 0.99
+          "start": 387.44,
+          "end": 387.74
         },
         {
-          "word": "traditions.",
-          "startSec": 313.11,
-          "endSec": 313.57,
-          "score": 1.0
+          "word": "joyful.",
+          "start": 387.74,
+          "end": 388.58
         }
       ]
     },
     {
       "id": 72,
-      "start": 316.23,
-      "end": 319.02,
-      "text": "Antigua is famous for its festivals.",
+      "start": 389.44,
+      "end": 393.52,
+      "text": "People work in shops, farms, or cafes.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 316.43,
-          "endSec": 317.35,
-          "score": 0.99
+          "word": "People",
+          "start": 389.44,
+          "end": 390.04
         },
         {
-          "word": "is",
-          "startSec": 317.35,
-          "endSec": 317.55,
-          "score": 0.97
+          "word": "work",
+          "start": 390.04,
+          "end": 390.36
         },
         {
-          "word": "famous",
-          "startSec": 317.55,
-          "endSec": 317.95,
-          "score": 1.0
+          "word": "in",
+          "start": 390.36,
+          "end": 390.68
         },
         {
-          "word": "for",
-          "startSec": 317.95,
-          "endSec": 318.35,
-          "score": 1.0
+          "word": "shops,",
+          "start": 390.68,
+          "end": 391.26
         },
         {
-          "word": "its",
-          "startSec": 318.35,
-          "endSec": 318.59,
-          "score": 0.93
+          "word": "farms,",
+          "start": 391.74,
+          "end": 392.34
         },
         {
-          "word": "festivals.",
-          "startSec": 318.59,
-          "endSec": 318.87,
-          "score": 0.99
+          "word": "or",
+          "start": 392.56,
+          "end": 392.62
+        },
+        {
+          "word": "cafes.",
+          "start": 392.62,
+          "end": 393.52
         }
       ]
     },
     {
       "id": 73,
-      "start": 320.31,
-      "end": 322.76,
-      "text": "The biggest one is Samana Santa,",
+      "start": 394.28,
+      "end": 398.04,
+      "text": "Children go to school and play in the parks.",
       "words": [
         {
-          "word": "The",
-          "startSec": 320.51,
-          "endSec": 320.63,
-          "score": 0.97
+          "word": "Children",
+          "start": 394.28,
+          "end": 394.7
         },
         {
-          "word": "biggest",
-          "startSec": 320.63,
-          "endSec": 320.97,
-          "score": 0.99
+          "word": "go",
+          "start": 394.7,
+          "end": 395.06
         },
         {
-          "word": "one",
-          "startSec": 320.97,
-          "endSec": 321.43,
-          "score": 0.99
+          "word": "to",
+          "start": 395.06,
+          "end": 395.22
         },
         {
-          "word": "is",
-          "startSec": 321.43,
-          "endSec": 321.67,
-          "score": 1.0
+          "word": "school",
+          "start": 395.22,
+          "end": 395.72
         },
         {
-          "word": "Samana",
-          "startSec": 321.67,
-          "endSec": 322.17,
-          "score": 0.63
+          "word": "and",
+          "start": 395.72,
+          "end": 396.32
         },
         {
-          "word": "Santa,",
-          "startSec": 322.17,
-          "endSec": 322.61,
-          "score": 0.97
+          "word": "play",
+          "start": 396.32,
+          "end": 396.72
+        },
+        {
+          "word": "in",
+          "start": 396.72,
+          "end": 396.96
+        },
+        {
+          "word": "the",
+          "start": 396.96,
+          "end": 397.1
+        },
+        {
+          "word": "parks.",
+          "start": 397.1,
+          "end": 398.04
         }
       ]
     },
     {
       "id": 74,
-      "start": 323.03,
-      "end": 325.0,
-      "text": "Holy Week before Easter.",
+      "start": 398.7,
+      "end": 403.16,
+      "text": "Foreign visitors come to learn Spanish or volunteer.",
       "words": [
         {
-          "word": "Holy",
-          "startSec": 323.23,
-          "endSec": 323.57,
-          "score": 0.36
+          "word": "Foreign",
+          "start": 398.7,
+          "end": 399.44
         },
         {
-          "word": "Week",
-          "startSec": 323.57,
-          "endSec": 323.95,
-          "score": 0.88
+          "word": "visitors",
+          "start": 399.44,
+          "end": 399.9
         },
         {
-          "word": "before",
-          "startSec": 323.95,
-          "endSec": 324.37,
-          "score": 0.88
+          "word": "come",
+          "start": 399.9,
+          "end": 400.46
         },
         {
-          "word": "Easter.",
-          "startSec": 324.37,
-          "endSec": 324.85,
-          "score": 1.0
+          "word": "to",
+          "start": 400.46,
+          "end": 400.72
+        },
+        {
+          "word": "learn",
+          "start": 400.72,
+          "end": 401.06
+        },
+        {
+          "word": "Spanish",
+          "start": 401.06,
+          "end": 401.68
+        },
+        {
+          "word": "or",
+          "start": 401.68,
+          "end": 402.14
+        },
+        {
+          "word": "volunteer.",
+          "start": 402.14,
+          "end": 403.16
         }
       ]
     },
     {
       "id": 75,
-      "start": 325.47,
-      "end": 330.62,
-      "text": "People make carpets from flowers and colored sawdust on the streets.",
+      "start": 403.48,
+      "end": 407.98,
+      "text": "You can study in small schools and live with local families.",
       "words": [
         {
-          "word": "People",
-          "startSec": 325.67,
-          "endSec": 326.09,
-          "score": 1.0
+          "word": "You",
+          "start": 403.48,
+          "end": 403.6
         },
         {
-          "word": "make",
-          "startSec": 326.09,
-          "endSec": 326.39,
-          "score": 1.0
+          "word": "can",
+          "start": 403.6,
+          "end": 403.84
         },
         {
-          "word": "carpets",
-          "startSec": 326.39,
-          "endSec": 327.07,
-          "score": 1.0
+          "word": "study",
+          "start": 403.84,
+          "end": 404.24
         },
         {
-          "word": "from",
-          "startSec": 327.07,
-          "endSec": 327.45,
-          "score": 1.0
+          "word": "in",
+          "start": 404.24,
+          "end": 404.5
         },
         {
-          "word": "flowers",
-          "startSec": 327.45,
-          "endSec": 327.93,
-          "score": 0.99
+          "word": "small",
+          "start": 404.5,
+          "end": 404.84
+        },
+        {
+          "word": "schools",
+          "start": 404.84,
+          "end": 405.38
         },
         {
           "word": "and",
-          "startSec": 327.93,
-          "endSec": 328.47,
-          "score": 0.97
+          "start": 405.38,
+          "end": 405.98
         },
         {
-          "word": "colored",
-          "startSec": 328.47,
-          "endSec": 328.83,
-          "score": 0.97
+          "word": "live",
+          "start": 405.98,
+          "end": 406.22
         },
         {
-          "word": "sawdust",
-          "startSec": 328.83,
-          "endSec": 329.51,
-          "score": 0.93
+          "word": "with",
+          "start": 406.22,
+          "end": 406.5
         },
         {
-          "word": "on",
-          "startSec": 329.51,
-          "endSec": 329.93,
-          "score": 1.0
+          "word": "local",
+          "start": 406.5,
+          "end": 406.84
         },
         {
-          "word": "the",
-          "startSec": 329.93,
-          "endSec": 330.11,
-          "score": 1.0
-        },
-        {
-          "word": "streets.",
-          "startSec": 330.11,
-          "endSec": 330.47,
-          "score": 1.0
+          "word": "families.",
+          "start": 406.84,
+          "end": 407.98
         }
       ]
     },
     {
       "id": 76,
-      "start": 331.27,
-      "end": 334.56,
-      "text": "Then big processions walk over them.",
+      "start": 408.56,
+      "end": 413.78,
+      "text": "There is time to talk, rest, and enjoy the simple things.",
       "words": [
         {
-          "word": "Then",
-          "startSec": 331.47,
-          "endSec": 332.01,
-          "score": 0.28
+          "word": "There",
+          "start": 408.56,
+          "end": 409.0
         },
         {
-          "word": "big",
-          "startSec": 332.01,
-          "endSec": 332.47,
-          "score": 0.7
+          "word": "is",
+          "start": 409.0,
+          "end": 409.22
         },
         {
-          "word": "processions",
-          "startSec": 332.47,
-          "endSec": 333.33,
-          "score": 0.71
+          "word": "time",
+          "start": 409.22,
+          "end": 409.58
         },
         {
-          "word": "walk",
-          "startSec": 333.33,
-          "endSec": 333.65,
-          "score": 0.99
+          "word": "to",
+          "start": 409.58,
+          "end": 409.82
         },
         {
-          "word": "over",
-          "startSec": 333.65,
-          "endSec": 334.13,
-          "score": 1.0
+          "word": "talk,",
+          "start": 409.82,
+          "end": 410.24
         },
         {
-          "word": "them.",
-          "startSec": 334.13,
-          "endSec": 334.41,
-          "score": 1.0
+          "word": "rest,",
+          "start": 410.78,
+          "end": 411.2
+        },
+        {
+          "word": "and",
+          "start": 411.74,
+          "end": 411.74
+        },
+        {
+          "word": "enjoy",
+          "start": 411.74,
+          "end": 412.2
+        },
+        {
+          "word": "the",
+          "start": 412.2,
+          "end": 412.42
+        },
+        {
+          "word": "simple",
+          "start": 412.42,
+          "end": 412.78
+        },
+        {
+          "word": "things.",
+          "start": 412.78,
+          "end": 413.78
         }
       ]
     },
     {
       "id": 77,
-      "start": 334.83,
-      "end": 337.02,
-      "text": "It's beautiful and emotional.",
+      "start": 414.9,
+      "end": 419.34,
+      "text": "Part 12, goodbye from Antigua.",
       "words": [
         {
-          "word": "It's",
-          "startSec": 335.03,
-          "endSec": 335.37,
-          "score": 0.98
+          "word": "Part",
+          "start": 414.9,
+          "end": 415.8
         },
         {
-          "word": "beautiful",
-          "startSec": 335.37,
-          "endSec": 335.71,
-          "score": 1.0
+          "word": "12,",
+          "start": 415.8,
+          "end": 416.5
         },
         {
-          "word": "and",
-          "startSec": 335.71,
-          "endSec": 336.43,
-          "score": 0.99
+          "word": "goodbye",
+          "start": 416.94,
+          "end": 417.72
         },
         {
-          "word": "emotional.",
-          "startSec": 336.43,
-          "endSec": 336.87,
-          "score": 1.0
+          "word": "from",
+          "start": 417.72,
+          "end": 418.22
+        },
+        {
+          "word": "Antigua.",
+          "start": 418.22,
+          "end": 419.34
         }
       ]
     },
     {
       "id": 78,
-      "start": 338.19,
-      "end": 344.4,
-      "text": "Other festivals celebrate independence, music, and Mayan culture.",
+      "start": 419.56,
+      "end": 423.06,
+      "text": "Thank you for listening to the Slow English Podcast.",
       "words": [
         {
-          "word": "Other",
-          "startSec": 338.39,
-          "endSec": 338.85,
-          "score": 0.91
+          "word": "Thank",
+          "start": 419.56,
+          "end": 419.98
         },
         {
-          "word": "festivals",
-          "startSec": 338.85,
-          "endSec": 339.39,
-          "score": 0.99
+          "word": "you",
+          "start": 419.98,
+          "end": 420.2
         },
         {
-          "word": "celebrate",
-          "startSec": 339.39,
-          "endSec": 340.25,
-          "score": 0.99
+          "word": "for",
+          "start": 420.2,
+          "end": 420.42
         },
         {
-          "word": "independence,",
-          "startSec": 340.25,
-          "endSec": 340.87,
-          "score": 0.95
+          "word": "listening",
+          "start": 420.42,
+          "end": 420.86
         },
         {
-          "word": "music,",
-          "startSec": 342.01,
-          "endSec": 342.73,
-          "score": 1.0
+          "word": "to",
+          "start": 420.86,
+          "end": 421.16
         },
         {
-          "word": "and",
-          "startSec": 343.31,
-          "endSec": 343.35,
-          "score": 1.0
+          "word": "the",
+          "start": 421.16,
+          "end": 421.4
         },
         {
-          "word": "Mayan",
-          "startSec": 343.35,
-          "endSec": 343.87,
-          "score": 0.73
+          "word": "Slow",
+          "start": 421.4,
+          "end": 421.68
         },
         {
-          "word": "culture.",
-          "startSec": 343.87,
-          "endSec": 344.25,
-          "score": 1.0
+          "word": "English",
+          "start": 421.68,
+          "end": 422.06
+        },
+        {
+          "word": "Podcast.",
+          "start": 422.06,
+          "end": 423.06
         }
       ]
     },
     {
       "id": 79,
-      "start": 345.29,
-      "end": 350.34,
-      "text": "In Antigua, every week feels like a celebration of life.",
+      "start": 423.58,
+      "end": 430.32,
+      "text": "I'm Emily, and today we explored the beautiful city of Antigua, Guatemala.",
       "words": [
         {
-          "word": "In",
-          "startSec": 345.49,
-          "endSec": 345.61,
-          "score": 0.98
+          "word": "I'm",
+          "start": 423.58,
+          "end": 423.94
         },
         {
-          "word": "Antigua,",
-          "startSec": 345.61,
-          "endSec": 346.45,
-          "score": 0.96
+          "word": "Emily,",
+          "start": 423.94,
+          "end": 424.36
         },
         {
-          "word": "every",
-          "startSec": 346.85,
-          "endSec": 347.21,
-          "score": 0.98
+          "word": "and",
+          "start": 424.82,
+          "end": 425.0
         },
         {
-          "word": "week",
-          "startSec": 347.21,
-          "endSec": 347.63,
-          "score": 1.0
+          "word": "today",
+          "start": 425.0,
+          "end": 425.44
         },
         {
-          "word": "feels",
-          "startSec": 347.63,
-          "endSec": 348.07,
-          "score": 1.0
+          "word": "we",
+          "start": 425.44,
+          "end": 425.82
         },
         {
-          "word": "like",
-          "startSec": 348.07,
-          "endSec": 348.41,
-          "score": 1.0
+          "word": "explored",
+          "start": 425.82,
+          "end": 426.5
         },
         {
-          "word": "a",
-          "startSec": 348.41,
-          "endSec": 348.59,
-          "score": 1.0
+          "word": "the",
+          "start": 426.5,
+          "end": 426.74
         },
         {
-          "word": "celebration",
-          "startSec": 348.59,
-          "endSec": 349.23,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 426.74,
+          "end": 427.22
+        },
+        {
+          "word": "city",
+          "start": 427.22,
+          "end": 427.72
         },
         {
           "word": "of",
-          "startSec": 349.23,
-          "endSec": 349.87,
-          "score": 1.0
+          "start": 427.72,
+          "end": 428.18
         },
         {
-          "word": "life.",
-          "startSec": 349.87,
-          "endSec": 350.19,
-          "score": 1.0
+          "word": "Antigua,",
+          "start": 428.18,
+          "end": 429.02
+        },
+        {
+          "word": "Guatemala.",
+          "start": 429.44,
+          "end": 430.32
         }
       ]
     },
     {
       "id": 80,
-      "start": 352.13,
-      "end": 354.94,
-      "text": "Part 10, weather in Antigua.",
+      "start": 431.46,
+      "end": 436.26,
+      "text": "Antigua is a city of color, peace, and smiles.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 352.33,
-          "endSec": 352.33,
-          "score": 0.91
+          "word": "Antigua",
+          "start": 431.46,
+          "end": 432.36
         },
         {
-          "word": "10,",
-          "startSec": 352.33,
-          "endSec": 352.81,
-          "score": 0.91
+          "word": "is",
+          "start": 432.36,
+          "end": 432.9
         },
         {
-          "word": "weather",
-          "startSec": 353.59,
-          "endSec": 353.75,
-          "score": 0.41
+          "word": "a",
+          "start": 432.9,
+          "end": 433.1
         },
         {
-          "word": "in",
-          "startSec": 353.75,
-          "endSec": 354.05,
-          "score": 0.9
+          "word": "city",
+          "start": 433.1,
+          "end": 433.4
         },
         {
-          "word": "Antigua.",
-          "startSec": 354.05,
-          "endSec": 354.79,
-          "score": 0.99
+          "word": "of",
+          "start": 433.4,
+          "end": 433.68
+        },
+        {
+          "word": "color,",
+          "start": 433.68,
+          "end": 434.16
+        },
+        {
+          "word": "peace,",
+          "start": 434.52,
+          "end": 434.88
+        },
+        {
+          "word": "and",
+          "start": 435.26,
+          "end": 435.32
+        },
+        {
+          "word": "smiles.",
+          "start": 435.32,
+          "end": 436.26
         }
       ]
     },
     {
       "id": 81,
-      "start": 355.11,
-      "end": 357.86,
-      "text": "Antigua has a perfect climate.",
+      "start": 436.72,
+      "end": 440.48,
+      "text": "It has mountains, history, and delicious food.",
       "words": [
         {
-          "word": "Antigua",
-          "startSec": 355.31,
-          "endSec": 356.25,
-          "score": 1.0
+          "word": "It",
+          "start": 436.72,
+          "end": 436.96
         },
         {
           "word": "has",
-          "startSec": 356.25,
-          "endSec": 356.59,
-          "score": 1.0
+          "start": 436.96,
+          "end": 437.24
         },
         {
-          "word": "a",
-          "startSec": 356.59,
-          "endSec": 356.77,
-          "score": 1.0
+          "word": "mountains,",
+          "start": 437.24,
+          "end": 437.74
         },
         {
-          "word": "perfect",
-          "startSec": 356.77,
-          "endSec": 357.25,
-          "score": 1.0
+          "word": "history,",
+          "start": 438.26,
+          "end": 438.72
         },
         {
-          "word": "climate.",
-          "startSec": 357.25,
-          "endSec": 357.71,
-          "score": 1.0
+          "word": "and",
+          "start": 438.9,
+          "end": 439.02
+        },
+        {
+          "word": "delicious",
+          "start": 439.02,
+          "end": 439.48
+        },
+        {
+          "word": "food.",
+          "start": 439.48,
+          "end": 440.48
         }
       ]
     },
     {
       "id": 82,
-      "start": 358.33,
-      "end": 361.66,
-      "text": "It's called the land of eternal spring.",
+      "start": 440.84,
+      "end": 445.27,
+      "text": "If you ever visit Central America, don't miss Antigua.",
       "words": [
         {
-          "word": "It's",
-          "startSec": 358.53,
-          "endSec": 359.01,
-          "score": 0.63
+          "word": "If",
+          "start": 440.84,
+          "end": 441.2
         },
         {
-          "word": "called",
-          "startSec": 359.01,
-          "endSec": 359.33,
-          "score": 0.99
+          "word": "you",
+          "start": 441.2,
+          "end": 441.36
         },
         {
-          "word": "the",
-          "startSec": 359.33,
-          "endSec": 359.61,
-          "score": 0.86
+          "word": "ever",
+          "start": 441.36,
+          "end": 441.7
         },
         {
-          "word": "land",
-          "startSec": 359.61,
-          "endSec": 360.19,
-          "score": 0.44
+          "word": "visit",
+          "start": 441.7,
+          "end": 442.18
         },
         {
-          "word": "of",
-          "startSec": 360.19,
-          "endSec": 360.51,
-          "score": 1.0
+          "word": "Central",
+          "start": 442.18,
+          "end": 442.62
         },
         {
-          "word": "eternal",
-          "startSec": 360.51,
-          "endSec": 360.83,
-          "score": 0.96
+          "word": "America,",
+          "start": 442.62,
+          "end": 443.28
         },
         {
-          "word": "spring.",
-          "startSec": 360.83,
-          "endSec": 361.51,
-          "score": 0.95
+          "word": "don't",
+          "start": 443.54,
+          "end": 443.88
+        },
+        {
+          "word": "miss",
+          "start": 443.88,
+          "end": 444.14
+        },
+        {
+          "word": "Antigua.",
+          "start": 444.14,
+          "end": 445.27
         }
       ]
     },
     {
       "id": 83,
-      "start": 362.13,
-      "end": 367.42,
-      "text": "The temperature is around 20 to 25 greases all year.",
+      "start": 445.44,
+      "end": 448.22,
+      "text": "It will make your heart warm and happy.",
       "words": [
         {
-          "word": "The",
-          "startSec": 362.33,
-          "endSec": 362.41,
-          "score": 0.97
+          "word": "It",
+          "start": 445.44,
+          "end": 445.52
         },
         {
-          "word": "temperature",
-          "startSec": 362.41,
-          "endSec": 362.91,
-          "score": 0.98
+          "word": "will",
+          "start": 445.52,
+          "end": 445.7
         },
         {
-          "word": "is",
-          "startSec": 362.91,
-          "endSec": 363.45,
-          "score": 1.0
+          "word": "make",
+          "start": 445.7,
+          "end": 445.92
         },
         {
-          "word": "around",
-          "startSec": 363.45,
-          "endSec": 363.73,
-          "score": 0.98
+          "word": "your",
+          "start": 445.92,
+          "end": 446.14
         },
         {
-          "word": "20",
-          "startSec": 363.73,
-          "endSec": 364.39,
-          "score": 0.93
+          "word": "heart",
+          "start": 446.14,
+          "end": 446.44
         },
         {
-          "word": "to",
-          "startSec": 364.39,
-          "endSec": 364.59,
-          "score": 0.75
+          "word": "warm",
+          "start": 446.44,
+          "end": 447.04
         },
         {
-          "word": "25",
-          "startSec": 364.59,
-          "endSec": 365.57,
-          "score": 0.99
+          "word": "and",
+          "start": 447.04,
+          "end": 447.36
         },
         {
-          "word": "greases",
-          "startSec": 365.57,
-          "endSec": 366.15,
-          "score": 0.33
-        },
-        {
-          "word": "all",
-          "startSec": 366.15,
-          "endSec": 366.83,
-          "score": 0.63
-        },
-        {
-          "word": "year.",
-          "startSec": 366.83,
-          "endSec": 367.27,
-          "score": 0.99
+          "word": "happy.",
+          "start": 447.36,
+          "end": 448.22
         }
       ]
     },
     {
       "id": 84,
-      "start": 367.81,
-      "end": 370.82,
-      "text": "Days are sunny and nights are cool.",
+      "start": 448.6,
+      "end": 449.36,
+      "text": "Goodbye.",
       "words": [
         {
-          "word": "Days",
-          "startSec": 368.01,
-          "endSec": 368.39,
-          "score": 0.97
-        },
-        {
-          "word": "are",
-          "startSec": 368.39,
-          "endSec": 368.75,
-          "score": 1.0
-        },
-        {
-          "word": "sunny",
-          "startSec": 368.75,
-          "endSec": 369.23,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 369.23,
-          "endSec": 369.79,
-          "score": 0.87
-        },
-        {
-          "word": "nights",
-          "startSec": 369.79,
-          "endSec": 370.05,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 370.05,
-          "endSec": 370.35,
-          "score": 0.99
-        },
-        {
-          "word": "cool.",
-          "startSec": 370.35,
-          "endSec": 370.67,
-          "score": 0.89
+          "word": "Goodbye.",
+          "start": 448.6,
+          "end": 449.36
         }
       ]
     },
     {
       "id": 85,
-      "start": 371.37,
-      "end": 374.44,
-      "text": "Sometimes it rains but not for long.",
-      "words": [
-        {
-          "word": "Sometimes",
-          "startSec": 371.57,
-          "endSec": 372.17,
-          "score": 0.98
-        },
-        {
-          "word": "it",
-          "startSec": 372.17,
-          "endSec": 372.59,
-          "score": 0.98
-        },
-        {
-          "word": "rains",
-          "startSec": 372.59,
-          "endSec": 372.87,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 372.87,
-          "endSec": 373.37,
-          "score": 0.67
-        },
-        {
-          "word": "not",
-          "startSec": 373.37,
-          "endSec": 373.67,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 373.67,
-          "endSec": 373.97,
-          "score": 0.99
-        },
-        {
-          "word": "long.",
-          "startSec": 373.97,
-          "endSec": 374.29,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 86,
-      "start": 375.07,
-      "end": 379.92,
-      "text": "People enjoy walking, drinking coffee, and relaxing outside.",
-      "words": [
-        {
-          "word": "People",
-          "startSec": 375.27,
-          "endSec": 375.33,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 375.33,
-          "endSec": 375.89,
-          "score": 1.0
-        },
-        {
-          "word": "walking,",
-          "startSec": 375.89,
-          "endSec": 376.77,
-          "score": 1.0
-        },
-        {
-          "word": "drinking",
-          "startSec": 377.15,
-          "endSec": 377.43,
-          "score": 1.0
-        },
-        {
-          "word": "coffee,",
-          "startSec": 377.43,
-          "endSec": 378.17,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 378.69,
-          "endSec": 378.77,
-          "score": 1.0
-        },
-        {
-          "word": "relaxing",
-          "startSec": 378.77,
-          "endSec": 379.21,
-          "score": 1.0
-        },
-        {
-          "word": "outside.",
-          "startSec": 379.21,
-          "endSec": 379.77,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "start": 381.64,
-      "end": 384.49,
-      "text": "Part 11, life in Antigua.",
-      "words": [
-        {
-          "word": "Part",
-          "startSec": 381.84,
-          "endSec": 381.84,
-          "score": 0.9
-        },
-        {
-          "word": "11,",
-          "startSec": 381.84,
-          "endSec": 382.22,
-          "score": 0.95
-        },
-        {
-          "word": "life",
-          "startSec": 383.42,
-          "endSec": 383.42,
-          "score": 0.52
-        },
-        {
-          "word": "in",
-          "startSec": 383.42,
-          "endSec": 383.64,
-          "score": 0.91
-        },
-        {
-          "word": "Antigua.",
-          "startSec": 383.64,
-          "endSec": 384.34,
-          "score": 0.96
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "start": 384.88,
-      "end": 388.25,
-      "text": "Life in Antigua is calm and joyful.",
-      "words": [
-        {
-          "word": "Life",
-          "startSec": 385.08,
-          "endSec": 385.46,
-          "score": 0.63
-        },
-        {
-          "word": "in",
-          "startSec": 385.46,
-          "endSec": 385.66,
-          "score": 0.93
-        },
-        {
-          "word": "Antigua",
-          "startSec": 385.66,
-          "endSec": 386.36,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 386.36,
-          "endSec": 386.62,
-          "score": 0.99
-        },
-        {
-          "word": "calm",
-          "startSec": 386.62,
-          "endSec": 387.14,
-          "score": 0.96
-        },
-        {
-          "word": "and",
-          "startSec": 387.14,
-          "endSec": 387.68,
-          "score": 0.99
-        },
-        {
-          "word": "joyful.",
-          "startSec": 387.68,
-          "endSec": 388.1,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 89,
-      "start": 389.42,
-      "end": 393.07,
-      "text": "People work in shops, farms, or cafes.",
-      "words": [
-        {
-          "word": "People",
-          "startSec": 389.62,
-          "endSec": 390.0,
-          "score": 0.99
-        },
-        {
-          "word": "work",
-          "startSec": 390.0,
-          "endSec": 390.32,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 390.32,
-          "endSec": 390.62,
-          "score": 1.0
-        },
-        {
-          "word": "shops,",
-          "startSec": 390.62,
-          "endSec": 391.04,
-          "score": 1.0
-        },
-        {
-          "word": "farms,",
-          "startSec": 391.26,
-          "endSec": 392.02,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 392.56,
-          "endSec": 392.56,
-          "score": 0.99
-        },
-        {
-          "word": "cafes.",
-          "startSec": 392.56,
-          "endSec": 392.92,
-          "score": 0.95
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "start": 393.92,
-      "end": 397.55,
-      "text": "Children go to school and play in the parks.",
-      "words": [
-        {
-          "word": "Children",
-          "startSec": 394.12,
-          "endSec": 394.52,
-          "score": 0.99
-        },
-        {
-          "word": "go",
-          "startSec": 394.52,
-          "endSec": 395.0,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 395.0,
-          "endSec": 395.18,
-          "score": 1.0
-        },
-        {
-          "word": "school",
-          "startSec": 395.18,
-          "endSec": 395.56,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 395.56,
-          "endSec": 396.26,
-          "score": 0.89
-        },
-        {
-          "word": "play",
-          "startSec": 396.26,
-          "endSec": 396.62,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 396.62,
-          "endSec": 396.9,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 396.9,
-          "endSec": 397.02,
-          "score": 1.0
-        },
-        {
-          "word": "parks.",
-          "startSec": 397.02,
-          "endSec": 397.4,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 91,
-      "start": 399.13,
-      "end": 402.76,
-      "text": "Foreign visitors come to learn Spanish or volunteer.",
-      "words": [
-        {
-          "word": "Foreign",
-          "startSec": 399.33,
-          "endSec": 399.33,
-          "score": 0.96
-        },
-        {
-          "word": "visitors",
-          "startSec": 399.33,
-          "endSec": 399.83,
-          "score": 1.0
-        },
-        {
-          "word": "come",
-          "startSec": 399.83,
-          "endSec": 400.39,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 400.39,
-          "endSec": 400.67,
-          "score": 1.0
-        },
-        {
-          "word": "learn",
-          "startSec": 400.67,
-          "endSec": 400.97,
-          "score": 0.99
-        },
-        {
-          "word": "Spanish",
-          "startSec": 400.97,
-          "endSec": 401.75,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 401.75,
-          "endSec": 402.09,
-          "score": 0.97
-        },
-        {
-          "word": "volunteer.",
-          "startSec": 402.09,
-          "endSec": 402.61,
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "start": 403.29,
-      "end": 407.54,
-      "text": "You can study in small schools and live with local families.",
-      "words": [
-        {
-          "word": "You",
-          "startSec": 403.49,
-          "endSec": 403.57,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 403.57,
-          "endSec": 403.75,
-          "score": 1.0
-        },
-        {
-          "word": "study",
-          "startSec": 403.75,
-          "endSec": 404.13,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 404.13,
-          "endSec": 404.45,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 404.45,
-          "endSec": 404.77,
-          "score": 0.99
-        },
-        {
-          "word": "schools",
-          "startSec": 404.77,
-          "endSec": 405.31,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 405.31,
-          "endSec": 405.89,
-          "score": 0.96
-        },
-        {
-          "word": "live",
-          "startSec": 405.89,
-          "endSec": 406.19,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 406.19,
-          "endSec": 406.43,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 406.43,
-          "endSec": 406.71,
-          "score": 1.0
-        },
-        {
-          "word": "families.",
-          "startSec": 406.71,
-          "endSec": 407.39,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "start": 408.3,
-      "end": 413.35,
-      "text": "There is time to talk, rest, and enjoy the simple things.",
-      "words": [
-        {
-          "word": "There",
-          "startSec": 408.5,
-          "endSec": 408.94,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 408.94,
-          "endSec": 409.14,
-          "score": 0.96
-        },
-        {
-          "word": "time",
-          "startSec": 409.14,
-          "endSec": 409.46,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 409.46,
-          "endSec": 409.78,
-          "score": 1.0
-        },
-        {
-          "word": "talk,",
-          "startSec": 409.78,
-          "endSec": 410.18,
-          "score": 1.0
-        },
-        {
-          "word": "rest,",
-          "startSec": 410.66,
-          "endSec": 411.06,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 411.66,
-          "endSec": 411.7,
-          "score": 1.0
-        },
-        {
-          "word": "enjoy",
-          "startSec": 411.7,
-          "endSec": 412.04,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 412.04,
-          "endSec": 412.36,
-          "score": 1.0
-        },
-        {
-          "word": "simple",
-          "startSec": 412.36,
-          "endSec": 412.64,
-          "score": 1.0
-        },
-        {
-          "word": "things.",
-          "startSec": 412.64,
-          "endSec": 413.2,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "start": 415.12,
-      "end": 419.13,
-      "text": "Part 12, goodbye from Antigua.",
-      "words": [
-        {
-          "word": "Part",
-          "startSec": 415.32,
-          "endSec": 415.72,
-          "score": 0.4
-        },
-        {
-          "word": "12,",
-          "startSec": 415.72,
-          "endSec": 416.42,
-          "score": 0.94
-        },
-        {
-          "word": "goodbye",
-          "startSec": 417.04,
-          "endSec": 417.5,
-          "score": 0.25
-        },
-        {
-          "word": "from",
-          "startSec": 417.5,
-          "endSec": 418.12,
-          "score": 0.95
-        },
-        {
-          "word": "Antigua.",
-          "startSec": 418.12,
-          "endSec": 418.98,
-          "score": 0.93
-        }
-      ]
-    },
-    {
-      "id": 95,
-      "start": 423.32,
-      "end": 429.85,
-      "text": "I'm Emily, and today we explored the beautiful city of Antigua, Guatemala.",
-      "words": [
-        {
-          "word": "I'm",
-          "startSec": 423.52,
-          "endSec": 423.9,
-          "score": 0.98
-        },
-        {
-          "word": "Emily,",
-          "startSec": 423.9,
-          "endSec": 424.1,
-          "score": 0.92
-        },
-        {
-          "word": "and",
-          "startSec": 424.74,
-          "endSec": 424.96,
-          "score": 0.99
-        },
-        {
-          "word": "today",
-          "startSec": 424.96,
-          "endSec": 425.36,
-          "score": 0.99
-        },
-        {
-          "word": "we",
-          "startSec": 425.36,
-          "endSec": 425.8,
-          "score": 0.92
-        },
-        {
-          "word": "explored",
-          "startSec": 425.8,
-          "endSec": 426.34,
-          "score": 0.9
-        },
-        {
-          "word": "the",
-          "startSec": 426.34,
-          "endSec": 426.7,
-          "score": 0.99
-        },
-        {
-          "word": "beautiful",
-          "startSec": 426.7,
-          "endSec": 427.06,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 427.06,
-          "endSec": 427.7,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 427.7,
-          "endSec": 428.1,
-          "score": 1.0
-        },
-        {
-          "word": "Antigua,",
-          "startSec": 428.1,
-          "endSec": 429.14,
-          "score": 0.99
-        },
-        {
-          "word": "Guatemala.",
-          "startSec": 429.3,
-          "endSec": 429.7,
-          "score": 0.94
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "start": 431.28,
-      "end": 435.81,
-      "text": "Antigua is the city of color, peace, and smiles.",
-      "words": [
-        {
-          "word": "Antigua",
-          "startSec": 431.48,
-          "endSec": 432.28,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 432.28,
-          "endSec": 432.82,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 432.82,
-          "endSec": 433.02,
-          "score": 0.56
-        },
-        {
-          "word": "city",
-          "startSec": 433.02,
-          "endSec": 433.38,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 433.38,
-          "endSec": 433.62,
-          "score": 1.0
-        },
-        {
-          "word": "color,",
-          "startSec": 433.62,
-          "endSec": 434.08,
-          "score": 0.96
-        },
-        {
-          "word": "peace,",
-          "startSec": 434.46,
-          "endSec": 434.72,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 435.22,
-          "endSec": 435.26,
-          "score": 1.0
-        },
-        {
-          "word": "smiles.",
-          "startSec": 435.26,
-          "endSec": 435.66,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 97,
-      "start": 436.48,
-      "end": 440.09,
-      "text": "It has mountains, history, and delicious food.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 436.68,
-          "endSec": 436.92,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 436.92,
-          "endSec": 437.14,
-          "score": 1.0
-        },
-        {
-          "word": "mountains,",
-          "startSec": 437.14,
-          "endSec": 437.5,
-          "score": 0.99
-        },
-        {
-          "word": "history,",
-          "startSec": 438.28,
-          "endSec": 438.36,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 438.66,
-          "endSec": 438.94,
-          "score": 1.0
-        },
-        {
-          "word": "delicious",
-          "startSec": 438.94,
-          "endSec": 439.34,
-          "score": 1.0
-        },
-        {
-          "word": "food.",
-          "startSec": 439.34,
-          "endSec": 439.94,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "start": 440.56,
-      "end": 445.11,
-      "text": "If you ever visit Central America, don't miss Antigua.",
-      "words": [
-        {
-          "word": "If",
-          "startSec": 440.76,
-          "endSec": 441.1,
-          "score": 0.64
-        },
-        {
-          "word": "you",
-          "startSec": 441.1,
-          "endSec": 441.32,
-          "score": 0.99
-        },
-        {
-          "word": "ever",
-          "startSec": 441.32,
-          "endSec": 441.66,
-          "score": 0.99
-        },
-        {
-          "word": "visit",
-          "startSec": 441.66,
-          "endSec": 442.06,
-          "score": 1.0
-        },
-        {
-          "word": "Central",
-          "startSec": 442.06,
-          "endSec": 442.6,
-          "score": 0.98
-        },
-        {
-          "word": "America,",
-          "startSec": 442.6,
-          "endSec": 443.32,
-          "score": 0.99
-        },
-        {
-          "word": "don't",
-          "startSec": 443.54,
-          "endSec": 443.82,
-          "score": 0.99
-        },
-        {
-          "word": "miss",
-          "startSec": 443.82,
-          "endSec": 444.08,
-          "score": 0.96
-        },
-        {
-          "word": "Antigua.",
-          "startSec": 444.08,
-          "endSec": 444.96,
-          "score": 0.9
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "start": 445.2,
-      "end": 447.95,
-      "text": "It will make your heart warm and happy.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 445.4,
-          "endSec": 445.48,
-          "score": 0.99
-        },
-        {
-          "word": "will",
-          "startSec": 445.48,
-          "endSec": 445.64,
-          "score": 0.99
-        },
-        {
-          "word": "make",
-          "startSec": 445.64,
-          "endSec": 445.86,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 445.86,
-          "endSec": 446.1,
-          "score": 0.99
-        },
-        {
-          "word": "heart",
-          "startSec": 446.1,
-          "endSec": 446.36,
-          "score": 1.0
-        },
-        {
-          "word": "warm",
-          "startSec": 446.36,
-          "endSec": 446.82,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 446.82,
-          "endSec": 447.28,
-          "score": 0.99
-        },
-        {
-          "word": "happy.",
-          "startSec": 447.28,
-          "endSec": 447.8,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "start": 448.4,
-      "end": 448.93,
-      "text": "Goodbye.",
-      "words": [
-        {
-          "word": "Goodbye.",
-          "startSec": 448.6,
-          "endSec": 448.78,
-          "score": 0.66
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "start": 449.5,
-      "end": 453.67,
-      "text": "Or as people in Guatemala say, Adios y Gracias.",
+      "start": 449.82,
+      "end": 453.77,
+      "text": "Or as people in Guatemala say, adios y gracias.",
       "words": [
         {
           "word": "Or",
-          "startSec": 449.7,
-          "endSec": 449.92,
-          "score": 0.88
+          "start": 449.82,
+          "end": 449.96
         },
         {
           "word": "as",
-          "startSec": 449.92,
-          "endSec": 450.12,
-          "score": 0.79
+          "start": 449.96,
+          "end": 450.14
         },
         {
           "word": "people",
-          "startSec": 450.12,
-          "endSec": 450.34,
-          "score": 0.89
+          "start": 450.14,
+          "end": 450.5
         },
         {
           "word": "in",
-          "startSec": 450.34,
-          "endSec": 450.7,
-          "score": 0.99
+          "start": 450.5,
+          "end": 450.76
         },
         {
           "word": "Guatemala",
-          "startSec": 450.7,
-          "endSec": 450.98,
-          "score": 0.99
+          "start": 450.76,
+          "end": 451.22
         },
         {
           "word": "say,",
-          "startSec": 450.98,
-          "endSec": 451.88,
-          "score": 0.99
+          "start": 451.22,
+          "end": 451.92
         },
         {
-          "word": "Adios",
-          "startSec": 452.42,
-          "endSec": 452.72,
-          "score": 0.41
+          "word": "adios",
+          "start": 452.38,
+          "end": 452.8
         },
         {
           "word": "y",
-          "startSec": 452.72,
-          "endSec": 452.98,
-          "score": 0.23
+          "start": 452.8,
+          "end": 453.02
         },
         {
-          "word": "Gracias.",
-          "startSec": 452.98,
-          "endSec": 453.52,
-          "score": 0.71
+          "word": "gracias.",
+          "start": 453.02,
+          "end": 453.77
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 85
 }

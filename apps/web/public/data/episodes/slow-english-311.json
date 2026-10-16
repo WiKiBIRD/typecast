@@ -15,2239 +15,2709 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.49,
-      "end": 4.66,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast.",
+      "start": 2.72,
+      "end": 5.02,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.69,
-          "endSec": 1.15,
-          "score": 0.8
-        },
-        {
-          "word": "everyone.",
-          "startSec": 1.35,
-          "endSec": 1.79,
-          "score": 0.98
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.53,
-          "endSec": 3.05,
-          "score": 1.0
+          "start": 2.72,
+          "end": 3.02
         },
         {
           "word": "to",
-          "startSec": 3.05,
-          "endSec": 3.31,
-          "score": 1.0
+          "start": 3.02,
+          "end": 3.34
         },
         {
           "word": "the",
-          "startSec": 3.31,
-          "endSec": 3.45,
-          "score": 0.95
+          "start": 3.34,
+          "end": 3.54
         },
         {
           "word": "Slow",
-          "startSec": 3.45,
-          "endSec": 3.67,
-          "score": 0.84
+          "start": 3.54,
+          "end": 3.78
         },
         {
           "word": "English",
-          "startSec": 3.67,
-          "endSec": 4.01,
-          "score": 0.96
+          "start": 3.78,
+          "end": 4.08
         },
         {
           "word": "Podcast.",
-          "startSec": 4.01,
-          "endSec": 4.51,
-          "score": 0.88
+          "start": 4.08,
+          "end": 5.02
         }
       ]
     },
     {
       "id": 2,
-      "start": 5.25,
-      "end": 22.96,
-      "text": "My name is Emili. Today we visit Belgium. Our city today is Louven. Louven is lively. Louven is historic. Louven is full of young energy. Please relax. Please listen slowly.",
+      "start": 5.74,
+      "end": 7.08,
+      "text": "My name is Emily.",
       "words": [
         {
           "word": "My",
-          "startSec": 5.45,
-          "endSec": 5.95,
-          "score": 0.97
+          "start": 5.74,
+          "end": 6.02
         },
         {
           "word": "name",
-          "startSec": 5.95,
-          "endSec": 6.19,
-          "score": 1.0
+          "start": 6.02,
+          "end": 6.32
         },
         {
           "word": "is",
-          "startSec": 6.19,
-          "endSec": 6.51,
-          "score": 1.0
+          "start": 6.32,
+          "end": 6.54
         },
         {
-          "word": "Emili.",
-          "startSec": 6.51,
-          "endSec": 6.83,
-          "score": 0.35
-        },
-        {
-          "word": "Today",
-          "startSec": 7.35,
-          "endSec": 7.71,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 7.71,
-          "endSec": 8.03,
-          "score": 0.62
-        },
-        {
-          "word": "visit",
-          "startSec": 8.03,
-          "endSec": 8.41,
-          "score": 1.0
-        },
-        {
-          "word": "Belgium.",
-          "startSec": 8.41,
-          "endSec": 8.81,
-          "score": 0.96
-        },
-        {
-          "word": "Our",
-          "startSec": 9.83,
-          "endSec": 9.99,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 9.99,
-          "endSec": 10.37,
-          "score": 0.98
-        },
-        {
-          "word": "today",
-          "startSec": 10.37,
-          "endSec": 10.89,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 10.89,
-          "endSec": 11.19,
-          "score": 1.0
-        },
-        {
-          "word": "Louven.",
-          "startSec": 11.19,
-          "endSec": 11.69,
-          "score": 0.33
-        },
-        {
-          "word": "Louven",
-          "startSec": 12.17,
-          "endSec": 12.89,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 12.89,
-          "endSec": 13.13,
-          "score": 1.0
-        },
-        {
-          "word": "lively.",
-          "startSec": 13.13,
-          "endSec": 13.55,
-          "score": 0.99
-        },
-        {
-          "word": "Louven",
-          "startSec": 14.77,
-          "endSec": 14.99,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 14.99,
-          "endSec": 15.23,
-          "score": 1.0
-        },
-        {
-          "word": "historic.",
-          "startSec": 15.23,
-          "endSec": 15.75,
-          "score": 1.0
-        },
-        {
-          "word": "Louven",
-          "startSec": 16.97,
-          "endSec": 17.25,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 17.25,
-          "endSec": 17.45,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 17.45,
-          "endSec": 17.77,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 17.77,
-          "endSec": 18.05,
-          "score": 1.0
-        },
-        {
-          "word": "young",
-          "startSec": 18.05,
-          "endSec": 18.37,
-          "score": 0.96
-        },
-        {
-          "word": "energy.",
-          "startSec": 18.37,
-          "endSec": 18.91,
-          "score": 1.0
-        },
-        {
-          "word": "Please",
-          "startSec": 19.95,
-          "endSec": 20.05,
-          "score": 1.0
-        },
-        {
-          "word": "relax.",
-          "startSec": 20.05,
-          "endSec": 20.59,
-          "score": 0.99
-        },
-        {
-          "word": "Please",
-          "startSec": 21.51,
-          "endSec": 21.87,
-          "score": 1.0
-        },
-        {
-          "word": "listen",
-          "startSec": 21.87,
-          "endSec": 22.41,
-          "score": 1.0
-        },
-        {
-          "word": "slowly.",
-          "startSec": 22.41,
-          "endSec": 22.81,
-          "score": 1.0
+          "word": "Emily.",
+          "start": 6.54,
+          "end": 7.08
         }
       ]
     },
     {
       "id": 3,
-      "start": 23.57,
-      "end": 38.9,
-      "text": "Let's begin. Part two, Belgium in simple words. Belgium is a small country in Europe. It has different languages. People speak Dutch. People speak French.",
+      "start": 7.3,
+      "end": 9.42,
+      "text": "Today we visit Belgium.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 23.77,
-          "endSec": 24.19,
-          "score": 0.76
+          "word": "Today",
+          "start": 7.3,
+          "end": 7.76
         },
         {
-          "word": "begin.",
-          "startSec": 24.19,
-          "endSec": 24.53,
-          "score": 0.99
+          "word": "we",
+          "start": 7.76,
+          "end": 8.06
         },
         {
-          "word": "Part",
-          "startSec": 26.47,
-          "endSec": 26.79,
-          "score": 0.91
+          "word": "visit",
+          "start": 8.06,
+          "end": 8.5
         },
         {
-          "word": "two,",
-          "startSec": 26.79,
-          "endSec": 27.39,
-          "score": 0.5
-        },
-        {
-          "word": "Belgium",
-          "startSec": 27.71,
-          "endSec": 27.93,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 27.93,
-          "endSec": 28.35,
-          "score": 0.45
-        },
-        {
-          "word": "simple",
-          "startSec": 28.35,
-          "endSec": 28.77,
-          "score": 0.97
-        },
-        {
-          "word": "words.",
-          "startSec": 28.77,
-          "endSec": 29.25,
-          "score": 1.0
-        },
-        {
-          "word": "Belgium",
-          "startSec": 30.09,
-          "endSec": 30.45,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 30.45,
-          "endSec": 30.87,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 30.87,
-          "endSec": 31.01,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 31.01,
-          "endSec": 31.33,
-          "score": 1.0
-        },
-        {
-          "word": "country",
-          "startSec": 31.33,
-          "endSec": 31.71,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 31.71,
-          "endSec": 32.17,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 32.17,
-          "endSec": 32.51,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 33.33,
-          "endSec": 33.55,
-          "score": 1.0
-        },
-        {
-          "word": "has",
-          "startSec": 33.55,
-          "endSec": 33.77,
-          "score": 1.0
-        },
-        {
-          "word": "different",
-          "startSec": 33.77,
-          "endSec": 34.05,
-          "score": 1.0
-        },
-        {
-          "word": "languages.",
-          "startSec": 34.05,
-          "endSec": 34.79,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 35.83,
-          "endSec": 36.11,
-          "score": 0.99
-        },
-        {
-          "word": "speak",
-          "startSec": 36.11,
-          "endSec": 36.63,
-          "score": 1.0
-        },
-        {
-          "word": "Dutch.",
-          "startSec": 36.63,
-          "endSec": 37.11,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 37.85,
-          "endSec": 37.91,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 37.91,
-          "endSec": 38.37,
-          "score": 1.0
-        },
-        {
-          "word": "French.",
-          "startSec": 38.37,
-          "endSec": 38.75,
-          "score": 1.0
+          "word": "Belgium.",
+          "start": 8.5,
+          "end": 9.42
         }
       ]
     },
     {
       "id": 4,
-      "start": 40.21,
-      "end": 53.87,
-      "text": "Belgium loves food. Belgium loves culture. Louven shows this mix very well. Part three. Where is Louven? Louven is in the north of Belgium.",
+      "start": 9.92,
+      "end": 12.12,
+      "text": "Our city today is Luven.",
       "words": [
         {
-          "word": "Belgium",
-          "startSec": 40.41,
-          "endSec": 40.41,
-          "score": 1.0
+          "word": "Our",
+          "start": 9.92,
+          "end": 10.08
         },
         {
-          "word": "loves",
-          "startSec": 40.41,
-          "endSec": 40.75,
-          "score": 1.0
+          "word": "city",
+          "start": 10.08,
+          "end": 10.46
         },
         {
-          "word": "food.",
-          "startSec": 40.75,
-          "endSec": 41.21,
-          "score": 1.0
-        },
-        {
-          "word": "Belgium",
-          "startSec": 42.01,
-          "endSec": 42.01,
-          "score": 0.99
-        },
-        {
-          "word": "loves",
-          "startSec": 42.01,
-          "endSec": 42.53,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 42.53,
-          "endSec": 42.87,
-          "score": 1.0
-        },
-        {
-          "word": "Louven",
-          "startSec": 44.17,
-          "endSec": 44.37,
-          "score": 0.29
-        },
-        {
-          "word": "shows",
-          "startSec": 44.37,
-          "endSec": 44.69,
-          "score": 0.9
-        },
-        {
-          "word": "this",
-          "startSec": 44.69,
-          "endSec": 45.11,
-          "score": 0.99
-        },
-        {
-          "word": "mix",
-          "startSec": 45.11,
-          "endSec": 45.39,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 45.39,
-          "endSec": 45.91,
-          "score": 1.0
-        },
-        {
-          "word": "well.",
-          "startSec": 45.91,
-          "endSec": 46.39,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 47.75,
-          "endSec": 47.75,
-          "score": 0.96
-        },
-        {
-          "word": "three.",
-          "startSec": 47.75,
-          "endSec": 48.21,
-          "score": 0.96
-        },
-        {
-          "word": "Where",
-          "startSec": 49.35,
-          "endSec": 49.35,
-          "score": 0.98
+          "word": "today",
+          "start": 10.46,
+          "end": 10.88
         },
         {
           "word": "is",
-          "startSec": 49.35,
-          "endSec": 49.65,
-          "score": 0.64
+          "start": 10.88,
+          "end": 11.24
         },
         {
-          "word": "Louven?",
-          "startSec": 49.65,
-          "endSec": 50.09,
-          "score": 0.97
-        },
-        {
-          "word": "Louven",
-          "startSec": 51.24,
-          "endSec": 52.08,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 52.08,
-          "endSec": 52.36,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 52.36,
-          "endSec": 52.56,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 52.56,
-          "endSec": 52.72,
-          "score": 1.0
-        },
-        {
-          "word": "north",
-          "startSec": 52.72,
-          "endSec": 53.0,
-          "score": 0.86
-        },
-        {
-          "word": "of",
-          "startSec": 53.0,
-          "endSec": 53.28,
-          "score": 1.0
-        },
-        {
-          "word": "Belgium.",
-          "startSec": 53.28,
-          "endSec": 53.72,
-          "score": 1.0
+          "word": "Luven.",
+          "start": 11.24,
+          "end": 12.12
         }
       ]
     },
     {
       "id": 5,
-      "start": 54.4,
-      "end": 72.89,
-      "text": "It is near Brussels. The city is easy to reach. Trains come often. Louven feels open. It feels connected. Part four, weather and daily life. Louven has cool weather. Rain comes often.",
+      "start": 12.38,
+      "end": 14.18,
+      "text": "Luven is lively.",
       "words": [
         {
-          "word": "It",
-          "startSec": 54.6,
-          "endSec": 54.82,
-          "score": 0.83
+          "word": "Luven",
+          "start": 12.38,
+          "end": 12.96
         },
         {
           "word": "is",
-          "startSec": 54.82,
-          "endSec": 55.02,
-          "score": 0.98
+          "start": 12.96,
+          "end": 13.22
         },
         {
-          "word": "near",
-          "startSec": 55.02,
-          "endSec": 55.24,
-          "score": 1.0
-        },
-        {
-          "word": "Brussels.",
-          "startSec": 55.24,
-          "endSec": 55.76,
-          "score": 0.93
-        },
-        {
-          "word": "The",
-          "startSec": 56.96,
-          "endSec": 57.06,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 57.06,
-          "endSec": 57.38,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 57.38,
-          "endSec": 57.78,
-          "score": 1.0
-        },
-        {
-          "word": "easy",
-          "startSec": 57.78,
-          "endSec": 58.2,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 58.2,
-          "endSec": 58.58,
-          "score": 1.0
-        },
-        {
-          "word": "reach.",
-          "startSec": 58.58,
-          "endSec": 58.92,
-          "score": 1.0
-        },
-        {
-          "word": "Trains",
-          "startSec": 59.52,
-          "endSec": 59.98,
-          "score": 0.9
-        },
-        {
-          "word": "come",
-          "startSec": 59.98,
-          "endSec": 60.26,
-          "score": 0.99
-        },
-        {
-          "word": "often.",
-          "startSec": 60.26,
-          "endSec": 60.74,
-          "score": 1.0
-        },
-        {
-          "word": "Louven",
-          "startSec": 61.8,
-          "endSec": 62.1,
-          "score": 0.1
-        },
-        {
-          "word": "feels",
-          "startSec": 62.1,
-          "endSec": 62.5,
-          "score": 0.99
-        },
-        {
-          "word": "open.",
-          "startSec": 62.5,
-          "endSec": 63.04,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 63.66,
-          "endSec": 63.72,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 63.72,
-          "endSec": 64.04,
-          "score": 1.0
-        },
-        {
-          "word": "connected.",
-          "startSec": 64.04,
-          "endSec": 64.56,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 65.82,
-          "endSec": 65.82,
-          "score": 0.75
-        },
-        {
-          "word": "four,",
-          "startSec": 65.82,
-          "endSec": 66.28,
-          "score": 0.56
-        },
-        {
-          "word": "weather",
-          "startSec": 66.7,
-          "endSec": 67.08,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 67.08,
-          "endSec": 67.52,
-          "score": 0.95
-        },
-        {
-          "word": "daily",
-          "startSec": 67.52,
-          "endSec": 67.82,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 67.82,
-          "endSec": 68.34,
-          "score": 1.0
-        },
-        {
-          "word": "Louven",
-          "startSec": 69.5,
-          "endSec": 69.82,
-          "score": 0.96
-        },
-        {
-          "word": "has",
-          "startSec": 69.82,
-          "endSec": 70.06,
-          "score": 1.0
-        },
-        {
-          "word": "cool",
-          "startSec": 70.06,
-          "endSec": 70.42,
-          "score": 1.0
-        },
-        {
-          "word": "weather.",
-          "startSec": 70.42,
-          "endSec": 70.88,
-          "score": 1.0
-        },
-        {
-          "word": "Rain",
-          "startSec": 71.58,
-          "endSec": 71.82,
-          "score": 0.98
-        },
-        {
-          "word": "comes",
-          "startSec": 71.82,
-          "endSec": 72.22,
-          "score": 0.99
-        },
-        {
-          "word": "often.",
-          "startSec": 72.22,
-          "endSec": 72.74,
-          "score": 1.0
+          "word": "lively.",
+          "start": 13.22,
+          "end": 14.18
         }
       ]
     },
     {
       "id": 6,
-      "start": 72.54,
-      "end": 88.83,
-      "text": "Summers are mild. Winters are cold. People wear jackets. Cafes feel warm. The city feels cozy. Part five. History of Louven. Louven has a long history.",
+      "start": 14.54,
+      "end": 16.28,
+      "text": "Luven is historic.",
       "words": [
         {
-          "word": "Summers",
-          "startSec": 72.74,
-          "endSec": 73.68,
-          "score": 0.0
+          "word": "Luven",
+          "start": 14.54,
+          "end": 15.06
         },
         {
-          "word": "are",
-          "startSec": 73.68,
-          "endSec": 74.0,
-          "score": 0.98
+          "word": "is",
+          "start": 15.06,
+          "end": 15.3
         },
         {
-          "word": "mild.",
-          "startSec": 74.0,
-          "endSec": 74.26,
-          "score": 0.97
-        },
-        {
-          "word": "Winters",
-          "startSec": 75.24,
-          "endSec": 75.8,
-          "score": 0.74
-        },
-        {
-          "word": "are",
-          "startSec": 75.8,
-          "endSec": 76.04,
-          "score": 1.0
-        },
-        {
-          "word": "cold.",
-          "startSec": 76.04,
-          "endSec": 76.42,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 76.9,
-          "endSec": 77.18,
-          "score": 1.0
-        },
-        {
-          "word": "wear",
-          "startSec": 77.18,
-          "endSec": 77.46,
-          "score": 1.0
-        },
-        {
-          "word": "jackets.",
-          "startSec": 77.46,
-          "endSec": 77.84,
-          "score": 0.99
-        },
-        {
-          "word": "Cafes",
-          "startSec": 78.82,
-          "endSec": 79.4,
-          "score": 0.47
-        },
-        {
-          "word": "feel",
-          "startSec": 79.4,
-          "endSec": 79.86,
-          "score": 1.0
-        },
-        {
-          "word": "warm.",
-          "startSec": 79.86,
-          "endSec": 80.36,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 81.18,
-          "endSec": 81.28,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 81.28,
-          "endSec": 81.56,
-          "score": 0.97
-        },
-        {
-          "word": "feels",
-          "startSec": 81.56,
-          "endSec": 82.1,
-          "score": 1.0
-        },
-        {
-          "word": "cozy.",
-          "startSec": 82.1,
-          "endSec": 82.42,
-          "score": 0.94
-        },
-        {
-          "word": "Part",
-          "startSec": 83.84,
-          "endSec": 84.04,
-          "score": 0.7
-        },
-        {
-          "word": "five.",
-          "startSec": 84.04,
-          "endSec": 84.66,
-          "score": 0.2
-        },
-        {
-          "word": "History",
-          "startSec": 85.36,
-          "endSec": 85.72,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 85.72,
-          "endSec": 86.0,
-          "score": 1.0
-        },
-        {
-          "word": "Louven.",
-          "startSec": 86.0,
-          "endSec": 86.5,
-          "score": 0.17
-        },
-        {
-          "word": "Louven",
-          "startSec": 87.0,
-          "endSec": 87.44,
-          "score": 0.98
-        },
-        {
-          "word": "has",
-          "startSec": 87.44,
-          "endSec": 87.68,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 87.68,
-          "endSec": 87.9,
-          "score": 1.0
-        },
-        {
-          "word": "long",
-          "startSec": 87.9,
-          "endSec": 88.14,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 88.14,
-          "endSec": 88.68,
-          "score": 1.0
+          "word": "historic.",
+          "start": 15.3,
+          "end": 16.28
         }
       ]
     },
     {
       "id": 7,
-      "start": 88.48,
-      "end": 114.42,
-      "text": "It is an old city. Kings passed here. Scholars lived here. The city changed over time. But history stayed. Past and present lived together. Part six. Streets and architecture streets and Louven are neat. Buildings are elegant. You see old churches.",
+      "start": 16.66,
+      "end": 19.48,
+      "text": "Luven is full of young energy.",
       "words": [
         {
-          "word": "It",
-          "startSec": 88.68,
-          "endSec": 89.68,
-          "score": 0.21
+          "word": "Luven",
+          "start": 16.66,
+          "end": 17.32
         },
         {
           "word": "is",
-          "startSec": 89.68,
-          "endSec": 89.86,
-          "score": 0.96
+          "start": 17.32,
+          "end": 17.54
         },
         {
-          "word": "an",
-          "startSec": 89.86,
-          "endSec": 90.04,
-          "score": 0.95
+          "word": "full",
+          "start": 17.54,
+          "end": 17.92
         },
         {
-          "word": "old",
-          "startSec": 90.04,
-          "endSec": 90.34,
-          "score": 0.93
+          "word": "of",
+          "start": 17.92,
+          "end": 18.14
         },
         {
-          "word": "city.",
-          "startSec": 90.34,
-          "endSec": 90.7,
-          "score": 0.99
+          "word": "young",
+          "start": 18.14,
+          "end": 18.48
         },
         {
-          "word": "Kings",
-          "startSec": 91.46,
-          "endSec": 91.86,
-          "score": 0.7
-        },
-        {
-          "word": "passed",
-          "startSec": 91.86,
-          "endSec": 92.32,
-          "score": 0.61
-        },
-        {
-          "word": "here.",
-          "startSec": 92.32,
-          "endSec": 92.86,
-          "score": 1.0
-        },
-        {
-          "word": "Scholars",
-          "startSec": 93.3,
-          "endSec": 93.88,
-          "score": 0.99
-        },
-        {
-          "word": "lived",
-          "startSec": 93.88,
-          "endSec": 94.38,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 94.38,
-          "endSec": 94.8,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 95.66,
-          "endSec": 95.8,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 95.8,
-          "endSec": 96.14,
-          "score": 0.99
-        },
-        {
-          "word": "changed",
-          "startSec": 96.14,
-          "endSec": 96.64,
-          "score": 1.0
-        },
-        {
-          "word": "over",
-          "startSec": 96.64,
-          "endSec": 97.02,
-          "score": 0.99
-        },
-        {
-          "word": "time.",
-          "startSec": 97.02,
-          "endSec": 97.54,
-          "score": 1.0
-        },
-        {
-          "word": "But",
-          "startSec": 98.56,
-          "endSec": 98.66,
-          "score": 0.99
-        },
-        {
-          "word": "history",
-          "startSec": 98.66,
-          "endSec": 98.98,
-          "score": 0.98
-        },
-        {
-          "word": "stayed.",
-          "startSec": 98.98,
-          "endSec": 99.74,
-          "score": 1.0
-        },
-        {
-          "word": "Past",
-          "startSec": 100.56,
-          "endSec": 100.96,
-          "score": 0.95
-        },
-        {
-          "word": "and",
-          "startSec": 100.96,
-          "endSec": 101.34,
-          "score": 1.0
-        },
-        {
-          "word": "present",
-          "startSec": 101.34,
-          "endSec": 101.72,
-          "score": 0.99
-        },
-        {
-          "word": "lived",
-          "startSec": 101.72,
-          "endSec": 102.3,
-          "score": 0.81
-        },
-        {
-          "word": "together.",
-          "startSec": 102.3,
-          "endSec": 102.82,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 103.94,
-          "endSec": 104.2,
-          "score": 0.66
-        },
-        {
-          "word": "six.",
-          "startSec": 104.2,
-          "endSec": 104.8,
-          "score": 0.6
-        },
-        {
-          "word": "Streets",
-          "startSec": 105.64,
-          "endSec": 106.38,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 106.38,
-          "endSec": 106.64,
-          "score": 0.98
-        },
-        {
-          "word": "architecture",
-          "startSec": 106.64,
-          "endSec": 107.12,
-          "score": 0.98
-        },
-        {
-          "word": "streets",
-          "startSec": 107.12,
-          "endSec": 108.12,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 108.12,
-          "endSec": 108.5,
-          "score": 0.61
-        },
-        {
-          "word": "Louven",
-          "startSec": 108.5,
-          "endSec": 108.96,
-          "score": 0.1
-        },
-        {
-          "word": "are",
-          "startSec": 108.96,
-          "endSec": 109.24,
-          "score": 0.93
-        },
-        {
-          "word": "neat.",
-          "startSec": 109.24,
-          "endSec": 109.58,
-          "score": 0.99
-        },
-        {
-          "word": "Buildings",
-          "startSec": 110.57,
-          "endSec": 111.17,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 111.17,
-          "endSec": 111.55,
-          "score": 1.0
-        },
-        {
-          "word": "elegant.",
-          "startSec": 111.55,
-          "endSec": 111.95,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 113.17,
-          "endSec": 113.23,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 113.23,
-          "endSec": 113.53,
-          "score": 1.0
-        },
-        {
-          "word": "old",
-          "startSec": 113.53,
-          "endSec": 113.87,
-          "score": 0.99
-        },
-        {
-          "word": "churches.",
-          "startSec": 113.87,
-          "endSec": 114.27,
-          "score": 1.0
+          "word": "energy.",
+          "start": 18.48,
+          "end": 19.48
         }
       ]
     },
     {
       "id": 8,
-      "start": 114.07,
-      "end": 124.2,
-      "text": "You see modern spaces. Everything feels balanced. Nothing feels too much. Walking is enjoyable.",
+      "start": 19.72,
+      "end": 21.14,
+      "text": "Please relax.",
       "words": [
         {
-          "word": "You",
-          "startSec": 114.27,
-          "endSec": 114.69,
-          "score": 0.05
+          "word": "Please",
+          "start": 19.72,
+          "end": 20.1
         },
         {
-          "word": "see",
-          "startSec": 114.69,
-          "endSec": 116.07,
-          "score": 0.93
-        },
-        {
-          "word": "modern",
-          "startSec": 116.07,
-          "endSec": 116.51,
-          "score": 0.93
-        },
-        {
-          "word": "spaces.",
-          "startSec": 116.51,
-          "endSec": 117.01,
-          "score": 0.98
-        },
-        {
-          "word": "Everything",
-          "startSec": 117.91,
-          "endSec": 118.33,
-          "score": 0.97
-        },
-        {
-          "word": "feels",
-          "startSec": 118.33,
-          "endSec": 118.99,
-          "score": 0.99
-        },
-        {
-          "word": "balanced.",
-          "startSec": 118.99,
-          "endSec": 119.53,
-          "score": 0.99
-        },
-        {
-          "word": "Nothing",
-          "startSec": 120.49,
-          "endSec": 120.75,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 120.75,
-          "endSec": 121.17,
-          "score": 1.0
-        },
-        {
-          "word": "too",
-          "startSec": 121.17,
-          "endSec": 121.53,
-          "score": 0.98
-        },
-        {
-          "word": "much.",
-          "startSec": 121.53,
-          "endSec": 121.95,
-          "score": 1.0
-        },
-        {
-          "word": "Walking",
-          "startSec": 122.65,
-          "endSec": 123.31,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 123.31,
-          "endSec": 123.61,
-          "score": 1.0
-        },
-        {
-          "word": "enjoyable.",
-          "startSec": 123.61,
-          "endSec": 124.05,
-          "score": 1.0
+          "word": "relax.",
+          "start": 20.1,
+          "end": 21.14
         }
       ]
     },
     {
       "id": 9,
-      "start": 125.47,
-      "end": 141.49,
-      "text": "Part seven, the main square. The main square is important. People meet there. There are cafes. There are restaurants. People talk. People relax. Life flows through the square.",
+      "start": 21.54,
+      "end": 23.42,
+      "text": "Please listen slowly.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 125.67,
-          "endSec": 125.85,
-          "score": 0.39
+          "word": "Please",
+          "start": 21.54,
+          "end": 21.94
         },
         {
-          "word": "seven,",
-          "startSec": 125.85,
-          "endSec": 126.77,
-          "score": 0.4
+          "word": "listen",
+          "start": 21.94,
+          "end": 22.46
         },
         {
-          "word": "the",
-          "startSec": 127.43,
-          "endSec": 127.45,
-          "score": 0.74
-        },
-        {
-          "word": "main",
-          "startSec": 127.45,
-          "endSec": 127.65,
-          "score": 0.95
-        },
-        {
-          "word": "square.",
-          "startSec": 127.65,
-          "endSec": 128.11,
-          "score": 0.98
-        },
-        {
-          "word": "The",
-          "startSec": 128.98,
-          "endSec": 129.34,
-          "score": 0.98
-        },
-        {
-          "word": "main",
-          "startSec": 129.34,
-          "endSec": 129.54,
-          "score": 1.0
-        },
-        {
-          "word": "square",
-          "startSec": 129.54,
-          "endSec": 130.02,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 130.02,
-          "endSec": 130.32,
-          "score": 0.99
-        },
-        {
-          "word": "important.",
-          "startSec": 130.32,
-          "endSec": 130.66,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 131.8,
-          "endSec": 132.18,
-          "score": 0.98
-        },
-        {
-          "word": "meet",
-          "startSec": 132.18,
-          "endSec": 132.52,
-          "score": 1.0
-        },
-        {
-          "word": "there.",
-          "startSec": 132.52,
-          "endSec": 132.98,
-          "score": 0.98
-        },
-        {
-          "word": "There",
-          "startSec": 133.88,
-          "endSec": 134.1,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 134.1,
-          "endSec": 134.26,
-          "score": 1.0
-        },
-        {
-          "word": "cafes.",
-          "startSec": 134.26,
-          "endSec": 134.62,
-          "score": 0.95
-        },
-        {
-          "word": "There",
-          "startSec": 135.66,
-          "endSec": 135.76,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 135.76,
-          "endSec": 135.92,
-          "score": 1.0
-        },
-        {
-          "word": "restaurants.",
-          "startSec": 135.92,
-          "endSec": 136.42,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 137.24,
-          "endSec": 137.46,
-          "score": 0.99
-        },
-        {
-          "word": "talk.",
-          "startSec": 137.46,
-          "endSec": 137.84,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 138.64,
-          "endSec": 138.64,
-          "score": 0.99
-        },
-        {
-          "word": "relax.",
-          "startSec": 138.64,
-          "endSec": 139.1,
-          "score": 1.0
-        },
-        {
-          "word": "Life",
-          "startSec": 140.18,
-          "endSec": 140.18,
-          "score": 0.99
-        },
-        {
-          "word": "flows",
-          "startSec": 140.18,
-          "endSec": 140.5,
-          "score": 1.0
-        },
-        {
-          "word": "through",
-          "startSec": 140.5,
-          "endSec": 140.9,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 140.9,
-          "endSec": 141.08,
-          "score": 1.0
-        },
-        {
-          "word": "square.",
-          "startSec": 141.08,
-          "endSec": 141.34,
-          "score": 0.99
+          "word": "slowly.",
+          "start": 22.46,
+          "end": 23.42
         }
       ]
     },
     {
       "id": 10,
-      "start": 142.61,
-      "end": 157.85,
-      "text": "Char part eight. A strong student city. Louven is a student city. There is a famous university. Students come from many countries. Languages mix.",
+      "start": 25.98,
+      "end": 29.79,
+      "text": "Part two, Belgium in simple words.",
       "words": [
         {
-          "word": "Char",
-          "startSec": 142.81,
-          "endSec": 143.31,
-          "score": 0.0
+          "word": "Part",
+          "start": 25.98,
+          "end": 26.9
         },
         {
-          "word": "part",
-          "startSec": 143.31,
-          "endSec": 143.63,
-          "score": 0.61
+          "word": "two,",
+          "start": 26.9,
+          "end": 27.44
         },
         {
-          "word": "eight.",
-          "startSec": 143.63,
-          "endSec": 144.15,
-          "score": 0.73
+          "word": "Belgium",
+          "start": 27.66,
+          "end": 28.12
         },
         {
-          "word": "A",
-          "startSec": 145.17,
-          "endSec": 145.23,
-          "score": 0.92
+          "word": "in",
+          "start": 28.12,
+          "end": 28.4
         },
         {
-          "word": "strong",
-          "startSec": 145.23,
-          "endSec": 145.67,
-          "score": 0.98
+          "word": "simple",
+          "start": 28.4,
+          "end": 28.82
         },
         {
-          "word": "student",
-          "startSec": 145.67,
-          "endSec": 146.47,
-          "score": 0.95
-        },
-        {
-          "word": "city.",
-          "startSec": 146.47,
-          "endSec": 146.87,
-          "score": 0.98
-        },
-        {
-          "word": "Louven",
-          "startSec": 147.69,
-          "endSec": 148.35,
-          "score": 0.16
-        },
-        {
-          "word": "is",
-          "startSec": 148.35,
-          "endSec": 148.75,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 148.75,
-          "endSec": 148.95,
-          "score": 1.0
-        },
-        {
-          "word": "student",
-          "startSec": 148.95,
-          "endSec": 149.25,
-          "score": 0.98
-        },
-        {
-          "word": "city.",
-          "startSec": 149.25,
-          "endSec": 149.81,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 150.61,
-          "endSec": 150.81,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 150.81,
-          "endSec": 150.99,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 150.99,
-          "endSec": 151.13,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 151.13,
-          "endSec": 151.57,
-          "score": 1.0
-        },
-        {
-          "word": "university.",
-          "startSec": 151.57,
-          "endSec": 152.59,
-          "score": 0.93
-        },
-        {
-          "word": "Students",
-          "startSec": 153.46,
-          "endSec": 154.28,
-          "score": 0.98
-        },
-        {
-          "word": "come",
-          "startSec": 154.28,
-          "endSec": 154.62,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 154.62,
-          "endSec": 154.92,
-          "score": 0.97
-        },
-        {
-          "word": "many",
-          "startSec": 154.92,
-          "endSec": 155.24,
-          "score": 1.0
-        },
-        {
-          "word": "countries.",
-          "startSec": 155.24,
-          "endSec": 155.84,
-          "score": 1.0
-        },
-        {
-          "word": "Languages",
-          "startSec": 156.68,
-          "endSec": 157.16,
-          "score": 0.98
-        },
-        {
-          "word": "mix.",
-          "startSec": 157.16,
-          "endSec": 157.7,
-          "score": 0.96
+          "word": "words.",
+          "start": 28.82,
+          "end": 29.79
         }
       ]
     },
     {
       "id": 11,
-      "start": 158.28,
-      "end": 173.23,
-      "text": "Young people bring ideas. The city feels alive. Education shapes the rhythm. Part nine. Food and local taste. Food and Louven is rich.",
+      "start": 30.04,
+      "end": 33.02,
+      "text": "Belgium is a small country in Europe.",
       "words": [
         {
-          "word": "Young",
-          "startSec": 158.48,
-          "endSec": 158.92,
-          "score": 0.0
-        },
-        {
-          "word": "people",
-          "startSec": 158.92,
-          "endSec": 159.28,
-          "score": 0.99
-        },
-        {
-          "word": "bring",
-          "startSec": 159.28,
-          "endSec": 159.78,
-          "score": 0.99
-        },
-        {
-          "word": "ideas.",
-          "startSec": 159.78,
-          "endSec": 160.28,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 161.26,
-          "endSec": 161.38,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 161.38,
-          "endSec": 161.68,
-          "score": 0.95
-        },
-        {
-          "word": "feels",
-          "startSec": 161.68,
-          "endSec": 162.16,
-          "score": 1.0
-        },
-        {
-          "word": "alive.",
-          "startSec": 162.16,
-          "endSec": 162.78,
-          "score": 0.99
-        },
-        {
-          "word": "Education",
-          "startSec": 163.58,
-          "endSec": 164.0,
-          "score": 0.98
-        },
-        {
-          "word": "shapes",
-          "startSec": 164.0,
-          "endSec": 164.78,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 164.78,
-          "endSec": 165.12,
-          "score": 1.0
-        },
-        {
-          "word": "rhythm.",
-          "startSec": 165.12,
-          "endSec": 165.46,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 167.69,
-          "endSec": 168.01,
-          "score": 0.69
-        },
-        {
-          "word": "nine.",
-          "startSec": 168.01,
-          "endSec": 168.51,
-          "score": 0.53
-        },
-        {
-          "word": "Food",
-          "startSec": 169.07,
-          "endSec": 169.33,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 169.33,
-          "endSec": 169.57,
-          "score": 0.94
-        },
-        {
-          "word": "local",
-          "startSec": 169.57,
-          "endSec": 169.77,
-          "score": 0.96
-        },
-        {
-          "word": "taste.",
-          "startSec": 169.77,
-          "endSec": 170.49,
-          "score": 0.96
-        },
-        {
-          "word": "Food",
-          "startSec": 171.4,
-          "endSec": 171.76,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 171.76,
-          "endSec": 172.06,
-          "score": 0.98
-        },
-        {
-          "word": "Louven",
-          "startSec": 172.06,
-          "endSec": 172.5,
-          "score": 0.15
+          "word": "Belgium",
+          "start": 30.04,
+          "end": 30.62
         },
         {
           "word": "is",
-          "startSec": 172.5,
-          "endSec": 172.72,
-          "score": 0.99
+          "start": 30.62,
+          "end": 30.92
         },
         {
-          "word": "rich.",
-          "startSec": 172.72,
-          "endSec": 173.08,
-          "score": 1.0
+          "word": "a",
+          "start": 30.92,
+          "end": 31.1
+        },
+        {
+          "word": "small",
+          "start": 31.1,
+          "end": 31.42
+        },
+        {
+          "word": "country",
+          "start": 31.42,
+          "end": 31.92
+        },
+        {
+          "word": "in",
+          "start": 31.92,
+          "end": 32.2
+        },
+        {
+          "word": "Europe.",
+          "start": 32.2,
+          "end": 33.02
         }
       ]
     },
     {
       "id": 12,
-      "start": 173.88,
-      "end": 189.79,
-      "text": "Belgian food is famous. Bread is fresh. Chocolate is sweet. People enjoy eating slowly. Food is social. Meals are moments of joy. Part ten. Beer and tradition.",
+      "start": 33.3,
+      "end": 35.38,
+      "text": "It has different languages.",
       "words": [
         {
-          "word": "Belgian",
-          "startSec": 174.08,
-          "endSec": 174.62,
-          "score": 0.01
+          "word": "It",
+          "start": 33.3,
+          "end": 33.58
         },
         {
-          "word": "food",
-          "startSec": 174.62,
-          "endSec": 174.96,
-          "score": 0.98
+          "word": "has",
+          "start": 33.58,
+          "end": 33.84
         },
         {
-          "word": "is",
-          "startSec": 174.96,
-          "endSec": 175.24,
-          "score": 1.0
+          "word": "different",
+          "start": 33.84,
+          "end": 34.28
         },
         {
-          "word": "famous.",
-          "startSec": 175.24,
-          "endSec": 175.56,
-          "score": 1.0
-        },
-        {
-          "word": "Bread",
-          "startSec": 176.48,
-          "endSec": 176.74,
-          "score": 0.94
-        },
-        {
-          "word": "is",
-          "startSec": 176.74,
-          "endSec": 176.98,
-          "score": 1.0
-        },
-        {
-          "word": "fresh.",
-          "startSec": 176.98,
-          "endSec": 177.42,
-          "score": 1.0
-        },
-        {
-          "word": "Chocolate",
-          "startSec": 177.96,
-          "endSec": 178.34,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 178.34,
-          "endSec": 178.68,
-          "score": 1.0
-        },
-        {
-          "word": "sweet.",
-          "startSec": 178.68,
-          "endSec": 179.08,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 179.78,
-          "endSec": 179.92,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 179.92,
-          "endSec": 180.52,
-          "score": 1.0
-        },
-        {
-          "word": "eating",
-          "startSec": 180.52,
-          "endSec": 180.98,
-          "score": 1.0
-        },
-        {
-          "word": "slowly.",
-          "startSec": 180.98,
-          "endSec": 181.58,
-          "score": 0.99
-        },
-        {
-          "word": "Food",
-          "startSec": 182.3,
-          "endSec": 182.62,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 182.62,
-          "endSec": 182.8,
-          "score": 1.0
-        },
-        {
-          "word": "social.",
-          "startSec": 182.8,
-          "endSec": 183.4,
-          "score": 1.0
-        },
-        {
-          "word": "Meals",
-          "startSec": 184.2,
-          "endSec": 184.64,
-          "score": 0.91
-        },
-        {
-          "word": "are",
-          "startSec": 184.64,
-          "endSec": 184.82,
-          "score": 1.0
-        },
-        {
-          "word": "moments",
-          "startSec": 184.82,
-          "endSec": 185.1,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 185.1,
-          "endSec": 185.56,
-          "score": 1.0
-        },
-        {
-          "word": "joy.",
-          "startSec": 185.56,
-          "endSec": 185.8,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 187.8,
-          "endSec": 187.8,
-          "score": 0.94
-        },
-        {
-          "word": "ten.",
-          "startSec": 187.8,
-          "endSec": 188.3,
-          "score": 0.07
-        },
-        {
-          "word": "Beer",
-          "startSec": 189.08,
-          "endSec": 189.18,
-          "score": 0.96
-        },
-        {
-          "word": "and",
-          "startSec": 189.18,
-          "endSec": 189.42,
-          "score": 0.97
-        },
-        {
-          "word": "tradition.",
-          "startSec": 189.42,
-          "endSec": 189.64,
-          "score": 0.99
+          "word": "languages.",
+          "start": 34.28,
+          "end": 35.38
         }
       ]
     },
     {
       "id": 13,
-      "start": 190.28,
-      "end": 206.31,
-      "text": "Belgium loves beer. Louven has a beer culture. Beer is part of history. People drink together. Bars are friendly. Conversations are long. Tradition feels relaxed.",
+      "start": 35.86,
+      "end": 37.56,
+      "text": "People speak Dutch.",
       "words": [
         {
-          "word": "Belgium",
-          "startSec": 190.48,
-          "endSec": 191.3,
-          "score": 0.0
-        },
-        {
-          "word": "loves",
-          "startSec": 191.3,
-          "endSec": 191.7,
-          "score": 0.95
-        },
-        {
-          "word": "beer.",
-          "startSec": 191.7,
-          "endSec": 192.26,
-          "score": 0.99
-        },
-        {
-          "word": "Louven",
-          "startSec": 193.08,
-          "endSec": 193.54,
-          "score": 0.24
-        },
-        {
-          "word": "has",
-          "startSec": 193.54,
-          "endSec": 193.82,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 193.82,
-          "endSec": 194.02,
-          "score": 1.0
-        },
-        {
-          "word": "beer",
-          "startSec": 194.02,
-          "endSec": 194.26,
-          "score": 0.99
-        },
-        {
-          "word": "culture.",
-          "startSec": 194.26,
-          "endSec": 194.68,
-          "score": 1.0
-        },
-        {
-          "word": "Beer",
-          "startSec": 195.74,
-          "endSec": 196.08,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 196.08,
-          "endSec": 196.36,
-          "score": 0.98
-        },
-        {
-          "word": "part",
-          "startSec": 196.36,
-          "endSec": 196.58,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 196.58,
-          "endSec": 196.82,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 196.82,
-          "endSec": 197.12,
-          "score": 1.0
-        },
-        {
           "word": "People",
-          "startSec": 197.9,
-          "endSec": 198.2,
-          "score": 1.0
+          "start": 35.86,
+          "end": 36.3
         },
         {
-          "word": "drink",
-          "startSec": 198.2,
-          "endSec": 198.48,
-          "score": 1.0
+          "word": "speak",
+          "start": 36.3,
+          "end": 36.7
         },
         {
-          "word": "together.",
-          "startSec": 198.48,
-          "endSec": 199.12,
-          "score": 1.0
-        },
-        {
-          "word": "Bars",
-          "startSec": 199.74,
-          "endSec": 199.98,
-          "score": 0.71
-        },
-        {
-          "word": "are",
-          "startSec": 199.98,
-          "endSec": 200.34,
-          "score": 1.0
-        },
-        {
-          "word": "friendly.",
-          "startSec": 200.34,
-          "endSec": 200.72,
-          "score": 1.0
-        },
-        {
-          "word": "Conversations",
-          "startSec": 202.16,
-          "endSec": 202.98,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 202.98,
-          "endSec": 203.28,
-          "score": 1.0
-        },
-        {
-          "word": "long.",
-          "startSec": 203.28,
-          "endSec": 203.58,
-          "score": 0.99
-        },
-        {
-          "word": "Tradition",
-          "startSec": 204.44,
-          "endSec": 204.86,
-          "score": 0.96
-        },
-        {
-          "word": "feels",
-          "startSec": 204.86,
-          "endSec": 205.48,
-          "score": 1.0
-        },
-        {
-          "word": "relaxed.",
-          "startSec": 205.48,
-          "endSec": 206.16,
-          "score": 1.0
+          "word": "Dutch.",
+          "start": 36.7,
+          "end": 37.56
         }
       ]
     },
     {
       "id": 14,
-      "start": 205.96,
-      "end": 226.51,
-      "text": "Part eleven. Green spaces and calm. Louven has parks. Trees are everywhere. People walk. People read. Nature softens the city. Calm balances the energy. Life feels comfortable.",
+      "start": 37.86,
+      "end": 39.42,
+      "text": "People speak French.",
+      "words": [
+        {
+          "word": "People",
+          "start": 37.86,
+          "end": 38.02
+        },
+        {
+          "word": "speak",
+          "start": 38.02,
+          "end": 38.52
+        },
+        {
+          "word": "French.",
+          "start": 38.52,
+          "end": 39.42
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 39.82,
+      "end": 41.68,
+      "text": "Belgium loves food.",
+      "words": [
+        {
+          "word": "Belgium",
+          "start": 39.82,
+          "end": 40.44
+        },
+        {
+          "word": "loves",
+          "start": 40.44,
+          "end": 40.84
+        },
+        {
+          "word": "food.",
+          "start": 40.84,
+          "end": 41.68
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 41.88,
+      "end": 43.58,
+      "text": "Belgium loves culture.",
+      "words": [
+        {
+          "word": "Belgium",
+          "start": 41.88,
+          "end": 42.2
+        },
+        {
+          "word": "loves",
+          "start": 42.2,
+          "end": 42.6
+        },
+        {
+          "word": "culture.",
+          "start": 42.6,
+          "end": 43.58
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 44.02,
+      "end": 46.9,
+      "text": "Luven shows this mix very well.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 44.02,
+          "end": 44.4
+        },
+        {
+          "word": "shows",
+          "start": 44.4,
+          "end": 44.8
+        },
+        {
+          "word": "this",
+          "start": 44.8,
+          "end": 45.18
+        },
+        {
+          "word": "mix",
+          "start": 45.18,
+          "end": 45.52
+        },
+        {
+          "word": "very",
+          "start": 45.52,
+          "end": 46.0
+        },
+        {
+          "word": "well.",
+          "start": 46.0,
+          "end": 46.9
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 47.5,
+      "end": 50.58,
+      "text": "Part three, where is Luven?",
       "words": [
         {
           "word": "Part",
-          "startSec": 206.16,
-          "endSec": 206.62,
-          "score": 0.36
+          "start": 47.5,
+          "end": 47.82
         },
         {
-          "word": "eleven.",
-          "startSec": 207.68,
-          "endSec": 208.82,
-          "score": 0.0
+          "word": "three,",
+          "start": 47.82,
+          "end": 48.3
         },
         {
-          "word": "Green",
-          "startSec": 209.48,
-          "endSec": 209.66,
-          "score": 0.86
+          "word": "where",
+          "start": 49.08,
+          "end": 49.42
         },
         {
-          "word": "spaces",
-          "startSec": 209.66,
-          "endSec": 210.14,
-          "score": 0.85
+          "word": "is",
+          "start": 49.42,
+          "end": 49.68
         },
         {
-          "word": "and",
-          "startSec": 210.14,
-          "endSec": 210.74,
-          "score": 0.37
+          "word": "Luven?",
+          "start": 49.68,
+          "end": 50.58
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 51.36,
+      "end": 54.24,
+      "text": "Luven is in the north of Belgium.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 51.36,
+          "end": 52.16
         },
         {
-          "word": "calm.",
-          "startSec": 210.74,
-          "endSec": 211.12,
-          "score": 0.87
+          "word": "is",
+          "start": 52.16,
+          "end": 52.42
         },
         {
-          "word": "Louven",
-          "startSec": 212.04,
-          "endSec": 212.58,
-          "score": 0.36
-        },
-        {
-          "word": "has",
-          "startSec": 212.58,
-          "endSec": 212.92,
-          "score": 0.98
-        },
-        {
-          "word": "parks.",
-          "startSec": 212.92,
-          "endSec": 213.42,
-          "score": 0.99
-        },
-        {
-          "word": "Trees",
-          "startSec": 214.32,
-          "endSec": 214.68,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 214.68,
-          "endSec": 215.0,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 215.0,
-          "endSec": 215.48,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 216.36,
-          "endSec": 216.74,
-          "score": 0.99
-        },
-        {
-          "word": "walk.",
-          "startSec": 216.74,
-          "endSec": 217.12,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 217.92,
-          "endSec": 218.16,
-          "score": 1.0
-        },
-        {
-          "word": "read.",
-          "startSec": 218.16,
-          "endSec": 218.56,
-          "score": 0.99
-        },
-        {
-          "word": "Nature",
-          "startSec": 219.96,
-          "endSec": 219.98,
-          "score": 0.98
-        },
-        {
-          "word": "softens",
-          "startSec": 219.98,
-          "endSec": 220.82,
-          "score": 0.98
+          "word": "in",
+          "start": 52.42,
+          "end": 52.62
         },
         {
           "word": "the",
-          "startSec": 220.82,
-          "endSec": 221.14,
-          "score": 1.0
+          "start": 52.62,
+          "end": 52.76
         },
         {
-          "word": "city.",
-          "startSec": 221.14,
-          "endSec": 221.52,
-          "score": 0.99
+          "word": "north",
+          "start": 52.76,
+          "end": 53.12
         },
         {
-          "word": "Calm",
-          "startSec": 222.48,
-          "endSec": 222.7,
-          "score": 0.97
+          "word": "of",
+          "start": 53.12,
+          "end": 53.34
         },
         {
-          "word": "balances",
-          "startSec": 222.7,
-          "endSec": 223.46,
-          "score": 0.99
+          "word": "Belgium.",
+          "start": 53.34,
+          "end": 54.24
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 54.7,
+      "end": 56.24,
+      "text": "It is near Brussels.",
+      "words": [
+        {
+          "word": "It",
+          "start": 54.7,
+          "end": 54.88
         },
         {
-          "word": "the",
-          "startSec": 223.46,
-          "endSec": 223.82,
-          "score": 1.0
+          "word": "is",
+          "start": 54.88,
+          "end": 55.06
         },
         {
-          "word": "energy.",
-          "startSec": 223.82,
-          "endSec": 224.18,
-          "score": 1.0
+          "word": "near",
+          "start": 55.06,
+          "end": 55.32
         },
         {
-          "word": "Life",
-          "startSec": 225.12,
-          "endSec": 225.44,
-          "score": 0.99
+          "word": "Brussels.",
+          "start": 55.32,
+          "end": 56.24
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 57.02,
+      "end": 59.4,
+      "text": "The city is easy to reach.",
+      "words": [
+        {
+          "word": "The",
+          "start": 57.02,
+          "end": 57.12
+        },
+        {
+          "word": "city",
+          "start": 57.12,
+          "end": 57.52
+        },
+        {
+          "word": "is",
+          "start": 57.52,
+          "end": 57.86
+        },
+        {
+          "word": "easy",
+          "start": 57.86,
+          "end": 58.44
+        },
+        {
+          "word": "to",
+          "start": 58.44,
+          "end": 58.62
+        },
+        {
+          "word": "reach.",
+          "start": 58.62,
+          "end": 59.4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 59.56,
+      "end": 61.27,
+      "text": "Trains come often.",
+      "words": [
+        {
+          "word": "Trains",
+          "start": 59.56,
+          "end": 60.02
+        },
+        {
+          "word": "come",
+          "start": 60.02,
+          "end": 60.32
+        },
+        {
+          "word": "often.",
+          "start": 60.32,
+          "end": 61.27
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 61.48,
+      "end": 63.46,
+      "text": "Luven feels open.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 61.48,
+          "end": 62.14
         },
         {
           "word": "feels",
-          "startSec": 225.44,
-          "endSec": 225.9,
-          "score": 1.0
+          "start": 62.14,
+          "end": 62.48
+        },
+        {
+          "word": "open.",
+          "start": 62.48,
+          "end": 63.46
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 63.7,
+      "end": 65.22,
+      "text": "It feels connected.",
+      "words": [
+        {
+          "word": "It",
+          "start": 63.7,
+          "end": 63.78
+        },
+        {
+          "word": "feels",
+          "start": 63.78,
+          "end": 64.12
+        },
+        {
+          "word": "connected.",
+          "start": 64.12,
+          "end": 65.22
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 65.78,
+      "end": 68.95,
+      "text": "Part four, weather and daily life.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 65.78,
+          "end": 65.86
+        },
+        {
+          "word": "four,",
+          "start": 65.86,
+          "end": 66.4
+        },
+        {
+          "word": "weather",
+          "start": 66.98,
+          "end": 67.2
+        },
+        {
+          "word": "and",
+          "start": 67.2,
+          "end": 67.6
+        },
+        {
+          "word": "daily",
+          "start": 67.6,
+          "end": 67.92
+        },
+        {
+          "word": "life.",
+          "start": 67.92,
+          "end": 68.95
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 69.16,
+      "end": 71.36,
+      "text": "Luven has cool weather.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 69.16,
+          "end": 69.84
+        },
+        {
+          "word": "has",
+          "start": 69.84,
+          "end": 70.14
+        },
+        {
+          "word": "cool",
+          "start": 70.14,
+          "end": 70.56
+        },
+        {
+          "word": "weather.",
+          "start": 70.56,
+          "end": 71.36
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 71.7,
+      "end": 73.3,
+      "text": "Rain comes often.",
+      "words": [
+        {
+          "word": "Rain",
+          "start": 71.7,
+          "end": 71.92
+        },
+        {
+          "word": "comes",
+          "start": 71.92,
+          "end": 72.3
+        },
+        {
+          "word": "often.",
+          "start": 72.3,
+          "end": 73.3
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 73.5,
+      "end": 74.94,
+      "text": "Summers are mild.",
+      "words": [
+        {
+          "word": "Summers",
+          "start": 73.5,
+          "end": 73.88
+        },
+        {
+          "word": "are",
+          "start": 73.88,
+          "end": 74.04
+        },
+        {
+          "word": "mild.",
+          "start": 74.04,
+          "end": 74.94
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 75.48,
+      "end": 76.8,
+      "text": "Winters are cold.",
+      "words": [
+        {
+          "word": "Winters",
+          "start": 75.48,
+          "end": 75.86
+        },
+        {
+          "word": "are",
+          "start": 75.86,
+          "end": 76.1
+        },
+        {
+          "word": "cold.",
+          "start": 76.1,
+          "end": 76.8
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 76.96,
+      "end": 78.49,
+      "text": "People wear jackets.",
+      "words": [
+        {
+          "word": "People",
+          "start": 76.96,
+          "end": 77.2
+        },
+        {
+          "word": "wear",
+          "start": 77.2,
+          "end": 77.48
+        },
+        {
+          "word": "jackets.",
+          "start": 77.48,
+          "end": 78.49
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 78.74,
+      "end": 80.92,
+      "text": "Cafes feel warm.",
+      "words": [
+        {
+          "word": "Cafes",
+          "start": 78.74,
+          "end": 79.62
+        },
+        {
+          "word": "feel",
+          "start": 79.62,
+          "end": 79.92
+        },
+        {
+          "word": "warm.",
+          "start": 79.92,
+          "end": 80.92
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 81.24,
+      "end": 83.12,
+      "text": "The city feels cozy.",
+      "words": [
+        {
+          "word": "The",
+          "start": 81.24,
+          "end": 81.34
+        },
+        {
+          "word": "city",
+          "start": 81.34,
+          "end": 81.66
+        },
+        {
+          "word": "feels",
+          "start": 81.66,
+          "end": 82.14
+        },
+        {
+          "word": "cozy.",
+          "start": 82.14,
+          "end": 83.12
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 84.08,
+      "end": 86.8,
+      "text": "Part five, history of Luven.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 84.08,
+          "end": 84.08
+        },
+        {
+          "word": "five,",
+          "start": 84.08,
+          "end": 84.66
+        },
+        {
+          "word": "history",
+          "start": 85.22,
+          "end": 85.72
+        },
+        {
+          "word": "of",
+          "start": 85.72,
+          "end": 86.08
+        },
+        {
+          "word": "Luven.",
+          "start": 86.08,
+          "end": 86.8
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 86.96,
+      "end": 89.28,
+      "text": "Luven has a long history.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 86.96,
+          "end": 87.44
+        },
+        {
+          "word": "has",
+          "start": 87.44,
+          "end": 87.78
+        },
+        {
+          "word": "a",
+          "start": 87.78,
+          "end": 87.96
+        },
+        {
+          "word": "long",
+          "start": 87.96,
+          "end": 88.3
+        },
+        {
+          "word": "history.",
+          "start": 88.3,
+          "end": 89.28
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 89.6,
+      "end": 91.24,
+      "text": "It is an old city.",
+      "words": [
+        {
+          "word": "It",
+          "start": 89.6,
+          "end": 89.74
+        },
+        {
+          "word": "is",
+          "start": 89.74,
+          "end": 89.9
+        },
+        {
+          "word": "an",
+          "start": 89.9,
+          "end": 90.1
+        },
+        {
+          "word": "old",
+          "start": 90.1,
+          "end": 90.4
+        },
+        {
+          "word": "city.",
+          "start": 90.4,
+          "end": 91.24
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 91.6,
+      "end": 93.28,
+      "text": "Kings passed here.",
+      "words": [
+        {
+          "word": "Kings",
+          "start": 91.6,
+          "end": 91.9
+        },
+        {
+          "word": "passed",
+          "start": 91.9,
+          "end": 92.36
+        },
+        {
+          "word": "here.",
+          "start": 92.36,
+          "end": 93.28
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 93.54,
+      "end": 95.26,
+      "text": "Scholars lived here.",
+      "words": [
+        {
+          "word": "Scholars",
+          "start": 93.54,
+          "end": 93.92
+        },
+        {
+          "word": "lived",
+          "start": 93.92,
+          "end": 94.44
+        },
+        {
+          "word": "here.",
+          "start": 94.44,
+          "end": 95.26
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 95.7,
+      "end": 98.04,
+      "text": "The city changed over time.",
+      "words": [
+        {
+          "word": "The",
+          "start": 95.7,
+          "end": 95.84
+        },
+        {
+          "word": "city",
+          "start": 95.84,
+          "end": 96.2
+        },
+        {
+          "word": "changed",
+          "start": 96.2,
+          "end": 96.78
+        },
+        {
+          "word": "over",
+          "start": 96.78,
+          "end": 97.1
+        },
+        {
+          "word": "time.",
+          "start": 97.1,
+          "end": 98.04
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 98.32,
+      "end": 100.14,
+      "text": "But history stayed.",
+      "words": [
+        {
+          "word": "But",
+          "start": 98.32,
+          "end": 98.72
+        },
+        {
+          "word": "history",
+          "start": 98.72,
+          "end": 99.18
+        },
+        {
+          "word": "stayed.",
+          "start": 99.18,
+          "end": 100.14
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 100.72,
+      "end": 103.32,
+      "text": "Past and present live together.",
+      "words": [
+        {
+          "word": "Past",
+          "start": 100.72,
+          "end": 101.02
+        },
+        {
+          "word": "and",
+          "start": 101.02,
+          "end": 101.42
+        },
+        {
+          "word": "present",
+          "start": 101.42,
+          "end": 101.9
+        },
+        {
+          "word": "live",
+          "start": 101.9,
+          "end": 102.36
+        },
+        {
+          "word": "together.",
+          "start": 102.36,
+          "end": 103.32
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 104.04,
+      "end": 110.1,
+      "text": "Part six, streets and architecture streets in Luven are neat.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 104.04,
+          "end": 104.26
+        },
+        {
+          "word": "six,",
+          "start": 104.26,
+          "end": 104.84
+        },
+        {
+          "word": "streets",
+          "start": 105.68,
+          "end": 106.32
+        },
+        {
+          "word": "and",
+          "start": 106.32,
+          "end": 106.68
+        },
+        {
+          "word": "architecture",
+          "start": 106.68,
+          "end": 107.38
+        },
+        {
+          "word": "streets",
+          "start": 107.38,
+          "end": 108.18
+        },
+        {
+          "word": "in",
+          "start": 108.18,
+          "end": 108.54
+        },
+        {
+          "word": "Luven",
+          "start": 108.54,
+          "end": 109.02
+        },
+        {
+          "word": "are",
+          "start": 109.02,
+          "end": 109.32
+        },
+        {
+          "word": "neat.",
+          "start": 109.32,
+          "end": 110.1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 110.66,
+      "end": 112.62,
+      "text": "Buildings are elegant.",
+      "words": [
+        {
+          "word": "Buildings",
+          "start": 110.66,
+          "end": 111.42
+        },
+        {
+          "word": "are",
+          "start": 111.42,
+          "end": 111.62
+        },
+        {
+          "word": "elegant.",
+          "start": 111.62,
+          "end": 112.62
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 113.18,
+      "end": 114.94,
+      "text": "You see old churches.",
+      "words": [
+        {
+          "word": "You",
+          "start": 113.18,
+          "end": 113.28
+        },
+        {
+          "word": "see",
+          "start": 113.28,
+          "end": 113.58
+        },
+        {
+          "word": "old",
+          "start": 113.58,
+          "end": 114.0
+        },
+        {
+          "word": "churches.",
+          "start": 114.0,
+          "end": 114.94
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 115.6,
+      "end": 117.42,
+      "text": "You see modern spaces.",
+      "words": [
+        {
+          "word": "You",
+          "start": 115.6,
+          "end": 115.86
+        },
+        {
+          "word": "see",
+          "start": 115.86,
+          "end": 116.14
+        },
+        {
+          "word": "modern",
+          "start": 116.14,
+          "end": 116.56
+        },
+        {
+          "word": "spaces.",
+          "start": 116.56,
+          "end": 117.42
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 117.84,
+      "end": 120.18,
+      "text": "Everything feels balanced.",
+      "words": [
+        {
+          "word": "Everything",
+          "start": 117.84,
+          "end": 118.32
+        },
+        {
+          "word": "feels",
+          "start": 118.32,
+          "end": 118.96
+        },
+        {
+          "word": "balanced.",
+          "start": 118.96,
+          "end": 120.18
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 120.48,
+      "end": 122.49,
+      "text": "Nothing feels too much.",
+      "words": [
+        {
+          "word": "Nothing",
+          "start": 120.48,
+          "end": 120.72
+        },
+        {
+          "word": "feels",
+          "start": 120.72,
+          "end": 121.34
+        },
+        {
+          "word": "too",
+          "start": 121.34,
+          "end": 121.62
+        },
+        {
+          "word": "much.",
+          "start": 121.62,
+          "end": 122.49
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 122.68,
+      "end": 124.72,
+      "text": "Walking is enjoyable.",
+      "words": [
+        {
+          "word": "Walking",
+          "start": 122.68,
+          "end": 123.3
+        },
+        {
+          "word": "is",
+          "start": 123.3,
+          "end": 123.66
+        },
+        {
+          "word": "enjoyable.",
+          "start": 123.66,
+          "end": 124.72
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 125.62,
+      "end": 128.58,
+      "text": "Part seven, the main square.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 125.62,
+          "end": 126.12
+        },
+        {
+          "word": "seven,",
+          "start": 126.12,
+          "end": 126.76
+        },
+        {
+          "word": "the",
+          "start": 127.42,
+          "end": 127.5
+        },
+        {
+          "word": "main",
+          "start": 127.5,
+          "end": 127.78
+        },
+        {
+          "word": "square.",
+          "start": 127.78,
+          "end": 128.58
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 129.08,
+      "end": 131.36,
+      "text": "The main square is important.",
+      "words": [
+        {
+          "word": "The",
+          "start": 129.08,
+          "end": 129.38
+        },
+        {
+          "word": "main",
+          "start": 129.38,
+          "end": 129.68
+        },
+        {
+          "word": "square",
+          "start": 129.68,
+          "end": 130.08
+        },
+        {
+          "word": "is",
+          "start": 130.08,
+          "end": 130.34
+        },
+        {
+          "word": "important.",
+          "start": 130.34,
+          "end": 131.36
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 131.76,
+      "end": 133.46,
+      "text": "People meet there.",
+      "words": [
+        {
+          "word": "People",
+          "start": 131.76,
+          "end": 132.22
+        },
+        {
+          "word": "meet",
+          "start": 132.22,
+          "end": 132.6
+        },
+        {
+          "word": "there.",
+          "start": 132.6,
+          "end": 133.46
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 133.84,
+      "end": 135.24,
+      "text": "There are cafes.",
+      "words": [
+        {
+          "word": "There",
+          "start": 133.84,
+          "end": 134.16
+        },
+        {
+          "word": "are",
+          "start": 134.16,
+          "end": 134.3
+        },
+        {
+          "word": "cafes.",
+          "start": 134.3,
+          "end": 135.24
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 135.62,
+      "end": 136.94,
+      "text": "There are restaurants.",
+      "words": [
+        {
+          "word": "There",
+          "start": 135.62,
+          "end": 135.82
+        },
+        {
+          "word": "are",
+          "start": 135.82,
+          "end": 135.96
+        },
+        {
+          "word": "restaurants.",
+          "start": 135.96,
+          "end": 136.94
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 137.2,
+      "end": 138.31,
+      "text": "People talk.",
+      "words": [
+        {
+          "word": "People",
+          "start": 137.2,
+          "end": 137.48
+        },
+        {
+          "word": "talk.",
+          "start": 137.48,
+          "end": 138.31
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 138.5,
+      "end": 139.64,
+      "text": "People relax.",
+      "words": [
+        {
+          "word": "People",
+          "start": 138.5,
+          "end": 138.66
+        },
+        {
+          "word": "relax.",
+          "start": 138.66,
+          "end": 139.64
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 139.9,
+      "end": 141.92,
+      "text": "Life flows through the square.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 139.9,
+          "end": 140.16
+        },
+        {
+          "word": "flows",
+          "start": 140.16,
+          "end": 140.6
+        },
+        {
+          "word": "through",
+          "start": 140.6,
+          "end": 140.94
+        },
+        {
+          "word": "the",
+          "start": 140.94,
+          "end": 141.12
+        },
+        {
+          "word": "square.",
+          "start": 141.12,
+          "end": 141.92
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 142.4,
+      "end": 147.48,
+      "text": "Share part eight, a strong student city.",
+      "words": [
+        {
+          "word": "Share",
+          "start": 142.4,
+          "end": 143.36
+        },
+        {
+          "word": "part",
+          "start": 143.36,
+          "end": 143.74
+        },
+        {
+          "word": "eight,",
+          "start": 143.74,
+          "end": 144.28
+        },
+        {
+          "word": "a",
+          "start": 145.06,
+          "end": 145.28
+        },
+        {
+          "word": "strong",
+          "start": 145.28,
+          "end": 145.82
+        },
+        {
+          "word": "student",
+          "start": 145.82,
+          "end": 146.46
+        },
+        {
+          "word": "city.",
+          "start": 146.46,
+          "end": 147.48
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 147.8,
+      "end": 150.26,
+      "text": "Luven is a student city.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 147.8,
+          "end": 148.36
+        },
+        {
+          "word": "is",
+          "start": 148.36,
+          "end": 148.84
+        },
+        {
+          "word": "a",
+          "start": 148.84,
+          "end": 149.02
+        },
+        {
+          "word": "student",
+          "start": 149.02,
+          "end": 149.42
+        },
+        {
+          "word": "city.",
+          "start": 149.42,
+          "end": 150.26
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 150.46,
+      "end": 153.02,
+      "text": "There is a famous university.",
+      "words": [
+        {
+          "word": "There",
+          "start": 150.46,
+          "end": 150.88
+        },
+        {
+          "word": "is",
+          "start": 150.88,
+          "end": 151.06
+        },
+        {
+          "word": "a",
+          "start": 151.06,
+          "end": 151.2
+        },
+        {
+          "word": "famous",
+          "start": 151.2,
+          "end": 151.6
+        },
+        {
+          "word": "university.",
+          "start": 151.6,
+          "end": 153.02
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 153.48,
+      "end": 156.32,
+      "text": "Students come from many countries.",
+      "words": [
+        {
+          "word": "Students",
+          "start": 153.48,
+          "end": 154.3
+        },
+        {
+          "word": "come",
+          "start": 154.3,
+          "end": 154.7
+        },
+        {
+          "word": "from",
+          "start": 154.7,
+          "end": 154.98
+        },
+        {
+          "word": "many",
+          "start": 154.98,
+          "end": 155.38
+        },
+        {
+          "word": "countries.",
+          "start": 155.38,
+          "end": 156.32
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 156.58,
+      "end": 158.22,
+      "text": "Languages mix.",
+      "words": [
+        {
+          "word": "Languages",
+          "start": 156.58,
+          "end": 157.32
+        },
+        {
+          "word": "mix.",
+          "start": 157.32,
+          "end": 158.22
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 158.7,
+      "end": 160.9,
+      "text": "Young people bring ideas.",
+      "words": [
+        {
+          "word": "Young",
+          "start": 158.7,
+          "end": 159.04
+        },
+        {
+          "word": "people",
+          "start": 159.04,
+          "end": 159.44
+        },
+        {
+          "word": "bring",
+          "start": 159.44,
+          "end": 159.86
+        },
+        {
+          "word": "ideas.",
+          "start": 159.86,
+          "end": 160.9
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 161.24,
+      "end": 163.24,
+      "text": "The city feels alive.",
+      "words": [
+        {
+          "word": "The",
+          "start": 161.24,
+          "end": 161.42
+        },
+        {
+          "word": "city",
+          "start": 161.42,
+          "end": 161.78
+        },
+        {
+          "word": "feels",
+          "start": 161.78,
+          "end": 162.26
+        },
+        {
+          "word": "alive.",
+          "start": 162.26,
+          "end": 163.24
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 163.64,
+      "end": 166.08,
+      "text": "Education shapes the rhythm.",
+      "words": [
+        {
+          "word": "Education",
+          "start": 163.64,
+          "end": 164.14
+        },
+        {
+          "word": "shapes",
+          "start": 164.14,
+          "end": 164.92
+        },
+        {
+          "word": "the",
+          "start": 164.92,
+          "end": 165.18
+        },
+        {
+          "word": "rhythm.",
+          "start": 165.18,
+          "end": 166.08
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 167.12,
+      "end": 170.8,
+      "text": "Part nine, food and local taste.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 167.12,
+          "end": 168.0
+        },
+        {
+          "word": "nine,",
+          "start": 168.0,
+          "end": 168.56
+        },
+        {
+          "word": "food",
+          "start": 169.2,
+          "end": 169.38
+        },
+        {
+          "word": "and",
+          "start": 169.38,
+          "end": 169.6
+        },
+        {
+          "word": "local",
+          "start": 169.6,
+          "end": 169.88
+        },
+        {
+          "word": "taste.",
+          "start": 169.88,
+          "end": 170.8
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 171.44,
+      "end": 173.58,
+      "text": "Food in Luven is rich.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 171.44,
+          "end": 171.9
+        },
+        {
+          "word": "in",
+          "start": 171.9,
+          "end": 172.12
+        },
+        {
+          "word": "Luven",
+          "start": 172.12,
+          "end": 172.54
+        },
+        {
+          "word": "is",
+          "start": 172.54,
+          "end": 172.84
+        },
+        {
+          "word": "rich.",
+          "start": 172.84,
+          "end": 173.58
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 174.28,
+      "end": 176.14,
+      "text": "Belgian food is famous.",
+      "words": [
+        {
+          "word": "Belgian",
+          "start": 174.28,
+          "end": 174.62
+        },
+        {
+          "word": "food",
+          "start": 174.62,
+          "end": 175.06
+        },
+        {
+          "word": "is",
+          "start": 175.06,
+          "end": 175.28
+        },
+        {
+          "word": "famous.",
+          "start": 175.28,
+          "end": 176.14
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 176.5,
+      "end": 177.83,
+      "text": "Bread is fresh.",
+      "words": [
+        {
+          "word": "Bread",
+          "start": 176.5,
+          "end": 176.82
+        },
+        {
+          "word": "is",
+          "start": 176.82,
+          "end": 177.1
+        },
+        {
+          "word": "fresh.",
+          "start": 177.1,
+          "end": 177.83
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 178.08,
+      "end": 179.55,
+      "text": "Chocolate is sweet.",
+      "words": [
+        {
+          "word": "Chocolate",
+          "start": 178.08,
+          "end": 178.4
+        },
+        {
+          "word": "is",
+          "start": 178.4,
+          "end": 178.74
+        },
+        {
+          "word": "sweet.",
+          "start": 178.74,
+          "end": 179.55
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 179.8,
+      "end": 181.98,
+      "text": "People enjoy eating slowly.",
+      "words": [
+        {
+          "word": "People",
+          "start": 179.8,
+          "end": 180.1
+        },
+        {
+          "word": "enjoy",
+          "start": 180.1,
+          "end": 180.52
+        },
+        {
+          "word": "eating",
+          "start": 180.52,
+          "end": 181.1
+        },
+        {
+          "word": "slowly.",
+          "start": 181.1,
+          "end": 181.98
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 182.48,
+      "end": 183.76,
+      "text": "Food is social.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 182.48,
+          "end": 182.7
+        },
+        {
+          "word": "is",
+          "start": 182.7,
+          "end": 182.88
+        },
+        {
+          "word": "social.",
+          "start": 182.88,
+          "end": 183.76
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 184.16,
+      "end": 186.38,
+      "text": "Meals are moments of joy.",
+      "words": [
+        {
+          "word": "Meals",
+          "start": 184.16,
+          "end": 184.72
+        },
+        {
+          "word": "are",
+          "start": 184.72,
+          "end": 184.88
+        },
+        {
+          "word": "moments",
+          "start": 184.88,
+          "end": 185.28
+        },
+        {
+          "word": "of",
+          "start": 185.28,
+          "end": 185.58
+        },
+        {
+          "word": "joy.",
+          "start": 185.58,
+          "end": 186.38
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 186.96,
+      "end": 190.42,
+      "text": "Part 10, beer and tradition.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 186.96,
+          "end": 187.84
+        },
+        {
+          "word": "10,",
+          "start": 187.84,
+          "end": 188.4
+        },
+        {
+          "word": "beer",
+          "start": 188.8,
+          "end": 189.22
+        },
+        {
+          "word": "and",
+          "start": 189.22,
+          "end": 189.5
+        },
+        {
+          "word": "tradition.",
+          "start": 189.5,
+          "end": 190.42
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 190.92,
+      "end": 192.7,
+      "text": "Belgium loves beer.",
+      "words": [
+        {
+          "word": "Belgium",
+          "start": 190.92,
+          "end": 191.28
+        },
+        {
+          "word": "loves",
+          "start": 191.28,
+          "end": 191.78
+        },
+        {
+          "word": "beer.",
+          "start": 191.78,
+          "end": 192.7
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 193.3,
+      "end": 195.28,
+      "text": "Luven has a beer culture.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 193.3,
+          "end": 193.56
+        },
+        {
+          "word": "has",
+          "start": 193.56,
+          "end": 193.9
+        },
+        {
+          "word": "a",
+          "start": 193.9,
+          "end": 194.08
+        },
+        {
+          "word": "beer",
+          "start": 194.08,
+          "end": 194.3
+        },
+        {
+          "word": "culture.",
+          "start": 194.3,
+          "end": 195.28
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 195.76,
+      "end": 197.7,
+      "text": "Beer is part of history.",
+      "words": [
+        {
+          "word": "Beer",
+          "start": 195.76,
+          "end": 196.1
+        },
+        {
+          "word": "is",
+          "start": 196.1,
+          "end": 196.38
+        },
+        {
+          "word": "part",
+          "start": 196.38,
+          "end": 196.68
+        },
+        {
+          "word": "of",
+          "start": 196.68,
+          "end": 196.84
+        },
+        {
+          "word": "history.",
+          "start": 196.84,
+          "end": 197.7
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 197.94,
+      "end": 199.5,
+      "text": "People drink together.",
+      "words": [
+        {
+          "word": "People",
+          "start": 197.94,
+          "end": 198.2
+        },
+        {
+          "word": "drink",
+          "start": 198.2,
+          "end": 198.64
+        },
+        {
+          "word": "together.",
+          "start": 198.64,
+          "end": 199.5
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 199.86,
+      "end": 201.3,
+      "text": "Bars are friendly.",
+      "words": [
+        {
+          "word": "Bars",
+          "start": 199.86,
+          "end": 200.16
+        },
+        {
+          "word": "are",
+          "start": 200.16,
+          "end": 200.4
+        },
+        {
+          "word": "friendly.",
+          "start": 200.4,
+          "end": 201.3
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 202.16,
+      "end": 204.12,
+      "text": "Conversations are long.",
+      "words": [
+        {
+          "word": "Conversations",
+          "start": 202.16,
+          "end": 203.02
+        },
+        {
+          "word": "are",
+          "start": 203.02,
+          "end": 203.32
+        },
+        {
+          "word": "long.",
+          "start": 203.32,
+          "end": 204.12
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 204.46,
+      "end": 206.8,
+      "text": "Tradition feels relaxed.",
+      "words": [
+        {
+          "word": "Tradition",
+          "start": 204.46,
+          "end": 205.16
+        },
+        {
+          "word": "feels",
+          "start": 205.16,
+          "end": 205.6
+        },
+        {
+          "word": "relaxed.",
+          "start": 205.6,
+          "end": 206.8
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 207.54,
+      "end": 211.68,
+      "text": "Part 11, green spaces and calm.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 207.54,
+          "end": 208.5
+        },
+        {
+          "word": "11,",
+          "start": 208.5,
+          "end": 209.0
+        },
+        {
+          "word": "green",
+          "start": 209.56,
+          "end": 209.74
+        },
+        {
+          "word": "spaces",
+          "start": 209.74,
+          "end": 210.38
+        },
+        {
+          "word": "and",
+          "start": 210.38,
+          "end": 210.8
+        },
+        {
+          "word": "calm.",
+          "start": 210.8,
+          "end": 211.68
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 212.28,
+      "end": 214.02,
+      "text": "Luven has parks.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 212.28,
+          "end": 212.6
+        },
+        {
+          "word": "has",
+          "start": 212.6,
+          "end": 213.06
+        },
+        {
+          "word": "parks.",
+          "start": 213.06,
+          "end": 214.02
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 214.5,
+      "end": 216.1,
+      "text": "Trees are everywhere.",
+      "words": [
+        {
+          "word": "Trees",
+          "start": 214.5,
+          "end": 214.8
+        },
+        {
+          "word": "are",
+          "start": 214.8,
+          "end": 215.04
+        },
+        {
+          "word": "everywhere.",
+          "start": 215.04,
+          "end": 216.1
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 216.48,
+      "end": 217.66,
+      "text": "People walk.",
+      "words": [
+        {
+          "word": "People",
+          "start": 216.48,
+          "end": 216.76
+        },
+        {
+          "word": "walk.",
+          "start": 216.76,
+          "end": 217.66
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 217.92,
+      "end": 219.16,
+      "text": "People read.",
+      "words": [
+        {
+          "word": "People",
+          "start": 217.92,
+          "end": 218.2
+        },
+        {
+          "word": "read.",
+          "start": 218.2,
+          "end": 219.16
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 219.64,
+      "end": 222.0,
+      "text": "Nature softens the city.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 219.64,
+          "end": 220.0
+        },
+        {
+          "word": "softens",
+          "start": 220.0,
+          "end": 220.9
+        },
+        {
+          "word": "the",
+          "start": 220.9,
+          "end": 221.2
+        },
+        {
+          "word": "city.",
+          "start": 221.2,
+          "end": 222.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 222.32,
+      "end": 224.8,
+      "text": "Calm balances the energy.",
+      "words": [
+        {
+          "word": "Calm",
+          "start": 222.32,
+          "end": 222.86
+        },
+        {
+          "word": "balances",
+          "start": 222.86,
+          "end": 223.52
+        },
+        {
+          "word": "the",
+          "start": 223.52,
+          "end": 223.88
+        },
+        {
+          "word": "energy.",
+          "start": 223.88,
+          "end": 224.8
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 225.2,
+      "end": 227.16,
+      "text": "Life feels comfortable.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 225.2,
+          "end": 225.48
+        },
+        {
+          "word": "feels",
+          "start": 225.48,
+          "end": 225.96
         },
         {
           "word": "comfortable.",
-          "startSec": 225.9,
-          "endSec": 226.36,
-          "score": 1.0
+          "start": 225.96,
+          "end": 227.16
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 227.78,
+      "end": 231.96,
+      "text": "Part 12, the spirit of Luven.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 227.78,
+          "end": 228.66
+        },
+        {
+          "word": "12,",
+          "start": 228.66,
+          "end": 229.26
+        },
+        {
+          "word": "the",
+          "start": 229.92,
+          "end": 230.34
+        },
+        {
+          "word": "spirit",
+          "start": 230.34,
+          "end": 230.9
+        },
+        {
+          "word": "of",
+          "start": 230.9,
+          "end": 231.14
+        },
+        {
+          "word": "Luven.",
+          "start": 231.14,
+          "end": 231.96
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 232.18,
+      "end": 234.76,
+      "text": "Luven is young and old.",
+      "words": [
+        {
+          "word": "Luven",
+          "start": 232.18,
+          "end": 232.88
+        },
+        {
+          "word": "is",
+          "start": 232.88,
+          "end": 233.24
+        },
+        {
+          "word": "young",
+          "start": 233.24,
+          "end": 233.68
+        },
+        {
+          "word": "and",
+          "start": 233.68,
+          "end": 233.92
+        },
+        {
+          "word": "old.",
+          "start": 233.92,
+          "end": 234.76
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 235.02,
+      "end": 236.92,
+      "text": "It is lively and calm.",
+      "words": [
+        {
+          "word": "It",
+          "start": 235.02,
+          "end": 235.14
+        },
+        {
+          "word": "is",
+          "start": 235.14,
+          "end": 235.32
+        },
+        {
+          "word": "lively",
+          "start": 235.32,
+          "end": 235.88
+        },
+        {
+          "word": "and",
+          "start": 235.88,
+          "end": 236.24
+        },
+        {
+          "word": "calm.",
+          "start": 236.24,
+          "end": 236.92
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 237.1,
+      "end": 238.42,
+      "text": "It teaches balance.",
+      "words": [
+        {
+          "word": "It",
+          "start": 237.1,
+          "end": 237.14
+        },
+        {
+          "word": "teaches",
+          "start": 237.14,
+          "end": 237.56
+        },
+        {
+          "word": "balance.",
+          "start": 237.56,
+          "end": 238.42
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 238.6,
+      "end": 240.12,
+      "text": "It teaches openness.",
+      "words": [
+        {
+          "word": "It",
+          "start": 238.6,
+          "end": 238.6
+        },
+        {
+          "word": "teaches",
+          "start": 238.6,
+          "end": 239.04
+        },
+        {
+          "word": "openness.",
+          "start": 239.04,
+          "end": 240.12
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 240.64,
+      "end": 242.92,
+      "text": "This city welcomes everyone.",
+      "words": [
+        {
+          "word": "This",
+          "start": 240.64,
+          "end": 240.8
+        },
+        {
+          "word": "city",
+          "start": 240.8,
+          "end": 241.18
+        },
+        {
+          "word": "welcomes",
+          "start": 241.18,
+          "end": 241.82
+        },
+        {
+          "word": "everyone.",
+          "start": 241.82,
+          "end": 242.92
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 243.6,
+      "end": 247.6,
+      "text": "Thank you for listening to the Slow English podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 243.6,
+          "end": 244.04
+        },
+        {
+          "word": "you",
+          "start": 244.04,
+          "end": 244.26
+        },
+        {
+          "word": "for",
+          "start": 244.26,
+          "end": 244.46
+        },
+        {
+          "word": "listening",
+          "start": 244.46,
+          "end": 244.96
+        },
+        {
+          "word": "to",
+          "start": 244.96,
+          "end": 245.34
+        },
+        {
+          "word": "the",
+          "start": 245.34,
+          "end": 245.52
+        },
+        {
+          "word": "Slow",
+          "start": 245.52,
+          "end": 245.9
+        },
+        {
+          "word": "English",
+          "start": 245.9,
+          "end": 246.38
+        },
+        {
+          "word": "podcast.",
+          "start": 246.38,
+          "end": 247.6
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 248.16,
+      "end": 249.79,
+      "text": "My name is Emilie.",
+      "words": [
+        {
+          "word": "My",
+          "start": 248.16,
+          "end": 248.36
+        },
+        {
+          "word": "name",
+          "start": 248.36,
+          "end": 248.6
+        },
+        {
+          "word": "is",
+          "start": 248.6,
+          "end": 248.78
+        },
+        {
+          "word": "Emilie.",
+          "start": 248.78,
+          "end": 249.79
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 95
 }

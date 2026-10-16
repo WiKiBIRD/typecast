@@ -15,2687 +15,2361 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 0.89,
-      "text": "Hello, everyone.",
+      "start": 1.7,
+      "end": 3.31,
+      "text": "My name is Emili.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.22,
-          "score": 0.82
+          "word": "My",
+          "start": 1.7,
+          "end": 2.04
         },
         {
-          "word": "everyone.",
-          "startSec": 0.28,
-          "endSec": 0.74,
-          "score": 0.99
+          "word": "name",
+          "start": 2.04,
+          "end": 2.38
+        },
+        {
+          "word": "is",
+          "start": 2.38,
+          "end": 2.56
+        },
+        {
+          "word": "Emili.",
+          "start": 2.56,
+          "end": 3.31
         }
       ]
     },
     {
       "id": 2,
-      "start": 3.46,
-      "end": 6.19,
-      "text": "Welcome to the Slow English Podcast.",
+      "start": 3.54,
+      "end": 6.6,
+      "text": "Welcome to the Slow English podcast.",
       "words": [
         {
           "word": "Welcome",
-          "startSec": 3.66,
-          "endSec": 4.18,
-          "score": 1.0
+          "start": 3.54,
+          "end": 4.22
         },
         {
           "word": "to",
-          "startSec": 4.18,
-          "endSec": 4.54,
-          "score": 1.0
+          "start": 4.22,
+          "end": 4.6
         },
         {
           "word": "the",
-          "startSec": 4.54,
-          "endSec": 4.74,
-          "score": 0.97
+          "start": 4.6,
+          "end": 4.82
         },
         {
           "word": "Slow",
-          "startSec": 4.74,
-          "endSec": 5.04,
-          "score": 0.82
+          "start": 4.82,
+          "end": 5.14
         },
         {
           "word": "English",
-          "startSec": 5.04,
-          "endSec": 5.46,
-          "score": 0.97
+          "start": 5.14,
+          "end": 5.56
         },
         {
-          "word": "Podcast.",
-          "startSec": 5.46,
-          "endSec": 6.04,
-          "score": 0.68
+          "word": "podcast.",
+          "start": 5.56,
+          "end": 6.6
         }
       ]
     },
     {
       "id": 3,
-      "start": 7.08,
-      "end": 11.49,
+      "start": 7.36,
+      "end": 11.76,
       "text": "In this podcast, we speak slow and easy English.",
       "words": [
         {
           "word": "In",
-          "startSec": 7.28,
-          "endSec": 7.54,
-          "score": 1.0
+          "start": 7.36,
+          "end": 7.6
         },
         {
           "word": "this",
-          "startSec": 7.54,
-          "endSec": 7.74,
-          "score": 1.0
+          "start": 7.6,
+          "end": 7.86
         },
         {
           "word": "podcast,",
-          "startSec": 7.74,
-          "endSec": 8.28,
-          "score": 0.98
+          "start": 7.86,
+          "end": 8.58
         },
         {
           "word": "we",
-          "startSec": 9.04,
-          "endSec": 9.06,
-          "score": 1.0
+          "start": 8.94,
+          "end": 9.1
         },
         {
           "word": "speak",
-          "startSec": 9.06,
-          "endSec": 9.4,
-          "score": 0.99
+          "start": 9.1,
+          "end": 9.5
         },
         {
           "word": "slow",
-          "startSec": 9.4,
-          "endSec": 9.92,
-          "score": 0.98
+          "start": 9.5,
+          "end": 10.12
         },
         {
           "word": "and",
-          "startSec": 9.92,
-          "endSec": 10.32,
-          "score": 1.0
+          "start": 10.12,
+          "end": 10.38
         },
         {
           "word": "easy",
-          "startSec": 10.32,
-          "endSec": 10.62,
-          "score": 1.0
+          "start": 10.38,
+          "end": 10.82
         },
         {
           "word": "English.",
-          "startSec": 10.62,
-          "endSec": 11.34,
-          "score": 1.0
+          "start": 10.82,
+          "end": 11.76
         }
       ]
     },
     {
       "id": 4,
-      "start": 11.94,
-      "end": 16.65,
+      "start": 12.36,
+      "end": 16.9,
       "text": "Today, we talk about a very small and remote place.",
       "words": [
         {
           "word": "Today,",
-          "startSec": 12.14,
-          "endSec": 12.68,
-          "score": 1.0
+          "start": 12.36,
+          "end": 12.82
         },
         {
           "word": "we",
-          "startSec": 12.78,
-          "endSec": 13.12,
-          "score": 1.0
+          "start": 12.94,
+          "end": 13.14
         },
         {
           "word": "talk",
-          "startSec": 13.12,
-          "endSec": 13.34,
-          "score": 0.99
+          "start": 13.14,
+          "end": 13.46
         },
         {
           "word": "about",
-          "startSec": 13.34,
-          "endSec": 13.84,
-          "score": 1.0
+          "start": 13.46,
+          "end": 13.9
         },
         {
           "word": "a",
-          "startSec": 13.84,
-          "endSec": 14.08,
-          "score": 1.0
+          "start": 13.9,
+          "end": 14.14
         },
         {
           "word": "very",
-          "startSec": 14.08,
-          "endSec": 14.5,
-          "score": 1.0
+          "start": 14.14,
+          "end": 14.56
         },
         {
           "word": "small",
-          "startSec": 14.5,
-          "endSec": 15.06,
-          "score": 1.0
+          "start": 14.56,
+          "end": 15.12
         },
         {
           "word": "and",
-          "startSec": 15.06,
-          "endSec": 15.44,
-          "score": 0.99
+          "start": 15.12,
+          "end": 15.5
         },
         {
           "word": "remote",
-          "startSec": 15.44,
-          "endSec": 15.78,
-          "score": 1.0
+          "start": 15.5,
+          "end": 15.98
         },
         {
           "word": "place.",
-          "startSec": 15.78,
-          "endSec": 16.5,
-          "score": 1.0
+          "start": 15.98,
+          "end": 16.9
         }
       ]
     },
     {
       "id": 5,
-      "start": 17.38,
-      "end": 19.27,
-      "text": "The place is Colusa.",
+      "start": 17.68,
+      "end": 19.48,
+      "text": "The place is Kulusuk.",
       "words": [
         {
           "word": "The",
-          "startSec": 17.58,
-          "endSec": 17.72,
-          "score": 0.98
+          "start": 17.68,
+          "end": 17.76
         },
         {
           "word": "place",
-          "startSec": 17.72,
-          "endSec": 18.1,
-          "score": 0.98
+          "start": 17.76,
+          "end": 18.16
         },
         {
           "word": "is",
-          "startSec": 18.1,
-          "endSec": 18.42,
-          "score": 1.0
+          "start": 18.16,
+          "end": 18.52
         },
         {
-          "word": "Colusa.",
-          "startSec": 18.42,
-          "endSec": 19.12,
-          "score": 0.41
+          "word": "Kulusuk.",
+          "start": 18.52,
+          "end": 19.48
         }
       ]
     },
     {
       "id": 6,
-      "start": 19.36,
-      "end": 21.17,
-      "text": "Colusa is in Greenland.",
+      "start": 19.58,
+      "end": 21.75,
+      "text": "Kulusuk is in Greenland.",
       "words": [
         {
-          "word": "Colusa",
-          "startSec": 19.56,
-          "endSec": 20.12,
-          "score": 0.98
+          "word": "Kulusuk",
+          "start": 19.58,
+          "end": 20.3
         },
         {
           "word": "is",
-          "startSec": 20.12,
-          "endSec": 20.44,
-          "score": 0.73
+          "start": 20.3,
+          "end": 20.6
         },
         {
           "word": "in",
-          "startSec": 20.44,
-          "endSec": 20.76,
-          "score": 1.0
+          "start": 20.6,
+          "end": 20.78
         },
         {
           "word": "Greenland.",
-          "startSec": 20.76,
-          "endSec": 21.02,
-          "score": 0.98
+          "start": 20.78,
+          "end": 21.75
         }
       ]
     },
     {
       "id": 7,
-      "start": 21.86,
-      "end": 25.17,
+      "start": 21.94,
+      "end": 25.54,
       "text": "Greenland is a large island in the Arctic.",
       "words": [
         {
           "word": "Greenland",
-          "startSec": 22.06,
-          "endSec": 22.3,
-          "score": 1.0
+          "start": 21.94,
+          "end": 22.66
         },
         {
           "word": "is",
-          "startSec": 22.3,
-          "endSec": 22.86,
-          "score": 1.0
+          "start": 22.66,
+          "end": 22.92
         },
         {
           "word": "a",
-          "startSec": 22.86,
-          "endSec": 23.04,
-          "score": 1.0
+          "start": 22.92,
+          "end": 23.1
         },
         {
           "word": "large",
-          "startSec": 23.04,
-          "endSec": 23.28,
-          "score": 1.0
+          "start": 23.1,
+          "end": 23.54
         },
         {
           "word": "island",
-          "startSec": 23.28,
-          "endSec": 24.06,
-          "score": 0.99
+          "start": 23.54,
+          "end": 24.14
         },
         {
           "word": "in",
-          "startSec": 24.06,
-          "endSec": 24.48,
-          "score": 1.0
+          "start": 24.14,
+          "end": 24.54
         },
         {
           "word": "the",
-          "startSec": 24.48,
-          "endSec": 24.64,
-          "score": 1.0
+          "start": 24.54,
+          "end": 24.68
         },
         {
           "word": "Arctic.",
-          "startSec": 24.64,
-          "endSec": 25.02,
-          "score": 0.98
+          "start": 24.68,
+          "end": 25.54
         }
       ]
     },
     {
       "id": 8,
-      "start": 25.85,
-      "end": 29.3,
-      "text": "Colusa is a small village near the ocean.",
+      "start": 25.98,
+      "end": 29.62,
+      "text": "Kulusuk is a small village near the ocean.",
       "words": [
         {
-          "word": "Colusa",
-          "startSec": 26.05,
-          "endSec": 26.63,
-          "score": 0.01
+          "word": "Kulusuk",
+          "start": 25.98,
+          "end": 26.8
         },
         {
           "word": "is",
-          "startSec": 26.63,
-          "endSec": 26.87,
-          "score": 0.39
+          "start": 26.8,
+          "end": 27.02
         },
         {
           "word": "a",
-          "startSec": 26.87,
-          "endSec": 27.11,
-          "score": 0.85
+          "start": 27.02,
+          "end": 27.18
         },
         {
           "word": "small",
-          "startSec": 27.11,
-          "endSec": 27.51,
-          "score": 0.98
+          "start": 27.18,
+          "end": 27.56
         },
         {
           "word": "village",
-          "startSec": 27.51,
-          "endSec": 28.05,
-          "score": 0.99
+          "start": 27.56,
+          "end": 28.1
         },
         {
           "word": "near",
-          "startSec": 28.05,
-          "endSec": 28.47,
-          "score": 0.99
+          "start": 28.1,
+          "end": 28.52
         },
         {
           "word": "the",
-          "startSec": 28.47,
-          "endSec": 28.67,
-          "score": 0.99
+          "start": 28.52,
+          "end": 28.72
         },
         {
           "word": "ocean.",
-          "startSec": 28.67,
-          "endSec": 29.15,
-          "score": 0.97
+          "start": 28.72,
+          "end": 29.62
         }
       ]
     },
     {
       "id": 9,
-      "start": 29.83,
-      "end": 32.38,
+      "start": 30.04,
+      "end": 32.8,
       "text": "It is quiet and very cold.",
       "words": [
         {
           "word": "It",
-          "startSec": 30.03,
-          "endSec": 30.13,
-          "score": 0.96
+          "start": 30.04,
+          "end": 30.16
         },
         {
           "word": "is",
-          "startSec": 30.13,
-          "endSec": 30.33,
-          "score": 0.98
+          "start": 30.16,
+          "end": 30.36
         },
         {
           "word": "quiet",
-          "startSec": 30.33,
-          "endSec": 30.83,
-          "score": 0.99
+          "start": 30.36,
+          "end": 30.96
         },
         {
           "word": "and",
-          "startSec": 30.83,
-          "endSec": 31.33,
-          "score": 0.98
+          "start": 30.96,
+          "end": 31.4
         },
         {
           "word": "very",
-          "startSec": 31.33,
-          "endSec": 31.63,
-          "score": 0.98
+          "start": 31.4,
+          "end": 31.78
         },
         {
           "word": "cold.",
-          "startSec": 31.63,
-          "endSec": 32.23,
-          "score": 1.0
+          "start": 31.78,
+          "end": 32.8
         }
       ]
     },
     {
       "id": 10,
-      "start": 33.66,
-      "end": 38.39,
-      "text": "Part two, only a few hundred people live in Colusa.",
+      "start": 33.34,
+      "end": 38.64,
+      "text": "Part two, only a few hundred people live in Kulusuk.",
       "words": [
         {
           "word": "Part",
-          "startSec": 33.86,
-          "endSec": 34.08,
-          "score": 0.74
+          "start": 33.34,
+          "end": 34.12
         },
         {
           "word": "two,",
-          "startSec": 34.08,
-          "endSec": 34.54,
-          "score": 0.37
+          "start": 34.12,
+          "end": 34.62
         },
         {
           "word": "only",
-          "startSec": 35.1,
-          "endSec": 35.34,
-          "score": 0.98
+          "start": 35.14,
+          "end": 35.56
         },
         {
           "word": "a",
-          "startSec": 35.34,
-          "endSec": 35.34,
-          "score": 0.98
+          "start": 35.56,
+          "end": 35.84
         },
         {
           "word": "few",
-          "startSec": 35.34,
-          "endSec": 36.04,
-          "score": 1.0
+          "start": 35.84,
+          "end": 36.1
         },
         {
           "word": "hundred",
-          "startSec": 36.04,
-          "endSec": 36.48,
-          "score": 0.98
+          "start": 36.1,
+          "end": 36.54
         },
         {
           "word": "people",
-          "startSec": 36.48,
-          "endSec": 37.06,
-          "score": 1.0
+          "start": 36.54,
+          "end": 37.06
         },
         {
           "word": "live",
-          "startSec": 37.06,
-          "endSec": 37.38,
-          "score": 0.98
+          "start": 37.06,
+          "end": 37.48
         },
         {
           "word": "in",
-          "startSec": 37.38,
-          "endSec": 37.62,
-          "score": 1.0
+          "start": 37.48,
+          "end": 37.66
         },
         {
-          "word": "Colusa.",
-          "startSec": 37.62,
-          "endSec": 38.24,
-          "score": 0.8
+          "word": "Kulusuk.",
+          "start": 37.66,
+          "end": 38.64
         }
       ]
     },
     {
       "id": 11,
-      "start": 38.4,
-      "end": 40.81,
+      "start": 38.82,
+      "end": 41.1,
       "text": "Everyone knows each other.",
       "words": [
         {
           "word": "Everyone",
-          "startSec": 38.6,
-          "endSec": 39.32,
-          "score": 0.99
+          "start": 38.82,
+          "end": 39.36
         },
         {
           "word": "knows",
-          "startSec": 39.32,
-          "endSec": 39.92,
-          "score": 1.0
+          "start": 39.36,
+          "end": 40.0
         },
         {
           "word": "each",
-          "startSec": 39.92,
-          "endSec": 40.22,
-          "score": 1.0
+          "start": 40.0,
+          "end": 40.38
         },
         {
           "word": "other.",
-          "startSec": 40.22,
-          "endSec": 40.66,
-          "score": 0.99
+          "start": 40.38,
+          "end": 41.1
         }
       ]
     },
     {
       "id": 12,
-      "start": 41.5,
-      "end": 43.63,
+      "start": 41.68,
+      "end": 44.0,
       "text": "Life is simple and calm.",
       "words": [
         {
           "word": "Life",
-          "startSec": 41.7,
-          "endSec": 42.02,
-          "score": 0.99
+          "start": 41.68,
+          "end": 42.08
         },
         {
           "word": "is",
-          "startSec": 42.02,
-          "endSec": 42.32,
-          "score": 1.0
+          "start": 42.08,
+          "end": 42.4
         },
         {
           "word": "simple",
-          "startSec": 42.32,
-          "endSec": 42.78,
-          "score": 1.0
+          "start": 42.4,
+          "end": 42.86
         },
         {
           "word": "and",
-          "startSec": 42.78,
-          "endSec": 43.08,
-          "score": 1.0
+          "start": 42.86,
+          "end": 43.16
         },
         {
           "word": "calm.",
-          "startSec": 43.08,
-          "endSec": 43.48,
-          "score": 1.0
+          "start": 43.16,
+          "end": 44.0
         }
       ]
     },
     {
       "id": 13,
-      "start": 44.3,
-      "end": 46.07,
+      "start": 44.34,
+      "end": 46.54,
       "text": "People live close to nature.",
       "words": [
         {
           "word": "People",
-          "startSec": 44.5,
-          "endSec": 44.56,
-          "score": 0.99
+          "start": 44.34,
+          "end": 44.72
         },
         {
           "word": "live",
-          "startSec": 44.56,
-          "endSec": 44.98,
-          "score": 0.99
+          "start": 44.72,
+          "end": 45.04
         },
         {
           "word": "close",
-          "startSec": 44.98,
-          "endSec": 45.28,
-          "score": 1.0
+          "start": 45.04,
+          "end": 45.4
         },
         {
           "word": "to",
-          "startSec": 45.28,
-          "endSec": 45.68,
-          "score": 1.0
+          "start": 45.4,
+          "end": 45.74
         },
         {
           "word": "nature.",
-          "startSec": 45.68,
-          "endSec": 45.92,
-          "score": 1.0
+          "start": 45.74,
+          "end": 46.54
         }
       ]
     },
     {
       "id": 14,
-      "start": 47.63,
-      "end": 54.0,
-      "text": "Part three, Colusa is surrounded by mountains, snow and ice.",
+      "start": 47.08,
+      "end": 54.36,
+      "text": "Part three, Kulusuk is surrounded by mountains, snow, and ice.",
       "words": [
         {
           "word": "Part",
-          "startSec": 47.83,
-          "endSec": 47.83,
-          "score": 0.98
+          "start": 47.08,
+          "end": 47.88
         },
         {
           "word": "three,",
-          "startSec": 47.83,
-          "endSec": 48.35,
-          "score": 0.91
+          "start": 47.88,
+          "end": 48.42
         },
         {
-          "word": "Colusa",
-          "startSec": 48.93,
-          "endSec": 49.65,
-          "score": 0.97
+          "word": "Kulusuk",
+          "start": 48.76,
+          "end": 49.86
         },
         {
           "word": "is",
-          "startSec": 49.65,
-          "endSec": 50.15,
-          "score": 0.98
+          "start": 49.86,
+          "end": 50.24
         },
         {
           "word": "surrounded",
-          "startSec": 50.15,
-          "endSec": 50.71,
-          "score": 1.0
+          "start": 50.24,
+          "end": 50.9
         },
         {
           "word": "by",
-          "startSec": 50.71,
-          "endSec": 51.35,
-          "score": 1.0
+          "start": 50.9,
+          "end": 51.4
         },
         {
           "word": "mountains,",
-          "startSec": 51.35,
-          "endSec": 51.93,
-          "score": 0.93
+          "start": 51.4,
+          "end": 51.98
         },
         {
-          "word": "snow",
-          "startSec": 52.79,
-          "endSec": 52.79,
-          "score": 1.0
+          "word": "snow,",
+          "start": 52.56,
+          "end": 52.88
         },
         {
           "word": "and",
-          "startSec": 52.79,
-          "endSec": 53.43,
-          "score": 0.58
+          "start": 53.32,
+          "end": 53.48
         },
         {
           "word": "ice.",
-          "startSec": 53.43,
-          "endSec": 53.85,
-          "score": 1.0
+          "start": 53.48,
+          "end": 54.36
         }
       ]
     },
     {
       "id": 15,
-      "start": 54.61,
-      "end": 57.3,
+      "start": 54.98,
+      "end": 57.64,
       "text": "The landscape is white and blue.",
       "words": [
         {
           "word": "The",
-          "startSec": 54.81,
-          "endSec": 55.19,
-          "score": 0.57
+          "start": 54.98,
+          "end": 55.26
         },
         {
           "word": "landscape",
-          "startSec": 55.19,
-          "endSec": 55.69,
-          "score": 0.97
+          "start": 55.26,
+          "end": 55.86
         },
         {
           "word": "is",
-          "startSec": 55.69,
-          "endSec": 56.21,
-          "score": 1.0
+          "start": 55.86,
+          "end": 56.28
         },
         {
           "word": "white",
-          "startSec": 56.21,
-          "endSec": 56.53,
-          "score": 0.99
+          "start": 56.28,
+          "end": 56.6
         },
         {
           "word": "and",
-          "startSec": 56.53,
-          "endSec": 56.81,
-          "score": 0.99
+          "start": 56.6,
+          "end": 56.86
         },
         {
           "word": "blue.",
-          "startSec": 56.81,
-          "endSec": 57.15,
-          "score": 1.0
+          "start": 56.86,
+          "end": 57.64
         }
       ]
     },
     {
       "id": 16,
-      "start": 57.83,
-      "end": 60.7,
+      "start": 58.0,
+      "end": 61.14,
       "text": "The sea is full of ice in many months.",
       "words": [
         {
           "word": "The",
-          "startSec": 58.03,
-          "endSec": 58.15,
-          "score": 0.99
+          "start": 58.0,
+          "end": 58.18
         },
         {
           "word": "sea",
-          "startSec": 58.15,
-          "endSec": 58.43,
-          "score": 1.0
+          "start": 58.18,
+          "end": 58.58
         },
         {
           "word": "is",
-          "startSec": 58.43,
-          "endSec": 58.73,
-          "score": 1.0
+          "start": 58.58,
+          "end": 58.8
         },
         {
           "word": "full",
-          "startSec": 58.73,
-          "endSec": 59.01,
-          "score": 1.0
+          "start": 58.8,
+          "end": 59.08
         },
         {
           "word": "of",
-          "startSec": 59.01,
-          "endSec": 59.23,
-          "score": 1.0
+          "start": 59.08,
+          "end": 59.3
         },
         {
           "word": "ice",
-          "startSec": 59.23,
-          "endSec": 59.53,
-          "score": 1.0
+          "start": 59.3,
+          "end": 59.56
         },
         {
           "word": "in",
-          "startSec": 59.53,
-          "endSec": 59.83,
-          "score": 0.97
+          "start": 59.56,
+          "end": 59.88
         },
         {
           "word": "many",
-          "startSec": 59.83,
-          "endSec": 60.05,
-          "score": 1.0
+          "start": 59.88,
+          "end": 60.22
         },
         {
           "word": "months.",
-          "startSec": 60.05,
-          "endSec": 60.55,
-          "score": 1.0
+          "start": 60.22,
+          "end": 61.14
         }
       ]
     },
     {
       "id": 17,
-      "start": 61.68,
-      "end": 64.31,
+      "start": 61.84,
+      "end": 64.54,
       "text": "It is a very beautiful place.",
       "words": [
         {
           "word": "It",
-          "startSec": 61.88,
-          "endSec": 62.04,
-          "score": 0.99
+          "start": 61.84,
+          "end": 62.06
         },
         {
           "word": "is",
-          "startSec": 62.04,
-          "endSec": 62.22,
-          "score": 1.0
+          "start": 62.06,
+          "end": 62.28
         },
         {
           "word": "a",
-          "startSec": 62.22,
-          "endSec": 62.38,
-          "score": 1.0
+          "start": 62.28,
+          "end": 62.48
         },
         {
           "word": "very",
-          "startSec": 62.38,
-          "endSec": 62.92,
-          "score": 1.0
+          "start": 62.48,
+          "end": 62.98
         },
         {
           "word": "beautiful",
-          "startSec": 62.92,
-          "endSec": 63.4,
-          "score": 1.0
+          "start": 62.98,
+          "end": 63.62
         },
         {
           "word": "place.",
-          "startSec": 63.4,
-          "endSec": 64.16,
-          "score": 1.0
+          "start": 63.62,
+          "end": 64.54
         }
       ]
     },
     {
       "id": 18,
-      "start": 64.98,
-      "end": 69.11,
-      "text": "Part four, the weather in Colusa is very cold.",
+      "start": 65.16,
+      "end": 69.48,
+      "text": "Part four, the weather in Kulusuk is very cold.",
       "words": [
         {
           "word": "Part",
-          "startSec": 65.18,
-          "endSec": 65.5,
-          "score": 0.81
+          "start": 65.16,
+          "end": 65.52
         },
         {
           "word": "four,",
-          "startSec": 65.5,
-          "endSec": 65.92,
-          "score": 0.52
+          "start": 65.52,
+          "end": 66.04
         },
         {
           "word": "the",
-          "startSec": 66.32,
-          "endSec": 66.5,
-          "score": 0.98
+          "start": 66.4,
+          "end": 66.54
         },
         {
           "word": "weather",
-          "startSec": 66.5,
-          "endSec": 66.82,
-          "score": 1.0
+          "start": 66.54,
+          "end": 66.92
         },
         {
           "word": "in",
-          "startSec": 66.82,
-          "endSec": 67.18,
-          "score": 0.99
+          "start": 66.92,
+          "end": 67.24
         },
         {
-          "word": "Colusa",
-          "startSec": 67.18,
-          "endSec": 67.76,
-          "score": 0.01
+          "word": "Kulusuk",
+          "start": 67.24,
+          "end": 67.92
         },
         {
           "word": "is",
-          "startSec": 67.76,
-          "endSec": 68.06,
-          "score": 0.16
+          "start": 67.92,
+          "end": 68.22
         },
         {
           "word": "very",
-          "startSec": 68.06,
-          "endSec": 68.5,
-          "score": 0.99
+          "start": 68.22,
+          "end": 68.54
         },
         {
           "word": "cold.",
-          "startSec": 68.5,
-          "endSec": 68.96,
-          "score": 1.0
+          "start": 68.54,
+          "end": 69.48
         }
       ]
     },
     {
       "id": 19,
-      "start": 69.58,
-      "end": 71.71,
+      "start": 69.94,
+      "end": 72.04,
       "text": "Winter is long and dark.",
       "words": [
         {
           "word": "Winter",
-          "startSec": 69.78,
-          "endSec": 70.02,
-          "score": 0.99
+          "start": 69.94,
+          "end": 70.18
         },
         {
           "word": "is",
-          "startSec": 70.02,
-          "endSec": 70.52,
-          "score": 1.0
+          "start": 70.18,
+          "end": 70.58
         },
         {
           "word": "long",
-          "startSec": 70.52,
-          "endSec": 70.84,
-          "score": 1.0
+          "start": 70.58,
+          "end": 71.0
         },
         {
           "word": "and",
-          "startSec": 70.84,
-          "endSec": 71.2,
-          "score": 0.99
+          "start": 71.0,
+          "end": 71.26
         },
         {
           "word": "dark.",
-          "startSec": 71.2,
-          "endSec": 71.56,
-          "score": 1.0
+          "start": 71.26,
+          "end": 72.04
         }
       ]
     },
     {
       "id": 20,
-      "start": 72.62,
-      "end": 75.33,
+      "start": 72.98,
+      "end": 75.62,
       "text": "Temperatures are often below zero.",
       "words": [
         {
           "word": "Temperatures",
-          "startSec": 72.82,
-          "endSec": 73.44,
-          "score": 0.99
+          "start": 72.98,
+          "end": 73.6
         },
         {
           "word": "are",
-          "startSec": 73.44,
-          "endSec": 73.76,
-          "score": 1.0
+          "start": 73.6,
+          "end": 73.8
         },
         {
           "word": "often",
-          "startSec": 73.76,
-          "endSec": 74.2,
-          "score": 0.99
+          "start": 73.8,
+          "end": 74.28
         },
         {
           "word": "below",
-          "startSec": 74.2,
-          "endSec": 74.56,
-          "score": 1.0
+          "start": 74.28,
+          "end": 74.64
         },
         {
           "word": "zero.",
-          "startSec": 74.56,
-          "endSec": 75.18,
-          "score": 0.96
+          "start": 74.64,
+          "end": 75.62
         }
       ]
     },
     {
       "id": 21,
-      "start": 76.23,
-      "end": 79.42,
+      "start": 76.24,
+      "end": 79.64,
       "text": "People wear very warm clothes every day.",
       "words": [
         {
           "word": "People",
-          "startSec": 76.43,
-          "endSec": 76.87,
-          "score": 1.0
+          "start": 76.24,
+          "end": 76.9
         },
         {
           "word": "wear",
-          "startSec": 76.87,
-          "endSec": 77.21,
-          "score": 1.0
+          "start": 76.9,
+          "end": 77.26
         },
         {
           "word": "very",
-          "startSec": 77.21,
-          "endSec": 77.53,
-          "score": 0.99
+          "start": 77.26,
+          "end": 77.68
         },
         {
           "word": "warm",
-          "startSec": 77.53,
-          "endSec": 78.05,
-          "score": 1.0
+          "start": 77.68,
+          "end": 78.08
         },
         {
           "word": "clothes",
-          "startSec": 78.05,
-          "endSec": 78.43,
-          "score": 1.0
+          "start": 78.08,
+          "end": 78.48
         },
         {
           "word": "every",
-          "startSec": 78.43,
-          "endSec": 78.87,
-          "score": 0.88
+          "start": 78.48,
+          "end": 78.94
         },
         {
           "word": "day.",
-          "startSec": 78.87,
-          "endSec": 79.27,
-          "score": 1.0
+          "start": 78.94,
+          "end": 79.64
         }
       ]
     },
     {
       "id": 22,
-      "start": 80.03,
-      "end": 84.78,
-      "text": "Part five, in summer, the weather becomes a little warmer.",
+      "start": 79.82,
+      "end": 85.24,
+      "text": "Part five, in summer the weather becomes a little warmer.",
       "words": [
         {
           "word": "Part",
-          "startSec": 80.23,
-          "endSec": 80.23,
-          "score": 0.98
+          "start": 79.82,
+          "end": 80.36
         },
         {
           "word": "five,",
-          "startSec": 80.23,
-          "endSec": 81.11,
-          "score": 0.94
+          "start": 80.36,
+          "end": 80.94
         },
         {
           "word": "in",
-          "startSec": 81.55,
-          "endSec": 81.87,
-          "score": 0.95
+          "start": 81.66,
+          "end": 81.92
         },
         {
-          "word": "summer,",
-          "startSec": 81.87,
-          "endSec": 82.23,
-          "score": 0.99
+          "word": "summer",
+          "start": 81.92,
+          "end": 82.4
         },
         {
           "word": "the",
-          "startSec": 82.65,
-          "endSec": 82.71,
-          "score": 1.0
+          "start": 82.4,
+          "end": 82.74
         },
         {
           "word": "weather",
-          "startSec": 82.71,
-          "endSec": 83.01,
-          "score": 1.0
+          "start": 82.74,
+          "end": 83.08
         },
         {
           "word": "becomes",
-          "startSec": 83.01,
-          "endSec": 83.53,
-          "score": 1.0
+          "start": 83.08,
+          "end": 83.7
         },
         {
           "word": "a",
-          "startSec": 83.53,
-          "endSec": 83.89,
-          "score": 1.0
+          "start": 83.7,
+          "end": 83.94
         },
         {
           "word": "little",
-          "startSec": 83.89,
-          "endSec": 84.17,
-          "score": 1.0
+          "start": 83.94,
+          "end": 84.24
         },
         {
           "word": "warmer.",
-          "startSec": 84.17,
-          "endSec": 84.63,
-          "score": 1.0
+          "start": 84.24,
+          "end": 85.24
         }
       ]
     },
     {
       "id": 23,
-      "start": 85.62,
-      "end": 87.73,
+      "start": 85.82,
+      "end": 88.12,
       "text": "Snow starts to melt.",
       "words": [
         {
           "word": "Snow",
-          "startSec": 85.82,
-          "endSec": 86.26,
-          "score": 0.01
+          "start": 85.82,
+          "end": 86.36
         },
         {
           "word": "starts",
-          "startSec": 86.26,
-          "endSec": 86.82,
-          "score": 0.97
+          "start": 86.36,
+          "end": 86.86
         },
         {
           "word": "to",
-          "startSec": 86.82,
-          "endSec": 87.28,
-          "score": 1.0
+          "start": 86.86,
+          "end": 87.32
         },
         {
           "word": "melt.",
-          "startSec": 87.28,
-          "endSec": 87.58,
-          "score": 1.0
+          "start": 87.32,
+          "end": 88.12
         }
       ]
     },
     {
       "id": 24,
-      "start": 88.06,
-      "end": 90.53,
+      "start": 88.4,
+      "end": 90.9,
       "text": "The days become very long.",
       "words": [
         {
           "word": "The",
-          "startSec": 88.26,
-          "endSec": 88.48,
-          "score": 0.97
+          "start": 88.4,
+          "end": 88.52
         },
         {
           "word": "days",
-          "startSec": 88.48,
-          "endSec": 88.84,
-          "score": 0.92
+          "start": 88.52,
+          "end": 88.96
         },
         {
           "word": "become",
-          "startSec": 88.84,
-          "endSec": 89.46,
-          "score": 0.99
+          "start": 88.96,
+          "end": 89.52
         },
         {
           "word": "very",
-          "startSec": 89.46,
-          "endSec": 89.94,
-          "score": 1.0
+          "start": 89.52,
+          "end": 90.0
         },
         {
           "word": "long.",
-          "startSec": 89.94,
-          "endSec": 90.38,
-          "score": 1.0
+          "start": 90.0,
+          "end": 90.9
         }
       ]
     },
     {
       "id": 25,
-      "start": 91.81,
-      "end": 94.28,
+      "start": 91.28,
+      "end": 94.6,
       "text": "Sometimes the sun shines all night.",
       "words": [
         {
           "word": "Sometimes",
-          "startSec": 92.01,
-          "endSec": 92.01,
-          "score": 0.85
+          "start": 91.28,
+          "end": 92.0
         },
         {
           "word": "the",
-          "startSec": 92.01,
-          "endSec": 92.41,
-          "score": 0.96
+          "start": 92.0,
+          "end": 92.46
         },
         {
           "word": "sun",
-          "startSec": 92.41,
-          "endSec": 92.77,
-          "score": 0.91
+          "start": 92.46,
+          "end": 92.84
         },
         {
           "word": "shines",
-          "startSec": 92.77,
-          "endSec": 93.11,
-          "score": 0.99
+          "start": 92.84,
+          "end": 93.4
         },
         {
           "word": "all",
-          "startSec": 93.11,
-          "endSec": 93.75,
-          "score": 0.99
+          "start": 93.4,
+          "end": 93.82
         },
         {
           "word": "night.",
-          "startSec": 93.75,
-          "endSec": 94.13,
-          "score": 1.0
+          "start": 93.82,
+          "end": 94.6
         }
       ]
     },
     {
       "id": 26,
-      "start": 95.2,
-      "end": 100.03,
-      "text": "Part six, fishing is very important in Colusa.",
+      "start": 95.5,
+      "end": 100.4,
+      "text": "Part six, fishing is very important in Kulusuk.",
       "words": [
         {
           "word": "Part",
-          "startSec": 95.4,
-          "endSec": 95.62,
-          "score": 0.79
+          "start": 95.5,
+          "end": 95.68
         },
         {
           "word": "six,",
-          "startSec": 95.62,
-          "endSec": 96.12,
-          "score": 0.4
+          "start": 95.68,
+          "end": 96.3
         },
         {
           "word": "fishing",
-          "startSec": 96.9,
-          "endSec": 97.42,
-          "score": 0.96
+          "start": 96.9,
+          "end": 97.42
         },
         {
           "word": "is",
-          "startSec": 97.42,
-          "endSec": 97.74,
-          "score": 1.0
+          "start": 97.42,
+          "end": 97.84
         },
         {
           "word": "very",
-          "startSec": 97.74,
-          "endSec": 98.12,
-          "score": 1.0
+          "start": 97.84,
+          "end": 98.26
         },
         {
           "word": "important",
-          "startSec": 98.12,
-          "endSec": 98.76,
-          "score": 1.0
+          "start": 98.26,
+          "end": 98.92
         },
         {
           "word": "in",
-          "startSec": 98.76,
-          "endSec": 99.12,
-          "score": 0.94
+          "start": 98.92,
+          "end": 99.2
         },
         {
-          "word": "Colusa.",
-          "startSec": 99.12,
-          "endSec": 99.88,
-          "score": 0.03
+          "word": "Kulusuk.",
+          "start": 99.2,
+          "end": 100.4
         }
       ]
     },
     {
       "id": 27,
-      "start": 100.22,
-      "end": 103.85,
+      "start": 100.78,
+      "end": 104.22,
       "text": "Many people catch fish from the sea.",
       "words": [
         {
           "word": "Many",
-          "startSec": 100.42,
-          "endSec": 101.24,
-          "score": 0.99
+          "start": 100.78,
+          "end": 101.38
         },
         {
           "word": "people",
-          "startSec": 101.24,
-          "endSec": 101.84,
-          "score": 1.0
+          "start": 101.38,
+          "end": 101.82
         },
         {
           "word": "catch",
-          "startSec": 101.84,
-          "endSec": 102.2,
-          "score": 1.0
+          "start": 101.82,
+          "end": 102.34
         },
         {
           "word": "fish",
-          "startSec": 102.2,
-          "endSec": 102.72,
-          "score": 1.0
+          "start": 102.34,
+          "end": 102.8
         },
         {
           "word": "from",
-          "startSec": 102.72,
-          "endSec": 103.14,
-          "score": 1.0
+          "start": 102.8,
+          "end": 103.18
         },
         {
           "word": "the",
-          "startSec": 103.14,
-          "endSec": 103.38,
-          "score": 1.0
+          "start": 103.18,
+          "end": 103.42
         },
         {
           "word": "sea.",
-          "startSec": 103.38,
-          "endSec": 103.7,
-          "score": 1.0
+          "start": 103.42,
+          "end": 104.22
         }
       ]
     },
     {
       "id": 28,
-      "start": 104.5,
-      "end": 107.49,
+      "start": 104.66,
+      "end": 107.82,
       "text": "Fishing is a main job in the village.",
       "words": [
         {
           "word": "Fishing",
-          "startSec": 104.7,
-          "endSec": 105.08,
-          "score": 0.94
+          "start": 104.66,
+          "end": 105.22
         },
         {
           "word": "is",
-          "startSec": 105.08,
-          "endSec": 105.52,
-          "score": 1.0
+          "start": 105.22,
+          "end": 105.6
         },
         {
           "word": "a",
-          "startSec": 105.52,
-          "endSec": 105.68,
-          "score": 0.96
+          "start": 105.6,
+          "end": 105.74
         },
         {
           "word": "main",
-          "startSec": 105.68,
-          "endSec": 105.9,
-          "score": 0.99
+          "start": 105.74,
+          "end": 106.04
         },
         {
           "word": "job",
-          "startSec": 105.9,
-          "endSec": 106.38,
-          "score": 1.0
+          "start": 106.04,
+          "end": 106.5
         },
         {
           "word": "in",
-          "startSec": 106.38,
-          "endSec": 106.76,
-          "score": 1.0
+          "start": 106.5,
+          "end": 106.84
         },
         {
           "word": "the",
-          "startSec": 106.76,
-          "endSec": 106.94,
-          "score": 1.0
+          "start": 106.84,
+          "end": 107.0
         },
         {
           "word": "village.",
-          "startSec": 106.94,
-          "endSec": 107.34,
-          "score": 0.98
+          "start": 107.0,
+          "end": 107.82
         }
       ]
     },
     {
       "id": 29,
-      "start": 108.21,
-      "end": 111.4,
+      "start": 108.36,
+      "end": 111.76,
       "text": "People eat fresh fish very often.",
       "words": [
         {
           "word": "People",
-          "startSec": 108.41,
-          "endSec": 108.77,
-          "score": 1.0
+          "start": 108.36,
+          "end": 108.94
         },
         {
           "word": "eat",
-          "startSec": 108.77,
-          "endSec": 109.23,
-          "score": 1.0
+          "start": 108.94,
+          "end": 109.36
         },
         {
           "word": "fresh",
-          "startSec": 109.23,
-          "endSec": 109.67,
-          "score": 1.0
+          "start": 109.36,
+          "end": 109.86
         },
         {
           "word": "fish",
-          "startSec": 109.67,
-          "endSec": 110.23,
-          "score": 1.0
+          "start": 109.86,
+          "end": 110.32
         },
         {
           "word": "very",
-          "startSec": 110.23,
-          "endSec": 110.65,
-          "score": 0.99
+          "start": 110.32,
+          "end": 110.78
         },
         {
           "word": "often.",
-          "startSec": 110.65,
-          "endSec": 111.25,
-          "score": 1.0
+          "start": 110.78,
+          "end": 111.76
         }
       ]
     },
     {
       "id": 30,
-      "start": 112.3,
-      "end": 117.25,
+      "start": 112.56,
+      "end": 117.54,
       "text": "Part seven, hunting is also part of traditional life.",
       "words": [
         {
           "word": "Part",
-          "startSec": 112.5,
-          "endSec": 112.94,
-          "score": 0.48
+          "start": 112.56,
+          "end": 112.98
         },
         {
           "word": "seven,",
-          "startSec": 112.94,
-          "endSec": 113.6,
-          "score": 0.29
+          "start": 112.98,
+          "end": 113.56
         },
         {
           "word": "hunting",
-          "startSec": 113.98,
-          "endSec": 114.3,
-          "score": 0.97
+          "start": 114.04,
+          "end": 114.36
         },
         {
           "word": "is",
-          "startSec": 114.3,
-          "endSec": 114.84,
-          "score": 0.99
+          "start": 114.36,
+          "end": 114.88
         },
         {
           "word": "also",
-          "startSec": 114.84,
-          "endSec": 115.32,
-          "score": 1.0
+          "start": 114.88,
+          "end": 115.42
         },
         {
           "word": "part",
-          "startSec": 115.32,
-          "endSec": 115.76,
-          "score": 0.96
+          "start": 115.42,
+          "end": 115.8
         },
         {
           "word": "of",
-          "startSec": 115.76,
-          "endSec": 115.96,
-          "score": 1.0
+          "start": 115.8,
+          "end": 116.0
         },
         {
           "word": "traditional",
-          "startSec": 115.96,
-          "endSec": 116.42,
-          "score": 0.98
+          "start": 116.0,
+          "end": 116.56
         },
         {
           "word": "life.",
-          "startSec": 116.42,
-          "endSec": 117.1,
-          "score": 1.0
+          "start": 116.56,
+          "end": 117.54
         }
       ]
     },
     {
       "id": 31,
-      "start": 118.08,
-      "end": 121.33,
+      "start": 117.82,
+      "end": 121.72,
       "text": "People hunt animals for food and clothing.",
       "words": [
         {
           "word": "People",
-          "startSec": 118.28,
-          "endSec": 118.62,
-          "score": 0.89
+          "start": 117.82,
+          "end": 118.66
         },
         {
           "word": "hunt",
-          "startSec": 118.62,
-          "endSec": 118.94,
-          "score": 1.0
+          "start": 118.66,
+          "end": 119.04
         },
         {
           "word": "animals",
-          "startSec": 118.94,
-          "endSec": 119.58,
-          "score": 1.0
+          "start": 119.04,
+          "end": 119.62
         },
         {
           "word": "for",
-          "startSec": 119.58,
-          "endSec": 120.06,
-          "score": 1.0
+          "start": 119.62,
+          "end": 120.12
         },
         {
           "word": "food",
-          "startSec": 120.06,
-          "endSec": 120.54,
-          "score": 1.0
+          "start": 120.12,
+          "end": 120.62
         },
         {
           "word": "and",
-          "startSec": 120.54,
-          "endSec": 120.78,
-          "score": 0.97
+          "start": 120.62,
+          "end": 120.84
         },
         {
           "word": "clothing.",
-          "startSec": 120.78,
-          "endSec": 121.18,
-          "score": 1.0
+          "start": 120.84,
+          "end": 121.72
         }
       ]
     },
     {
       "id": 32,
-      "start": 122.1,
-      "end": 124.91,
+      "start": 122.16,
+      "end": 125.22,
       "text": "This is an old tradition in the Arctic.",
       "words": [
         {
           "word": "This",
-          "startSec": 122.3,
-          "endSec": 122.56,
-          "score": 0.99
+          "start": 122.16,
+          "end": 122.58
         },
         {
           "word": "is",
-          "startSec": 122.56,
-          "endSec": 122.74,
-          "score": 1.0
+          "start": 122.58,
+          "end": 122.82
         },
         {
           "word": "an",
-          "startSec": 122.74,
-          "endSec": 122.94,
-          "score": 0.99
+          "start": 122.82,
+          "end": 123.0
         },
         {
           "word": "old",
-          "startSec": 122.94,
-          "endSec": 123.24,
-          "score": 0.99
+          "start": 123.0,
+          "end": 123.3
         },
         {
           "word": "tradition",
-          "startSec": 123.24,
-          "endSec": 123.74,
-          "score": 1.0
+          "start": 123.3,
+          "end": 123.94
         },
         {
           "word": "in",
-          "startSec": 123.74,
-          "endSec": 124.18,
-          "score": 1.0
+          "start": 123.94,
+          "end": 124.26
         },
         {
           "word": "the",
-          "startSec": 124.18,
-          "endSec": 124.38,
-          "score": 0.99
+          "start": 124.26,
+          "end": 124.42
         },
         {
           "word": "Arctic.",
-          "startSec": 124.38,
-          "endSec": 124.76,
-          "score": 0.85
+          "start": 124.42,
+          "end": 125.22
         }
       ]
     },
     {
       "id": 33,
-      "start": 125.64,
-      "end": 127.81,
+      "start": 125.94,
+      "end": 128.36,
       "text": "It is important for survival.",
       "words": [
         {
           "word": "It",
-          "startSec": 125.84,
-          "endSec": 126.02,
-          "score": 0.99
+          "start": 125.94,
+          "end": 126.06
         },
         {
           "word": "is",
-          "startSec": 126.02,
-          "endSec": 126.18,
-          "score": 1.0
+          "start": 126.06,
+          "end": 126.24
         },
         {
           "word": "important",
-          "startSec": 126.18,
-          "endSec": 126.62,
-          "score": 1.0
+          "start": 126.24,
+          "end": 126.88
         },
         {
           "word": "for",
-          "startSec": 126.62,
-          "endSec": 127.16,
-          "score": 1.0
+          "start": 126.88,
+          "end": 127.22
         },
         {
           "word": "survival.",
-          "startSec": 127.16,
-          "endSec": 127.66,
-          "score": 1.0
+          "start": 127.22,
+          "end": 128.36
         }
       ]
     },
     {
       "id": 34,
-      "start": 129.07,
-      "end": 133.22,
-      "text": "Part eight, dogs are very important in Colusa.",
+      "start": 129.08,
+      "end": 133.58,
+      "text": "Part eight, dogs are very important in Kulusuk.",
       "words": [
         {
           "word": "Part",
-          "startSec": 129.27,
-          "endSec": 129.51,
-          "score": 0.99
+          "start": 129.08,
+          "end": 129.7
         },
         {
           "word": "eight,",
-          "startSec": 129.51,
-          "endSec": 129.91,
-          "score": 0.94
+          "start": 129.7,
+          "end": 130.0
         },
         {
           "word": "dogs",
-          "startSec": 129.91,
-          "endSec": 130.47,
-          "score": 0.99
+          "start": 130.32,
+          "end": 130.54
         },
         {
           "word": "are",
-          "startSec": 130.47,
-          "endSec": 130.91,
-          "score": 0.82
+          "start": 130.54,
+          "end": 130.94
         },
         {
           "word": "very",
-          "startSec": 130.91,
-          "endSec": 131.21,
-          "score": 1.0
+          "start": 130.94,
+          "end": 131.34
         },
         {
           "word": "important",
-          "startSec": 131.21,
-          "endSec": 131.85,
-          "score": 1.0
+          "start": 131.34,
+          "end": 132.04
         },
         {
           "word": "in",
-          "startSec": 131.85,
-          "endSec": 132.27,
-          "score": 0.85
+          "start": 132.04,
+          "end": 132.34
         },
         {
-          "word": "Colusa.",
-          "startSec": 132.27,
-          "endSec": 133.07,
-          "score": 0.03
+          "word": "Kulusuk.",
+          "start": 132.34,
+          "end": 133.58
         }
       ]
     },
     {
       "id": 35,
-      "start": 133.68,
-      "end": 136.27,
+      "start": 133.94,
+      "end": 136.52,
       "text": "Many people have sled dogs.",
       "words": [
         {
           "word": "Many",
-          "startSec": 133.88,
-          "endSec": 134.32,
-          "score": 0.99
+          "start": 133.94,
+          "end": 134.48
         },
         {
           "word": "people",
-          "startSec": 134.32,
-          "endSec": 134.92,
-          "score": 1.0
+          "start": 134.48,
+          "end": 134.94
         },
         {
           "word": "have",
-          "startSec": 134.92,
-          "endSec": 135.24,
-          "score": 1.0
+          "start": 134.94,
+          "end": 135.28
         },
         {
           "word": "sled",
-          "startSec": 135.24,
-          "endSec": 135.54,
-          "score": 1.0
+          "start": 135.28,
+          "end": 135.66
         },
         {
           "word": "dogs.",
-          "startSec": 135.54,
-          "endSec": 136.12,
-          "score": 0.99
+          "start": 135.66,
+          "end": 136.52
         }
       ]
     },
     {
       "id": 36,
-      "start": 136.64,
-      "end": 139.99,
+      "start": 136.76,
+      "end": 140.38,
       "text": "In winter, dogs pull sleds on the snow.",
       "words": [
         {
           "word": "In",
-          "startSec": 136.84,
-          "endSec": 136.94,
-          "score": 1.0
+          "start": 136.76,
+          "end": 137.0
         },
         {
           "word": "winter,",
-          "startSec": 136.94,
-          "endSec": 137.18,
-          "score": 0.98
+          "start": 137.0,
+          "end": 137.38
         },
         {
           "word": "dogs",
-          "startSec": 137.42,
-          "endSec": 138.16,
-          "score": 1.0
+          "start": 137.74,
+          "end": 138.16
         },
         {
           "word": "pull",
-          "startSec": 138.16,
-          "endSec": 138.56,
-          "score": 0.98
+          "start": 138.16,
+          "end": 138.62
         },
         {
           "word": "sleds",
-          "startSec": 138.56,
-          "endSec": 139.24,
-          "score": 0.99
+          "start": 138.62,
+          "end": 139.14
         },
         {
           "word": "on",
-          "startSec": 139.24,
-          "endSec": 139.36,
-          "score": 1.0
+          "start": 139.14,
+          "end": 139.42
         },
         {
           "word": "the",
-          "startSec": 139.36,
-          "endSec": 139.52,
-          "score": 1.0
+          "start": 139.42,
+          "end": 139.64
         },
         {
           "word": "snow.",
-          "startSec": 139.52,
-          "endSec": 139.84,
-          "score": 1.0
+          "start": 139.64,
+          "end": 140.38
         }
       ]
     },
     {
       "id": 37,
-      "start": 140.88,
-      "end": 143.91,
+      "start": 140.78,
+      "end": 144.22,
       "text": "This is a traditional way of travel.",
       "words": [
         {
           "word": "This",
-          "startSec": 141.08,
-          "endSec": 141.56,
-          "score": 0.09
+          "start": 140.78,
+          "end": 141.66
         },
         {
           "word": "is",
-          "startSec": 141.56,
-          "endSec": 141.82,
-          "score": 0.99
+          "start": 141.66,
+          "end": 141.9
         },
         {
           "word": "a",
-          "startSec": 141.82,
-          "endSec": 142.02,
-          "score": 0.99
+          "start": 141.9,
+          "end": 142.08
         },
         {
           "word": "traditional",
-          "startSec": 142.02,
-          "endSec": 142.4,
-          "score": 0.98
+          "start": 142.08,
+          "end": 142.62
         },
         {
           "word": "way",
-          "startSec": 142.4,
-          "endSec": 143.1,
-          "score": 1.0
+          "start": 142.62,
+          "end": 143.12
         },
         {
           "word": "of",
-          "startSec": 143.1,
-          "endSec": 143.24,
-          "score": 1.0
+          "start": 143.12,
+          "end": 143.28
         },
         {
           "word": "travel.",
-          "startSec": 143.24,
-          "endSec": 143.76,
-          "score": 0.99
+          "start": 143.28,
+          "end": 144.22
         }
       ]
     },
     {
       "id": 38,
-      "start": 145.22,
-      "end": 150.72,
-      "text": "Part nine, the people in Colusa are friendly and strong.",
+      "start": 144.86,
+      "end": 151.0,
+      "text": "Part nine, the people in Kulusuk are friendly and strong.",
       "words": [
         {
           "word": "Part",
-          "startSec": 145.42,
-          "endSec": 145.6,
-          "score": 0.91
+          "start": 144.86,
+          "end": 145.72
         },
         {
           "word": "nine,",
-          "startSec": 145.6,
-          "endSec": 146.24,
-          "score": 0.32
+          "start": 145.72,
+          "end": 146.2
         },
         {
           "word": "the",
-          "startSec": 146.99,
-          "endSec": 147.53,
-          "score": 0.92
+          "start": 146.88,
+          "end": 147.58
         },
         {
           "word": "people",
-          "startSec": 147.53,
-          "endSec": 147.97,
-          "score": 0.99
+          "start": 147.58,
+          "end": 148.0
         },
         {
           "word": "in",
-          "startSec": 147.97,
-          "endSec": 148.23,
-          "score": 1.0
+          "start": 148.0,
+          "end": 148.28
         },
         {
-          "word": "Colusa",
-          "startSec": 148.23,
-          "endSec": 148.81,
-          "score": 0.02
+          "word": "Kulusuk",
+          "start": 148.28,
+          "end": 148.94
         },
         {
           "word": "are",
-          "startSec": 148.81,
-          "endSec": 149.09,
-          "score": 0.24
+          "start": 148.94,
+          "end": 149.24
         },
         {
           "word": "friendly",
-          "startSec": 149.09,
-          "endSec": 149.57,
-          "score": 0.99
+          "start": 149.24,
+          "end": 149.74
         },
         {
           "word": "and",
-          "startSec": 149.57,
-          "endSec": 150.01,
-          "score": 1.0
+          "start": 149.74,
+          "end": 150.04
         },
         {
           "word": "strong.",
-          "startSec": 150.01,
-          "endSec": 150.57,
-          "score": 1.0
+          "start": 150.04,
+          "end": 151.0
         }
       ]
     },
     {
       "id": 39,
-      "start": 151.13,
-      "end": 154.92,
-      "text": "They live in a hard climate but stay positive.",
+      "start": 151.52,
+      "end": 155.06,
+      "text": "They live in a hard climate, but stay positive.",
       "words": [
         {
           "word": "They",
-          "startSec": 151.33,
-          "endSec": 151.57,
-          "score": 1.0
+          "start": 151.52,
+          "end": 151.64
         },
         {
           "word": "live",
-          "startSec": 151.57,
-          "endSec": 151.83,
-          "score": 1.0
+          "start": 151.64,
+          "end": 151.96
         },
         {
           "word": "in",
-          "startSec": 151.83,
-          "endSec": 152.13,
-          "score": 1.0
+          "start": 151.96,
+          "end": 152.14
         },
         {
           "word": "a",
-          "startSec": 152.13,
-          "endSec": 152.21,
-          "score": 1.0
+          "start": 152.14,
+          "end": 152.28
         },
         {
           "word": "hard",
-          "startSec": 152.21,
-          "endSec": 152.55,
-          "score": 1.0
+          "start": 152.28,
+          "end": 152.66
         },
         {
-          "word": "climate",
-          "startSec": 152.55,
-          "endSec": 153.03,
-          "score": 1.0
+          "word": "climate,",
+          "start": 152.66,
+          "end": 153.22
         },
         {
           "word": "but",
-          "startSec": 153.03,
-          "endSec": 153.51,
-          "score": 0.58
+          "start": 153.22,
+          "end": 153.54
         },
         {
           "word": "stay",
-          "startSec": 153.51,
-          "endSec": 153.81,
-          "score": 1.0
+          "start": 153.54,
+          "end": 153.9
         },
         {
           "word": "positive.",
-          "startSec": 153.81,
-          "endSec": 154.77,
-          "score": 1.0
+          "start": 153.9,
+          "end": 155.06
         }
       ]
     },
     {
       "id": 40,
-      "start": 155.27,
-      "end": 157.76,
+      "start": 155.34,
+      "end": 158.22,
       "text": "Community is very important.",
       "words": [
         {
           "word": "Community",
-          "startSec": 155.47,
-          "endSec": 155.97,
-          "score": 0.98
+          "start": 155.34,
+          "end": 156.24
         },
         {
           "word": "is",
-          "startSec": 155.97,
-          "endSec": 156.65,
-          "score": 1.0
+          "start": 156.24,
+          "end": 156.72
         },
         {
           "word": "very",
-          "startSec": 156.65,
-          "endSec": 156.97,
-          "score": 1.0
+          "start": 156.72,
+          "end": 157.12
         },
         {
           "word": "important.",
-          "startSec": 156.97,
-          "endSec": 157.61,
-          "score": 1.0
+          "start": 157.12,
+          "end": 158.22
         }
       ]
     },
     {
       "id": 41,
-      "start": 158.48,
-      "end": 160.23,
+      "start": 158.54,
+      "end": 160.52,
       "text": "People help each other.",
       "words": [
         {
           "word": "People",
-          "startSec": 158.68,
-          "endSec": 159.04,
-          "score": 1.0
+          "start": 158.54,
+          "end": 159.1
         },
         {
           "word": "help",
-          "startSec": 159.04,
-          "endSec": 159.36,
-          "score": 1.0
+          "start": 159.1,
+          "end": 159.5
         },
         {
           "word": "each",
-          "startSec": 159.36,
-          "endSec": 159.64,
-          "score": 1.0
+          "start": 159.5,
+          "end": 159.78
         },
         {
           "word": "other.",
-          "startSec": 159.64,
-          "endSec": 160.08,
-          "score": 1.0
+          "start": 159.78,
+          "end": 160.52
         }
       ]
     },
     {
       "id": 42,
-      "start": 161.72,
-      "end": 166.73,
-      "text": "Part 10, visitors can see amazing nature in Colusa.",
+      "start": 161.3,
+      "end": 167.17,
+      "text": "Part 10, visitors can see amazing nature in Kulusuk.",
       "words": [
         {
           "word": "Part",
-          "startSec": 161.92,
-          "endSec": 161.92,
-          "score": 0.99
+          "start": 161.3,
+          "end": 161.98
         },
         {
           "word": "10,",
-          "startSec": 161.92,
-          "endSec": 162.44,
-          "score": 0.8
+          "start": 161.98,
+          "end": 162.58
         },
         {
           "word": "visitors",
-          "startSec": 163.34,
-          "endSec": 163.84,
-          "score": 0.9
+          "start": 163.36,
+          "end": 163.92
         },
         {
           "word": "can",
-          "startSec": 163.84,
-          "endSec": 164.36,
-          "score": 1.0
+          "start": 163.92,
+          "end": 164.42
         },
         {
           "word": "see",
-          "startSec": 164.36,
-          "endSec": 164.66,
-          "score": 1.0
+          "start": 164.42,
+          "end": 164.72
         },
         {
           "word": "amazing",
-          "startSec": 164.66,
-          "endSec": 164.88,
-          "score": 1.0
+          "start": 164.72,
+          "end": 165.16
         },
         {
           "word": "nature",
-          "startSec": 164.88,
-          "endSec": 165.6,
-          "score": 1.0
+          "start": 165.16,
+          "end": 165.78
         },
         {
           "word": "in",
-          "startSec": 165.6,
-          "endSec": 166.0,
-          "score": 0.99
+          "start": 165.78,
+          "end": 166.04
         },
         {
-          "word": "Colusa.",
-          "startSec": 166.0,
-          "endSec": 166.58,
-          "score": 0.97
+          "word": "Kulusuk.",
+          "start": 166.04,
+          "end": 167.17
         }
       ]
     },
     {
       "id": 43,
-      "start": 167.12,
-      "end": 170.97,
-      "text": "There are icebergs, mountains and the ocean.",
+      "start": 167.42,
+      "end": 171.32,
+      "text": "There are icebergs, mountains, and the ocean.",
       "words": [
         {
           "word": "There",
-          "startSec": 167.32,
-          "endSec": 167.8,
-          "score": 0.99
+          "start": 167.42,
+          "end": 167.86
         },
         {
           "word": "are",
-          "startSec": 167.8,
-          "endSec": 168.0,
-          "score": 1.0
+          "start": 167.86,
+          "end": 168.06
         },
         {
           "word": "icebergs,",
-          "startSec": 168.0,
-          "endSec": 169.1,
-          "score": 0.98
+          "start": 168.06,
+          "end": 169.2
         },
         {
-          "word": "mountains",
-          "startSec": 169.24,
-          "endSec": 169.54,
-          "score": 1.0
+          "word": "mountains,",
+          "start": 169.42,
+          "end": 169.76
         },
         {
           "word": "and",
-          "startSec": 169.54,
-          "endSec": 170.24,
-          "score": 0.45
+          "start": 170.18,
+          "end": 170.32
         },
         {
           "word": "the",
-          "startSec": 170.24,
-          "endSec": 170.42,
-          "score": 1.0
+          "start": 170.32,
+          "end": 170.5
         },
         {
           "word": "ocean.",
-          "startSec": 170.42,
-          "endSec": 170.82,
-          "score": 0.99
+          "start": 170.5,
+          "end": 171.32
         }
       ]
     },
     {
       "id": 44,
-      "start": 171.87,
-      "end": 175.15,
+      "start": 172.2,
+      "end": 175.5,
       "text": "Some people come to see the northern lights.",
       "words": [
         {
           "word": "Some",
-          "startSec": 172.07,
-          "endSec": 172.48,
-          "score": 0.48
+          "start": 172.2,
+          "end": 172.64
         },
         {
           "word": "people",
-          "startSec": 172.48,
-          "endSec": 173.0,
-          "score": 0.97
+          "start": 172.64,
+          "end": 173.02
         },
         {
           "word": "come",
-          "startSec": 173.0,
-          "endSec": 173.32,
-          "score": 1.0
+          "start": 173.02,
+          "end": 173.4
         },
         {
           "word": "to",
-          "startSec": 173.32,
-          "endSec": 173.62,
-          "score": 0.99
+          "start": 173.4,
+          "end": 173.66
         },
         {
           "word": "see",
-          "startSec": 173.62,
-          "endSec": 173.84,
-          "score": 1.0
+          "start": 173.66,
+          "end": 173.9
         },
         {
           "word": "the",
-          "startSec": 173.84,
-          "endSec": 174.06,
-          "score": 0.98
+          "start": 173.9,
+          "end": 174.12
         },
         {
           "word": "northern",
-          "startSec": 174.06,
-          "endSec": 174.44,
-          "score": 0.52
+          "start": 174.12,
+          "end": 174.5
         },
         {
           "word": "lights.",
-          "startSec": 174.44,
-          "endSec": 175.0,
-          "score": 0.98
+          "start": 174.5,
+          "end": 175.5
         }
       ]
     },
     {
       "id": 45,
-      "start": 175.98,
-      "end": 178.67,
+      "start": 176.14,
+      "end": 179.28,
       "text": "Others come to enjoy the quiet life.",
       "words": [
         {
           "word": "Others",
-          "startSec": 176.18,
-          "endSec": 176.48,
-          "score": 0.99
+          "start": 176.14,
+          "end": 176.52
         },
         {
           "word": "come",
-          "startSec": 176.48,
-          "endSec": 176.86,
-          "score": 0.99
+          "start": 176.52,
+          "end": 176.94
         },
         {
           "word": "to",
-          "startSec": 176.86,
-          "endSec": 177.12,
-          "score": 1.0
+          "start": 176.94,
+          "end": 177.16
         },
         {
           "word": "enjoy",
-          "startSec": 177.12,
-          "endSec": 177.56,
-          "score": 1.0
+          "start": 177.16,
+          "end": 177.6
         },
         {
           "word": "the",
-          "startSec": 177.56,
-          "endSec": 177.74,
-          "score": 0.99
+          "start": 177.6,
+          "end": 177.78
         },
         {
           "word": "quiet",
-          "startSec": 177.74,
-          "endSec": 178.1,
-          "score": 0.98
+          "start": 177.78,
+          "end": 178.22
         },
         {
           "word": "life.",
-          "startSec": 178.1,
-          "endSec": 178.52,
-          "score": 1.0
+          "start": 178.22,
+          "end": 179.28
         }
       ]
     },
     {
       "id": 46,
-      "start": 179.92,
-      "end": 185.49,
-      "text": "Part 11, transportation in Colusuk is limited.",
+      "start": 180.4,
+      "end": 185.9,
+      "text": "Part 11, transportation in Kulusuk is limited.",
       "words": [
         {
           "word": "Part",
-          "startSec": 180.12,
-          "endSec": 180.38,
-          "score": 0.9
+          "start": 180.4,
+          "end": 180.42
         },
         {
           "word": "11,",
-          "startSec": 180.38,
-          "endSec": 180.94,
-          "score": 0.95
+          "start": 180.42,
+          "end": 180.98
         },
         {
           "word": "transportation",
-          "startSec": 182.02,
-          "endSec": 183.04,
-          "score": 0.2
+          "start": 181.48,
+          "end": 183.06
         },
         {
           "word": "in",
-          "startSec": 183.04,
-          "endSec": 183.72,
-          "score": 0.99
+          "start": 183.06,
+          "end": 183.76
         },
         {
-          "word": "Colusuk",
-          "startSec": 183.72,
-          "endSec": 184.52,
-          "score": 0.4
+          "word": "Kulusuk",
+          "start": 183.76,
+          "end": 184.56
         },
         {
           "word": "is",
-          "startSec": 184.52,
-          "endSec": 184.94,
-          "score": 0.97
+          "start": 184.56,
+          "end": 184.98
         },
         {
           "word": "limited.",
-          "startSec": 184.94,
-          "endSec": 185.34,
-          "score": 1.0
+          "start": 184.98,
+          "end": 185.9
         }
       ]
     },
     {
       "id": 47,
-      "start": 186.16,
-      "end": 187.93,
+      "start": 186.3,
+      "end": 188.25,
       "text": "There are no big roads.",
       "words": [
         {
           "word": "There",
-          "startSec": 186.36,
-          "endSec": 186.58,
-          "score": 0.99
+          "start": 186.3,
+          "end": 186.64
         },
         {
           "word": "are",
-          "startSec": 186.58,
-          "endSec": 186.78,
-          "score": 1.0
+          "start": 186.64,
+          "end": 186.82
         },
         {
           "word": "no",
-          "startSec": 186.78,
-          "endSec": 187.06,
-          "score": 1.0
+          "start": 186.82,
+          "end": 187.06
         },
         {
           "word": "big",
-          "startSec": 187.06,
-          "endSec": 187.34,
-          "score": 1.0
+          "start": 187.06,
+          "end": 187.38
         },
         {
           "word": "roads.",
-          "startSec": 187.34,
-          "endSec": 187.78,
-          "score": 1.0
+          "start": 187.38,
+          "end": 188.25
         }
       ]
     },
     {
       "id": 48,
-      "start": 188.3,
-      "end": 192.87,
-      "text": "People travel by boat, helicopter or on foot.",
+      "start": 188.46,
+      "end": 193.2,
+      "text": "People travel by boat, helicopter, or on foot.",
       "words": [
         {
           "word": "People",
-          "startSec": 188.5,
-          "endSec": 188.9,
-          "score": 1.0
+          "start": 188.46,
+          "end": 188.96
         },
         {
           "word": "travel",
-          "startSec": 188.9,
-          "endSec": 189.28,
-          "score": 0.97
+          "start": 188.96,
+          "end": 189.48
         },
         {
           "word": "by",
-          "startSec": 189.28,
-          "endSec": 189.78,
-          "score": 1.0
+          "start": 189.48,
+          "end": 189.82
         },
         {
           "word": "boat,",
-          "startSec": 189.78,
-          "endSec": 190.18,
-          "score": 1.0
+          "start": 189.82,
+          "end": 190.32
         },
         {
-          "word": "helicopter",
-          "startSec": 190.84,
-          "endSec": 191.06,
-          "score": 1.0
+          "word": "helicopter,",
+          "start": 190.7,
+          "end": 191.32
         },
         {
           "word": "or",
-          "startSec": 191.06,
-          "endSec": 192.04,
-          "score": 0.46
+          "start": 191.8,
+          "end": 192.08
         },
         {
           "word": "on",
-          "startSec": 192.04,
-          "endSec": 192.34,
-          "score": 1.0
+          "start": 192.08,
+          "end": 192.38
         },
         {
           "word": "foot.",
-          "startSec": 192.34,
-          "endSec": 192.72,
-          "score": 0.99
+          "start": 192.38,
+          "end": 193.2
         }
       ]
     },
     {
       "id": 49,
-      "start": 193.46,
-      "end": 196.91,
+      "start": 193.7,
+      "end": 197.38,
       "text": "Life is very different from big cities.",
       "words": [
         {
           "word": "Life",
-          "startSec": 193.66,
-          "endSec": 194.02,
-          "score": 1.0
+          "start": 193.7,
+          "end": 194.1
         },
         {
           "word": "is",
-          "startSec": 194.02,
-          "endSec": 194.36,
-          "score": 1.0
+          "start": 194.1,
+          "end": 194.48
         },
         {
           "word": "very",
-          "startSec": 194.36,
-          "endSec": 194.84,
-          "score": 1.0
+          "start": 194.48,
+          "end": 194.98
         },
         {
           "word": "different",
-          "startSec": 194.84,
-          "endSec": 195.5,
-          "score": 1.0
+          "start": 194.98,
+          "end": 195.56
         },
         {
           "word": "from",
-          "startSec": 195.5,
-          "endSec": 195.98,
-          "score": 1.0
+          "start": 195.56,
+          "end": 196.06
         },
         {
           "word": "big",
-          "startSec": 195.98,
-          "endSec": 196.32,
-          "score": 1.0
+          "start": 196.06,
+          "end": 196.42
         },
         {
           "word": "cities.",
-          "startSec": 196.32,
-          "endSec": 196.76,
-          "score": 1.0
+          "start": 196.42,
+          "end": 197.38
         }
       ]
     },
     {
       "id": 50,
-      "start": 198.42,
-      "end": 203.67,
-      "text": "Part 12, Colusuk is a small and peaceful place.",
+      "start": 198.72,
+      "end": 203.82,
+      "text": "Part 12, Kulusuk is a small and peaceful place.",
       "words": [
         {
           "word": "Part",
-          "startSec": 198.62,
-          "endSec": 199.06,
-          "score": 0.28
+          "start": 198.72,
+          "end": 199.2
         },
         {
           "word": "12,",
-          "startSec": 199.06,
-          "endSec": 199.86,
-          "score": 0.94
+          "start": 199.2,
+          "end": 199.76
         },
         {
-          "word": "Colusuk",
-          "startSec": 200.38,
-          "endSec": 200.9,
-          "score": 0.43
+          "word": "Kulusuk",
+          "start": 200.32,
+          "end": 200.94
         },
         {
           "word": "is",
-          "startSec": 200.9,
-          "endSec": 201.2,
-          "score": 0.96
+          "start": 200.94,
+          "end": 201.26
         },
         {
           "word": "a",
-          "startSec": 201.2,
-          "endSec": 201.38,
-          "score": 0.99
+          "start": 201.26,
+          "end": 201.44
         },
         {
           "word": "small",
-          "startSec": 201.38,
-          "endSec": 201.94,
-          "score": 0.99
+          "start": 201.44,
+          "end": 202.04
         },
         {
           "word": "and",
-          "startSec": 201.94,
-          "endSec": 202.26,
-          "score": 0.98
+          "start": 202.04,
+          "end": 202.32
         },
         {
           "word": "peaceful",
-          "startSec": 202.26,
-          "endSec": 202.64,
-          "score": 1.0
+          "start": 202.32,
+          "end": 202.86
         },
         {
           "word": "place.",
-          "startSec": 202.64,
-          "endSec": 203.52,
-          "score": 1.0
+          "start": 202.86,
+          "end": 203.82
         }
       ]
     },
     {
       "id": 51,
-      "start": 204.26,
-      "end": 208.87,
-      "text": "The cold weather, simple life and beautiful nature",
+      "start": 204.42,
+      "end": 210.28,
+      "text": "The cold weather, simple life, and beautiful nature make it unique.",
       "words": [
         {
           "word": "The",
-          "startSec": 204.46,
-          "endSec": 204.5,
-          "score": 0.99
+          "start": 204.42,
+          "end": 204.54
         },
         {
           "word": "cold",
-          "startSec": 204.5,
-          "endSec": 204.88,
-          "score": 1.0
+          "start": 204.54,
+          "end": 204.98
         },
         {
           "word": "weather,",
-          "startSec": 204.88,
-          "endSec": 205.5,
-          "score": 0.99
+          "start": 204.98,
+          "end": 205.5
         },
         {
           "word": "simple",
-          "startSec": 205.92,
-          "endSec": 206.28,
-          "score": 1.0
+          "start": 206.08,
+          "end": 206.48
         },
         {
-          "word": "life",
-          "startSec": 206.28,
-          "endSec": 206.94,
-          "score": 0.99
+          "word": "life,",
+          "start": 206.48,
+          "end": 207.04
         },
         {
           "word": "and",
-          "startSec": 206.94,
-          "endSec": 207.48,
-          "score": 0.37
+          "start": 207.48,
+          "end": 207.56
         },
         {
           "word": "beautiful",
-          "startSec": 207.48,
-          "endSec": 207.86,
-          "score": 1.0
+          "start": 207.56,
+          "end": 208.12
         },
         {
           "word": "nature",
-          "startSec": 207.86,
-          "endSec": 208.72,
-          "score": 1.0
+          "start": 208.12,
+          "end": 208.74
+        },
+        {
+          "word": "make",
+          "start": 208.74,
+          "end": 209.22
+        },
+        {
+          "word": "it",
+          "start": 209.22,
+          "end": 209.4
+        },
+        {
+          "word": "unique.",
+          "start": 209.4,
+          "end": 210.28
         }
       ]
     },
     {
       "id": 52,
-      "start": 208.52,
-      "end": 209.91,
-      "text": "make it unique.",
+      "start": 210.86,
+      "end": 214.54,
+      "text": "Visitors can experience a different way of living.",
       "words": [
         {
-          "word": "make",
-          "startSec": 208.72,
-          "endSec": 209.1,
-          "score": 0.96
+          "word": "Visitors",
+          "start": 210.86,
+          "end": 211.46
         },
         {
-          "word": "it",
-          "startSec": 209.1,
-          "endSec": 209.34,
-          "score": 1.0
+          "word": "can",
+          "start": 211.46,
+          "end": 211.82
         },
         {
-          "word": "unique.",
-          "startSec": 209.34,
-          "endSec": 209.76,
-          "score": 1.0
+          "word": "experience",
+          "start": 211.82,
+          "end": 212.52
+        },
+        {
+          "word": "a",
+          "start": 212.52,
+          "end": 212.84
+        },
+        {
+          "word": "different",
+          "start": 212.84,
+          "end": 213.18
+        },
+        {
+          "word": "way",
+          "start": 213.18,
+          "end": 213.56
+        },
+        {
+          "word": "of",
+          "start": 213.56,
+          "end": 213.78
+        },
+        {
+          "word": "living.",
+          "start": 213.78,
+          "end": 214.54
         }
       ]
     },
     {
       "id": 53,
-      "start": 211.07,
-      "end": 214.32,
-      "text": "Visitors can experience a different way of living.",
+      "start": 214.98,
+      "end": 220.56,
+      "text": "Even though it is far away, Kulusuk is a very special place.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 211.27,
-          "endSec": 211.27,
-          "score": 0.99
+          "word": "Even",
+          "start": 214.98,
+          "end": 215.5
         },
         {
-          "word": "can",
-          "startSec": 211.27,
-          "endSec": 211.77,
-          "score": 1.0
+          "word": "though",
+          "start": 215.5,
+          "end": 215.86
         },
         {
-          "word": "experience",
-          "startSec": 211.77,
-          "endSec": 212.49,
-          "score": 1.0
+          "word": "it",
+          "start": 215.86,
+          "end": 216.02
+        },
+        {
+          "word": "is",
+          "start": 216.02,
+          "end": 216.2
+        },
+        {
+          "word": "far",
+          "start": 216.2,
+          "end": 216.58
+        },
+        {
+          "word": "away,",
+          "start": 216.58,
+          "end": 217.02
+        },
+        {
+          "word": "Kulusuk",
+          "start": 217.6,
+          "end": 218.14
+        },
+        {
+          "word": "is",
+          "start": 218.14,
+          "end": 218.32
         },
         {
           "word": "a",
-          "startSec": 212.49,
-          "endSec": 212.75,
-          "score": 1.0
+          "start": 218.32,
+          "end": 218.48
         },
         {
-          "word": "different",
-          "startSec": 212.75,
-          "endSec": 213.03,
-          "score": 1.0
+          "word": "very",
+          "start": 218.48,
+          "end": 218.9
         },
         {
-          "word": "way",
-          "startSec": 213.03,
-          "endSec": 213.51,
-          "score": 1.0
+          "word": "special",
+          "start": 218.9,
+          "end": 219.56
         },
         {
-          "word": "of",
-          "startSec": 213.51,
-          "endSec": 213.71,
-          "score": 1.0
-        },
-        {
-          "word": "living.",
-          "startSec": 213.71,
-          "endSec": 214.17,
-          "score": 1.0
+          "word": "place.",
+          "start": 219.56,
+          "end": 220.56
         }
       ]
     },
     {
       "id": 54,
-      "start": 214.96,
-      "end": 217.09,
-      "text": "Even though it is far away,",
+      "start": 221.6,
+      "end": 225.35,
+      "text": "Thank you for listening to the slow English part.",
       "words": [
         {
-          "word": "Even",
-          "startSec": 215.16,
-          "endSec": 215.48,
-          "score": 1.0
+          "word": "Thank",
+          "start": 221.6,
+          "end": 222.3
         },
         {
-          "word": "though",
-          "startSec": 215.48,
-          "endSec": 215.76,
-          "score": 1.0
+          "word": "you",
+          "start": 222.3,
+          "end": 222.54
         },
         {
-          "word": "it",
-          "startSec": 215.76,
-          "endSec": 215.98,
-          "score": 0.99
+          "word": "for",
+          "start": 222.54,
+          "end": 222.8
         },
         {
-          "word": "is",
-          "startSec": 215.98,
-          "endSec": 216.12,
-          "score": 0.99
+          "word": "listening",
+          "start": 222.8,
+          "end": 223.28
         },
         {
-          "word": "far",
-          "startSec": 216.12,
-          "endSec": 216.44,
-          "score": 1.0
+          "word": "to",
+          "start": 223.28,
+          "end": 223.62
         },
         {
-          "word": "away,",
-          "startSec": 216.44,
-          "endSec": 216.94,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "start": 217.38,
-      "end": 220.19,
-      "text": "Colusuk is a very special place.",
-      "words": [
-        {
-          "word": "Colusuk",
-          "startSec": 217.58,
-          "endSec": 218.04,
-          "score": 0.98
+          "word": "the",
+          "start": 223.62,
+          "end": 223.78
         },
         {
-          "word": "is",
-          "startSec": 218.04,
-          "endSec": 218.24,
-          "score": 1.0
+          "word": "slow",
+          "start": 223.78,
+          "end": 224.16
         },
         {
-          "word": "a",
-          "startSec": 218.24,
-          "endSec": 218.42,
-          "score": 0.99
+          "word": "English",
+          "start": 224.16,
+          "end": 224.62
         },
         {
-          "word": "very",
-          "startSec": 218.42,
-          "endSec": 218.86,
-          "score": 0.99
-        },
-        {
-          "word": "special",
-          "startSec": 218.86,
-          "endSec": 219.5,
-          "score": 1.0
-        },
-        {
-          "word": "place.",
-          "startSec": 219.5,
-          "endSec": 220.04,
-          "score": 1.0
+          "word": "part.",
+          "start": 224.62,
+          "end": 225.35
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 54
 }

@@ -15,2991 +15,2857 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.42,
-      "end": 7.61,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emili, your host.",
+      "start": 2.92,
+      "end": 5.08,
+      "text": "Welcome to the Slow English podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.62,
-          "endSec": 1.24,
-          "score": 0.72
-        },
-        {
-          "word": "everyone.",
-          "startSec": 1.26,
-          "endSec": 1.8,
-          "score": 0.98
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.66,
-          "endSec": 3.2,
-          "score": 0.99
+          "start": 2.92,
+          "end": 3.18
         },
         {
           "word": "to",
-          "startSec": 3.2,
-          "endSec": 3.44,
-          "score": 1.0
+          "start": 3.18,
+          "end": 3.48
         },
         {
           "word": "the",
-          "startSec": 3.44,
-          "endSec": 3.6,
-          "score": 0.96
+          "start": 3.48,
+          "end": 3.7
         },
         {
           "word": "Slow",
-          "startSec": 3.6,
-          "endSec": 3.82,
-          "score": 0.86
+          "start": 3.7,
+          "end": 3.9
         },
         {
           "word": "English",
-          "startSec": 3.82,
-          "endSec": 4.14,
-          "score": 0.91
+          "start": 3.9,
+          "end": 4.22
         },
         {
-          "word": "Podcast.",
-          "startSec": 4.14,
-          "endSec": 4.64,
-          "score": 0.86
-        },
-        {
-          "word": "I",
-          "startSec": 5.64,
-          "endSec": 5.86,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.86,
-          "endSec": 6.06,
-          "score": 0.95
-        },
-        {
-          "word": "Emili,",
-          "startSec": 6.06,
-          "endSec": 6.46,
-          "score": 0.4
-        },
-        {
-          "word": "your",
-          "startSec": 6.84,
-          "endSec": 7.06,
-          "score": 0.98
-        },
-        {
-          "word": "host.",
-          "startSec": 7.06,
-          "endSec": 7.46,
-          "score": 0.99
+          "word": "podcast.",
+          "start": 4.22,
+          "end": 5.08
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.22,
-      "end": 16.81,
-      "text": "Today we are traveling to a small and beautiful city in Central America. It is called Placencia.",
+      "start": 5.64,
+      "end": 7.9,
+      "text": "I am Emilie, your host.",
       "words": [
         {
-          "word": "Today",
-          "startSec": 8.42,
-          "endSec": 8.92,
-          "score": 0.99
+          "word": "I",
+          "start": 5.64,
+          "end": 5.9
         },
         {
-          "word": "we",
-          "startSec": 8.92,
-          "endSec": 9.36,
-          "score": 0.47
+          "word": "am",
+          "start": 5.9,
+          "end": 6.12
         },
         {
-          "word": "are",
-          "startSec": 9.36,
-          "endSec": 9.52,
-          "score": 0.98
+          "word": "Emilie,",
+          "start": 6.12,
+          "end": 6.78
         },
         {
-          "word": "traveling",
-          "startSec": 9.52,
-          "endSec": 10.0,
-          "score": 0.91
+          "word": "your",
+          "start": 7.02,
+          "end": 7.12
         },
         {
-          "word": "to",
-          "startSec": 10.0,
-          "endSec": 10.46,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 10.46,
-          "endSec": 10.64,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 10.64,
-          "endSec": 11.2,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 11.2,
-          "endSec": 11.52,
-          "score": 0.98
-        },
-        {
-          "word": "beautiful",
-          "startSec": 11.52,
-          "endSec": 11.98,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.98,
-          "endSec": 12.64,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 12.64,
-          "endSec": 13.14,
-          "score": 0.99
-        },
-        {
-          "word": "Central",
-          "startSec": 13.14,
-          "endSec": 13.5,
-          "score": 0.98
-        },
-        {
-          "word": "America.",
-          "startSec": 13.5,
-          "endSec": 14.3,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 15.08,
-          "endSec": 15.4,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 15.4,
-          "endSec": 15.54,
-          "score": 0.99
-        },
-        {
-          "word": "called",
-          "startSec": 15.54,
-          "endSec": 15.94,
-          "score": 1.0
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 15.94,
-          "endSec": 16.66,
-          "score": 0.62
+          "word": "host.",
+          "start": 7.12,
+          "end": 7.9
         }
       ]
     },
     {
       "id": 3,
-      "start": 18.09,
-      "end": 29.44,
-      "text": "Placencia is in Belize, a country in Central America. This city is full of beaches, nature, and friendly people.",
+      "start": 8.72,
+      "end": 14.64,
+      "text": "Today we are traveling to a small and beautiful city in Central America.",
       "words": [
         {
-          "word": "Placencia",
-          "startSec": 18.29,
-          "endSec": 19.17,
-          "score": 0.99
+          "word": "Today",
+          "start": 8.72,
+          "end": 8.98
         },
         {
-          "word": "is",
-          "startSec": 19.17,
-          "endSec": 19.67,
-          "score": 0.99
+          "word": "we",
+          "start": 8.98,
+          "end": 9.4
         },
         {
-          "word": "in",
-          "startSec": 19.67,
-          "endSec": 19.91,
-          "score": 0.99
+          "word": "are",
+          "start": 9.4,
+          "end": 9.56
         },
         {
-          "word": "Belize,",
-          "startSec": 19.91,
-          "endSec": 20.51,
-          "score": 0.92
+          "word": "traveling",
+          "start": 9.56,
+          "end": 10.08
+        },
+        {
+          "word": "to",
+          "start": 10.08,
+          "end": 10.5
         },
         {
           "word": "a",
-          "startSec": 21.01,
-          "endSec": 21.19,
-          "score": 1.0
+          "start": 10.5,
+          "end": 10.7
         },
         {
-          "word": "country",
-          "startSec": 21.19,
-          "endSec": 21.61,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 21.61,
-          "endSec": 21.93,
-          "score": 1.0
-        },
-        {
-          "word": "Central",
-          "startSec": 21.93,
-          "endSec": 22.35,
-          "score": 1.0
-        },
-        {
-          "word": "America.",
-          "startSec": 22.35,
-          "endSec": 23.03,
-          "score": 1.0
-        },
-        {
-          "word": "This",
-          "startSec": 24.21,
-          "endSec": 24.57,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 24.57,
-          "endSec": 25.03,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 25.03,
-          "endSec": 25.41,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 25.41,
-          "endSec": 25.75,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 25.75,
-          "endSec": 25.97,
-          "score": 1.0
-        },
-        {
-          "word": "beaches,",
-          "startSec": 25.97,
-          "endSec": 26.51,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 27.25,
-          "endSec": 27.49,
-          "score": 0.99
+          "word": "small",
+          "start": 10.7,
+          "end": 11.34
         },
         {
           "word": "and",
-          "startSec": 28.09,
-          "endSec": 28.25,
-          "score": 1.0
+          "start": 11.34,
+          "end": 11.62
         },
         {
-          "word": "friendly",
-          "startSec": 28.25,
-          "endSec": 28.57,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 11.62,
+          "end": 12.1
         },
         {
-          "word": "people.",
-          "startSec": 28.57,
-          "endSec": 29.29,
-          "score": 1.0
+          "word": "city",
+          "start": 12.1,
+          "end": 12.68
+        },
+        {
+          "word": "in",
+          "start": 12.68,
+          "end": 13.24
+        },
+        {
+          "word": "Central",
+          "start": 13.24,
+          "end": 13.68
+        },
+        {
+          "word": "America.",
+          "start": 13.68,
+          "end": 14.64
         }
       ]
     },
     {
       "id": 4,
-      "start": 29.09,
-      "end": 42.37,
-      "text": "Let's explore Placencia together. Part 2. Where is Placencia? Placencia is in the south of Belize near the Caribbean Sea.",
+      "start": 15.34,
+      "end": 17.28,
+      "text": "It is called Placencia.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 29.29,
-          "endSec": 30.67,
-          "score": 0.72
-        },
-        {
-          "word": "explore",
-          "startSec": 30.67,
-          "endSec": 31.13,
-          "score": 1.0
-        },
-        {
-          "word": "Placencia",
-          "startSec": 31.13,
-          "endSec": 31.77,
-          "score": 0.49
-        },
-        {
-          "word": "together.",
-          "startSec": 31.77,
-          "endSec": 32.45,
-          "score": 0.98
-        },
-        {
-          "word": "Part",
-          "startSec": 33.23,
-          "endSec": 33.43,
-          "score": 0.95
-        },
-        {
-          "word": "2.",
-          "startSec": 33.43,
-          "endSec": 33.91,
-          "score": 0.46
-        },
-        {
-          "word": "Where",
-          "startSec": 35.29,
-          "endSec": 35.31,
-          "score": 0.96
+          "word": "It",
+          "start": 15.34,
+          "end": 15.46
         },
         {
           "word": "is",
-          "startSec": 35.31,
-          "endSec": 35.57,
-          "score": 0.97
+          "start": 15.46,
+          "end": 15.62
         },
         {
-          "word": "Placencia?",
-          "startSec": 35.57,
-          "endSec": 36.39,
-          "score": 0.99
+          "word": "called",
+          "start": 15.62,
+          "end": 16.04
         },
         {
-          "word": "Placencia",
-          "startSec": 37.76,
-          "endSec": 38.52,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 38.52,
-          "endSec": 38.9,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 38.9,
-          "endSec": 39.12,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 39.12,
-          "endSec": 39.26,
-          "score": 0.99
-        },
-        {
-          "word": "south",
-          "startSec": 39.26,
-          "endSec": 39.6,
-          "score": 0.84
-        },
-        {
-          "word": "of",
-          "startSec": 39.6,
-          "endSec": 39.88,
-          "score": 1.0
-        },
-        {
-          "word": "Belize",
-          "startSec": 39.88,
-          "endSec": 40.42,
-          "score": 0.98
-        },
-        {
-          "word": "near",
-          "startSec": 40.42,
-          "endSec": 41.0,
-          "score": 0.82
-        },
-        {
-          "word": "the",
-          "startSec": 41.0,
-          "endSec": 41.22,
-          "score": 0.99
-        },
-        {
-          "word": "Caribbean",
-          "startSec": 41.22,
-          "endSec": 41.66,
-          "score": 0.98
-        },
-        {
-          "word": "Sea.",
-          "startSec": 41.66,
-          "endSec": 42.22,
-          "score": 0.95
+          "word": "Placencia.",
+          "start": 16.04,
+          "end": 17.28
         }
       ]
     },
     {
       "id": 5,
-      "start": 42.9,
-      "end": 53.19,
-      "text": "It is a small peninsula, so the sea is very close. The city is quiet, with sandy streets and colorful houses.",
+      "start": 18.3,
+      "end": 23.34,
+      "text": "Placencia is in Belize, a country in Central America.",
       "words": [
         {
-          "word": "It",
-          "startSec": 43.1,
-          "endSec": 43.3,
-          "score": 0.99
+          "word": "Placencia",
+          "start": 18.3,
+          "end": 19.14
         },
         {
           "word": "is",
-          "startSec": 43.3,
-          "endSec": 43.44,
-          "score": 0.99
+          "start": 19.14,
+          "end": 19.76
+        },
+        {
+          "word": "in",
+          "start": 19.76,
+          "end": 19.98
+        },
+        {
+          "word": "Belize,",
+          "start": 19.98,
+          "end": 20.58
         },
         {
           "word": "a",
-          "startSec": 43.44,
-          "endSec": 43.62,
-          "score": 0.99
+          "start": 21.04,
+          "end": 21.24
         },
         {
-          "word": "small",
-          "startSec": 43.62,
-          "endSec": 44.04,
-          "score": 1.0
+          "word": "country",
+          "start": 21.24,
+          "end": 21.7
         },
         {
-          "word": "peninsula,",
-          "startSec": 44.04,
-          "endSec": 44.38,
-          "score": 0.98
+          "word": "in",
+          "start": 21.7,
+          "end": 22.02
         },
         {
-          "word": "so",
-          "startSec": 45.3,
-          "endSec": 45.56,
-          "score": 0.99
+          "word": "Central",
+          "start": 22.02,
+          "end": 22.4
         },
         {
-          "word": "the",
-          "startSec": 45.56,
-          "endSec": 45.76,
-          "score": 0.99
-        },
-        {
-          "word": "sea",
-          "startSec": 45.76,
-          "endSec": 46.06,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 46.06,
-          "endSec": 46.38,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 46.38,
-          "endSec": 46.76,
-          "score": 1.0
-        },
-        {
-          "word": "close.",
-          "startSec": 46.76,
-          "endSec": 47.28,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 48.44,
-          "endSec": 48.7,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 48.7,
-          "endSec": 49.04,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 49.04,
-          "endSec": 49.36,
-          "score": 1.0
-        },
-        {
-          "word": "quiet,",
-          "startSec": 49.36,
-          "endSec": 49.9,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 50.24,
-          "endSec": 50.46,
-          "score": 1.0
-        },
-        {
-          "word": "sandy",
-          "startSec": 50.46,
-          "endSec": 50.78,
-          "score": 1.0
-        },
-        {
-          "word": "streets",
-          "startSec": 50.78,
-          "endSec": 51.6,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 51.6,
-          "endSec": 51.92,
-          "score": 0.98
-        },
-        {
-          "word": "colorful",
-          "startSec": 51.92,
-          "endSec": 52.28,
-          "score": 0.99
-        },
-        {
-          "word": "houses.",
-          "startSec": 52.28,
-          "endSec": 53.04,
-          "score": 1.0
+          "word": "America.",
+          "start": 22.4,
+          "end": 23.34
         }
       ]
     },
     {
       "id": 6,
-      "start": 53.64,
-      "end": 61.23,
-      "text": "It is perfect for relaxing and enjoying nature. Part 3. Nature in Placencia.",
+      "start": 24.28,
+      "end": 29.62,
+      "text": "This city is full of beaches, nature, and friendly people.",
       "words": [
         {
-          "word": "It",
-          "startSec": 53.84,
-          "endSec": 54.28,
-          "score": 0.37
+          "word": "This",
+          "start": 24.28,
+          "end": 24.66
+        },
+        {
+          "word": "city",
+          "start": 24.66,
+          "end": 25.1
         },
         {
           "word": "is",
-          "startSec": 54.28,
-          "endSec": 54.44,
-          "score": 0.93
+          "start": 25.1,
+          "end": 25.5
         },
         {
-          "word": "perfect",
-          "startSec": 54.44,
-          "endSec": 54.8,
-          "score": 0.99
+          "word": "full",
+          "start": 25.5,
+          "end": 25.84
         },
         {
-          "word": "for",
-          "startSec": 54.8,
-          "endSec": 55.28,
-          "score": 1.0
+          "word": "of",
+          "start": 25.84,
+          "end": 26.04
         },
         {
-          "word": "relaxing",
-          "startSec": 55.28,
-          "endSec": 55.94,
-          "score": 1.0
+          "word": "beaches,",
+          "start": 26.04,
+          "end": 26.6
+        },
+        {
+          "word": "nature,",
+          "start": 27.24,
+          "end": 27.8
         },
         {
           "word": "and",
-          "startSec": 55.94,
-          "endSec": 56.3,
-          "score": 0.99
+          "start": 27.8,
+          "end": 28.28
         },
         {
-          "word": "enjoying",
-          "startSec": 56.3,
-          "endSec": 56.74,
-          "score": 1.0
+          "word": "friendly",
+          "start": 28.28,
+          "end": 28.7
         },
         {
-          "word": "nature.",
-          "startSec": 56.74,
-          "endSec": 57.46,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 58.56,
-          "endSec": 58.72,
-          "score": 0.76
-        },
-        {
-          "word": "3.",
-          "startSec": 58.72,
-          "endSec": 59.28,
-          "score": 0.55
-        },
-        {
-          "word": "Nature",
-          "startSec": 60.32,
-          "endSec": 60.32,
-          "score": 0.96
-        },
-        {
-          "word": "in",
-          "startSec": 60.32,
-          "endSec": 60.54,
-          "score": 0.48
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 60.54,
-          "endSec": 61.08,
-          "score": 0.54
+          "word": "people.",
+          "start": 28.7,
+          "end": 29.62
         }
       ]
     },
     {
       "id": 7,
-      "start": 62.52,
-      "end": 67.91,
-      "text": "Placencia is surrounded by beaches, palm trees, and the sea.",
+      "start": 30.16,
+      "end": 32.92,
+      "text": "Let's explore Placencia together.",
       "words": [
         {
+          "word": "Let's",
+          "start": 30.16,
+          "end": 30.7
+        },
+        {
+          "word": "explore",
+          "start": 30.7,
+          "end": 31.18
+        },
+        {
           "word": "Placencia",
-          "startSec": 62.72,
-          "endSec": 63.6,
-          "score": 0.97
+          "start": 31.18,
+          "end": 31.96
         },
         {
-          "word": "is",
-          "startSec": 63.6,
-          "endSec": 63.94,
-          "score": 1.0
-        },
-        {
-          "word": "surrounded",
-          "startSec": 63.94,
-          "endSec": 64.38,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 64.38,
-          "endSec": 64.86,
-          "score": 1.0
-        },
-        {
-          "word": "beaches,",
-          "startSec": 64.86,
-          "endSec": 65.36,
-          "score": 0.98
-        },
-        {
-          "word": "palm",
-          "startSec": 66.0,
-          "endSec": 66.26,
-          "score": 1.0
-        },
-        {
-          "word": "trees,",
-          "startSec": 66.26,
-          "endSec": 66.7,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 67.24,
-          "endSec": 67.3,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 67.3,
-          "endSec": 67.48,
-          "score": 0.99
-        },
-        {
-          "word": "sea.",
-          "startSec": 67.48,
-          "endSec": 67.76,
-          "score": 1.0
+          "word": "together.",
+          "start": 31.96,
+          "end": 32.92
         }
       ]
     },
     {
       "id": 8,
-      "start": 68.73,
-      "end": 78.91,
-      "text": "You can see dolphins, manatees, and many colorful fish. The air is warm and the weather is sunny most of the year.",
+      "start": 33.22,
+      "end": 34.42,
+      "text": "Part 2.",
       "words": [
         {
-          "word": "You",
-          "startSec": 68.93,
-          "endSec": 69.17,
-          "score": 0.99
+          "word": "Part",
+          "start": 33.22,
+          "end": 33.46
         },
         {
-          "word": "can",
-          "startSec": 69.17,
-          "endSec": 69.35,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 69.35,
-          "endSec": 69.67,
-          "score": 1.0
-        },
-        {
-          "word": "dolphins,",
-          "startSec": 69.67,
-          "endSec": 70.31,
-          "score": 0.99
-        },
-        {
-          "word": "manatees,",
-          "startSec": 70.85,
-          "endSec": 71.59,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 71.59,
-          "endSec": 72.13,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 72.13,
-          "endSec": 72.37,
-          "score": 0.96
-        },
-        {
-          "word": "colorful",
-          "startSec": 72.37,
-          "endSec": 72.87,
-          "score": 0.98
-        },
-        {
-          "word": "fish.",
-          "startSec": 72.87,
-          "endSec": 73.55,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 74.74,
-          "endSec": 74.9,
-          "score": 1.0
-        },
-        {
-          "word": "air",
-          "startSec": 74.9,
-          "endSec": 75.22,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 75.22,
-          "endSec": 75.48,
-          "score": 1.0
-        },
-        {
-          "word": "warm",
-          "startSec": 75.48,
-          "endSec": 75.9,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 75.9,
-          "endSec": 76.36,
-          "score": 0.67
-        },
-        {
-          "word": "the",
-          "startSec": 76.36,
-          "endSec": 76.54,
-          "score": 0.99
-        },
-        {
-          "word": "weather",
-          "startSec": 76.54,
-          "endSec": 76.82,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 76.82,
-          "endSec": 77.1,
-          "score": 1.0
-        },
-        {
-          "word": "sunny",
-          "startSec": 77.1,
-          "endSec": 77.42,
-          "score": 1.0
-        },
-        {
-          "word": "most",
-          "startSec": 77.42,
-          "endSec": 77.92,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 77.92,
-          "endSec": 78.22,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 78.22,
-          "endSec": 78.4,
-          "score": 1.0
-        },
-        {
-          "word": "year.",
-          "startSec": 78.4,
-          "endSec": 78.76,
-          "score": 1.0
+          "word": "2.",
+          "start": 33.46,
+          "end": 34.42
         }
       ]
     },
     {
       "id": 9,
-      "start": 79.52,
-      "end": 88.59,
-      "text": "Visitors love swimming, snorkeling, and walking along the coast. Part 4. The City of Placencia.",
+      "start": 34.94,
+      "end": 36.78,
+      "text": "Where is Placencia?",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 79.72,
-          "endSec": 80.16,
-          "score": 0.69
+          "word": "Where",
+          "start": 34.94,
+          "end": 35.32
         },
         {
-          "word": "love",
-          "startSec": 80.16,
-          "endSec": 80.74,
-          "score": 0.99
+          "word": "is",
+          "start": 35.32,
+          "end": 35.6
         },
         {
-          "word": "swimming,",
-          "startSec": 80.74,
-          "endSec": 81.3,
-          "score": 1.0
-        },
-        {
-          "word": "snorkeling,",
-          "startSec": 81.92,
-          "endSec": 82.74,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 83.14,
-          "endSec": 83.22,
-          "score": 1.0
-        },
-        {
-          "word": "walking",
-          "startSec": 83.22,
-          "endSec": 83.52,
-          "score": 1.0
-        },
-        {
-          "word": "along",
-          "startSec": 83.52,
-          "endSec": 84.04,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 84.04,
-          "endSec": 84.3,
-          "score": 1.0
-        },
-        {
-          "word": "coast.",
-          "startSec": 84.3,
-          "endSec": 84.64,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 86.16,
-          "endSec": 86.16,
-          "score": 0.78
-        },
-        {
-          "word": "4.",
-          "startSec": 86.16,
-          "endSec": 86.6,
-          "score": 0.35
-        },
-        {
-          "word": "The",
-          "startSec": 87.32,
-          "endSec": 87.32,
-          "score": 0.97
-        },
-        {
-          "word": "City",
-          "startSec": 87.32,
-          "endSec": 87.58,
-          "score": 0.86
-        },
-        {
-          "word": "of",
-          "startSec": 87.58,
-          "endSec": 87.88,
-          "score": 0.96
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 87.88,
-          "endSec": 88.44,
-          "score": 0.59
+          "word": "Placencia?",
+          "start": 35.6,
+          "end": 36.78
         }
       ]
     },
     {
       "id": 10,
-      "start": 89.3,
-      "end": 100.95,
-      "text": "Placencia is small but lively. There are cafes, restaurants, and local shops. People walk or ride bicycles along the sandy streets.",
+      "start": 37.6,
+      "end": 42.76,
+      "text": "Placencia is in the south of Belize, near the Caribbean Sea.",
       "words": [
         {
           "word": "Placencia",
-          "startSec": 89.5,
-          "endSec": 90.38,
-          "score": 0.96
+          "start": 37.6,
+          "end": 38.52
         },
         {
           "word": "is",
-          "startSec": 90.38,
-          "endSec": 90.64,
-          "score": 0.98
+          "start": 38.52,
+          "end": 38.98
         },
         {
-          "word": "small",
-          "startSec": 90.64,
-          "endSec": 90.96,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 90.96,
-          "endSec": 91.3,
-          "score": 0.82
-        },
-        {
-          "word": "lively.",
-          "startSec": 91.3,
-          "endSec": 91.7,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 92.56,
-          "endSec": 92.6,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 92.6,
-          "endSec": 92.76,
-          "score": 1.0
-        },
-        {
-          "word": "cafes,",
-          "startSec": 92.76,
-          "endSec": 93.1,
-          "score": 0.93
-        },
-        {
-          "word": "restaurants,",
-          "startSec": 93.54,
-          "endSec": 94.2,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 94.74,
-          "endSec": 94.84,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 94.84,
-          "endSec": 95.12,
-          "score": 1.0
-        },
-        {
-          "word": "shops.",
-          "startSec": 95.12,
-          "endSec": 95.58,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 97.08,
-          "endSec": 97.1,
-          "score": 1.0
-        },
-        {
-          "word": "walk",
-          "startSec": 97.1,
-          "endSec": 97.54,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 97.54,
-          "endSec": 97.92,
-          "score": 0.99
-        },
-        {
-          "word": "ride",
-          "startSec": 97.92,
-          "endSec": 98.22,
-          "score": 1.0
-        },
-        {
-          "word": "bicycles",
-          "startSec": 98.22,
-          "endSec": 98.76,
-          "score": 0.99
-        },
-        {
-          "word": "along",
-          "startSec": 98.76,
-          "endSec": 99.56,
-          "score": 1.0
+          "word": "in",
+          "start": 38.98,
+          "end": 39.18
         },
         {
           "word": "the",
-          "startSec": 99.56,
-          "endSec": 99.86,
-          "score": 0.99
+          "start": 39.18,
+          "end": 39.32
         },
         {
-          "word": "sandy",
-          "startSec": 99.86,
-          "endSec": 100.1,
-          "score": 0.98
+          "word": "south",
+          "start": 39.32,
+          "end": 39.66
         },
         {
-          "word": "streets.",
-          "startSec": 100.1,
-          "endSec": 100.8,
-          "score": 1.0
+          "word": "of",
+          "start": 39.66,
+          "end": 39.96
+        },
+        {
+          "word": "Belize,",
+          "start": 39.96,
+          "end": 40.5
+        },
+        {
+          "word": "near",
+          "start": 40.88,
+          "end": 41.08
+        },
+        {
+          "word": "the",
+          "start": 41.08,
+          "end": 41.26
+        },
+        {
+          "word": "Caribbean",
+          "start": 41.26,
+          "end": 41.72
+        },
+        {
+          "word": "Sea.",
+          "start": 41.72,
+          "end": 42.76
         }
       ]
     },
     {
       "id": 11,
-      "start": 101.85,
-      "end": 113.97,
-      "text": "The city is calm, safe, and very welcoming. Part 5. Food in Placencia. Food in Placencia is fresh and tasty.",
+      "start": 43.2,
+      "end": 47.72,
+      "text": "It is a small peninsula, so the sea is very close.",
       "words": [
         {
-          "word": "The",
-          "startSec": 102.05,
-          "endSec": 102.44,
-          "score": 0.55
-        },
-        {
-          "word": "city",
-          "startSec": 102.44,
-          "endSec": 102.74,
-          "score": 0.92
+          "word": "It",
+          "start": 43.2,
+          "end": 43.34
         },
         {
           "word": "is",
-          "startSec": 102.74,
-          "endSec": 103.04,
-          "score": 1.0
+          "start": 43.34,
+          "end": 43.52
         },
         {
-          "word": "calm,",
-          "startSec": 103.04,
-          "endSec": 103.42,
-          "score": 1.0
+          "word": "a",
+          "start": 43.52,
+          "end": 43.72
         },
         {
-          "word": "safe,",
-          "startSec": 103.48,
-          "endSec": 104.34,
-          "score": 1.0
+          "word": "small",
+          "start": 43.72,
+          "end": 44.06
         },
         {
-          "word": "and",
-          "startSec": 104.6,
-          "endSec": 104.68,
-          "score": 1.0
+          "word": "peninsula,",
+          "start": 44.06,
+          "end": 44.82
+        },
+        {
+          "word": "so",
+          "start": 45.34,
+          "end": 45.6
+        },
+        {
+          "word": "the",
+          "start": 45.6,
+          "end": 45.8
+        },
+        {
+          "word": "sea",
+          "start": 45.8,
+          "end": 46.18
+        },
+        {
+          "word": "is",
+          "start": 46.18,
+          "end": 46.46
         },
         {
           "word": "very",
-          "startSec": 104.68,
-          "endSec": 104.92,
-          "score": 1.0
+          "start": 46.46,
+          "end": 46.82
         },
         {
-          "word": "welcoming.",
-          "startSec": 104.92,
-          "endSec": 105.56,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 107.27,
-          "endSec": 107.27,
-          "score": 0.61
-        },
-        {
-          "word": "5.",
-          "startSec": 107.27,
-          "endSec": 107.97,
-          "score": 0.65
-        },
-        {
-          "word": "Food",
-          "startSec": 108.67,
-          "endSec": 108.67,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 108.67,
-          "endSec": 108.85,
-          "score": 0.12
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 108.85,
-          "endSec": 109.59,
-          "score": 0.25
-        },
-        {
-          "word": "Food",
-          "startSec": 110.68,
-          "endSec": 111.2,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 111.2,
-          "endSec": 111.48,
-          "score": 0.99
-        },
-        {
-          "word": "Placencia",
-          "startSec": 111.48,
-          "endSec": 112.24,
-          "score": 0.89
-        },
-        {
-          "word": "is",
-          "startSec": 112.24,
-          "endSec": 112.6,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 112.6,
-          "endSec": 113.0,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 113.0,
-          "endSec": 113.44,
-          "score": 1.0
-        },
-        {
-          "word": "tasty.",
-          "startSec": 113.44,
-          "endSec": 113.82,
-          "score": 1.0
+          "word": "close.",
+          "start": 46.82,
+          "end": 47.72
         }
       ]
     },
     {
       "id": 12,
-      "start": 114.82,
-      "end": 124.07,
-      "text": "People eat seafood, rice, beans, and tropical fruits. A popular dish is ceviche, made from fish and lime.",
+      "start": 48.48,
+      "end": 53.5,
+      "text": "The city is quiet, with sandy streets and colorful houses.",
       "words": [
         {
-          "word": "People",
-          "startSec": 115.02,
-          "endSec": 115.02,
-          "score": 1.0
+          "word": "The",
+          "start": 48.48,
+          "end": 48.78
         },
         {
-          "word": "eat",
-          "startSec": 115.02,
-          "endSec": 115.26,
-          "score": 1.0
-        },
-        {
-          "word": "seafood,",
-          "startSec": 115.26,
-          "endSec": 115.82,
-          "score": 0.99
-        },
-        {
-          "word": "rice,",
-          "startSec": 116.32,
-          "endSec": 116.58,
-          "score": 1.0
-        },
-        {
-          "word": "beans,",
-          "startSec": 117.22,
-          "endSec": 117.22,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 117.5,
-          "endSec": 117.72,
-          "score": 1.0
-        },
-        {
-          "word": "tropical",
-          "startSec": 117.72,
-          "endSec": 118.04,
-          "score": 0.99
-        },
-        {
-          "word": "fruits.",
-          "startSec": 118.04,
-          "endSec": 118.64,
-          "score": 0.99
-        },
-        {
-          "word": "A",
-          "startSec": 119.74,
-          "endSec": 119.84,
-          "score": 1.0
-        },
-        {
-          "word": "popular",
-          "startSec": 119.84,
-          "endSec": 120.24,
-          "score": 1.0
-        },
-        {
-          "word": "dish",
-          "startSec": 120.24,
-          "endSec": 120.98,
-          "score": 1.0
+          "word": "city",
+          "start": 48.78,
+          "end": 49.12
         },
         {
           "word": "is",
-          "startSec": 120.98,
-          "endSec": 121.16,
-          "score": 1.0
+          "start": 49.12,
+          "end": 49.42
         },
         {
-          "word": "ceviche,",
-          "startSec": 121.16,
-          "endSec": 121.9,
-          "score": 0.88
+          "word": "quiet,",
+          "start": 49.42,
+          "end": 49.98
         },
         {
-          "word": "made",
-          "startSec": 122.48,
-          "endSec": 122.76,
-          "score": 1.0
+          "word": "with",
+          "start": 50.26,
+          "end": 50.52
         },
         {
-          "word": "from",
-          "startSec": 122.76,
-          "endSec": 123.06,
-          "score": 1.0
+          "word": "sandy",
+          "start": 50.52,
+          "end": 51.06
         },
         {
-          "word": "fish",
-          "startSec": 123.06,
-          "endSec": 123.4,
-          "score": 0.99
+          "word": "streets",
+          "start": 51.06,
+          "end": 51.66
         },
         {
           "word": "and",
-          "startSec": 123.4,
-          "endSec": 123.66,
-          "score": 0.99
+          "start": 51.66,
+          "end": 51.98
         },
         {
-          "word": "lime.",
-          "startSec": 123.66,
-          "endSec": 123.92,
-          "score": 1.0
+          "word": "colorful",
+          "start": 51.98,
+          "end": 52.48
+        },
+        {
+          "word": "houses.",
+          "start": 52.48,
+          "end": 53.5
         }
       ]
     },
     {
       "id": 13,
-      "start": 124.28,
-      "end": 135.26,
-      "text": "You can also try coconut and spicy sauces in local dishes. Part 6. The People of Placencia.",
+      "start": 54.08,
+      "end": 57.86,
+      "text": "It is perfect for relaxing and enjoying nature.",
       "words": [
         {
-          "word": "You",
-          "startSec": 124.48,
-          "endSec": 124.94,
-          "score": 0.48
+          "word": "It",
+          "start": 54.08,
+          "end": 54.34
         },
         {
-          "word": "can",
-          "startSec": 124.94,
-          "endSec": 125.14,
-          "score": 1.0
+          "word": "is",
+          "start": 54.34,
+          "end": 54.5
         },
         {
-          "word": "also",
-          "startSec": 125.14,
-          "endSec": 125.4,
-          "score": 1.0
+          "word": "perfect",
+          "start": 54.5,
+          "end": 54.98
         },
         {
-          "word": "try",
-          "startSec": 125.4,
-          "endSec": 125.94,
-          "score": 0.99
+          "word": "for",
+          "start": 54.98,
+          "end": 55.34
         },
         {
-          "word": "coconut",
-          "startSec": 125.94,
-          "endSec": 126.52,
-          "score": 0.99
+          "word": "relaxing",
+          "start": 55.34,
+          "end": 56.02
         },
         {
           "word": "and",
-          "startSec": 126.52,
-          "endSec": 126.98,
-          "score": 0.98
+          "start": 56.02,
+          "end": 56.38
         },
         {
-          "word": "spicy",
-          "startSec": 126.98,
-          "endSec": 127.3,
-          "score": 0.99
+          "word": "enjoying",
+          "start": 56.38,
+          "end": 56.86
         },
         {
-          "word": "sauces",
-          "startSec": 127.3,
-          "endSec": 128.1,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 128.1,
-          "endSec": 128.56,
-          "score": 0.96
-        },
-        {
-          "word": "local",
-          "startSec": 128.56,
-          "endSec": 128.76,
-          "score": 0.99
-        },
-        {
-          "word": "dishes.",
-          "startSec": 128.76,
-          "endSec": 129.32,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 131.21,
-          "endSec": 131.31,
-          "score": 0.6
-        },
-        {
-          "word": "6.",
-          "startSec": 131.31,
-          "endSec": 131.83,
-          "score": 0.63
-        },
-        {
-          "word": "The",
-          "startSec": 133.71,
-          "endSec": 133.71,
-          "score": 0.94
-        },
-        {
-          "word": "People",
-          "startSec": 133.71,
-          "endSec": 134.13,
-          "score": 0.56
-        },
-        {
-          "word": "of",
-          "startSec": 134.13,
-          "endSec": 134.41,
-          "score": 0.94
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 134.41,
-          "endSec": 135.11,
-          "score": 0.71
+          "word": "nature.",
+          "start": 56.86,
+          "end": 57.86
         }
       ]
     },
     {
       "id": 14,
-      "start": 136.16,
-      "end": 144.55,
-      "text": "People in Placencia are friendly and warm. They speak English, the official language of Belize.",
+      "start": 58.16,
+      "end": 59.7,
+      "text": "Part 3.",
       "words": [
         {
-          "word": "People",
-          "startSec": 136.36,
-          "endSec": 137.04,
-          "score": 0.99
+          "word": "Part",
+          "start": 58.16,
+          "end": 58.82
         },
         {
-          "word": "in",
-          "startSec": 137.04,
-          "endSec": 137.46,
-          "score": 0.99
-        },
-        {
-          "word": "Placencia",
-          "startSec": 137.46,
-          "endSec": 138.22,
-          "score": 0.94
-        },
-        {
-          "word": "are",
-          "startSec": 138.22,
-          "endSec": 138.68,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 138.68,
-          "endSec": 139.08,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 139.08,
-          "endSec": 139.6,
-          "score": 1.0
-        },
-        {
-          "word": "warm.",
-          "startSec": 139.6,
-          "endSec": 139.98,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 140.74,
-          "endSec": 140.8,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 140.8,
-          "endSec": 141.1,
-          "score": 1.0
-        },
-        {
-          "word": "English,",
-          "startSec": 141.1,
-          "endSec": 141.76,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 142.24,
-          "endSec": 142.32,
-          "score": 0.99
-        },
-        {
-          "word": "official",
-          "startSec": 142.32,
-          "endSec": 142.72,
-          "score": 0.99
-        },
-        {
-          "word": "language",
-          "startSec": 142.72,
-          "endSec": 143.44,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 143.44,
-          "endSec": 143.88,
-          "score": 1.0
-        },
-        {
-          "word": "Belize.",
-          "startSec": 143.88,
-          "endSec": 144.4,
-          "score": 0.76
+          "word": "3.",
+          "start": 58.82,
+          "end": 59.7
         }
       ]
     },
     {
       "id": 15,
-      "start": 145.08,
-      "end": 154.2,
-      "text": "Life is relaxed and families are very important. People enjoy music, festivals, and time with friends.",
+      "start": 60.06,
+      "end": 61.68,
+      "text": "Nature in Placencia.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 145.28,
-          "endSec": 145.72,
-          "score": 0.99
+          "word": "Nature",
+          "start": 60.06,
+          "end": 60.3
         },
         {
-          "word": "is",
-          "startSec": 145.72,
-          "endSec": 146.1,
-          "score": 1.0
+          "word": "in",
+          "start": 60.3,
+          "end": 60.6
         },
         {
-          "word": "relaxed",
-          "startSec": 146.1,
-          "endSec": 146.5,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 146.5,
-          "endSec": 147.32,
-          "score": 0.67
-        },
-        {
-          "word": "families",
-          "startSec": 147.32,
-          "endSec": 147.9,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 147.9,
-          "endSec": 148.22,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 148.22,
-          "endSec": 148.5,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 148.5,
-          "endSec": 149.12,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 150.05,
-          "endSec": 150.51,
-          "score": 1.0
-        },
-        {
-          "word": "enjoy",
-          "startSec": 150.51,
-          "endSec": 151.09,
-          "score": 1.0
-        },
-        {
-          "word": "music,",
-          "startSec": 151.09,
-          "endSec": 151.55,
-          "score": 0.99
-        },
-        {
-          "word": "festivals,",
-          "startSec": 151.55,
-          "endSec": 152.41,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 153.13,
-          "endSec": 153.17,
-          "score": 1.0
-        },
-        {
-          "word": "time",
-          "startSec": 153.17,
-          "endSec": 153.41,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 153.41,
-          "endSec": 153.69,
-          "score": 1.0
-        },
-        {
-          "word": "friends.",
-          "startSec": 153.69,
-          "endSec": 154.05,
-          "score": 1.0
+          "word": "Placencia.",
+          "start": 60.6,
+          "end": 61.68
         }
       ]
     },
     {
       "id": 16,
-      "start": 155.78,
-      "end": 167.67,
-      "text": "Part 7. Culture and Music. Music is a big part of life in Placencia. People play drums, guitars, and marimbas.",
+      "start": 62.66,
+      "end": 68.32,
+      "text": "Placencia is surrounded by beaches, palm trees, and the sea.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 155.98,
-          "endSec": 156.4,
-          "score": 0.09
-        },
-        {
-          "word": "7.",
-          "startSec": 156.4,
-          "endSec": 157.02,
-          "score": 0.54
-        },
-        {
-          "word": "Culture",
-          "startSec": 157.32,
-          "endSec": 157.68,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 157.68,
-          "endSec": 158.06,
-          "score": 0.81
-        },
-        {
-          "word": "Music.",
-          "startSec": 158.06,
-          "endSec": 158.44,
-          "score": 0.59
-        },
-        {
-          "word": "Music",
-          "startSec": 160.02,
-          "endSec": 160.68,
-          "score": 0.98
+          "word": "Placencia",
+          "start": 62.66,
+          "end": 63.56
         },
         {
           "word": "is",
-          "startSec": 160.68,
-          "endSec": 161.04,
-          "score": 1.0
+          "start": 63.56,
+          "end": 64.0
         },
         {
-          "word": "a",
-          "startSec": 161.04,
-          "endSec": 161.16,
-          "score": 0.98
+          "word": "surrounded",
+          "start": 64.0,
+          "end": 64.5
         },
         {
-          "word": "big",
-          "startSec": 161.16,
-          "endSec": 161.44,
-          "score": 1.0
+          "word": "by",
+          "start": 64.5,
+          "end": 64.88
         },
         {
-          "word": "part",
-          "startSec": 161.44,
-          "endSec": 161.78,
-          "score": 1.0
+          "word": "beaches,",
+          "start": 64.88,
+          "end": 65.44
         },
         {
-          "word": "of",
-          "startSec": 161.78,
-          "endSec": 162.02,
-          "score": 0.99
+          "word": "palm",
+          "start": 66.12,
+          "end": 66.4
         },
         {
-          "word": "life",
-          "startSec": 162.02,
-          "endSec": 162.22,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 162.22,
-          "endSec": 162.48,
-          "score": 1.0
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 162.48,
-          "endSec": 162.98,
-          "score": 0.59
-        },
-        {
-          "word": "People",
-          "startSec": 164.0,
-          "endSec": 164.52,
-          "score": 0.99
-        },
-        {
-          "word": "play",
-          "startSec": 164.52,
-          "endSec": 165.06,
-          "score": 0.99
-        },
-        {
-          "word": "drums,",
-          "startSec": 165.06,
-          "endSec": 165.52,
-          "score": 0.99
-        },
-        {
-          "word": "guitars,",
-          "startSec": 166.0,
-          "endSec": 166.34,
-          "score": 0.99
+          "word": "trees,",
+          "start": 66.4,
+          "end": 66.86
         },
         {
           "word": "and",
-          "startSec": 166.8,
-          "endSec": 166.86,
-          "score": 0.99
+          "start": 67.32,
+          "end": 67.36
         },
         {
-          "word": "marimbas.",
-          "startSec": 166.86,
-          "endSec": 167.52,
-          "score": 0.71
+          "word": "the",
+          "start": 67.36,
+          "end": 67.54
+        },
+        {
+          "word": "sea.",
+          "start": 67.54,
+          "end": 68.32
         }
       ]
     },
     {
       "id": 17,
-      "start": 167.98,
-      "end": 172.39,
-      "text": "You can hear music at festivals, restaurants, and on the streets.",
+      "start": 69.04,
+      "end": 74.02,
+      "text": "You can see dolphins, manatees, and many colorful fish.",
       "words": [
         {
           "word": "You",
-          "startSec": 168.18,
-          "endSec": 168.44,
-          "score": 0.99
+          "start": 69.04,
+          "end": 69.2
         },
         {
           "word": "can",
-          "startSec": 168.44,
-          "endSec": 168.62,
-          "score": 1.0
+          "start": 69.2,
+          "end": 69.44
         },
         {
-          "word": "hear",
-          "startSec": 168.62,
-          "endSec": 168.88,
-          "score": 1.0
+          "word": "see",
+          "start": 69.44,
+          "end": 69.74
         },
         {
-          "word": "music",
-          "startSec": 168.88,
-          "endSec": 169.26,
-          "score": 1.0
+          "word": "dolphins,",
+          "start": 69.74,
+          "end": 70.32
         },
         {
-          "word": "at",
-          "startSec": 169.26,
-          "endSec": 169.54,
-          "score": 1.0
-        },
-        {
-          "word": "festivals,",
-          "startSec": 169.54,
-          "endSec": 169.9,
-          "score": 1.0
-        },
-        {
-          "word": "restaurants,",
-          "startSec": 170.42,
-          "endSec": 170.98,
-          "score": 1.0
+          "word": "manatees,",
+          "start": 70.94,
+          "end": 71.84
         },
         {
           "word": "and",
-          "startSec": 171.4,
-          "endSec": 171.6,
-          "score": 1.0
+          "start": 72.08,
+          "end": 72.2
         },
         {
-          "word": "on",
-          "startSec": 171.6,
-          "endSec": 171.72,
-          "score": 1.0
+          "word": "many",
+          "start": 72.2,
+          "end": 72.5
         },
         {
-          "word": "the",
-          "startSec": 171.72,
-          "endSec": 171.88,
-          "score": 1.0
+          "word": "colorful",
+          "start": 72.5,
+          "end": 72.98
         },
         {
-          "word": "streets.",
-          "startSec": 171.88,
-          "endSec": 172.24,
-          "score": 1.0
+          "word": "fish.",
+          "start": 72.98,
+          "end": 74.02
         }
       ]
     },
     {
       "id": 18,
-      "start": 173.18,
-      "end": 182.11,
-      "text": "Local dances and traditional songs are part of celebrations. Part 8. Beaches and activities.",
+      "start": 74.74,
+      "end": 79.22,
+      "text": "The air is warm and the weather is sunny most of the year.",
       "words": [
         {
-          "word": "Local",
-          "startSec": 173.38,
-          "endSec": 173.72,
-          "score": 0.99
+          "word": "The",
+          "start": 74.74,
+          "end": 74.94
         },
         {
-          "word": "dances",
-          "startSec": 173.72,
-          "endSec": 174.16,
-          "score": 0.99
+          "word": "air",
+          "start": 74.94,
+          "end": 75.28
+        },
+        {
+          "word": "is",
+          "start": 75.28,
+          "end": 75.54
+        },
+        {
+          "word": "warm",
+          "start": 75.54,
+          "end": 75.98
         },
         {
           "word": "and",
-          "startSec": 174.16,
-          "endSec": 174.72,
-          "score": 0.93
+          "start": 75.98,
+          "end": 76.44
         },
         {
-          "word": "traditional",
-          "startSec": 174.72,
-          "endSec": 174.98,
-          "score": 1.0
+          "word": "the",
+          "start": 76.44,
+          "end": 76.62
         },
         {
-          "word": "songs",
-          "startSec": 174.98,
-          "endSec": 175.82,
-          "score": 1.0
+          "word": "weather",
+          "start": 76.62,
+          "end": 76.86
         },
         {
-          "word": "are",
-          "startSec": 175.82,
-          "endSec": 176.28,
-          "score": 1.0
+          "word": "is",
+          "start": 76.86,
+          "end": 77.2
         },
         {
-          "word": "part",
-          "startSec": 176.28,
-          "endSec": 176.58,
-          "score": 0.94
+          "word": "sunny",
+          "start": 77.2,
+          "end": 77.6
+        },
+        {
+          "word": "most",
+          "start": 77.6,
+          "end": 77.98
         },
         {
           "word": "of",
-          "startSec": 176.58,
-          "endSec": 176.8,
-          "score": 1.0
+          "start": 77.98,
+          "end": 78.3
         },
         {
-          "word": "celebrations.",
-          "startSec": 176.8,
-          "endSec": 177.32,
-          "score": 1.0
+          "word": "the",
+          "start": 78.3,
+          "end": 78.42
         },
         {
-          "word": "Part",
-          "startSec": 179.78,
-          "endSec": 179.78,
-          "score": 0.86
-        },
-        {
-          "word": "8.",
-          "startSec": 179.78,
-          "endSec": 180.2,
-          "score": 0.94
-        },
-        {
-          "word": "Beaches",
-          "startSec": 181.08,
-          "endSec": 181.32,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 181.32,
-          "endSec": 181.66,
-          "score": 0.91
-        },
-        {
-          "word": "activities.",
-          "startSec": 181.66,
-          "endSec": 181.96,
-          "score": 0.48
+          "word": "year.",
+          "start": 78.42,
+          "end": 79.22
         }
       ]
     },
     {
       "id": 19,
-      "start": 182.82,
-      "end": 193.25,
-      "text": "The beaches in Placencia are very beautiful. You can swim, snorkel, dive, or just relax in the sun.",
+      "start": 79.76,
+      "end": 84.84,
+      "text": "Visitors love swimming, snorkeling, and walking along the coast.",
       "words": [
         {
-          "word": "The",
-          "startSec": 183.02,
-          "endSec": 183.9,
-          "score": 0.24
+          "word": "Visitors",
+          "start": 79.76,
+          "end": 80.38
         },
         {
-          "word": "beaches",
-          "startSec": 183.9,
-          "endSec": 184.34,
-          "score": 0.98
+          "word": "love",
+          "start": 80.38,
+          "end": 80.84
         },
         {
-          "word": "in",
-          "startSec": 184.34,
-          "endSec": 184.78,
-          "score": 0.93
+          "word": "swimming,",
+          "start": 80.84,
+          "end": 81.46
         },
         {
-          "word": "Placencia",
-          "startSec": 184.78,
-          "endSec": 185.54,
-          "score": 0.51
+          "word": "snorkeling,",
+          "start": 82.16,
+          "end": 82.76
         },
         {
-          "word": "are",
-          "startSec": 185.54,
-          "endSec": 186.0,
-          "score": 0.99
+          "word": "and",
+          "start": 83.26,
+          "end": 83.28
         },
         {
-          "word": "very",
-          "startSec": 186.0,
-          "endSec": 186.3,
-          "score": 0.98
+          "word": "walking",
+          "start": 83.28,
+          "end": 83.68
         },
         {
-          "word": "beautiful.",
-          "startSec": 186.3,
-          "endSec": 186.86,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 188.04,
-          "endSec": 188.2,
-          "score": 0.98
-        },
-        {
-          "word": "can",
-          "startSec": 188.2,
-          "endSec": 188.42,
-          "score": 1.0
-        },
-        {
-          "word": "swim,",
-          "startSec": 188.42,
-          "endSec": 188.88,
-          "score": 1.0
-        },
-        {
-          "word": "snorkel,",
-          "startSec": 189.34,
-          "endSec": 190.02,
-          "score": 0.99
-        },
-        {
-          "word": "dive,",
-          "startSec": 190.32,
-          "endSec": 190.54,
-          "score": 0.98
-        },
-        {
-          "word": "or",
-          "startSec": 191.24,
-          "endSec": 191.28,
-          "score": 1.0
-        },
-        {
-          "word": "just",
-          "startSec": 191.28,
-          "endSec": 191.58,
-          "score": 0.99
-        },
-        {
-          "word": "relax",
-          "startSec": 191.58,
-          "endSec": 192.12,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 192.12,
-          "endSec": 192.56,
-          "score": 1.0
+          "word": "along",
+          "start": 83.68,
+          "end": 84.08
         },
         {
           "word": "the",
-          "startSec": 192.56,
-          "endSec": 192.7,
-          "score": 1.0
+          "start": 84.08,
+          "end": 84.36
         },
         {
-          "word": "sun.",
-          "startSec": 192.7,
-          "endSec": 193.1,
-          "score": 0.96
+          "word": "coast.",
+          "start": 84.36,
+          "end": 84.84
         }
       ]
     },
     {
       "id": 20,
-      "start": 193.64,
-      "end": 202.91,
-      "text": "Visitors can also go fishing or take boat trips to nearby islands. Nature and sea life are everywhere.",
+      "start": 84.84,
+      "end": 87.1,
+      "text": "Part 4.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 193.84,
-          "endSec": 194.26,
-          "score": 0.98
+          "word": "Part",
+          "start": 84.84,
+          "end": 86.2
         },
         {
-          "word": "can",
-          "startSec": 194.26,
-          "endSec": 194.82,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 194.82,
-          "endSec": 195.14,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 195.14,
-          "endSec": 195.48,
-          "score": 1.0
-        },
-        {
-          "word": "fishing",
-          "startSec": 195.48,
-          "endSec": 195.96,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 195.96,
-          "endSec": 196.46,
-          "score": 0.93
-        },
-        {
-          "word": "take",
-          "startSec": 196.46,
-          "endSec": 196.74,
-          "score": 1.0
-        },
-        {
-          "word": "boat",
-          "startSec": 196.74,
-          "endSec": 197.06,
-          "score": 1.0
-        },
-        {
-          "word": "trips",
-          "startSec": 197.06,
-          "endSec": 197.44,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 197.44,
-          "endSec": 197.98,
-          "score": 1.0
-        },
-        {
-          "word": "nearby",
-          "startSec": 197.98,
-          "endSec": 198.26,
-          "score": 0.99
-        },
-        {
-          "word": "islands.",
-          "startSec": 198.26,
-          "endSec": 199.14,
-          "score": 0.99
-        },
-        {
-          "word": "Nature",
-          "startSec": 200.12,
-          "endSec": 200.84,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 200.84,
-          "endSec": 201.32,
-          "score": 1.0
-        },
-        {
-          "word": "sea",
-          "startSec": 201.32,
-          "endSec": 201.64,
-          "score": 0.96
-        },
-        {
-          "word": "life",
-          "startSec": 201.64,
-          "endSec": 202.02,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 202.02,
-          "endSec": 202.3,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 202.3,
-          "endSec": 202.76,
-          "score": 1.0
+          "word": "4.",
+          "start": 86.2,
+          "end": 87.1
         }
       ]
     },
     {
       "id": 21,
-      "start": 202.56,
-      "end": 214.06,
-      "text": "Part 9. Travel and Tourism. Placencia is small but reachable by plane or car from Belize City.",
+      "start": 87.36,
+      "end": 89.08,
+      "text": "The city of Placencia.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 202.76,
-          "endSec": 203.74,
-          "score": 0.44
+          "word": "The",
+          "start": 87.36,
+          "end": 87.36
         },
         {
-          "word": "9.",
-          "startSec": 203.74,
-          "endSec": 204.28,
-          "score": 0.62
+          "word": "city",
+          "start": 87.36,
+          "end": 87.72
         },
         {
-          "word": "Travel",
-          "startSec": 205.19,
-          "endSec": 205.97,
-          "score": 0.98
+          "word": "of",
+          "start": 87.72,
+          "end": 87.96
         },
         {
-          "word": "and",
-          "startSec": 205.97,
-          "endSec": 206.33,
-          "score": 0.87
-        },
-        {
-          "word": "Tourism.",
-          "startSec": 206.33,
-          "endSec": 206.71,
-          "score": 0.57
-        },
-        {
-          "word": "Placencia",
-          "startSec": 208.25,
-          "endSec": 209.07,
-          "score": 0.59
-        },
-        {
-          "word": "is",
-          "startSec": 209.07,
-          "endSec": 209.65,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 209.65,
-          "endSec": 210.15,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 210.15,
-          "endSec": 210.63,
-          "score": 0.68
-        },
-        {
-          "word": "reachable",
-          "startSec": 210.63,
-          "endSec": 211.25,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 211.25,
-          "endSec": 211.57,
-          "score": 1.0
-        },
-        {
-          "word": "plane",
-          "startSec": 211.57,
-          "endSec": 211.99,
-          "score": 0.93
-        },
-        {
-          "word": "or",
-          "startSec": 211.99,
-          "endSec": 212.31,
-          "score": 0.99
-        },
-        {
-          "word": "car",
-          "startSec": 212.31,
-          "endSec": 212.61,
-          "score": 0.99
-        },
-        {
-          "word": "from",
-          "startSec": 212.61,
-          "endSec": 213.07,
-          "score": 0.99
-        },
-        {
-          "word": "Belize",
-          "startSec": 213.07,
-          "endSec": 213.49,
-          "score": 0.67
-        },
-        {
-          "word": "City.",
-          "startSec": 213.49,
-          "endSec": 213.91,
-          "score": 0.86
+          "word": "Placencia.",
+          "start": 87.96,
+          "end": 89.08
         }
       ]
     },
     {
       "id": 22,
-      "start": 214.9,
-      "end": 225.39,
-      "text": "Tourists come to enjoy the sea, beaches, and local culture. Tourism helps local people earn money and protect nature.",
+      "start": 89.44,
+      "end": 92.27,
+      "text": "Placencia is small but lively.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 215.1,
-          "endSec": 215.78,
-          "score": 0.85
+          "word": "Placencia",
+          "start": 89.44,
+          "end": 90.32
         },
         {
-          "word": "come",
-          "startSec": 215.78,
-          "endSec": 216.06,
-          "score": 1.0
+          "word": "is",
+          "start": 90.32,
+          "end": 90.7
         },
         {
-          "word": "to",
-          "startSec": 216.06,
-          "endSec": 216.38,
-          "score": 1.0
+          "word": "small",
+          "start": 90.7,
+          "end": 91.1
         },
         {
-          "word": "enjoy",
-          "startSec": 216.38,
-          "endSec": 216.9,
-          "score": 1.0
+          "word": "but",
+          "start": 91.1,
+          "end": 91.32
         },
         {
-          "word": "the",
-          "startSec": 216.9,
-          "endSec": 217.12,
-          "score": 0.99
-        },
-        {
-          "word": "sea,",
-          "startSec": 217.12,
-          "endSec": 217.44,
-          "score": 0.97
-        },
-        {
-          "word": "beaches,",
-          "startSec": 218.14,
-          "endSec": 218.14,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 218.68,
-          "endSec": 218.76,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 218.76,
-          "endSec": 219.02,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 219.02,
-          "endSec": 219.82,
-          "score": 0.99
-        },
-        {
-          "word": "Tourism",
-          "startSec": 220.74,
-          "endSec": 221.28,
-          "score": 0.98
-        },
-        {
-          "word": "helps",
-          "startSec": 221.28,
-          "endSec": 221.84,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 221.84,
-          "endSec": 222.32,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 222.32,
-          "endSec": 222.92,
-          "score": 1.0
-        },
-        {
-          "word": "earn",
-          "startSec": 222.92,
-          "endSec": 223.42,
-          "score": 0.99
-        },
-        {
-          "word": "money",
-          "startSec": 223.42,
-          "endSec": 224.04,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 224.04,
-          "endSec": 224.4,
-          "score": 0.99
-        },
-        {
-          "word": "protect",
-          "startSec": 224.4,
-          "endSec": 224.8,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 224.8,
-          "endSec": 225.24,
-          "score": 1.0
+          "word": "lively.",
+          "start": 91.32,
+          "end": 92.27
         }
       ]
     },
     {
       "id": 23,
-      "start": 226.02,
-      "end": 233.92,
-      "text": "Part 10. Daily Life in Placencia. Life in Placencia is slow and calm.",
+      "start": 92.5,
+      "end": 96.26,
+      "text": "There are cafes, restaurants, and local shops.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 226.22,
-          "endSec": 226.58,
-          "score": 0.15
+          "word": "There",
+          "start": 92.5,
+          "end": 92.64
         },
         {
-          "word": "10.",
-          "startSec": 226.58,
-          "endSec": 227.18,
-          "score": 0.9
+          "word": "are",
+          "start": 92.64,
+          "end": 92.8
         },
         {
-          "word": "Daily",
-          "startSec": 227.9,
-          "endSec": 228.22,
-          "score": 0.95
+          "word": "cafes,",
+          "start": 92.8,
+          "end": 93.34
         },
         {
-          "word": "Life",
-          "startSec": 228.22,
-          "endSec": 228.8,
-          "score": 0.65
-        },
-        {
-          "word": "in",
-          "startSec": 228.8,
-          "endSec": 228.98,
-          "score": 0.59
-        },
-        {
-          "word": "Placencia.",
-          "startSec": 228.98,
-          "endSec": 229.52,
-          "score": 0.51
-        },
-        {
-          "word": "Life",
-          "startSec": 230.51,
-          "endSec": 231.23,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 231.23,
-          "endSec": 231.53,
-          "score": 1.0
-        },
-        {
-          "word": "Placencia",
-          "startSec": 231.53,
-          "endSec": 232.39,
-          "score": 0.93
-        },
-        {
-          "word": "is",
-          "startSec": 232.39,
-          "endSec": 232.69,
-          "score": 0.99
-        },
-        {
-          "word": "slow",
-          "startSec": 232.69,
-          "endSec": 233.07,
-          "score": 0.96
+          "word": "restaurants,",
+          "start": 94.06,
+          "end": 94.4
         },
         {
           "word": "and",
-          "startSec": 233.07,
-          "endSec": 233.39,
-          "score": 0.99
+          "start": 94.84,
+          "end": 94.92
         },
         {
-          "word": "calm.",
-          "startSec": 233.39,
-          "endSec": 233.77,
-          "score": 1.0
+          "word": "local",
+          "start": 94.92,
+          "end": 95.2
+        },
+        {
+          "word": "shops.",
+          "start": 95.2,
+          "end": 96.26
         }
       ]
     },
     {
       "id": 24,
-      "start": 234.45,
-      "end": 240.08,
-      "text": "People wake up early, go to work or fishing, and spend time with family.",
+      "start": 96.68,
+      "end": 101.34,
+      "text": "People walk or ride bicycles along the sandy streets.",
       "words": [
         {
           "word": "People",
-          "startSec": 234.65,
-          "endSec": 234.95,
-          "score": 0.99
+          "start": 96.68,
+          "end": 97.16
         },
         {
-          "word": "wake",
-          "startSec": 234.95,
-          "endSec": 235.39,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 235.39,
-          "endSec": 235.67,
-          "score": 1.0
-        },
-        {
-          "word": "early,",
-          "startSec": 235.67,
-          "endSec": 236.11,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 236.63,
-          "endSec": 236.87,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 236.87,
-          "endSec": 237.05,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 237.05,
-          "endSec": 237.37,
-          "score": 0.99
+          "word": "walk",
+          "start": 97.16,
+          "end": 97.58
         },
         {
           "word": "or",
-          "startSec": 237.37,
-          "endSec": 237.63,
-          "score": 0.98
+          "start": 97.58,
+          "end": 97.98
         },
         {
-          "word": "fishing,",
-          "startSec": 237.63,
-          "endSec": 237.97,
-          "score": 1.0
+          "word": "ride",
+          "start": 97.98,
+          "end": 98.3
         },
         {
-          "word": "and",
-          "startSec": 238.49,
-          "endSec": 238.59,
-          "score": 0.99
+          "word": "bicycles",
+          "start": 98.3,
+          "end": 98.98
         },
         {
-          "word": "spend",
-          "startSec": 238.59,
-          "endSec": 238.93,
-          "score": 1.0
+          "word": "along",
+          "start": 98.98,
+          "end": 99.6
         },
         {
-          "word": "time",
-          "startSec": 238.93,
-          "endSec": 239.31,
-          "score": 1.0
+          "word": "the",
+          "start": 99.6,
+          "end": 99.96
         },
         {
-          "word": "with",
-          "startSec": 239.31,
-          "endSec": 239.61,
-          "score": 1.0
+          "word": "sandy",
+          "start": 99.96,
+          "end": 100.32
         },
         {
-          "word": "family.",
-          "startSec": 239.61,
-          "endSec": 239.93,
-          "score": 0.99
+          "word": "streets.",
+          "start": 100.32,
+          "end": 101.34
         }
       ]
     },
     {
       "id": 25,
-      "start": 240.92,
-      "end": 245.99,
-      "text": "Children play on the beach, and families enjoy the sunset together.",
+      "start": 102.1,
+      "end": 106.06,
+      "text": "The city is calm, safe, and very welcoming.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 241.12,
-          "endSec": 241.64,
-          "score": 1.0
+          "word": "The",
+          "start": 102.1,
+          "end": 102.5
         },
         {
-          "word": "play",
-          "startSec": 241.64,
-          "endSec": 242.2,
-          "score": 1.0
+          "word": "city",
+          "start": 102.5,
+          "end": 102.82
         },
         {
-          "word": "on",
-          "startSec": 242.2,
-          "endSec": 242.44,
-          "score": 1.0
+          "word": "is",
+          "start": 102.82,
+          "end": 103.08
         },
         {
-          "word": "the",
-          "startSec": 242.44,
-          "endSec": 242.6,
-          "score": 1.0
+          "word": "calm,",
+          "start": 103.08,
+          "end": 103.54
         },
         {
-          "word": "beach,",
-          "startSec": 242.6,
-          "endSec": 242.88,
-          "score": 1.0
+          "word": "safe,",
+          "start": 103.96,
+          "end": 104.34
         },
         {
           "word": "and",
-          "startSec": 243.14,
-          "endSec": 243.46,
-          "score": 1.0
+          "start": 104.68,
+          "end": 104.74
         },
         {
-          "word": "families",
-          "startSec": 243.46,
-          "endSec": 244.06,
-          "score": 0.99
+          "word": "very",
+          "start": 104.74,
+          "end": 105.08
         },
         {
-          "word": "enjoy",
-          "startSec": 244.06,
-          "endSec": 244.52,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 244.52,
-          "endSec": 244.8,
-          "score": 1.0
-        },
-        {
-          "word": "sunset",
-          "startSec": 244.8,
-          "endSec": 245.14,
-          "score": 1.0
-        },
-        {
-          "word": "together.",
-          "startSec": 245.14,
-          "endSec": 245.84,
-          "score": 1.0
+          "word": "welcoming.",
+          "start": 105.08,
+          "end": 106.06
         }
       ]
     },
     {
       "id": 26,
-      "start": 246.88,
-      "end": 251.25,
-      "text": "Life is connected to nature, the sea, and traditions.",
+      "start": 106.76,
+      "end": 108.26,
+      "text": "Part 5.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 247.08,
-          "endSec": 247.52,
-          "score": 0.07
+          "word": "Part",
+          "start": 106.76,
+          "end": 107.4
         },
         {
-          "word": "is",
-          "startSec": 247.52,
-          "endSec": 247.86,
-          "score": 0.99
-        },
-        {
-          "word": "connected",
-          "startSec": 247.86,
-          "endSec": 248.24,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 248.24,
-          "endSec": 248.7,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 248.7,
-          "endSec": 249.18,
-          "score": 0.95
-        },
-        {
-          "word": "the",
-          "startSec": 249.86,
-          "endSec": 249.92,
-          "score": 0.99
-        },
-        {
-          "word": "sea,",
-          "startSec": 249.92,
-          "endSec": 250.3,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 250.7,
-          "endSec": 250.74,
-          "score": 1.0
-        },
-        {
-          "word": "traditions.",
-          "startSec": 250.74,
-          "endSec": 251.1,
-          "score": 1.0
+          "word": "5.",
+          "start": 107.4,
+          "end": 108.26
         }
       ]
     },
     {
       "id": 27,
-      "start": 252.99,
-      "end": 256.22,
-      "text": "Part 11. Why Placencia is special?",
+      "start": 108.52,
+      "end": 110.06,
+      "text": "Food in Placencia.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 253.19,
-          "endSec": 253.19,
-          "score": 0.98
+          "word": "Food",
+          "start": 108.52,
+          "end": 108.68
         },
         {
-          "word": "11.",
-          "startSec": 253.19,
-          "endSec": 253.79,
-          "score": 0.95
+          "word": "in",
+          "start": 108.68,
+          "end": 108.9
         },
         {
-          "word": "Why",
-          "startSec": 254.61,
-          "endSec": 254.67,
-          "score": 0.97
-        },
-        {
-          "word": "Placencia",
-          "startSec": 254.67,
-          "endSec": 255.35,
-          "score": 0.12
-        },
-        {
-          "word": "is",
-          "startSec": 255.35,
-          "endSec": 255.79,
-          "score": 0.97
-        },
-        {
-          "word": "special?",
-          "startSec": 255.79,
-          "endSec": 256.07,
-          "score": 0.94
+          "word": "Placencia.",
+          "start": 108.9,
+          "end": 110.06
         }
       ]
     },
     {
       "id": 28,
-      "start": 257.77,
-      "end": 264.94,
-      "text": "Placencia is not a famous city, but it is full of warmth, nature, and calm life.",
+      "start": 110.5,
+      "end": 114.38,
+      "text": "Food in Placencia is fresh and tasty.",
       "words": [
         {
+          "word": "Food",
+          "start": 110.5,
+          "end": 111.34
+        },
+        {
+          "word": "in",
+          "start": 111.34,
+          "end": 111.58
+        },
+        {
           "word": "Placencia",
-          "startSec": 257.97,
-          "endSec": 258.43,
-          "score": 0.95
+          "start": 111.58,
+          "end": 112.24
         },
         {
           "word": "is",
-          "startSec": 258.43,
-          "endSec": 258.83,
-          "score": 1.0
+          "start": 112.24,
+          "end": 112.68
         },
         {
-          "word": "not",
-          "startSec": 258.83,
-          "endSec": 259.13,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 259.13,
-          "endSec": 259.31,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 259.31,
-          "endSec": 259.77,
-          "score": 1.0
-        },
-        {
-          "word": "city,",
-          "startSec": 259.77,
-          "endSec": 260.29,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 260.97,
-          "endSec": 261.15,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 261.15,
-          "endSec": 261.29,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 261.29,
-          "endSec": 261.43,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 261.43,
-          "endSec": 261.75,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 261.75,
-          "endSec": 262.01,
-          "score": 1.0
-        },
-        {
-          "word": "warmth,",
-          "startSec": 262.01,
-          "endSec": 262.43,
-          "score": 0.99
-        },
-        {
-          "word": "nature,",
-          "startSec": 262.43,
-          "endSec": 263.17,
-          "score": 1.0
+          "word": "fresh",
+          "start": 112.68,
+          "end": 113.1
         },
         {
           "word": "and",
-          "startSec": 263.87,
-          "endSec": 264.01,
-          "score": 1.0
+          "start": 113.1,
+          "end": 113.5
         },
         {
-          "word": "calm",
-          "startSec": 264.01,
-          "endSec": 264.31,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 264.31,
-          "endSec": 264.79,
-          "score": 0.99
+          "word": "tasty.",
+          "start": 113.5,
+          "end": 114.38
         }
       ]
     },
     {
       "id": 29,
-      "start": 265.67,
-      "end": 270.76,
-      "text": "It combines beaches, sea, and friendly people beautifully.",
+      "start": 114.78,
+      "end": 119.22,
+      "text": "People eat seafood, rice, beans, and tropical fruits.",
       "words": [
         {
-          "word": "It",
-          "startSec": 265.87,
-          "endSec": 266.09,
-          "score": 1.0
+          "word": "People",
+          "start": 114.78,
+          "end": 115.06
         },
         {
-          "word": "combines",
-          "startSec": 266.09,
-          "endSec": 266.37,
-          "score": 1.0
+          "word": "eat",
+          "start": 115.06,
+          "end": 115.38
         },
         {
-          "word": "beaches,",
-          "startSec": 266.37,
-          "endSec": 267.27,
-          "score": 1.0
+          "word": "seafood,",
+          "start": 115.38,
+          "end": 115.88
         },
         {
-          "word": "sea,",
-          "startSec": 267.93,
-          "endSec": 268.39,
-          "score": 0.99
+          "word": "rice,",
+          "start": 116.36,
+          "end": 116.72
+        },
+        {
+          "word": "beans,",
+          "start": 117.04,
+          "end": 117.38
         },
         {
           "word": "and",
-          "startSec": 268.93,
-          "endSec": 269.01,
-          "score": 1.0
+          "start": 117.64,
+          "end": 117.82
         },
         {
-          "word": "friendly",
-          "startSec": 269.01,
-          "endSec": 269.39,
-          "score": 1.0
+          "word": "tropical",
+          "start": 117.82,
+          "end": 118.22
         },
         {
-          "word": "people",
-          "startSec": 269.39,
-          "endSec": 270.03,
-          "score": 1.0
-        },
-        {
-          "word": "beautifully.",
-          "startSec": 270.03,
-          "endSec": 270.61,
-          "score": 0.98
+          "word": "fruits.",
+          "start": 118.22,
+          "end": 119.22
         }
       ]
     },
     {
       "id": 30,
-      "start": 270.41,
-      "end": 276.46,
+      "start": 119.74,
+      "end": 124.46,
+      "text": "A popular dish is ceviche, made from fish and lime.",
+      "words": [
+        {
+          "word": "A",
+          "start": 119.74,
+          "end": 119.9
+        },
+        {
+          "word": "popular",
+          "start": 119.9,
+          "end": 120.42
+        },
+        {
+          "word": "dish",
+          "start": 120.42,
+          "end": 121.0
+        },
+        {
+          "word": "is",
+          "start": 121.0,
+          "end": 121.24
+        },
+        {
+          "word": "ceviche,",
+          "start": 121.24,
+          "end": 121.92
+        },
+        {
+          "word": "made",
+          "start": 122.52,
+          "end": 122.88
+        },
+        {
+          "word": "from",
+          "start": 122.88,
+          "end": 123.12
+        },
+        {
+          "word": "fish",
+          "start": 123.12,
+          "end": 123.52
+        },
+        {
+          "word": "and",
+          "start": 123.52,
+          "end": 123.72
+        },
+        {
+          "word": "lime.",
+          "start": 123.72,
+          "end": 124.46
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 124.78,
+      "end": 129.84,
+      "text": "You can also try coconut and spicy sauces in local dishes.",
+      "words": [
+        {
+          "word": "You",
+          "start": 124.78,
+          "end": 125.0
+        },
+        {
+          "word": "can",
+          "start": 125.0,
+          "end": 125.2
+        },
+        {
+          "word": "also",
+          "start": 125.2,
+          "end": 125.6
+        },
+        {
+          "word": "try",
+          "start": 125.6,
+          "end": 126.02
+        },
+        {
+          "word": "coconut",
+          "start": 126.02,
+          "end": 126.6
+        },
+        {
+          "word": "and",
+          "start": 126.6,
+          "end": 127.04
+        },
+        {
+          "word": "spicy",
+          "start": 127.04,
+          "end": 127.5
+        },
+        {
+          "word": "sauces",
+          "start": 127.5,
+          "end": 128.18
+        },
+        {
+          "word": "in",
+          "start": 128.18,
+          "end": 128.6
+        },
+        {
+          "word": "local",
+          "start": 128.6,
+          "end": 128.94
+        },
+        {
+          "word": "dishes.",
+          "start": 128.94,
+          "end": 129.84
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 130.6,
+      "end": 132.48,
+      "text": "Part 6.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 130.6,
+          "end": 131.46
+        },
+        {
+          "word": "6.",
+          "start": 131.46,
+          "end": 132.48
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 133.68,
+      "end": 135.66,
+      "text": "The people of Placencia.",
+      "words": [
+        {
+          "word": "The",
+          "start": 133.68,
+          "end": 133.74
+        },
+        {
+          "word": "people",
+          "start": 133.74,
+          "end": 134.18
+        },
+        {
+          "word": "of",
+          "start": 134.18,
+          "end": 134.44
+        },
+        {
+          "word": "Placencia.",
+          "start": 134.44,
+          "end": 135.66
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 136.36,
+      "end": 140.44,
+      "text": "People in Placencia are friendly and warm.",
+      "words": [
+        {
+          "word": "People",
+          "start": 136.36,
+          "end": 137.22
+        },
+        {
+          "word": "in",
+          "start": 137.22,
+          "end": 137.54
+        },
+        {
+          "word": "Placencia",
+          "start": 137.54,
+          "end": 138.28
+        },
+        {
+          "word": "are",
+          "start": 138.28,
+          "end": 138.74
+        },
+        {
+          "word": "friendly",
+          "start": 138.74,
+          "end": 139.28
+        },
+        {
+          "word": "and",
+          "start": 139.28,
+          "end": 139.64
+        },
+        {
+          "word": "warm.",
+          "start": 139.64,
+          "end": 140.44
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 140.66,
+      "end": 144.88,
+      "text": "They speak English, the official language of Belize.",
+      "words": [
+        {
+          "word": "They",
+          "start": 140.66,
+          "end": 140.86
+        },
+        {
+          "word": "speak",
+          "start": 140.86,
+          "end": 141.24
+        },
+        {
+          "word": "English,",
+          "start": 141.24,
+          "end": 141.78
+        },
+        {
+          "word": "the",
+          "start": 142.22,
+          "end": 142.38
+        },
+        {
+          "word": "official",
+          "start": 142.38,
+          "end": 143.0
+        },
+        {
+          "word": "language",
+          "start": 143.0,
+          "end": 143.7
+        },
+        {
+          "word": "of",
+          "start": 143.7,
+          "end": 143.96
+        },
+        {
+          "word": "Belize.",
+          "start": 143.96,
+          "end": 144.88
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 145.48,
+      "end": 149.76,
+      "text": "Life is relaxed and families are very important.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 145.48,
+          "end": 145.82
+        },
+        {
+          "word": "is",
+          "start": 145.82,
+          "end": 146.14
+        },
+        {
+          "word": "relaxed",
+          "start": 146.14,
+          "end": 146.76
+        },
+        {
+          "word": "and",
+          "start": 146.76,
+          "end": 147.4
+        },
+        {
+          "word": "families",
+          "start": 147.4,
+          "end": 147.96
+        },
+        {
+          "word": "are",
+          "start": 147.96,
+          "end": 148.28
+        },
+        {
+          "word": "very",
+          "start": 148.28,
+          "end": 148.7
+        },
+        {
+          "word": "important.",
+          "start": 148.7,
+          "end": 149.76
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 150.2,
+      "end": 154.56,
+      "text": "People enjoy music, festivals, and time with friends.",
+      "words": [
+        {
+          "word": "People",
+          "start": 150.2,
+          "end": 150.72
+        },
+        {
+          "word": "enjoy",
+          "start": 150.72,
+          "end": 151.26
+        },
+        {
+          "word": "music,",
+          "start": 151.26,
+          "end": 151.78
+        },
+        {
+          "word": "festivals,",
+          "start": 152.2,
+          "end": 152.6
+        },
+        {
+          "word": "and",
+          "start": 153.12,
+          "end": 153.24
+        },
+        {
+          "word": "time",
+          "start": 153.24,
+          "end": 153.5
+        },
+        {
+          "word": "with",
+          "start": 153.5,
+          "end": 153.74
+        },
+        {
+          "word": "friends.",
+          "start": 153.74,
+          "end": 154.56
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 155.76,
+      "end": 157.32,
+      "text": "Part 7.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 155.76,
+          "end": 156.48
+        },
+        {
+          "word": "7.",
+          "start": 156.48,
+          "end": 157.32
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 157.5,
+      "end": 158.9,
+      "text": "Culture and music.",
+      "words": [
+        {
+          "word": "Culture",
+          "start": 157.5,
+          "end": 157.7
+        },
+        {
+          "word": "and",
+          "start": 157.7,
+          "end": 158.12
+        },
+        {
+          "word": "music.",
+          "start": 158.12,
+          "end": 158.9
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 159.78,
+      "end": 163.6,
+      "text": "Music is a big part of life in Placencia.",
+      "words": [
+        {
+          "word": "Music",
+          "start": 159.78,
+          "end": 160.64
+        },
+        {
+          "word": "is",
+          "start": 160.64,
+          "end": 161.06
+        },
+        {
+          "word": "a",
+          "start": 161.06,
+          "end": 161.22
+        },
+        {
+          "word": "big",
+          "start": 161.22,
+          "end": 161.52
+        },
+        {
+          "word": "part",
+          "start": 161.52,
+          "end": 161.84
+        },
+        {
+          "word": "of",
+          "start": 161.84,
+          "end": 162.06
+        },
+        {
+          "word": "life",
+          "start": 162.06,
+          "end": 162.3
+        },
+        {
+          "word": "in",
+          "start": 162.3,
+          "end": 162.52
+        },
+        {
+          "word": "Placencia.",
+          "start": 162.52,
+          "end": 163.6
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 164.06,
+      "end": 167.84,
+      "text": "People play drums, guitars, and marimbas.",
+      "words": [
+        {
+          "word": "People",
+          "start": 164.06,
+          "end": 164.7
+        },
+        {
+          "word": "play",
+          "start": 164.7,
+          "end": 165.12
+        },
+        {
+          "word": "drums,",
+          "start": 165.12,
+          "end": 165.76
+        },
+        {
+          "word": "guitars,",
+          "start": 166.14,
+          "end": 166.46
+        },
+        {
+          "word": "and",
+          "start": 166.82,
+          "end": 166.92
+        },
+        {
+          "word": "marimbas.",
+          "start": 166.92,
+          "end": 167.84
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 168.02,
+      "end": 172.71,
+      "text": "You can hear music at festivals, restaurants, and on the streets.",
+      "words": [
+        {
+          "word": "You",
+          "start": 168.02,
+          "end": 168.46
+        },
+        {
+          "word": "can",
+          "start": 168.46,
+          "end": 168.72
+        },
+        {
+          "word": "hear",
+          "start": 168.72,
+          "end": 168.92
+        },
+        {
+          "word": "music",
+          "start": 168.92,
+          "end": 169.28
+        },
+        {
+          "word": "at",
+          "start": 169.28,
+          "end": 169.58
+        },
+        {
+          "word": "festivals,",
+          "start": 169.58,
+          "end": 170.3
+        },
+        {
+          "word": "restaurants,",
+          "start": 170.72,
+          "end": 171.24
+        },
+        {
+          "word": "and",
+          "start": 171.54,
+          "end": 171.64
+        },
+        {
+          "word": "on",
+          "start": 171.64,
+          "end": 171.8
+        },
+        {
+          "word": "the",
+          "start": 171.8,
+          "end": 171.94
+        },
+        {
+          "word": "streets.",
+          "start": 171.94,
+          "end": 172.71
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 172.92,
+      "end": 178.04,
+      "text": "Local dances and traditional songs are part of celebrations.",
+      "words": [
+        {
+          "word": "Local",
+          "start": 172.92,
+          "end": 173.78
+        },
+        {
+          "word": "dances",
+          "start": 173.78,
+          "end": 174.38
+        },
+        {
+          "word": "and",
+          "start": 174.38,
+          "end": 174.78
+        },
+        {
+          "word": "traditional",
+          "start": 174.78,
+          "end": 175.32
+        },
+        {
+          "word": "songs",
+          "start": 175.32,
+          "end": 176.1
+        },
+        {
+          "word": "are",
+          "start": 176.1,
+          "end": 176.34
+        },
+        {
+          "word": "part",
+          "start": 176.34,
+          "end": 176.66
+        },
+        {
+          "word": "of",
+          "start": 176.66,
+          "end": 176.86
+        },
+        {
+          "word": "celebrations.",
+          "start": 176.86,
+          "end": 178.04
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 179.24,
+      "end": 180.76,
+      "text": "Part 8.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 179.24,
+          "end": 179.82
+        },
+        {
+          "word": "8.",
+          "start": 179.82,
+          "end": 180.76
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 181.04,
+      "end": 182.7,
+      "text": "Beaches and activities.",
+      "words": [
+        {
+          "word": "Beaches",
+          "start": 181.04,
+          "end": 181.38
+        },
+        {
+          "word": "and",
+          "start": 181.38,
+          "end": 181.72
+        },
+        {
+          "word": "activities.",
+          "start": 181.72,
+          "end": 182.7
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 183.22,
+      "end": 187.4,
+      "text": "The beaches in Placencia are very beautiful.",
+      "words": [
+        {
+          "word": "The",
+          "start": 183.22,
+          "end": 183.94
+        },
+        {
+          "word": "beaches",
+          "start": 183.94,
+          "end": 184.42
+        },
+        {
+          "word": "in",
+          "start": 184.42,
+          "end": 184.86
+        },
+        {
+          "word": "Placencia",
+          "start": 184.86,
+          "end": 185.62
+        },
+        {
+          "word": "are",
+          "start": 185.62,
+          "end": 186.02
+        },
+        {
+          "word": "very",
+          "start": 186.02,
+          "end": 186.44
+        },
+        {
+          "word": "beautiful.",
+          "start": 186.44,
+          "end": 187.4
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 187.86,
+      "end": 193.56,
+      "text": "You can swim, snorkel, dive, or just relax in the sun.",
+      "words": [
+        {
+          "word": "You",
+          "start": 187.86,
+          "end": 188.24
+        },
+        {
+          "word": "can",
+          "start": 188.24,
+          "end": 188.5
+        },
+        {
+          "word": "swim,",
+          "start": 188.5,
+          "end": 189.0
+        },
+        {
+          "word": "snorkel,",
+          "start": 189.58,
+          "end": 190.06
+        },
+        {
+          "word": "dive,",
+          "start": 190.36,
+          "end": 190.78
+        },
+        {
+          "word": "or",
+          "start": 191.24,
+          "end": 191.34
+        },
+        {
+          "word": "just",
+          "start": 191.34,
+          "end": 191.7
+        },
+        {
+          "word": "relax",
+          "start": 191.7,
+          "end": 192.24
+        },
+        {
+          "word": "in",
+          "start": 192.24,
+          "end": 192.62
+        },
+        {
+          "word": "the",
+          "start": 192.62,
+          "end": 192.76
+        },
+        {
+          "word": "sun.",
+          "start": 192.76,
+          "end": 193.56
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 193.88,
+      "end": 199.6,
+      "text": "Visitors can also go fishing or take boat trips to nearby islands.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 193.88,
+          "end": 194.52
+        },
+        {
+          "word": "can",
+          "start": 194.52,
+          "end": 194.9
+        },
+        {
+          "word": "also",
+          "start": 194.9,
+          "end": 195.26
+        },
+        {
+          "word": "go",
+          "start": 195.26,
+          "end": 195.52
+        },
+        {
+          "word": "fishing",
+          "start": 195.52,
+          "end": 196.04
+        },
+        {
+          "word": "or",
+          "start": 196.04,
+          "end": 196.48
+        },
+        {
+          "word": "take",
+          "start": 196.48,
+          "end": 196.78
+        },
+        {
+          "word": "boat",
+          "start": 196.78,
+          "end": 197.16
+        },
+        {
+          "word": "trips",
+          "start": 197.16,
+          "end": 197.66
+        },
+        {
+          "word": "to",
+          "start": 197.66,
+          "end": 198.02
+        },
+        {
+          "word": "nearby",
+          "start": 198.02,
+          "end": 198.48
+        },
+        {
+          "word": "islands.",
+          "start": 198.48,
+          "end": 199.6
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 200.2,
+      "end": 203.38,
+      "text": "Nature and sea life are everywhere.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 200.2,
+          "end": 200.82
+        },
+        {
+          "word": "and",
+          "start": 200.82,
+          "end": 201.36
+        },
+        {
+          "word": "sea",
+          "start": 201.36,
+          "end": 201.72
+        },
+        {
+          "word": "life",
+          "start": 201.72,
+          "end": 202.08
+        },
+        {
+          "word": "are",
+          "start": 202.08,
+          "end": 202.36
+        },
+        {
+          "word": "everywhere.",
+          "start": 202.36,
+          "end": 203.38
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 203.66,
+      "end": 204.94,
+      "text": "Part 9.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 203.66,
+          "end": 203.92
+        },
+        {
+          "word": "9.",
+          "start": 203.92,
+          "end": 204.94
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 205.44,
+      "end": 207.46,
+      "text": "Travel and tourism.",
+      "words": [
+        {
+          "word": "Travel",
+          "start": 205.44,
+          "end": 205.96
+        },
+        {
+          "word": "and",
+          "start": 205.96,
+          "end": 206.4
+        },
+        {
+          "word": "tourism.",
+          "start": 206.4,
+          "end": 207.46
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 208.28,
+      "end": 214.38,
+      "text": "Placencia is small but reachable by plane or car from Belize City.",
+      "words": [
+        {
+          "word": "Placencia",
+          "start": 208.28,
+          "end": 209.12
+        },
+        {
+          "word": "is",
+          "start": 209.12,
+          "end": 209.72
+        },
+        {
+          "word": "small",
+          "start": 209.72,
+          "end": 210.4
+        },
+        {
+          "word": "but",
+          "start": 210.4,
+          "end": 210.66
+        },
+        {
+          "word": "reachable",
+          "start": 210.66,
+          "end": 211.36
+        },
+        {
+          "word": "by",
+          "start": 211.36,
+          "end": 211.64
+        },
+        {
+          "word": "plane",
+          "start": 211.64,
+          "end": 212.12
+        },
+        {
+          "word": "or",
+          "start": 212.12,
+          "end": 212.36
+        },
+        {
+          "word": "car",
+          "start": 212.36,
+          "end": 212.74
+        },
+        {
+          "word": "from",
+          "start": 212.74,
+          "end": 213.12
+        },
+        {
+          "word": "Belize",
+          "start": 213.12,
+          "end": 213.54
+        },
+        {
+          "word": "City.",
+          "start": 213.54,
+          "end": 214.38
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 214.98,
+      "end": 220.28,
+      "text": "Tourists come to enjoy the sea, beaches, and local culture.",
+      "words": [
+        {
+          "word": "Tourists",
+          "start": 214.98,
+          "end": 215.84
+        },
+        {
+          "word": "come",
+          "start": 215.84,
+          "end": 216.14
+        },
+        {
+          "word": "to",
+          "start": 216.14,
+          "end": 216.42
+        },
+        {
+          "word": "enjoy",
+          "start": 216.42,
+          "end": 216.94
+        },
+        {
+          "word": "the",
+          "start": 216.94,
+          "end": 217.18
+        },
+        {
+          "word": "sea,",
+          "start": 217.18,
+          "end": 217.64
+        },
+        {
+          "word": "beaches,",
+          "start": 217.88,
+          "end": 218.32
+        },
+        {
+          "word": "and",
+          "start": 218.68,
+          "end": 218.84
+        },
+        {
+          "word": "local",
+          "start": 218.84,
+          "end": 219.18
+        },
+        {
+          "word": "culture.",
+          "start": 219.18,
+          "end": 220.28
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 220.66,
+      "end": 225.94,
+      "text": "Tourism helps local people earn money and protect nature.",
+      "words": [
+        {
+          "word": "Tourism",
+          "start": 220.66,
+          "end": 221.58
+        },
+        {
+          "word": "helps",
+          "start": 221.58,
+          "end": 221.98
+        },
+        {
+          "word": "local",
+          "start": 221.98,
+          "end": 222.48
+        },
+        {
+          "word": "people",
+          "start": 222.48,
+          "end": 223.02
+        },
+        {
+          "word": "earn",
+          "start": 223.02,
+          "end": 223.5
+        },
+        {
+          "word": "money",
+          "start": 223.5,
+          "end": 224.06
+        },
+        {
+          "word": "and",
+          "start": 224.06,
+          "end": 224.46
+        },
+        {
+          "word": "protect",
+          "start": 224.46,
+          "end": 224.86
+        },
+        {
+          "word": "nature.",
+          "start": 224.86,
+          "end": 225.94
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 226.54,
+      "end": 227.68,
+      "text": "Part 10.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 226.54,
+          "end": 226.7
+        },
+        {
+          "word": "10.",
+          "start": 226.7,
+          "end": 227.68
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 228.36,
+      "end": 230.16,
+      "text": "Daily life in Placencia.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 228.36,
+          "end": 228.36
+        },
+        {
+          "word": "life",
+          "start": 228.36,
+          "end": 228.8
+        },
+        {
+          "word": "in",
+          "start": 228.8,
+          "end": 229.06
+        },
+        {
+          "word": "Placencia.",
+          "start": 229.06,
+          "end": 230.16
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 230.86,
+      "end": 234.28,
+      "text": "Life in Placencia is slow and calm.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 230.86,
+          "end": 231.3
+        },
+        {
+          "word": "in",
+          "start": 231.3,
+          "end": 231.62
+        },
+        {
+          "word": "Placencia",
+          "start": 231.62,
+          "end": 232.32
+        },
+        {
+          "word": "is",
+          "start": 232.32,
+          "end": 232.74
+        },
+        {
+          "word": "slow",
+          "start": 232.74,
+          "end": 233.2
+        },
+        {
+          "word": "and",
+          "start": 233.2,
+          "end": 233.42
+        },
+        {
+          "word": "calm.",
+          "start": 233.42,
+          "end": 234.28
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 234.7,
+      "end": 240.62,
+      "text": "People wake up early, go to work or fishing, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "start": 234.7,
+          "end": 235.12
+        },
+        {
+          "word": "wake",
+          "start": 235.12,
+          "end": 235.44
+        },
+        {
+          "word": "up",
+          "start": 235.44,
+          "end": 235.74
+        },
+        {
+          "word": "early,",
+          "start": 235.74,
+          "end": 236.2
+        },
+        {
+          "word": "go",
+          "start": 236.64,
+          "end": 236.92
+        },
+        {
+          "word": "to",
+          "start": 236.92,
+          "end": 237.08
+        },
+        {
+          "word": "work",
+          "start": 237.08,
+          "end": 237.42
+        },
+        {
+          "word": "or",
+          "start": 237.42,
+          "end": 237.68
+        },
+        {
+          "word": "fishing,",
+          "start": 237.68,
+          "end": 238.12
+        },
+        {
+          "word": "and",
+          "start": 238.44,
+          "end": 238.66
+        },
+        {
+          "word": "spend",
+          "start": 238.66,
+          "end": 238.98
+        },
+        {
+          "word": "time",
+          "start": 238.98,
+          "end": 239.4
+        },
+        {
+          "word": "with",
+          "start": 239.4,
+          "end": 239.68
+        },
+        {
+          "word": "family.",
+          "start": 239.68,
+          "end": 240.62
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 241.48,
+      "end": 246.32,
+      "text": "Children play on the beach and families enjoy the sunset together.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 241.48,
+          "end": 241.76
+        },
+        {
+          "word": "play",
+          "start": 241.76,
+          "end": 242.28
+        },
+        {
+          "word": "on",
+          "start": 242.28,
+          "end": 242.48
+        },
+        {
+          "word": "the",
+          "start": 242.48,
+          "end": 242.64
+        },
+        {
+          "word": "beach",
+          "start": 242.64,
+          "end": 243.0
+        },
+        {
+          "word": "and",
+          "start": 243.0,
+          "end": 243.52
+        },
+        {
+          "word": "families",
+          "start": 243.52,
+          "end": 244.12
+        },
+        {
+          "word": "enjoy",
+          "start": 244.12,
+          "end": 244.6
+        },
+        {
+          "word": "the",
+          "start": 244.6,
+          "end": 244.84
+        },
+        {
+          "word": "sunset",
+          "start": 244.84,
+          "end": 245.3
+        },
+        {
+          "word": "together.",
+          "start": 245.3,
+          "end": 246.32
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 246.88,
+      "end": 251.74,
+      "text": "Life is connected to nature, the sea, and traditions.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 246.88,
+          "end": 247.56
+        },
+        {
+          "word": "is",
+          "start": 247.56,
+          "end": 247.9
+        },
+        {
+          "word": "connected",
+          "start": 247.9,
+          "end": 248.36
+        },
+        {
+          "word": "to",
+          "start": 248.36,
+          "end": 248.78
+        },
+        {
+          "word": "nature,",
+          "start": 248.78,
+          "end": 249.26
+        },
+        {
+          "word": "the",
+          "start": 249.9,
+          "end": 249.98
+        },
+        {
+          "word": "sea,",
+          "start": 249.98,
+          "end": 250.46
+        },
+        {
+          "word": "and",
+          "start": 250.74,
+          "end": 250.8
+        },
+        {
+          "word": "traditions.",
+          "start": 250.8,
+          "end": 251.74
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 252.78,
+      "end": 254.26,
+      "text": "Part 11.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 252.78,
+          "end": 253.26
+        },
+        {
+          "word": "11.",
+          "start": 253.26,
+          "end": 254.26
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 254.52,
+      "end": 256.76,
+      "text": "Why Placencia is special.",
+      "words": [
+        {
+          "word": "Why",
+          "start": 254.52,
+          "end": 254.68
+        },
+        {
+          "word": "Placencia",
+          "start": 254.68,
+          "end": 255.48
+        },
+        {
+          "word": "is",
+          "start": 255.48,
+          "end": 255.86
+        },
+        {
+          "word": "special.",
+          "start": 255.86,
+          "end": 256.76
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 257.52,
+      "end": 265.28,
+      "text": "Placencia is not a famous city, but it is full of warmth, nature, and calm life.",
+      "words": [
+        {
+          "word": "Placencia",
+          "start": 257.52,
+          "end": 258.48
+        },
+        {
+          "word": "is",
+          "start": 258.48,
+          "end": 258.88
+        },
+        {
+          "word": "not",
+          "start": 258.88,
+          "end": 259.2
+        },
+        {
+          "word": "a",
+          "start": 259.2,
+          "end": 259.44
+        },
+        {
+          "word": "famous",
+          "start": 259.44,
+          "end": 259.8
+        },
+        {
+          "word": "city,",
+          "start": 259.8,
+          "end": 260.32
+        },
+        {
+          "word": "but",
+          "start": 260.66,
+          "end": 261.2
+        },
+        {
+          "word": "it",
+          "start": 261.2,
+          "end": 261.32
+        },
+        {
+          "word": "is",
+          "start": 261.32,
+          "end": 261.5
+        },
+        {
+          "word": "full",
+          "start": 261.5,
+          "end": 261.84
+        },
+        {
+          "word": "of",
+          "start": 261.84,
+          "end": 262.04
+        },
+        {
+          "word": "warmth,",
+          "start": 262.04,
+          "end": 262.6
+        },
+        {
+          "word": "nature,",
+          "start": 263.1,
+          "end": 263.38
+        },
+        {
+          "word": "and",
+          "start": 263.92,
+          "end": 264.06
+        },
+        {
+          "word": "calm",
+          "start": 264.06,
+          "end": 264.44
+        },
+        {
+          "word": "life.",
+          "start": 264.44,
+          "end": 265.28
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 265.88,
+      "end": 270.82,
+      "text": "It combines beaches, sea, and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "start": 265.88,
+          "end": 266.16
+        },
+        {
+          "word": "combines",
+          "start": 266.16,
+          "end": 266.68
+        },
+        {
+          "word": "beaches,",
+          "start": 266.68,
+          "end": 267.38
+        },
+        {
+          "word": "sea,",
+          "start": 268.0,
+          "end": 268.58
+        },
+        {
+          "word": "and",
+          "start": 268.9,
+          "end": 269.08
+        },
+        {
+          "word": "friendly",
+          "start": 269.08,
+          "end": 269.54
+        },
+        {
+          "word": "people",
+          "start": 269.54,
+          "end": 270.12
+        },
+        {
+          "word": "beautifully.",
+          "start": 270.12,
+          "end": 270.82
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 270.82,
+      "end": 276.76,
       "text": "Visitors feel relaxed, happy, and peaceful here.",
       "words": [
         {
           "word": "Visitors",
-          "startSec": 270.61,
-          "endSec": 272.25,
-          "score": 0.0
+          "start": 270.82,
+          "end": 272.48
         },
         {
           "word": "feel",
-          "startSec": 272.25,
-          "endSec": 272.79,
-          "score": 0.99
+          "start": 272.48,
+          "end": 272.86
         },
         {
           "word": "relaxed,",
-          "startSec": 272.79,
-          "endSec": 273.57,
-          "score": 1.0
+          "start": 272.86,
+          "end": 273.78
         },
         {
           "word": "happy,",
-          "startSec": 273.57,
-          "endSec": 274.35,
-          "score": 1.0
+          "start": 274.16,
+          "end": 274.62
         },
         {
           "word": "and",
-          "startSec": 275.19,
-          "endSec": 275.19,
-          "score": 0.98
+          "start": 275.14,
+          "end": 275.24
         },
         {
           "word": "peaceful",
-          "startSec": 275.19,
-          "endSec": 275.75,
-          "score": 0.99
+          "start": 275.24,
+          "end": 275.86
         },
         {
           "word": "here.",
-          "startSec": 275.75,
-          "endSec": 276.31,
-          "score": 0.97
+          "start": 275.86,
+          "end": 276.76
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 277.22,
+      "end": 281.13,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 277.22,
+          "end": 277.44
+        },
+        {
+          "word": "you",
+          "start": 277.44,
+          "end": 277.74
+        },
+        {
+          "word": "for",
+          "start": 277.74,
+          "end": 278.0
+        },
+        {
+          "word": "listening",
+          "start": 278.0,
+          "end": 278.52
+        },
+        {
+          "word": "to",
+          "start": 278.52,
+          "end": 278.88
+        },
+        {
+          "word": "the",
+          "start": 278.88,
+          "end": 279.06
+        },
+        {
+          "word": "Slow",
+          "start": 279.06,
+          "end": 279.44
+        },
+        {
+          "word": "English",
+          "start": 279.44,
+          "end": 279.88
+        },
+        {
+          "word": "Podcast.",
+          "start": 279.88,
+          "end": 281.13
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 66
 }

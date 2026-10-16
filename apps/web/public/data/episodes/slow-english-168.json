@@ -15,4405 +15,3694 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 6.45,
-      "text": "English podcast. My name is Emily. I am happy you are here today.",
+      "start": 8.54,
+      "end": 11.74,
+      "text": "Today we will talk about Uzbekistan.",
       "words": [
         {
-          "word": "English",
-          "startSec": 0.0,
-          "endSec": 0.2,
-          "score": 0.38
+          "word": "Today",
+          "start": 8.54,
+          "end": 9.0
         },
         {
-          "word": "podcast.",
-          "startSec": 0.2,
-          "endSec": 0.62,
-          "score": 0.8
+          "word": "we",
+          "start": 9.0,
+          "end": 9.48
         },
         {
-          "word": "My",
-          "startSec": 1.74,
-          "endSec": 2.16,
-          "score": 0.98
+          "word": "will",
+          "start": 9.48,
+          "end": 9.68
         },
         {
-          "word": "name",
-          "startSec": 2.16,
-          "endSec": 2.36,
-          "score": 1.0
+          "word": "talk",
+          "start": 9.68,
+          "end": 10.02
         },
         {
-          "word": "is",
-          "startSec": 2.36,
-          "endSec": 2.68,
-          "score": 1.0
+          "word": "about",
+          "start": 10.02,
+          "end": 10.36
         },
         {
-          "word": "Emily.",
-          "startSec": 2.68,
-          "endSec": 2.98,
-          "score": 0.48
-        },
-        {
-          "word": "I",
-          "startSec": 3.56,
-          "endSec": 3.76,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 3.76,
-          "endSec": 3.96,
-          "score": 0.94
-        },
-        {
-          "word": "happy",
-          "startSec": 3.96,
-          "endSec": 4.32,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 4.32,
-          "endSec": 4.66,
-          "score": 0.97
-        },
-        {
-          "word": "are",
-          "startSec": 4.66,
-          "endSec": 4.84,
-          "score": 0.99
-        },
-        {
-          "word": "here",
-          "startSec": 4.84,
-          "endSec": 5.12,
-          "score": 1.0
-        },
-        {
-          "word": "today.",
-          "startSec": 5.12,
-          "endSec": 6.3,
-          "score": 0.12
+          "word": "Uzbekistan.",
+          "start": 10.36,
+          "end": 11.74
         }
       ]
     },
     {
       "id": 2,
-      "start": 6.68,
-      "end": 13.37,
-      "text": "We will talk about Uzbekistan. Uzbekistan is a country with old cities,",
+      "start": 12.44,
+      "end": 19.74,
+      "text": "Uzbekistan is a country with old cities, mountains, and strong traditions in Central Asia.",
       "words": [
         {
-          "word": "We",
-          "startSec": 6.88,
-          "endSec": 7.44,
-          "score": 0.99
-        },
-        {
-          "word": "will",
-          "startSec": 7.44,
-          "endSec": 7.7,
-          "score": 1.0
-        },
-        {
-          "word": "talk",
-          "startSec": 7.7,
-          "endSec": 7.94,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 7.94,
-          "endSec": 8.32,
-          "score": 1.0
-        },
-        {
-          "word": "Uzbekistan.",
-          "startSec": 8.32,
-          "endSec": 9.24,
-          "score": 1.0
-        },
-        {
           "word": "Uzbekistan",
-          "startSec": 10.3,
-          "endSec": 11.06,
-          "score": 1.0
+          "start": 12.44,
+          "end": 13.12
         },
         {
           "word": "is",
-          "startSec": 11.06,
-          "endSec": 11.42,
-          "score": 0.99
+          "start": 13.12,
+          "end": 13.46
         },
         {
           "word": "a",
-          "startSec": 11.42,
-          "endSec": 11.56,
-          "score": 1.0
+          "start": 13.46,
+          "end": 13.6
         },
         {
           "word": "country",
-          "startSec": 11.56,
-          "endSec": 11.98,
-          "score": 1.0
+          "start": 13.6,
+          "end": 14.04
         },
         {
           "word": "with",
-          "startSec": 11.98,
-          "endSec": 12.34,
-          "score": 1.0
+          "start": 14.04,
+          "end": 14.4
         },
         {
           "word": "old",
-          "startSec": 12.34,
-          "endSec": 12.64,
-          "score": 0.91
+          "start": 14.4,
+          "end": 14.74
         },
         {
           "word": "cities,",
-          "startSec": 12.64,
-          "endSec": 13.22,
-          "score": 1.0
+          "start": 14.74,
+          "end": 15.2
+        },
+        {
+          "word": "mountains,",
+          "start": 15.72,
+          "end": 16.0
+        },
+        {
+          "word": "and",
+          "start": 16.5,
+          "end": 16.62
+        },
+        {
+          "word": "strong",
+          "start": 16.62,
+          "end": 17.14
+        },
+        {
+          "word": "traditions",
+          "start": 17.14,
+          "end": 17.92
+        },
+        {
+          "word": "in",
+          "start": 17.92,
+          "end": 18.44
+        },
+        {
+          "word": "Central",
+          "start": 18.44,
+          "end": 18.88
+        },
+        {
+          "word": "Asia.",
+          "start": 18.88,
+          "end": 19.74
         }
       ]
     },
     {
       "id": 3,
-      "start": 13.02,
-      "end": 17.45,
-      "text": "mountains and strong traditions in Central Asia.",
+      "start": 20.16,
+      "end": 23.48,
+      "text": "Let's learn about it in slow and easy English.",
       "words": [
         {
-          "word": "mountains",
-          "startSec": 13.22,
-          "endSec": 13.92,
-          "score": 1.0
+          "word": "Let's",
+          "start": 20.16,
+          "end": 20.7
         },
         {
-          "word": "and",
-          "startSec": 13.92,
-          "endSec": 14.58,
-          "score": 0.57
+          "word": "learn",
+          "start": 20.7,
+          "end": 20.92
         },
         {
-          "word": "strong",
-          "startSec": 14.58,
-          "endSec": 15.06,
-          "score": 1.0
+          "word": "about",
+          "start": 20.92,
+          "end": 21.22
         },
         {
-          "word": "traditions",
-          "startSec": 15.06,
-          "endSec": 15.74,
-          "score": 1.0
+          "word": "it",
+          "start": 21.22,
+          "end": 21.44
         },
         {
           "word": "in",
-          "startSec": 15.74,
-          "endSec": 16.4,
-          "score": 0.96
+          "start": 21.44,
+          "end": 21.68
         },
         {
-          "word": "Central",
-          "startSec": 16.4,
-          "endSec": 16.82,
-          "score": 0.84
+          "word": "slow",
+          "start": 21.68,
+          "end": 22.08
         },
         {
-          "word": "Asia.",
-          "startSec": 16.82,
-          "endSec": 17.3,
-          "score": 1.0
+          "word": "and",
+          "start": 22.08,
+          "end": 22.34
+        },
+        {
+          "word": "easy",
+          "start": 22.34,
+          "end": 22.64
+        },
+        {
+          "word": "English.",
+          "start": 22.64,
+          "end": 23.48
         }
       ]
     },
     {
       "id": 4,
-      "start": 17.72,
-      "end": 21.25,
-      "text": "Let's learn about it in slow and easy English.",
+      "start": 27.24,
+      "end": 29.16,
+      "text": "Where is Uzbekistan?",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 17.92,
-          "endSec": 18.68,
-          "score": 1.0
+          "word": "Where",
+          "start": 27.24,
+          "end": 27.56
         },
         {
-          "word": "learn",
-          "startSec": 18.68,
-          "endSec": 18.88,
-          "score": 1.0
+          "word": "is",
+          "start": 27.56,
+          "end": 27.82
         },
         {
-          "word": "about",
-          "startSec": 18.88,
-          "endSec": 19.22,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 19.22,
-          "endSec": 19.46,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 19.46,
-          "endSec": 19.66,
-          "score": 0.71
-        },
-        {
-          "word": "slow",
-          "startSec": 19.66,
-          "endSec": 20.0,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 20.0,
-          "endSec": 20.32,
-          "score": 0.99
-        },
-        {
-          "word": "easy",
-          "startSec": 20.32,
-          "endSec": 20.56,
-          "score": 1.0
-        },
-        {
-          "word": "English.",
-          "startSec": 20.56,
-          "endSec": 21.1,
-          "score": 0.96
+          "word": "Uzbekistan?",
+          "start": 27.82,
+          "end": 29.16
         }
       ]
     },
     {
       "id": 5,
-      "start": 21.56,
-      "end": 24.19,
-      "text": "Are you ready? Let's begin.",
+      "start": 29.64,
+      "end": 32.58,
+      "text": "Uzbekistan is in Central Asia.",
       "words": [
         {
-          "word": "Are",
-          "startSec": 21.76,
-          "endSec": 22.0,
-          "score": 0.99
+          "word": "Uzbekistan",
+          "start": 29.64,
+          "end": 30.6
         },
         {
-          "word": "you",
-          "startSec": 22.0,
-          "endSec": 22.16,
-          "score": 1.0
+          "word": "is",
+          "start": 30.6,
+          "end": 31.04
         },
         {
-          "word": "ready?",
-          "startSec": 22.16,
-          "endSec": 22.42,
-          "score": 1.0
+          "word": "in",
+          "start": 31.04,
+          "end": 31.26
         },
         {
-          "word": "Let's",
-          "startSec": 23.48,
-          "endSec": 23.66,
-          "score": 1.0
+          "word": "Central",
+          "start": 31.26,
+          "end": 31.72
         },
         {
-          "word": "begin.",
-          "startSec": 23.66,
-          "endSec": 24.04,
-          "score": 1.0
+          "word": "Asia.",
+          "start": 31.72,
+          "end": 32.58
         }
       ]
     },
     {
       "id": 6,
-      "start": 24.98,
-      "end": 26.79,
-      "text": "Where is Uzbekistan?",
+      "start": 33.2,
+      "end": 41.44,
+      "text": "It is next to Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, and Turkmenistan.",
       "words": [
         {
-          "word": "Where",
-          "startSec": 25.18,
-          "endSec": 25.56,
-          "score": 0.98
+          "word": "It",
+          "start": 33.2,
+          "end": 33.34
         },
         {
           "word": "is",
-          "startSec": 25.56,
-          "endSec": 25.84,
-          "score": 0.98
+          "start": 33.34,
+          "end": 33.56
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 25.84,
-          "endSec": 26.64,
-          "score": 1.0
+          "word": "next",
+          "start": 33.56,
+          "end": 33.9
+        },
+        {
+          "word": "to",
+          "start": 33.9,
+          "end": 34.2
+        },
+        {
+          "word": "Kazakhstan,",
+          "start": 34.2,
+          "end": 34.86
+        },
+        {
+          "word": "Kyrgyzstan,",
+          "start": 35.86,
+          "end": 36.8
+        },
+        {
+          "word": "Tajikistan,",
+          "start": 37.42,
+          "end": 38.34
+        },
+        {
+          "word": "Afghanistan,",
+          "start": 38.78,
+          "end": 39.34
+        },
+        {
+          "word": "and",
+          "start": 40.1,
+          "end": 40.2
+        },
+        {
+          "word": "Turkmenistan.",
+          "start": 40.2,
+          "end": 41.44
         }
       ]
     },
     {
       "id": 7,
-      "start": 27.52,
-      "end": 30.29,
-      "text": "Uzbekistan is in Central Asia.",
+      "start": 42.02,
+      "end": 48.02,
+      "text": "It has no sea, but it has rivers, deserts, and mountains.",
       "words": [
         {
-          "word": "Uzbekistan",
-          "startSec": 27.72,
-          "endSec": 28.44,
-          "score": 1.0
+          "word": "It",
+          "start": 42.02,
+          "end": 42.52
         },
         {
-          "word": "is",
-          "startSec": 28.44,
-          "endSec": 28.96,
-          "score": 0.99
+          "word": "has",
+          "start": 42.52,
+          "end": 42.82
         },
         {
-          "word": "in",
-          "startSec": 28.96,
-          "endSec": 29.22,
-          "score": 1.0
+          "word": "no",
+          "start": 42.82,
+          "end": 43.2
         },
         {
-          "word": "Central",
-          "startSec": 29.22,
-          "endSec": 29.68,
-          "score": 0.96
+          "word": "sea,",
+          "start": 43.2,
+          "end": 43.74
         },
         {
-          "word": "Asia.",
-          "startSec": 29.68,
-          "endSec": 30.14,
-          "score": 1.0
+          "word": "but",
+          "start": 44.34,
+          "end": 44.62
+        },
+        {
+          "word": "it",
+          "start": 44.62,
+          "end": 44.78
+        },
+        {
+          "word": "has",
+          "start": 44.78,
+          "end": 45.08
+        },
+        {
+          "word": "rivers,",
+          "start": 45.08,
+          "end": 45.58
+        },
+        {
+          "word": "deserts,",
+          "start": 46.24,
+          "end": 47.0
+        },
+        {
+          "word": "and",
+          "start": 47.0,
+          "end": 47.14
+        },
+        {
+          "word": "mountains.",
+          "start": 47.14,
+          "end": 48.02
         }
       ]
     },
     {
       "id": 8,
-      "start": 30.54,
-      "end": 39.19,
-      "text": "It is next to Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan and Turkmenistan.",
+      "start": 48.56,
+      "end": 52.0,
+      "text": "What is the capital city of Uzbekistan?",
       "words": [
         {
-          "word": "It",
-          "startSec": 30.74,
-          "endSec": 31.34,
-          "score": 0.67
+          "word": "What",
+          "start": 48.56,
+          "end": 49.0
         },
         {
           "word": "is",
-          "startSec": 31.34,
-          "endSec": 31.56,
-          "score": 0.98
+          "start": 49.0,
+          "end": 49.18
         },
         {
-          "word": "next",
-          "startSec": 31.56,
-          "endSec": 31.82,
-          "score": 0.99
+          "word": "the",
+          "start": 49.18,
+          "end": 49.34
         },
         {
-          "word": "to",
-          "startSec": 31.82,
-          "endSec": 32.18,
-          "score": 0.99
+          "word": "capital",
+          "start": 49.34,
+          "end": 49.8
         },
         {
-          "word": "Kazakhstan,",
-          "startSec": 32.18,
-          "endSec": 32.58,
-          "score": 0.99
+          "word": "city",
+          "start": 49.8,
+          "end": 50.34
         },
         {
-          "word": "Kyrgyzstan,",
-          "startSec": 33.66,
-          "endSec": 34.62,
-          "score": 0.99
+          "word": "of",
+          "start": 50.34,
+          "end": 50.64
         },
         {
-          "word": "Tajikistan,",
-          "startSec": 35.3,
-          "endSec": 36.1,
-          "score": 0.99
-        },
-        {
-          "word": "Afghanistan",
-          "startSec": 36.68,
-          "endSec": 37.24,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 37.24,
-          "endSec": 38.16,
-          "score": 0.33
-        },
-        {
-          "word": "Turkmenistan.",
-          "startSec": 38.16,
-          "endSec": 39.04,
-          "score": 0.92
+          "word": "Uzbekistan?",
+          "start": 50.64,
+          "end": 52.0
         }
       ]
     },
     {
       "id": 9,
-      "start": 39.74,
-      "end": 45.61,
-      "text": "It has no sea, but it has rivers, deserts and mountains.",
+      "start": 52.68,
+      "end": 55.72,
+      "text": "The capital city is Tashkent.",
       "words": [
         {
-          "word": "It",
-          "startSec": 39.94,
-          "endSec": 40.5,
-          "score": 0.99
+          "word": "The",
+          "start": 52.68,
+          "end": 53.02
         },
         {
-          "word": "has",
-          "startSec": 40.5,
-          "endSec": 40.76,
-          "score": 1.0
+          "word": "capital",
+          "start": 53.02,
+          "end": 53.52
         },
         {
-          "word": "no",
-          "startSec": 40.76,
-          "endSec": 41.12,
-          "score": 0.98
+          "word": "city",
+          "start": 53.52,
+          "end": 54.06
         },
         {
-          "word": "sea,",
-          "startSec": 41.12,
-          "endSec": 41.54,
-          "score": 0.96
+          "word": "is",
+          "start": 54.06,
+          "end": 54.52
         },
         {
-          "word": "but",
-          "startSec": 42.34,
-          "endSec": 42.6,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 42.6,
-          "endSec": 42.74,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 42.74,
-          "endSec": 43.04,
-          "score": 1.0
-        },
-        {
-          "word": "rivers,",
-          "startSec": 43.04,
-          "endSec": 43.46,
-          "score": 1.0
-        },
-        {
-          "word": "deserts",
-          "startSec": 44.12,
-          "endSec": 44.48,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 44.48,
-          "endSec": 45.1,
-          "score": 0.75
-        },
-        {
-          "word": "mountains.",
-          "startSec": 45.1,
-          "endSec": 45.46,
-          "score": 1.0
+          "word": "Tashkent.",
+          "start": 54.52,
+          "end": 55.72
         }
       ]
     },
     {
       "id": 10,
-      "start": 46.63,
-      "end": 49.62,
-      "text": "What is the capital city of Uzbekistan?",
+      "start": 56.2,
+      "end": 59.04,
+      "text": "Tashkent is a big and modern city.",
       "words": [
         {
-          "word": "What",
-          "startSec": 46.83,
-          "endSec": 46.97,
-          "score": 0.99
+          "word": "Tashkent",
+          "start": 56.2,
+          "end": 56.84
         },
         {
           "word": "is",
-          "startSec": 46.97,
-          "endSec": 47.15,
-          "score": 1.0
+          "start": 56.84,
+          "end": 57.06
         },
         {
-          "word": "the",
-          "startSec": 47.15,
-          "endSec": 47.33,
-          "score": 1.0
+          "word": "a",
+          "start": 57.06,
+          "end": 57.26
         },
         {
-          "word": "capital",
-          "startSec": 47.33,
-          "endSec": 47.77,
-          "score": 0.98
+          "word": "big",
+          "start": 57.26,
+          "end": 57.52
         },
         {
-          "word": "city",
-          "startSec": 47.77,
-          "endSec": 48.25,
-          "score": 1.0
+          "word": "and",
+          "start": 57.52,
+          "end": 57.72
         },
         {
-          "word": "of",
-          "startSec": 48.25,
-          "endSec": 48.63,
-          "score": 1.0
+          "word": "modern",
+          "start": 57.72,
+          "end": 58.16
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 48.63,
-          "endSec": 49.47,
-          "score": 1.0
+          "word": "city.",
+          "start": 58.16,
+          "end": 59.04
         }
       ]
     },
     {
       "id": 11,
-      "start": 50.38,
-      "end": 53.45,
-      "text": "The capital city is Tashkent.",
+      "start": 59.4,
+      "end": 64.08,
+      "text": "It has parks, markets, mosques, and museums.",
       "words": [
         {
-          "word": "The",
-          "startSec": 50.58,
-          "endSec": 51.02,
-          "score": 0.99
+          "word": "It",
+          "start": 59.4,
+          "end": 59.72
         },
         {
-          "word": "capital",
-          "startSec": 51.02,
-          "endSec": 51.28,
-          "score": 0.98
+          "word": "has",
+          "start": 59.72,
+          "end": 59.98
         },
         {
-          "word": "city",
-          "startSec": 51.28,
-          "endSec": 52.1,
-          "score": 0.99
+          "word": "parks,",
+          "start": 59.98,
+          "end": 60.64
         },
         {
-          "word": "is",
-          "startSec": 52.1,
-          "endSec": 52.48,
-          "score": 1.0
+          "word": "markets,",
+          "start": 61.04,
+          "end": 61.6
         },
         {
-          "word": "Tashkent.",
-          "startSec": 52.48,
-          "endSec": 53.3,
-          "score": 0.84
+          "word": "mosques,",
+          "start": 62.14,
+          "end": 62.7
+        },
+        {
+          "word": "and",
+          "start": 63.04,
+          "end": 63.16
+        },
+        {
+          "word": "museums.",
+          "start": 63.16,
+          "end": 64.08
         }
       ]
     },
     {
       "id": 12,
-      "start": 53.74,
-      "end": 56.75,
-      "text": "Tashkent is a big and modern city.",
+      "start": 64.9,
+      "end": 72.78,
+      "text": "Other important cities are Samarkand, famous for blue buildings and ancient history.",
       "words": [
         {
-          "word": "Tashkent",
-          "startSec": 53.94,
-          "endSec": 54.82,
-          "score": 0.99
+          "word": "Other",
+          "start": 64.9,
+          "end": 65.26
         },
         {
-          "word": "is",
-          "startSec": 54.82,
-          "endSec": 55.02,
-          "score": 1.0
+          "word": "important",
+          "start": 65.26,
+          "end": 65.84
         },
         {
-          "word": "a",
-          "startSec": 55.02,
-          "endSec": 55.22,
-          "score": 0.99
+          "word": "cities",
+          "start": 65.84,
+          "end": 66.28
         },
         {
-          "word": "big",
-          "startSec": 55.22,
-          "endSec": 55.48,
-          "score": 1.0
+          "word": "are",
+          "start": 66.28,
+          "end": 66.8
+        },
+        {
+          "word": "Samarkand,",
+          "start": 66.8,
+          "end": 68.56
+        },
+        {
+          "word": "famous",
+          "start": 68.74,
+          "end": 69.5
+        },
+        {
+          "word": "for",
+          "start": 69.5,
+          "end": 69.86
+        },
+        {
+          "word": "blue",
+          "start": 69.86,
+          "end": 70.24
+        },
+        {
+          "word": "buildings",
+          "start": 70.24,
+          "end": 70.78
         },
         {
           "word": "and",
-          "startSec": 55.48,
-          "endSec": 55.7,
-          "score": 0.94
+          "start": 70.78,
+          "end": 71.24
         },
         {
-          "word": "modern",
-          "startSec": 55.7,
-          "endSec": 56.02,
-          "score": 1.0
+          "word": "ancient",
+          "start": 71.24,
+          "end": 71.68
         },
         {
-          "word": "city.",
-          "startSec": 56.02,
-          "endSec": 56.6,
-          "score": 1.0
+          "word": "history.",
+          "start": 71.68,
+          "end": 72.78
         }
       ]
     },
     {
       "id": 13,
-      "start": 57.07,
-      "end": 61.57,
-      "text": "It has parks, markets, mosques and museums.",
+      "start": 73.28,
+      "end": 78.3,
+      "text": "Bukhara, an old silk road city with many mosques.",
       "words": [
         {
-          "word": "It",
-          "startSec": 57.27,
-          "endSec": 57.68,
-          "score": 0.53
+          "word": "Bukhara,",
+          "start": 73.28,
+          "end": 74.04
         },
         {
-          "word": "has",
-          "startSec": 57.68,
-          "endSec": 57.92,
-          "score": 0.98
+          "word": "an",
+          "start": 74.5,
+          "end": 74.7
         },
         {
-          "word": "parks,",
-          "startSec": 57.92,
-          "endSec": 58.34,
-          "score": 0.95
+          "word": "old",
+          "start": 74.7,
+          "end": 75.04
         },
         {
-          "word": "markets,",
-          "startSec": 58.56,
-          "endSec": 59.56,
-          "score": 1.0
+          "word": "silk",
+          "start": 75.04,
+          "end": 75.42
         },
         {
-          "word": "mosques",
-          "startSec": 60.1,
-          "endSec": 60.4,
-          "score": 0.99
+          "word": "road",
+          "start": 75.42,
+          "end": 75.88
         },
         {
-          "word": "and",
-          "startSec": 60.4,
-          "endSec": 61.1,
-          "score": 0.42
+          "word": "city",
+          "start": 75.88,
+          "end": 76.38
         },
         {
-          "word": "museums.",
-          "startSec": 61.1,
-          "endSec": 61.42,
-          "score": 0.99
+          "word": "with",
+          "start": 76.38,
+          "end": 76.84
+        },
+        {
+          "word": "many",
+          "start": 76.84,
+          "end": 77.22
+        },
+        {
+          "word": "mosques.",
+          "start": 77.22,
+          "end": 78.3
         }
       ]
     },
     {
       "id": 14,
-      "start": 62.73,
-      "end": 70.58,
-      "text": "Other important cities are Samarkand, famous for blue buildings in ancient history.",
+      "start": 78.76,
+      "end": 82.6,
+      "text": "Kiva, a beautiful walled city in the desert.",
       "words": [
         {
-          "word": "Other",
-          "startSec": 62.93,
-          "endSec": 63.25,
-          "score": 0.98
+          "word": "Kiva,",
+          "start": 78.76,
+          "end": 79.48
         },
         {
-          "word": "important",
-          "startSec": 63.25,
-          "endSec": 63.65,
-          "score": 1.0
+          "word": "a",
+          "start": 79.82,
+          "end": 79.92
         },
         {
-          "word": "cities",
-          "startSec": 63.65,
-          "endSec": 64.33,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 79.92,
+          "end": 80.4
         },
         {
-          "word": "are",
-          "startSec": 64.33,
-          "endSec": 64.73,
-          "score": 0.99
+          "word": "walled",
+          "start": 80.4,
+          "end": 81.16
         },
         {
-          "word": "Samarkand,",
-          "startSec": 64.73,
-          "endSec": 66.39,
-          "score": 0.72
-        },
-        {
-          "word": "famous",
-          "startSec": 66.79,
-          "endSec": 67.53,
-          "score": 0.97
-        },
-        {
-          "word": "for",
-          "startSec": 67.53,
-          "endSec": 67.87,
-          "score": 1.0
-        },
-        {
-          "word": "blue",
-          "startSec": 67.87,
-          "endSec": 68.15,
-          "score": 0.84
-        },
-        {
-          "word": "buildings",
-          "startSec": 68.15,
-          "endSec": 68.75,
-          "score": 1.0
+          "word": "city",
+          "start": 81.16,
+          "end": 81.36
         },
         {
           "word": "in",
-          "startSec": 68.75,
-          "endSec": 69.19,
-          "score": 0.61
+          "start": 81.36,
+          "end": 81.62
         },
         {
-          "word": "ancient",
-          "startSec": 69.19,
-          "endSec": 69.53,
-          "score": 0.99
+          "word": "the",
+          "start": 81.62,
+          "end": 81.76
         },
         {
-          "word": "history.",
-          "startSec": 69.53,
-          "endSec": 70.43,
-          "score": 1.0
+          "word": "desert.",
+          "start": 81.76,
+          "end": 82.6
         }
       ]
     },
     {
       "id": 15,
-      "start": 71.05,
-      "end": 75.78,
-      "text": "Bukhara, an old silk road city with many mosques,",
+      "start": 83.24,
+      "end": 86.64,
+      "text": "Andijan, a busy city in the east.",
       "words": [
         {
-          "word": "Bukhara,",
-          "startSec": 71.25,
-          "endSec": 71.95,
-          "score": 0.86
+          "word": "Andijan,",
+          "start": 83.24,
+          "end": 84.12
         },
         {
-          "word": "an",
-          "startSec": 72.59,
-          "endSec": 72.65,
-          "score": 0.99
+          "word": "a",
+          "start": 84.36,
+          "end": 84.52
         },
         {
-          "word": "old",
-          "startSec": 72.65,
-          "endSec": 73.01,
-          "score": 0.97
-        },
-        {
-          "word": "silk",
-          "startSec": 73.01,
-          "endSec": 73.37,
-          "score": 0.72
-        },
-        {
-          "word": "road",
-          "startSec": 73.37,
-          "endSec": 73.77,
-          "score": 0.79
+          "word": "busy",
+          "start": 84.52,
+          "end": 84.92
         },
         {
           "word": "city",
-          "startSec": 73.77,
-          "endSec": 74.29,
-          "score": 0.99
+          "start": 84.92,
+          "end": 85.36
         },
         {
-          "word": "with",
-          "startSec": 74.29,
-          "endSec": 74.81,
-          "score": 0.95
+          "word": "in",
+          "start": 85.36,
+          "end": 85.62
         },
         {
-          "word": "many",
-          "startSec": 74.81,
-          "endSec": 75.11,
-          "score": 0.99
+          "word": "the",
+          "start": 85.62,
+          "end": 85.76
         },
         {
-          "word": "mosques,",
-          "startSec": 75.11,
-          "endSec": 75.63,
-          "score": 1.0
+          "word": "east.",
+          "start": 85.76,
+          "end": 86.64
         }
       ]
     },
     {
       "id": 16,
-      "start": 76.78,
-      "end": 80.29,
-      "text": "Kiva, a beautiful walled city in the desert,",
+      "start": 87.24,
+      "end": 89.94,
+      "text": "How many people live in Uzbekistan?",
       "words": [
         {
-          "word": "Kiva,",
-          "startSec": 76.98,
-          "endSec": 77.46,
-          "score": 0.73
+          "word": "How",
+          "start": 87.24,
+          "end": 87.4
         },
         {
-          "word": "a",
-          "startSec": 77.84,
-          "endSec": 77.9,
-          "score": 0.99
+          "word": "many",
+          "start": 87.4,
+          "end": 87.66
         },
         {
-          "word": "beautiful",
-          "startSec": 77.9,
-          "endSec": 78.36,
-          "score": 1.0
+          "word": "people",
+          "start": 87.66,
+          "end": 88.12
         },
         {
-          "word": "walled",
-          "startSec": 78.36,
-          "endSec": 79.04,
-          "score": 0.92
-        },
-        {
-          "word": "city",
-          "startSec": 79.04,
-          "endSec": 79.3,
-          "score": 0.99
+          "word": "live",
+          "start": 88.12,
+          "end": 88.52
         },
         {
           "word": "in",
-          "startSec": 79.3,
-          "endSec": 79.6,
-          "score": 0.98
+          "start": 88.52,
+          "end": 88.68
         },
         {
-          "word": "the",
-          "startSec": 79.6,
-          "endSec": 79.74,
-          "score": 1.0
-        },
-        {
-          "word": "desert,",
-          "startSec": 79.74,
-          "endSec": 80.14,
-          "score": 0.98
+          "word": "Uzbekistan?",
+          "start": 88.68,
+          "end": 89.94
         }
       ]
     },
     {
       "id": 17,
-      "start": 81.24,
-      "end": 84.31,
-      "text": "Andijan, a busy city in the east.",
+      "start": 90.34,
+      "end": 94.72,
+      "text": "About 36 million people live in Uzbekistan.",
       "words": [
         {
-          "word": "Andijan,",
-          "startSec": 81.44,
-          "endSec": 82.06,
-          "score": 0.61
+          "word": "About",
+          "start": 90.34,
+          "end": 90.7
         },
         {
-          "word": "a",
-          "startSec": 82.38,
-          "endSec": 82.5,
-          "score": 1.0
+          "word": "36",
+          "start": 90.7,
+          "end": 91.58
         },
         {
-          "word": "busy",
-          "startSec": 82.5,
-          "endSec": 82.74,
-          "score": 1.0
+          "word": "million",
+          "start": 91.58,
+          "end": 92.16
         },
         {
-          "word": "city",
-          "startSec": 82.74,
-          "endSec": 83.32,
-          "score": 1.0
+          "word": "people",
+          "start": 92.16,
+          "end": 92.7
+        },
+        {
+          "word": "live",
+          "start": 92.7,
+          "end": 93.12
         },
         {
           "word": "in",
-          "startSec": 83.32,
-          "endSec": 83.6,
-          "score": 1.0
+          "start": 93.12,
+          "end": 93.3
         },
         {
-          "word": "the",
-          "startSec": 83.6,
-          "endSec": 83.74,
-          "score": 1.0
-        },
-        {
-          "word": "east.",
-          "startSec": 83.74,
-          "endSec": 84.16,
-          "score": 0.86
+          "word": "Uzbekistan.",
+          "start": 93.3,
+          "end": 94.72
         }
       ]
     },
     {
       "id": 18,
-      "start": 84.76,
-      "end": 87.73,
-      "text": "How many people live in Uzbekistan?",
+      "start": 95.06,
+      "end": 99.2,
+      "text": "It is the most populated country in Central Asia.",
       "words": [
         {
-          "word": "How",
-          "startSec": 84.96,
-          "endSec": 85.4,
-          "score": 0.35
+          "word": "It",
+          "start": 95.06,
+          "end": 95.38
         },
         {
-          "word": "many",
-          "startSec": 85.4,
-          "endSec": 85.6,
-          "score": 0.97
+          "word": "is",
+          "start": 95.38,
+          "end": 95.58
         },
         {
-          "word": "people",
-          "startSec": 85.6,
-          "endSec": 86.1,
-          "score": 0.98
+          "word": "the",
+          "start": 95.58,
+          "end": 95.76
         },
         {
-          "word": "live",
-          "startSec": 86.1,
-          "endSec": 86.46,
-          "score": 0.99
+          "word": "most",
+          "start": 95.76,
+          "end": 96.04
+        },
+        {
+          "word": "populated",
+          "start": 96.04,
+          "end": 96.78
+        },
+        {
+          "word": "country",
+          "start": 96.78,
+          "end": 97.5
         },
         {
           "word": "in",
-          "startSec": 86.46,
-          "endSec": 86.68,
-          "score": 1.0
+          "start": 97.5,
+          "end": 97.82
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 86.68,
-          "endSec": 87.58,
-          "score": 1.0
+          "word": "Central",
+          "start": 97.82,
+          "end": 98.26
+        },
+        {
+          "word": "Asia.",
+          "start": 98.26,
+          "end": 99.2
         }
       ]
     },
     {
       "id": 19,
-      "start": 88.28,
-      "end": 92.39,
-      "text": "About 36 million people live in Uzbekistan.",
+      "start": 99.72,
+      "end": 105.3,
+      "text": "Many people live in cities, but also in villages and farms.",
       "words": [
         {
-          "word": "About",
-          "startSec": 88.48,
-          "endSec": 88.6,
-          "score": 0.75
-        },
-        {
-          "word": "36",
-          "startSec": 88.6,
-          "endSec": 89.3,
-          "score": 0.98
-        },
-        {
-          "word": "million",
-          "startSec": 89.3,
-          "endSec": 90.06,
-          "score": 0.98
+          "word": "Many",
+          "start": 99.72,
+          "end": 100.38
         },
         {
           "word": "people",
-          "startSec": 90.06,
-          "endSec": 90.7,
-          "score": 0.98
+          "start": 100.38,
+          "end": 100.86
         },
         {
           "word": "live",
-          "startSec": 90.7,
-          "endSec": 91.04,
-          "score": 0.98
+          "start": 100.86,
+          "end": 101.18
         },
         {
           "word": "in",
-          "startSec": 91.04,
-          "endSec": 91.3,
-          "score": 1.0
+          "start": 101.18,
+          "end": 101.38
         },
         {
-          "word": "Uzbekistan.",
-          "startSec": 91.3,
-          "endSec": 92.24,
-          "score": 1.0
+          "word": "cities,",
+          "start": 101.38,
+          "end": 101.88
+        },
+        {
+          "word": "but",
+          "start": 102.4,
+          "end": 102.58
+        },
+        {
+          "word": "also",
+          "start": 102.58,
+          "end": 103.1
+        },
+        {
+          "word": "in",
+          "start": 103.1,
+          "end": 103.42
+        },
+        {
+          "word": "villages",
+          "start": 103.42,
+          "end": 103.86
+        },
+        {
+          "word": "and",
+          "start": 103.86,
+          "end": 104.38
+        },
+        {
+          "word": "farms.",
+          "start": 104.38,
+          "end": 105.3
         }
       ]
     },
     {
       "id": 20,
-      "start": 92.94,
-      "end": 96.85,
-      "text": "It is the most populated country in Central Asia.",
+      "start": 106.08,
+      "end": 109.78,
+      "text": "What language do people speak in Uzbekistan?",
       "words": [
         {
-          "word": "It",
-          "startSec": 93.14,
-          "endSec": 93.38,
-          "score": 0.98
+          "word": "What",
+          "start": 106.08,
+          "end": 106.74
         },
         {
-          "word": "is",
-          "startSec": 93.38,
-          "endSec": 93.56,
-          "score": 0.98
+          "word": "language",
+          "start": 106.74,
+          "end": 107.2
         },
         {
-          "word": "the",
-          "startSec": 93.56,
-          "endSec": 93.74,
-          "score": 1.0
+          "word": "do",
+          "start": 107.2,
+          "end": 107.54
         },
         {
-          "word": "most",
-          "startSec": 93.74,
-          "endSec": 94.0,
-          "score": 1.0
+          "word": "people",
+          "start": 107.54,
+          "end": 107.84
         },
         {
-          "word": "populated",
-          "startSec": 94.0,
-          "endSec": 94.74,
-          "score": 0.99
-        },
-        {
-          "word": "country",
-          "startSec": 94.74,
-          "endSec": 95.32,
-          "score": 1.0
+          "word": "speak",
+          "start": 107.84,
+          "end": 108.22
         },
         {
           "word": "in",
-          "startSec": 95.32,
-          "endSec": 95.8,
-          "score": 0.99
+          "start": 108.22,
+          "end": 108.5
         },
         {
-          "word": "Central",
-          "startSec": 95.8,
-          "endSec": 96.22,
-          "score": 0.82
-        },
-        {
-          "word": "Asia.",
-          "startSec": 96.22,
-          "endSec": 96.7,
-          "score": 1.0
+          "word": "Uzbekistan?",
+          "start": 108.5,
+          "end": 109.78
         }
       ]
     },
     {
       "id": 21,
-      "start": 97.78,
-      "end": 102.87,
-      "text": "Many people live in cities, but also in villages and farms.",
+      "start": 110.38,
+      "end": 113.58,
+      "text": "The official language is Uzbek.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 97.98,
-          "endSec": 98.28,
-          "score": 0.99
+          "word": "The",
+          "start": 110.38,
+          "end": 111.0
         },
         {
-          "word": "people",
-          "startSec": 98.28,
-          "endSec": 98.84,
-          "score": 0.99
+          "word": "official",
+          "start": 111.0,
+          "end": 111.48
         },
         {
-          "word": "live",
-          "startSec": 98.84,
-          "endSec": 99.14,
-          "score": 0.99
+          "word": "language",
+          "start": 111.48,
+          "end": 112.08
         },
         {
-          "word": "in",
-          "startSec": 99.14,
-          "endSec": 99.36,
-          "score": 1.0
+          "word": "is",
+          "start": 112.08,
+          "end": 112.46
         },
         {
-          "word": "cities,",
-          "startSec": 99.36,
-          "endSec": 99.8,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 100.44,
-          "endSec": 100.58,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 100.58,
-          "endSec": 100.88,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 100.88,
-          "endSec": 101.32,
-          "score": 0.99
-        },
-        {
-          "word": "villages",
-          "startSec": 101.32,
-          "endSec": 101.82,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 101.82,
-          "endSec": 102.36,
-          "score": 0.99
-        },
-        {
-          "word": "farms.",
-          "startSec": 102.36,
-          "endSec": 102.72,
-          "score": 1.0
+          "word": "Uzbek.",
+          "start": 112.46,
+          "end": 113.58
         }
       ]
     },
     {
       "id": 22,
-      "start": 104.29,
-      "end": 107.48,
-      "text": "What language do people speak in Uzbekistan?",
+      "start": 114.16,
+      "end": 118.9,
+      "text": "Many people also speak Russian, especially in big cities.",
       "words": [
         {
-          "word": "What",
-          "startSec": 104.49,
-          "endSec": 104.71,
-          "score": 0.98
-        },
-        {
-          "word": "language",
-          "startSec": 104.71,
-          "endSec": 105.19,
-          "score": 1.0
-        },
-        {
-          "word": "do",
-          "startSec": 105.19,
-          "endSec": 105.53,
-          "score": 1.0
+          "word": "Many",
+          "start": 114.16,
+          "end": 114.54
         },
         {
           "word": "people",
-          "startSec": 105.53,
-          "endSec": 105.75,
-          "score": 0.99
+          "start": 114.54,
+          "end": 114.96
+        },
+        {
+          "word": "also",
+          "start": 114.96,
+          "end": 115.54
         },
         {
           "word": "speak",
-          "startSec": 105.75,
-          "endSec": 106.23,
-          "score": 1.0
+          "start": 115.54,
+          "end": 115.98
+        },
+        {
+          "word": "Russian,",
+          "start": 115.98,
+          "end": 116.56
+        },
+        {
+          "word": "especially",
+          "start": 116.84,
+          "end": 117.46
         },
         {
           "word": "in",
-          "startSec": 106.23,
-          "endSec": 106.49,
-          "score": 0.99
+          "start": 117.46,
+          "end": 117.82
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 106.49,
-          "endSec": 107.33,
-          "score": 1.0
+          "word": "big",
+          "start": 117.82,
+          "end": 118.02
+        },
+        {
+          "word": "cities.",
+          "start": 118.02,
+          "end": 118.9
         }
       ]
     },
     {
       "id": 23,
-      "start": 108.5,
-      "end": 110.95,
-      "text": "The official language is Uzbek.",
+      "start": 119.34,
+      "end": 124.56,
+      "text": "Some people speak Tajik, Karakalpak, and English in schools.",
       "words": [
         {
-          "word": "The",
-          "startSec": 108.7,
-          "endSec": 109.0,
-          "score": 0.97
+          "word": "Some",
+          "start": 119.34,
+          "end": 119.7
         },
         {
-          "word": "official",
-          "startSec": 109.0,
-          "endSec": 109.3,
-          "score": 0.99
+          "word": "people",
+          "start": 119.7,
+          "end": 120.04
         },
         {
-          "word": "language",
-          "startSec": 109.3,
-          "endSec": 110.04,
-          "score": 1.0
+          "word": "speak",
+          "start": 120.04,
+          "end": 120.52
         },
         {
-          "word": "is",
-          "startSec": 110.04,
-          "endSec": 110.4,
-          "score": 1.0
+          "word": "Tajik,",
+          "start": 120.52,
+          "end": 121.32
         },
         {
-          "word": "Uzbek.",
-          "startSec": 110.4,
-          "endSec": 110.8,
-          "score": 0.91
+          "word": "Karakalpak,",
+          "start": 121.72,
+          "end": 122.44
+        },
+        {
+          "word": "and",
+          "start": 122.74,
+          "end": 122.84
+        },
+        {
+          "word": "English",
+          "start": 122.84,
+          "end": 123.38
+        },
+        {
+          "word": "in",
+          "start": 123.38,
+          "end": 123.76
+        },
+        {
+          "word": "schools.",
+          "start": 123.76,
+          "end": 124.56
         }
       ]
     },
     {
       "id": 24,
-      "start": 110.6,
-      "end": 116.53,
-      "text": "Many people also speak Russian, especially in big cities.",
+      "start": 125.48,
+      "end": 128.6,
+      "text": "What is the weather like in Uzbekistan?",
       "words": [
         {
-          "word": "Many",
-          "startSec": 110.8,
-          "endSec": 111.56,
-          "score": 0.0
+          "word": "What",
+          "start": 125.48,
+          "end": 125.9
         },
         {
-          "word": "people",
-          "startSec": 111.62,
-          "endSec": 112.96,
-          "score": 0.93
+          "word": "is",
+          "start": 125.9,
+          "end": 126.08
         },
         {
-          "word": "also",
-          "startSec": 112.96,
-          "endSec": 113.32,
-          "score": 0.93
+          "word": "the",
+          "start": 126.08,
+          "end": 126.26
         },
         {
-          "word": "speak",
-          "startSec": 113.32,
-          "endSec": 113.96,
-          "score": 1.0
+          "word": "weather",
+          "start": 126.26,
+          "end": 126.56
         },
         {
-          "word": "Russian,",
-          "startSec": 113.96,
-          "endSec": 114.34,
-          "score": 0.99
-        },
-        {
-          "word": "especially",
-          "startSec": 114.94,
-          "endSec": 115.28,
-          "score": 0.99
+          "word": "like",
+          "start": 126.56,
+          "end": 126.98
         },
         {
           "word": "in",
-          "startSec": 115.28,
-          "endSec": 115.8,
-          "score": 1.0
+          "start": 126.98,
+          "end": 127.26
         },
         {
-          "word": "big",
-          "startSec": 115.8,
-          "endSec": 115.98,
-          "score": 0.98
-        },
-        {
-          "word": "cities.",
-          "startSec": 115.98,
-          "endSec": 116.38,
-          "score": 1.0
+          "word": "Uzbekistan?",
+          "start": 127.26,
+          "end": 128.6
         }
       ]
     },
     {
       "id": 25,
-      "start": 117.24,
-      "end": 122.23,
-      "text": "Some people speak Tajik, Karakal Pak and English in schools.",
+      "start": 129.7,
+      "end": 133.44,
+      "text": "Uzbekistan has a dry continental climate.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 117.44,
-          "endSec": 117.62,
-          "score": 0.75
+          "word": "Uzbekistan",
+          "start": 129.7,
+          "end": 130.58
         },
         {
-          "word": "people",
-          "startSec": 117.62,
-          "endSec": 117.96,
-          "score": 0.99
+          "word": "has",
+          "start": 130.58,
+          "end": 130.92
         },
         {
-          "word": "speak",
-          "startSec": 117.96,
-          "endSec": 118.46,
-          "score": 1.0
+          "word": "a",
+          "start": 130.92,
+          "end": 131.14
         },
         {
-          "word": "Tajik,",
-          "startSec": 118.46,
-          "endSec": 119.2,
-          "score": 0.87
+          "word": "dry",
+          "start": 131.14,
+          "end": 131.6
         },
         {
-          "word": "Karakal",
-          "startSec": 119.68,
-          "endSec": 120.14,
-          "score": 0.72
+          "word": "continental",
+          "start": 131.6,
+          "end": 132.3
         },
         {
-          "word": "Pak",
-          "startSec": 120.14,
-          "endSec": 120.32,
-          "score": 0.21
-        },
-        {
-          "word": "and",
-          "startSec": 120.32,
-          "endSec": 120.8,
-          "score": 0.5
-        },
-        {
-          "word": "English",
-          "startSec": 120.8,
-          "endSec": 121.32,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 121.32,
-          "endSec": 121.7,
-          "score": 0.98
-        },
-        {
-          "word": "schools.",
-          "startSec": 121.7,
-          "endSec": 122.08,
-          "score": 0.97
+          "word": "climate.",
+          "start": 132.3,
+          "end": 133.44
         }
       ]
     },
     {
       "id": 26,
-      "start": 123.33,
-      "end": 126.42,
-      "text": "What is the weather like in Uzbekistan?",
+      "start": 133.66,
+      "end": 136.14,
+      "text": "Hot summers, very dry and sunny.",
       "words": [
         {
-          "word": "What",
-          "startSec": 123.53,
-          "endSec": 123.87,
-          "score": 0.9
+          "word": "Hot",
+          "start": 133.66,
+          "end": 133.9
         },
         {
-          "word": "is",
-          "startSec": 123.87,
-          "endSec": 124.05,
-          "score": 0.99
+          "word": "summers,",
+          "start": 133.9,
+          "end": 134.36
         },
         {
-          "word": "the",
-          "startSec": 124.05,
-          "endSec": 124.23,
-          "score": 0.99
+          "word": "very",
+          "start": 134.72,
+          "end": 134.98
         },
         {
-          "word": "weather",
-          "startSec": 124.23,
-          "endSec": 124.49,
-          "score": 1.0
+          "word": "dry",
+          "start": 134.98,
+          "end": 135.42
         },
         {
-          "word": "like",
-          "startSec": 124.49,
-          "endSec": 124.99,
-          "score": 1.0
+          "word": "and",
+          "start": 135.42,
+          "end": 135.66
         },
         {
-          "word": "in",
-          "startSec": 124.99,
-          "endSec": 125.25,
-          "score": 1.0
-        },
-        {
-          "word": "Uzbekistan?",
-          "startSec": 125.25,
-          "endSec": 126.27,
-          "score": 1.0
+          "word": "sunny.",
+          "start": 135.66,
+          "end": 136.14
         }
       ]
     },
     {
       "id": 27,
-      "start": 127.26,
-      "end": 134.09,
-      "text": "Uzbekistan has a dry continental climate, hot summers, very dry and sunny.",
+      "start": 136.14,
+      "end": 139.4,
+      "text": "Cold winters with some snow.",
       "words": [
         {
-          "word": "Uzbekistan",
-          "startSec": 127.46,
-          "endSec": 128.36,
-          "score": 1.0
+          "word": "Cold",
+          "start": 136.14,
+          "end": 137.18
         },
         {
-          "word": "has",
-          "startSec": 128.36,
-          "endSec": 128.86,
-          "score": 1.0
+          "word": "winters",
+          "start": 137.18,
+          "end": 137.92
         },
         {
-          "word": "a",
-          "startSec": 128.86,
-          "endSec": 129.12,
-          "score": 0.99
+          "word": "with",
+          "start": 137.92,
+          "end": 138.2
         },
         {
-          "word": "dry",
-          "startSec": 129.12,
-          "endSec": 129.44,
-          "score": 1.0
+          "word": "some",
+          "start": 138.2,
+          "end": 138.48
         },
         {
-          "word": "continental",
-          "startSec": 129.44,
-          "endSec": 130.14,
-          "score": 0.84
-        },
-        {
-          "word": "climate,",
-          "startSec": 130.14,
-          "endSec": 130.98,
-          "score": 1.0
-        },
-        {
-          "word": "hot",
-          "startSec": 131.74,
-          "endSec": 131.82,
-          "score": 0.99
-        },
-        {
-          "word": "summers,",
-          "startSec": 131.82,
-          "endSec": 132.34,
-          "score": 0.98
-        },
-        {
-          "word": "very",
-          "startSec": 132.82,
-          "endSec": 132.98,
-          "score": 0.99
-        },
-        {
-          "word": "dry",
-          "startSec": 132.98,
-          "endSec": 133.32,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 133.32,
-          "endSec": 133.66,
-          "score": 0.97
-        },
-        {
-          "word": "sunny.",
-          "startSec": 133.66,
-          "endSec": 133.94,
-          "score": 1.0
+          "word": "snow.",
+          "start": 138.48,
+          "end": 139.4
         }
       ]
     },
     {
       "id": 28,
-      "start": 134.96,
-      "end": 137.05,
-      "text": "Cold winters with some snow.",
+      "start": 139.72,
+      "end": 142.64,
+      "text": "Spring and autumn, short and nice.",
       "words": [
         {
-          "word": "Cold",
-          "startSec": 135.16,
-          "endSec": 135.16,
-          "score": 0.97
+          "word": "Spring",
+          "start": 139.72,
+          "end": 140.34
         },
         {
-          "word": "winters",
-          "startSec": 135.16,
-          "endSec": 135.52,
-          "score": 1.0
+          "word": "and",
+          "start": 140.34,
+          "end": 140.62
         },
         {
-          "word": "with",
-          "startSec": 135.52,
-          "endSec": 136.16,
-          "score": 0.95
+          "word": "autumn,",
+          "start": 140.62,
+          "end": 141.06
         },
         {
-          "word": "some",
-          "startSec": 136.16,
-          "endSec": 136.44,
-          "score": 1.0
+          "word": "short",
+          "start": 141.36,
+          "end": 141.58
         },
         {
-          "word": "snow.",
-          "startSec": 136.44,
-          "endSec": 136.9,
-          "score": 1.0
+          "word": "and",
+          "start": 141.58,
+          "end": 141.86
+        },
+        {
+          "word": "nice.",
+          "start": 141.86,
+          "end": 142.64
         }
       ]
     },
     {
       "id": 29,
-      "start": 137.67,
-      "end": 140.28,
-      "text": "Spring and autumn, short and nice.",
+      "start": 143.32,
+      "end": 147.18,
+      "text": "Rain is rare, especially in the desert areas.",
       "words": [
         {
-          "word": "Spring",
-          "startSec": 137.87,
-          "endSec": 138.31,
-          "score": 0.96
+          "word": "Rain",
+          "start": 143.32,
+          "end": 143.66
         },
         {
-          "word": "and",
-          "startSec": 138.31,
-          "endSec": 138.57,
-          "score": 0.93
+          "word": "is",
+          "start": 143.66,
+          "end": 143.98
         },
         {
-          "word": "autumn,",
-          "startSec": 138.57,
-          "endSec": 138.97,
-          "score": 0.97
+          "word": "rare,",
+          "start": 143.98,
+          "end": 144.34
         },
         {
-          "word": "short",
-          "startSec": 138.97,
-          "endSec": 139.49,
-          "score": 0.99
+          "word": "especially",
+          "start": 144.56,
+          "end": 145.12
         },
         {
-          "word": "and",
-          "startSec": 139.49,
-          "endSec": 139.83,
-          "score": 0.95
+          "word": "in",
+          "start": 145.12,
+          "end": 145.6
         },
         {
-          "word": "nice.",
-          "startSec": 139.83,
-          "endSec": 140.13,
-          "score": 0.99
+          "word": "the",
+          "start": 145.6,
+          "end": 145.76
+        },
+        {
+          "word": "desert",
+          "start": 145.76,
+          "end": 146.16
+        },
+        {
+          "word": "areas.",
+          "start": 146.16,
+          "end": 147.18
         }
       ]
     },
     {
       "id": 30,
-      "start": 140.96,
-      "end": 144.85,
-      "text": "Rain is rare, especially in the desert areas.",
+      "start": 148.0,
+      "end": 150.62,
+      "text": "What does Uzbekistan look like?",
       "words": [
         {
-          "word": "Rain",
-          "startSec": 141.16,
-          "endSec": 141.62,
-          "score": 0.12
+          "word": "What",
+          "start": 148.0,
+          "end": 148.22
         },
         {
-          "word": "is",
-          "startSec": 141.62,
-          "endSec": 141.94,
-          "score": 0.99
+          "word": "does",
+          "start": 148.22,
+          "end": 148.54
         },
         {
-          "word": "rare,",
-          "startSec": 141.94,
-          "endSec": 142.2,
-          "score": 0.99
+          "word": "Uzbekistan",
+          "start": 148.54,
+          "end": 149.46
         },
         {
-          "word": "especially",
-          "startSec": 142.6,
-          "endSec": 142.92,
-          "score": 1.0
+          "word": "look",
+          "start": 149.46,
+          "end": 149.8
         },
         {
-          "word": "in",
-          "startSec": 142.92,
-          "endSec": 143.6,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 143.6,
-          "endSec": 143.74,
-          "score": 0.98
-        },
-        {
-          "word": "desert",
-          "startSec": 143.74,
-          "endSec": 144.14,
-          "score": 0.97
-        },
-        {
-          "word": "areas.",
-          "startSec": 144.14,
-          "endSec": 144.7,
-          "score": 0.98
+          "word": "like?",
+          "start": 149.8,
+          "end": 150.62
         }
       ]
     },
     {
       "id": 31,
-      "start": 145.77,
-      "end": 148.38,
-      "text": "What does Uzbekistan look like?",
+      "start": 151.36,
+      "end": 158.56,
+      "text": "Uzbekistan has mountains in the east, deserts and plains in the west.",
       "words": [
         {
-          "word": "What",
-          "startSec": 145.97,
-          "endSec": 146.17,
-          "score": 0.94
-        },
-        {
-          "word": "does",
-          "startSec": 146.17,
-          "endSec": 146.47,
-          "score": 0.98
-        },
-        {
           "word": "Uzbekistan",
-          "startSec": 146.47,
-          "endSec": 147.35,
-          "score": 1.0
+          "start": 151.36,
+          "end": 152.22
         },
         {
-          "word": "look",
-          "startSec": 147.35,
-          "endSec": 147.75,
-          "score": 0.98
+          "word": "has",
+          "start": 152.22,
+          "end": 152.62
         },
         {
-          "word": "like?",
-          "startSec": 147.75,
-          "endSec": 148.23,
-          "score": 1.0
+          "word": "mountains",
+          "start": 152.62,
+          "end": 154.0
+        },
+        {
+          "word": "in",
+          "start": 154.0,
+          "end": 154.54
+        },
+        {
+          "word": "the",
+          "start": 154.54,
+          "end": 154.7
+        },
+        {
+          "word": "east,",
+          "start": 154.7,
+          "end": 155.28
+        },
+        {
+          "word": "deserts",
+          "start": 156.1,
+          "end": 156.54
+        },
+        {
+          "word": "and",
+          "start": 156.54,
+          "end": 156.66
+        },
+        {
+          "word": "plains",
+          "start": 156.66,
+          "end": 157.08
+        },
+        {
+          "word": "in",
+          "start": 157.08,
+          "end": 157.46
+        },
+        {
+          "word": "the",
+          "start": 157.46,
+          "end": 157.62
+        },
+        {
+          "word": "west.",
+          "start": 157.62,
+          "end": 158.56
         }
       ]
     },
     {
       "id": 32,
-      "start": 149.01,
-      "end": 156.06,
-      "text": "Uzbekistan has mountains in the east, deserts and plains in the west.",
+      "start": 159.16,
+      "end": 162.46,
+      "text": "The Amudaria and Sirdaria rivers.",
       "words": [
         {
-          "word": "Uzbekistan",
-          "startSec": 149.21,
-          "endSec": 150.01,
-          "score": 1.0
+          "word": "The",
+          "start": 159.16,
+          "end": 159.38
         },
         {
-          "word": "has",
-          "startSec": 150.01,
-          "endSec": 150.57,
-          "score": 0.99
-        },
-        {
-          "word": "mountains",
-          "startSec": 150.57,
-          "endSec": 151.83,
-          "score": 0.96
-        },
-        {
-          "word": "in",
-          "startSec": 151.83,
-          "endSec": 152.49,
-          "score": 0.92
-        },
-        {
-          "word": "the",
-          "startSec": 152.49,
-          "endSec": 152.67,
-          "score": 1.0
-        },
-        {
-          "word": "east,",
-          "startSec": 152.67,
-          "endSec": 153.21,
-          "score": 0.76
-        },
-        {
-          "word": "deserts",
-          "startSec": 154.01,
-          "endSec": 154.17,
-          "score": 0.99
+          "word": "Amudaria",
+          "start": 159.38,
+          "end": 160.38
         },
         {
           "word": "and",
-          "startSec": 154.17,
-          "endSec": 154.65,
-          "score": 0.54
+          "start": 160.38,
+          "end": 160.72
         },
         {
-          "word": "plains",
-          "startSec": 154.65,
-          "endSec": 155.03,
-          "score": 0.99
+          "word": "Sirdaria",
+          "start": 160.72,
+          "end": 161.62
         },
         {
-          "word": "in",
-          "startSec": 155.03,
-          "endSec": 155.43,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 155.43,
-          "endSec": 155.59,
-          "score": 1.0
-        },
-        {
-          "word": "west.",
-          "startSec": 155.59,
-          "endSec": 155.91,
-          "score": 0.93
+          "word": "rivers.",
+          "start": 161.62,
+          "end": 162.46
         }
       ]
     },
     {
       "id": 33,
-      "start": 156.98,
-      "end": 160.15,
-      "text": "The Amudarya and Sirdarya rivers.",
+      "start": 163.0,
+      "end": 167.2,
+      "text": "Beautiful historic cities with colorful buildings.",
       "words": [
         {
-          "word": "The",
-          "startSec": 157.18,
-          "endSec": 157.36,
-          "score": 0.96
+          "word": "Beautiful",
+          "start": 163.0,
+          "end": 163.9
         },
         {
-          "word": "Amudarya",
-          "startSec": 157.36,
-          "endSec": 158.18,
-          "score": 0.58
+          "word": "historic",
+          "start": 163.9,
+          "end": 164.48
         },
         {
-          "word": "and",
-          "startSec": 158.18,
-          "endSec": 158.7,
-          "score": 0.97
+          "word": "cities",
+          "start": 164.48,
+          "end": 165.3
         },
         {
-          "word": "Sirdarya",
-          "startSec": 158.7,
-          "endSec": 159.64,
-          "score": 0.56
+          "word": "with",
+          "start": 165.3,
+          "end": 165.62
         },
         {
-          "word": "rivers.",
-          "startSec": 159.64,
-          "endSec": 160.0,
-          "score": 0.85
+          "word": "colorful",
+          "start": 165.62,
+          "end": 166.14
+        },
+        {
+          "word": "buildings.",
+          "start": 166.14,
+          "end": 167.2
         }
       ]
     },
     {
       "id": 34,
-      "start": 160.97,
-      "end": 164.86,
-      "text": "Beautiful historic cities with colorful buildings.",
+      "start": 167.6,
+      "end": 171.76,
+      "text": "It was an important stop on the Silk Road long ago.",
       "words": [
         {
-          "word": "Beautiful",
-          "startSec": 161.17,
-          "endSec": 161.97,
-          "score": 0.99
+          "word": "It",
+          "start": 167.6,
+          "end": 167.98
         },
         {
-          "word": "historic",
-          "startSec": 161.97,
-          "endSec": 162.31,
-          "score": 0.96
+          "word": "was",
+          "start": 167.98,
+          "end": 168.22
         },
         {
-          "word": "cities",
-          "startSec": 162.31,
-          "endSec": 163.25,
-          "score": 0.99
+          "word": "an",
+          "start": 168.22,
+          "end": 168.38
         },
         {
-          "word": "with",
-          "startSec": 163.25,
-          "endSec": 163.59,
-          "score": 0.97
+          "word": "important",
+          "start": 168.38,
+          "end": 168.82
         },
         {
-          "word": "colorful",
-          "startSec": 163.59,
-          "endSec": 163.93,
-          "score": 0.98
+          "word": "stop",
+          "start": 168.82,
+          "end": 169.28
         },
         {
-          "word": "buildings.",
-          "startSec": 163.93,
-          "endSec": 164.71,
-          "score": 1.0
+          "word": "on",
+          "start": 169.28,
+          "end": 169.56
+        },
+        {
+          "word": "the",
+          "start": 169.56,
+          "end": 169.7
+        },
+        {
+          "word": "Silk",
+          "start": 169.7,
+          "end": 170.02
+        },
+        {
+          "word": "Road",
+          "start": 170.02,
+          "end": 170.42
+        },
+        {
+          "word": "long",
+          "start": 170.42,
+          "end": 170.82
+        },
+        {
+          "word": "ago.",
+          "start": 170.82,
+          "end": 171.76
         }
       ]
     },
     {
       "id": 35,
-      "start": 165.51,
-      "end": 169.62,
-      "text": "It was an important stop on the Silk Road long ago.",
+      "start": 172.12,
+      "end": 174.66,
+      "text": "What animals live in Uzbekistan?",
       "words": [
         {
-          "word": "It",
-          "startSec": 165.71,
-          "endSec": 165.99,
-          "score": 0.99
+          "word": "What",
+          "start": 172.12,
+          "end": 172.48
         },
         {
-          "word": "was",
-          "startSec": 165.99,
-          "endSec": 166.17,
-          "score": 1.0
+          "word": "animals",
+          "start": 172.48,
+          "end": 172.92
         },
         {
-          "word": "an",
-          "startSec": 166.17,
-          "endSec": 166.35,
-          "score": 0.99
+          "word": "live",
+          "start": 172.92,
+          "end": 173.3
         },
         {
-          "word": "important",
-          "startSec": 166.35,
-          "endSec": 166.67,
-          "score": 1.0
+          "word": "in",
+          "start": 173.3,
+          "end": 173.4
         },
         {
-          "word": "stop",
-          "startSec": 166.67,
-          "endSec": 167.25,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 167.25,
-          "endSec": 167.53,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 167.53,
-          "endSec": 167.67,
-          "score": 0.98
-        },
-        {
-          "word": "Silk",
-          "startSec": 167.67,
-          "endSec": 167.91,
-          "score": 0.95
-        },
-        {
-          "word": "Road",
-          "startSec": 167.91,
-          "endSec": 168.35,
-          "score": 0.97
-        },
-        {
-          "word": "long",
-          "startSec": 168.35,
-          "endSec": 168.73,
-          "score": 0.97
-        },
-        {
-          "word": "ago.",
-          "startSec": 168.73,
-          "endSec": 169.47,
-          "score": 1.0
+          "word": "Uzbekistan?",
+          "start": 173.4,
+          "end": 174.66
         }
       ]
     },
     {
       "id": 36,
-      "start": 169.27,
-      "end": 172.4,
-      "text": "What animals live in Uzbekistan?",
+      "start": 174.88,
+      "end": 192.74,
+      "text": "In Uzbekistan, you can see wolves, foxes and wild cats, horses, sheep and camels, birds like eagles, falcons and owls, lizards, snakes and insects in the desert.",
       "words": [
         {
-          "word": "What",
-          "startSec": 169.47,
-          "endSec": 170.43,
-          "score": 0.3
+          "word": "In",
+          "start": 174.88,
+          "end": 175.16
         },
         {
-          "word": "animals",
-          "startSec": 170.43,
-          "endSec": 170.91,
-          "score": 0.94
+          "word": "Uzbekistan,",
+          "start": 175.16,
+          "end": 176.24
         },
         {
-          "word": "live",
-          "startSec": 170.91,
-          "endSec": 171.29,
-          "score": 0.98
+          "word": "you",
+          "start": 176.7,
+          "end": 176.78
+        },
+        {
+          "word": "can",
+          "start": 176.78,
+          "end": 177.02
+        },
+        {
+          "word": "see",
+          "start": 177.02,
+          "end": 177.4
+        },
+        {
+          "word": "wolves,",
+          "start": 177.4,
+          "end": 178.18
+        },
+        {
+          "word": "foxes",
+          "start": 178.66,
+          "end": 179.42
+        },
+        {
+          "word": "and",
+          "start": 179.42,
+          "end": 179.6
+        },
+        {
+          "word": "wild",
+          "start": 179.6,
+          "end": 179.94
+        },
+        {
+          "word": "cats,",
+          "start": 179.94,
+          "end": 180.44
+        },
+        {
+          "word": "horses,",
+          "start": 181.16,
+          "end": 181.78
+        },
+        {
+          "word": "sheep",
+          "start": 182.22,
+          "end": 182.56
+        },
+        {
+          "word": "and",
+          "start": 182.56,
+          "end": 182.92
+        },
+        {
+          "word": "camels,",
+          "start": 182.92,
+          "end": 183.37
+        },
+        {
+          "word": "birds",
+          "start": 184.3,
+          "end": 184.92
+        },
+        {
+          "word": "like",
+          "start": 184.92,
+          "end": 185.26
+        },
+        {
+          "word": "eagles,",
+          "start": 185.26,
+          "end": 185.84
+        },
+        {
+          "word": "falcons",
+          "start": 186.2,
+          "end": 186.76
+        },
+        {
+          "word": "and",
+          "start": 186.76,
+          "end": 187.12
+        },
+        {
+          "word": "owls,",
+          "start": 187.12,
+          "end": 188.04
+        },
+        {
+          "word": "lizards,",
+          "start": 188.04,
+          "end": 189.38
+        },
+        {
+          "word": "snakes",
+          "start": 189.9,
+          "end": 190.08
+        },
+        {
+          "word": "and",
+          "start": 190.08,
+          "end": 190.5
+        },
+        {
+          "word": "insects",
+          "start": 190.5,
+          "end": 191.24
         },
         {
           "word": "in",
-          "startSec": 171.29,
-          "endSec": 171.41,
-          "score": 0.99
+          "start": 191.24,
+          "end": 191.72
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 171.41,
-          "endSec": 172.25,
-          "score": 0.94
+          "word": "the",
+          "start": 191.72,
+          "end": 191.86
+        },
+        {
+          "word": "desert.",
+          "start": 191.86,
+          "end": 192.74
         }
       ]
     },
     {
       "id": 37,
-      "start": 172.87,
-      "end": 190.42,
-      "text": "In Uzbekistan, you can see wolves, foxes and wild cats, horses, sheep and camels, birds like eagles, falcons and owls, lizards, snakes and insects in the desert.",
+      "start": 193.22,
+      "end": 199.04,
+      "text": "Some animals live in mountains, others in plains or dry lands.",
       "words": [
         {
-          "word": "In",
-          "startSec": 173.07,
-          "endSec": 173.15,
-          "score": 0.94
+          "word": "Some",
+          "start": 193.22,
+          "end": 193.76
         },
         {
-          "word": "Uzbekistan,",
-          "startSec": 173.15,
-          "endSec": 174.17,
-          "score": 1.0
+          "word": "animals",
+          "start": 193.76,
+          "end": 194.42
         },
         {
-          "word": "you",
-          "startSec": 174.73,
-          "endSec": 174.77,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 174.77,
-          "endSec": 174.95,
-          "score": 0.99
-        },
-        {
-          "word": "see",
-          "startSec": 174.95,
-          "endSec": 175.33,
-          "score": 0.99
-        },
-        {
-          "word": "wolves,",
-          "startSec": 175.33,
-          "endSec": 176.09,
-          "score": 0.99
-        },
-        {
-          "word": "foxes",
-          "startSec": 176.67,
-          "endSec": 177.35,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 177.35,
-          "endSec": 177.57,
-          "score": 0.39
-        },
-        {
-          "word": "wild",
-          "startSec": 177.57,
-          "endSec": 177.81,
-          "score": 0.99
-        },
-        {
-          "word": "cats,",
-          "startSec": 177.81,
-          "endSec": 178.37,
-          "score": 0.95
-        },
-        {
-          "word": "horses,",
-          "startSec": 179.31,
-          "endSec": 179.79,
-          "score": 0.99
-        },
-        {
-          "word": "sheep",
-          "startSec": 180.21,
-          "endSec": 180.49,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 180.49,
-          "endSec": 180.85,
-          "score": 0.8
-        },
-        {
-          "word": "camels,",
-          "startSec": 180.85,
-          "endSec": 181.55,
-          "score": 0.97
-        },
-        {
-          "word": "birds",
-          "startSec": 182.07,
-          "endSec": 182.73,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 182.73,
-          "endSec": 183.23,
-          "score": 0.98
-        },
-        {
-          "word": "eagles,",
-          "startSec": 183.23,
-          "endSec": 183.77,
-          "score": 0.96
-        },
-        {
-          "word": "falcons",
-          "startSec": 184.23,
-          "endSec": 184.67,
-          "score": 0.95
-        },
-        {
-          "word": "and",
-          "startSec": 184.67,
-          "endSec": 185.07,
-          "score": 0.81
-        },
-        {
-          "word": "owls,",
-          "startSec": 185.07,
-          "endSec": 185.95,
-          "score": 0.99
-        },
-        {
-          "word": "lizards,",
-          "startSec": 186.33,
-          "endSec": 187.09,
-          "score": 0.99
-        },
-        {
-          "word": "snakes",
-          "startSec": 187.97,
-          "endSec": 187.97,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 187.97,
-          "endSec": 188.49,
-          "score": 0.88
-        },
-        {
-          "word": "insects",
-          "startSec": 188.49,
-          "endSec": 189.09,
-          "score": 0.99
+          "word": "live",
+          "start": 194.42,
+          "end": 194.9
         },
         {
           "word": "in",
-          "startSec": 189.09,
-          "endSec": 189.69,
-          "score": 0.98
+          "start": 194.9,
+          "end": 195.14
         },
         {
-          "word": "the",
-          "startSec": 189.69,
-          "endSec": 189.83,
-          "score": 1.0
+          "word": "mountains,",
+          "start": 195.14,
+          "end": 195.64
         },
         {
-          "word": "desert.",
-          "startSec": 189.83,
-          "endSec": 190.27,
-          "score": 1.0
+          "word": "others",
+          "start": 196.32,
+          "end": 196.66
+        },
+        {
+          "word": "in",
+          "start": 196.66,
+          "end": 197.0
+        },
+        {
+          "word": "plains",
+          "start": 197.0,
+          "end": 197.38
+        },
+        {
+          "word": "or",
+          "start": 197.38,
+          "end": 197.7
+        },
+        {
+          "word": "dry",
+          "start": 197.7,
+          "end": 198.04
+        },
+        {
+          "word": "lands.",
+          "start": 198.04,
+          "end": 199.04
         }
       ]
     },
     {
       "id": 38,
-      "start": 191.22,
-      "end": 196.45,
-      "text": "Some animals live in mountains, others and plains or dry lands.",
+      "start": 199.7,
+      "end": 202.73,
+      "text": "What do people eat in Uzbekistan?",
       "words": [
         {
-          "word": "Some",
-          "startSec": 191.42,
-          "endSec": 191.76,
-          "score": 0.98
+          "word": "What",
+          "start": 199.7,
+          "end": 200.14
         },
         {
-          "word": "animals",
-          "startSec": 191.76,
-          "endSec": 192.32,
-          "score": 1.0
+          "word": "do",
+          "start": 200.14,
+          "end": 200.36
         },
         {
-          "word": "live",
-          "startSec": 192.32,
-          "endSec": 192.9,
-          "score": 1.0
+          "word": "people",
+          "start": 200.36,
+          "end": 200.72
+        },
+        {
+          "word": "eat",
+          "start": 200.72,
+          "end": 201.16
         },
         {
           "word": "in",
-          "startSec": 192.9,
-          "endSec": 193.16,
-          "score": 1.0
+          "start": 201.16,
+          "end": 201.42
         },
         {
-          "word": "mountains,",
-          "startSec": 193.16,
-          "endSec": 193.46,
-          "score": 1.0
-        },
-        {
-          "word": "others",
-          "startSec": 194.3,
-          "endSec": 194.56,
-          "score": 0.93
-        },
-        {
-          "word": "and",
-          "startSec": 194.56,
-          "endSec": 194.96,
-          "score": 0.57
-        },
-        {
-          "word": "plains",
-          "startSec": 194.96,
-          "endSec": 195.36,
-          "score": 0.82
-        },
-        {
-          "word": "or",
-          "startSec": 195.36,
-          "endSec": 195.7,
-          "score": 0.84
-        },
-        {
-          "word": "dry",
-          "startSec": 195.7,
-          "endSec": 196.02,
-          "score": 0.96
-        },
-        {
-          "word": "lands.",
-          "startSec": 196.02,
-          "endSec": 196.3,
-          "score": 0.91
+          "word": "Uzbekistan?",
+          "start": 201.42,
+          "end": 202.73
         }
       ]
     },
     {
       "id": 39,
-      "start": 196.1,
-      "end": 200.02,
-      "text": "What do people eat in Uzbekistan?",
+      "start": 202.98,
+      "end": 208.73,
+      "text": "Uzbek food is rich, warm and often made with rice and meat.",
       "words": [
         {
-          "word": "What",
-          "startSec": 196.3,
-          "endSec": 197.54,
-          "score": 0.41
+          "word": "Uzbek",
+          "start": 202.98,
+          "end": 203.58
         },
         {
-          "word": "do",
-          "startSec": 198.11,
-          "endSec": 198.35,
-          "score": 0.96
+          "word": "food",
+          "start": 203.58,
+          "end": 204.1
         },
         {
-          "word": "people",
-          "startSec": 198.35,
-          "endSec": 198.57,
-          "score": 0.94
+          "word": "is",
+          "start": 204.1,
+          "end": 204.42
         },
         {
-          "word": "eat",
-          "startSec": 198.57,
-          "endSec": 199.11,
-          "score": 1.0
+          "word": "rich,",
+          "start": 204.42,
+          "end": 204.88
         },
         {
-          "word": "in",
-          "startSec": 199.11,
-          "endSec": 199.39,
-          "score": 0.97
+          "word": "warm",
+          "start": 205.34,
+          "end": 205.84
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 199.39,
-          "endSec": 199.87,
-          "score": 0.99
+          "word": "and",
+          "start": 205.84,
+          "end": 206.2
+        },
+        {
+          "word": "often",
+          "start": 206.2,
+          "end": 206.66
+        },
+        {
+          "word": "made",
+          "start": 206.66,
+          "end": 207.02
+        },
+        {
+          "word": "with",
+          "start": 207.02,
+          "end": 207.3
+        },
+        {
+          "word": "rice",
+          "start": 207.3,
+          "end": 207.66
+        },
+        {
+          "word": "and",
+          "start": 207.66,
+          "end": 208.02
+        },
+        {
+          "word": "meat.",
+          "start": 208.02,
+          "end": 208.73
         }
       ]
     },
     {
       "id": 40,
-      "start": 200.85,
-      "end": 206.44,
-      "text": "Uzbek food is rich, warm and often made with rice and meat.",
+      "start": 208.96,
+      "end": 222.44,
+      "text": "People eat bread, especially flatbread called non -rice, noodles and dumplings, lamb, beef and chicken, carrots, onions and potatoes.",
       "words": [
         {
-          "word": "Uzbek",
-          "startSec": 201.05,
-          "endSec": 201.39,
-          "score": 0.86
+          "word": "People",
+          "start": 208.96,
+          "end": 209.48
         },
         {
-          "word": "food",
-          "startSec": 201.39,
-          "endSec": 202.09,
-          "score": 0.97
+          "word": "eat",
+          "start": 209.48,
+          "end": 209.92
         },
         {
-          "word": "is",
-          "startSec": 202.09,
-          "endSec": 202.35,
-          "score": 0.99
+          "word": "bread,",
+          "start": 209.92,
+          "end": 210.76
         },
         {
-          "word": "rich,",
-          "startSec": 202.35,
-          "endSec": 202.81,
-          "score": 0.99
+          "word": "especially",
+          "start": 211.56,
+          "end": 212.04
         },
         {
-          "word": "warm",
-          "startSec": 203.33,
-          "endSec": 203.69,
-          "score": 1.0
+          "word": "flatbread",
+          "start": 212.04,
+          "end": 213.06
         },
         {
-          "word": "and",
-          "startSec": 203.69,
-          "endSec": 204.17,
-          "score": 0.55
+          "word": "called",
+          "start": 213.06,
+          "end": 213.56
         },
         {
-          "word": "often",
-          "startSec": 204.17,
-          "endSec": 204.53,
-          "score": 0.99
+          "word": "non",
+          "start": 213.56,
+          "end": 213.96
         },
         {
-          "word": "made",
-          "startSec": 204.53,
-          "endSec": 204.99,
-          "score": 0.99
+          "word": "-rice,",
+          "start": 213.96,
+          "end": 214.38
         },
         {
-          "word": "with",
-          "startSec": 204.99,
-          "endSec": 205.25,
-          "score": 0.99
-        },
-        {
-          "word": "rice",
-          "startSec": 205.25,
-          "endSec": 205.59,
-          "score": 1.0
+          "word": "noodles",
+          "start": 214.38,
+          "end": 214.98
         },
         {
           "word": "and",
-          "startSec": 205.59,
-          "endSec": 206.01,
-          "score": 0.98
+          "start": 214.98,
+          "end": 215.4
         },
         {
-          "word": "meat.",
-          "startSec": 206.01,
-          "endSec": 206.29,
-          "score": 1.0
+          "word": "dumplings,",
+          "start": 215.4,
+          "end": 215.82
+        },
+        {
+          "word": "lamb,",
+          "start": 216.48,
+          "end": 217.52
+        },
+        {
+          "word": "beef",
+          "start": 218.06,
+          "end": 218.16
+        },
+        {
+          "word": "and",
+          "start": 218.16,
+          "end": 218.5
+        },
+        {
+          "word": "chicken,",
+          "start": 218.5,
+          "end": 218.9
+        },
+        {
+          "word": "carrots,",
+          "start": 219.56,
+          "end": 220.06
+        },
+        {
+          "word": "onions",
+          "start": 220.56,
+          "end": 221.0
+        },
+        {
+          "word": "and",
+          "start": 221.0,
+          "end": 221.5
+        },
+        {
+          "word": "potatoes.",
+          "start": 221.5,
+          "end": 222.44
         }
       ]
     },
     {
       "id": 41,
-      "start": 207.3,
-      "end": 214.03,
-      "text": "People eat bread, especially flat bread called non rice, noodles and dumplings.",
+      "start": 223.1,
+      "end": 229.9,
+      "text": "Popular dishes, plov, rice with meat, carrots and onions, national dish.",
       "words": [
         {
-          "word": "People",
-          "startSec": 207.5,
-          "endSec": 207.5,
-          "score": 0.96
+          "word": "Popular",
+          "start": 223.1,
+          "end": 223.74
         },
         {
-          "word": "eat",
-          "startSec": 207.5,
-          "endSec": 207.88,
-          "score": 1.0
+          "word": "dishes,",
+          "start": 223.74,
+          "end": 224.3
         },
         {
-          "word": "bread,",
-          "startSec": 207.88,
-          "endSec": 208.72,
-          "score": 0.79
+          "word": "plov,",
+          "start": 224.86,
+          "end": 225.22
         },
         {
-          "word": "especially",
-          "startSec": 209.28,
-          "endSec": 209.94,
-          "score": 0.97
+          "word": "rice",
+          "start": 225.58,
+          "end": 225.84
         },
         {
-          "word": "flat",
-          "startSec": 209.94,
-          "endSec": 210.64,
-          "score": 0.99
+          "word": "with",
+          "start": 225.84,
+          "end": 226.16
         },
         {
-          "word": "bread",
-          "startSec": 210.64,
-          "endSec": 211.06,
-          "score": 0.87
+          "word": "meat,",
+          "start": 226.16,
+          "end": 226.54
         },
         {
-          "word": "called",
-          "startSec": 211.06,
-          "endSec": 211.5,
-          "score": 0.9
-        },
-        {
-          "word": "non",
-          "startSec": 211.5,
-          "endSec": 211.88,
-          "score": 0.95
-        },
-        {
-          "word": "rice,",
-          "startSec": 211.88,
-          "endSec": 212.32,
-          "score": 0.29
-        },
-        {
-          "word": "noodles",
-          "startSec": 212.8,
-          "endSec": 212.94,
-          "score": 0.99
+          "word": "carrots",
+          "start": 226.94,
+          "end": 227.24
         },
         {
           "word": "and",
-          "startSec": 212.94,
-          "endSec": 213.38,
-          "score": 0.84
+          "start": 227.24,
+          "end": 227.56
         },
         {
-          "word": "dumplings.",
-          "startSec": 213.38,
-          "endSec": 213.88,
-          "score": 1.0
+          "word": "onions,",
+          "start": 227.56,
+          "end": 228.1
+        },
+        {
+          "word": "national",
+          "start": 228.54,
+          "end": 228.96
+        },
+        {
+          "word": "dish.",
+          "start": 228.96,
+          "end": 229.9
         }
       ]
     },
     {
       "id": 42,
-      "start": 214.7,
-      "end": 219.99,
-      "text": "Lamb, beef and chicken, carrots, onions and potatoes.",
+      "start": 230.18,
+      "end": 234.14,
+      "text": "Lagman hand pulled noodles with meat and vegetables.",
       "words": [
         {
-          "word": "Lamb,",
-          "startSec": 214.9,
-          "endSec": 215.34,
-          "score": 0.77
+          "word": "Lagman",
+          "start": 230.18,
+          "end": 230.86
         },
         {
-          "word": "beef",
-          "startSec": 215.86,
-          "endSec": 216.04,
-          "score": 0.98
+          "word": "hand",
+          "start": 230.86,
+          "end": 231.3
         },
         {
-          "word": "and",
-          "startSec": 216.04,
-          "endSec": 216.48,
-          "score": 0.88
+          "word": "pulled",
+          "start": 231.3,
+          "end": 231.6
         },
         {
-          "word": "chicken,",
-          "startSec": 216.48,
-          "endSec": 216.76,
-          "score": 1.0
+          "word": "noodles",
+          "start": 231.6,
+          "end": 232.08
         },
         {
-          "word": "carrots,",
-          "startSec": 217.5,
-          "endSec": 218.02,
-          "score": 1.0
+          "word": "with",
+          "start": 232.08,
+          "end": 232.54
         },
         {
-          "word": "onions",
-          "startSec": 218.66,
-          "endSec": 218.9,
-          "score": 0.99
+          "word": "meat",
+          "start": 232.54,
+          "end": 232.88
         },
         {
           "word": "and",
-          "startSec": 218.9,
-          "endSec": 219.46,
-          "score": 0.82
+          "start": 232.88,
+          "end": 233.1
         },
         {
-          "word": "potatoes.",
-          "startSec": 219.46,
-          "endSec": 219.84,
-          "score": 0.99
+          "word": "vegetables.",
+          "start": 233.1,
+          "end": 234.14
         }
       ]
     },
     {
       "id": 43,
-      "start": 220.64,
-      "end": 231.79,
-      "text": "Popular dishes, plav, rice with meat, carrots and onions, national dish, lagmen, hand-pulled noodles with meat and vegetables.",
+      "start": 234.62,
+      "end": 237.14,
+      "text": "Monty, steamed dumplings.",
       "words": [
         {
-          "word": "Popular",
-          "startSec": 220.84,
-          "endSec": 221.5,
-          "score": 0.0
+          "word": "Monty,",
+          "start": 234.62,
+          "end": 235.44
         },
         {
-          "word": "dishes,",
-          "startSec": 221.5,
-          "endSec": 222.14,
-          "score": 0.96
+          "word": "steamed",
+          "start": 235.76,
+          "end": 236.04
         },
         {
-          "word": "plav,",
-          "startSec": 222.8,
-          "endSec": 223.22,
-          "score": 0.51
-        },
-        {
-          "word": "rice",
-          "startSec": 223.52,
-          "endSec": 223.72,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 223.72,
-          "endSec": 224.14,
-          "score": 0.98
-        },
-        {
-          "word": "meat,",
-          "startSec": 224.14,
-          "endSec": 224.56,
-          "score": 0.99
-        },
-        {
-          "word": "carrots",
-          "startSec": 224.86,
-          "endSec": 225.22,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 225.22,
-          "endSec": 225.56,
-          "score": 0.62
-        },
-        {
-          "word": "onions,",
-          "startSec": 225.56,
-          "endSec": 226.0,
-          "score": 0.99
-        },
-        {
-          "word": "national",
-          "startSec": 226.48,
-          "endSec": 226.98,
-          "score": 0.73
-        },
-        {
-          "word": "dish,",
-          "startSec": 226.98,
-          "endSec": 227.4,
-          "score": 1.0
-        },
-        {
-          "word": "lagmen,",
-          "startSec": 228.12,
-          "endSec": 228.86,
-          "score": 0.41
-        },
-        {
-          "word": "hand",
-          "startSec": 229.06,
-          "endSec": 229.2,
-          "score": 0.98
-        },
-        {
-          "word": "-pulled",
-          "startSec": 229.2,
-          "endSec": 229.78,
-          "score": 0.84
-        },
-        {
-          "word": "noodles",
-          "startSec": 229.78,
-          "endSec": 230.1,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 230.1,
-          "endSec": 230.48,
-          "score": 0.99
-        },
-        {
-          "word": "meat",
-          "startSec": 230.48,
-          "endSec": 230.84,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 230.84,
-          "endSec": 231.06,
-          "score": 0.99
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 231.06,
-          "endSec": 231.64,
-          "score": 1.0
+          "word": "dumplings.",
+          "start": 236.04,
+          "end": 237.14
         }
       ]
     },
     {
       "id": 44,
-      "start": 232.4,
-      "end": 238.17,
-      "text": "Monty, steamed dumplings, shashlic, grilled meat on sticks,",
+      "start": 237.64,
+      "end": 240.12,
+      "text": "Shashlik, grilled meat on sticks.",
       "words": [
         {
-          "word": "Monty,",
-          "startSec": 232.6,
-          "endSec": 233.44,
-          "score": 0.66
-        },
-        {
-          "word": "steamed",
-          "startSec": 233.66,
-          "endSec": 234.26,
-          "score": 0.82
-        },
-        {
-          "word": "dumplings,",
-          "startSec": 234.26,
-          "endSec": 234.8,
-          "score": 0.96
-        },
-        {
-          "word": "shashlic,",
-          "startSec": 235.62,
-          "endSec": 236.46,
-          "score": 0.54
+          "word": "Shashlik,",
+          "start": 237.64,
+          "end": 238.48
         },
         {
           "word": "grilled",
-          "startSec": 236.82,
-          "endSec": 236.98,
-          "score": 0.99
+          "start": 238.74,
+          "end": 239.06
         },
         {
           "word": "meat",
-          "startSec": 236.98,
-          "endSec": 237.38,
-          "score": 0.99
+          "start": 239.06,
+          "end": 239.42
         },
         {
           "word": "on",
-          "startSec": 237.38,
-          "endSec": 237.6,
-          "score": 0.99
+          "start": 239.42,
+          "end": 239.66
         },
         {
-          "word": "sticks,",
-          "startSec": 237.6,
-          "endSec": 238.02,
-          "score": 0.98
+          "word": "sticks.",
+          "start": 239.66,
+          "end": 240.12
         }
       ]
     },
     {
       "id": 45,
-      "start": 238.82,
-      "end": 242.09,
-      "text": "samsa baked pastries with meat or pumpkin.",
+      "start": 240.12,
+      "end": 244.52,
+      "text": "Samsa baked pastries with meat or pumpkin.",
       "words": [
         {
-          "word": "samsa",
-          "startSec": 239.02,
-          "endSec": 239.7,
-          "score": 0.73
+          "word": "Samsa",
+          "start": 240.12,
+          "end": 241.72
         },
         {
           "word": "baked",
-          "startSec": 239.7,
-          "endSec": 239.94,
-          "score": 0.57
+          "start": 241.72,
+          "end": 242.02
         },
         {
           "word": "pastries",
-          "startSec": 239.94,
-          "endSec": 240.72,
-          "score": 0.99
+          "start": 242.02,
+          "end": 242.74
         },
         {
           "word": "with",
-          "startSec": 240.72,
-          "endSec": 241.02,
-          "score": 0.99
+          "start": 242.74,
+          "end": 243.06
         },
         {
           "word": "meat",
-          "startSec": 241.02,
-          "endSec": 241.36,
-          "score": 1.0
+          "start": 243.06,
+          "end": 243.4
         },
         {
           "word": "or",
-          "startSec": 241.36,
-          "endSec": 241.64,
-          "score": 0.98
+          "start": 243.4,
+          "end": 243.66
         },
         {
           "word": "pumpkin.",
-          "startSec": 241.64,
-          "endSec": 241.94,
-          "score": 1.0
+          "start": 243.66,
+          "end": 244.52
         }
       ]
     },
     {
       "id": 46,
-      "start": 243.38,
-      "end": 246.19,
+      "start": 245.04,
+      "end": 248.46,
       "text": "What do people drink in Uzbekistan?",
       "words": [
         {
           "word": "What",
-          "startSec": 243.58,
-          "endSec": 243.96,
-          "score": 0.99
+          "start": 245.04,
+          "end": 245.96
         },
         {
           "word": "do",
-          "startSec": 243.96,
-          "endSec": 244.14,
-          "score": 0.99
+          "start": 245.96,
+          "end": 246.18
         },
         {
           "word": "people",
-          "startSec": 244.14,
-          "endSec": 244.38,
-          "score": 1.0
+          "start": 246.18,
+          "end": 246.5
         },
         {
           "word": "drink",
-          "startSec": 244.38,
-          "endSec": 244.92,
-          "score": 0.99
+          "start": 246.5,
+          "end": 246.98
         },
         {
           "word": "in",
-          "startSec": 244.92,
-          "endSec": 245.18,
-          "score": 0.99
+          "start": 246.98,
+          "end": 247.2
         },
         {
           "word": "Uzbekistan?",
-          "startSec": 245.18,
-          "endSec": 246.04,
-          "score": 0.99
+          "start": 247.2,
+          "end": 248.46
         }
       ]
     },
     {
       "id": 47,
-      "start": 246.64,
-      "end": 252.33,
+      "start": 248.82,
+      "end": 254.46,
       "text": "People drink tea, green or black, often without sugar.",
       "words": [
         {
           "word": "People",
-          "startSec": 246.84,
-          "endSec": 247.26,
-          "score": 0.01
+          "start": 248.82,
+          "end": 249.42
         },
         {
           "word": "drink",
-          "startSec": 247.26,
-          "endSec": 247.84,
-          "score": 0.98
+          "start": 249.42,
+          "end": 250.0
         },
         {
           "word": "tea,",
-          "startSec": 247.84,
-          "endSec": 248.68,
-          "score": 0.95
+          "start": 250.0,
+          "end": 250.7
         },
         {
           "word": "green",
-          "startSec": 249.08,
-          "endSec": 249.5,
-          "score": 0.99
+          "start": 251.16,
+          "end": 251.58
         },
         {
           "word": "or",
-          "startSec": 249.5,
-          "endSec": 249.78,
-          "score": 0.96
+          "start": 251.58,
+          "end": 251.78
         },
         {
           "word": "black,",
-          "startSec": 249.78,
-          "endSec": 250.1,
-          "score": 1.0
+          "start": 251.78,
+          "end": 252.22
         },
         {
           "word": "often",
-          "startSec": 250.62,
-          "endSec": 251.04,
-          "score": 0.99
+          "start": 252.64,
+          "end": 253.06
         },
         {
           "word": "without",
-          "startSec": 251.04,
-          "endSec": 251.32,
-          "score": 1.0
+          "start": 253.06,
+          "end": 253.44
         },
         {
           "word": "sugar.",
-          "startSec": 251.32,
-          "endSec": 252.18,
-          "score": 1.0
+          "start": 253.44,
+          "end": 254.46
         }
       ]
     },
     {
       "id": 48,
-      "start": 253.22,
-      "end": 261.0,
-      "text": "Compote, sweet fruit drink, iron, salty yogurt drink.",
+      "start": 255.3,
+      "end": 258.96,
+      "text": "Compote, sweet fruit drink.",
       "words": [
         {
           "word": "Compote,",
-          "startSec": 253.42,
-          "endSec": 254.16,
-          "score": 0.72
+          "start": 255.3,
+          "end": 256.22
         },
         {
           "word": "sweet",
-          "startSec": 254.9,
-          "endSec": 255.54,
-          "score": 0.99
+          "start": 256.98,
+          "end": 257.64
         },
         {
           "word": "fruit",
-          "startSec": 255.54,
-          "endSec": 255.94,
-          "score": 0.97
-        },
-        {
-          "word": "drink,",
-          "startSec": 255.94,
-          "endSec": 256.48,
-          "score": 1.0
-        },
-        {
-          "word": "iron,",
-          "startSec": 258.35,
-          "endSec": 258.61,
-          "score": 0.43
-        },
-        {
-          "word": "salty",
-          "startSec": 259.31,
-          "endSec": 259.71,
-          "score": 0.96
-        },
-        {
-          "word": "yogurt",
-          "startSec": 259.71,
-          "endSec": 260.23,
-          "score": 0.98
+          "start": 257.64,
+          "end": 258.02
         },
         {
           "word": "drink.",
-          "startSec": 260.23,
-          "endSec": 260.85,
-          "score": 1.0
+          "start": 258.02,
+          "end": 258.96
         }
       ]
     },
     {
       "id": 49,
-      "start": 261.47,
-      "end": 267.48,
-      "text": "In summer, adults may drink local wine or vodka, but it is not common.",
+      "start": 260.2,
+      "end": 264.62,
+      "text": "I run salty yogurt drink in summer.",
       "words": [
         {
-          "word": "In",
-          "startSec": 261.67,
-          "endSec": 261.75,
-          "score": 0.96
+          "word": "I",
+          "start": 260.2,
+          "end": 260.6
         },
         {
-          "word": "summer,",
-          "startSec": 261.75,
-          "endSec": 262.23,
-          "score": 0.95
+          "word": "run",
+          "start": 260.6,
+          "end": 261.02
         },
         {
-          "word": "adults",
-          "startSec": 262.73,
-          "endSec": 263.35,
-          "score": 1.0
+          "word": "salty",
+          "start": 261.02,
+          "end": 261.74
         },
         {
-          "word": "may",
-          "startSec": 263.35,
-          "endSec": 263.71,
-          "score": 0.99
+          "word": "yogurt",
+          "start": 261.74,
+          "end": 262.3
         },
         {
           "word": "drink",
-          "startSec": 263.71,
-          "endSec": 264.11,
-          "score": 1.0
+          "start": 262.3,
+          "end": 262.92
         },
         {
-          "word": "local",
-          "startSec": 264.11,
-          "endSec": 264.41,
-          "score": 0.99
+          "word": "in",
+          "start": 262.92,
+          "end": 263.76
         },
         {
-          "word": "wine",
-          "startSec": 264.41,
-          "endSec": 264.99,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 264.99,
-          "endSec": 265.21,
-          "score": 0.97
-        },
-        {
-          "word": "vodka,",
-          "startSec": 265.21,
-          "endSec": 265.51,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 265.99,
-          "endSec": 266.11,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 266.11,
-          "endSec": 266.25,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 266.25,
-          "endSec": 266.41,
-          "score": 0.98
-        },
-        {
-          "word": "not",
-          "startSec": 266.41,
-          "endSec": 266.71,
-          "score": 1.0
-        },
-        {
-          "word": "common.",
-          "startSec": 266.71,
-          "endSec": 267.33,
-          "score": 1.0
+          "word": "summer.",
+          "start": 263.76,
+          "end": 264.62
         }
       ]
     },
     {
       "id": 50,
-      "start": 267.73,
-      "end": 271.64,
-      "text": "Tea is served in small bowls, not cups.",
+      "start": 264.92,
+      "end": 269.38,
+      "text": "Adults may drink local wine or vodka, but it is not common.",
       "words": [
         {
-          "word": "Tea",
-          "startSec": 267.93,
-          "endSec": 268.21,
-          "score": 0.93
+          "word": "Adults",
+          "start": 264.92,
+          "end": 265.36
+        },
+        {
+          "word": "may",
+          "start": 265.36,
+          "end": 265.74
+        },
+        {
+          "word": "drink",
+          "start": 265.74,
+          "end": 266.16
+        },
+        {
+          "word": "local",
+          "start": 266.16,
+          "end": 266.54
+        },
+        {
+          "word": "wine",
+          "start": 266.54,
+          "end": 267.04
+        },
+        {
+          "word": "or",
+          "start": 267.04,
+          "end": 267.2
+        },
+        {
+          "word": "vodka,",
+          "start": 267.2,
+          "end": 267.66
+        },
+        {
+          "word": "but",
+          "start": 267.68,
+          "end": 268.1
+        },
+        {
+          "word": "it",
+          "start": 268.1,
+          "end": 268.26
         },
         {
           "word": "is",
-          "startSec": 268.21,
-          "endSec": 268.53,
-          "score": 0.99
-        },
-        {
-          "word": "served",
-          "startSec": 268.53,
-          "endSec": 268.93,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 268.93,
-          "endSec": 269.25,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 269.25,
-          "endSec": 269.69,
-          "score": 1.0
-        },
-        {
-          "word": "bowls,",
-          "startSec": 269.69,
-          "endSec": 270.09,
-          "score": 0.99
+          "start": 268.26,
+          "end": 268.46
         },
         {
           "word": "not",
-          "startSec": 270.75,
-          "endSec": 271.07,
-          "score": 1.0
+          "start": 268.46,
+          "end": 268.74
         },
         {
-          "word": "cups.",
-          "startSec": 271.07,
-          "endSec": 271.49,
-          "score": 0.98
+          "word": "common.",
+          "start": 268.74,
+          "end": 269.38
         }
       ]
     },
     {
       "id": 51,
-      "start": 272.34,
-      "end": 275.17,
-      "text": "What is life like in Uzbekistan?",
+      "start": 269.38,
+      "end": 274.0,
+      "text": "Tea is served in small bowls, not cups.",
       "words": [
         {
-          "word": "What",
-          "startSec": 272.54,
-          "endSec": 273.02,
-          "score": 0.95
+          "word": "Tea",
+          "start": 269.38,
+          "end": 270.26
         },
         {
           "word": "is",
-          "startSec": 273.02,
-          "endSec": 273.2,
-          "score": 0.99
+          "start": 270.26,
+          "end": 270.58
         },
         {
-          "word": "life",
-          "startSec": 273.2,
-          "endSec": 273.56,
-          "score": 0.82
-        },
-        {
-          "word": "like",
-          "startSec": 273.56,
-          "endSec": 273.92,
-          "score": 0.95
+          "word": "served",
+          "start": 270.58,
+          "end": 270.98
         },
         {
           "word": "in",
-          "startSec": 273.92,
-          "endSec": 274.18,
-          "score": 1.0
+          "start": 270.98,
+          "end": 271.28
         },
         {
-          "word": "Uzbekistan?",
-          "startSec": 274.18,
-          "endSec": 275.02,
-          "score": 0.99
+          "word": "small",
+          "start": 271.28,
+          "end": 271.74
+        },
+        {
+          "word": "bowls,",
+          "start": 271.74,
+          "end": 272.38
+        },
+        {
+          "word": "not",
+          "start": 272.92,
+          "end": 273.08
+        },
+        {
+          "word": "cups.",
+          "start": 273.08,
+          "end": 274.0
         }
       ]
     },
     {
       "id": 52,
-      "start": 275.98,
-      "end": 281.65,
-      "text": "Life in Uzbekistan is friendly, traditional and family-based.",
+      "start": 274.68,
+      "end": 277.52,
+      "text": "What is life like in Uzbekistan?",
       "words": [
         {
-          "word": "Life",
-          "startSec": 276.18,
-          "endSec": 276.7,
-          "score": 0.24
-        },
-        {
-          "word": "in",
-          "startSec": 276.7,
-          "endSec": 276.86,
-          "score": 0.94
-        },
-        {
-          "word": "Uzbekistan",
-          "startSec": 276.86,
-          "endSec": 277.72,
-          "score": 0.95
+          "word": "What",
+          "start": 274.68,
+          "end": 275.02
         },
         {
           "word": "is",
-          "startSec": 277.72,
-          "endSec": 278.02,
-          "score": 0.99
+          "start": 275.02,
+          "end": 275.28
         },
         {
-          "word": "friendly,",
-          "startSec": 278.02,
-          "endSec": 278.42,
-          "score": 0.94
+          "word": "life",
+          "start": 275.28,
+          "end": 275.62
         },
         {
-          "word": "traditional",
-          "startSec": 279.02,
-          "endSec": 279.48,
-          "score": 0.99
+          "word": "like",
+          "start": 275.62,
+          "end": 276.02
         },
         {
-          "word": "and",
-          "startSec": 279.48,
-          "endSec": 280.32,
-          "score": 0.45
+          "word": "in",
+          "start": 276.02,
+          "end": 276.18
         },
         {
-          "word": "family",
-          "startSec": 280.32,
-          "endSec": 280.88,
-          "score": 1.0
-        },
-        {
-          "word": "-based.",
-          "startSec": 280.88,
-          "endSec": 281.5,
-          "score": 0.81
+          "word": "Uzbekistan?",
+          "start": 276.18,
+          "end": 277.52
         }
       ]
     },
     {
       "id": 53,
-      "start": 281.6,
-      "end": 291.35,
-      "text": "People enjoy spending time with family and neighbors, eating meals together, walking in parks and bazaars,",
+      "start": 277.98,
+      "end": 283.74,
+      "text": "Life in Uzbekistan is friendly, traditional and family based.",
       "words": [
         {
-          "word": "People",
-          "startSec": 281.8,
-          "endSec": 282.0,
-          "score": 0.98
-        },
-        {
-          "word": "enjoy",
-          "startSec": 282.0,
-          "endSec": 282.62,
-          "score": 1.0
-        },
-        {
-          "word": "spending",
-          "startSec": 282.62,
-          "endSec": 283.88,
-          "score": 0.85
-        },
-        {
-          "word": "time",
-          "startSec": 283.88,
-          "endSec": 284.46,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 284.46,
-          "endSec": 284.72,
-          "score": 0.99
-        },
-        {
-          "word": "family",
-          "startSec": 284.72,
-          "endSec": 285.22,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 285.22,
-          "endSec": 285.5,
-          "score": 0.98
-        },
-        {
-          "word": "neighbors,",
-          "startSec": 285.5,
-          "endSec": 285.96,
-          "score": 0.95
-        },
-        {
-          "word": "eating",
-          "startSec": 286.5,
-          "endSec": 287.1,
-          "score": 1.0
-        },
-        {
-          "word": "meals",
-          "startSec": 287.1,
-          "endSec": 287.56,
-          "score": 1.0
-        },
-        {
-          "word": "together,",
-          "startSec": 287.56,
-          "endSec": 288.2,
-          "score": 1.0
-        },
-        {
-          "word": "walking",
-          "startSec": 288.84,
-          "endSec": 289.24,
-          "score": 0.99
+          "word": "Life",
+          "start": 277.98,
+          "end": 278.54
         },
         {
           "word": "in",
-          "startSec": 289.24,
-          "endSec": 289.58,
-          "score": 1.0
+          "start": 278.54,
+          "end": 278.86
         },
         {
-          "word": "parks",
-          "startSec": 289.58,
-          "endSec": 289.88,
-          "score": 0.99
+          "word": "Uzbekistan",
+          "start": 278.86,
+          "end": 279.74
+        },
+        {
+          "word": "is",
+          "start": 279.74,
+          "end": 280.04
+        },
+        {
+          "word": "friendly,",
+          "start": 280.04,
+          "end": 280.62
+        },
+        {
+          "word": "traditional",
+          "start": 281.14,
+          "end": 281.72
         },
         {
           "word": "and",
-          "startSec": 289.88,
-          "endSec": 290.22,
-          "score": 0.94
+          "start": 281.72,
+          "end": 282.34
         },
         {
-          "word": "bazaars,",
-          "startSec": 290.22,
-          "endSec": 291.2,
-          "score": 0.77
+          "word": "family",
+          "start": 282.34,
+          "end": 282.88
+        },
+        {
+          "word": "based.",
+          "start": 282.88,
+          "end": 283.74
         }
       ]
     },
     {
       "id": 54,
-      "start": 291.85,
-      "end": 298.13,
-      "text": "listening to music and dancing, visiting mosques and historic places.",
+      "start": 283.88,
+      "end": 300.36,
+      "text": "People enjoy spending time with family and neighbors, eating meals together, walking in parks and bazaars, listening to music and dancing, visiting mosques and historic places.",
       "words": [
         {
+          "word": "People",
+          "start": 283.88,
+          "end": 284.16
+        },
+        {
+          "word": "enjoy",
+          "start": 284.16,
+          "end": 284.74
+        },
+        {
+          "word": "spending",
+          "start": 284.74,
+          "end": 285.9
+        },
+        {
+          "word": "time",
+          "start": 285.9,
+          "end": 286.48
+        },
+        {
+          "word": "with",
+          "start": 286.48,
+          "end": 286.74
+        },
+        {
+          "word": "family",
+          "start": 286.74,
+          "end": 287.24
+        },
+        {
+          "word": "and",
+          "start": 287.24,
+          "end": 287.52
+        },
+        {
+          "word": "neighbors,",
+          "start": 287.52,
+          "end": 287.94
+        },
+        {
+          "word": "eating",
+          "start": 288.78,
+          "end": 289.2
+        },
+        {
+          "word": "meals",
+          "start": 289.2,
+          "end": 289.7
+        },
+        {
+          "word": "together,",
+          "start": 289.7,
+          "end": 290.22
+        },
+        {
+          "word": "walking",
+          "start": 291.0,
+          "end": 291.34
+        },
+        {
+          "word": "in",
+          "start": 291.34,
+          "end": 291.6
+        },
+        {
+          "word": "parks",
+          "start": 291.6,
+          "end": 291.98
+        },
+        {
+          "word": "and",
+          "start": 291.98,
+          "end": 292.22
+        },
+        {
+          "word": "bazaars,",
+          "start": 292.22,
+          "end": 293.04
+        },
+        {
           "word": "listening",
-          "startSec": 292.05,
-          "endSec": 292.55,
-          "score": 0.99
+          "start": 293.9,
+          "end": 294.56
         },
         {
           "word": "to",
-          "startSec": 292.55,
-          "endSec": 292.83,
-          "score": 1.0
+          "start": 294.56,
+          "end": 294.84
         },
         {
           "word": "music",
-          "startSec": 292.83,
-          "endSec": 293.23,
-          "score": 1.0
+          "start": 294.84,
+          "end": 295.22
         },
         {
           "word": "and",
-          "startSec": 293.23,
-          "endSec": 293.51,
-          "score": 0.99
+          "start": 295.22,
+          "end": 295.54
         },
         {
           "word": "dancing,",
-          "startSec": 293.51,
-          "endSec": 294.09,
-          "score": 1.0
+          "start": 295.54,
+          "end": 296.06
         },
         {
           "word": "visiting",
-          "startSec": 294.74,
-          "endSec": 295.8,
-          "score": 0.98
+          "start": 297.06,
+          "end": 297.64
         },
         {
           "word": "mosques",
-          "startSec": 295.8,
-          "endSec": 296.22,
-          "score": 0.93
+          "start": 297.64,
+          "end": 298.52
         },
         {
           "word": "and",
-          "startSec": 296.22,
-          "endSec": 296.76,
-          "score": 0.91
+          "start": 298.52,
+          "end": 298.76
         },
         {
           "word": "historic",
-          "startSec": 296.76,
-          "endSec": 297.18,
-          "score": 0.99
+          "start": 298.76,
+          "end": 299.26
         },
         {
           "word": "places.",
-          "startSec": 297.18,
-          "endSec": 297.98,
-          "score": 1.0
+          "start": 299.26,
+          "end": 300.36
         }
       ]
     },
     {
       "id": 55,
-      "start": 299.16,
-      "end": 303.83,
+      "start": 300.88,
+      "end": 306.3,
       "text": "In villages, people grow fruit, cotton or vegetables.",
       "words": [
         {
           "word": "In",
-          "startSec": 299.36,
-          "endSec": 299.86,
-          "score": 0.99
+          "start": 300.88,
+          "end": 301.86
         },
         {
           "word": "villages,",
-          "startSec": 299.86,
-          "endSec": 300.28,
-          "score": 1.0
+          "start": 301.86,
+          "end": 302.38
         },
         {
           "word": "people",
-          "startSec": 300.5,
-          "endSec": 301.02,
-          "score": 1.0
+          "start": 302.84,
+          "end": 303.14
         },
         {
           "word": "grow",
-          "startSec": 301.02,
-          "endSec": 301.54,
-          "score": 1.0
+          "start": 303.14,
+          "end": 303.58
         },
         {
           "word": "fruit,",
-          "startSec": 301.54,
-          "endSec": 301.96,
-          "score": 0.99
+          "start": 303.58,
+          "end": 304.04
         },
         {
           "word": "cotton",
-          "startSec": 302.46,
-          "endSec": 302.84,
-          "score": 1.0
+          "start": 304.54,
+          "end": 304.96
         },
         {
           "word": "or",
-          "startSec": 302.84,
-          "endSec": 303.24,
-          "score": 0.48
+          "start": 304.96,
+          "end": 305.26
         },
         {
           "word": "vegetables.",
-          "startSec": 303.24,
-          "endSec": 303.68,
-          "score": 1.0
+          "start": 305.26,
+          "end": 306.3
         }
       ]
     },
     {
       "id": 56,
-      "start": 303.48,
-      "end": 308.17,
+      "start": 306.62,
+      "end": 310.52,
       "text": "What are some holidays and traditions in Uzbekistan?",
       "words": [
         {
           "word": "What",
-          "startSec": 303.68,
-          "endSec": 304.7,
-          "score": 0.5
+          "start": 306.62,
+          "end": 306.74
         },
         {
           "word": "are",
-          "startSec": 304.7,
-          "endSec": 304.86,
-          "score": 0.98
+          "start": 306.74,
+          "end": 306.9
         },
         {
           "word": "some",
-          "startSec": 304.86,
-          "endSec": 305.08,
-          "score": 0.98
+          "start": 306.9,
+          "end": 307.12
         },
         {
           "word": "holidays",
-          "startSec": 305.08,
-          "endSec": 305.6,
-          "score": 0.94
+          "start": 307.12,
+          "end": 307.76
         },
         {
           "word": "and",
-          "startSec": 305.6,
-          "endSec": 306.12,
-          "score": 0.96
+          "start": 307.76,
+          "end": 308.14
         },
         {
           "word": "traditions",
-          "startSec": 306.12,
-          "endSec": 306.56,
-          "score": 0.99
+          "start": 308.14,
+          "end": 308.64
         },
         {
           "word": "in",
-          "startSec": 306.56,
-          "endSec": 307.04,
-          "score": 0.98
+          "start": 308.64,
+          "end": 309.06
         },
         {
           "word": "Uzbekistan?",
-          "startSec": 307.04,
-          "endSec": 308.02,
-          "score": 1.0
+          "start": 309.06,
+          "end": 310.52
         }
       ]
     },
     {
       "id": 57,
-      "start": 308.86,
-      "end": 315.07,
-      "text": "Navru's Spring Festival on March 21st with music, food and games.",
+      "start": 311.02,
+      "end": 317.56,
+      "text": "Navru's spring festival on March 21st with music, food and games.",
       "words": [
         {
           "word": "Navru's",
-          "startSec": 309.06,
-          "endSec": 310.02,
-          "score": 0.25
+          "start": 311.02,
+          "end": 312.02
         },
         {
-          "word": "Spring",
-          "startSec": 310.02,
-          "endSec": 310.44,
-          "score": 0.87
+          "word": "spring",
+          "start": 312.02,
+          "end": 312.56
         },
         {
-          "word": "Festival",
-          "startSec": 310.44,
-          "endSec": 310.96,
-          "score": 0.97
+          "word": "festival",
+          "start": 312.56,
+          "end": 313.18
         },
         {
           "word": "on",
-          "startSec": 310.96,
-          "endSec": 311.64,
-          "score": 0.97
+          "start": 313.18,
+          "end": 313.66
         },
         {
           "word": "March",
-          "startSec": 311.64,
-          "endSec": 311.9,
-          "score": 0.98
+          "start": 313.66,
+          "end": 313.94
         },
         {
           "word": "21st",
-          "startSec": 311.9,
-          "endSec": 313.04,
-          "score": 0.74
+          "start": 313.94,
+          "end": 315.04
         },
         {
           "word": "with",
-          "startSec": 313.04,
-          "endSec": 313.2,
-          "score": 0.9
+          "start": 315.04,
+          "end": 315.22
         },
         {
           "word": "music,",
-          "startSec": 313.2,
-          "endSec": 313.74,
-          "score": 0.81
+          "start": 315.22,
+          "end": 315.8
         },
         {
           "word": "food",
-          "startSec": 314.1,
-          "endSec": 314.28,
-          "score": 0.98
+          "start": 316.08,
+          "end": 316.4
         },
         {
           "word": "and",
-          "startSec": 314.28,
-          "endSec": 314.6,
-          "score": 0.55
+          "start": 316.4,
+          "end": 316.64
         },
         {
           "word": "games.",
-          "startSec": 314.6,
-          "endSec": 314.92,
-          "score": 0.99
+          "start": 316.64,
+          "end": 317.56
         }
       ]
     },
     {
       "id": 58,
-      "start": 315.88,
-      "end": 318.93,
+      "start": 317.88,
+      "end": 322.02,
       "text": "Independence Day, September 1st.",
       "words": [
         {
           "word": "Independence",
-          "startSec": 316.08,
-          "endSec": 316.82,
-          "score": 0.99
+          "start": 317.88,
+          "end": 318.68
         },
         {
           "word": "Day,",
-          "startSec": 316.82,
-          "endSec": 317.34,
-          "score": 0.95
+          "start": 318.68,
+          "end": 319.42
         },
         {
           "word": "September",
-          "startSec": 317.96,
-          "endSec": 318.3,
-          "score": 0.99
+          "start": 319.88,
+          "end": 320.28
         },
         {
           "word": "1st.",
-          "startSec": 318.3,
-          "endSec": 318.78,
-          "score": 0.96
+          "start": 320.28,
+          "end": 322.02
         }
       ]
     },
     {
       "id": 59,
-      "start": 319.84,
-      "end": 328.25,
-      "text": "Eid al-Feder and Eid al-Ada islamic holidays, Constitution Day, December 8th.",
+      "start": 322.02,
+      "end": 326.72,
+      "text": "Eid al -Fitr and Eid al -Adha Islamic holidays.",
       "words": [
         {
           "word": "Eid",
-          "startSec": 320.04,
-          "endSec": 320.44,
-          "score": 0.07
+          "start": 322.02,
+          "end": 322.54
         },
         {
           "word": "al",
-          "startSec": 320.44,
-          "endSec": 320.62,
-          "score": 0.43
+          "start": 322.54,
+          "end": 322.68
         },
         {
-          "word": "-Feder",
-          "startSec": 320.62,
-          "endSec": 321.02,
-          "score": 0.69
+          "word": "-Fitr",
+          "start": 322.68,
+          "end": 323.22
         },
         {
           "word": "and",
-          "startSec": 321.02,
-          "endSec": 321.5,
-          "score": 0.86
+          "start": 323.22,
+          "end": 323.54
         },
         {
           "word": "Eid",
-          "startSec": 321.5,
-          "endSec": 321.8,
-          "score": 0.99
+          "start": 323.54,
+          "end": 323.9
         },
         {
           "word": "al",
-          "startSec": 321.8,
-          "endSec": 322.04,
-          "score": 0.99
+          "start": 323.9,
+          "end": 324.1
         },
         {
-          "word": "-Ada",
-          "startSec": 322.04,
-          "endSec": 322.6,
-          "score": 0.53
+          "word": "-Adha",
+          "start": 324.1,
+          "end": 324.6
         },
         {
-          "word": "islamic",
-          "startSec": 322.6,
-          "endSec": 323.64,
-          "score": 0.65
+          "word": "Islamic",
+          "start": 324.6,
+          "end": 325.36
         },
         {
-          "word": "holidays,",
-          "startSec": 323.64,
-          "endSec": 324.08,
-          "score": 0.89
-        },
-        {
-          "word": "Constitution",
-          "startSec": 325.22,
-          "endSec": 325.9,
-          "score": 0.91
-        },
-        {
-          "word": "Day,",
-          "startSec": 325.9,
-          "endSec": 326.78,
-          "score": 0.95
-        },
-        {
-          "word": "December",
-          "startSec": 327.5,
-          "endSec": 327.62,
-          "score": 0.97
-        },
-        {
-          "word": "8th.",
-          "startSec": 327.62,
-          "endSec": 328.1,
-          "score": 0.97
+          "word": "holidays.",
+          "start": 325.36,
+          "end": 326.72
         }
       ]
     },
     {
       "id": 60,
-      "start": 328.96,
-      "end": 333.07,
-      "text": "Weddings, big events with food, music and dance.",
+      "start": 327.2,
+      "end": 331.04,
+      "text": "Constitution Day, December 8th.",
       "words": [
         {
-          "word": "Weddings,",
-          "startSec": 329.16,
-          "endSec": 329.96,
-          "score": 0.97
+          "word": "Constitution",
+          "start": 327.2,
+          "end": 328.06
         },
         {
-          "word": "big",
-          "startSec": 330.3,
-          "endSec": 330.48,
-          "score": 0.95
+          "word": "Day,",
+          "start": 328.06,
+          "end": 328.86
         },
         {
-          "word": "events",
-          "startSec": 330.48,
-          "endSec": 330.88,
-          "score": 1.0
+          "word": "December",
+          "start": 329.32,
+          "end": 329.6
         },
         {
-          "word": "with",
-          "startSec": 330.88,
-          "endSec": 331.24,
-          "score": 1.0
-        },
-        {
-          "word": "food,",
-          "startSec": 331.24,
-          "endSec": 331.56,
-          "score": 0.97
-        },
-        {
-          "word": "music",
-          "startSec": 331.94,
-          "endSec": 332.32,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 332.32,
-          "endSec": 332.62,
-          "score": 0.71
-        },
-        {
-          "word": "dance.",
-          "startSec": 332.62,
-          "endSec": 332.92,
-          "score": 1.0
+          "word": "8th.",
+          "start": 329.6,
+          "end": 331.04
         }
       ]
     },
     {
       "id": 61,
-      "start": 333.37,
-      "end": 338.87,
-      "text": "People wear traditional clothes and hospitality is very important.",
+      "start": 331.04,
+      "end": 335.54,
+      "text": "Weddings, big events with food, music and dance.",
       "words": [
         {
-          "word": "People",
-          "startSec": 333.57,
-          "endSec": 334.14,
-          "score": 0.39
+          "word": "Weddings,",
+          "start": 331.04,
+          "end": 331.88
         },
         {
-          "word": "wear",
-          "startSec": 334.14,
-          "endSec": 334.52,
-          "score": 1.0
+          "word": "big",
+          "start": 332.28,
+          "end": 332.52
         },
         {
-          "word": "traditional",
-          "startSec": 334.52,
-          "endSec": 335.18,
-          "score": 1.0
+          "word": "events",
+          "start": 332.52,
+          "end": 332.94
         },
         {
-          "word": "clothes",
-          "startSec": 335.18,
-          "endSec": 336.0,
-          "score": 1.0
+          "word": "with",
+          "start": 332.94,
+          "end": 333.3
+        },
+        {
+          "word": "food,",
+          "start": 333.3,
+          "end": 333.72
+        },
+        {
+          "word": "music",
+          "start": 333.92,
+          "end": 334.3
         },
         {
           "word": "and",
-          "startSec": 336.0,
-          "endSec": 336.64,
-          "score": 0.65
+          "start": 334.3,
+          "end": 334.64
         },
         {
-          "word": "hospitality",
-          "startSec": 336.64,
-          "endSec": 337.12,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 337.12,
-          "endSec": 337.86,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 337.86,
-          "endSec": 338.1,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 338.1,
-          "endSec": 338.72,
-          "score": 1.0
+          "word": "dance.",
+          "start": 334.64,
+          "end": 335.54
         }
       ]
     },
     {
       "id": 62,
-      "start": 339.71,
-      "end": 342.56,
-      "text": "Some fun facts about Uzbekistan.",
+      "start": 335.8,
+      "end": 341.18,
+      "text": "People wear traditional clothes and hospitality is very important.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 339.91,
-          "endSec": 340.19,
-          "score": 0.98
+          "word": "People",
+          "start": 335.8,
+          "end": 336.14
         },
         {
-          "word": "fun",
-          "startSec": 340.19,
-          "endSec": 340.51,
-          "score": 1.0
+          "word": "wear",
+          "start": 336.14,
+          "end": 336.62
         },
         {
-          "word": "facts",
-          "startSec": 340.51,
-          "endSec": 340.91,
-          "score": 1.0
+          "word": "traditional",
+          "start": 336.62,
+          "end": 337.28
         },
         {
-          "word": "about",
-          "startSec": 340.91,
-          "endSec": 341.45,
-          "score": 1.0
+          "word": "clothes",
+          "start": 337.28,
+          "end": 338.08
         },
         {
-          "word": "Uzbekistan.",
-          "startSec": 341.45,
-          "endSec": 342.41,
-          "score": 1.0
+          "word": "and",
+          "start": 338.08,
+          "end": 338.64
+        },
+        {
+          "word": "hospitality",
+          "start": 338.64,
+          "end": 339.3
+        },
+        {
+          "word": "is",
+          "start": 339.3,
+          "end": 339.86
+        },
+        {
+          "word": "very",
+          "start": 339.86,
+          "end": 340.2
+        },
+        {
+          "word": "important.",
+          "start": 340.2,
+          "end": 341.18
         }
       ]
     },
     {
       "id": 63,
-      "start": 343.54,
-      "end": 349.65,
-      "text": "Uzbekistan is one of only two double landlocked countries in the world.",
+      "start": 341.86,
+      "end": 344.92,
+      "text": "Some fun facts about Uzbekistan.",
       "words": [
         {
-          "word": "Uzbekistan",
-          "startSec": 343.74,
-          "endSec": 344.8,
-          "score": 1.0
+          "word": "Some",
+          "start": 341.86,
+          "end": 342.22
         },
         {
-          "word": "is",
-          "startSec": 344.8,
-          "endSec": 345.36,
-          "score": 1.0
+          "word": "fun",
+          "start": 342.22,
+          "end": 342.58
         },
         {
-          "word": "one",
-          "startSec": 345.36,
-          "endSec": 345.66,
-          "score": 0.99
+          "word": "facts",
+          "start": 342.58,
+          "end": 343.04
         },
         {
-          "word": "of",
-          "startSec": 345.66,
-          "endSec": 345.86,
-          "score": 1.0
+          "word": "about",
+          "start": 343.04,
+          "end": 343.5
         },
         {
-          "word": "only",
-          "startSec": 345.86,
-          "endSec": 346.38,
-          "score": 0.99
-        },
-        {
-          "word": "two",
-          "startSec": 346.38,
-          "endSec": 346.72,
-          "score": 0.96
-        },
-        {
-          "word": "double",
-          "startSec": 346.72,
-          "endSec": 347.36,
-          "score": 0.99
-        },
-        {
-          "word": "landlocked",
-          "startSec": 347.36,
-          "endSec": 348.0,
-          "score": 0.86
-        },
-        {
-          "word": "countries",
-          "startSec": 348.0,
-          "endSec": 348.68,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 348.68,
-          "endSec": 348.98,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 348.98,
-          "endSec": 349.14,
-          "score": 1.0
-        },
-        {
-          "word": "world.",
-          "startSec": 349.14,
-          "endSec": 349.5,
-          "score": 1.0
+          "word": "Uzbekistan.",
+          "start": 343.5,
+          "end": 344.92
         }
       ]
     },
     {
       "id": 64,
-      "start": 350.26,
-      "end": 356.65,
-      "text": "Samarkand, Bukhara and Kiva are UNESCO World Heritage Sites.",
+      "start": 346.04,
+      "end": 351.96,
+      "text": "Uzbekistan is one of only two double landlocked countries in the world.",
       "words": [
         {
-          "word": "Samarkand,",
-          "startSec": 350.46,
-          "endSec": 351.42,
-          "score": 0.62
+          "word": "Uzbekistan",
+          "start": 346.04,
+          "end": 346.96
         },
         {
-          "word": "Bukhara",
-          "startSec": 351.92,
-          "endSec": 352.56,
-          "score": 0.86
+          "word": "is",
+          "start": 346.96,
+          "end": 347.42
         },
         {
-          "word": "and",
-          "startSec": 352.56,
-          "endSec": 353.18,
-          "score": 0.49
+          "word": "one",
+          "start": 347.42,
+          "end": 347.72
         },
         {
-          "word": "Kiva",
-          "startSec": 353.18,
-          "endSec": 353.7,
-          "score": 0.81
+          "word": "of",
+          "start": 347.72,
+          "end": 347.92
         },
         {
-          "word": "are",
-          "startSec": 353.7,
-          "endSec": 354.22,
-          "score": 0.97
+          "word": "only",
+          "start": 347.92,
+          "end": 348.38
         },
         {
-          "word": "UNESCO",
-          "startSec": 354.22,
-          "endSec": 354.66,
-          "score": 0.96
+          "word": "two",
+          "start": 348.38,
+          "end": 348.78
         },
         {
-          "word": "World",
-          "startSec": 354.66,
-          "endSec": 355.52,
-          "score": 0.75
+          "word": "double",
+          "start": 348.78,
+          "end": 349.38
         },
         {
-          "word": "Heritage",
-          "startSec": 355.52,
-          "endSec": 355.92,
-          "score": 0.99
+          "word": "landlocked",
+          "start": 349.38,
+          "end": 350.7
         },
         {
-          "word": "Sites.",
-          "startSec": 355.92,
-          "endSec": 356.5,
-          "score": 0.37
+          "word": "countries",
+          "start": 350.7,
+          "end": 350.7
+        },
+        {
+          "word": "in",
+          "start": 350.7,
+          "end": 351.02
+        },
+        {
+          "word": "the",
+          "start": 351.02,
+          "end": 351.16
+        },
+        {
+          "word": "world.",
+          "start": 351.16,
+          "end": 351.96
         }
       ]
     },
     {
       "id": 65,
-      "start": 357.3,
-      "end": 363.53,
-      "text": "The flag is blue, white and green with a crescent, moon and stars.",
+      "start": 352.62,
+      "end": 359.16,
+      "text": "Samarkand, Bukhara and Kiva are UNESCO World Heritage Sites.",
       "words": [
         {
-          "word": "The",
-          "startSec": 357.5,
-          "endSec": 357.9,
-          "score": 0.32
+          "word": "Samarkand,",
+          "start": 352.62,
+          "end": 353.62
         },
         {
-          "word": "flag",
-          "startSec": 357.9,
-          "endSec": 358.3,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 358.3,
-          "endSec": 358.64,
-          "score": 1.0
-        },
-        {
-          "word": "blue,",
-          "startSec": 358.64,
-          "endSec": 359.06,
-          "score": 0.99
-        },
-        {
-          "word": "white",
-          "startSec": 359.54,
-          "endSec": 360.24,
-          "score": 0.99
+          "word": "Bukhara",
+          "start": 353.92,
+          "end": 354.66
         },
         {
           "word": "and",
-          "startSec": 360.24,
-          "endSec": 360.72,
-          "score": 0.55
+          "start": 354.66,
+          "end": 355.16
         },
         {
-          "word": "green",
-          "startSec": 360.72,
-          "endSec": 361.08,
-          "score": 1.0
+          "word": "Kiva",
+          "start": 355.16,
+          "end": 355.7
         },
         {
-          "word": "with",
-          "startSec": 361.08,
-          "endSec": 361.52,
-          "score": 0.78
+          "word": "are",
+          "start": 355.7,
+          "end": 356.24
         },
         {
-          "word": "a",
-          "startSec": 361.52,
-          "endSec": 361.68,
-          "score": 0.61
+          "word": "UNESCO",
+          "start": 356.24,
+          "end": 356.96
         },
         {
-          "word": "crescent,",
-          "startSec": 361.68,
-          "endSec": 362.14,
-          "score": 0.98
+          "word": "World",
+          "start": 356.96,
+          "end": 357.5
         },
         {
-          "word": "moon",
-          "startSec": 362.5,
-          "endSec": 362.56,
-          "score": 0.99
+          "word": "Heritage",
+          "start": 357.5,
+          "end": 358.12
         },
         {
-          "word": "and",
-          "startSec": 362.56,
-          "endSec": 362.92,
-          "score": 0.81
-        },
-        {
-          "word": "stars.",
-          "startSec": 362.92,
-          "endSec": 363.38,
-          "score": 1.0
+          "word": "Sites.",
+          "start": 358.12,
+          "end": 359.16
         }
       ]
     },
     {
       "id": 66,
-      "start": 364.68,
-      "end": 369.87,
-      "text": "Uzbek hospitality is famous, guests are always welcome.",
+      "start": 359.5,
+      "end": 365.86,
+      "text": "The flag is blue, white and green with a crescent moon and stars.",
       "words": [
         {
-          "word": "Uzbek",
-          "startSec": 364.88,
-          "endSec": 365.24,
-          "score": 0.75
+          "word": "The",
+          "start": 359.5,
+          "end": 359.9
         },
         {
-          "word": "hospitality",
-          "startSec": 365.24,
-          "endSec": 366.36,
-          "score": 0.77
+          "word": "flag",
+          "start": 359.9,
+          "end": 360.28
         },
         {
           "word": "is",
-          "startSec": 366.36,
-          "endSec": 366.98,
-          "score": 1.0
+          "start": 360.28,
+          "end": 360.68
         },
         {
-          "word": "famous,",
-          "startSec": 366.98,
-          "endSec": 367.34,
-          "score": 1.0
+          "word": "blue,",
+          "start": 360.68,
+          "end": 361.16
         },
         {
-          "word": "guests",
-          "startSec": 368.06,
-          "endSec": 368.28,
-          "score": 0.98
+          "word": "white",
+          "start": 361.84,
+          "end": 362.26
         },
         {
-          "word": "are",
-          "startSec": 368.28,
-          "endSec": 368.68,
-          "score": 1.0
+          "word": "and",
+          "start": 362.26,
+          "end": 362.74
         },
         {
-          "word": "always",
-          "startSec": 368.68,
-          "endSec": 369.08,
-          "score": 1.0
+          "word": "green",
+          "start": 362.74,
+          "end": 363.16
         },
         {
-          "word": "welcome.",
-          "startSec": 369.08,
-          "endSec": 369.72,
-          "score": 1.0
+          "word": "with",
+          "start": 363.16,
+          "end": 363.54
+        },
+        {
+          "word": "a",
+          "start": 363.54,
+          "end": 363.78
+        },
+        {
+          "word": "crescent",
+          "start": 363.78,
+          "end": 364.26
+        },
+        {
+          "word": "moon",
+          "start": 364.26,
+          "end": 364.68
+        },
+        {
+          "word": "and",
+          "start": 364.68,
+          "end": 364.94
+        },
+        {
+          "word": "stars.",
+          "start": 364.94,
+          "end": 365.86
         }
       ]
     },
     {
       "id": 67,
-      "start": 371.06,
-      "end": 374.59,
-      "text": "Most houses have a teapot ready for visitors.",
+      "start": 366.64,
+      "end": 369.82,
+      "text": "Uzbek hospitality is famous.",
       "words": [
         {
-          "word": "Most",
-          "startSec": 371.26,
-          "endSec": 371.58,
-          "score": 0.99
+          "word": "Uzbek",
+          "start": 366.64,
+          "end": 367.54
         },
         {
-          "word": "houses",
-          "startSec": 371.58,
-          "endSec": 372.04,
-          "score": 1.0
+          "word": "hospitality",
+          "start": 367.54,
+          "end": 368.32
         },
         {
-          "word": "have",
-          "startSec": 372.04,
-          "endSec": 372.64,
-          "score": 1.0
+          "word": "is",
+          "start": 368.32,
+          "end": 369.0
         },
         {
-          "word": "a",
-          "startSec": 372.64,
-          "endSec": 372.8,
-          "score": 0.98
-        },
-        {
-          "word": "teapot",
-          "startSec": 372.8,
-          "endSec": 373.4,
-          "score": 0.96
-        },
-        {
-          "word": "ready",
-          "startSec": 373.4,
-          "endSec": 373.7,
-          "score": 0.99
-        },
-        {
-          "word": "for",
-          "startSec": 373.7,
-          "endSec": 374.04,
-          "score": 1.0
-        },
-        {
-          "word": "visitors.",
-          "startSec": 374.04,
-          "endSec": 374.44,
-          "score": 1.0
+          "word": "famous.",
+          "start": 369.0,
+          "end": 369.82
         }
       ]
     },
     {
       "id": 68,
-      "start": 375.69,
-      "end": 378.96,
-      "text": "Now you know many things about Uzbekistan.",
+      "start": 370.08,
+      "end": 372.1,
+      "text": "Guests are always welcome.",
       "words": [
         {
-          "word": "Now",
-          "startSec": 375.89,
-          "endSec": 376.23,
-          "score": 0.99
+          "word": "Guests",
+          "start": 370.08,
+          "end": 370.48
         },
         {
-          "word": "you",
-          "startSec": 376.23,
-          "endSec": 376.51,
-          "score": 0.92
+          "word": "are",
+          "start": 370.48,
+          "end": 370.7
         },
         {
-          "word": "know",
-          "startSec": 376.51,
-          "endSec": 376.73,
-          "score": 1.0
+          "word": "always",
+          "start": 370.7,
+          "end": 371.12
         },
         {
-          "word": "many",
-          "startSec": 376.73,
-          "endSec": 377.01,
-          "score": 1.0
-        },
-        {
-          "word": "things",
-          "startSec": 377.01,
-          "endSec": 377.53,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 377.53,
-          "endSec": 377.89,
-          "score": 1.0
-        },
-        {
-          "word": "Uzbekistan.",
-          "startSec": 377.89,
-          "endSec": 378.81,
-          "score": 1.0
+          "word": "welcome.",
+          "start": 371.12,
+          "end": 372.1
         }
       ]
     },
     {
       "id": 69,
-      "start": 379.37,
-      "end": 383.9,
-      "text": "You know where it is, what people eat and how they live.",
+      "start": 373.06,
+      "end": 376.96,
+      "text": "Most houses have a teapot ready for visitors.",
       "words": [
         {
-          "word": "You",
-          "startSec": 379.57,
-          "endSec": 379.97,
-          "score": 0.99
+          "word": "Most",
+          "start": 373.06,
+          "end": 373.66
         },
         {
-          "word": "know",
-          "startSec": 379.97,
-          "endSec": 380.21,
-          "score": 1.0
+          "word": "houses",
+          "start": 373.66,
+          "end": 374.22
         },
         {
-          "word": "where",
-          "startSec": 380.21,
-          "endSec": 380.53,
-          "score": 0.99
+          "word": "have",
+          "start": 374.22,
+          "end": 374.64
         },
         {
-          "word": "it",
-          "startSec": 380.53,
-          "endSec": 380.73,
-          "score": 1.0
+          "word": "a",
+          "start": 374.64,
+          "end": 374.88
         },
         {
-          "word": "is,",
-          "startSec": 380.73,
-          "endSec": 381.03,
-          "score": 1.0
+          "word": "teapot",
+          "start": 374.88,
+          "end": 375.38
         },
         {
-          "word": "what",
-          "startSec": 381.35,
-          "endSec": 381.57,
-          "score": 1.0
+          "word": "ready",
+          "start": 375.38,
+          "end": 375.76
         },
         {
-          "word": "people",
-          "startSec": 381.57,
-          "endSec": 381.87,
-          "score": 1.0
+          "word": "for",
+          "start": 375.76,
+          "end": 376.04
         },
         {
-          "word": "eat",
-          "startSec": 381.87,
-          "endSec": 382.35,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 382.35,
-          "endSec": 382.85,
-          "score": 0.77
-        },
-        {
-          "word": "how",
-          "startSec": 382.85,
-          "endSec": 383.13,
-          "score": 1.0
-        },
-        {
-          "word": "they",
-          "startSec": 383.13,
-          "endSec": 383.37,
-          "score": 1.0
-        },
-        {
-          "word": "live.",
-          "startSec": 383.37,
-          "endSec": 383.75,
-          "score": 1.0
+          "word": "visitors.",
+          "start": 376.04,
+          "end": 376.96
         }
       ]
     },
     {
       "id": 70,
-      "start": 384.24,
-      "end": 389.04,
-      "text": "You learned about the cities, food and traditions.",
+      "start": 377.48,
+      "end": 381.3,
+      "text": "Now you know many things about Uzbekistan.",
       "words": [
         {
-          "word": "You",
-          "startSec": 384.44,
-          "endSec": 384.83,
-          "score": 0.55
+          "word": "Now",
+          "start": 377.48,
+          "end": 378.24
         },
         {
-          "word": "learned",
-          "startSec": 384.83,
-          "endSec": 385.09,
-          "score": 0.93
+          "word": "you",
+          "start": 378.24,
+          "end": 378.54
+        },
+        {
+          "word": "know",
+          "start": 378.54,
+          "end": 378.76
+        },
+        {
+          "word": "many",
+          "start": 378.76,
+          "end": 379.1
+        },
+        {
+          "word": "things",
+          "start": 379.1,
+          "end": 379.52
         },
         {
           "word": "about",
-          "startSec": 385.09,
-          "endSec": 385.51,
-          "score": 0.99
+          "start": 379.52,
+          "end": 379.92
         },
         {
-          "word": "the",
-          "startSec": 385.51,
-          "endSec": 385.75,
-          "score": 0.99
-        },
-        {
-          "word": "cities,",
-          "startSec": 385.75,
-          "endSec": 386.25,
-          "score": 0.92
-        },
-        {
-          "word": "food",
-          "startSec": 386.25,
-          "endSec": 387.41,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 387.41,
-          "endSec": 388.41,
-          "score": 0.34
-        },
-        {
-          "word": "traditions.",
-          "startSec": 388.41,
-          "endSec": 388.89,
-          "score": 0.99
+          "word": "Uzbekistan.",
+          "start": 379.92,
+          "end": 381.3
         }
       ]
     },
     {
       "id": 71,
-      "start": 390.03,
-      "end": 391.3,
-      "text": "Well done.",
+      "start": 381.64,
+      "end": 386.3,
+      "text": "You know where it is, what people eat and how they live.",
       "words": [
         {
-          "word": "Well",
-          "startSec": 390.23,
-          "endSec": 390.73,
-          "score": 0.99
+          "word": "You",
+          "start": 381.64,
+          "end": 381.98
         },
         {
-          "word": "done.",
-          "startSec": 390.73,
-          "endSec": 391.15,
-          "score": 0.99
+          "word": "know",
+          "start": 381.98,
+          "end": 382.22
+        },
+        {
+          "word": "where",
+          "start": 382.22,
+          "end": 382.52
+        },
+        {
+          "word": "it",
+          "start": 382.52,
+          "end": 382.76
+        },
+        {
+          "word": "is,",
+          "start": 382.76,
+          "end": 383.16
+        },
+        {
+          "word": "what",
+          "start": 383.44,
+          "end": 383.58
+        },
+        {
+          "word": "people",
+          "start": 383.58,
+          "end": 383.96
+        },
+        {
+          "word": "eat",
+          "start": 383.96,
+          "end": 384.48
+        },
+        {
+          "word": "and",
+          "start": 384.48,
+          "end": 384.88
+        },
+        {
+          "word": "how",
+          "start": 384.88,
+          "end": 385.18
+        },
+        {
+          "word": "they",
+          "start": 385.18,
+          "end": 385.4
+        },
+        {
+          "word": "live.",
+          "start": 385.4,
+          "end": 386.3
         }
       ]
     },
     {
       "id": 72,
-      "start": 395.73,
-      "end": 396.96,
-      "text": "I am Emily.",
+      "start": 386.52,
+      "end": 391.34,
+      "text": "You learned about the cities, food and traditions.",
       "words": [
         {
-          "word": "I",
-          "startSec": 395.93,
-          "endSec": 396.25,
-          "score": 1.0
+          "word": "You",
+          "start": 386.52,
+          "end": 386.88
         },
         {
-          "word": "am",
-          "startSec": 396.25,
-          "endSec": 396.41,
-          "score": 0.96
+          "word": "learned",
+          "start": 386.88,
+          "end": 387.22
         },
         {
-          "word": "Emily.",
-          "startSec": 396.41,
-          "endSec": 396.81,
-          "score": 0.98
+          "word": "about",
+          "start": 387.22,
+          "end": 387.52
+        },
+        {
+          "word": "the",
+          "start": 387.52,
+          "end": 387.78
+        },
+        {
+          "word": "cities,",
+          "start": 387.78,
+          "end": 388.2
+        },
+        {
+          "word": "food",
+          "start": 388.98,
+          "end": 389.62
+        },
+        {
+          "word": "and",
+          "start": 389.62,
+          "end": 390.44
+        },
+        {
+          "word": "traditions.",
+          "start": 390.44,
+          "end": 391.34
         }
       ]
     },
     {
       "id": 73,
-      "start": 399.19,
-      "end": 399.64,
-      "text": "Goodbye.",
+      "start": 392.06,
+      "end": 393.56,
+      "text": "Well done.",
       "words": [
         {
-          "word": "Goodbye.",
-          "startSec": 399.39,
-          "endSec": 399.49,
-          "score": 0.77
+          "word": "Well",
+          "start": 392.06,
+          "end": 392.78
+        },
+        {
+          "word": "done.",
+          "start": 392.78,
+          "end": 393.56
         }
       ]
     },
     {
       "id": 74,
-      "start": 400.13,
-      "end": 403.14,
-      "text": "Or as they say in Uzbek, shite.",
+      "start": 393.92,
+      "end": 397.34,
+      "text": "Thank you for listening to the Slow English Podcast.",
       "words": [
         {
-          "word": "Or",
-          "startSec": 400.33,
-          "endSec": 400.55,
-          "score": 0.93
+          "word": "Thank",
+          "start": 393.92,
+          "end": 394.22
         },
         {
-          "word": "as",
-          "startSec": 400.55,
-          "endSec": 400.79,
-          "score": 0.88
+          "word": "you",
+          "start": 394.22,
+          "end": 394.44
         },
         {
-          "word": "they",
-          "startSec": 400.79,
-          "endSec": 401.01,
-          "score": 1.0
+          "word": "for",
+          "start": 394.44,
+          "end": 394.66
         },
         {
-          "word": "say",
-          "startSec": 401.01,
-          "endSec": 401.31,
-          "score": 1.0
+          "word": "listening",
+          "start": 394.66,
+          "end": 395.16
         },
         {
-          "word": "in",
-          "startSec": 401.31,
-          "endSec": 401.55,
-          "score": 0.91
+          "word": "to",
+          "start": 395.16,
+          "end": 395.48
         },
         {
-          "word": "Uzbek,",
-          "startSec": 401.55,
-          "endSec": 401.95,
-          "score": 0.77
+          "word": "the",
+          "start": 395.48,
+          "end": 395.66
         },
         {
-          "word": "shite.",
-          "startSec": 402.83,
-          "endSec": 402.99,
-          "score": 0.45
+          "word": "Slow",
+          "start": 395.66,
+          "end": 395.98
+        },
+        {
+          "word": "English",
+          "start": 395.98,
+          "end": 396.3
+        },
+        {
+          "word": "Podcast.",
+          "start": 396.3,
+          "end": 397.34
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 398.0,
+      "end": 399.23,
+      "text": "I am Emily.",
+      "words": [
+        {
+          "word": "I",
+          "start": 398.0,
+          "end": 398.26
+        },
+        {
+          "word": "am",
+          "start": 398.26,
+          "end": 398.42
+        },
+        {
+          "word": "Emily.",
+          "start": 398.42,
+          "end": 399.23
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 75
 }

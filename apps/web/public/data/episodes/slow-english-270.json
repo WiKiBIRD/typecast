@@ -15,3209 +15,2826 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.21,
-      "text": "Hello everyone. Welcome to the Slow English Podcast. I am Emily, your host.",
+      "start": 2.08,
+      "end": 4.6,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.36,
-          "score": 0.74
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.36,
-          "endSec": 1.0,
-          "score": 0.62
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.02,
-          "endSec": 2.66,
-          "score": 0.99
+          "start": 2.08,
+          "end": 2.66
         },
         {
           "word": "to",
-          "startSec": 2.66,
-          "endSec": 2.94,
-          "score": 1.0
+          "start": 2.66,
+          "end": 2.98
         },
         {
           "word": "the",
-          "startSec": 2.94,
-          "endSec": 3.08,
-          "score": 0.88
+          "start": 2.98,
+          "end": 3.2
         },
         {
           "word": "Slow",
-          "startSec": 3.08,
-          "endSec": 3.32,
-          "score": 0.88
+          "start": 3.2,
+          "end": 3.42
         },
         {
           "word": "English",
-          "startSec": 3.32,
-          "endSec": 3.64,
-          "score": 0.84
+          "start": 3.42,
+          "end": 3.76
         },
         {
           "word": "Podcast.",
-          "startSec": 3.64,
-          "endSec": 4.2,
-          "score": 0.84
-        },
-        {
-          "word": "I",
-          "startSec": 5.18,
-          "endSec": 5.42,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.42,
-          "endSec": 5.64,
-          "score": 0.97
-        },
-        {
-          "word": "Emily,",
-          "startSec": 5.64,
-          "endSec": 6.08,
-          "score": 0.38
-        },
-        {
-          "word": "your",
-          "startSec": 6.5,
-          "endSec": 6.68,
-          "score": 0.98
-        },
-        {
-          "word": "host.",
-          "startSec": 6.68,
-          "endSec": 7.06,
-          "score": 0.99
+          "start": 3.76,
+          "end": 4.6
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.0,
-      "end": 16.09,
-      "text": "Today we are traveling to a small and beautiful city in the Middle East. It is called Salala.",
+      "start": 5.2,
+      "end": 7.5,
+      "text": "I am Emily, your host.",
       "words": [
         {
-          "word": "Today",
-          "startSec": 8.2,
-          "endSec": 8.68,
-          "score": 0.99
+          "word": "I",
+          "start": 5.2,
+          "end": 5.48
         },
         {
-          "word": "we",
-          "startSec": 8.68,
-          "endSec": 9.18,
-          "score": 0.52
+          "word": "am",
+          "start": 5.48,
+          "end": 5.7
         },
         {
-          "word": "are",
-          "startSec": 9.18,
-          "endSec": 9.3,
-          "score": 0.97
+          "word": "Emily,",
+          "start": 5.7,
+          "end": 6.18
         },
         {
-          "word": "traveling",
-          "startSec": 9.3,
-          "endSec": 9.84,
-          "score": 0.9
+          "word": "your",
+          "start": 6.64,
+          "end": 6.76
         },
         {
-          "word": "to",
-          "startSec": 9.84,
-          "endSec": 10.36,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 10.36,
-          "endSec": 10.54,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 10.54,
-          "endSec": 11.08,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 11.08,
-          "endSec": 11.46,
-          "score": 0.99
-        },
-        {
-          "word": "beautiful",
-          "startSec": 11.46,
-          "endSec": 11.94,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.94,
-          "endSec": 12.52,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 12.52,
-          "endSec": 12.94,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 12.94,
-          "endSec": 13.1,
-          "score": 1.0
-        },
-        {
-          "word": "Middle",
-          "startSec": 13.1,
-          "endSec": 13.3,
-          "score": 0.93
-        },
-        {
-          "word": "East.",
-          "startSec": 13.3,
-          "endSec": 13.88,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 14.5,
-          "endSec": 14.74,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 14.74,
-          "endSec": 14.92,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 14.92,
-          "endSec": 15.24,
-          "score": 1.0
-        },
-        {
-          "word": "Salala.",
-          "startSec": 15.24,
-          "endSec": 15.94,
-          "score": 0.66
+          "word": "host.",
+          "start": 6.76,
+          "end": 7.5
         }
       ]
     },
     {
       "id": 3,
-      "start": 16.82,
-      "end": 22.17,
-      "text": "Salala is in Oman, a country on the Arabian Peninsula.",
+      "start": 8.32,
+      "end": 14.3,
+      "text": "Today, we are traveling to a small and beautiful city in the Middle East.",
       "words": [
         {
-          "word": "Salala",
-          "startSec": 17.02,
-          "endSec": 17.44,
-          "score": 0.97
+          "word": "Today,",
+          "start": 8.32,
+          "end": 8.72
         },
         {
-          "word": "is",
-          "startSec": 17.44,
-          "endSec": 18.1,
-          "score": 0.99
+          "word": "we",
+          "start": 9.04,
+          "end": 9.2
         },
         {
-          "word": "in",
-          "startSec": 18.1,
-          "endSec": 18.34,
-          "score": 0.63
+          "word": "are",
+          "start": 9.2,
+          "end": 9.32
         },
         {
-          "word": "Oman,",
-          "startSec": 18.34,
-          "endSec": 18.68,
-          "score": 0.99
+          "word": "traveling",
+          "start": 9.32,
+          "end": 9.94
+        },
+        {
+          "word": "to",
+          "start": 9.94,
+          "end": 10.42
         },
         {
           "word": "a",
-          "startSec": 19.42,
-          "endSec": 19.7,
-          "score": 1.0
+          "start": 10.42,
+          "end": 10.6
         },
         {
-          "word": "country",
-          "startSec": 19.7,
-          "endSec": 20.28,
-          "score": 1.0
+          "word": "small",
+          "start": 10.6,
+          "end": 11.24
         },
         {
-          "word": "on",
-          "startSec": 20.28,
-          "endSec": 20.6,
-          "score": 1.0
+          "word": "and",
+          "start": 11.24,
+          "end": 11.54
+        },
+        {
+          "word": "beautiful",
+          "start": 11.54,
+          "end": 12.08
+        },
+        {
+          "word": "city",
+          "start": 12.08,
+          "end": 12.66
+        },
+        {
+          "word": "in",
+          "start": 12.66,
+          "end": 13.02
         },
         {
           "word": "the",
-          "startSec": 20.6,
-          "endSec": 20.78,
-          "score": 1.0
+          "start": 13.02,
+          "end": 13.16
         },
         {
-          "word": "Arabian",
-          "startSec": 20.78,
-          "endSec": 21.2,
-          "score": 1.0
+          "word": "Middle",
+          "start": 13.16,
+          "end": 13.38
         },
         {
-          "word": "Peninsula.",
-          "startSec": 21.2,
-          "endSec": 22.02,
-          "score": 0.78
+          "word": "East.",
+          "start": 13.38,
+          "end": 14.3
         }
       ]
     },
     {
       "id": 4,
-      "start": 22.92,
-      "end": 27.95,
-      "text": "This city is full of nature, history, and friendly people.",
+      "start": 14.6,
+      "end": 16.44,
+      "text": "It is called Salalah.",
       "words": [
         {
-          "word": "This",
-          "startSec": 23.12,
-          "endSec": 23.54,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 23.54,
-          "endSec": 23.96,
-          "score": 1.0
+          "word": "It",
+          "start": 14.6,
+          "end": 14.8
         },
         {
           "word": "is",
-          "startSec": 23.96,
-          "endSec": 24.28,
-          "score": 1.0
+          "start": 14.8,
+          "end": 14.96
         },
         {
-          "word": "full",
-          "startSec": 24.28,
-          "endSec": 24.56,
-          "score": 1.0
+          "word": "called",
+          "start": 14.96,
+          "end": 15.36
         },
         {
-          "word": "of",
-          "startSec": 24.56,
-          "endSec": 24.76,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 24.76,
-          "endSec": 25.34,
-          "score": 0.99
-        },
-        {
-          "word": "history,",
-          "startSec": 25.9,
-          "endSec": 26.0,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 26.66,
-          "endSec": 26.72,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 26.72,
-          "endSec": 27.08,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 27.08,
-          "endSec": 27.8,
-          "score": 1.0
+          "word": "Salalah.",
+          "start": 15.36,
+          "end": 16.44
         }
       ]
     },
     {
       "id": 5,
-      "start": 27.76,
-      "end": 34.76,
-      "text": "Let's explore Salala together. Part 2, where is Salala?",
+      "start": 16.82,
+      "end": 22.5,
+      "text": "Salalah is an Oman, a country on the Arabian Peninsula.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 27.96,
-          "endSec": 29.36,
-          "score": 0.77
-        },
-        {
-          "word": "explore",
-          "startSec": 29.36,
-          "endSec": 29.8,
-          "score": 1.0
-        },
-        {
-          "word": "Salala",
-          "startSec": 29.8,
-          "endSec": 30.38,
-          "score": 0.53
-        },
-        {
-          "word": "together.",
-          "startSec": 30.38,
-          "endSec": 30.92,
-          "score": 0.88
-        },
-        {
-          "word": "Part",
-          "startSec": 32.45,
-          "endSec": 32.63,
-          "score": 0.89
-        },
-        {
-          "word": "2,",
-          "startSec": 32.63,
-          "endSec": 33.09,
-          "score": 0.5
-        },
-        {
-          "word": "where",
-          "startSec": 33.83,
-          "endSec": 33.87,
-          "score": 0.63
+          "word": "Salalah",
+          "start": 16.82,
+          "end": 17.58
         },
         {
           "word": "is",
-          "startSec": 33.87,
-          "endSec": 34.11,
-          "score": 0.99
+          "start": 17.58,
+          "end": 18.18
         },
         {
-          "word": "Salala?",
-          "startSec": 34.11,
-          "endSec": 34.61,
-          "score": 0.98
+          "word": "an",
+          "start": 18.18,
+          "end": 18.4
+        },
+        {
+          "word": "Oman,",
+          "start": 18.4,
+          "end": 18.88
+        },
+        {
+          "word": "a",
+          "start": 19.54,
+          "end": 19.76
+        },
+        {
+          "word": "country",
+          "start": 19.76,
+          "end": 20.34
+        },
+        {
+          "word": "on",
+          "start": 20.34,
+          "end": 20.68
+        },
+        {
+          "word": "the",
+          "start": 20.68,
+          "end": 20.84
+        },
+        {
+          "word": "Arabian",
+          "start": 20.84,
+          "end": 21.56
+        },
+        {
+          "word": "Peninsula.",
+          "start": 21.56,
+          "end": 22.5
         }
       ]
     },
     {
       "id": 6,
-      "start": 34.95,
-      "end": 39.46,
-      "text": "Salala is in the south of Oman near the Arabian Sea.",
+      "start": 23.2,
+      "end": 27.8,
+      "text": "This city is full of nature, history, and friendly people.",
       "words": [
         {
-          "word": "Salala",
-          "startSec": 35.15,
-          "endSec": 35.81,
-          "score": 0.97
+          "word": "This",
+          "start": 23.2,
+          "end": 23.62
+        },
+        {
+          "word": "city",
+          "start": 23.62,
+          "end": 24.02
         },
         {
           "word": "is",
-          "startSec": 35.81,
-          "endSec": 36.23,
-          "score": 0.99
+          "start": 24.02,
+          "end": 24.34
         },
         {
-          "word": "in",
-          "startSec": 36.23,
-          "endSec": 36.45,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 36.45,
-          "endSec": 36.55,
-          "score": 0.99
-        },
-        {
-          "word": "south",
-          "startSec": 36.55,
-          "endSec": 36.81,
-          "score": 0.87
+          "word": "full",
+          "start": 24.34,
+          "end": 24.62
         },
         {
           "word": "of",
-          "startSec": 36.81,
-          "endSec": 37.07,
-          "score": 1.0
+          "start": 24.62,
+          "end": 24.84
         },
         {
-          "word": "Oman",
-          "startSec": 37.07,
-          "endSec": 37.43,
-          "score": 0.97
+          "word": "nature,",
+          "start": 24.84,
+          "end": 25.32
         },
         {
-          "word": "near",
-          "startSec": 37.43,
-          "endSec": 38.07,
-          "score": 0.58
+          "word": "history,",
+          "start": 25.78,
+          "end": 26.26
         },
         {
-          "word": "the",
-          "startSec": 38.07,
-          "endSec": 38.29,
-          "score": 1.0
+          "word": "and",
+          "start": 26.64,
+          "end": 26.78
         },
         {
-          "word": "Arabian",
-          "startSec": 38.29,
-          "endSec": 38.67,
-          "score": 0.99
+          "word": "friendly",
+          "start": 26.78,
+          "end": 27.26
         },
         {
-          "word": "Sea.",
-          "startSec": 38.67,
-          "endSec": 39.31,
-          "score": 0.97
+          "word": "people.",
+          "start": 27.26,
+          "end": 27.8
         }
       ]
     },
     {
       "id": 7,
-      "start": 40.22,
-      "end": 44.57,
-      "text": "It is a coastal city surrounded by mountains and green plains.",
+      "start": 27.8,
+      "end": 31.4,
+      "text": "Let's explore Salalah together.",
       "words": [
         {
-          "word": "It",
-          "startSec": 40.42,
-          "endSec": 40.58,
-          "score": 0.99
+          "word": "Let's",
+          "start": 27.8,
+          "end": 29.4
         },
         {
-          "word": "is",
-          "startSec": 40.58,
-          "endSec": 40.78,
-          "score": 1.0
+          "word": "explore",
+          "start": 29.4,
+          "end": 29.86
         },
         {
-          "word": "a",
-          "startSec": 40.78,
-          "endSec": 40.9,
-          "score": 0.98
+          "word": "Salalah",
+          "start": 29.86,
+          "end": 30.5
         },
         {
-          "word": "coastal",
-          "startSec": 40.9,
-          "endSec": 41.16,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 41.16,
-          "endSec": 41.9,
-          "score": 1.0
-        },
-        {
-          "word": "surrounded",
-          "startSec": 41.9,
-          "endSec": 42.42,
-          "score": 0.96
-        },
-        {
-          "word": "by",
-          "startSec": 42.42,
-          "endSec": 42.92,
-          "score": 1.0
-        },
-        {
-          "word": "mountains",
-          "startSec": 42.92,
-          "endSec": 43.36,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 43.36,
-          "endSec": 43.68,
-          "score": 0.99
-        },
-        {
-          "word": "green",
-          "startSec": 43.68,
-          "endSec": 43.9,
-          "score": 0.99
-        },
-        {
-          "word": "plains.",
-          "startSec": 43.9,
-          "endSec": 44.42,
-          "score": 0.98
+          "word": "together.",
+          "start": 30.5,
+          "end": 31.4
         }
       ]
     },
     {
       "id": 8,
-      "start": 45.34,
-      "end": 51.15,
-      "text": "The city is calm and peaceful, perfect for enjoying nature and culture.",
+      "start": 32.12,
+      "end": 35.1,
+      "text": "Part 2 – Where is Salalah?",
       "words": [
         {
-          "word": "The",
-          "startSec": 45.54,
-          "endSec": 45.74,
-          "score": 0.99
+          "word": "Part",
+          "start": 32.12,
+          "end": 32.7
         },
         {
-          "word": "city",
-          "startSec": 45.74,
-          "endSec": 46.04,
-          "score": 0.99
+          "word": "2",
+          "start": 32.7,
+          "end": 33.2
+        },
+        {
+          "word": "–",
+          "start": 33.2,
+          "end": 33.66
+        },
+        {
+          "word": "Where",
+          "start": 33.66,
+          "end": 33.96
         },
         {
           "word": "is",
-          "startSec": 46.04,
-          "endSec": 46.38,
-          "score": 1.0
+          "start": 33.96,
+          "end": 34.14
         },
         {
-          "word": "calm",
-          "startSec": 46.38,
-          "endSec": 46.84,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 46.84,
-          "endSec": 47.26,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful,",
-          "startSec": 47.26,
-          "endSec": 47.78,
-          "score": 1.0
-        },
-        {
-          "word": "perfect",
-          "startSec": 48.48,
-          "endSec": 49.04,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 49.04,
-          "endSec": 49.4,
-          "score": 1.0
-        },
-        {
-          "word": "enjoying",
-          "startSec": 49.4,
-          "endSec": 49.78,
-          "score": 1.0
-        },
-        {
-          "word": "nature",
-          "startSec": 49.78,
-          "endSec": 50.46,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 50.46,
-          "endSec": 50.74,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 50.74,
-          "endSec": 51.0,
-          "score": 1.0
+          "word": "Salalah?",
+          "start": 34.14,
+          "end": 35.1
         }
       ]
     },
     {
       "id": 9,
-      "start": 52.5,
-      "end": 56.41,
-      "text": "Part 3, nature in Salala.",
+      "start": 35.32,
+      "end": 39.86,
+      "text": "Salalah is in the south of Oman, near the Arabian Sea.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 52.7,
-          "endSec": 53.2,
-          "score": 0.07
+          "word": "Salalah",
+          "start": 35.32,
+          "end": 35.94
         },
         {
-          "word": "3,",
-          "startSec": 53.2,
-          "endSec": 53.94,
-          "score": 0.64
-        },
-        {
-          "word": "nature",
-          "startSec": 54.7,
-          "endSec": 55.34,
-          "score": 0.17
+          "word": "is",
+          "start": 35.94,
+          "end": 36.3
         },
         {
           "word": "in",
-          "startSec": 55.34,
-          "endSec": 55.7,
-          "score": 0.77
+          "start": 36.3,
+          "end": 36.5
         },
         {
-          "word": "Salala.",
-          "startSec": 55.7,
-          "endSec": 56.26,
-          "score": 0.5
+          "word": "the",
+          "start": 36.5,
+          "end": 36.68
+        },
+        {
+          "word": "south",
+          "start": 36.68,
+          "end": 36.9
+        },
+        {
+          "word": "of",
+          "start": 36.9,
+          "end": 37.18
+        },
+        {
+          "word": "Oman,",
+          "start": 37.18,
+          "end": 37.54
+        },
+        {
+          "word": "near",
+          "start": 37.94,
+          "end": 38.14
+        },
+        {
+          "word": "the",
+          "start": 38.14,
+          "end": 38.34
+        },
+        {
+          "word": "Arabian",
+          "start": 38.34,
+          "end": 39.08
+        },
+        {
+          "word": "Sea.",
+          "start": 39.08,
+          "end": 39.86
         }
       ]
     },
     {
       "id": 10,
-      "start": 56.91,
-      "end": 64.32,
-      "text": "Salala is famous for its beautiful beaches, coconut trees, and green hills.",
+      "start": 40.5,
+      "end": 44.86,
+      "text": "It is a coastal city surrounded by mountains and green plains.",
       "words": [
         {
-          "word": "Salala",
-          "startSec": 57.11,
-          "endSec": 58.07,
-          "score": 0.97
+          "word": "It",
+          "start": 40.5,
+          "end": 40.64
         },
         {
           "word": "is",
-          "startSec": 58.07,
-          "endSec": 58.55,
-          "score": 0.98
+          "start": 40.64,
+          "end": 40.82
         },
         {
-          "word": "famous",
-          "startSec": 58.55,
-          "endSec": 59.03,
-          "score": 1.0
+          "word": "a",
+          "start": 40.82,
+          "end": 41.02
         },
         {
-          "word": "for",
-          "startSec": 59.03,
-          "endSec": 59.47,
-          "score": 1.0
+          "word": "coastal",
+          "start": 41.02,
+          "end": 41.42
         },
         {
-          "word": "its",
-          "startSec": 59.47,
-          "endSec": 59.67,
-          "score": 0.96
+          "word": "city",
+          "start": 41.42,
+          "end": 41.94
         },
         {
-          "word": "beautiful",
-          "startSec": 59.67,
-          "endSec": 60.05,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 41.94,
+          "end": 42.52
         },
         {
-          "word": "beaches,",
-          "startSec": 60.05,
-          "endSec": 60.85,
-          "score": 1.0
+          "word": "by",
+          "start": 42.52,
+          "end": 42.96
         },
         {
-          "word": "coconut",
-          "startSec": 61.61,
-          "endSec": 62.09,
-          "score": 0.96
-        },
-        {
-          "word": "trees,",
-          "startSec": 62.09,
-          "endSec": 62.73,
-          "score": 1.0
+          "word": "mountains",
+          "start": 42.96,
+          "end": 43.4
         },
         {
           "word": "and",
-          "startSec": 63.23,
-          "endSec": 63.31,
-          "score": 1.0
+          "start": 43.4,
+          "end": 43.72
         },
         {
           "word": "green",
-          "startSec": 63.31,
-          "endSec": 63.57,
-          "score": 0.96
+          "start": 43.72,
+          "end": 44.0
         },
         {
-          "word": "hills.",
-          "startSec": 63.57,
-          "endSec": 64.17,
-          "score": 0.99
+          "word": "plains.",
+          "start": 44.0,
+          "end": 44.86
         }
       ]
     },
     {
       "id": 11,
-      "start": 64.86,
-      "end": 70.69,
-      "text": "In the monsoon season, the city becomes very green and fresh.",
+      "start": 45.52,
+      "end": 51.66,
+      "text": "The city is calm and peaceful, perfect for enjoying nature and culture.",
       "words": [
         {
-          "word": "In",
-          "startSec": 65.06,
-          "endSec": 65.56,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 65.56,
-          "endSec": 65.7,
-          "score": 0.99
-        },
-        {
-          "word": "monsoon",
-          "startSec": 65.7,
-          "endSec": 66.28,
-          "score": 0.96
-        },
-        {
-          "word": "season,",
-          "startSec": 66.28,
-          "endSec": 66.94,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 67.54,
-          "endSec": 67.78,
-          "score": 1.0
+          "word": "The",
+          "start": 45.52,
+          "end": 45.78
         },
         {
           "word": "city",
-          "startSec": 67.78,
-          "endSec": 68.06,
-          "score": 0.98
+          "start": 45.78,
+          "end": 46.12
         },
         {
-          "word": "becomes",
-          "startSec": 68.06,
-          "endSec": 68.64,
-          "score": 0.99
+          "word": "is",
+          "start": 46.12,
+          "end": 46.46
         },
         {
-          "word": "very",
-          "startSec": 68.64,
-          "endSec": 69.14,
-          "score": 1.0
-        },
-        {
-          "word": "green",
-          "startSec": 69.14,
-          "endSec": 69.74,
-          "score": 1.0
+          "word": "calm",
+          "start": 46.46,
+          "end": 47.0
         },
         {
           "word": "and",
-          "startSec": 69.74,
-          "endSec": 70.1,
-          "score": 0.99
+          "start": 47.0,
+          "end": 47.32
         },
         {
-          "word": "fresh.",
-          "startSec": 70.1,
-          "endSec": 70.54,
-          "score": 1.0
+          "word": "peaceful,",
+          "start": 47.32,
+          "end": 47.94
+        },
+        {
+          "word": "perfect",
+          "start": 48.5,
+          "end": 49.06
+        },
+        {
+          "word": "for",
+          "start": 49.06,
+          "end": 49.44
+        },
+        {
+          "word": "enjoying",
+          "start": 49.44,
+          "end": 50.02
+        },
+        {
+          "word": "nature",
+          "start": 50.02,
+          "end": 50.48
+        },
+        {
+          "word": "and",
+          "start": 50.48,
+          "end": 50.8
+        },
+        {
+          "word": "culture.",
+          "start": 50.8,
+          "end": 51.66
         }
       ]
     },
     {
       "id": 12,
-      "start": 71.71,
-      "end": 75.9,
-      "text": "You can see waterfalls, rivers, and mountains nearby.",
+      "start": 52.34,
+      "end": 64.72,
+      "text": "Part 3 – Nature in Salalah Salalah is famous for its beautiful beaches, coconut trees, and green hills.",
       "words": [
         {
-          "word": "You",
-          "startSec": 71.91,
-          "endSec": 72.21,
-          "score": 0.99
+          "word": "Part",
+          "start": 52.34,
+          "end": 53.34
         },
         {
-          "word": "can",
-          "startSec": 72.21,
-          "endSec": 72.41,
-          "score": 1.0
+          "word": "3",
+          "start": 53.34,
+          "end": 54.0
         },
         {
-          "word": "see",
-          "startSec": 72.41,
-          "endSec": 72.67,
-          "score": 1.0
+          "word": "–",
+          "start": 54.0,
+          "end": 55.02
         },
         {
-          "word": "waterfalls,",
-          "startSec": 72.67,
-          "endSec": 73.51,
-          "score": 0.97
+          "word": "Nature",
+          "start": 55.02,
+          "end": 55.28
         },
         {
-          "word": "rivers,",
-          "startSec": 73.93,
-          "endSec": 74.19,
-          "score": 1.0
+          "word": "in",
+          "start": 55.28,
+          "end": 55.74
+        },
+        {
+          "word": "Salalah",
+          "start": 55.74,
+          "end": 56.5
+        },
+        {
+          "word": "Salalah",
+          "start": 57.26,
+          "end": 58.1
+        },
+        {
+          "word": "is",
+          "start": 58.1,
+          "end": 58.6
+        },
+        {
+          "word": "famous",
+          "start": 58.6,
+          "end": 59.12
+        },
+        {
+          "word": "for",
+          "start": 59.12,
+          "end": 59.52
+        },
+        {
+          "word": "its",
+          "start": 59.52,
+          "end": 59.74
+        },
+        {
+          "word": "beautiful",
+          "start": 59.74,
+          "end": 60.28
+        },
+        {
+          "word": "beaches,",
+          "start": 60.28,
+          "end": 60.92
+        },
+        {
+          "word": "coconut",
+          "start": 61.7,
+          "end": 62.16
+        },
+        {
+          "word": "trees,",
+          "start": 62.16,
+          "end": 62.82
         },
         {
           "word": "and",
-          "startSec": 74.69,
-          "endSec": 74.79,
-          "score": 1.0
+          "start": 63.28,
+          "end": 63.36
         },
         {
-          "word": "mountains",
-          "startSec": 74.79,
-          "endSec": 75.31,
-          "score": 1.0
+          "word": "green",
+          "start": 63.36,
+          "end": 63.7
         },
         {
-          "word": "nearby.",
-          "startSec": 75.31,
-          "endSec": 75.75,
-          "score": 0.99
+          "word": "hills.",
+          "start": 63.7,
+          "end": 64.72
         }
       ]
     },
     {
       "id": 13,
-      "start": 76.79,
-      "end": 80.84,
-      "text": "Nature is an important part of life in Salala.",
+      "start": 65.38,
+      "end": 71.0,
+      "text": "In the monsoon season, the city becomes very green and fresh.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 76.99,
-          "endSec": 77.81,
-          "score": 0.04
+          "word": "In",
+          "start": 65.38,
+          "end": 65.62
         },
         {
-          "word": "is",
-          "startSec": 77.81,
-          "endSec": 78.15,
-          "score": 0.99
+          "word": "the",
+          "start": 65.62,
+          "end": 65.76
         },
         {
-          "word": "an",
-          "startSec": 78.15,
-          "endSec": 78.35,
-          "score": 0.98
+          "word": "monsoon",
+          "start": 65.76,
+          "end": 66.36
         },
         {
-          "word": "important",
-          "startSec": 78.35,
-          "endSec": 78.73,
-          "score": 0.99
+          "word": "season,",
+          "start": 66.36,
+          "end": 66.96
         },
         {
-          "word": "part",
-          "startSec": 78.73,
-          "endSec": 79.33,
-          "score": 1.0
+          "word": "the",
+          "start": 67.7,
+          "end": 67.82
         },
         {
-          "word": "of",
-          "startSec": 79.33,
-          "endSec": 79.61,
-          "score": 0.97
+          "word": "city",
+          "start": 67.82,
+          "end": 68.14
         },
         {
-          "word": "life",
-          "startSec": 79.61,
-          "endSec": 79.87,
-          "score": 0.98
+          "word": "becomes",
+          "start": 68.14,
+          "end": 68.76
         },
         {
-          "word": "in",
-          "startSec": 79.87,
-          "endSec": 80.15,
-          "score": 0.98
+          "word": "very",
+          "start": 68.76,
+          "end": 69.34
         },
         {
-          "word": "Salala.",
-          "startSec": 80.15,
-          "endSec": 80.69,
-          "score": 0.52
+          "word": "green",
+          "start": 69.34,
+          "end": 69.84
+        },
+        {
+          "word": "and",
+          "start": 69.84,
+          "end": 70.16
+        },
+        {
+          "word": "fresh.",
+          "start": 70.16,
+          "end": 71.0
         }
       ]
     },
     {
       "id": 14,
-      "start": 81.63,
-      "end": 87.89,
-      "text": "Part 4, the city of Salala. Salala is small but lively.",
+      "start": 71.96,
+      "end": 76.44,
+      "text": "You can see waterfalls, rivers, and mountains nearby.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 81.83,
-          "endSec": 82.24,
-          "score": 0.91
+          "word": "You",
+          "start": 71.96,
+          "end": 72.24
         },
         {
-          "word": "4,",
-          "startSec": 82.24,
-          "endSec": 82.78,
-          "score": 0.6
+          "word": "can",
+          "start": 72.24,
+          "end": 72.46
         },
         {
-          "word": "the",
-          "startSec": 83.94,
-          "endSec": 83.94,
-          "score": 0.66
+          "word": "see",
+          "start": 72.46,
+          "end": 72.74
         },
         {
-          "word": "city",
-          "startSec": 83.94,
-          "endSec": 84.24,
-          "score": 0.61
+          "word": "waterfalls,",
+          "start": 72.74,
+          "end": 73.7
         },
         {
-          "word": "of",
-          "startSec": 84.24,
-          "endSec": 84.54,
-          "score": 1.0
+          "word": "rivers,",
+          "start": 74.02,
+          "end": 74.34
         },
         {
-          "word": "Salala.",
-          "startSec": 84.54,
-          "endSec": 85.12,
-          "score": 0.98
+          "word": "and",
+          "start": 74.72,
+          "end": 74.84
         },
         {
-          "word": "Salala",
-          "startSec": 85.52,
-          "endSec": 85.96,
-          "score": 0.97
+          "word": "mountains",
+          "start": 74.84,
+          "end": 75.34
         },
         {
-          "word": "is",
-          "startSec": 85.96,
-          "endSec": 86.36,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 86.36,
-          "endSec": 86.78,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 86.78,
-          "endSec": 87.22,
-          "score": 0.83
-        },
-        {
-          "word": "lively.",
-          "startSec": 87.22,
-          "endSec": 87.74,
-          "score": 0.99
+          "word": "nearby.",
+          "start": 75.34,
+          "end": 76.44
         }
       ]
     },
     {
       "id": 15,
-      "start": 88.58,
-      "end": 92.11,
-      "text": "There are local markets, shops, and restaurants.",
+      "start": 76.9,
+      "end": 81.2,
+      "text": "Nature is an important part of life in Salalah.",
       "words": [
         {
-          "word": "There",
-          "startSec": 88.78,
-          "endSec": 88.94,
-          "score": 0.97
+          "word": "Nature",
+          "start": 76.9,
+          "end": 77.74
         },
         {
-          "word": "are",
-          "startSec": 88.94,
-          "endSec": 89.1,
-          "score": 1.0
+          "word": "is",
+          "start": 77.74,
+          "end": 78.24
         },
         {
-          "word": "local",
-          "startSec": 89.1,
-          "endSec": 89.38,
-          "score": 0.99
+          "word": "an",
+          "start": 78.24,
+          "end": 78.4
         },
         {
-          "word": "markets,",
-          "startSec": 89.38,
-          "endSec": 90.16,
-          "score": 0.99
+          "word": "important",
+          "start": 78.4,
+          "end": 78.94
         },
         {
-          "word": "shops,",
-          "startSec": 90.7,
-          "endSec": 91.02,
-          "score": 1.0
+          "word": "part",
+          "start": 78.94,
+          "end": 79.36
         },
         {
-          "word": "and",
-          "startSec": 91.54,
-          "endSec": 91.58,
-          "score": 0.98
+          "word": "of",
+          "start": 79.36,
+          "end": 79.66
         },
         {
-          "word": "restaurants.",
-          "startSec": 91.58,
-          "endSec": 91.96,
-          "score": 1.0
+          "word": "life",
+          "start": 79.66,
+          "end": 79.94
+        },
+        {
+          "word": "in",
+          "start": 79.94,
+          "end": 80.2
+        },
+        {
+          "word": "Salalah.",
+          "start": 80.2,
+          "end": 81.2
         }
       ]
     },
     {
       "id": 16,
-      "start": 93.2,
-      "end": 96.91,
-      "text": "People walk in the streets or drive small cars.",
+      "start": 81.58,
+      "end": 88.3,
+      "text": "Part 4 – The city of Salalah Salalah is small but lively.",
       "words": [
         {
-          "word": "People",
-          "startSec": 93.4,
-          "endSec": 93.82,
-          "score": 0.99
+          "word": "Part",
+          "start": 81.58,
+          "end": 82.38
         },
         {
-          "word": "walk",
-          "startSec": 93.82,
-          "endSec": 94.24,
-          "score": 1.0
+          "word": "4",
+          "start": 82.38,
+          "end": 82.88
         },
         {
-          "word": "in",
-          "startSec": 94.24,
-          "endSec": 94.56,
-          "score": 1.0
+          "word": "–",
+          "start": 82.88,
+          "end": 83.62
         },
         {
-          "word": "the",
-          "startSec": 94.56,
-          "endSec": 94.7,
-          "score": 1.0
+          "word": "The",
+          "start": 83.62,
+          "end": 83.98
         },
         {
-          "word": "streets",
-          "startSec": 94.7,
-          "endSec": 95.1,
-          "score": 0.99
+          "word": "city",
+          "start": 83.98,
+          "end": 84.34
         },
         {
-          "word": "or",
-          "startSec": 95.1,
-          "endSec": 95.48,
-          "score": 0.96
+          "word": "of",
+          "start": 84.34,
+          "end": 84.58
         },
         {
-          "word": "drive",
-          "startSec": 95.48,
-          "endSec": 95.84,
-          "score": 1.0
+          "word": "Salalah",
+          "start": 84.58,
+          "end": 85.28
+        },
+        {
+          "word": "Salalah",
+          "start": 85.28,
+          "end": 86.06
+        },
+        {
+          "word": "is",
+          "start": 86.06,
+          "end": 86.48
         },
         {
           "word": "small",
-          "startSec": 95.84,
-          "endSec": 96.28,
-          "score": 1.0
+          "start": 86.48,
+          "end": 86.98
         },
         {
-          "word": "cars.",
-          "startSec": 96.28,
-          "endSec": 96.76,
-          "score": 1.0
+          "word": "but",
+          "start": 86.98,
+          "end": 87.24
+        },
+        {
+          "word": "lively.",
+          "start": 87.24,
+          "end": 88.3
         }
       ]
     },
     {
       "id": 17,
-      "start": 97.4,
-      "end": 100.47,
-      "text": "The city is safe, friendly, and welcoming.",
+      "start": 88.66,
+      "end": 92.66,
+      "text": "There are local markets, shops, and restaurants.",
       "words": [
         {
-          "word": "The",
-          "startSec": 97.6,
-          "endSec": 97.72,
-          "score": 0.99
+          "word": "There",
+          "start": 88.66,
+          "end": 89.0
         },
         {
-          "word": "city",
-          "startSec": 97.72,
-          "endSec": 98.04,
-          "score": 0.99
+          "word": "are",
+          "start": 89.0,
+          "end": 89.16
         },
         {
-          "word": "is",
-          "startSec": 98.04,
-          "endSec": 98.36,
-          "score": 1.0
+          "word": "local",
+          "start": 89.16,
+          "end": 89.56
         },
         {
-          "word": "safe,",
-          "startSec": 98.36,
-          "endSec": 98.76,
-          "score": 1.0
+          "word": "markets,",
+          "start": 89.56,
+          "end": 90.34
         },
         {
-          "word": "friendly,",
-          "startSec": 98.76,
-          "endSec": 99.38,
-          "score": 1.0
+          "word": "shops,",
+          "start": 90.72,
+          "end": 91.16
         },
         {
           "word": "and",
-          "startSec": 99.82,
-          "endSec": 99.86,
-          "score": 1.0
+          "start": 91.58,
+          "end": 91.68
         },
         {
-          "word": "welcoming.",
-          "startSec": 99.86,
-          "endSec": 100.32,
-          "score": 1.0
+          "word": "restaurants.",
+          "start": 91.68,
+          "end": 92.66
         }
       ]
     },
     {
       "id": 18,
-      "start": 100.96,
-      "end": 104.73,
-      "text": "Part 5, food in Salala.",
+      "start": 93.4,
+      "end": 97.32,
+      "text": "People walk in the streets or drive small cars.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 101.16,
-          "endSec": 101.6,
-          "score": 0.06
+          "word": "People",
+          "start": 93.4,
+          "end": 93.9
         },
         {
-          "word": "5,",
-          "startSec": 101.6,
-          "endSec": 102.4,
-          "score": 0.7
-        },
-        {
-          "word": "food",
-          "startSec": 103.56,
-          "endSec": 103.62,
-          "score": 0.6
+          "word": "walk",
+          "start": 93.9,
+          "end": 94.32
         },
         {
           "word": "in",
-          "startSec": 103.62,
-          "endSec": 103.98,
-          "score": 0.54
+          "start": 94.32,
+          "end": 94.64
         },
         {
-          "word": "Salala.",
-          "startSec": 103.98,
-          "endSec": 104.58,
-          "score": 0.61
+          "word": "the",
+          "start": 94.64,
+          "end": 94.8
+        },
+        {
+          "word": "streets",
+          "start": 94.8,
+          "end": 95.12
+        },
+        {
+          "word": "or",
+          "start": 95.12,
+          "end": 95.52
+        },
+        {
+          "word": "drive",
+          "start": 95.52,
+          "end": 95.92
+        },
+        {
+          "word": "small",
+          "start": 95.92,
+          "end": 96.4
+        },
+        {
+          "word": "cars.",
+          "start": 96.4,
+          "end": 97.32
         }
       ]
     },
     {
       "id": 19,
-      "start": 105.29,
-      "end": 109.2,
-      "text": "Food in Salala is tasty and fresh.",
+      "start": 97.58,
+      "end": 100.9,
+      "text": "The city is safe, friendly, and welcoming.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 105.49,
-          "endSec": 106.15,
-          "score": 0.93
+          "word": "The",
+          "start": 97.58,
+          "end": 97.78
         },
         {
-          "word": "in",
-          "startSec": 106.15,
-          "endSec": 106.51,
-          "score": 0.99
-        },
-        {
-          "word": "Salala",
-          "startSec": 106.51,
-          "endSec": 107.07,
-          "score": 0.99
+          "word": "city",
+          "start": 97.78,
+          "end": 98.1
         },
         {
           "word": "is",
-          "startSec": 107.07,
-          "endSec": 107.47,
-          "score": 0.98
+          "start": 98.1,
+          "end": 98.44
         },
         {
-          "word": "tasty",
-          "startSec": 107.47,
-          "endSec": 107.91,
-          "score": 0.99
+          "word": "safe,",
+          "start": 98.44,
+          "end": 98.88
+        },
+        {
+          "word": "friendly,",
+          "start": 99.1,
+          "end": 99.58
         },
         {
           "word": "and",
-          "startSec": 107.91,
-          "endSec": 108.65,
-          "score": 0.99
+          "start": 99.86,
+          "end": 99.92
         },
         {
-          "word": "fresh.",
-          "startSec": 108.65,
-          "endSec": 109.05,
-          "score": 1.0
+          "word": "welcoming.",
+          "start": 99.92,
+          "end": 100.9
         }
       ]
     },
     {
       "id": 20,
-      "start": 109.97,
-      "end": 113.96,
-      "text": "People eat rice, fish, meat, and vegetables.",
+      "start": 101.24,
+      "end": 109.52,
+      "text": "Part 5 – Food in Salalah Food in Salalah is tasty and fresh.",
       "words": [
         {
-          "word": "People",
-          "startSec": 110.17,
-          "endSec": 110.55,
-          "score": 0.98
+          "word": "Part",
+          "start": 101.24,
+          "end": 101.72
         },
         {
-          "word": "eat",
-          "startSec": 110.55,
-          "endSec": 110.87,
-          "score": 1.0
+          "word": "5",
+          "start": 101.72,
+          "end": 102.34
         },
         {
-          "word": "rice,",
-          "startSec": 110.87,
-          "endSec": 111.31,
-          "score": 1.0
+          "word": "–",
+          "start": 102.34,
+          "end": 103.12
         },
         {
-          "word": "fish,",
-          "startSec": 111.89,
-          "endSec": 112.13,
-          "score": 1.0
+          "word": "Food",
+          "start": 103.12,
+          "end": 103.64
         },
         {
-          "word": "meat,",
-          "startSec": 112.77,
-          "endSec": 112.83,
-          "score": 1.0
+          "word": "in",
+          "start": 103.64,
+          "end": 104.08
+        },
+        {
+          "word": "Salalah",
+          "start": 104.08,
+          "end": 104.78
+        },
+        {
+          "word": "Food",
+          "start": 105.5,
+          "end": 106.26
+        },
+        {
+          "word": "in",
+          "start": 106.26,
+          "end": 106.6
+        },
+        {
+          "word": "Salalah",
+          "start": 106.6,
+          "end": 107.2
+        },
+        {
+          "word": "is",
+          "start": 107.2,
+          "end": 107.62
+        },
+        {
+          "word": "tasty",
+          "start": 107.62,
+          "end": 108.22
         },
         {
           "word": "and",
-          "startSec": 113.21,
-          "endSec": 113.29,
-          "score": 1.0
+          "start": 108.22,
+          "end": 108.7
         },
         {
-          "word": "vegetables.",
-          "startSec": 113.29,
-          "endSec": 113.81,
-          "score": 1.0
+          "word": "fresh.",
+          "start": 108.7,
+          "end": 109.52
         }
       ]
     },
     {
       "id": 21,
-      "start": 114.59,
-      "end": 119.62,
-      "text": "A popular dish is Shua, slow cooked meat with spices.",
+      "start": 109.74,
+      "end": 114.46,
+      "text": "People eat rice, fish, meat, and vegetables.",
       "words": [
         {
-          "word": "A",
-          "startSec": 114.79,
-          "endSec": 114.89,
-          "score": 0.99
+          "word": "People",
+          "start": 109.74,
+          "end": 110.6
         },
         {
-          "word": "popular",
-          "startSec": 114.89,
-          "endSec": 115.39,
-          "score": 1.0
+          "word": "eat",
+          "start": 110.6,
+          "end": 110.94
         },
         {
-          "word": "dish",
-          "startSec": 115.39,
-          "endSec": 115.95,
-          "score": 1.0
+          "word": "rice,",
+          "start": 110.94,
+          "end": 111.44
         },
         {
-          "word": "is",
-          "startSec": 115.95,
-          "endSec": 116.19,
-          "score": 0.98
+          "word": "fish,",
+          "start": 111.9,
+          "end": 112.28
         },
         {
-          "word": "Shua,",
-          "startSec": 116.19,
-          "endSec": 116.71,
-          "score": 0.55
+          "word": "meat,",
+          "start": 112.68,
+          "end": 112.96
         },
         {
-          "word": "slow",
-          "startSec": 117.51,
-          "endSec": 117.95,
-          "score": 0.98
+          "word": "and",
+          "start": 113.22,
+          "end": 113.36
         },
         {
-          "word": "cooked",
-          "startSec": 117.95,
-          "endSec": 118.35,
-          "score": 0.72
-        },
-        {
-          "word": "meat",
-          "startSec": 118.35,
-          "endSec": 118.79,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 118.79,
-          "endSec": 119.11,
-          "score": 0.99
-        },
-        {
-          "word": "spices.",
-          "startSec": 119.11,
-          "endSec": 119.47,
-          "score": 1.0
+          "word": "vegetables.",
+          "start": 113.36,
+          "end": 114.46
         }
       ]
     },
     {
       "id": 22,
-      "start": 120.17,
-      "end": 124.8,
-      "text": "Dates, fresh fruit, and coffee are also very popular.",
+      "start": 114.78,
+      "end": 120.18,
+      "text": "A popular dish is Shua, slow -cooked meat with spices.",
       "words": [
         {
-          "word": "Dates,",
-          "startSec": 120.37,
-          "endSec": 120.77,
-          "score": 0.95
+          "word": "A",
+          "start": 114.78,
+          "end": 114.94
         },
         {
-          "word": "fresh",
-          "startSec": 121.35,
-          "endSec": 121.55,
-          "score": 0.99
+          "word": "popular",
+          "start": 114.94,
+          "end": 115.52
         },
         {
-          "word": "fruit,",
-          "startSec": 121.55,
-          "endSec": 122.03,
-          "score": 0.99
+          "word": "dish",
+          "start": 115.52,
+          "end": 116.0
         },
         {
-          "word": "and",
-          "startSec": 122.33,
-          "endSec": 122.39,
-          "score": 0.99
+          "word": "is",
+          "start": 116.0,
+          "end": 116.28
         },
         {
-          "word": "coffee",
-          "startSec": 122.39,
-          "endSec": 122.73,
-          "score": 1.0
+          "word": "Shua,",
+          "start": 116.28,
+          "end": 116.78
         },
         {
-          "word": "are",
-          "startSec": 122.73,
-          "endSec": 123.23,
-          "score": 0.99
+          "word": "slow",
+          "start": 117.46,
+          "end": 118.08
         },
         {
-          "word": "also",
-          "startSec": 123.23,
-          "endSec": 123.65,
-          "score": 0.98
+          "word": "-cooked",
+          "start": 118.08,
+          "end": 118.46
         },
         {
-          "word": "very",
-          "startSec": 123.65,
-          "endSec": 124.05,
-          "score": 0.99
+          "word": "meat",
+          "start": 118.46,
+          "end": 118.88
         },
         {
-          "word": "popular.",
-          "startSec": 124.05,
-          "endSec": 124.65,
-          "score": 1.0
+          "word": "with",
+          "start": 118.88,
+          "end": 119.18
+        },
+        {
+          "word": "spices.",
+          "start": 119.18,
+          "end": 120.18
         }
       ]
     },
     {
       "id": 23,
-      "start": 125.21,
-      "end": 128.28,
-      "text": "Part 6, the people of Salala.",
+      "start": 120.54,
+      "end": 124.82,
+      "text": "Dates, fresh fruit, and coffee are also very popular.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 125.41,
-          "endSec": 125.85,
-          "score": 0.76
+          "word": "Dates,",
+          "start": 120.54,
+          "end": 121.06
         },
         {
-          "word": "6,",
-          "startSec": 125.85,
-          "endSec": 126.43,
-          "score": 0.44
+          "word": "fresh",
+          "start": 121.4,
+          "end": 121.66
         },
         {
-          "word": "the",
-          "startSec": 126.95,
-          "endSec": 126.97,
-          "score": 0.66
+          "word": "fruit,",
+          "start": 121.66,
+          "end": 122.14
         },
         {
-          "word": "people",
-          "startSec": 126.97,
-          "endSec": 127.35,
-          "score": 0.7
+          "word": "and",
+          "start": 122.38,
+          "end": 122.42
         },
         {
-          "word": "of",
-          "startSec": 127.35,
-          "endSec": 127.61,
-          "score": 1.0
+          "word": "coffee",
+          "start": 122.42,
+          "end": 122.96
         },
         {
-          "word": "Salala.",
-          "startSec": 127.61,
-          "endSec": 128.13,
-          "score": 0.72
+          "word": "are",
+          "start": 122.96,
+          "end": 123.3
+        },
+        {
+          "word": "also",
+          "start": 123.3,
+          "end": 123.78
+        },
+        {
+          "word": "very",
+          "start": 123.78,
+          "end": 124.14
+        },
+        {
+          "word": "popular.",
+          "start": 124.14,
+          "end": 124.82
         }
       ]
     },
     {
       "id": 24,
-      "start": 128.49,
-      "end": 131.88,
-      "text": "People in Salala are friendly and polite.",
+      "start": 124.82,
+      "end": 132.3,
+      "text": "Part 6 – The people of Salalah People in Salalah are friendly and polite.",
       "words": [
         {
+          "word": "Part",
+          "start": 124.82,
+          "end": 126.0
+        },
+        {
+          "word": "6",
+          "start": 126.0,
+          "end": 126.52
+        },
+        {
+          "word": "–",
+          "start": 126.52,
+          "end": 127.0
+        },
+        {
+          "word": "The",
+          "start": 127.0,
+          "end": 127.02
+        },
+        {
+          "word": "people",
+          "start": 127.02,
+          "end": 127.38
+        },
+        {
+          "word": "of",
+          "start": 127.38,
+          "end": 127.66
+        },
+        {
+          "word": "Salalah",
+          "start": 127.66,
+          "end": 128.34
+        },
+        {
           "word": "People",
-          "startSec": 128.69,
-          "endSec": 129.13,
-          "score": 0.98
+          "start": 128.34,
+          "end": 129.24
         },
         {
           "word": "in",
-          "startSec": 129.13,
-          "endSec": 129.47,
-          "score": 0.99
+          "start": 129.24,
+          "end": 129.56
         },
         {
-          "word": "Salala",
-          "startSec": 129.47,
-          "endSec": 130.01,
-          "score": 0.97
+          "word": "Salalah",
+          "start": 129.56,
+          "end": 130.18
         },
         {
           "word": "are",
-          "startSec": 130.01,
-          "endSec": 130.51,
-          "score": 0.99
+          "start": 130.18,
+          "end": 130.6
         },
         {
           "word": "friendly",
-          "startSec": 130.51,
-          "endSec": 130.93,
-          "score": 0.99
+          "start": 130.6,
+          "end": 131.14
         },
         {
           "word": "and",
-          "startSec": 130.93,
-          "endSec": 131.37,
-          "score": 0.98
+          "start": 131.14,
+          "end": 131.42
         },
         {
           "word": "polite.",
-          "startSec": 131.37,
-          "endSec": 131.73,
-          "score": 1.0
+          "start": 131.42,
+          "end": 132.3
         }
       ]
     },
     {
       "id": 25,
-      "start": 132.51,
-      "end": 136.42,
+      "start": 132.62,
+      "end": 136.9,
       "text": "They speak Arabic and some speak English for visitors.",
       "words": [
         {
           "word": "They",
-          "startSec": 132.71,
-          "endSec": 132.73,
-          "score": 0.99
+          "start": 132.62,
+          "end": 132.8
         },
         {
           "word": "speak",
-          "startSec": 132.73,
-          "endSec": 133.05,
-          "score": 1.0
+          "start": 132.8,
+          "end": 133.24
         },
         {
           "word": "Arabic",
-          "startSec": 133.05,
-          "endSec": 133.55,
-          "score": 1.0
+          "start": 133.24,
+          "end": 133.72
         },
         {
           "word": "and",
-          "startSec": 133.55,
-          "endSec": 134.35,
-          "score": 0.72
+          "start": 133.72,
+          "end": 134.44
         },
         {
           "word": "some",
-          "startSec": 134.35,
-          "endSec": 134.63,
-          "score": 0.99
+          "start": 134.44,
+          "end": 134.72
         },
         {
           "word": "speak",
-          "startSec": 134.63,
-          "endSec": 135.05,
-          "score": 1.0
+          "start": 134.72,
+          "end": 135.12
         },
         {
           "word": "English",
-          "startSec": 135.05,
-          "endSec": 135.57,
-          "score": 0.99
+          "start": 135.12,
+          "end": 135.68
         },
         {
           "word": "for",
-          "startSec": 135.57,
-          "endSec": 135.91,
-          "score": 1.0
+          "start": 135.68,
+          "end": 135.96
         },
         {
           "word": "visitors.",
-          "startSec": 135.91,
-          "endSec": 136.27,
-          "score": 1.0
+          "start": 135.96,
+          "end": 136.9
         }
       ]
     },
     {
       "id": 26,
-      "start": 137.45,
-      "end": 141.56,
+      "start": 137.66,
+      "end": 142.06,
       "text": "Life is calm and family is very important.",
       "words": [
         {
           "word": "Life",
-          "startSec": 137.65,
-          "endSec": 137.89,
-          "score": 0.99
+          "start": 137.66,
+          "end": 137.98
         },
         {
           "word": "is",
-          "startSec": 137.89,
-          "endSec": 138.25,
-          "score": 1.0
+          "start": 137.98,
+          "end": 138.32
         },
         {
           "word": "calm",
-          "startSec": 138.25,
-          "endSec": 138.59,
-          "score": 1.0
+          "start": 138.32,
+          "end": 138.8
         },
         {
           "word": "and",
-          "startSec": 138.59,
-          "endSec": 139.49,
-          "score": 0.77
+          "start": 138.8,
+          "end": 139.54
         },
         {
           "word": "family",
-          "startSec": 139.49,
-          "endSec": 139.87,
-          "score": 1.0
+          "start": 139.54,
+          "end": 140.14
         },
         {
           "word": "is",
-          "startSec": 139.87,
-          "endSec": 140.47,
-          "score": 1.0
+          "start": 140.14,
+          "end": 140.54
         },
         {
           "word": "very",
-          "startSec": 140.47,
-          "endSec": 140.77,
-          "score": 1.0
+          "start": 140.54,
+          "end": 140.94
         },
         {
           "word": "important.",
-          "startSec": 140.77,
-          "endSec": 141.41,
-          "score": 1.0
+          "start": 140.94,
+          "end": 142.06
         }
       ]
     },
     {
       "id": 27,
-      "start": 142.45,
-      "end": 146.58,
+      "start": 142.5,
+      "end": 147.1,
       "text": "People respect traditions, religion, and nature.",
       "words": [
         {
           "word": "People",
-          "startSec": 142.65,
-          "endSec": 142.83,
-          "score": 1.0
+          "start": 142.5,
+          "end": 143.06
         },
         {
           "word": "respect",
-          "startSec": 142.83,
-          "endSec": 143.53,
-          "score": 0.99
+          "start": 143.06,
+          "end": 143.6
         },
         {
           "word": "traditions,",
-          "startSec": 143.53,
-          "endSec": 144.33,
-          "score": 0.99
+          "start": 143.6,
+          "end": 144.38
         },
         {
           "word": "religion,",
-          "startSec": 144.97,
-          "endSec": 145.35,
-          "score": 1.0
+          "start": 145.1,
+          "end": 145.52
         },
         {
           "word": "and",
-          "startSec": 146.09,
-          "endSec": 146.17,
-          "score": 0.99
+          "start": 146.16,
+          "end": 146.22
         },
         {
           "word": "nature.",
-          "startSec": 146.17,
-          "endSec": 146.43,
-          "score": 1.0
+          "start": 146.22,
+          "end": 147.1
         }
       ]
     },
     {
       "id": 28,
-      "start": 147.52,
-      "end": 151.25,
-      "text": "Part 7, culture and music.",
+      "start": 147.7,
+      "end": 154.78,
+      "text": "Part 7 – Culture and Music Music is part of life in Salalah.",
       "words": [
         {
           "word": "Part",
-          "startSec": 147.72,
-          "endSec": 148.18,
-          "score": 0.32
+          "start": 147.7,
+          "end": 148.3
         },
         {
-          "word": "7,",
-          "startSec": 148.18,
-          "endSec": 148.88,
-          "score": 0.54
+          "word": "7",
+          "start": 148.3,
+          "end": 148.86
         },
         {
-          "word": "culture",
-          "startSec": 149.46,
-          "endSec": 150.22,
-          "score": 0.13
+          "word": "–",
+          "start": 148.86,
+          "end": 149.26
+        },
+        {
+          "word": "Culture",
+          "start": 149.26,
+          "end": 150.34
         },
         {
           "word": "and",
-          "startSec": 150.22,
-          "endSec": 150.64,
-          "score": 0.97
+          "start": 150.34,
+          "end": 150.66
         },
         {
-          "word": "music.",
-          "startSec": 150.64,
-          "endSec": 151.1,
-          "score": 1.0
+          "word": "Music",
+          "start": 150.66,
+          "end": 151.12
+        },
+        {
+          "word": "Music",
+          "start": 151.7,
+          "end": 152.34
+        },
+        {
+          "word": "is",
+          "start": 152.34,
+          "end": 152.66
+        },
+        {
+          "word": "part",
+          "start": 152.66,
+          "end": 152.96
+        },
+        {
+          "word": "of",
+          "start": 152.96,
+          "end": 153.2
+        },
+        {
+          "word": "life",
+          "start": 153.2,
+          "end": 153.46
+        },
+        {
+          "word": "in",
+          "start": 153.46,
+          "end": 153.74
+        },
+        {
+          "word": "Salalah.",
+          "start": 153.74,
+          "end": 154.78
         }
       ]
     },
     {
       "id": 29,
-      "start": 151.58,
-      "end": 154.35,
-      "text": "Music is part of life in Salala.",
+      "start": 155.1,
+      "end": 161.24,
+      "text": "People play drums, sing traditional songs, and dance at festivals.",
       "words": [
         {
-          "word": "Music",
-          "startSec": 151.78,
-          "endSec": 152.2,
-          "score": 0.98
+          "word": "People",
+          "start": 155.1,
+          "end": 155.78
         },
         {
-          "word": "is",
-          "startSec": 152.2,
-          "endSec": 152.64,
-          "score": 0.98
+          "word": "play",
+          "start": 155.78,
+          "end": 156.18
         },
         {
-          "word": "part",
-          "startSec": 152.64,
-          "endSec": 152.88,
-          "score": 0.98
+          "word": "drums,",
+          "start": 156.18,
+          "end": 156.78
         },
         {
-          "word": "of",
-          "startSec": 152.88,
-          "endSec": 153.14,
-          "score": 1.0
+          "word": "sing",
+          "start": 157.26,
+          "end": 157.56
         },
         {
-          "word": "life",
-          "startSec": 153.14,
-          "endSec": 153.38,
-          "score": 0.99
+          "word": "traditional",
+          "start": 157.56,
+          "end": 158.16
         },
         {
-          "word": "in",
-          "startSec": 153.38,
-          "endSec": 153.68,
-          "score": 0.97
+          "word": "songs,",
+          "start": 158.16,
+          "end": 158.98
         },
         {
-          "word": "Salala.",
-          "startSec": 153.68,
-          "endSec": 154.2,
-          "score": 0.6
+          "word": "and",
+          "start": 159.42,
+          "end": 159.5
+        },
+        {
+          "word": "dance",
+          "start": 159.5,
+          "end": 159.88
+        },
+        {
+          "word": "at",
+          "start": 159.88,
+          "end": 160.2
+        },
+        {
+          "word": "festivals.",
+          "start": 160.2,
+          "end": 161.24
         }
       ]
     },
     {
       "id": 30,
-      "start": 154.9,
-      "end": 160.59,
-      "text": "People play drums, sing traditional songs, and dance at festivals.",
+      "start": 162.04,
+      "end": 167.9,
+      "text": "The city celebrates cultural and religious events with music and food.",
       "words": [
         {
-          "word": "People",
-          "startSec": 155.1,
-          "endSec": 155.66,
-          "score": 0.99
+          "word": "The",
+          "start": 162.04,
+          "end": 162.26
         },
         {
-          "word": "play",
-          "startSec": 155.66,
-          "endSec": 156.12,
-          "score": 1.0
+          "word": "city",
+          "start": 162.26,
+          "end": 162.58
         },
         {
-          "word": "drums,",
-          "startSec": 156.12,
-          "endSec": 156.6,
-          "score": 0.99
+          "word": "celebrates",
+          "start": 162.58,
+          "end": 163.28
         },
         {
-          "word": "sing",
-          "startSec": 156.66,
-          "endSec": 157.5,
-          "score": 1.0
-        },
-        {
-          "word": "traditional",
-          "startSec": 157.5,
-          "endSec": 157.82,
-          "score": 0.99
-        },
-        {
-          "word": "songs,",
-          "startSec": 157.82,
-          "endSec": 158.62,
-          "score": 1.0
+          "word": "cultural",
+          "start": 163.28,
+          "end": 164.08
         },
         {
           "word": "and",
-          "startSec": 158.78,
-          "endSec": 159.44,
-          "score": 0.99
+          "start": 164.08,
+          "end": 164.66
         },
         {
-          "word": "dance",
-          "startSec": 159.44,
-          "endSec": 159.8,
-          "score": 1.0
+          "word": "religious",
+          "start": 164.66,
+          "end": 165.12
         },
         {
-          "word": "at",
-          "startSec": 159.8,
-          "endSec": 160.12,
-          "score": 1.0
+          "word": "events",
+          "start": 165.12,
+          "end": 165.76
         },
         {
-          "word": "festivals.",
-          "startSec": 160.12,
-          "endSec": 160.44,
-          "score": 1.0
+          "word": "with",
+          "start": 165.76,
+          "end": 166.12
+        },
+        {
+          "word": "music",
+          "start": 166.12,
+          "end": 166.64
+        },
+        {
+          "word": "and",
+          "start": 166.64,
+          "end": 167.02
+        },
+        {
+          "word": "food.",
+          "start": 167.02,
+          "end": 167.9
         }
       ]
     },
     {
       "id": 31,
-      "start": 161.86,
-      "end": 167.53,
-      "text": "The city celebrates cultural and religious events with music and food.",
+      "start": 168.58,
+      "end": 173.22,
+      "text": "Visitors can enjoy and sometimes join in the celebrations.",
       "words": [
         {
-          "word": "The",
-          "startSec": 162.06,
-          "endSec": 162.22,
-          "score": 1.0
+          "word": "Visitors",
+          "start": 168.58,
+          "end": 169.12
         },
         {
-          "word": "city",
-          "startSec": 162.22,
-          "endSec": 162.52,
-          "score": 0.92
+          "word": "can",
+          "start": 169.12,
+          "end": 169.48
         },
         {
-          "word": "celebrates",
-          "startSec": 162.52,
-          "endSec": 163.26,
-          "score": 1.0
-        },
-        {
-          "word": "cultural",
-          "startSec": 163.26,
-          "endSec": 163.86,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 169.48,
+          "end": 170.04
         },
         {
           "word": "and",
-          "startSec": 163.86,
-          "endSec": 164.6,
-          "score": 0.99
+          "start": 170.04,
+          "end": 170.6
         },
         {
-          "word": "religious",
-          "startSec": 164.6,
-          "endSec": 165.0,
-          "score": 1.0
+          "word": "sometimes",
+          "start": 170.6,
+          "end": 171.16
         },
         {
-          "word": "events",
-          "startSec": 165.0,
-          "endSec": 165.66,
-          "score": 1.0
+          "word": "join",
+          "start": 171.16,
+          "end": 171.66
         },
         {
-          "word": "with",
-          "startSec": 165.66,
-          "endSec": 166.06,
-          "score": 0.99
+          "word": "in",
+          "start": 171.66,
+          "end": 171.92
         },
         {
-          "word": "music",
-          "startSec": 166.06,
-          "endSec": 166.62,
-          "score": 1.0
+          "word": "the",
+          "start": 171.92,
+          "end": 172.04
         },
         {
-          "word": "and",
-          "startSec": 166.62,
-          "endSec": 166.98,
-          "score": 1.0
-        },
-        {
-          "word": "food.",
-          "startSec": 166.98,
-          "endSec": 167.38,
-          "score": 1.0
+          "word": "celebrations.",
+          "start": 172.04,
+          "end": 173.22
         }
       ]
     },
     {
       "id": 32,
-      "start": 168.71,
-      "end": 172.62,
-      "text": "Visitors can enjoy and sometimes join in the celebrations.",
+      "start": 173.86,
+      "end": 182.16,
+      "text": "Part 8 – Beaches and Nature The beaches in Salalah are long and beautiful.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 168.91,
-          "endSec": 168.91,
-          "score": 0.98
+          "word": "Part",
+          "start": 173.86,
+          "end": 174.78
         },
         {
-          "word": "can",
-          "startSec": 168.91,
-          "endSec": 169.41,
-          "score": 1.0
+          "word": "8",
+          "start": 174.78,
+          "end": 175.22
         },
         {
-          "word": "enjoy",
-          "startSec": 169.41,
-          "endSec": 169.85,
-          "score": 1.0
+          "word": "–",
+          "start": 175.22,
+          "end": 175.9
+        },
+        {
+          "word": "Beaches",
+          "start": 175.9,
+          "end": 176.2
         },
         {
           "word": "and",
-          "startSec": 169.85,
-          "endSec": 170.49,
-          "score": 0.74
+          "start": 176.2,
+          "end": 176.56
         },
         {
-          "word": "sometimes",
-          "startSec": 170.49,
-          "endSec": 171.07,
-          "score": 1.0
+          "word": "Nature",
+          "start": 176.56,
+          "end": 177.02
         },
         {
-          "word": "join",
-          "startSec": 171.07,
-          "endSec": 171.53,
-          "score": 0.98
+          "word": "The",
+          "start": 177.82,
+          "end": 178.36
+        },
+        {
+          "word": "beaches",
+          "start": 178.36,
+          "end": 178.82
         },
         {
           "word": "in",
-          "startSec": 171.53,
-          "endSec": 171.85,
-          "score": 1.0
+          "start": 178.82,
+          "end": 179.28
         },
         {
-          "word": "the",
-          "startSec": 171.85,
-          "endSec": 171.99,
-          "score": 0.99
+          "word": "Salalah",
+          "start": 179.28,
+          "end": 179.92
         },
         {
-          "word": "celebrations.",
-          "startSec": 171.99,
-          "endSec": 172.47,
-          "score": 1.0
+          "word": "are",
+          "start": 179.92,
+          "end": 180.36
+        },
+        {
+          "word": "long",
+          "start": 180.36,
+          "end": 180.88
+        },
+        {
+          "word": "and",
+          "start": 180.88,
+          "end": 181.18
+        },
+        {
+          "word": "beautiful.",
+          "start": 181.18,
+          "end": 182.16
         }
       ]
     },
     {
       "id": 33,
-      "start": 173.66,
-      "end": 176.91,
-      "text": "Part 8, beaches and nature.",
+      "start": 182.72,
+      "end": 187.94,
+      "text": "You can swim, relax, or watch dolphins in the sea.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 173.86,
-          "endSec": 174.6,
-          "score": 0.05
+          "word": "You",
+          "start": 182.72,
+          "end": 182.92
         },
         {
-          "word": "8,",
-          "startSec": 174.6,
-          "endSec": 175.12,
-          "score": 0.51
+          "word": "can",
+          "start": 182.92,
+          "end": 183.18
         },
         {
-          "word": "beaches",
-          "startSec": 175.86,
-          "endSec": 175.98,
-          "score": 0.68
+          "word": "swim,",
+          "start": 183.18,
+          "end": 183.68
         },
         {
-          "word": "and",
-          "startSec": 175.98,
-          "endSec": 176.52,
-          "score": 0.85
+          "word": "relax,",
+          "start": 184.22,
+          "end": 184.74
         },
         {
-          "word": "nature.",
-          "startSec": 176.52,
-          "endSec": 176.76,
-          "score": 0.98
+          "word": "or",
+          "start": 185.56,
+          "end": 185.64
+        },
+        {
+          "word": "watch",
+          "start": 185.64,
+          "end": 186.08
+        },
+        {
+          "word": "dolphins",
+          "start": 186.08,
+          "end": 186.64
+        },
+        {
+          "word": "in",
+          "start": 186.64,
+          "end": 187.04
+        },
+        {
+          "word": "the",
+          "start": 187.04,
+          "end": 187.2
+        },
+        {
+          "word": "sea.",
+          "start": 187.2,
+          "end": 187.94
         }
       ]
     },
     {
       "id": 34,
-      "start": 177.86,
-      "end": 181.59,
-      "text": "The beaches in Salala are long and beautiful.",
+      "start": 188.56,
+      "end": 193.76,
+      "text": "The mountains and green plains are perfect for hiking and exploring.",
       "words": [
         {
           "word": "The",
-          "startSec": 178.06,
-          "endSec": 178.32,
-          "score": 0.97
+          "start": 188.56,
+          "end": 188.72
         },
         {
-          "word": "beaches",
-          "startSec": 178.32,
-          "endSec": 178.78,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 178.78,
-          "endSec": 179.24,
-          "score": 0.17
-        },
-        {
-          "word": "Salala",
-          "startSec": 179.24,
-          "endSec": 179.8,
-          "score": 0.58
-        },
-        {
-          "word": "are",
-          "startSec": 179.8,
-          "endSec": 180.3,
-          "score": 0.98
-        },
-        {
-          "word": "long",
-          "startSec": 180.3,
-          "endSec": 180.66,
-          "score": 0.99
+          "word": "mountains",
+          "start": 188.72,
+          "end": 189.2
         },
         {
           "word": "and",
-          "startSec": 180.66,
-          "endSec": 181.12,
-          "score": 0.99
+          "start": 189.2,
+          "end": 189.64
         },
         {
-          "word": "beautiful.",
-          "startSec": 181.12,
-          "endSec": 181.44,
-          "score": 1.0
+          "word": "green",
+          "start": 189.64,
+          "end": 189.98
+        },
+        {
+          "word": "plains",
+          "start": 189.98,
+          "end": 190.46
+        },
+        {
+          "word": "are",
+          "start": 190.46,
+          "end": 190.9
+        },
+        {
+          "word": "perfect",
+          "start": 190.9,
+          "end": 191.4
+        },
+        {
+          "word": "for",
+          "start": 191.4,
+          "end": 191.72
+        },
+        {
+          "word": "hiking",
+          "start": 191.72,
+          "end": 192.16
+        },
+        {
+          "word": "and",
+          "start": 192.16,
+          "end": 192.66
+        },
+        {
+          "word": "exploring.",
+          "start": 192.66,
+          "end": 193.76
         }
       ]
     },
     {
       "id": 35,
-      "start": 182.48,
-      "end": 187.59,
-      "text": "You can swim, relax, or watch dolphins in the sea.",
+      "start": 194.78,
+      "end": 199.1,
+      "text": "Nature is peaceful and everywhere around the city.",
       "words": [
         {
-          "word": "You",
-          "startSec": 182.68,
-          "endSec": 182.9,
-          "score": 0.98
+          "word": "Nature",
+          "start": 194.78,
+          "end": 195.38
         },
         {
-          "word": "can",
-          "startSec": 182.9,
-          "endSec": 183.1,
-          "score": 1.0
+          "word": "is",
+          "start": 195.38,
+          "end": 195.72
         },
         {
-          "word": "swim,",
-          "startSec": 183.1,
-          "endSec": 183.54,
-          "score": 1.0
+          "word": "peaceful",
+          "start": 195.72,
+          "end": 196.36
         },
         {
-          "word": "relax,",
-          "startSec": 184.08,
-          "endSec": 184.58,
-          "score": 1.0
+          "word": "and",
+          "start": 196.36,
+          "end": 196.82
         },
         {
-          "word": "or",
-          "startSec": 185.4,
-          "endSec": 185.58,
-          "score": 0.99
+          "word": "everywhere",
+          "start": 196.82,
+          "end": 197.44
         },
         {
-          "word": "watch",
-          "startSec": 185.58,
-          "endSec": 185.88,
-          "score": 1.0
-        },
-        {
-          "word": "dolphins",
-          "startSec": 185.88,
-          "endSec": 186.48,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 186.48,
-          "endSec": 186.98,
-          "score": 1.0
+          "word": "around",
+          "start": 197.44,
+          "end": 198.12
         },
         {
           "word": "the",
-          "startSec": 186.98,
-          "endSec": 187.14,
-          "score": 1.0
+          "start": 198.12,
+          "end": 198.34
         },
         {
-          "word": "sea.",
-          "startSec": 187.14,
-          "endSec": 187.44,
-          "score": 1.0
+          "word": "city.",
+          "start": 198.34,
+          "end": 199.1
         }
       ]
     },
     {
       "id": 36,
-      "start": 188.36,
-      "end": 193.35,
-      "text": "The mountains and green plains are perfect for hiking and exploring.",
+      "start": 199.54,
+      "end": 209.26,
+      "text": "Part 9 – Travel and Tourism Salalah is reachable by plane or road from other cities in Oman.",
       "words": [
         {
-          "word": "The",
-          "startSec": 188.56,
-          "endSec": 188.68,
-          "score": 0.99
+          "word": "Part",
+          "start": 199.54,
+          "end": 200.04
         },
         {
-          "word": "mountains",
-          "startSec": 188.68,
-          "endSec": 189.12,
-          "score": 0.99
+          "word": "9",
+          "start": 200.04,
+          "end": 200.6
         },
         {
-          "word": "and",
-          "startSec": 189.12,
-          "endSec": 189.58,
-          "score": 1.0
+          "word": "–",
+          "start": 200.6,
+          "end": 201.04
         },
         {
-          "word": "green",
-          "startSec": 189.58,
-          "endSec": 189.86,
-          "score": 0.98
-        },
-        {
-          "word": "plains",
-          "startSec": 189.86,
-          "endSec": 190.44,
-          "score": 0.9
-        },
-        {
-          "word": "are",
-          "startSec": 190.44,
-          "endSec": 190.84,
-          "score": 1.0
-        },
-        {
-          "word": "perfect",
-          "startSec": 190.84,
-          "endSec": 191.36,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 191.36,
-          "endSec": 191.7,
-          "score": 1.0
-        },
-        {
-          "word": "hiking",
-          "startSec": 191.7,
-          "endSec": 192.04,
-          "score": 1.0
+          "word": "Travel",
+          "start": 201.04,
+          "end": 201.4
         },
         {
           "word": "and",
-          "startSec": 192.04,
-          "endSec": 192.58,
-          "score": 1.0
+          "start": 201.4,
+          "end": 201.78
         },
         {
-          "word": "exploring.",
-          "startSec": 192.58,
-          "endSec": 193.2,
-          "score": 1.0
+          "word": "Tourism",
+          "start": 201.78,
+          "end": 202.68
+        },
+        {
+          "word": "Salalah",
+          "start": 202.68,
+          "end": 204.28
+        },
+        {
+          "word": "is",
+          "start": 204.28,
+          "end": 204.76
+        },
+        {
+          "word": "reachable",
+          "start": 204.76,
+          "end": 205.38
+        },
+        {
+          "word": "by",
+          "start": 205.38,
+          "end": 205.66
+        },
+        {
+          "word": "plane",
+          "start": 205.66,
+          "end": 206.18
+        },
+        {
+          "word": "or",
+          "start": 206.18,
+          "end": 206.42
+        },
+        {
+          "word": "road",
+          "start": 206.42,
+          "end": 206.88
+        },
+        {
+          "word": "from",
+          "start": 206.88,
+          "end": 207.24
+        },
+        {
+          "word": "other",
+          "start": 207.24,
+          "end": 207.64
+        },
+        {
+          "word": "cities",
+          "start": 207.64,
+          "end": 208.06
+        },
+        {
+          "word": "in",
+          "start": 208.06,
+          "end": 208.4
+        },
+        {
+          "word": "Oman.",
+          "start": 208.4,
+          "end": 209.26
         }
       ]
     },
     {
       "id": 37,
-      "start": 194.57,
-      "end": 198.8,
-      "text": "Nature is peaceful and everywhere around the city.",
+      "start": 209.64,
+      "end": 214.96,
+      "text": "Tourists come to see beaches, mountains, and local culture.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 194.77,
-          "endSec": 195.37,
-          "score": 0.99
+          "word": "Tourists",
+          "start": 209.64,
+          "end": 210.6
         },
         {
-          "word": "is",
-          "startSec": 195.37,
-          "endSec": 195.67,
-          "score": 1.0
+          "word": "come",
+          "start": 210.6,
+          "end": 210.86
         },
         {
-          "word": "peaceful",
-          "startSec": 195.67,
-          "endSec": 196.21,
-          "score": 1.0
+          "word": "to",
+          "start": 210.86,
+          "end": 211.12
+        },
+        {
+          "word": "see",
+          "start": 211.12,
+          "end": 211.38
+        },
+        {
+          "word": "beaches,",
+          "start": 211.38,
+          "end": 211.9
+        },
+        {
+          "word": "mountains,",
+          "start": 212.4,
+          "end": 212.8
         },
         {
           "word": "and",
-          "startSec": 196.21,
-          "endSec": 196.75,
-          "score": 0.97
+          "start": 213.3,
+          "end": 213.44
         },
         {
-          "word": "everywhere",
-          "startSec": 196.75,
-          "endSec": 197.25,
-          "score": 1.0
+          "word": "local",
+          "start": 213.44,
+          "end": 213.84
         },
         {
-          "word": "around",
-          "startSec": 197.25,
-          "endSec": 198.05,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 198.05,
-          "endSec": 198.29,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 198.29,
-          "endSec": 198.65,
-          "score": 0.99
+          "word": "culture.",
+          "start": 213.84,
+          "end": 214.96
         }
       ]
     },
     {
       "id": 38,
-      "start": 199.24,
-      "end": 202.19,
-      "text": "Part 9, travel and tourism.",
+      "start": 215.54,
+      "end": 221.06,
+      "text": "Tourism helps local people earn money and protect traditions.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 199.44,
-          "endSec": 199.92,
-          "score": 0.55
+          "word": "Tourism",
+          "start": 215.54,
+          "end": 216.36
         },
         {
-          "word": "9,",
-          "startSec": 199.92,
-          "endSec": 200.42,
-          "score": 0.6
+          "word": "helps",
+          "start": 216.36,
+          "end": 216.8
         },
         {
-          "word": "travel",
-          "startSec": 201.38,
-          "endSec": 201.38,
-          "score": 0.27
+          "word": "local",
+          "start": 216.8,
+          "end": 217.3
+        },
+        {
+          "word": "people",
+          "start": 217.3,
+          "end": 217.82
+        },
+        {
+          "word": "earn",
+          "start": 217.82,
+          "end": 218.22
+        },
+        {
+          "word": "money",
+          "start": 218.22,
+          "end": 218.76
         },
         {
           "word": "and",
-          "startSec": 201.38,
-          "endSec": 201.72,
-          "score": 0.89
+          "start": 218.76,
+          "end": 219.28
         },
         {
-          "word": "tourism.",
-          "startSec": 201.72,
-          "endSec": 202.04,
-          "score": 1.0
+          "word": "protect",
+          "start": 219.28,
+          "end": 219.8
+        },
+        {
+          "word": "traditions.",
+          "start": 219.8,
+          "end": 221.06
         }
       ]
     },
     {
       "id": 39,
-      "start": 203.36,
-      "end": 208.85,
-      "text": "Salala is reachable by plain or road from other cities in Oman.",
+      "start": 221.7,
+      "end": 230.14,
+      "text": "Part 10 – Daily Life in Salalah Life in Salalah is calm and simple.",
       "words": [
         {
-          "word": "Salala",
-          "startSec": 203.56,
-          "endSec": 204.22,
-          "score": 0.58
+          "word": "Part",
+          "start": 221.7,
+          "end": 222.7
         },
         {
-          "word": "is",
-          "startSec": 204.22,
-          "endSec": 204.68,
-          "score": 0.97
+          "word": "10",
+          "start": 222.7,
+          "end": 223.26
         },
         {
-          "word": "reachable",
-          "startSec": 204.68,
-          "endSec": 205.3,
-          "score": 0.98
+          "word": "–",
+          "start": 223.26,
+          "end": 224.12
         },
         {
-          "word": "by",
-          "startSec": 205.3,
-          "endSec": 205.6,
-          "score": 1.0
+          "word": "Daily",
+          "start": 224.12,
+          "end": 224.66
         },
         {
-          "word": "plain",
-          "startSec": 205.6,
-          "endSec": 206.08,
-          "score": 0.2
-        },
-        {
-          "word": "or",
-          "startSec": 206.08,
-          "endSec": 206.38,
-          "score": 0.99
-        },
-        {
-          "word": "road",
-          "startSec": 206.38,
-          "endSec": 206.76,
-          "score": 0.96
-        },
-        {
-          "word": "from",
-          "startSec": 206.76,
-          "endSec": 207.18,
-          "score": 0.99
-        },
-        {
-          "word": "other",
-          "startSec": 207.18,
-          "endSec": 207.46,
-          "score": 1.0
-        },
-        {
-          "word": "cities",
-          "startSec": 207.46,
-          "endSec": 208.0,
-          "score": 0.99
+          "word": "Life",
+          "start": 224.66,
+          "end": 225.06
         },
         {
           "word": "in",
-          "startSec": 208.0,
-          "endSec": 208.34,
-          "score": 0.98
+          "start": 225.06,
+          "end": 225.32
         },
         {
-          "word": "Oman.",
-          "startSec": 208.34,
-          "endSec": 208.7,
-          "score": 0.99
+          "word": "Salalah",
+          "start": 225.32,
+          "end": 226.02
+        },
+        {
+          "word": "Life",
+          "start": 226.66,
+          "end": 227.24
+        },
+        {
+          "word": "in",
+          "start": 227.24,
+          "end": 227.48
+        },
+        {
+          "word": "Salalah",
+          "start": 227.48,
+          "end": 228.14
+        },
+        {
+          "word": "is",
+          "start": 228.14,
+          "end": 228.54
+        },
+        {
+          "word": "calm",
+          "start": 228.54,
+          "end": 229.06
+        },
+        {
+          "word": "and",
+          "start": 229.06,
+          "end": 229.28
+        },
+        {
+          "word": "simple.",
+          "start": 229.28,
+          "end": 230.14
         }
       ]
     },
     {
       "id": 40,
-      "start": 209.63,
-      "end": 214.6,
-      "text": "Tourists come to see beaches, mountains, and local culture.",
+      "start": 230.36,
+      "end": 236.7,
+      "text": "People wake up early, go to work or school, and spend time with family.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 209.83,
-          "endSec": 210.57,
-          "score": 0.96
+          "word": "People",
+          "start": 230.36,
+          "end": 230.96
         },
         {
-          "word": "come",
-          "startSec": 210.57,
-          "endSec": 210.83,
-          "score": 1.0
+          "word": "wake",
+          "start": 230.96,
+          "end": 231.34
+        },
+        {
+          "word": "up",
+          "start": 231.34,
+          "end": 231.62
+        },
+        {
+          "word": "early,",
+          "start": 231.62,
+          "end": 232.12
+        },
+        {
+          "word": "go",
+          "start": 232.68,
+          "end": 232.86
         },
         {
           "word": "to",
-          "startSec": 210.83,
-          "endSec": 211.07,
-          "score": 1.0
+          "start": 232.86,
+          "end": 233.02
         },
         {
-          "word": "see",
-          "startSec": 211.07,
-          "endSec": 211.33,
-          "score": 0.97
+          "word": "work",
+          "start": 233.02,
+          "end": 233.36
         },
         {
-          "word": "beaches,",
-          "startSec": 211.33,
-          "endSec": 211.77,
-          "score": 1.0
+          "word": "or",
+          "start": 233.36,
+          "end": 233.6
         },
         {
-          "word": "mountains,",
-          "startSec": 211.87,
-          "endSec": 212.61,
-          "score": 1.0
+          "word": "school,",
+          "start": 233.6,
+          "end": 234.12
         },
         {
           "word": "and",
-          "startSec": 212.95,
-          "endSec": 213.37,
-          "score": 1.0
+          "start": 234.5,
+          "end": 234.64
         },
         {
-          "word": "local",
-          "startSec": 213.37,
-          "endSec": 213.73,
-          "score": 1.0
+          "word": "spend",
+          "start": 234.64,
+          "end": 234.94
         },
         {
-          "word": "culture.",
-          "startSec": 213.73,
-          "endSec": 214.45,
-          "score": 0.99
+          "word": "time",
+          "start": 234.94,
+          "end": 235.42
+        },
+        {
+          "word": "with",
+          "start": 235.42,
+          "end": 235.72
+        },
+        {
+          "word": "family.",
+          "start": 235.72,
+          "end": 236.7
         }
       ]
     },
     {
       "id": 41,
-      "start": 215.51,
-      "end": 220.6,
-      "text": "Tourism helps local people earn money and protect traditions.",
+      "start": 237.38,
+      "end": 243.04,
+      "text": "Children play in the streets and families enjoy walks in nature.",
       "words": [
         {
-          "word": "Tourism",
-          "startSec": 215.71,
-          "endSec": 216.03,
-          "score": 0.97
+          "word": "Children",
+          "start": 237.38,
+          "end": 237.86
         },
         {
-          "word": "helps",
-          "startSec": 216.03,
-          "endSec": 216.65,
-          "score": 0.99
+          "word": "play",
+          "start": 237.86,
+          "end": 238.42
         },
         {
-          "word": "local",
-          "startSec": 216.65,
-          "endSec": 217.11,
-          "score": 1.0
+          "word": "in",
+          "start": 238.42,
+          "end": 238.66
         },
         {
-          "word": "people",
-          "startSec": 217.11,
-          "endSec": 217.71,
-          "score": 1.0
+          "word": "the",
+          "start": 238.66,
+          "end": 238.84
         },
         {
-          "word": "earn",
-          "startSec": 217.71,
-          "endSec": 218.17,
-          "score": 1.0
-        },
-        {
-          "word": "money",
-          "startSec": 218.17,
-          "endSec": 218.71,
-          "score": 1.0
+          "word": "streets",
+          "start": 238.84,
+          "end": 239.28
         },
         {
           "word": "and",
-          "startSec": 218.71,
-          "endSec": 219.23,
-          "score": 0.94
+          "start": 239.28,
+          "end": 239.94
         },
         {
-          "word": "protect",
-          "startSec": 219.23,
-          "endSec": 219.73,
-          "score": 1.0
+          "word": "families",
+          "start": 239.94,
+          "end": 240.58
         },
         {
-          "word": "traditions.",
-          "startSec": 219.73,
-          "endSec": 220.45,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 240.58,
+          "end": 241.18
+        },
+        {
+          "word": "walks",
+          "start": 241.18,
+          "end": 241.74
+        },
+        {
+          "word": "in",
+          "start": 241.74,
+          "end": 242.14
+        },
+        {
+          "word": "nature.",
+          "start": 242.14,
+          "end": 243.04
         }
       ]
     },
     {
       "id": 42,
-      "start": 222.48,
-      "end": 225.93,
-      "text": "Part 10, daily life in Salala.",
+      "start": 243.54,
+      "end": 248.34,
+      "text": "Life is connected to culture, traditions, and nature.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 222.68,
-          "endSec": 222.68,
-          "score": 0.99
+          "word": "Life",
+          "start": 243.54,
+          "end": 243.96
         },
         {
-          "word": "10,",
-          "startSec": 222.68,
-          "endSec": 223.2,
-          "score": 0.99
+          "word": "is",
+          "start": 243.96,
+          "end": 244.26
         },
         {
-          "word": "daily",
-          "startSec": 224.54,
-          "endSec": 224.54,
-          "score": 0.93
+          "word": "connected",
+          "start": 244.26,
+          "end": 244.8
         },
         {
-          "word": "life",
-          "startSec": 224.54,
-          "endSec": 225.02,
-          "score": 1.0
+          "word": "to",
+          "start": 244.8,
+          "end": 245.1
         },
         {
-          "word": "in",
-          "startSec": 225.02,
-          "endSec": 225.26,
-          "score": 0.8
+          "word": "culture,",
+          "start": 245.1,
+          "end": 245.68
         },
         {
-          "word": "Salala.",
-          "startSec": 225.26,
-          "endSec": 225.78,
-          "score": 0.9
+          "word": "traditions,",
+          "start": 246.14,
+          "end": 246.54
+        },
+        {
+          "word": "and",
+          "start": 247.28,
+          "end": 247.42
+        },
+        {
+          "word": "nature.",
+          "start": 247.42,
+          "end": 248.34
         }
       ]
     },
     {
       "id": 43,
-      "start": 226.54,
-      "end": 229.89,
-      "text": "Life in Salala is calm and simple.",
+      "start": 248.68,
+      "end": 260.74,
+      "text": "Part 11 – Why Salalah is Special Salalah is not a famous city, but it is full of nature, culture, and calm life.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 226.74,
-          "endSec": 227.18,
-          "score": 0.26
+          "word": "Part",
+          "start": 248.68,
+          "end": 249.18
         },
         {
-          "word": "in",
-          "startSec": 227.18,
-          "endSec": 227.46,
-          "score": 0.95
+          "word": "11",
+          "start": 249.18,
+          "end": 249.76
         },
         {
-          "word": "Salala",
-          "startSec": 227.46,
-          "endSec": 227.98,
-          "score": 0.63
+          "word": "–",
+          "start": 249.76,
+          "end": 250.52
+        },
+        {
+          "word": "Why",
+          "start": 250.52,
+          "end": 250.74
+        },
+        {
+          "word": "Salalah",
+          "start": 250.74,
+          "end": 251.42
         },
         {
           "word": "is",
-          "startSec": 227.98,
-          "endSec": 228.46,
-          "score": 0.98
+          "start": 251.42,
+          "end": 251.74
         },
         {
-          "word": "calm",
-          "startSec": 228.46,
-          "endSec": 228.84,
-          "score": 0.32
+          "word": "Special",
+          "start": 251.74,
+          "end": 252.3
+        },
+        {
+          "word": "Salalah",
+          "start": 252.94,
+          "end": 254.22
+        },
+        {
+          "word": "is",
+          "start": 254.22,
+          "end": 254.56
+        },
+        {
+          "word": "not",
+          "start": 254.56,
+          "end": 254.8
+        },
+        {
+          "word": "a",
+          "start": 254.8,
+          "end": 254.98
+        },
+        {
+          "word": "famous",
+          "start": 254.98,
+          "end": 255.32
+        },
+        {
+          "word": "city,",
+          "start": 255.32,
+          "end": 255.88
+        },
+        {
+          "word": "but",
+          "start": 256.4,
+          "end": 256.64
+        },
+        {
+          "word": "it",
+          "start": 256.64,
+          "end": 256.8
+        },
+        {
+          "word": "is",
+          "start": 256.8,
+          "end": 256.96
+        },
+        {
+          "word": "full",
+          "start": 256.96,
+          "end": 257.22
+        },
+        {
+          "word": "of",
+          "start": 257.22,
+          "end": 257.46
+        },
+        {
+          "word": "nature,",
+          "start": 257.46,
+          "end": 257.92
+        },
+        {
+          "word": "culture,",
+          "start": 258.44,
+          "end": 258.86
         },
         {
           "word": "and",
-          "startSec": 228.84,
-          "endSec": 229.2,
-          "score": 1.0
+          "start": 259.38,
+          "end": 259.44
         },
         {
-          "word": "simple.",
-          "startSec": 229.2,
-          "endSec": 229.74,
-          "score": 1.0
+          "word": "calm",
+          "start": 259.44,
+          "end": 259.86
+        },
+        {
+          "word": "life.",
+          "start": 259.86,
+          "end": 260.74
         }
       ]
     },
     {
       "id": 44,
-      "start": 230.38,
-      "end": 236.17,
-      "text": "People wake up early, go to work or school, and spend time with family.",
+      "start": 261.32,
+      "end": 266.98,
+      "text": "It combines beaches, mountains, and friendly people beautifully.",
       "words": [
         {
-          "word": "People",
-          "startSec": 230.58,
-          "endSec": 230.88,
-          "score": 0.99
+          "word": "It",
+          "start": 261.32,
+          "end": 261.66
         },
         {
-          "word": "wake",
-          "startSec": 230.88,
-          "endSec": 231.24,
-          "score": 1.0
+          "word": "combines",
+          "start": 261.66,
+          "end": 262.16
         },
         {
-          "word": "up",
-          "startSec": 231.24,
-          "endSec": 231.52,
-          "score": 1.0
+          "word": "beaches,",
+          "start": 262.16,
+          "end": 262.84
         },
         {
-          "word": "early,",
-          "startSec": 231.52,
-          "endSec": 232.02,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 232.58,
-          "endSec": 232.8,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 232.8,
-          "endSec": 232.98,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 232.98,
-          "endSec": 233.3,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 233.3,
-          "endSec": 233.54,
-          "score": 0.99
-        },
-        {
-          "word": "school,",
-          "startSec": 233.54,
-          "endSec": 233.94,
-          "score": 1.0
+          "word": "mountains,",
+          "start": 263.56,
+          "end": 264.0
         },
         {
           "word": "and",
-          "startSec": 234.46,
-          "endSec": 234.58,
-          "score": 1.0
+          "start": 264.56,
+          "end": 264.7
         },
         {
-          "word": "spend",
-          "startSec": 234.58,
-          "endSec": 234.9,
-          "score": 1.0
+          "word": "friendly",
+          "start": 264.7,
+          "end": 265.18
         },
         {
-          "word": "time",
-          "startSec": 234.9,
-          "endSec": 235.34,
-          "score": 1.0
+          "word": "people",
+          "start": 265.18,
+          "end": 265.8
         },
         {
-          "word": "with",
-          "startSec": 235.34,
-          "endSec": 235.64,
-          "score": 1.0
-        },
-        {
-          "word": "family.",
-          "startSec": 235.64,
-          "endSec": 236.02,
-          "score": 0.99
+          "word": "beautifully.",
+          "start": 265.8,
+          "end": 266.98
         }
       ]
     },
     {
       "id": 45,
-      "start": 237.14,
-      "end": 242.75,
-      "text": "Children play in the streets and families enjoy walks in nature.",
+      "start": 267.78,
+      "end": 272.3,
+      "text": "Visitors feel relaxed, happy, and peaceful here.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 237.34,
-          "endSec": 237.76,
-          "score": 0.99
+          "word": "Visitors",
+          "start": 267.78,
+          "end": 268.34
         },
         {
-          "word": "play",
-          "startSec": 237.76,
-          "endSec": 238.32,
-          "score": 0.99
+          "word": "feel",
+          "start": 268.34,
+          "end": 268.74
         },
         {
-          "word": "in",
-          "startSec": 238.32,
-          "endSec": 238.62,
-          "score": 1.0
+          "word": "relaxed,",
+          "start": 268.74,
+          "end": 269.54
         },
         {
-          "word": "the",
-          "startSec": 238.62,
-          "endSec": 238.78,
-          "score": 1.0
-        },
-        {
-          "word": "streets",
-          "startSec": 238.78,
-          "endSec": 239.26,
-          "score": 1.0
+          "word": "happy,",
+          "start": 270.12,
+          "end": 270.64
         },
         {
           "word": "and",
-          "startSec": 239.26,
-          "endSec": 239.88,
-          "score": 0.41
+          "start": 271.12,
+          "end": 271.22
         },
         {
-          "word": "families",
-          "startSec": 239.88,
-          "endSec": 240.5,
-          "score": 0.99
+          "word": "peaceful",
+          "start": 271.22,
+          "end": 271.8
         },
         {
-          "word": "enjoy",
-          "startSec": 240.5,
-          "endSec": 241.08,
-          "score": 1.0
-        },
-        {
-          "word": "walks",
-          "startSec": 241.08,
-          "endSec": 241.62,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 241.62,
-          "endSec": 242.08,
-          "score": 0.84
-        },
-        {
-          "word": "nature.",
-          "startSec": 242.08,
-          "endSec": 242.6,
-          "score": 1.0
+          "word": "here.",
+          "start": 271.8,
+          "end": 272.3
         }
       ]
     },
     {
       "id": 46,
-      "start": 243.4,
-      "end": 247.81,
-      "text": "Life is connected to culture, traditions, and nature.",
+      "start": 272.3,
+      "end": 276.66,
+      "text": "Thank you for listening to the Slow English Podcast.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 243.6,
-          "endSec": 243.9,
-          "score": 1.0
+          "word": "Thank",
+          "start": 272.3,
+          "end": 273.28
         },
         {
-          "word": "is",
-          "startSec": 243.9,
-          "endSec": 244.22,
-          "score": 1.0
+          "word": "you",
+          "start": 273.28,
+          "end": 273.66
         },
         {
-          "word": "connected",
-          "startSec": 244.22,
-          "endSec": 244.62,
-          "score": 1.0
+          "word": "for",
+          "start": 273.66,
+          "end": 273.92
+        },
+        {
+          "word": "listening",
+          "start": 273.92,
+          "end": 274.4
         },
         {
           "word": "to",
-          "startSec": 244.62,
-          "endSec": 245.04,
-          "score": 1.0
+          "start": 274.4,
+          "end": 274.78
         },
         {
-          "word": "culture,",
-          "startSec": 245.04,
-          "endSec": 245.48,
-          "score": 1.0
+          "word": "the",
+          "start": 274.78,
+          "end": 274.98
         },
         {
-          "word": "traditions,",
-          "startSec": 246.06,
-          "endSec": 246.54,
-          "score": 0.99
+          "word": "Slow",
+          "start": 274.98,
+          "end": 275.24
         },
         {
-          "word": "and",
-          "startSec": 247.06,
-          "endSec": 247.36,
-          "score": 1.0
+          "word": "English",
+          "start": 275.24,
+          "end": 275.64
         },
         {
-          "word": "nature.",
-          "startSec": 247.36,
-          "endSec": 247.66,
-          "score": 1.0
+          "word": "Podcast.",
+          "start": 275.64,
+          "end": 276.66
         }
       ]
     },
     {
       "id": 47,
-      "start": 248.97,
-      "end": 252.12,
-      "text": "Part 11, why Salala is special.",
+      "start": 277.62,
+      "end": 284.66,
+      "text": "I am Emili, and I hope you enjoyed this journey through Salalah Oman.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 249.17,
-          "endSec": 249.17,
-          "score": 0.96
+          "word": "I",
+          "start": 277.62,
+          "end": 277.8
         },
         {
-          "word": "11,",
-          "startSec": 249.17,
-          "endSec": 249.73,
-          "score": 0.96
+          "word": "am",
+          "start": 277.8,
+          "end": 278.04
         },
         {
-          "word": "why",
-          "startSec": 250.53,
-          "endSec": 250.63,
-          "score": 0.75
+          "word": "Emili,",
+          "start": 278.04,
+          "end": 278.44
         },
         {
-          "word": "Salala",
-          "startSec": 250.63,
-          "endSec": 251.29,
-          "score": 0.97
+          "word": "and",
+          "start": 279.2,
+          "end": 279.56
         },
         {
-          "word": "is",
-          "startSec": 251.29,
-          "endSec": 251.65,
-          "score": 0.99
+          "word": "I",
+          "start": 279.56,
+          "end": 279.74
         },
         {
-          "word": "special.",
-          "startSec": 251.65,
-          "endSec": 251.97,
-          "score": 0.98
+          "word": "hope",
+          "start": 279.74,
+          "end": 279.96
+        },
+        {
+          "word": "you",
+          "start": 279.96,
+          "end": 280.24
+        },
+        {
+          "word": "enjoyed",
+          "start": 280.24,
+          "end": 280.76
+        },
+        {
+          "word": "this",
+          "start": 280.76,
+          "end": 281.08
+        },
+        {
+          "word": "journey",
+          "start": 281.08,
+          "end": 281.7
+        },
+        {
+          "word": "through",
+          "start": 281.7,
+          "end": 282.76
+        },
+        {
+          "word": "Salalah",
+          "start": 282.76,
+          "end": 283.54
+        },
+        {
+          "word": "Oman.",
+          "start": 283.54,
+          "end": 284.66
         }
       ]
     },
     {
       "id": 48,
-      "start": 253.03,
-      "end": 260.42,
-      "text": "Salala is not a famous city, but it is full of nature, culture, and calm life.",
+      "start": 285.18,
+      "end": 287.1,
+      "text": "See you next time.",
       "words": [
         {
-          "word": "Salala",
-          "startSec": 253.23,
-          "endSec": 254.09,
-          "score": 0.36
+          "word": "See",
+          "start": 285.18,
+          "end": 285.62
         },
         {
-          "word": "is",
-          "startSec": 254.09,
-          "endSec": 254.51,
-          "score": 0.97
+          "word": "you",
+          "start": 285.62,
+          "end": 285.82
         },
         {
-          "word": "not",
-          "startSec": 254.51,
-          "endSec": 254.75,
-          "score": 0.97
+          "word": "next",
+          "start": 285.82,
+          "end": 286.1
         },
         {
-          "word": "a",
-          "startSec": 254.75,
-          "endSec": 254.91,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 254.91,
-          "endSec": 255.31,
-          "score": 1.0
-        },
-        {
-          "word": "city,",
-          "startSec": 255.31,
-          "endSec": 255.81,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 256.51,
-          "endSec": 256.59,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 256.59,
-          "endSec": 256.73,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 256.73,
-          "endSec": 256.91,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 256.91,
-          "endSec": 257.17,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 257.17,
-          "endSec": 257.39,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 257.39,
-          "endSec": 257.93,
-          "score": 0.97
-        },
-        {
-          "word": "culture,",
-          "startSec": 258.59,
-          "endSec": 258.59,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 259.37,
-          "endSec": 259.39,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 259.39,
-          "endSec": 259.71,
-          "score": 0.98
-        },
-        {
-          "word": "life.",
-          "startSec": 259.71,
-          "endSec": 260.27,
-          "score": 0.99
+          "word": "time.",
+          "start": 286.1,
+          "end": 287.1
         }
       ]
     },
     {
       "id": 49,
-      "start": 261.26,
-      "end": 266.55,
-      "text": "It combines beaches, mountains, and friendly people beautifully.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 261.46,
-          "endSec": 261.6,
-          "score": 0.98
-        },
-        {
-          "word": "combines",
-          "startSec": 261.6,
-          "endSec": 261.98,
-          "score": 1.0
-        },
-        {
-          "word": "beaches,",
-          "startSec": 261.98,
-          "endSec": 262.78,
-          "score": 1.0
-        },
-        {
-          "word": "mountains,",
-          "startSec": 262.86,
-          "endSec": 263.9,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 264.18,
-          "endSec": 264.64,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 264.64,
-          "endSec": 264.98,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 264.98,
-          "endSec": 265.74,
-          "score": 1.0
-        },
-        {
-          "word": "beautifully.",
-          "startSec": 265.74,
-          "endSec": 266.4,
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "start": 267.53,
-      "end": 272.36,
-      "text": "Visitors feel relaxed, happy, and peaceful here.",
-      "words": [
-        {
-          "word": "Visitors",
-          "startSec": 267.73,
-          "endSec": 268.11,
-          "score": 0.98
-        },
-        {
-          "word": "feel",
-          "startSec": 268.11,
-          "endSec": 268.67,
-          "score": 1.0
-        },
-        {
-          "word": "relaxed,",
-          "startSec": 268.67,
-          "endSec": 269.45,
-          "score": 1.0
-        },
-        {
-          "word": "happy,",
-          "startSec": 270.09,
-          "endSec": 270.33,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 271.11,
-          "endSec": 271.17,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 271.17,
-          "endSec": 271.69,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 271.69,
-          "endSec": 272.21,
-          "score": 0.98
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "start": 276.91,
-      "end": 284.22,
-      "text": "I am Emili, and I hope you enjoyed this journey through Salala Oman.",
-      "words": [
-        {
-          "word": "I",
-          "startSec": 277.11,
-          "endSec": 277.71,
-          "score": 0.32
-        },
-        {
-          "word": "am",
-          "startSec": 277.71,
-          "endSec": 278.01,
-          "score": 0.84
-        },
-        {
-          "word": "Emili,",
-          "startSec": 278.01,
-          "endSec": 278.33,
-          "score": 0.49
-        },
-        {
-          "word": "and",
-          "startSec": 279.07,
-          "endSec": 279.51,
-          "score": 0.94
-        },
-        {
-          "word": "I",
-          "startSec": 279.51,
-          "endSec": 279.67,
-          "score": 0.99
-        },
-        {
-          "word": "hope",
-          "startSec": 279.67,
-          "endSec": 279.93,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 279.93,
-          "endSec": 280.19,
-          "score": 0.99
-        },
-        {
-          "word": "enjoyed",
-          "startSec": 280.19,
-          "endSec": 280.61,
-          "score": 0.97
-        },
-        {
-          "word": "this",
-          "startSec": 280.61,
-          "endSec": 280.97,
-          "score": 0.99
-        },
-        {
-          "word": "journey",
-          "startSec": 280.97,
-          "endSec": 281.65,
-          "score": 0.99
-        },
-        {
-          "word": "through",
-          "startSec": 281.65,
-          "endSec": 282.71,
-          "score": 0.94
-        },
-        {
-          "word": "Salala",
-          "startSec": 282.71,
-          "endSec": 283.29,
-          "score": 0.51
-        },
-        {
-          "word": "Oman.",
-          "startSec": 283.29,
-          "endSec": 284.07,
-          "score": 0.02
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "start": 287.19,
-      "end": 288.74,
+      "start": 287.36,
+      "end": 289.01,
       "text": "Goodbye for now.",
       "words": [
         {
           "word": "Goodbye",
-          "startSec": 287.39,
-          "endSec": 287.65,
-          "score": 0.76
+          "start": 287.36,
+          "end": 287.74
         },
         {
           "word": "for",
-          "startSec": 287.65,
-          "endSec": 288.29,
-          "score": 0.96
+          "start": 287.74,
+          "end": 288.34
         },
         {
           "word": "now.",
-          "startSec": 288.29,
-          "endSec": 288.59,
-          "score": 0.99
+          "start": 288.34,
+          "end": 289.01
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 49
 }

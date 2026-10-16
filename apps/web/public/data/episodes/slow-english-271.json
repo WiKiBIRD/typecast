@@ -15,3483 +15,3134 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 6.15,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am Emily, your host.",
+      "start": 1.88,
+      "end": 4.28,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.0,
-          "endSec": 0.46,
-          "score": 0.76
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.62,
-          "endSec": 1.12,
-          "score": 0.99
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.18,
-          "endSec": 2.18,
-          "score": 1.0
+          "start": 1.88,
+          "end": 2.16
         },
         {
           "word": "to",
-          "startSec": 2.18,
-          "endSec": 2.46,
-          "score": 1.0
+          "start": 2.16,
+          "end": 2.5
         },
         {
           "word": "the",
-          "startSec": 2.46,
-          "endSec": 2.64,
-          "score": 0.96
+          "start": 2.5,
+          "end": 2.72
         },
         {
           "word": "Slow",
-          "startSec": 2.64,
-          "endSec": 2.9,
-          "score": 0.83
+          "start": 2.72,
+          "end": 3.0
         },
         {
           "word": "English",
-          "startSec": 2.9,
-          "endSec": 3.28,
-          "score": 0.93
+          "start": 3.0,
+          "end": 3.4
         },
         {
           "word": "Podcast.",
-          "startSec": 3.28,
-          "endSec": 3.9,
-          "score": 0.81
-        },
-        {
-          "word": "I",
-          "startSec": 4.48,
-          "endSec": 4.64,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 4.64,
-          "endSec": 4.82,
-          "score": 0.97
-        },
-        {
-          "word": "Emily,",
-          "startSec": 4.82,
-          "endSec": 5.18,
-          "score": 0.98
-        },
-        {
-          "word": "your",
-          "startSec": 5.5,
-          "endSec": 5.58,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 5.58,
-          "endSec": 6.0,
-          "score": 1.0
+          "start": 3.4,
+          "end": 4.28
         }
       ]
     },
     {
       "id": 2,
-      "start": 6.86,
-      "end": 15.25,
-      "text": "Today, we are traveling to a small and historic city in South America. It is called Potosí.",
+      "start": 4.5,
+      "end": 6.44,
+      "text": "I am Emily, your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 7.06,
-          "endSec": 7.54,
-          "score": 0.99
+          "word": "I",
+          "start": 4.5,
+          "end": 4.66
         },
         {
-          "word": "we",
-          "startSec": 7.92,
-          "endSec": 8.1,
-          "score": 1.0
+          "word": "am",
+          "start": 4.66,
+          "end": 4.86
         },
         {
-          "word": "are",
-          "startSec": 8.1,
-          "endSec": 8.26,
-          "score": 0.99
+          "word": "Emily,",
+          "start": 4.86,
+          "end": 5.28
         },
         {
-          "word": "traveling",
-          "startSec": 8.26,
-          "endSec": 8.8,
-          "score": 0.97
+          "word": "your",
+          "start": 5.58,
+          "end": 5.64
         },
         {
-          "word": "to",
-          "startSec": 8.8,
-          "endSec": 9.28,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 9.28,
-          "endSec": 9.46,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 9.46,
-          "endSec": 10.04,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 10.04,
-          "endSec": 10.38,
-          "score": 0.99
-        },
-        {
-          "word": "historic",
-          "startSec": 10.38,
-          "endSec": 10.86,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 10.86,
-          "endSec": 11.44,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 11.44,
-          "endSec": 11.86,
-          "score": 1.0
-        },
-        {
-          "word": "South",
-          "startSec": 11.86,
-          "endSec": 12.18,
-          "score": 0.99
-        },
-        {
-          "word": "America.",
-          "startSec": 12.18,
-          "endSec": 12.88,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 13.4,
-          "endSec": 13.6,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 13.6,
-          "endSec": 13.78,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 13.78,
-          "endSec": 14.18,
-          "score": 1.0
-        },
-        {
-          "word": "Potosí.",
-          "startSec": 14.18,
-          "endSec": 15.1,
-          "score": 0.64
+          "word": "host.",
+          "start": 5.64,
+          "end": 6.44
         }
       ]
     },
     {
       "id": 3,
-      "start": 15.88,
-      "end": 25.31,
-      "text": "Potosí is in Bolivia, a country in South America. This city is full of history, mountains, and friendly people.",
+      "start": 7.42,
+      "end": 13.24,
+      "text": "Today, we are traveling to a small and historic city in South America.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 16.08,
-          "endSec": 16.84,
-          "score": 0.99
+          "word": "Today,",
+          "start": 7.42,
+          "end": 7.58
         },
         {
-          "word": "is",
-          "startSec": 16.84,
-          "endSec": 17.16,
-          "score": 0.98
+          "word": "we",
+          "start": 7.9,
+          "end": 8.16
         },
         {
-          "word": "in",
-          "startSec": 17.16,
-          "endSec": 17.36,
-          "score": 0.99
+          "word": "are",
+          "start": 8.16,
+          "end": 8.3
         },
         {
-          "word": "Bolivia,",
-          "startSec": 17.36,
-          "endSec": 17.6,
-          "score": 0.99
+          "word": "traveling",
+          "start": 8.3,
+          "end": 8.9
+        },
+        {
+          "word": "to",
+          "start": 8.9,
+          "end": 9.34
         },
         {
           "word": "a",
-          "startSec": 17.96,
-          "endSec": 18.26,
-          "score": 1.0
+          "start": 9.34,
+          "end": 9.52
         },
         {
-          "word": "country",
-          "startSec": 18.26,
-          "endSec": 18.68,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 18.68,
-          "endSec": 19.0,
-          "score": 1.0
-        },
-        {
-          "word": "South",
-          "startSec": 19.0,
-          "endSec": 19.26,
-          "score": 1.0
-        },
-        {
-          "word": "America.",
-          "startSec": 19.26,
-          "endSec": 19.96,
-          "score": 1.0
-        },
-        {
-          "word": "This",
-          "startSec": 20.6,
-          "endSec": 20.86,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 20.86,
-          "endSec": 21.24,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 21.24,
-          "endSec": 21.42,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 21.42,
-          "endSec": 21.64,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 21.64,
-          "endSec": 21.82,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 21.82,
-          "endSec": 22.38,
-          "score": 1.0
-        },
-        {
-          "word": "mountains,",
-          "startSec": 22.86,
-          "endSec": 23.3,
-          "score": 1.0
+          "word": "small",
+          "start": 9.52,
+          "end": 10.14
         },
         {
           "word": "and",
-          "startSec": 24.0,
-          "endSec": 24.12,
-          "score": 1.0
+          "start": 10.14,
+          "end": 10.44
         },
         {
-          "word": "friendly",
-          "startSec": 24.12,
-          "endSec": 24.46,
-          "score": 1.0
+          "word": "historic",
+          "start": 10.44,
+          "end": 10.98
         },
         {
-          "word": "people.",
-          "startSec": 24.46,
-          "endSec": 25.16,
-          "score": 1.0
+          "word": "city",
+          "start": 10.98,
+          "end": 11.54
+        },
+        {
+          "word": "in",
+          "start": 11.54,
+          "end": 11.92
+        },
+        {
+          "word": "South",
+          "start": 11.92,
+          "end": 12.28
+        },
+        {
+          "word": "America.",
+          "start": 12.28,
+          "end": 13.24
         }
       ]
     },
     {
       "id": 4,
-      "start": 26.41,
-      "end": 39.86,
-      "text": "Let's explore Potosí together. Part two? Where is Potosí? Potosí is in southern Bolivia, high in the Andes Mountains.",
+      "start": 13.54,
+      "end": 15.38,
+      "text": "It is called Potosi.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 26.61,
-          "endSec": 27.09,
-          "score": 0.68
-        },
-        {
-          "word": "explore",
-          "startSec": 27.09,
-          "endSec": 27.53,
-          "score": 1.0
-        },
-        {
-          "word": "Potosí",
-          "startSec": 27.53,
-          "endSec": 28.21,
-          "score": 0.62
-        },
-        {
-          "word": "together.",
-          "startSec": 28.21,
-          "endSec": 28.47,
-          "score": 0.98
-        },
-        {
-          "word": "Part",
-          "startSec": 30.3,
-          "endSec": 30.52,
-          "score": 0.87
-        },
-        {
-          "word": "two?",
-          "startSec": 30.52,
-          "endSec": 31.0,
-          "score": 0.26
-        },
-        {
-          "word": "Where",
-          "startSec": 31.86,
-          "endSec": 31.94,
-          "score": 0.97
+          "word": "It",
+          "start": 13.54,
+          "end": 13.64
         },
         {
           "word": "is",
-          "startSec": 31.94,
-          "endSec": 32.2,
-          "score": 0.99
+          "start": 13.64,
+          "end": 13.86
         },
         {
-          "word": "Potosí?",
-          "startSec": 32.2,
-          "endSec": 33.0,
-          "score": 0.99
+          "word": "called",
+          "start": 13.86,
+          "end": 14.26
         },
         {
-          "word": "Potosí",
-          "startSec": 34.61,
-          "endSec": 35.57,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 35.57,
-          "endSec": 35.81,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 35.81,
-          "endSec": 36.07,
-          "score": 1.0
-        },
-        {
-          "word": "southern",
-          "startSec": 36.07,
-          "endSec": 36.53,
-          "score": 0.83
-        },
-        {
-          "word": "Bolivia,",
-          "startSec": 36.53,
-          "endSec": 37.11,
-          "score": 0.99
-        },
-        {
-          "word": "high",
-          "startSec": 37.43,
-          "endSec": 38.39,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 38.39,
-          "endSec": 38.65,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 38.65,
-          "endSec": 38.79,
-          "score": 1.0
-        },
-        {
-          "word": "Andes",
-          "startSec": 38.79,
-          "endSec": 39.29,
-          "score": 0.94
-        },
-        {
-          "word": "Mountains.",
-          "startSec": 39.29,
-          "endSec": 39.71,
-          "score": 0.71
+          "word": "Potosi.",
+          "start": 14.26,
+          "end": 15.38
         }
       ]
     },
     {
       "id": 5,
-      "start": 41.0,
-      "end": 54.75,
-      "text": "The city is very high, over 4,000 meters above sea level. It is small with streets on steep hills and colorful old buildings.",
+      "start": 15.94,
+      "end": 20.3,
+      "text": "Potosi is in Bolivia, a country in South America.",
       "words": [
         {
-          "word": "The",
-          "startSec": 41.2,
-          "endSec": 41.76,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 41.76,
-          "endSec": 42.06,
-          "score": 0.99
+          "word": "Potosi",
+          "start": 15.94,
+          "end": 16.74
         },
         {
           "word": "is",
-          "startSec": 42.06,
-          "endSec": 42.52,
-          "score": 1.0
+          "start": 16.74,
+          "end": 17.24
         },
         {
-          "word": "very",
-          "startSec": 42.52,
-          "endSec": 43.02,
-          "score": 1.0
+          "word": "in",
+          "start": 17.24,
+          "end": 17.42
         },
         {
-          "word": "high,",
-          "startSec": 43.02,
-          "endSec": 43.5,
-          "score": 1.0
+          "word": "Bolivia,",
+          "start": 17.42,
+          "end": 17.92
         },
         {
-          "word": "over",
-          "startSec": 44.18,
-          "endSec": 44.72,
-          "score": 0.99
+          "word": "a",
+          "start": 18.2,
+          "end": 18.34
         },
         {
-          "word": "4",
-          "startSec": 44.72,
-          "endSec": 45.2,
-          "score": 0.65
+          "word": "country",
+          "start": 18.34,
+          "end": 18.76
         },
         {
-          "word": ",000",
-          "startSec": 45.2,
-          "endSec": 45.84,
-          "score": 0.98
+          "word": "in",
+          "start": 18.76,
+          "end": 19.04
         },
         {
-          "word": "meters",
-          "startSec": 45.84,
-          "endSec": 46.24,
-          "score": 0.86
+          "word": "South",
+          "start": 19.04,
+          "end": 19.34
         },
         {
-          "word": "above",
-          "startSec": 46.24,
-          "endSec": 46.76,
-          "score": 1.0
-        },
-        {
-          "word": "sea",
-          "startSec": 46.76,
-          "endSec": 47.12,
-          "score": 1.0
-        },
-        {
-          "word": "level.",
-          "startSec": 47.12,
-          "endSec": 47.6,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 48.86,
-          "endSec": 49.24,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 49.24,
-          "endSec": 49.38,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 49.38,
-          "endSec": 49.86,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 49.86,
-          "endSec": 50.48,
-          "score": 0.67
-        },
-        {
-          "word": "streets",
-          "startSec": 50.48,
-          "endSec": 50.9,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 50.9,
-          "endSec": 51.36,
-          "score": 1.0
-        },
-        {
-          "word": "steep",
-          "startSec": 51.36,
-          "endSec": 51.76,
-          "score": 1.0
-        },
-        {
-          "word": "hills",
-          "startSec": 51.76,
-          "endSec": 52.36,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 52.36,
-          "endSec": 52.86,
-          "score": 0.98
-        },
-        {
-          "word": "colorful",
-          "startSec": 52.86,
-          "endSec": 53.3,
-          "score": 0.97
-        },
-        {
-          "word": "old",
-          "startSec": 53.3,
-          "endSec": 53.92,
-          "score": 0.94
-        },
-        {
-          "word": "buildings.",
-          "startSec": 53.92,
-          "endSec": 54.6,
-          "score": 1.0
+          "word": "America.",
+          "start": 19.34,
+          "end": 20.3
         }
       ]
     },
     {
       "id": 6,
-      "start": 55.92,
-      "end": 64.55,
-      "text": "Life is calm, and the mountains are always around the city. Part three? History of Potosí.",
+      "start": 20.74,
+      "end": 25.14,
+      "text": "This city is full of history, mountains, and friendly people.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 56.12,
-          "endSec": 56.52,
-          "score": 0.01
+          "word": "This",
+          "start": 20.74,
+          "end": 20.98
+        },
+        {
+          "word": "city",
+          "start": 20.98,
+          "end": 21.26
         },
         {
           "word": "is",
-          "startSec": 56.52,
-          "endSec": 56.9,
-          "score": 0.97
+          "start": 21.26,
+          "end": 21.46
         },
         {
-          "word": "calm,",
-          "startSec": 56.9,
-          "endSec": 57.26,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 57.76,
-          "endSec": 57.84,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 57.84,
-          "endSec": 58.04,
-          "score": 0.99
-        },
-        {
-          "word": "mountains",
-          "startSec": 58.04,
-          "endSec": 58.42,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 58.42,
-          "endSec": 58.8,
-          "score": 1.0
-        },
-        {
-          "word": "always",
-          "startSec": 58.8,
-          "endSec": 59.24,
-          "score": 0.99
-        },
-        {
-          "word": "around",
-          "startSec": 59.24,
-          "endSec": 59.64,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 59.64,
-          "endSec": 59.94,
-          "score": 0.99
-        },
-        {
-          "word": "city.",
-          "startSec": 59.94,
-          "endSec": 60.28,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 61.74,
-          "endSec": 61.92,
-          "score": 0.91
-        },
-        {
-          "word": "three?",
-          "startSec": 61.92,
-          "endSec": 62.5,
-          "score": 0.25
-        },
-        {
-          "word": "History",
-          "startSec": 63.0,
-          "endSec": 63.3,
-          "score": 0.98
+          "word": "full",
+          "start": 21.46,
+          "end": 21.7
         },
         {
           "word": "of",
-          "startSec": 63.3,
-          "endSec": 63.6,
-          "score": 0.99
+          "start": 21.7,
+          "end": 21.9
         },
         {
-          "word": "Potosí.",
-          "startSec": 63.6,
-          "endSec": 64.4,
-          "score": 0.55
+          "word": "history,",
+          "start": 21.9,
+          "end": 22.48
+        },
+        {
+          "word": "mountains,",
+          "start": 22.88,
+          "end": 23.52
+        },
+        {
+          "word": "and",
+          "start": 24.02,
+          "end": 24.16
+        },
+        {
+          "word": "friendly",
+          "start": 24.16,
+          "end": 24.64
+        },
+        {
+          "word": "people.",
+          "start": 24.64,
+          "end": 25.14
         }
       ]
     },
     {
       "id": 7,
-      "start": 66.11,
-      "end": 74.58,
-      "text": "Potosí has a long history. It was famous for silver mining during the Spanish colonial period.",
+      "start": 25.14,
+      "end": 29.2,
+      "text": "Let's explore Potosi together.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 66.31,
-          "endSec": 67.11,
-          "score": 0.99
+          "word": "Let's",
+          "start": 25.14,
+          "end": 27.12
         },
         {
-          "word": "has",
-          "startSec": 67.11,
-          "endSec": 67.37,
-          "score": 0.99
+          "word": "explore",
+          "start": 27.12,
+          "end": 27.6
         },
         {
-          "word": "a",
-          "startSec": 67.37,
-          "endSec": 67.61,
-          "score": 1.0
+          "word": "Potosi",
+          "start": 27.6,
+          "end": 28.14
         },
         {
-          "word": "long",
-          "startSec": 67.61,
-          "endSec": 67.85,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 67.85,
-          "endSec": 68.31,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 69.43,
-          "endSec": 69.61,
-          "score": 0.99
-        },
-        {
-          "word": "was",
-          "startSec": 69.61,
-          "endSec": 69.79,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 69.79,
-          "endSec": 70.37,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 70.37,
-          "endSec": 70.73,
-          "score": 1.0
-        },
-        {
-          "word": "silver",
-          "startSec": 70.73,
-          "endSec": 71.07,
-          "score": 0.98
-        },
-        {
-          "word": "mining",
-          "startSec": 71.07,
-          "endSec": 71.71,
-          "score": 0.98
-        },
-        {
-          "word": "during",
-          "startSec": 71.71,
-          "endSec": 72.27,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 72.27,
-          "endSec": 72.53,
-          "score": 1.0
-        },
-        {
-          "word": "Spanish",
-          "startSec": 72.53,
-          "endSec": 73.07,
-          "score": 1.0
-        },
-        {
-          "word": "colonial",
-          "startSec": 73.07,
-          "endSec": 73.43,
-          "score": 0.92
-        },
-        {
-          "word": "period.",
-          "startSec": 73.43,
-          "endSec": 74.43,
-          "score": 1.0
+          "word": "together.",
+          "start": 28.14,
+          "end": 29.2
         }
       ]
     },
     {
       "id": 8,
-      "start": 75.73,
-      "end": 82.3,
-      "text": "Many old buildings and churches were built in the 16th and 17th centuries.",
+      "start": 29.86,
+      "end": 33.38,
+      "text": "Part 2, Where is Potosi?",
       "words": [
         {
-          "word": "Many",
-          "startSec": 75.93,
-          "endSec": 76.29,
-          "score": 1.0
+          "word": "Part",
+          "start": 29.86,
+          "end": 30.54
         },
         {
-          "word": "old",
-          "startSec": 76.29,
-          "endSec": 76.79,
-          "score": 0.99
+          "word": "2,",
+          "start": 30.54,
+          "end": 31.1
         },
         {
-          "word": "buildings",
-          "startSec": 76.79,
-          "endSec": 77.43,
-          "score": 1.0
+          "word": "Where",
+          "start": 31.64,
+          "end": 31.98
         },
         {
-          "word": "and",
-          "startSec": 77.43,
-          "endSec": 77.81,
-          "score": 0.99
+          "word": "is",
+          "start": 31.98,
+          "end": 32.22
         },
         {
-          "word": "churches",
-          "startSec": 77.81,
-          "endSec": 78.23,
-          "score": 1.0
-        },
-        {
-          "word": "were",
-          "startSec": 78.23,
-          "endSec": 78.81,
-          "score": 0.99
-        },
-        {
-          "word": "built",
-          "startSec": 78.81,
-          "endSec": 79.21,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 79.21,
-          "endSec": 79.49,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 79.49,
-          "endSec": 79.61,
-          "score": 1.0
-        },
-        {
-          "word": "16th",
-          "startSec": 79.61,
-          "endSec": 80.51,
-          "score": 0.84
-        },
-        {
-          "word": "and",
-          "startSec": 80.51,
-          "endSec": 80.61,
-          "score": 0.96
-        },
-        {
-          "word": "17th",
-          "startSec": 80.61,
-          "endSec": 81.53,
-          "score": 1.0
-        },
-        {
-          "word": "centuries.",
-          "startSec": 81.53,
-          "endSec": 82.15,
-          "score": 0.99
+          "word": "Potosi?",
+          "start": 32.22,
+          "end": 33.38
         }
       ]
     },
     {
       "id": 9,
-      "start": 82.85,
-      "end": 92.11,
-      "text": "The city became one of the richest in the world because of silver. Part four? Main Attractions.",
+      "start": 34.44,
+      "end": 40.32,
+      "text": "Potosi is in Southern Bolivia, high in the Andes Mountains.",
       "words": [
         {
-          "word": "The",
-          "startSec": 83.05,
-          "endSec": 83.45,
-          "score": 0.61
+          "word": "Potosi",
+          "start": 34.44,
+          "end": 35.44
         },
         {
-          "word": "city",
-          "startSec": 83.45,
-          "endSec": 83.77,
-          "score": 0.91
-        },
-        {
-          "word": "became",
-          "startSec": 83.77,
-          "endSec": 84.33,
-          "score": 0.99
-        },
-        {
-          "word": "one",
-          "startSec": 84.33,
-          "endSec": 84.81,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 84.81,
-          "endSec": 84.99,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 84.99,
-          "endSec": 85.15,
-          "score": 1.0
-        },
-        {
-          "word": "richest",
-          "startSec": 85.15,
-          "endSec": 85.59,
-          "score": 0.99
+          "word": "is",
+          "start": 35.44,
+          "end": 35.92
         },
         {
           "word": "in",
-          "startSec": 85.59,
-          "endSec": 85.99,
-          "score": 0.99
+          "start": 35.92,
+          "end": 36.14
+        },
+        {
+          "word": "Southern",
+          "start": 36.14,
+          "end": 36.64
+        },
+        {
+          "word": "Bolivia,",
+          "start": 36.64,
+          "end": 37.5
+        },
+        {
+          "word": "high",
+          "start": 37.98,
+          "end": 38.42
+        },
+        {
+          "word": "in",
+          "start": 38.42,
+          "end": 38.7
         },
         {
           "word": "the",
-          "startSec": 85.99,
-          "endSec": 86.15,
-          "score": 1.0
+          "start": 38.7,
+          "end": 38.84
         },
         {
-          "word": "world",
-          "startSec": 86.15,
-          "endSec": 86.49,
-          "score": 1.0
+          "word": "Andes",
+          "start": 38.84,
+          "end": 39.36
         },
         {
-          "word": "because",
-          "startSec": 86.49,
-          "endSec": 86.95,
-          "score": 0.97
-        },
-        {
-          "word": "of",
-          "startSec": 86.95,
-          "endSec": 87.35,
-          "score": 1.0
-        },
-        {
-          "word": "silver.",
-          "startSec": 87.35,
-          "endSec": 87.65,
-          "score": 0.68
-        },
-        {
-          "word": "Part",
-          "startSec": 89.72,
-          "endSec": 89.92,
-          "score": 0.82
-        },
-        {
-          "word": "four?",
-          "startSec": 89.92,
-          "endSec": 90.38,
-          "score": 0.35
-        },
-        {
-          "word": "Main",
-          "startSec": 91.06,
-          "endSec": 91.2,
-          "score": 0.92
-        },
-        {
-          "word": "Attractions.",
-          "startSec": 91.2,
-          "endSec": 91.96,
-          "score": 0.81
+          "word": "Mountains.",
+          "start": 39.36,
+          "end": 40.32
         }
       ]
     },
     {
       "id": 10,
-      "start": 92.76,
-      "end": 103.89,
-      "text": "The main attractions are the historic buildings, plazas, and churches. You can visit the old mines to learn about the city's history.",
+      "start": 41.34,
+      "end": 48.04,
+      "text": "The city is very high, over 4,000 meters above sea level.",
       "words": [
         {
           "word": "The",
-          "startSec": 92.96,
-          "endSec": 93.18,
-          "score": 0.97
+          "start": 41.34,
+          "end": 41.82
         },
         {
-          "word": "main",
-          "startSec": 93.18,
-          "endSec": 93.5,
-          "score": 0.89
+          "word": "city",
+          "start": 41.82,
+          "end": 42.2
         },
         {
-          "word": "attractions",
-          "startSec": 93.5,
-          "endSec": 94.08,
-          "score": 0.98
+          "word": "is",
+          "start": 42.2,
+          "end": 42.6
         },
         {
-          "word": "are",
-          "startSec": 94.08,
-          "endSec": 94.64,
-          "score": 1.0
+          "word": "very",
+          "start": 42.6,
+          "end": 43.06
         },
         {
-          "word": "the",
-          "startSec": 94.64,
-          "endSec": 94.84,
-          "score": 0.99
+          "word": "high,",
+          "start": 43.06,
+          "end": 43.68
         },
         {
-          "word": "historic",
-          "startSec": 94.84,
-          "endSec": 95.24,
-          "score": 0.99
+          "word": "over",
+          "start": 44.38,
+          "end": 44.76
         },
         {
-          "word": "buildings,",
-          "startSec": 95.24,
-          "endSec": 96.02,
-          "score": 1.0
+          "word": "4",
+          "start": 44.76,
+          "end": 45.26
         },
         {
-          "word": "plazas,",
-          "startSec": 96.6,
-          "endSec": 97.36,
-          "score": 0.93
+          "word": ",000",
+          "start": 45.26,
+          "end": 45.86
         },
         {
-          "word": "and",
-          "startSec": 97.72,
-          "endSec": 97.78,
-          "score": 1.0
+          "word": "meters",
+          "start": 45.86,
+          "end": 46.28
         },
         {
-          "word": "churches.",
-          "startSec": 97.78,
-          "endSec": 98.06,
-          "score": 1.0
+          "word": "above",
+          "start": 46.28,
+          "end": 46.78
         },
         {
-          "word": "You",
-          "startSec": 99.26,
-          "endSec": 99.34,
-          "score": 0.99
+          "word": "sea",
+          "start": 46.78,
+          "end": 47.22
         },
         {
-          "word": "can",
-          "startSec": 99.34,
-          "endSec": 99.52,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 99.52,
-          "endSec": 99.94,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 99.94,
-          "endSec": 100.36,
-          "score": 0.99
-        },
-        {
-          "word": "old",
-          "startSec": 100.36,
-          "endSec": 100.7,
-          "score": 0.83
-        },
-        {
-          "word": "mines",
-          "startSec": 100.7,
-          "endSec": 101.1,
-          "score": 0.75
-        },
-        {
-          "word": "to",
-          "startSec": 101.1,
-          "endSec": 101.72,
-          "score": 0.99
-        },
-        {
-          "word": "learn",
-          "startSec": 101.72,
-          "endSec": 102.04,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 102.04,
-          "endSec": 102.4,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 102.4,
-          "endSec": 102.66,
-          "score": 0.99
-        },
-        {
-          "word": "city's",
-          "startSec": 102.66,
-          "endSec": 103.24,
-          "score": 0.98
-        },
-        {
-          "word": "history.",
-          "startSec": 103.24,
-          "endSec": 103.74,
-          "score": 1.0
+          "word": "level.",
+          "start": 47.22,
+          "end": 48.04
         }
       ]
     },
     {
       "id": 11,
-      "start": 103.54,
-      "end": 111.15,
-      "text": "The Casa de la Moneta is a museum showing coins, silver, and history.",
+      "start": 48.64,
+      "end": 55.1,
+      "text": "It is small, with streets on steep hills and colorful old buildings.",
       "words": [
         {
-          "word": "The",
-          "startSec": 103.74,
-          "endSec": 104.64,
-          "score": 0.57
-        },
-        {
-          "word": "Casa",
-          "startSec": 104.64,
-          "endSec": 105.26,
-          "score": 0.9
-        },
-        {
-          "word": "de",
-          "startSec": 105.26,
-          "endSec": 105.42,
-          "score": 0.83
-        },
-        {
-          "word": "la",
-          "startSec": 105.42,
-          "endSec": 105.68,
-          "score": 0.83
-        },
-        {
-          "word": "Moneta",
-          "startSec": 105.68,
-          "endSec": 106.2,
-          "score": 0.59
+          "word": "It",
+          "start": 48.64,
+          "end": 49.22
         },
         {
           "word": "is",
-          "startSec": 106.2,
-          "endSec": 106.8,
-          "score": 0.99
+          "start": 49.22,
+          "end": 49.44
         },
         {
-          "word": "a",
-          "startSec": 106.8,
-          "endSec": 106.96,
-          "score": 0.99
+          "word": "small,",
+          "start": 49.44,
+          "end": 50.12
         },
         {
-          "word": "museum",
-          "startSec": 106.96,
-          "endSec": 107.26,
-          "score": 0.99
+          "word": "with",
+          "start": 50.38,
+          "end": 50.54
         },
         {
-          "word": "showing",
-          "startSec": 107.26,
-          "endSec": 108.34,
-          "score": 0.99
+          "word": "streets",
+          "start": 50.54,
+          "end": 51.02
         },
         {
-          "word": "coins,",
-          "startSec": 108.34,
-          "endSec": 108.84,
-          "score": 0.99
+          "word": "on",
+          "start": 51.02,
+          "end": 51.4
         },
         {
-          "word": "silver,",
-          "startSec": 109.58,
-          "endSec": 109.88,
-          "score": 0.99
+          "word": "steep",
+          "start": 51.4,
+          "end": 51.9
+        },
+        {
+          "word": "hills",
+          "start": 51.9,
+          "end": 52.58
         },
         {
           "word": "and",
-          "startSec": 110.58,
-          "endSec": 110.66,
-          "score": 0.99
+          "start": 52.58,
+          "end": 52.92
         },
         {
-          "word": "history.",
-          "startSec": 110.66,
-          "endSec": 111.0,
-          "score": 1.0
+          "word": "colorful",
+          "start": 52.92,
+          "end": 53.56
+        },
+        {
+          "word": "old",
+          "start": 53.56,
+          "end": 54.06
+        },
+        {
+          "word": "buildings.",
+          "start": 54.06,
+          "end": 55.1
         }
       ]
     },
     {
       "id": 12,
-      "start": 112.33,
-      "end": 120.36,
-      "text": "Walking in Potosí is like stepping back in time. Part five? The city of Potosí.",
+      "start": 55.94,
+      "end": 60.76,
+      "text": "Life is calm, and the mountains are always around the city.",
       "words": [
         {
-          "word": "Walking",
-          "startSec": 112.53,
-          "endSec": 113.07,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 113.07,
-          "endSec": 113.37,
-          "score": 1.0
-        },
-        {
-          "word": "Potosí",
-          "startSec": 113.37,
-          "endSec": 114.21,
-          "score": 0.4
+          "word": "Life",
+          "start": 55.94,
+          "end": 56.6
         },
         {
           "word": "is",
-          "startSec": 114.21,
-          "endSec": 114.67,
-          "score": 0.96
+          "start": 56.6,
+          "end": 56.94
         },
         {
-          "word": "like",
-          "startSec": 114.67,
-          "endSec": 114.97,
-          "score": 1.0
+          "word": "calm,",
+          "start": 56.94,
+          "end": 57.4
         },
         {
-          "word": "stepping",
-          "startSec": 114.97,
-          "endSec": 115.37,
-          "score": 1.0
+          "word": "and",
+          "start": 57.8,
+          "end": 57.92
         },
         {
-          "word": "back",
-          "startSec": 115.37,
-          "endSec": 115.93,
-          "score": 1.0
+          "word": "the",
+          "start": 57.92,
+          "end": 58.08
         },
         {
-          "word": "in",
-          "startSec": 115.93,
-          "endSec": 116.23,
-          "score": 1.0
+          "word": "mountains",
+          "start": 58.08,
+          "end": 58.52
         },
         {
-          "word": "time.",
-          "startSec": 116.23,
-          "endSec": 116.55,
-          "score": 1.0
+          "word": "are",
+          "start": 58.52,
+          "end": 58.84
         },
         {
-          "word": "Part",
-          "startSec": 117.71,
-          "endSec": 117.71,
-          "score": 0.74
+          "word": "always",
+          "start": 58.84,
+          "end": 59.3
         },
         {
-          "word": "five?",
-          "startSec": 117.71,
-          "endSec": 118.33,
-          "score": 0.15
+          "word": "around",
+          "start": 59.3,
+          "end": 59.76
         },
         {
-          "word": "The",
-          "startSec": 118.81,
-          "endSec": 118.81,
-          "score": 0.96
+          "word": "the",
+          "start": 59.76,
+          "end": 60.0
         },
         {
-          "word": "city",
-          "startSec": 118.81,
-          "endSec": 119.09,
-          "score": 0.46
-        },
-        {
-          "word": "of",
-          "startSec": 119.09,
-          "endSec": 119.43,
-          "score": 1.0
-        },
-        {
-          "word": "Potosí.",
-          "startSec": 119.43,
-          "endSec": 120.21,
-          "score": 0.99
+          "word": "city.",
+          "start": 60.0,
+          "end": 60.76
         }
       ]
     },
     {
       "id": 13,
-      "start": 120.88,
-      "end": 128.01,
-      "text": "Potosí is small but full of charm. There are markets, shops, and cafes.",
+      "start": 61.68,
+      "end": 64.76,
+      "text": "Part 3, History of Potosi",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 121.08,
-          "endSec": 122.0,
-          "score": 0.99
+          "word": "Part",
+          "start": 61.68,
+          "end": 61.98
         },
         {
-          "word": "is",
-          "startSec": 122.0,
-          "endSec": 122.22,
-          "score": 1.0
+          "word": "3,",
+          "start": 61.98,
+          "end": 62.56
         },
         {
-          "word": "small",
-          "startSec": 122.22,
-          "endSec": 122.66,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 122.66,
-          "endSec": 123.16,
-          "score": 0.79
-        },
-        {
-          "word": "full",
-          "startSec": 123.16,
-          "endSec": 123.52,
-          "score": 1.0
+          "word": "History",
+          "start": 62.92,
+          "end": 63.28
         },
         {
           "word": "of",
-          "startSec": 123.52,
-          "endSec": 123.82,
-          "score": 1.0
+          "start": 63.28,
+          "end": 63.64
         },
         {
-          "word": "charm.",
-          "startSec": 123.82,
-          "endSec": 124.2,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 125.1,
-          "endSec": 125.28,
-          "score": 0.97
-        },
-        {
-          "word": "are",
-          "startSec": 125.28,
-          "endSec": 125.46,
-          "score": 1.0
-        },
-        {
-          "word": "markets,",
-          "startSec": 125.46,
-          "endSec": 126.02,
-          "score": 0.99
-        },
-        {
-          "word": "shops,",
-          "startSec": 126.54,
-          "endSec": 126.86,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 127.46,
-          "endSec": 127.54,
-          "score": 0.99
-        },
-        {
-          "word": "cafes.",
-          "startSec": 127.54,
-          "endSec": 127.86,
-          "score": 0.95
+          "word": "Potosi",
+          "start": 63.64,
+          "end": 64.76
         }
       ]
     },
     {
       "id": 14,
-      "start": 128.71,
-      "end": 138.06,
-      "text": "People walk in the streets, ride bicycles, or small buses. The city is safe, friendly, and full of history.",
+      "start": 66.12,
+      "end": 69.02,
+      "text": "Potosi has a long history.",
       "words": [
         {
-          "word": "People",
-          "startSec": 128.91,
-          "endSec": 129.71,
-          "score": 0.04
+          "word": "Potosi",
+          "start": 66.12,
+          "end": 67.04
         },
         {
-          "word": "walk",
-          "startSec": 129.71,
-          "endSec": 130.27,
-          "score": 0.99
+          "word": "has",
+          "start": 67.04,
+          "end": 67.44
         },
         {
-          "word": "in",
-          "startSec": 130.27,
-          "endSec": 130.65,
-          "score": 1.0
+          "word": "a",
+          "start": 67.44,
+          "end": 67.74
         },
         {
-          "word": "the",
-          "startSec": 130.65,
-          "endSec": 130.77,
-          "score": 1.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 130.77,
-          "endSec": 131.23,
-          "score": 0.99
-        },
-        {
-          "word": "ride",
-          "startSec": 131.25,
-          "endSec": 132.09,
-          "score": 0.99
-        },
-        {
-          "word": "bicycles,",
-          "startSec": 132.09,
-          "endSec": 132.65,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 132.87,
-          "endSec": 133.43,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 133.43,
-          "endSec": 133.71,
-          "score": 0.99
-        },
-        {
-          "word": "buses.",
-          "startSec": 133.71,
-          "endSec": 134.17,
-          "score": 0.95
-        },
-        {
-          "word": "The",
-          "startSec": 134.97,
-          "endSec": 135.03,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 135.03,
-          "endSec": 135.31,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 135.31,
-          "endSec": 135.61,
-          "score": 1.0
-        },
-        {
-          "word": "safe,",
-          "startSec": 135.61,
-          "endSec": 135.93,
-          "score": 0.98
-        },
-        {
-          "word": "friendly,",
-          "startSec": 135.93,
-          "endSec": 136.51,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 137.01,
-          "endSec": 137.05,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 137.05,
-          "endSec": 137.31,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 137.31,
-          "endSec": 137.53,
-          "score": 1.0
+          "word": "long",
+          "start": 67.74,
+          "end": 68.0
         },
         {
           "word": "history.",
-          "startSec": 137.53,
-          "endSec": 137.91,
-          "score": 1.0
+          "start": 68.0,
+          "end": 69.02
         }
       ]
     },
     {
       "id": 15,
-      "start": 139.12,
-      "end": 150.37,
-      "text": "Part six? Food in Potosí. Food in Potosí is simple and filling. People eat potatoes, corn, beans, and meat.",
+      "start": 69.5,
+      "end": 75.04,
+      "text": "It was famous for silver mining during the Spanish colonial period.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 139.32,
-          "endSec": 139.32,
-          "score": 0.4
+          "word": "It",
+          "start": 69.5,
+          "end": 69.64
         },
         {
-          "word": "six?",
-          "startSec": 139.32,
-          "endSec": 139.9,
-          "score": 0.34
+          "word": "was",
+          "start": 69.64,
+          "end": 69.86
         },
         {
-          "word": "Food",
-          "startSec": 140.42,
-          "endSec": 140.48,
-          "score": 0.94
+          "word": "famous",
+          "start": 69.86,
+          "end": 70.42
         },
         {
-          "word": "in",
-          "startSec": 140.48,
-          "endSec": 140.68,
-          "score": 0.58
+          "word": "for",
+          "start": 70.42,
+          "end": 70.8
         },
         {
-          "word": "Potosí.",
-          "startSec": 140.68,
-          "endSec": 141.44,
-          "score": 0.55
+          "word": "silver",
+          "start": 70.8,
+          "end": 71.28
         },
         {
-          "word": "Food",
-          "startSec": 142.14,
-          "endSec": 142.74,
-          "score": 0.99
+          "word": "mining",
+          "start": 71.28,
+          "end": 71.86
         },
         {
-          "word": "in",
-          "startSec": 142.74,
-          "endSec": 143.02,
-          "score": 1.0
+          "word": "during",
+          "start": 71.86,
+          "end": 72.32
         },
         {
-          "word": "Potosí",
-          "startSec": 143.02,
-          "endSec": 143.8,
-          "score": 0.99
+          "word": "the",
+          "start": 72.32,
+          "end": 72.58
         },
         {
-          "word": "is",
-          "startSec": 143.8,
-          "endSec": 144.06,
-          "score": 0.99
+          "word": "Spanish",
+          "start": 72.58,
+          "end": 73.08
         },
         {
-          "word": "simple",
-          "startSec": 144.06,
-          "endSec": 144.34,
-          "score": 1.0
+          "word": "colonial",
+          "start": 73.08,
+          "end": 73.72
         },
         {
-          "word": "and",
-          "startSec": 144.34,
-          "endSec": 144.74,
-          "score": 0.99
-        },
-        {
-          "word": "filling.",
-          "startSec": 144.74,
-          "endSec": 145.08,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 146.1,
-          "endSec": 146.44,
-          "score": 1.0
-        },
-        {
-          "word": "eat",
-          "startSec": 146.44,
-          "endSec": 146.8,
-          "score": 1.0
-        },
-        {
-          "word": "potatoes,",
-          "startSec": 146.8,
-          "endSec": 147.46,
-          "score": 0.99
-        },
-        {
-          "word": "corn,",
-          "startSec": 148.06,
-          "endSec": 148.4,
-          "score": 0.99
-        },
-        {
-          "word": "beans,",
-          "startSec": 148.96,
-          "endSec": 149.02,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 149.44,
-          "endSec": 149.9,
-          "score": 1.0
-        },
-        {
-          "word": "meat.",
-          "startSec": 149.9,
-          "endSec": 150.22,
-          "score": 1.0
+          "word": "period.",
+          "start": 73.72,
+          "end": 75.04
         }
       ]
     },
     {
       "id": 16,
-      "start": 150.02,
-      "end": 157.91,
-      "text": "A popular dish is pique macho, a mix of meat, vegetables, and spicy sauce.",
+      "start": 75.64,
+      "end": 82.62,
+      "text": "Many old buildings and churches were built in the 16th and 17th centuries.",
       "words": [
         {
-          "word": "A",
-          "startSec": 150.22,
-          "endSec": 151.1,
-          "score": 0.31
+          "word": "Many",
+          "start": 75.64,
+          "end": 76.4
         },
         {
-          "word": "popular",
-          "startSec": 151.22,
-          "endSec": 152.08,
-          "score": 0.99
+          "word": "old",
+          "start": 76.4,
+          "end": 76.84
         },
         {
-          "word": "dish",
-          "startSec": 152.08,
-          "endSec": 152.82,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 152.82,
-          "endSec": 153.04,
-          "score": 1.0
-        },
-        {
-          "word": "pique",
-          "startSec": 153.04,
-          "endSec": 153.56,
-          "score": 0.29
-        },
-        {
-          "word": "macho,",
-          "startSec": 153.56,
-          "endSec": 154.18,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 154.46,
-          "endSec": 154.52,
-          "score": 0.99
-        },
-        {
-          "word": "mix",
-          "startSec": 154.52,
-          "endSec": 154.74,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 154.74,
-          "endSec": 155.02,
-          "score": 1.0
-        },
-        {
-          "word": "meat,",
-          "startSec": 155.02,
-          "endSec": 155.34,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables,",
-          "startSec": 155.6,
-          "endSec": 156.06,
-          "score": 1.0
+          "word": "buildings",
+          "start": 76.84,
+          "end": 77.5
         },
         {
           "word": "and",
-          "startSec": 156.54,
-          "endSec": 156.58,
-          "score": 0.99
+          "start": 77.5,
+          "end": 77.88
         },
         {
-          "word": "spicy",
-          "startSec": 156.58,
-          "endSec": 156.96,
-          "score": 1.0
+          "word": "churches",
+          "start": 77.88,
+          "end": 78.4
         },
         {
-          "word": "sauce.",
-          "startSec": 156.96,
-          "endSec": 157.76,
-          "score": 1.0
+          "word": "were",
+          "start": 78.4,
+          "end": 78.86
+        },
+        {
+          "word": "built",
+          "start": 78.86,
+          "end": 79.26
+        },
+        {
+          "word": "in",
+          "start": 79.26,
+          "end": 79.54
+        },
+        {
+          "word": "the",
+          "start": 79.54,
+          "end": 79.68
+        },
+        {
+          "word": "16th",
+          "start": 79.68,
+          "end": 80.54
+        },
+        {
+          "word": "and",
+          "start": 80.54,
+          "end": 80.66
+        },
+        {
+          "word": "17th",
+          "start": 80.66,
+          "end": 82.22
+        },
+        {
+          "word": "centuries.",
+          "start": 82.22,
+          "end": 82.62
         }
       ]
     },
     {
       "id": 17,
-      "start": 158.6,
-      "end": 163.25,
-      "text": "Soups and local drinks are also common in daily life.",
+      "start": 82.98,
+      "end": 88.28,
+      "text": "The city became one of the richest in the world because of silver.",
       "words": [
         {
-          "word": "Soups",
-          "startSec": 158.8,
-          "endSec": 159.58,
-          "score": 0.65
+          "word": "The",
+          "start": 82.98,
+          "end": 83.52
         },
         {
-          "word": "and",
-          "startSec": 159.58,
-          "endSec": 159.78,
-          "score": 0.93
+          "word": "city",
+          "start": 83.52,
+          "end": 83.88
         },
         {
-          "word": "local",
-          "startSec": 159.78,
-          "endSec": 160.04,
-          "score": 0.99
+          "word": "became",
+          "start": 83.88,
+          "end": 84.48
         },
         {
-          "word": "drinks",
-          "startSec": 160.04,
-          "endSec": 160.56,
-          "score": 0.99
+          "word": "one",
+          "start": 84.48,
+          "end": 84.86
         },
         {
-          "word": "are",
-          "startSec": 160.56,
-          "endSec": 160.92,
-          "score": 1.0
+          "word": "of",
+          "start": 84.86,
+          "end": 85.06
         },
         {
-          "word": "also",
-          "startSec": 160.92,
-          "endSec": 161.46,
-          "score": 0.99
+          "word": "the",
+          "start": 85.06,
+          "end": 85.22
         },
         {
-          "word": "common",
-          "startSec": 161.46,
-          "endSec": 161.88,
-          "score": 1.0
+          "word": "richest",
+          "start": 85.22,
+          "end": 85.6
         },
         {
           "word": "in",
-          "startSec": 161.88,
-          "endSec": 162.3,
-          "score": 1.0
+          "start": 85.6,
+          "end": 86.06
         },
         {
-          "word": "daily",
-          "startSec": 162.3,
-          "endSec": 162.52,
-          "score": 1.0
+          "word": "the",
+          "start": 86.06,
+          "end": 86.22
         },
         {
-          "word": "life.",
-          "startSec": 162.52,
-          "endSec": 163.1,
-          "score": 1.0
+          "word": "world",
+          "start": 86.22,
+          "end": 86.62
+        },
+        {
+          "word": "because",
+          "start": 86.62,
+          "end": 87.12
+        },
+        {
+          "word": "of",
+          "start": 87.12,
+          "end": 87.4
+        },
+        {
+          "word": "silver.",
+          "start": 87.4,
+          "end": 88.28
         }
       ]
     },
     {
       "id": 18,
-      "start": 164.58,
-      "end": 167.33,
-      "text": "Part seven? The people of Potosí.",
+      "start": 89.26,
+      "end": 98.32,
+      "text": "Part 4, Main Attractions The main attractions are the historic buildings, plazas, and churches.",
       "words": [
         {
           "word": "Part",
-          "startSec": 164.78,
-          "endSec": 164.78,
-          "score": 0.89
+          "start": 89.26,
+          "end": 90.0
         },
         {
-          "word": "seven?",
-          "startSec": 164.78,
-          "endSec": 165.36,
-          "score": 0.46
+          "word": "4,",
+          "start": 90.0,
+          "end": 90.58
+        },
+        {
+          "word": "Main",
+          "start": 91.24,
+          "end": 91.24
+        },
+        {
+          "word": "Attractions",
+          "start": 91.24,
+          "end": 92.3
         },
         {
           "word": "The",
-          "startSec": 165.96,
-          "endSec": 165.98,
-          "score": 0.97
+          "start": 92.3,
+          "end": 93.22
         },
         {
-          "word": "people",
-          "startSec": 165.98,
-          "endSec": 166.32,
-          "score": 0.76
+          "word": "main",
+          "start": 93.22,
+          "end": 93.52
         },
         {
-          "word": "of",
-          "startSec": 166.32,
-          "endSec": 166.7,
-          "score": 0.99
+          "word": "attractions",
+          "start": 93.52,
+          "end": 94.22
         },
         {
-          "word": "Potosí.",
-          "startSec": 166.7,
-          "endSec": 167.18,
-          "score": 0.53
+          "word": "are",
+          "start": 94.22,
+          "end": 94.72
+        },
+        {
+          "word": "the",
+          "start": 94.72,
+          "end": 94.88
+        },
+        {
+          "word": "historic",
+          "start": 94.88,
+          "end": 95.4
+        },
+        {
+          "word": "buildings,",
+          "start": 95.4,
+          "end": 96.06
+        },
+        {
+          "word": "plazas,",
+          "start": 96.8,
+          "end": 97.38
+        },
+        {
+          "word": "and",
+          "start": 97.74,
+          "end": 97.84
+        },
+        {
+          "word": "churches.",
+          "start": 97.84,
+          "end": 98.32
         }
       ]
     },
     {
       "id": 19,
-      "start": 167.78,
-      "end": 175.39,
-      "text": "People in Potosí are friendly and hard-working. They speak Spanish and some Quechua.",
+      "start": 98.32,
+      "end": 104.18,
+      "text": "You can visit the old mines to learn about the city's history.",
       "words": [
         {
-          "word": "People",
-          "startSec": 167.98,
-          "endSec": 168.44,
-          "score": 0.99
+          "word": "You",
+          "start": 98.32,
+          "end": 99.36
         },
         {
-          "word": "in",
-          "startSec": 168.44,
-          "endSec": 168.84,
-          "score": 0.94
+          "word": "can",
+          "start": 99.36,
+          "end": 99.64
         },
         {
-          "word": "Potosí",
-          "startSec": 168.84,
-          "endSec": 169.58,
-          "score": 0.99
+          "word": "visit",
+          "start": 99.64,
+          "end": 100.1
         },
         {
-          "word": "are",
-          "startSec": 169.58,
-          "endSec": 169.9,
-          "score": 0.99
+          "word": "the",
+          "start": 100.1,
+          "end": 100.42
         },
         {
-          "word": "friendly",
-          "startSec": 169.9,
-          "endSec": 170.28,
-          "score": 0.99
+          "word": "old",
+          "start": 100.42,
+          "end": 100.82
         },
         {
-          "word": "and",
-          "startSec": 170.28,
-          "endSec": 170.68,
-          "score": 1.0
+          "word": "mines",
+          "start": 100.82,
+          "end": 101.28
         },
         {
-          "word": "hard",
-          "startSec": 170.68,
-          "endSec": 170.9,
-          "score": 1.0
+          "word": "to",
+          "start": 101.28,
+          "end": 101.78
         },
         {
-          "word": "-working.",
-          "startSec": 170.9,
-          "endSec": 171.24,
-          "score": 0.73
+          "word": "learn",
+          "start": 101.78,
+          "end": 102.14
         },
         {
-          "word": "They",
-          "startSec": 172.56,
-          "endSec": 172.76,
-          "score": 1.0
+          "word": "about",
+          "start": 102.14,
+          "end": 102.44
         },
         {
-          "word": "speak",
-          "startSec": 172.76,
-          "endSec": 173.06,
-          "score": 1.0
+          "word": "the",
+          "start": 102.44,
+          "end": 102.74
         },
         {
-          "word": "Spanish",
-          "startSec": 173.06,
-          "endSec": 173.84,
-          "score": 1.0
+          "word": "city's",
+          "start": 102.74,
+          "end": 103.32
         },
         {
-          "word": "and",
-          "startSec": 173.84,
-          "endSec": 174.24,
-          "score": 0.98
-        },
-        {
-          "word": "some",
-          "startSec": 174.24,
-          "endSec": 174.5,
-          "score": 0.71
-        },
-        {
-          "word": "Quechua.",
-          "startSec": 174.5,
-          "endSec": 175.24,
-          "score": 0.6
+          "word": "history.",
+          "start": 103.32,
+          "end": 104.18
         }
       ]
     },
     {
       "id": 20,
-      "start": 176.06,
-      "end": 185.46,
-      "text": "Life is connected to family, work, and traditions. People respect history, culture, and the mountains.",
+      "start": 104.62,
+      "end": 111.68,
+      "text": "The Casa de la Moneda is a museum showing coins, silver, and history.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 176.26,
-          "endSec": 176.67,
-          "score": 0.26
+          "word": "The",
+          "start": 104.62,
+          "end": 104.7
+        },
+        {
+          "word": "Casa",
+          "start": 104.7,
+          "end": 105.18
+        },
+        {
+          "word": "de",
+          "start": 105.18,
+          "end": 105.5
+        },
+        {
+          "word": "la",
+          "start": 105.5,
+          "end": 105.72
+        },
+        {
+          "word": "Moneda",
+          "start": 105.72,
+          "end": 106.34
         },
         {
           "word": "is",
-          "startSec": 176.67,
-          "endSec": 177.03,
-          "score": 0.99
+          "start": 106.34,
+          "end": 106.86
         },
         {
-          "word": "connected",
-          "startSec": 177.03,
-          "endSec": 177.41,
-          "score": 0.99
+          "word": "a",
+          "start": 106.86,
+          "end": 107.06
         },
         {
-          "word": "to",
-          "startSec": 177.41,
-          "endSec": 177.85,
-          "score": 1.0
+          "word": "museum",
+          "start": 107.06,
+          "end": 107.62
         },
         {
-          "word": "family,",
-          "startSec": 177.85,
-          "endSec": 178.41,
-          "score": 0.99
+          "word": "showing",
+          "start": 107.62,
+          "end": 108.34
         },
         {
-          "word": "work,",
-          "startSec": 178.83,
-          "endSec": 179.21,
-          "score": 1.0
+          "word": "coins,",
+          "start": 108.34,
+          "end": 109.16
         },
         {
-          "word": "and",
-          "startSec": 179.51,
-          "endSec": 179.61,
-          "score": 1.0
-        },
-        {
-          "word": "traditions.",
-          "startSec": 179.61,
-          "endSec": 180.09,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 181.19,
-          "endSec": 181.31,
-          "score": 0.96
-        },
-        {
-          "word": "respect",
-          "startSec": 181.31,
-          "endSec": 181.97,
-          "score": 0.99
-        },
-        {
-          "word": "history,",
-          "startSec": 181.97,
-          "endSec": 182.57,
-          "score": 0.99
-        },
-        {
-          "word": "culture,",
-          "startSec": 182.63,
-          "endSec": 183.77,
-          "score": 1.0
+          "word": "silver,",
+          "start": 109.6,
+          "end": 110.14
         },
         {
           "word": "and",
-          "startSec": 184.29,
-          "endSec": 184.69,
-          "score": 1.0
+          "start": 110.6,
+          "end": 110.7
         },
         {
-          "word": "the",
-          "startSec": 184.69,
-          "endSec": 184.91,
-          "score": 1.0
-        },
-        {
-          "word": "mountains.",
-          "startSec": 184.91,
-          "endSec": 185.31,
-          "score": 0.99
+          "word": "history.",
+          "start": 110.7,
+          "end": 111.68
         }
       ]
     },
     {
       "id": 21,
-      "start": 186.94,
-      "end": 189.67,
-      "text": "Part eight? Culture and festivals.",
+      "start": 112.42,
+      "end": 117.1,
+      "text": "Walking in Potosi is like stepping back in time.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 187.14,
-          "endSec": 187.18,
-          "score": 0.96
+          "word": "Walking",
+          "start": 112.42,
+          "end": 113.1
         },
         {
-          "word": "eight?",
-          "startSec": 187.18,
-          "endSec": 187.62,
-          "score": 0.38
+          "word": "in",
+          "start": 113.1,
+          "end": 113.46
         },
         {
-          "word": "Culture",
-          "startSec": 188.54,
-          "endSec": 188.8,
-          "score": 0.99
+          "word": "Potosi",
+          "start": 113.46,
+          "end": 114.14
         },
         {
-          "word": "and",
-          "startSec": 188.8,
-          "endSec": 189.14,
-          "score": 0.98
+          "word": "is",
+          "start": 114.14,
+          "end": 114.76
         },
         {
-          "word": "festivals.",
-          "startSec": 189.14,
-          "endSec": 189.52,
-          "score": 0.89
+          "word": "like",
+          "start": 114.76,
+          "end": 115.06
+        },
+        {
+          "word": "stepping",
+          "start": 115.06,
+          "end": 115.52
+        },
+        {
+          "word": "back",
+          "start": 115.52,
+          "end": 116.0
+        },
+        {
+          "word": "in",
+          "start": 116.0,
+          "end": 116.3
+        },
+        {
+          "word": "time.",
+          "start": 116.3,
+          "end": 117.1
         }
       ]
     },
     {
       "id": 22,
-      "start": 190.97,
-      "end": 200.2,
-      "text": "Potosí has many cultural events and festivals. People celebrate music, dance, and religious traditions.",
+      "start": 117.44,
+      "end": 124.4,
+      "text": "Part 5, The City of Potosi Potosi is small but full of charm.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 191.17,
-          "endSec": 191.81,
-          "score": 0.31
+          "word": "Part",
+          "start": 117.44,
+          "end": 117.74
         },
         {
-          "word": "has",
-          "startSec": 191.81,
-          "endSec": 192.01,
-          "score": 1.0
+          "word": "5,",
+          "start": 117.74,
+          "end": 118.34
         },
         {
-          "word": "many",
-          "startSec": 192.01,
-          "endSec": 192.33,
-          "score": 1.0
+          "word": "The",
+          "start": 118.68,
+          "end": 118.86
         },
         {
-          "word": "cultural",
-          "startSec": 192.33,
-          "endSec": 192.83,
-          "score": 1.0
+          "word": "City",
+          "start": 118.86,
+          "end": 119.2
         },
         {
-          "word": "events",
-          "startSec": 192.83,
-          "endSec": 193.53,
-          "score": 1.0
+          "word": "of",
+          "start": 119.2,
+          "end": 119.48
         },
         {
-          "word": "and",
-          "startSec": 193.53,
-          "endSec": 193.87,
-          "score": 1.0
+          "word": "Potosi",
+          "start": 119.48,
+          "end": 120.24
         },
         {
-          "word": "festivals.",
-          "startSec": 193.87,
-          "endSec": 194.27,
-          "score": 1.0
+          "word": "Potosi",
+          "start": 120.24,
+          "end": 121.96
         },
         {
-          "word": "People",
-          "startSec": 195.45,
-          "endSec": 195.73,
-          "score": 1.0
+          "word": "is",
+          "start": 121.96,
+          "end": 122.28
         },
         {
-          "word": "celebrate",
-          "startSec": 195.73,
-          "endSec": 196.25,
-          "score": 1.0
+          "word": "small",
+          "start": 122.28,
+          "end": 122.9
         },
         {
-          "word": "music,",
-          "startSec": 196.25,
-          "endSec": 197.19,
-          "score": 1.0
+          "word": "but",
+          "start": 122.9,
+          "end": 123.18
         },
         {
-          "word": "dance,",
-          "startSec": 197.69,
-          "endSec": 198.03,
-          "score": 1.0
+          "word": "full",
+          "start": 123.18,
+          "end": 123.7
         },
         {
-          "word": "and",
-          "startSec": 198.43,
-          "endSec": 198.79,
-          "score": 1.0
+          "word": "of",
+          "start": 123.7,
+          "end": 123.88
         },
         {
-          "word": "religious",
-          "startSec": 198.79,
-          "endSec": 199.13,
-          "score": 1.0
-        },
-        {
-          "word": "traditions.",
-          "startSec": 199.13,
-          "endSec": 200.05,
-          "score": 1.0
+          "word": "charm.",
+          "start": 123.88,
+          "end": 124.4
         }
       ]
     },
     {
       "id": 23,
-      "start": 200.85,
-      "end": 210.71,
-      "text": "Traditional dances and songs are performed during festivals. Visitors can enjoy and sometimes join celebrations.",
+      "start": 124.4,
+      "end": 128.52,
+      "text": "There are markets, shops, and cafes.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 201.05,
-          "endSec": 201.55,
-          "score": 0.01
-        },
-        {
-          "word": "dances",
-          "startSec": 201.55,
-          "endSec": 202.13,
-          "score": 0.95
-        },
-        {
-          "word": "and",
-          "startSec": 202.13,
-          "endSec": 202.79,
-          "score": 0.97
-        },
-        {
-          "word": "songs",
-          "startSec": 202.79,
-          "endSec": 203.07,
-          "score": 0.99
+          "word": "There",
+          "start": 124.4,
+          "end": 125.32
         },
         {
           "word": "are",
-          "startSec": 203.07,
-          "endSec": 203.67,
-          "score": 0.98
+          "start": 125.32,
+          "end": 125.5
         },
         {
-          "word": "performed",
-          "startSec": 203.67,
-          "endSec": 204.11,
-          "score": 1.0
+          "word": "markets,",
+          "start": 125.5,
+          "end": 126.12
         },
         {
-          "word": "during",
-          "startSec": 204.11,
-          "endSec": 204.81,
-          "score": 0.99
-        },
-        {
-          "word": "festivals.",
-          "startSec": 204.81,
-          "endSec": 205.35,
-          "score": 0.99
-        },
-        {
-          "word": "Visitors",
-          "startSec": 206.8,
-          "endSec": 207.26,
-          "score": 0.98
-        },
-        {
-          "word": "can",
-          "startSec": 207.26,
-          "endSec": 207.76,
-          "score": 1.0
-        },
-        {
-          "word": "enjoy",
-          "startSec": 207.76,
-          "endSec": 208.26,
-          "score": 1.0
+          "word": "shops,",
+          "start": 126.56,
+          "end": 127.06
         },
         {
           "word": "and",
-          "startSec": 208.26,
-          "endSec": 208.8,
-          "score": 0.89
+          "start": 127.5,
+          "end": 127.62
         },
         {
-          "word": "sometimes",
-          "startSec": 208.8,
-          "endSec": 209.32,
-          "score": 0.99
-        },
-        {
-          "word": "join",
-          "startSec": 209.32,
-          "endSec": 209.82,
-          "score": 0.95
-        },
-        {
-          "word": "celebrations.",
-          "startSec": 209.82,
-          "endSec": 210.56,
-          "score": 0.99
+          "word": "cafes.",
+          "start": 127.62,
+          "end": 128.52
         }
       ]
     },
     {
       "id": 24,
-      "start": 211.99,
-      "end": 214.84,
-      "text": "Part nine? Mountains and nature.",
+      "start": 129.28,
+      "end": 134.68,
+      "text": "People walk in the streets, ride bicycles, or small buses.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 212.19,
-          "endSec": 212.37,
-          "score": 0.87
+          "word": "People",
+          "start": 129.28,
+          "end": 129.98
         },
         {
-          "word": "nine?",
-          "startSec": 212.37,
-          "endSec": 213.07,
-          "score": 0.24
+          "word": "walk",
+          "start": 129.98,
+          "end": 130.38
         },
         {
-          "word": "Mountains",
-          "startSec": 213.79,
-          "endSec": 214.11,
-          "score": 0.97
+          "word": "in",
+          "start": 130.38,
+          "end": 130.7
         },
         {
-          "word": "and",
-          "startSec": 214.11,
-          "endSec": 214.41,
-          "score": 0.8
+          "word": "the",
+          "start": 130.7,
+          "end": 130.86
         },
         {
-          "word": "nature.",
-          "startSec": 214.41,
-          "endSec": 214.69,
-          "score": 0.86
+          "word": "streets,",
+          "start": 130.86,
+          "end": 131.3
+        },
+        {
+          "word": "ride",
+          "start": 131.84,
+          "end": 132.24
+        },
+        {
+          "word": "bicycles,",
+          "start": 132.24,
+          "end": 132.86
+        },
+        {
+          "word": "or",
+          "start": 133.32,
+          "end": 133.46
+        },
+        {
+          "word": "small",
+          "start": 133.46,
+          "end": 133.8
+        },
+        {
+          "word": "buses.",
+          "start": 133.8,
+          "end": 134.68
         }
       ]
     },
     {
       "id": 25,
-      "start": 215.55,
-      "end": 226.2,
-      "text": "Potosí is surrounded by mountains, hills, and valleys. You can hike, explore, or enjoy the views of the city from above.",
+      "start": 134.96,
+      "end": 138.48,
+      "text": "The city is safe, friendly, and full of history.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 215.75,
-          "endSec": 216.47,
-          "score": 0.33
-        },
-        {
-          "word": "is",
-          "startSec": 216.47,
-          "endSec": 216.67,
-          "score": 0.97
-        },
-        {
-          "word": "surrounded",
-          "startSec": 216.67,
-          "endSec": 217.13,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 217.13,
-          "endSec": 217.59,
-          "score": 1.0
-        },
-        {
-          "word": "mountains,",
-          "startSec": 217.59,
-          "endSec": 218.03,
-          "score": 1.0
-        },
-        {
-          "word": "hills,",
-          "startSec": 218.89,
-          "endSec": 218.99,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 219.55,
-          "endSec": 219.61,
-          "score": 1.0
-        },
-        {
-          "word": "valleys.",
-          "startSec": 219.61,
-          "endSec": 219.95,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 221.13,
-          "endSec": 221.35,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 221.35,
-          "endSec": 221.57,
-          "score": 1.0
-        },
-        {
-          "word": "hike,",
-          "startSec": 221.57,
-          "endSec": 221.89,
-          "score": 1.0
-        },
-        {
-          "word": "explore,",
-          "startSec": 222.31,
-          "endSec": 222.89,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 223.39,
-          "endSec": 223.45,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 223.45,
-          "endSec": 223.77,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 223.77,
-          "endSec": 224.17,
-          "score": 1.0
-        },
-        {
-          "word": "views",
-          "startSec": 224.17,
-          "endSec": 224.49,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 224.49,
-          "endSec": 224.83,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 224.83,
-          "endSec": 225.01,
-          "score": 1.0
+          "word": "The",
+          "start": 134.96,
+          "end": 135.08
         },
         {
           "word": "city",
-          "startSec": 225.01,
-          "endSec": 225.35,
-          "score": 0.98
+          "start": 135.08,
+          "end": 135.42
         },
         {
-          "word": "from",
-          "startSec": 225.35,
-          "endSec": 225.69,
-          "score": 1.0
+          "word": "is",
+          "start": 135.42,
+          "end": 135.66
         },
         {
-          "word": "above.",
-          "startSec": 225.69,
-          "endSec": 226.05,
-          "score": 1.0
+          "word": "safe,",
+          "start": 135.66,
+          "end": 136.04
+        },
+        {
+          "word": "friendly,",
+          "start": 136.1,
+          "end": 136.7
+        },
+        {
+          "word": "and",
+          "start": 137.06,
+          "end": 137.08
+        },
+        {
+          "word": "full",
+          "start": 137.08,
+          "end": 137.42
+        },
+        {
+          "word": "of",
+          "start": 137.42,
+          "end": 137.58
+        },
+        {
+          "word": "history.",
+          "start": 137.58,
+          "end": 138.48
         }
       ]
     },
     {
       "id": 26,
-      "start": 226.95,
-      "end": 236.59,
-      "text": "The air is fresh, and nature is everywhere. It is perfect for photography and exploring the outdoors.",
+      "start": 139.22,
+      "end": 145.62,
+      "text": "Part 6, Food in Potosi Food in Potosi is simple and filling.",
       "words": [
         {
-          "word": "The",
-          "startSec": 227.15,
-          "endSec": 227.55,
-          "score": 0.2
+          "word": "Part",
+          "start": 139.22,
+          "end": 139.38
         },
         {
-          "word": "air",
-          "startSec": 227.55,
-          "endSec": 227.93,
-          "score": 0.99
+          "word": "6,",
+          "start": 139.38,
+          "end": 139.94
+        },
+        {
+          "word": "Food",
+          "start": 140.44,
+          "end": 140.54
+        },
+        {
+          "word": "in",
+          "start": 140.54,
+          "end": 140.72
+        },
+        {
+          "word": "Potosi",
+          "start": 140.72,
+          "end": 141.42
+        },
+        {
+          "word": "Food",
+          "start": 141.42,
+          "end": 142.8
+        },
+        {
+          "word": "in",
+          "start": 142.8,
+          "end": 143.1
+        },
+        {
+          "word": "Potosi",
+          "start": 143.1,
+          "end": 143.74
         },
         {
           "word": "is",
-          "startSec": 227.93,
-          "endSec": 228.23,
-          "score": 1.0
+          "start": 143.74,
+          "end": 144.14
         },
         {
-          "word": "fresh,",
-          "startSec": 228.23,
-          "endSec": 228.67,
-          "score": 1.0
+          "word": "simple",
+          "start": 144.14,
+          "end": 144.52
         },
         {
           "word": "and",
-          "startSec": 229.33,
-          "endSec": 229.61,
-          "score": 0.99
+          "start": 144.52,
+          "end": 144.8
         },
         {
-          "word": "nature",
-          "startSec": 229.61,
-          "endSec": 230.11,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 230.11,
-          "endSec": 230.49,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 230.49,
-          "endSec": 230.99,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 232.5,
-          "endSec": 232.56,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 232.56,
-          "endSec": 232.72,
-          "score": 0.99
-        },
-        {
-          "word": "perfect",
-          "startSec": 232.72,
-          "endSec": 233.18,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 233.18,
-          "endSec": 233.58,
-          "score": 1.0
-        },
-        {
-          "word": "photography",
-          "startSec": 233.58,
-          "endSec": 234.04,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 234.04,
-          "endSec": 235.02,
-          "score": 0.95
-        },
-        {
-          "word": "exploring",
-          "startSec": 235.02,
-          "endSec": 235.64,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 235.64,
-          "endSec": 236.06,
-          "score": 1.0
-        },
-        {
-          "word": "outdoors.",
-          "startSec": 236.06,
-          "endSec": 236.44,
-          "score": 0.99
+          "word": "filling.",
+          "start": 144.8,
+          "end": 145.62
         }
       ]
     },
     {
       "id": 27,
-      "start": 238.38,
-      "end": 241.55,
-      "text": "Part ten? Travel and tourism.",
+      "start": 146.04,
+      "end": 150.4,
+      "text": "People eat potatoes, corn, beans, and meat.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 238.58,
-          "endSec": 238.62,
-          "score": 0.68
+          "word": "People",
+          "start": 146.04,
+          "end": 146.46
         },
         {
-          "word": "ten?",
-          "startSec": 238.62,
-          "endSec": 239.18,
-          "score": 0.03
+          "word": "eat",
+          "start": 146.46,
+          "end": 146.9
         },
         {
-          "word": "Travel",
-          "startSec": 240.72,
-          "endSec": 240.72,
-          "score": 0.97
+          "word": "potatoes,",
+          "start": 146.9,
+          "end": 147.6
+        },
+        {
+          "word": "corn,",
+          "start": 148.12,
+          "end": 148.58
+        },
+        {
+          "word": "beans,",
+          "start": 148.92,
+          "end": 149.28
         },
         {
           "word": "and",
-          "startSec": 240.72,
-          "endSec": 241.1,
-          "score": 0.96
+          "start": 149.64,
+          "end": 149.98
         },
         {
-          "word": "tourism.",
-          "startSec": 241.1,
-          "endSec": 241.4,
-          "score": 0.74
+          "word": "meat.",
+          "start": 149.98,
+          "end": 150.4
         }
       ]
     },
     {
       "id": 28,
-      "start": 242.74,
-      "end": 254.97,
-      "text": "Potosí is reachable by bus or car from other cities in Bolivia. Tourists come to see the historic city, old mines, and museums.",
+      "start": 150.4,
+      "end": 158.14,
+      "text": "A popular dish is pique macho, a mix of meat, vegetables, and spicy sauce.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 242.94,
-          "endSec": 243.74,
-          "score": 0.27
+          "word": "A",
+          "start": 150.4,
+          "end": 151.68
+        },
+        {
+          "word": "popular",
+          "start": 151.68,
+          "end": 152.18
+        },
+        {
+          "word": "dish",
+          "start": 152.18,
+          "end": 152.76
         },
         {
           "word": "is",
-          "startSec": 243.74,
-          "endSec": 244.02,
-          "score": 0.98
+          "start": 152.76,
+          "end": 153.14
         },
         {
-          "word": "reachable",
-          "startSec": 244.02,
-          "endSec": 244.6,
-          "score": 0.98
+          "word": "pique",
+          "start": 153.14,
+          "end": 153.64
         },
         {
-          "word": "by",
-          "startSec": 244.6,
-          "endSec": 244.94,
-          "score": 1.0
+          "word": "macho,",
+          "start": 153.64,
+          "end": 154.22
         },
         {
-          "word": "bus",
-          "startSec": 244.94,
-          "endSec": 245.36,
-          "score": 0.99
+          "word": "a",
+          "start": 154.46,
+          "end": 154.6
         },
         {
-          "word": "or",
-          "startSec": 245.36,
-          "endSec": 245.76,
-          "score": 0.99
+          "word": "mix",
+          "start": 154.6,
+          "end": 154.82
         },
         {
-          "word": "car",
-          "startSec": 245.76,
-          "endSec": 246.12,
-          "score": 1.0
+          "word": "of",
+          "start": 154.82,
+          "end": 155.08
         },
         {
-          "word": "from",
-          "startSec": 246.12,
-          "endSec": 246.52,
-          "score": 0.99
+          "word": "meat,",
+          "start": 155.08,
+          "end": 155.4
         },
         {
-          "word": "other",
-          "startSec": 246.52,
-          "endSec": 246.92,
-          "score": 1.0
-        },
-        {
-          "word": "cities",
-          "startSec": 246.92,
-          "endSec": 247.44,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 247.44,
-          "endSec": 247.78,
-          "score": 0.98
-        },
-        {
-          "word": "Bolivia.",
-          "startSec": 247.78,
-          "endSec": 248.18,
-          "score": 1.0
-        },
-        {
-          "word": "Tourists",
-          "startSec": 249.5,
-          "endSec": 250.26,
-          "score": 0.97
-        },
-        {
-          "word": "come",
-          "startSec": 250.26,
-          "endSec": 250.58,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 250.58,
-          "endSec": 250.84,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 250.84,
-          "endSec": 251.08,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 251.08,
-          "endSec": 251.26,
-          "score": 1.0
-        },
-        {
-          "word": "historic",
-          "startSec": 251.26,
-          "endSec": 251.64,
-          "score": 0.99
-        },
-        {
-          "word": "city,",
-          "startSec": 251.64,
-          "endSec": 252.3,
-          "score": 0.97
-        },
-        {
-          "word": "old",
-          "startSec": 253.26,
-          "endSec": 253.28,
-          "score": 0.92
-        },
-        {
-          "word": "mines,",
-          "startSec": 253.28,
-          "endSec": 253.74,
-          "score": 0.9
+          "word": "vegetables,",
+          "start": 155.52,
+          "end": 156.08
         },
         {
           "word": "and",
-          "startSec": 254.44,
-          "endSec": 254.5,
-          "score": 1.0
+          "start": 156.52,
+          "end": 156.66
         },
         {
-          "word": "museums.",
-          "startSec": 254.5,
-          "endSec": 254.82,
-          "score": 1.0
+          "word": "spicy",
+          "start": 156.66,
+          "end": 157.16
+        },
+        {
+          "word": "sauce.",
+          "start": 157.16,
+          "end": 158.14
         }
       ]
     },
     {
       "id": 29,
-      "start": 255.74,
-      "end": 260.31,
-      "text": "Tourism helps local people earn money and preserve history.",
+      "start": 158.82,
+      "end": 163.8,
+      "text": "Soups and local drinks are also common in daily life.",
       "words": [
         {
-          "word": "Tourism",
-          "startSec": 255.94,
-          "endSec": 256.46,
-          "score": 0.24
-        },
-        {
-          "word": "helps",
-          "startSec": 256.46,
-          "endSec": 257.08,
-          "score": 0.96
-        },
-        {
-          "word": "local",
-          "startSec": 257.08,
-          "endSec": 257.56,
-          "score": 0.98
-        },
-        {
-          "word": "people",
-          "startSec": 257.56,
-          "endSec": 258.1,
-          "score": 0.99
-        },
-        {
-          "word": "earn",
-          "startSec": 258.1,
-          "endSec": 258.56,
-          "score": 1.0
-        },
-        {
-          "word": "money",
-          "startSec": 258.56,
-          "endSec": 259.08,
-          "score": 1.0
+          "word": "Soups",
+          "start": 158.82,
+          "end": 159.66
         },
         {
           "word": "and",
-          "startSec": 259.08,
-          "endSec": 259.28,
-          "score": 0.98
+          "start": 159.66,
+          "end": 159.84
         },
         {
-          "word": "preserve",
-          "startSec": 259.28,
-          "endSec": 259.66,
-          "score": 0.99
+          "word": "local",
+          "start": 159.84,
+          "end": 160.16
         },
         {
-          "word": "history.",
-          "startSec": 259.66,
-          "endSec": 260.16,
-          "score": 1.0
+          "word": "drinks",
+          "start": 160.16,
+          "end": 160.72
+        },
+        {
+          "word": "are",
+          "start": 160.72,
+          "end": 160.98
+        },
+        {
+          "word": "also",
+          "start": 160.98,
+          "end": 161.48
+        },
+        {
+          "word": "common",
+          "start": 161.48,
+          "end": 162.06
+        },
+        {
+          "word": "in",
+          "start": 162.06,
+          "end": 162.34
+        },
+        {
+          "word": "daily",
+          "start": 162.34,
+          "end": 162.68
+        },
+        {
+          "word": "life.",
+          "start": 162.68,
+          "end": 163.8
         }
       ]
     },
     {
       "id": 30,
-      "start": 261.51,
-      "end": 265.46,
-      "text": "Part eleven? Daily life in Potosí.",
+      "start": 164.26,
+      "end": 171.86,
+      "text": "Part 7, The People of Potosi People in Potosi are friendly and hardworking.",
       "words": [
         {
           "word": "Part",
-          "startSec": 261.71,
-          "endSec": 261.87,
-          "score": 0.88
+          "start": 164.26,
+          "end": 164.84
         },
         {
-          "word": "eleven?",
-          "startSec": 261.87,
-          "endSec": 262.53,
-          "score": 0.01
+          "word": "7,",
+          "start": 164.84,
+          "end": 165.36
         },
         {
-          "word": "Daily",
-          "startSec": 263.25,
-          "endSec": 263.63,
-          "score": 0.94
+          "word": "The",
+          "start": 165.9,
+          "end": 166.04
         },
         {
-          "word": "life",
-          "startSec": 263.63,
-          "endSec": 264.23,
-          "score": 0.44
+          "word": "People",
+          "start": 166.04,
+          "end": 166.5
+        },
+        {
+          "word": "of",
+          "start": 166.5,
+          "end": 166.74
+        },
+        {
+          "word": "Potosi",
+          "start": 166.74,
+          "end": 167.42
+        },
+        {
+          "word": "People",
+          "start": 167.42,
+          "end": 168.62
         },
         {
           "word": "in",
-          "startSec": 264.23,
-          "endSec": 264.49,
-          "score": 0.99
+          "start": 168.62,
+          "end": 168.9
         },
         {
-          "word": "Potosí.",
-          "startSec": 264.49,
-          "endSec": 265.31,
-          "score": 0.51
+          "word": "Potosi",
+          "start": 168.9,
+          "end": 169.5
+        },
+        {
+          "word": "are",
+          "start": 169.5,
+          "end": 169.96
+        },
+        {
+          "word": "friendly",
+          "start": 169.96,
+          "end": 170.44
+        },
+        {
+          "word": "and",
+          "start": 170.44,
+          "end": 170.72
+        },
+        {
+          "word": "hardworking.",
+          "start": 170.72,
+          "end": 171.86
         }
       ]
     },
     {
       "id": 31,
-      "start": 265.92,
-      "end": 275.71,
-      "text": "Life in Potosí is calm and simple. People wake up early, go to work or school, and spend time with family.",
+      "start": 172.42,
+      "end": 175.28,
+      "text": "They speak Spanish and some Quechua.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 266.12,
-          "endSec": 266.72,
-          "score": 0.99
+          "word": "They",
+          "start": 172.42,
+          "end": 172.82
         },
         {
-          "word": "in",
-          "startSec": 266.72,
-          "endSec": 267.06,
-          "score": 0.99
+          "word": "speak",
+          "start": 172.82,
+          "end": 173.16
         },
         {
-          "word": "Potosí",
-          "startSec": 267.06,
-          "endSec": 267.84,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 267.84,
-          "endSec": 268.08,
-          "score": 0.99
-        },
-        {
-          "word": "calm",
-          "startSec": 268.08,
-          "endSec": 268.52,
-          "score": 0.95
+          "word": "Spanish",
+          "start": 173.16,
+          "end": 173.84
         },
         {
           "word": "and",
-          "startSec": 268.52,
-          "endSec": 268.88,
-          "score": 1.0
+          "start": 173.84,
+          "end": 174.32
         },
         {
-          "word": "simple.",
-          "startSec": 268.88,
-          "endSec": 269.42,
-          "score": 1.0
+          "word": "some",
+          "start": 174.32,
+          "end": 174.58
         },
         {
-          "word": "People",
-          "startSec": 270.22,
-          "endSec": 270.56,
-          "score": 1.0
-        },
-        {
-          "word": "wake",
-          "startSec": 270.56,
-          "endSec": 270.92,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 270.92,
-          "endSec": 271.2,
-          "score": 1.0
-        },
-        {
-          "word": "early,",
-          "startSec": 271.2,
-          "endSec": 271.62,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 272.22,
-          "endSec": 272.4,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 272.4,
-          "endSec": 272.58,
-          "score": 0.99
-        },
-        {
-          "word": "work",
-          "startSec": 272.58,
-          "endSec": 272.92,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 272.92,
-          "endSec": 273.14,
-          "score": 0.99
-        },
-        {
-          "word": "school,",
-          "startSec": 273.14,
-          "endSec": 273.52,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 274.06,
-          "endSec": 274.16,
-          "score": 0.99
-        },
-        {
-          "word": "spend",
-          "startSec": 274.16,
-          "endSec": 274.52,
-          "score": 1.0
-        },
-        {
-          "word": "time",
-          "startSec": 274.52,
-          "endSec": 274.92,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 274.92,
-          "endSec": 275.18,
-          "score": 1.0
-        },
-        {
-          "word": "family.",
-          "startSec": 275.18,
-          "endSec": 275.56,
-          "score": 0.99
+          "word": "Quechua.",
+          "start": 174.58,
+          "end": 175.28
         }
       ]
     },
     {
       "id": 32,
-      "start": 276.42,
-      "end": 282.35,
-      "text": "Children play in the streets, and families enjoy walks and plazas.",
+      "start": 175.28,
+      "end": 180.66,
+      "text": "Life is connected to family, work, and traditions.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 276.62,
-          "endSec": 277.14,
-          "score": 1.0
+          "word": "Life",
+          "start": 175.28,
+          "end": 176.74
         },
         {
-          "word": "play",
-          "startSec": 277.14,
-          "endSec": 277.64,
-          "score": 1.0
+          "word": "is",
+          "start": 176.74,
+          "end": 177.06
         },
         {
-          "word": "in",
-          "startSec": 277.64,
-          "endSec": 277.92,
-          "score": 1.0
+          "word": "connected",
+          "start": 177.06,
+          "end": 177.58
         },
         {
-          "word": "the",
-          "startSec": 277.92,
-          "endSec": 278.06,
-          "score": 1.0
+          "word": "to",
+          "start": 177.58,
+          "end": 177.9
         },
         {
-          "word": "streets,",
-          "startSec": 278.06,
-          "endSec": 278.52,
-          "score": 1.0
+          "word": "family,",
+          "start": 177.9,
+          "end": 178.5
         },
         {
-          "word": "and",
-          "startSec": 278.56,
-          "endSec": 279.26,
-          "score": 1.0
-        },
-        {
-          "word": "families",
-          "startSec": 279.26,
-          "endSec": 279.78,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 279.78,
-          "endSec": 280.28,
-          "score": 1.0
-        },
-        {
-          "word": "walks",
-          "startSec": 280.28,
-          "endSec": 280.8,
-          "score": 1.0
+          "word": "work,",
+          "start": 179.14,
+          "end": 179.3
         },
         {
           "word": "and",
-          "startSec": 280.8,
-          "endSec": 281.26,
-          "score": 0.98
+          "start": 179.64,
+          "end": 179.68
         },
         {
-          "word": "plazas.",
-          "startSec": 281.26,
-          "endSec": 282.2,
-          "score": 0.95
+          "word": "traditions.",
+          "start": 179.68,
+          "end": 180.66
         }
       ]
     },
     {
       "id": 33,
-      "start": 283.03,
-      "end": 287.94,
-      "text": "Life is connected to history, community, and the mountains.",
+      "start": 181.1,
+      "end": 185.82,
+      "text": "People respect history, culture, and the mountains.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 283.23,
-          "endSec": 283.71,
-          "score": 0.12
+          "word": "People",
+          "start": 181.1,
+          "end": 181.52
         },
         {
-          "word": "is",
-          "startSec": 283.71,
-          "endSec": 284.07,
-          "score": 0.99
-        },
-        {
-          "word": "connected",
-          "startSec": 284.07,
-          "endSec": 284.43,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 284.43,
-          "endSec": 284.95,
-          "score": 1.0
+          "word": "respect",
+          "start": 181.52,
+          "end": 182.1
         },
         {
           "word": "history,",
-          "startSec": 284.95,
-          "endSec": 285.49,
-          "score": 0.97
+          "start": 182.1,
+          "end": 182.96
         },
         {
-          "word": "community,",
-          "startSec": 285.49,
-          "endSec": 286.55,
-          "score": 0.99
+          "word": "culture,",
+          "start": 183.4,
+          "end": 183.86
         },
         {
           "word": "and",
-          "startSec": 287.21,
-          "endSec": 287.29,
-          "score": 1.0
+          "start": 184.32,
+          "end": 184.76
         },
         {
           "word": "the",
-          "startSec": 287.29,
-          "endSec": 287.43,
-          "score": 0.98
+          "start": 184.76,
+          "end": 185.02
         },
         {
           "word": "mountains.",
-          "startSec": 287.43,
-          "endSec": 287.79,
-          "score": 0.97
+          "start": 185.02,
+          "end": 185.82
         }
       ]
     },
     {
       "id": 34,
-      "start": 289.64,
-      "end": 293.09,
-      "text": "Part twelve? Why Potosí is special?",
+      "start": 186.84,
+      "end": 194.98,
+      "text": "Part 8, Culture and Festivals Potosi has many cultural events and festivals.",
       "words": [
         {
           "word": "Part",
-          "startSec": 289.84,
-          "endSec": 289.96,
-          "score": 0.93
+          "start": 186.84,
+          "end": 187.3
         },
         {
-          "word": "twelve?",
-          "startSec": 289.96,
-          "endSec": 290.62,
-          "score": 0.03
+          "word": "8,",
+          "start": 187.3,
+          "end": 187.76
         },
         {
-          "word": "Why",
-          "startSec": 291.62,
-          "endSec": 291.7,
-          "score": 0.81
+          "word": "Culture",
+          "start": 188.18,
+          "end": 188.8
         },
         {
-          "word": "Potosí",
-          "startSec": 291.7,
-          "endSec": 292.46,
-          "score": 0.47
+          "word": "and",
+          "start": 188.8,
+          "end": 189.22
         },
         {
-          "word": "is",
-          "startSec": 292.46,
-          "endSec": 292.64,
-          "score": 0.96
+          "word": "Festivals",
+          "start": 189.22,
+          "end": 190.06
         },
         {
-          "word": "special?",
-          "startSec": 292.64,
-          "endSec": 292.94,
-          "score": 0.99
+          "word": "Potosi",
+          "start": 190.06,
+          "end": 191.76
+        },
+        {
+          "word": "has",
+          "start": 191.76,
+          "end": 192.08
+        },
+        {
+          "word": "many",
+          "start": 192.08,
+          "end": 192.5
+        },
+        {
+          "word": "cultural",
+          "start": 192.5,
+          "end": 192.96
+        },
+        {
+          "word": "events",
+          "start": 192.96,
+          "end": 193.56
+        },
+        {
+          "word": "and",
+          "start": 193.56,
+          "end": 193.94
+        },
+        {
+          "word": "festivals.",
+          "start": 193.94,
+          "end": 194.98
         }
       ]
     },
     {
       "id": 35,
-      "start": 293.91,
-      "end": 301.78,
-      "text": "Potosí is not a famous city, but it is full of history, mountains, and culture.",
+      "start": 195.4,
+      "end": 200.16,
+      "text": "People celebrate music, dance, and religious traditions.",
       "words": [
         {
-          "word": "Potosí",
-          "startSec": 294.11,
-          "endSec": 294.91,
-          "score": 0.97
+          "word": "People",
+          "start": 195.4,
+          "end": 195.86
         },
         {
-          "word": "is",
-          "startSec": 294.91,
-          "endSec": 295.17,
-          "score": 0.99
+          "word": "celebrate",
+          "start": 195.86,
+          "end": 196.56
         },
         {
-          "word": "not",
-          "startSec": 295.17,
-          "endSec": 295.63,
-          "score": 0.99
+          "word": "music,",
+          "start": 196.56,
+          "end": 197.28
         },
         {
-          "word": "a",
-          "startSec": 295.63,
-          "endSec": 295.95,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 295.95,
-          "endSec": 296.27,
-          "score": 1.0
-        },
-        {
-          "word": "city,",
-          "startSec": 296.27,
-          "endSec": 296.97,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 297.53,
-          "endSec": 297.73,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 297.73,
-          "endSec": 297.89,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 297.89,
-          "endSec": 298.09,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 298.09,
-          "endSec": 298.43,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 298.43,
-          "endSec": 298.69,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 298.69,
-          "endSec": 299.31,
-          "score": 1.0
-        },
-        {
-          "word": "mountains,",
-          "startSec": 299.79,
-          "endSec": 300.53,
-          "score": 1.0
+          "word": "dance,",
+          "start": 197.74,
+          "end": 198.26
         },
         {
           "word": "and",
-          "startSec": 301.25,
-          "endSec": 301.31,
-          "score": 1.0
+          "start": 198.72,
+          "end": 198.86
         },
         {
-          "word": "culture.",
-          "startSec": 301.31,
-          "endSec": 301.63,
-          "score": 1.0
+          "word": "religious",
+          "start": 198.86,
+          "end": 199.32
+        },
+        {
+          "word": "traditions.",
+          "start": 199.32,
+          "end": 200.16
         }
       ]
     },
     {
       "id": 36,
-      "start": 302.57,
-      "end": 308.48,
-      "text": "It combines old buildings, traditions, and scenic views beautifully.",
+      "start": 200.16,
+      "end": 206.08,
+      "text": "Traditional dances and songs are performed during festivals.",
       "words": [
         {
-          "word": "It",
-          "startSec": 302.77,
-          "endSec": 302.93,
-          "score": 1.0
+          "word": "Traditional",
+          "start": 200.16,
+          "end": 201.7
         },
         {
-          "word": "combines",
-          "startSec": 302.93,
-          "endSec": 303.41,
-          "score": 1.0
-        },
-        {
-          "word": "old",
-          "startSec": 303.41,
-          "endSec": 304.09,
-          "score": 0.99
-        },
-        {
-          "word": "buildings,",
-          "startSec": 304.09,
-          "endSec": 304.79,
-          "score": 1.0
-        },
-        {
-          "word": "traditions,",
-          "startSec": 304.91,
-          "endSec": 305.75,
-          "score": 1.0
+          "word": "dances",
+          "start": 201.7,
+          "end": 202.46
         },
         {
           "word": "and",
-          "startSec": 306.59,
-          "endSec": 306.67,
-          "score": 1.0
+          "start": 202.46,
+          "end": 202.86
         },
         {
-          "word": "scenic",
-          "startSec": 306.67,
-          "endSec": 307.09,
-          "score": 1.0
+          "word": "songs",
+          "start": 202.86,
+          "end": 203.44
         },
         {
-          "word": "views",
-          "startSec": 307.09,
-          "endSec": 307.63,
-          "score": 1.0
+          "word": "are",
+          "start": 203.44,
+          "end": 203.72
         },
         {
-          "word": "beautifully.",
-          "startSec": 307.63,
-          "endSec": 308.33,
-          "score": 0.99
+          "word": "performed",
+          "start": 203.72,
+          "end": 204.16
+        },
+        {
+          "word": "during",
+          "start": 204.16,
+          "end": 204.88
+        },
+        {
+          "word": "festivals.",
+          "start": 204.88,
+          "end": 206.08
         }
       ]
     },
     {
       "id": 37,
-      "start": 308.13,
-      "end": 314.38,
-      "text": "Visitors feel inspired, peaceful, and curious here.",
+      "start": 206.64,
+      "end": 211.26,
+      "text": "Visitors can enjoy and sometimes join celebrations.",
       "words": [
         {
           "word": "Visitors",
-          "startSec": 308.33,
-          "endSec": 309.67,
-          "score": 0.0
+          "start": 206.64,
+          "end": 207.46
         },
         {
-          "word": "feel",
-          "startSec": 309.67,
-          "endSec": 310.21,
-          "score": 0.99
+          "word": "can",
+          "start": 207.46,
+          "end": 207.84
         },
         {
-          "word": "inspired,",
-          "startSec": 310.21,
-          "endSec": 311.13,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful,",
-          "startSec": 311.71,
-          "endSec": 312.25,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 207.84,
+          "end": 208.48
         },
         {
           "word": "and",
-          "startSec": 312.93,
-          "endSec": 312.95,
-          "score": 0.83
+          "start": 208.48,
+          "end": 208.86
         },
         {
-          "word": "curious",
-          "startSec": 312.95,
-          "endSec": 313.59,
-          "score": 1.0
+          "word": "sometimes",
+          "start": 208.86,
+          "end": 209.44
         },
         {
-          "word": "here.",
-          "startSec": 313.59,
-          "endSec": 314.23,
-          "score": 0.95
+          "word": "join",
+          "start": 209.44,
+          "end": 209.98
+        },
+        {
+          "word": "celebrations.",
+          "start": 209.98,
+          "end": 211.26
         }
       ]
     },
     {
       "id": 38,
-      "start": 319.14,
-      "end": 324.27,
-      "text": "I am Emily, and I hope you enjoyed this journey through Potosí Bolivia.",
+      "start": 212.22,
+      "end": 220.56,
+      "text": "Part 9, Mountains and Nature Potosi is surrounded by mountains, hills, and valleys.",
       "words": [
         {
-          "word": "I",
-          "startSec": 319.34,
-          "endSec": 319.76,
-          "score": 1.0
+          "word": "Part",
+          "start": 212.22,
+          "end": 212.52
         },
         {
-          "word": "am",
-          "startSec": 319.76,
-          "endSec": 319.98,
-          "score": 0.96
+          "word": "9,",
+          "start": 212.52,
+          "end": 213.18
         },
         {
-          "word": "Emily,",
-          "startSec": 319.98,
-          "endSec": 320.34,
-          "score": 0.28
+          "word": "Mountains",
+          "start": 213.54,
+          "end": 214.08
         },
         {
           "word": "and",
-          "startSec": 320.8,
-          "endSec": 320.9,
-          "score": 0.99
+          "start": 214.08,
+          "end": 214.46
         },
         {
-          "word": "I",
-          "startSec": 320.9,
-          "endSec": 321.06,
-          "score": 0.99
+          "word": "Nature",
+          "start": 214.46,
+          "end": 214.96
         },
         {
-          "word": "hope",
-          "startSec": 321.06,
-          "endSec": 321.3,
-          "score": 1.0
+          "word": "Potosi",
+          "start": 214.96,
+          "end": 216.42
         },
         {
-          "word": "you",
-          "startSec": 321.3,
-          "endSec": 321.56,
-          "score": 1.0
+          "word": "is",
+          "start": 216.42,
+          "end": 216.74
         },
         {
-          "word": "enjoyed",
-          "startSec": 321.56,
-          "endSec": 321.86,
-          "score": 0.97
+          "word": "surrounded",
+          "start": 216.74,
+          "end": 217.24
         },
         {
-          "word": "this",
-          "startSec": 321.86,
-          "endSec": 322.26,
-          "score": 1.0
+          "word": "by",
+          "start": 217.24,
+          "end": 217.62
         },
         {
-          "word": "journey",
-          "startSec": 322.26,
-          "endSec": 322.6,
-          "score": 0.99
+          "word": "mountains,",
+          "start": 217.62,
+          "end": 218.08
         },
         {
-          "word": "through",
-          "startSec": 322.6,
-          "endSec": 323.12,
-          "score": 1.0
+          "word": "hills,",
+          "start": 218.66,
+          "end": 219.14
         },
         {
-          "word": "Potosí",
-          "startSec": 323.12,
-          "endSec": 323.88,
-          "score": 0.29
+          "word": "and",
+          "start": 219.56,
+          "end": 219.68
         },
         {
-          "word": "Bolivia.",
-          "startSec": 323.88,
-          "endSec": 324.12,
-          "score": 0.82
+          "word": "valleys.",
+          "start": 219.68,
+          "end": 220.56
         }
       ]
     },
     {
       "id": 39,
-      "start": 327.96,
-      "end": 329.49,
+      "start": 221.12,
+      "end": 226.24,
+      "text": "You can hike, explore, or enjoy the views of the city from above.",
+      "words": [
+        {
+          "word": "You",
+          "start": 221.12,
+          "end": 221.4
+        },
+        {
+          "word": "can",
+          "start": 221.4,
+          "end": 221.64
+        },
+        {
+          "word": "hike,",
+          "start": 221.64,
+          "end": 222.02
+        },
+        {
+          "word": "explore,",
+          "start": 222.6,
+          "end": 223.0
+        },
+        {
+          "word": "or",
+          "start": 223.42,
+          "end": 223.52
+        },
+        {
+          "word": "enjoy",
+          "start": 223.52,
+          "end": 223.96
+        },
+        {
+          "word": "the",
+          "start": 223.96,
+          "end": 224.22
+        },
+        {
+          "word": "views",
+          "start": 224.22,
+          "end": 224.62
+        },
+        {
+          "word": "of",
+          "start": 224.62,
+          "end": 224.9
+        },
+        {
+          "word": "the",
+          "start": 224.9,
+          "end": 225.08
+        },
+        {
+          "word": "city",
+          "start": 225.08,
+          "end": 225.44
+        },
+        {
+          "word": "from",
+          "start": 225.44,
+          "end": 225.74
+        },
+        {
+          "word": "above.",
+          "start": 225.74,
+          "end": 226.24
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 226.24,
+      "end": 231.64,
+      "text": "The air is fresh and nature is everywhere.",
+      "words": [
+        {
+          "word": "The",
+          "start": 226.24,
+          "end": 227.6
+        },
+        {
+          "word": "air",
+          "start": 227.6,
+          "end": 228.02
+        },
+        {
+          "word": "is",
+          "start": 228.02,
+          "end": 228.3
+        },
+        {
+          "word": "fresh",
+          "start": 228.3,
+          "end": 228.78
+        },
+        {
+          "word": "and",
+          "start": 228.78,
+          "end": 229.66
+        },
+        {
+          "word": "nature",
+          "start": 229.66,
+          "end": 230.14
+        },
+        {
+          "word": "is",
+          "start": 230.14,
+          "end": 230.52
+        },
+        {
+          "word": "everywhere.",
+          "start": 230.52,
+          "end": 231.64
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 231.96,
+      "end": 237.08,
+      "text": "It is perfect for photography and exploring the outdoors.",
+      "words": [
+        {
+          "word": "It",
+          "start": 231.96,
+          "end": 232.6
+        },
+        {
+          "word": "is",
+          "start": 232.6,
+          "end": 232.8
+        },
+        {
+          "word": "perfect",
+          "start": 232.8,
+          "end": 233.28
+        },
+        {
+          "word": "for",
+          "start": 233.28,
+          "end": 233.62
+        },
+        {
+          "word": "photography",
+          "start": 233.62,
+          "end": 234.3
+        },
+        {
+          "word": "and",
+          "start": 234.3,
+          "end": 235.08
+        },
+        {
+          "word": "exploring",
+          "start": 235.08,
+          "end": 235.76
+        },
+        {
+          "word": "the",
+          "start": 235.76,
+          "end": 236.14
+        },
+        {
+          "word": "outdoors.",
+          "start": 236.14,
+          "end": 237.08
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 238.64,
+      "end": 248.92,
+      "text": "Part 10, Travel and Tourism Potosi is reachable by bus or car from other cities in Bolivia.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 238.64,
+          "end": 238.74
+        },
+        {
+          "word": "10,",
+          "start": 238.74,
+          "end": 239.4
+        },
+        {
+          "word": "Travel",
+          "start": 239.8,
+          "end": 240.68
+        },
+        {
+          "word": "and",
+          "start": 240.68,
+          "end": 241.16
+        },
+        {
+          "word": "Tourism",
+          "start": 241.16,
+          "end": 241.98
+        },
+        {
+          "word": "Potosi",
+          "start": 241.98,
+          "end": 243.68
+        },
+        {
+          "word": "is",
+          "start": 243.68,
+          "end": 244.08
+        },
+        {
+          "word": "reachable",
+          "start": 244.08,
+          "end": 244.74
+        },
+        {
+          "word": "by",
+          "start": 244.74,
+          "end": 245.0
+        },
+        {
+          "word": "bus",
+          "start": 245.0,
+          "end": 245.4
+        },
+        {
+          "word": "or",
+          "start": 245.4,
+          "end": 245.82
+        },
+        {
+          "word": "car",
+          "start": 245.82,
+          "end": 246.24
+        },
+        {
+          "word": "from",
+          "start": 246.24,
+          "end": 246.6
+        },
+        {
+          "word": "other",
+          "start": 246.6,
+          "end": 247.02
+        },
+        {
+          "word": "cities",
+          "start": 247.02,
+          "end": 247.46
+        },
+        {
+          "word": "in",
+          "start": 247.46,
+          "end": 247.86
+        },
+        {
+          "word": "Bolivia.",
+          "start": 247.86,
+          "end": 248.92
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 249.3,
+      "end": 255.08,
+      "text": "Tourists come to see the historic city, old mines, and museums.",
+      "words": [
+        {
+          "word": "Tourists",
+          "start": 249.3,
+          "end": 250.26
+        },
+        {
+          "word": "come",
+          "start": 250.26,
+          "end": 250.64
+        },
+        {
+          "word": "to",
+          "start": 250.64,
+          "end": 250.9
+        },
+        {
+          "word": "see",
+          "start": 250.9,
+          "end": 251.12
+        },
+        {
+          "word": "the",
+          "start": 251.12,
+          "end": 251.3
+        },
+        {
+          "word": "historic",
+          "start": 251.3,
+          "end": 251.84
+        },
+        {
+          "word": "city,",
+          "start": 251.84,
+          "end": 252.38
+        },
+        {
+          "word": "old",
+          "start": 253.1,
+          "end": 253.42
+        },
+        {
+          "word": "mines,",
+          "start": 253.42,
+          "end": 254.0
+        },
+        {
+          "word": "and",
+          "start": 254.46,
+          "end": 254.58
+        },
+        {
+          "word": "museums.",
+          "start": 254.58,
+          "end": 255.08
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 255.08,
+      "end": 261.0,
+      "text": "Tourism helps local people earn money and preserve history.",
+      "words": [
+        {
+          "word": "Tourism",
+          "start": 255.08,
+          "end": 256.8
+        },
+        {
+          "word": "helps",
+          "start": 256.8,
+          "end": 257.18
+        },
+        {
+          "word": "local",
+          "start": 257.18,
+          "end": 257.74
+        },
+        {
+          "word": "people",
+          "start": 257.74,
+          "end": 258.2
+        },
+        {
+          "word": "earn",
+          "start": 258.2,
+          "end": 258.62
+        },
+        {
+          "word": "money",
+          "start": 258.62,
+          "end": 259.08
+        },
+        {
+          "word": "and",
+          "start": 259.08,
+          "end": 259.3
+        },
+        {
+          "word": "preserve",
+          "start": 259.3,
+          "end": 259.82
+        },
+        {
+          "word": "history.",
+          "start": 259.82,
+          "end": 261.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 261.66,
+      "end": 269.84,
+      "text": "Part 11, Daily Life in Potosi Life in Potosi is calm and simple.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 261.66,
+          "end": 261.92
+        },
+        {
+          "word": "11,",
+          "start": 261.92,
+          "end": 262.54
+        },
+        {
+          "word": "Daily",
+          "start": 263.28,
+          "end": 263.76
+        },
+        {
+          "word": "Life",
+          "start": 263.76,
+          "end": 264.26
+        },
+        {
+          "word": "in",
+          "start": 264.26,
+          "end": 264.54
+        },
+        {
+          "word": "Potosi",
+          "start": 264.54,
+          "end": 265.28
+        },
+        {
+          "word": "Life",
+          "start": 266.08,
+          "end": 266.78
+        },
+        {
+          "word": "in",
+          "start": 266.78,
+          "end": 267.12
+        },
+        {
+          "word": "Potosi",
+          "start": 267.12,
+          "end": 267.76
+        },
+        {
+          "word": "is",
+          "start": 267.76,
+          "end": 268.14
+        },
+        {
+          "word": "calm",
+          "start": 268.14,
+          "end": 268.72
+        },
+        {
+          "word": "and",
+          "start": 268.72,
+          "end": 268.96
+        },
+        {
+          "word": "simple.",
+          "start": 268.96,
+          "end": 269.84
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 270.16,
+      "end": 276.2,
+      "text": "People wake up early, go to work or school, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "start": 270.16,
+          "end": 270.64
+        },
+        {
+          "word": "wake",
+          "start": 270.64,
+          "end": 270.98
+        },
+        {
+          "word": "up",
+          "start": 270.98,
+          "end": 271.28
+        },
+        {
+          "word": "early,",
+          "start": 271.28,
+          "end": 271.76
+        },
+        {
+          "word": "go",
+          "start": 272.32,
+          "end": 272.44
+        },
+        {
+          "word": "to",
+          "start": 272.44,
+          "end": 272.6
+        },
+        {
+          "word": "work",
+          "start": 272.6,
+          "end": 272.96
+        },
+        {
+          "word": "or",
+          "start": 272.96,
+          "end": 273.22
+        },
+        {
+          "word": "school,",
+          "start": 273.22,
+          "end": 273.7
+        },
+        {
+          "word": "and",
+          "start": 274.06,
+          "end": 274.24
+        },
+        {
+          "word": "spend",
+          "start": 274.24,
+          "end": 274.56
+        },
+        {
+          "word": "time",
+          "start": 274.56,
+          "end": 274.98
+        },
+        {
+          "word": "with",
+          "start": 274.98,
+          "end": 275.24
+        },
+        {
+          "word": "family.",
+          "start": 275.24,
+          "end": 276.2
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 276.82,
+      "end": 282.24,
+      "text": "Children play in the streets, and families enjoy walks and plazas.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 276.82,
+          "end": 277.26
+        },
+        {
+          "word": "play",
+          "start": 277.26,
+          "end": 277.76
+        },
+        {
+          "word": "in",
+          "start": 277.76,
+          "end": 278.0
+        },
+        {
+          "word": "the",
+          "start": 278.0,
+          "end": 278.16
+        },
+        {
+          "word": "streets,",
+          "start": 278.16,
+          "end": 278.6
+        },
+        {
+          "word": "and",
+          "start": 279.1,
+          "end": 279.32
+        },
+        {
+          "word": "families",
+          "start": 279.32,
+          "end": 279.84
+        },
+        {
+          "word": "enjoy",
+          "start": 279.84,
+          "end": 280.38
+        },
+        {
+          "word": "walks",
+          "start": 280.38,
+          "end": 280.96
+        },
+        {
+          "word": "and",
+          "start": 280.96,
+          "end": 281.34
+        },
+        {
+          "word": "plazas.",
+          "start": 281.34,
+          "end": 282.24
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 282.24,
+      "end": 288.28,
+      "text": "Life is connected to history, community, and the mountains.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 282.24,
+          "end": 283.78
+        },
+        {
+          "word": "is",
+          "start": 283.78,
+          "end": 284.1
+        },
+        {
+          "word": "connected",
+          "start": 284.1,
+          "end": 284.6
+        },
+        {
+          "word": "to",
+          "start": 284.6,
+          "end": 285.02
+        },
+        {
+          "word": "history,",
+          "start": 285.02,
+          "end": 285.7
+        },
+        {
+          "word": "community,",
+          "start": 286.12,
+          "end": 286.78
+        },
+        {
+          "word": "and",
+          "start": 287.3,
+          "end": 287.36
+        },
+        {
+          "word": "the",
+          "start": 287.36,
+          "end": 287.52
+        },
+        {
+          "word": "mountains.",
+          "start": 287.52,
+          "end": 288.28
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 289.18,
+      "end": 302.28,
+      "text": "Part 12, Why Potosi is Special Potosi is not a famous city, but it is full of history, mountains, and culture.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 289.18,
+          "end": 290.06
+        },
+        {
+          "word": "12,",
+          "start": 290.06,
+          "end": 290.6
+        },
+        {
+          "word": "Why",
+          "start": 291.4,
+          "end": 291.74
+        },
+        {
+          "word": "Potosi",
+          "start": 291.74,
+          "end": 292.4
+        },
+        {
+          "word": "is",
+          "start": 292.4,
+          "end": 292.72
+        },
+        {
+          "word": "Special",
+          "start": 292.72,
+          "end": 293.24
+        },
+        {
+          "word": "Potosi",
+          "start": 293.24,
+          "end": 294.9
+        },
+        {
+          "word": "is",
+          "start": 294.9,
+          "end": 295.26
+        },
+        {
+          "word": "not",
+          "start": 295.26,
+          "end": 295.68
+        },
+        {
+          "word": "a",
+          "start": 295.68,
+          "end": 296.02
+        },
+        {
+          "word": "famous",
+          "start": 296.02,
+          "end": 296.46
+        },
+        {
+          "word": "city,",
+          "start": 296.46,
+          "end": 297.0
+        },
+        {
+          "word": "but",
+          "start": 297.34,
+          "end": 297.8
+        },
+        {
+          "word": "it",
+          "start": 297.8,
+          "end": 297.96
+        },
+        {
+          "word": "is",
+          "start": 297.96,
+          "end": 298.18
+        },
+        {
+          "word": "full",
+          "start": 298.18,
+          "end": 298.52
+        },
+        {
+          "word": "of",
+          "start": 298.52,
+          "end": 298.76
+        },
+        {
+          "word": "history,",
+          "start": 298.76,
+          "end": 299.36
+        },
+        {
+          "word": "mountains,",
+          "start": 300.02,
+          "end": 300.64
+        },
+        {
+          "word": "and",
+          "start": 301.24,
+          "end": 301.38
+        },
+        {
+          "word": "culture.",
+          "start": 301.38,
+          "end": 302.28
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 302.66,
+      "end": 308.5,
+      "text": "It combines old buildings, traditions, and scenic views beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "start": 302.66,
+          "end": 303.0
+        },
+        {
+          "word": "combines",
+          "start": 303.0,
+          "end": 303.72
+        },
+        {
+          "word": "old",
+          "start": 303.72,
+          "end": 304.2
+        },
+        {
+          "word": "buildings,",
+          "start": 304.2,
+          "end": 304.84
+        },
+        {
+          "word": "traditions,",
+          "start": 305.42,
+          "end": 306.06
+        },
+        {
+          "word": "and",
+          "start": 306.62,
+          "end": 306.76
+        },
+        {
+          "word": "scenic",
+          "start": 306.76,
+          "end": 307.32
+        },
+        {
+          "word": "views",
+          "start": 307.32,
+          "end": 307.72
+        },
+        {
+          "word": "beautifully.",
+          "start": 307.72,
+          "end": 308.5
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 308.5,
+      "end": 314.62,
+      "text": "Visitors feel inspired, peaceful, and curious here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 308.5,
+          "end": 309.9
+        },
+        {
+          "word": "feel",
+          "start": 309.9,
+          "end": 310.28
+        },
+        {
+          "word": "inspired,",
+          "start": 310.28,
+          "end": 311.36
+        },
+        {
+          "word": "peaceful,",
+          "start": 311.74,
+          "end": 312.42
+        },
+        {
+          "word": "and",
+          "start": 312.96,
+          "end": 313.02
+        },
+        {
+          "word": "curious",
+          "start": 313.02,
+          "end": 313.74
+        },
+        {
+          "word": "here.",
+          "start": 313.74,
+          "end": 314.62
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 315.42,
+      "end": 318.72,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 315.42,
+          "end": 315.64
+        },
+        {
+          "word": "you",
+          "start": 315.64,
+          "end": 315.86
+        },
+        {
+          "word": "for",
+          "start": 315.86,
+          "end": 316.08
+        },
+        {
+          "word": "listening",
+          "start": 316.08,
+          "end": 316.5
+        },
+        {
+          "word": "to",
+          "start": 316.5,
+          "end": 316.8
+        },
+        {
+          "word": "the",
+          "start": 316.8,
+          "end": 317.0
+        },
+        {
+          "word": "Slow",
+          "start": 317.0,
+          "end": 317.32
+        },
+        {
+          "word": "English",
+          "start": 317.32,
+          "end": 317.72
+        },
+        {
+          "word": "Podcast.",
+          "start": 317.72,
+          "end": 318.72
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 319.58,
+      "end": 325.06,
+      "text": "I am Emily and I hope you enjoyed this journey through Potosi, Bolivia.",
+      "words": [
+        {
+          "word": "I",
+          "start": 319.58,
+          "end": 319.82
+        },
+        {
+          "word": "am",
+          "start": 319.82,
+          "end": 320.02
+        },
+        {
+          "word": "Emily",
+          "start": 320.02,
+          "end": 320.4
+        },
+        {
+          "word": "and",
+          "start": 320.4,
+          "end": 320.94
+        },
+        {
+          "word": "I",
+          "start": 320.94,
+          "end": 321.12
+        },
+        {
+          "word": "hope",
+          "start": 321.12,
+          "end": 321.34
+        },
+        {
+          "word": "you",
+          "start": 321.34,
+          "end": 321.6
+        },
+        {
+          "word": "enjoyed",
+          "start": 321.6,
+          "end": 322.04
+        },
+        {
+          "word": "this",
+          "start": 322.04,
+          "end": 322.34
+        },
+        {
+          "word": "journey",
+          "start": 322.34,
+          "end": 322.84
+        },
+        {
+          "word": "through",
+          "start": 322.84,
+          "end": 323.16
+        },
+        {
+          "word": "Potosi,",
+          "start": 323.16,
+          "end": 323.82
+        },
+        {
+          "word": "Bolivia.",
+          "start": 324.06,
+          "end": 325.06
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 325.54,
+      "end": 327.08,
+      "text": "See you next time.",
+      "words": [
+        {
+          "word": "See",
+          "start": 325.54,
+          "end": 325.74
+        },
+        {
+          "word": "you",
+          "start": 325.74,
+          "end": 325.9
+        },
+        {
+          "word": "next",
+          "start": 325.9,
+          "end": 326.14
+        },
+        {
+          "word": "time.",
+          "start": 326.14,
+          "end": 327.08
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 327.72,
+      "end": 329.75,
       "text": "Goodbye for now.",
       "words": [
         {
           "word": "Goodbye",
-          "startSec": 328.16,
-          "endSec": 328.38,
-          "score": 0.7
+          "start": 327.72,
+          "end": 328.5
         },
         {
           "word": "for",
-          "startSec": 328.38,
-          "endSec": 329.0,
-          "score": 0.95
+          "start": 328.5,
+          "end": 329.06
         },
         {
           "word": "now.",
-          "startSec": 329.0,
-          "endSec": 329.34,
-          "score": 1.0
+          "start": 329.06,
+          "end": 329.75
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 55
 }

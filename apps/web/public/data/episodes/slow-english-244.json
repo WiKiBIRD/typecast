@@ -15,4957 +15,4356 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 9.75,
-      "text": "Hello everyone. Welcome to the Slow English Podcast. I'm Emili, and today we are traveling to Africa,",
+      "start": 1.74,
+      "end": 4.5,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.14,
-          "score": 0.9
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.14,
-          "endSec": 0.7,
-          "score": 0.61
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.7,
-          "endSec": 2.24,
-          "score": 0.99
+          "start": 1.74,
+          "end": 2.22
         },
         {
           "word": "to",
-          "startSec": 2.24,
-          "endSec": 2.54,
-          "score": 1.0
+          "start": 2.22,
+          "end": 2.6
         },
         {
           "word": "the",
-          "startSec": 2.54,
-          "endSec": 2.72,
-          "score": 0.96
+          "start": 2.6,
+          "end": 2.78
         },
         {
           "word": "Slow",
-          "startSec": 2.72,
-          "endSec": 3.04,
-          "score": 0.85
+          "start": 2.78,
+          "end": 3.16
         },
         {
           "word": "English",
-          "startSec": 3.04,
-          "endSec": 3.44,
-          "score": 0.96
+          "start": 3.16,
+          "end": 3.62
         },
         {
           "word": "Podcast.",
-          "startSec": 3.44,
-          "endSec": 4.04,
-          "score": 0.86
-        },
-        {
-          "word": "I'm",
-          "startSec": 5.42,
-          "endSec": 5.96,
-          "score": 0.98
-        },
-        {
-          "word": "Emili,",
-          "startSec": 5.96,
-          "endSec": 6.36,
-          "score": 0.38
-        },
-        {
-          "word": "and",
-          "startSec": 6.94,
-          "endSec": 7.36,
-          "score": 0.99
-        },
-        {
-          "word": "today",
-          "startSec": 7.36,
-          "endSec": 7.76,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 7.76,
-          "endSec": 8.14,
-          "score": 0.94
-        },
-        {
-          "word": "are",
-          "startSec": 8.14,
-          "endSec": 8.28,
-          "score": 0.98
-        },
-        {
-          "word": "traveling",
-          "startSec": 8.28,
-          "endSec": 8.8,
-          "score": 0.94
-        },
-        {
-          "word": "to",
-          "startSec": 8.8,
-          "endSec": 9.08,
-          "score": 1.0
-        },
-        {
-          "word": "Africa,",
-          "startSec": 9.08,
-          "endSec": 9.6,
-          "score": 1.0
+          "start": 3.62,
+          "end": 4.5
         }
       ]
     },
     {
       "id": 2,
-      "start": 10.08,
-      "end": 19.07,
-      "text": "to the beautiful city of Dakar in Senegal. Dakar is full of music, colors, and life.",
+      "start": 5.48,
+      "end": 14.44,
+      "text": "I'm Emily and today we are traveling to Africa, to the beautiful city of Dakar in Senegal.",
       "words": [
         {
-          "word": "to",
-          "startSec": 10.28,
-          "endSec": 10.78,
-          "score": 0.99
+          "word": "I'm",
+          "start": 5.48,
+          "end": 5.98
         },
         {
-          "word": "the",
-          "startSec": 10.78,
-          "endSec": 10.94,
-          "score": 0.99
-        },
-        {
-          "word": "beautiful",
-          "startSec": 10.94,
-          "endSec": 11.38,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.38,
-          "endSec": 11.98,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 11.98,
-          "endSec": 12.28,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar",
-          "startSec": 12.28,
-          "endSec": 12.94,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 12.94,
-          "endSec": 13.36,
-          "score": 0.89
-        },
-        {
-          "word": "Senegal.",
-          "startSec": 13.36,
-          "endSec": 13.8,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar",
-          "startSec": 15.02,
-          "endSec": 15.82,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 15.82,
-          "endSec": 16.1,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 16.1,
-          "endSec": 16.38,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 16.38,
-          "endSec": 16.6,
-          "score": 1.0
-        },
-        {
-          "word": "music,",
-          "startSec": 16.6,
-          "endSec": 17.18,
-          "score": 0.99
-        },
-        {
-          "word": "colors,",
-          "startSec": 17.18,
-          "endSec": 18.0,
-          "score": 0.98
+          "word": "Emily",
+          "start": 5.98,
+          "end": 6.34
         },
         {
           "word": "and",
-          "startSec": 18.52,
-          "endSec": 18.56,
-          "score": 1.0
+          "start": 6.34,
+          "end": 7.42
         },
         {
-          "word": "life.",
-          "startSec": 18.56,
-          "endSec": 18.92,
-          "score": 1.0
+          "word": "today",
+          "start": 7.42,
+          "end": 7.76
+        },
+        {
+          "word": "we",
+          "start": 7.76,
+          "end": 8.18
+        },
+        {
+          "word": "are",
+          "start": 8.18,
+          "end": 8.34
+        },
+        {
+          "word": "traveling",
+          "start": 8.34,
+          "end": 8.84
+        },
+        {
+          "word": "to",
+          "start": 8.84,
+          "end": 9.14
+        },
+        {
+          "word": "Africa,",
+          "start": 9.14,
+          "end": 9.82
+        },
+        {
+          "word": "to",
+          "start": 10.26,
+          "end": 10.82
+        },
+        {
+          "word": "the",
+          "start": 10.82,
+          "end": 10.98
+        },
+        {
+          "word": "beautiful",
+          "start": 10.98,
+          "end": 11.52
+        },
+        {
+          "word": "city",
+          "start": 11.52,
+          "end": 12.02
+        },
+        {
+          "word": "of",
+          "start": 12.02,
+          "end": 12.32
+        },
+        {
+          "word": "Dakar",
+          "start": 12.32,
+          "end": 13.02
+        },
+        {
+          "word": "in",
+          "start": 13.02,
+          "end": 13.42
+        },
+        {
+          "word": "Senegal.",
+          "start": 13.42,
+          "end": 14.44
         }
       ]
     },
     {
       "id": 3,
-      "start": 19.72,
-      "end": 28.57,
-      "text": "It is a city by the Atlantic Ocean with beautiful beaches and kind people. Let's explore this",
+      "start": 14.9,
+      "end": 19.4,
+      "text": "Dakar is full of music, colors, and life.",
       "words": [
         {
-          "word": "It",
-          "startSec": 19.92,
-          "endSec": 20.16,
-          "score": 1.0
+          "word": "Dakar",
+          "start": 14.9,
+          "end": 15.84
         },
         {
           "word": "is",
-          "startSec": 20.16,
-          "endSec": 20.3,
-          "score": 0.99
+          "start": 15.84,
+          "end": 16.16
         },
         {
-          "word": "a",
-          "startSec": 20.3,
-          "endSec": 20.48,
-          "score": 0.98
+          "word": "full",
+          "start": 16.16,
+          "end": 16.48
         },
         {
-          "word": "city",
-          "startSec": 20.48,
-          "endSec": 20.86,
-          "score": 1.0
+          "word": "of",
+          "start": 16.48,
+          "end": 16.66
         },
         {
-          "word": "by",
-          "startSec": 20.86,
-          "endSec": 21.18,
-          "score": 1.0
+          "word": "music,",
+          "start": 16.66,
+          "end": 17.18
         },
         {
-          "word": "the",
-          "startSec": 21.18,
-          "endSec": 21.46,
-          "score": 0.99
-        },
-        {
-          "word": "Atlantic",
-          "startSec": 21.46,
-          "endSec": 21.94,
-          "score": 1.0
-        },
-        {
-          "word": "Ocean",
-          "startSec": 21.94,
-          "endSec": 22.48,
-          "score": 0.94
-        },
-        {
-          "word": "with",
-          "startSec": 22.48,
-          "endSec": 23.14,
-          "score": 0.78
-        },
-        {
-          "word": "beautiful",
-          "startSec": 23.14,
-          "endSec": 23.8,
-          "score": 1.0
-        },
-        {
-          "word": "beaches",
-          "startSec": 23.8,
-          "endSec": 24.48,
-          "score": 1.0
+          "word": "colors,",
+          "start": 17.68,
+          "end": 18.14
         },
         {
           "word": "and",
-          "startSec": 24.48,
-          "endSec": 25.1,
-          "score": 0.98
+          "start": 18.48,
+          "end": 18.64
         },
         {
-          "word": "kind",
-          "startSec": 25.1,
-          "endSec": 25.44,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 25.44,
-          "endSec": 26.12,
-          "score": 1.0
-        },
-        {
-          "word": "Let's",
-          "startSec": 26.7,
-          "endSec": 27.42,
-          "score": 1.0
-        },
-        {
-          "word": "explore",
-          "startSec": 27.42,
-          "endSec": 27.9,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 27.9,
-          "endSec": 28.42,
-          "score": 0.99
+          "word": "life.",
+          "start": 18.64,
+          "end": 19.4
         }
       ]
     },
     {
       "id": 4,
-      "start": 28.22,
-      "end": 39.54,
-      "text": "amazing African city together. Part two, where is Dakar? Dakar is the capital city of Senegal.",
+      "start": 19.94,
+      "end": 26.56,
+      "text": "It is a city by the Atlantic Ocean with beautiful beaches and kind people.",
       "words": [
         {
-          "word": "amazing",
-          "startSec": 28.42,
-          "endSec": 28.86,
-          "score": 0.25
+          "word": "It",
+          "start": 19.94,
+          "end": 20.2
         },
         {
-          "word": "African",
-          "startSec": 28.86,
-          "endSec": 29.58,
-          "score": 0.95
+          "word": "is",
+          "start": 20.2,
+          "end": 20.38
+        },
+        {
+          "word": "a",
+          "start": 20.38,
+          "end": 20.62
         },
         {
           "word": "city",
-          "startSec": 29.58,
-          "endSec": 30.18,
-          "score": 0.82
+          "start": 20.62,
+          "end": 20.88
         },
         {
-          "word": "together.",
-          "startSec": 30.18,
-          "endSec": 30.78,
-          "score": 0.97
-        },
-        {
-          "word": "Part",
-          "startSec": 33.18,
-          "endSec": 33.46,
-          "score": 0.95
-        },
-        {
-          "word": "two,",
-          "startSec": 33.46,
-          "endSec": 33.92,
-          "score": 0.57
-        },
-        {
-          "word": "where",
-          "startSec": 34.52,
-          "endSec": 34.76,
-          "score": 0.69
-        },
-        {
-          "word": "is",
-          "startSec": 34.76,
-          "endSec": 35.08,
-          "score": 0.92
-        },
-        {
-          "word": "Dakar?",
-          "startSec": 35.08,
-          "endSec": 35.64,
-          "score": 0.98
-        },
-        {
-          "word": "Dakar",
-          "startSec": 36.67,
-          "endSec": 37.41,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 37.41,
-          "endSec": 37.67,
-          "score": 1.0
+          "word": "by",
+          "start": 20.88,
+          "end": 21.28
         },
         {
           "word": "the",
-          "startSec": 37.67,
-          "endSec": 37.85,
-          "score": 1.0
+          "start": 21.28,
+          "end": 21.52
         },
         {
-          "word": "capital",
-          "startSec": 37.85,
-          "endSec": 38.27,
-          "score": 0.97
+          "word": "Atlantic",
+          "start": 21.52,
+          "end": 22.02
         },
         {
-          "word": "city",
-          "startSec": 38.27,
-          "endSec": 38.77,
-          "score": 0.99
+          "word": "Ocean",
+          "start": 22.02,
+          "end": 22.62
         },
         {
-          "word": "of",
-          "startSec": 38.77,
-          "endSec": 39.01,
-          "score": 1.0
+          "word": "with",
+          "start": 22.62,
+          "end": 23.22
         },
         {
-          "word": "Senegal.",
-          "startSec": 39.01,
-          "endSec": 39.39,
-          "score": 0.99
+          "word": "beautiful",
+          "start": 23.22,
+          "end": 23.98
+        },
+        {
+          "word": "beaches",
+          "start": 23.98,
+          "end": 24.58
+        },
+        {
+          "word": "and",
+          "start": 24.58,
+          "end": 25.14
+        },
+        {
+          "word": "kind",
+          "start": 25.14,
+          "end": 25.6
+        },
+        {
+          "word": "people.",
+          "start": 25.6,
+          "end": 26.56
         }
       ]
     },
     {
       "id": 5,
-      "start": 39.95,
-      "end": 48.23,
-      "text": "It is in West Africa on the very edge of the continent. The city is surrounded by the ocean.",
+      "start": 26.94,
+      "end": 31.28,
+      "text": "Let's explore this amazing African city together.",
       "words": [
         {
-          "word": "It",
-          "startSec": 40.15,
-          "endSec": 40.39,
-          "score": 0.99
+          "word": "Let's",
+          "start": 26.94,
+          "end": 27.48
         },
         {
-          "word": "is",
-          "startSec": 40.39,
-          "endSec": 40.53,
-          "score": 1.0
+          "word": "explore",
+          "start": 27.48,
+          "end": 28.0
         },
         {
-          "word": "in",
-          "startSec": 40.53,
-          "endSec": 40.77,
-          "score": 1.0
+          "word": "this",
+          "start": 28.0,
+          "end": 28.38
         },
         {
-          "word": "West",
-          "startSec": 40.77,
-          "endSec": 41.01,
-          "score": 0.95
+          "word": "amazing",
+          "start": 28.38,
+          "end": 29.1
         },
         {
-          "word": "Africa",
-          "startSec": 41.01,
-          "endSec": 41.69,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 41.69,
-          "endSec": 42.43,
-          "score": 0.76
-        },
-        {
-          "word": "the",
-          "startSec": 42.43,
-          "endSec": 42.63,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 42.63,
-          "endSec": 43.11,
-          "score": 1.0
-        },
-        {
-          "word": "edge",
-          "startSec": 43.11,
-          "endSec": 43.67,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 43.67,
-          "endSec": 43.85,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 43.85,
-          "endSec": 44.03,
-          "score": 1.0
-        },
-        {
-          "word": "continent.",
-          "startSec": 44.03,
-          "endSec": 44.47,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 45.62,
-          "endSec": 45.86,
-          "score": 0.99
+          "word": "African",
+          "start": 29.1,
+          "end": 29.64
         },
         {
           "word": "city",
-          "startSec": 45.86,
-          "endSec": 46.22,
-          "score": 1.0
+          "start": 29.64,
+          "end": 30.24
         },
         {
-          "word": "is",
-          "startSec": 46.22,
-          "endSec": 46.48,
-          "score": 1.0
-        },
-        {
-          "word": "surrounded",
-          "startSec": 46.48,
-          "endSec": 46.9,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 46.9,
-          "endSec": 47.42,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 47.42,
-          "endSec": 47.62,
-          "score": 1.0
-        },
-        {
-          "word": "ocean.",
-          "startSec": 47.62,
-          "endSec": 48.08,
-          "score": 0.99
+          "word": "together.",
+          "start": 30.24,
+          "end": 31.28
         }
       ]
     },
     {
       "id": 6,
-      "start": 48.36,
-      "end": 56.41,
-      "text": "From Dakar, you can see the waves and the sunset every evening. It is one of the most important",
+      "start": 32.6,
+      "end": 36.08,
+      "text": "Part two, where is Dakar?",
       "words": [
         {
-          "word": "From",
-          "startSec": 48.56,
-          "endSec": 48.8,
-          "score": 0.99
+          "word": "Part",
+          "start": 32.6,
+          "end": 33.48
         },
         {
-          "word": "Dakar,",
-          "startSec": 48.8,
-          "endSec": 49.5,
-          "score": 1.0
+          "word": "two,",
+          "start": 33.48,
+          "end": 34.0
         },
         {
-          "word": "you",
-          "startSec": 49.76,
-          "endSec": 49.96,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 49.96,
-          "endSec": 50.16,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 50.16,
-          "endSec": 50.4,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 50.4,
-          "endSec": 50.6,
-          "score": 1.0
-        },
-        {
-          "word": "waves",
-          "startSec": 50.6,
-          "endSec": 50.98,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 50.98,
-          "endSec": 51.48,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 51.48,
-          "endSec": 51.64,
-          "score": 1.0
-        },
-        {
-          "word": "sunset",
-          "startSec": 51.64,
-          "endSec": 52.06,
-          "score": 0.95
-        },
-        {
-          "word": "every",
-          "startSec": 52.06,
-          "endSec": 52.86,
-          "score": 0.99
-        },
-        {
-          "word": "evening.",
-          "startSec": 52.86,
-          "endSec": 53.52,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 54.46,
-          "endSec": 54.78,
-          "score": 1.0
+          "word": "where",
+          "start": 34.54,
+          "end": 34.86
         },
         {
           "word": "is",
-          "startSec": 54.78,
-          "endSec": 54.96,
-          "score": 1.0
+          "start": 34.86,
+          "end": 35.12
         },
         {
-          "word": "one",
-          "startSec": 54.96,
-          "endSec": 55.14,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 55.14,
-          "endSec": 55.32,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 55.32,
-          "endSec": 55.46,
-          "score": 1.0
-        },
-        {
-          "word": "most",
-          "startSec": 55.46,
-          "endSec": 55.76,
-          "score": 1.0
-        },
-        {
-          "word": "important",
-          "startSec": 55.76,
-          "endSec": 56.26,
-          "score": 1.0
+          "word": "Dakar?",
+          "start": 35.12,
+          "end": 36.08
         }
       ]
     },
     {
       "id": 7,
-      "start": 56.06,
-      "end": 66.12,
-      "text": "cities in West Africa for culture, music, and trade. Part three, a short history of Dakar.",
+      "start": 36.62,
+      "end": 40.06,
+      "text": "Dakar is the capital city of Senegal.",
       "words": [
         {
-          "word": "cities",
-          "startSec": 56.26,
-          "endSec": 56.94,
-          "score": 0.0
+          "word": "Dakar",
+          "start": 36.62,
+          "end": 37.44
         },
         {
-          "word": "in",
-          "startSec": 56.94,
-          "endSec": 57.46,
-          "score": 0.97
+          "word": "is",
+          "start": 37.44,
+          "end": 37.72
         },
         {
-          "word": "West",
-          "startSec": 57.46,
-          "endSec": 57.66,
-          "score": 0.95
+          "word": "the",
+          "start": 37.72,
+          "end": 37.9
         },
         {
-          "word": "Africa",
-          "startSec": 57.66,
-          "endSec": 58.26,
-          "score": 1.0
+          "word": "capital",
+          "start": 37.9,
+          "end": 38.34
         },
         {
-          "word": "for",
-          "startSec": 58.26,
-          "endSec": 58.76,
-          "score": 0.99
-        },
-        {
-          "word": "culture,",
-          "startSec": 58.76,
-          "endSec": 59.12,
-          "score": 0.95
-        },
-        {
-          "word": "music,",
-          "startSec": 59.32,
-          "endSec": 60.24,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 60.64,
-          "endSec": 60.7,
-          "score": 1.0
-        },
-        {
-          "word": "trade.",
-          "startSec": 60.7,
-          "endSec": 61.02,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 62.77,
-          "endSec": 62.87,
-          "score": 0.96
-        },
-        {
-          "word": "three,",
-          "startSec": 62.87,
-          "endSec": 63.41,
-          "score": 0.39
-        },
-        {
-          "word": "a",
-          "startSec": 64.07,
-          "endSec": 64.25,
-          "score": 0.84
-        },
-        {
-          "word": "short",
-          "startSec": 64.25,
-          "endSec": 64.53,
-          "score": 0.97
-        },
-        {
-          "word": "history",
-          "startSec": 64.53,
-          "endSec": 64.95,
-          "score": 0.99
+          "word": "city",
+          "start": 38.34,
+          "end": 38.84
         },
         {
           "word": "of",
-          "startSec": 64.95,
-          "endSec": 65.33,
-          "score": 1.0
+          "start": 38.84,
+          "end": 39.06
         },
         {
-          "word": "Dakar.",
-          "startSec": 65.33,
-          "endSec": 65.97,
-          "score": 0.99
+          "word": "Senegal.",
+          "start": 39.06,
+          "end": 40.06
         }
       ]
     },
     {
       "id": 8,
-      "start": 66.96,
-      "end": 76.82,
-      "text": "Dakar has a long and deep history. Many years ago, it was a small fishing village. Later,",
+      "start": 40.32,
+      "end": 45.1,
+      "text": "It is in West Africa on the very edge of the continent.",
       "words": [
         {
-          "word": "Dakar",
-          "startSec": 67.16,
-          "endSec": 67.9,
-          "score": 1.0
+          "word": "It",
+          "start": 40.32,
+          "end": 40.42
         },
         {
-          "word": "has",
-          "startSec": 67.9,
-          "endSec": 68.2,
-          "score": 1.0
+          "word": "is",
+          "start": 40.42,
+          "end": 40.62
         },
         {
-          "word": "a",
-          "startSec": 68.2,
-          "endSec": 68.46,
-          "score": 0.99
+          "word": "in",
+          "start": 40.62,
+          "end": 40.8
         },
         {
-          "word": "long",
-          "startSec": 68.46,
-          "endSec": 68.82,
-          "score": 1.0
+          "word": "West",
+          "start": 40.8,
+          "end": 41.2
         },
         {
-          "word": "and",
-          "startSec": 68.82,
-          "endSec": 69.14,
-          "score": 0.98
+          "word": "Africa",
+          "start": 41.2,
+          "end": 41.76
         },
         {
-          "word": "deep",
-          "startSec": 69.14,
-          "endSec": 69.44,
-          "score": 1.0
+          "word": "on",
+          "start": 41.76,
+          "end": 42.5
         },
         {
-          "word": "history.",
-          "startSec": 69.44,
-          "endSec": 70.08,
-          "score": 1.0
+          "word": "the",
+          "start": 42.5,
+          "end": 42.7
         },
         {
-          "word": "Many",
-          "startSec": 71.11,
-          "endSec": 71.57,
-          "score": 0.99
+          "word": "very",
+          "start": 42.7,
+          "end": 43.16
         },
         {
-          "word": "years",
-          "startSec": 71.57,
-          "endSec": 72.01,
-          "score": 1.0
+          "word": "edge",
+          "start": 43.16,
+          "end": 43.66
         },
         {
-          "word": "ago,",
-          "startSec": 72.01,
-          "endSec": 72.51,
-          "score": 1.0
+          "word": "of",
+          "start": 43.66,
+          "end": 43.9
         },
         {
-          "word": "it",
-          "startSec": 73.09,
-          "endSec": 73.35,
-          "score": 1.0
+          "word": "the",
+          "start": 43.9,
+          "end": 44.06
         },
         {
-          "word": "was",
-          "startSec": 73.35,
-          "endSec": 73.51,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 73.51,
-          "endSec": 73.69,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 73.69,
-          "endSec": 74.03,
-          "score": 1.0
-        },
-        {
-          "word": "fishing",
-          "startSec": 74.03,
-          "endSec": 74.45,
-          "score": 0.99
-        },
-        {
-          "word": "village.",
-          "startSec": 74.45,
-          "endSec": 75.11,
-          "score": 1.0
-        },
-        {
-          "word": "Later,",
-          "startSec": 76.07,
-          "endSec": 76.67,
-          "score": 1.0
+          "word": "continent.",
+          "start": 44.06,
+          "end": 45.1
         }
       ]
     },
     {
       "id": 9,
-      "start": 76.83,
-      "end": 86.04,
-      "text": "it became an important port for ships from Europe. Sadly, during history, Dakar was also a place",
+      "start": 45.64,
+      "end": 48.39,
+      "text": "The city is surrounded by the ocean.",
       "words": [
         {
-          "word": "it",
-          "startSec": 77.03,
-          "endSec": 77.23,
-          "score": 1.0
+          "word": "The",
+          "start": 45.64,
+          "end": 45.9
         },
         {
-          "word": "became",
-          "startSec": 77.23,
-          "endSec": 77.63,
-          "score": 1.0
+          "word": "city",
+          "start": 45.9,
+          "end": 46.24
         },
         {
-          "word": "an",
-          "startSec": 77.63,
-          "endSec": 77.95,
-          "score": 1.0
+          "word": "is",
+          "start": 46.24,
+          "end": 46.54
         },
         {
-          "word": "important",
-          "startSec": 77.95,
-          "endSec": 78.45,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 46.54,
+          "end": 47.04
         },
         {
-          "word": "port",
-          "startSec": 78.45,
-          "endSec": 78.95,
-          "score": 0.99
+          "word": "by",
+          "start": 47.04,
+          "end": 47.46
         },
         {
-          "word": "for",
-          "startSec": 78.95,
-          "endSec": 79.23,
-          "score": 1.0
+          "word": "the",
+          "start": 47.46,
+          "end": 47.66
         },
         {
-          "word": "ships",
-          "startSec": 79.23,
-          "endSec": 79.53,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 79.53,
-          "endSec": 79.95,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 79.95,
-          "endSec": 80.25,
-          "score": 1.0
-        },
-        {
-          "word": "Sadly,",
-          "startSec": 81.79,
-          "endSec": 82.23,
-          "score": 0.99
-        },
-        {
-          "word": "during",
-          "startSec": 82.71,
-          "endSec": 83.03,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 83.03,
-          "endSec": 83.41,
-          "score": 0.99
-        },
-        {
-          "word": "Dakar",
-          "startSec": 84.03,
-          "endSec": 84.51,
-          "score": 1.0
-        },
-        {
-          "word": "was",
-          "startSec": 84.51,
-          "endSec": 84.75,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 84.75,
-          "endSec": 85.41,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 85.41,
-          "endSec": 85.59,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 85.59,
-          "endSec": 85.89,
-          "score": 1.0
+          "word": "ocean.",
+          "start": 47.66,
+          "end": 48.39
         }
       ]
     },
     {
       "id": 10,
-      "start": 85.69,
-      "end": 94.94,
-      "text": "connected to the slave trade. You can visit Gore Island, a small island near Dakar, to learn",
+      "start": 48.56,
+      "end": 53.88,
+      "text": "From Dakar, you can see the waves and the sunset every evening.",
       "words": [
         {
-          "word": "connected",
-          "startSec": 85.89,
-          "endSec": 86.47,
-          "score": 0.08
-        },
-        {
-          "word": "to",
-          "startSec": 86.47,
-          "endSec": 86.95,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 86.95,
-          "endSec": 87.09,
-          "score": 0.99
-        },
-        {
-          "word": "slave",
-          "startSec": 87.09,
-          "endSec": 87.35,
-          "score": 0.99
-        },
-        {
-          "word": "trade.",
-          "startSec": 87.35,
-          "endSec": 87.81,
-          "score": 0.99
-        },
-        {
-          "word": "You",
-          "startSec": 89.11,
-          "endSec": 89.27,
-          "score": 0.97
-        },
-        {
-          "word": "can",
-          "startSec": 89.27,
-          "endSec": 89.45,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 89.45,
-          "endSec": 89.89,
-          "score": 1.0
-        },
-        {
-          "word": "Gore",
-          "startSec": 89.89,
-          "endSec": 90.41,
-          "score": 0.45
-        },
-        {
-          "word": "Island,",
-          "startSec": 90.41,
-          "endSec": 91.25,
-          "score": 0.44
-        },
-        {
-          "word": "a",
-          "startSec": 91.69,
-          "endSec": 91.97,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 91.97,
-          "endSec": 92.35,
-          "score": 0.99
-        },
-        {
-          "word": "island",
-          "startSec": 92.35,
-          "endSec": 93.07,
-          "score": 0.97
-        },
-        {
-          "word": "near",
-          "startSec": 93.07,
-          "endSec": 93.41,
-          "score": 0.99
+          "word": "From",
+          "start": 48.56,
+          "end": 48.82
         },
         {
           "word": "Dakar,",
-          "startSec": 93.41,
-          "endSec": 94.07,
-          "score": 0.95
+          "start": 48.82,
+          "end": 49.52
         },
         {
-          "word": "to",
-          "startSec": 94.37,
-          "endSec": 94.53,
-          "score": 1.0
+          "word": "you",
+          "start": 49.8,
+          "end": 50.0
         },
         {
-          "word": "learn",
-          "startSec": 94.53,
-          "endSec": 94.79,
-          "score": 1.0
+          "word": "can",
+          "start": 50.0,
+          "end": 50.22
+        },
+        {
+          "word": "see",
+          "start": 50.22,
+          "end": 50.44
+        },
+        {
+          "word": "the",
+          "start": 50.44,
+          "end": 50.64
+        },
+        {
+          "word": "waves",
+          "start": 50.64,
+          "end": 51.08
+        },
+        {
+          "word": "and",
+          "start": 51.08,
+          "end": 51.52
+        },
+        {
+          "word": "the",
+          "start": 51.52,
+          "end": 51.72
+        },
+        {
+          "word": "sunset",
+          "start": 51.72,
+          "end": 52.22
+        },
+        {
+          "word": "every",
+          "start": 52.22,
+          "end": 52.92
+        },
+        {
+          "word": "evening.",
+          "start": 52.92,
+          "end": 53.88
         }
       ]
     },
     {
       "id": 11,
-      "start": 94.59,
-      "end": 105.33,
-      "text": "about this painful past. Today, the island is a symbol of peace, memory, and hope. Part four,",
+      "start": 54.38,
+      "end": 61.6,
+      "text": "It is one of the most important cities in West Africa for culture, music, and trade.",
       "words": [
         {
-          "word": "about",
-          "startSec": 94.79,
-          "endSec": 95.17,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 95.17,
-          "endSec": 95.49,
-          "score": 0.99
-        },
-        {
-          "word": "painful",
-          "startSec": 95.49,
-          "endSec": 95.93,
-          "score": 1.0
-        },
-        {
-          "word": "past.",
-          "startSec": 95.93,
-          "endSec": 96.67,
-          "score": 1.0
-        },
-        {
-          "word": "Today,",
-          "startSec": 97.84,
-          "endSec": 98.42,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 98.42,
-          "endSec": 98.88,
-          "score": 0.98
-        },
-        {
-          "word": "island",
-          "startSec": 98.88,
-          "endSec": 99.3,
-          "score": 0.97
+          "word": "It",
+          "start": 54.38,
+          "end": 54.82
         },
         {
           "word": "is",
-          "startSec": 99.3,
-          "endSec": 99.76,
-          "score": 1.0
+          "start": 54.82,
+          "end": 54.98
         },
         {
-          "word": "a",
-          "startSec": 99.76,
-          "endSec": 99.92,
-          "score": 0.98
-        },
-        {
-          "word": "symbol",
-          "startSec": 99.92,
-          "endSec": 100.38,
-          "score": 1.0
+          "word": "one",
+          "start": 54.98,
+          "end": 55.22
         },
         {
           "word": "of",
-          "startSec": 100.38,
-          "endSec": 100.68,
-          "score": 1.0
+          "start": 55.22,
+          "end": 55.4
         },
         {
-          "word": "peace,",
-          "startSec": 100.68,
-          "endSec": 101.12,
-          "score": 1.0
+          "word": "the",
+          "start": 55.4,
+          "end": 55.52
         },
         {
-          "word": "memory,",
-          "startSec": 101.82,
-          "endSec": 101.9,
-          "score": 1.0
+          "word": "most",
+          "start": 55.52,
+          "end": 55.86
+        },
+        {
+          "word": "important",
+          "start": 55.86,
+          "end": 56.36
+        },
+        {
+          "word": "cities",
+          "start": 56.36,
+          "end": 56.96
+        },
+        {
+          "word": "in",
+          "start": 56.96,
+          "end": 57.48
+        },
+        {
+          "word": "West",
+          "start": 57.48,
+          "end": 57.78
+        },
+        {
+          "word": "Africa",
+          "start": 57.78,
+          "end": 58.44
+        },
+        {
+          "word": "for",
+          "start": 58.44,
+          "end": 58.8
+        },
+        {
+          "word": "culture,",
+          "start": 58.8,
+          "end": 59.36
+        },
+        {
+          "word": "music,",
+          "start": 59.76,
+          "end": 60.3
         },
         {
           "word": "and",
-          "startSec": 102.58,
-          "endSec": 102.8,
-          "score": 1.0
+          "start": 60.54,
+          "end": 60.76
         },
         {
-          "word": "hope.",
-          "startSec": 102.8,
-          "endSec": 103.14,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 104.5,
-          "endSec": 104.72,
-          "score": 0.96
-        },
-        {
-          "word": "four,",
-          "startSec": 104.72,
-          "endSec": 105.18,
-          "score": 0.44
+          "word": "trade.",
+          "start": 60.76,
+          "end": 61.6
         }
       ]
     },
     {
       "id": 12,
-      "start": 105.72,
-      "end": 116.81,
-      "text": "the city and its streets. Dakar is big, busy, and full of energy. There are cars, buses, and many",
+      "start": 62.42,
+      "end": 66.48,
+      "text": "Part three, a short history of Dakar.",
       "words": [
         {
-          "word": "the",
-          "startSec": 105.92,
-          "endSec": 106.12,
-          "score": 0.83
+          "word": "Part",
+          "start": 62.42,
+          "end": 62.96
         },
         {
-          "word": "city",
-          "startSec": 106.12,
-          "endSec": 106.5,
-          "score": 0.95
+          "word": "three,",
+          "start": 62.96,
+          "end": 63.46
         },
         {
-          "word": "and",
-          "startSec": 106.5,
-          "endSec": 106.88,
-          "score": 0.96
+          "word": "a",
+          "start": 64.12,
+          "end": 64.3
         },
         {
-          "word": "its",
-          "startSec": 106.88,
-          "endSec": 107.02,
-          "score": 0.97
+          "word": "short",
+          "start": 64.3,
+          "end": 64.62
         },
         {
-          "word": "streets.",
-          "startSec": 107.02,
-          "endSec": 107.54,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar",
-          "startSec": 109.04,
-          "endSec": 109.68,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 109.68,
-          "endSec": 110.04,
-          "score": 1.0
-        },
-        {
-          "word": "big,",
-          "startSec": 110.04,
-          "endSec": 110.44,
-          "score": 0.99
-        },
-        {
-          "word": "busy,",
-          "startSec": 110.82,
-          "endSec": 111.14,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 111.76,
-          "endSec": 111.86,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 111.86,
-          "endSec": 112.16,
-          "score": 1.0
+          "word": "history",
+          "start": 64.62,
+          "end": 65.14
         },
         {
           "word": "of",
-          "startSec": 112.16,
-          "endSec": 112.4,
-          "score": 1.0
+          "start": 65.14,
+          "end": 65.38
         },
         {
-          "word": "energy.",
-          "startSec": 112.4,
-          "endSec": 112.7,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 113.86,
-          "endSec": 114.18,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 114.18,
-          "endSec": 114.38,
-          "score": 1.0
-        },
-        {
-          "word": "cars,",
-          "startSec": 114.38,
-          "endSec": 114.78,
-          "score": 1.0
-        },
-        {
-          "word": "buses,",
-          "startSec": 115.4,
-          "endSec": 115.62,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 115.86,
-          "endSec": 116.44,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 116.44,
-          "endSec": 116.66,
-          "score": 1.0
+          "word": "Dakar.",
+          "start": 65.38,
+          "end": 66.48
         }
       ]
     },
     {
       "id": 13,
-      "start": 116.46,
-      "end": 125.21,
-      "text": "people walking and talking everywhere. You can see colorful markets, small shops, and street food",
+      "start": 67.1,
+      "end": 70.58,
+      "text": "Dakar has a long and deep history.",
       "words": [
         {
-          "word": "people",
-          "startSec": 116.66,
-          "endSec": 117.28,
-          "score": 0.04
+          "word": "Dakar",
+          "start": 67.1,
+          "end": 67.94
         },
         {
-          "word": "walking",
-          "startSec": 117.28,
-          "endSec": 117.84,
-          "score": 0.98
+          "word": "has",
+          "start": 67.94,
+          "end": 68.3
         },
         {
-          "word": "and",
-          "startSec": 117.84,
-          "endSec": 118.16,
-          "score": 0.98
+          "word": "a",
+          "start": 68.3,
+          "end": 68.52
         },
         {
-          "word": "talking",
-          "startSec": 118.16,
-          "endSec": 118.48,
-          "score": 0.98
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 118.48,
-          "endSec": 119.14,
-          "score": 0.99
-        },
-        {
-          "word": "You",
-          "startSec": 120.3,
-          "endSec": 120.4,
-          "score": 0.97
-        },
-        {
-          "word": "can",
-          "startSec": 120.4,
-          "endSec": 120.58,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 120.58,
-          "endSec": 120.86,
-          "score": 1.0
-        },
-        {
-          "word": "colorful",
-          "startSec": 120.86,
-          "endSec": 121.34,
-          "score": 0.99
-        },
-        {
-          "word": "markets,",
-          "startSec": 121.34,
-          "endSec": 122.18,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 122.72,
-          "endSec": 123.14,
-          "score": 1.0
-        },
-        {
-          "word": "shops,",
-          "startSec": 123.14,
-          "endSec": 123.78,
-          "score": 1.0
+          "word": "long",
+          "start": 68.52,
+          "end": 68.92
         },
         {
           "word": "and",
-          "startSec": 124.24,
-          "endSec": 124.32,
-          "score": 0.99
+          "start": 68.92,
+          "end": 69.22
         },
         {
-          "word": "street",
-          "startSec": 124.32,
-          "endSec": 124.7,
-          "score": 1.0
+          "word": "deep",
+          "start": 69.22,
+          "end": 69.54
         },
         {
-          "word": "food",
-          "startSec": 124.7,
-          "endSec": 125.06,
-          "score": 0.99
+          "word": "history.",
+          "start": 69.54,
+          "end": 70.58
         }
       ]
     },
     {
       "id": 14,
-      "start": 124.86,
-      "end": 134.18,
-      "text": "stands. The buildings are a mix of modern and traditional styles. There are also quiet places,",
+      "start": 71.32,
+      "end": 75.56,
+      "text": "Many years ago, it was a small fishing village.",
       "words": [
         {
-          "word": "stands.",
-          "startSec": 125.06,
-          "endSec": 125.58,
-          "score": 0.92
+          "word": "Many",
+          "start": 71.32,
+          "end": 71.7
         },
         {
-          "word": "The",
-          "startSec": 126.73,
-          "endSec": 126.91,
-          "score": 0.99
+          "word": "years",
+          "start": 71.7,
+          "end": 72.08
         },
         {
-          "word": "buildings",
-          "startSec": 126.91,
-          "endSec": 127.41,
-          "score": 0.99
+          "word": "ago,",
+          "start": 72.08,
+          "end": 72.58
         },
         {
-          "word": "are",
-          "startSec": 127.41,
-          "endSec": 127.89,
-          "score": 1.0
+          "word": "it",
+          "start": 73.12,
+          "end": 73.38
+        },
+        {
+          "word": "was",
+          "start": 73.38,
+          "end": 73.58
         },
         {
           "word": "a",
-          "startSec": 127.89,
-          "endSec": 128.03,
-          "score": 0.99
+          "start": 73.58,
+          "end": 73.8
         },
         {
-          "word": "mix",
-          "startSec": 128.03,
-          "endSec": 128.43,
-          "score": 1.0
+          "word": "small",
+          "start": 73.8,
+          "end": 74.14
         },
         {
-          "word": "of",
-          "startSec": 128.43,
-          "endSec": 128.73,
-          "score": 1.0
+          "word": "fishing",
+          "start": 74.14,
+          "end": 74.64
         },
         {
-          "word": "modern",
-          "startSec": 128.73,
-          "endSec": 129.33,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 129.33,
-          "endSec": 129.63,
-          "score": 0.99
-        },
-        {
-          "word": "traditional",
-          "startSec": 129.63,
-          "endSec": 129.99,
-          "score": 1.0
-        },
-        {
-          "word": "styles.",
-          "startSec": 129.99,
-          "endSec": 131.07,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 132.01,
-          "endSec": 132.15,
-          "score": 0.9
-        },
-        {
-          "word": "are",
-          "startSec": 132.15,
-          "endSec": 132.35,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 132.35,
-          "endSec": 132.81,
-          "score": 1.0
-        },
-        {
-          "word": "quiet",
-          "startSec": 132.81,
-          "endSec": 133.19,
-          "score": 1.0
-        },
-        {
-          "word": "places,",
-          "startSec": 133.19,
-          "endSec": 134.03,
-          "score": 1.0
+          "word": "village.",
+          "start": 74.64,
+          "end": 75.56
         }
       ]
     },
     {
       "id": 15,
-      "start": 134.27,
-      "end": 143.62,
-      "text": "parks and beaches where you can rest and watch the ocean. Part five, the people of Dakar.",
+      "start": 76.18,
+      "end": 80.84,
+      "text": "Later, it became an important port for ships from Europe.",
       "words": [
         {
-          "word": "parks",
-          "startSec": 134.47,
-          "endSec": 134.79,
-          "score": 0.99
+          "word": "Later,",
+          "start": 76.18,
+          "end": 76.72
         },
         {
-          "word": "and",
-          "startSec": 134.79,
-          "endSec": 135.19,
-          "score": 0.94
+          "word": "it",
+          "start": 77.1,
+          "end": 77.26
         },
         {
-          "word": "beaches",
-          "startSec": 135.19,
-          "endSec": 135.45,
-          "score": 1.0
+          "word": "became",
+          "start": 77.26,
+          "end": 77.72
         },
         {
-          "word": "where",
-          "startSec": 135.45,
-          "endSec": 135.99,
-          "score": 0.92
+          "word": "an",
+          "start": 77.72,
+          "end": 78.0
         },
         {
-          "word": "you",
-          "startSec": 135.99,
-          "endSec": 136.21,
-          "score": 1.0
+          "word": "important",
+          "start": 78.0,
+          "end": 78.56
         },
         {
-          "word": "can",
-          "startSec": 136.21,
-          "endSec": 136.41,
-          "score": 1.0
+          "word": "port",
+          "start": 78.56,
+          "end": 78.98
         },
         {
-          "word": "rest",
-          "startSec": 136.41,
-          "endSec": 136.75,
-          "score": 0.99
+          "word": "for",
+          "start": 78.98,
+          "end": 79.3
         },
         {
-          "word": "and",
-          "startSec": 136.75,
-          "endSec": 137.19,
-          "score": 0.99
+          "word": "ships",
+          "start": 79.3,
+          "end": 79.68
         },
         {
-          "word": "watch",
-          "startSec": 137.19,
-          "endSec": 137.43,
-          "score": 1.0
+          "word": "from",
+          "start": 79.68,
+          "end": 80.02
         },
         {
-          "word": "the",
-          "startSec": 137.43,
-          "endSec": 137.83,
-          "score": 1.0
-        },
-        {
-          "word": "ocean.",
-          "startSec": 137.83,
-          "endSec": 138.13,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 140.33,
-          "endSec": 140.53,
-          "score": 0.69
-        },
-        {
-          "word": "five,",
-          "startSec": 140.53,
-          "endSec": 141.25,
-          "score": 0.13
-        },
-        {
-          "word": "the",
-          "startSec": 142.19,
-          "endSec": 142.21,
-          "score": 0.75
-        },
-        {
-          "word": "people",
-          "startSec": 142.21,
-          "endSec": 142.63,
-          "score": 0.64
-        },
-        {
-          "word": "of",
-          "startSec": 142.63,
-          "endSec": 142.91,
-          "score": 0.97
-        },
-        {
-          "word": "Dakar.",
-          "startSec": 142.91,
-          "endSec": 143.47,
-          "score": 0.98
+          "word": "Europe.",
+          "start": 80.02,
+          "end": 80.84
         }
       ]
     },
     {
       "id": 16,
-      "start": 144.24,
-      "end": 152.68,
-      "text": "People in Dakar are very friendly and welcoming. They speak French, which is the official language,",
+      "start": 81.54,
+      "end": 88.44,
+      "text": "Sadly, during history Dakar was also a place connected to the slave trade.",
       "words": [
         {
-          "word": "People",
-          "startSec": 144.44,
-          "endSec": 144.86,
-          "score": 0.31
+          "word": "Sadly,",
+          "start": 81.54,
+          "end": 82.38
         },
         {
-          "word": "in",
-          "startSec": 144.86,
-          "endSec": 145.28,
-          "score": 0.97
+          "word": "during",
+          "start": 83.04,
+          "end": 83.08
+        },
+        {
+          "word": "history",
+          "start": 83.08,
+          "end": 83.76
         },
         {
           "word": "Dakar",
-          "startSec": 145.28,
-          "endSec": 145.8,
-          "score": 0.99
+          "start": 83.76,
+          "end": 84.48
         },
         {
-          "word": "are",
-          "startSec": 145.8,
-          "endSec": 146.1,
-          "score": 0.99
+          "word": "was",
+          "start": 84.48,
+          "end": 84.82
         },
         {
-          "word": "very",
-          "startSec": 146.1,
-          "endSec": 146.4,
-          "score": 0.99
+          "word": "also",
+          "start": 84.82,
+          "end": 85.46
         },
         {
-          "word": "friendly",
-          "startSec": 146.4,
-          "endSec": 147.04,
-          "score": 0.99
+          "word": "a",
+          "start": 85.46,
+          "end": 85.64
         },
         {
-          "word": "and",
-          "startSec": 147.04,
-          "endSec": 147.5,
-          "score": 0.99
+          "word": "place",
+          "start": 85.64,
+          "end": 85.94
         },
         {
-          "word": "welcoming.",
-          "startSec": 147.5,
-          "endSec": 148.02,
-          "score": 1.0
+          "word": "connected",
+          "start": 85.94,
+          "end": 86.54
         },
         {
-          "word": "They",
-          "startSec": 149.23,
-          "endSec": 149.41,
-          "score": 0.98
-        },
-        {
-          "word": "speak",
-          "startSec": 149.41,
-          "endSec": 149.73,
-          "score": 1.0
-        },
-        {
-          "word": "French,",
-          "startSec": 149.73,
-          "endSec": 150.23,
-          "score": 0.99
-        },
-        {
-          "word": "which",
-          "startSec": 150.83,
-          "endSec": 150.93,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 150.93,
-          "endSec": 151.15,
-          "score": 1.0
+          "word": "to",
+          "start": 86.54,
+          "end": 86.98
         },
         {
           "word": "the",
-          "startSec": 151.15,
-          "endSec": 151.39,
-          "score": 1.0
+          "start": 86.98,
+          "end": 87.14
         },
         {
-          "word": "official",
-          "startSec": 151.39,
-          "endSec": 151.77,
-          "score": 0.99
+          "word": "slave",
+          "start": 87.14,
+          "end": 87.54
         },
         {
-          "word": "language,",
-          "startSec": 151.77,
-          "endSec": 152.53,
-          "score": 1.0
+          "word": "trade.",
+          "start": 87.54,
+          "end": 88.44
         }
       ]
     },
     {
       "id": 17,
-      "start": 153.19,
-      "end": 162.85,
-      "text": "and also Wolof, the most common local language. Family is very important in Senegal. People often",
+      "start": 88.82,
+      "end": 97.16,
+      "text": "You can visit Gore Island, a small island near Dakar, to learn about this painful past.",
       "words": [
         {
-          "word": "and",
-          "startSec": 153.39,
-          "endSec": 153.53,
-          "score": 0.99
+          "word": "You",
+          "start": 88.82,
+          "end": 89.3
         },
         {
-          "word": "also",
-          "startSec": 153.53,
-          "endSec": 153.89,
-          "score": 0.99
+          "word": "can",
+          "start": 89.3,
+          "end": 89.56
         },
         {
-          "word": "Wolof,",
-          "startSec": 153.89,
-          "endSec": 154.67,
-          "score": 0.82
+          "word": "visit",
+          "start": 89.56,
+          "end": 89.94
         },
         {
-          "word": "the",
-          "startSec": 155.03,
-          "endSec": 155.17,
-          "score": 1.0
+          "word": "Gore",
+          "start": 89.94,
+          "end": 90.58
         },
         {
-          "word": "most",
-          "startSec": 155.17,
-          "endSec": 155.45,
-          "score": 1.0
+          "word": "Island,",
+          "start": 90.58,
+          "end": 91.36
         },
         {
-          "word": "common",
-          "startSec": 155.45,
-          "endSec": 155.95,
-          "score": 1.0
+          "word": "a",
+          "start": 91.78,
+          "end": 92.02
         },
         {
-          "word": "local",
-          "startSec": 155.95,
-          "endSec": 156.27,
-          "score": 0.99
+          "word": "small",
+          "start": 92.02,
+          "end": 92.42
         },
         {
-          "word": "language.",
-          "startSec": 156.27,
-          "endSec": 157.07,
-          "score": 1.0
+          "word": "island",
+          "start": 92.42,
+          "end": 93.12
         },
         {
-          "word": "Family",
-          "startSec": 157.81,
-          "endSec": 158.25,
-          "score": 0.94
+          "word": "near",
+          "start": 93.12,
+          "end": 93.46
         },
         {
-          "word": "is",
-          "startSec": 158.25,
-          "endSec": 158.91,
-          "score": 1.0
+          "word": "Dakar,",
+          "start": 93.46,
+          "end": 94.24
         },
         {
-          "word": "very",
-          "startSec": 158.91,
-          "endSec": 159.23,
-          "score": 1.0
+          "word": "to",
+          "start": 94.38,
+          "end": 94.58
         },
         {
-          "word": "important",
-          "startSec": 159.23,
-          "endSec": 159.93,
-          "score": 1.0
+          "word": "learn",
+          "start": 94.58,
+          "end": 94.86
         },
         {
-          "word": "in",
-          "startSec": 159.93,
-          "endSec": 160.19,
-          "score": 0.99
+          "word": "about",
+          "start": 94.86,
+          "end": 95.2
         },
         {
-          "word": "Senegal.",
-          "startSec": 160.19,
-          "endSec": 160.59,
-          "score": 1.0
+          "word": "this",
+          "start": 95.2,
+          "end": 95.56
         },
         {
-          "word": "People",
-          "startSec": 161.7,
-          "endSec": 162.3,
-          "score": 0.99
+          "word": "painful",
+          "start": 95.56,
+          "end": 96.16
         },
         {
-          "word": "often",
-          "startSec": 162.3,
-          "endSec": 162.7,
-          "score": 1.0
+          "word": "past.",
+          "start": 96.16,
+          "end": 97.16
         }
       ]
     },
     {
       "id": 18,
-      "start": 162.5,
-      "end": 170.03,
-      "text": "live together in big family homes. When you meet someone, you smile and greet them kindly.",
+      "start": 98.04,
+      "end": 103.68,
+      "text": "Today, the island is a symbol of peace, memory, and hope.",
       "words": [
         {
-          "word": "live",
-          "startSec": 162.7,
-          "endSec": 163.22,
-          "score": 0.98
+          "word": "Today,",
+          "start": 98.04,
+          "end": 98.46
         },
         {
-          "word": "together",
-          "startSec": 163.22,
-          "endSec": 163.74,
-          "score": 0.99
+          "word": "the",
+          "start": 98.74,
+          "end": 98.92
         },
         {
-          "word": "in",
-          "startSec": 163.74,
-          "endSec": 164.08,
-          "score": 1.0
+          "word": "island",
+          "start": 98.92,
+          "end": 99.44
         },
         {
-          "word": "big",
-          "startSec": 164.08,
-          "endSec": 164.34,
-          "score": 0.99
+          "word": "is",
+          "start": 99.44,
+          "end": 99.8
         },
         {
-          "word": "family",
-          "startSec": 164.34,
-          "endSec": 164.7,
-          "score": 0.98
+          "word": "a",
+          "start": 99.8,
+          "end": 100.12
         },
         {
-          "word": "homes.",
-          "startSec": 164.7,
-          "endSec": 165.18,
-          "score": 1.0
+          "word": "symbol",
+          "start": 100.12,
+          "end": 100.42
         },
         {
-          "word": "When",
-          "startSec": 165.78,
-          "endSec": 165.82,
-          "score": 1.0
+          "word": "of",
+          "start": 100.42,
+          "end": 100.76
         },
         {
-          "word": "you",
-          "startSec": 165.82,
-          "endSec": 166.04,
-          "score": 1.0
+          "word": "peace,",
+          "start": 100.76,
+          "end": 101.28
         },
         {
-          "word": "meet",
-          "startSec": 166.04,
-          "endSec": 166.28,
-          "score": 1.0
-        },
-        {
-          "word": "someone,",
-          "startSec": 166.28,
-          "endSec": 166.86,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 167.54,
-          "endSec": 167.78,
-          "score": 1.0
-        },
-        {
-          "word": "smile",
-          "startSec": 167.78,
-          "endSec": 168.2,
-          "score": 1.0
+          "word": "memory,",
+          "start": 101.84,
+          "end": 102.18
         },
         {
           "word": "and",
-          "startSec": 168.2,
-          "endSec": 168.96,
-          "score": 0.98
+          "start": 102.76,
+          "end": 102.86
         },
         {
-          "word": "greet",
-          "startSec": 168.96,
-          "endSec": 169.22,
-          "score": 1.0
-        },
-        {
-          "word": "them",
-          "startSec": 169.22,
-          "endSec": 169.52,
-          "score": 1.0
-        },
-        {
-          "word": "kindly.",
-          "startSec": 169.52,
-          "endSec": 169.88,
-          "score": 0.98
+          "word": "hope.",
+          "start": 102.86,
+          "end": 103.68
         }
       ]
     },
     {
       "id": 19,
-      "start": 171.54,
-      "end": 175.67,
-      "text": "Hospitality is a big part of the Senegalese culture.",
+      "start": 104.1,
+      "end": 108.12,
+      "text": "Part four, the city and its streets.",
       "words": [
         {
-          "word": "Hospitality",
-          "startSec": 171.74,
-          "endSec": 172.64,
-          "score": 0.5
+          "word": "Part",
+          "start": 104.1,
+          "end": 104.76
         },
         {
-          "word": "is",
-          "startSec": 172.64,
-          "endSec": 173.0,
-          "score": 0.97
-        },
-        {
-          "word": "a",
-          "startSec": 173.0,
-          "endSec": 173.22,
-          "score": 0.94
-        },
-        {
-          "word": "big",
-          "startSec": 173.22,
-          "endSec": 173.58,
-          "score": 1.0
-        },
-        {
-          "word": "part",
-          "startSec": 173.58,
-          "endSec": 174.0,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 174.0,
-          "endSec": 174.24,
-          "score": 1.0
+          "word": "four,",
+          "start": 104.76,
+          "end": 105.3
         },
         {
           "word": "the",
-          "startSec": 174.24,
-          "endSec": 174.4,
-          "score": 0.96
+          "start": 106.02,
+          "end": 106.18
         },
         {
-          "word": "Senegalese",
-          "startSec": 174.4,
-          "endSec": 175.32,
-          "score": 0.96
+          "word": "city",
+          "start": 106.18,
+          "end": 106.6
         },
         {
-          "word": "culture.",
-          "startSec": 175.32,
-          "endSec": 175.52,
-          "score": 0.95
+          "word": "and",
+          "start": 106.6,
+          "end": 106.92
+        },
+        {
+          "word": "its",
+          "start": 106.92,
+          "end": 107.12
+        },
+        {
+          "word": "streets.",
+          "start": 107.12,
+          "end": 108.12
         }
       ]
     },
     {
       "id": 20,
-      "start": 177.89,
-      "end": 188.47,
-      "text": "Part six, music and dance. Music is the heart of Dakar. You can hear music everywhere in taxis,",
+      "start": 108.94,
+      "end": 113.3,
+      "text": "Dakar is big, busy, and full of energy.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 178.09,
-          "endSec": 178.41,
-          "score": 0.14
-        },
-        {
-          "word": "six,",
-          "startSec": 178.41,
-          "endSec": 178.91,
-          "score": 0.47
-        },
-        {
-          "word": "music",
-          "startSec": 179.67,
-          "endSec": 180.33,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 180.33,
-          "endSec": 180.77,
-          "score": 0.98
-        },
-        {
-          "word": "dance.",
-          "startSec": 180.77,
-          "endSec": 181.07,
-          "score": 1.0
-        },
-        {
-          "word": "Music",
-          "startSec": 181.85,
-          "endSec": 182.75,
-          "score": 0.97
+          "word": "Dakar",
+          "start": 108.94,
+          "end": 109.78
         },
         {
           "word": "is",
-          "startSec": 182.75,
-          "endSec": 183.05,
-          "score": 1.0
+          "start": 109.78,
+          "end": 110.08
         },
         {
-          "word": "the",
-          "startSec": 183.05,
-          "endSec": 183.23,
-          "score": 1.0
+          "word": "big,",
+          "start": 110.08,
+          "end": 110.54
         },
         {
-          "word": "heart",
-          "startSec": 183.23,
-          "endSec": 183.51,
-          "score": 1.0
+          "word": "busy,",
+          "start": 110.92,
+          "end": 111.4
+        },
+        {
+          "word": "and",
+          "start": 111.82,
+          "end": 111.92
+        },
+        {
+          "word": "full",
+          "start": 111.92,
+          "end": 112.26
         },
         {
           "word": "of",
-          "startSec": 183.51,
-          "endSec": 183.73,
-          "score": 1.0
+          "start": 112.26,
+          "end": 112.48
         },
         {
-          "word": "Dakar.",
-          "startSec": 183.73,
-          "endSec": 184.25,
-          "score": 0.97
-        },
-        {
-          "word": "You",
-          "startSec": 185.14,
-          "endSec": 185.62,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 185.62,
-          "endSec": 185.82,
-          "score": 1.0
-        },
-        {
-          "word": "hear",
-          "startSec": 185.82,
-          "endSec": 186.1,
-          "score": 1.0
-        },
-        {
-          "word": "music",
-          "startSec": 186.1,
-          "endSec": 186.56,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere",
-          "startSec": 186.56,
-          "endSec": 187.12,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 187.12,
-          "endSec": 187.84,
-          "score": 0.74
-        },
-        {
-          "word": "taxis,",
-          "startSec": 187.84,
-          "endSec": 188.32,
-          "score": 0.98
+          "word": "energy.",
+          "start": 112.48,
+          "end": 113.3
         }
       ]
     },
     {
       "id": 21,
-      "start": 188.7,
-      "end": 197.51,
-      "text": "cafes, markets, and on the beach. Traditional drums, singing, and dancing fill the air.",
+      "start": 113.92,
+      "end": 119.74,
+      "text": "There are cars, buses, and many people walking and talking everywhere.",
       "words": [
         {
-          "word": "cafes,",
-          "startSec": 188.9,
-          "endSec": 189.16,
-          "score": 0.9
+          "word": "There",
+          "start": 113.92,
+          "end": 114.24
         },
         {
-          "word": "markets,",
-          "startSec": 189.96,
-          "endSec": 190.42,
-          "score": 0.99
+          "word": "are",
+          "start": 114.24,
+          "end": 114.42
         },
         {
-          "word": "and",
-          "startSec": 191.12,
-          "endSec": 191.2,
-          "score": 1.0
+          "word": "cars,",
+          "start": 114.42,
+          "end": 114.96
         },
         {
-          "word": "on",
-          "startSec": 191.2,
-          "endSec": 191.4,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 191.4,
-          "endSec": 191.58,
-          "score": 1.0
-        },
-        {
-          "word": "beach.",
-          "startSec": 191.58,
-          "endSec": 191.82,
-          "score": 1.0
-        },
-        {
-          "word": "Traditional",
-          "startSec": 193.02,
-          "endSec": 193.7,
-          "score": 0.96
-        },
-        {
-          "word": "drums,",
-          "startSec": 193.7,
-          "endSec": 194.22,
-          "score": 0.99
-        },
-        {
-          "word": "singing,",
-          "startSec": 194.72,
-          "endSec": 195.14,
-          "score": 1.0
+          "word": "buses,",
+          "start": 115.52,
+          "end": 115.94
         },
         {
           "word": "and",
-          "startSec": 195.66,
-          "endSec": 195.74,
-          "score": 1.0
+          "start": 116.32,
+          "end": 116.46
         },
         {
-          "word": "dancing",
-          "startSec": 195.74,
-          "endSec": 196.32,
-          "score": 1.0
+          "word": "many",
+          "start": 116.46,
+          "end": 116.82
         },
         {
-          "word": "fill",
-          "startSec": 196.32,
-          "endSec": 196.76,
-          "score": 0.9
+          "word": "people",
+          "start": 116.82,
+          "end": 117.26
         },
         {
-          "word": "the",
-          "startSec": 196.76,
-          "endSec": 197.04,
-          "score": 0.99
+          "word": "walking",
+          "start": 117.26,
+          "end": 117.86
         },
         {
-          "word": "air.",
-          "startSec": 197.04,
-          "endSec": 197.36,
-          "score": 1.0
+          "word": "and",
+          "start": 117.86,
+          "end": 118.22
+        },
+        {
+          "word": "talking",
+          "start": 118.22,
+          "end": 118.62
+        },
+        {
+          "word": "everywhere.",
+          "start": 118.62,
+          "end": 119.74
         }
       ]
     },
     {
       "id": 22,
-      "start": 197.16,
-      "end": 204.79,
-      "text": "A popular music style in Dakar is mbalax, created by the famous singer,",
+      "start": 120.16,
+      "end": 126.02,
+      "text": "You can see colorful markets, small shops, and street food stands.",
       "words": [
         {
-          "word": "A",
-          "startSec": 197.36,
-          "endSec": 198.12,
-          "score": 0.74
+          "word": "You",
+          "start": 120.16,
+          "end": 120.44
         },
         {
-          "word": "popular",
-          "startSec": 198.12,
-          "endSec": 198.86,
-          "score": 1.0
+          "word": "can",
+          "start": 120.44,
+          "end": 120.66
         },
         {
-          "word": "music",
-          "startSec": 198.86,
-          "endSec": 199.32,
-          "score": 0.99
+          "word": "see",
+          "start": 120.66,
+          "end": 120.92
         },
         {
-          "word": "style",
-          "startSec": 199.32,
-          "endSec": 200.06,
-          "score": 0.99
+          "word": "colorful",
+          "start": 120.92,
+          "end": 121.46
         },
         {
-          "word": "in",
-          "startSec": 200.06,
-          "endSec": 200.24,
-          "score": 0.95
+          "word": "markets,",
+          "start": 121.46,
+          "end": 122.22
         },
         {
-          "word": "Dakar",
-          "startSec": 200.24,
-          "endSec": 200.78,
-          "score": 0.98
+          "word": "small",
+          "start": 122.84,
+          "end": 123.28
         },
         {
-          "word": "is",
-          "startSec": 200.78,
-          "endSec": 201.24,
-          "score": 0.97
+          "word": "shops,",
+          "start": 123.28,
+          "end": 123.94
         },
         {
-          "word": "mbalax,",
-          "startSec": 201.24,
-          "endSec": 201.9,
-          "score": 0.57
+          "word": "and",
+          "start": 124.24,
+          "end": 124.38
         },
         {
-          "word": "created",
-          "startSec": 201.92,
-          "endSec": 203.12,
-          "score": 0.98
+          "word": "street",
+          "start": 124.38,
+          "end": 124.76
         },
         {
-          "word": "by",
-          "startSec": 203.12,
-          "endSec": 203.44,
-          "score": 1.0
+          "word": "food",
+          "start": 124.76,
+          "end": 125.14
         },
         {
-          "word": "the",
-          "startSec": 203.44,
-          "endSec": 203.62,
-          "score": 0.98
-        },
-        {
-          "word": "famous",
-          "startSec": 203.62,
-          "endSec": 204.06,
-          "score": 1.0
-        },
-        {
-          "word": "singer,",
-          "startSec": 204.06,
-          "endSec": 204.64,
-          "score": 1.0
+          "word": "stands.",
+          "start": 125.14,
+          "end": 126.02
         }
       ]
     },
     {
       "id": 23,
-      "start": 204.78,
-      "end": 214.15,
-      "text": "Yuson Andor. People love to dance to the rhythm of the drums. At night, many places in Dakar come",
+      "start": 126.72,
+      "end": 131.5,
+      "text": "The buildings are a mix of modern and traditional styles.",
       "words": [
         {
-          "word": "Yuson",
-          "startSec": 204.98,
-          "endSec": 205.38,
-          "score": 0.35
+          "word": "The",
+          "start": 126.72,
+          "end": 126.96
         },
         {
-          "word": "Andor.",
-          "startSec": 205.38,
-          "endSec": 205.88,
-          "score": 0.63
+          "word": "buildings",
+          "start": 126.96,
+          "end": 127.46
         },
         {
-          "word": "People",
-          "startSec": 206.6,
-          "endSec": 207.14,
-          "score": 0.99
+          "word": "are",
+          "start": 127.46,
+          "end": 127.96
         },
         {
-          "word": "love",
-          "startSec": 207.14,
-          "endSec": 207.7,
-          "score": 0.99
+          "word": "a",
+          "start": 127.96,
+          "end": 128.06
         },
         {
-          "word": "to",
-          "startSec": 207.7,
-          "endSec": 208.02,
-          "score": 1.0
-        },
-        {
-          "word": "dance",
-          "startSec": 208.02,
-          "endSec": 208.4,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 208.4,
-          "endSec": 208.8,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 208.8,
-          "endSec": 208.94,
-          "score": 1.0
-        },
-        {
-          "word": "rhythm",
-          "startSec": 208.94,
-          "endSec": 209.3,
-          "score": 1.0
+          "word": "mix",
+          "start": 128.06,
+          "end": 128.44
         },
         {
           "word": "of",
-          "startSec": 209.3,
-          "endSec": 209.52,
-          "score": 1.0
+          "start": 128.44,
+          "end": 128.8
         },
         {
-          "word": "the",
-          "startSec": 209.52,
-          "endSec": 209.68,
-          "score": 0.99
+          "word": "modern",
+          "start": 128.8,
+          "end": 129.38
         },
         {
-          "word": "drums.",
-          "startSec": 209.68,
-          "endSec": 209.98,
-          "score": 1.0
+          "word": "and",
+          "start": 129.38,
+          "end": 129.7
         },
         {
-          "word": "At",
-          "startSec": 211.06,
-          "endSec": 211.28,
-          "score": 0.99
+          "word": "traditional",
+          "start": 129.7,
+          "end": 130.24
         },
         {
-          "word": "night,",
-          "startSec": 211.28,
-          "endSec": 211.64,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 212.1,
-          "endSec": 212.2,
-          "score": 0.98
-        },
-        {
-          "word": "places",
-          "startSec": 212.2,
-          "endSec": 212.66,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 212.66,
-          "endSec": 213.12,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar",
-          "startSec": 213.12,
-          "endSec": 213.64,
-          "score": 1.0
-        },
-        {
-          "word": "come",
-          "startSec": 213.64,
-          "endSec": 214.0,
-          "score": 0.99
+          "word": "styles.",
+          "start": 130.24,
+          "end": 131.5
         }
       ]
     },
     {
       "id": 24,
-      "start": 213.8,
-      "end": 224.73,
-      "text": "alive with music and joy. Part seven, food in Dakar. Food in Dakar is delicious and full of flavor.",
+      "start": 131.98,
+      "end": 138.72,
+      "text": "There are also quiet places, parks, and beaches where you can rest and watch the ocean.",
       "words": [
         {
-          "word": "alive",
-          "startSec": 214.0,
-          "endSec": 214.4,
-          "score": 1.0
+          "word": "There",
+          "start": 131.98,
+          "end": 132.2
         },
         {
-          "word": "with",
-          "startSec": 214.4,
-          "endSec": 214.82,
-          "score": 0.99
+          "word": "are",
+          "start": 132.2,
+          "end": 132.42
         },
         {
-          "word": "music",
-          "startSec": 214.82,
-          "endSec": 215.26,
-          "score": 1.0
+          "word": "also",
+          "start": 132.42,
+          "end": 132.82
         },
         {
-          "word": "and",
-          "startSec": 215.26,
-          "endSec": 215.62,
-          "score": 0.97
+          "word": "quiet",
+          "start": 132.82,
+          "end": 133.38
         },
         {
-          "word": "joy.",
-          "startSec": 215.62,
-          "endSec": 215.9,
-          "score": 1.0
+          "word": "places,",
+          "start": 133.38,
+          "end": 134.02
         },
         {
-          "word": "Part",
-          "startSec": 217.06,
-          "endSec": 217.06,
-          "score": 0.7
-        },
-        {
-          "word": "seven,",
-          "startSec": 217.06,
-          "endSec": 217.56,
-          "score": 0.36
-        },
-        {
-          "word": "food",
-          "startSec": 217.56,
-          "endSec": 218.02,
-          "score": 0.75
-        },
-        {
-          "word": "in",
-          "startSec": 218.02,
-          "endSec": 218.32,
-          "score": 0.99
-        },
-        {
-          "word": "Dakar.",
-          "startSec": 218.32,
-          "endSec": 218.9,
-          "score": 1.0
-        },
-        {
-          "word": "Food",
-          "startSec": 219.3,
-          "endSec": 219.54,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 221.3,
-          "endSec": 221.48,
-          "score": 0.98
-        },
-        {
-          "word": "Dakar",
-          "startSec": 221.48,
-          "endSec": 222.14,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 222.14,
-          "endSec": 222.42,
-          "score": 0.99
-        },
-        {
-          "word": "delicious",
-          "startSec": 222.42,
-          "endSec": 222.96,
-          "score": 1.0
+          "word": "parks,",
+          "start": 134.6,
+          "end": 134.92
         },
         {
           "word": "and",
-          "startSec": 222.96,
-          "endSec": 223.58,
-          "score": 0.99
+          "start": 135.22,
+          "end": 135.24
         },
         {
-          "word": "full",
-          "startSec": 223.58,
-          "endSec": 223.94,
-          "score": 1.0
+          "word": "beaches",
+          "start": 135.24,
+          "end": 135.64
         },
         {
-          "word": "of",
-          "startSec": 223.94,
-          "endSec": 224.22,
-          "score": 1.0
+          "word": "where",
+          "start": 135.64,
+          "end": 136.04
         },
         {
-          "word": "flavor.",
-          "startSec": 224.22,
-          "endSec": 224.58,
-          "score": 0.98
+          "word": "you",
+          "start": 136.04,
+          "end": 136.22
+        },
+        {
+          "word": "can",
+          "start": 136.22,
+          "end": 136.46
+        },
+        {
+          "word": "rest",
+          "start": 136.46,
+          "end": 136.96
+        },
+        {
+          "word": "and",
+          "start": 136.96,
+          "end": 137.24
+        },
+        {
+          "word": "watch",
+          "start": 137.24,
+          "end": 137.6
+        },
+        {
+          "word": "the",
+          "start": 137.6,
+          "end": 137.9
+        },
+        {
+          "word": "ocean.",
+          "start": 137.9,
+          "end": 138.72
         }
       ]
     },
     {
       "id": 25,
-      "start": 225.02,
-      "end": 235.75,
-      "text": "The national dish is tia budyan, rice with fish, vegetables, and tomato sauce. It smells wonderful",
+      "start": 140.3,
+      "end": 143.92,
+      "text": "Part five, the people of Dakar.",
       "words": [
         {
-          "word": "The",
-          "startSec": 225.22,
-          "endSec": 225.92,
-          "score": 0.29
+          "word": "Part",
+          "start": 140.3,
+          "end": 140.64
         },
         {
-          "word": "national",
-          "startSec": 225.92,
-          "endSec": 226.26,
-          "score": 0.6
+          "word": "five,",
+          "start": 140.64,
+          "end": 141.24
         },
         {
-          "word": "dish",
-          "startSec": 226.26,
-          "endSec": 227.02,
-          "score": 1.0
+          "word": "the",
+          "start": 142.14,
+          "end": 142.26
         },
         {
-          "word": "is",
-          "startSec": 227.02,
-          "endSec": 227.44,
-          "score": 0.99
+          "word": "people",
+          "start": 142.26,
+          "end": 142.66
         },
         {
-          "word": "tia",
-          "startSec": 227.44,
-          "endSec": 227.92,
-          "score": 0.38
+          "word": "of",
+          "start": 142.66,
+          "end": 142.98
         },
         {
-          "word": "budyan,",
-          "startSec": 227.92,
-          "endSec": 228.5,
-          "score": 0.54
-        },
-        {
-          "word": "rice",
-          "startSec": 229.02,
-          "endSec": 229.68,
-          "score": 0.94
-        },
-        {
-          "word": "with",
-          "startSec": 229.68,
-          "endSec": 230.1,
-          "score": 1.0
-        },
-        {
-          "word": "fish,",
-          "startSec": 230.1,
-          "endSec": 230.56,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables,",
-          "startSec": 231.12,
-          "endSec": 231.46,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 232.3,
-          "endSec": 232.34,
-          "score": 1.0
-        },
-        {
-          "word": "tomato",
-          "startSec": 232.34,
-          "endSec": 232.72,
-          "score": 0.99
-        },
-        {
-          "word": "sauce.",
-          "startSec": 232.72,
-          "endSec": 233.18,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 234.18,
-          "endSec": 234.66,
-          "score": 0.99
-        },
-        {
-          "word": "smells",
-          "startSec": 234.66,
-          "endSec": 234.96,
-          "score": 1.0
-        },
-        {
-          "word": "wonderful",
-          "startSec": 234.96,
-          "endSec": 235.6,
-          "score": 1.0
+          "word": "Dakar.",
+          "start": 142.98,
+          "end": 143.92
         }
       ]
     },
     {
       "id": 26,
-      "start": 235.4,
-      "end": 245.22,
-      "text": "and tastes amazing. People also enjoy yasas, a dish made with chicken, onions, and lemon.",
+      "start": 144.3,
+      "end": 148.54,
+      "text": "People in Dakar are very friendly and welcoming.",
       "words": [
         {
-          "word": "and",
-          "startSec": 235.6,
-          "endSec": 236.22,
-          "score": 0.96
-        },
-        {
-          "word": "tastes",
-          "startSec": 236.22,
-          "endSec": 236.48,
-          "score": 0.98
-        },
-        {
-          "word": "amazing.",
-          "startSec": 236.48,
-          "endSec": 236.86,
-          "score": 1.0
-        },
-        {
           "word": "People",
-          "startSec": 238.79,
-          "endSec": 239.15,
-          "score": 0.99
+          "start": 144.3,
+          "end": 145.06
         },
         {
-          "word": "also",
-          "startSec": 239.15,
-          "endSec": 239.49,
-          "score": 1.0
+          "word": "in",
+          "start": 145.06,
+          "end": 145.34
         },
         {
-          "word": "enjoy",
-          "startSec": 239.49,
-          "endSec": 240.07,
-          "score": 1.0
+          "word": "Dakar",
+          "start": 145.34,
+          "end": 145.82
         },
         {
-          "word": "yasas,",
-          "startSec": 240.07,
-          "endSec": 240.83,
-          "score": 0.48
+          "word": "are",
+          "start": 145.82,
+          "end": 146.16
         },
         {
-          "word": "a",
-          "startSec": 241.25,
-          "endSec": 241.71,
-          "score": 0.99
+          "word": "very",
+          "start": 146.16,
+          "end": 146.56
         },
         {
-          "word": "dish",
-          "startSec": 241.71,
-          "endSec": 241.99,
-          "score": 1.0
-        },
-        {
-          "word": "made",
-          "startSec": 241.99,
-          "endSec": 242.37,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 242.37,
-          "endSec": 242.65,
-          "score": 0.99
-        },
-        {
-          "word": "chicken,",
-          "startSec": 242.65,
-          "endSec": 243.07,
-          "score": 0.99
-        },
-        {
-          "word": "onions,",
-          "startSec": 243.67,
-          "endSec": 244.03,
-          "score": 0.99
+          "word": "friendly",
+          "start": 146.56,
+          "end": 147.16
         },
         {
           "word": "and",
-          "startSec": 244.03,
-          "endSec": 244.71,
-          "score": 1.0
+          "start": 147.16,
+          "end": 147.58
         },
         {
-          "word": "lemon.",
-          "startSec": 244.71,
-          "endSec": 245.07,
-          "score": 0.96
+          "word": "welcoming.",
+          "start": 147.58,
+          "end": 148.54
         }
       ]
     },
     {
       "id": 27,
-      "start": 246.3,
-      "end": 254.21,
-      "text": "For dessert, you can try sweet fried dough or tropical fruits like mango and papaya.",
+      "start": 149.08,
+      "end": 157.52,
+      "text": "They speak French, which is the official language, and also Wolof, the most common local language.",
       "words": [
         {
-          "word": "For",
-          "startSec": 246.5,
-          "endSec": 246.88,
-          "score": 0.99
+          "word": "They",
+          "start": 149.08,
+          "end": 149.5
         },
         {
-          "word": "dessert,",
-          "startSec": 246.88,
-          "endSec": 247.24,
-          "score": 1.0
+          "word": "speak",
+          "start": 149.5,
+          "end": 149.94
         },
         {
-          "word": "you",
-          "startSec": 247.98,
-          "endSec": 248.0,
-          "score": 1.0
+          "word": "French,",
+          "start": 149.94,
+          "end": 150.46
         },
         {
-          "word": "can",
-          "startSec": 248.0,
-          "endSec": 248.18,
-          "score": 1.0
+          "word": "which",
+          "start": 150.66,
+          "end": 151.04
         },
         {
-          "word": "try",
-          "startSec": 248.18,
-          "endSec": 248.48,
-          "score": 1.0
+          "word": "is",
+          "start": 151.04,
+          "end": 151.24
         },
         {
-          "word": "sweet",
-          "startSec": 248.48,
-          "endSec": 248.9,
-          "score": 0.79
+          "word": "the",
+          "start": 151.24,
+          "end": 151.46
         },
         {
-          "word": "fried",
-          "startSec": 248.9,
-          "endSec": 249.32,
-          "score": 0.9
+          "word": "official",
+          "start": 151.46,
+          "end": 151.96
         },
         {
-          "word": "dough",
-          "startSec": 249.32,
-          "endSec": 249.86,
-          "score": 0.98
-        },
-        {
-          "word": "or",
-          "startSec": 249.86,
-          "endSec": 250.68,
-          "score": 0.85
-        },
-        {
-          "word": "tropical",
-          "startSec": 250.68,
-          "endSec": 251.18,
-          "score": 1.0
-        },
-        {
-          "word": "fruits",
-          "startSec": 251.18,
-          "endSec": 251.74,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 251.74,
-          "endSec": 252.34,
-          "score": 0.88
-        },
-        {
-          "word": "mango",
-          "startSec": 252.34,
-          "endSec": 252.66,
-          "score": 0.98
+          "word": "language,",
+          "start": 151.96,
+          "end": 152.56
         },
         {
           "word": "and",
-          "startSec": 252.66,
-          "endSec": 253.46,
-          "score": 0.99
+          "start": 153.26,
+          "end": 153.6
         },
         {
-          "word": "papaya.",
-          "startSec": 253.46,
-          "endSec": 254.06,
-          "score": 0.98
+          "word": "also",
+          "start": 153.6,
+          "end": 154.08
+        },
+        {
+          "word": "Wolof,",
+          "start": 154.08,
+          "end": 154.74
+        },
+        {
+          "word": "the",
+          "start": 154.74,
+          "end": 155.22
+        },
+        {
+          "word": "most",
+          "start": 155.22,
+          "end": 155.5
+        },
+        {
+          "word": "common",
+          "start": 155.5,
+          "end": 155.98
+        },
+        {
+          "word": "local",
+          "start": 155.98,
+          "end": 156.42
+        },
+        {
+          "word": "language.",
+          "start": 156.42,
+          "end": 157.52
         }
       ]
     },
     {
       "id": 28,
-      "start": 254.87,
-      "end": 262.5,
-      "text": "And of course, people love to drink a taya, a strong and sweet green tea shared with friends.",
+      "start": 157.84,
+      "end": 161.18,
+      "text": "Family is very important in Senegal.",
       "words": [
         {
-          "word": "And",
-          "startSec": 255.07,
-          "endSec": 255.49,
-          "score": 0.45
+          "word": "Family",
+          "start": 157.84,
+          "end": 158.48
         },
         {
-          "word": "of",
-          "startSec": 255.49,
-          "endSec": 255.71,
-          "score": 0.77
+          "word": "is",
+          "start": 158.48,
+          "end": 159.02
         },
         {
-          "word": "course,",
-          "startSec": 255.71,
-          "endSec": 255.97,
-          "score": 1.0
+          "word": "very",
+          "start": 159.02,
+          "end": 159.38
         },
         {
-          "word": "people",
-          "startSec": 256.41,
-          "endSec": 256.73,
-          "score": 1.0
+          "word": "important",
+          "start": 159.38,
+          "end": 160.0
         },
         {
-          "word": "love",
-          "startSec": 256.73,
-          "endSec": 257.11,
-          "score": 0.98
+          "word": "in",
+          "start": 160.0,
+          "end": 160.3
         },
         {
-          "word": "to",
-          "startSec": 257.11,
-          "endSec": 257.31,
-          "score": 1.0
-        },
-        {
-          "word": "drink",
-          "startSec": 257.31,
-          "endSec": 257.63,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 257.63,
-          "endSec": 257.85,
-          "score": 0.53
-        },
-        {
-          "word": "taya,",
-          "startSec": 257.85,
-          "endSec": 258.39,
-          "score": 0.42
-        },
-        {
-          "word": "a",
-          "startSec": 258.99,
-          "endSec": 259.13,
-          "score": 0.9
-        },
-        {
-          "word": "strong",
-          "startSec": 259.13,
-          "endSec": 259.63,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 259.63,
-          "endSec": 259.97,
-          "score": 0.97
-        },
-        {
-          "word": "sweet",
-          "startSec": 259.97,
-          "endSec": 260.39,
-          "score": 1.0
-        },
-        {
-          "word": "green",
-          "startSec": 260.39,
-          "endSec": 260.73,
-          "score": 0.99
-        },
-        {
-          "word": "tea",
-          "startSec": 260.73,
-          "endSec": 261.17,
-          "score": 0.99
-        },
-        {
-          "word": "shared",
-          "startSec": 261.17,
-          "endSec": 261.69,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 261.69,
-          "endSec": 261.97,
-          "score": 1.0
-        },
-        {
-          "word": "friends.",
-          "startSec": 261.97,
-          "endSec": 262.35,
-          "score": 1.0
+          "word": "Senegal.",
+          "start": 160.3,
+          "end": 161.18
         }
       ]
     },
     {
       "id": 29,
-      "start": 263.62,
-      "end": 271.77,
-      "text": "Part eight, markets and handicrafts. The markets in Dakar are full of life and color.",
+      "start": 161.78,
+      "end": 165.54,
+      "text": "People often live together in big family homes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 263.82,
-          "endSec": 263.82,
-          "score": 0.61
+          "word": "People",
+          "start": 161.78,
+          "end": 162.36
         },
         {
-          "word": "eight,",
-          "startSec": 263.82,
-          "endSec": 264.26,
-          "score": 0.56
+          "word": "often",
+          "start": 162.36,
+          "end": 162.96
         },
         {
-          "word": "markets",
-          "startSec": 264.72,
-          "endSec": 265.14,
-          "score": 0.76
+          "word": "live",
+          "start": 162.96,
+          "end": 163.26
         },
         {
-          "word": "and",
-          "startSec": 265.14,
-          "endSec": 265.88,
-          "score": 0.9
-        },
-        {
-          "word": "handicrafts.",
-          "startSec": 265.88,
-          "endSec": 267.12,
-          "score": 0.98
-        },
-        {
-          "word": "The",
-          "startSec": 268.1,
-          "endSec": 268.32,
-          "score": 0.99
-        },
-        {
-          "word": "markets",
-          "startSec": 268.32,
-          "endSec": 268.74,
-          "score": 0.98
+          "word": "together",
+          "start": 163.26,
+          "end": 163.74
         },
         {
           "word": "in",
-          "startSec": 268.74,
-          "endSec": 269.1,
-          "score": 0.83
+          "start": 163.74,
+          "end": 164.1
         },
         {
-          "word": "Dakar",
-          "startSec": 269.1,
-          "endSec": 269.64,
-          "score": 0.57
+          "word": "big",
+          "start": 164.1,
+          "end": 164.4
         },
         {
-          "word": "are",
-          "startSec": 269.64,
-          "endSec": 270.04,
-          "score": 0.99
+          "word": "family",
+          "start": 164.4,
+          "end": 164.84
         },
         {
-          "word": "full",
-          "startSec": 270.04,
-          "endSec": 270.38,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 270.38,
-          "endSec": 270.66,
-          "score": 0.99
-        },
-        {
-          "word": "life",
-          "startSec": 270.66,
-          "endSec": 271.0,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 271.0,
-          "endSec": 271.28,
-          "score": 0.94
-        },
-        {
-          "word": "color.",
-          "startSec": 271.28,
-          "endSec": 271.62,
-          "score": 0.97
+          "word": "homes.",
+          "start": 164.84,
+          "end": 165.54
         }
       ]
     },
     {
       "id": 30,
-      "start": 272.36,
-      "end": 281.14,
-      "text": "You can buy handmade jewelry, wood carvings, and bright fabrics. Local artists paint",
+      "start": 165.64,
+      "end": 170.54,
+      "text": "When you meet someone, you smile and greet them kindly.",
       "words": [
         {
-          "word": "You",
-          "startSec": 272.56,
-          "endSec": 272.8,
-          "score": 1.0
+          "word": "When",
+          "start": 165.64,
+          "end": 165.86
         },
         {
-          "word": "can",
-          "startSec": 272.8,
-          "endSec": 273.0,
-          "score": 1.0
+          "word": "you",
+          "start": 165.86,
+          "end": 166.08
         },
         {
-          "word": "buy",
-          "startSec": 273.0,
-          "endSec": 273.28,
-          "score": 1.0
+          "word": "meet",
+          "start": 166.08,
+          "end": 166.4
         },
         {
-          "word": "handmade",
-          "startSec": 273.28,
-          "endSec": 273.8,
-          "score": 0.99
+          "word": "someone,",
+          "start": 166.4,
+          "end": 167.0
         },
         {
-          "word": "jewelry,",
-          "startSec": 273.8,
-          "endSec": 274.4,
-          "score": 0.98
+          "word": "you",
+          "start": 167.56,
+          "end": 167.82
         },
         {
-          "word": "wood",
-          "startSec": 275.48,
-          "endSec": 275.72,
-          "score": 1.0
-        },
-        {
-          "word": "carvings,",
-          "startSec": 275.72,
-          "endSec": 276.46,
-          "score": 0.91
+          "word": "smile",
+          "start": 167.82,
+          "end": 168.5
         },
         {
           "word": "and",
-          "startSec": 277.1,
-          "endSec": 277.16,
-          "score": 1.0
+          "start": 168.5,
+          "end": 169.0
         },
         {
-          "word": "bright",
-          "startSec": 277.16,
-          "endSec": 277.5,
-          "score": 0.99
+          "word": "greet",
+          "start": 169.0,
+          "end": 169.32
         },
         {
-          "word": "fabrics.",
-          "startSec": 277.5,
-          "endSec": 278.08,
-          "score": 1.0
+          "word": "them",
+          "start": 169.32,
+          "end": 169.58
         },
         {
-          "word": "Local",
-          "startSec": 279.29,
-          "endSec": 279.81,
-          "score": 0.99
-        },
-        {
-          "word": "artists",
-          "startSec": 279.81,
-          "endSec": 280.37,
-          "score": 0.99
-        },
-        {
-          "word": "paint",
-          "startSec": 280.37,
-          "endSec": 280.99,
-          "score": 0.98
+          "word": "kindly.",
+          "start": 169.58,
+          "end": 170.54
         }
       ]
     },
     {
       "id": 31,
-      "start": 280.79,
-      "end": 289.79,
-      "text": "scenes of daily life and nature. One of the most famous markets is Marché Sandaga,",
+      "start": 171.66,
+      "end": 176.18,
+      "text": "Hospitality is a big part of the Senegalese culture.",
       "words": [
         {
-          "word": "scenes",
-          "startSec": 280.99,
-          "endSec": 281.45,
-          "score": 0.0
-        },
-        {
-          "word": "of",
-          "startSec": 281.45,
-          "endSec": 282.15,
-          "score": 0.98
-        },
-        {
-          "word": "daily",
-          "startSec": 282.15,
-          "endSec": 282.41,
-          "score": 0.98
-        },
-        {
-          "word": "life",
-          "startSec": 282.41,
-          "endSec": 283.09,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 283.09,
-          "endSec": 283.25,
-          "score": 0.81
-        },
-        {
-          "word": "nature.",
-          "startSec": 283.25,
-          "endSec": 283.65,
-          "score": 0.99
-        },
-        {
-          "word": "One",
-          "startSec": 285.0,
-          "endSec": 285.62,
-          "score": 0.95
-        },
-        {
-          "word": "of",
-          "startSec": 285.62,
-          "endSec": 285.84,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 285.84,
-          "endSec": 285.98,
-          "score": 0.99
-        },
-        {
-          "word": "most",
-          "startSec": 285.98,
-          "endSec": 286.24,
-          "score": 0.97
-        },
-        {
-          "word": "famous",
-          "startSec": 286.24,
-          "endSec": 286.88,
-          "score": 0.99
-        },
-        {
-          "word": "markets",
-          "startSec": 286.88,
-          "endSec": 287.56,
-          "score": 0.99
+          "word": "Hospitality",
+          "start": 171.66,
+          "end": 172.62
         },
         {
           "word": "is",
-          "startSec": 287.56,
-          "endSec": 288.16,
-          "score": 0.99
+          "start": 172.62,
+          "end": 173.1
         },
         {
-          "word": "Marché",
-          "startSec": 288.16,
-          "endSec": 288.88,
-          "score": 0.59
+          "word": "a",
+          "start": 173.1,
+          "end": 173.26
         },
         {
-          "word": "Sandaga,",
-          "startSec": 288.88,
-          "endSec": 289.64,
-          "score": 0.71
+          "word": "big",
+          "start": 173.26,
+          "end": 173.66
+        },
+        {
+          "word": "part",
+          "start": 173.66,
+          "end": 174.1
+        },
+        {
+          "word": "of",
+          "start": 174.1,
+          "end": 174.28
+        },
+        {
+          "word": "the",
+          "start": 174.28,
+          "end": 174.48
+        },
+        {
+          "word": "Senegalese",
+          "start": 174.48,
+          "end": 175.2
+        },
+        {
+          "word": "culture.",
+          "start": 175.2,
+          "end": 176.18
         }
       ]
     },
     {
       "id": 32,
-      "start": 290.41,
-      "end": 299.48,
-      "text": "full of music and friendly sellers. It's a perfect place to feel the true spirit of Dakar.",
+      "start": 177.5,
+      "end": 181.62,
+      "text": "Part six, music and dance.",
       "words": [
         {
-          "word": "full",
-          "startSec": 290.61,
-          "endSec": 291.09,
-          "score": 0.84
+          "word": "Part",
+          "start": 177.5,
+          "end": 178.44
         },
         {
-          "word": "of",
-          "startSec": 291.09,
-          "endSec": 291.37,
-          "score": 1.0
+          "word": "six,",
+          "start": 178.44,
+          "end": 179.04
         },
         {
           "word": "music",
-          "startSec": 291.37,
-          "endSec": 291.93,
-          "score": 0.99
+          "start": 179.46,
+          "end": 180.5
         },
         {
           "word": "and",
-          "startSec": 291.93,
-          "endSec": 292.67,
-          "score": 0.96
+          "start": 180.5,
+          "end": 180.82
         },
         {
-          "word": "friendly",
-          "startSec": 292.67,
-          "endSec": 293.05,
-          "score": 0.99
-        },
-        {
-          "word": "sellers.",
-          "startSec": 293.05,
-          "endSec": 293.71,
-          "score": 0.73
-        },
-        {
-          "word": "It's",
-          "startSec": 294.87,
-          "endSec": 295.25,
-          "score": 0.97
-        },
-        {
-          "word": "a",
-          "startSec": 295.25,
-          "endSec": 295.33,
-          "score": 0.98
-        },
-        {
-          "word": "perfect",
-          "startSec": 295.33,
-          "endSec": 295.63,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 295.63,
-          "endSec": 296.29,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 296.29,
-          "endSec": 296.65,
-          "score": 1.0
-        },
-        {
-          "word": "feel",
-          "startSec": 296.65,
-          "endSec": 296.89,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 296.89,
-          "endSec": 297.23,
-          "score": 1.0
-        },
-        {
-          "word": "true",
-          "startSec": 297.23,
-          "endSec": 297.59,
-          "score": 0.99
-        },
-        {
-          "word": "spirit",
-          "startSec": 297.59,
-          "endSec": 298.37,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 298.37,
-          "endSec": 298.67,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar.",
-          "startSec": 298.67,
-          "endSec": 299.33,
-          "score": 0.96
+          "word": "dance.",
+          "start": 180.82,
+          "end": 181.62
         }
       ]
     },
     {
       "id": 33,
-      "start": 299.98,
-      "end": 310.99,
-      "text": "Part nine, nature and the ocean. Dakar is on a peninsula surrounded by the ocean. The beaches",
+      "start": 181.8,
+      "end": 184.7,
+      "text": "Music is the heart of Dakar.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 300.18,
-          "endSec": 300.82,
-          "score": 0.9
-        },
-        {
-          "word": "nine,",
-          "startSec": 300.82,
-          "endSec": 301.34,
-          "score": 0.32
-        },
-        {
-          "word": "nature",
-          "startSec": 301.8,
-          "endSec": 302.36,
-          "score": 0.7
-        },
-        {
-          "word": "and",
-          "startSec": 302.36,
-          "endSec": 302.72,
-          "score": 0.9
-        },
-        {
-          "word": "the",
-          "startSec": 302.72,
-          "endSec": 302.94,
-          "score": 1.0
-        },
-        {
-          "word": "ocean.",
-          "startSec": 302.94,
-          "endSec": 303.26,
-          "score": 0.98
-        },
-        {
-          "word": "Dakar",
-          "startSec": 304.98,
-          "endSec": 305.64,
-          "score": 1.0
+          "word": "Music",
+          "start": 181.8,
+          "end": 182.74
         },
         {
           "word": "is",
-          "startSec": 305.64,
-          "endSec": 305.9,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 305.9,
-          "endSec": 306.1,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 306.1,
-          "endSec": 306.24,
-          "score": 0.99
-        },
-        {
-          "word": "peninsula",
-          "startSec": 306.24,
-          "endSec": 306.78,
-          "score": 0.97
-        },
-        {
-          "word": "surrounded",
-          "startSec": 306.78,
-          "endSec": 307.62,
-          "score": 0.94
-        },
-        {
-          "word": "by",
-          "startSec": 307.62,
-          "endSec": 308.42,
-          "score": 1.0
+          "start": 182.74,
+          "end": 183.08
         },
         {
           "word": "the",
-          "startSec": 308.42,
-          "endSec": 308.62,
-          "score": 1.0
+          "start": 183.08,
+          "end": 183.28
         },
         {
-          "word": "ocean.",
-          "startSec": 308.62,
-          "endSec": 308.98,
-          "score": 1.0
+          "word": "heart",
+          "start": 183.28,
+          "end": 183.62
         },
         {
-          "word": "The",
-          "startSec": 310.26,
-          "endSec": 310.58,
-          "score": 1.0
+          "word": "of",
+          "start": 183.62,
+          "end": 183.76
         },
         {
-          "word": "beaches",
-          "startSec": 310.58,
-          "endSec": 310.84,
-          "score": 1.0
+          "word": "Dakar.",
+          "start": 183.76,
+          "end": 184.7
         }
       ]
     },
     {
       "id": 34,
-      "start": 310.64,
-      "end": 318.99,
-      "text": "are beautiful and full of energy. You can see people swimming, surfing, or playing football",
+      "start": 185.16,
+      "end": 192.4,
+      "text": "You can hear music everywhere in taxis, cafes, markets, and on the beach.",
       "words": [
         {
-          "word": "are",
-          "startSec": 310.84,
-          "endSec": 311.32,
-          "score": 0.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 311.32,
-          "endSec": 311.74,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 311.74,
-          "endSec": 312.3,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 312.3,
-          "endSec": 312.6,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 312.6,
-          "endSec": 312.82,
-          "score": 1.0
-        },
-        {
-          "word": "energy.",
-          "startSec": 312.82,
-          "endSec": 313.22,
-          "score": 1.0
-        },
-        {
           "word": "You",
-          "startSec": 314.4,
-          "endSec": 314.5,
-          "score": 0.97
+          "start": 185.16,
+          "end": 185.64
         },
         {
           "word": "can",
-          "startSec": 314.5,
-          "endSec": 314.68,
-          "score": 1.0
+          "start": 185.64,
+          "end": 185.9
         },
         {
-          "word": "see",
-          "startSec": 314.68,
-          "endSec": 315.0,
-          "score": 1.0
+          "word": "hear",
+          "start": 185.9,
+          "end": 186.16
         },
         {
-          "word": "people",
-          "startSec": 315.0,
-          "endSec": 315.44,
-          "score": 0.99
+          "word": "music",
+          "start": 186.16,
+          "end": 186.64
         },
         {
-          "word": "swimming,",
-          "startSec": 315.44,
-          "endSec": 316.0,
-          "score": 0.99
+          "word": "everywhere",
+          "start": 186.64,
+          "end": 187.28
         },
         {
-          "word": "surfing,",
-          "startSec": 316.64,
-          "endSec": 317.3,
-          "score": 1.0
+          "word": "in",
+          "start": 187.28,
+          "end": 187.9
         },
         {
-          "word": "or",
-          "startSec": 317.88,
-          "endSec": 317.98,
-          "score": 0.99
+          "word": "taxis,",
+          "start": 187.9,
+          "end": 188.68
         },
         {
-          "word": "playing",
-          "startSec": 317.98,
-          "endSec": 318.38,
-          "score": 1.0
+          "word": "cafes,",
+          "start": 188.98,
+          "end": 189.38
         },
         {
-          "word": "football",
-          "startSec": 318.38,
-          "endSec": 318.84,
-          "score": 1.0
+          "word": "markets,",
+          "start": 190.02,
+          "end": 190.52
+        },
+        {
+          "word": "and",
+          "start": 190.98,
+          "end": 191.26
+        },
+        {
+          "word": "on",
+          "start": 191.26,
+          "end": 191.44
+        },
+        {
+          "word": "the",
+          "start": 191.44,
+          "end": 191.6
+        },
+        {
+          "word": "beach.",
+          "start": 191.6,
+          "end": 192.4
         }
       ]
     },
     {
       "id": 35,
-      "start": 318.64,
-      "end": 329.18,
-      "text": "by the sea. There are also quiet beaches where you can relax and listen to the waves. From Dakar,",
+      "start": 193.02,
+      "end": 197.81,
+      "text": "Traditional drums, singing, and dancing fill the air.",
       "words": [
         {
-          "word": "by",
-          "startSec": 318.84,
-          "endSec": 319.46,
-          "score": 0.98
+          "word": "Traditional",
+          "start": 193.02,
+          "end": 193.66
         },
         {
-          "word": "the",
-          "startSec": 319.46,
-          "endSec": 319.68,
-          "score": 0.99
+          "word": "drums,",
+          "start": 193.66,
+          "end": 194.44
         },
         {
-          "word": "sea.",
-          "startSec": 319.68,
-          "endSec": 319.98,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 321.23,
-          "endSec": 321.43,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 321.43,
-          "endSec": 321.57,
-          "score": 0.99
-        },
-        {
-          "word": "also",
-          "startSec": 321.57,
-          "endSec": 321.99,
-          "score": 1.0
-        },
-        {
-          "word": "quiet",
-          "startSec": 321.99,
-          "endSec": 322.43,
-          "score": 0.99
-        },
-        {
-          "word": "beaches",
-          "startSec": 322.43,
-          "endSec": 322.87,
-          "score": 1.0
-        },
-        {
-          "word": "where",
-          "startSec": 322.87,
-          "endSec": 323.51,
-          "score": 0.96
-        },
-        {
-          "word": "you",
-          "startSec": 323.51,
-          "endSec": 323.77,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 323.77,
-          "endSec": 324.01,
-          "score": 1.0
-        },
-        {
-          "word": "relax",
-          "startSec": 324.01,
-          "endSec": 324.63,
-          "score": 1.0
+          "word": "singing,",
+          "start": 195.06,
+          "end": 195.32
         },
         {
           "word": "and",
-          "startSec": 324.63,
-          "endSec": 325.33,
-          "score": 0.98
+          "start": 195.68,
+          "end": 195.8
         },
         {
-          "word": "listen",
-          "startSec": 325.33,
-          "endSec": 325.71,
-          "score": 1.0
+          "word": "dancing",
+          "start": 195.8,
+          "end": 196.36
         },
         {
-          "word": "to",
-          "startSec": 325.71,
-          "endSec": 326.01,
-          "score": 1.0
+          "word": "fill",
+          "start": 196.36,
+          "end": 196.86
         },
         {
           "word": "the",
-          "startSec": 326.01,
-          "endSec": 326.15,
-          "score": 0.99
+          "start": 196.86,
+          "end": 197.12
         },
         {
-          "word": "waves.",
-          "startSec": 326.15,
-          "endSec": 326.45,
-          "score": 1.0
-        },
-        {
-          "word": "From",
-          "startSec": 328.05,
-          "endSec": 328.35,
-          "score": 0.99
-        },
-        {
-          "word": "Dakar,",
-          "startSec": 328.35,
-          "endSec": 329.03,
-          "score": 0.97
+          "word": "air.",
+          "start": 197.12,
+          "end": 197.81
         }
       ]
     },
     {
       "id": 36,
-      "start": 329.13,
-      "end": 336.32,
-      "text": "you can take a boat to Gore Island. Peaceful, calm, and full of history.",
+      "start": 198.04,
+      "end": 206.34,
+      "text": "A popular music style in Dakar is Balax, created by the famous singer Yuson Endur.",
       "words": [
         {
-          "word": "you",
-          "startSec": 329.33,
-          "endSec": 329.49,
-          "score": 1.0
+          "word": "A",
+          "start": 198.04,
+          "end": 198.48
         },
         {
-          "word": "can",
-          "startSec": 329.49,
-          "endSec": 329.67,
-          "score": 1.0
+          "word": "popular",
+          "start": 198.48,
+          "end": 198.94
         },
         {
-          "word": "take",
-          "startSec": 329.67,
-          "endSec": 329.95,
-          "score": 1.0
+          "word": "music",
+          "start": 198.94,
+          "end": 199.5
         },
         {
-          "word": "a",
-          "startSec": 329.95,
-          "endSec": 330.13,
-          "score": 1.0
+          "word": "style",
+          "start": 199.5,
+          "end": 200.04
         },
         {
-          "word": "boat",
-          "startSec": 330.13,
-          "endSec": 330.49,
-          "score": 1.0
+          "word": "in",
+          "start": 200.04,
+          "end": 200.32
         },
         {
-          "word": "to",
-          "startSec": 330.49,
-          "endSec": 330.89,
-          "score": 1.0
+          "word": "Dakar",
+          "start": 200.32,
+          "end": 200.88
         },
         {
-          "word": "Gore",
-          "startSec": 330.89,
-          "endSec": 331.09,
-          "score": 0.42
+          "word": "is",
+          "start": 200.88,
+          "end": 201.3
         },
         {
-          "word": "Island.",
-          "startSec": 331.09,
-          "endSec": 331.85,
-          "score": 0.67
+          "word": "Balax,",
+          "start": 201.3,
+          "end": 202.14
         },
         {
-          "word": "Peaceful,",
-          "startSec": 332.61,
-          "endSec": 333.35,
-          "score": 0.94
+          "word": "created",
+          "start": 202.8,
+          "end": 203.2
         },
         {
-          "word": "calm,",
-          "startSec": 334.03,
-          "endSec": 334.37,
-          "score": 1.0
+          "word": "by",
+          "start": 203.2,
+          "end": 203.48
         },
         {
-          "word": "and",
-          "startSec": 335.07,
-          "endSec": 335.15,
-          "score": 1.0
+          "word": "the",
+          "start": 203.48,
+          "end": 203.66
         },
         {
-          "word": "full",
-          "startSec": 335.15,
-          "endSec": 335.45,
-          "score": 1.0
+          "word": "famous",
+          "start": 203.66,
+          "end": 204.14
         },
         {
-          "word": "of",
-          "startSec": 335.45,
-          "endSec": 335.69,
-          "score": 1.0
+          "word": "singer",
+          "start": 204.14,
+          "end": 204.72
         },
         {
-          "word": "history.",
-          "startSec": 335.69,
-          "endSec": 336.17,
-          "score": 0.99
+          "word": "Yuson",
+          "start": 204.72,
+          "end": 205.4
+        },
+        {
+          "word": "Endur.",
+          "start": 205.4,
+          "end": 206.34
         }
       ]
     },
     {
       "id": 37,
-      "start": 337.54,
-      "end": 348.86,
-      "text": "Part 10, monuments and landmarks. One of the most famous landmarks in Dakar is the African Renaissance",
+      "start": 206.96,
+      "end": 210.58,
+      "text": "People love to dance to the rhythm of the drums.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 337.74,
-          "endSec": 338.48,
-          "score": 0.66
+          "word": "People",
+          "start": 206.96,
+          "end": 207.36
         },
         {
-          "word": "10,",
-          "startSec": 338.48,
-          "endSec": 339.06,
-          "score": 0.89
+          "word": "love",
+          "start": 207.36,
+          "end": 207.8
         },
         {
-          "word": "monuments",
-          "startSec": 339.94,
-          "endSec": 340.6,
-          "score": 0.15
+          "word": "to",
+          "start": 207.8,
+          "end": 208.08
         },
         {
-          "word": "and",
-          "startSec": 340.6,
-          "endSec": 341.1,
-          "score": 0.96
+          "word": "dance",
+          "start": 208.08,
+          "end": 208.5
         },
         {
-          "word": "landmarks.",
-          "startSec": 341.1,
-          "endSec": 341.42,
-          "score": 1.0
+          "word": "to",
+          "start": 208.5,
+          "end": 208.84
         },
         {
-          "word": "One",
-          "startSec": 342.79,
-          "endSec": 343.31,
-          "score": 0.96
+          "word": "the",
+          "start": 208.84,
+          "end": 208.98
+        },
+        {
+          "word": "rhythm",
+          "start": 208.98,
+          "end": 209.38
         },
         {
           "word": "of",
-          "startSec": 343.31,
-          "endSec": 343.51,
-          "score": 1.0
+          "start": 209.38,
+          "end": 209.6
         },
         {
           "word": "the",
-          "startSec": 343.51,
-          "endSec": 343.65,
-          "score": 1.0
+          "start": 209.6,
+          "end": 209.72
         },
         {
-          "word": "most",
-          "startSec": 343.65,
-          "endSec": 343.91,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 343.91,
-          "endSec": 344.51,
-          "score": 1.0
-        },
-        {
-          "word": "landmarks",
-          "startSec": 344.51,
-          "endSec": 345.03,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 345.03,
-          "endSec": 345.79,
-          "score": 0.98
-        },
-        {
-          "word": "Dakar",
-          "startSec": 345.79,
-          "endSec": 346.47,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 346.47,
-          "endSec": 347.05,
-          "score": 0.87
-        },
-        {
-          "word": "the",
-          "startSec": 347.05,
-          "endSec": 347.27,
-          "score": 0.99
-        },
-        {
-          "word": "African",
-          "startSec": 347.27,
-          "endSec": 347.85,
-          "score": 0.99
-        },
-        {
-          "word": "Renaissance",
-          "startSec": 347.85,
-          "endSec": 348.71,
-          "score": 0.98
+          "word": "drums.",
+          "start": 209.72,
+          "end": 210.58
         }
       ]
     },
     {
       "id": 38,
-      "start": 348.51,
-      "end": 360.05,
-      "text": "Monument. It is a giant bronze statue taller than the Statue of Liberty. It shows a man, woman,",
+      "start": 211.08,
+      "end": 216.5,
+      "text": "At night, many places in Dakar come alive with music and joy.",
       "words": [
         {
-          "word": "Monument.",
-          "startSec": 348.71,
-          "endSec": 349.45,
-          "score": 0.82
+          "word": "At",
+          "start": 211.08,
+          "end": 211.32
         },
         {
-          "word": "It",
-          "startSec": 350.53,
-          "endSec": 350.97,
-          "score": 0.99
+          "word": "night,",
+          "start": 211.32,
+          "end": 211.78
         },
         {
-          "word": "is",
-          "startSec": 350.97,
-          "endSec": 351.13,
-          "score": 1.0
+          "word": "many",
+          "start": 212.02,
+          "end": 212.32
         },
         {
-          "word": "a",
-          "startSec": 351.13,
-          "endSec": 351.33,
-          "score": 0.99
+          "word": "places",
+          "start": 212.32,
+          "end": 212.84
         },
         {
-          "word": "giant",
-          "startSec": 351.33,
-          "endSec": 351.79,
-          "score": 1.0
+          "word": "in",
+          "start": 212.84,
+          "end": 213.2
         },
         {
-          "word": "bronze",
-          "startSec": 351.79,
-          "endSec": 352.25,
-          "score": 0.92
+          "word": "Dakar",
+          "start": 213.2,
+          "end": 213.7
         },
         {
-          "word": "statue",
-          "startSec": 352.25,
-          "endSec": 353.23,
-          "score": 1.0
+          "word": "come",
+          "start": 213.7,
+          "end": 214.06
         },
         {
-          "word": "taller",
-          "startSec": 353.23,
-          "endSec": 354.41,
-          "score": 0.81
+          "word": "alive",
+          "start": 214.06,
+          "end": 214.58
         },
         {
-          "word": "than",
-          "startSec": 354.41,
-          "endSec": 354.99,
-          "score": 1.0
+          "word": "with",
+          "start": 214.58,
+          "end": 214.92
         },
         {
-          "word": "the",
-          "startSec": 354.99,
-          "endSec": 355.13,
-          "score": 0.99
+          "word": "music",
+          "start": 214.92,
+          "end": 215.4
         },
         {
-          "word": "Statue",
-          "startSec": 355.13,
-          "endSec": 355.55,
-          "score": 0.89
+          "word": "and",
+          "start": 215.4,
+          "end": 215.68
         },
         {
-          "word": "of",
-          "startSec": 355.55,
-          "endSec": 355.97,
-          "score": 1.0
-        },
-        {
-          "word": "Liberty.",
-          "startSec": 355.97,
-          "endSec": 356.37,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 357.38,
-          "endSec": 357.92,
-          "score": 0.99
-        },
-        {
-          "word": "shows",
-          "startSec": 357.92,
-          "endSec": 358.22,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 358.22,
-          "endSec": 358.52,
-          "score": 1.0
-        },
-        {
-          "word": "man,",
-          "startSec": 358.52,
-          "endSec": 358.96,
-          "score": 1.0
-        },
-        {
-          "word": "woman,",
-          "startSec": 359.38,
-          "endSec": 359.9,
-          "score": 1.0
+          "word": "joy.",
+          "start": 215.68,
+          "end": 216.5
         }
       ]
     },
     {
       "id": 39,
-      "start": 360.0,
-      "end": 367.28,
-      "text": "and child looking toward the future. It represents the strength and hope of the African",
+      "start": 216.9,
+      "end": 219.38,
+      "text": "Part seven, food in Dakar.",
       "words": [
         {
-          "word": "and",
-          "startSec": 360.2,
-          "endSec": 360.42,
-          "score": 1.0
+          "word": "Part",
+          "start": 216.9,
+          "end": 217.08
         },
         {
-          "word": "child",
-          "startSec": 360.42,
-          "endSec": 360.8,
-          "score": 1.0
+          "word": "seven,",
+          "start": 217.08,
+          "end": 217.6
         },
         {
-          "word": "looking",
-          "startSec": 360.8,
-          "endSec": 361.46,
-          "score": 0.99
+          "word": "food",
+          "start": 217.92,
+          "end": 218.18
         },
         {
-          "word": "toward",
-          "startSec": 361.46,
-          "endSec": 361.8,
-          "score": 0.96
+          "word": "in",
+          "start": 218.18,
+          "end": 218.44
         },
         {
-          "word": "the",
-          "startSec": 361.8,
-          "endSec": 362.1,
-          "score": 1.0
-        },
-        {
-          "word": "future.",
-          "startSec": 362.1,
-          "endSec": 362.56,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 363.35,
-          "endSec": 363.89,
-          "score": 1.0
-        },
-        {
-          "word": "represents",
-          "startSec": 363.89,
-          "endSec": 364.35,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 364.35,
-          "endSec": 364.95,
-          "score": 1.0
-        },
-        {
-          "word": "strength",
-          "startSec": 364.95,
-          "endSec": 365.33,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 365.33,
-          "endSec": 365.77,
-          "score": 1.0
-        },
-        {
-          "word": "hope",
-          "startSec": 365.77,
-          "endSec": 366.09,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 366.09,
-          "endSec": 366.45,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 366.45,
-          "endSec": 366.65,
-          "score": 1.0
-        },
-        {
-          "word": "African",
-          "startSec": 366.65,
-          "endSec": 367.13,
-          "score": 1.0
+          "word": "Dakar.",
+          "start": 218.44,
+          "end": 219.38
         }
       ]
     },
     {
       "id": 40,
-      "start": 366.93,
-      "end": 375.63,
-      "text": "people. You can also visit the mosque of the Divinity, a beautiful white mosque by the sea.",
+      "start": 220.44,
+      "end": 225.16,
+      "text": "Food in Dakar is delicious and full of flavor.",
       "words": [
         {
-          "word": "people.",
-          "startSec": 367.13,
-          "endSec": 367.49,
-          "score": 0.02
+          "word": "Food",
+          "start": 220.44,
+          "end": 221.32
         },
         {
-          "word": "You",
-          "startSec": 368.9,
-          "endSec": 369.28,
-          "score": 0.95
+          "word": "in",
+          "start": 221.32,
+          "end": 221.56
         },
         {
-          "word": "can",
-          "startSec": 369.28,
-          "endSec": 369.52,
-          "score": 1.0
+          "word": "Dakar",
+          "start": 221.56,
+          "end": 222.18
         },
         {
-          "word": "also",
-          "startSec": 369.52,
-          "endSec": 369.8,
-          "score": 1.0
+          "word": "is",
+          "start": 222.18,
+          "end": 222.54
         },
         {
-          "word": "visit",
-          "startSec": 369.8,
-          "endSec": 370.46,
-          "score": 1.0
+          "word": "delicious",
+          "start": 222.54,
+          "end": 223.16
         },
         {
-          "word": "the",
-          "startSec": 370.46,
-          "endSec": 370.74,
-          "score": 0.97
+          "word": "and",
+          "start": 223.16,
+          "end": 223.66
         },
         {
-          "word": "mosque",
-          "startSec": 370.74,
-          "endSec": 371.12,
-          "score": 0.71
+          "word": "full",
+          "start": 223.66,
+          "end": 224.08
         },
         {
           "word": "of",
-          "startSec": 371.12,
-          "endSec": 371.54,
-          "score": 0.99
+          "start": 224.08,
+          "end": 224.28
         },
         {
-          "word": "the",
-          "startSec": 371.54,
-          "endSec": 371.7,
-          "score": 0.97
-        },
-        {
-          "word": "Divinity,",
-          "startSec": 371.7,
-          "endSec": 372.04,
-          "score": 0.27
-        },
-        {
-          "word": "a",
-          "startSec": 373.06,
-          "endSec": 373.18,
-          "score": 0.97
-        },
-        {
-          "word": "beautiful",
-          "startSec": 373.18,
-          "endSec": 373.6,
-          "score": 1.0
-        },
-        {
-          "word": "white",
-          "startSec": 373.6,
-          "endSec": 374.0,
-          "score": 0.98
-        },
-        {
-          "word": "mosque",
-          "startSec": 374.0,
-          "endSec": 374.74,
-          "score": 0.99
-        },
-        {
-          "word": "by",
-          "startSec": 374.74,
-          "endSec": 375.02,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 375.02,
-          "endSec": 375.22,
-          "score": 0.98
-        },
-        {
-          "word": "sea.",
-          "startSec": 375.22,
-          "endSec": 375.48,
-          "score": 0.93
+          "word": "flavor.",
+          "start": 224.28,
+          "end": 225.16
         }
       ]
     },
     {
       "id": 41,
-      "start": 377.0,
-      "end": 387.99,
-      "text": "Part 11, life in Dakar. Life in Dakar is lively and social. People work, study, and spend time",
+      "start": 225.5,
+      "end": 233.68,
+      "text": "The national dish is tiabudian, rice with fish, vegetables, and tomato sauce.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 377.2,
-          "endSec": 377.2,
-          "score": 0.85
+          "word": "The",
+          "start": 225.5,
+          "end": 225.98
         },
         {
-          "word": "11,",
-          "startSec": 377.2,
-          "endSec": 377.82,
-          "score": 0.95
+          "word": "national",
+          "start": 225.98,
+          "end": 226.46
         },
         {
-          "word": "life",
-          "startSec": 378.54,
-          "endSec": 378.66,
-          "score": 0.44
-        },
-        {
-          "word": "in",
-          "startSec": 378.66,
-          "endSec": 378.98,
-          "score": 0.95
-        },
-        {
-          "word": "Dakar.",
-          "startSec": 378.98,
-          "endSec": 379.6,
-          "score": 0.97
-        },
-        {
-          "word": "Life",
-          "startSec": 380.2,
-          "endSec": 380.72,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 380.72,
-          "endSec": 381.04,
-          "score": 0.99
-        },
-        {
-          "word": "Dakar",
-          "startSec": 381.04,
-          "endSec": 381.66,
-          "score": 1.0
+          "word": "dish",
+          "start": 226.46,
+          "end": 227.18
         },
         {
           "word": "is",
-          "startSec": 381.66,
-          "endSec": 381.9,
-          "score": 1.0
+          "start": 227.18,
+          "end": 227.52
         },
         {
-          "word": "lively",
-          "startSec": 381.9,
-          "endSec": 382.36,
-          "score": 0.99
+          "word": "tiabudian,",
+          "start": 227.52,
+          "end": 228.54
         },
         {
-          "word": "and",
-          "startSec": 382.36,
-          "endSec": 382.98,
-          "score": 1.0
+          "word": "rice",
+          "start": 229.2,
+          "end": 229.8
         },
         {
-          "word": "social.",
-          "startSec": 382.98,
-          "endSec": 383.54,
-          "score": 1.0
+          "word": "with",
+          "start": 229.8,
+          "end": 230.14
         },
         {
-          "word": "People",
-          "startSec": 384.26,
-          "endSec": 384.58,
-          "score": 1.0
+          "word": "fish,",
+          "start": 230.14,
+          "end": 230.74
         },
         {
-          "word": "work,",
-          "startSec": 384.58,
-          "endSec": 385.12,
-          "score": 1.0
-        },
-        {
-          "word": "study,",
-          "startSec": 385.2,
-          "endSec": 386.18,
-          "score": 1.0
+          "word": "vegetables,",
+          "start": 231.0,
+          "end": 231.72
         },
         {
           "word": "and",
-          "startSec": 386.94,
-          "endSec": 387.18,
-          "score": 1.0
+          "start": 232.28,
+          "end": 232.46
         },
         {
-          "word": "spend",
-          "startSec": 387.18,
-          "endSec": 387.5,
-          "score": 1.0
+          "word": "tomato",
+          "start": 232.46,
+          "end": 232.8
         },
         {
-          "word": "time",
-          "startSec": 387.5,
-          "endSec": 387.84,
-          "score": 1.0
+          "word": "sauce.",
+          "start": 232.8,
+          "end": 233.68
         }
       ]
     },
     {
       "id": 42,
-      "start": 387.64,
-      "end": 397.4,
-      "text": "together. On weekends, families go to the beach or enjoy music festivals. You can always hear",
+      "start": 234.4,
+      "end": 237.58,
+      "text": "It smells wonderful and tastes amazing.",
       "words": [
         {
-          "word": "together.",
-          "startSec": 387.84,
-          "endSec": 388.42,
-          "score": 1.0
+          "word": "It",
+          "start": 234.4,
+          "end": 234.72
         },
         {
-          "word": "On",
-          "startSec": 389.47,
-          "endSec": 389.81,
-          "score": 1.0
+          "word": "smells",
+          "start": 234.72,
+          "end": 235.02
         },
         {
-          "word": "weekends,",
-          "startSec": 389.81,
-          "endSec": 390.23,
-          "score": 1.0
+          "word": "wonderful",
+          "start": 235.02,
+          "end": 235.78
         },
         {
-          "word": "families",
-          "startSec": 390.23,
-          "endSec": 391.27,
-          "score": 1.0
+          "word": "and",
+          "start": 235.78,
+          "end": 236.28
         },
         {
-          "word": "go",
-          "startSec": 391.27,
-          "endSec": 391.59,
-          "score": 1.0
+          "word": "tastes",
+          "start": 236.28,
+          "end": 236.6
         },
         {
-          "word": "to",
-          "startSec": 391.59,
-          "endSec": 391.77,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 391.77,
-          "endSec": 391.95,
-          "score": 1.0
-        },
-        {
-          "word": "beach",
-          "startSec": 391.95,
-          "endSec": 392.21,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 392.21,
-          "endSec": 393.21,
-          "score": 0.76
-        },
-        {
-          "word": "enjoy",
-          "startSec": 393.21,
-          "endSec": 393.51,
-          "score": 1.0
-        },
-        {
-          "word": "music",
-          "startSec": 393.51,
-          "endSec": 394.19,
-          "score": 1.0
-        },
-        {
-          "word": "festivals.",
-          "startSec": 394.19,
-          "endSec": 394.61,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 395.73,
-          "endSec": 396.23,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 396.23,
-          "endSec": 396.43,
-          "score": 1.0
-        },
-        {
-          "word": "always",
-          "startSec": 396.43,
-          "endSec": 396.91,
-          "score": 1.0
-        },
-        {
-          "word": "hear",
-          "startSec": 396.91,
-          "endSec": 397.25,
-          "score": 1.0
+          "word": "amazing.",
+          "start": 236.6,
+          "end": 237.58
         }
       ]
     },
     {
       "id": 43,
-      "start": 397.05,
-      "end": 405.82,
-      "text": "laughter, singing, and the sound of drums. Even with traffic and noise, people live with joy",
+      "start": 238.58,
+      "end": 245.52,
+      "text": "People also enjoy yasa, a dish made with chicken, onions, and lemon.",
       "words": [
         {
-          "word": "laughter,",
-          "startSec": 397.25,
-          "endSec": 398.01,
-          "score": 0.76
+          "word": "People",
+          "start": 238.58,
+          "end": 239.2
         },
         {
-          "word": "singing,",
-          "startSec": 398.25,
-          "endSec": 398.63,
-          "score": 1.0
+          "word": "also",
+          "start": 239.2,
+          "end": 239.68
         },
         {
-          "word": "and",
-          "startSec": 399.21,
-          "endSec": 399.27,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 239.68,
+          "end": 240.2
         },
         {
-          "word": "the",
-          "startSec": 399.27,
-          "endSec": 399.41,
-          "score": 0.99
+          "word": "yasa,",
+          "start": 240.2,
+          "end": 240.72
         },
         {
-          "word": "sound",
-          "startSec": 399.41,
-          "endSec": 399.81,
-          "score": 0.96
+          "word": "a",
+          "start": 241.56,
+          "end": 241.8
         },
         {
-          "word": "of",
-          "startSec": 399.81,
-          "endSec": 400.03,
-          "score": 0.99
+          "word": "dish",
+          "start": 241.8,
+          "end": 242.1
         },
         {
-          "word": "drums.",
-          "startSec": 400.03,
-          "endSec": 400.33,
-          "score": 0.99
-        },
-        {
-          "word": "Even",
-          "startSec": 401.47,
-          "endSec": 401.89,
-          "score": 0.99
+          "word": "made",
+          "start": 242.1,
+          "end": 242.48
         },
         {
           "word": "with",
-          "startSec": 401.89,
-          "endSec": 402.17,
-          "score": 1.0
+          "start": 242.48,
+          "end": 242.7
         },
         {
-          "word": "traffic",
-          "startSec": 402.17,
-          "endSec": 402.59,
-          "score": 0.99
+          "word": "chicken,",
+          "start": 242.7,
+          "end": 243.2
+        },
+        {
+          "word": "onions,",
+          "start": 243.76,
+          "end": 244.2
         },
         {
           "word": "and",
-          "startSec": 402.59,
-          "endSec": 403.01,
-          "score": 0.99
+          "start": 244.64,
+          "end": 244.76
         },
         {
-          "word": "noise,",
-          "startSec": 403.01,
-          "endSec": 403.39,
-          "score": 1.0
-        },
-        {
-          "word": "people",
-          "startSec": 404.21,
-          "endSec": 404.53,
-          "score": 0.99
-        },
-        {
-          "word": "live",
-          "startSec": 404.53,
-          "endSec": 405.03,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 405.03,
-          "endSec": 405.31,
-          "score": 1.0
-        },
-        {
-          "word": "joy",
-          "startSec": 405.31,
-          "endSec": 405.67,
-          "score": 1.0
+          "word": "lemon.",
+          "start": 244.76,
+          "end": 245.52
         }
       ]
     },
     {
       "id": 44,
-      "start": 405.47,
-      "end": 416.25,
-      "text": "and peace in their hearts. Part 12, goodbye from Dakar. Thank you for joining me on this trip",
+      "start": 246.46,
+      "end": 254.52,
+      "text": "For dessert, you can try sweet fried dough or tropical fruits like mango and papaya.",
       "words": [
         {
-          "word": "and",
-          "startSec": 405.67,
-          "endSec": 406.35,
-          "score": 0.99
+          "word": "For",
+          "start": 246.46,
+          "end": 246.9
         },
         {
-          "word": "peace",
-          "startSec": 406.35,
-          "endSec": 406.73,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 406.73,
-          "endSec": 407.05,
-          "score": 1.0
-        },
-        {
-          "word": "their",
-          "startSec": 407.05,
-          "endSec": 407.25,
-          "score": 1.0
-        },
-        {
-          "word": "hearts.",
-          "startSec": 407.25,
-          "endSec": 407.57,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 409.84,
-          "endSec": 409.84,
-          "score": 0.89
-        },
-        {
-          "word": "12,",
-          "startSec": 409.84,
-          "endSec": 410.38,
-          "score": 0.92
-        },
-        {
-          "word": "goodbye",
-          "startSec": 410.62,
-          "endSec": 410.78,
-          "score": 0.33
-        },
-        {
-          "word": "from",
-          "startSec": 410.78,
-          "endSec": 411.36,
-          "score": 0.99
-        },
-        {
-          "word": "Dakar.",
-          "startSec": 411.36,
-          "endSec": 412.02,
-          "score": 0.92
-        },
-        {
-          "word": "Thank",
-          "startSec": 413.5,
-          "endSec": 413.84,
-          "score": 0.97
+          "word": "dessert,",
+          "start": 246.9,
+          "end": 247.36
         },
         {
           "word": "you",
-          "startSec": 413.84,
-          "endSec": 414.18,
-          "score": 1.0
+          "start": 247.88,
+          "end": 248.04
         },
         {
-          "word": "for",
-          "startSec": 414.18,
-          "endSec": 414.36,
-          "score": 1.0
+          "word": "can",
+          "start": 248.04,
+          "end": 248.26
         },
         {
-          "word": "joining",
-          "startSec": 414.36,
-          "endSec": 414.84,
-          "score": 1.0
+          "word": "try",
+          "start": 248.26,
+          "end": 248.56
         },
         {
-          "word": "me",
-          "startSec": 414.84,
-          "endSec": 415.2,
-          "score": 1.0
+          "word": "sweet",
+          "start": 248.56,
+          "end": 249.1
         },
         {
-          "word": "on",
-          "startSec": 415.2,
-          "endSec": 415.48,
-          "score": 1.0
+          "word": "fried",
+          "start": 249.1,
+          "end": 249.44
         },
         {
-          "word": "this",
-          "startSec": 415.48,
-          "endSec": 415.7,
-          "score": 1.0
+          "word": "dough",
+          "start": 249.44,
+          "end": 250.0
         },
         {
-          "word": "trip",
-          "startSec": 415.7,
-          "endSec": 416.1,
-          "score": 1.0
+          "word": "or",
+          "start": 250.0,
+          "end": 250.74
+        },
+        {
+          "word": "tropical",
+          "start": 250.74,
+          "end": 251.22
+        },
+        {
+          "word": "fruits",
+          "start": 251.22,
+          "end": 251.94
+        },
+        {
+          "word": "like",
+          "start": 251.94,
+          "end": 252.38
+        },
+        {
+          "word": "mango",
+          "start": 252.38,
+          "end": 252.94
+        },
+        {
+          "word": "and",
+          "start": 252.94,
+          "end": 253.48
+        },
+        {
+          "word": "papaya.",
+          "start": 253.48,
+          "end": 254.52
         }
       ]
     },
     {
       "id": 45,
-      "start": 415.9,
-      "end": 426.93,
-      "text": "to Dakar, Senegal. It is a city full of rhythm, history, and sunshine. From its warm people to",
+      "start": 255.04,
+      "end": 262.92,
+      "text": "And of course, people love to drink Ataya, a strong and sweet green tea shared with friends.",
       "words": [
         {
-          "word": "to",
-          "startSec": 416.1,
-          "endSec": 416.38,
-          "score": 1.0
-        },
-        {
-          "word": "Dakar,",
-          "startSec": 416.38,
-          "endSec": 417.2,
-          "score": 1.0
-        },
-        {
-          "word": "Senegal.",
-          "startSec": 417.68,
-          "endSec": 418.02,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 418.82,
-          "endSec": 419.06,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 419.06,
-          "endSec": 419.2,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 419.2,
-          "endSec": 419.36,
-          "score": 0.97
-        },
-        {
-          "word": "city",
-          "startSec": 419.36,
-          "endSec": 419.66,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 419.66,
-          "endSec": 420.02,
-          "score": 0.98
+          "word": "And",
+          "start": 255.04,
+          "end": 255.58
         },
         {
           "word": "of",
-          "startSec": 420.02,
-          "endSec": 420.22,
-          "score": 1.0
+          "start": 255.58,
+          "end": 255.72
         },
         {
-          "word": "rhythm,",
-          "startSec": 420.22,
-          "endSec": 420.68,
-          "score": 1.0
-        },
-        {
-          "word": "history,",
-          "startSec": 421.22,
-          "endSec": 421.52,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 422.48,
-          "endSec": 422.76,
-          "score": 1.0
-        },
-        {
-          "word": "sunshine.",
-          "startSec": 422.76,
-          "endSec": 423.32,
-          "score": 0.99
-        },
-        {
-          "word": "From",
-          "startSec": 424.68,
-          "endSec": 425.08,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 425.08,
-          "endSec": 425.3,
-          "score": 0.96
-        },
-        {
-          "word": "warm",
-          "startSec": 425.3,
-          "endSec": 425.7,
-          "score": 1.0
+          "word": "course,",
+          "start": 255.72,
+          "end": 256.18
         },
         {
           "word": "people",
-          "startSec": 425.7,
-          "endSec": 426.18,
-          "score": 1.0
+          "start": 256.36,
+          "end": 256.72
+        },
+        {
+          "word": "love",
+          "start": 256.72,
+          "end": 257.14
         },
         {
           "word": "to",
-          "startSec": 426.18,
-          "endSec": 426.78,
-          "score": 0.81
+          "start": 257.14,
+          "end": 257.36
+        },
+        {
+          "word": "drink",
+          "start": 257.36,
+          "end": 257.72
+        },
+        {
+          "word": "Ataya,",
+          "start": 257.72,
+          "end": 258.3
+        },
+        {
+          "word": "a",
+          "start": 259.0,
+          "end": 259.2
+        },
+        {
+          "word": "strong",
+          "start": 259.2,
+          "end": 259.74
+        },
+        {
+          "word": "and",
+          "start": 259.74,
+          "end": 260.04
+        },
+        {
+          "word": "sweet",
+          "start": 260.04,
+          "end": 260.46
+        },
+        {
+          "word": "green",
+          "start": 260.46,
+          "end": 260.84
+        },
+        {
+          "word": "tea",
+          "start": 260.84,
+          "end": 261.26
+        },
+        {
+          "word": "shared",
+          "start": 261.26,
+          "end": 261.76
+        },
+        {
+          "word": "with",
+          "start": 261.76,
+          "end": 262.04
+        },
+        {
+          "word": "friends.",
+          "start": 262.04,
+          "end": 262.92
         }
       ]
     },
     {
       "id": 46,
-      "start": 426.58,
-      "end": 434.53,
-      "text": "its beautiful ocean views, Dakar has a special soul. If you ever visit West Africa,",
+      "start": 263.64,
+      "end": 267.58,
+      "text": "Part eight, markets and handicrafts.",
       "words": [
         {
-          "word": "its",
-          "startSec": 426.78,
-          "endSec": 427.06,
-          "score": 0.14
+          "word": "Part",
+          "start": 263.64,
+          "end": 263.94
         },
         {
-          "word": "beautiful",
-          "startSec": 427.06,
-          "endSec": 427.5,
-          "score": 0.99
+          "word": "eight,",
+          "start": 263.94,
+          "end": 264.4
         },
         {
-          "word": "ocean",
-          "startSec": 427.5,
-          "endSec": 427.94,
-          "score": 0.96
+          "word": "markets",
+          "start": 264.76,
+          "end": 265.28
         },
         {
-          "word": "views,",
-          "startSec": 427.94,
-          "endSec": 428.56,
-          "score": 0.99
+          "word": "and",
+          "start": 265.28,
+          "end": 265.92
         },
         {
-          "word": "Dakar",
-          "startSec": 429.34,
-          "endSec": 429.8,
-          "score": 0.68
-        },
-        {
-          "word": "has",
-          "startSec": 429.8,
-          "endSec": 430.12,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 430.12,
-          "endSec": 430.32,
-          "score": 0.99
-        },
-        {
-          "word": "special",
-          "startSec": 430.32,
-          "endSec": 430.76,
-          "score": 1.0
-        },
-        {
-          "word": "soul.",
-          "startSec": 430.76,
-          "endSec": 431.28,
-          "score": 0.98
-        },
-        {
-          "word": "If",
-          "startSec": 432.4,
-          "endSec": 432.44,
-          "score": 0.98
-        },
-        {
-          "word": "you",
-          "startSec": 432.44,
-          "endSec": 432.66,
-          "score": 1.0
-        },
-        {
-          "word": "ever",
-          "startSec": 432.66,
-          "endSec": 432.98,
-          "score": 0.99
-        },
-        {
-          "word": "visit",
-          "startSec": 432.98,
-          "endSec": 433.44,
-          "score": 1.0
-        },
-        {
-          "word": "West",
-          "startSec": 433.44,
-          "endSec": 433.74,
-          "score": 0.96
-        },
-        {
-          "word": "Africa,",
-          "startSec": 433.74,
-          "endSec": 434.38,
-          "score": 1.0
+          "word": "handicrafts.",
+          "start": 265.92,
+          "end": 267.58
         }
       ]
     },
     {
       "id": 47,
-      "start": 435.0,
-      "end": 441.88,
-      "text": "don't miss this city. Goodbye. Or as people in Wolof say,",
+      "start": 267.8,
+      "end": 272.08,
+      "text": "The markets in Dakar are full of life and color.",
       "words": [
         {
-          "word": "don't",
-          "startSec": 435.2,
-          "endSec": 435.6,
-          "score": 0.99
+          "word": "The",
+          "start": 267.8,
+          "end": 268.36
         },
         {
-          "word": "miss",
-          "startSec": 435.6,
-          "endSec": 435.8,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 435.8,
-          "endSec": 436.1,
-          "score": 0.98
-        },
-        {
-          "word": "city.",
-          "startSec": 436.1,
-          "endSec": 436.6,
-          "score": 0.98
-        },
-        {
-          "word": "Goodbye.",
-          "startSec": 437.97,
-          "endSec": 438.25,
-          "score": 0.76
-        },
-        {
-          "word": "Or",
-          "startSec": 439.19,
-          "endSec": 439.65,
-          "score": 0.94
-        },
-        {
-          "word": "as",
-          "startSec": 439.65,
-          "endSec": 439.85,
-          "score": 0.72
-        },
-        {
-          "word": "people",
-          "startSec": 439.85,
-          "endSec": 440.11,
-          "score": 0.95
+          "word": "markets",
+          "start": 268.36,
+          "end": 268.82
         },
         {
           "word": "in",
-          "startSec": 440.11,
-          "endSec": 440.47,
-          "score": 0.99
+          "start": 268.82,
+          "end": 269.18
         },
         {
-          "word": "Wolof",
-          "startSec": 440.47,
-          "endSec": 440.87,
-          "score": 0.82
+          "word": "Dakar",
+          "start": 269.18,
+          "end": 269.68
         },
         {
-          "word": "say,",
-          "startSec": 440.87,
-          "endSec": 441.73,
-          "score": 0.99
+          "word": "are",
+          "start": 269.68,
+          "end": 270.1
+        },
+        {
+          "word": "full",
+          "start": 270.1,
+          "end": 270.5
+        },
+        {
+          "word": "of",
+          "start": 270.5,
+          "end": 270.74
+        },
+        {
+          "word": "life",
+          "start": 270.74,
+          "end": 271.06
+        },
+        {
+          "word": "and",
+          "start": 271.06,
+          "end": 271.32
+        },
+        {
+          "word": "color.",
+          "start": 271.32,
+          "end": 272.08
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 272.3,
+      "end": 278.6,
+      "text": "You can buy handmade jewelry, wood carvings, and bright fabrics.",
+      "words": [
+        {
+          "word": "You",
+          "start": 272.3,
+          "end": 272.82
+        },
+        {
+          "word": "can",
+          "start": 272.82,
+          "end": 273.06
+        },
+        {
+          "word": "buy",
+          "start": 273.06,
+          "end": 273.36
+        },
+        {
+          "word": "handmade",
+          "start": 273.36,
+          "end": 273.96
+        },
+        {
+          "word": "jewelry,",
+          "start": 273.96,
+          "end": 274.68
+        },
+        {
+          "word": "wood",
+          "start": 275.36,
+          "end": 275.8
+        },
+        {
+          "word": "carvings,",
+          "start": 275.8,
+          "end": 276.84
+        },
+        {
+          "word": "and",
+          "start": 276.84,
+          "end": 277.22
+        },
+        {
+          "word": "bright",
+          "start": 277.22,
+          "end": 277.56
+        },
+        {
+          "word": "fabrics.",
+          "start": 277.56,
+          "end": 278.6
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 279.26,
+      "end": 284.14,
+      "text": "Local artists paint scenes of daily life and nature.",
+      "words": [
+        {
+          "word": "Local",
+          "start": 279.26,
+          "end": 279.84
+        },
+        {
+          "word": "artists",
+          "start": 279.84,
+          "end": 280.56
+        },
+        {
+          "word": "paint",
+          "start": 280.56,
+          "end": 281.12
+        },
+        {
+          "word": "scenes",
+          "start": 281.12,
+          "end": 281.76
+        },
+        {
+          "word": "of",
+          "start": 281.76,
+          "end": 282.16
+        },
+        {
+          "word": "daily",
+          "start": 282.16,
+          "end": 282.56
+        },
+        {
+          "word": "life",
+          "start": 282.56,
+          "end": 283.08
+        },
+        {
+          "word": "and",
+          "start": 283.08,
+          "end": 283.28
+        },
+        {
+          "word": "nature.",
+          "start": 283.28,
+          "end": 284.14
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 284.82,
+      "end": 294.2,
+      "text": "One of the most famous markets is Marche Sandaga, full of music and friendly sellers.",
+      "words": [
+        {
+          "word": "One",
+          "start": 284.82,
+          "end": 285.66
+        },
+        {
+          "word": "of",
+          "start": 285.66,
+          "end": 285.88
+        },
+        {
+          "word": "the",
+          "start": 285.88,
+          "end": 286.04
+        },
+        {
+          "word": "most",
+          "start": 286.04,
+          "end": 286.34
+        },
+        {
+          "word": "famous",
+          "start": 286.34,
+          "end": 286.92
+        },
+        {
+          "word": "markets",
+          "start": 286.92,
+          "end": 287.6
+        },
+        {
+          "word": "is",
+          "start": 287.6,
+          "end": 288.24
+        },
+        {
+          "word": "Marche",
+          "start": 288.24,
+          "end": 288.96
+        },
+        {
+          "word": "Sandaga,",
+          "start": 288.96,
+          "end": 289.84
+        },
+        {
+          "word": "full",
+          "start": 290.38,
+          "end": 291.2
+        },
+        {
+          "word": "of",
+          "start": 291.2,
+          "end": 291.42
+        },
+        {
+          "word": "music",
+          "start": 291.42,
+          "end": 291.98
+        },
+        {
+          "word": "and",
+          "start": 291.98,
+          "end": 292.74
+        },
+        {
+          "word": "friendly",
+          "start": 292.74,
+          "end": 293.28
+        },
+        {
+          "word": "sellers.",
+          "start": 293.28,
+          "end": 294.2
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 294.94,
+      "end": 299.82,
+      "text": "It's a perfect place to feel the true spirit of Dakar.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 294.94,
+          "end": 295.26
+        },
+        {
+          "word": "a",
+          "start": 295.26,
+          "end": 295.38
+        },
+        {
+          "word": "perfect",
+          "start": 295.38,
+          "end": 295.86
+        },
+        {
+          "word": "place",
+          "start": 295.86,
+          "end": 296.36
+        },
+        {
+          "word": "to",
+          "start": 296.36,
+          "end": 296.7
+        },
+        {
+          "word": "feel",
+          "start": 296.7,
+          "end": 297.02
+        },
+        {
+          "word": "the",
+          "start": 297.02,
+          "end": 297.26
+        },
+        {
+          "word": "true",
+          "start": 297.26,
+          "end": 297.78
+        },
+        {
+          "word": "spirit",
+          "start": 297.78,
+          "end": 298.48
+        },
+        {
+          "word": "of",
+          "start": 298.48,
+          "end": 298.72
+        },
+        {
+          "word": "Dakar.",
+          "start": 298.72,
+          "end": 299.82
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 300.5,
+      "end": 303.88,
+      "text": "Part nine, nature and the ocean.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 300.5,
+          "end": 300.92
+        },
+        {
+          "word": "nine,",
+          "start": 300.92,
+          "end": 301.44
+        },
+        {
+          "word": "nature",
+          "start": 302.02,
+          "end": 302.34
+        },
+        {
+          "word": "and",
+          "start": 302.34,
+          "end": 302.8
+        },
+        {
+          "word": "the",
+          "start": 302.8,
+          "end": 303.02
+        },
+        {
+          "word": "ocean.",
+          "start": 303.02,
+          "end": 303.88
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 304.8,
+      "end": 309.14,
+      "text": "Dakar is on a peninsula surrounded by the ocean.",
+      "words": [
+        {
+          "word": "Dakar",
+          "start": 304.8,
+          "end": 305.72
+        },
+        {
+          "word": "is",
+          "start": 305.72,
+          "end": 305.96
+        },
+        {
+          "word": "on",
+          "start": 305.96,
+          "end": 306.18
+        },
+        {
+          "word": "a",
+          "start": 306.18,
+          "end": 306.34
+        },
+        {
+          "word": "peninsula",
+          "start": 306.34,
+          "end": 307.0
+        },
+        {
+          "word": "surrounded",
+          "start": 307.0,
+          "end": 308.02
+        },
+        {
+          "word": "by",
+          "start": 308.02,
+          "end": 308.44
+        },
+        {
+          "word": "the",
+          "start": 308.44,
+          "end": 308.72
+        },
+        {
+          "word": "ocean.",
+          "start": 308.72,
+          "end": 309.14
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 309.14,
+      "end": 313.8,
+      "text": "The beaches are beautiful and full of energy.",
+      "words": [
+        {
+          "word": "The",
+          "start": 309.14,
+          "end": 310.6
+        },
+        {
+          "word": "beaches",
+          "start": 310.6,
+          "end": 311.04
+        },
+        {
+          "word": "are",
+          "start": 311.04,
+          "end": 311.38
+        },
+        {
+          "word": "beautiful",
+          "start": 311.38,
+          "end": 312.02
+        },
+        {
+          "word": "and",
+          "start": 312.02,
+          "end": 312.36
+        },
+        {
+          "word": "full",
+          "start": 312.36,
+          "end": 312.72
+        },
+        {
+          "word": "of",
+          "start": 312.72,
+          "end": 312.9
+        },
+        {
+          "word": "energy.",
+          "start": 312.9,
+          "end": 313.8
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 314.2,
+      "end": 320.56,
+      "text": "You can see people swimming, surfing, or playing football by the sea.",
+      "words": [
+        {
+          "word": "You",
+          "start": 314.2,
+          "end": 314.54
+        },
+        {
+          "word": "can",
+          "start": 314.54,
+          "end": 314.78
+        },
+        {
+          "word": "see",
+          "start": 314.78,
+          "end": 315.06
+        },
+        {
+          "word": "people",
+          "start": 315.06,
+          "end": 315.5
+        },
+        {
+          "word": "swimming,",
+          "start": 315.5,
+          "end": 316.24
+        },
+        {
+          "word": "surfing,",
+          "start": 316.94,
+          "end": 317.34
+        },
+        {
+          "word": "or",
+          "start": 317.84,
+          "end": 318.04
+        },
+        {
+          "word": "playing",
+          "start": 318.04,
+          "end": 318.48
+        },
+        {
+          "word": "football",
+          "start": 318.48,
+          "end": 319.14
+        },
+        {
+          "word": "by",
+          "start": 319.14,
+          "end": 319.52
+        },
+        {
+          "word": "the",
+          "start": 319.52,
+          "end": 319.74
+        },
+        {
+          "word": "sea.",
+          "start": 319.74,
+          "end": 320.56
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 321.2,
+      "end": 327.1,
+      "text": "There are also quiet beaches where you can relax and listen to the waves.",
+      "words": [
+        {
+          "word": "There",
+          "start": 321.2,
+          "end": 321.48
+        },
+        {
+          "word": "are",
+          "start": 321.48,
+          "end": 321.66
+        },
+        {
+          "word": "also",
+          "start": 321.66,
+          "end": 322.02
+        },
+        {
+          "word": "quiet",
+          "start": 322.02,
+          "end": 322.52
+        },
+        {
+          "word": "beaches",
+          "start": 322.52,
+          "end": 323.12
+        },
+        {
+          "word": "where",
+          "start": 323.12,
+          "end": 323.58
+        },
+        {
+          "word": "you",
+          "start": 323.58,
+          "end": 323.82
+        },
+        {
+          "word": "can",
+          "start": 323.82,
+          "end": 324.1
+        },
+        {
+          "word": "relax",
+          "start": 324.1,
+          "end": 324.78
+        },
+        {
+          "word": "and",
+          "start": 324.78,
+          "end": 325.42
+        },
+        {
+          "word": "listen",
+          "start": 325.42,
+          "end": 325.78
+        },
+        {
+          "word": "to",
+          "start": 325.78,
+          "end": 326.04
+        },
+        {
+          "word": "the",
+          "start": 326.04,
+          "end": 326.22
+        },
+        {
+          "word": "waves.",
+          "start": 326.22,
+          "end": 327.1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 327.9,
+      "end": 336.72,
+      "text": "From Dakar, you can take a boat to Gore Island, peaceful, calm, and full of history.",
+      "words": [
+        {
+          "word": "From",
+          "start": 327.9,
+          "end": 328.4
+        },
+        {
+          "word": "Dakar,",
+          "start": 328.4,
+          "end": 329.04
+        },
+        {
+          "word": "you",
+          "start": 329.42,
+          "end": 329.52
+        },
+        {
+          "word": "can",
+          "start": 329.52,
+          "end": 329.74
+        },
+        {
+          "word": "take",
+          "start": 329.74,
+          "end": 330.0
+        },
+        {
+          "word": "a",
+          "start": 330.0,
+          "end": 330.18
+        },
+        {
+          "word": "boat",
+          "start": 330.18,
+          "end": 330.6
+        },
+        {
+          "word": "to",
+          "start": 330.6,
+          "end": 330.9
+        },
+        {
+          "word": "Gore",
+          "start": 330.9,
+          "end": 331.26
+        },
+        {
+          "word": "Island,",
+          "start": 331.26,
+          "end": 331.96
+        },
+        {
+          "word": "peaceful,",
+          "start": 332.34,
+          "end": 333.3
+        },
+        {
+          "word": "calm,",
+          "start": 333.98,
+          "end": 334.66
+        },
+        {
+          "word": "and",
+          "start": 335.12,
+          "end": 335.2
+        },
+        {
+          "word": "full",
+          "start": 335.2,
+          "end": 335.56
+        },
+        {
+          "word": "of",
+          "start": 335.56,
+          "end": 335.76
+        },
+        {
+          "word": "history.",
+          "start": 335.76,
+          "end": 336.72
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 337.12,
+      "end": 342.48,
+      "text": "Part 10, monuments and landmarks.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 337.12,
+          "end": 338.52
+        },
+        {
+          "word": "10,",
+          "start": 338.52,
+          "end": 339.26
+        },
+        {
+          "word": "monuments",
+          "start": 339.9,
+          "end": 340.76
+        },
+        {
+          "word": "and",
+          "start": 340.76,
+          "end": 341.16
+        },
+        {
+          "word": "landmarks.",
+          "start": 341.16,
+          "end": 342.48
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 342.48,
+      "end": 350.19,
+      "text": "One of the most famous landmarks in Dakar is the African Renaissance Monument.",
+      "words": [
+        {
+          "word": "One",
+          "start": 342.48,
+          "end": 343.38
+        },
+        {
+          "word": "of",
+          "start": 343.38,
+          "end": 343.58
+        },
+        {
+          "word": "the",
+          "start": 343.58,
+          "end": 343.7
+        },
+        {
+          "word": "most",
+          "start": 343.7,
+          "end": 344.0
+        },
+        {
+          "word": "famous",
+          "start": 344.0,
+          "end": 344.52
+        },
+        {
+          "word": "landmarks",
+          "start": 344.52,
+          "end": 345.68
+        },
+        {
+          "word": "in",
+          "start": 345.68,
+          "end": 345.88
+        },
+        {
+          "word": "Dakar",
+          "start": 345.88,
+          "end": 346.44
+        },
+        {
+          "word": "is",
+          "start": 346.44,
+          "end": 347.1
+        },
+        {
+          "word": "the",
+          "start": 347.1,
+          "end": 347.3
+        },
+        {
+          "word": "African",
+          "start": 347.3,
+          "end": 348.0
+        },
+        {
+          "word": "Renaissance",
+          "start": 348.0,
+          "end": 348.86
+        },
+        {
+          "word": "Monument.",
+          "start": 348.86,
+          "end": 350.19
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 350.42,
+      "end": 356.94,
+      "text": "It is a giant bronze statue taller than the Statue of Liberty.",
+      "words": [
+        {
+          "word": "It",
+          "start": 350.42,
+          "end": 351.0
+        },
+        {
+          "word": "is",
+          "start": 351.0,
+          "end": 351.2
+        },
+        {
+          "word": "a",
+          "start": 351.2,
+          "end": 351.36
+        },
+        {
+          "word": "giant",
+          "start": 351.36,
+          "end": 351.9
+        },
+        {
+          "word": "bronze",
+          "start": 351.9,
+          "end": 352.38
+        },
+        {
+          "word": "statue",
+          "start": 352.38,
+          "end": 353.34
+        },
+        {
+          "word": "taller",
+          "start": 353.34,
+          "end": 354.62
+        },
+        {
+          "word": "than",
+          "start": 354.62,
+          "end": 355.02
+        },
+        {
+          "word": "the",
+          "start": 355.02,
+          "end": 355.18
+        },
+        {
+          "word": "Statue",
+          "start": 355.18,
+          "end": 355.82
+        },
+        {
+          "word": "of",
+          "start": 355.82,
+          "end": 356.0
+        },
+        {
+          "word": "Liberty.",
+          "start": 356.0,
+          "end": 356.94
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 357.34,
+      "end": 363.02,
+      "text": "It shows a man, woman, and child looking toward the future.",
+      "words": [
+        {
+          "word": "It",
+          "start": 357.34,
+          "end": 357.96
+        },
+        {
+          "word": "shows",
+          "start": 357.96,
+          "end": 358.3
+        },
+        {
+          "word": "a",
+          "start": 358.3,
+          "end": 358.6
+        },
+        {
+          "word": "man,",
+          "start": 358.6,
+          "end": 359.08
+        },
+        {
+          "word": "woman,",
+          "start": 359.48,
+          "end": 359.94
+        },
+        {
+          "word": "and",
+          "start": 360.44,
+          "end": 360.44
+        },
+        {
+          "word": "child",
+          "start": 360.44,
+          "end": 360.96
+        },
+        {
+          "word": "looking",
+          "start": 360.96,
+          "end": 361.48
+        },
+        {
+          "word": "toward",
+          "start": 361.48,
+          "end": 361.92
+        },
+        {
+          "word": "the",
+          "start": 361.92,
+          "end": 362.14
+        },
+        {
+          "word": "future.",
+          "start": 362.14,
+          "end": 363.02
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 363.28,
+      "end": 368.18,
+      "text": "It represents the strength and hope of the African people.",
+      "words": [
+        {
+          "word": "It",
+          "start": 363.28,
+          "end": 363.94
+        },
+        {
+          "word": "represents",
+          "start": 363.94,
+          "end": 364.54
+        },
+        {
+          "word": "the",
+          "start": 364.54,
+          "end": 365.0
+        },
+        {
+          "word": "strength",
+          "start": 365.0,
+          "end": 365.52
+        },
+        {
+          "word": "and",
+          "start": 365.52,
+          "end": 365.82
+        },
+        {
+          "word": "hope",
+          "start": 365.82,
+          "end": 366.22
+        },
+        {
+          "word": "of",
+          "start": 366.22,
+          "end": 366.54
+        },
+        {
+          "word": "the",
+          "start": 366.54,
+          "end": 366.72
+        },
+        {
+          "word": "African",
+          "start": 366.72,
+          "end": 367.16
+        },
+        {
+          "word": "people.",
+          "start": 367.16,
+          "end": 368.18
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 368.86,
+      "end": 376.12,
+      "text": "You can also visit the Mosque of the Divinity, a beautiful white mosque by the sea.",
+      "words": [
+        {
+          "word": "You",
+          "start": 368.86,
+          "end": 369.32
+        },
+        {
+          "word": "can",
+          "start": 369.32,
+          "end": 369.56
+        },
+        {
+          "word": "also",
+          "start": 369.56,
+          "end": 370.0
+        },
+        {
+          "word": "visit",
+          "start": 370.0,
+          "end": 370.46
+        },
+        {
+          "word": "the",
+          "start": 370.46,
+          "end": 370.78
+        },
+        {
+          "word": "Mosque",
+          "start": 370.78,
+          "end": 371.44
+        },
+        {
+          "word": "of",
+          "start": 371.44,
+          "end": 371.58
+        },
+        {
+          "word": "the",
+          "start": 371.58,
+          "end": 371.74
+        },
+        {
+          "word": "Divinity,",
+          "start": 371.74,
+          "end": 372.36
+        },
+        {
+          "word": "a",
+          "start": 373.06,
+          "end": 373.26
+        },
+        {
+          "word": "beautiful",
+          "start": 373.26,
+          "end": 373.66
+        },
+        {
+          "word": "white",
+          "start": 373.66,
+          "end": 374.08
+        },
+        {
+          "word": "mosque",
+          "start": 374.08,
+          "end": 374.74
+        },
+        {
+          "word": "by",
+          "start": 374.74,
+          "end": 375.06
+        },
+        {
+          "word": "the",
+          "start": 375.06,
+          "end": 375.24
+        },
+        {
+          "word": "sea.",
+          "start": 375.24,
+          "end": 376.12
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 376.98,
+      "end": 380.04,
+      "text": "Part 11, life in Dakar.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 376.98,
+          "end": 377.24
+        },
+        {
+          "word": "11,",
+          "start": 377.24,
+          "end": 377.82
+        },
+        {
+          "word": "life",
+          "start": 378.58,
+          "end": 378.72
+        },
+        {
+          "word": "in",
+          "start": 378.72,
+          "end": 379.04
+        },
+        {
+          "word": "Dakar.",
+          "start": 379.04,
+          "end": 380.04
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 380.34,
+      "end": 383.98,
+      "text": "Life in Dakar is lively and social.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 380.34,
+          "end": 380.8
+        },
+        {
+          "word": "in",
+          "start": 380.8,
+          "end": 381.14
+        },
+        {
+          "word": "Dakar",
+          "start": 381.14,
+          "end": 381.5
+        },
+        {
+          "word": "is",
+          "start": 381.5,
+          "end": 382.0
+        },
+        {
+          "word": "lively",
+          "start": 382.0,
+          "end": 382.6
+        },
+        {
+          "word": "and",
+          "start": 382.6,
+          "end": 383.04
+        },
+        {
+          "word": "social.",
+          "start": 383.04,
+          "end": 383.98
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 384.4,
+      "end": 388.82,
+      "text": "People work, study, and spend time together.",
+      "words": [
+        {
+          "word": "People",
+          "start": 384.4,
+          "end": 384.66
+        },
+        {
+          "word": "work,",
+          "start": 384.66,
+          "end": 385.18
+        },
+        {
+          "word": "study,",
+          "start": 385.96,
+          "end": 386.38
+        },
+        {
+          "word": "and",
+          "start": 387.0,
+          "end": 387.24
+        },
+        {
+          "word": "spend",
+          "start": 387.24,
+          "end": 387.52
+        },
+        {
+          "word": "time",
+          "start": 387.52,
+          "end": 387.92
+        },
+        {
+          "word": "together.",
+          "start": 387.92,
+          "end": 388.82
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 389.42,
+      "end": 395.34,
+      "text": "On weekends, families go to the beach or enjoy music festivals.",
+      "words": [
+        {
+          "word": "On",
+          "start": 389.42,
+          "end": 389.88
+        },
+        {
+          "word": "weekends,",
+          "start": 389.88,
+          "end": 390.36
+        },
+        {
+          "word": "families",
+          "start": 390.86,
+          "end": 391.24
+        },
+        {
+          "word": "go",
+          "start": 391.24,
+          "end": 391.66
+        },
+        {
+          "word": "to",
+          "start": 391.66,
+          "end": 391.82
+        },
+        {
+          "word": "the",
+          "start": 391.82,
+          "end": 392.0
+        },
+        {
+          "word": "beach",
+          "start": 392.0,
+          "end": 392.4
+        },
+        {
+          "word": "or",
+          "start": 392.4,
+          "end": 393.26
+        },
+        {
+          "word": "enjoy",
+          "start": 393.26,
+          "end": 393.74
+        },
+        {
+          "word": "music",
+          "start": 393.74,
+          "end": 394.18
+        },
+        {
+          "word": "festivals.",
+          "start": 394.18,
+          "end": 395.34
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 395.98,
+      "end": 401.04,
+      "text": "You can always hear laughter, singing, and the sound of drums.",
+      "words": [
+        {
+          "word": "You",
+          "start": 395.98,
+          "end": 396.26
+        },
+        {
+          "word": "can",
+          "start": 396.26,
+          "end": 396.48
+        },
+        {
+          "word": "always",
+          "start": 396.48,
+          "end": 396.92
+        },
+        {
+          "word": "hear",
+          "start": 396.92,
+          "end": 397.28
+        },
+        {
+          "word": "laughter,",
+          "start": 397.28,
+          "end": 397.96
+        },
+        {
+          "word": "singing,",
+          "start": 398.4,
+          "end": 398.76
+        },
+        {
+          "word": "and",
+          "start": 399.2,
+          "end": 399.3
+        },
+        {
+          "word": "the",
+          "start": 399.3,
+          "end": 399.46
+        },
+        {
+          "word": "sound",
+          "start": 399.46,
+          "end": 399.9
+        },
+        {
+          "word": "of",
+          "start": 399.9,
+          "end": 400.08
+        },
+        {
+          "word": "drums.",
+          "start": 400.08,
+          "end": 401.04
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 401.36,
+      "end": 408.32,
+      "text": "Even with traffic and noise, people live with joy and peace in their hearts.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 401.36,
+          "end": 401.92
+        },
+        {
+          "word": "with",
+          "start": 401.92,
+          "end": 402.22
+        },
+        {
+          "word": "traffic",
+          "start": 402.22,
+          "end": 402.72
+        },
+        {
+          "word": "and",
+          "start": 402.72,
+          "end": 403.06
+        },
+        {
+          "word": "noise,",
+          "start": 403.06,
+          "end": 403.52
+        },
+        {
+          "word": "people",
+          "start": 404.28,
+          "end": 404.7
+        },
+        {
+          "word": "live",
+          "start": 404.7,
+          "end": 405.08
+        },
+        {
+          "word": "with",
+          "start": 405.08,
+          "end": 405.38
+        },
+        {
+          "word": "joy",
+          "start": 405.38,
+          "end": 405.84
+        },
+        {
+          "word": "and",
+          "start": 405.84,
+          "end": 406.4
+        },
+        {
+          "word": "peace",
+          "start": 406.4,
+          "end": 406.82
+        },
+        {
+          "word": "in",
+          "start": 406.82,
+          "end": 407.12
+        },
+        {
+          "word": "their",
+          "start": 407.12,
+          "end": 407.3
+        },
+        {
+          "word": "hearts.",
+          "start": 407.3,
+          "end": 408.32
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 409.0,
+      "end": 412.5,
+      "text": "Part 12, goodbye from Dakar.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 409.0,
+          "end": 409.88
+        },
+        {
+          "word": "12,",
+          "start": 409.88,
+          "end": 410.36
+        },
+        {
+          "word": "goodbye",
+          "start": 410.66,
+          "end": 410.78
+        },
+        {
+          "word": "from",
+          "start": 410.78,
+          "end": 411.4
+        },
+        {
+          "word": "Dakar.",
+          "start": 411.4,
+          "end": 412.5
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 413.06,
+      "end": 418.6,
+      "text": "Thank you for joining me on this trip to Dakar, Senegal.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 413.06,
+          "end": 413.94
+        },
+        {
+          "word": "you",
+          "start": 413.94,
+          "end": 414.2
+        },
+        {
+          "word": "for",
+          "start": 414.2,
+          "end": 414.46
+        },
+        {
+          "word": "joining",
+          "start": 414.46,
+          "end": 414.92
+        },
+        {
+          "word": "me",
+          "start": 414.92,
+          "end": 415.28
+        },
+        {
+          "word": "on",
+          "start": 415.28,
+          "end": 415.54
+        },
+        {
+          "word": "this",
+          "start": 415.54,
+          "end": 415.8
+        },
+        {
+          "word": "trip",
+          "start": 415.8,
+          "end": 416.18
+        },
+        {
+          "word": "to",
+          "start": 416.18,
+          "end": 416.44
+        },
+        {
+          "word": "Dakar,",
+          "start": 416.44,
+          "end": 417.24
+        },
+        {
+          "word": "Senegal.",
+          "start": 417.5,
+          "end": 418.6
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 419.02,
+      "end": 423.78,
+      "text": "It is a city full of rhythm, history, and sunshine.",
+      "words": [
+        {
+          "word": "It",
+          "start": 419.02,
+          "end": 419.1
+        },
+        {
+          "word": "is",
+          "start": 419.1,
+          "end": 419.28
+        },
+        {
+          "word": "a",
+          "start": 419.28,
+          "end": 419.48
+        },
+        {
+          "word": "city",
+          "start": 419.48,
+          "end": 419.72
+        },
+        {
+          "word": "full",
+          "start": 419.72,
+          "end": 420.1
+        },
+        {
+          "word": "of",
+          "start": 420.1,
+          "end": 420.32
+        },
+        {
+          "word": "rhythm,",
+          "start": 420.32,
+          "end": 420.8
+        },
+        {
+          "word": "history,",
+          "start": 421.32,
+          "end": 421.92
+        },
+        {
+          "word": "and",
+          "start": 422.4,
+          "end": 422.82
+        },
+        {
+          "word": "sunshine.",
+          "start": 422.82,
+          "end": 423.78
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 424.84,
+      "end": 431.82,
+      "text": "From its warm people to its beautiful ocean views, Dakar has a special soul.",
+      "words": [
+        {
+          "word": "From",
+          "start": 424.84,
+          "end": 425.1
+        },
+        {
+          "word": "its",
+          "start": 425.1,
+          "end": 425.42
+        },
+        {
+          "word": "warm",
+          "start": 425.42,
+          "end": 425.86
+        },
+        {
+          "word": "people",
+          "start": 425.86,
+          "end": 426.4
+        },
+        {
+          "word": "to",
+          "start": 426.4,
+          "end": 426.86
+        },
+        {
+          "word": "its",
+          "start": 426.86,
+          "end": 427.1
+        },
+        {
+          "word": "beautiful",
+          "start": 427.1,
+          "end": 427.66
+        },
+        {
+          "word": "ocean",
+          "start": 427.66,
+          "end": 428.14
+        },
+        {
+          "word": "views,",
+          "start": 428.14,
+          "end": 428.78
+        },
+        {
+          "word": "Dakar",
+          "start": 429.38,
+          "end": 429.92
+        },
+        {
+          "word": "has",
+          "start": 429.92,
+          "end": 430.2
+        },
+        {
+          "word": "a",
+          "start": 430.2,
+          "end": 430.36
+        },
+        {
+          "word": "special",
+          "start": 430.36,
+          "end": 430.84
+        },
+        {
+          "word": "soul.",
+          "start": 430.84,
+          "end": 431.82
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 432.36,
+      "end": 437.01,
+      "text": "If you ever visit West Africa, don't miss this city.",
+      "words": [
+        {
+          "word": "If",
+          "start": 432.36,
+          "end": 432.54
+        },
+        {
+          "word": "you",
+          "start": 432.54,
+          "end": 432.7
+        },
+        {
+          "word": "ever",
+          "start": 432.7,
+          "end": 433.04
+        },
+        {
+          "word": "visit",
+          "start": 433.04,
+          "end": 433.5
+        },
+        {
+          "word": "West",
+          "start": 433.5,
+          "end": 433.88
+        },
+        {
+          "word": "Africa,",
+          "start": 433.88,
+          "end": 434.46
+        },
+        {
+          "word": "don't",
+          "start": 435.2,
+          "end": 435.64
+        },
+        {
+          "word": "miss",
+          "start": 435.64,
+          "end": 435.92
+        },
+        {
+          "word": "this",
+          "start": 435.92,
+          "end": 436.22
+        },
+        {
+          "word": "city.",
+          "start": 436.22,
+          "end": 437.01
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 74
 }

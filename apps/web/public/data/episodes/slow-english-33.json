@@ -15,3363 +15,2608 @@
   "sentences": [
     {
       "id": 1,
-      "start": 4.62,
-      "end": 11.85,
-      "text": "I'm Emily, and in today's episode, we will learn how to speak English at the Bakery.",
+      "start": 13.1,
+      "end": 19.16,
+      "text": "A bakery is a great place to buy fresh bread, pastries, and cakes.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 4.82,
-          "endSec": 5.36,
-          "score": 0.99
+          "word": "A",
+          "start": 13.1,
+          "end": 13.4
         },
         {
-          "word": "Emily,",
-          "startSec": 5.36,
-          "endSec": 5.72,
-          "score": 0.95
+          "word": "bakery",
+          "start": 13.4,
+          "end": 13.8
         },
         {
-          "word": "and",
-          "startSec": 6.04,
-          "endSec": 6.22,
-          "score": 1.0
+          "word": "is",
+          "start": 13.8,
+          "end": 14.34
         },
         {
-          "word": "in",
-          "startSec": 6.22,
-          "endSec": 6.38,
-          "score": 1.0
+          "word": "a",
+          "start": 14.34,
+          "end": 14.48
         },
         {
-          "word": "today's",
-          "startSec": 6.38,
-          "endSec": 6.94,
-          "score": 1.0
+          "word": "great",
+          "start": 14.48,
+          "end": 14.74
         },
         {
-          "word": "episode,",
-          "startSec": 6.94,
-          "endSec": 7.52,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 8.42,
-          "endSec": 8.46,
-          "score": 0.99
-        },
-        {
-          "word": "will",
-          "startSec": 8.46,
-          "endSec": 8.7,
-          "score": 1.0
-        },
-        {
-          "word": "learn",
-          "startSec": 8.7,
-          "endSec": 9.08,
-          "score": 1.0
-        },
-        {
-          "word": "how",
-          "startSec": 9.08,
-          "endSec": 9.4,
-          "score": 1.0
+          "word": "place",
+          "start": 14.74,
+          "end": 15.2
         },
         {
           "word": "to",
-          "startSec": 9.4,
-          "endSec": 9.54,
-          "score": 1.0
+          "start": 15.2,
+          "end": 15.48
         },
         {
-          "word": "speak",
-          "startSec": 9.54,
-          "endSec": 9.88,
-          "score": 1.0
+          "word": "buy",
+          "start": 15.48,
+          "end": 15.72
         },
         {
-          "word": "English",
-          "startSec": 9.88,
-          "endSec": 10.5,
-          "score": 1.0
+          "word": "fresh",
+          "start": 15.72,
+          "end": 16.18
         },
         {
-          "word": "at",
-          "startSec": 10.5,
-          "endSec": 10.98,
-          "score": 1.0
+          "word": "bread,",
+          "start": 16.18,
+          "end": 16.72
         },
         {
-          "word": "the",
-          "startSec": 10.98,
-          "endSec": 11.16,
-          "score": 0.92
+          "word": "pastries,",
+          "start": 17.28,
+          "end": 17.94
         },
         {
-          "word": "Bakery.",
-          "startSec": 11.16,
-          "endSec": 11.7,
-          "score": 0.66
+          "word": "and",
+          "start": 18.28,
+          "end": 18.42
+        },
+        {
+          "word": "cakes.",
+          "start": 18.42,
+          "end": 19.16
         }
       ]
     },
     {
       "id": 2,
-      "start": 12.88,
-      "end": 18.85,
-      "text": "A bakery is a great place to buy fresh bread, pastries, and cakes.",
+      "start": 19.84,
+      "end": 23.36,
+      "text": "But how do you ask for what you want in English?",
       "words": [
         {
-          "word": "A",
-          "startSec": 13.08,
-          "endSec": 13.34,
-          "score": 0.95
+          "word": "But",
+          "start": 19.84,
+          "end": 20.36
         },
         {
-          "word": "bakery",
-          "startSec": 13.34,
-          "endSec": 13.64,
-          "score": 0.5
+          "word": "how",
+          "start": 20.36,
+          "end": 20.66
         },
         {
-          "word": "is",
-          "startSec": 13.64,
-          "endSec": 14.24,
-          "score": 1.0
+          "word": "do",
+          "start": 20.66,
+          "end": 20.84
         },
         {
-          "word": "a",
-          "startSec": 14.24,
-          "endSec": 14.4,
-          "score": 1.0
+          "word": "you",
+          "start": 20.84,
+          "end": 21.0
         },
         {
-          "word": "great",
-          "startSec": 14.4,
-          "endSec": 14.66,
-          "score": 1.0
+          "word": "ask",
+          "start": 21.0,
+          "end": 21.44
         },
         {
-          "word": "place",
-          "startSec": 14.66,
-          "endSec": 15.12,
-          "score": 1.0
+          "word": "for",
+          "start": 21.44,
+          "end": 21.68
         },
         {
-          "word": "to",
-          "startSec": 15.12,
-          "endSec": 15.46,
-          "score": 1.0
+          "word": "what",
+          "start": 21.68,
+          "end": 21.9
         },
         {
-          "word": "buy",
-          "startSec": 15.46,
-          "endSec": 15.64,
-          "score": 1.0
+          "word": "you",
+          "start": 21.9,
+          "end": 22.14
         },
         {
-          "word": "fresh",
-          "startSec": 15.64,
-          "endSec": 16.04,
-          "score": 1.0
+          "word": "want",
+          "start": 22.14,
+          "end": 22.42
         },
         {
-          "word": "bread,",
-          "startSec": 16.04,
-          "endSec": 16.52,
-          "score": 1.0
+          "word": "in",
+          "start": 22.42,
+          "end": 22.7
         },
         {
-          "word": "pastries,",
-          "startSec": 17.24,
-          "endSec": 17.86,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 18.32,
-          "endSec": 18.36,
-          "score": 1.0
-        },
-        {
-          "word": "cakes.",
-          "startSec": 18.36,
-          "endSec": 18.7,
-          "score": 1.0
+          "word": "English?",
+          "start": 22.7,
+          "end": 23.36
         }
       ]
     },
     {
       "id": 3,
-      "start": 19.58,
-      "end": 23.19,
-      "text": "But how do you ask for what you want in English?",
+      "start": 23.54,
+      "end": 26.9,
+      "text": "How do you order different types of bread and desserts?",
       "words": [
         {
-          "word": "But",
-          "startSec": 19.78,
-          "endSec": 20.26,
-          "score": 0.98
-        },
-        {
-          "word": "how",
-          "startSec": 20.26,
-          "endSec": 20.6,
-          "score": 0.95
+          "word": "How",
+          "start": 23.54,
+          "end": 23.78
         },
         {
           "word": "do",
-          "startSec": 20.6,
-          "endSec": 20.78,
-          "score": 1.0
+          "start": 23.78,
+          "end": 23.94
         },
         {
           "word": "you",
-          "startSec": 20.78,
-          "endSec": 20.96,
-          "score": 1.0
+          "start": 23.94,
+          "end": 24.06
         },
         {
-          "word": "ask",
-          "startSec": 20.96,
-          "endSec": 21.34,
-          "score": 1.0
+          "word": "order",
+          "start": 24.06,
+          "end": 24.34
         },
         {
-          "word": "for",
-          "startSec": 21.34,
-          "endSec": 21.62,
-          "score": 1.0
+          "word": "different",
+          "start": 24.34,
+          "end": 24.72
         },
         {
-          "word": "what",
-          "startSec": 21.62,
-          "endSec": 21.86,
-          "score": 1.0
+          "word": "types",
+          "start": 24.72,
+          "end": 25.06
         },
         {
-          "word": "you",
-          "startSec": 21.86,
-          "endSec": 22.08,
-          "score": 1.0
+          "word": "of",
+          "start": 25.06,
+          "end": 25.32
         },
         {
-          "word": "want",
-          "startSec": 22.08,
-          "endSec": 22.36,
-          "score": 1.0
+          "word": "bread",
+          "start": 25.32,
+          "end": 25.64
         },
         {
-          "word": "in",
-          "startSec": 22.36,
-          "endSec": 22.62,
-          "score": 1.0
+          "word": "and",
+          "start": 25.64,
+          "end": 26.08
         },
         {
-          "word": "English?",
-          "startSec": 22.62,
-          "endSec": 23.04,
-          "score": 1.0
+          "word": "desserts?",
+          "start": 26.08,
+          "end": 26.9
         }
       ]
     },
     {
       "id": 4,
-      "start": 23.36,
-      "end": 26.53,
-      "text": "How do you order different types of bread and desserts?",
+      "start": 47.4,
+      "end": 50.64,
+      "text": "One, common bakery vocabulary.",
       "words": [
         {
-          "word": "How",
-          "startSec": 23.56,
-          "endSec": 23.72,
-          "score": 1.0
+          "word": "One,",
+          "start": 47.4,
+          "end": 48.16
         },
         {
-          "word": "do",
-          "startSec": 23.72,
-          "endSec": 23.88,
-          "score": 1.0
+          "word": "common",
+          "start": 48.78,
+          "end": 49.22
         },
         {
-          "word": "you",
-          "startSec": 23.88,
-          "endSec": 24.0,
-          "score": 1.0
+          "word": "bakery",
+          "start": 49.22,
+          "end": 49.72
         },
         {
-          "word": "order",
-          "startSec": 24.0,
-          "endSec": 24.3,
-          "score": 1.0
-        },
-        {
-          "word": "different",
-          "startSec": 24.3,
-          "endSec": 24.68,
-          "score": 1.0
-        },
-        {
-          "word": "types",
-          "startSec": 24.68,
-          "endSec": 25.0,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 25.0,
-          "endSec": 25.26,
-          "score": 1.0
-        },
-        {
-          "word": "bread",
-          "startSec": 25.26,
-          "endSec": 25.54,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 25.54,
-          "endSec": 26.04,
-          "score": 0.99
-        },
-        {
-          "word": "desserts?",
-          "startSec": 26.04,
-          "endSec": 26.38,
-          "score": 0.99
+          "word": "vocabulary.",
+          "start": 49.72,
+          "end": 50.64
         }
       ]
     },
     {
       "id": 5,
-      "start": 26.18,
-      "end": 32.67,
-      "text": "In this episode, we will learn common bakery vocabulary,",
+      "start": 50.64,
+      "end": 56.12,
+      "text": "First, let's learn some important words you might hear at a bakery.",
       "words": [
         {
-          "word": "In",
-          "startSec": 26.38,
-          "endSec": 27.32,
-          "score": 0.31
+          "word": "First,",
+          "start": 50.64,
+          "end": 52.04
         },
         {
-          "word": "this",
-          "startSec": 27.39,
-          "endSec": 28.09,
-          "score": 1.0
-        },
-        {
-          "word": "episode,",
-          "startSec": 28.09,
-          "endSec": 28.77,
-          "score": 0.99
-        },
-        {
-          "word": "we",
-          "startSec": 29.19,
-          "endSec": 29.43,
-          "score": 0.99
-        },
-        {
-          "word": "will",
-          "startSec": 29.43,
-          "endSec": 29.57,
-          "score": 1.0
+          "word": "let's",
+          "start": 52.4,
+          "end": 52.68
         },
         {
           "word": "learn",
-          "startSec": 29.57,
-          "endSec": 30.03,
-          "score": 1.0
+          "start": 52.68,
+          "end": 52.92
         },
         {
-          "word": "common",
-          "startSec": 30.03,
-          "endSec": 31.19,
-          "score": 0.28
+          "word": "some",
+          "start": 52.92,
+          "end": 53.14
         },
         {
-          "word": "bakery",
-          "startSec": 31.28,
-          "endSec": 31.68,
-          "score": 0.8
+          "word": "important",
+          "start": 53.14,
+          "end": 53.66
         },
         {
-          "word": "vocabulary,",
-          "startSec": 31.68,
-          "endSec": 32.52,
-          "score": 1.0
+          "word": "words",
+          "start": 53.66,
+          "end": 54.08
+        },
+        {
+          "word": "you",
+          "start": 54.08,
+          "end": 54.38
+        },
+        {
+          "word": "might",
+          "start": 54.38,
+          "end": 54.62
+        },
+        {
+          "word": "hear",
+          "start": 54.62,
+          "end": 54.96
+        },
+        {
+          "word": "at",
+          "start": 54.96,
+          "end": 55.22
+        },
+        {
+          "word": "a",
+          "start": 55.22,
+          "end": 55.36
+        },
+        {
+          "word": "bakery.",
+          "start": 55.36,
+          "end": 56.12
         }
       ]
     },
     {
       "id": 6,
-      "start": 33.7,
-      "end": 37.41,
-      "text": "how to ask for different types of bread and pastries,",
+      "start": 56.78,
+      "end": 80.36,
+      "text": "Types of bread, white bread, whole wheat bread, baguette, sourdough bread, rye bread, flat bread, pastries and cakes, croissant, donut, muffin, cake, tart, Danish pastry.",
       "words": [
         {
-          "word": "how",
-          "startSec": 33.9,
-          "endSec": 34.2,
-          "score": 0.95
-        },
-        {
-          "word": "to",
-          "startSec": 34.2,
-          "endSec": 34.4,
-          "score": 1.0
-        },
-        {
-          "word": "ask",
-          "startSec": 34.4,
-          "endSec": 34.9,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 34.9,
-          "endSec": 35.14,
-          "score": 1.0
-        },
-        {
-          "word": "different",
-          "startSec": 35.14,
-          "endSec": 35.46,
-          "score": 1.0
-        },
-        {
-          "word": "types",
-          "startSec": 35.46,
-          "endSec": 35.86,
-          "score": 1.0
+          "word": "Types",
+          "start": 56.78,
+          "end": 57.66
         },
         {
           "word": "of",
-          "startSec": 35.86,
-          "endSec": 36.16,
-          "score": 1.0
+          "start": 57.66,
+          "end": 57.84
         },
         {
-          "word": "bread",
-          "startSec": 36.16,
-          "endSec": 36.4,
-          "score": 1.0
+          "word": "bread,",
+          "start": 57.84,
+          "end": 58.2
+        },
+        {
+          "word": "white",
+          "start": 58.92,
+          "end": 59.68
+        },
+        {
+          "word": "bread,",
+          "start": 59.68,
+          "end": 60.16
+        },
+        {
+          "word": "whole",
+          "start": 61.12,
+          "end": 61.6
+        },
+        {
+          "word": "wheat",
+          "start": 61.6,
+          "end": 61.86
+        },
+        {
+          "word": "bread,",
+          "start": 61.86,
+          "end": 62.28
+        },
+        {
+          "word": "baguette,",
+          "start": 62.98,
+          "end": 63.62
+        },
+        {
+          "word": "sourdough",
+          "start": 64.28,
+          "end": 64.84
+        },
+        {
+          "word": "bread,",
+          "start": 64.84,
+          "end": 65.2
+        },
+        {
+          "word": "rye",
+          "start": 65.94,
+          "end": 66.3
+        },
+        {
+          "word": "bread,",
+          "start": 66.3,
+          "end": 66.68
+        },
+        {
+          "word": "flat",
+          "start": 67.5,
+          "end": 67.9
+        },
+        {
+          "word": "bread,",
+          "start": 67.9,
+          "end": 68.36
+        },
+        {
+          "word": "pastries",
+          "start": 69.26,
+          "end": 70.6
         },
         {
           "word": "and",
-          "startSec": 36.4,
-          "endSec": 36.64,
-          "score": 0.98
+          "start": 70.6,
+          "end": 70.94
         },
         {
-          "word": "pastries,",
-          "startSec": 36.64,
-          "endSec": 37.26,
-          "score": 0.98
+          "word": "cakes,",
+          "start": 70.94,
+          "end": 71.4
+        },
+        {
+          "word": "croissant,",
+          "start": 72.7,
+          "end": 73.38
+        },
+        {
+          "word": "donut,",
+          "start": 73.94,
+          "end": 74.5
+        },
+        {
+          "word": "muffin,",
+          "start": 75.32,
+          "end": 75.8
+        },
+        {
+          "word": "cake,",
+          "start": 76.62,
+          "end": 77.06
+        },
+        {
+          "word": "tart,",
+          "start": 77.94,
+          "end": 78.2
+        },
+        {
+          "word": "Danish",
+          "start": 79.0,
+          "end": 79.4
+        },
+        {
+          "word": "pastry.",
+          "start": 79.4,
+          "end": 80.36
         }
       ]
     },
     {
       "id": 7,
-      "start": 37.86,
-      "end": 42.63,
-      "text": "how to order and pay a full conversation at the bakery.",
+      "start": 81.88,
+      "end": 88.18,
+      "text": "Now that we know some key vocabulary, let's learn how to order what we want.",
       "words": [
         {
+          "word": "Now",
+          "start": 81.88,
+          "end": 82.56
+        },
+        {
+          "word": "that",
+          "start": 82.56,
+          "end": 82.8
+        },
+        {
+          "word": "we",
+          "start": 82.8,
+          "end": 82.98
+        },
+        {
+          "word": "know",
+          "start": 82.98,
+          "end": 83.22
+        },
+        {
+          "word": "some",
+          "start": 83.22,
+          "end": 83.46
+        },
+        {
+          "word": "key",
+          "start": 83.46,
+          "end": 83.8
+        },
+        {
+          "word": "vocabulary,",
+          "start": 83.8,
+          "end": 84.52
+        },
+        {
+          "word": "let's",
+          "start": 85.2,
+          "end": 85.78
+        },
+        {
+          "word": "learn",
+          "start": 85.78,
+          "end": 86.02
+        },
+        {
           "word": "how",
-          "startSec": 38.06,
-          "endSec": 38.6,
-          "score": 0.99
+          "start": 86.02,
+          "end": 86.26
         },
         {
           "word": "to",
-          "startSec": 38.6,
-          "endSec": 38.78,
-          "score": 1.0
+          "start": 86.26,
+          "end": 86.4
         },
         {
           "word": "order",
-          "startSec": 38.78,
-          "endSec": 39.08,
-          "score": 1.0
+          "start": 86.4,
+          "end": 86.82
         },
         {
-          "word": "and",
-          "startSec": 39.08,
-          "endSec": 39.38,
-          "score": 0.99
+          "word": "what",
+          "start": 86.82,
+          "end": 87.08
         },
         {
-          "word": "pay",
-          "startSec": 39.38,
-          "endSec": 39.74,
-          "score": 0.99
+          "word": "we",
+          "start": 87.08,
+          "end": 87.32
         },
         {
-          "word": "a",
-          "startSec": 39.74,
-          "endSec": 40.72,
-          "score": 0.42
-        },
-        {
-          "word": "full",
-          "startSec": 40.72,
-          "endSec": 40.96,
-          "score": 1.0
-        },
-        {
-          "word": "conversation",
-          "startSec": 40.96,
-          "endSec": 41.64,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 41.64,
-          "endSec": 42.1,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 42.1,
-          "endSec": 42.22,
-          "score": 1.0
-        },
-        {
-          "word": "bakery.",
-          "startSec": 42.22,
-          "endSec": 42.48,
-          "score": 0.99
+          "word": "want.",
+          "start": 87.32,
+          "end": 88.18
         }
       ]
     },
     {
       "id": 8,
-      "start": 43.54,
-      "end": 46.49,
-      "text": "Are you ready? Let's get started.",
+      "start": 93.2,
+      "end": 97.1,
+      "text": "When you go to a bakery, you need to ask for the items you want.",
       "words": [
         {
-          "word": "Are",
-          "startSec": 43.74,
-          "endSec": 44.0,
-          "score": 0.94
+          "word": "When",
+          "start": 93.2,
+          "end": 93.56
         },
         {
           "word": "you",
-          "startSec": 44.0,
-          "endSec": 44.18,
-          "score": 1.0
+          "start": 93.56,
+          "end": 93.74
         },
         {
-          "word": "ready?",
-          "startSec": 44.18,
-          "endSec": 44.5,
-          "score": 1.0
+          "word": "go",
+          "start": 93.74,
+          "end": 93.92
         },
         {
-          "word": "Let's",
-          "startSec": 45.58,
-          "endSec": 45.78,
-          "score": 0.99
+          "word": "to",
+          "start": 93.92,
+          "end": 94.1
         },
         {
-          "word": "get",
-          "startSec": 45.78,
-          "endSec": 45.92,
-          "score": 1.0
+          "word": "a",
+          "start": 94.1,
+          "end": 94.28
         },
         {
-          "word": "started.",
-          "startSec": 45.92,
-          "endSec": 46.34,
-          "score": 1.0
+          "word": "bakery,",
+          "start": 94.28,
+          "end": 94.66
+        },
+        {
+          "word": "you",
+          "start": 95.04,
+          "end": 95.14
+        },
+        {
+          "word": "need",
+          "start": 95.14,
+          "end": 95.32
+        },
+        {
+          "word": "to",
+          "start": 95.32,
+          "end": 95.52
+        },
+        {
+          "word": "ask",
+          "start": 95.52,
+          "end": 95.86
+        },
+        {
+          "word": "for",
+          "start": 95.86,
+          "end": 96.06
+        },
+        {
+          "word": "the",
+          "start": 96.06,
+          "end": 96.2
+        },
+        {
+          "word": "items",
+          "start": 96.2,
+          "end": 96.54
+        },
+        {
+          "word": "you",
+          "start": 96.54,
+          "end": 96.76
+        },
+        {
+          "word": "want.",
+          "start": 96.76,
+          "end": 97.1
         }
       ]
     },
     {
       "id": 9,
-      "start": 47.75,
-      "end": 50.56,
-      "text": "One, common bakery vocabulary.",
+      "start": 97.1,
+      "end": 99.98,
+      "text": "Here are some simple ways to do that.",
       "words": [
         {
-          "word": "One,",
-          "startSec": 47.95,
-          "endSec": 48.07,
-          "score": 0.11
+          "word": "Here",
+          "start": 97.1,
+          "end": 97.58
         },
         {
-          "word": "common",
-          "startSec": 48.73,
-          "endSec": 49.17,
-          "score": 0.98
+          "word": "are",
+          "start": 97.58,
+          "end": 97.78
         },
         {
-          "word": "bakery",
-          "startSec": 49.17,
-          "endSec": 49.53,
-          "score": 0.99
+          "word": "some",
+          "start": 97.78,
+          "end": 97.96
         },
         {
-          "word": "vocabulary.",
-          "startSec": 49.53,
-          "endSec": 50.41,
-          "score": 1.0
+          "word": "simple",
+          "start": 97.96,
+          "end": 98.42
+        },
+        {
+          "word": "ways",
+          "start": 98.42,
+          "end": 98.74
+        },
+        {
+          "word": "to",
+          "start": 98.74,
+          "end": 99.02
+        },
+        {
+          "word": "do",
+          "start": 99.02,
+          "end": 99.22
+        },
+        {
+          "word": "that.",
+          "start": 99.22,
+          "end": 99.98
         }
       ]
     },
     {
       "id": 10,
-      "start": 51.32,
-      "end": 55.67,
-      "text": "First, let's learn some important words you might hear at a bakery.",
+      "start": 101.8,
+      "end": 104.1,
+      "text": "Asking for bread and pastries.",
       "words": [
         {
-          "word": "First,",
-          "startSec": 51.52,
-          "endSec": 52.08,
-          "score": 0.99
+          "word": "Asking",
+          "start": 101.8,
+          "end": 102.4
         },
         {
-          "word": "let's",
-          "startSec": 52.22,
-          "endSec": 52.64,
-          "score": 1.0
+          "word": "for",
+          "start": 102.4,
+          "end": 102.6
         },
         {
-          "word": "learn",
-          "startSec": 52.64,
-          "endSec": 52.88,
-          "score": 1.0
+          "word": "bread",
+          "start": 102.6,
+          "end": 102.88
         },
         {
-          "word": "some",
-          "startSec": 52.88,
-          "endSec": 53.14,
-          "score": 1.0
+          "word": "and",
+          "start": 102.88,
+          "end": 103.06
         },
         {
-          "word": "important",
-          "startSec": 53.14,
-          "endSec": 53.56,
-          "score": 1.0
-        },
-        {
-          "word": "words",
-          "startSec": 53.56,
-          "endSec": 53.98,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 53.98,
-          "endSec": 54.34,
-          "score": 0.98
-        },
-        {
-          "word": "might",
-          "startSec": 54.34,
-          "endSec": 54.56,
-          "score": 1.0
-        },
-        {
-          "word": "hear",
-          "startSec": 54.56,
-          "endSec": 54.86,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 54.86,
-          "endSec": 55.16,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 55.16,
-          "endSec": 55.28,
-          "score": 1.0
-        },
-        {
-          "word": "bakery.",
-          "startSec": 55.28,
-          "endSec": 55.52,
-          "score": 1.0
+          "word": "pastries.",
+          "start": 103.06,
+          "end": 104.1
         }
       ]
     },
     {
       "id": 11,
-      "start": 55.32,
-      "end": 68.37,
-      "text": "Types of bread, white bread, whole wheat bread, baguette, sourdough bread, rye bread, flat bread,",
+      "start": 105.04,
+      "end": 108.1,
+      "text": "Can I have a loaf of white bread, please?",
       "words": [
         {
-          "word": "Types",
-          "startSec": 55.52,
-          "endSec": 56.76,
-          "score": 0.0
+          "word": "Can",
+          "start": 105.04,
+          "end": 105.64
+        },
+        {
+          "word": "I",
+          "start": 105.64,
+          "end": 105.86
+        },
+        {
+          "word": "have",
+          "start": 105.86,
+          "end": 106.12
+        },
+        {
+          "word": "a",
+          "start": 106.12,
+          "end": 106.26
+        },
+        {
+          "word": "loaf",
+          "start": 106.26,
+          "end": 106.48
         },
         {
           "word": "of",
-          "startSec": 57.3,
-          "endSec": 57.8,
-          "score": 0.98
-        },
-        {
-          "word": "bread,",
-          "startSec": 57.8,
-          "endSec": 58.12,
-          "score": 0.67
+          "start": 106.48,
+          "end": 106.68
         },
         {
           "word": "white",
-          "startSec": 58.92,
-          "endSec": 59.56,
-          "score": 0.89
+          "start": 106.68,
+          "end": 106.96
         },
         {
           "word": "bread,",
-          "startSec": 59.56,
-          "endSec": 60.06,
-          "score": 0.99
+          "start": 106.96,
+          "end": 107.3
         },
         {
-          "word": "whole",
-          "startSec": 60.8,
-          "endSec": 61.46,
-          "score": 0.99
-        },
-        {
-          "word": "wheat",
-          "startSec": 61.46,
-          "endSec": 61.78,
-          "score": 0.97
-        },
-        {
-          "word": "bread,",
-          "startSec": 61.78,
-          "endSec": 62.58,
-          "score": 1.0
-        },
-        {
-          "word": "baguette,",
-          "startSec": 62.9,
-          "endSec": 63.6,
-          "score": 0.88
-        },
-        {
-          "word": "sourdough",
-          "startSec": 64.52,
-          "endSec": 64.82,
-          "score": 0.99
-        },
-        {
-          "word": "bread,",
-          "startSec": 64.82,
-          "endSec": 65.24,
-          "score": 0.99
-        },
-        {
-          "word": "rye",
-          "startSec": 65.9,
-          "endSec": 66.14,
-          "score": 1.0
-        },
-        {
-          "word": "bread,",
-          "startSec": 66.14,
-          "endSec": 66.66,
-          "score": 1.0
-        },
-        {
-          "word": "flat",
-          "startSec": 67.44,
-          "endSec": 67.76,
-          "score": 0.99
-        },
-        {
-          "word": "bread,",
-          "startSec": 67.76,
-          "endSec": 68.22,
-          "score": 0.91
+          "word": "please?",
+          "start": 107.54,
+          "end": 108.1
         }
       ]
     },
     {
       "id": 12,
-      "start": 69.62,
-      "end": 79.88,
-      "text": "pastries and cakes, croissant, donut, muffin, cake, tart, Danish pastry.",
+      "start": 109.14,
+      "end": 111.32,
+      "text": "I'd like two croissants, please.",
       "words": [
         {
-          "word": "pastries",
-          "startSec": 69.82,
-          "endSec": 70.54,
-          "score": 0.98
+          "word": "I'd",
+          "start": 109.14,
+          "end": 109.42
         },
         {
-          "word": "and",
-          "startSec": 70.54,
-          "endSec": 70.86,
-          "score": 0.98
+          "word": "like",
+          "start": 109.42,
+          "end": 109.58
         },
         {
-          "word": "cakes,",
-          "startSec": 70.86,
-          "endSec": 71.14,
-          "score": 1.0
+          "word": "two",
+          "start": 109.58,
+          "end": 109.92
         },
         {
-          "word": "croissant,",
-          "startSec": 72.53,
-          "endSec": 73.23,
-          "score": 0.99
+          "word": "croissants,",
+          "start": 109.92,
+          "end": 110.52
         },
         {
-          "word": "donut,",
-          "startSec": 73.95,
-          "endSec": 74.61,
-          "score": 0.82
-        },
-        {
-          "word": "muffin,",
-          "startSec": 75.29,
-          "endSec": 75.95,
-          "score": 1.0
-        },
-        {
-          "word": "cake,",
-          "startSec": 76.57,
-          "endSec": 76.89,
-          "score": 1.0
-        },
-        {
-          "word": "tart,",
-          "startSec": 77.77,
-          "endSec": 78.07,
-          "score": 0.99
-        },
-        {
-          "word": "Danish",
-          "startSec": 78.95,
-          "endSec": 79.33,
-          "score": 0.94
-        },
-        {
-          "word": "pastry.",
-          "startSec": 79.33,
-          "endSec": 79.73,
-          "score": 0.98
+          "word": "please.",
+          "start": 110.78,
+          "end": 111.32
         }
       ]
     },
     {
       "id": 13,
-      "start": 81.88,
-      "end": 87.75,
-      "text": "Now that we know some key vocabulary, let's learn how to order what we want.",
+      "start": 112.08,
+      "end": 114.44,
+      "text": "Can I get a chocolate muffin?",
       "words": [
         {
-          "word": "Now",
-          "startSec": 82.08,
-          "endSec": 82.5,
-          "score": 1.0
+          "word": "Can",
+          "start": 112.08,
+          "end": 112.68
         },
         {
-          "word": "that",
-          "startSec": 82.5,
-          "endSec": 82.74,
-          "score": 0.99
+          "word": "I",
+          "start": 112.68,
+          "end": 112.84
         },
         {
-          "word": "we",
-          "startSec": 82.74,
-          "endSec": 82.94,
-          "score": 1.0
+          "word": "get",
+          "start": 112.84,
+          "end": 113.02
         },
         {
-          "word": "know",
-          "startSec": 82.94,
-          "endSec": 83.14,
-          "score": 1.0
+          "word": "a",
+          "start": 113.02,
+          "end": 113.14
         },
         {
-          "word": "some",
-          "startSec": 83.14,
-          "endSec": 83.46,
-          "score": 1.0
+          "word": "chocolate",
+          "start": 113.14,
+          "end": 113.58
         },
         {
-          "word": "key",
-          "startSec": 83.46,
-          "endSec": 83.72,
-          "score": 0.99
-        },
-        {
-          "word": "vocabulary,",
-          "startSec": 83.72,
-          "endSec": 84.36,
-          "score": 1.0
-        },
-        {
-          "word": "let's",
-          "startSec": 85.16,
-          "endSec": 85.74,
-          "score": 0.99
-        },
-        {
-          "word": "learn",
-          "startSec": 85.74,
-          "endSec": 85.98,
-          "score": 1.0
-        },
-        {
-          "word": "how",
-          "startSec": 85.98,
-          "endSec": 86.22,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 86.22,
-          "endSec": 86.4,
-          "score": 1.0
-        },
-        {
-          "word": "order",
-          "startSec": 86.4,
-          "endSec": 86.78,
-          "score": 1.0
-        },
-        {
-          "word": "what",
-          "startSec": 86.78,
-          "endSec": 87.06,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 87.06,
-          "endSec": 87.26,
-          "score": 1.0
-        },
-        {
-          "word": "want.",
-          "startSec": 87.26,
-          "endSec": 87.6,
-          "score": 1.0
+          "word": "muffin?",
+          "start": 113.58,
+          "end": 114.44
         }
       ]
     },
     {
       "id": 14,
-      "start": 89.84,
-      "end": 92.21,
-      "text": "Two, how to order at the bakery.",
+      "start": 115.26,
+      "end": 117.82,
+      "text": "Do you have any fresh sourdough bread?",
       "words": [
         {
-          "word": "Two,",
-          "startSec": 90.04,
-          "endSec": 90.56,
-          "score": 0.01
+          "word": "Do",
+          "start": 115.26,
+          "end": 115.46
         },
         {
-          "word": "how",
-          "startSec": 90.82,
-          "endSec": 90.92,
-          "score": 0.61
+          "word": "you",
+          "start": 115.46,
+          "end": 115.64
         },
         {
-          "word": "to",
-          "startSec": 90.92,
-          "endSec": 91.1,
-          "score": 1.0
+          "word": "have",
+          "start": 115.64,
+          "end": 115.86
         },
         {
-          "word": "order",
-          "startSec": 91.1,
-          "endSec": 91.4,
-          "score": 1.0
+          "word": "any",
+          "start": 115.86,
+          "end": 116.08
         },
         {
-          "word": "at",
-          "startSec": 91.4,
-          "endSec": 91.72,
-          "score": 0.99
+          "word": "fresh",
+          "start": 116.08,
+          "end": 116.44
         },
         {
-          "word": "the",
-          "startSec": 91.72,
-          "endSec": 91.84,
-          "score": 0.99
+          "word": "sourdough",
+          "start": 116.44,
+          "end": 117.12
         },
         {
-          "word": "bakery.",
-          "startSec": 91.84,
-          "endSec": 92.06,
-          "score": 0.93
+          "word": "bread?",
+          "start": 117.12,
+          "end": 117.82
         }
       ]
     },
     {
       "id": 15,
-      "start": 93.05,
-      "end": 97.12,
-      "text": "When you go to a bakery, you need to ask for the items you want.",
+      "start": 119.08,
+      "end": 121.06,
+      "text": "Asking about ingredients.",
       "words": [
         {
-          "word": "When",
-          "startSec": 93.25,
-          "endSec": 93.49,
-          "score": 0.96
+          "word": "Asking",
+          "start": 119.08,
+          "end": 119.68
         },
         {
-          "word": "you",
-          "startSec": 93.49,
-          "endSec": 93.69,
-          "score": 1.0
+          "word": "about",
+          "start": 119.68,
+          "end": 120.0
         },
         {
-          "word": "go",
-          "startSec": 93.69,
-          "endSec": 93.89,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 93.89,
-          "endSec": 94.07,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 94.07,
-          "endSec": 94.21,
-          "score": 0.99
-        },
-        {
-          "word": "bakery,",
-          "startSec": 94.21,
-          "endSec": 94.61,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 95.07,
-          "endSec": 95.09,
-          "score": 1.0
-        },
-        {
-          "word": "need",
-          "startSec": 95.09,
-          "endSec": 95.29,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 95.29,
-          "endSec": 95.45,
-          "score": 1.0
-        },
-        {
-          "word": "ask",
-          "startSec": 95.45,
-          "endSec": 95.75,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 95.75,
-          "endSec": 96.03,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 96.03,
-          "endSec": 96.15,
-          "score": 1.0
-        },
-        {
-          "word": "items",
-          "startSec": 96.15,
-          "endSec": 96.43,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 96.43,
-          "endSec": 96.71,
-          "score": 0.99
-        },
-        {
-          "word": "want.",
-          "startSec": 96.71,
-          "endSec": 96.97,
-          "score": 1.0
+          "word": "ingredients.",
+          "start": 120.0,
+          "end": 121.06
         }
       ]
     },
     {
       "id": 16,
-      "start": 97.19,
-      "end": 99.64,
-      "text": "Here are some simple ways to do that.",
+      "start": 121.64,
+      "end": 123.42,
+      "text": "Does this have nuts?",
       "words": [
         {
-          "word": "Here",
-          "startSec": 97.39,
-          "endSec": 97.53,
-          "score": 0.97
+          "word": "Does",
+          "start": 121.64,
+          "end": 122.12
         },
         {
-          "word": "are",
-          "startSec": 97.53,
-          "endSec": 97.69,
-          "score": 0.98
+          "word": "this",
+          "start": 122.12,
+          "end": 122.4
         },
         {
-          "word": "some",
-          "startSec": 97.69,
-          "endSec": 97.93,
-          "score": 0.99
+          "word": "have",
+          "start": 122.4,
+          "end": 122.66
         },
         {
-          "word": "simple",
-          "startSec": 97.93,
-          "endSec": 98.37,
-          "score": 1.0
-        },
-        {
-          "word": "ways",
-          "startSec": 98.37,
-          "endSec": 98.69,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 98.69,
-          "endSec": 98.95,
-          "score": 1.0
-        },
-        {
-          "word": "do",
-          "startSec": 98.95,
-          "endSec": 99.15,
-          "score": 1.0
-        },
-        {
-          "word": "that.",
-          "startSec": 99.15,
-          "endSec": 99.49,
-          "score": 1.0
+          "word": "nuts?",
+          "start": 122.66,
+          "end": 123.42
         }
       ]
     },
     {
       "id": 17,
-      "start": 101.6,
-      "end": 103.77,
-      "text": "Asking for bread and pastries.",
+      "start": 124.0,
+      "end": 126.04,
+      "text": "Is this cake gluten free?",
       "words": [
         {
-          "word": "Asking",
-          "startSec": 101.8,
-          "endSec": 102.32,
-          "score": 0.73
+          "word": "Is",
+          "start": 124.0,
+          "end": 124.26
         },
         {
-          "word": "for",
-          "startSec": 102.32,
-          "endSec": 102.56,
-          "score": 1.0
+          "word": "this",
+          "start": 124.26,
+          "end": 124.48
         },
         {
-          "word": "bread",
-          "startSec": 102.56,
-          "endSec": 102.82,
-          "score": 0.99
+          "word": "cake",
+          "start": 124.48,
+          "end": 124.78
         },
         {
-          "word": "and",
-          "startSec": 102.82,
-          "endSec": 103.02,
-          "score": 0.95
+          "word": "gluten",
+          "start": 124.78,
+          "end": 125.22
         },
         {
-          "word": "pastries.",
-          "startSec": 103.02,
-          "endSec": 103.62,
-          "score": 0.97
+          "word": "free?",
+          "start": 125.22,
+          "end": 126.04
         }
       ]
     },
     {
       "id": 18,
-      "start": 105.1,
-      "end": 107.81,
-      "text": "Can I have a loaf of white bread, please?",
+      "start": 126.32,
+      "end": 129.12,
+      "text": "Do you have any vegan pastries?",
       "words": [
         {
-          "word": "Can",
-          "startSec": 105.3,
-          "endSec": 105.62,
-          "score": 0.93
+          "word": "Do",
+          "start": 126.32,
+          "end": 126.98
         },
         {
-          "word": "I",
-          "startSec": 105.62,
-          "endSec": 105.8,
-          "score": 0.99
+          "word": "you",
+          "start": 126.98,
+          "end": 127.14
         },
         {
           "word": "have",
-          "startSec": 105.8,
-          "endSec": 106.06,
-          "score": 1.0
+          "start": 127.14,
+          "end": 127.36
         },
         {
-          "word": "a",
-          "startSec": 106.06,
-          "endSec": 106.2,
-          "score": 1.0
+          "word": "any",
+          "start": 127.36,
+          "end": 127.58
         },
         {
-          "word": "loaf",
-          "startSec": 106.2,
-          "endSec": 106.44,
-          "score": 1.0
+          "word": "vegan",
+          "start": 127.58,
+          "end": 127.98
         },
         {
-          "word": "of",
-          "startSec": 106.44,
-          "endSec": 106.62,
-          "score": 1.0
-        },
-        {
-          "word": "white",
-          "startSec": 106.62,
-          "endSec": 106.88,
-          "score": 0.99
-        },
-        {
-          "word": "bread,",
-          "startSec": 106.88,
-          "endSec": 107.22,
-          "score": 0.99
-        },
-        {
-          "word": "please?",
-          "startSec": 107.22,
-          "endSec": 107.66,
-          "score": 1.0
+          "word": "pastries?",
+          "start": 127.98,
+          "end": 129.12
         }
       ]
     },
     {
       "id": 19,
-      "start": 108.96,
-      "end": 111.05,
-      "text": "I'd like two croissants, please.",
+      "start": 129.8,
+      "end": 134.72,
+      "text": "Using these simple phrases, you can easily order what you need.",
       "words": [
         {
-          "word": "I'd",
-          "startSec": 109.16,
-          "endSec": 109.38,
-          "score": 0.98
+          "word": "Using",
+          "start": 129.8,
+          "end": 130.36
         },
         {
-          "word": "like",
-          "startSec": 109.38,
-          "endSec": 109.52,
-          "score": 1.0
+          "word": "these",
+          "start": 130.36,
+          "end": 130.7
         },
         {
-          "word": "two",
-          "startSec": 109.52,
-          "endSec": 109.9,
-          "score": 0.95
+          "word": "simple",
+          "start": 130.7,
+          "end": 131.12
         },
         {
-          "word": "croissants,",
-          "startSec": 109.9,
-          "endSec": 110.46,
-          "score": 0.99
+          "word": "phrases,",
+          "start": 131.12,
+          "end": 131.68
         },
         {
-          "word": "please.",
-          "startSec": 110.7,
-          "endSec": 110.9,
-          "score": 1.0
+          "word": "you",
+          "start": 131.96,
+          "end": 132.16
+        },
+        {
+          "word": "can",
+          "start": 132.16,
+          "end": 132.34
+        },
+        {
+          "word": "easily",
+          "start": 132.34,
+          "end": 132.94
+        },
+        {
+          "word": "order",
+          "start": 132.94,
+          "end": 133.28
+        },
+        {
+          "word": "what",
+          "start": 133.28,
+          "end": 133.56
+        },
+        {
+          "word": "you",
+          "start": 133.56,
+          "end": 133.8
+        },
+        {
+          "word": "need.",
+          "start": 133.8,
+          "end": 134.72
         }
       ]
     },
     {
       "id": 20,
-      "start": 112.39,
-      "end": 114.38,
-      "text": "Can I get a chocolate muffin?",
+      "start": 136.0,
+      "end": 138.74,
+      "text": "Three, paying for your order.",
       "words": [
         {
-          "word": "Can",
-          "startSec": 112.59,
-          "endSec": 112.65,
-          "score": 0.85
+          "word": "Three,",
+          "start": 136.0,
+          "end": 136.66
         },
         {
-          "word": "I",
-          "startSec": 112.65,
-          "endSec": 112.81,
-          "score": 1.0
+          "word": "paying",
+          "start": 136.78,
+          "end": 137.16
         },
         {
-          "word": "get",
-          "startSec": 112.81,
-          "endSec": 112.99,
-          "score": 1.0
+          "word": "for",
+          "start": 137.16,
+          "end": 137.52
         },
         {
-          "word": "a",
-          "startSec": 112.99,
-          "endSec": 113.11,
-          "score": 1.0
+          "word": "your",
+          "start": 137.52,
+          "end": 137.8
         },
         {
-          "word": "chocolate",
-          "startSec": 113.11,
-          "endSec": 113.51,
-          "score": 0.99
-        },
-        {
-          "word": "muffin?",
-          "startSec": 113.51,
-          "endSec": 114.23,
-          "score": 1.0
+          "word": "order.",
+          "start": 137.8,
+          "end": 138.74
         }
       ]
     },
     {
       "id": 21,
-      "start": 114.98,
-      "end": 117.55,
-      "text": "Do you have any fresh sourdough bread?",
+      "start": 139.38,
+      "end": 143.92,
+      "text": "After choosing your bread or pastry, it's time to pay.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 115.18,
-          "endSec": 115.44,
-          "score": 0.99
+          "word": "After",
+          "start": 139.38,
+          "end": 140.04
         },
         {
-          "word": "you",
-          "startSec": 115.44,
-          "endSec": 115.58,
-          "score": 1.0
+          "word": "choosing",
+          "start": 140.04,
+          "end": 140.58
         },
         {
-          "word": "have",
-          "startSec": 115.58,
-          "endSec": 115.84,
-          "score": 1.0
+          "word": "your",
+          "start": 140.58,
+          "end": 140.92
         },
         {
-          "word": "any",
-          "startSec": 115.84,
-          "endSec": 116.0,
-          "score": 1.0
+          "word": "bread",
+          "start": 140.92,
+          "end": 141.24
         },
         {
-          "word": "fresh",
-          "startSec": 116.0,
-          "endSec": 116.36,
-          "score": 0.99
+          "word": "or",
+          "start": 141.24,
+          "end": 141.44
         },
         {
-          "word": "sourdough",
-          "startSec": 116.36,
-          "endSec": 117.14,
-          "score": 0.99
+          "word": "pastry,",
+          "start": 141.44,
+          "end": 141.9
         },
         {
-          "word": "bread?",
-          "startSec": 117.14,
-          "endSec": 117.4,
-          "score": 1.0
+          "word": "it's",
+          "start": 142.46,
+          "end": 142.74
+        },
+        {
+          "word": "time",
+          "start": 142.74,
+          "end": 143.02
+        },
+        {
+          "word": "to",
+          "start": 143.02,
+          "end": 143.26
+        },
+        {
+          "word": "pay.",
+          "start": 143.26,
+          "end": 143.92
         }
       ]
     },
     {
       "id": 22,
-      "start": 118.91,
-      "end": 120.56,
-      "text": "Asking about ingredients.",
+      "start": 144.14,
+      "end": 145.96,
+      "text": "Here's how you can do it.",
       "words": [
         {
-          "word": "Asking",
-          "startSec": 119.11,
-          "endSec": 119.59,
-          "score": 0.99
+          "word": "Here's",
+          "start": 144.14,
+          "end": 144.56
         },
         {
-          "word": "about",
-          "startSec": 119.59,
-          "endSec": 119.93,
-          "score": 1.0
+          "word": "how",
+          "start": 144.56,
+          "end": 144.7
         },
         {
-          "word": "ingredients.",
-          "startSec": 119.93,
-          "endSec": 120.41,
-          "score": 1.0
+          "word": "you",
+          "start": 144.7,
+          "end": 144.86
+        },
+        {
+          "word": "can",
+          "start": 144.86,
+          "end": 145.06
+        },
+        {
+          "word": "do",
+          "start": 145.06,
+          "end": 145.32
+        },
+        {
+          "word": "it.",
+          "start": 145.32,
+          "end": 145.96
         }
       ]
     },
     {
       "id": 23,
-      "start": 121.26,
-      "end": 123.09,
-      "text": "Does this have nuts?",
+      "start": 146.52,
+      "end": 149.16,
+      "text": "That will be eight dollars, please.",
       "words": [
         {
-          "word": "Does",
-          "startSec": 121.46,
-          "endSec": 122.06,
-          "score": 0.23
+          "word": "That",
+          "start": 146.52,
+          "end": 146.98
         },
         {
-          "word": "this",
-          "startSec": 122.06,
-          "endSec": 122.32,
-          "score": 0.97
+          "word": "will",
+          "start": 146.98,
+          "end": 147.18
         },
         {
-          "word": "have",
-          "startSec": 122.32,
-          "endSec": 122.6,
-          "score": 0.98
+          "word": "be",
+          "start": 147.18,
+          "end": 147.4
         },
         {
-          "word": "nuts?",
-          "startSec": 122.6,
-          "endSec": 122.94,
-          "score": 0.95
+          "word": "eight",
+          "start": 147.4,
+          "end": 147.74
+        },
+        {
+          "word": "dollars,",
+          "start": 147.74,
+          "end": 148.24
+        },
+        {
+          "word": "please.",
+          "start": 148.5,
+          "end": 149.16
         }
       ]
     },
     {
       "id": 24,
-      "start": 123.84,
-      "end": 125.75,
-      "text": "Is this cake gluten-free?",
+      "start": 149.58,
+      "end": 150.74,
+      "text": "Here you go.",
       "words": [
         {
-          "word": "Is",
-          "startSec": 124.04,
-          "endSec": 124.22,
-          "score": 0.85
+          "word": "Here",
+          "start": 149.58,
+          "end": 149.84
         },
         {
-          "word": "this",
-          "startSec": 124.22,
-          "endSec": 124.4,
-          "score": 0.99
+          "word": "you",
+          "start": 149.84,
+          "end": 150.06
         },
         {
-          "word": "cake",
-          "startSec": 124.4,
-          "endSec": 124.72,
-          "score": 0.99
-        },
-        {
-          "word": "gluten",
-          "startSec": 124.72,
-          "endSec": 125.08,
-          "score": 0.99
-        },
-        {
-          "word": "-free?",
-          "startSec": 125.08,
-          "endSec": 125.6,
-          "score": 0.72
+          "word": "go.",
+          "start": 150.06,
+          "end": 150.74
         }
       ]
     },
     {
       "id": 25,
-      "start": 126.53,
-      "end": 128.84,
-      "text": "Do you have any vegan pastries?",
-      "words": [
-        {
-          "word": "Do",
-          "startSec": 126.73,
-          "endSec": 126.97,
-          "score": 0.9
-        },
-        {
-          "word": "you",
-          "startSec": 126.97,
-          "endSec": 127.09,
-          "score": 1.0
-        },
-        {
-          "word": "have",
-          "startSec": 127.09,
-          "endSec": 127.37,
-          "score": 1.0
-        },
-        {
-          "word": "any",
-          "startSec": 127.37,
-          "endSec": 127.49,
-          "score": 1.0
-        },
-        {
-          "word": "vegan",
-          "startSec": 127.49,
-          "endSec": 127.81,
-          "score": 0.97
-        },
-        {
-          "word": "pastries?",
-          "startSec": 127.81,
-          "endSec": 128.69,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "start": 129.81,
-      "end": 134.16,
-      "text": "Using these simple phrases, you can easily order what you need.",
-      "words": [
-        {
-          "word": "Using",
-          "startSec": 130.01,
-          "endSec": 130.37,
-          "score": 0.96
-        },
-        {
-          "word": "these",
-          "startSec": 130.37,
-          "endSec": 130.65,
-          "score": 0.98
-        },
-        {
-          "word": "simple",
-          "startSec": 130.65,
-          "endSec": 130.97,
-          "score": 1.0
-        },
-        {
-          "word": "phrases,",
-          "startSec": 130.97,
-          "endSec": 131.59,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 131.77,
-          "endSec": 132.13,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 132.13,
-          "endSec": 132.29,
-          "score": 1.0
-        },
-        {
-          "word": "easily",
-          "startSec": 132.29,
-          "endSec": 132.65,
-          "score": 1.0
-        },
-        {
-          "word": "order",
-          "startSec": 132.65,
-          "endSec": 133.27,
-          "score": 1.0
-        },
-        {
-          "word": "what",
-          "startSec": 133.27,
-          "endSec": 133.51,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 133.51,
-          "endSec": 133.75,
-          "score": 1.0
-        },
-        {
-          "word": "need.",
-          "startSec": 133.75,
-          "endSec": 134.01,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "start": 136.14,
-      "end": 138.39,
-      "text": "Three, paying for your order.",
-      "words": [
-        {
-          "word": "Three,",
-          "startSec": 136.34,
-          "endSec": 136.6,
-          "score": 0.38
-        },
-        {
-          "word": "paying",
-          "startSec": 136.72,
-          "endSec": 137.04,
-          "score": 0.91
-        },
-        {
-          "word": "for",
-          "startSec": 137.04,
-          "endSec": 137.48,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 137.48,
-          "endSec": 137.74,
-          "score": 1.0
-        },
-        {
-          "word": "order.",
-          "startSec": 137.74,
-          "endSec": 138.24,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "start": 139.36,
-      "end": 143.63,
-      "text": "After choosing your bread or pastry, it's time to pay.",
-      "words": [
-        {
-          "word": "After",
-          "startSec": 139.56,
-          "endSec": 139.96,
-          "score": 0.99
-        },
-        {
-          "word": "choosing",
-          "startSec": 139.96,
-          "endSec": 140.48,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 140.48,
-          "endSec": 140.88,
-          "score": 1.0
-        },
-        {
-          "word": "bread",
-          "startSec": 140.88,
-          "endSec": 141.2,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 141.2,
-          "endSec": 141.4,
-          "score": 0.99
-        },
-        {
-          "word": "pastry,",
-          "startSec": 141.4,
-          "endSec": 141.74,
-          "score": 0.98
-        },
-        {
-          "word": "it's",
-          "startSec": 142.44,
-          "endSec": 142.72,
-          "score": 0.99
-        },
-        {
-          "word": "time",
-          "startSec": 142.72,
-          "endSec": 142.96,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 142.96,
-          "endSec": 143.22,
-          "score": 1.0
-        },
-        {
-          "word": "pay.",
-          "startSec": 143.22,
-          "endSec": 143.48,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "start": 143.92,
-      "end": 145.61,
-      "text": "Here's how you can do it.",
-      "words": [
-        {
-          "word": "Here's",
-          "startSec": 144.12,
-          "endSec": 144.52,
-          "score": 0.99
-        },
-        {
-          "word": "how",
-          "startSec": 144.52,
-          "endSec": 144.64,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 144.64,
-          "endSec": 144.84,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 144.84,
-          "endSec": 145.0,
-          "score": 1.0
-        },
-        {
-          "word": "do",
-          "startSec": 145.0,
-          "endSec": 145.24,
-          "score": 1.0
-        },
-        {
-          "word": "it.",
-          "startSec": 145.24,
-          "endSec": 145.46,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "start": 146.5,
-      "end": 148.79,
-      "text": "That will be $8, please.",
-      "words": [
-        {
-          "word": "That",
-          "startSec": 146.7,
-          "endSec": 146.94,
-          "score": 0.97
-        },
-        {
-          "word": "will",
-          "startSec": 146.94,
-          "endSec": 147.16,
-          "score": 0.96
-        },
-        {
-          "word": "be",
-          "startSec": 147.16,
-          "endSec": 147.34,
-          "score": 1.0
-        },
-        {
-          "word": "$8,",
-          "startSec": 147.34,
-          "endSec": 147.74,
-          "score": 0.82
-        },
-        {
-          "word": "please.",
-          "startSec": 147.76,
-          "endSec": 148.64,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "start": 149.32,
-      "end": 150.45,
-      "text": "Here you go.",
-      "words": [
-        {
-          "word": "Here",
-          "startSec": 149.52,
-          "endSec": 149.8,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 149.8,
-          "endSec": 150.02,
-          "score": 0.99
-        },
-        {
-          "word": "go.",
-          "startSec": 150.02,
-          "endSec": 150.3,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "start": 151.05,
+      "start": 151.46,
       "end": 153.06,
       "text": "Can I pay by card?",
       "words": [
         {
           "word": "Can",
-          "startSec": 151.25,
-          "endSec": 151.71,
-          "score": 0.2
+          "start": 151.46,
+          "end": 151.74
         },
         {
           "word": "I",
-          "startSec": 151.71,
-          "endSec": 151.89,
-          "score": 0.94
+          "start": 151.74,
+          "end": 151.94
         },
         {
           "word": "pay",
-          "startSec": 151.89,
-          "endSec": 152.13,
-          "score": 0.96
+          "start": 151.94,
+          "end": 152.26
         },
         {
           "word": "by",
-          "startSec": 152.13,
-          "endSec": 152.45,
-          "score": 0.95
+          "start": 152.26,
+          "end": 152.5
         },
         {
           "word": "card?",
-          "startSec": 152.45,
-          "endSec": 152.91,
-          "score": 0.97
+          "start": 152.5,
+          "end": 153.06
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 153.06,
+      "end": 155.56,
+      "text": "Do you accept cash?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 153.06,
+          "end": 153.6
+        },
+        {
+          "word": "you",
+          "start": 153.6,
+          "end": 154.3
+        },
+        {
+          "word": "accept",
+          "start": 154.3,
+          "end": 154.68
+        },
+        {
+          "word": "cash?",
+          "start": 154.68,
+          "end": 155.56
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 157.5,
+      "end": 159.02,
+      "text": "Would you like a bag?",
+      "words": [
+        {
+          "word": "Would",
+          "start": 157.5,
+          "end": 157.7
+        },
+        {
+          "word": "you",
+          "start": 157.7,
+          "end": 157.92
+        },
+        {
+          "word": "like",
+          "start": 157.92,
+          "end": 158.14
+        },
+        {
+          "word": "a",
+          "start": 158.14,
+          "end": 158.32
+        },
+        {
+          "word": "bag?",
+          "start": 158.32,
+          "end": 159.02
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 159.8,
+      "end": 161.3,
+      "text": "Yes, please.",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 159.8,
+          "end": 160.3
+        },
+        {
+          "word": "please.",
+          "start": 160.48,
+          "end": 161.3
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 162.18,
+      "end": 163.9,
+      "text": "No, thank you.",
+      "words": [
+        {
+          "word": "No,",
+          "start": 162.18,
+          "end": 162.7
+        },
+        {
+          "word": "thank",
+          "start": 162.8,
+          "end": 163.12
+        },
+        {
+          "word": "you.",
+          "start": 163.12,
+          "end": 163.9
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 164.2,
+      "end": 166.44,
+      "text": "I have my own bag.",
+      "words": [
+        {
+          "word": "I",
+          "start": 164.2,
+          "end": 164.56
+        },
+        {
+          "word": "have",
+          "start": 164.56,
+          "end": 164.94
+        },
+        {
+          "word": "my",
+          "start": 164.94,
+          "end": 165.24
+        },
+        {
+          "word": "own",
+          "start": 165.24,
+          "end": 165.6
+        },
+        {
+          "word": "bag.",
+          "start": 165.6,
+          "end": 166.44
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 167.3,
+      "end": 169.32,
+      "text": "Here's your change.",
+      "words": [
+        {
+          "word": "Here's",
+          "start": 167.3,
+          "end": 168.14
+        },
+        {
+          "word": "your",
+          "start": 168.14,
+          "end": 168.28
+        },
+        {
+          "word": "change.",
+          "start": 168.28,
+          "end": 169.32
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 170.06,
+      "end": 172.14,
+      "text": "Thank you very much.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 170.06,
+          "end": 170.76
+        },
+        {
+          "word": "you",
+          "start": 170.76,
+          "end": 171.02
+        },
+        {
+          "word": "very",
+          "start": 171.02,
+          "end": 171.36
+        },
+        {
+          "word": "much.",
+          "start": 171.36,
+          "end": 172.14
         }
       ]
     },
     {
       "id": 33,
-      "start": 153.79,
-      "end": 155.22,
-      "text": "Do you accept cash?",
+      "start": 172.82,
+      "end": 178.3,
+      "text": "Now let's practice a full conversation at the bakery.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 153.99,
-          "endSec": 154.11,
-          "score": 0.42
+          "word": "Now",
+          "start": 172.82,
+          "end": 173.66
         },
         {
-          "word": "you",
-          "startSec": 154.11,
-          "endSec": 154.25,
-          "score": 1.0
+          "word": "let's",
+          "start": 173.66,
+          "end": 174.5
         },
         {
-          "word": "accept",
-          "startSec": 154.25,
-          "endSec": 154.61,
-          "score": 0.99
+          "word": "practice",
+          "start": 174.5,
+          "end": 174.94
         },
         {
-          "word": "cash?",
-          "startSec": 154.61,
-          "endSec": 155.07,
-          "score": 0.99
+          "word": "a",
+          "start": 174.94,
+          "end": 175.34
+        },
+        {
+          "word": "full",
+          "start": 175.34,
+          "end": 175.68
+        },
+        {
+          "word": "conversation",
+          "start": 175.68,
+          "end": 176.52
+        },
+        {
+          "word": "at",
+          "start": 176.52,
+          "end": 177.36
+        },
+        {
+          "word": "the",
+          "start": 177.36,
+          "end": 177.5
+        },
+        {
+          "word": "bakery.",
+          "start": 177.5,
+          "end": 178.3
         }
       ]
     },
     {
       "id": 34,
-      "start": 157.16,
-      "end": 158.73,
-      "text": "Would you like a bag?",
+      "start": 180.14,
+      "end": 184.3,
+      "text": "Four, bakery conversation practice.",
       "words": [
         {
-          "word": "Would",
-          "startSec": 157.36,
-          "endSec": 157.68,
-          "score": 0.94
+          "word": "Four,",
+          "start": 180.14,
+          "end": 180.96
         },
         {
-          "word": "you",
-          "startSec": 157.68,
-          "endSec": 157.86,
-          "score": 1.0
+          "word": "bakery",
+          "start": 181.9,
+          "end": 182.16
         },
         {
-          "word": "like",
-          "startSec": 157.86,
-          "endSec": 158.1,
-          "score": 1.0
+          "word": "conversation",
+          "start": 182.16,
+          "end": 183.26
         },
         {
-          "word": "a",
-          "startSec": 158.1,
-          "endSec": 158.26,
-          "score": 1.0
-        },
-        {
-          "word": "bag?",
-          "startSec": 158.26,
-          "endSec": 158.58,
-          "score": 0.99
+          "word": "practice.",
+          "start": 183.26,
+          "end": 184.3
         }
       ]
     },
     {
       "id": 35,
-      "start": 159.6,
-      "end": 160.99,
-      "text": "Yes, please.",
+      "start": 184.68,
+      "end": 189.2,
+      "text": "Now let's listen to a short conversation at the bakery.",
       "words": [
         {
-          "word": "Yes,",
-          "startSec": 159.8,
-          "endSec": 160.26,
-          "score": 0.95
+          "word": "Now",
+          "start": 184.68,
+          "end": 185.24
         },
         {
-          "word": "please.",
-          "startSec": 160.26,
-          "endSec": 160.84,
-          "score": 1.0
+          "word": "let's",
+          "start": 185.24,
+          "end": 186.02
+        },
+        {
+          "word": "listen",
+          "start": 186.02,
+          "end": 186.44
+        },
+        {
+          "word": "to",
+          "start": 186.44,
+          "end": 186.68
+        },
+        {
+          "word": "a",
+          "start": 186.68,
+          "end": 186.86
+        },
+        {
+          "word": "short",
+          "start": 186.86,
+          "end": 187.2
+        },
+        {
+          "word": "conversation",
+          "start": 187.2,
+          "end": 187.96
+        },
+        {
+          "word": "at",
+          "start": 187.96,
+          "end": 188.28
+        },
+        {
+          "word": "the",
+          "start": 188.28,
+          "end": 188.4
+        },
+        {
+          "word": "bakery.",
+          "start": 188.4,
+          "end": 189.2
         }
       ]
     },
     {
       "id": 36,
-      "start": 161.83,
-      "end": 163.54,
-      "text": "No, thank you.",
+      "start": 189.52,
+      "end": 191.58,
+      "text": "Try to repeat after me.",
       "words": [
         {
-          "word": "No,",
-          "startSec": 162.03,
-          "endSec": 162.63,
-          "score": 0.96
+          "word": "Try",
+          "start": 189.52,
+          "end": 189.94
         },
         {
-          "word": "thank",
-          "startSec": 162.81,
-          "endSec": 163.03,
-          "score": 0.98
+          "word": "to",
+          "start": 189.94,
+          "end": 190.1
         },
         {
-          "word": "you.",
-          "startSec": 163.03,
-          "endSec": 163.39,
-          "score": 1.0
+          "word": "repeat",
+          "start": 190.1,
+          "end": 190.48
+        },
+        {
+          "word": "after",
+          "start": 190.48,
+          "end": 190.88
+        },
+        {
+          "word": "me.",
+          "start": 190.88,
+          "end": 191.58
         }
       ]
     },
     {
       "id": 37,
-      "start": 163.87,
-      "end": 166.1,
-      "text": "I have my own bag.",
+      "start": 192.5,
+      "end": 194.09,
+      "text": "You hello.",
       "words": [
         {
-          "word": "I",
-          "startSec": 164.07,
-          "endSec": 164.51,
-          "score": 0.99
+          "word": "You",
+          "start": 192.5,
+          "end": 193.32
         },
         {
-          "word": "have",
-          "startSec": 164.51,
-          "endSec": 164.85,
-          "score": 1.0
-        },
-        {
-          "word": "my",
-          "startSec": 164.85,
-          "endSec": 165.19,
-          "score": 1.0
-        },
-        {
-          "word": "own",
-          "startSec": 165.19,
-          "endSec": 165.55,
-          "score": 1.0
-        },
-        {
-          "word": "bag.",
-          "startSec": 165.55,
-          "endSec": 165.95,
-          "score": 1.0
+          "word": "hello.",
+          "start": 193.32,
+          "end": 194.09
         }
       ]
     },
     {
       "id": 38,
-      "start": 167.39,
-      "end": 168.86,
-      "text": "Here's your change.",
+      "start": 194.3,
+      "end": 196.38,
+      "text": "Do you have any fresh baguettes?",
       "words": [
         {
-          "word": "Here's",
-          "startSec": 167.59,
-          "endSec": 168.09,
-          "score": 0.97
+          "word": "Do",
+          "start": 194.3,
+          "end": 194.42
         },
         {
-          "word": "your",
-          "startSec": 168.09,
-          "endSec": 168.23,
-          "score": 1.0
+          "word": "you",
+          "start": 194.42,
+          "end": 194.6
         },
         {
-          "word": "change.",
-          "startSec": 168.23,
-          "endSec": 168.71,
-          "score": 1.0
+          "word": "have",
+          "start": 194.6,
+          "end": 194.82
+        },
+        {
+          "word": "any",
+          "start": 194.82,
+          "end": 195.02
+        },
+        {
+          "word": "fresh",
+          "start": 195.02,
+          "end": 195.36
+        },
+        {
+          "word": "baguettes?",
+          "start": 195.36,
+          "end": 196.38
         }
       ]
     },
     {
       "id": 39,
-      "start": 170.21,
-      "end": 171.86,
-      "text": "Thank you very much.",
+      "start": 196.92,
+      "end": 200.42,
+      "text": "Yes, they just came out of the oven.",
       "words": [
         {
-          "word": "Thank",
-          "startSec": 170.41,
-          "endSec": 170.65,
-          "score": 1.0
+          "word": "Yes,",
+          "start": 196.92,
+          "end": 197.74
         },
         {
-          "word": "you",
-          "startSec": 170.65,
-          "endSec": 170.99,
-          "score": 1.0
+          "word": "they",
+          "start": 198.4,
+          "end": 198.7
         },
         {
-          "word": "very",
-          "startSec": 170.99,
-          "endSec": 171.21,
-          "score": 0.99
+          "word": "just",
+          "start": 198.7,
+          "end": 198.98
         },
         {
-          "word": "much.",
-          "startSec": 171.21,
-          "endSec": 171.71,
-          "score": 1.0
+          "word": "came",
+          "start": 198.98,
+          "end": 199.24
+        },
+        {
+          "word": "out",
+          "start": 199.24,
+          "end": 199.5
+        },
+        {
+          "word": "of",
+          "start": 199.5,
+          "end": 199.6
+        },
+        {
+          "word": "the",
+          "start": 199.6,
+          "end": 199.76
+        },
+        {
+          "word": "oven.",
+          "start": 199.76,
+          "end": 200.42
         }
       ]
     },
     {
       "id": 40,
-      "start": 172.46,
-      "end": 177.91,
-      "text": "Now, let's practice a full conversation at the bakery.",
+      "start": 201.2,
+      "end": 202.42,
+      "text": "Great.",
       "words": [
         {
-          "word": "Now,",
-          "startSec": 172.66,
-          "endSec": 173.38,
-          "score": 0.98
-        },
-        {
-          "word": "let's",
-          "startSec": 174.08,
-          "endSec": 174.46,
-          "score": 0.98
-        },
-        {
-          "word": "practice",
-          "startSec": 174.46,
-          "endSec": 174.8,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 174.8,
-          "endSec": 175.28,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 175.28,
-          "endSec": 175.6,
-          "score": 1.0
-        },
-        {
-          "word": "conversation",
-          "startSec": 175.6,
-          "endSec": 176.24,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 176.24,
-          "endSec": 177.24,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 177.24,
-          "endSec": 177.46,
-          "score": 0.94
-        },
-        {
-          "word": "bakery.",
-          "startSec": 177.46,
-          "endSec": 177.76,
-          "score": 0.56
+          "word": "Great.",
+          "start": 201.2,
+          "end": 202.42
         }
       ]
     },
     {
       "id": 41,
-      "start": 180.37,
-      "end": 183.82,
-      "text": "Four, bakery conversation practice.",
+      "start": 202.78,
+      "end": 204.6,
+      "text": "I'll take one, please.",
       "words": [
         {
-          "word": "Four,",
-          "startSec": 180.57,
-          "endSec": 181.03,
-          "score": 0.37
+          "word": "I'll",
+          "start": 202.78,
+          "end": 203.3
         },
         {
-          "word": "bakery",
-          "startSec": 181.63,
-          "endSec": 182.19,
-          "score": 0.64
+          "word": "take",
+          "start": 203.3,
+          "end": 203.54
         },
         {
-          "word": "conversation",
-          "startSec": 182.19,
-          "endSec": 183.03,
-          "score": 0.98
+          "word": "one,",
+          "start": 203.54,
+          "end": 203.82
         },
         {
-          "word": "practice.",
-          "startSec": 183.03,
-          "endSec": 183.67,
-          "score": 0.99
+          "word": "please.",
+          "start": 204.02,
+          "end": 204.6
         }
       ]
     },
     {
       "id": 42,
-      "start": 184.27,
-      "end": 188.72,
-      "text": "Now, let's listen to a short conversation at the bakery.",
+      "start": 205.58,
+      "end": 207.28,
+      "text": "Anything else?",
       "words": [
         {
-          "word": "Now,",
-          "startSec": 184.47,
-          "endSec": 185.09,
-          "score": 0.27
+          "word": "Anything",
+          "start": 205.58,
+          "end": 206.4
         },
         {
-          "word": "let's",
-          "startSec": 185.61,
-          "endSec": 185.99,
-          "score": 0.98
-        },
-        {
-          "word": "listen",
-          "startSec": 185.99,
-          "endSec": 186.35,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 186.35,
-          "endSec": 186.63,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 186.63,
-          "endSec": 186.79,
-          "score": 1.0
-        },
-        {
-          "word": "short",
-          "startSec": 186.79,
-          "endSec": 187.05,
-          "score": 0.99
-        },
-        {
-          "word": "conversation",
-          "startSec": 187.05,
-          "endSec": 188.01,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 188.01,
-          "endSec": 188.23,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 188.23,
-          "endSec": 188.35,
-          "score": 0.98
-        },
-        {
-          "word": "bakery.",
-          "startSec": 188.35,
-          "endSec": 188.57,
-          "score": 0.9
+          "word": "else?",
+          "start": 206.4,
+          "end": 207.28
         }
       ]
     },
     {
       "id": 43,
-      "start": 189.39,
-      "end": 191.3,
-      "text": "Try to repeat after me.",
+      "start": 207.96,
+      "end": 213.44,
+      "text": "Yes, can I get two croissants and a slice of chocolate cake?",
       "words": [
         {
-          "word": "Try",
-          "startSec": 189.59,
-          "endSec": 189.85,
-          "score": 0.95
+          "word": "Yes,",
+          "start": 207.96,
+          "end": 208.68
         },
         {
-          "word": "to",
-          "startSec": 189.85,
-          "endSec": 190.07,
-          "score": 0.99
+          "word": "can",
+          "start": 209.14,
+          "end": 209.4
         },
         {
-          "word": "repeat",
-          "startSec": 190.07,
-          "endSec": 190.39,
-          "score": 1.0
+          "word": "I",
+          "start": 209.4,
+          "end": 209.56
         },
         {
-          "word": "after",
-          "startSec": 190.39,
-          "endSec": 190.87,
-          "score": 1.0
+          "word": "get",
+          "start": 209.56,
+          "end": 209.78
         },
         {
-          "word": "me.",
-          "startSec": 190.87,
-          "endSec": 191.15,
-          "score": 1.0
+          "word": "two",
+          "start": 209.78,
+          "end": 210.12
+        },
+        {
+          "word": "croissants",
+          "start": 210.12,
+          "end": 210.88
+        },
+        {
+          "word": "and",
+          "start": 210.88,
+          "end": 211.38
+        },
+        {
+          "word": "a",
+          "start": 211.38,
+          "end": 211.54
+        },
+        {
+          "word": "slice",
+          "start": 211.54,
+          "end": 211.82
+        },
+        {
+          "word": "of",
+          "start": 211.82,
+          "end": 212.18
+        },
+        {
+          "word": "chocolate",
+          "start": 212.18,
+          "end": 212.62
+        },
+        {
+          "word": "cake?",
+          "start": 212.62,
+          "end": 213.44
         }
       ]
     },
     {
       "id": 44,
-      "start": 192.82,
-      "end": 193.79,
-      "text": "You, hello.",
+      "start": 214.22,
+      "end": 215.46,
+      "text": "Of course.",
       "words": [
         {
-          "word": "You,",
-          "startSec": 193.02,
-          "endSec": 193.3,
-          "score": 0.44
+          "word": "Of",
+          "start": 214.22,
+          "end": 214.72
         },
         {
-          "word": "hello.",
-          "startSec": 193.46,
-          "endSec": 193.64,
-          "score": 0.95
+          "word": "course.",
+          "start": 214.72,
+          "end": 215.46
         }
       ]
     },
     {
       "id": 45,
-      "start": 194.08,
-      "end": 196.31,
-      "text": "Do you have any fresh baguettes?",
+      "start": 215.96,
+      "end": 218.4,
+      "text": "That will be ten dollars total.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 194.28,
-          "endSec": 194.38,
-          "score": 1.0
+          "word": "That",
+          "start": 215.96,
+          "end": 216.38
         },
         {
-          "word": "you",
-          "startSec": 194.38,
-          "endSec": 194.54,
-          "score": 1.0
+          "word": "will",
+          "start": 216.38,
+          "end": 216.58
         },
         {
-          "word": "have",
-          "startSec": 194.54,
-          "endSec": 194.78,
-          "score": 1.0
+          "word": "be",
+          "start": 216.58,
+          "end": 216.8
         },
         {
-          "word": "any",
-          "startSec": 194.78,
-          "endSec": 194.92,
-          "score": 1.0
+          "word": "ten",
+          "start": 216.8,
+          "end": 217.12
         },
         {
-          "word": "fresh",
-          "startSec": 194.92,
-          "endSec": 195.3,
-          "score": 0.96
+          "word": "dollars",
+          "start": 217.12,
+          "end": 217.54
         },
         {
-          "word": "baguettes?",
-          "startSec": 195.3,
-          "endSec": 196.16,
-          "score": 0.98
+          "word": "total.",
+          "start": 217.54,
+          "end": 218.4
         }
       ]
     },
     {
       "id": 46,
-      "start": 196.86,
-      "end": 197.83,
-      "text": "Yes.",
+      "start": 219.42,
+      "end": 221.16,
+      "text": "You here you go.",
       "words": [
         {
-          "word": "Yes.",
-          "startSec": 197.06,
-          "endSec": 197.68,
-          "score": 0.98
+          "word": "You",
+          "start": 219.42,
+          "end": 220.02
+        },
+        {
+          "word": "here",
+          "start": 220.02,
+          "end": 220.3
+        },
+        {
+          "word": "you",
+          "start": 220.3,
+          "end": 220.5
+        },
+        {
+          "word": "go.",
+          "start": 220.5,
+          "end": 221.16
         }
       ]
     },
     {
       "id": 47,
-      "start": 198.22,
-      "end": 200.13,
-      "text": "They just came out of the oven.",
+      "start": 222.52,
+      "end": 225.4,
+      "text": "Baker, here's your change.",
       "words": [
         {
-          "word": "They",
-          "startSec": 198.42,
-          "endSec": 198.64,
-          "score": 1.0
+          "word": "Baker,",
+          "start": 222.52,
+          "end": 223.24
         },
         {
-          "word": "just",
-          "startSec": 198.64,
-          "endSec": 198.88,
-          "score": 1.0
+          "word": "here's",
+          "start": 223.96,
+          "end": 224.4
         },
         {
-          "word": "came",
-          "startSec": 198.88,
-          "endSec": 199.16,
-          "score": 1.0
+          "word": "your",
+          "start": 224.4,
+          "end": 224.54
         },
         {
-          "word": "out",
-          "startSec": 199.16,
-          "endSec": 199.42,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 199.42,
-          "endSec": 199.56,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 199.56,
-          "endSec": 199.7,
-          "score": 1.0
-        },
-        {
-          "word": "oven.",
-          "startSec": 199.7,
-          "endSec": 199.98,
-          "score": 1.0
+          "word": "change.",
+          "start": 224.54,
+          "end": 225.4
         }
       ]
     },
     {
       "id": 48,
-      "start": 201.36,
-      "end": 202.09,
-      "text": "Great.",
+      "start": 225.76,
+      "end": 227.08,
+      "text": "Have a great day.",
       "words": [
         {
-          "word": "Great.",
-          "startSec": 201.56,
-          "endSec": 201.94,
-          "score": 0.98
+          "word": "Have",
+          "start": 225.76,
+          "end": 225.92
+        },
+        {
+          "word": "a",
+          "start": 225.92,
+          "end": 226.12
+        },
+        {
+          "word": "great",
+          "start": 226.12,
+          "end": 226.28
+        },
+        {
+          "word": "day.",
+          "start": 226.28,
+          "end": 227.08
         }
       ]
     },
     {
       "id": 49,
-      "start": 202.89,
-      "end": 204.3,
-      "text": "I'll take one, please.",
+      "start": 227.76,
+      "end": 229.1,
+      "text": "Thank you.",
       "words": [
         {
-          "word": "I'll",
-          "startSec": 203.09,
-          "endSec": 203.27,
-          "score": 1.0
+          "word": "Thank",
+          "start": 227.76,
+          "end": 228.32
         },
         {
-          "word": "take",
-          "startSec": 203.27,
-          "endSec": 203.47,
-          "score": 1.0
-        },
-        {
-          "word": "one,",
-          "startSec": 203.47,
-          "endSec": 203.77,
-          "score": 1.0
-        },
-        {
-          "word": "please.",
-          "startSec": 203.77,
-          "endSec": 204.15,
-          "score": 1.0
+          "word": "you.",
+          "start": 228.32,
+          "end": 229.1
         }
       ]
     },
     {
       "id": 50,
-      "start": 205.6,
-      "end": 206.95,
-      "text": "Anything else?",
+      "start": 229.36,
+      "end": 230.32,
+      "text": "You too.",
       "words": [
         {
-          "word": "Anything",
-          "startSec": 205.8,
-          "endSec": 206.32,
-          "score": 0.99
+          "word": "You",
+          "start": 229.36,
+          "end": 229.62
         },
         {
-          "word": "else?",
-          "startSec": 206.32,
-          "endSec": 206.8,
-          "score": 1.0
+          "word": "too.",
+          "start": 229.62,
+          "end": 230.32
         }
       ]
     },
     {
       "id": 51,
-      "start": 207.9,
-      "end": 208.83,
-      "text": "Yes.",
+      "start": 230.6,
+      "end": 231.6,
+      "text": "Well done.",
       "words": [
         {
-          "word": "Yes.",
-          "startSec": 208.1,
-          "endSec": 208.68,
-          "score": 1.0
+          "word": "Well",
+          "start": 230.6,
+          "end": 230.88
+        },
+        {
+          "word": "done.",
+          "start": 230.88,
+          "end": 231.6
         }
       ]
     },
     {
       "id": 52,
-      "start": 208.96,
-      "end": 213.05,
-      "text": "Can I get two croissants and a slice of chocolate cake?",
+      "start": 231.9,
+      "end": 235.22,
+      "text": "Now you know how to shop at a bakery in English.",
       "words": [
         {
-          "word": "Can",
-          "startSec": 209.16,
-          "endSec": 209.36,
-          "score": 0.99
+          "word": "Now",
+          "start": 231.9,
+          "end": 232.18
         },
         {
-          "word": "I",
-          "startSec": 209.36,
-          "endSec": 209.52,
-          "score": 1.0
+          "word": "you",
+          "start": 232.18,
+          "end": 232.36
         },
         {
-          "word": "get",
-          "startSec": 209.52,
-          "endSec": 209.7,
-          "score": 1.0
+          "word": "know",
+          "start": 232.36,
+          "end": 232.54
         },
         {
-          "word": "two",
-          "startSec": 209.7,
-          "endSec": 210.08,
-          "score": 0.92
+          "word": "how",
+          "start": 232.54,
+          "end": 232.74
         },
         {
-          "word": "croissants",
-          "startSec": 210.08,
-          "endSec": 210.74,
-          "score": 0.97
+          "word": "to",
+          "start": 232.74,
+          "end": 232.86
         },
         {
-          "word": "and",
-          "startSec": 210.74,
-          "endSec": 211.32,
-          "score": 0.96
+          "word": "shop",
+          "start": 232.86,
+          "end": 233.22
+        },
+        {
+          "word": "at",
+          "start": 233.22,
+          "end": 233.5
         },
         {
           "word": "a",
-          "startSec": 211.32,
-          "endSec": 211.48,
-          "score": 1.0
+          "start": 233.5,
+          "end": 233.64
         },
         {
-          "word": "slice",
-          "startSec": 211.48,
-          "endSec": 211.74,
-          "score": 1.0
+          "word": "bakery",
+          "start": 233.64,
+          "end": 234.0
         },
         {
-          "word": "of",
-          "startSec": 211.74,
-          "endSec": 212.14,
-          "score": 1.0
+          "word": "in",
+          "start": 234.0,
+          "end": 234.42
         },
         {
-          "word": "chocolate",
-          "startSec": 212.14,
-          "endSec": 212.48,
-          "score": 1.0
-        },
-        {
-          "word": "cake?",
-          "startSec": 212.48,
-          "endSec": 212.9,
-          "score": 0.99
+          "word": "English.",
+          "start": 234.42,
+          "end": 235.22
         }
       ]
     },
     {
       "id": 53,
-      "start": 214.25,
-      "end": 215.08,
-      "text": "Of course.",
+      "start": 236.48,
+      "end": 238.34,
+      "text": "Episode Outro.",
       "words": [
         {
-          "word": "Of",
-          "startSec": 214.45,
-          "endSec": 214.69,
-          "score": 1.0
+          "word": "Episode",
+          "start": 236.48,
+          "end": 237.26
         },
         {
-          "word": "course.",
-          "startSec": 214.69,
-          "endSec": 214.93,
-          "score": 1.0
+          "word": "Outro.",
+          "start": 237.26,
+          "end": 238.34
         }
       ]
     },
     {
       "id": 54,
-      "start": 215.43,
-      "end": 217.96,
-      "text": "That will be $10 total.",
+      "start": 238.6,
+      "end": 243.52,
+      "text": "That's all for today's episode on how to speak English at the bakery.",
       "words": [
         {
-          "word": "That",
-          "startSec": 215.63,
-          "endSec": 216.31,
-          "score": 0.13
+          "word": "That's",
+          "start": 238.6,
+          "end": 239.34
         },
         {
-          "word": "will",
-          "startSec": 216.31,
-          "endSec": 216.57,
-          "score": 0.81
+          "word": "all",
+          "start": 239.34,
+          "end": 239.54
         },
         {
-          "word": "be",
-          "startSec": 216.57,
-          "endSec": 216.73,
-          "score": 1.0
+          "word": "for",
+          "start": 239.54,
+          "end": 239.74
         },
         {
-          "word": "$10",
-          "startSec": 216.73,
-          "endSec": 217.11,
-          "score": 0.81
+          "word": "today's",
+          "start": 239.74,
+          "end": 240.3
         },
         {
-          "word": "total.",
-          "startSec": 217.11,
-          "endSec": 217.81,
-          "score": 0.96
+          "word": "episode",
+          "start": 240.3,
+          "end": 240.86
+        },
+        {
+          "word": "on",
+          "start": 240.86,
+          "end": 241.22
+        },
+        {
+          "word": "how",
+          "start": 241.22,
+          "end": 241.46
+        },
+        {
+          "word": "to",
+          "start": 241.46,
+          "end": 241.58
+        },
+        {
+          "word": "speak",
+          "start": 241.58,
+          "end": 241.92
+        },
+        {
+          "word": "English",
+          "start": 241.92,
+          "end": 242.36
+        },
+        {
+          "word": "at",
+          "start": 242.36,
+          "end": 242.68
+        },
+        {
+          "word": "the",
+          "start": 242.68,
+          "end": 242.78
+        },
+        {
+          "word": "bakery.",
+          "start": 242.78,
+          "end": 243.52
         }
       ]
     },
     {
       "id": 55,
-      "start": 219.41,
-      "end": 220.9,
-      "text": "You, here you go.",
+      "start": 243.76,
+      "end": 246.42,
+      "text": "Let's review what we learned today.",
       "words": [
         {
-          "word": "You,",
-          "startSec": 219.61,
-          "endSec": 219.95,
-          "score": 0.71
+          "word": "Let's",
+          "start": 243.76,
+          "end": 244.42
         },
         {
-          "word": "here",
-          "startSec": 220.11,
-          "endSec": 220.27,
-          "score": 0.96
+          "word": "review",
+          "start": 244.42,
+          "end": 244.8
         },
         {
-          "word": "you",
-          "startSec": 220.27,
-          "endSec": 220.45,
-          "score": 0.97
+          "word": "what",
+          "start": 244.8,
+          "end": 245.08
         },
         {
-          "word": "go.",
-          "startSec": 220.45,
-          "endSec": 220.75,
-          "score": 1.0
+          "word": "we",
+          "start": 245.08,
+          "end": 245.28
+        },
+        {
+          "word": "learned",
+          "start": 245.28,
+          "end": 245.6
+        },
+        {
+          "word": "today.",
+          "start": 245.6,
+          "end": 246.42
         }
       ]
     },
     {
       "id": 56,
-      "start": 222.42,
-      "end": 223.43,
-      "text": "Baker.",
+      "start": 246.66,
+      "end": 248.74,
+      "text": "Common bakery vocabulary.",
       "words": [
         {
-          "word": "Baker.",
-          "startSec": 222.62,
-          "endSec": 223.28,
-          "score": 0.49
+          "word": "Common",
+          "start": 246.66,
+          "end": 247.06
+        },
+        {
+          "word": "bakery",
+          "start": 247.06,
+          "end": 247.54
+        },
+        {
+          "word": "vocabulary.",
+          "start": 247.54,
+          "end": 248.74
         }
       ]
     },
     {
       "id": 57,
-      "start": 223.8,
-      "end": 224.97,
-      "text": "Here's your change.",
+      "start": 249.49,
+      "end": 253.06,
+      "text": "How to ask for different types of bread and pastries.",
       "words": [
         {
-          "word": "Here's",
-          "startSec": 224.0,
-          "endSec": 224.38,
-          "score": 0.98
+          "word": "How",
+          "start": 249.49,
+          "end": 249.88
         },
         {
-          "word": "your",
-          "startSec": 224.38,
-          "endSec": 224.48,
-          "score": 1.0
+          "word": "to",
+          "start": 249.88,
+          "end": 250.02
         },
         {
-          "word": "change.",
-          "startSec": 224.48,
-          "endSec": 224.82,
-          "score": 1.0
+          "word": "ask",
+          "start": 250.02,
+          "end": 250.4
+        },
+        {
+          "word": "for",
+          "start": 250.4,
+          "end": 250.58
+        },
+        {
+          "word": "different",
+          "start": 250.58,
+          "end": 250.9
+        },
+        {
+          "word": "types",
+          "start": 250.9,
+          "end": 251.34
+        },
+        {
+          "word": "of",
+          "start": 251.34,
+          "end": 251.56
+        },
+        {
+          "word": "bread",
+          "start": 251.56,
+          "end": 251.8
+        },
+        {
+          "word": "and",
+          "start": 251.8,
+          "end": 252.02
+        },
+        {
+          "word": "pastries.",
+          "start": 252.02,
+          "end": 253.06
         }
       ]
     },
     {
       "id": 58,
-      "start": 225.5,
-      "end": 226.73,
-      "text": "Have a great day.",
+      "start": 253.82,
+      "end": 256.14,
+      "text": "How to order and pay.",
       "words": [
         {
-          "word": "Have",
-          "startSec": 225.7,
-          "endSec": 225.88,
-          "score": 0.99
+          "word": "How",
+          "start": 253.82,
+          "end": 254.6
         },
         {
-          "word": "a",
-          "startSec": 225.88,
-          "endSec": 226.04,
-          "score": 1.0
+          "word": "to",
+          "start": 254.6,
+          "end": 254.74
         },
         {
-          "word": "great",
-          "startSec": 226.04,
-          "endSec": 226.22,
-          "score": 1.0
+          "word": "order",
+          "start": 254.74,
+          "end": 255.1
         },
         {
-          "word": "day.",
-          "startSec": 226.22,
-          "endSec": 226.58,
-          "score": 1.0
+          "word": "and",
+          "start": 255.1,
+          "end": 255.4
+        },
+        {
+          "word": "pay.",
+          "start": 255.4,
+          "end": 256.14
         }
       ]
     },
     {
       "id": 59,
-      "start": 227.7,
-      "end": 228.79,
-      "text": "Thank you.",
+      "start": 257.24,
+      "end": 260.0,
+      "text": "A full conversation at the bakery.",
       "words": [
         {
-          "word": "Thank",
-          "startSec": 227.9,
-          "endSec": 228.18,
-          "score": 0.98
+          "word": "A",
+          "start": 257.24,
+          "end": 257.68
         },
         {
-          "word": "you.",
-          "startSec": 228.18,
-          "endSec": 228.64,
-          "score": 1.0
+          "word": "full",
+          "start": 257.68,
+          "end": 257.94
+        },
+        {
+          "word": "conversation",
+          "start": 257.94,
+          "end": 258.64
+        },
+        {
+          "word": "at",
+          "start": 258.64,
+          "end": 259.06
+        },
+        {
+          "word": "the",
+          "start": 259.06,
+          "end": 259.18
+        },
+        {
+          "word": "bakery.",
+          "start": 259.18,
+          "end": 260.0
         }
       ]
     },
     {
       "id": 60,
-      "start": 229.1,
-      "end": 230.01,
-      "text": "You too.",
+      "start": 260.5,
+      "end": 265.68,
+      "text": "Now you can confidently buy fresh bread and pastries in English.",
       "words": [
         {
-          "word": "You",
-          "startSec": 229.3,
-          "endSec": 229.58,
-          "score": 0.99
+          "word": "Now",
+          "start": 260.5,
+          "end": 261.26
         },
         {
-          "word": "too.",
-          "startSec": 229.58,
-          "endSec": 229.86,
-          "score": 0.9
+          "word": "you",
+          "start": 261.26,
+          "end": 261.6
+        },
+        {
+          "word": "can",
+          "start": 261.6,
+          "end": 261.82
+        },
+        {
+          "word": "confidently",
+          "start": 261.82,
+          "end": 262.5
+        },
+        {
+          "word": "buy",
+          "start": 262.5,
+          "end": 263.02
+        },
+        {
+          "word": "fresh",
+          "start": 263.02,
+          "end": 263.44
+        },
+        {
+          "word": "bread",
+          "start": 263.44,
+          "end": 263.76
+        },
+        {
+          "word": "and",
+          "start": 263.76,
+          "end": 263.92
+        },
+        {
+          "word": "pastries",
+          "start": 263.92,
+          "end": 264.58
+        },
+        {
+          "word": "in",
+          "start": 264.58,
+          "end": 264.86
+        },
+        {
+          "word": "English.",
+          "start": 264.86,
+          "end": 265.68
         }
       ]
     },
     {
       "id": 61,
-      "start": 230.36,
-      "end": 231.29,
-      "text": "Well done.",
+      "start": 266.68,
+      "end": 272.6,
+      "text": "If you enjoyed this lesson, don't forget to follow for more easy English lessons.",
       "words": [
         {
-          "word": "Well",
-          "startSec": 230.56,
-          "endSec": 230.8,
-          "score": 1.0
+          "word": "If",
+          "start": 266.68,
+          "end": 267.1
         },
         {
-          "word": "done.",
-          "startSec": 230.8,
-          "endSec": 231.14,
-          "score": 0.98
+          "word": "you",
+          "start": 267.1,
+          "end": 267.26
+        },
+        {
+          "word": "enjoyed",
+          "start": 267.26,
+          "end": 267.68
+        },
+        {
+          "word": "this",
+          "start": 267.68,
+          "end": 267.96
+        },
+        {
+          "word": "lesson,",
+          "start": 267.96,
+          "end": 268.48
+        },
+        {
+          "word": "don't",
+          "start": 269.2,
+          "end": 269.4
+        },
+        {
+          "word": "forget",
+          "start": 269.4,
+          "end": 269.7
+        },
+        {
+          "word": "to",
+          "start": 269.7,
+          "end": 269.94
+        },
+        {
+          "word": "follow",
+          "start": 269.94,
+          "end": 270.3
+        },
+        {
+          "word": "for",
+          "start": 270.3,
+          "end": 270.58
+        },
+        {
+          "word": "more",
+          "start": 270.58,
+          "end": 270.8
+        },
+        {
+          "word": "easy",
+          "start": 270.8,
+          "end": 271.22
+        },
+        {
+          "word": "English",
+          "start": 271.22,
+          "end": 271.56
+        },
+        {
+          "word": "lessons.",
+          "start": 271.56,
+          "end": 272.6
         }
       ]
     },
     {
       "id": 62,
-      "start": 231.68,
-      "end": 234.91,
-      "text": "Now, you know how to shop at a bakery in English.",
+      "start": 273.16,
+      "end": 278.42,
+      "text": "Thank you for listening and see you next time on Slow English Podcast.",
       "words": [
         {
-          "word": "Now,",
-          "startSec": 231.88,
-          "endSec": 232.12,
-          "score": 0.99
+          "word": "Thank",
+          "start": 273.16,
+          "end": 273.54
         },
         {
           "word": "you",
-          "startSec": 232.2,
-          "endSec": 232.34,
-          "score": 1.0
+          "start": 273.54,
+          "end": 273.76
         },
         {
-          "word": "know",
-          "startSec": 232.34,
-          "endSec": 232.5,
-          "score": 1.0
+          "word": "for",
+          "start": 273.76,
+          "end": 273.98
         },
         {
-          "word": "how",
-          "startSec": 232.5,
-          "endSec": 232.7,
-          "score": 0.99
+          "word": "listening",
+          "start": 273.98,
+          "end": 274.42
         },
         {
-          "word": "to",
-          "startSec": 232.7,
-          "endSec": 232.84,
-          "score": 1.0
+          "word": "and",
+          "start": 274.42,
+          "end": 275.16
         },
         {
-          "word": "shop",
-          "startSec": 232.84,
-          "endSec": 233.1,
-          "score": 0.99
+          "word": "see",
+          "start": 275.16,
+          "end": 275.44
         },
         {
-          "word": "at",
-          "startSec": 233.1,
-          "endSec": 233.46,
-          "score": 1.0
+          "word": "you",
+          "start": 275.44,
+          "end": 275.6
         },
         {
-          "word": "a",
-          "startSec": 233.46,
-          "endSec": 233.58,
-          "score": 1.0
+          "word": "next",
+          "start": 275.6,
+          "end": 275.82
         },
         {
-          "word": "bakery",
-          "startSec": 233.58,
-          "endSec": 233.8,
-          "score": 0.96
+          "word": "time",
+          "start": 275.82,
+          "end": 276.3
         },
         {
-          "word": "in",
-          "startSec": 233.8,
-          "endSec": 234.36,
-          "score": 0.99
+          "word": "on",
+          "start": 276.3,
+          "end": 276.56
         },
         {
-          "word": "English.",
-          "startSec": 234.36,
-          "endSec": 234.76,
-          "score": 0.99
+          "word": "Slow",
+          "start": 276.56,
+          "end": 276.94
+        },
+        {
+          "word": "English",
+          "start": 276.94,
+          "end": 277.38
+        },
+        {
+          "word": "Podcast.",
+          "start": 277.38,
+          "end": 278.42
         }
       ]
     },
     {
       "id": 63,
-      "start": 236.43,
-      "end": 238.06,
-      "text": "Episode Outro.",
-      "words": [
-        {
-          "word": "Episode",
-          "startSec": 236.63,
-          "endSec": 237.31,
-          "score": 0.4
-        },
-        {
-          "word": "Outro.",
-          "startSec": 237.31,
-          "endSec": 237.91,
-          "score": 0.72
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "start": 238.58,
-      "end": 243.15,
-      "text": "That's all for today's episode on how to speak English at the bakery.",
-      "words": [
-        {
-          "word": "That's",
-          "startSec": 238.78,
-          "endSec": 239.3,
-          "score": 1.0
-        },
-        {
-          "word": "all",
-          "startSec": 239.3,
-          "endSec": 239.48,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 239.48,
-          "endSec": 239.7,
-          "score": 1.0
-        },
-        {
-          "word": "today's",
-          "startSec": 239.7,
-          "endSec": 240.26,
-          "score": 1.0
-        },
-        {
-          "word": "episode",
-          "startSec": 240.26,
-          "endSec": 240.66,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 240.66,
-          "endSec": 241.16,
-          "score": 0.99
-        },
-        {
-          "word": "how",
-          "startSec": 241.16,
-          "endSec": 241.42,
-          "score": 0.79
-        },
-        {
-          "word": "to",
-          "startSec": 241.42,
-          "endSec": 241.58,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 241.58,
-          "endSec": 241.84,
-          "score": 1.0
-        },
-        {
-          "word": "English",
-          "startSec": 241.84,
-          "endSec": 242.3,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 242.3,
-          "endSec": 242.58,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 242.58,
-          "endSec": 242.74,
-          "score": 0.99
-        },
-        {
-          "word": "bakery.",
-          "startSec": 242.74,
-          "endSec": 243.0,
-          "score": 0.86
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "start": 243.74,
-      "end": 246.13,
-      "text": "Let's review what we learned today.",
-      "words": [
-        {
-          "word": "Let's",
-          "startSec": 243.94,
-          "endSec": 244.4,
-          "score": 1.0
-        },
-        {
-          "word": "review",
-          "startSec": 244.4,
-          "endSec": 244.62,
-          "score": 1.0
-        },
-        {
-          "word": "what",
-          "startSec": 244.62,
-          "endSec": 245.06,
-          "score": 1.0
-        },
-        {
-          "word": "we",
-          "startSec": 245.06,
-          "endSec": 245.24,
-          "score": 1.0
-        },
-        {
-          "word": "learned",
-          "startSec": 245.24,
-          "endSec": 245.5,
-          "score": 0.93
-        },
-        {
-          "word": "today.",
-          "startSec": 245.5,
-          "endSec": 245.98,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "start": 245.78,
-      "end": 248.57,
-      "text": "Common bakery vocabulary.",
-      "words": [
-        {
-          "word": "Common",
-          "startSec": 245.98,
-          "endSec": 247.12,
-          "score": 0.05
-        },
-        {
-          "word": "bakery",
-          "startSec": 247.12,
-          "endSec": 247.36,
-          "score": 0.04
-        },
-        {
-          "word": "vocabulary.",
-          "startSec": 247.36,
-          "endSec": 248.42,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 67,
-      "start": 249.36,
-      "end": 252.75,
-      "text": "How to ask for different types of bread and pastries.",
-      "words": [
-        {
-          "word": "How",
-          "startSec": 249.56,
-          "endSec": 249.82,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 249.82,
-          "endSec": 249.98,
-          "score": 1.0
-        },
-        {
-          "word": "ask",
-          "startSec": 249.98,
-          "endSec": 250.24,
-          "score": 0.99
-        },
-        {
-          "word": "for",
-          "startSec": 250.24,
-          "endSec": 250.56,
-          "score": 1.0
-        },
-        {
-          "word": "different",
-          "startSec": 250.56,
-          "endSec": 250.76,
-          "score": 1.0
-        },
-        {
-          "word": "types",
-          "startSec": 250.76,
-          "endSec": 251.22,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 251.22,
-          "endSec": 251.5,
-          "score": 1.0
-        },
-        {
-          "word": "bread",
-          "startSec": 251.5,
-          "endSec": 251.74,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 251.74,
-          "endSec": 251.98,
-          "score": 0.98
-        },
-        {
-          "word": "pastries.",
-          "startSec": 251.98,
-          "endSec": 252.6,
-          "score": 0.98
-        }
-      ]
-    },
-    {
-      "id": 68,
-      "start": 254.07,
-      "end": 255.8,
-      "text": "How to order and pay.",
-      "words": [
-        {
-          "word": "How",
-          "startSec": 254.27,
-          "endSec": 254.55,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 254.55,
-          "endSec": 254.71,
-          "score": 1.0
-        },
-        {
-          "word": "order",
-          "startSec": 254.71,
-          "endSec": 254.99,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 254.99,
-          "endSec": 255.35,
-          "score": 0.99
-        },
-        {
-          "word": "pay.",
-          "startSec": 255.35,
-          "endSec": 255.65,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "start": 257.33,
-      "end": 259.54,
-      "text": "A full conversation at the bakery.",
-      "words": [
-        {
-          "word": "A",
-          "startSec": 257.53,
-          "endSec": 257.65,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 257.65,
-          "endSec": 257.87,
-          "score": 0.99
-        },
-        {
-          "word": "conversation",
-          "startSec": 257.87,
-          "endSec": 258.43,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 258.43,
-          "endSec": 259.01,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 259.01,
-          "endSec": 259.13,
-          "score": 0.99
-        },
-        {
-          "word": "bakery.",
-          "startSec": 259.13,
-          "endSec": 259.39,
-          "score": 0.96
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "start": 260.74,
-      "end": 265.35,
-      "text": "Now, you can confidently buy fresh bread and pastries in English.",
-      "words": [
-        {
-          "word": "Now,",
-          "startSec": 260.94,
-          "endSec": 261.28,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 261.48,
-          "endSec": 261.58,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 261.58,
-          "endSec": 261.76,
-          "score": 1.0
-        },
-        {
-          "word": "confidently",
-          "startSec": 261.76,
-          "endSec": 262.34,
-          "score": 1.0
-        },
-        {
-          "word": "buy",
-          "startSec": 262.34,
-          "endSec": 262.94,
-          "score": 0.99
-        },
-        {
-          "word": "fresh",
-          "startSec": 262.94,
-          "endSec": 263.36,
-          "score": 0.97
-        },
-        {
-          "word": "bread",
-          "startSec": 263.36,
-          "endSec": 263.66,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 263.66,
-          "endSec": 263.88,
-          "score": 0.98
-        },
-        {
-          "word": "pastries",
-          "startSec": 263.88,
-          "endSec": 264.5,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 264.5,
-          "endSec": 264.8,
-          "score": 0.98
-        },
-        {
-          "word": "English.",
-          "startSec": 264.8,
-          "endSec": 265.2,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "start": 266.58,
-      "end": 272.05,
-      "text": "If you enjoyed this lesson, don't forget to follow for more easy English lessons.",
-      "words": [
-        {
-          "word": "If",
-          "startSec": 266.78,
-          "endSec": 267.04,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 267.04,
-          "endSec": 267.24,
-          "score": 1.0
-        },
-        {
-          "word": "enjoyed",
-          "startSec": 267.24,
-          "endSec": 267.42,
-          "score": 0.97
-        },
-        {
-          "word": "this",
-          "startSec": 267.42,
-          "endSec": 267.86,
-          "score": 1.0
-        },
-        {
-          "word": "lesson,",
-          "startSec": 267.86,
-          "endSec": 268.44,
-          "score": 1.0
-        },
-        {
-          "word": "don't",
-          "startSec": 269.04,
-          "endSec": 269.38,
-          "score": 1.0
-        },
-        {
-          "word": "forget",
-          "startSec": 269.38,
-          "endSec": 269.56,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 269.56,
-          "endSec": 269.9,
-          "score": 1.0
-        },
-        {
-          "word": "follow",
-          "startSec": 269.9,
-          "endSec": 270.24,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 270.24,
-          "endSec": 270.54,
-          "score": 0.98
-        },
-        {
-          "word": "more",
-          "startSec": 270.54,
-          "endSec": 270.76,
-          "score": 1.0
-        },
-        {
-          "word": "easy",
-          "startSec": 270.76,
-          "endSec": 271.06,
-          "score": 0.95
-        },
-        {
-          "word": "English",
-          "startSec": 271.06,
-          "endSec": 271.5,
-          "score": 1.0
-        },
-        {
-          "word": "lessons.",
-          "startSec": 271.5,
-          "endSec": 271.9,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "start": 277.71,
-      "end": 279.7,
-      "text": "Bye bye.",
+      "start": 278.96,
+      "end": 279.93,
+      "text": "Bye -bye.",
       "words": [
         {
           "word": "Bye",
-          "startSec": 277.91,
-          "endSec": 279.21,
-          "score": 0.12
+          "start": 278.96,
+          "end": 279.28
         },
         {
-          "word": "bye.",
-          "startSec": 279.21,
-          "endSec": 279.55,
-          "score": 0.41
+          "word": "-bye.",
+          "start": 279.28,
+          "end": 279.93
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 63
 }

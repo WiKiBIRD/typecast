@@ -15,3253 +15,3546 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.04,
-      "end": 5.17,
-      "text": "Hello everyone. Welcome to the Slow English Podcast.",
+      "start": 2.48,
+      "end": 5.66,
+      "text": "Welcome to the Slow English podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.14,
-          "endSec": 0.78,
-          "score": 0.81
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.78,
-          "endSec": 1.28,
-          "score": 0.64
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.34,
-          "endSec": 3.14,
-          "score": 0.99
+          "start": 2.48,
+          "end": 3.12
         },
         {
           "word": "to",
-          "startSec": 3.14,
-          "endSec": 3.46,
-          "score": 1.0
+          "start": 3.12,
+          "end": 3.5
         },
         {
           "word": "the",
-          "startSec": 3.46,
-          "endSec": 3.62,
-          "score": 0.98
+          "start": 3.5,
+          "end": 3.7
         },
         {
           "word": "Slow",
-          "startSec": 3.62,
-          "endSec": 3.94,
-          "score": 0.71
+          "start": 3.7,
+          "end": 4.08
         },
         {
           "word": "English",
-          "startSec": 3.94,
-          "endSec": 4.5,
-          "score": 0.9
+          "start": 4.08,
+          "end": 4.56
         },
         {
-          "word": "Podcast.",
-          "startSec": 4.5,
-          "endSec": 5.02,
-          "score": 0.85
+          "word": "podcast.",
+          "start": 4.56,
+          "end": 5.66
         }
       ]
     },
     {
       "id": 2,
-      "start": 6.26,
-      "end": 11.19,
-      "text": "My name is Emili. In this podcast we speak slowly.",
+      "start": 6.76,
+      "end": 8.42,
+      "text": "My name is Emily.",
       "words": [
         {
           "word": "My",
-          "startSec": 6.46,
-          "endSec": 7.18,
-          "score": 0.97
+          "start": 6.76,
+          "end": 7.24
         },
         {
           "word": "name",
-          "startSec": 7.18,
-          "endSec": 7.4,
-          "score": 1.0
+          "start": 7.24,
+          "end": 7.52
         },
         {
           "word": "is",
-          "startSec": 7.4,
-          "endSec": 7.7,
-          "score": 1.0
+          "start": 7.52,
+          "end": 7.74
         },
         {
-          "word": "Emili.",
-          "startSec": 7.7,
-          "endSec": 8.08,
-          "score": 0.35
-        },
-        {
-          "word": "In",
-          "startSec": 8.58,
-          "endSec": 8.8,
-          "score": 0.99
-        },
-        {
-          "word": "this",
-          "startSec": 8.8,
-          "endSec": 9.0,
-          "score": 1.0
-        },
-        {
-          "word": "podcast",
-          "startSec": 9.0,
-          "endSec": 9.4,
-          "score": 0.97
-        },
-        {
-          "word": "we",
-          "startSec": 9.4,
-          "endSec": 10.18,
-          "score": 0.6
-        },
-        {
-          "word": "speak",
-          "startSec": 10.18,
-          "endSec": 10.46,
-          "score": 0.99
-        },
-        {
-          "word": "slowly.",
-          "startSec": 10.46,
-          "endSec": 11.04,
-          "score": 0.98
+          "word": "Emily.",
+          "start": 7.74,
+          "end": 8.42
         }
       ]
     },
     {
       "id": 3,
-      "start": 11.84,
-      "end": 15.73,
-      "text": "We use simple English. We repeat ideas.",
+      "start": 8.7,
+      "end": 11.62,
+      "text": "In this podcast, we speak slowly.",
       "words": [
         {
-          "word": "We",
-          "startSec": 12.04,
-          "endSec": 12.1,
-          "score": 0.98
+          "word": "In",
+          "start": 8.7,
+          "end": 8.86
         },
         {
-          "word": "use",
-          "startSec": 12.1,
-          "endSec": 12.4,
-          "score": 1.0
+          "word": "this",
+          "start": 8.86,
+          "end": 9.08
         },
         {
-          "word": "simple",
-          "startSec": 12.4,
-          "endSec": 12.78,
-          "score": 0.83
+          "word": "podcast,",
+          "start": 9.08,
+          "end": 9.64
         },
         {
-          "word": "English.",
-          "startSec": 12.78,
-          "endSec": 13.34,
-          "score": 0.99
+          "word": "we",
+          "start": 10.08,
+          "end": 10.22
         },
         {
-          "word": "We",
-          "startSec": 14.38,
-          "endSec": 14.44,
-          "score": 1.0
+          "word": "speak",
+          "start": 10.22,
+          "end": 10.62
         },
         {
-          "word": "repeat",
-          "startSec": 14.44,
-          "endSec": 14.74,
-          "score": 0.99
-        },
-        {
-          "word": "ideas.",
-          "startSec": 14.74,
-          "endSec": 15.58,
-          "score": 0.99
+          "word": "slowly.",
+          "start": 10.62,
+          "end": 11.62
         }
       ]
     },
     {
       "id": 4,
-      "start": 16.56,
-      "end": 20.59,
-      "text": "Today we travel to Eastern Europe. We go to Bulgaria.",
+      "start": 12.02,
+      "end": 13.94,
+      "text": "We use simple English.",
       "words": [
         {
-          "word": "Today",
-          "startSec": 16.76,
-          "endSec": 16.76,
-          "score": 0.97
-        },
-        {
-          "word": "we",
-          "startSec": 16.76,
-          "endSec": 17.14,
-          "score": 0.77
-        },
-        {
-          "word": "travel",
-          "startSec": 17.14,
-          "endSec": 17.44,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 17.44,
-          "endSec": 17.82,
-          "score": 1.0
-        },
-        {
-          "word": "Eastern",
-          "startSec": 17.82,
-          "endSec": 18.16,
-          "score": 0.91
-        },
-        {
-          "word": "Europe.",
-          "startSec": 18.16,
-          "endSec": 18.7,
-          "score": 1.0
-        },
-        {
           "word": "We",
-          "startSec": 19.58,
-          "endSec": 19.64,
-          "score": 0.99
+          "start": 12.02,
+          "end": 12.14
         },
         {
-          "word": "go",
-          "startSec": 19.64,
-          "endSec": 19.84,
-          "score": 1.0
+          "word": "use",
+          "start": 12.14,
+          "end": 12.48
         },
         {
-          "word": "to",
-          "startSec": 19.84,
-          "endSec": 19.98,
-          "score": 1.0
+          "word": "simple",
+          "start": 12.48,
+          "end": 13.02
         },
         {
-          "word": "Bulgaria.",
-          "startSec": 19.98,
-          "endSec": 20.44,
-          "score": 1.0
+          "word": "English.",
+          "start": 13.02,
+          "end": 13.94
         }
       ]
     },
     {
       "id": 5,
-      "start": 21.58,
-      "end": 28.44,
-      "text": "Our city today is Plovdiv. Plovdiv is calm. Plovdiv is very old.",
+      "start": 14.46,
+      "end": 16.1,
+      "text": "We repeat ideas.",
       "words": [
         {
-          "word": "Our",
-          "startSec": 21.78,
-          "endSec": 21.86,
-          "score": 1.0
+          "word": "We",
+          "start": 14.46,
+          "end": 14.46
         },
         {
-          "word": "city",
-          "startSec": 21.86,
-          "endSec": 22.2,
-          "score": 0.99
+          "word": "repeat",
+          "start": 14.46,
+          "end": 14.94
         },
         {
-          "word": "today",
-          "startSec": 22.2,
-          "endSec": 22.7,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 22.7,
-          "endSec": 23.18,
-          "score": 1.0
-        },
-        {
-          "word": "Plovdiv.",
-          "startSec": 23.18,
-          "endSec": 23.86,
-          "score": 0.74
-        },
-        {
-          "word": "Plovdiv",
-          "startSec": 24.63,
-          "endSec": 25.43,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 25.43,
-          "endSec": 25.73,
-          "score": 0.98
-        },
-        {
-          "word": "calm.",
-          "startSec": 25.73,
-          "endSec": 26.01,
-          "score": 0.98
-        },
-        {
-          "word": "Plovdiv",
-          "startSec": 27.01,
-          "endSec": 27.29,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 27.29,
-          "endSec": 27.53,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 27.53,
-          "endSec": 27.81,
-          "score": 1.0
-        },
-        {
-          "word": "old.",
-          "startSec": 27.81,
-          "endSec": 28.29,
-          "score": 1.0
+          "word": "ideas.",
+          "start": 14.94,
+          "end": 16.1
         }
       ]
     },
     {
       "id": 6,
-      "start": 28.09,
-      "end": 35.8,
-      "text": "Plovdiv is full of history and life. Please sit comfortably. Please listen slowly.",
+      "start": 16.38,
+      "end": 19.1,
+      "text": "Today, we travel to Eastern Europe.",
       "words": [
         {
-          "word": "Plovdiv",
-          "startSec": 28.29,
-          "endSec": 29.47,
-          "score": 0.36
+          "word": "Today,",
+          "start": 16.38,
+          "end": 16.8
         },
         {
-          "word": "is",
-          "startSec": 29.47,
-          "endSec": 29.69,
-          "score": 0.93
+          "word": "we",
+          "start": 17.04,
+          "end": 17.16
         },
         {
-          "word": "full",
-          "startSec": 29.69,
-          "endSec": 29.93,
-          "score": 0.98
+          "word": "travel",
+          "start": 17.16,
+          "end": 17.6
         },
         {
-          "word": "of",
-          "startSec": 29.93,
-          "endSec": 30.13,
-          "score": 0.99
+          "word": "to",
+          "start": 17.6,
+          "end": 17.86
         },
         {
-          "word": "history",
-          "startSec": 30.13,
-          "endSec": 30.59,
-          "score": 0.99
+          "word": "Eastern",
+          "start": 17.86,
+          "end": 18.32
         },
         {
-          "word": "and",
-          "startSec": 30.59,
-          "endSec": 30.89,
-          "score": 0.96
-        },
-        {
-          "word": "life.",
-          "startSec": 30.89,
-          "endSec": 31.23,
-          "score": 1.0
-        },
-        {
-          "word": "Please",
-          "startSec": 31.99,
-          "endSec": 32.29,
-          "score": 0.99
-        },
-        {
-          "word": "sit",
-          "startSec": 32.29,
-          "endSec": 32.65,
-          "score": 0.99
-        },
-        {
-          "word": "comfortably.",
-          "startSec": 32.65,
-          "endSec": 33.15,
-          "score": 1.0
-        },
-        {
-          "word": "Please",
-          "startSec": 34.19,
-          "endSec": 34.61,
-          "score": 0.99
-        },
-        {
-          "word": "listen",
-          "startSec": 34.61,
-          "endSec": 34.97,
-          "score": 1.0
-        },
-        {
-          "word": "slowly.",
-          "startSec": 34.97,
-          "endSec": 35.65,
-          "score": 1.0
+          "word": "Europe.",
+          "start": 18.32,
+          "end": 19.1
         }
       ]
     },
     {
       "id": 7,
-      "start": 36.27,
-      "end": 41.85,
-      "text": "Let us begin. Part 2 Bulgaria in Simple English.",
+      "start": 19.32,
+      "end": 20.9,
+      "text": "We go to Bulgaria.",
       "words": [
         {
-          "word": "Let",
-          "startSec": 36.47,
-          "endSec": 36.71,
-          "score": 0.99
+          "word": "We",
+          "start": 19.32,
+          "end": 19.68
         },
         {
-          "word": "us",
-          "startSec": 36.71,
-          "endSec": 36.89,
-          "score": 0.99
+          "word": "go",
+          "start": 19.68,
+          "end": 19.9
         },
         {
-          "word": "begin.",
-          "startSec": 36.89,
-          "endSec": 37.33,
-          "score": 1.0
+          "word": "to",
+          "start": 19.9,
+          "end": 20.04
         },
         {
-          "word": "Part",
-          "startSec": 38.9,
-          "endSec": 39.08,
-          "score": 0.53
-        },
-        {
-          "word": "2",
-          "startSec": 39.08,
-          "endSec": 39.44,
-          "score": 0.46
-        },
-        {
-          "word": "Bulgaria",
-          "startSec": 39.44,
-          "endSec": 40.06,
-          "score": 0.47
-        },
-        {
-          "word": "in",
-          "startSec": 40.06,
-          "endSec": 40.74,
-          "score": 0.66
-        },
-        {
-          "word": "Simple",
-          "startSec": 40.74,
-          "endSec": 41.02,
-          "score": 0.71
-        },
-        {
-          "word": "English.",
-          "startSec": 41.02,
-          "endSec": 41.7,
-          "score": 1.0
+          "word": "Bulgaria.",
+          "start": 20.04,
+          "end": 20.9
         }
       ]
     },
     {
       "id": 8,
-      "start": 42.24,
-      "end": 47.33,
-      "text": "Bulgaria is a country in Europe. It is in the Balkan region.",
+      "start": 21.62,
+      "end": 24.4,
+      "text": "Our city today is Plovdiv.",
       "words": [
         {
-          "word": "Bulgaria",
-          "startSec": 42.44,
-          "endSec": 42.96,
-          "score": 0.97
+          "word": "Our",
+          "start": 21.62,
+          "end": 21.92
+        },
+        {
+          "word": "city",
+          "start": 21.92,
+          "end": 22.28
+        },
+        {
+          "word": "today",
+          "start": 22.28,
+          "end": 22.76
         },
         {
           "word": "is",
-          "startSec": 42.96,
-          "endSec": 43.76,
-          "score": 1.0
+          "start": 22.76,
+          "end": 23.2
         },
         {
-          "word": "a",
-          "startSec": 43.76,
-          "endSec": 43.94,
-          "score": 0.99
-        },
-        {
-          "word": "country",
-          "startSec": 43.94,
-          "endSec": 44.3,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 44.3,
-          "endSec": 44.66,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 44.66,
-          "endSec": 45.02,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 45.66,
-          "endSec": 45.92,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 45.92,
-          "endSec": 46.08,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 46.08,
-          "endSec": 46.24,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 46.24,
-          "endSec": 46.38,
-          "score": 1.0
-        },
-        {
-          "word": "Balkan",
-          "startSec": 46.38,
-          "endSec": 46.96,
-          "score": 0.99
-        },
-        {
-          "word": "region.",
-          "startSec": 46.96,
-          "endSec": 47.18,
-          "score": 0.98
+          "word": "Plovdiv.",
+          "start": 23.2,
+          "end": 24.4
         }
       ]
     },
     {
       "id": 9,
-      "start": 47.98,
-      "end": 54.91,
-      "text": "Bulgaria has mountains. Bulgaria has rivers. People value family.",
+      "start": 24.74,
+      "end": 26.26,
+      "text": "Plovdiv is calm.",
       "words": [
         {
-          "word": "Bulgaria",
-          "startSec": 48.18,
-          "endSec": 48.7,
-          "score": 0.98
+          "word": "Plovdiv",
+          "start": 24.74,
+          "end": 25.52
         },
         {
-          "word": "has",
-          "startSec": 48.7,
-          "endSec": 49.34,
-          "score": 1.0
+          "word": "is",
+          "start": 25.52,
+          "end": 25.78
         },
         {
-          "word": "mountains.",
-          "startSec": 49.34,
-          "endSec": 49.78,
-          "score": 0.99
-        },
-        {
-          "word": "Bulgaria",
-          "startSec": 51.3,
-          "endSec": 51.3,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 51.3,
-          "endSec": 51.96,
-          "score": 1.0
-        },
-        {
-          "word": "rivers.",
-          "startSec": 51.96,
-          "endSec": 52.28,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 53.42,
-          "endSec": 53.82,
-          "score": 0.99
-        },
-        {
-          "word": "value",
-          "startSec": 53.82,
-          "endSec": 54.36,
-          "score": 0.98
-        },
-        {
-          "word": "family.",
-          "startSec": 54.36,
-          "endSec": 54.76,
-          "score": 0.99
+          "word": "calm.",
+          "start": 25.78,
+          "end": 26.26
         }
       ]
     },
     {
       "id": 10,
-      "start": 54.56,
-      "end": 61.87,
-      "text": "People value tradition. Life feels simple. Life feels real.",
+      "start": 26.26,
+      "end": 28.67,
+      "text": "Plovdiv is very old.",
       "words": [
         {
-          "word": "People",
-          "startSec": 54.76,
-          "endSec": 55.96,
-          "score": 0.01
+          "word": "Plovdiv",
+          "start": 26.26,
+          "end": 27.38
         },
         {
-          "word": "value",
-          "startSec": 55.96,
-          "endSec": 56.32,
-          "score": 0.93
+          "word": "is",
+          "start": 27.38,
+          "end": 27.62
         },
         {
-          "word": "tradition.",
-          "startSec": 56.32,
-          "endSec": 56.92,
-          "score": 0.97
+          "word": "very",
+          "start": 27.62,
+          "end": 27.92
         },
         {
-          "word": "Life",
-          "startSec": 57.98,
-          "endSec": 58.38,
-          "score": 0.97
-        },
-        {
-          "word": "feels",
-          "startSec": 58.38,
-          "endSec": 58.88,
-          "score": 0.99
-        },
-        {
-          "word": "simple.",
-          "startSec": 58.88,
-          "endSec": 59.38,
-          "score": 1.0
-        },
-        {
-          "word": "Life",
-          "startSec": 60.34,
-          "endSec": 60.72,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 60.72,
-          "endSec": 61.28,
-          "score": 0.99
-        },
-        {
-          "word": "real.",
-          "startSec": 61.28,
-          "endSec": 61.72,
-          "score": 1.0
+          "word": "old.",
+          "start": 27.92,
+          "end": 28.67
         }
       ]
     },
     {
       "id": 11,
-      "start": 62.46,
-      "end": 69.07,
-      "text": "Plovdiv shows Bulgarian culture very well at 3. Where is Plovdiv?",
+      "start": 28.8,
+      "end": 31.62,
+      "text": "Plovdiv is full of history and life.",
       "words": [
         {
           "word": "Plovdiv",
-          "startSec": 62.66,
-          "endSec": 63.18,
-          "score": 0.69
-        },
-        {
-          "word": "shows",
-          "startSec": 63.18,
-          "endSec": 63.76,
-          "score": 0.97
-        },
-        {
-          "word": "Bulgarian",
-          "startSec": 63.76,
-          "endSec": 64.52,
-          "score": 0.98
-        },
-        {
-          "word": "culture",
-          "startSec": 64.52,
-          "endSec": 65.18,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 65.18,
-          "endSec": 65.92,
-          "score": 0.99
-        },
-        {
-          "word": "well",
-          "startSec": 65.92,
-          "endSec": 66.48,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 66.48,
-          "endSec": 66.76,
-          "score": 0.69
-        },
-        {
-          "word": "3.",
-          "startSec": 66.76,
-          "endSec": 67.06,
-          "score": 0.36
-        },
-        {
-          "word": "Where",
-          "startSec": 67.72,
-          "endSec": 68.04,
-          "score": 0.98
+          "start": 28.8,
+          "end": 29.56
         },
         {
           "word": "is",
-          "startSec": 68.04,
-          "endSec": 68.36,
-          "score": 0.99
+          "start": 29.56,
+          "end": 29.72
         },
         {
-          "word": "Plovdiv?",
-          "startSec": 68.36,
-          "endSec": 68.92,
-          "score": 0.98
+          "word": "full",
+          "start": 29.72,
+          "end": 30.0
+        },
+        {
+          "word": "of",
+          "start": 30.0,
+          "end": 30.18
+        },
+        {
+          "word": "history",
+          "start": 30.18,
+          "end": 30.6
+        },
+        {
+          "word": "and",
+          "start": 30.6,
+          "end": 30.92
+        },
+        {
+          "word": "life.",
+          "start": 30.92,
+          "end": 31.62
         }
       ]
     },
     {
       "id": 12,
-      "start": 69.64,
-      "end": 76.97,
-      "text": "Plovdiv is in the south of Bulgaria. It is one of the oldest cities in Europe.",
+      "start": 31.84,
+      "end": 33.86,
+      "text": "Please sit comfortably.",
       "words": [
         {
-          "word": "Plovdiv",
-          "startSec": 69.84,
-          "endSec": 70.72,
-          "score": 1.0
+          "word": "Please",
+          "start": 31.84,
+          "end": 32.36
         },
         {
-          "word": "is",
-          "startSec": 70.72,
-          "endSec": 71.04,
-          "score": 0.99
+          "word": "sit",
+          "start": 32.36,
+          "end": 32.7
         },
         {
-          "word": "in",
-          "startSec": 71.04,
-          "endSec": 71.22,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 71.22,
-          "endSec": 71.36,
-          "score": 0.99
-        },
-        {
-          "word": "south",
-          "startSec": 71.36,
-          "endSec": 71.68,
-          "score": 0.89
-        },
-        {
-          "word": "of",
-          "startSec": 71.68,
-          "endSec": 71.92,
-          "score": 1.0
-        },
-        {
-          "word": "Bulgaria.",
-          "startSec": 71.92,
-          "endSec": 72.42,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 73.54,
-          "endSec": 73.8,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 73.8,
-          "endSec": 73.98,
-          "score": 0.99
-        },
-        {
-          "word": "one",
-          "startSec": 73.98,
-          "endSec": 74.4,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 74.4,
-          "endSec": 74.64,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 74.64,
-          "endSec": 74.84,
-          "score": 1.0
-        },
-        {
-          "word": "oldest",
-          "startSec": 74.84,
-          "endSec": 75.38,
-          "score": 1.0
-        },
-        {
-          "word": "cities",
-          "startSec": 75.38,
-          "endSec": 75.94,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 75.94,
-          "endSec": 76.42,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 76.42,
-          "endSec": 76.82,
-          "score": 1.0
+          "word": "comfortably.",
+          "start": 32.7,
+          "end": 33.86
         }
       ]
     },
     {
       "id": 13,
-      "start": 77.34,
-      "end": 81.95,
-      "text": "The city is built on hills. There are seven hills.",
+      "start": 34.18,
+      "end": 36.22,
+      "text": "Please listen slowly.",
       "words": [
         {
-          "word": "The",
-          "startSec": 77.54,
-          "endSec": 77.78,
-          "score": 0.99
+          "word": "Please",
+          "start": 34.18,
+          "end": 34.66
         },
         {
-          "word": "city",
-          "startSec": 77.78,
-          "endSec": 78.1,
-          "score": 0.99
+          "word": "listen",
+          "start": 34.66,
+          "end": 35.26
         },
         {
-          "word": "is",
-          "startSec": 78.1,
-          "endSec": 78.48,
-          "score": 1.0
-        },
-        {
-          "word": "built",
-          "startSec": 78.48,
-          "endSec": 78.82,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 78.82,
-          "endSec": 79.18,
-          "score": 1.0
-        },
-        {
-          "word": "hills.",
-          "startSec": 79.18,
-          "endSec": 79.52,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 80.44,
-          "endSec": 80.7,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 80.7,
-          "endSec": 80.88,
-          "score": 1.0
-        },
-        {
-          "word": "seven",
-          "startSec": 80.88,
-          "endSec": 81.38,
-          "score": 0.57
-        },
-        {
-          "word": "hills.",
-          "startSec": 81.38,
-          "endSec": 81.8,
-          "score": 0.99
+          "word": "slowly.",
+          "start": 35.26,
+          "end": 36.22
         }
       ]
     },
     {
       "id": 14,
-      "start": 81.6,
-      "end": 91.61,
-      "text": "The land feels warm. The city feels open. Plovdiv is easy to walk. Everything feels close.",
+      "start": 36.58,
+      "end": 37.88,
+      "text": "Let us begin.",
       "words": [
         {
-          "word": "The",
-          "startSec": 81.8,
-          "endSec": 82.9,
-          "score": 0.27
+          "word": "Let",
+          "start": 36.58,
+          "end": 36.76
         },
         {
-          "word": "land",
-          "startSec": 82.9,
-          "endSec": 83.32,
-          "score": 0.73
+          "word": "us",
+          "start": 36.76,
+          "end": 36.96
         },
         {
-          "word": "feels",
-          "startSec": 83.32,
-          "endSec": 83.66,
-          "score": 0.98
-        },
-        {
-          "word": "warm.",
-          "startSec": 83.66,
-          "endSec": 84.32,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 85.1,
-          "endSec": 85.18,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 85.18,
-          "endSec": 85.46,
-          "score": 0.96
-        },
-        {
-          "word": "feels",
-          "startSec": 85.46,
-          "endSec": 85.98,
-          "score": 0.99
-        },
-        {
-          "word": "open.",
-          "startSec": 85.98,
-          "endSec": 86.54,
-          "score": 1.0
-        },
-        {
-          "word": "Plovdiv",
-          "startSec": 87.38,
-          "endSec": 87.94,
-          "score": 0.82
-        },
-        {
-          "word": "is",
-          "startSec": 87.94,
-          "endSec": 88.24,
-          "score": 0.98
-        },
-        {
-          "word": "easy",
-          "startSec": 88.24,
-          "endSec": 88.54,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 88.54,
-          "endSec": 88.98,
-          "score": 1.0
-        },
-        {
-          "word": "walk.",
-          "startSec": 88.98,
-          "endSec": 89.38,
-          "score": 1.0
-        },
-        {
-          "word": "Everything",
-          "startSec": 90.0,
-          "endSec": 90.34,
-          "score": 1.0
-        },
-        {
-          "word": "feels",
-          "startSec": 90.34,
-          "endSec": 90.98,
-          "score": 1.0
-        },
-        {
-          "word": "close.",
-          "startSec": 90.98,
-          "endSec": 91.46,
-          "score": 1.0
+          "word": "begin.",
+          "start": 36.96,
+          "end": 37.88
         }
       ]
     },
     {
       "id": 15,
-      "start": 92.36,
-      "end": 100.47,
-      "text": "Part 4 Plovdiv has clear seasons. Summer is hot. The sun is strong.",
+      "start": 38.86,
+      "end": 42.16,
+      "text": "Part two, Bulgaria in simple English.",
       "words": [
         {
           "word": "Part",
-          "startSec": 92.56,
-          "endSec": 92.92,
-          "score": 0.77
+          "start": 38.86,
+          "end": 39.12
         },
         {
-          "word": "4",
-          "startSec": 92.92,
-          "endSec": 93.46,
-          "score": 0.35
+          "word": "two,",
+          "start": 39.12,
+          "end": 39.48
         },
         {
-          "word": "Plovdiv",
-          "startSec": 93.46,
-          "endSec": 94.44,
-          "score": 0.73
+          "word": "Bulgaria",
+          "start": 39.66,
+          "end": 40.06
         },
         {
-          "word": "has",
-          "startSec": 94.44,
-          "endSec": 94.86,
-          "score": 0.97
+          "word": "in",
+          "start": 40.06,
+          "end": 40.78
         },
         {
-          "word": "clear",
-          "startSec": 94.86,
-          "endSec": 95.3,
-          "score": 0.92
+          "word": "simple",
+          "start": 40.78,
+          "end": 41.24
         },
         {
-          "word": "seasons.",
-          "startSec": 95.3,
-          "endSec": 96.0,
-          "score": 1.0
-        },
-        {
-          "word": "Summer",
-          "startSec": 97.04,
-          "endSec": 97.46,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 97.46,
-          "endSec": 97.92,
-          "score": 1.0
-        },
-        {
-          "word": "hot.",
-          "startSec": 97.92,
-          "endSec": 98.3,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 99.2,
-          "endSec": 99.26,
-          "score": 0.99
-        },
-        {
-          "word": "sun",
-          "startSec": 99.26,
-          "endSec": 99.54,
-          "score": 0.93
-        },
-        {
-          "word": "is",
-          "startSec": 99.54,
-          "endSec": 99.8,
-          "score": 1.0
-        },
-        {
-          "word": "strong.",
-          "startSec": 99.8,
-          "endSec": 100.32,
-          "score": 1.0
+          "word": "English.",
+          "start": 41.24,
+          "end": 42.16
         }
       ]
     },
     {
       "id": 16,
-      "start": 101.2,
-      "end": 107.37,
-      "text": "Autumn is soft. Colors change slowly. Winter is cold.",
+      "start": 42.44,
+      "end": 45.49,
+      "text": "Bulgaria is a country in Europe.",
       "words": [
         {
-          "word": "Autumn",
-          "startSec": 101.4,
-          "endSec": 101.66,
-          "score": 0.92
+          "word": "Bulgaria",
+          "start": 42.44,
+          "end": 42.96
         },
         {
           "word": "is",
-          "startSec": 101.66,
-          "endSec": 102.02,
-          "score": 1.0
+          "start": 42.96,
+          "end": 43.84
         },
         {
-          "word": "soft.",
-          "startSec": 102.02,
-          "endSec": 102.52,
-          "score": 1.0
+          "word": "a",
+          "start": 43.84,
+          "end": 44.02
         },
         {
-          "word": "Colors",
-          "startSec": 104.14,
-          "endSec": 104.14,
-          "score": 0.87
+          "word": "country",
+          "start": 44.02,
+          "end": 44.4
         },
         {
-          "word": "change",
-          "startSec": 104.14,
-          "endSec": 104.46,
-          "score": 0.99
+          "word": "in",
+          "start": 44.4,
+          "end": 44.72
         },
         {
-          "word": "slowly.",
-          "startSec": 104.46,
-          "endSec": 105.08,
-          "score": 1.0
-        },
-        {
-          "word": "Winter",
-          "startSec": 106.26,
-          "endSec": 106.32,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 106.32,
-          "endSec": 106.86,
-          "score": 1.0
-        },
-        {
-          "word": "cold.",
-          "startSec": 106.86,
-          "endSec": 107.22,
-          "score": 1.0
+          "word": "Europe.",
+          "start": 44.72,
+          "end": 45.49
         }
       ]
     },
     {
       "id": 17,
-      "start": 107.02,
-      "end": 113.07,
-      "text": "Snow comes sometimes. Spring feels fresh. Life returns.",
+      "start": 45.74,
+      "end": 47.78,
+      "text": "It is in the Balkan region.",
       "words": [
         {
-          "word": "Snow",
-          "startSec": 107.22,
-          "endSec": 108.58,
-          "score": 0.03
+          "word": "It",
+          "start": 45.74,
+          "end": 45.94
         },
         {
-          "word": "comes",
-          "startSec": 108.58,
-          "endSec": 108.9,
-          "score": 0.97
+          "word": "is",
+          "start": 45.94,
+          "end": 46.12
         },
         {
-          "word": "sometimes.",
-          "startSec": 108.9,
-          "endSec": 109.58,
-          "score": 0.96
+          "word": "in",
+          "start": 46.12,
+          "end": 46.32
         },
         {
-          "word": "Spring",
-          "startSec": 110.3,
-          "endSec": 110.7,
-          "score": 0.97
+          "word": "the",
+          "start": 46.32,
+          "end": 46.42
         },
         {
-          "word": "feels",
-          "startSec": 110.7,
-          "endSec": 111.22,
-          "score": 0.94
+          "word": "Balkan",
+          "start": 46.42,
+          "end": 47.0
         },
         {
-          "word": "fresh.",
-          "startSec": 111.22,
-          "endSec": 111.66,
-          "score": 1.0
-        },
-        {
-          "word": "Life",
-          "startSec": 112.22,
-          "endSec": 112.36,
-          "score": 0.99
-        },
-        {
-          "word": "returns.",
-          "startSec": 112.36,
-          "endSec": 112.92,
-          "score": 1.0
+          "word": "region.",
+          "start": 47.0,
+          "end": 47.78
         }
       ]
     },
     {
       "id": 18,
-      "start": 114.04,
-      "end": 120.19,
-      "text": "The weather shapes daily life. One of the oldest cities in Europe.",
+      "start": 48.16,
+      "end": 50.44,
+      "text": "Bulgaria has mountains.",
       "words": [
         {
-          "word": "The",
-          "startSec": 114.24,
-          "endSec": 114.32,
-          "score": 0.96
+          "word": "Bulgaria",
+          "start": 48.16,
+          "end": 48.84
         },
         {
-          "word": "weather",
-          "startSec": 114.32,
-          "endSec": 114.7,
-          "score": 1.0
+          "word": "has",
+          "start": 48.84,
+          "end": 49.4
         },
         {
-          "word": "shapes",
-          "startSec": 114.7,
-          "endSec": 115.16,
-          "score": 0.98
-        },
-        {
-          "word": "daily",
-          "startSec": 115.16,
-          "endSec": 115.98,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 115.98,
-          "endSec": 116.62,
-          "score": 0.99
-        },
-        {
-          "word": "One",
-          "startSec": 118.04,
-          "endSec": 118.34,
-          "score": 0.97
-        },
-        {
-          "word": "of",
-          "startSec": 118.34,
-          "endSec": 118.5,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 118.5,
-          "endSec": 118.64,
-          "score": 1.0
-        },
-        {
-          "word": "oldest",
-          "startSec": 118.64,
-          "endSec": 118.88,
-          "score": 0.99
-        },
-        {
-          "word": "cities",
-          "startSec": 118.88,
-          "endSec": 119.32,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 119.32,
-          "endSec": 119.64,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 119.64,
-          "endSec": 120.04,
-          "score": 1.0
+          "word": "mountains.",
+          "start": 49.4,
+          "end": 50.44
         }
       ]
     },
     {
       "id": 19,
-      "start": 121.09,
-      "end": 127.01,
-      "text": "Plovdiv is very old. People lived here thousands of years ago.",
+      "start": 50.72,
+      "end": 52.46,
+      "text": "Bulgaria has rivers.",
       "words": [
         {
-          "word": "Plovdiv",
-          "startSec": 121.29,
-          "endSec": 121.97,
-          "score": 0.47
+          "word": "Bulgaria",
+          "start": 50.72,
+          "end": 51.36
         },
         {
-          "word": "is",
-          "startSec": 121.97,
-          "endSec": 122.39,
-          "score": 0.96
+          "word": "has",
+          "start": 51.36,
+          "end": 52.02
         },
         {
-          "word": "very",
-          "startSec": 122.39,
-          "endSec": 122.71,
-          "score": 1.0
-        },
-        {
-          "word": "old.",
-          "startSec": 122.71,
-          "endSec": 123.27,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 124.16,
-          "endSec": 124.42,
-          "score": 0.98
-        },
-        {
-          "word": "lived",
-          "startSec": 124.42,
-          "endSec": 124.92,
-          "score": 1.0
-        },
-        {
-          "word": "here",
-          "startSec": 124.92,
-          "endSec": 125.26,
-          "score": 1.0
-        },
-        {
-          "word": "thousands",
-          "startSec": 125.26,
-          "endSec": 125.68,
-          "score": 0.96
-        },
-        {
-          "word": "of",
-          "startSec": 125.68,
-          "endSec": 126.2,
-          "score": 1.0
-        },
-        {
-          "word": "years",
-          "startSec": 126.2,
-          "endSec": 126.44,
-          "score": 1.0
-        },
-        {
-          "word": "ago.",
-          "startSec": 126.44,
-          "endSec": 126.86,
-          "score": 1.0
+          "word": "rivers.",
+          "start": 52.02,
+          "end": 52.46
         }
       ]
     },
     {
       "id": 20,
-      "start": 127.12,
-      "end": 133.23,
-      "text": "Thracians lived here. Romans lived here. Ottomans lived here.",
+      "start": 52.46,
+      "end": 55.29,
+      "text": "People value family.",
       "words": [
         {
-          "word": "Thracians",
-          "startSec": 127.32,
-          "endSec": 127.9,
-          "score": 0.88
+          "word": "People",
+          "start": 52.46,
+          "end": 53.82
         },
         {
-          "word": "lived",
-          "startSec": 127.9,
-          "endSec": 128.26,
-          "score": 1.0
+          "word": "value",
+          "start": 53.82,
+          "end": 54.4
         },
         {
-          "word": "here.",
-          "startSec": 128.26,
-          "endSec": 128.66,
-          "score": 1.0
-        },
-        {
-          "word": "Romans",
-          "startSec": 129.14,
-          "endSec": 129.36,
-          "score": 0.96
-        },
-        {
-          "word": "lived",
-          "startSec": 129.36,
-          "endSec": 130.02,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 130.02,
-          "endSec": 130.42,
-          "score": 1.0
-        },
-        {
-          "word": "Ottomans",
-          "startSec": 131.16,
-          "endSec": 131.66,
-          "score": 0.96
-        },
-        {
-          "word": "lived",
-          "startSec": 131.66,
-          "endSec": 131.98,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 131.98,
-          "endSec": 133.08,
-          "score": 1.0
+          "word": "family.",
+          "start": 54.4,
+          "end": 55.29
         }
       ]
     },
     {
       "id": 21,
-      "start": 132.88,
-      "end": 140.09,
-      "text": "Bulgarians lived here. Each culture left marks. Each culture added stories.",
+      "start": 55.46,
+      "end": 57.68,
+      "text": "People value tradition.",
       "words": [
         {
-          "word": "Bulgarians",
-          "startSec": 133.08,
-          "endSec": 134.12,
-          "score": 0.83
+          "word": "People",
+          "start": 55.46,
+          "end": 55.96
         },
         {
-          "word": "lived",
-          "startSec": 134.12,
-          "endSec": 134.4,
-          "score": 1.0
+          "word": "value",
+          "start": 55.96,
+          "end": 56.66
         },
         {
-          "word": "here.",
-          "startSec": 134.4,
-          "endSec": 134.82,
-          "score": 1.0
-        },
-        {
-          "word": "Each",
-          "startSec": 135.78,
-          "endSec": 135.78,
-          "score": 0.97
-        },
-        {
-          "word": "culture",
-          "startSec": 135.78,
-          "endSec": 136.34,
-          "score": 0.99
-        },
-        {
-          "word": "left",
-          "startSec": 136.34,
-          "endSec": 136.84,
-          "score": 0.99
-        },
-        {
-          "word": "marks.",
-          "startSec": 136.84,
-          "endSec": 137.38,
-          "score": 0.98
-        },
-        {
-          "word": "Each",
-          "startSec": 137.92,
-          "endSec": 138.04,
-          "score": 0.99
-        },
-        {
-          "word": "culture",
-          "startSec": 138.04,
-          "endSec": 138.58,
-          "score": 1.0
-        },
-        {
-          "word": "added",
-          "startSec": 138.58,
-          "endSec": 139.26,
-          "score": 0.99
-        },
-        {
-          "word": "stories.",
-          "startSec": 139.26,
-          "endSec": 139.94,
-          "score": 1.0
+          "word": "tradition.",
+          "start": 56.66,
+          "end": 57.68
         }
       ]
     },
     {
       "id": 22,
-      "start": 140.48,
-      "end": 146.46,
-      "text": "Time feels deep in Plovdiv. Part 6, the Old Town.",
+      "start": 58.12,
+      "end": 60.02,
+      "text": "Life feels simple.",
       "words": [
         {
-          "word": "Time",
-          "startSec": 140.68,
-          "endSec": 141.0,
-          "score": 0.98
+          "word": "Life",
+          "start": 58.12,
+          "end": 58.42
         },
         {
           "word": "feels",
-          "startSec": 141.0,
-          "endSec": 141.38,
-          "score": 0.99
+          "start": 58.42,
+          "end": 58.98
         },
         {
-          "word": "deep",
-          "startSec": 141.38,
-          "endSec": 141.8,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 141.8,
-          "endSec": 142.08,
-          "score": 0.01
-        },
-        {
-          "word": "Plovdiv.",
-          "startSec": 142.08,
-          "endSec": 142.72,
-          "score": 0.54
-        },
-        {
-          "word": "Part",
-          "startSec": 144.17,
-          "endSec": 144.43,
-          "score": 0.73
-        },
-        {
-          "word": "6,",
-          "startSec": 144.43,
-          "endSec": 144.97,
-          "score": 0.55
-        },
-        {
-          "word": "the",
-          "startSec": 145.55,
-          "endSec": 145.55,
-          "score": 0.5
-        },
-        {
-          "word": "Old",
-          "startSec": 145.55,
-          "endSec": 145.85,
-          "score": 0.89
-        },
-        {
-          "word": "Town.",
-          "startSec": 145.85,
-          "endSec": 146.31,
-          "score": 0.98
+          "word": "simple.",
+          "start": 58.98,
+          "end": 60.02
         }
       ]
     },
     {
       "id": 23,
-      "start": 147.29,
-      "end": 154.2,
-      "text": "The Old Town is special. It is quiet and beautiful. Houses are colorful.",
+      "start": 60.34,
+      "end": 62.28,
+      "text": "Life feels real.",
       "words": [
         {
-          "word": "The",
-          "startSec": 147.49,
-          "endSec": 148.01,
-          "score": 0.98
+          "word": "Life",
+          "start": 60.34,
+          "end": 60.78
         },
         {
-          "word": "Old",
-          "startSec": 148.01,
-          "endSec": 148.33,
-          "score": 0.96
+          "word": "feels",
+          "start": 60.78,
+          "end": 61.3
         },
         {
-          "word": "Town",
-          "startSec": 148.33,
-          "endSec": 148.81,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 148.81,
-          "endSec": 149.09,
-          "score": 1.0
-        },
-        {
-          "word": "special.",
-          "startSec": 149.09,
-          "endSec": 149.67,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 150.53,
-          "endSec": 150.57,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 150.57,
-          "endSec": 150.71,
-          "score": 0.99
-        },
-        {
-          "word": "quiet",
-          "startSec": 150.71,
-          "endSec": 151.11,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 151.11,
-          "endSec": 151.51,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful.",
-          "startSec": 151.51,
-          "endSec": 151.93,
-          "score": 1.0
-        },
-        {
-          "word": "Houses",
-          "startSec": 153.33,
-          "endSec": 153.33,
-          "score": 0.94
-        },
-        {
-          "word": "are",
-          "startSec": 153.33,
-          "endSec": 153.67,
-          "score": 1.0
-        },
-        {
-          "word": "colorful.",
-          "startSec": 153.67,
-          "endSec": 154.05,
-          "score": 0.96
+          "word": "real.",
+          "start": 61.3,
+          "end": 62.28
         }
       ]
     },
     {
       "id": 24,
-      "start": 155.21,
-      "end": 162.22,
-      "text": "Windows are wooden. Streets are narrow. Streets are stone. People walk slowly.",
+      "start": 62.78,
+      "end": 67.5,
+      "text": "Plovdiv shows Bulgarian culture very well at three.",
       "words": [
         {
-          "word": "Windows",
-          "startSec": 155.41,
-          "endSec": 155.41,
-          "score": 0.84
+          "word": "Plovdiv",
+          "start": 62.78,
+          "end": 63.24
         },
         {
-          "word": "are",
-          "startSec": 155.41,
-          "endSec": 155.97,
-          "score": 1.0
+          "word": "shows",
+          "start": 63.24,
+          "end": 63.86
         },
         {
-          "word": "wooden.",
-          "startSec": 155.97,
-          "endSec": 156.29,
-          "score": 1.0
+          "word": "Bulgarian",
+          "start": 63.86,
+          "end": 64.86
         },
         {
-          "word": "Streets",
-          "startSec": 157.17,
-          "endSec": 157.45,
-          "score": 0.97
+          "word": "culture",
+          "start": 64.86,
+          "end": 65.42
         },
         {
-          "word": "are",
-          "startSec": 157.45,
-          "endSec": 157.91,
-          "score": 1.0
+          "word": "very",
+          "start": 65.42,
+          "end": 66.06
         },
         {
-          "word": "narrow.",
-          "startSec": 157.91,
-          "endSec": 158.21,
-          "score": 1.0
+          "word": "well",
+          "start": 66.06,
+          "end": 66.58
         },
         {
-          "word": "Streets",
-          "startSec": 159.05,
-          "endSec": 159.17,
-          "score": 0.97
+          "word": "at",
+          "start": 66.58,
+          "end": 66.82
         },
         {
-          "word": "are",
-          "startSec": 159.17,
-          "endSec": 159.59,
-          "score": 1.0
-        },
-        {
-          "word": "stone.",
-          "startSec": 159.59,
-          "endSec": 159.87,
-          "score": 0.99
-        },
-        {
-          "word": "People",
-          "startSec": 160.83,
-          "endSec": 161.23,
-          "score": 1.0
-        },
-        {
-          "word": "walk",
-          "startSec": 161.23,
-          "endSec": 161.57,
-          "score": 1.0
-        },
-        {
-          "word": "slowly.",
-          "startSec": 161.57,
-          "endSec": 162.07,
-          "score": 1.0
+          "word": "three.",
+          "start": 66.82,
+          "end": 67.5
         }
       ]
     },
     {
       "id": 25,
-      "start": 161.87,
-      "end": 167.18,
-      "text": "They look around. The Old Town feels like a living museum.",
+      "start": 67.74,
+      "end": 69.5,
+      "text": "Where is Plovdiv?",
       "words": [
         {
-          "word": "They",
-          "startSec": 162.07,
-          "endSec": 162.89,
-          "score": 0.27
+          "word": "Where",
+          "start": 67.74,
+          "end": 68.1
         },
         {
-          "word": "look",
-          "startSec": 162.89,
-          "endSec": 163.15,
-          "score": 0.97
+          "word": "is",
+          "start": 68.1,
+          "end": 68.38
         },
         {
-          "word": "around.",
-          "startSec": 163.15,
-          "endSec": 163.65,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 164.43,
-          "endSec": 164.67,
-          "score": 0.95
-        },
-        {
-          "word": "Old",
-          "startSec": 164.67,
-          "endSec": 164.91,
-          "score": 0.53
-        },
-        {
-          "word": "Town",
-          "startSec": 164.91,
-          "endSec": 165.31,
-          "score": 0.93
-        },
-        {
-          "word": "feels",
-          "startSec": 165.31,
-          "endSec": 165.73,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 165.73,
-          "endSec": 166.09,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 166.09,
-          "endSec": 166.27,
-          "score": 1.0
-        },
-        {
-          "word": "living",
-          "startSec": 166.27,
-          "endSec": 166.59,
-          "score": 0.99
-        },
-        {
-          "word": "museum.",
-          "startSec": 166.59,
-          "endSec": 167.03,
-          "score": 0.98
+          "word": "Plovdiv?",
+          "start": 68.38,
+          "end": 69.5
         }
       ]
     },
     {
       "id": 26,
-      "start": 168.72,
-      "end": 176.67,
-      "text": "Part 7, Roman Heritage. Plovdiv has Roman history. You can see it clearly.",
+      "start": 69.8,
+      "end": 72.84,
+      "text": "Plovdiv is in the south of Bulgaria.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 168.92,
-          "endSec": 169.18,
-          "score": 0.81
-        },
-        {
-          "word": "7,",
-          "startSec": 169.18,
-          "endSec": 169.8,
-          "score": 0.56
-        },
-        {
-          "word": "Roman",
-          "startSec": 170.68,
-          "endSec": 170.68,
-          "score": 0.97
-        },
-        {
-          "word": "Heritage.",
-          "startSec": 170.68,
-          "endSec": 171.06,
-          "score": 0.79
-        },
-        {
           "word": "Plovdiv",
-          "startSec": 172.3,
-          "endSec": 172.96,
-          "score": 0.52
+          "start": 69.8,
+          "end": 70.82
         },
         {
-          "word": "has",
-          "startSec": 172.96,
-          "endSec": 173.32,
-          "score": 0.98
+          "word": "is",
+          "start": 70.82,
+          "end": 71.08
         },
         {
-          "word": "Roman",
-          "startSec": 173.32,
-          "endSec": 173.68,
-          "score": 1.0
+          "word": "in",
+          "start": 71.08,
+          "end": 71.28
         },
         {
-          "word": "history.",
-          "startSec": 173.68,
-          "endSec": 174.12,
-          "score": 0.93
+          "word": "the",
+          "start": 71.28,
+          "end": 71.44
         },
         {
-          "word": "You",
-          "startSec": 175.3,
-          "endSec": 175.52,
-          "score": 0.99
+          "word": "south",
+          "start": 71.44,
+          "end": 71.72
         },
         {
-          "word": "can",
-          "startSec": 175.52,
-          "endSec": 175.7,
-          "score": 1.0
+          "word": "of",
+          "start": 71.72,
+          "end": 72.0
         },
         {
-          "word": "see",
-          "startSec": 175.7,
-          "endSec": 175.98,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 175.98,
-          "endSec": 176.18,
-          "score": 0.99
-        },
-        {
-          "word": "clearly.",
-          "startSec": 176.18,
-          "endSec": 176.52,
-          "score": 0.99
+          "word": "Bulgaria.",
+          "start": 72.0,
+          "end": 72.84
         }
       ]
     },
     {
       "id": 27,
-      "start": 177.4,
-      "end": 183.15,
-      "text": "There is a Roman theater. It is very old. People still use it.",
+      "start": 73.6,
+      "end": 76.96,
+      "text": "It is one of the oldest cities in Europe.",
       "words": [
         {
-          "word": "There",
-          "startSec": 177.6,
-          "endSec": 177.76,
-          "score": 0.94
-        },
-        {
-          "word": "is",
-          "startSec": 177.76,
-          "endSec": 177.96,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 177.96,
-          "endSec": 178.08,
-          "score": 1.0
-        },
-        {
-          "word": "Roman",
-          "startSec": 178.08,
-          "endSec": 178.34,
-          "score": 0.99
-        },
-        {
-          "word": "theater.",
-          "startSec": 178.34,
-          "endSec": 178.86,
-          "score": 0.65
-        },
-        {
           "word": "It",
-          "startSec": 179.84,
-          "endSec": 179.92,
-          "score": 0.99
+          "start": 73.6,
+          "end": 73.84
         },
         {
           "word": "is",
-          "startSec": 179.92,
-          "endSec": 180.12,
-          "score": 0.99
+          "start": 73.84,
+          "end": 74.08
         },
         {
-          "word": "very",
-          "startSec": 180.12,
-          "endSec": 180.36,
-          "score": 1.0
+          "word": "one",
+          "start": 74.08,
+          "end": 74.48
         },
         {
-          "word": "old.",
-          "startSec": 180.36,
-          "endSec": 180.88,
-          "score": 1.0
+          "word": "of",
+          "start": 74.48,
+          "end": 74.72
         },
         {
-          "word": "People",
-          "startSec": 181.5,
-          "endSec": 181.72,
-          "score": 0.99
+          "word": "the",
+          "start": 74.72,
+          "end": 74.9
         },
         {
-          "word": "still",
-          "startSec": 181.72,
-          "endSec": 182.2,
-          "score": 1.0
+          "word": "oldest",
+          "start": 74.9,
+          "end": 75.42
         },
         {
-          "word": "use",
-          "startSec": 182.2,
-          "endSec": 182.72,
-          "score": 1.0
+          "word": "cities",
+          "start": 75.42,
+          "end": 76.08
         },
         {
-          "word": "it.",
-          "startSec": 182.72,
-          "endSec": 183.0,
-          "score": 1.0
+          "word": "in",
+          "start": 76.08,
+          "end": 76.52
+        },
+        {
+          "word": "Europe.",
+          "start": 76.52,
+          "end": 76.96
         }
       ]
     },
     {
       "id": 28,
-      "start": 183.52,
-      "end": 188.45,
-      "text": "Music plays there. The past is not dead. The past is alive.",
+      "start": 76.96,
+      "end": 80.2,
+      "text": "The city is built on hills.",
       "words": [
         {
-          "word": "Music",
-          "startSec": 183.72,
-          "endSec": 183.72,
-          "score": 0.97
-        },
-        {
-          "word": "plays",
-          "startSec": 183.72,
-          "endSec": 184.16,
-          "score": 0.99
-        },
-        {
-          "word": "there.",
-          "startSec": 184.16,
-          "endSec": 184.74,
-          "score": 0.99
-        },
-        {
           "word": "The",
-          "startSec": 185.34,
-          "endSec": 185.4,
-          "score": 0.97
+          "start": 76.96,
+          "end": 77.78
         },
         {
-          "word": "past",
-          "startSec": 185.4,
-          "endSec": 185.72,
-          "score": 0.98
+          "word": "city",
+          "start": 77.78,
+          "end": 78.2
         },
         {
           "word": "is",
-          "startSec": 185.72,
-          "endSec": 186.02,
-          "score": 1.0
+          "start": 78.2,
+          "end": 78.58
         },
         {
-          "word": "not",
-          "startSec": 186.02,
-          "endSec": 186.28,
-          "score": 1.0
+          "word": "built",
+          "start": 78.58,
+          "end": 78.9
         },
         {
-          "word": "dead.",
-          "startSec": 186.28,
-          "endSec": 186.7,
-          "score": 1.0
+          "word": "on",
+          "start": 78.9,
+          "end": 79.24
         },
         {
-          "word": "The",
-          "startSec": 187.18,
-          "endSec": 187.26,
-          "score": 1.0
-        },
-        {
-          "word": "past",
-          "startSec": 187.26,
-          "endSec": 187.54,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 187.54,
-          "endSec": 187.92,
-          "score": 1.0
-        },
-        {
-          "word": "alive.",
-          "startSec": 187.92,
-          "endSec": 188.3,
-          "score": 1.0
+          "word": "hills.",
+          "start": 79.24,
+          "end": 80.2
         }
       ]
     },
     {
       "id": 29,
-      "start": 188.1,
-      "end": 195.96,
-      "text": "History and today meet here. Part 8, daily life of people.",
+      "start": 80.52,
+      "end": 82.38,
+      "text": "There are seven hills.",
       "words": [
         {
-          "word": "History",
-          "startSec": 188.3,
-          "endSec": 189.5,
-          "score": 0.27
+          "word": "There",
+          "start": 80.52,
+          "end": 80.74
         },
         {
-          "word": "and",
-          "startSec": 189.5,
-          "endSec": 189.72,
-          "score": 0.86
+          "word": "are",
+          "start": 80.74,
+          "end": 80.96
         },
         {
-          "word": "today",
-          "startSec": 189.72,
-          "endSec": 190.04,
-          "score": 0.49
+          "word": "seven",
+          "start": 80.96,
+          "end": 81.4
         },
         {
-          "word": "meet",
-          "startSec": 190.04,
-          "endSec": 190.42,
-          "score": 0.93
-        },
-        {
-          "word": "here.",
-          "startSec": 190.42,
-          "endSec": 190.88,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 192.36,
-          "endSec": 192.6,
-          "score": 0.83
-        },
-        {
-          "word": "8,",
-          "startSec": 192.6,
-          "endSec": 192.98,
-          "score": 0.38
-        },
-        {
-          "word": "daily",
-          "startSec": 194.15,
-          "endSec": 194.85,
-          "score": 0.25
-        },
-        {
-          "word": "life",
-          "startSec": 194.85,
-          "endSec": 195.27,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 195.27,
-          "endSec": 195.55,
-          "score": 1.0
-        },
-        {
-          "word": "people.",
-          "startSec": 195.55,
-          "endSec": 195.81,
-          "score": 1.0
+          "word": "hills.",
+          "start": 81.4,
+          "end": 82.38
         }
       ]
     },
     {
       "id": 30,
-      "start": 196.47,
-      "end": 202.3,
-      "text": "People in Plovdiv live calmly. They wake up early. They go to work.",
+      "start": 82.88,
+      "end": 84.82,
+      "text": "The land feels warm.",
       "words": [
         {
-          "word": "People",
-          "startSec": 196.67,
-          "endSec": 197.35,
-          "score": 0.99
+          "word": "The",
+          "start": 82.88,
+          "end": 82.96
         },
         {
-          "word": "in",
-          "startSec": 197.35,
-          "endSec": 197.57,
-          "score": 0.99
+          "word": "land",
+          "start": 82.96,
+          "end": 83.38
         },
         {
-          "word": "Plovdiv",
-          "startSec": 197.57,
-          "endSec": 198.11,
-          "score": 0.63
+          "word": "feels",
+          "start": 83.38,
+          "end": 83.8
         },
         {
-          "word": "live",
-          "startSec": 198.11,
-          "endSec": 198.43,
-          "score": 0.68
-        },
-        {
-          "word": "calmly.",
-          "startSec": 198.43,
-          "endSec": 198.93,
-          "score": 0.96
-        },
-        {
-          "word": "They",
-          "startSec": 199.75,
-          "endSec": 199.95,
-          "score": 0.99
-        },
-        {
-          "word": "wake",
-          "startSec": 199.95,
-          "endSec": 200.19,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 200.19,
-          "endSec": 200.47,
-          "score": 1.0
-        },
-        {
-          "word": "early.",
-          "startSec": 200.47,
-          "endSec": 200.83,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 201.45,
-          "endSec": 201.47,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 201.47,
-          "endSec": 201.69,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 201.69,
-          "endSec": 201.85,
-          "score": 1.0
-        },
-        {
-          "word": "work.",
-          "startSec": 201.85,
-          "endSec": 202.15,
-          "score": 1.0
+          "word": "warm.",
+          "start": 83.8,
+          "end": 84.82
         }
       ]
     },
     {
       "id": 31,
-      "start": 202.47,
-      "end": 207.06,
-      "text": "They meet friends. Cafes are important. Talking is important.",
+      "start": 85.06,
+      "end": 87.02,
+      "text": "The city feels open.",
       "words": [
         {
-          "word": "They",
-          "startSec": 202.67,
-          "endSec": 202.83,
-          "score": 1.0
+          "word": "The",
+          "start": 85.06,
+          "end": 85.24
         },
         {
-          "word": "meet",
-          "startSec": 202.83,
-          "endSec": 203.09,
-          "score": 1.0
+          "word": "city",
+          "start": 85.24,
+          "end": 85.56
         },
         {
-          "word": "friends.",
-          "startSec": 203.09,
-          "endSec": 203.61,
-          "score": 1.0
+          "word": "feels",
+          "start": 85.56,
+          "end": 86.04
         },
         {
-          "word": "Cafes",
-          "startSec": 204.29,
-          "endSec": 204.65,
-          "score": 0.81
-        },
-        {
-          "word": "are",
-          "startSec": 204.65,
-          "endSec": 204.87,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 204.87,
-          "endSec": 205.19,
-          "score": 1.0
-        },
-        {
-          "word": "Talking",
-          "startSec": 205.77,
-          "endSec": 205.95,
-          "score": 0.97
-        },
-        {
-          "word": "is",
-          "startSec": 205.95,
-          "endSec": 206.45,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 206.45,
-          "endSec": 206.91,
-          "score": 1.0
+          "word": "open.",
+          "start": 86.04,
+          "end": 87.02
         }
       ]
     },
     {
       "id": 32,
-      "start": 207.29,
-      "end": 221.69,
-      "text": "Life is not rushed. Moments are enjoyed. Part 9, food and taste.",
+      "start": 87.6,
+      "end": 89.79,
+      "text": "Plovdiv is easy to walk.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 207.49,
-          "endSec": 207.57,
-          "score": 1.0
+          "word": "Plovdiv",
+          "start": 87.6,
+          "end": 87.98
         },
         {
           "word": "is",
-          "startSec": 207.57,
-          "endSec": 207.89,
-          "score": 1.0
+          "start": 87.98,
+          "end": 88.28
         },
         {
-          "word": "not",
-          "startSec": 207.89,
-          "endSec": 208.17,
-          "score": 1.0
+          "word": "easy",
+          "start": 88.28,
+          "end": 88.8
         },
         {
-          "word": "rushed.",
-          "startSec": 208.17,
-          "endSec": 208.61,
-          "score": 0.99
+          "word": "to",
+          "start": 88.8,
+          "end": 89.02
         },
         {
-          "word": "Moments",
-          "startSec": 209.75,
-          "endSec": 209.87,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 209.87,
-          "endSec": 210.49,
-          "score": 1.0
-        },
-        {
-          "word": "enjoyed.",
-          "startSec": 210.49,
-          "endSec": 210.87,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 212.8,
-          "endSec": 212.8,
-          "score": 0.97
-        },
-        {
-          "word": "9,",
-          "startSec": 212.8,
-          "endSec": 213.2,
-          "score": 0.95
-        },
-        {
-          "word": "food",
-          "startSec": 213.68,
-          "endSec": 213.94,
-          "score": 0.73
-        },
-        {
-          "word": "and",
-          "startSec": 215.28,
-          "endSec": 221.54,
-          "score": 0.98
-        },
-        {
-          "word": "taste.",
-          "startSec": 221.54,
-          "endSec": 221.54,
-          "score": 0.99
+          "word": "walk.",
+          "start": 89.02,
+          "end": 89.79
         }
       ]
     },
     {
       "id": 33,
-      "start": 221.34,
-      "end": 228.25,
-      "text": "Vegetables are fresh. Bread is warm. Soups are common. Meat is shared.",
+      "start": 90.0,
+      "end": 91.96,
+      "text": "Everything feels close.",
       "words": [
         {
-          "word": "Vegetables",
-          "startSec": 221.54,
-          "endSec": 222.82,
-          "score": 0.93
+          "word": "Everything",
+          "start": 90.0,
+          "end": 90.4
         },
         {
-          "word": "are",
-          "startSec": 222.82,
-          "endSec": 223.04,
-          "score": 1.0
+          "word": "feels",
+          "start": 90.4,
+          "end": 91.04
         },
         {
-          "word": "fresh.",
-          "startSec": 223.04,
-          "endSec": 223.5,
-          "score": 1.0
-        },
-        {
-          "word": "Bread",
-          "startSec": 224.24,
-          "endSec": 224.44,
-          "score": 0.88
-        },
-        {
-          "word": "is",
-          "startSec": 224.44,
-          "endSec": 224.72,
-          "score": 1.0
-        },
-        {
-          "word": "warm.",
-          "startSec": 224.72,
-          "endSec": 225.1,
-          "score": 1.0
-        },
-        {
-          "word": "Soups",
-          "startSec": 225.7,
-          "endSec": 225.96,
-          "score": 0.64
-        },
-        {
-          "word": "are",
-          "startSec": 225.96,
-          "endSec": 226.14,
-          "score": 1.0
-        },
-        {
-          "word": "common.",
-          "startSec": 226.14,
-          "endSec": 226.7,
-          "score": 1.0
-        },
-        {
-          "word": "Meat",
-          "startSec": 227.46,
-          "endSec": 227.46,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 227.46,
-          "endSec": 227.72,
-          "score": 1.0
-        },
-        {
-          "word": "shared.",
-          "startSec": 227.72,
-          "endSec": 228.1,
-          "score": 1.0
+          "word": "close.",
+          "start": 91.04,
+          "end": 91.96
         }
       ]
     },
     {
       "id": 34,
-      "start": 229.3,
-      "end": 235.25,
-      "text": "People eat together. Food means family. Eating is a daily ritual.",
+      "start": 92.36,
+      "end": 96.52,
+      "text": "Part four, Plovdiv has clear seasons.",
       "words": [
         {
-          "word": "People",
-          "startSec": 229.5,
-          "endSec": 229.52,
-          "score": 0.99
+          "word": "Part",
+          "start": 92.36,
+          "end": 93.02
         },
         {
-          "word": "eat",
-          "startSec": 229.52,
-          "endSec": 229.9,
-          "score": 1.0
+          "word": "four,",
+          "start": 93.02,
+          "end": 93.54
         },
         {
-          "word": "together.",
-          "startSec": 229.9,
-          "endSec": 230.56,
-          "score": 1.0
+          "word": "Plovdiv",
+          "start": 93.92,
+          "end": 94.54
         },
         {
-          "word": "Food",
-          "startSec": 231.24,
-          "endSec": 231.36,
-          "score": 0.98
+          "word": "has",
+          "start": 94.54,
+          "end": 94.94
         },
         {
-          "word": "means",
-          "startSec": 231.36,
-          "endSec": 231.76,
-          "score": 1.0
+          "word": "clear",
+          "start": 94.94,
+          "end": 95.46
         },
         {
-          "word": "family.",
-          "startSec": 231.76,
-          "endSec": 232.44,
-          "score": 0.99
-        },
-        {
-          "word": "Eating",
-          "startSec": 233.36,
-          "endSec": 233.64,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 233.64,
-          "endSec": 234.1,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 234.1,
-          "endSec": 234.26,
-          "score": 0.99
-        },
-        {
-          "word": "daily",
-          "startSec": 234.26,
-          "endSec": 234.5,
-          "score": 1.0
-        },
-        {
-          "word": "ritual.",
-          "startSec": 234.5,
-          "endSec": 235.1,
-          "score": 1.0
+          "word": "seasons.",
+          "start": 95.46,
+          "end": 96.52
         }
       ]
     },
     {
       "id": 35,
-      "start": 236.82,
-      "end": 242.19,
-      "text": "Part 10, art, culture and youth. Plovdiv loves art.",
+      "start": 97.04,
+      "end": 98.8,
+      "text": "Summer is hot.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 237.02,
-          "endSec": 237.2,
-          "score": 0.34
+          "word": "Summer",
+          "start": 97.04,
+          "end": 97.64
         },
         {
-          "word": "10,",
-          "startSec": 237.2,
-          "endSec": 237.64,
-          "score": 0.92
+          "word": "is",
+          "start": 97.64,
+          "end": 97.96
         },
         {
-          "word": "art,",
-          "startSec": 238.32,
-          "endSec": 238.48,
-          "score": 0.43
-        },
-        {
-          "word": "culture",
-          "startSec": 238.74,
-          "endSec": 239.2,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 239.2,
-          "endSec": 239.5,
-          "score": 0.39
-        },
-        {
-          "word": "youth.",
-          "startSec": 239.5,
-          "endSec": 239.84,
-          "score": 1.0
-        },
-        {
-          "word": "Plovdiv",
-          "startSec": 240.68,
-          "endSec": 241.1,
-          "score": 0.68
-        },
-        {
-          "word": "loves",
-          "startSec": 241.1,
-          "endSec": 241.48,
-          "score": 0.95
-        },
-        {
-          "word": "art.",
-          "startSec": 241.48,
-          "endSec": 242.04,
-          "score": 0.99
+          "word": "hot.",
+          "start": 97.96,
+          "end": 98.8
         }
       ]
     },
     {
       "id": 36,
-      "start": 242.8,
-      "end": 247.81,
-      "text": "There are galleries. Young people create. Ideas grow.",
+      "start": 99.18,
+      "end": 100.86,
+      "text": "The sun is strong.",
       "words": [
         {
-          "word": "There",
-          "startSec": 243.0,
-          "endSec": 243.18,
-          "score": 0.99
+          "word": "The",
+          "start": 99.18,
+          "end": 99.3
         },
         {
-          "word": "are",
-          "startSec": 243.18,
-          "endSec": 243.36,
-          "score": 1.0
+          "word": "sun",
+          "start": 99.3,
+          "end": 99.68
         },
         {
-          "word": "galleries.",
-          "startSec": 243.36,
-          "endSec": 243.88,
-          "score": 0.99
+          "word": "is",
+          "start": 99.68,
+          "end": 99.9
         },
         {
-          "word": "Young",
-          "startSec": 245.06,
-          "endSec": 245.06,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 245.06,
-          "endSec": 245.48,
-          "score": 1.0
-        },
-        {
-          "word": "create.",
-          "startSec": 245.48,
-          "endSec": 245.96,
-          "score": 1.0
-        },
-        {
-          "word": "Ideas",
-          "startSec": 246.86,
-          "endSec": 247.12,
-          "score": 0.99
-        },
-        {
-          "word": "grow.",
-          "startSec": 247.12,
-          "endSec": 247.66,
-          "score": 1.0
+          "word": "strong.",
+          "start": 99.9,
+          "end": 100.86
         }
       ]
     },
     {
       "id": 37,
-      "start": 247.46,
-      "end": 254.23,
-      "text": "Music fills streets. Festivals bring life. The city feels creative.",
+      "start": 101.3,
+      "end": 102.82,
+      "text": "Autumn is soft.",
       "words": [
         {
-          "word": "Music",
-          "startSec": 247.66,
-          "endSec": 248.96,
-          "score": 0.03
+          "word": "Autumn",
+          "start": 101.3,
+          "end": 101.78
         },
         {
-          "word": "fills",
-          "startSec": 248.96,
-          "endSec": 249.28,
-          "score": 0.81
+          "word": "is",
+          "start": 101.78,
+          "end": 102.08
         },
         {
-          "word": "streets.",
-          "startSec": 249.28,
-          "endSec": 249.78,
-          "score": 0.99
-        },
-        {
-          "word": "Festivals",
-          "startSec": 250.44,
-          "endSec": 251.1,
-          "score": 0.95
-        },
-        {
-          "word": "bring",
-          "startSec": 251.1,
-          "endSec": 251.5,
-          "score": 0.98
-        },
-        {
-          "word": "life.",
-          "startSec": 251.5,
-          "endSec": 251.9,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 252.78,
-          "endSec": 252.86,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 252.86,
-          "endSec": 253.12,
-          "score": 0.93
-        },
-        {
-          "word": "feels",
-          "startSec": 253.12,
-          "endSec": 253.66,
-          "score": 0.99
-        },
-        {
-          "word": "creative.",
-          "startSec": 253.66,
-          "endSec": 254.08,
-          "score": 1.0
+          "word": "soft.",
+          "start": 102.08,
+          "end": 102.82
         }
       ]
     },
     {
       "id": 38,
-      "start": 254.96,
-      "end": 259.86,
-      "text": "The city feels open. Culture feels natural here.",
+      "start": 102.82,
+      "end": 105.72,
+      "text": "Colors change slowly.",
       "words": [
         {
-          "word": "The",
-          "startSec": 255.16,
-          "endSec": 255.3,
-          "score": 0.99
+          "word": "Colors",
+          "start": 102.82,
+          "end": 104.22
         },
         {
-          "word": "city",
-          "startSec": 255.3,
-          "endSec": 255.54,
-          "score": 0.99
+          "word": "change",
+          "start": 104.22,
+          "end": 104.62
         },
         {
-          "word": "feels",
-          "startSec": 255.54,
-          "endSec": 256.08,
-          "score": 0.99
-        },
-        {
-          "word": "open.",
-          "startSec": 256.08,
-          "endSec": 256.62,
-          "score": 1.0
-        },
-        {
-          "word": "Culture",
-          "startSec": 257.53,
-          "endSec": 258.11,
-          "score": 0.99
-        },
-        {
-          "word": "feels",
-          "startSec": 258.11,
-          "endSec": 258.59,
-          "score": 0.98
-        },
-        {
-          "word": "natural",
-          "startSec": 258.59,
-          "endSec": 259.01,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 259.01,
-          "endSec": 259.71,
-          "score": 0.99
+          "word": "slowly.",
+          "start": 104.62,
+          "end": 105.72
         }
       ]
     },
     {
       "id": 39,
-      "start": 260.64,
-      "end": 267.73,
-      "text": "Part 11, nature and hills. The hills are important. They shape the city.",
+      "start": 105.98,
+      "end": 107.82,
+      "text": "Winter is cold.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 260.84,
-          "endSec": 261.08,
-          "score": 0.78
+          "word": "Winter",
+          "start": 105.98,
+          "end": 106.46
         },
         {
-          "word": "11,",
-          "startSec": 261.08,
-          "endSec": 261.62,
-          "score": 0.9
+          "word": "is",
+          "start": 106.46,
+          "end": 106.88
         },
         {
-          "word": "nature",
-          "startSec": 262.28,
-          "endSec": 262.52,
-          "score": 0.49
-        },
-        {
-          "word": "and",
-          "startSec": 262.52,
-          "endSec": 262.84,
-          "score": 0.79
-        },
-        {
-          "word": "hills.",
-          "startSec": 262.84,
-          "endSec": 263.14,
-          "score": 0.94
-        },
-        {
-          "word": "The",
-          "startSec": 264.14,
-          "endSec": 264.38,
-          "score": 0.99
-        },
-        {
-          "word": "hills",
-          "startSec": 264.38,
-          "endSec": 264.62,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 264.62,
-          "endSec": 264.98,
-          "score": 1.0
-        },
-        {
-          "word": "important.",
-          "startSec": 264.98,
-          "endSec": 265.4,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 266.36,
-          "endSec": 266.58,
-          "score": 1.0
-        },
-        {
-          "word": "shape",
-          "startSec": 266.58,
-          "endSec": 266.84,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 266.84,
-          "endSec": 267.24,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 267.24,
-          "endSec": 267.58,
-          "score": 1.0
+          "word": "cold.",
+          "start": 106.88,
+          "end": 107.82
         }
       ]
     },
     {
       "id": 40,
-      "start": 268.22,
-      "end": 274.94,
-      "text": "People walk uphill. They rest and look. From the hills, views are wide.",
+      "start": 108.18,
+      "end": 110.15,
+      "text": "Snow comes sometimes.",
       "words": [
         {
-          "word": "People",
-          "startSec": 268.42,
-          "endSec": 268.9,
-          "score": 1.0
+          "word": "Snow",
+          "start": 108.18,
+          "end": 108.62
         },
         {
-          "word": "walk",
-          "startSec": 268.9,
-          "endSec": 269.26,
-          "score": 1.0
+          "word": "comes",
+          "start": 108.62,
+          "end": 109.0
         },
         {
-          "word": "uphill.",
-          "startSec": 269.26,
-          "endSec": 269.6,
-          "score": 0.57
-        },
-        {
-          "word": "They",
-          "startSec": 270.7,
-          "endSec": 270.94,
-          "score": 1.0
-        },
-        {
-          "word": "rest",
-          "startSec": 270.94,
-          "endSec": 271.22,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 271.22,
-          "endSec": 271.74,
-          "score": 0.96
-        },
-        {
-          "word": "look.",
-          "startSec": 271.74,
-          "endSec": 272.06,
-          "score": 1.0
-        },
-        {
-          "word": "From",
-          "startSec": 273.07,
-          "endSec": 273.15,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 273.15,
-          "endSec": 273.37,
-          "score": 1.0
-        },
-        {
-          "word": "hills,",
-          "startSec": 273.37,
-          "endSec": 273.75,
-          "score": 0.98
-        },
-        {
-          "word": "views",
-          "startSec": 273.95,
-          "endSec": 274.17,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 274.17,
-          "endSec": 274.49,
-          "score": 1.0
-        },
-        {
-          "word": "wide.",
-          "startSec": 274.49,
-          "endSec": 274.79,
-          "score": 1.0
+          "word": "sometimes.",
+          "start": 109.0,
+          "end": 110.15
         }
       ]
     },
     {
       "id": 41,
-      "start": 274.59,
-      "end": 281.96,
-      "text": "The city looks peaceful. Nature gives balance. Silence gives rest.",
+      "start": 110.4,
+      "end": 112.01,
+      "text": "Spring feels fresh.",
       "words": [
         {
-          "word": "The",
-          "startSec": 274.79,
-          "endSec": 275.97,
-          "score": 0.11
+          "word": "Spring",
+          "start": 110.4,
+          "end": 110.8
         },
         {
-          "word": "city",
-          "startSec": 275.97,
-          "endSec": 276.27,
-          "score": 0.87
+          "word": "feels",
+          "start": 110.8,
+          "end": 111.28
         },
         {
-          "word": "looks",
-          "startSec": 276.27,
-          "endSec": 276.65,
-          "score": 0.99
-        },
-        {
-          "word": "peaceful.",
-          "startSec": 276.65,
-          "endSec": 277.07,
-          "score": 0.99
-        },
-        {
-          "word": "Nature",
-          "startSec": 278.31,
-          "endSec": 278.91,
-          "score": 0.99
-        },
-        {
-          "word": "gives",
-          "startSec": 278.91,
-          "endSec": 279.23,
-          "score": 0.99
-        },
-        {
-          "word": "balance.",
-          "startSec": 279.23,
-          "endSec": 279.79,
-          "score": 0.99
-        },
-        {
-          "word": "Silence",
-          "startSec": 280.35,
-          "endSec": 280.97,
-          "score": 0.98
-        },
-        {
-          "word": "gives",
-          "startSec": 280.97,
-          "endSec": 281.37,
-          "score": 1.0
-        },
-        {
-          "word": "rest.",
-          "startSec": 281.37,
-          "endSec": 281.81,
-          "score": 1.0
+          "word": "fresh.",
+          "start": 111.28,
+          "end": 112.01
         }
       ]
     },
     {
       "id": 42,
-      "start": 283.23,
-      "end": 289.41,
-      "text": "Part 12, the soul of Plovdiv. And goodbye, Plovdiv is ancient.",
+      "start": 112.16,
+      "end": 113.4,
+      "text": "Life returns.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 283.43,
-          "endSec": 283.67,
-          "score": 0.88
+          "word": "Life",
+          "start": 112.16,
+          "end": 112.4
         },
         {
-          "word": "12,",
-          "startSec": 283.67,
-          "endSec": 284.27,
-          "score": 0.9
-        },
-        {
-          "word": "the",
-          "startSec": 284.69,
-          "endSec": 284.69,
-          "score": 0.62
-        },
-        {
-          "word": "soul",
-          "startSec": 284.69,
-          "endSec": 284.95,
-          "score": 0.77
-        },
-        {
-          "word": "of",
-          "startSec": 284.95,
-          "endSec": 285.29,
-          "score": 1.0
-        },
-        {
-          "word": "Plovdiv.",
-          "startSec": 285.29,
-          "endSec": 285.97,
-          "score": 0.78
-        },
-        {
-          "word": "And",
-          "startSec": 286.74,
-          "endSec": 287.3,
-          "score": 0.96
-        },
-        {
-          "word": "goodbye,",
-          "startSec": 287.3,
-          "endSec": 287.56,
-          "score": 0.57
-        },
-        {
-          "word": "Plovdiv",
-          "startSec": 288.2,
-          "endSec": 288.74,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 288.74,
-          "endSec": 289.0,
-          "score": 1.0
-        },
-        {
-          "word": "ancient.",
-          "startSec": 289.0,
-          "endSec": 289.26,
-          "score": 1.0
+          "word": "returns.",
+          "start": 112.4,
+          "end": 113.4
         }
       ]
     },
     {
       "id": 43,
-      "start": 290.06,
-      "end": 298.07,
-      "text": "Plovdiv is gentle. It is not loud. It is not fast. It teaches patience.",
+      "start": 114.24,
+      "end": 117.34,
+      "text": "The weather shapes daily life.",
       "words": [
         {
-          "word": "Plovdiv",
-          "startSec": 290.26,
-          "endSec": 290.84,
-          "score": 0.98
+          "word": "The",
+          "start": 114.24,
+          "end": 114.36
         },
         {
-          "word": "is",
-          "startSec": 290.84,
-          "endSec": 291.12,
-          "score": 1.0
+          "word": "weather",
+          "start": 114.36,
+          "end": 114.7
         },
         {
-          "word": "gentle.",
-          "startSec": 291.12,
-          "endSec": 291.46,
-          "score": 1.0
+          "word": "shapes",
+          "start": 114.7,
+          "end": 115.4
         },
         {
-          "word": "It",
-          "startSec": 292.52,
-          "endSec": 292.6,
-          "score": 0.99
+          "word": "daily",
+          "start": 115.4,
+          "end": 116.1
         },
         {
-          "word": "is",
-          "startSec": 292.6,
-          "endSec": 292.74,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 292.74,
-          "endSec": 293.06,
-          "score": 1.0
-        },
-        {
-          "word": "loud.",
-          "startSec": 293.06,
-          "endSec": 293.46,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 294.44,
-          "endSec": 294.66,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 294.66,
-          "endSec": 294.82,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 294.82,
-          "endSec": 295.12,
-          "score": 1.0
-        },
-        {
-          "word": "fast.",
-          "startSec": 295.12,
-          "endSec": 295.5,
-          "score": 1.0
-        },
-        {
-          "word": "It",
-          "startSec": 296.7,
-          "endSec": 296.94,
-          "score": 1.0
-        },
-        {
-          "word": "teaches",
-          "startSec": 296.94,
-          "endSec": 297.46,
-          "score": 1.0
-        },
-        {
-          "word": "patience.",
-          "startSec": 297.46,
-          "endSec": 297.92,
-          "score": 0.99
+          "word": "life.",
+          "start": 116.1,
+          "end": 117.34
         }
       ]
     },
     {
       "id": 44,
-      "start": 297.72,
-      "end": 307.81,
-      "text": "It teaches depth. History walks with people. Life flows slowly.",
+      "start": 117.76,
+      "end": 120.54,
+      "text": "One of the oldest cities in Europe.",
+      "words": [
+        {
+          "word": "One",
+          "start": 117.76,
+          "end": 118.38
+        },
+        {
+          "word": "of",
+          "start": 118.38,
+          "end": 118.56
+        },
+        {
+          "word": "the",
+          "start": 118.56,
+          "end": 118.68
+        },
+        {
+          "word": "oldest",
+          "start": 118.68,
+          "end": 118.88
+        },
+        {
+          "word": "cities",
+          "start": 118.88,
+          "end": 119.36
+        },
+        {
+          "word": "in",
+          "start": 119.36,
+          "end": 119.72
+        },
+        {
+          "word": "Europe.",
+          "start": 119.72,
+          "end": 120.54
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 121.3,
+      "end": 123.78,
+      "text": "Plovdiv is very old.",
+      "words": [
+        {
+          "word": "Plovdiv",
+          "start": 121.3,
+          "end": 122.06
+        },
+        {
+          "word": "is",
+          "start": 122.06,
+          "end": 122.48
+        },
+        {
+          "word": "very",
+          "start": 122.48,
+          "end": 122.86
+        },
+        {
+          "word": "old.",
+          "start": 122.86,
+          "end": 123.78
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 124.16,
+      "end": 126.96,
+      "text": "People lived here thousands of years ago.",
+      "words": [
+        {
+          "word": "People",
+          "start": 124.16,
+          "end": 124.64
+        },
+        {
+          "word": "lived",
+          "start": 124.64,
+          "end": 125.0
+        },
+        {
+          "word": "here",
+          "start": 125.0,
+          "end": 125.3
+        },
+        {
+          "word": "thousands",
+          "start": 125.3,
+          "end": 125.86
+        },
+        {
+          "word": "of",
+          "start": 125.86,
+          "end": 126.22
+        },
+        {
+          "word": "years",
+          "start": 126.22,
+          "end": 126.5
+        },
+        {
+          "word": "ago.",
+          "start": 126.5,
+          "end": 126.96
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 126.96,
+      "end": 129.11,
+      "text": "Thracians lived here.",
+      "words": [
+        {
+          "word": "Thracians",
+          "start": 126.96,
+          "end": 127.98
+        },
+        {
+          "word": "lived",
+          "start": 127.98,
+          "end": 128.32
+        },
+        {
+          "word": "here.",
+          "start": 128.32,
+          "end": 129.11
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 129.36,
+      "end": 130.92,
+      "text": "Romans lived here.",
+      "words": [
+        {
+          "word": "Romans",
+          "start": 129.36,
+          "end": 129.58
+        },
+        {
+          "word": "lived",
+          "start": 129.58,
+          "end": 130.06
+        },
+        {
+          "word": "here.",
+          "start": 130.06,
+          "end": 130.92
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 131.18,
+      "end": 132.9,
+      "text": "Ottomans lived here.",
+      "words": [
+        {
+          "word": "Ottomans",
+          "start": 131.18,
+          "end": 131.7
+        },
+        {
+          "word": "lived",
+          "start": 131.7,
+          "end": 132.04
+        },
+        {
+          "word": "here.",
+          "start": 132.04,
+          "end": 132.9
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 133.36,
+      "end": 135.3,
+      "text": "Bulgarians lived here.",
+      "words": [
+        {
+          "word": "Bulgarians",
+          "start": 133.36,
+          "end": 134.06
+        },
+        {
+          "word": "lived",
+          "start": 134.06,
+          "end": 134.44
+        },
+        {
+          "word": "here.",
+          "start": 134.44,
+          "end": 135.3
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 135.56,
+      "end": 137.78,
+      "text": "Each culture left marks.",
+      "words": [
+        {
+          "word": "Each",
+          "start": 135.56,
+          "end": 135.84
+        },
+        {
+          "word": "culture",
+          "start": 135.84,
+          "end": 136.4
+        },
+        {
+          "word": "left",
+          "start": 136.4,
+          "end": 136.94
+        },
+        {
+          "word": "marks.",
+          "start": 136.94,
+          "end": 137.78
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 137.92,
+      "end": 140.42,
+      "text": "Each culture added stories.",
+      "words": [
+        {
+          "word": "Each",
+          "start": 137.92,
+          "end": 138.16
+        },
+        {
+          "word": "culture",
+          "start": 138.16,
+          "end": 138.8
+        },
+        {
+          "word": "added",
+          "start": 138.8,
+          "end": 139.4
+        },
+        {
+          "word": "stories.",
+          "start": 139.4,
+          "end": 140.42
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 140.66,
+      "end": 143.18,
+      "text": "Time feels deep and Plovdiv.",
+      "words": [
+        {
+          "word": "Time",
+          "start": 140.66,
+          "end": 141.04
+        },
+        {
+          "word": "feels",
+          "start": 141.04,
+          "end": 141.46
+        },
+        {
+          "word": "deep",
+          "start": 141.46,
+          "end": 141.9
+        },
+        {
+          "word": "and",
+          "start": 141.9,
+          "end": 142.12
+        },
+        {
+          "word": "Plovdiv.",
+          "start": 142.12,
+          "end": 143.18
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 144.32,
+      "end": 146.82,
+      "text": "Part six, the old town.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 144.32,
+          "end": 144.54
+        },
+        {
+          "word": "six,",
+          "start": 144.54,
+          "end": 145.04
+        },
+        {
+          "word": "the",
+          "start": 145.5,
+          "end": 145.6
+        },
+        {
+          "word": "old",
+          "start": 145.6,
+          "end": 145.94
+        },
+        {
+          "word": "town.",
+          "start": 145.94,
+          "end": 146.82
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 147.14,
+      "end": 150.16,
+      "text": "The old town is special.",
+      "words": [
+        {
+          "word": "The",
+          "start": 147.14,
+          "end": 148.06
+        },
+        {
+          "word": "old",
+          "start": 148.06,
+          "end": 148.42
+        },
+        {
+          "word": "town",
+          "start": 148.42,
+          "end": 148.86
+        },
+        {
+          "word": "is",
+          "start": 148.86,
+          "end": 149.18
+        },
+        {
+          "word": "special.",
+          "start": 149.18,
+          "end": 150.16
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 150.48,
+      "end": 152.48,
+      "text": "It is quiet and beautiful.",
       "words": [
         {
           "word": "It",
-          "startSec": 297.92,
-          "endSec": 299.46,
-          "score": 0.12
+          "start": 150.48,
+          "end": 150.6
         },
         {
-          "word": "teaches",
-          "startSec": 299.46,
-          "endSec": 299.98,
-          "score": 0.89
+          "word": "is",
+          "start": 150.6,
+          "end": 150.78
         },
         {
-          "word": "depth.",
-          "startSec": 299.98,
-          "endSec": 300.66,
-          "score": 0.95
+          "word": "quiet",
+          "start": 150.78,
+          "end": 151.3
         },
         {
-          "word": "History",
-          "startSec": 301.67,
-          "endSec": 302.27,
-          "score": 0.99
+          "word": "and",
+          "start": 151.3,
+          "end": 151.58
         },
         {
-          "word": "walks",
-          "startSec": 302.27,
-          "endSec": 302.77,
-          "score": 0.99
+          "word": "beautiful.",
+          "start": 151.58,
+          "end": 152.48
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 153.06,
+      "end": 154.36,
+      "text": "Houses are colorful.",
+      "words": [
+        {
+          "word": "Houses",
+          "start": 153.06,
+          "end": 153.4
         },
         {
-          "word": "with",
-          "startSec": 302.77,
-          "endSec": 303.19,
-          "score": 1.0
+          "word": "are",
+          "start": 153.4,
+          "end": 153.7
         },
         {
-          "word": "people.",
-          "startSec": 303.19,
-          "endSec": 303.77,
-          "score": 1.0
+          "word": "colorful.",
+          "start": 153.7,
+          "end": 154.36
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 154.36,
+      "end": 156.79,
+      "text": "Windows are wooden.",
+      "words": [
+        {
+          "word": "Windows",
+          "start": 154.36,
+          "end": 155.56
         },
         {
-          "word": "Life",
-          "startSec": 304.53,
-          "endSec": 305.19,
-          "score": 0.99
+          "word": "are",
+          "start": 155.56,
+          "end": 156.02
         },
         {
-          "word": "flows",
-          "startSec": 305.19,
-          "endSec": 306.49,
-          "score": 0.96
+          "word": "wooden.",
+          "start": 156.02,
+          "end": 156.79
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 157.02,
+      "end": 158.69,
+      "text": "Streets are narrow.",
+      "words": [
+        {
+          "word": "Streets",
+          "start": 157.02,
+          "end": 157.74
+        },
+        {
+          "word": "are",
+          "start": 157.74,
+          "end": 157.96
+        },
+        {
+          "word": "narrow.",
+          "start": 157.96,
+          "end": 158.69
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 158.84,
+      "end": 160.5,
+      "text": "Streets are stone.",
+      "words": [
+        {
+          "word": "Streets",
+          "start": 158.84,
+          "end": 159.44
+        },
+        {
+          "word": "are",
+          "start": 159.44,
+          "end": 159.64
+        },
+        {
+          "word": "stone.",
+          "start": 159.64,
+          "end": 160.5
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 160.86,
+      "end": 162.65,
+      "text": "People walk slowly.",
+      "words": [
+        {
+          "word": "People",
+          "start": 160.86,
+          "end": 161.24
+        },
+        {
+          "word": "walk",
+          "start": 161.24,
+          "end": 161.66
         },
         {
           "word": "slowly.",
-          "startSec": 306.84,
-          "endSec": 307.66,
-          "score": 0.99
+          "start": 161.66,
+          "end": 162.65
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 162.86,
+      "end": 164.18,
+      "text": "They look around.",
+      "words": [
+        {
+          "word": "They",
+          "start": 162.86,
+          "end": 162.96
+        },
+        {
+          "word": "look",
+          "start": 162.96,
+          "end": 163.22
+        },
+        {
+          "word": "around.",
+          "start": 163.22,
+          "end": 164.18
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 164.58,
+      "end": 167.72,
+      "text": "The old town feels like a living museum.",
+      "words": [
+        {
+          "word": "The",
+          "start": 164.58,
+          "end": 164.7
+        },
+        {
+          "word": "old",
+          "start": 164.7,
+          "end": 165.0
+        },
+        {
+          "word": "town",
+          "start": 165.0,
+          "end": 165.4
+        },
+        {
+          "word": "feels",
+          "start": 165.4,
+          "end": 165.84
+        },
+        {
+          "word": "like",
+          "start": 165.84,
+          "end": 166.18
+        },
+        {
+          "word": "a",
+          "start": 166.18,
+          "end": 166.34
+        },
+        {
+          "word": "living",
+          "start": 166.34,
+          "end": 166.64
+        },
+        {
+          "word": "museum.",
+          "start": 166.64,
+          "end": 167.72
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 169.22,
+      "end": 171.84,
+      "text": "Part seven, Roman heritage.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 169.22,
+          "end": 169.26
+        },
+        {
+          "word": "seven,",
+          "start": 169.26,
+          "end": 169.88
+        },
+        {
+          "word": "Roman",
+          "start": 170.48,
+          "end": 170.74
+        },
+        {
+          "word": "heritage.",
+          "start": 170.74,
+          "end": 171.84
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 172.36,
+      "end": 174.74,
+      "text": "Plovdiv has Roman history.",
+      "words": [
+        {
+          "word": "Plovdiv",
+          "start": 172.36,
+          "end": 173.06
+        },
+        {
+          "word": "has",
+          "start": 173.06,
+          "end": 173.4
+        },
+        {
+          "word": "Roman",
+          "start": 173.4,
+          "end": 173.8
+        },
+        {
+          "word": "history.",
+          "start": 173.8,
+          "end": 174.74
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 175.26,
+      "end": 177.06,
+      "text": "You can see it clearly.",
+      "words": [
+        {
+          "word": "You",
+          "start": 175.26,
+          "end": 175.54
+        },
+        {
+          "word": "can",
+          "start": 175.54,
+          "end": 175.78
+        },
+        {
+          "word": "see",
+          "start": 175.78,
+          "end": 176.08
+        },
+        {
+          "word": "it",
+          "start": 176.08,
+          "end": 176.24
+        },
+        {
+          "word": "clearly.",
+          "start": 176.24,
+          "end": 177.06
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 177.5,
+      "end": 179.0,
+      "text": "There is a Roman theater.",
+      "words": [
+        {
+          "word": "There",
+          "start": 177.5,
+          "end": 177.8
+        },
+        {
+          "word": "is",
+          "start": 177.8,
+          "end": 178.0
+        },
+        {
+          "word": "a",
+          "start": 178.0,
+          "end": 178.14
+        },
+        {
+          "word": "Roman",
+          "start": 178.14,
+          "end": 178.46
+        },
+        {
+          "word": "theater.",
+          "start": 178.46,
+          "end": 179.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 179.0,
+      "end": 181.34,
+      "text": "It is very old.",
+      "words": [
+        {
+          "word": "It",
+          "start": 179.0,
+          "end": 179.9
+        },
+        {
+          "word": "is",
+          "start": 179.9,
+          "end": 180.14
+        },
+        {
+          "word": "very",
+          "start": 180.14,
+          "end": 180.5
+        },
+        {
+          "word": "old.",
+          "start": 180.5,
+          "end": 181.34
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 181.48,
+      "end": 183.3,
+      "text": "People still use it.",
+      "words": [
+        {
+          "word": "People",
+          "start": 181.48,
+          "end": 181.88
+        },
+        {
+          "word": "still",
+          "start": 181.88,
+          "end": 182.3
+        },
+        {
+          "word": "use",
+          "start": 182.3,
+          "end": 182.84
+        },
+        {
+          "word": "it.",
+          "start": 182.84,
+          "end": 183.3
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 183.48,
+      "end": 185.15,
+      "text": "Music plays there.",
+      "words": [
+        {
+          "word": "Music",
+          "start": 183.48,
+          "end": 183.76
+        },
+        {
+          "word": "plays",
+          "start": 183.76,
+          "end": 184.26
+        },
+        {
+          "word": "there.",
+          "start": 184.26,
+          "end": 185.15
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 185.38,
+      "end": 187.02,
+      "text": "The past is not dead.",
+      "words": [
+        {
+          "word": "The",
+          "start": 185.38,
+          "end": 185.46
+        },
+        {
+          "word": "past",
+          "start": 185.46,
+          "end": 185.84
+        },
+        {
+          "word": "is",
+          "start": 185.84,
+          "end": 186.1
+        },
+        {
+          "word": "not",
+          "start": 186.1,
+          "end": 186.34
+        },
+        {
+          "word": "dead.",
+          "start": 186.34,
+          "end": 187.02
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 187.18,
+      "end": 188.8,
+      "text": "The past is alive.",
+      "words": [
+        {
+          "word": "The",
+          "start": 187.18,
+          "end": 187.3
+        },
+        {
+          "word": "past",
+          "start": 187.3,
+          "end": 187.76
+        },
+        {
+          "word": "is",
+          "start": 187.76,
+          "end": 188.0
+        },
+        {
+          "word": "alive.",
+          "start": 188.0,
+          "end": 188.8
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 189.02,
+      "end": 191.32,
+      "text": "History and today meet here.",
+      "words": [
+        {
+          "word": "History",
+          "start": 189.02,
+          "end": 189.52
+        },
+        {
+          "word": "and",
+          "start": 189.52,
+          "end": 189.78
+        },
+        {
+          "word": "today",
+          "start": 189.78,
+          "end": 190.06
+        },
+        {
+          "word": "meet",
+          "start": 190.06,
+          "end": 190.46
+        },
+        {
+          "word": "here.",
+          "start": 190.46,
+          "end": 191.32
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 192.36,
+      "end": 196.46,
+      "text": "Part eight, daily life of people.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 192.36,
+          "end": 192.66
+        },
+        {
+          "word": "eight,",
+          "start": 192.66,
+          "end": 193.18
+        },
+        {
+          "word": "daily",
+          "start": 194.16,
+          "end": 194.96
+        },
+        {
+          "word": "life",
+          "start": 194.96,
+          "end": 195.42
+        },
+        {
+          "word": "of",
+          "start": 195.42,
+          "end": 195.62
+        },
+        {
+          "word": "people.",
+          "start": 195.62,
+          "end": 196.46
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 196.98,
+      "end": 199.51,
+      "text": "People in Plovdiv live calmly.",
+      "words": [
+        {
+          "word": "People",
+          "start": 196.98,
+          "end": 197.4
+        },
+        {
+          "word": "in",
+          "start": 197.4,
+          "end": 197.68
+        },
+        {
+          "word": "Plovdiv",
+          "start": 197.68,
+          "end": 198.18
+        },
+        {
+          "word": "live",
+          "start": 198.18,
+          "end": 198.52
+        },
+        {
+          "word": "calmly.",
+          "start": 198.52,
+          "end": 199.51
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 199.76,
+      "end": 201.23,
+      "text": "They wake up early.",
+      "words": [
+        {
+          "word": "They",
+          "start": 199.76,
+          "end": 200.0
+        },
+        {
+          "word": "wake",
+          "start": 200.0,
+          "end": 200.32
+        },
+        {
+          "word": "up",
+          "start": 200.32,
+          "end": 200.56
+        },
+        {
+          "word": "early.",
+          "start": 200.56,
+          "end": 201.23
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 201.4,
+      "end": 202.52,
+      "text": "They go to work.",
+      "words": [
+        {
+          "word": "They",
+          "start": 201.4,
+          "end": 201.52
+        },
+        {
+          "word": "go",
+          "start": 201.52,
+          "end": 201.76
+        },
+        {
+          "word": "to",
+          "start": 201.76,
+          "end": 201.88
+        },
+        {
+          "word": "work.",
+          "start": 201.88,
+          "end": 202.52
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 202.7,
+      "end": 204.04,
+      "text": "They meet friends.",
+      "words": [
+        {
+          "word": "They",
+          "start": 202.7,
+          "end": 202.88
+        },
+        {
+          "word": "meet",
+          "start": 202.88,
+          "end": 203.2
+        },
+        {
+          "word": "friends.",
+          "start": 203.2,
+          "end": 204.04
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 204.22,
+      "end": 205.7,
+      "text": "Cafes are important.",
+      "words": [
+        {
+          "word": "Cafes",
+          "start": 204.22,
+          "end": 204.76
+        },
+        {
+          "word": "are",
+          "start": 204.76,
+          "end": 204.9
+        },
+        {
+          "word": "important.",
+          "start": 204.9,
+          "end": 205.7
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 205.86,
+      "end": 207.16,
+      "text": "Talking is important.",
+      "words": [
+        {
+          "word": "Talking",
+          "start": 205.86,
+          "end": 206.18
+        },
+        {
+          "word": "is",
+          "start": 206.18,
+          "end": 206.5
+        },
+        {
+          "word": "important.",
+          "start": 206.5,
+          "end": 207.16
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 207.16,
+      "end": 209.22,
+      "text": "Life is not rushed.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 207.16,
+          "end": 207.64
+        },
+        {
+          "word": "is",
+          "start": 207.64,
+          "end": 207.96
+        },
+        {
+          "word": "not",
+          "start": 207.96,
+          "end": 208.22
+        },
+        {
+          "word": "rushed.",
+          "start": 208.22,
+          "end": 209.22
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 209.48,
+      "end": 211.48,
+      "text": "Moments are enjoyed.",
+      "words": [
+        {
+          "word": "Moments",
+          "start": 209.48,
+          "end": 210.3
+        },
+        {
+          "word": "are",
+          "start": 210.3,
+          "end": 210.56
+        },
+        {
+          "word": "enjoyed.",
+          "start": 210.56,
+          "end": 211.48
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 212.26,
+      "end": 215.14,
+      "text": "Part nine, food and taste.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 212.26,
+          "end": 212.82
+        },
+        {
+          "word": "nine,",
+          "start": 212.82,
+          "end": 213.32
+        },
+        {
+          "word": "food",
+          "start": 213.88,
+          "end": 214.06
+        },
+        {
+          "word": "and",
+          "start": 214.06,
+          "end": 214.28
+        },
+        {
+          "word": "taste.",
+          "start": 214.28,
+          "end": 215.14
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 216.3,
+      "end": 219.34,
+      "text": "Food in Plovdiv is traditional.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 216.3,
+          "end": 217.16
+        },
+        {
+          "word": "in",
+          "start": 217.16,
+          "end": 217.4
+        },
+        {
+          "word": "Plovdiv",
+          "start": 217.4,
+          "end": 217.98
+        },
+        {
+          "word": "is",
+          "start": 217.98,
+          "end": 218.3
+        },
+        {
+          "word": "traditional.",
+          "start": 218.3,
+          "end": 219.34
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 220.08,
+      "end": 221.54,
+      "text": "Meals are homemade.",
+      "words": [
+        {
+          "word": "Meals",
+          "start": 220.08,
+          "end": 220.36
+        },
+        {
+          "word": "are",
+          "start": 220.36,
+          "end": 220.56
+        },
+        {
+          "word": "homemade.",
+          "start": 220.56,
+          "end": 221.54
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 222.3,
+      "end": 223.9,
+      "text": "Vegetables are fresh.",
+      "words": [
+        {
+          "word": "Vegetables",
+          "start": 222.3,
+          "end": 222.82
+        },
+        {
+          "word": "are",
+          "start": 222.82,
+          "end": 223.08
+        },
+        {
+          "word": "fresh.",
+          "start": 223.08,
+          "end": 223.9
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 224.34,
+      "end": 225.53,
+      "text": "Bread is warm.",
+      "words": [
+        {
+          "word": "Bread",
+          "start": 224.34,
+          "end": 224.52
+        },
+        {
+          "word": "is",
+          "start": 224.52,
+          "end": 224.8
+        },
+        {
+          "word": "warm.",
+          "start": 224.8,
+          "end": 225.53
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 225.72,
+      "end": 227.09,
+      "text": "Soups are common.",
+      "words": [
+        {
+          "word": "Soups",
+          "start": 225.72,
+          "end": 226.06
+        },
+        {
+          "word": "are",
+          "start": 226.06,
+          "end": 226.18
+        },
+        {
+          "word": "common.",
+          "start": 226.18,
+          "end": 227.09
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 227.34,
+      "end": 228.7,
+      "text": "Meat is shared.",
+      "words": [
+        {
+          "word": "Meat",
+          "start": 227.34,
+          "end": 227.52
+        },
+        {
+          "word": "is",
+          "start": 227.52,
+          "end": 227.8
+        },
+        {
+          "word": "shared.",
+          "start": 227.8,
+          "end": 228.7
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 229.18,
+      "end": 230.92,
+      "text": "People eat together.",
+      "words": [
+        {
+          "word": "People",
+          "start": 229.18,
+          "end": 229.56
+        },
+        {
+          "word": "eat",
+          "start": 229.56,
+          "end": 230.0
+        },
+        {
+          "word": "together.",
+          "start": 230.0,
+          "end": 230.92
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 231.24,
+      "end": 232.5,
+      "text": "Food means family.",
+      "words": [
+        {
+          "word": "Food",
+          "start": 231.24,
+          "end": 231.46
+        },
+        {
+          "word": "means",
+          "start": 231.46,
+          "end": 231.84
+        },
+        {
+          "word": "family.",
+          "start": 231.84,
+          "end": 232.5
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 232.5,
+      "end": 235.72,
+      "text": "Eating is a daily ritual.",
+      "words": [
+        {
+          "word": "Eating",
+          "start": 232.5,
+          "end": 233.78
+        },
+        {
+          "word": "is",
+          "start": 233.78,
+          "end": 234.16
+        },
+        {
+          "word": "a",
+          "start": 234.16,
+          "end": 234.32
+        },
+        {
+          "word": "daily",
+          "start": 234.32,
+          "end": 234.66
+        },
+        {
+          "word": "ritual.",
+          "start": 234.66,
+          "end": 235.72
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 236.82,
+      "end": 240.36,
+      "text": "Part ten, art, culture and youth.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 236.82,
+          "end": 237.22
+        },
+        {
+          "word": "ten,",
+          "start": 237.22,
+          "end": 237.76
+        },
+        {
+          "word": "art,",
+          "start": 238.1,
+          "end": 238.5
+        },
+        {
+          "word": "culture",
+          "start": 238.84,
+          "end": 239.22
+        },
+        {
+          "word": "and",
+          "start": 239.22,
+          "end": 239.56
+        },
+        {
+          "word": "youth.",
+          "start": 239.56,
+          "end": 240.36
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 240.66,
+      "end": 242.56,
+      "text": "Plovdiv loves art.",
+      "words": [
+        {
+          "word": "Plovdiv",
+          "start": 240.66,
+          "end": 241.22
+        },
+        {
+          "word": "loves",
+          "start": 241.22,
+          "end": 241.56
+        },
+        {
+          "word": "art.",
+          "start": 241.56,
+          "end": 242.56
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 243.06,
+      "end": 244.58,
+      "text": "There are galleries.",
+      "words": [
+        {
+          "word": "There",
+          "start": 243.06,
+          "end": 243.26
+        },
+        {
+          "word": "are",
+          "start": 243.26,
+          "end": 243.48
+        },
+        {
+          "word": "galleries.",
+          "start": 243.48,
+          "end": 244.58
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 244.94,
+      "end": 246.52,
+      "text": "Young people create.",
+      "words": [
+        {
+          "word": "Young",
+          "start": 244.94,
+          "end": 245.14
+        },
+        {
+          "word": "people",
+          "start": 245.14,
+          "end": 245.54
+        },
+        {
+          "word": "create.",
+          "start": 245.54,
+          "end": 246.52
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 246.8,
+      "end": 248.24,
+      "text": "Ideas grow.",
+      "words": [
+        {
+          "word": "Ideas",
+          "start": 246.8,
+          "end": 247.4
+        },
+        {
+          "word": "grow.",
+          "start": 247.4,
+          "end": 248.24
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 248.54,
+      "end": 250.3,
+      "text": "Music fills streets.",
+      "words": [
+        {
+          "word": "Music",
+          "start": 248.54,
+          "end": 248.98
+        },
+        {
+          "word": "fills",
+          "start": 248.98,
+          "end": 249.4
+        },
+        {
+          "word": "streets.",
+          "start": 249.4,
+          "end": 250.3
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 250.52,
+      "end": 252.4,
+      "text": "Festivals bring life.",
+      "words": [
+        {
+          "word": "Festivals",
+          "start": 250.52,
+          "end": 251.1
+        },
+        {
+          "word": "bring",
+          "start": 251.1,
+          "end": 251.56
+        },
+        {
+          "word": "life.",
+          "start": 251.56,
+          "end": 252.4
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 252.8,
+      "end": 254.74,
+      "text": "The city feels creative.",
+      "words": [
+        {
+          "word": "The",
+          "start": 252.8,
+          "end": 252.92
+        },
+        {
+          "word": "city",
+          "start": 252.92,
+          "end": 253.22
+        },
+        {
+          "word": "feels",
+          "start": 253.22,
+          "end": 253.68
+        },
+        {
+          "word": "creative.",
+          "start": 253.68,
+          "end": 254.74
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 255.14,
+      "end": 257.08,
+      "text": "The city feels open.",
+      "words": [
+        {
+          "word": "The",
+          "start": 255.14,
+          "end": 255.36
+        },
+        {
+          "word": "city",
+          "start": 255.36,
+          "end": 255.66
+        },
+        {
+          "word": "feels",
+          "start": 255.66,
+          "end": 256.12
+        },
+        {
+          "word": "open.",
+          "start": 256.12,
+          "end": 257.08
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 257.58,
+      "end": 259.76,
+      "text": "Culture feels natural here.",
+      "words": [
+        {
+          "word": "Culture",
+          "start": 257.58,
+          "end": 258.16
+        },
+        {
+          "word": "feels",
+          "start": 258.16,
+          "end": 258.64
+        },
+        {
+          "word": "natural",
+          "start": 258.64,
+          "end": 259.3
+        },
+        {
+          "word": "here.",
+          "start": 259.3,
+          "end": 259.76
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 259.76,
+      "end": 263.74,
+      "text": "Part eleven, nature and hills.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 259.76,
+          "end": 261.12
+        },
+        {
+          "word": "eleven,",
+          "start": 261.12,
+          "end": 261.68
+        },
+        {
+          "word": "nature",
+          "start": 262.26,
+          "end": 262.54
+        },
+        {
+          "word": "and",
+          "start": 262.54,
+          "end": 262.9
+        },
+        {
+          "word": "hills.",
+          "start": 262.9,
+          "end": 263.74
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 264.18,
+      "end": 266.12,
+      "text": "The hills are important.",
+      "words": [
+        {
+          "word": "The",
+          "start": 264.18,
+          "end": 264.44
+        },
+        {
+          "word": "hills",
+          "start": 264.44,
+          "end": 264.76
+        },
+        {
+          "word": "are",
+          "start": 264.76,
+          "end": 265.06
+        },
+        {
+          "word": "important.",
+          "start": 265.06,
+          "end": 266.12
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 266.36,
+      "end": 268.06,
+      "text": "They shape the city.",
+      "words": [
+        {
+          "word": "They",
+          "start": 266.36,
+          "end": 266.64
+        },
+        {
+          "word": "shape",
+          "start": 266.64,
+          "end": 267.08
+        },
+        {
+          "word": "the",
+          "start": 267.08,
+          "end": 267.3
+        },
+        {
+          "word": "city.",
+          "start": 267.3,
+          "end": 268.06
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 268.36,
+      "end": 270.5,
+      "text": "People walk up hill.",
+      "words": [
+        {
+          "word": "People",
+          "start": 268.36,
+          "end": 268.92
+        },
+        {
+          "word": "walk",
+          "start": 268.92,
+          "end": 269.3
+        },
+        {
+          "word": "up",
+          "start": 269.3,
+          "end": 269.64
+        },
+        {
+          "word": "hill.",
+          "start": 269.64,
+          "end": 270.5
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 270.88,
+      "end": 272.56,
+      "text": "They rest and look.",
+      "words": [
+        {
+          "word": "They",
+          "start": 270.88,
+          "end": 271.02
+        },
+        {
+          "word": "rest",
+          "start": 271.02,
+          "end": 271.5
+        },
+        {
+          "word": "and",
+          "start": 271.5,
+          "end": 271.82
+        },
+        {
+          "word": "look.",
+          "start": 271.82,
+          "end": 272.56
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 273.06,
+      "end": 275.42,
+      "text": "From the hills views are wide.",
+      "words": [
+        {
+          "word": "From",
+          "start": 273.06,
+          "end": 273.2
+        },
+        {
+          "word": "the",
+          "start": 273.2,
+          "end": 273.44
+        },
+        {
+          "word": "hills",
+          "start": 273.44,
+          "end": 273.84
+        },
+        {
+          "word": "views",
+          "start": 273.84,
+          "end": 274.26
+        },
+        {
+          "word": "are",
+          "start": 274.26,
+          "end": 274.52
+        },
+        {
+          "word": "wide.",
+          "start": 274.52,
+          "end": 275.42
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 275.92,
+      "end": 277.84,
+      "text": "The city looks peaceful.",
+      "words": [
+        {
+          "word": "The",
+          "start": 275.92,
+          "end": 276.02
+        },
+        {
+          "word": "city",
+          "start": 276.02,
+          "end": 276.36
+        },
+        {
+          "word": "looks",
+          "start": 276.36,
+          "end": 276.72
+        },
+        {
+          "word": "peaceful.",
+          "start": 276.72,
+          "end": 277.84
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 278.48,
+      "end": 280.24,
+      "text": "Nature gives balance.",
+      "words": [
+        {
+          "word": "Nature",
+          "start": 278.48,
+          "end": 278.92
+        },
+        {
+          "word": "gives",
+          "start": 278.92,
+          "end": 279.3
+        },
+        {
+          "word": "balance.",
+          "start": 279.3,
+          "end": 280.24
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 280.64,
+      "end": 282.46,
+      "text": "Silence gives rest.",
+      "words": [
+        {
+          "word": "Silence",
+          "start": 280.64,
+          "end": 281.0
+        },
+        {
+          "word": "gives",
+          "start": 281.0,
+          "end": 281.5
+        },
+        {
+          "word": "rest.",
+          "start": 281.5,
+          "end": 282.46
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 283.22,
+      "end": 286.04,
+      "text": "Part twelve, the soul of Plovdiv.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 283.22,
+          "end": 283.78
+        },
+        {
+          "word": "twelve,",
+          "start": 283.78,
+          "end": 284.32
+        },
+        {
+          "word": "the",
+          "start": 284.64,
+          "end": 284.74
+        },
+        {
+          "word": "soul",
+          "start": 284.74,
+          "end": 285.1
+        },
+        {
+          "word": "of",
+          "start": 285.1,
+          "end": 285.32
+        },
+        {
+          "word": "Plovdiv.",
+          "start": 285.32,
+          "end": 286.04
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 286.04,
+      "end": 288.18,
+      "text": "And goodbye.",
+      "words": [
+        {
+          "word": "And",
+          "start": 286.04,
+          "end": 287.34
+        },
+        {
+          "word": "goodbye.",
+          "start": 287.34,
+          "end": 288.18
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 288.36,
+      "end": 289.89,
+      "text": "Plovdiv is ancient.",
+      "words": [
+        {
+          "word": "Plovdiv",
+          "start": 288.36,
+          "end": 288.8
+        },
+        {
+          "word": "is",
+          "start": 288.8,
+          "end": 289.02
+        },
+        {
+          "word": "ancient.",
+          "start": 289.02,
+          "end": 289.89
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 290.14,
+      "end": 292.14,
+      "text": "Plovdiv is gentle.",
+      "words": [
+        {
+          "word": "Plovdiv",
+          "start": 290.14,
+          "end": 290.92
+        },
+        {
+          "word": "is",
+          "start": 290.92,
+          "end": 291.18
+        },
+        {
+          "word": "gentle.",
+          "start": 291.18,
+          "end": 292.14
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 292.56,
+      "end": 294.04,
+      "text": "It is not loud.",
+      "words": [
+        {
+          "word": "It",
+          "start": 292.56,
+          "end": 292.64
+        },
+        {
+          "word": "is",
+          "start": 292.64,
+          "end": 292.82
+        },
+        {
+          "word": "not",
+          "start": 292.82,
+          "end": 293.1
+        },
+        {
+          "word": "loud.",
+          "start": 293.1,
+          "end": 294.04
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 294.26,
+      "end": 296.16,
+      "text": "It is not fast.",
+      "words": [
+        {
+          "word": "It",
+          "start": 294.26,
+          "end": 294.72
+        },
+        {
+          "word": "is",
+          "start": 294.72,
+          "end": 294.92
+        },
+        {
+          "word": "not",
+          "start": 294.92,
+          "end": 295.18
+        },
+        {
+          "word": "fast.",
+          "start": 295.18,
+          "end": 296.16
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 296.86,
+      "end": 298.8,
+      "text": "It teaches patience.",
+      "words": [
+        {
+          "word": "It",
+          "start": 296.86,
+          "end": 297.0
+        },
+        {
+          "word": "teaches",
+          "start": 297.0,
+          "end": 297.52
+        },
+        {
+          "word": "patience.",
+          "start": 297.52,
+          "end": 298.8
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 299.16,
+      "end": 301.16,
+      "text": "It teaches depth.",
+      "words": [
+        {
+          "word": "It",
+          "start": 299.16,
+          "end": 299.52
+        },
+        {
+          "word": "teaches",
+          "start": 299.52,
+          "end": 300.08
+        },
+        {
+          "word": "depth.",
+          "start": 300.08,
+          "end": 301.16
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 301.68,
+      "end": 304.16,
+      "text": "History walks with people.",
+      "words": [
+        {
+          "word": "History",
+          "start": 301.68,
+          "end": 302.34
+        },
+        {
+          "word": "walks",
+          "start": 302.34,
+          "end": 302.88
+        },
+        {
+          "word": "with",
+          "start": 302.88,
+          "end": 303.26
+        },
+        {
+          "word": "people.",
+          "start": 303.26,
+          "end": 304.16
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 304.92,
+      "end": 308.26,
+      "text": "Life flows slowly.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 304.92,
+          "end": 305.32
+        },
+        {
+          "word": "flows",
+          "start": 305.32,
+          "end": 306.98
+        },
+        {
+          "word": "slowly.",
+          "start": 306.98,
+          "end": 308.26
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 308.64,
+      "end": 312.16,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 308.64,
+          "end": 309.34
+        },
+        {
+          "word": "you",
+          "start": 309.34,
+          "end": 309.62
+        },
+        {
+          "word": "for",
+          "start": 309.62,
+          "end": 309.86
+        },
+        {
+          "word": "listening",
+          "start": 309.86,
+          "end": 310.38
+        },
+        {
+          "word": "to",
+          "start": 310.38,
+          "end": 310.74
+        },
+        {
+          "word": "the",
+          "start": 310.74,
+          "end": 310.94
+        },
+        {
+          "word": "Slow",
+          "start": 310.94,
+          "end": 311.22
+        },
+        {
+          "word": "English",
+          "start": 311.22,
+          "end": 311.6
+        },
+        {
+          "word": "Podcast.",
+          "start": 311.6,
+          "end": 312.16
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 312.16,
+      "end": 313.83,
+      "text": "My name is Immy.",
+      "words": [
+        {
+          "word": "My",
+          "start": 312.16,
+          "end": 312.76
+        },
+        {
+          "word": "name",
+          "start": 312.76,
+          "end": 313.04
+        },
+        {
+          "word": "is",
+          "start": 313.04,
+          "end": 313.24
+        },
+        {
+          "word": "Immy.",
+          "start": 313.24,
+          "end": 313.83
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 313.98,
+      "end": 316.35,
+      "text": "See you in the next long journey.",
+      "words": [
+        {
+          "word": "See",
+          "start": 313.98,
+          "end": 314.26
+        },
+        {
+          "word": "you",
+          "start": 314.26,
+          "end": 314.46
+        },
+        {
+          "word": "in",
+          "start": 314.46,
+          "end": 314.64
+        },
+        {
+          "word": "the",
+          "start": 314.64,
+          "end": 314.76
+        },
+        {
+          "word": "next",
+          "start": 314.76,
+          "end": 315.08
+        },
+        {
+          "word": "long",
+          "start": 315.08,
+          "end": 315.42
+        },
+        {
+          "word": "journey.",
+          "start": 315.42,
+          "end": 316.35
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 124
 }

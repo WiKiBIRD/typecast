@@ -15,4379 +15,3837 @@
   "sentences": [
     {
       "id": 1,
-      "start": 1.6,
-      "end": 3.95,
+      "start": 1.8,
+      "end": 4.2,
       "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
           "word": "Welcome",
-          "startSec": 1.8,
-          "endSec": 2.28,
-          "score": 0.99
+          "start": 1.8,
+          "end": 2.28
         },
         {
           "word": "to",
-          "startSec": 2.28,
-          "endSec": 2.54,
-          "score": 1.0
+          "start": 2.28,
+          "end": 2.58
         },
         {
           "word": "the",
-          "startSec": 2.54,
-          "endSec": 2.7,
-          "score": 0.93
+          "start": 2.58,
+          "end": 2.78
         },
         {
           "word": "Slow",
-          "startSec": 2.7,
-          "endSec": 2.92,
-          "score": 0.8
+          "start": 2.78,
+          "end": 3.02
         },
         {
           "word": "English",
-          "startSec": 2.92,
-          "endSec": 3.28,
-          "score": 0.95
+          "start": 3.02,
+          "end": 3.38
         },
         {
           "word": "Podcast.",
-          "startSec": 3.28,
-          "endSec": 3.8,
-          "score": 0.83
+          "start": 3.38,
+          "end": 4.2
         }
       ]
     },
     {
       "id": 2,
-      "start": 4.62,
-      "end": 6.75,
+      "start": 4.84,
+      "end": 7.06,
       "text": "I am Emily, your host.",
       "words": [
         {
           "word": "I",
-          "startSec": 4.82,
-          "endSec": 5.08,
-          "score": 0.99
+          "start": 4.84,
+          "end": 5.12
         },
         {
           "word": "am",
-          "startSec": 5.08,
-          "endSec": 5.26,
-          "score": 0.96
+          "start": 5.12,
+          "end": 5.32
         },
         {
           "word": "Emily,",
-          "startSec": 5.26,
-          "endSec": 5.72,
-          "score": 0.98
+          "start": 5.32,
+          "end": 5.78
         },
         {
           "word": "your",
-          "startSec": 6.04,
-          "endSec": 6.24,
-          "score": 0.99
+          "start": 6.22,
+          "end": 6.3
         },
         {
           "word": "host.",
-          "startSec": 6.24,
-          "endSec": 6.6,
-          "score": 1.0
+          "start": 6.3,
+          "end": 7.06
         }
       ]
     },
     {
       "id": 3,
-      "start": 7.3,
-      "end": 11.61,
-      "text": "Today, we are traveling to a city in Eastern Europe",
+      "start": 7.68,
+      "end": 13.26,
+      "text": "Today, we are traveling to a city in Eastern Europe called Minsk.",
       "words": [
         {
           "word": "Today,",
-          "startSec": 7.5,
-          "endSec": 7.82,
-          "score": 0.99
+          "start": 7.68,
+          "end": 7.9
         },
         {
           "word": "we",
-          "startSec": 7.9,
-          "endSec": 8.46,
-          "score": 1.0
+          "start": 8.2,
+          "end": 8.5
         },
         {
           "word": "are",
-          "startSec": 8.46,
-          "endSec": 8.6,
-          "score": 0.97
+          "start": 8.5,
+          "end": 8.64
         },
         {
           "word": "traveling",
-          "startSec": 8.6,
-          "endSec": 9.12,
-          "score": 0.94
+          "start": 8.64,
+          "end": 9.18
         },
         {
           "word": "to",
-          "startSec": 9.12,
-          "endSec": 9.54,
-          "score": 1.0
+          "start": 9.18,
+          "end": 9.6
         },
         {
           "word": "a",
-          "startSec": 9.54,
-          "endSec": 9.7,
-          "score": 1.0
+          "start": 9.6,
+          "end": 9.78
         },
         {
           "word": "city",
-          "startSec": 9.7,
-          "endSec": 10.04,
-          "score": 1.0
+          "start": 9.78,
+          "end": 10.12
         },
         {
           "word": "in",
-          "startSec": 10.04,
-          "endSec": 10.42,
-          "score": 1.0
+          "start": 10.12,
+          "end": 10.48
         },
         {
           "word": "Eastern",
-          "startSec": 10.42,
-          "endSec": 10.74,
-          "score": 0.85
+          "start": 10.48,
+          "end": 10.92
         },
         {
           "word": "Europe",
-          "startSec": 10.74,
-          "endSec": 11.46,
-          "score": 1.0
+          "start": 10.92,
+          "end": 11.46
+        },
+        {
+          "word": "called",
+          "start": 11.46,
+          "end": 12.08
+        },
+        {
+          "word": "Minsk.",
+          "start": 12.08,
+          "end": 13.26
         }
       ]
     },
     {
       "id": 4,
-      "start": 11.26,
-      "end": 12.81,
-      "text": "called Minsk.",
+      "start": 13.46,
+      "end": 16.34,
+      "text": "Minsk is the capital of Belarus.",
       "words": [
         {
-          "word": "called",
-          "startSec": 11.46,
-          "endSec": 12.02,
-          "score": 0.95
+          "word": "Minsk",
+          "start": 13.46,
+          "end": 14.3
         },
         {
-          "word": "Minsk.",
-          "startSec": 12.02,
-          "endSec": 12.66,
-          "score": 0.96
+          "word": "is",
+          "start": 14.3,
+          "end": 14.5
+        },
+        {
+          "word": "the",
+          "start": 14.5,
+          "end": 14.7
+        },
+        {
+          "word": "capital",
+          "start": 14.7,
+          "end": 15.16
+        },
+        {
+          "word": "of",
+          "start": 15.16,
+          "end": 15.46
+        },
+        {
+          "word": "Belarus.",
+          "start": 15.46,
+          "end": 16.34
         }
       ]
     },
     {
       "id": 5,
-      "start": 13.45,
-      "end": 15.84,
-      "text": "Minsk is the capital of Belarus.",
+      "start": 17.04,
+      "end": 23.82,
+      "text": "It is a modern and clean city with wide streets, parks, and cultural centers.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 13.65,
-          "endSec": 14.17,
-          "score": 0.99
+          "word": "It",
+          "start": 17.04,
+          "end": 17.16
         },
         {
           "word": "is",
-          "startSec": 14.17,
-          "endSec": 14.45,
-          "score": 1.0
+          "start": 17.16,
+          "end": 17.34
         },
         {
-          "word": "the",
-          "startSec": 14.45,
-          "endSec": 14.63,
-          "score": 1.0
+          "word": "a",
+          "start": 17.34,
+          "end": 17.5
         },
         {
-          "word": "capital",
-          "startSec": 14.63,
-          "endSec": 15.11,
-          "score": 0.97
+          "word": "modern",
+          "start": 17.5,
+          "end": 17.96
         },
         {
-          "word": "of",
-          "startSec": 15.11,
-          "endSec": 15.41,
-          "score": 1.0
+          "word": "and",
+          "start": 17.96,
+          "end": 18.24
         },
         {
-          "word": "Belarus.",
-          "startSec": 15.41,
-          "endSec": 15.69,
-          "score": 0.99
+          "word": "clean",
+          "start": 18.24,
+          "end": 18.62
+        },
+        {
+          "word": "city",
+          "start": 18.62,
+          "end": 19.14
+        },
+        {
+          "word": "with",
+          "start": 19.14,
+          "end": 19.5
+        },
+        {
+          "word": "wide",
+          "start": 19.5,
+          "end": 19.92
+        },
+        {
+          "word": "streets,",
+          "start": 19.92,
+          "end": 20.42
+        },
+        {
+          "word": "parks,",
+          "start": 20.9,
+          "end": 21.44
+        },
+        {
+          "word": "and",
+          "start": 22.02,
+          "end": 22.2
+        },
+        {
+          "word": "cultural",
+          "start": 22.2,
+          "end": 22.8
+        },
+        {
+          "word": "centers.",
+          "start": 22.8,
+          "end": 23.82
         }
       ]
     },
     {
       "id": 6,
-      "start": 16.61,
-      "end": 19.2,
-      "text": "It is a modern and clean city",
+      "start": 24.72,
+      "end": 27.34,
+      "text": "Let's explore Minsk together.",
       "words": [
         {
-          "word": "It",
-          "startSec": 16.81,
-          "endSec": 17.11,
-          "score": 1.0
+          "word": "Let's",
+          "start": 24.72,
+          "end": 25.26
         },
         {
-          "word": "is",
-          "startSec": 17.11,
-          "endSec": 17.27,
-          "score": 1.0
+          "word": "explore",
+          "start": 25.26,
+          "end": 25.76
         },
         {
-          "word": "a",
-          "startSec": 17.27,
-          "endSec": 17.45,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 25.76,
+          "end": 26.48
         },
         {
-          "word": "modern",
-          "startSec": 17.45,
-          "endSec": 17.87,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 17.87,
-          "endSec": 18.17,
-          "score": 0.98
-        },
-        {
-          "word": "clean",
-          "startSec": 18.17,
-          "endSec": 18.49,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 18.49,
-          "endSec": 19.05,
-          "score": 1.0
+          "word": "together.",
+          "start": 26.48,
+          "end": 27.34
         }
       ]
     },
     {
       "id": 7,
-      "start": 18.85,
-      "end": 23.56,
-      "text": "with wide streets, parks, and cultural centers.",
+      "start": 28.3,
+      "end": 32.1,
+      "text": "Part two, where is Minsk?",
       "words": [
         {
-          "word": "with",
-          "startSec": 19.05,
-          "endSec": 19.43,
-          "score": 0.97
+          "word": "Part",
+          "start": 28.3,
+          "end": 29.04
         },
         {
-          "word": "wide",
-          "startSec": 19.43,
-          "endSec": 19.75,
-          "score": 0.93
+          "word": "two,",
+          "start": 29.04,
+          "end": 29.56
         },
         {
-          "word": "streets,",
-          "startSec": 19.75,
-          "endSec": 20.39,
-          "score": 1.0
+          "word": "where",
+          "start": 30.04,
+          "end": 30.64
         },
         {
-          "word": "parks,",
-          "startSec": 20.89,
-          "endSec": 21.17,
-          "score": 1.0
+          "word": "is",
+          "start": 30.64,
+          "end": 30.92
         },
         {
-          "word": "and",
-          "startSec": 22.09,
-          "endSec": 22.15,
-          "score": 1.0
-        },
-        {
-          "word": "cultural",
-          "startSec": 22.15,
-          "endSec": 22.53,
-          "score": 1.0
-        },
-        {
-          "word": "centers.",
-          "startSec": 22.53,
-          "endSec": 23.41,
-          "score": 0.99
+          "word": "Minsk?",
+          "start": 30.92,
+          "end": 32.1
         }
       ]
     },
     {
       "id": 8,
-      "start": 24.32,
-      "end": 27.01,
-      "text": "Let's explore Minsk together.",
+      "start": 32.7,
+      "end": 37.18,
+      "text": "Minsk is in the middle of Belarus in Eastern Europe.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 24.52,
-          "endSec": 25.22,
-          "score": 0.99
-        },
-        {
-          "word": "explore",
-          "startSec": 25.22,
-          "endSec": 25.68,
-          "score": 1.0
-        },
-        {
           "word": "Minsk",
-          "startSec": 25.68,
-          "endSec": 26.32,
-          "score": 0.9
+          "start": 32.7,
+          "end": 33.44
         },
         {
-          "word": "together.",
-          "startSec": 26.32,
-          "endSec": 26.86,
-          "score": 0.99
+          "word": "is",
+          "start": 33.44,
+          "end": 33.62
+        },
+        {
+          "word": "in",
+          "start": 33.62,
+          "end": 33.84
+        },
+        {
+          "word": "the",
+          "start": 33.84,
+          "end": 33.96
+        },
+        {
+          "word": "middle",
+          "start": 33.96,
+          "end": 34.24
+        },
+        {
+          "word": "of",
+          "start": 34.24,
+          "end": 34.48
+        },
+        {
+          "word": "Belarus",
+          "start": 34.48,
+          "end": 34.98
+        },
+        {
+          "word": "in",
+          "start": 34.98,
+          "end": 35.72
+        },
+        {
+          "word": "Eastern",
+          "start": 35.72,
+          "end": 36.2
+        },
+        {
+          "word": "Europe.",
+          "start": 36.2,
+          "end": 37.18
         }
       ]
     },
     {
       "id": 9,
-      "start": 28.13,
-      "end": 31.56,
-      "text": "Part two, where is Minsk?",
+      "start": 37.48,
+      "end": 41.82,
+      "text": "It is far from the sea, but it has rivers and lakes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 28.33,
-          "endSec": 29.01,
-          "score": 0.23
-        },
-        {
-          "word": "two,",
-          "startSec": 29.01,
-          "endSec": 29.53,
-          "score": 0.33
-        },
-        {
-          "word": "where",
-          "startSec": 30.25,
-          "endSec": 30.59,
-          "score": 0.93
+          "word": "It",
+          "start": 37.48,
+          "end": 37.76
         },
         {
           "word": "is",
-          "startSec": 30.59,
-          "endSec": 30.87,
-          "score": 0.99
+          "start": 37.76,
+          "end": 37.96
         },
         {
-          "word": "Minsk?",
-          "startSec": 30.87,
-          "endSec": 31.41,
-          "score": 0.94
+          "word": "far",
+          "start": 37.96,
+          "end": 38.3
+        },
+        {
+          "word": "from",
+          "start": 38.3,
+          "end": 38.6
+        },
+        {
+          "word": "the",
+          "start": 38.6,
+          "end": 38.82
+        },
+        {
+          "word": "sea,",
+          "start": 38.82,
+          "end": 39.22
+        },
+        {
+          "word": "but",
+          "start": 39.6,
+          "end": 39.86
+        },
+        {
+          "word": "it",
+          "start": 39.86,
+          "end": 40.02
+        },
+        {
+          "word": "has",
+          "start": 40.02,
+          "end": 40.24
+        },
+        {
+          "word": "rivers",
+          "start": 40.24,
+          "end": 40.64
+        },
+        {
+          "word": "and",
+          "start": 40.64,
+          "end": 41.06
+        },
+        {
+          "word": "lakes.",
+          "start": 41.06,
+          "end": 41.82
         }
       ]
     },
     {
       "id": 10,
-      "start": 32.64,
-      "end": 36.87,
-      "text": "Minsk is in the middle of Belarus in Eastern Europe.",
+      "start": 42.36,
+      "end": 45.28,
+      "text": "The city is near the Svislak River.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 32.84,
-          "endSec": 33.34,
-          "score": 0.99
+          "word": "The",
+          "start": 42.36,
+          "end": 42.6
+        },
+        {
+          "word": "city",
+          "start": 42.6,
+          "end": 42.96
         },
         {
           "word": "is",
-          "startSec": 33.34,
-          "endSec": 33.56,
-          "score": 1.0
+          "start": 42.96,
+          "end": 43.28
         },
         {
-          "word": "in",
-          "startSec": 33.56,
-          "endSec": 33.78,
-          "score": 1.0
+          "word": "near",
+          "start": 43.28,
+          "end": 43.52
         },
         {
           "word": "the",
-          "startSec": 33.78,
-          "endSec": 33.92,
-          "score": 1.0
+          "start": 43.52,
+          "end": 43.74
         },
         {
-          "word": "middle",
-          "startSec": 33.92,
-          "endSec": 34.2,
-          "score": 0.98
+          "word": "Svislak",
+          "start": 43.74,
+          "end": 44.42
         },
         {
-          "word": "of",
-          "startSec": 34.2,
-          "endSec": 34.44,
-          "score": 1.0
-        },
-        {
-          "word": "Belarus",
-          "startSec": 34.44,
-          "endSec": 34.72,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 34.72,
-          "endSec": 35.62,
-          "score": 0.63
-        },
-        {
-          "word": "Eastern",
-          "startSec": 35.62,
-          "endSec": 35.96,
-          "score": 0.81
-        },
-        {
-          "word": "Europe.",
-          "startSec": 35.96,
-          "endSec": 36.72,
-          "score": 1.0
+          "word": "River.",
+          "start": 44.42,
+          "end": 45.28
         }
       ]
     },
     {
       "id": 11,
-      "start": 37.31,
-      "end": 41.5,
-      "text": "It is far from the sea, but it has rivers and lakes.",
+      "start": 45.64,
+      "end": 48.9,
+      "text": "Minsk is the largest city in Belarus.",
       "words": [
         {
-          "word": "It",
-          "startSec": 37.51,
-          "endSec": 37.73,
-          "score": 0.99
+          "word": "Minsk",
+          "start": 45.64,
+          "end": 46.26
         },
         {
           "word": "is",
-          "startSec": 37.73,
-          "endSec": 37.91,
-          "score": 1.0
-        },
-        {
-          "word": "far",
-          "startSec": 37.91,
-          "endSec": 38.17,
-          "score": 1.0
-        },
-        {
-          "word": "from",
-          "startSec": 38.17,
-          "endSec": 38.55,
-          "score": 1.0
+          "start": 46.26,
+          "end": 46.42
         },
         {
           "word": "the",
-          "startSec": 38.55,
-          "endSec": 38.75,
-          "score": 1.0
+          "start": 46.42,
+          "end": 46.62
         },
         {
-          "word": "sea,",
-          "startSec": 38.75,
-          "endSec": 39.07,
-          "score": 0.98
+          "word": "largest",
+          "start": 46.62,
+          "end": 47.16
         },
         {
-          "word": "but",
-          "startSec": 39.67,
-          "endSec": 39.79,
-          "score": 1.0
+          "word": "city",
+          "start": 47.16,
+          "end": 47.66
         },
         {
-          "word": "it",
-          "startSec": 39.79,
-          "endSec": 39.95,
-          "score": 0.99
+          "word": "in",
+          "start": 47.66,
+          "end": 47.94
         },
         {
-          "word": "has",
-          "startSec": 39.95,
-          "endSec": 40.17,
-          "score": 1.0
-        },
-        {
-          "word": "rivers",
-          "startSec": 40.17,
-          "endSec": 40.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 40.47,
-          "endSec": 40.99,
-          "score": 0.99
-        },
-        {
-          "word": "lakes.",
-          "startSec": 40.99,
-          "endSec": 41.35,
-          "score": 1.0
+          "word": "Belarus.",
+          "start": 47.94,
+          "end": 48.9
         }
       ]
     },
     {
       "id": 12,
-      "start": 42.25,
-      "end": 44.88,
-      "text": "The city is near the Spislock River.",
+      "start": 49.62,
+      "end": 55.14,
+      "text": "It is also the main center for business, culture, and education.",
       "words": [
         {
-          "word": "The",
-          "startSec": 42.45,
-          "endSec": 42.55,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 42.55,
-          "endSec": 42.85,
-          "score": 0.99
+          "word": "It",
+          "start": 49.62,
+          "end": 49.88
         },
         {
           "word": "is",
-          "startSec": 42.85,
-          "endSec": 43.21,
-          "score": 1.0
+          "start": 49.88,
+          "end": 50.08
         },
         {
-          "word": "near",
-          "startSec": 43.21,
-          "endSec": 43.49,
-          "score": 1.0
+          "word": "also",
+          "start": 50.08,
+          "end": 50.52
         },
         {
           "word": "the",
-          "startSec": 43.49,
-          "endSec": 43.69,
-          "score": 1.0
+          "start": 50.52,
+          "end": 50.8
         },
         {
-          "word": "Spislock",
-          "startSec": 43.69,
-          "endSec": 44.33,
-          "score": 0.23
+          "word": "main",
+          "start": 50.8,
+          "end": 51.16
         },
         {
-          "word": "River.",
-          "startSec": 44.33,
-          "endSec": 44.73,
-          "score": 0.96
+          "word": "center",
+          "start": 51.16,
+          "end": 51.66
+        },
+        {
+          "word": "for",
+          "start": 51.66,
+          "end": 51.96
+        },
+        {
+          "word": "business,",
+          "start": 51.96,
+          "end": 52.52
+        },
+        {
+          "word": "culture,",
+          "start": 53.14,
+          "end": 53.5
+        },
+        {
+          "word": "and",
+          "start": 53.78,
+          "end": 53.92
+        },
+        {
+          "word": "education.",
+          "start": 53.92,
+          "end": 55.14
         }
       ]
     },
     {
       "id": 13,
-      "start": 45.41,
-      "end": 48.42,
-      "text": "Minsk is the largest city in Belarus.",
+      "start": 55.74,
+      "end": 60.4,
+      "text": "Part three, a short history of Minsk.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 45.61,
-          "endSec": 46.13,
-          "score": 0.99
+          "word": "Part",
+          "start": 55.74,
+          "end": 56.38
         },
         {
-          "word": "is",
-          "startSec": 46.13,
-          "endSec": 46.35,
-          "score": 1.0
+          "word": "three,",
+          "start": 56.38,
+          "end": 56.98
         },
         {
-          "word": "the",
-          "startSec": 46.35,
-          "endSec": 46.55,
-          "score": 1.0
+          "word": "a",
+          "start": 57.64,
+          "end": 57.92
         },
         {
-          "word": "largest",
-          "startSec": 46.55,
-          "endSec": 47.01,
-          "score": 1.0
+          "word": "short",
+          "start": 57.92,
+          "end": 58.36
         },
         {
-          "word": "city",
-          "startSec": 47.01,
-          "endSec": 47.65,
-          "score": 1.0
+          "word": "history",
+          "start": 58.36,
+          "end": 58.92
         },
         {
-          "word": "in",
-          "startSec": 47.65,
-          "endSec": 47.89,
-          "score": 1.0
+          "word": "of",
+          "start": 58.92,
+          "end": 59.24
         },
         {
-          "word": "Belarus.",
-          "startSec": 47.89,
-          "endSec": 48.27,
-          "score": 1.0
+          "word": "Minsk.",
+          "start": 59.24,
+          "end": 60.4
         }
       ]
     },
     {
       "id": 14,
-      "start": 49.35,
-      "end": 54.44,
-      "text": "It is also the main center for business, culture, and education.",
+      "start": 60.7,
+      "end": 63.46,
+      "text": "Minsk has a long history.",
       "words": [
         {
-          "word": "It",
-          "startSec": 49.55,
-          "endSec": 49.83,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 60.7,
+          "end": 61.62
         },
         {
-          "word": "is",
-          "startSec": 49.83,
-          "endSec": 49.99,
-          "score": 1.0
+          "word": "has",
+          "start": 61.62,
+          "end": 61.84
         },
         {
-          "word": "also",
-          "startSec": 49.99,
-          "endSec": 50.51,
-          "score": 1.0
+          "word": "a",
+          "start": 61.84,
+          "end": 62.04
         },
         {
-          "word": "the",
-          "startSec": 50.51,
-          "endSec": 50.77,
-          "score": 1.0
+          "word": "long",
+          "start": 62.04,
+          "end": 62.4
         },
         {
-          "word": "main",
-          "startSec": 50.77,
-          "endSec": 51.01,
-          "score": 0.95
-        },
-        {
-          "word": "center",
-          "startSec": 51.01,
-          "endSec": 51.63,
-          "score": 0.95
-        },
-        {
-          "word": "for",
-          "startSec": 51.63,
-          "endSec": 51.93,
-          "score": 1.0
-        },
-        {
-          "word": "business,",
-          "startSec": 51.93,
-          "endSec": 52.39,
-          "score": 0.99
-        },
-        {
-          "word": "culture,",
-          "startSec": 52.97,
-          "endSec": 53.23,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 53.77,
-          "endSec": 53.87,
-          "score": 1.0
-        },
-        {
-          "word": "education.",
-          "startSec": 53.87,
-          "endSec": 54.29,
-          "score": 1.0
+          "word": "history.",
+          "start": 62.4,
+          "end": 63.46
         }
       ]
     },
     {
       "id": 15,
-      "start": 55.47,
-      "end": 59.86,
-      "text": "Part three, a short history of Minsk.",
+      "start": 64.02,
+      "end": 68.18,
+      "text": "It was first mentioned more than 900 years ago.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 55.67,
-          "endSec": 56.31,
-          "score": 0.73
+          "word": "It",
+          "start": 64.02,
+          "end": 64.22
         },
         {
-          "word": "three,",
-          "startSec": 56.31,
-          "endSec": 56.95,
-          "score": 0.2
+          "word": "was",
+          "start": 64.22,
+          "end": 64.42
         },
         {
-          "word": "a",
-          "startSec": 57.61,
-          "endSec": 57.89,
-          "score": 0.72
+          "word": "first",
+          "start": 64.42,
+          "end": 64.8
         },
         {
-          "word": "short",
-          "startSec": 57.89,
-          "endSec": 58.25,
-          "score": 0.95
+          "word": "mentioned",
+          "start": 64.8,
+          "end": 65.4
         },
         {
-          "word": "history",
-          "startSec": 58.25,
-          "endSec": 58.71,
-          "score": 0.97
+          "word": "more",
+          "start": 65.4,
+          "end": 65.72
         },
         {
-          "word": "of",
-          "startSec": 58.71,
-          "endSec": 59.21,
-          "score": 1.0
+          "word": "than",
+          "start": 65.72,
+          "end": 66.0
         },
         {
-          "word": "Minsk.",
-          "startSec": 59.21,
-          "endSec": 59.71,
-          "score": 0.83
+          "word": "900",
+          "start": 66.0,
+          "end": 66.56
+        },
+        {
+          "word": "years",
+          "start": 66.56,
+          "end": 67.22
+        },
+        {
+          "word": "ago.",
+          "start": 67.22,
+          "end": 68.18
         }
       ]
     },
     {
       "id": 16,
-      "start": 60.77,
-      "end": 63.04,
-      "text": "Minsk has a long history.",
+      "start": 68.66,
+      "end": 73.06,
+      "text": "In the past, it was part of different states and empires.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 60.97,
-          "endSec": 61.53,
-          "score": 0.99
+          "word": "In",
+          "start": 68.66,
+          "end": 69.12
         },
         {
-          "word": "has",
-          "startSec": 61.53,
-          "endSec": 61.79,
-          "score": 1.0
+          "word": "the",
+          "start": 69.12,
+          "end": 69.3
         },
         {
-          "word": "a",
-          "startSec": 61.79,
-          "endSec": 61.99,
-          "score": 1.0
+          "word": "past,",
+          "start": 69.3,
+          "end": 69.74
         },
         {
-          "word": "long",
-          "startSec": 61.99,
-          "endSec": 62.25,
-          "score": 1.0
+          "word": "it",
+          "start": 69.96,
+          "end": 70.08
         },
         {
-          "word": "history.",
-          "startSec": 62.25,
-          "endSec": 62.89,
-          "score": 1.0
+          "word": "was",
+          "start": 70.08,
+          "end": 70.24
+        },
+        {
+          "word": "part",
+          "start": 70.24,
+          "end": 70.56
+        },
+        {
+          "word": "of",
+          "start": 70.56,
+          "end": 70.74
+        },
+        {
+          "word": "different",
+          "start": 70.74,
+          "end": 71.1
+        },
+        {
+          "word": "states",
+          "start": 71.1,
+          "end": 71.56
+        },
+        {
+          "word": "and",
+          "start": 71.56,
+          "end": 71.88
+        },
+        {
+          "word": "empires.",
+          "start": 71.88,
+          "end": 73.06
         }
       ]
     },
     {
       "id": 17,
-      "start": 63.81,
-      "end": 67.82,
-      "text": "It was first mentioned more than 900 years ago.",
+      "start": 73.5,
+      "end": 77.62,
+      "text": "The city was rebuilt many times after wars.",
       "words": [
         {
-          "word": "It",
-          "startSec": 64.01,
-          "endSec": 64.17,
-          "score": 1.0
+          "word": "The",
+          "start": 73.5,
+          "end": 73.68
+        },
+        {
+          "word": "city",
+          "start": 73.68,
+          "end": 74.02
         },
         {
           "word": "was",
-          "startSec": 64.17,
-          "endSec": 64.33,
-          "score": 1.0
+          "start": 74.02,
+          "end": 74.36
         },
         {
-          "word": "first",
-          "startSec": 64.33,
-          "endSec": 64.67,
-          "score": 0.99
+          "word": "rebuilt",
+          "start": 74.36,
+          "end": 74.9
         },
         {
-          "word": "mentioned",
-          "startSec": 64.67,
-          "endSec": 65.13,
-          "score": 0.99
+          "word": "many",
+          "start": 74.9,
+          "end": 75.5
         },
         {
-          "word": "more",
-          "startSec": 65.13,
-          "endSec": 65.67,
-          "score": 0.99
+          "word": "times",
+          "start": 75.5,
+          "end": 76.2
         },
         {
-          "word": "than",
-          "startSec": 65.67,
-          "endSec": 65.91,
-          "score": 1.0
+          "word": "after",
+          "start": 76.2,
+          "end": 76.7
         },
         {
-          "word": "900",
-          "startSec": 65.91,
-          "endSec": 66.39,
-          "score": 0.97
-        },
-        {
-          "word": "years",
-          "startSec": 66.39,
-          "endSec": 67.17,
-          "score": 1.0
-        },
-        {
-          "word": "ago.",
-          "startSec": 67.17,
-          "endSec": 67.67,
-          "score": 1.0
+          "word": "wars.",
+          "start": 76.7,
+          "end": 77.62
         }
       ]
     },
     {
       "id": 18,
-      "start": 68.53,
-      "end": 72.44,
-      "text": "In the past, it was part of different states and empires.",
+      "start": 78.24,
+      "end": 83.04,
+      "text": "Today, Minsk is modern but still has historical monuments.",
       "words": [
         {
-          "word": "In",
-          "startSec": 68.73,
-          "endSec": 69.07,
-          "score": 1.0
+          "word": "Today,",
+          "start": 78.24,
+          "end": 78.62
         },
         {
-          "word": "the",
-          "startSec": 69.07,
-          "endSec": 69.25,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 79.1,
+          "end": 79.46
         },
         {
-          "word": "past,",
-          "startSec": 69.25,
-          "endSec": 69.69,
-          "score": 1.0
+          "word": "is",
+          "start": 79.46,
+          "end": 79.62
         },
         {
-          "word": "it",
-          "startSec": 69.83,
-          "endSec": 70.05,
-          "score": 1.0
+          "word": "modern",
+          "start": 79.62,
+          "end": 80.18
         },
         {
-          "word": "was",
-          "startSec": 70.05,
-          "endSec": 70.17,
-          "score": 1.0
+          "word": "but",
+          "start": 80.18,
+          "end": 80.48
         },
         {
-          "word": "part",
-          "startSec": 70.17,
-          "endSec": 70.47,
-          "score": 0.99
+          "word": "still",
+          "start": 80.48,
+          "end": 80.98
         },
         {
-          "word": "of",
-          "startSec": 70.47,
-          "endSec": 70.69,
-          "score": 1.0
+          "word": "has",
+          "start": 80.98,
+          "end": 81.28
         },
         {
-          "word": "different",
-          "startSec": 70.69,
-          "endSec": 71.03,
-          "score": 1.0
+          "word": "historical",
+          "start": 81.28,
+          "end": 81.9
         },
         {
-          "word": "states",
-          "startSec": 71.03,
-          "endSec": 71.47,
-          "score": 0.92
-        },
-        {
-          "word": "and",
-          "startSec": 71.47,
-          "endSec": 71.83,
-          "score": 1.0
-        },
-        {
-          "word": "empires.",
-          "startSec": 71.83,
-          "endSec": 72.29,
-          "score": 1.0
+          "word": "monuments.",
+          "start": 81.9,
+          "end": 83.04
         }
       ]
     },
     {
       "id": 19,
-      "start": 73.31,
-      "end": 77.24,
-      "text": "The city was rebuilt many times after wars.",
+      "start": 83.64,
+      "end": 87.94,
+      "text": "Part four, what does Minsk look like?",
       "words": [
         {
-          "word": "The",
-          "startSec": 73.51,
-          "endSec": 73.65,
-          "score": 1.0
+          "word": "Part",
+          "start": 83.64,
+          "end": 84.38
         },
         {
-          "word": "city",
-          "startSec": 73.65,
-          "endSec": 73.95,
-          "score": 0.99
+          "word": "four,",
+          "start": 84.38,
+          "end": 85.02
         },
         {
-          "word": "was",
-          "startSec": 73.95,
-          "endSec": 74.29,
-          "score": 0.99
+          "word": "what",
+          "start": 85.66,
+          "end": 86.06
         },
         {
-          "word": "rebuilt",
-          "startSec": 74.29,
-          "endSec": 74.93,
-          "score": 1.0
+          "word": "does",
+          "start": 86.06,
+          "end": 86.34
         },
         {
-          "word": "many",
-          "startSec": 74.93,
-          "endSec": 75.35,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 86.34,
+          "end": 86.88
         },
         {
-          "word": "times",
-          "startSec": 75.35,
-          "endSec": 75.99,
-          "score": 1.0
+          "word": "look",
+          "start": 86.88,
+          "end": 87.1
         },
         {
-          "word": "after",
-          "startSec": 75.99,
-          "endSec": 76.67,
-          "score": 1.0
-        },
-        {
-          "word": "wars.",
-          "startSec": 76.67,
-          "endSec": 77.09,
-          "score": 0.97
+          "word": "like?",
+          "start": 87.1,
+          "end": 87.94
         }
       ]
     },
     {
       "id": 20,
-      "start": 77.97,
-      "end": 82.46,
-      "text": "Today, Minsk is modern, but still has historical monuments.",
+      "start": 88.5,
+      "end": 94.08,
+      "text": "Minsk has wide streets, large squares, and tall buildings.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 78.17,
-          "endSec": 78.59,
-          "score": 1.0
-        },
-        {
           "word": "Minsk",
-          "startSec": 78.99,
-          "endSec": 79.35,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 79.35,
-          "endSec": 79.55,
-          "score": 1.0
-        },
-        {
-          "word": "modern,",
-          "startSec": 79.55,
-          "endSec": 80.01,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 80.39,
-          "endSec": 80.49,
-          "score": 1.0
-        },
-        {
-          "word": "still",
-          "startSec": 80.49,
-          "endSec": 80.83,
-          "score": 1.0
+          "start": 88.5,
+          "end": 89.28
         },
         {
           "word": "has",
-          "startSec": 80.83,
-          "endSec": 81.25,
-          "score": 1.0
+          "start": 89.28,
+          "end": 89.52
         },
         {
-          "word": "historical",
-          "startSec": 81.25,
-          "endSec": 81.71,
-          "score": 1.0
+          "word": "wide",
+          "start": 89.52,
+          "end": 89.9
         },
         {
-          "word": "monuments.",
-          "startSec": 81.71,
-          "endSec": 82.31,
-          "score": 1.0
+          "word": "streets,",
+          "start": 89.9,
+          "end": 90.46
+        },
+        {
+          "word": "large",
+          "start": 91.0,
+          "end": 91.44
+        },
+        {
+          "word": "squares,",
+          "start": 91.44,
+          "end": 92.04
+        },
+        {
+          "word": "and",
+          "start": 92.6,
+          "end": 92.82
+        },
+        {
+          "word": "tall",
+          "start": 92.82,
+          "end": 93.18
+        },
+        {
+          "word": "buildings.",
+          "start": 93.18,
+          "end": 94.08
         }
       ]
     },
     {
       "id": 21,
-      "start": 83.46,
-      "end": 87.65,
-      "text": "Part four, what does Minsk look like?",
+      "start": 94.4,
+      "end": 97.04,
+      "text": "There are many parks and green spaces.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 83.66,
-          "endSec": 84.3,
-          "score": 0.1
+          "word": "There",
+          "start": 94.4,
+          "end": 94.7
         },
         {
-          "word": "four,",
-          "startSec": 84.3,
-          "endSec": 84.88,
-          "score": 0.29
+          "word": "are",
+          "start": 94.7,
+          "end": 94.88
         },
         {
-          "word": "what",
-          "startSec": 86.02,
-          "endSec": 86.02,
-          "score": 0.91
+          "word": "many",
+          "start": 94.88,
+          "end": 95.2
         },
         {
-          "word": "does",
-          "startSec": 86.02,
-          "endSec": 86.26,
-          "score": 0.97
+          "word": "parks",
+          "start": 95.2,
+          "end": 95.68
         },
         {
-          "word": "Minsk",
-          "startSec": 86.26,
-          "endSec": 86.68,
-          "score": 0.86
+          "word": "and",
+          "start": 95.68,
+          "end": 95.98
         },
         {
-          "word": "look",
-          "startSec": 86.68,
-          "endSec": 87.02,
-          "score": 0.98
+          "word": "green",
+          "start": 95.98,
+          "end": 96.22
         },
         {
-          "word": "like?",
-          "startSec": 87.02,
-          "endSec": 87.5,
-          "score": 1.0
+          "word": "spaces.",
+          "start": 96.22,
+          "end": 97.04
         }
       ]
     },
     {
       "id": 22,
-      "start": 88.3,
-      "end": 93.83,
-      "text": "Minsk has wide streets, large squares, and tall buildings.",
+      "start": 97.94,
+      "end": 103.68,
+      "text": "The city center has government buildings, museums, and theaters.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 88.5,
-          "endSec": 89.16,
-          "score": 0.97
+          "word": "The",
+          "start": 97.94,
+          "end": 98.46
+        },
+        {
+          "word": "city",
+          "start": 98.46,
+          "end": 98.8
+        },
+        {
+          "word": "center",
+          "start": 98.8,
+          "end": 99.32
         },
         {
           "word": "has",
-          "startSec": 89.16,
-          "endSec": 89.42,
-          "score": 1.0
+          "start": 99.32,
+          "end": 99.8
         },
         {
-          "word": "wide",
-          "startSec": 89.42,
-          "endSec": 89.74,
-          "score": 0.95
+          "word": "government",
+          "start": 99.8,
+          "end": 100.38
         },
         {
-          "word": "streets,",
-          "startSec": 89.74,
-          "endSec": 90.4,
-          "score": 0.98
+          "word": "buildings,",
+          "start": 100.38,
+          "end": 100.94
         },
         {
-          "word": "large",
-          "startSec": 91.0,
-          "endSec": 91.24,
-          "score": 1.0
-        },
-        {
-          "word": "squares,",
-          "startSec": 91.24,
-          "endSec": 91.84,
-          "score": 0.99
+          "word": "museums,",
+          "start": 101.58,
+          "end": 102.22
         },
         {
           "word": "and",
-          "startSec": 92.64,
-          "endSec": 92.76,
-          "score": 1.0
+          "start": 102.76,
+          "end": 102.9
         },
         {
-          "word": "tall",
-          "startSec": 92.76,
-          "endSec": 93.08,
-          "score": 1.0
-        },
-        {
-          "word": "buildings.",
-          "startSec": 93.08,
-          "endSec": 93.68,
-          "score": 1.0
+          "word": "theaters.",
+          "start": 102.9,
+          "end": 103.68
         }
       ]
     },
     {
       "id": 23,
-      "start": 94.26,
-      "end": 96.89,
-      "text": "There are many parks and green spaces.",
-      "words": [
-        {
-          "word": "There",
-          "startSec": 94.46,
-          "endSec": 94.66,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 94.66,
-          "endSec": 94.82,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 94.82,
-          "endSec": 95.08,
-          "score": 1.0
-        },
-        {
-          "word": "parks",
-          "startSec": 95.08,
-          "endSec": 95.54,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 95.54,
-          "endSec": 95.92,
-          "score": 0.99
-        },
-        {
-          "word": "green",
-          "startSec": 95.92,
-          "endSec": 96.14,
-          "score": 0.91
-        },
-        {
-          "word": "spaces.",
-          "startSec": 96.14,
-          "endSec": 96.74,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "start": 98.0,
-      "end": 101.07,
-      "text": "The city center has government buildings,",
-      "words": [
-        {
-          "word": "The",
-          "startSec": 98.2,
-          "endSec": 98.42,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 98.42,
-          "endSec": 98.68,
-          "score": 0.54
-        },
-        {
-          "word": "center",
-          "startSec": 98.68,
-          "endSec": 99.3,
-          "score": 0.96
-        },
-        {
-          "word": "has",
-          "startSec": 99.3,
-          "endSec": 99.74,
-          "score": 1.0
-        },
-        {
-          "word": "government",
-          "startSec": 99.74,
-          "endSec": 100.2,
-          "score": 0.99
-        },
-        {
-          "word": "buildings,",
-          "startSec": 100.2,
-          "endSec": 100.92,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "start": 100.92,
-      "end": 103.25,
-      "text": "museums, and theaters.",
-      "words": [
-        {
-          "word": "museums,",
-          "startSec": 101.12,
-          "endSec": 102.0,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 102.78,
-          "endSec": 102.82,
-          "score": 1.0
-        },
-        {
-          "word": "theaters.",
-          "startSec": 102.82,
-          "endSec": 103.1,
-          "score": 0.95
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "start": 104.65,
+      "start": 104.26,
       "end": 109.12,
       "text": "Minsk is clean, safe, and easy to walk around.",
       "words": [
         {
           "word": "Minsk",
-          "startSec": 104.85,
-          "endSec": 105.09,
-          "score": 0.99
+          "start": 104.26,
+          "end": 105.22
         },
         {
           "word": "is",
-          "startSec": 105.09,
-          "endSec": 105.31,
-          "score": 1.0
+          "start": 105.22,
+          "end": 105.42
         },
         {
           "word": "clean,",
-          "startSec": 105.31,
-          "endSec": 105.77,
-          "score": 1.0
+          "start": 105.42,
+          "end": 106.0
         },
         {
           "word": "safe,",
-          "startSec": 106.41,
-          "endSec": 106.87,
-          "score": 1.0
+          "start": 106.5,
+          "end": 107.02
         },
         {
           "word": "and",
-          "startSec": 107.45,
-          "endSec": 107.51,
-          "score": 1.0
+          "start": 107.44,
+          "end": 107.58
         },
         {
           "word": "easy",
-          "startSec": 107.51,
-          "endSec": 107.83,
-          "score": 1.0
+          "start": 107.58,
+          "end": 108.02
         },
         {
           "word": "to",
-          "startSec": 107.83,
-          "endSec": 108.21,
-          "score": 1.0
+          "start": 108.02,
+          "end": 108.24
         },
         {
           "word": "walk",
-          "startSec": 108.21,
-          "endSec": 108.47,
-          "score": 1.0
+          "start": 108.24,
+          "end": 108.52
         },
         {
           "word": "around.",
-          "startSec": 108.47,
-          "endSec": 108.97,
-          "score": 1.0
+          "start": 108.52,
+          "end": 109.12
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 109.12,
+      "end": 115.94,
+      "text": "You can also see old churches and cathedrals in some parts of the city.",
+      "words": [
+        {
+          "word": "You",
+          "start": 109.12,
+          "end": 110.22
+        },
+        {
+          "word": "can",
+          "start": 110.22,
+          "end": 110.42
+        },
+        {
+          "word": "also",
+          "start": 110.42,
+          "end": 110.86
+        },
+        {
+          "word": "see",
+          "start": 110.86,
+          "end": 111.26
+        },
+        {
+          "word": "old",
+          "start": 111.26,
+          "end": 111.7
+        },
+        {
+          "word": "churches",
+          "start": 111.7,
+          "end": 112.26
+        },
+        {
+          "word": "and",
+          "start": 112.26,
+          "end": 112.78
+        },
+        {
+          "word": "cathedrals",
+          "start": 112.78,
+          "end": 113.62
+        },
+        {
+          "word": "in",
+          "start": 113.62,
+          "end": 114.12
+        },
+        {
+          "word": "some",
+          "start": 114.12,
+          "end": 114.34
+        },
+        {
+          "word": "parts",
+          "start": 114.34,
+          "end": 114.82
+        },
+        {
+          "word": "of",
+          "start": 114.82,
+          "end": 115.02
+        },
+        {
+          "word": "the",
+          "start": 115.02,
+          "end": 115.16
+        },
+        {
+          "word": "city.",
+          "start": 115.16,
+          "end": 115.94
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 116.74,
+      "end": 121.68,
+      "text": "Part five, famous places to visit.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 116.74,
+          "end": 117.74
+        },
+        {
+          "word": "five,",
+          "start": 117.74,
+          "end": 118.28
+        },
+        {
+          "word": "famous",
+          "start": 118.96,
+          "end": 119.68
+        },
+        {
+          "word": "places",
+          "start": 119.68,
+          "end": 120.34
+        },
+        {
+          "word": "to",
+          "start": 120.34,
+          "end": 120.78
+        },
+        {
+          "word": "visit.",
+          "start": 120.78,
+          "end": 121.68
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 122.06,
+      "end": 125.52,
+      "text": "There are many interesting places in Minsk.",
+      "words": [
+        {
+          "word": "There",
+          "start": 122.06,
+          "end": 122.36
+        },
+        {
+          "word": "are",
+          "start": 122.36,
+          "end": 122.52
+        },
+        {
+          "word": "many",
+          "start": 122.52,
+          "end": 122.88
+        },
+        {
+          "word": "interesting",
+          "start": 122.88,
+          "end": 123.56
+        },
+        {
+          "word": "places",
+          "start": 123.56,
+          "end": 124.16
+        },
+        {
+          "word": "in",
+          "start": 124.16,
+          "end": 124.54
+        },
+        {
+          "word": "Minsk.",
+          "start": 124.54,
+          "end": 125.52
         }
       ]
     },
     {
       "id": 27,
-      "start": 109.53,
-      "end": 113.76,
-      "text": "You can also see old churches and cathedrals",
+      "start": 125.74,
+      "end": 130.9,
+      "text": "Independence Square, one of the largest squares in Europe.",
       "words": [
         {
-          "word": "You",
-          "startSec": 109.73,
-          "endSec": 110.19,
-          "score": 0.62
+          "word": "Independence",
+          "start": 125.74,
+          "end": 126.54
         },
         {
-          "word": "can",
-          "startSec": 110.19,
-          "endSec": 110.37,
-          "score": 0.99
+          "word": "Square,",
+          "start": 126.54,
+          "end": 127.28
         },
         {
-          "word": "also",
-          "startSec": 110.37,
-          "endSec": 110.63,
-          "score": 0.99
+          "word": "one",
+          "start": 128.02,
+          "end": 128.28
         },
         {
-          "word": "see",
-          "startSec": 110.63,
-          "endSec": 111.21,
-          "score": 1.0
+          "word": "of",
+          "start": 128.28,
+          "end": 128.48
         },
         {
-          "word": "old",
-          "startSec": 111.21,
-          "endSec": 111.59,
-          "score": 0.98
+          "word": "the",
+          "start": 128.48,
+          "end": 128.64
         },
         {
-          "word": "churches",
-          "startSec": 111.59,
-          "endSec": 111.99,
-          "score": 0.99
+          "word": "largest",
+          "start": 128.64,
+          "end": 129.12
         },
         {
-          "word": "and",
-          "startSec": 111.99,
-          "endSec": 112.73,
-          "score": 0.99
+          "word": "squares",
+          "start": 129.12,
+          "end": 129.66
         },
         {
-          "word": "cathedrals",
-          "startSec": 112.73,
-          "endSec": 113.61,
-          "score": 0.99
+          "word": "in",
+          "start": 129.66,
+          "end": 130.08
+        },
+        {
+          "word": "Europe.",
+          "start": 130.08,
+          "end": 130.9
         }
       ]
     },
     {
       "id": 28,
-      "start": 113.41,
-      "end": 115.62,
-      "text": "in some parts of the city.",
+      "start": 131.36,
+      "end": 136.82,
+      "text": "Victory Square, a monument for heroes of the Second World War.",
       "words": [
         {
-          "word": "in",
-          "startSec": 113.61,
-          "endSec": 114.03,
-          "score": 0.94
+          "word": "Victory",
+          "start": 131.36,
+          "end": 131.9
         },
         {
-          "word": "some",
-          "startSec": 114.03,
-          "endSec": 114.27,
-          "score": 0.99
+          "word": "Square,",
+          "start": 131.9,
+          "end": 132.54
         },
         {
-          "word": "parts",
-          "startSec": 114.27,
-          "endSec": 114.67,
-          "score": 0.99
+          "word": "a",
+          "start": 133.22,
+          "end": 133.36
+        },
+        {
+          "word": "monument",
+          "start": 133.36,
+          "end": 133.82
+        },
+        {
+          "word": "for",
+          "start": 133.82,
+          "end": 134.34
+        },
+        {
+          "word": "heroes",
+          "start": 134.34,
+          "end": 134.96
         },
         {
           "word": "of",
-          "startSec": 114.67,
-          "endSec": 114.97,
-          "score": 1.0
+          "start": 134.96,
+          "end": 135.4
         },
         {
           "word": "the",
-          "startSec": 114.97,
-          "endSec": 115.13,
-          "score": 0.99
+          "start": 135.4,
+          "end": 135.56
         },
         {
-          "word": "city.",
-          "startSec": 115.13,
-          "endSec": 115.47,
-          "score": 0.97
+          "word": "Second",
+          "start": 135.56,
+          "end": 135.92
+        },
+        {
+          "word": "World",
+          "start": 135.92,
+          "end": 136.3
+        },
+        {
+          "word": "War.",
+          "start": 136.3,
+          "end": 136.82
         }
       ]
     },
     {
       "id": 29,
-      "start": 117.28,
-      "end": 121.23,
-      "text": "Part five, famous places to visit.",
+      "start": 136.82,
+      "end": 140.76,
+      "text": "Minsk Hero City, obelisk.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 117.48,
-          "endSec": 117.62,
-          "score": 0.73
+          "word": "Minsk",
+          "start": 136.82,
+          "end": 138.34
         },
         {
-          "word": "five,",
-          "startSec": 117.62,
-          "endSec": 118.38,
-          "score": 0.18
+          "word": "Hero",
+          "start": 138.34,
+          "end": 138.84
         },
         {
-          "word": "famous",
-          "startSec": 118.78,
-          "endSec": 119.7,
-          "score": 0.88
+          "word": "City,",
+          "start": 138.84,
+          "end": 139.34
         },
         {
-          "word": "places",
-          "startSec": 119.7,
-          "endSec": 120.18,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 120.18,
-          "endSec": 120.74,
-          "score": 1.0
-        },
-        {
-          "word": "visit.",
-          "startSec": 120.74,
-          "endSec": 121.08,
-          "score": 1.0
+          "word": "obelisk.",
+          "start": 139.54,
+          "end": 140.76
         }
       ]
     },
     {
       "id": 30,
-      "start": 121.92,
-      "end": 125.11,
-      "text": "There are many interesting places in Minsk.",
+      "start": 141.02,
+      "end": 143.84,
+      "text": "A famous historical monument.",
       "words": [
         {
-          "word": "There",
-          "startSec": 122.12,
-          "endSec": 122.3,
-          "score": 0.99
+          "word": "A",
+          "start": 141.02,
+          "end": 141.3
         },
         {
-          "word": "are",
-          "startSec": 122.3,
-          "endSec": 122.48,
-          "score": 1.0
+          "word": "famous",
+          "start": 141.3,
+          "end": 141.78
         },
         {
-          "word": "many",
-          "startSec": 122.48,
-          "endSec": 122.76,
-          "score": 1.0
+          "word": "historical",
+          "start": 141.78,
+          "end": 142.54
         },
         {
-          "word": "interesting",
-          "startSec": 122.76,
-          "endSec": 123.34,
-          "score": 1.0
-        },
-        {
-          "word": "places",
-          "startSec": 123.34,
-          "endSec": 124.14,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 124.14,
-          "endSec": 124.48,
-          "score": 1.0
-        },
-        {
-          "word": "Minsk.",
-          "startSec": 124.48,
-          "endSec": 124.96,
-          "score": 0.91
+          "word": "monument.",
+          "start": 142.54,
+          "end": 143.84
         }
       ]
     },
     {
       "id": 31,
-      "start": 125.74,
-      "end": 130.55,
-      "text": "Independent Square, one of the largest squares in Europe.",
+      "start": 144.14,
+      "end": 146.76,
+      "text": "National Library of Belarus.",
       "words": [
         {
-          "word": "Independent",
-          "startSec": 125.94,
-          "endSec": 126.52,
-          "score": 0.7
+          "word": "National",
+          "start": 144.14,
+          "end": 144.9
         },
         {
-          "word": "Square,",
-          "startSec": 126.52,
-          "endSec": 127.14,
-          "score": 0.88
-        },
-        {
-          "word": "one",
-          "startSec": 127.96,
-          "endSec": 128.22,
-          "score": 0.99
+          "word": "Library",
+          "start": 144.9,
+          "end": 145.56
         },
         {
           "word": "of",
-          "startSec": 128.22,
-          "endSec": 128.42,
-          "score": 1.0
+          "start": 145.56,
+          "end": 145.84
         },
         {
-          "word": "the",
-          "startSec": 128.42,
-          "endSec": 128.56,
-          "score": 1.0
-        },
-        {
-          "word": "largest",
-          "startSec": 128.56,
-          "endSec": 129.04,
-          "score": 1.0
-        },
-        {
-          "word": "squares",
-          "startSec": 129.04,
-          "endSec": 129.6,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 129.6,
-          "endSec": 130.0,
-          "score": 1.0
-        },
-        {
-          "word": "Europe.",
-          "startSec": 130.0,
-          "endSec": 130.4,
-          "score": 1.0
+          "word": "Belarus.",
+          "start": 145.84,
+          "end": 146.76
         }
       ]
     },
     {
       "id": 32,
-      "start": 131.13,
-      "end": 136.88,
-      "text": "Victory Square, a monument for heroes of the Second World War.",
+      "start": 147.26,
+      "end": 150.28,
+      "text": "A modern building with a unique shape.",
       "words": [
         {
-          "word": "Victory",
-          "startSec": 131.33,
-          "endSec": 131.89,
-          "score": 0.98
+          "word": "A",
+          "start": 147.26,
+          "end": 147.46
         },
         {
-          "word": "Square,",
-          "startSec": 131.89,
-          "endSec": 132.47,
-          "score": 0.97
+          "word": "modern",
+          "start": 147.46,
+          "end": 147.88
+        },
+        {
+          "word": "building",
+          "start": 147.88,
+          "end": 148.36
+        },
+        {
+          "word": "with",
+          "start": 148.36,
+          "end": 148.74
         },
         {
           "word": "a",
-          "startSec": 133.25,
-          "endSec": 133.29,
-          "score": 0.96
+          "start": 148.74,
+          "end": 148.88
         },
         {
-          "word": "monument",
-          "startSec": 133.29,
-          "endSec": 133.75,
-          "score": 0.98
+          "word": "unique",
+          "start": 148.88,
+          "end": 149.3
         },
         {
-          "word": "for",
-          "startSec": 133.75,
-          "endSec": 134.29,
-          "score": 1.0
-        },
-        {
-          "word": "heroes",
-          "startSec": 134.29,
-          "endSec": 134.79,
-          "score": 0.78
-        },
-        {
-          "word": "of",
-          "startSec": 134.79,
-          "endSec": 135.33,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 135.33,
-          "endSec": 135.53,
-          "score": 0.99
-        },
-        {
-          "word": "Second",
-          "startSec": 135.53,
-          "endSec": 135.93,
-          "score": 0.92
-        },
-        {
-          "word": "World",
-          "startSec": 135.93,
-          "endSec": 136.29,
-          "score": 0.99
-        },
-        {
-          "word": "War.",
-          "startSec": 136.29,
-          "endSec": 136.73,
-          "score": 0.99
+          "word": "shape.",
+          "start": 149.3,
+          "end": 150.28
         }
       ]
     },
     {
       "id": 33,
-      "start": 137.45,
-      "end": 143.3,
-      "text": "Minsk Hero City Obelisk, a famous historical monument,",
+      "start": 150.68,
+      "end": 155.6,
+      "text": "Trinity Hill, the oldest area with historical houses.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 137.65,
-          "endSec": 138.17,
-          "score": 0.51
+          "word": "Trinity",
+          "start": 150.68,
+          "end": 151.26
         },
         {
-          "word": "Hero",
-          "startSec": 138.17,
-          "endSec": 138.77,
-          "score": 0.34
+          "word": "Hill,",
+          "start": 151.26,
+          "end": 151.8
         },
         {
-          "word": "City",
-          "startSec": 138.77,
-          "endSec": 139.33,
-          "score": 0.98
+          "word": "the",
+          "start": 152.4,
+          "end": 152.58
         },
         {
-          "word": "Obelisk,",
-          "startSec": 139.33,
-          "endSec": 140.31,
-          "score": 0.75
+          "word": "oldest",
+          "start": 152.58,
+          "end": 153.0
         },
         {
-          "word": "a",
-          "startSec": 140.71,
-          "endSec": 141.25,
-          "score": 0.95
+          "word": "area",
+          "start": 153.0,
+          "end": 153.6
         },
         {
-          "word": "famous",
-          "startSec": 141.25,
-          "endSec": 141.77,
-          "score": 1.0
+          "word": "with",
+          "start": 153.6,
+          "end": 153.92
         },
         {
           "word": "historical",
-          "startSec": 141.77,
-          "endSec": 142.41,
-          "score": 0.99
+          "start": 153.92,
+          "end": 154.52
         },
         {
-          "word": "monument,",
-          "startSec": 142.41,
-          "endSec": 143.15,
-          "score": 1.0
+          "word": "houses.",
+          "start": 154.52,
+          "end": 155.6
         }
       ]
     },
     {
       "id": 34,
-      "start": 143.87,
-      "end": 149.98,
-      "text": "National Library of Belarus, a modern building with a unique shape.",
+      "start": 156.36,
+      "end": 159.38,
+      "text": "Part six, food in Minsk.",
       "words": [
         {
-          "word": "National",
-          "startSec": 144.07,
-          "endSec": 144.89,
-          "score": 0.88
+          "word": "Part",
+          "start": 156.36,
+          "end": 156.96
         },
         {
-          "word": "Library",
-          "startSec": 144.89,
-          "endSec": 145.49,
-          "score": 1.0
+          "word": "six,",
+          "start": 156.96,
+          "end": 157.42
         },
         {
-          "word": "of",
-          "startSec": 145.49,
-          "endSec": 145.81,
-          "score": 0.99
+          "word": "food",
+          "start": 157.8,
+          "end": 158.02
         },
         {
-          "word": "Belarus,",
-          "startSec": 145.81,
-          "endSec": 146.09,
-          "score": 0.98
+          "word": "in",
+          "start": 158.02,
+          "end": 158.26
         },
         {
-          "word": "a",
-          "startSec": 147.13,
-          "endSec": 147.41,
-          "score": 0.99
-        },
-        {
-          "word": "modern",
-          "startSec": 147.41,
-          "endSec": 147.67,
-          "score": 1.0
-        },
-        {
-          "word": "building",
-          "startSec": 147.67,
-          "endSec": 148.33,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 148.33,
-          "endSec": 148.65,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 148.65,
-          "endSec": 148.83,
-          "score": 0.97
-        },
-        {
-          "word": "unique",
-          "startSec": 148.83,
-          "endSec": 149.19,
-          "score": 1.0
-        },
-        {
-          "word": "shape.",
-          "startSec": 149.19,
-          "endSec": 149.83,
-          "score": 0.99
+          "word": "Minsk.",
+          "start": 158.26,
+          "end": 159.38
         }
       ]
     },
     {
       "id": 35,
-      "start": 150.62,
-      "end": 155.27,
-      "text": "Trinity Hill, the oldest area with historical houses.",
+      "start": 159.64,
+      "end": 162.5,
+      "text": "Belarusian food is simple and delicious.",
       "words": [
         {
-          "word": "Trinity",
-          "startSec": 150.82,
-          "endSec": 151.18,
-          "score": 0.96
+          "word": "Belarusian",
+          "start": 159.64,
+          "end": 160.68
         },
         {
-          "word": "Hill,",
-          "startSec": 151.18,
-          "endSec": 151.7,
-          "score": 0.99
+          "word": "food",
+          "start": 160.68,
+          "end": 160.98
         },
         {
-          "word": "the",
-          "startSec": 152.3,
-          "endSec": 152.54,
-          "score": 1.0
+          "word": "is",
+          "start": 160.98,
+          "end": 161.2
         },
         {
-          "word": "oldest",
-          "startSec": 152.54,
-          "endSec": 152.94,
-          "score": 1.0
+          "word": "simple",
+          "start": 161.2,
+          "end": 161.66
         },
         {
-          "word": "area",
-          "startSec": 152.94,
-          "endSec": 153.52,
-          "score": 1.0
+          "word": "and",
+          "start": 161.66,
+          "end": 161.94
         },
         {
-          "word": "with",
-          "startSec": 153.52,
-          "endSec": 153.84,
-          "score": 1.0
-        },
-        {
-          "word": "historical",
-          "startSec": 153.84,
-          "endSec": 154.3,
-          "score": 0.99
-        },
-        {
-          "word": "houses.",
-          "startSec": 154.3,
-          "endSec": 155.12,
-          "score": 1.0
+          "word": "delicious.",
+          "start": 161.94,
+          "end": 162.5
         }
       ]
     },
     {
       "id": 36,
-      "start": 156.45,
-      "end": 158.94,
-      "text": "Part six, food in Minsk.",
+      "start": 162.5,
+      "end": 167.36,
+      "text": "People eat a lot of potatoes, meat, and bread.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 156.65,
-          "endSec": 156.81,
-          "score": 0.85
+          "word": "People",
+          "start": 162.5,
+          "end": 163.8
         },
         {
-          "word": "six,",
-          "startSec": 156.81,
-          "endSec": 157.43,
-          "score": 0.24
+          "word": "eat",
+          "start": 163.8,
+          "end": 164.2
         },
         {
-          "word": "food",
-          "startSec": 157.67,
-          "endSec": 157.95,
-          "score": 0.65
+          "word": "a",
+          "start": 164.2,
+          "end": 164.4
         },
         {
-          "word": "in",
-          "startSec": 157.95,
-          "endSec": 158.19,
-          "score": 0.28
+          "word": "lot",
+          "start": 164.4,
+          "end": 164.62
         },
         {
-          "word": "Minsk.",
-          "startSec": 158.19,
-          "endSec": 158.79,
-          "score": 0.86
+          "word": "of",
+          "start": 164.62,
+          "end": 164.8
+        },
+        {
+          "word": "potatoes,",
+          "start": 164.8,
+          "end": 165.46
+        },
+        {
+          "word": "meat,",
+          "start": 165.92,
+          "end": 166.28
+        },
+        {
+          "word": "and",
+          "start": 166.54,
+          "end": 166.58
+        },
+        {
+          "word": "bread.",
+          "start": 166.58,
+          "end": 167.36
         }
       ]
     },
     {
       "id": 37,
-      "start": 159.48,
-      "end": 162.51,
-      "text": "Belarusian food is simple and delicious.",
+      "start": 167.9,
+      "end": 172.79,
+      "text": "Some popular dishes are, drannicky potato pancakes.",
       "words": [
         {
-          "word": "Belarusian",
-          "startSec": 159.68,
-          "endSec": 160.6,
-          "score": 0.89
+          "word": "Some",
+          "start": 167.9,
+          "end": 168.12
         },
         {
-          "word": "food",
-          "startSec": 160.6,
-          "endSec": 160.88,
-          "score": 1.0
+          "word": "popular",
+          "start": 168.12,
+          "end": 168.7
         },
         {
-          "word": "is",
-          "startSec": 160.88,
-          "endSec": 161.12,
-          "score": 1.0
+          "word": "dishes",
+          "start": 168.7,
+          "end": 169.12
         },
         {
-          "word": "simple",
-          "startSec": 161.12,
-          "endSec": 161.6,
-          "score": 1.0
+          "word": "are,",
+          "start": 169.12,
+          "end": 169.64
         },
         {
-          "word": "and",
-          "startSec": 161.6,
-          "endSec": 161.88,
-          "score": 1.0
+          "word": "drannicky",
+          "start": 170.18,
+          "end": 170.82
         },
         {
-          "word": "delicious.",
-          "startSec": 161.88,
-          "endSec": 162.36,
-          "score": 1.0
+          "word": "potato",
+          "start": 170.82,
+          "end": 171.66
+        },
+        {
+          "word": "pancakes.",
+          "start": 171.66,
+          "end": 172.79
         }
       ]
     },
     {
       "id": 38,
-      "start": 162.94,
-      "end": 166.99,
-      "text": "People eat a lot of potatoes, meat, and bread.",
+      "start": 173.04,
+      "end": 176.01,
+      "text": "Borscht beet soup with vegetables.",
       "words": [
         {
-          "word": "People",
-          "startSec": 163.14,
-          "endSec": 163.58,
-          "score": 0.01
+          "word": "Borscht",
+          "start": 173.04,
+          "end": 173.64
         },
         {
-          "word": "eat",
-          "startSec": 163.58,
-          "endSec": 164.12,
-          "score": 1.0
+          "word": "beet",
+          "start": 173.64,
+          "end": 174.04
         },
         {
-          "word": "a",
-          "startSec": 164.12,
-          "endSec": 164.32,
-          "score": 0.97
+          "word": "soup",
+          "start": 174.04,
+          "end": 174.48
         },
         {
-          "word": "lot",
-          "startSec": 164.32,
-          "endSec": 164.6,
-          "score": 1.0
+          "word": "with",
+          "start": 174.48,
+          "end": 174.98
         },
         {
-          "word": "of",
-          "startSec": 164.6,
-          "endSec": 164.74,
-          "score": 0.99
-        },
-        {
-          "word": "potatoes,",
-          "startSec": 164.74,
-          "endSec": 165.16,
-          "score": 0.98
-        },
-        {
-          "word": "meat,",
-          "startSec": 165.92,
-          "endSec": 166.2,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 166.44,
-          "endSec": 166.54,
-          "score": 0.99
-        },
-        {
-          "word": "bread.",
-          "startSec": 166.54,
-          "endSec": 166.84,
-          "score": 1.0
+          "word": "vegetables.",
+          "start": 174.98,
+          "end": 176.01
         }
       ]
     },
     {
       "id": 39,
-      "start": 167.64,
-      "end": 169.69,
-      "text": "Some popular dishes are,",
+      "start": 176.26,
+      "end": 178.8,
+      "text": "Koldouni stuffed dumplings.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 167.84,
-          "endSec": 168.06,
-          "score": 0.99
+          "word": "Koldouni",
+          "start": 176.26,
+          "end": 177.18
         },
         {
-          "word": "popular",
-          "startSec": 168.06,
-          "endSec": 168.56,
-          "score": 0.99
+          "word": "stuffed",
+          "start": 177.18,
+          "end": 177.68
         },
         {
-          "word": "dishes",
-          "startSec": 168.56,
-          "endSec": 168.98,
-          "score": 1.0
-        },
-        {
-          "word": "are,",
-          "startSec": 168.98,
-          "endSec": 169.54,
-          "score": 1.0
+          "word": "dumplings.",
+          "start": 177.68,
+          "end": 178.8
         }
       ]
     },
     {
       "id": 40,
-      "start": 169.88,
-      "end": 172.19,
-      "text": "Drenneke, potato pancakes,",
+      "start": 180.12,
+      "end": 184.46,
+      "text": "For dessert, people like honey cake and pastries.",
       "words": [
         {
-          "word": "Drenneke,",
-          "startSec": 170.08,
-          "endSec": 170.8,
-          "score": 0.32
+          "word": "For",
+          "start": 180.12,
+          "end": 180.52
         },
         {
-          "word": "potato",
-          "startSec": 171.16,
-          "endSec": 171.52,
-          "score": 0.79
+          "word": "dessert,",
+          "start": 180.52,
+          "end": 181.06
         },
         {
-          "word": "pancakes,",
-          "startSec": 171.52,
-          "endSec": 172.04,
-          "score": 0.98
+          "word": "people",
+          "start": 181.58,
+          "end": 181.96
+        },
+        {
+          "word": "like",
+          "start": 181.96,
+          "end": 182.28
+        },
+        {
+          "word": "honey",
+          "start": 182.28,
+          "end": 182.66
+        },
+        {
+          "word": "cake",
+          "start": 182.66,
+          "end": 183.02
+        },
+        {
+          "word": "and",
+          "start": 183.02,
+          "end": 183.3
+        },
+        {
+          "word": "pastries.",
+          "start": 183.3,
+          "end": 184.46
         }
       ]
     },
     {
       "id": 41,
-      "start": 172.68,
-      "end": 175.55,
-      "text": "Borshed beet soup with vegetables,",
+      "start": 184.86,
+      "end": 187.88,
+      "text": "Tea is very popular in Belarus.",
       "words": [
         {
-          "word": "Borshed",
-          "startSec": 172.88,
-          "endSec": 173.64,
-          "score": 0.48
+          "word": "Tea",
+          "start": 184.86,
+          "end": 185.52
         },
         {
-          "word": "beet",
-          "startSec": 173.64,
-          "endSec": 173.96,
-          "score": 0.56
+          "word": "is",
+          "start": 185.52,
+          "end": 185.82
         },
         {
-          "word": "soup",
-          "startSec": 173.96,
-          "endSec": 174.46,
-          "score": 0.98
+          "word": "very",
+          "start": 185.82,
+          "end": 186.16
         },
         {
-          "word": "with",
-          "startSec": 174.46,
-          "endSec": 174.88,
-          "score": 0.97
+          "word": "popular",
+          "start": 186.16,
+          "end": 186.8
         },
         {
-          "word": "vegetables,",
-          "startSec": 174.88,
-          "endSec": 175.4,
-          "score": 0.99
+          "word": "in",
+          "start": 186.8,
+          "end": 187.1
+        },
+        {
+          "word": "Belarus.",
+          "start": 187.1,
+          "end": 187.88
         }
       ]
     },
     {
       "id": 42,
-      "start": 176.08,
-      "end": 178.57,
-      "text": "Kolduni, stuffed dumplings.",
+      "start": 188.8,
+      "end": 192.62,
+      "text": "Part seven, the people of Minsk.",
       "words": [
         {
-          "word": "Kolduni,",
-          "startSec": 176.28,
-          "endSec": 176.92,
-          "score": 0.55
+          "word": "Part",
+          "start": 188.8,
+          "end": 189.72
         },
         {
-          "word": "stuffed",
-          "startSec": 177.4,
-          "endSec": 177.58,
-          "score": 0.97
+          "word": "seven,",
+          "start": 189.72,
+          "end": 190.28
         },
         {
-          "word": "dumplings.",
-          "startSec": 177.58,
-          "endSec": 178.42,
-          "score": 1.0
+          "word": "the",
+          "start": 190.8,
+          "end": 190.92
+        },
+        {
+          "word": "people",
+          "start": 190.92,
+          "end": 191.36
+        },
+        {
+          "word": "of",
+          "start": 191.36,
+          "end": 191.64
+        },
+        {
+          "word": "Minsk.",
+          "start": 191.64,
+          "end": 192.62
         }
       ]
     },
     {
       "id": 43,
-      "start": 180.15,
-      "end": 184.1,
-      "text": "For dessert, people like honeycake and pastries.",
+      "start": 192.8,
+      "end": 195.84,
+      "text": "People in Minsk are friendly and calm.",
       "words": [
         {
-          "word": "For",
-          "startSec": 180.35,
-          "endSec": 180.49,
-          "score": 0.97
+          "word": "People",
+          "start": 192.8,
+          "end": 193.36
         },
         {
-          "word": "dessert,",
-          "startSec": 180.49,
-          "endSec": 180.93,
-          "score": 1.0
+          "word": "in",
+          "start": 193.36,
+          "end": 193.66
         },
         {
-          "word": "people",
-          "startSec": 181.53,
-          "endSec": 181.81,
-          "score": 0.99
+          "word": "Minsk",
+          "start": 193.66,
+          "end": 194.08
         },
         {
-          "word": "like",
-          "startSec": 181.81,
-          "endSec": 182.23,
-          "score": 1.0
+          "word": "are",
+          "start": 194.08,
+          "end": 194.22
         },
         {
-          "word": "honeycake",
-          "startSec": 182.23,
-          "endSec": 182.93,
-          "score": 0.67
+          "word": "friendly",
+          "start": 194.22,
+          "end": 194.7
         },
         {
           "word": "and",
-          "startSec": 182.93,
-          "endSec": 183.25,
-          "score": 0.96
+          "start": 194.7,
+          "end": 195.02
         },
         {
-          "word": "pastries.",
-          "startSec": 183.25,
-          "endSec": 183.95,
-          "score": 0.98
+          "word": "calm.",
+          "start": 195.02,
+          "end": 195.84
         }
       ]
     },
     {
       "id": 44,
-      "start": 184.86,
-      "end": 187.41,
-      "text": "Tea is very popular in Belarus.",
+      "start": 196.4,
+      "end": 199.78,
+      "text": "Most people speak Belarusian and Russian.",
       "words": [
         {
-          "word": "Tea",
-          "startSec": 185.06,
-          "endSec": 185.44,
-          "score": 0.93
+          "word": "Most",
+          "start": 196.4,
+          "end": 196.76
         },
         {
-          "word": "is",
-          "startSec": 185.44,
-          "endSec": 185.76,
-          "score": 1.0
+          "word": "people",
+          "start": 196.76,
+          "end": 197.18
         },
         {
-          "word": "very",
-          "startSec": 185.76,
-          "endSec": 186.08,
-          "score": 0.99
+          "word": "speak",
+          "start": 197.18,
+          "end": 197.66
         },
         {
-          "word": "popular",
-          "startSec": 186.08,
-          "endSec": 186.66,
-          "score": 1.0
+          "word": "Belarusian",
+          "start": 197.66,
+          "end": 198.78
         },
         {
-          "word": "in",
-          "startSec": 186.66,
-          "endSec": 187.04,
-          "score": 0.99
+          "word": "and",
+          "start": 198.78,
+          "end": 198.96
         },
         {
-          "word": "Belarus.",
-          "startSec": 187.04,
-          "endSec": 187.26,
-          "score": 0.99
+          "word": "Russian.",
+          "start": 198.96,
+          "end": 199.78
         }
       ]
     },
     {
       "id": 45,
-      "start": 189.16,
-      "end": 192.31,
-      "text": "Part seven, the people of Minsk.",
+      "start": 200.78,
+      "end": 203.58,
+      "text": "Young people often speak English.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 189.36,
-          "endSec": 189.64,
-          "score": 0.69
-        },
-        {
-          "word": "seven,",
-          "startSec": 189.64,
-          "endSec": 190.24,
-          "score": 0.31
-        },
-        {
-          "word": "the",
-          "startSec": 190.78,
-          "endSec": 190.88,
-          "score": 0.8
+          "word": "Young",
+          "start": 200.78,
+          "end": 201.08
         },
         {
           "word": "people",
-          "startSec": 190.88,
-          "endSec": 191.28,
-          "score": 0.89
+          "start": 201.08,
+          "end": 201.54
         },
         {
-          "word": "of",
-          "startSec": 191.28,
-          "endSec": 191.58,
-          "score": 1.0
+          "word": "often",
+          "start": 201.54,
+          "end": 202.1
         },
         {
-          "word": "Minsk.",
-          "startSec": 191.58,
-          "endSec": 192.16,
-          "score": 0.86
+          "word": "speak",
+          "start": 202.1,
+          "end": 202.6
+        },
+        {
+          "word": "English.",
+          "start": 202.6,
+          "end": 203.58
         }
       ]
     },
     {
       "id": 46,
-      "start": 191.96,
-      "end": 195.45,
-      "text": "People in Minsk are friendly and calm.",
+      "start": 204.5,
+      "end": 207.73,
+      "text": "Families are very important in Minsk.",
       "words": [
         {
-          "word": "People",
-          "startSec": 192.16,
-          "endSec": 193.1,
-          "score": 0.05
-        },
-        {
-          "word": "in",
-          "startSec": 193.16,
-          "endSec": 193.6,
-          "score": 0.89
-        },
-        {
-          "word": "Minsk",
-          "startSec": 193.6,
-          "endSec": 193.98,
-          "score": 0.81
+          "word": "Families",
+          "start": 204.5,
+          "end": 205.24
         },
         {
           "word": "are",
-          "startSec": 193.98,
-          "endSec": 194.18,
-          "score": 0.99
+          "start": 205.24,
+          "end": 205.56
         },
         {
-          "word": "friendly",
-          "startSec": 194.18,
-          "endSec": 194.54,
-          "score": 0.96
+          "word": "very",
+          "start": 205.56,
+          "end": 205.96
         },
         {
-          "word": "and",
-          "startSec": 194.54,
-          "endSec": 194.96,
-          "score": 0.98
+          "word": "important",
+          "start": 205.96,
+          "end": 206.52
         },
         {
-          "word": "calm.",
-          "startSec": 194.96,
-          "endSec": 195.3,
-          "score": 1.0
+          "word": "in",
+          "start": 206.52,
+          "end": 206.82
+        },
+        {
+          "word": "Minsk.",
+          "start": 206.82,
+          "end": 207.73
         }
       ]
     },
     {
       "id": 47,
-      "start": 196.22,
-      "end": 199.33,
-      "text": "Most people speak Belarusian and Russian.",
+      "start": 207.84,
+      "end": 212.8,
+      "text": "People like to go to parks, cafes, and cultural events.",
       "words": [
         {
-          "word": "Most",
-          "startSec": 196.42,
-          "endSec": 196.74,
-          "score": 0.99
+          "word": "People",
+          "start": 207.84,
+          "end": 208.48
         },
         {
-          "word": "people",
-          "startSec": 196.74,
-          "endSec": 197.16,
-          "score": 0.99
+          "word": "like",
+          "start": 208.48,
+          "end": 208.8
         },
         {
-          "word": "speak",
-          "startSec": 197.16,
-          "endSec": 197.58,
-          "score": 1.0
+          "word": "to",
+          "start": 208.8,
+          "end": 209.02
         },
         {
-          "word": "Belarusian",
-          "startSec": 197.58,
-          "endSec": 198.7,
-          "score": 0.88
+          "word": "go",
+          "start": 209.02,
+          "end": 209.2
+        },
+        {
+          "word": "to",
+          "start": 209.2,
+          "end": 209.34
+        },
+        {
+          "word": "parks,",
+          "start": 209.34,
+          "end": 209.86
+        },
+        {
+          "word": "cafes,",
+          "start": 210.34,
+          "end": 210.82
         },
         {
           "word": "and",
-          "startSec": 198.7,
-          "endSec": 198.88,
-          "score": 0.99
+          "start": 211.3,
+          "end": 211.42
         },
         {
-          "word": "Russian.",
-          "startSec": 198.88,
-          "endSec": 199.18,
-          "score": 1.0
+          "word": "cultural",
+          "start": 211.42,
+          "end": 211.84
+        },
+        {
+          "word": "events.",
+          "start": 211.84,
+          "end": 212.8
         }
       ]
     },
     {
       "id": 48,
-      "start": 200.45,
-      "end": 203.28,
-      "text": "Young people often speak English.",
+      "start": 213.4,
+      "end": 217.56,
+      "text": "Part eight, music and culture.",
       "words": [
         {
-          "word": "Young",
-          "startSec": 200.65,
-          "endSec": 201.01,
-          "score": 0.98
+          "word": "Part",
+          "start": 213.4,
+          "end": 214.28
         },
         {
-          "word": "people",
-          "startSec": 201.01,
-          "endSec": 201.43,
-          "score": 1.0
+          "word": "eight,",
+          "start": 214.28,
+          "end": 214.82
         },
         {
-          "word": "often",
-          "startSec": 201.43,
-          "endSec": 201.91,
-          "score": 1.0
+          "word": "music",
+          "start": 215.38,
+          "end": 216.28
         },
         {
-          "word": "speak",
-          "startSec": 201.91,
-          "endSec": 202.53,
-          "score": 1.0
+          "word": "and",
+          "start": 216.28,
+          "end": 216.64
         },
         {
-          "word": "English.",
-          "startSec": 202.53,
-          "endSec": 203.13,
-          "score": 0.99
+          "word": "culture.",
+          "start": 216.64,
+          "end": 217.56
         }
       ]
     },
     {
       "id": 49,
-      "start": 204.42,
-      "end": 207.47,
-      "text": "Families are very important in Minsk.",
+      "start": 218.2,
+      "end": 222.54,
+      "text": "Minsk is a city full of music, art, and culture.",
       "words": [
         {
-          "word": "Families",
-          "startSec": 204.62,
-          "endSec": 205.08,
-          "score": 0.99
+          "word": "Minsk",
+          "start": 218.2,
+          "end": 218.88
         },
         {
-          "word": "are",
-          "startSec": 205.08,
-          "endSec": 205.52,
-          "score": 1.0
+          "word": "is",
+          "start": 218.88,
+          "end": 219.06
         },
         {
-          "word": "very",
-          "startSec": 205.52,
-          "endSec": 205.8,
-          "score": 0.99
+          "word": "a",
+          "start": 219.06,
+          "end": 219.28
         },
         {
-          "word": "important",
-          "startSec": 205.8,
-          "endSec": 206.4,
-          "score": 1.0
+          "word": "city",
+          "start": 219.28,
+          "end": 219.54
         },
         {
-          "word": "in",
-          "startSec": 206.4,
-          "endSec": 206.76,
-          "score": 0.99
+          "word": "full",
+          "start": 219.54,
+          "end": 219.98
         },
         {
-          "word": "Minsk.",
-          "startSec": 206.76,
-          "endSec": 207.32,
-          "score": 0.98
+          "word": "of",
+          "start": 219.98,
+          "end": 220.18
+        },
+        {
+          "word": "music,",
+          "start": 220.18,
+          "end": 220.62
+        },
+        {
+          "word": "art,",
+          "start": 220.98,
+          "end": 221.24
+        },
+        {
+          "word": "and",
+          "start": 221.46,
+          "end": 221.58
+        },
+        {
+          "word": "culture.",
+          "start": 221.58,
+          "end": 222.54
         }
       ]
     },
     {
       "id": 50,
-      "start": 207.82,
-      "end": 212.39,
-      "text": "People like to go to parks, cafes, and cultural events.",
+      "start": 222.92,
+      "end": 227.42,
+      "text": "There are theaters, concert halls, and art galleries.",
       "words": [
         {
-          "word": "People",
-          "startSec": 208.02,
-          "endSec": 208.32,
-          "score": 1.0
+          "word": "There",
+          "start": 222.92,
+          "end": 223.52
         },
         {
-          "word": "like",
-          "startSec": 208.32,
-          "endSec": 208.74,
-          "score": 1.0
+          "word": "are",
+          "start": 223.52,
+          "end": 223.72
         },
         {
-          "word": "to",
-          "startSec": 208.74,
-          "endSec": 208.96,
-          "score": 1.0
+          "word": "theaters,",
+          "start": 223.72,
+          "end": 224.28
         },
         {
-          "word": "go",
-          "startSec": 208.96,
-          "endSec": 209.18,
-          "score": 1.0
+          "word": "concert",
+          "start": 224.88,
+          "end": 225.28
         },
         {
-          "word": "to",
-          "startSec": 209.18,
-          "endSec": 209.3,
-          "score": 1.0
-        },
-        {
-          "word": "parks,",
-          "startSec": 209.3,
-          "endSec": 209.66,
-          "score": 0.97
-        },
-        {
-          "word": "cafes,",
-          "startSec": 210.2,
-          "endSec": 210.58,
-          "score": 0.95
+          "word": "halls,",
+          "start": 225.28,
+          "end": 225.84
         },
         {
           "word": "and",
-          "startSec": 210.82,
-          "endSec": 211.36,
-          "score": 1.0
+          "start": 226.0,
+          "end": 226.16
         },
         {
-          "word": "cultural",
-          "startSec": 211.36,
-          "endSec": 211.64,
-          "score": 0.99
+          "word": "art",
+          "start": 226.16,
+          "end": 226.46
         },
         {
-          "word": "events.",
-          "startSec": 211.64,
-          "endSec": 212.24,
-          "score": 1.0
+          "word": "galleries.",
+          "start": 226.46,
+          "end": 227.42
         }
       ]
     },
     {
       "id": 51,
-      "start": 214.06,
-      "end": 217.05,
-      "text": "Part eight, music and culture.",
+      "start": 228.0,
+      "end": 232.56,
+      "text": "Every year there are music festivals and art exhibitions.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 214.26,
-          "endSec": 214.26,
-          "score": 0.81
+          "word": "Every",
+          "start": 228.0,
+          "end": 228.48
         },
         {
-          "word": "eight,",
-          "startSec": 214.26,
-          "endSec": 214.68,
-          "score": 0.34
+          "word": "year",
+          "start": 228.48,
+          "end": 228.98
+        },
+        {
+          "word": "there",
+          "start": 228.98,
+          "end": 229.3
+        },
+        {
+          "word": "are",
+          "start": 229.3,
+          "end": 229.48
         },
         {
           "word": "music",
-          "startSec": 216.26,
-          "endSec": 216.3,
-          "score": 0.88
+          "start": 229.48,
+          "end": 229.94
+        },
+        {
+          "word": "festivals",
+          "start": 229.94,
+          "end": 230.52
         },
         {
           "word": "and",
-          "startSec": 216.3,
-          "endSec": 216.58,
-          "score": 0.97
+          "start": 230.52,
+          "end": 231.24
         },
         {
-          "word": "culture.",
-          "startSec": 216.58,
-          "endSec": 216.9,
-          "score": 1.0
+          "word": "art",
+          "start": 231.24,
+          "end": 231.62
+        },
+        {
+          "word": "exhibitions.",
+          "start": 231.62,
+          "end": 232.56
         }
       ]
     },
     {
       "id": 52,
-      "start": 217.8,
-      "end": 222.03,
-      "text": "Minsk is a city full of music, art, and culture.",
+      "start": 233.38,
+      "end": 238.04,
+      "text": "Traditional music and folk dance are important in Belarus.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 218.0,
-          "endSec": 218.78,
-          "score": 0.98
+          "word": "Traditional",
+          "start": 233.38,
+          "end": 234.12
         },
         {
-          "word": "is",
-          "startSec": 218.78,
-          "endSec": 218.96,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 218.96,
-          "endSec": 219.16,
-          "score": 0.93
-        },
-        {
-          "word": "city",
-          "startSec": 219.16,
-          "endSec": 219.5,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 219.5,
-          "endSec": 219.9,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 219.9,
-          "endSec": 220.12,
-          "score": 1.0
-        },
-        {
-          "word": "music,",
-          "startSec": 220.12,
-          "endSec": 220.6,
-          "score": 0.99
-        },
-        {
-          "word": "art,",
-          "startSec": 220.88,
-          "endSec": 221.14,
-          "score": 1.0
+          "word": "music",
+          "start": 234.12,
+          "end": 234.8
         },
         {
           "word": "and",
-          "startSec": 221.42,
-          "endSec": 221.52,
-          "score": 1.0
+          "start": 234.8,
+          "end": 235.12
         },
         {
-          "word": "culture.",
-          "startSec": 221.52,
-          "endSec": 221.88,
-          "score": 1.0
+          "word": "folk",
+          "start": 235.12,
+          "end": 235.44
+        },
+        {
+          "word": "dance",
+          "start": 235.44,
+          "end": 235.92
+        },
+        {
+          "word": "are",
+          "start": 235.92,
+          "end": 236.3
+        },
+        {
+          "word": "important",
+          "start": 236.3,
+          "end": 236.92
+        },
+        {
+          "word": "in",
+          "start": 236.92,
+          "end": 237.22
+        },
+        {
+          "word": "Belarus.",
+          "start": 237.22,
+          "end": 238.04
         }
       ]
     },
     {
       "id": 53,
-      "start": 222.77,
-      "end": 226.9,
-      "text": "There are theaters, concert halls, and art galleries.",
+      "start": 238.74,
+      "end": 243.76,
+      "text": "People enjoy both modern and classical performances.",
       "words": [
         {
-          "word": "There",
-          "startSec": 222.97,
-          "endSec": 223.45,
-          "score": 0.21
+          "word": "People",
+          "start": 238.74,
+          "end": 239.62
         },
         {
-          "word": "are",
-          "startSec": 223.45,
-          "endSec": 223.65,
-          "score": 0.98
+          "word": "enjoy",
+          "start": 239.62,
+          "end": 240.28
         },
         {
-          "word": "theaters,",
-          "startSec": 223.65,
-          "endSec": 224.07,
-          "score": 0.73
+          "word": "both",
+          "start": 240.28,
+          "end": 240.64
         },
         {
-          "word": "concert",
-          "startSec": 224.71,
-          "endSec": 225.19,
-          "score": 0.99
-        },
-        {
-          "word": "halls,",
-          "startSec": 225.19,
-          "endSec": 225.63,
-          "score": 1.0
+          "word": "modern",
+          "start": 240.64,
+          "end": 241.3
         },
         {
           "word": "and",
-          "startSec": 225.73,
-          "endSec": 226.09,
-          "score": 0.99
+          "start": 241.3,
+          "end": 241.66
         },
         {
-          "word": "art",
-          "startSec": 226.09,
-          "endSec": 226.37,
-          "score": 0.99
+          "word": "classical",
+          "start": 241.66,
+          "end": 242.28
         },
         {
-          "word": "galleries.",
-          "startSec": 226.37,
-          "endSec": 226.75,
-          "score": 1.0
+          "word": "performances.",
+          "start": 242.28,
+          "end": 243.76
         }
       ]
     },
     {
       "id": 54,
-      "start": 227.69,
-      "end": 232.22,
-      "text": "Every year, there are music festivals and art exhibitions.",
+      "start": 244.84,
+      "end": 248.34,
+      "text": "Part nine, nature and parks.",
       "words": [
         {
-          "word": "Every",
-          "startSec": 227.89,
-          "endSec": 228.47,
-          "score": 0.99
+          "word": "Part",
+          "start": 244.84,
+          "end": 245.56
         },
         {
-          "word": "year,",
-          "startSec": 228.47,
-          "endSec": 228.85,
-          "score": 1.0
+          "word": "nine,",
+          "start": 245.56,
+          "end": 246.02
         },
         {
-          "word": "there",
-          "startSec": 229.17,
-          "endSec": 229.25,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 229.25,
-          "endSec": 229.43,
-          "score": 1.0
-        },
-        {
-          "word": "music",
-          "startSec": 229.43,
-          "endSec": 229.87,
-          "score": 0.99
-        },
-        {
-          "word": "festivals",
-          "startSec": 229.87,
-          "endSec": 230.37,
-          "score": 1.0
+          "word": "nature",
+          "start": 246.72,
+          "end": 247.14
         },
         {
           "word": "and",
-          "startSec": 230.37,
-          "endSec": 231.15,
-          "score": 0.94
+          "start": 247.14,
+          "end": 247.44
         },
         {
-          "word": "art",
-          "startSec": 231.15,
-          "endSec": 231.47,
-          "score": 1.0
-        },
-        {
-          "word": "exhibitions.",
-          "startSec": 231.47,
-          "endSec": 232.07,
-          "score": 1.0
+          "word": "parks.",
+          "start": 247.44,
+          "end": 248.34
         }
       ]
     },
     {
       "id": 55,
-      "start": 233.25,
-      "end": 237.58,
-      "text": "Traditional music and folk dance are important in Belarus.",
+      "start": 249.08,
+      "end": 251.76,
+      "text": "Minsk has many parks and lakes.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 233.45,
-          "endSec": 233.87,
-          "score": 0.98
+          "word": "Minsk",
+          "start": 249.08,
+          "end": 249.62
         },
         {
-          "word": "music",
-          "startSec": 233.87,
-          "endSec": 234.79,
-          "score": 1.0
+          "word": "has",
+          "start": 249.62,
+          "end": 249.86
+        },
+        {
+          "word": "many",
+          "start": 249.86,
+          "end": 250.2
+        },
+        {
+          "word": "parks",
+          "start": 250.2,
+          "end": 250.62
         },
         {
           "word": "and",
-          "startSec": 234.79,
-          "endSec": 235.07,
-          "score": 0.99
+          "start": 250.62,
+          "end": 250.92
         },
         {
-          "word": "folk",
-          "startSec": 235.07,
-          "endSec": 235.35,
-          "score": 1.0
-        },
-        {
-          "word": "dance",
-          "startSec": 235.35,
-          "endSec": 235.75,
-          "score": 0.96
-        },
-        {
-          "word": "are",
-          "startSec": 235.75,
-          "endSec": 236.23,
-          "score": 0.99
-        },
-        {
-          "word": "important",
-          "startSec": 236.23,
-          "endSec": 236.81,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 236.81,
-          "endSec": 237.13,
-          "score": 0.4
-        },
-        {
-          "word": "Belarus.",
-          "startSec": 237.13,
-          "endSec": 237.43,
-          "score": 0.99
+          "word": "lakes.",
+          "start": 250.92,
+          "end": 251.76
         }
       ]
     },
     {
       "id": 56,
-      "start": 238.88,
-      "end": 243.21,
-      "text": "People enjoy both modern and classical performances.",
+      "start": 252.64,
+      "end": 257.14,
+      "text": "Chelyuskinites Park is one of the largest and most popular.",
       "words": [
         {
-          "word": "People",
-          "startSec": 239.08,
-          "endSec": 239.4,
-          "score": 0.99
+          "word": "Chelyuskinites",
+          "start": 252.64,
+          "end": 253.52
         },
         {
-          "word": "enjoy",
-          "startSec": 239.4,
-          "endSec": 240.08,
-          "score": 1.0
+          "word": "Park",
+          "start": 253.52,
+          "end": 253.98
         },
         {
-          "word": "both",
-          "startSec": 240.08,
-          "endSec": 240.64,
-          "score": 1.0
+          "word": "is",
+          "start": 253.98,
+          "end": 254.38
         },
         {
-          "word": "modern",
-          "startSec": 240.64,
-          "endSec": 241.16,
-          "score": 0.99
+          "word": "one",
+          "start": 254.38,
+          "end": 254.68
+        },
+        {
+          "word": "of",
+          "start": 254.68,
+          "end": 254.82
+        },
+        {
+          "word": "the",
+          "start": 254.82,
+          "end": 254.96
+        },
+        {
+          "word": "largest",
+          "start": 254.96,
+          "end": 255.44
         },
         {
           "word": "and",
-          "startSec": 241.16,
-          "endSec": 241.6,
-          "score": 0.99
+          "start": 255.44,
+          "end": 255.82
         },
         {
-          "word": "classical",
-          "startSec": 241.6,
-          "endSec": 241.96,
-          "score": 1.0
+          "word": "most",
+          "start": 255.82,
+          "end": 256.02
         },
         {
-          "word": "performances.",
-          "startSec": 241.96,
-          "endSec": 243.06,
-          "score": 1.0
+          "word": "popular.",
+          "start": 256.02,
+          "end": 257.14
         }
       ]
     },
     {
       "id": 57,
-      "start": 245.3,
-      "end": 247.81,
-      "text": "Part nine, nature and parks.",
+      "start": 257.46,
+      "end": 261.46,
+      "text": "People go there to walk, ride bikes, and relax.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 245.5,
-          "endSec": 245.5,
-          "score": 0.05
+          "word": "People",
+          "start": 257.46,
+          "end": 258.0
         },
         {
-          "word": "nine,",
-          "startSec": 245.5,
-          "endSec": 245.88,
-          "score": 0.25
+          "word": "go",
+          "start": 258.0,
+          "end": 258.28
         },
         {
-          "word": "nature",
-          "startSec": 246.62,
-          "endSec": 247.16,
-          "score": 0.52
+          "word": "there",
+          "start": 258.28,
+          "end": 258.54
+        },
+        {
+          "word": "to",
+          "start": 258.54,
+          "end": 258.66
+        },
+        {
+          "word": "walk,",
+          "start": 258.66,
+          "end": 259.1
+        },
+        {
+          "word": "ride",
+          "start": 259.44,
+          "end": 259.68
+        },
+        {
+          "word": "bikes,",
+          "start": 259.68,
+          "end": 260.24
         },
         {
           "word": "and",
-          "startSec": 247.16,
-          "endSec": 247.4,
-          "score": 0.84
+          "start": 260.52,
+          "end": 260.62
         },
         {
-          "word": "parks.",
-          "startSec": 247.4,
-          "endSec": 247.66,
-          "score": 0.98
+          "word": "relax.",
+          "start": 260.62,
+          "end": 261.46
         }
       ]
     },
     {
       "id": 58,
-      "start": 248.74,
-      "end": 251.31,
-      "text": "Minsk has many parks and lakes.",
+      "start": 262.38,
+      "end": 267.2,
+      "text": "In summer there are outdoor concerts and sports activities.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 248.94,
-          "endSec": 249.5,
-          "score": 0.88
+          "word": "In",
+          "start": 262.38,
+          "end": 262.9
         },
         {
-          "word": "has",
-          "startSec": 249.5,
-          "endSec": 249.76,
-          "score": 1.0
+          "word": "summer",
+          "start": 262.9,
+          "end": 263.34
         },
         {
-          "word": "many",
-          "startSec": 249.76,
-          "endSec": 250.08,
-          "score": 0.99
+          "word": "there",
+          "start": 263.34,
+          "end": 263.86
         },
         {
-          "word": "parks",
-          "startSec": 250.08,
-          "endSec": 250.5,
-          "score": 0.99
+          "word": "are",
+          "start": 263.86,
+          "end": 264.06
+        },
+        {
+          "word": "outdoor",
+          "start": 264.06,
+          "end": 264.5
+        },
+        {
+          "word": "concerts",
+          "start": 264.5,
+          "end": 265.16
         },
         {
           "word": "and",
-          "startSec": 250.5,
-          "endSec": 250.88,
-          "score": 0.98
+          "start": 265.16,
+          "end": 265.52
         },
         {
-          "word": "lakes.",
-          "startSec": 250.88,
-          "endSec": 251.16,
-          "score": 1.0
+          "word": "sports",
+          "start": 265.52,
+          "end": 265.9
+        },
+        {
+          "word": "activities.",
+          "start": 265.9,
+          "end": 267.2
         }
       ]
     },
     {
       "id": 59,
-      "start": 251.82,
-      "end": 256.77,
-      "text": "Chell Uskenites Park is one of the largest and most popular.",
+      "start": 267.8,
+      "end": 272.46,
+      "text": "Even in the city you can enjoy nature and fresh air.",
       "words": [
         {
-          "word": "Chell",
-          "startSec": 252.02,
-          "endSec": 252.76,
-          "score": 0.38
+          "word": "Even",
+          "start": 267.8,
+          "end": 268.56
         },
         {
-          "word": "Uskenites",
-          "startSec": 252.76,
-          "endSec": 253.46,
-          "score": 0.39
-        },
-        {
-          "word": "Park",
-          "startSec": 253.46,
-          "endSec": 253.9,
-          "score": 0.96
-        },
-        {
-          "word": "is",
-          "startSec": 253.9,
-          "endSec": 254.32,
-          "score": 0.98
-        },
-        {
-          "word": "one",
-          "startSec": 254.32,
-          "endSec": 254.6,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 254.6,
-          "endSec": 254.78,
-          "score": 0.99
+          "word": "in",
+          "start": 268.56,
+          "end": 268.84
         },
         {
           "word": "the",
-          "startSec": 254.78,
-          "endSec": 254.92,
-          "score": 0.99
+          "start": 268.84,
+          "end": 269.0
         },
         {
-          "word": "largest",
-          "startSec": 254.92,
-          "endSec": 255.36,
-          "score": 0.99
+          "word": "city",
+          "start": 269.0,
+          "end": 269.34
+        },
+        {
+          "word": "you",
+          "start": 269.34,
+          "end": 269.68
+        },
+        {
+          "word": "can",
+          "start": 269.68,
+          "end": 269.9
+        },
+        {
+          "word": "enjoy",
+          "start": 269.9,
+          "end": 270.34
+        },
+        {
+          "word": "nature",
+          "start": 270.34,
+          "end": 270.84
         },
         {
           "word": "and",
-          "startSec": 255.36,
-          "endSec": 255.74,
-          "score": 0.99
+          "start": 270.84,
+          "end": 271.2
         },
         {
-          "word": "most",
-          "startSec": 255.74,
-          "endSec": 255.94,
-          "score": 0.99
+          "word": "fresh",
+          "start": 271.2,
+          "end": 271.56
         },
         {
-          "word": "popular.",
-          "startSec": 255.94,
-          "endSec": 256.62,
-          "score": 0.99
+          "word": "air.",
+          "start": 271.56,
+          "end": 272.46
         }
       ]
     },
     {
       "id": 60,
-      "start": 257.38,
-      "end": 261.09,
-      "text": "People go there to walk, ride bikes, and relax.",
+      "start": 273.5,
+      "end": 276.84,
+      "text": "Part ten, daily life in Minsk.",
       "words": [
         {
-          "word": "People",
-          "startSec": 257.58,
-          "endSec": 257.82,
-          "score": 0.95
+          "word": "Part",
+          "start": 273.5,
+          "end": 274.2
         },
         {
-          "word": "go",
-          "startSec": 257.82,
-          "endSec": 258.24,
-          "score": 0.99
+          "word": "ten,",
+          "start": 274.2,
+          "end": 274.66
         },
         {
-          "word": "there",
-          "startSec": 258.24,
-          "endSec": 258.5,
-          "score": 0.98
+          "word": "daily",
+          "start": 274.9,
+          "end": 275.2
         },
         {
-          "word": "to",
-          "startSec": 258.5,
-          "endSec": 258.62,
-          "score": 1.0
+          "word": "life",
+          "start": 275.2,
+          "end": 275.64
         },
         {
-          "word": "walk,",
-          "startSec": 258.62,
-          "endSec": 259.02,
-          "score": 1.0
+          "word": "in",
+          "start": 275.64,
+          "end": 275.9
         },
         {
-          "word": "ride",
-          "startSec": 259.34,
-          "endSec": 259.6,
-          "score": 1.0
-        },
-        {
-          "word": "bikes,",
-          "startSec": 259.6,
-          "endSec": 260.02,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 260.18,
-          "endSec": 260.54,
-          "score": 1.0
-        },
-        {
-          "word": "relax.",
-          "startSec": 260.54,
-          "endSec": 260.94,
-          "score": 1.0
+          "word": "Minsk.",
+          "start": 275.9,
+          "end": 276.84
         }
       ]
     },
     {
       "id": 61,
-      "start": 262.48,
-      "end": 266.67,
-      "text": "In summer, there are outdoor concerts and sports activities.",
+      "start": 277.02,
+      "end": 280.28,
+      "text": "Life in Minsk is calm and organized.",
       "words": [
         {
-          "word": "In",
-          "startSec": 262.68,
-          "endSec": 262.86,
-          "score": 0.97
+          "word": "Life",
+          "start": 277.02,
+          "end": 277.64
         },
         {
-          "word": "summer,",
-          "startSec": 262.86,
-          "endSec": 263.18,
-          "score": 0.96
+          "word": "in",
+          "start": 277.64,
+          "end": 277.86
         },
         {
-          "word": "there",
-          "startSec": 263.68,
-          "endSec": 263.82,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 277.86,
+          "end": 278.32
         },
         {
-          "word": "are",
-          "startSec": 263.82,
-          "endSec": 264.0,
-          "score": 1.0
+          "word": "is",
+          "start": 278.32,
+          "end": 278.5
         },
         {
-          "word": "outdoor",
-          "startSec": 264.0,
-          "endSec": 264.38,
-          "score": 1.0
-        },
-        {
-          "word": "concerts",
-          "startSec": 264.38,
-          "endSec": 265.06,
-          "score": 1.0
+          "word": "calm",
+          "start": 278.5,
+          "end": 278.98
         },
         {
           "word": "and",
-          "startSec": 265.06,
-          "endSec": 265.46,
-          "score": 0.98
+          "start": 278.98,
+          "end": 279.18
         },
         {
-          "word": "sports",
-          "startSec": 265.46,
-          "endSec": 265.82,
-          "score": 0.99
-        },
-        {
-          "word": "activities.",
-          "startSec": 265.82,
-          "endSec": 266.52,
-          "score": 1.0
+          "word": "organized.",
+          "start": 279.18,
+          "end": 280.28
         }
       ]
     },
     {
       "id": 62,
-      "start": 267.84,
-      "end": 272.03,
-      "text": "Even in the city, you can enjoy nature and fresh air.",
+      "start": 280.68,
+      "end": 284.44,
+      "text": "People go to school, university, or work.",
       "words": [
         {
-          "word": "Even",
-          "startSec": 268.04,
-          "endSec": 268.56,
-          "score": 0.99
+          "word": "People",
+          "start": 280.68,
+          "end": 281.06
         },
         {
-          "word": "in",
-          "startSec": 268.56,
-          "endSec": 268.76,
-          "score": 1.0
+          "word": "go",
+          "start": 281.06,
+          "end": 281.34
         },
         {
-          "word": "the",
-          "startSec": 268.76,
-          "endSec": 268.96,
-          "score": 0.99
+          "word": "to",
+          "start": 281.34,
+          "end": 281.52
         },
         {
-          "word": "city,",
-          "startSec": 268.96,
-          "endSec": 269.28,
-          "score": 0.98
+          "word": "school,",
+          "start": 281.52,
+          "end": 282.04
         },
         {
-          "word": "you",
-          "startSec": 269.54,
-          "endSec": 269.66,
-          "score": 1.0
+          "word": "university,",
+          "start": 282.44,
+          "end": 282.78
         },
         {
-          "word": "can",
-          "startSec": 269.66,
-          "endSec": 269.82,
-          "score": 1.0
+          "word": "or",
+          "start": 283.52,
+          "end": 283.62
         },
         {
-          "word": "enjoy",
-          "startSec": 269.82,
-          "endSec": 270.2,
-          "score": 1.0
-        },
-        {
-          "word": "nature",
-          "startSec": 270.2,
-          "endSec": 270.84,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 270.84,
-          "endSec": 271.14,
-          "score": 0.99
-        },
-        {
-          "word": "fresh",
-          "startSec": 271.14,
-          "endSec": 271.44,
-          "score": 1.0
-        },
-        {
-          "word": "air.",
-          "startSec": 271.44,
-          "endSec": 271.88,
-          "score": 1.0
+          "word": "work.",
+          "start": 283.62,
+          "end": 284.44
         }
       ]
     },
     {
       "id": 63,
-      "start": 273.72,
-      "end": 276.49,
-      "text": "Part ten, daily life in Minsk.",
+      "start": 284.96,
+      "end": 289.28,
+      "text": "Many people use buses, trams, and bicycles.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 273.92,
-          "endSec": 274.14,
-          "score": 0.8
+          "word": "Many",
+          "start": 284.96,
+          "end": 285.3
         },
         {
-          "word": "ten,",
-          "startSec": 274.14,
-          "endSec": 274.66,
-          "score": 0.02
+          "word": "people",
+          "start": 285.3,
+          "end": 285.76
         },
         {
-          "word": "daily",
-          "startSec": 275.02,
-          "endSec": 275.08,
-          "score": 0.46
+          "word": "use",
+          "start": 285.76,
+          "end": 286.2
         },
         {
-          "word": "life",
-          "startSec": 275.08,
-          "endSec": 275.6,
-          "score": 0.93
+          "word": "buses,",
+          "start": 286.2,
+          "end": 286.78
         },
         {
-          "word": "in",
-          "startSec": 275.6,
-          "endSec": 275.82,
-          "score": 0.75
+          "word": "trams,",
+          "start": 287.34,
+          "end": 287.86
         },
         {
-          "word": "Minsk.",
-          "startSec": 275.82,
-          "endSec": 276.34,
-          "score": 0.93
+          "word": "and",
+          "start": 288.18,
+          "end": 288.34
+        },
+        {
+          "word": "bicycles.",
+          "start": 288.34,
+          "end": 289.28
         }
       ]
     },
     {
       "id": 64,
-      "start": 276.97,
-      "end": 279.68,
-      "text": "Life in Minsk is calm and organized.",
+      "start": 290.14,
+      "end": 295.38,
+      "text": "In the evenings families visit parks, cafes, or theaters.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 277.17,
-          "endSec": 277.53,
-          "score": 0.99
+          "word": "In",
+          "start": 290.14,
+          "end": 290.48
         },
         {
-          "word": "in",
-          "startSec": 277.53,
-          "endSec": 277.81,
-          "score": 0.99
+          "word": "the",
+          "start": 290.48,
+          "end": 290.66
         },
         {
-          "word": "Minsk",
-          "startSec": 277.81,
-          "endSec": 278.21,
-          "score": 0.99
+          "word": "evenings",
+          "start": 290.66,
+          "end": 291.22
         },
         {
-          "word": "is",
-          "startSec": 278.21,
-          "endSec": 278.41,
-          "score": 1.0
+          "word": "families",
+          "start": 291.22,
+          "end": 292.08
         },
         {
-          "word": "calm",
-          "startSec": 278.41,
-          "endSec": 278.81,
-          "score": 0.97
+          "word": "visit",
+          "start": 292.08,
+          "end": 292.76
         },
         {
-          "word": "and",
-          "startSec": 278.81,
-          "endSec": 279.11,
-          "score": 1.0
+          "word": "parks,",
+          "start": 292.76,
+          "end": 293.28
         },
         {
-          "word": "organized.",
-          "startSec": 279.11,
-          "endSec": 279.53,
-          "score": 0.97
+          "word": "cafes,",
+          "start": 293.82,
+          "end": 294.22
+        },
+        {
+          "word": "or",
+          "start": 294.78,
+          "end": 294.88
+        },
+        {
+          "word": "theaters.",
+          "start": 294.88,
+          "end": 295.38
         }
       ]
     },
     {
       "id": 65,
-      "start": 280.33,
-      "end": 284.04,
-      "text": "People go to school, university, or work.",
+      "start": 295.38,
+      "end": 301.54,
+      "text": "Weekends are for shopping, cultural events, and relaxing.",
       "words": [
         {
-          "word": "People",
-          "startSec": 280.53,
-          "endSec": 281.03,
-          "score": 0.06
+          "word": "Weekends",
+          "start": 295.38,
+          "end": 297.26
         },
         {
-          "word": "go",
-          "startSec": 281.03,
-          "endSec": 281.29,
-          "score": 0.98
+          "word": "are",
+          "start": 297.26,
+          "end": 297.4
         },
         {
-          "word": "to",
-          "startSec": 281.29,
-          "endSec": 281.49,
-          "score": 1.0
+          "word": "for",
+          "start": 297.4,
+          "end": 297.64
         },
         {
-          "word": "school,",
-          "startSec": 281.49,
-          "endSec": 281.85,
-          "score": 0.99
+          "word": "shopping,",
+          "start": 297.64,
+          "end": 298.26
         },
         {
-          "word": "university,",
-          "startSec": 282.23,
-          "endSec": 282.81,
-          "score": 0.98
+          "word": "cultural",
+          "start": 298.7,
+          "end": 299.32
         },
         {
-          "word": "or",
-          "startSec": 283.47,
-          "endSec": 283.57,
-          "score": 1.0
+          "word": "events,",
+          "start": 299.32,
+          "end": 299.94
         },
         {
-          "word": "work.",
-          "startSec": 283.57,
-          "endSec": 283.89,
-          "score": 1.0
+          "word": "and",
+          "start": 300.36,
+          "end": 300.46
+        },
+        {
+          "word": "relaxing.",
+          "start": 300.46,
+          "end": 301.54
         }
       ]
     },
     {
       "id": 66,
-      "start": 284.74,
-      "end": 288.85,
-      "text": "Many people use buses, trams, and bicycles.",
+      "start": 302.52,
+      "end": 305.92,
+      "text": "Minsk is a safe and welcoming city.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 284.94,
-          "endSec": 285.16,
-          "score": 0.99
+          "word": "Minsk",
+          "start": 302.52,
+          "end": 303.18
         },
         {
-          "word": "people",
-          "startSec": 285.16,
-          "endSec": 285.74,
-          "score": 1.0
+          "word": "is",
+          "start": 303.18,
+          "end": 303.38
         },
         {
-          "word": "use",
-          "startSec": 285.74,
-          "endSec": 286.08,
-          "score": 1.0
+          "word": "a",
+          "start": 303.38,
+          "end": 303.52
         },
         {
-          "word": "buses,",
-          "startSec": 286.08,
-          "endSec": 286.56,
-          "score": 0.95
-        },
-        {
-          "word": "trams,",
-          "startSec": 287.2,
-          "endSec": 287.82,
-          "score": 0.99
+          "word": "safe",
+          "start": 303.52,
+          "end": 304.12
         },
         {
           "word": "and",
-          "startSec": 288.2,
-          "endSec": 288.28,
-          "score": 1.0
+          "start": 304.12,
+          "end": 304.36
         },
         {
-          "word": "bicycles.",
-          "startSec": 288.28,
-          "endSec": 288.7,
-          "score": 0.99
+          "word": "welcoming",
+          "start": 304.36,
+          "end": 304.88
+        },
+        {
+          "word": "city.",
+          "start": 304.88,
+          "end": 305.92
         }
       ]
     },
     {
       "id": 67,
-      "start": 290.06,
-      "end": 295.29,
-      "text": "In the evenings, families visit parks, cafes, or theaters.",
+      "start": 306.96,
+      "end": 310.98,
+      "text": "Part eleven, learning English in Minsk.",
       "words": [
         {
-          "word": "In",
-          "startSec": 290.26,
-          "endSec": 290.44,
-          "score": 1.0
+          "word": "Part",
+          "start": 306.96,
+          "end": 307.28
         },
         {
-          "word": "the",
-          "startSec": 290.44,
-          "endSec": 290.62,
-          "score": 1.0
+          "word": "eleven,",
+          "start": 307.28,
+          "end": 307.9
         },
         {
-          "word": "evenings,",
-          "startSec": 290.62,
-          "endSec": 291.06,
-          "score": 0.97
+          "word": "learning",
+          "start": 308.44,
+          "end": 308.94
         },
         {
-          "word": "families",
-          "startSec": 291.14,
-          "endSec": 292.1,
-          "score": 1.0
+          "word": "English",
+          "start": 308.94,
+          "end": 309.52
         },
         {
-          "word": "visit",
-          "startSec": 292.1,
-          "endSec": 292.7,
-          "score": 1.0
+          "word": "in",
+          "start": 309.52,
+          "end": 309.86
         },
         {
-          "word": "parks,",
-          "startSec": 292.7,
-          "endSec": 293.12,
-          "score": 1.0
-        },
-        {
-          "word": "cafes,",
-          "startSec": 293.68,
-          "endSec": 294.04,
-          "score": 0.95
-        },
-        {
-          "word": "or",
-          "startSec": 294.26,
-          "endSec": 294.82,
-          "score": 0.99
-        },
-        {
-          "word": "theaters.",
-          "startSec": 294.82,
-          "endSec": 295.14,
-          "score": 0.95
+          "word": "Minsk.",
+          "start": 309.86,
+          "end": 310.98
         }
       ]
     },
     {
       "id": 68,
-      "start": 296.35,
-      "end": 300.92,
-      "text": "Weekends are for shopping, cultural events, and relaxing.",
+      "start": 311.2,
+      "end": 314.9,
+      "text": "English is taught in schools from a young age.",
       "words": [
         {
-          "word": "Weekends",
-          "startSec": 296.55,
-          "endSec": 297.17,
-          "score": 0.79
+          "word": "English",
+          "start": 311.2,
+          "end": 311.9
         },
         {
-          "word": "are",
-          "startSec": 297.17,
-          "endSec": 297.37,
-          "score": 1.0
+          "word": "is",
+          "start": 311.9,
+          "end": 312.24
         },
         {
-          "word": "for",
-          "startSec": 297.37,
-          "endSec": 297.57,
-          "score": 1.0
+          "word": "taught",
+          "start": 312.24,
+          "end": 312.56
         },
         {
-          "word": "shopping,",
-          "startSec": 297.57,
-          "endSec": 298.15,
-          "score": 1.0
+          "word": "in",
+          "start": 312.56,
+          "end": 312.78
         },
         {
-          "word": "cultural",
-          "startSec": 298.73,
-          "endSec": 299.01,
-          "score": 0.99
+          "word": "schools",
+          "start": 312.78,
+          "end": 313.2
         },
         {
-          "word": "events,",
-          "startSec": 299.01,
-          "endSec": 299.73,
-          "score": 1.0
+          "word": "from",
+          "start": 313.2,
+          "end": 313.58
         },
         {
-          "word": "and",
-          "startSec": 300.29,
-          "endSec": 300.39,
-          "score": 1.0
+          "word": "a",
+          "start": 313.58,
+          "end": 313.8
         },
         {
-          "word": "relaxing.",
-          "startSec": 300.39,
-          "endSec": 300.77,
-          "score": 1.0
+          "word": "young",
+          "start": 313.8,
+          "end": 314.04
+        },
+        {
+          "word": "age.",
+          "start": 314.04,
+          "end": 314.9
         }
       ]
     },
     {
       "id": 69,
-      "start": 302.53,
-      "end": 305.6,
-      "text": "Minsk is a safe and welcoming city.",
+      "start": 315.58,
+      "end": 318.64,
+      "text": "Many young people speak English well.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 302.73,
-          "endSec": 303.05,
-          "score": 0.75
+          "word": "Many",
+          "start": 315.58,
+          "end": 316.0
         },
         {
-          "word": "is",
-          "startSec": 303.05,
-          "endSec": 303.27,
-          "score": 1.0
+          "word": "young",
+          "start": 316.0,
+          "end": 316.36
         },
         {
-          "word": "a",
-          "startSec": 303.27,
-          "endSec": 303.47,
-          "score": 0.99
+          "word": "people",
+          "start": 316.36,
+          "end": 316.78
         },
         {
-          "word": "safe",
-          "startSec": 303.47,
-          "endSec": 303.83,
-          "score": 1.0
+          "word": "speak",
+          "start": 316.78,
+          "end": 317.28
         },
         {
-          "word": "and",
-          "startSec": 303.83,
-          "endSec": 304.27,
-          "score": 0.97
+          "word": "English",
+          "start": 317.28,
+          "end": 317.84
         },
         {
-          "word": "welcoming",
-          "startSec": 304.27,
-          "endSec": 304.79,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 304.79,
-          "endSec": 305.45,
-          "score": 0.99
+          "word": "well.",
+          "start": 317.84,
+          "end": 318.64
         }
       ]
     },
     {
       "id": 70,
-      "start": 306.57,
-      "end": 310.6,
-      "text": "Part eleven, learning English in Minsk.",
+      "start": 319.22,
+      "end": 322.22,
+      "text": "Visitors can easily communicate in English.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 306.77,
-          "endSec": 307.21,
-          "score": 0.45
+          "word": "Visitors",
+          "start": 319.22,
+          "end": 319.74
         },
         {
-          "word": "eleven,",
-          "startSec": 307.21,
-          "endSec": 307.71,
-          "score": 0.0
+          "word": "can",
+          "start": 319.74,
+          "end": 320.1
         },
         {
-          "word": "learning",
-          "startSec": 308.41,
-          "endSec": 308.91,
-          "score": 0.54
+          "word": "easily",
+          "start": 320.1,
+          "end": 320.72
         },
         {
-          "word": "English",
-          "startSec": 308.91,
-          "endSec": 309.49,
-          "score": 0.99
+          "word": "communicate",
+          "start": 320.72,
+          "end": 321.46
         },
         {
           "word": "in",
-          "startSec": 309.49,
-          "endSec": 309.81,
-          "score": 0.46
+          "start": 321.46,
+          "end": 321.84
         },
         {
-          "word": "Minsk.",
-          "startSec": 309.81,
-          "endSec": 310.45,
-          "score": 0.91
+          "word": "English.",
+          "start": 321.84,
+          "end": 322.22
         }
       ]
     },
     {
       "id": 71,
-      "start": 311.16,
-      "end": 314.53,
-      "text": "English is taught in schools from a young age.",
+      "start": 322.22,
+      "end": 327.2,
+      "text": "You can practice English while exploring the city.",
       "words": [
         {
+          "word": "You",
+          "start": 322.22,
+          "end": 322.94
+        },
+        {
+          "word": "can",
+          "start": 322.94,
+          "end": 323.86
+        },
+        {
+          "word": "practice",
+          "start": 323.86,
+          "end": 324.4
+        },
+        {
           "word": "English",
-          "startSec": 311.36,
-          "endSec": 311.9,
-          "score": 0.98
+          "start": 324.4,
+          "end": 325.0
         },
         {
-          "word": "is",
-          "startSec": 311.9,
-          "endSec": 312.16,
-          "score": 0.99
+          "word": "while",
+          "start": 325.0,
+          "end": 325.48
         },
         {
-          "word": "taught",
-          "startSec": 312.16,
-          "endSec": 312.48,
-          "score": 1.0
+          "word": "exploring",
+          "start": 325.48,
+          "end": 326.2
         },
         {
-          "word": "in",
-          "startSec": 312.48,
-          "endSec": 312.72,
-          "score": 1.0
+          "word": "the",
+          "start": 326.2,
+          "end": 326.46
         },
         {
-          "word": "schools",
-          "startSec": 312.72,
-          "endSec": 313.04,
-          "score": 0.97
-        },
-        {
-          "word": "from",
-          "startSec": 313.04,
-          "endSec": 313.54,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 313.54,
-          "endSec": 313.7,
-          "score": 1.0
-        },
-        {
-          "word": "young",
-          "startSec": 313.7,
-          "endSec": 313.9,
-          "score": 1.0
-        },
-        {
-          "word": "age.",
-          "startSec": 313.9,
-          "endSec": 314.38,
-          "score": 1.0
+          "word": "city.",
+          "start": 326.46,
+          "end": 327.2
         }
       ]
     },
     {
       "id": 72,
-      "start": 315.41,
-      "end": 318.32,
-      "text": "Many young people speak English well.",
+      "start": 327.66,
+      "end": 332.96,
+      "text": "It is also a great way to learn about Belarusian culture and life.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 315.61,
-          "endSec": 315.87,
-          "score": 1.0
+          "word": "It",
+          "start": 327.66,
+          "end": 327.98
         },
         {
-          "word": "young",
-          "startSec": 315.87,
-          "endSec": 316.27,
-          "score": 0.99
+          "word": "is",
+          "start": 327.98,
+          "end": 328.16
         },
         {
-          "word": "people",
-          "startSec": 316.27,
-          "endSec": 316.77,
-          "score": 0.99
+          "word": "also",
+          "start": 328.16,
+          "end": 328.62
         },
         {
-          "word": "speak",
-          "startSec": 316.77,
-          "endSec": 317.21,
-          "score": 1.0
+          "word": "a",
+          "start": 328.62,
+          "end": 328.86
         },
         {
-          "word": "English",
-          "startSec": 317.21,
-          "endSec": 317.75,
-          "score": 1.0
+          "word": "great",
+          "start": 328.86,
+          "end": 329.18
         },
         {
-          "word": "well.",
-          "startSec": 317.75,
-          "endSec": 318.17,
-          "score": 1.0
+          "word": "way",
+          "start": 329.18,
+          "end": 329.5
+        },
+        {
+          "word": "to",
+          "start": 329.5,
+          "end": 329.7
+        },
+        {
+          "word": "learn",
+          "start": 329.7,
+          "end": 330.02
+        },
+        {
+          "word": "about",
+          "start": 330.02,
+          "end": 330.34
+        },
+        {
+          "word": "Belarusian",
+          "start": 330.34,
+          "end": 331.36
+        },
+        {
+          "word": "culture",
+          "start": 331.36,
+          "end": 331.84
+        },
+        {
+          "word": "and",
+          "start": 331.84,
+          "end": 332.18
+        },
+        {
+          "word": "life.",
+          "start": 332.18,
+          "end": 332.96
         }
       ]
     },
     {
       "id": 73,
-      "start": 318.93,
-      "end": 322.34,
-      "text": "Visitors can easily communicate in English.",
+      "start": 334.76,
+      "end": 338.4,
+      "text": "Part twelve, goodbye from Minsk.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 319.13,
-          "endSec": 319.51,
-          "score": 0.98
+          "word": "Part",
+          "start": 334.76,
+          "end": 335.04
         },
         {
-          "word": "can",
-          "startSec": 319.51,
-          "endSec": 320.05,
-          "score": 1.0
+          "word": "twelve,",
+          "start": 335.04,
+          "end": 335.6
         },
         {
-          "word": "easily",
-          "startSec": 320.05,
-          "endSec": 320.47,
-          "score": 1.0
+          "word": "goodbye",
+          "start": 336.28,
+          "end": 336.74
         },
         {
-          "word": "communicate",
-          "startSec": 320.47,
-          "endSec": 321.27,
-          "score": 1.0
+          "word": "from",
+          "start": 336.74,
+          "end": 337.26
         },
         {
-          "word": "in",
-          "startSec": 321.27,
-          "endSec": 321.77,
-          "score": 1.0
-        },
-        {
-          "word": "English.",
-          "startSec": 321.77,
-          "endSec": 322.19,
-          "score": 1.0
+          "word": "Minsk.",
+          "start": 337.26,
+          "end": 338.4
         }
       ]
     },
     {
       "id": 74,
-      "start": 322.86,
-      "end": 326.91,
-      "text": "You can practice English while exploring the city.",
+      "start": 339.46,
+      "end": 343.12,
+      "text": "Our journey in Minsk is now finished.",
       "words": [
         {
-          "word": "You",
-          "startSec": 323.06,
-          "endSec": 323.62,
-          "score": 1.0
+          "word": "Our",
+          "start": 339.46,
+          "end": 340.22
         },
         {
-          "word": "can",
-          "startSec": 323.62,
-          "endSec": 323.8,
-          "score": 1.0
+          "word": "journey",
+          "start": 340.22,
+          "end": 340.7
         },
         {
-          "word": "practice",
-          "startSec": 323.8,
-          "endSec": 324.22,
-          "score": 1.0
+          "word": "in",
+          "start": 340.7,
+          "end": 341.08
         },
         {
-          "word": "English",
-          "startSec": 324.22,
-          "endSec": 324.96,
-          "score": 1.0
+          "word": "Minsk",
+          "start": 341.08,
+          "end": 341.62
         },
         {
-          "word": "while",
-          "startSec": 324.96,
-          "endSec": 325.4,
-          "score": 1.0
+          "word": "is",
+          "start": 341.62,
+          "end": 341.84
         },
         {
-          "word": "exploring",
-          "startSec": 325.4,
-          "endSec": 325.96,
-          "score": 1.0
+          "word": "now",
+          "start": 341.84,
+          "end": 342.16
         },
         {
-          "word": "the",
-          "startSec": 325.96,
-          "endSec": 326.4,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 326.4,
-          "endSec": 326.76,
-          "score": 0.97
+          "word": "finished.",
+          "start": 342.16,
+          "end": 343.12
         }
       ]
     },
     {
       "id": 75,
-      "start": 327.55,
-      "end": 332.6,
-      "text": "It is also a great way to learn about Belarusian culture and life.",
+      "start": 343.56,
+      "end": 349.8,
+      "text": "We learned about the city's history, landmarks, food, parks, and people.",
       "words": [
         {
-          "word": "It",
-          "startSec": 327.75,
-          "endSec": 327.95,
-          "score": 0.99
+          "word": "We",
+          "start": 343.56,
+          "end": 343.84
         },
         {
-          "word": "is",
-          "startSec": 327.95,
-          "endSec": 328.09,
-          "score": 0.99
-        },
-        {
-          "word": "also",
-          "startSec": 328.09,
-          "endSec": 328.59,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 328.59,
-          "endSec": 328.81,
-          "score": 1.0
-        },
-        {
-          "word": "great",
-          "startSec": 328.81,
-          "endSec": 329.09,
-          "score": 1.0
-        },
-        {
-          "word": "way",
-          "startSec": 329.09,
-          "endSec": 329.47,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 329.47,
-          "endSec": 329.67,
-          "score": 1.0
-        },
-        {
-          "word": "learn",
-          "startSec": 329.67,
-          "endSec": 329.89,
-          "score": 1.0
+          "word": "learned",
+          "start": 343.84,
+          "end": 344.2
         },
         {
           "word": "about",
-          "startSec": 329.89,
-          "endSec": 330.35,
-          "score": 1.0
+          "start": 344.2,
+          "end": 344.54
         },
         {
-          "word": "Belarusian",
-          "startSec": 330.35,
-          "endSec": 331.31,
-          "score": 0.95
+          "word": "the",
+          "start": 344.54,
+          "end": 344.8
         },
         {
-          "word": "culture",
-          "startSec": 331.31,
-          "endSec": 331.59,
-          "score": 1.0
+          "word": "city's",
+          "start": 344.8,
+          "end": 345.34
+        },
+        {
+          "word": "history,",
+          "start": 345.34,
+          "end": 345.94
+        },
+        {
+          "word": "landmarks,",
+          "start": 346.36,
+          "end": 347.4
+        },
+        {
+          "word": "food,",
+          "start": 347.54,
+          "end": 347.94
+        },
+        {
+          "word": "parks,",
+          "start": 348.34,
+          "end": 348.66
         },
         {
           "word": "and",
-          "startSec": 331.59,
-          "endSec": 332.15,
-          "score": 0.96
+          "start": 348.9,
+          "end": 349.02
         },
         {
-          "word": "life.",
-          "startSec": 332.15,
-          "endSec": 332.45,
-          "score": 1.0
+          "word": "people.",
+          "start": 349.02,
+          "end": 349.8
         }
       ]
     },
     {
       "id": 76,
-      "start": 334.34,
-      "end": 337.95,
-      "text": "Part twelve, goodbye from Minsk.",
+      "start": 350.4,
+      "end": 355.42,
+      "text": "Minsk is a city that is modern, clean, and full of life.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 334.54,
-          "endSec": 334.96,
-          "score": 0.15
+          "word": "Minsk",
+          "start": 350.4,
+          "end": 350.92
         },
         {
-          "word": "twelve,",
-          "startSec": 334.96,
-          "endSec": 335.6,
-          "score": 0.01
+          "word": "is",
+          "start": 350.92,
+          "end": 351.1
         },
         {
-          "word": "goodbye",
-          "startSec": 336.28,
-          "endSec": 336.56,
-          "score": 0.64
+          "word": "a",
+          "start": 351.1,
+          "end": 351.26
         },
         {
-          "word": "from",
-          "startSec": 336.56,
-          "endSec": 337.18,
-          "score": 0.99
+          "word": "city",
+          "start": 351.26,
+          "end": 351.58
         },
         {
-          "word": "Minsk.",
-          "startSec": 337.18,
-          "endSec": 337.8,
-          "score": 0.92
+          "word": "that",
+          "start": 351.58,
+          "end": 351.92
+        },
+        {
+          "word": "is",
+          "start": 351.92,
+          "end": 352.12
+        },
+        {
+          "word": "modern,",
+          "start": 352.12,
+          "end": 352.68
+        },
+        {
+          "word": "clean,",
+          "start": 353.1,
+          "end": 353.4
+        },
+        {
+          "word": "and",
+          "start": 353.98,
+          "end": 354.06
+        },
+        {
+          "word": "full",
+          "start": 354.06,
+          "end": 354.48
+        },
+        {
+          "word": "of",
+          "start": 354.48,
+          "end": 354.68
+        },
+        {
+          "word": "life.",
+          "start": 354.68,
+          "end": 355.42
         }
       ]
     },
     {
       "id": 77,
-      "start": 339.71,
-      "end": 342.72,
-      "text": "Our journey in Minsk is now finished.",
+      "start": 356.04,
+      "end": 366.44,
+      "text": "From wide streets to peaceful parks, from historical monuments to cultural events, Minsk has something for everyone.",
       "words": [
         {
-          "word": "Our",
-          "startSec": 339.91,
-          "endSec": 340.17,
-          "score": 0.98
+          "word": "From",
+          "start": 356.04,
+          "end": 356.2
         },
         {
-          "word": "journey",
-          "startSec": 340.17,
-          "endSec": 340.49,
-          "score": 0.97
+          "word": "wide",
+          "start": 356.2,
+          "end": 356.64
         },
         {
-          "word": "in",
-          "startSec": 340.49,
-          "endSec": 341.01,
-          "score": 0.97
+          "word": "streets",
+          "start": 356.64,
+          "end": 357.16
+        },
+        {
+          "word": "to",
+          "start": 357.16,
+          "end": 357.9
+        },
+        {
+          "word": "peaceful",
+          "start": 357.9,
+          "end": 358.52
+        },
+        {
+          "word": "parks,",
+          "start": 358.52,
+          "end": 359.18
+        },
+        {
+          "word": "from",
+          "start": 359.92,
+          "end": 359.98
+        },
+        {
+          "word": "historical",
+          "start": 359.98,
+          "end": 360.78
+        },
+        {
+          "word": "monuments",
+          "start": 360.78,
+          "end": 361.36
+        },
+        {
+          "word": "to",
+          "start": 361.36,
+          "end": 361.98
+        },
+        {
+          "word": "cultural",
+          "start": 361.98,
+          "end": 362.54
+        },
+        {
+          "word": "events,",
+          "start": 362.54,
+          "end": 363.16
         },
         {
           "word": "Minsk",
-          "startSec": 341.01,
-          "endSec": 341.49,
-          "score": 0.99
+          "start": 363.94,
+          "end": 364.46
         },
         {
-          "word": "is",
-          "startSec": 341.49,
-          "endSec": 341.75,
-          "score": 1.0
+          "word": "has",
+          "start": 364.46,
+          "end": 364.64
         },
         {
-          "word": "now",
-          "startSec": 341.75,
-          "endSec": 342.13,
-          "score": 1.0
+          "word": "something",
+          "start": 364.64,
+          "end": 365.22
         },
         {
-          "word": "finished.",
-          "startSec": 342.13,
-          "endSec": 342.57,
-          "score": 1.0
+          "word": "for",
+          "start": 365.22,
+          "end": 365.54
+        },
+        {
+          "word": "everyone.",
+          "start": 365.54,
+          "end": 366.44
         }
       ]
     },
     {
       "id": 78,
-      "start": 343.39,
-      "end": 349.52,
-      "text": "We learned about the city's history, landmarks, food, parks, and people.",
+      "start": 367.12,
+      "end": 370.76,
+      "text": "Thank you for listening to the Slow English Podcast.",
       "words": [
         {
-          "word": "We",
-          "startSec": 343.59,
-          "endSec": 343.79,
-          "score": 0.99
+          "word": "Thank",
+          "start": 367.12,
+          "end": 367.52
         },
         {
-          "word": "learned",
-          "startSec": 343.79,
-          "endSec": 344.11,
-          "score": 0.99
+          "word": "you",
+          "start": 367.52,
+          "end": 367.76
         },
         {
-          "word": "about",
-          "startSec": 344.11,
-          "endSec": 344.51,
-          "score": 1.0
+          "word": "for",
+          "start": 367.76,
+          "end": 367.98
+        },
+        {
+          "word": "listening",
+          "start": 367.98,
+          "end": 368.44
+        },
+        {
+          "word": "to",
+          "start": 368.44,
+          "end": 368.76
         },
         {
           "word": "the",
-          "startSec": 344.51,
-          "endSec": 344.73,
-          "score": 0.99
+          "start": 368.76,
+          "end": 368.96
         },
         {
-          "word": "city's",
-          "startSec": 344.73,
-          "endSec": 345.31,
-          "score": 0.97
+          "word": "Slow",
+          "start": 368.96,
+          "end": 369.22
         },
         {
-          "word": "history,",
-          "startSec": 345.31,
-          "endSec": 345.81,
-          "score": 1.0
+          "word": "English",
+          "start": 369.22,
+          "end": 369.68
         },
         {
-          "word": "landmarks,",
-          "startSec": 345.81,
-          "endSec": 346.81,
-          "score": 1.0
-        },
-        {
-          "word": "food,",
-          "startSec": 347.45,
-          "endSec": 347.81,
-          "score": 1.0
-        },
-        {
-          "word": "parks,",
-          "startSec": 348.19,
-          "endSec": 348.53,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 348.71,
-          "endSec": 348.97,
-          "score": 1.0
-        },
-        {
-          "word": "people.",
-          "startSec": 348.97,
-          "endSec": 349.37,
-          "score": 1.0
+          "word": "Podcast.",
+          "start": 369.68,
+          "end": 370.76
         }
       ]
     },
     {
       "id": 79,
-      "start": 350.07,
-      "end": 355.1,
-      "text": "Minsk is a city that is modern, clean, and full of life.",
+      "start": 371.14,
+      "end": 378.26,
+      "text": "I am Emilie, and I hope one day you can visit Minsk and see its beauty yourself.",
       "words": [
         {
-          "word": "Minsk",
-          "startSec": 350.27,
-          "endSec": 350.81,
-          "score": 0.99
+          "word": "I",
+          "start": 371.14,
+          "end": 371.46
         },
         {
-          "word": "is",
-          "startSec": 350.81,
-          "endSec": 351.01,
-          "score": 1.0
+          "word": "am",
+          "start": 371.46,
+          "end": 371.7
         },
         {
-          "word": "a",
-          "startSec": 351.01,
-          "endSec": 351.19,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 351.19,
-          "endSec": 351.57,
-          "score": 1.0
-        },
-        {
-          "word": "that",
-          "startSec": 351.57,
-          "endSec": 351.85,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 351.85,
-          "endSec": 352.03,
-          "score": 1.0
-        },
-        {
-          "word": "modern,",
-          "startSec": 352.03,
-          "endSec": 352.51,
-          "score": 0.99
-        },
-        {
-          "word": "clean,",
-          "startSec": 352.79,
-          "endSec": 353.21,
-          "score": 1.0
+          "word": "Emilie,",
+          "start": 371.7,
+          "end": 372.4
         },
         {
           "word": "and",
-          "startSec": 353.89,
-          "endSec": 353.99,
-          "score": 1.0
+          "start": 372.8,
+          "end": 373.36
         },
         {
-          "word": "full",
-          "startSec": 353.99,
-          "endSec": 354.33,
-          "score": 1.0
+          "word": "I",
+          "start": 373.36,
+          "end": 373.56
         },
         {
-          "word": "of",
-          "startSec": 354.33,
-          "endSec": 354.59,
-          "score": 1.0
+          "word": "hope",
+          "start": 373.56,
+          "end": 373.9
         },
         {
-          "word": "life.",
-          "startSec": 354.59,
-          "endSec": 354.95,
-          "score": 1.0
+          "word": "one",
+          "start": 373.9,
+          "end": 374.26
+        },
+        {
+          "word": "day",
+          "start": 374.26,
+          "end": 374.58
+        },
+        {
+          "word": "you",
+          "start": 374.58,
+          "end": 374.82
+        },
+        {
+          "word": "can",
+          "start": 374.82,
+          "end": 375.06
+        },
+        {
+          "word": "visit",
+          "start": 375.06,
+          "end": 375.4
+        },
+        {
+          "word": "Minsk",
+          "start": 375.4,
+          "end": 376.2
+        },
+        {
+          "word": "and",
+          "start": 376.2,
+          "end": 376.74
+        },
+        {
+          "word": "see",
+          "start": 376.74,
+          "end": 377.06
+        },
+        {
+          "word": "its",
+          "start": 377.06,
+          "end": 377.26
+        },
+        {
+          "word": "beauty",
+          "start": 377.26,
+          "end": 377.64
+        },
+        {
+          "word": "yourself.",
+          "start": 377.64,
+          "end": 378.26
         }
       ]
     },
     {
       "id": 80,
-      "start": 355.62,
-      "end": 359.03,
-      "text": "From wide streets to peaceful parks,",
+      "start": 378.26,
+      "end": 379.9,
+      "text": "Goodbye!",
       "words": [
         {
-          "word": "From",
-          "startSec": 355.82,
-          "endSec": 356.2,
-          "score": 0.99
-        },
-        {
-          "word": "wide",
-          "startSec": 356.2,
-          "endSec": 356.44,
-          "score": 0.92
-        },
-        {
-          "word": "streets",
-          "startSec": 356.44,
-          "endSec": 357.08,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 357.08,
-          "endSec": 357.86,
-          "score": 0.78
-        },
-        {
-          "word": "peaceful",
-          "startSec": 357.86,
-          "endSec": 358.36,
-          "score": 1.0
-        },
-        {
-          "word": "parks,",
-          "startSec": 358.36,
-          "endSec": 358.88,
-          "score": 1.0
+          "word": "Goodbye!",
+          "start": 378.26,
+          "end": 379.9
         }
       ]
     },
     {
       "id": 81,
-      "start": 359.5,
-      "end": 363.11,
-      "text": "from historical monuments to cultural events,",
+      "start": 381.54,
+      "end": 387.07,
+      "text": "Or as people in Belarus sometimes say, Das Vidania.",
       "words": [
         {
-          "word": "from",
-          "startSec": 359.7,
-          "endSec": 359.94,
-          "score": 0.99
-        },
-        {
-          "word": "historical",
-          "startSec": 359.94,
-          "endSec": 360.54,
-          "score": 1.0
-        },
-        {
-          "word": "monuments",
-          "startSec": 360.54,
-          "endSec": 361.16,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 361.16,
-          "endSec": 361.96,
-          "score": 0.97
-        },
-        {
-          "word": "cultural",
-          "startSec": 361.96,
-          "endSec": 362.28,
-          "score": 1.0
-        },
-        {
-          "word": "events,",
-          "startSec": 362.28,
-          "endSec": 362.96,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "start": 363.76,
-      "end": 366.25,
-      "text": "Minsk has something for everyone.",
-      "words": [
-        {
-          "word": "Minsk",
-          "startSec": 363.96,
-          "endSec": 364.34,
-          "score": 0.55
-        },
-        {
-          "word": "has",
-          "startSec": 364.34,
-          "endSec": 364.6,
-          "score": 0.98
-        },
-        {
-          "word": "something",
-          "startSec": 364.6,
-          "endSec": 365.18,
-          "score": 0.98
-        },
-        {
-          "word": "for",
-          "startSec": 365.18,
-          "endSec": 365.46,
-          "score": 0.99
-        },
-        {
-          "word": "everyone.",
-          "startSec": 365.46,
-          "endSec": 366.1,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "start": 375.8,
-      "end": 378.37,
-      "text": "and see its beauty yourself.",
-      "words": [
-        {
-          "word": "and",
-          "startSec": 376.0,
-          "endSec": 376.68,
-          "score": 0.94
-        },
-        {
-          "word": "see",
-          "startSec": 376.68,
-          "endSec": 376.98,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 376.98,
-          "endSec": 377.2,
-          "score": 0.88
-        },
-        {
-          "word": "beauty",
-          "startSec": 377.2,
-          "endSec": 377.48,
-          "score": 0.99
-        },
-        {
-          "word": "yourself.",
-          "startSec": 377.48,
-          "endSec": 378.22,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "start": 378.84,
-      "end": 384.91,
-      "text": "Goodbye, or, as people in Belarus sometimes say,",
-      "words": [
-        {
-          "word": "Goodbye,",
-          "startSec": 379.04,
-          "endSec": 379.36,
-          "score": 0.79
-        },
-        {
-          "word": "or,",
-          "startSec": 381.34,
-          "endSec": 382.0,
-          "score": 0.99
+          "word": "Or",
+          "start": 381.54,
+          "end": 382.04
         },
         {
           "word": "as",
-          "startSec": 382.0,
-          "endSec": 382.5,
-          "score": 1.0
+          "start": 382.04,
+          "end": 382.5
         },
         {
           "word": "people",
-          "startSec": 382.5,
-          "endSec": 382.74,
-          "score": 0.99
+          "start": 382.5,
+          "end": 382.9
         },
         {
           "word": "in",
-          "startSec": 382.74,
-          "endSec": 383.12,
-          "score": 1.0
+          "start": 382.9,
+          "end": 383.18
         },
         {
           "word": "Belarus",
-          "startSec": 383.12,
-          "endSec": 383.44,
-          "score": 0.99
+          "start": 383.18,
+          "end": 383.64
         },
         {
           "word": "sometimes",
-          "startSec": 383.44,
-          "endSec": 384.16,
-          "score": 0.98
+          "start": 383.64,
+          "end": 384.24
         },
         {
           "word": "say,",
-          "startSec": 384.16,
-          "endSec": 384.76,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 85,
-      "start": 384.56,
-      "end": 386.55,
-      "text": "das vidanya.",
-      "words": [
-        {
-          "word": "das",
-          "startSec": 384.76,
-          "endSec": 385.72,
-          "score": 0.38
+          "start": 384.24,
+          "end": 384.74
         },
         {
-          "word": "vidanya.",
-          "startSec": 385.72,
-          "endSec": 386.4,
-          "score": 0.64
+          "word": "Das",
+          "start": 385.5,
+          "end": 385.72
+        },
+        {
+          "word": "Vidania.",
+          "start": 385.72,
+          "end": 387.07
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 81
 }

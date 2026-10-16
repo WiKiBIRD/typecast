@@ -15,3377 +15,2978 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.04,
-      "end": 3.31,
-      "text": "Hello everyone, welcome to the Slow English Podcast.",
+      "start": 0.0,
+      "end": 3.72,
+      "text": "Hello everyone, welcome to the Slow English podcast.",
       "words": [
         {
           "word": "Hello",
-          "startSec": 0.14,
-          "endSec": 0.6,
-          "score": 0.91
+          "start": 0.0,
+          "end": 0.78
         },
         {
           "word": "everyone,",
-          "startSec": 0.6,
-          "endSec": 1.02,
-          "score": 0.69
+          "start": 0.78,
+          "end": 1.16
         },
         {
           "word": "welcome",
-          "startSec": 1.02,
-          "endSec": 1.76,
-          "score": 0.98
+          "start": 1.44,
+          "end": 1.72
         },
         {
           "word": "to",
-          "startSec": 1.76,
-          "endSec": 1.96,
-          "score": 1.0
+          "start": 1.72,
+          "end": 2.0
         },
         {
           "word": "the",
-          "startSec": 1.96,
-          "endSec": 2.08,
-          "score": 0.98
+          "start": 2.0,
+          "end": 2.18
         },
         {
           "word": "Slow",
-          "startSec": 2.08,
-          "endSec": 2.32,
-          "score": 0.66
+          "start": 2.18,
+          "end": 2.4
         },
         {
           "word": "English",
-          "startSec": 2.32,
-          "endSec": 2.62,
-          "score": 0.96
+          "start": 2.4,
+          "end": 2.7
         },
         {
-          "word": "Podcast.",
-          "startSec": 2.62,
-          "endSec": 3.16,
-          "score": 0.8
+          "word": "podcast.",
+          "start": 2.7,
+          "end": 3.72
         }
       ]
     },
     {
       "id": 2,
-      "start": 4.04,
-      "end": 5.75,
+      "start": 4.5,
+      "end": 6.06,
       "text": "My name is Emily.",
       "words": [
         {
           "word": "My",
-          "startSec": 4.24,
-          "endSec": 4.86,
-          "score": 0.99
+          "start": 4.5,
+          "end": 4.9
         },
         {
           "word": "name",
-          "startSec": 4.86,
-          "endSec": 5.06,
-          "score": 0.99
+          "start": 4.9,
+          "end": 5.16
         },
         {
           "word": "is",
-          "startSec": 5.06,
-          "endSec": 5.36,
-          "score": 1.0
+          "start": 5.16,
+          "end": 5.38
         },
         {
           "word": "Emily.",
-          "startSec": 5.36,
-          "endSec": 5.6,
-          "score": 0.38
+          "start": 5.38,
+          "end": 6.06
         }
       ]
     },
     {
       "id": 3,
-      "start": 6.36,
-      "end": 9.23,
+      "start": 6.38,
+      "end": 9.66,
       "text": "In this podcast, we speak slowly.",
       "words": [
         {
           "word": "In",
-          "startSec": 6.56,
-          "endSec": 6.68,
-          "score": 0.99
+          "start": 6.38,
+          "end": 6.74
         },
         {
           "word": "this",
-          "startSec": 6.68,
-          "endSec": 6.88,
-          "score": 1.0
+          "start": 6.74,
+          "end": 6.98
         },
         {
           "word": "podcast,",
-          "startSec": 6.88,
-          "endSec": 7.34,
-          "score": 0.99
+          "start": 6.98,
+          "end": 7.64
         },
         {
           "word": "we",
-          "startSec": 8.12,
-          "endSec": 8.16,
-          "score": 1.0
+          "start": 8.0,
+          "end": 8.2
         },
         {
           "word": "speak",
-          "startSec": 8.16,
-          "endSec": 8.46,
-          "score": 0.99
+          "start": 8.2,
+          "end": 8.66
         },
         {
           "word": "slowly.",
-          "startSec": 8.46,
-          "endSec": 9.08,
-          "score": 0.99
+          "start": 8.66,
+          "end": 9.66
         }
       ]
     },
     {
       "id": 4,
-      "start": 9.82,
-      "end": 11.67,
+      "start": 10.02,
+      "end": 12.08,
       "text": "We use easy English.",
       "words": [
         {
           "word": "We",
-          "startSec": 10.02,
-          "endSec": 10.22,
-          "score": 1.0
+          "start": 10.02,
+          "end": 10.26
         },
         {
           "word": "use",
-          "startSec": 10.22,
-          "endSec": 10.56,
-          "score": 1.0
+          "start": 10.26,
+          "end": 10.68
         },
         {
           "word": "easy",
-          "startSec": 10.56,
-          "endSec": 10.92,
-          "score": 0.83
+          "start": 10.68,
+          "end": 11.22
         },
         {
           "word": "English.",
-          "startSec": 10.92,
-          "endSec": 11.52,
-          "score": 1.0
+          "start": 11.22,
+          "end": 12.08
         }
       ]
     },
     {
       "id": 5,
-      "start": 12.5,
-      "end": 14.79,
+      "start": 12.56,
+      "end": 15.12,
       "text": "We repeat important ideas.",
       "words": [
         {
           "word": "We",
-          "startSec": 12.7,
-          "endSec": 12.84,
-          "score": 1.0
+          "start": 12.56,
+          "end": 12.88
         },
         {
           "word": "repeat",
-          "startSec": 12.84,
-          "endSec": 13.28,
-          "score": 1.0
+          "start": 12.88,
+          "end": 13.44
         },
         {
           "word": "important",
-          "startSec": 13.28,
-          "endSec": 13.82,
-          "score": 1.0
+          "start": 13.44,
+          "end": 14.1
         },
         {
           "word": "ideas.",
-          "startSec": 13.82,
-          "endSec": 14.64,
-          "score": 1.0
+          "start": 14.1,
+          "end": 15.12
         }
       ]
     },
     {
       "id": 6,
-      "start": 15.8,
-      "end": 18.69,
+      "start": 15.76,
+      "end": 19.06,
       "text": "Today, we travel to Southern Europe.",
       "words": [
         {
           "word": "Today,",
-          "startSec": 16.0,
-          "endSec": 16.26,
-          "score": 0.99
+          "start": 15.76,
+          "end": 16.32
         },
         {
           "word": "we",
-          "startSec": 16.36,
-          "endSec": 16.92,
-          "score": 1.0
+          "start": 16.74,
+          "end": 16.94
         },
         {
           "word": "travel",
-          "startSec": 16.92,
-          "endSec": 17.32,
-          "score": 0.99
+          "start": 16.94,
+          "end": 17.4
         },
         {
           "word": "to",
-          "startSec": 17.32,
-          "endSec": 17.66,
-          "score": 1.0
+          "start": 17.4,
+          "end": 17.7
         },
         {
           "word": "Southern",
-          "startSec": 17.66,
-          "endSec": 18.08,
-          "score": 0.63
+          "start": 17.7,
+          "end": 18.16
         },
         {
           "word": "Europe.",
-          "startSec": 18.08,
-          "endSec": 18.54,
-          "score": 1.0
+          "start": 18.16,
+          "end": 19.06
         }
       ]
     },
     {
       "id": 7,
-      "start": 19.3,
-      "end": 20.41,
+      "start": 19.38,
+      "end": 20.96,
       "text": "We go to Croatia.",
       "words": [
         {
           "word": "We",
-          "startSec": 19.5,
-          "endSec": 19.6,
-          "score": 1.0
+          "start": 19.38,
+          "end": 19.64
         },
         {
           "word": "go",
-          "startSec": 19.6,
-          "endSec": 19.84,
-          "score": 1.0
+          "start": 19.64,
+          "end": 19.88
         },
         {
           "word": "to",
-          "startSec": 19.84,
-          "endSec": 19.98,
-          "score": 1.0
+          "start": 19.88,
+          "end": 20.0
         },
         {
           "word": "Croatia.",
-          "startSec": 19.98,
-          "endSec": 20.26,
-          "score": 1.0
+          "start": 20.0,
+          "end": 20.96
         }
       ]
     },
     {
       "id": 8,
-      "start": 21.28,
-      "end": 23.13,
-      "text": "Our city today is split.",
+      "start": 21.5,
+      "end": 23.52,
+      "text": "Our city today is Split.",
       "words": [
         {
           "word": "Our",
-          "startSec": 21.48,
-          "endSec": 21.6,
-          "score": 1.0
+          "start": 21.5,
+          "end": 21.64
         },
         {
           "word": "city",
-          "startSec": 21.6,
-          "endSec": 21.92,
-          "score": 0.99
+          "start": 21.64,
+          "end": 22.02
         },
         {
           "word": "today",
-          "startSec": 21.92,
-          "endSec": 22.4,
-          "score": 0.98
+          "start": 22.02,
+          "end": 22.42
         },
         {
           "word": "is",
-          "startSec": 22.4,
-          "endSec": 22.68,
-          "score": 1.0
+          "start": 22.42,
+          "end": 22.76
         },
         {
-          "word": "split.",
-          "startSec": 22.68,
-          "endSec": 22.98,
-          "score": 0.7
+          "word": "Split.",
+          "start": 22.76,
+          "end": 23.52
         }
       ]
     },
     {
       "id": 9,
-      "start": 23.82,
-      "end": 25.05,
+      "start": 23.8,
+      "end": 25.41,
       "text": "Split is sunny.",
       "words": [
         {
           "word": "Split",
-          "startSec": 24.02,
-          "endSec": 24.24,
-          "score": 0.97
+          "start": 23.8,
+          "end": 24.4
         },
         {
           "word": "is",
-          "startSec": 24.24,
-          "endSec": 24.58,
-          "score": 1.0
+          "start": 24.4,
+          "end": 24.64
         },
         {
           "word": "sunny.",
-          "startSec": 24.58,
-          "endSec": 24.9,
-          "score": 1.0
+          "start": 24.64,
+          "end": 25.41
         }
       ]
     },
     {
       "id": 10,
-      "start": 25.52,
-      "end": 26.75,
+      "start": 25.64,
+      "end": 27.14,
       "text": "Split is historic.",
       "words": [
         {
           "word": "Split",
-          "startSec": 25.72,
-          "endSec": 25.72,
-          "score": 0.99
+          "start": 25.64,
+          "end": 25.86
         },
         {
           "word": "is",
-          "startSec": 25.72,
-          "endSec": 26.08,
-          "score": 1.0
+          "start": 25.86,
+          "end": 26.12
         },
         {
           "word": "historic.",
-          "startSec": 26.08,
-          "endSec": 26.6,
-          "score": 1.0
+          "start": 26.12,
+          "end": 27.14
         }
       ]
     },
     {
       "id": 11,
-      "start": 27.22,
-      "end": 29.89,
+      "start": 27.7,
+      "end": 30.05,
       "text": "Split feels close to the sea.",
       "words": [
         {
           "word": "Split",
-          "startSec": 27.42,
-          "endSec": 28.16,
-          "score": 0.0
+          "start": 27.7,
+          "end": 28.2
         },
         {
           "word": "feels",
-          "startSec": 28.16,
-          "endSec": 28.5,
-          "score": 0.98
+          "start": 28.2,
+          "end": 28.66
         },
         {
           "word": "close",
-          "startSec": 28.5,
-          "endSec": 28.94,
-          "score": 0.99
+          "start": 28.66,
+          "end": 29.02
         },
         {
           "word": "to",
-          "startSec": 28.94,
-          "endSec": 29.28,
-          "score": 1.0
+          "start": 29.02,
+          "end": 29.34
         },
         {
           "word": "the",
-          "startSec": 29.28,
-          "endSec": 29.42,
-          "score": 0.99
+          "start": 29.34,
+          "end": 29.5
         },
         {
           "word": "sea.",
-          "startSec": 29.42,
-          "endSec": 29.74,
-          "score": 0.99
+          "start": 29.5,
+          "end": 30.05
         }
       ]
     },
     {
       "id": 12,
-      "start": 30.08,
-      "end": 31.13,
+      "start": 30.2,
+      "end": 31.46,
       "text": "Please relax.",
       "words": [
         {
           "word": "Please",
-          "startSec": 30.28,
-          "endSec": 30.44,
-          "score": 0.98
+          "start": 30.2,
+          "end": 30.5
         },
         {
           "word": "relax.",
-          "startSec": 30.44,
-          "endSec": 30.98,
-          "score": 0.98
+          "start": 30.5,
+          "end": 31.46
         }
       ]
     },
     {
       "id": 13,
-      "start": 31.46,
-      "end": 33.03,
+      "start": 31.78,
+      "end": 33.34,
       "text": "Please listen slowly.",
       "words": [
         {
           "word": "Please",
-          "startSec": 31.66,
-          "endSec": 31.86,
-          "score": 0.99
+          "start": 31.78,
+          "end": 31.94
         },
         {
           "word": "listen",
-          "startSec": 31.86,
-          "endSec": 32.46,
-          "score": 0.99
+          "start": 31.94,
+          "end": 32.5
         },
         {
           "word": "slowly.",
-          "startSec": 32.46,
-          "endSec": 32.88,
-          "score": 1.0
+          "start": 32.5,
+          "end": 33.34
         }
       ]
     },
     {
       "id": 14,
-      "start": 33.28,
-      "end": 34.49,
+      "start": 33.52,
+      "end": 34.88,
       "text": "Let us begin.",
       "words": [
         {
           "word": "Let",
-          "startSec": 33.48,
-          "endSec": 33.72,
-          "score": 1.0
+          "start": 33.52,
+          "end": 33.76
         },
         {
           "word": "us",
-          "startSec": 33.72,
-          "endSec": 33.88,
-          "score": 0.99
+          "start": 33.76,
+          "end": 33.96
         },
         {
           "word": "begin.",
-          "startSec": 33.88,
-          "endSec": 34.34,
-          "score": 1.0
+          "start": 33.96,
+          "end": 34.88
         }
       ]
     },
     {
       "id": 15,
-      "start": 35.12,
-      "end": 36.35,
-      "text": "Part 2.",
+      "start": 35.48,
+      "end": 39.5,
+      "text": "Part two, Croatia in simple words.",
       "words": [
         {
           "word": "Part",
-          "startSec": 35.32,
-          "endSec": 35.68,
-          "score": 0.89
+          "start": 35.48,
+          "end": 35.7
         },
         {
-          "word": "2.",
-          "startSec": 35.68,
-          "endSec": 36.2,
-          "score": 0.47
+          "word": "two,",
+          "start": 35.7,
+          "end": 36.34
+        },
+        {
+          "word": "Croatia",
+          "start": 36.94,
+          "end": 37.58
+        },
+        {
+          "word": "in",
+          "start": 37.58,
+          "end": 38.06
+        },
+        {
+          "word": "simple",
+          "start": 38.06,
+          "end": 38.44
+        },
+        {
+          "word": "words.",
+          "start": 38.44,
+          "end": 39.5
         }
       ]
     },
     {
       "id": 16,
-      "start": 37.32,
-      "end": 38.99,
-      "text": "Croatia and simple words.",
+      "start": 40.42,
+      "end": 43.52,
+      "text": "Croatia is a country by the sea.",
       "words": [
         {
           "word": "Croatia",
-          "startSec": 37.52,
-          "endSec": 37.52,
-          "score": 0.8
+          "start": 40.42,
+          "end": 41.22
         },
         {
-          "word": "and",
-          "startSec": 37.52,
-          "endSec": 38.02,
-          "score": 0.69
+          "word": "is",
+          "start": 41.22,
+          "end": 41.72
         },
         {
-          "word": "simple",
-          "startSec": 38.02,
-          "endSec": 38.4,
-          "score": 0.64
+          "word": "a",
+          "start": 41.72,
+          "end": 41.86
         },
         {
-          "word": "words.",
-          "startSec": 38.4,
-          "endSec": 38.84,
-          "score": 1.0
+          "word": "country",
+          "start": 41.86,
+          "end": 42.22
+        },
+        {
+          "word": "by",
+          "start": 42.22,
+          "end": 42.54
+        },
+        {
+          "word": "the",
+          "start": 42.54,
+          "end": 42.72
+        },
+        {
+          "word": "sea.",
+          "start": 42.72,
+          "end": 43.52
         }
       ]
     },
     {
       "id": 17,
-      "start": 40.51,
-      "end": 43.12,
-      "text": "Croatia is a country by the sea.",
+      "start": 43.78,
+      "end": 45.42,
+      "text": "It has many islands.",
       "words": [
         {
-          "word": "Croatia",
-          "startSec": 40.71,
-          "endSec": 41.05,
-          "score": 0.86
+          "word": "It",
+          "start": 43.78,
+          "end": 43.9
         },
         {
-          "word": "is",
-          "startSec": 41.05,
-          "endSec": 41.67,
-          "score": 1.0
+          "word": "has",
+          "start": 43.9,
+          "end": 44.18
         },
         {
-          "word": "a",
-          "startSec": 41.67,
-          "endSec": 41.81,
-          "score": 0.99
+          "word": "many",
+          "start": 44.18,
+          "end": 44.52
         },
         {
-          "word": "country",
-          "startSec": 41.81,
-          "endSec": 42.13,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 42.13,
-          "endSec": 42.49,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 42.49,
-          "endSec": 42.69,
-          "score": 0.99
-        },
-        {
-          "word": "sea.",
-          "startSec": 42.69,
-          "endSec": 42.97,
-          "score": 0.99
+          "word": "islands.",
+          "start": 44.52,
+          "end": 45.42
         }
       ]
     },
     {
       "id": 18,
-      "start": 43.53,
-      "end": 45.14,
-      "text": "It has many islands.",
+      "start": 45.68,
+      "end": 47.08,
+      "text": "The water is clear.",
       "words": [
         {
-          "word": "It",
-          "startSec": 43.73,
-          "endSec": 43.87,
-          "score": 1.0
+          "word": "The",
+          "start": 45.68,
+          "end": 45.8
         },
         {
-          "word": "has",
-          "startSec": 43.87,
-          "endSec": 44.07,
-          "score": 1.0
+          "word": "water",
+          "start": 45.8,
+          "end": 46.14
         },
         {
-          "word": "many",
-          "startSec": 44.07,
-          "endSec": 44.35,
-          "score": 1.0
+          "word": "is",
+          "start": 46.14,
+          "end": 46.46
         },
         {
-          "word": "islands.",
-          "startSec": 44.35,
-          "endSec": 44.99,
-          "score": 1.0
+          "word": "clear.",
+          "start": 46.46,
+          "end": 47.08
         }
       ]
     },
     {
       "id": 19,
-      "start": 45.51,
-      "end": 46.86,
-      "text": "The water is clear.",
+      "start": 47.24,
+      "end": 48.64,
+      "text": "The sky is blue.",
       "words": [
         {
           "word": "The",
-          "startSec": 45.71,
-          "endSec": 45.75,
-          "score": 0.99
+          "start": 47.24,
+          "end": 47.32
         },
         {
-          "word": "water",
-          "startSec": 45.75,
-          "endSec": 46.03,
-          "score": 1.0
+          "word": "sky",
+          "start": 47.32,
+          "end": 47.72
         },
         {
           "word": "is",
-          "startSec": 46.03,
-          "endSec": 46.41,
-          "score": 1.0
+          "start": 47.72,
+          "end": 48.06
         },
         {
-          "word": "clear.",
-          "startSec": 46.41,
-          "endSec": 46.71,
-          "score": 1.0
+          "word": "blue.",
+          "start": 48.06,
+          "end": 48.64
         }
       ]
     },
     {
       "id": 20,
-      "start": 47.07,
-      "end": 48.44,
-      "text": "The sky is blue.",
+      "start": 48.8,
+      "end": 50.26,
+      "text": "People love nature.",
       "words": [
         {
-          "word": "The",
-          "startSec": 47.27,
-          "endSec": 47.29,
-          "score": 0.99
+          "word": "People",
+          "start": 48.8,
+          "end": 49.08
         },
         {
-          "word": "sky",
-          "startSec": 47.29,
-          "endSec": 47.59,
-          "score": 1.0
+          "word": "love",
+          "start": 49.08,
+          "end": 49.44
         },
         {
-          "word": "is",
-          "startSec": 47.59,
-          "endSec": 48.03,
-          "score": 1.0
-        },
-        {
-          "word": "blue.",
-          "startSec": 48.03,
-          "endSec": 48.29,
-          "score": 1.0
+          "word": "nature.",
+          "start": 49.44,
+          "end": 50.26
         }
       ]
     },
     {
       "id": 21,
-      "start": 48.85,
-      "end": 49.86,
-      "text": "People love nature.",
+      "start": 50.44,
+      "end": 52.59,
+      "text": "People enjoy outdoor life.",
       "words": [
         {
           "word": "People",
-          "startSec": 49.05,
-          "endSec": 49.05,
-          "score": 0.99
+          "start": 50.44,
+          "end": 50.82
         },
         {
-          "word": "love",
-          "startSec": 49.05,
-          "endSec": 49.41,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 50.82,
+          "end": 51.3
         },
         {
-          "word": "nature.",
-          "startSec": 49.41,
-          "endSec": 49.71,
-          "score": 1.0
+          "word": "outdoor",
+          "start": 51.3,
+          "end": 51.76
+        },
+        {
+          "word": "life.",
+          "start": 51.76,
+          "end": 52.59
         }
       ]
     },
     {
       "id": 22,
-      "start": 50.49,
-      "end": 52.38,
-      "text": "People enjoy outdoor life.",
+      "start": 52.78,
+      "end": 55.88,
+      "text": "Split shows the sea life very well.",
       "words": [
         {
-          "word": "People",
-          "startSec": 50.69,
-          "endSec": 50.69,
-          "score": 0.99
+          "word": "Split",
+          "start": 52.78,
+          "end": 53.18
         },
         {
-          "word": "enjoy",
-          "startSec": 50.69,
-          "endSec": 51.23,
-          "score": 1.0
+          "word": "shows",
+          "start": 53.18,
+          "end": 53.66
         },
         {
-          "word": "outdoor",
-          "startSec": 51.23,
-          "endSec": 51.59,
-          "score": 1.0
+          "word": "the",
+          "start": 53.66,
+          "end": 53.98
         },
         {
-          "word": "life.",
-          "startSec": 51.59,
-          "endSec": 52.23,
-          "score": 1.0
+          "word": "sea",
+          "start": 53.98,
+          "end": 54.34
+        },
+        {
+          "word": "life",
+          "start": 54.34,
+          "end": 54.7
+        },
+        {
+          "word": "very",
+          "start": 54.7,
+          "end": 55.06
+        },
+        {
+          "word": "well.",
+          "start": 55.06,
+          "end": 55.88
         }
       ]
     },
     {
       "id": 23,
-      "start": 52.91,
-      "end": 55.56,
-      "text": "Split shows the sea life very well.",
+      "start": 56.74,
+      "end": 59.56,
+      "text": "Part three, where is Split?",
       "words": [
         {
-          "word": "Split",
-          "startSec": 53.11,
-          "endSec": 53.11,
-          "score": 0.97
+          "word": "Part",
+          "start": 56.74,
+          "end": 57.06
         },
         {
-          "word": "shows",
-          "startSec": 53.11,
-          "endSec": 53.57,
-          "score": 1.0
+          "word": "three,",
+          "start": 57.06,
+          "end": 57.6
         },
         {
-          "word": "the",
-          "startSec": 53.57,
-          "endSec": 53.91,
-          "score": 0.97
+          "word": "where",
+          "start": 58.22,
+          "end": 58.6
         },
         {
-          "word": "sea",
-          "startSec": 53.91,
-          "endSec": 54.23,
-          "score": 0.99
+          "word": "is",
+          "start": 58.6,
+          "end": 58.88
         },
         {
-          "word": "life",
-          "startSec": 54.23,
-          "endSec": 54.57,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 54.57,
-          "endSec": 54.93,
-          "score": 1.0
-        },
-        {
-          "word": "well.",
-          "startSec": 54.93,
-          "endSec": 55.41,
-          "score": 1.0
+          "word": "Split?",
+          "start": 58.88,
+          "end": 59.56
         }
       ]
     },
     {
       "id": 24,
-      "start": 55.21,
-      "end": 57.71,
-      "text": "Part 3.",
+      "start": 59.72,
+      "end": 62.26,
+      "text": "Split is on the Adriatic Sea.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 55.41,
-          "endSec": 56.55,
-          "score": 0.47
+          "word": "Split",
+          "start": 59.72,
+          "end": 60.04
         },
         {
-          "word": "3.",
-          "startSec": 57.0,
-          "endSec": 57.56,
-          "score": 0.58
+          "word": "is",
+          "start": 60.04,
+          "end": 60.3
+        },
+        {
+          "word": "on",
+          "start": 60.3,
+          "end": 60.52
+        },
+        {
+          "word": "the",
+          "start": 60.52,
+          "end": 60.7
+        },
+        {
+          "word": "Adriatic",
+          "start": 60.7,
+          "end": 61.38
+        },
+        {
+          "word": "Sea.",
+          "start": 61.38,
+          "end": 62.26
         }
       ]
     },
     {
       "id": 25,
-      "start": 57.96,
-      "end": 61.93,
-      "text": "Whereas split, split is on the Adriatic Sea.",
+      "start": 62.54,
+      "end": 64.76,
+      "text": "It is in the south of Croatia.",
       "words": [
         {
-          "word": "Whereas",
-          "startSec": 58.16,
-          "endSec": 58.7,
-          "score": 0.54
-        },
-        {
-          "word": "split,",
-          "startSec": 58.7,
-          "endSec": 59.2,
-          "score": 0.39
-        },
-        {
-          "word": "split",
-          "startSec": 59.72,
-          "endSec": 59.98,
-          "score": 0.93
+          "word": "It",
+          "start": 62.54,
+          "end": 62.7
         },
         {
           "word": "is",
-          "startSec": 59.98,
-          "endSec": 60.28,
-          "score": 0.98
+          "start": 62.7,
+          "end": 62.88
         },
         {
-          "word": "on",
-          "startSec": 60.28,
-          "endSec": 60.46,
-          "score": 0.99
+          "word": "in",
+          "start": 62.88,
+          "end": 63.08
         },
         {
           "word": "the",
-          "startSec": 60.46,
-          "endSec": 60.64,
-          "score": 0.99
+          "start": 63.08,
+          "end": 63.22
         },
         {
-          "word": "Adriatic",
-          "startSec": 60.64,
-          "endSec": 61.44,
-          "score": 0.97
+          "word": "south",
+          "start": 63.22,
+          "end": 63.56
         },
         {
-          "word": "Sea.",
-          "startSec": 61.44,
-          "endSec": 61.78,
-          "score": 0.88
+          "word": "of",
+          "start": 63.56,
+          "end": 63.84
+        },
+        {
+          "word": "Croatia.",
+          "start": 63.84,
+          "end": 64.76
         }
       ]
     },
     {
       "id": 26,
-      "start": 62.4,
-      "end": 64.23,
-      "text": "It is in the south of Croatia.",
+      "start": 65.5,
+      "end": 67.78,
+      "text": "Mountains are behind the city.",
       "words": [
         {
-          "word": "It",
-          "startSec": 62.6,
-          "endSec": 62.66,
-          "score": 0.97
+          "word": "Mountains",
+          "start": 65.5,
+          "end": 66.02
         },
         {
-          "word": "is",
-          "startSec": 62.66,
-          "endSec": 62.84,
-          "score": 0.99
+          "word": "are",
+          "start": 66.02,
+          "end": 66.34
         },
         {
-          "word": "in",
-          "startSec": 62.84,
-          "endSec": 63.04,
-          "score": 0.99
+          "word": "behind",
+          "start": 66.34,
+          "end": 66.72
         },
         {
           "word": "the",
-          "startSec": 63.04,
-          "endSec": 63.18,
-          "score": 0.99
+          "start": 66.72,
+          "end": 67.06
         },
         {
-          "word": "south",
-          "startSec": 63.18,
-          "endSec": 63.52,
-          "score": 0.75
-        },
-        {
-          "word": "of",
-          "startSec": 63.52,
-          "endSec": 63.76,
-          "score": 1.0
-        },
-        {
-          "word": "Croatia.",
-          "startSec": 63.76,
-          "endSec": 64.08,
-          "score": 0.98
+          "word": "city.",
+          "start": 67.06,
+          "end": 67.78
         }
       ]
     },
     {
       "id": 27,
-      "start": 65.28,
-      "end": 67.47,
-      "text": "Mountains are behind the city.",
+      "start": 68.04,
+      "end": 69.68,
+      "text": "The sea is in front.",
       "words": [
         {
-          "word": "Mountains",
-          "startSec": 65.48,
-          "endSec": 65.88,
-          "score": 0.95
+          "word": "The",
+          "start": 68.04,
+          "end": 68.18
         },
         {
-          "word": "are",
-          "startSec": 65.88,
-          "endSec": 66.3,
-          "score": 1.0
+          "word": "sea",
+          "start": 68.18,
+          "end": 68.54
         },
         {
-          "word": "behind",
-          "startSec": 66.3,
-          "endSec": 66.66,
-          "score": 1.0
+          "word": "is",
+          "start": 68.54,
+          "end": 68.72
         },
         {
-          "word": "the",
-          "startSec": 66.66,
-          "endSec": 66.98,
-          "score": 1.0
+          "word": "in",
+          "start": 68.72,
+          "end": 68.9
         },
         {
-          "word": "city.",
-          "startSec": 66.98,
-          "endSec": 67.32,
-          "score": 0.97
+          "word": "front.",
+          "start": 68.9,
+          "end": 69.68
         }
       ]
     },
     {
       "id": 28,
-      "start": 67.92,
-      "end": 69.35,
-      "text": "The sea is in front.",
+      "start": 70.16,
+      "end": 71.7,
+      "text": "This gives balance.",
       "words": [
         {
-          "word": "The",
-          "startSec": 68.12,
-          "endSec": 68.14,
-          "score": 0.98
+          "word": "This",
+          "start": 70.16,
+          "end": 70.36
         },
         {
-          "word": "sea",
-          "startSec": 68.14,
-          "endSec": 68.42,
-          "score": 0.98
+          "word": "gives",
+          "start": 70.36,
+          "end": 70.68
         },
         {
-          "word": "is",
-          "startSec": 68.42,
-          "endSec": 68.7,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 68.7,
-          "endSec": 68.88,
-          "score": 0.99
-        },
-        {
-          "word": "front.",
-          "startSec": 68.88,
-          "endSec": 69.2,
-          "score": 0.99
+          "word": "balance.",
+          "start": 70.68,
+          "end": 71.7
         }
       ]
     },
     {
       "id": 29,
-      "start": 69.92,
-      "end": 71.25,
-      "text": "This gives balance.",
+      "start": 72.08,
+      "end": 74.14,
+      "text": "Nature surrounds the city.",
       "words": [
         {
-          "word": "This",
-          "startSec": 70.12,
-          "endSec": 70.28,
-          "score": 1.0
+          "word": "Nature",
+          "start": 72.08,
+          "end": 72.44
         },
         {
-          "word": "gives",
-          "startSec": 70.28,
-          "endSec": 70.58,
-          "score": 1.0
+          "word": "surrounds",
+          "start": 72.44,
+          "end": 73.04
         },
         {
-          "word": "balance.",
-          "startSec": 70.58,
-          "endSec": 71.1,
-          "score": 0.99
+          "word": "the",
+          "start": 73.04,
+          "end": 73.4
+        },
+        {
+          "word": "city.",
+          "start": 73.4,
+          "end": 74.14
         }
       ]
     },
     {
       "id": 30,
-      "start": 71.92,
-      "end": 73.79,
-      "text": "Nature surrounds the city.",
+      "start": 74.72,
+      "end": 78.1,
+      "text": "Part four, weather and sea life.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 72.12,
-          "endSec": 72.46,
-          "score": 0.99
+          "word": "Part",
+          "start": 74.72,
+          "end": 75.02
         },
         {
-          "word": "surrounds",
-          "startSec": 72.46,
-          "endSec": 72.9,
-          "score": 1.0
+          "word": "four,",
+          "start": 75.02,
+          "end": 75.76
         },
         {
-          "word": "the",
-          "startSec": 72.9,
-          "endSec": 73.34,
-          "score": 1.0
+          "word": "weather",
+          "start": 76.46,
+          "end": 76.64
         },
         {
-          "word": "city.",
-          "startSec": 73.34,
-          "endSec": 73.64,
-          "score": 0.99
+          "word": "and",
+          "start": 76.64,
+          "end": 76.98
+        },
+        {
+          "word": "sea",
+          "start": 76.98,
+          "end": 77.28
+        },
+        {
+          "word": "life.",
+          "start": 77.28,
+          "end": 78.1
         }
       ]
     },
     {
       "id": 31,
-      "start": 74.77,
-      "end": 75.68,
-      "text": "Part 4.",
+      "start": 78.46,
+      "end": 81.34,
+      "text": "Split is warm most of the year.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 74.97,
-          "endSec": 74.97,
-          "score": 0.99
+          "word": "Split",
+          "start": 78.46,
+          "end": 78.96
         },
         {
-          "word": "4.",
-          "startSec": 74.97,
-          "endSec": 75.53,
-          "score": 0.96
+          "word": "is",
+          "start": 78.96,
+          "end": 79.32
+        },
+        {
+          "word": "warm",
+          "start": 79.32,
+          "end": 79.74
+        },
+        {
+          "word": "most",
+          "start": 79.74,
+          "end": 80.14
+        },
+        {
+          "word": "of",
+          "start": 80.14,
+          "end": 80.38
+        },
+        {
+          "word": "the",
+          "start": 80.38,
+          "end": 80.56
+        },
+        {
+          "word": "year.",
+          "start": 80.56,
+          "end": 81.34
         }
       ]
     },
     {
       "id": 32,
-      "start": 76.05,
-      "end": 77.7,
-      "text": "Weather and sea life.",
+      "start": 81.7,
+      "end": 83.18,
+      "text": "Summers are hot.",
       "words": [
         {
-          "word": "Weather",
-          "startSec": 76.25,
-          "endSec": 76.55,
-          "score": 0.96
+          "word": "Summers",
+          "start": 81.7,
+          "end": 82.12
         },
         {
-          "word": "and",
-          "startSec": 76.55,
-          "endSec": 76.93,
-          "score": 0.96
+          "word": "are",
+          "start": 82.12,
+          "end": 82.32
         },
         {
-          "word": "sea",
-          "startSec": 76.93,
-          "endSec": 77.19,
-          "score": 0.55
-        },
-        {
-          "word": "life.",
-          "startSec": 77.19,
-          "endSec": 77.55,
-          "score": 0.99
+          "word": "hot.",
+          "start": 82.32,
+          "end": 83.18
         }
       ]
     },
     {
       "id": 33,
-      "start": 78.42,
-      "end": 81.01,
-      "text": "Split is warm most of the year.",
+      "start": 83.58,
+      "end": 85.02,
+      "text": "Winters are mild.",
       "words": [
         {
-          "word": "Split",
-          "startSec": 78.62,
-          "endSec": 78.94,
-          "score": 0.98
+          "word": "Winters",
+          "start": 83.58,
+          "end": 83.98
         },
         {
-          "word": "is",
-          "startSec": 78.94,
-          "endSec": 79.26,
-          "score": 0.99
+          "word": "are",
+          "start": 83.98,
+          "end": 84.22
         },
         {
-          "word": "warm",
-          "startSec": 79.26,
-          "endSec": 79.62,
-          "score": 0.98
-        },
-        {
-          "word": "most",
-          "startSec": 79.62,
-          "endSec": 80.06,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 80.06,
-          "endSec": 80.32,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 80.32,
-          "endSec": 80.52,
-          "score": 1.0
-        },
-        {
-          "word": "year.",
-          "startSec": 80.52,
-          "endSec": 80.86,
-          "score": 1.0
+          "word": "mild.",
+          "start": 84.22,
+          "end": 85.02
         }
       ]
     },
     {
       "id": 34,
-      "start": 81.42,
-      "end": 82.71,
-      "text": "Summer is hot.",
+      "start": 85.2,
+      "end": 87.64,
+      "text": "The sun shines often.",
       "words": [
         {
-          "word": "Summer",
-          "startSec": 81.62,
-          "endSec": 81.8,
-          "score": 0.34
+          "word": "The",
+          "start": 85.2,
+          "end": 85.66
         },
         {
-          "word": "is",
-          "startSec": 81.8,
-          "endSec": 82.14,
-          "score": 0.41
+          "word": "sun",
+          "start": 85.66,
+          "end": 86.1
         },
         {
-          "word": "hot.",
-          "startSec": 82.14,
-          "endSec": 82.56,
-          "score": 0.93
+          "word": "shines",
+          "start": 86.1,
+          "end": 86.58
+        },
+        {
+          "word": "often.",
+          "start": 86.58,
+          "end": 87.64
         }
       ]
     },
     {
       "id": 35,
-      "start": 83.38,
-      "end": 84.57,
-      "text": "Winter is mild.",
+      "start": 88.1,
+      "end": 89.5,
+      "text": "People swim.",
       "words": [
         {
-          "word": "Winter",
-          "startSec": 83.58,
-          "endSec": 83.66,
-          "score": 0.86
+          "word": "People",
+          "start": 88.1,
+          "end": 88.56
         },
         {
-          "word": "is",
-          "startSec": 83.66,
-          "endSec": 84.08,
-          "score": 0.84
-        },
-        {
-          "word": "mild.",
-          "startSec": 84.08,
-          "endSec": 84.42,
-          "score": 0.95
+          "word": "swim.",
+          "start": 88.56,
+          "end": 89.5
         }
       ]
     },
     {
       "id": 36,
-      "start": 84.22,
-      "end": 87.31,
-      "text": "The sun shines often.",
+      "start": 89.82,
+      "end": 91.78,
+      "text": "People walk by the sea.",
       "words": [
         {
-          "word": "The",
-          "startSec": 84.42,
-          "endSec": 85.62,
-          "score": 0.29
+          "word": "People",
+          "start": 89.82,
+          "end": 90.24
         },
         {
-          "word": "sun",
-          "startSec": 85.62,
-          "endSec": 86.0,
-          "score": 0.91
+          "word": "walk",
+          "start": 90.24,
+          "end": 90.56
         },
         {
-          "word": "shines",
-          "startSec": 86.0,
-          "endSec": 86.36,
-          "score": 1.0
+          "word": "by",
+          "start": 90.56,
+          "end": 90.84
         },
         {
-          "word": "often.",
-          "startSec": 86.36,
-          "endSec": 87.16,
-          "score": 0.93
+          "word": "the",
+          "start": 90.84,
+          "end": 91.02
+        },
+        {
+          "word": "sea.",
+          "start": 91.02,
+          "end": 91.78
         }
       ]
     },
     {
       "id": 37,
-      "start": 87.8,
-      "end": 89.07,
-      "text": "People swim.",
+      "start": 92.08,
+      "end": 94.22,
+      "text": "Life follows the sun.",
       "words": [
         {
-          "word": "People",
-          "startSec": 88.0,
-          "endSec": 88.52,
-          "score": 0.99
+          "word": "Life",
+          "start": 92.08,
+          "end": 92.44
         },
         {
-          "word": "swim.",
-          "startSec": 88.52,
-          "endSec": 88.92,
-          "score": 1.0
+          "word": "follows",
+          "start": 92.44,
+          "end": 93.0
+        },
+        {
+          "word": "the",
+          "start": 93.0,
+          "end": 93.38
+        },
+        {
+          "word": "sun.",
+          "start": 93.38,
+          "end": 94.22
         }
       ]
     },
     {
       "id": 38,
-      "start": 89.6,
-      "end": 91.43,
-      "text": "People walk by the sea.",
+      "start": 94.82,
+      "end": 98.08,
+      "text": "Part five, history of Split.",
       "words": [
         {
-          "word": "People",
-          "startSec": 89.8,
-          "endSec": 90.2,
-          "score": 1.0
+          "word": "Part",
+          "start": 94.82,
+          "end": 95.3
         },
         {
-          "word": "walk",
-          "startSec": 90.2,
-          "endSec": 90.48,
-          "score": 1.0
+          "word": "five,",
+          "start": 95.3,
+          "end": 96.06
         },
         {
-          "word": "by",
-          "startSec": 90.48,
-          "endSec": 90.8,
-          "score": 1.0
+          "word": "history",
+          "start": 96.64,
+          "end": 96.98
         },
         {
-          "word": "the",
-          "startSec": 90.8,
-          "endSec": 90.98,
-          "score": 1.0
+          "word": "of",
+          "start": 96.98,
+          "end": 97.32
         },
         {
-          "word": "sea.",
-          "startSec": 90.98,
-          "endSec": 91.28,
-          "score": 1.0
+          "word": "Split.",
+          "start": 97.32,
+          "end": 98.08
         }
       ]
     },
     {
       "id": 39,
-      "start": 91.88,
-      "end": 93.73,
-      "text": "Life follows the sun.",
+      "start": 98.34,
+      "end": 100.76,
+      "text": "Split is very old.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 92.08,
-          "endSec": 92.44,
-          "score": 0.99
+          "word": "Split",
+          "start": 98.34,
+          "end": 98.9
         },
         {
-          "word": "follows",
-          "startSec": 92.44,
-          "endSec": 92.9,
-          "score": 1.0
+          "word": "is",
+          "start": 98.9,
+          "end": 99.28
         },
         {
-          "word": "the",
-          "startSec": 92.9,
-          "endSec": 93.26,
-          "score": 1.0
+          "word": "very",
+          "start": 99.28,
+          "end": 99.76
         },
         {
-          "word": "sun.",
-          "startSec": 93.26,
-          "endSec": 93.58,
-          "score": 0.95
+          "word": "old.",
+          "start": 99.76,
+          "end": 100.76
         }
       ]
     },
     {
       "id": 40,
-      "start": 94.73,
-      "end": 96.24,
-      "text": "Part 5.",
+      "start": 101.08,
+      "end": 102.8,
+      "text": "Romans lived here.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 94.93,
-          "endSec": 95.19,
-          "score": 0.59
+          "word": "Romans",
+          "start": 101.08,
+          "end": 101.42
         },
         {
-          "word": "5.",
-          "startSec": 95.19,
-          "endSec": 96.09,
-          "score": 0.39
+          "word": "lived",
+          "start": 101.42,
+          "end": 101.94
+        },
+        {
+          "word": "here.",
+          "start": 101.94,
+          "end": 102.8
         }
       ]
     },
     {
       "id": 41,
-      "start": 96.77,
-      "end": 97.76,
-      "text": "History of Split.",
+      "start": 103.1,
+      "end": 105.38,
+      "text": "The city grew around a palace.",
       "words": [
         {
-          "word": "History",
-          "startSec": 96.97,
-          "endSec": 96.97,
-          "score": 0.99
+          "word": "The",
+          "start": 103.1,
+          "end": 103.26
         },
         {
-          "word": "of",
-          "startSec": 96.97,
-          "endSec": 97.27,
-          "score": 0.98
+          "word": "city",
+          "start": 103.26,
+          "end": 103.6
         },
         {
-          "word": "Split.",
-          "startSec": 97.27,
-          "endSec": 97.61,
-          "score": 0.94
+          "word": "grew",
+          "start": 103.6,
+          "end": 103.96
+        },
+        {
+          "word": "around",
+          "start": 103.96,
+          "end": 104.38
+        },
+        {
+          "word": "a",
+          "start": 104.38,
+          "end": 104.6
+        },
+        {
+          "word": "palace.",
+          "start": 104.6,
+          "end": 105.38
         }
       ]
     },
     {
       "id": 42,
-      "start": 98.11,
-      "end": 100.36,
-      "text": "Split is very old.",
+      "start": 105.7,
+      "end": 108.5,
+      "text": "It is called Diocletian's Palace.",
       "words": [
         {
-          "word": "Split",
-          "startSec": 98.31,
-          "endSec": 98.79,
-          "score": 0.99
+          "word": "It",
+          "start": 105.7,
+          "end": 105.88
         },
         {
           "word": "is",
-          "startSec": 98.79,
-          "endSec": 99.19,
-          "score": 1.0
+          "start": 105.88,
+          "end": 106.06
         },
         {
-          "word": "very",
-          "startSec": 99.19,
-          "endSec": 99.59,
-          "score": 0.99
+          "word": "called",
+          "start": 106.06,
+          "end": 106.5
         },
         {
-          "word": "old.",
-          "startSec": 99.59,
-          "endSec": 100.21,
-          "score": 1.0
+          "word": "Diocletian's",
+          "start": 106.5,
+          "end": 107.74
+        },
+        {
+          "word": "Palace.",
+          "start": 107.74,
+          "end": 108.5
         }
       ]
     },
     {
       "id": 43,
-      "start": 101.23,
-      "end": 102.46,
-      "text": "Romans lived here.",
+      "start": 109.12,
+      "end": 112.22,
+      "text": "Today, people live inside history.",
       "words": [
         {
-          "word": "Romans",
-          "startSec": 101.43,
-          "endSec": 101.43,
-          "score": 0.98
+          "word": "Today,",
+          "start": 109.12,
+          "end": 109.6
         },
         {
-          "word": "lived",
-          "startSec": 101.43,
-          "endSec": 101.83,
-          "score": 0.99
+          "word": "people",
+          "start": 109.84,
+          "end": 110.14
         },
         {
-          "word": "here.",
-          "startSec": 101.83,
-          "endSec": 102.31,
-          "score": 1.0
+          "word": "live",
+          "start": 110.14,
+          "end": 110.64
+        },
+        {
+          "word": "inside",
+          "start": 110.64,
+          "end": 111.2
+        },
+        {
+          "word": "history.",
+          "start": 111.2,
+          "end": 112.22
         }
       ]
     },
     {
       "id": 44,
-      "start": 102.91,
-      "end": 105.04,
-      "text": "The city grew around a palace.",
+      "start": 112.48,
+      "end": 114.51,
+      "text": "Past and present mix.",
       "words": [
         {
-          "word": "The",
-          "startSec": 103.11,
-          "endSec": 103.21,
-          "score": 0.99
+          "word": "Past",
+          "start": 112.48,
+          "end": 112.94
         },
         {
-          "word": "city",
-          "startSec": 103.21,
-          "endSec": 103.53,
-          "score": 0.99
+          "word": "and",
+          "start": 112.94,
+          "end": 113.32
         },
         {
-          "word": "grew",
-          "startSec": 103.53,
-          "endSec": 103.89,
-          "score": 1.0
+          "word": "present",
+          "start": 113.32,
+          "end": 113.7
         },
         {
-          "word": "around",
-          "startSec": 103.89,
-          "endSec": 104.29,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 104.29,
-          "endSec": 104.45,
-          "score": 0.96
-        },
-        {
-          "word": "palace.",
-          "startSec": 104.45,
-          "endSec": 104.89,
-          "score": 0.99
+          "word": "mix.",
+          "start": 113.7,
+          "end": 114.51
         }
       ]
     },
     {
       "id": 45,
-      "start": 105.59,
-      "end": 108.02,
-      "text": "It is called Diocletian's Palace.",
+      "start": 114.7,
+      "end": 116.7,
+      "text": "History feels alive.",
       "words": [
         {
-          "word": "It",
-          "startSec": 105.79,
-          "endSec": 105.83,
-          "score": 0.99
+          "word": "History",
+          "start": 114.7,
+          "end": 115.22
         },
         {
-          "word": "is",
-          "startSec": 105.83,
-          "endSec": 105.99,
-          "score": 0.99
+          "word": "feels",
+          "start": 115.22,
+          "end": 115.7
         },
         {
-          "word": "called",
-          "startSec": 105.99,
-          "endSec": 106.39,
-          "score": 1.0
-        },
-        {
-          "word": "Diocletian's",
-          "startSec": 106.39,
-          "endSec": 107.65,
-          "score": 0.91
-        },
-        {
-          "word": "Palace.",
-          "startSec": 107.65,
-          "endSec": 107.87,
-          "score": 0.94
+          "word": "alive.",
+          "start": 115.7,
+          "end": 116.7
         }
       ]
     },
     {
       "id": 46,
-      "start": 108.93,
-      "end": 111.7,
-      "text": "Today, people live inside history.",
+      "start": 118.5,
+      "end": 122.26,
+      "text": "Part six, streets inside the palace.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 109.13,
-          "endSec": 109.53,
-          "score": 1.0
+          "word": "Part",
+          "start": 118.5,
+          "end": 118.96
         },
         {
-          "word": "people",
-          "startSec": 109.91,
-          "endSec": 110.19,
-          "score": 1.0
+          "word": "six,",
+          "start": 118.96,
+          "end": 119.46
         },
         {
-          "word": "live",
-          "startSec": 110.19,
-          "endSec": 110.57,
-          "score": 0.99
+          "word": "streets",
+          "start": 119.86,
+          "end": 120.38
         },
         {
           "word": "inside",
-          "startSec": 110.57,
-          "endSec": 111.11,
-          "score": 1.0
+          "start": 120.38,
+          "end": 121.08
         },
         {
-          "word": "history.",
-          "startSec": 111.11,
-          "endSec": 111.55,
-          "score": 0.99
+          "word": "the",
+          "start": 121.08,
+          "end": 121.36
+        },
+        {
+          "word": "palace.",
+          "start": 121.36,
+          "end": 122.26
         }
       ]
     },
     {
       "id": 47,
-      "start": 111.35,
-      "end": 114.24,
-      "text": "Past and present mix.",
+      "start": 122.82,
+      "end": 125.7,
+      "text": "Inside the palace, there are streets.",
       "words": [
         {
-          "word": "Past",
-          "startSec": 111.55,
-          "endSec": 112.93,
-          "score": 0.01
+          "word": "Inside",
+          "start": 122.82,
+          "end": 123.46
         },
         {
-          "word": "and",
-          "startSec": 112.93,
-          "endSec": 113.27,
-          "score": 0.9
+          "word": "the",
+          "start": 123.46,
+          "end": 123.82
         },
         {
-          "word": "present",
-          "startSec": 113.27,
-          "endSec": 113.55,
-          "score": 0.91
+          "word": "palace,",
+          "start": 123.82,
+          "end": 124.34
         },
         {
-          "word": "mix.",
-          "startSec": 113.55,
-          "endSec": 114.09,
-          "score": 0.93
+          "word": "there",
+          "start": 124.62,
+          "end": 124.7
+        },
+        {
+          "word": "are",
+          "start": 124.7,
+          "end": 124.86
+        },
+        {
+          "word": "streets.",
+          "start": 124.86,
+          "end": 125.7
         }
       ]
     },
     {
       "id": 48,
-      "start": 114.61,
-      "end": 116.36,
-      "text": "History feels alive.",
+      "start": 126.06,
+      "end": 129.43,
+      "text": "There are homes, shops sitting near old walls.",
       "words": [
         {
-          "word": "History",
-          "startSec": 114.81,
-          "endSec": 115.21,
-          "score": 0.99
+          "word": "There",
+          "start": 126.06,
+          "end": 126.32
         },
         {
-          "word": "feels",
-          "startSec": 115.21,
-          "endSec": 115.59,
-          "score": 0.97
+          "word": "are",
+          "start": 126.32,
+          "end": 126.46
         },
         {
-          "word": "alive.",
-          "startSec": 115.59,
-          "endSec": 116.21,
-          "score": 1.0
+          "word": "homes,",
+          "start": 126.46,
+          "end": 127.08
+        },
+        {
+          "word": "shops",
+          "start": 127.38,
+          "end": 127.72
+        },
+        {
+          "word": "sitting",
+          "start": 127.72,
+          "end": 128.18
+        },
+        {
+          "word": "near",
+          "start": 128.18,
+          "end": 128.38
+        },
+        {
+          "word": "old",
+          "start": 128.38,
+          "end": 128.66
+        },
+        {
+          "word": "walls.",
+          "start": 128.66,
+          "end": 129.43
         }
       ]
     },
     {
       "id": 49,
-      "start": 118.53,
-      "end": 119.56,
-      "text": "Part 6.",
+      "start": 129.58,
+      "end": 132.1,
+      "text": "Cafes sitting near columns.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 118.73,
-          "endSec": 118.85,
-          "score": 0.75
+          "word": "Cafes",
+          "start": 129.58,
+          "end": 130.46
         },
         {
-          "word": "6.",
-          "startSec": 118.85,
-          "endSec": 119.41,
-          "score": 0.33
+          "word": "sitting",
+          "start": 130.46,
+          "end": 130.8
+        },
+        {
+          "word": "near",
+          "start": 130.8,
+          "end": 131.06
+        },
+        {
+          "word": "columns.",
+          "start": 131.06,
+          "end": 132.1
         }
       ]
     },
     {
       "id": 50,
-      "start": 119.99,
-      "end": 121.74,
-      "text": "Streets inside the palace.",
+      "start": 132.42,
+      "end": 135.02,
+      "text": "Life continues inside history.",
       "words": [
         {
-          "word": "Streets",
-          "startSec": 120.19,
-          "endSec": 120.19,
-          "score": 0.94
+          "word": "Life",
+          "start": 132.42,
+          "end": 132.76
+        },
+        {
+          "word": "continues",
+          "start": 132.76,
+          "end": 133.54
         },
         {
           "word": "inside",
-          "startSec": 120.19,
-          "endSec": 120.95,
-          "score": 0.64
+          "start": 133.54,
+          "end": 134.24
         },
         {
-          "word": "the",
-          "startSec": 120.95,
-          "endSec": 121.31,
-          "score": 0.99
-        },
-        {
-          "word": "palace.",
-          "startSec": 121.31,
-          "endSec": 121.59,
-          "score": 0.73
+          "word": "history.",
+          "start": 134.24,
+          "end": 135.02
         }
       ]
     },
     {
       "id": 51,
-      "start": 122.72,
-      "end": 125.33,
-      "text": "Inside the palace, there are streets.",
+      "start": 135.18,
+      "end": 136.58,
+      "text": "This feels special.",
       "words": [
         {
-          "word": "Inside",
-          "startSec": 122.92,
-          "endSec": 123.3,
-          "score": 0.99
+          "word": "This",
+          "start": 135.18,
+          "end": 135.44
         },
         {
-          "word": "the",
-          "startSec": 123.3,
-          "endSec": 123.78,
-          "score": 0.99
+          "word": "feels",
+          "start": 135.44,
+          "end": 135.76
         },
         {
-          "word": "palace,",
-          "startSec": 123.78,
-          "endSec": 124.22,
-          "score": 0.97
-        },
-        {
-          "word": "there",
-          "startSec": 124.22,
-          "endSec": 124.66,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 124.66,
-          "endSec": 124.82,
-          "score": 1.0
-        },
-        {
-          "word": "streets.",
-          "startSec": 124.82,
-          "endSec": 125.18,
-          "score": 0.99
+          "word": "special.",
+          "start": 135.76,
+          "end": 136.58
         }
       ]
     },
     {
       "id": 52,
-      "start": 125.96,
-      "end": 129.27,
-      "text": "There are homes, shops, sit near old walls.",
+      "start": 136.72,
+      "end": 139.64,
+      "text": "Part seven, daily life of people.",
       "words": [
         {
-          "word": "There",
-          "startSec": 126.16,
-          "endSec": 126.26,
-          "score": 0.98
+          "word": "Part",
+          "start": 136.72,
+          "end": 136.9
         },
         {
-          "word": "are",
-          "startSec": 126.26,
-          "endSec": 126.42,
-          "score": 1.0
+          "word": "seven,",
+          "start": 136.9,
+          "end": 137.46
         },
         {
-          "word": "homes,",
-          "startSec": 126.42,
-          "endSec": 126.9,
-          "score": 1.0
+          "word": "daily",
+          "start": 137.76,
+          "end": 138.06
         },
         {
-          "word": "shops,",
-          "startSec": 127.54,
-          "endSec": 127.56,
-          "score": 0.99
+          "word": "life",
+          "start": 138.06,
+          "end": 138.58
         },
         {
-          "word": "sit",
-          "startSec": 128.08,
-          "endSec": 128.08,
-          "score": 0.65
+          "word": "of",
+          "start": 138.58,
+          "end": 138.8
         },
         {
-          "word": "near",
-          "startSec": 128.08,
-          "endSec": 128.28,
-          "score": 0.96
-        },
-        {
-          "word": "old",
-          "startSec": 128.28,
-          "endSec": 128.58,
-          "score": 0.99
-        },
-        {
-          "word": "walls.",
-          "startSec": 128.58,
-          "endSec": 129.12,
-          "score": 1.0
+          "word": "people.",
+          "start": 138.8,
+          "end": 139.64
         }
       ]
     },
     {
       "id": 53,
-      "start": 129.46,
-      "end": 131.55,
-      "text": "Cafes sit near columns.",
+      "start": 140.48,
+      "end": 143.68,
+      "text": "People in Split wake up early.",
       "words": [
         {
-          "word": "Cafes",
-          "startSec": 129.66,
-          "endSec": 130.3,
-          "score": 0.73
+          "word": "People",
+          "start": 140.48,
+          "end": 141.28
         },
         {
-          "word": "sit",
-          "startSec": 130.3,
-          "endSec": 130.72,
-          "score": 0.67
+          "word": "in",
+          "start": 141.28,
+          "end": 141.62
         },
         {
-          "word": "near",
-          "startSec": 130.72,
-          "endSec": 130.94,
-          "score": 0.99
+          "word": "Split",
+          "start": 141.62,
+          "end": 142.04
         },
         {
-          "word": "columns.",
-          "startSec": 130.94,
-          "endSec": 131.4,
-          "score": 0.99
+          "word": "wake",
+          "start": 142.04,
+          "end": 142.5
+        },
+        {
+          "word": "up",
+          "start": 142.5,
+          "end": 142.82
+        },
+        {
+          "word": "early.",
+          "start": 142.82,
+          "end": 143.68
         }
       ]
     },
     {
       "id": 54,
-      "start": 132.46,
-      "end": 134.69,
-      "text": "Life continues inside history.",
+      "start": 144.12,
+      "end": 145.98,
+      "text": "They enjoy the morning.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 132.66,
-          "endSec": 132.7,
-          "score": 0.99
+          "word": "They",
+          "start": 144.12,
+          "end": 144.38
         },
         {
-          "word": "continues",
-          "startSec": 132.7,
-          "endSec": 133.3,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 144.38,
+          "end": 144.88
         },
         {
-          "word": "inside",
-          "startSec": 133.3,
-          "endSec": 134.1,
-          "score": 1.0
+          "word": "the",
+          "start": 144.88,
+          "end": 145.14
         },
         {
-          "word": "history.",
-          "startSec": 134.1,
-          "endSec": 134.54,
-          "score": 0.99
+          "word": "morning.",
+          "start": 145.14,
+          "end": 145.98
         }
       ]
     },
     {
       "id": 55,
-      "start": 135.06,
-      "end": 136.25,
-      "text": "This feels special.",
+      "start": 146.34,
+      "end": 148.42,
+      "text": "They drink coffee slowly.",
       "words": [
         {
-          "word": "This",
-          "startSec": 135.26,
-          "endSec": 135.36,
-          "score": 0.99
+          "word": "They",
+          "start": 146.34,
+          "end": 146.48
         },
         {
-          "word": "feels",
-          "startSec": 135.36,
-          "endSec": 135.66,
-          "score": 0.99
+          "word": "drink",
+          "start": 146.48,
+          "end": 146.86
         },
         {
-          "word": "special.",
-          "startSec": 135.66,
-          "endSec": 136.1,
-          "score": 1.0
+          "word": "coffee",
+          "start": 146.86,
+          "end": 147.44
+        },
+        {
+          "word": "slowly.",
+          "start": 147.44,
+          "end": 148.42
         }
       ]
     },
     {
       "id": 56,
-      "start": 136.64,
-      "end": 137.61,
-      "text": "Part 7.",
+      "start": 148.86,
+      "end": 150.36,
+      "text": "They talk a lot.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 136.84,
-          "endSec": 136.84,
-          "score": 0.99
+          "word": "They",
+          "start": 148.86,
+          "end": 149.04
         },
         {
-          "word": "7.",
-          "startSec": 136.84,
-          "endSec": 137.46,
-          "score": 0.91
+          "word": "talk",
+          "start": 149.04,
+          "end": 149.46
+        },
+        {
+          "word": "a",
+          "start": 149.46,
+          "end": 149.72
+        },
+        {
+          "word": "lot.",
+          "start": 149.72,
+          "end": 150.36
         }
       ]
     },
     {
       "id": 57,
-      "start": 137.62,
-      "end": 139.23,
-      "text": "Daily life of people.",
+      "start": 150.62,
+      "end": 152.08,
+      "text": "Life is social.",
       "words": [
         {
-          "word": "Daily",
-          "startSec": 137.82,
-          "endSec": 137.96,
-          "score": 0.96
+          "word": "Life",
+          "start": 150.62,
+          "end": 150.84
         },
         {
-          "word": "life",
-          "startSec": 137.96,
-          "endSec": 138.44,
-          "score": 0.87
+          "word": "is",
+          "start": 150.84,
+          "end": 151.16
         },
         {
-          "word": "of",
-          "startSec": 138.44,
-          "endSec": 138.72,
-          "score": 1.0
-        },
-        {
-          "word": "people.",
-          "startSec": 138.72,
-          "endSec": 139.08,
-          "score": 0.99
+          "word": "social.",
+          "start": 151.16,
+          "end": 152.08
         }
       ]
     },
     {
       "id": 58,
-      "start": 140.22,
-      "end": 143.29,
-      "text": "People in Split wake up early.",
+      "start": 152.42,
+      "end": 153.66,
+      "text": "Time is shared.",
       "words": [
         {
-          "word": "People",
-          "startSec": 140.42,
-          "endSec": 141.28,
-          "score": 0.99
+          "word": "Time",
+          "start": 152.42,
+          "end": 152.56
         },
         {
-          "word": "in",
-          "startSec": 141.28,
-          "endSec": 141.56,
-          "score": 0.78
+          "word": "is",
+          "start": 152.56,
+          "end": 152.82
         },
         {
-          "word": "Split",
-          "startSec": 141.56,
-          "endSec": 142.0,
-          "score": 0.09
-        },
-        {
-          "word": "wake",
-          "startSec": 142.0,
-          "endSec": 142.4,
-          "score": 0.96
-        },
-        {
-          "word": "up",
-          "startSec": 142.4,
-          "endSec": 142.72,
-          "score": 0.98
-        },
-        {
-          "word": "early.",
-          "startSec": 142.72,
-          "endSec": 143.14,
-          "score": 1.0
+          "word": "shared.",
+          "start": 152.82,
+          "end": 153.66
         }
       ]
     },
     {
       "id": 59,
-      "start": 142.94,
-      "end": 145.67,
-      "text": "They enjoy the morning.",
+      "start": 154.24,
+      "end": 156.04,
+      "text": "Friendship is important.",
       "words": [
         {
-          "word": "They",
-          "startSec": 143.14,
-          "endSec": 144.3,
-          "score": 0.42
+          "word": "Friendship",
+          "start": 154.24,
+          "end": 154.7
         },
         {
-          "word": "enjoy",
-          "startSec": 144.3,
-          "endSec": 144.74,
-          "score": 0.83
+          "word": "is",
+          "start": 154.7,
+          "end": 154.98
         },
         {
-          "word": "the",
-          "startSec": 144.74,
-          "endSec": 145.1,
-          "score": 0.99
-        },
-        {
-          "word": "morning.",
-          "startSec": 145.1,
-          "endSec": 145.52,
-          "score": 0.99
+          "word": "important.",
+          "start": 154.98,
+          "end": 156.04
         }
       ]
     },
     {
       "id": 60,
-      "start": 146.08,
-      "end": 147.99,
-      "text": "They drink coffee slowly.",
+      "start": 158.26,
+      "end": 160.78,
+      "text": "Part eight, food and local taste.",
       "words": [
         {
-          "word": "They",
-          "startSec": 146.28,
-          "endSec": 146.42,
-          "score": 0.99
+          "word": "Part",
+          "start": 158.26,
+          "end": 158.26
         },
         {
-          "word": "drink",
-          "startSec": 146.42,
-          "endSec": 146.76,
-          "score": 1.0
+          "word": "eight,",
+          "start": 158.26,
+          "end": 158.68
         },
         {
-          "word": "coffee",
-          "startSec": 146.76,
-          "endSec": 147.24,
-          "score": 0.99
+          "word": "food",
+          "start": 158.98,
+          "end": 159.14
         },
         {
-          "word": "slowly.",
-          "startSec": 147.24,
-          "endSec": 147.84,
-          "score": 0.99
+          "word": "and",
+          "start": 159.14,
+          "end": 159.36
+        },
+        {
+          "word": "local",
+          "start": 159.36,
+          "end": 159.64
+        },
+        {
+          "word": "taste.",
+          "start": 159.64,
+          "end": 160.78
         }
       ]
     },
     {
       "id": 61,
-      "start": 148.6,
-      "end": 150.03,
-      "text": "They talk a lot.",
+      "start": 161.38,
+      "end": 163.6,
+      "text": "Food in Split is fresh.",
       "words": [
         {
-          "word": "They",
-          "startSec": 148.8,
-          "endSec": 148.98,
-          "score": 0.99
+          "word": "Food",
+          "start": 161.38,
+          "end": 161.88
         },
         {
-          "word": "talk",
-          "startSec": 148.98,
-          "endSec": 149.3,
-          "score": 1.0
+          "word": "in",
+          "start": 161.88,
+          "end": 162.12
         },
         {
-          "word": "a",
-          "startSec": 149.3,
-          "endSec": 149.6,
-          "score": 1.0
+          "word": "Split",
+          "start": 162.12,
+          "end": 162.5
         },
         {
-          "word": "lot.",
-          "startSec": 149.6,
-          "endSec": 149.88,
-          "score": 1.0
+          "word": "is",
+          "start": 162.5,
+          "end": 162.8
+        },
+        {
+          "word": "fresh.",
+          "start": 162.8,
+          "end": 163.6
         }
       ]
     },
     {
       "id": 62,
-      "start": 150.28,
-      "end": 151.61,
-      "text": "Life is social.",
+      "start": 164.08,
+      "end": 165.34,
+      "text": "Fish is common.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 150.48,
-          "endSec": 150.82,
-          "score": 0.99
+          "word": "Fish",
+          "start": 164.08,
+          "end": 164.36
         },
         {
           "word": "is",
-          "startSec": 150.82,
-          "endSec": 151.08,
-          "score": 1.0
+          "start": 164.36,
+          "end": 164.62
         },
         {
-          "word": "social.",
-          "startSec": 151.08,
-          "endSec": 151.46,
-          "score": 0.98
+          "word": "common.",
+          "start": 164.62,
+          "end": 165.34
         }
       ]
     },
     {
       "id": 63,
-      "start": 152.1,
-      "end": 153.29,
-      "text": "Time is shared.",
+      "start": 165.5,
+      "end": 166.8,
+      "text": "Olive oil is used.",
       "words": [
         {
-          "word": "Time",
-          "startSec": 152.3,
-          "endSec": 152.52,
-          "score": 0.98
+          "word": "Olive",
+          "start": 165.5,
+          "end": 165.78
+        },
+        {
+          "word": "oil",
+          "start": 165.78,
+          "end": 166.1
         },
         {
           "word": "is",
-          "startSec": 152.52,
-          "endSec": 152.74,
-          "score": 1.0
+          "start": 166.1,
+          "end": 166.42
         },
         {
-          "word": "shared.",
-          "startSec": 152.74,
-          "endSec": 153.14,
-          "score": 1.0
+          "word": "used.",
+          "start": 166.42,
+          "end": 166.8
         }
       ]
     },
     {
       "id": 64,
-      "start": 153.86,
-      "end": 155.49,
-      "text": "Friendship is important.",
+      "start": 166.8,
+      "end": 169.54,
+      "text": "Vegetables are local.",
       "words": [
         {
-          "word": "Friendship",
-          "startSec": 154.06,
-          "endSec": 154.52,
-          "score": 0.98
+          "word": "Vegetables",
+          "start": 166.8,
+          "end": 168.42
         },
         {
-          "word": "is",
-          "startSec": 154.52,
-          "endSec": 154.96,
-          "score": 1.0
+          "word": "are",
+          "start": 168.42,
+          "end": 168.68
         },
         {
-          "word": "important.",
-          "startSec": 154.96,
-          "endSec": 155.34,
-          "score": 1.0
+          "word": "local.",
+          "start": 168.68,
+          "end": 169.54
         }
       ]
     },
     {
       "id": 65,
-      "start": 158.08,
-      "end": 158.75,
-      "text": "Part 8.",
+      "start": 169.92,
+      "end": 171.41,
+      "text": "Meals feel light.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 158.28,
-          "endSec": 158.28,
-          "score": 0.39
+          "word": "Meals",
+          "start": 169.92,
+          "end": 170.3
         },
         {
-          "word": "8.",
-          "startSec": 158.28,
-          "endSec": 158.6,
-          "score": 0.6
+          "word": "feel",
+          "start": 170.3,
+          "end": 170.56
+        },
+        {
+          "word": "light.",
+          "start": 170.56,
+          "end": 171.41
         }
       ]
     },
     {
       "id": 66,
-      "start": 158.86,
-      "end": 160.27,
-      "text": "Food and local taste.",
+      "start": 171.66,
+      "end": 173.38,
+      "text": "Taste feels clean.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 159.06,
-          "endSec": 159.12,
-          "score": 0.99
+          "word": "Taste",
+          "start": 171.66,
+          "end": 171.84
         },
         {
-          "word": "and",
-          "startSec": 159.12,
-          "endSec": 159.32,
-          "score": 0.85
+          "word": "feels",
+          "start": 171.84,
+          "end": 172.34
         },
         {
-          "word": "local",
-          "startSec": 159.32,
-          "endSec": 159.54,
-          "score": 0.65
-        },
-        {
-          "word": "taste.",
-          "startSec": 159.54,
-          "endSec": 160.12,
-          "score": 0.96
+          "word": "clean.",
+          "start": 172.34,
+          "end": 173.38
         }
       ]
     },
     {
       "id": 67,
-      "start": 161.14,
-      "end": 163.23,
-      "text": "Food and Split is fresh.",
+      "start": 174.4,
+      "end": 176.32,
+      "text": "Eating is a pleasure.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 161.34,
-          "endSec": 161.8,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 161.8,
-          "endSec": 162.06,
-          "score": 0.98
-        },
-        {
-          "word": "Split",
-          "startSec": 162.06,
-          "endSec": 162.38,
-          "score": 0.02
+          "word": "Eating",
+          "start": 174.4,
+          "end": 174.9
         },
         {
           "word": "is",
-          "startSec": 162.38,
-          "endSec": 162.74,
-          "score": 0.99
+          "start": 174.9,
+          "end": 175.32
         },
         {
-          "word": "fresh.",
-          "startSec": 162.74,
-          "endSec": 163.08,
-          "score": 0.92
+          "word": "a",
+          "start": 175.32,
+          "end": 175.46
+        },
+        {
+          "word": "pleasure.",
+          "start": 175.46,
+          "end": 176.32
         }
       ]
     },
     {
       "id": 68,
-      "start": 163.78,
-      "end": 165.05,
-      "text": "Fish is common.",
+      "start": 177.74,
+      "end": 180.66,
+      "text": "Part nine, the sea and the port.",
       "words": [
         {
-          "word": "Fish",
-          "startSec": 163.98,
-          "endSec": 164.28,
-          "score": 0.94
+          "word": "Part",
+          "start": 177.74,
+          "end": 177.88
         },
         {
-          "word": "is",
-          "startSec": 164.28,
-          "endSec": 164.54,
-          "score": 1.0
+          "word": "nine,",
+          "start": 177.88,
+          "end": 178.38
         },
         {
-          "word": "common.",
-          "startSec": 164.54,
-          "endSec": 164.9,
-          "score": 1.0
+          "word": "the",
+          "start": 178.9,
+          "end": 178.98
+        },
+        {
+          "word": "sea",
+          "start": 178.98,
+          "end": 179.44
+        },
+        {
+          "word": "and",
+          "start": 179.44,
+          "end": 179.7
+        },
+        {
+          "word": "the",
+          "start": 179.7,
+          "end": 179.88
+        },
+        {
+          "word": "port.",
+          "start": 179.88,
+          "end": 180.66
         }
       ]
     },
     {
       "id": 69,
-      "start": 165.34,
-      "end": 166.83,
-      "text": "Olive oil is used.",
+      "start": 181.04,
+      "end": 183.48,
+      "text": "The sea is central to life.",
       "words": [
         {
-          "word": "Olive",
-          "startSec": 165.54,
-          "endSec": 165.66,
-          "score": 0.88
+          "word": "The",
+          "start": 181.04,
+          "end": 181.36
         },
         {
-          "word": "oil",
-          "startSec": 165.66,
-          "endSec": 166.02,
-          "score": 0.99
+          "word": "sea",
+          "start": 181.36,
+          "end": 181.76
         },
         {
           "word": "is",
-          "startSec": 166.02,
-          "endSec": 166.38,
-          "score": 1.0
+          "start": 181.76,
+          "end": 181.96
         },
         {
-          "word": "used.",
-          "startSec": 166.38,
-          "endSec": 166.68,
-          "score": 1.0
+          "word": "central",
+          "start": 181.96,
+          "end": 182.38
+        },
+        {
+          "word": "to",
+          "start": 182.38,
+          "end": 182.7
+        },
+        {
+          "word": "life.",
+          "start": 182.7,
+          "end": 183.48
         }
       ]
     },
     {
       "id": 70,
-      "start": 167.42,
-      "end": 169.07,
-      "text": "Vegetables are local.",
+      "start": 183.74,
+      "end": 185.43,
+      "text": "Boats come and go.",
       "words": [
         {
-          "word": "Vegetables",
-          "startSec": 167.62,
-          "endSec": 168.34,
-          "score": 0.99
+          "word": "Boats",
+          "start": 183.74,
+          "end": 184.24
         },
         {
-          "word": "are",
-          "startSec": 168.34,
-          "endSec": 168.62,
-          "score": 1.0
+          "word": "come",
+          "start": 184.24,
+          "end": 184.56
         },
         {
-          "word": "local.",
-          "startSec": 168.62,
-          "endSec": 168.92,
-          "score": 1.0
+          "word": "and",
+          "start": 184.56,
+          "end": 184.76
+        },
+        {
+          "word": "go.",
+          "start": 184.76,
+          "end": 185.43
         }
       ]
     },
     {
       "id": 71,
-      "start": 169.76,
-      "end": 171.05,
-      "text": "Meals feel light.",
+      "start": 185.66,
+      "end": 187.54,
+      "text": "People walk by the port.",
       "words": [
         {
-          "word": "Meals",
-          "startSec": 169.96,
-          "endSec": 170.16,
-          "score": 0.93
+          "word": "People",
+          "start": 185.66,
+          "end": 186.06
         },
         {
-          "word": "feel",
-          "startSec": 170.16,
-          "endSec": 170.5,
-          "score": 1.0
+          "word": "walk",
+          "start": 186.06,
+          "end": 186.44
         },
         {
-          "word": "light.",
-          "startSec": 170.5,
-          "endSec": 170.9,
-          "score": 0.98
+          "word": "by",
+          "start": 186.44,
+          "end": 186.8
+        },
+        {
+          "word": "the",
+          "start": 186.8,
+          "end": 186.98
+        },
+        {
+          "word": "port.",
+          "start": 186.98,
+          "end": 187.54
         }
       ]
     },
     {
       "id": 72,
-      "start": 171.44,
-      "end": 172.89,
-      "text": "Taste feels clean.",
+      "start": 187.64,
+      "end": 189.1,
+      "text": "They watch the water.",
       "words": [
         {
-          "word": "Taste",
-          "startSec": 171.64,
-          "endSec": 171.7,
-          "score": 0.96
+          "word": "They",
+          "start": 187.64,
+          "end": 187.74
         },
         {
-          "word": "feels",
-          "startSec": 171.7,
-          "endSec": 172.36,
-          "score": 0.99
+          "word": "watch",
+          "start": 187.74,
+          "end": 188.12
         },
         {
-          "word": "clean.",
-          "startSec": 172.36,
-          "endSec": 172.74,
-          "score": 1.0
+          "word": "the",
+          "start": 188.12,
+          "end": 188.34
+        },
+        {
+          "word": "water.",
+          "start": 188.34,
+          "end": 189.1
         }
       ]
     },
     {
       "id": 73,
-      "start": 172.54,
-      "end": 175.99,
-      "text": "Eating is a pleasure.",
+      "start": 189.32,
+      "end": 192.14,
+      "text": "The sound of waves calms the mind.",
       "words": [
         {
-          "word": "Eating",
-          "startSec": 172.74,
-          "endSec": 173.26,
-          "score": 0.0
+          "word": "The",
+          "start": 189.32,
+          "end": 189.48
         },
         {
-          "word": "is",
-          "startSec": 173.74,
-          "endSec": 175.26,
-          "score": 0.96
+          "word": "sound",
+          "start": 189.48,
+          "end": 189.92
         },
         {
-          "word": "a",
-          "startSec": 175.26,
-          "endSec": 175.4,
-          "score": 0.99
+          "word": "of",
+          "start": 189.92,
+          "end": 190.12
         },
         {
-          "word": "pleasure.",
-          "startSec": 175.4,
-          "endSec": 175.84,
-          "score": 0.99
+          "word": "waves",
+          "start": 190.12,
+          "end": 190.46
+        },
+        {
+          "word": "calms",
+          "start": 190.46,
+          "end": 191.1
+        },
+        {
+          "word": "the",
+          "start": 191.1,
+          "end": 191.28
+        },
+        {
+          "word": "mind.",
+          "start": 191.28,
+          "end": 192.14
         }
       ]
     },
     {
       "id": 74,
-      "start": 177.49,
-      "end": 178.56,
-      "text": "Part 9.",
+      "start": 192.9,
+      "end": 195.8,
+      "text": "Part ten, culture and music.",
       "words": [
         {
           "word": "Part",
-          "startSec": 177.69,
-          "endSec": 177.77,
-          "score": 0.74
+          "start": 192.9,
+          "end": 193.68
         },
         {
-          "word": "9.",
-          "startSec": 177.77,
-          "endSec": 178.41,
-          "score": 0.58
+          "word": "ten,",
+          "start": 193.68,
+          "end": 194.14
+        },
+        {
+          "word": "culture",
+          "start": 194.54,
+          "end": 194.88
+        },
+        {
+          "word": "and",
+          "start": 194.88,
+          "end": 195.36
+        },
+        {
+          "word": "music.",
+          "start": 195.36,
+          "end": 195.8
         }
       ]
     },
     {
       "id": 75,
-      "start": 178.73,
-      "end": 180.34,
-      "text": "The sea and the port.",
+      "start": 195.8,
+      "end": 198.13,
+      "text": "Split loves music.",
       "words": [
         {
-          "word": "The",
-          "startSec": 178.93,
-          "endSec": 178.93,
-          "score": 0.95
+          "word": "Split",
+          "start": 195.8,
+          "end": 196.88
         },
         {
-          "word": "sea",
-          "startSec": 178.93,
-          "endSec": 179.33,
-          "score": 0.46
+          "word": "loves",
+          "start": 196.88,
+          "end": 197.24
         },
         {
-          "word": "and",
-          "startSec": 179.33,
-          "endSec": 179.63,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 179.63,
-          "endSec": 179.81,
-          "score": 0.99
-        },
-        {
-          "word": "port.",
-          "startSec": 179.81,
-          "endSec": 180.19,
-          "score": 0.97
+          "word": "music.",
+          "start": 197.24,
+          "end": 198.13
         }
       ]
     },
     {
       "id": 76,
-      "start": 180.92,
-      "end": 183.17,
-      "text": "The sea is central to life.",
+      "start": 198.28,
+      "end": 200.56,
+      "text": "Festivals happen in summer.",
       "words": [
         {
-          "word": "The",
-          "startSec": 181.12,
-          "endSec": 181.3,
-          "score": 0.98
+          "word": "Festivals",
+          "start": 198.28,
+          "end": 199.04
         },
         {
-          "word": "sea",
-          "startSec": 181.3,
-          "endSec": 181.62,
-          "score": 0.99
+          "word": "happen",
+          "start": 199.04,
+          "end": 199.5
         },
         {
-          "word": "is",
-          "startSec": 181.62,
-          "endSec": 181.9,
-          "score": 0.98
+          "word": "in",
+          "start": 199.5,
+          "end": 199.76
         },
         {
-          "word": "central",
-          "startSec": 181.9,
-          "endSec": 182.32,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 182.32,
-          "endSec": 182.66,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 182.66,
-          "endSec": 183.02,
-          "score": 1.0
+          "word": "summer.",
+          "start": 199.76,
+          "end": 200.56
         }
       ]
     },
     {
       "id": 77,
-      "start": 183.6,
-      "end": 185.19,
-      "text": "Boats come and go.",
+      "start": 200.9,
+      "end": 202.66,
+      "text": "Songs fill the streets.",
       "words": [
         {
-          "word": "Boats",
-          "startSec": 183.8,
-          "endSec": 184.24,
-          "score": 0.86
+          "word": "Songs",
+          "start": 200.9,
+          "end": 201.26
         },
         {
-          "word": "come",
-          "startSec": 184.24,
-          "endSec": 184.46,
-          "score": 1.0
+          "word": "fill",
+          "start": 201.26,
+          "end": 201.6
         },
         {
-          "word": "and",
-          "startSec": 184.46,
-          "endSec": 184.7,
-          "score": 1.0
+          "word": "the",
+          "start": 201.6,
+          "end": 201.8
         },
         {
-          "word": "go.",
-          "startSec": 184.7,
-          "endSec": 185.04,
-          "score": 1.0
+          "word": "streets.",
+          "start": 201.8,
+          "end": 202.66
         }
       ]
     },
     {
       "id": 78,
-      "start": 185.46,
-      "end": 187.45,
-      "text": "People walk by the port.",
+      "start": 203.02,
+      "end": 205.34,
+      "text": "Voices echo on stone.",
       "words": [
         {
-          "word": "People",
-          "startSec": 185.66,
-          "endSec": 185.98,
-          "score": 0.99
+          "word": "Voices",
+          "start": 203.02,
+          "end": 203.66
         },
         {
-          "word": "walk",
-          "startSec": 185.98,
-          "endSec": 186.36,
-          "score": 0.99
+          "word": "echo",
+          "start": 203.66,
+          "end": 204.14
         },
         {
-          "word": "by",
-          "startSec": 186.36,
-          "endSec": 186.74,
-          "score": 1.0
+          "word": "on",
+          "start": 204.14,
+          "end": 204.44
         },
         {
-          "word": "the",
-          "startSec": 186.74,
-          "endSec": 186.94,
-          "score": 1.0
-        },
-        {
-          "word": "port.",
-          "startSec": 186.94,
-          "endSec": 187.3,
-          "score": 0.99
+          "word": "stone.",
+          "start": 204.44,
+          "end": 205.34
         }
       ]
     },
     {
       "id": 79,
-      "start": 187.42,
-      "end": 188.87,
-      "text": "They watch the water.",
+      "start": 205.76,
+      "end": 207.8,
+      "text": "Culture feels open.",
       "words": [
         {
-          "word": "They",
-          "startSec": 187.62,
-          "endSec": 187.7,
-          "score": 0.99
+          "word": "Culture",
+          "start": 205.76,
+          "end": 206.32
         },
         {
-          "word": "watch",
-          "startSec": 187.7,
-          "endSec": 187.94,
-          "score": 0.99
+          "word": "feels",
+          "start": 206.32,
+          "end": 206.84
         },
         {
-          "word": "the",
-          "startSec": 187.94,
-          "endSec": 188.3,
-          "score": 1.0
-        },
-        {
-          "word": "water.",
-          "startSec": 188.3,
-          "endSec": 188.72,
-          "score": 1.0
+          "word": "open.",
+          "start": 206.84,
+          "end": 207.8
         }
       ]
     },
     {
       "id": 80,
-      "start": 189.18,
-      "end": 191.83,
-      "text": "The sound of waves calms the mind.",
+      "start": 208.2,
+      "end": 210.06,
+      "text": "Joy feels shared.",
       "words": [
         {
-          "word": "The",
-          "startSec": 189.38,
-          "endSec": 189.42,
-          "score": 0.99
+          "word": "Joy",
+          "start": 208.2,
+          "end": 208.58
         },
         {
-          "word": "sound",
-          "startSec": 189.42,
-          "endSec": 189.8,
-          "score": 0.99
+          "word": "feels",
+          "start": 208.58,
+          "end": 209.08
         },
         {
-          "word": "of",
-          "startSec": 189.8,
-          "endSec": 190.04,
-          "score": 1.0
-        },
-        {
-          "word": "waves",
-          "startSec": 190.04,
-          "endSec": 190.32,
-          "score": 1.0
-        },
-        {
-          "word": "calms",
-          "startSec": 190.32,
-          "endSec": 191.08,
-          "score": 0.83
-        },
-        {
-          "word": "the",
-          "startSec": 191.08,
-          "endSec": 191.24,
-          "score": 1.0
-        },
-        {
-          "word": "mind.",
-          "startSec": 191.24,
-          "endSec": 191.68,
-          "score": 1.0
+          "word": "shared.",
+          "start": 209.08,
+          "end": 210.06
         }
       ]
     },
     {
       "id": 81,
-      "start": 193.3,
-      "end": 194.27,
-      "text": "Part 10.",
+      "start": 211.26,
+      "end": 214.1,
+      "text": "Part eleven, nature and walks.",
       "words": [
         {
           "word": "Part",
-          "startSec": 193.5,
-          "endSec": 193.58,
-          "score": 0.98
+          "start": 211.26,
+          "end": 211.52
         },
         {
-          "word": "10.",
-          "startSec": 193.58,
-          "endSec": 194.12,
-          "score": 0.99
+          "word": "eleven,",
+          "start": 211.52,
+          "end": 212.08
+        },
+        {
+          "word": "nature",
+          "start": 212.48,
+          "end": 212.94
+        },
+        {
+          "word": "and",
+          "start": 212.94,
+          "end": 213.28
+        },
+        {
+          "word": "walks.",
+          "start": 213.28,
+          "end": 214.1
         }
       ]
     },
     {
       "id": 82,
-      "start": 194.54,
-      "end": 195.79,
-      "text": "Culture and music.",
+      "start": 214.56,
+      "end": 216.54,
+      "text": "Parks are near the city.",
       "words": [
         {
-          "word": "Culture",
-          "startSec": 194.74,
-          "endSec": 194.9,
-          "score": 0.99
+          "word": "Parks",
+          "start": 214.56,
+          "end": 215.04
         },
         {
-          "word": "and",
-          "startSec": 194.9,
-          "endSec": 195.3,
-          "score": 0.99
+          "word": "are",
+          "start": 215.04,
+          "end": 215.28
         },
         {
-          "word": "music.",
-          "startSec": 195.3,
-          "endSec": 195.64,
-          "score": 0.85
+          "word": "near",
+          "start": 215.28,
+          "end": 215.52
+        },
+        {
+          "word": "the",
+          "start": 215.52,
+          "end": 215.74
+        },
+        {
+          "word": "city.",
+          "start": 215.74,
+          "end": 216.54
         }
       ]
     },
     {
       "id": 83,
-      "start": 196.64,
-      "end": 197.99,
-      "text": "Split loves music.",
+      "start": 216.84,
+      "end": 218.68,
+      "text": "Hills rise close.",
       "words": [
         {
-          "word": "Split",
-          "startSec": 196.84,
-          "endSec": 196.84,
-          "score": 0.98
+          "word": "Hills",
+          "start": 216.84,
+          "end": 217.24
         },
         {
-          "word": "loves",
-          "startSec": 196.84,
-          "endSec": 197.16,
-          "score": 0.93
+          "word": "rise",
+          "start": 217.24,
+          "end": 217.7
         },
         {
-          "word": "music.",
-          "startSec": 197.16,
-          "endSec": 197.84,
-          "score": 1.0
+          "word": "close.",
+          "start": 217.7,
+          "end": 218.68
         }
       ]
     },
     {
       "id": 84,
-      "start": 198.26,
-      "end": 200.13,
-      "text": "Festivals happen in summer.",
+      "start": 219.02,
+      "end": 220.24,
+      "text": "People hike.",
       "words": [
         {
-          "word": "Festivals",
-          "startSec": 198.46,
-          "endSec": 198.98,
-          "score": 0.98
+          "word": "People",
+          "start": 219.02,
+          "end": 219.32
         },
         {
-          "word": "happen",
-          "startSec": 198.98,
-          "endSec": 199.34,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 199.34,
-          "endSec": 199.7,
-          "score": 1.0
-        },
-        {
-          "word": "summer.",
-          "startSec": 199.7,
-          "endSec": 199.98,
-          "score": 0.97
+          "word": "hike.",
+          "start": 219.32,
+          "end": 220.24
         }
       ]
     },
     {
       "id": 85,
-      "start": 201.0,
-      "end": 202.27,
-      "text": "Songs fill the streets.",
+      "start": 220.54,
+      "end": 222.68,
+      "text": "People breathe fresh air.",
       "words": [
         {
-          "word": "Songs",
-          "startSec": 201.2,
-          "endSec": 201.2,
-          "score": 0.98
+          "word": "People",
+          "start": 220.54,
+          "end": 220.86
         },
         {
-          "word": "fill",
-          "startSec": 201.2,
-          "endSec": 201.52,
-          "score": 0.96
+          "word": "breathe",
+          "start": 220.86,
+          "end": 221.32
         },
         {
-          "word": "the",
-          "startSec": 201.52,
-          "endSec": 201.76,
-          "score": 1.0
+          "word": "fresh",
+          "start": 221.32,
+          "end": 221.72
         },
         {
-          "word": "streets.",
-          "startSec": 201.76,
-          "endSec": 202.12,
-          "score": 1.0
+          "word": "air.",
+          "start": 221.72,
+          "end": 222.68
         }
       ]
     },
     {
       "id": 86,
-      "start": 202.92,
-      "end": 204.99,
-      "text": "Voices echo on stone.",
+      "start": 222.98,
+      "end": 224.42,
+      "text": "Nature gives strength.",
       "words": [
         {
-          "word": "Voices",
-          "startSec": 203.12,
-          "endSec": 203.62,
-          "score": 0.0
+          "word": "Nature",
+          "start": 222.98,
+          "end": 223.46
         },
         {
-          "word": "echo",
-          "startSec": 203.62,
-          "endSec": 204.06,
-          "score": 0.83
+          "word": "gives",
+          "start": 223.46,
+          "end": 223.82
         },
         {
-          "word": "on",
-          "startSec": 204.06,
-          "endSec": 204.38,
-          "score": 0.98
-        },
-        {
-          "word": "stone.",
-          "startSec": 204.38,
-          "endSec": 204.84,
-          "score": 0.87
+          "word": "strength.",
+          "start": 223.82,
+          "end": 224.42
         }
       ]
     },
     {
       "id": 87,
-      "start": 205.62,
-      "end": 207.55,
-      "text": "Culture feels open.",
+      "start": 224.42,
+      "end": 227.0,
+      "text": "Movement gives energy.",
       "words": [
         {
-          "word": "Culture",
-          "startSec": 205.82,
-          "endSec": 206.34,
-          "score": 0.9
+          "word": "Movement",
+          "start": 224.42,
+          "end": 225.34
         },
         {
-          "word": "feels",
-          "startSec": 206.34,
-          "endSec": 206.72,
-          "score": 0.97
+          "word": "gives",
+          "start": 225.34,
+          "end": 225.84
         },
         {
-          "word": "open.",
-          "startSec": 206.72,
-          "endSec": 207.4,
-          "score": 1.0
+          "word": "energy.",
+          "start": 225.84,
+          "end": 227.0
         }
       ]
     },
     {
       "id": 88,
-      "start": 207.84,
-      "end": 209.61,
-      "text": "Joy feels shared.",
+      "start": 228.04,
+      "end": 232.62,
+      "text": "Part twelve, the soul of Split and Goodbye.",
       "words": [
         {
-          "word": "Joy",
-          "startSec": 208.04,
-          "endSec": 208.48,
-          "score": 0.98
+          "word": "Part",
+          "start": 228.04,
+          "end": 228.86
         },
         {
-          "word": "feels",
-          "startSec": 208.48,
-          "endSec": 209.02,
-          "score": 0.99
+          "word": "twelve,",
+          "start": 228.86,
+          "end": 229.52
         },
         {
-          "word": "shared.",
-          "startSec": 209.02,
-          "endSec": 209.46,
-          "score": 1.0
+          "word": "the",
+          "start": 230.28,
+          "end": 230.44
+        },
+        {
+          "word": "soul",
+          "start": 230.44,
+          "end": 230.88
+        },
+        {
+          "word": "of",
+          "start": 230.88,
+          "end": 231.1
+        },
+        {
+          "word": "Split",
+          "start": 231.1,
+          "end": 231.46
+        },
+        {
+          "word": "and",
+          "start": 231.46,
+          "end": 231.76
+        },
+        {
+          "word": "Goodbye.",
+          "start": 231.76,
+          "end": 232.62
         }
       ]
     },
     {
       "id": 89,
-      "start": 211.02,
-      "end": 212.19,
-      "text": "Part 11.",
+      "start": 233.34,
+      "end": 234.96,
+      "text": "Split is bright.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 211.22,
-          "endSec": 211.42,
-          "score": 0.91
+          "word": "Split",
+          "start": 233.34,
+          "end": 233.9
         },
         {
-          "word": "11.",
-          "startSec": 211.42,
-          "endSec": 212.04,
-          "score": 0.95
+          "word": "is",
+          "start": 233.9,
+          "end": 234.16
+        },
+        {
+          "word": "bright.",
+          "start": 234.16,
+          "end": 234.96
         }
       ]
     },
     {
       "id": 90,
-      "start": 212.32,
-      "end": 213.71,
-      "text": "Nature and walks.",
+      "start": 235.24,
+      "end": 236.64,
+      "text": "Split is alive.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 212.52,
-          "endSec": 212.98,
-          "score": 0.98
+          "word": "Split",
+          "start": 235.24,
+          "end": 235.36
         },
         {
-          "word": "and",
-          "startSec": 212.98,
-          "endSec": 213.28,
-          "score": 0.82
+          "word": "is",
+          "start": 235.36,
+          "end": 235.66
         },
         {
-          "word": "walks.",
-          "startSec": 213.28,
-          "endSec": 213.56,
-          "score": 0.64
+          "word": "alive.",
+          "start": 235.66,
+          "end": 236.64
         }
       ]
     },
     {
       "id": 91,
-      "start": 214.32,
-      "end": 216.23,
-      "text": "Parks are near the city.",
+      "start": 237.04,
+      "end": 239.24,
+      "text": "It is ancient but relaxed.",
       "words": [
         {
-          "word": "Parks",
-          "startSec": 214.52,
-          "endSec": 214.86,
-          "score": 0.97
+          "word": "It",
+          "start": 237.04,
+          "end": 237.16
         },
         {
-          "word": "are",
-          "startSec": 214.86,
-          "endSec": 215.24,
-          "score": 1.0
+          "word": "is",
+          "start": 237.16,
+          "end": 237.32
         },
         {
-          "word": "near",
-          "startSec": 215.24,
-          "endSec": 215.48,
-          "score": 1.0
+          "word": "ancient",
+          "start": 237.32,
+          "end": 237.92
         },
         {
-          "word": "the",
-          "startSec": 215.48,
-          "endSec": 215.7,
-          "score": 1.0
+          "word": "but",
+          "start": 237.92,
+          "end": 238.26
         },
         {
-          "word": "city.",
-          "startSec": 215.7,
-          "endSec": 216.08,
-          "score": 0.98
+          "word": "relaxed.",
+          "start": 238.26,
+          "end": 239.24
         }
       ]
     },
     {
       "id": 92,
-      "start": 216.98,
-      "end": 218.29,
-      "text": "Hills rise close.",
+      "start": 239.52,
+      "end": 241.54,
+      "text": "It is social but calm.",
       "words": [
         {
-          "word": "Hills",
-          "startSec": 217.18,
-          "endSec": 217.18,
-          "score": 0.91
+          "word": "It",
+          "start": 239.52,
+          "end": 239.6
         },
         {
-          "word": "rise",
-          "startSec": 217.18,
-          "endSec": 217.54,
-          "score": 1.0
+          "word": "is",
+          "start": 239.6,
+          "end": 239.76
         },
         {
-          "word": "close.",
-          "startSec": 217.54,
-          "endSec": 218.14,
-          "score": 0.99
+          "word": "social",
+          "start": 239.76,
+          "end": 240.26
+        },
+        {
+          "word": "but",
+          "start": 240.26,
+          "end": 240.6
+        },
+        {
+          "word": "calm.",
+          "start": 240.6,
+          "end": 241.54
         }
       ]
     },
     {
       "id": 93,
-      "start": 218.72,
-      "end": 219.83,
-      "text": "People hike.",
+      "start": 242.06,
+      "end": 243.94,
+      "text": "The sea teaches patience.",
       "words": [
         {
-          "word": "People",
-          "startSec": 218.92,
-          "endSec": 219.28,
-          "score": 1.0
+          "word": "The",
+          "start": 242.06,
+          "end": 242.14
         },
         {
-          "word": "hike.",
-          "startSec": 219.28,
-          "endSec": 219.68,
-          "score": 0.99
+          "word": "sea",
+          "start": 242.14,
+          "end": 242.46
+        },
+        {
+          "word": "teaches",
+          "start": 242.46,
+          "end": 242.88
+        },
+        {
+          "word": "patience.",
+          "start": 242.88,
+          "end": 243.94
         }
       ]
     },
     {
       "id": 94,
-      "start": 220.42,
-      "end": 222.33,
-      "text": "People breathe fresh air.",
+      "start": 244.2,
+      "end": 245.92,
+      "text": "The sun gives warmth.",
       "words": [
         {
-          "word": "People",
-          "startSec": 220.62,
-          "endSec": 220.8,
-          "score": 0.99
+          "word": "The",
+          "start": 244.2,
+          "end": 244.32
         },
         {
-          "word": "breathe",
-          "startSec": 220.8,
-          "endSec": 221.22,
-          "score": 0.94
+          "word": "sun",
+          "start": 244.32,
+          "end": 244.66
         },
         {
-          "word": "fresh",
-          "startSec": 221.22,
-          "endSec": 221.72,
-          "score": 1.0
+          "word": "gives",
+          "start": 244.66,
+          "end": 245.04
         },
         {
-          "word": "air.",
-          "startSec": 221.72,
-          "endSec": 222.18,
-          "score": 1.0
+          "word": "warmth.",
+          "start": 245.04,
+          "end": 245.92
         }
       ]
     },
     {
       "id": 95,
-      "start": 222.84,
-      "end": 224.29,
-      "text": "Nature gives strength.",
+      "start": 246.42,
+      "end": 249.86,
+      "text": "Thank you for listening to the Slow English podcast.",
       "words": [
         {
-          "word": "Nature",
-          "startSec": 223.04,
-          "endSec": 223.46,
-          "score": 0.99
+          "word": "Thank",
+          "start": 246.42,
+          "end": 246.86
         },
         {
-          "word": "gives",
-          "startSec": 223.46,
-          "endSec": 223.74,
-          "score": 0.95
+          "word": "you",
+          "start": 246.86,
+          "end": 247.12
         },
         {
-          "word": "strength.",
-          "startSec": 223.74,
-          "endSec": 224.14,
-          "score": 1.0
+          "word": "for",
+          "start": 247.12,
+          "end": 247.34
+        },
+        {
+          "word": "listening",
+          "start": 247.34,
+          "end": 247.78
+        },
+        {
+          "word": "to",
+          "start": 247.78,
+          "end": 248.08
+        },
+        {
+          "word": "the",
+          "start": 248.08,
+          "end": 248.26
+        },
+        {
+          "word": "Slow",
+          "start": 248.26,
+          "end": 248.52
+        },
+        {
+          "word": "English",
+          "start": 248.52,
+          "end": 248.84
+        },
+        {
+          "word": "podcast.",
+          "start": 248.84,
+          "end": 249.86
         }
       ]
     },
     {
       "id": 96,
-      "start": 224.82,
-      "end": 226.35,
-      "text": "Movement gives energy.",
+      "start": 250.32,
+      "end": 251.6,
+      "text": "My name is Emily.",
       "words": [
         {
-          "word": "Movement",
-          "startSec": 225.02,
-          "endSec": 225.32,
-          "score": 0.98
+          "word": "My",
+          "start": 250.32,
+          "end": 250.5
         },
         {
-          "word": "gives",
-          "startSec": 225.32,
-          "endSec": 225.78,
-          "score": 1.0
+          "word": "name",
+          "start": 250.5,
+          "end": 250.74
         },
         {
-          "word": "energy.",
-          "startSec": 225.78,
-          "endSec": 226.2,
-          "score": 1.0
+          "word": "is",
+          "start": 250.74,
+          "end": 250.9
+        },
+        {
+          "word": "Emily.",
+          "start": 250.9,
+          "end": 251.6
         }
       ]
     },
     {
       "id": 97,
-      "start": 228.54,
-      "end": 229.61,
-      "text": "Part 12.",
+      "start": 252.08,
+      "end": 254.25,
+      "text": "See you in the next journey.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 228.74,
-          "endSec": 228.86,
-          "score": 0.99
+          "word": "See",
+          "start": 252.08,
+          "end": 252.52
         },
         {
-          "word": "12.",
-          "startSec": 228.86,
-          "endSec": 229.46,
-          "score": 0.99
+          "word": "you",
+          "start": 252.52,
+          "end": 252.74
+        },
+        {
+          "word": "in",
+          "start": 252.74,
+          "end": 253.0
+        },
+        {
+          "word": "the",
+          "start": 253.0,
+          "end": 253.1
+        },
+        {
+          "word": "next",
+          "start": 253.1,
+          "end": 253.44
+        },
+        {
+          "word": "journey.",
+          "start": 253.44,
+          "end": 254.25
         }
       ]
     },
     {
       "id": 98,
-      "start": 230.08,
-      "end": 232.09,
-      "text": "The soul of Split and Goodbye.",
+      "start": 254.44,
+      "end": 254.91,
+      "text": "Thank you for watching.",
       "words": [
         {
-          "word": "The",
-          "startSec": 230.28,
-          "endSec": 230.42,
-          "score": 0.98
+          "word": "Thank",
+          "start": 254.44,
+          "end": 254.48
         },
         {
-          "word": "soul",
-          "startSec": 230.42,
-          "endSec": 230.7,
-          "score": 0.76
+          "word": "you",
+          "start": 254.48,
+          "end": 254.52
         },
         {
-          "word": "of",
-          "startSec": 230.7,
-          "endSec": 231.08,
-          "score": 1.0
+          "word": "for",
+          "start": 254.52,
+          "end": 254.54
         },
         {
-          "word": "Split",
-          "startSec": 231.08,
-          "endSec": 231.42,
-          "score": 0.05
-        },
-        {
-          "word": "and",
-          "startSec": 231.42,
-          "endSec": 231.68,
-          "score": 0.95
-        },
-        {
-          "word": "Goodbye.",
-          "startSec": 231.68,
-          "endSec": 231.94,
-          "score": 0.85
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "start": 232.96,
-      "end": 234.59,
-      "text": "Split is bright.",
-      "words": [
-        {
-          "word": "Split",
-          "startSec": 233.16,
-          "endSec": 233.86,
-          "score": 0.0
-        },
-        {
-          "word": "is",
-          "startSec": 233.86,
-          "endSec": 234.1,
-          "score": 0.97
-        },
-        {
-          "word": "bright.",
-          "startSec": 234.1,
-          "endSec": 234.44,
-          "score": 0.85
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "start": 234.88,
-      "end": 236.19,
-      "text": "Split is alive.",
-      "words": [
-        {
-          "word": "Split",
-          "startSec": 235.08,
-          "endSec": 235.26,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 235.26,
-          "endSec": 235.62,
-          "score": 1.0
-        },
-        {
-          "word": "alive.",
-          "startSec": 235.62,
-          "endSec": 236.04,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "start": 236.86,
-      "end": 238.79,
-      "text": "It is ancient but relaxed.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 237.06,
-          "endSec": 237.1,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 237.1,
-          "endSec": 237.24,
-          "score": 0.99
-        },
-        {
-          "word": "ancient",
-          "startSec": 237.24,
-          "endSec": 237.68,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 237.68,
-          "endSec": 238.2,
-          "score": 0.68
-        },
-        {
-          "word": "relaxed.",
-          "startSec": 238.2,
-          "endSec": 238.64,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "start": 239.32,
-      "end": 241.11,
-      "text": "It is social but calm.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 239.52,
-          "endSec": 239.54,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 239.54,
-          "endSec": 239.7,
-          "score": 1.0
-        },
-        {
-          "word": "social",
-          "startSec": 239.7,
-          "endSec": 240.06,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 240.06,
-          "endSec": 240.56,
-          "score": 0.75
-        },
-        {
-          "word": "calm.",
-          "startSec": 240.56,
-          "endSec": 240.96,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "start": 241.86,
-      "end": 243.67,
-      "text": "The sea teaches patience.",
-      "words": [
-        {
-          "word": "The",
-          "startSec": 242.06,
-          "endSec": 242.08,
-          "score": 0.99
-        },
-        {
-          "word": "sea",
-          "startSec": 242.08,
-          "endSec": 242.36,
-          "score": 0.65
-        },
-        {
-          "word": "teaches",
-          "startSec": 242.36,
-          "endSec": 242.88,
-          "score": 0.97
-        },
-        {
-          "word": "patience.",
-          "startSec": 242.88,
-          "endSec": 243.52,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "start": 244.0,
-      "end": 245.55,
-      "text": "The sun gives warmth.",
-      "words": [
-        {
-          "word": "The",
-          "startSec": 244.2,
-          "endSec": 244.28,
-          "score": 0.99
-        },
-        {
-          "word": "sun",
-          "startSec": 244.28,
-          "endSec": 244.54,
-          "score": 0.96
-        },
-        {
-          "word": "gives",
-          "startSec": 244.54,
-          "endSec": 244.94,
-          "score": 0.99
-        },
-        {
-          "word": "warmth.",
-          "startSec": 244.94,
-          "endSec": 245.4,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 105,
-      "start": 248.0,
-      "end": 249.39,
-      "text": "Slow English Podcast.",
-      "words": [
-        {
-          "word": "Slow",
-          "startSec": 248.2,
-          "endSec": 248.42,
-          "score": 0.76
-        },
-        {
-          "word": "English",
-          "startSec": 248.42,
-          "endSec": 248.74,
-          "score": 0.95
-        },
-        {
-          "word": "Podcast.",
-          "startSec": 248.74,
-          "endSec": 249.24,
-          "score": 0.68
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "start": 250.02,
-      "end": 251.29,
-      "text": "My name is Emily.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 250.22,
-          "endSec": 250.44,
-          "score": 0.99
-        },
-        {
-          "word": "name",
-          "startSec": 250.44,
-          "endSec": 250.64,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 250.64,
-          "endSec": 250.88,
-          "score": 1.0
-        },
-        {
-          "word": "Emily.",
-          "startSec": 250.88,
-          "endSec": 251.14,
-          "score": 0.98
+          "word": "watching.",
+          "start": 254.54,
+          "end": 254.91
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 98
 }

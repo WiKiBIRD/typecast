@@ -15,3431 +15,3154 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.67,
-      "text": "Hello everyone, welcome to the slow English podcast. I am Emily, your host.",
+      "start": 2.1,
+      "end": 5.04,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.42,
-          "score": 0.85
-        },
-        {
-          "word": "everyone,",
-          "startSec": 0.42,
-          "endSec": 1.0,
-          "score": 0.63
-        },
-        {
-          "word": "welcome",
-          "startSec": 1.76,
-          "endSec": 2.84,
-          "score": 0.82
+          "word": "Welcome",
+          "start": 2.1,
+          "end": 2.84
         },
         {
           "word": "to",
-          "startSec": 2.84,
-          "endSec": 3.12,
-          "score": 1.0
+          "start": 2.84,
+          "end": 3.14
         },
         {
           "word": "the",
-          "startSec": 3.12,
-          "endSec": 3.26,
-          "score": 0.98
+          "start": 3.14,
+          "end": 3.36
         },
         {
-          "word": "slow",
-          "startSec": 3.26,
-          "endSec": 3.56,
-          "score": 0.45
+          "word": "Slow",
+          "start": 3.36,
+          "end": 3.68
         },
         {
           "word": "English",
-          "startSec": 3.56,
-          "endSec": 3.98,
-          "score": 0.92
+          "start": 3.68,
+          "end": 4.08
         },
         {
-          "word": "podcast.",
-          "startSec": 3.98,
-          "endSec": 4.64,
-          "score": 0.88
-        },
-        {
-          "word": "I",
-          "startSec": 5.68,
-          "endSec": 5.84,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.84,
-          "endSec": 6.04,
-          "score": 0.97
-        },
-        {
-          "word": "Emily,",
-          "startSec": 6.04,
-          "endSec": 6.48,
-          "score": 0.7
-        },
-        {
-          "word": "your",
-          "startSec": 6.98,
-          "endSec": 7.12,
-          "score": 0.98
-        },
-        {
-          "word": "host.",
-          "startSec": 7.12,
-          "endSec": 7.52,
-          "score": 0.99
+          "word": "Podcast.",
+          "start": 4.08,
+          "end": 5.04
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.26,
-      "end": 14.55,
-      "text": "Today, we are traveling to a small and interesting city in Oceania.",
+      "start": 5.62,
+      "end": 7.98,
+      "text": "I am Emily, your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 8.46,
-          "endSec": 9.02,
-          "score": 0.99
+          "word": "I",
+          "start": 5.62,
+          "end": 5.9
         },
         {
-          "word": "we",
-          "startSec": 9.04,
-          "endSec": 9.82,
-          "score": 1.0
+          "word": "am",
+          "start": 5.9,
+          "end": 6.08
         },
         {
-          "word": "are",
-          "startSec": 9.82,
-          "endSec": 9.96,
-          "score": 0.96
+          "word": "Emily,",
+          "start": 6.08,
+          "end": 6.6
         },
         {
-          "word": "traveling",
-          "startSec": 9.96,
-          "endSec": 10.48,
-          "score": 0.92
+          "word": "your",
+          "start": 7.1,
+          "end": 7.18
         },
         {
-          "word": "to",
-          "startSec": 10.48,
-          "endSec": 10.92,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 10.92,
-          "endSec": 11.1,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 11.1,
-          "endSec": 11.6,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 11.6,
-          "endSec": 11.96,
-          "score": 0.98
-        },
-        {
-          "word": "interesting",
-          "startSec": 11.96,
-          "endSec": 12.5,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 12.5,
-          "endSec": 13.36,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 13.36,
-          "endSec": 13.66,
-          "score": 1.0
-        },
-        {
-          "word": "Oceania.",
-          "startSec": 13.66,
-          "endSec": 14.4,
-          "score": 0.96
+          "word": "host.",
+          "start": 7.18,
+          "end": 7.98
         }
       ]
     },
     {
       "id": 3,
-      "start": 14.88,
-      "end": 20.65,
-      "text": "It is called Honyara. Honyara is in the Solomon Islands,",
+      "start": 8.64,
+      "end": 14.92,
+      "text": "Today we are traveling to a small and interesting city in Oceania.",
       "words": [
         {
-          "word": "It",
-          "startSec": 15.08,
-          "endSec": 15.56,
-          "score": 0.99
+          "word": "Today",
+          "start": 8.64,
+          "end": 9.1
         },
         {
-          "word": "is",
-          "startSec": 15.56,
-          "endSec": 15.76,
-          "score": 1.0
+          "word": "we",
+          "start": 9.1,
+          "end": 9.86
         },
         {
-          "word": "called",
-          "startSec": 15.76,
-          "endSec": 16.18,
-          "score": 1.0
+          "word": "are",
+          "start": 9.86,
+          "end": 9.98
         },
         {
-          "word": "Honyara.",
-          "startSec": 16.18,
-          "endSec": 17.1,
-          "score": 0.54
+          "word": "traveling",
+          "start": 9.98,
+          "end": 10.56
         },
         {
-          "word": "Honyara",
-          "startSec": 17.96,
-          "endSec": 18.78,
-          "score": 0.99
+          "word": "to",
+          "start": 10.56,
+          "end": 10.98
         },
         {
-          "word": "is",
-          "startSec": 18.78,
-          "endSec": 19.12,
-          "score": 0.99
+          "word": "a",
+          "start": 10.98,
+          "end": 11.18
+        },
+        {
+          "word": "small",
+          "start": 11.18,
+          "end": 11.7
+        },
+        {
+          "word": "and",
+          "start": 11.7,
+          "end": 12.04
+        },
+        {
+          "word": "interesting",
+          "start": 12.04,
+          "end": 12.7
+        },
+        {
+          "word": "city",
+          "start": 12.7,
+          "end": 13.38
         },
         {
           "word": "in",
-          "startSec": 19.12,
-          "endSec": 19.3,
-          "score": 0.99
+          "start": 13.38,
+          "end": 13.72
         },
         {
-          "word": "the",
-          "startSec": 19.3,
-          "endSec": 19.46,
-          "score": 0.99
-        },
-        {
-          "word": "Solomon",
-          "startSec": 19.46,
-          "endSec": 19.9,
-          "score": 0.97
-        },
-        {
-          "word": "Islands,",
-          "startSec": 19.9,
-          "endSec": 20.5,
-          "score": 0.99
+          "word": "Oceania.",
+          "start": 13.72,
+          "end": 14.92
         }
       ]
     },
     {
       "id": 4,
-      "start": 20.88,
-      "end": 25.37,
-      "text": "a country made of many islands in the Pacific Ocean.",
+      "start": 15.38,
+      "end": 17.62,
+      "text": "It is called Honiara.",
       "words": [
         {
-          "word": "a",
-          "startSec": 21.08,
-          "endSec": 21.26,
-          "score": 1.0
+          "word": "It",
+          "start": 15.38,
+          "end": 15.64
         },
         {
-          "word": "country",
-          "startSec": 21.26,
-          "endSec": 21.78,
-          "score": 1.0
+          "word": "is",
+          "start": 15.64,
+          "end": 15.82
         },
         {
-          "word": "made",
-          "startSec": 21.78,
-          "endSec": 22.16,
-          "score": 1.0
+          "word": "called",
+          "start": 15.82,
+          "end": 16.28
         },
         {
-          "word": "of",
-          "startSec": 22.16,
-          "endSec": 22.4,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 22.4,
-          "endSec": 22.74,
-          "score": 1.0
-        },
-        {
-          "word": "islands",
-          "startSec": 22.74,
-          "endSec": 23.52,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 23.52,
-          "endSec": 24.04,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 24.04,
-          "endSec": 24.2,
-          "score": 1.0
-        },
-        {
-          "word": "Pacific",
-          "startSec": 24.2,
-          "endSec": 24.62,
-          "score": 1.0
-        },
-        {
-          "word": "Ocean.",
-          "startSec": 24.62,
-          "endSec": 25.22,
-          "score": 0.92
+          "word": "Honiara.",
+          "start": 16.28,
+          "end": 17.62
         }
       ]
     },
     {
       "id": 5,
-      "start": 25.02,
-      "end": 31.71,
-      "text": "This city is full of nature, history, and friendly people.",
+      "start": 17.88,
+      "end": 25.36,
+      "text": "Honiara is in the Solomon Islands, a country made of many islands in the Pacific Ocean.",
       "words": [
         {
-          "word": "This",
-          "startSec": 25.22,
-          "endSec": 26.56,
-          "score": 0.28
-        },
-        {
-          "word": "city",
-          "startSec": 26.66,
-          "endSec": 27.2,
-          "score": 0.99
+          "word": "Honiara",
+          "start": 17.88,
+          "end": 18.84
         },
         {
           "word": "is",
-          "startSec": 27.2,
-          "endSec": 27.56,
-          "score": 1.0
+          "start": 18.84,
+          "end": 19.2
         },
         {
-          "word": "full",
-          "startSec": 27.56,
-          "endSec": 27.88,
-          "score": 0.99
+          "word": "in",
+          "start": 19.2,
+          "end": 19.36
+        },
+        {
+          "word": "the",
+          "start": 19.36,
+          "end": 19.5
+        },
+        {
+          "word": "Solomon",
+          "start": 19.5,
+          "end": 20.02
+        },
+        {
+          "word": "Islands,",
+          "start": 20.02,
+          "end": 20.64
+        },
+        {
+          "word": "a",
+          "start": 21.16,
+          "end": 21.34
+        },
+        {
+          "word": "country",
+          "start": 21.34,
+          "end": 21.86
+        },
+        {
+          "word": "made",
+          "start": 21.86,
+          "end": 22.24
         },
         {
           "word": "of",
-          "startSec": 27.88,
-          "endSec": 28.12,
-          "score": 1.0
+          "start": 22.24,
+          "end": 22.48
         },
         {
-          "word": "nature,",
-          "startSec": 28.12,
-          "endSec": 28.7,
-          "score": 0.98
+          "word": "many",
+          "start": 22.48,
+          "end": 22.96
         },
         {
-          "word": "history,",
-          "startSec": 29.3,
-          "endSec": 29.7,
-          "score": 1.0
+          "word": "islands",
+          "start": 22.96,
+          "end": 23.64
         },
         {
-          "word": "and",
-          "startSec": 30.36,
-          "endSec": 30.46,
-          "score": 1.0
+          "word": "in",
+          "start": 23.64,
+          "end": 24.1
         },
         {
-          "word": "friendly",
-          "startSec": 30.46,
-          "endSec": 31.0,
-          "score": 1.0
+          "word": "the",
+          "start": 24.1,
+          "end": 24.3
         },
         {
-          "word": "people.",
-          "startSec": 31.0,
-          "endSec": 31.56,
-          "score": 0.99
+          "word": "Pacific",
+          "start": 24.3,
+          "end": 24.74
+        },
+        {
+          "word": "Ocean.",
+          "start": 24.74,
+          "end": 25.36
         }
       ]
     },
     {
       "id": 6,
-      "start": 32.08,
-      "end": 39.49,
-      "text": "Let's explore Honyara together. Part two, where is Honyara?",
+      "start": 25.36,
+      "end": 31.98,
+      "text": "This city is full of nature, history, and friendly people.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 32.28,
-          "endSec": 32.74,
-          "score": 0.98
+          "word": "This",
+          "start": 25.36,
+          "end": 26.74
         },
         {
-          "word": "explore",
-          "startSec": 32.74,
-          "endSec": 33.2,
-          "score": 1.0
-        },
-        {
-          "word": "Honyara",
-          "startSec": 33.2,
-          "endSec": 33.96,
-          "score": 0.45
-        },
-        {
-          "word": "together.",
-          "startSec": 33.96,
-          "endSec": 34.52,
-          "score": 0.96
-        },
-        {
-          "word": "Part",
-          "startSec": 36.7,
-          "endSec": 37.02,
-          "score": 0.9
-        },
-        {
-          "word": "two,",
-          "startSec": 37.02,
-          "endSec": 37.5,
-          "score": 0.5
-        },
-        {
-          "word": "where",
-          "startSec": 38.22,
-          "endSec": 38.28,
-          "score": 0.88
+          "word": "city",
+          "start": 26.74,
+          "end": 27.22
         },
         {
           "word": "is",
-          "startSec": 38.28,
-          "endSec": 38.56,
-          "score": 1.0
+          "start": 27.22,
+          "end": 27.62
         },
         {
-          "word": "Honyara?",
-          "startSec": 38.56,
-          "endSec": 39.34,
-          "score": 0.99
+          "word": "full",
+          "start": 27.62,
+          "end": 27.94
+        },
+        {
+          "word": "of",
+          "start": 27.94,
+          "end": 28.18
+        },
+        {
+          "word": "nature,",
+          "start": 28.18,
+          "end": 28.72
+        },
+        {
+          "word": "history,",
+          "start": 29.42,
+          "end": 29.9
+        },
+        {
+          "word": "and",
+          "start": 30.4,
+          "end": 30.52
+        },
+        {
+          "word": "friendly",
+          "start": 30.52,
+          "end": 31.02
+        },
+        {
+          "word": "people.",
+          "start": 31.02,
+          "end": 31.98
         }
       ]
     },
     {
       "id": 7,
-      "start": 39.76,
-      "end": 47.57,
-      "text": "Honyara is on the island of Guadalcanal. It is the capital city of the Solomon Islands.",
+      "start": 32.24,
+      "end": 34.98,
+      "text": "Let's explore Honiara together.",
       "words": [
         {
-          "word": "Honyara",
-          "startSec": 39.96,
-          "endSec": 40.8,
-          "score": 0.99
+          "word": "Let's",
+          "start": 32.24,
+          "end": 32.78
         },
         {
-          "word": "is",
-          "startSec": 40.8,
-          "endSec": 41.12,
-          "score": 1.0
+          "word": "explore",
+          "start": 32.78,
+          "end": 33.3
         },
         {
-          "word": "on",
-          "startSec": 41.12,
-          "endSec": 41.34,
-          "score": 1.0
+          "word": "Honiara",
+          "start": 33.3,
+          "end": 34.1
         },
         {
-          "word": "the",
-          "startSec": 41.34,
-          "endSec": 41.54,
-          "score": 1.0
-        },
-        {
-          "word": "island",
-          "startSec": 41.54,
-          "endSec": 42.04,
-          "score": 0.94
-        },
-        {
-          "word": "of",
-          "startSec": 42.04,
-          "endSec": 42.36,
-          "score": 1.0
-        },
-        {
-          "word": "Guadalcanal.",
-          "startSec": 42.36,
-          "endSec": 43.46,
-          "score": 0.98
-        },
-        {
-          "word": "It",
-          "startSec": 44.12,
-          "endSec": 44.46,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 44.46,
-          "endSec": 44.62,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 44.62,
-          "endSec": 44.82,
-          "score": 1.0
-        },
-        {
-          "word": "capital",
-          "startSec": 44.82,
-          "endSec": 45.28,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 45.28,
-          "endSec": 45.82,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 45.82,
-          "endSec": 46.22,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 46.22,
-          "endSec": 46.38,
-          "score": 0.91
-        },
-        {
-          "word": "Solomon",
-          "startSec": 46.38,
-          "endSec": 46.84,
-          "score": 0.94
-        },
-        {
-          "word": "Islands.",
-          "startSec": 46.84,
-          "endSec": 47.42,
-          "score": 0.99
+          "word": "together.",
+          "start": 34.1,
+          "end": 34.98
         }
       ]
     },
     {
       "id": 8,
-      "start": 48.3,
-      "end": 54.47,
-      "text": "The city is small, with streets near the sea and green hills around.",
+      "start": 36.16,
+      "end": 37.88,
+      "text": "Part 2.",
       "words": [
         {
-          "word": "The",
-          "startSec": 48.5,
-          "endSec": 48.66,
-          "score": 0.99
+          "word": "Part",
+          "start": 36.16,
+          "end": 37.12
         },
         {
-          "word": "city",
-          "startSec": 48.66,
-          "endSec": 49.06,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 49.06,
-          "endSec": 49.36,
-          "score": 1.0
-        },
-        {
-          "word": "small,",
-          "startSec": 49.36,
-          "endSec": 49.84,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 50.42,
-          "endSec": 50.72,
-          "score": 1.0
-        },
-        {
-          "word": "streets",
-          "startSec": 50.72,
-          "endSec": 51.16,
-          "score": 0.99
-        },
-        {
-          "word": "near",
-          "startSec": 51.16,
-          "endSec": 51.58,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 51.58,
-          "endSec": 51.84,
-          "score": 1.0
-        },
-        {
-          "word": "sea",
-          "startSec": 51.84,
-          "endSec": 52.16,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 52.16,
-          "endSec": 52.98,
-          "score": 0.8
-        },
-        {
-          "word": "green",
-          "startSec": 52.98,
-          "endSec": 53.3,
-          "score": 0.95
-        },
-        {
-          "word": "hills",
-          "startSec": 53.3,
-          "endSec": 53.84,
-          "score": 0.99
-        },
-        {
-          "word": "around.",
-          "startSec": 53.84,
-          "endSec": 54.32,
-          "score": 0.99
+          "word": "2.",
+          "start": 37.12,
+          "end": 37.88
         }
       ]
     },
     {
       "id": 9,
-      "start": 54.98,
-      "end": 60.75,
-      "text": "It is quiet and perfect for learning about island life and culture.",
+      "start": 38.02,
+      "end": 39.82,
+      "text": "Where is Honiara?",
       "words": [
         {
-          "word": "It",
-          "startSec": 55.18,
-          "endSec": 55.64,
-          "score": 0.51
+          "word": "Where",
+          "start": 38.02,
+          "end": 38.32
         },
         {
           "word": "is",
-          "startSec": 55.64,
-          "endSec": 55.8,
-          "score": 0.95
+          "start": 38.32,
+          "end": 38.62
         },
         {
-          "word": "quiet",
-          "startSec": 55.8,
-          "endSec": 56.28,
-          "score": 0.9
-        },
-        {
-          "word": "and",
-          "startSec": 56.28,
-          "endSec": 56.62,
-          "score": 0.99
-        },
-        {
-          "word": "perfect",
-          "startSec": 56.62,
-          "endSec": 57.12,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 57.12,
-          "endSec": 57.58,
-          "score": 1.0
-        },
-        {
-          "word": "learning",
-          "startSec": 57.58,
-          "endSec": 58.02,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 58.02,
-          "endSec": 58.38,
-          "score": 0.99
-        },
-        {
-          "word": "island",
-          "startSec": 58.38,
-          "endSec": 59.0,
-          "score": 0.83
-        },
-        {
-          "word": "life",
-          "startSec": 59.0,
-          "endSec": 59.56,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 59.56,
-          "endSec": 60.06,
-          "score": 0.98
-        },
-        {
-          "word": "culture.",
-          "startSec": 60.06,
-          "endSec": 60.6,
-          "score": 1.0
+          "word": "Honiara?",
+          "start": 38.62,
+          "end": 39.82
         }
       ]
     },
     {
       "id": 10,
-      "start": 61.89,
-      "end": 68.2,
-      "text": "Part three, history of Honyara. Honyara has an important history.",
+      "start": 40.08,
+      "end": 43.96,
+      "text": "Honiara is on the island of Guadalcanal.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 62.09,
-          "endSec": 62.21,
-          "score": 0.58
+          "word": "Honiara",
+          "start": 40.08,
+          "end": 40.86
         },
         {
-          "word": "three,",
-          "startSec": 62.21,
-          "endSec": 62.75,
-          "score": 0.21
+          "word": "is",
+          "start": 40.86,
+          "end": 41.2
         },
         {
-          "word": "history",
-          "startSec": 63.37,
-          "endSec": 63.75,
-          "score": 0.72
+          "word": "on",
+          "start": 41.2,
+          "end": 41.42
+        },
+        {
+          "word": "the",
+          "start": 41.42,
+          "end": 41.6
+        },
+        {
+          "word": "island",
+          "start": 41.6,
+          "end": 42.06
         },
         {
           "word": "of",
-          "startSec": 63.75,
-          "endSec": 64.13,
-          "score": 1.0
+          "start": 42.06,
+          "end": 42.42
         },
         {
-          "word": "Honyara.",
-          "startSec": 64.13,
-          "endSec": 64.81,
-          "score": 0.46
-        },
-        {
-          "word": "Honyara",
-          "startSec": 65.67,
-          "endSec": 66.43,
-          "score": 0.98
-        },
-        {
-          "word": "has",
-          "startSec": 66.43,
-          "endSec": 66.81,
-          "score": 0.99
-        },
-        {
-          "word": "an",
-          "startSec": 66.81,
-          "endSec": 67.03,
-          "score": 1.0
-        },
-        {
-          "word": "important",
-          "startSec": 67.03,
-          "endSec": 67.43,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 67.43,
-          "endSec": 68.05,
-          "score": 1.0
+          "word": "Guadalcanal.",
+          "start": 42.42,
+          "end": 43.96
         }
       ]
     },
     {
       "id": 11,
-      "start": 68.99,
-      "end": 76.98,
-      "text": "It was a center during World War II. You can visit war memorials and old battle sites.",
+      "start": 44.32,
+      "end": 47.92,
+      "text": "It is the capital city of the Solomon Islands.",
       "words": [
         {
           "word": "It",
-          "startSec": 69.19,
-          "endSec": 69.33,
-          "score": 0.99
+          "start": 44.32,
+          "end": 44.52
         },
         {
-          "word": "was",
-          "startSec": 69.33,
-          "endSec": 69.51,
-          "score": 1.0
+          "word": "is",
+          "start": 44.52,
+          "end": 44.7
         },
         {
-          "word": "a",
-          "startSec": 69.51,
-          "endSec": 69.69,
-          "score": 0.98
+          "word": "the",
+          "start": 44.7,
+          "end": 44.88
         },
         {
-          "word": "center",
-          "startSec": 69.69,
-          "endSec": 70.19,
-          "score": 0.91
+          "word": "capital",
+          "start": 44.88,
+          "end": 45.34
         },
         {
-          "word": "during",
-          "startSec": 70.19,
-          "endSec": 70.79,
-          "score": 1.0
+          "word": "city",
+          "start": 45.34,
+          "end": 45.9
         },
         {
-          "word": "World",
-          "startSec": 70.79,
-          "endSec": 71.11,
-          "score": 0.94
+          "word": "of",
+          "start": 45.9,
+          "end": 46.26
         },
         {
-          "word": "War",
-          "startSec": 71.11,
-          "endSec": 71.55,
-          "score": 1.0
+          "word": "the",
+          "start": 46.26,
+          "end": 46.52
         },
         {
-          "word": "II.",
-          "startSec": 71.55,
-          "endSec": 72.01,
-          "score": 0.77
+          "word": "Solomon",
+          "start": 46.52,
+          "end": 46.98
         },
         {
-          "word": "You",
-          "startSec": 72.91,
-          "endSec": 73.19,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 73.19,
-          "endSec": 73.37,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 73.37,
-          "endSec": 73.77,
-          "score": 1.0
-        },
-        {
-          "word": "war",
-          "startSec": 73.77,
-          "endSec": 74.17,
-          "score": 0.93
-        },
-        {
-          "word": "memorials",
-          "startSec": 74.17,
-          "endSec": 75.39,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 75.39,
-          "endSec": 75.63,
-          "score": 0.98
-        },
-        {
-          "word": "old",
-          "startSec": 75.63,
-          "endSec": 75.91,
-          "score": 0.98
-        },
-        {
-          "word": "battle",
-          "startSec": 75.91,
-          "endSec": 76.31,
-          "score": 0.95
-        },
-        {
-          "word": "sites.",
-          "startSec": 76.31,
-          "endSec": 76.83,
-          "score": 0.97
+          "word": "Islands.",
+          "start": 46.98,
+          "end": 47.92
         }
       ]
     },
     {
       "id": 12,
-      "start": 77.43,
-      "end": 82.66,
-      "text": "The city also has traditional villages and cultural centers.",
+      "start": 48.54,
+      "end": 54.52,
+      "text": "The city is small, with streets near the sea and green hills around.",
       "words": [
         {
           "word": "The",
-          "startSec": 77.63,
-          "endSec": 77.73,
-          "score": 0.99
+          "start": 48.54,
+          "end": 48.72
         },
         {
           "word": "city",
-          "startSec": 77.73,
-          "endSec": 78.05,
-          "score": 0.95
+          "start": 48.72,
+          "end": 49.1
         },
         {
-          "word": "also",
-          "startSec": 78.05,
-          "endSec": 78.61,
-          "score": 0.99
+          "word": "is",
+          "start": 49.1,
+          "end": 49.42
         },
         {
-          "word": "has",
-          "startSec": 78.61,
-          "endSec": 78.99,
-          "score": 1.0
+          "word": "small,",
+          "start": 49.42,
+          "end": 50.0
         },
         {
-          "word": "traditional",
-          "startSec": 78.99,
-          "endSec": 79.43,
-          "score": 1.0
+          "word": "with",
+          "start": 50.48,
+          "end": 50.8
         },
         {
-          "word": "villages",
-          "startSec": 79.43,
-          "endSec": 80.09,
-          "score": 1.0
+          "word": "streets",
+          "start": 50.8,
+          "end": 51.24
+        },
+        {
+          "word": "near",
+          "start": 51.24,
+          "end": 51.66
+        },
+        {
+          "word": "the",
+          "start": 51.66,
+          "end": 51.88
+        },
+        {
+          "word": "sea",
+          "start": 51.88,
+          "end": 52.34
         },
         {
           "word": "and",
-          "startSec": 80.09,
-          "endSec": 81.29,
-          "score": 0.98
+          "start": 52.34,
+          "end": 53.02
         },
         {
-          "word": "cultural",
-          "startSec": 81.29,
-          "endSec": 81.61,
-          "score": 0.99
+          "word": "green",
+          "start": 53.02,
+          "end": 53.44
         },
         {
-          "word": "centers.",
-          "startSec": 81.61,
-          "endSec": 82.51,
-          "score": 1.0
+          "word": "hills",
+          "start": 53.44,
+          "end": 53.96
+        },
+        {
+          "word": "around.",
+          "start": 53.96,
+          "end": 54.52
         }
       ]
     },
     {
       "id": 13,
-      "start": 83.57,
-      "end": 92.39,
-      "text": "Part four, main attractions. Honyara has markets, museums, and historical sites.",
+      "start": 54.52,
+      "end": 61.12,
+      "text": "It is quiet and perfect for learning about island life and culture.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 83.77,
-          "endSec": 84.27,
-          "score": 0.07
+          "word": "It",
+          "start": 54.52,
+          "end": 55.64
         },
         {
-          "word": "four,",
-          "startSec": 84.27,
-          "endSec": 84.77,
-          "score": 0.21
+          "word": "is",
+          "start": 55.64,
+          "end": 55.86
         },
         {
-          "word": "main",
-          "startSec": 85.27,
-          "endSec": 85.59,
-          "score": 0.63
-        },
-        {
-          "word": "attractions.",
-          "startSec": 85.59,
-          "endSec": 86.03,
-          "score": 1.0
-        },
-        {
-          "word": "Honyara",
-          "startSec": 87.7,
-          "endSec": 88.42,
-          "score": 0.4
-        },
-        {
-          "word": "has",
-          "startSec": 88.42,
-          "endSec": 88.8,
-          "score": 1.0
-        },
-        {
-          "word": "markets,",
-          "startSec": 88.8,
-          "endSec": 89.44,
-          "score": 0.98
-        },
-        {
-          "word": "museums,",
-          "startSec": 89.58,
-          "endSec": 90.3,
-          "score": 1.0
+          "word": "quiet",
+          "start": 55.86,
+          "end": 56.4
         },
         {
           "word": "and",
-          "startSec": 90.9,
-          "endSec": 90.98,
-          "score": 1.0
+          "start": 56.4,
+          "end": 56.7
         },
         {
-          "word": "historical",
-          "startSec": 90.98,
-          "endSec": 91.5,
-          "score": 1.0
+          "word": "perfect",
+          "start": 56.7,
+          "end": 57.24
         },
         {
-          "word": "sites.",
-          "startSec": 91.5,
-          "endSec": 92.24,
-          "score": 0.97
+          "word": "for",
+          "start": 57.24,
+          "end": 57.66
+        },
+        {
+          "word": "learning",
+          "start": 57.66,
+          "end": 58.1
+        },
+        {
+          "word": "about",
+          "start": 58.1,
+          "end": 58.46
+        },
+        {
+          "word": "island",
+          "start": 58.46,
+          "end": 59.06
+        },
+        {
+          "word": "life",
+          "start": 59.06,
+          "end": 59.64
+        },
+        {
+          "word": "and",
+          "start": 59.64,
+          "end": 60.12
+        },
+        {
+          "word": "culture.",
+          "start": 60.12,
+          "end": 61.12
         }
       ]
     },
     {
       "id": 14,
-      "start": 93.87,
-      "end": 98.42,
-      "text": "The National Museum shows the country's culture and history.",
+      "start": 62.22,
+      "end": 63.13,
+      "text": "Part 3.",
       "words": [
         {
-          "word": "The",
-          "startSec": 94.07,
-          "endSec": 94.21,
-          "score": 0.99
+          "word": "Part",
+          "start": 62.22,
+          "end": 62.26
         },
         {
-          "word": "National",
-          "startSec": 94.21,
-          "endSec": 94.51,
-          "score": 0.94
-        },
-        {
-          "word": "Museum",
-          "startSec": 94.51,
-          "endSec": 95.31,
-          "score": 1.0
-        },
-        {
-          "word": "shows",
-          "startSec": 95.31,
-          "endSec": 95.91,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 95.91,
-          "endSec": 96.21,
-          "score": 1.0
-        },
-        {
-          "word": "country's",
-          "startSec": 96.21,
-          "endSec": 96.83,
-          "score": 0.98
-        },
-        {
-          "word": "culture",
-          "startSec": 96.83,
-          "endSec": 97.43,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 97.43,
-          "endSec": 97.73,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 97.73,
-          "endSec": 98.27,
-          "score": 1.0
+          "word": "3.",
+          "start": 62.26,
+          "end": 63.13
         }
       ]
     },
     {
       "id": 15,
-      "start": 99.1,
-      "end": 105.89,
-      "text": "You can also visit the central market, the town council building, and small churches.",
+      "start": 63.32,
+      "end": 65.34,
+      "text": "History of Honiara.",
       "words": [
         {
-          "word": "You",
-          "startSec": 99.3,
-          "endSec": 99.56,
-          "score": 1.0
+          "word": "History",
+          "start": 63.32,
+          "end": 63.82
         },
         {
-          "word": "can",
-          "startSec": 99.56,
-          "endSec": 99.74,
-          "score": 1.0
+          "word": "of",
+          "start": 63.82,
+          "end": 64.18
         },
         {
-          "word": "also",
-          "startSec": 99.74,
-          "endSec": 100.02,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 100.02,
-          "endSec": 100.62,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 100.62,
-          "endSec": 100.92,
-          "score": 0.99
-        },
-        {
-          "word": "central",
-          "startSec": 100.92,
-          "endSec": 101.4,
-          "score": 0.6
-        },
-        {
-          "word": "market,",
-          "startSec": 101.4,
-          "endSec": 102.08,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 102.72,
-          "endSec": 102.82,
-          "score": 0.99
-        },
-        {
-          "word": "town",
-          "startSec": 102.82,
-          "endSec": 103.08,
-          "score": 0.68
-        },
-        {
-          "word": "council",
-          "startSec": 103.08,
-          "endSec": 103.68,
-          "score": 0.97
-        },
-        {
-          "word": "building,",
-          "startSec": 103.68,
-          "endSec": 104.14,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 104.18,
-          "endSec": 104.8,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 104.8,
-          "endSec": 105.22,
-          "score": 1.0
-        },
-        {
-          "word": "churches.",
-          "startSec": 105.22,
-          "endSec": 105.74,
-          "score": 1.0
+          "word": "Honiara.",
+          "start": 64.18,
+          "end": 65.34
         }
       ]
     },
     {
       "id": 16,
-      "start": 107.1,
-      "end": 110.79,
-      "text": "Walking in Honyara is calm and interesting.",
+      "start": 65.72,
+      "end": 68.7,
+      "text": "Honiara has an important history.",
       "words": [
         {
-          "word": "Walking",
-          "startSec": 107.3,
-          "endSec": 107.78,
-          "score": 0.99
+          "word": "Honiara",
+          "start": 65.72,
+          "end": 66.5
         },
         {
-          "word": "in",
-          "startSec": 107.78,
-          "endSec": 108.18,
-          "score": 1.0
+          "word": "has",
+          "start": 66.5,
+          "end": 66.86
         },
         {
-          "word": "Honyara",
-          "startSec": 108.18,
-          "endSec": 108.88,
-          "score": 0.97
+          "word": "an",
+          "start": 66.86,
+          "end": 67.08
         },
         {
-          "word": "is",
-          "startSec": 108.88,
-          "endSec": 109.3,
-          "score": 1.0
+          "word": "important",
+          "start": 67.08,
+          "end": 67.64
         },
         {
-          "word": "calm",
-          "startSec": 109.3,
-          "endSec": 109.78,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 109.78,
-          "endSec": 110.22,
-          "score": 1.0
-        },
-        {
-          "word": "interesting.",
-          "startSec": 110.22,
-          "endSec": 110.64,
-          "score": 1.0
+          "word": "history.",
+          "start": 67.64,
+          "end": 68.7
         }
       ]
     },
     {
       "id": 17,
-      "start": 111.45,
-      "end": 117.89,
-      "text": "Part five, the city of Honyara. Honyara is small but friendly.",
+      "start": 69.22,
+      "end": 72.46,
+      "text": "It was a center during World War II.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 111.65,
-          "endSec": 112.08,
-          "score": 0.02
+          "word": "It",
+          "start": 69.22,
+          "end": 69.38
         },
         {
-          "word": "five,",
-          "startSec": 112.08,
-          "endSec": 112.82,
-          "score": 0.18
+          "word": "was",
+          "start": 69.38,
+          "end": 69.58
         },
         {
-          "word": "the",
-          "startSec": 113.32,
-          "endSec": 113.38,
-          "score": 0.86
+          "word": "a",
+          "start": 69.58,
+          "end": 69.9
         },
         {
-          "word": "city",
-          "startSec": 113.38,
-          "endSec": 113.66,
-          "score": 0.68
+          "word": "center",
+          "start": 69.9,
+          "end": 70.2
         },
         {
-          "word": "of",
-          "startSec": 113.66,
-          "endSec": 113.98,
-          "score": 1.0
+          "word": "during",
+          "start": 70.2,
+          "end": 70.82
         },
         {
-          "word": "Honyara.",
-          "startSec": 113.98,
-          "endSec": 114.66,
-          "score": 0.39
+          "word": "World",
+          "start": 70.82,
+          "end": 71.24
         },
         {
-          "word": "Honyara",
-          "startSec": 115.38,
-          "endSec": 116.24,
-          "score": 0.99
+          "word": "War",
+          "start": 71.24,
+          "end": 71.66
         },
         {
-          "word": "is",
-          "startSec": 116.24,
-          "endSec": 116.58,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 116.58,
-          "endSec": 117.0,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 117.0,
-          "endSec": 117.38,
-          "score": 0.84
-        },
-        {
-          "word": "friendly.",
-          "startSec": 117.38,
-          "endSec": 117.74,
-          "score": 1.0
+          "word": "II.",
+          "start": 71.66,
+          "end": 72.46
         }
       ]
     },
     {
       "id": 18,
-      "start": 118.52,
-      "end": 121.93,
-      "text": "There are local shops, restaurants, and cafes.",
+      "start": 72.98,
+      "end": 77.4,
+      "text": "You can visit war memorials and old battle sites.",
       "words": [
         {
-          "word": "There",
-          "startSec": 118.72,
-          "endSec": 118.86,
-          "score": 0.97
+          "word": "You",
+          "start": 72.98,
+          "end": 73.22
         },
         {
-          "word": "are",
-          "startSec": 118.86,
-          "endSec": 119.0,
-          "score": 1.0
+          "word": "can",
+          "start": 73.22,
+          "end": 73.46
         },
         {
-          "word": "local",
-          "startSec": 119.0,
-          "endSec": 119.24,
-          "score": 1.0
+          "word": "visit",
+          "start": 73.46,
+          "end": 73.84
         },
         {
-          "word": "shops,",
-          "startSec": 119.24,
-          "endSec": 119.84,
-          "score": 1.0
+          "word": "war",
+          "start": 73.84,
+          "end": 74.26
         },
         {
-          "word": "restaurants,",
-          "startSec": 120.0,
-          "endSec": 120.84,
-          "score": 1.0
+          "word": "memorials",
+          "start": 74.26,
+          "end": 75.44
         },
         {
           "word": "and",
-          "startSec": 121.44,
-          "endSec": 121.5,
-          "score": 0.99
+          "start": 75.44,
+          "end": 75.68
         },
         {
-          "word": "cafes.",
-          "startSec": 121.5,
-          "endSec": 121.78,
-          "score": 0.95
+          "word": "old",
+          "start": 75.68,
+          "end": 75.98
+        },
+        {
+          "word": "battle",
+          "start": 75.98,
+          "end": 76.48
+        },
+        {
+          "word": "sites.",
+          "start": 76.48,
+          "end": 77.4
         }
       ]
     },
     {
       "id": 19,
-      "start": 122.62,
-      "end": 125.91,
-      "text": "People walk in the streets or ride bicycles.",
+      "start": 77.66,
+      "end": 82.92,
+      "text": "The city also has traditional villages and cultural centers.",
       "words": [
         {
-          "word": "People",
-          "startSec": 122.82,
-          "endSec": 123.06,
-          "score": 0.99
+          "word": "The",
+          "start": 77.66,
+          "end": 77.8
         },
         {
-          "word": "walk",
-          "startSec": 123.06,
-          "endSec": 123.56,
-          "score": 1.0
+          "word": "city",
+          "start": 77.8,
+          "end": 78.12
         },
         {
-          "word": "in",
-          "startSec": 123.56,
-          "endSec": 123.84,
-          "score": 1.0
+          "word": "also",
+          "start": 78.12,
+          "end": 78.66
         },
         {
-          "word": "the",
-          "startSec": 123.84,
-          "endSec": 123.98,
-          "score": 1.0
+          "word": "has",
+          "start": 78.66,
+          "end": 79.06
         },
         {
-          "word": "streets",
-          "startSec": 123.98,
-          "endSec": 124.42,
-          "score": 1.0
+          "word": "traditional",
+          "start": 79.06,
+          "end": 79.7
         },
         {
-          "word": "or",
-          "startSec": 124.42,
-          "endSec": 124.9,
-          "score": 0.95
+          "word": "villages",
+          "start": 79.7,
+          "end": 80.46
         },
         {
-          "word": "ride",
-          "startSec": 124.9,
-          "endSec": 125.24,
-          "score": 1.0
+          "word": "and",
+          "start": 80.46,
+          "end": 81.34
         },
         {
-          "word": "bicycles.",
-          "startSec": 125.24,
-          "endSec": 125.76,
-          "score": 0.99
+          "word": "cultural",
+          "start": 81.34,
+          "end": 81.86
+        },
+        {
+          "word": "centers.",
+          "start": 81.86,
+          "end": 82.92
         }
       ]
     },
     {
       "id": 20,
-      "start": 126.92,
-      "end": 131.55,
-      "text": "The city is safe, welcoming, and full of natural beauty.",
+      "start": 83.52,
+      "end": 85.3,
+      "text": "Part 4.",
       "words": [
         {
-          "word": "The",
-          "startSec": 127.12,
-          "endSec": 127.34,
-          "score": 0.99
+          "word": "Part",
+          "start": 83.52,
+          "end": 84.28
         },
         {
-          "word": "city",
-          "startSec": 127.34,
-          "endSec": 127.68,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 127.68,
-          "endSec": 128.02,
-          "score": 1.0
-        },
-        {
-          "word": "safe,",
-          "startSec": 128.02,
-          "endSec": 128.46,
-          "score": 1.0
-        },
-        {
-          "word": "welcoming,",
-          "startSec": 128.8,
-          "endSec": 129.26,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 129.84,
-          "endSec": 129.92,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 129.92,
-          "endSec": 130.2,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 130.2,
-          "endSec": 130.4,
-          "score": 1.0
-        },
-        {
-          "word": "natural",
-          "startSec": 130.4,
-          "endSec": 130.96,
-          "score": 1.0
-        },
-        {
-          "word": "beauty.",
-          "startSec": 130.96,
-          "endSec": 131.4,
-          "score": 1.0
+          "word": "4.",
+          "start": 84.28,
+          "end": 85.3
         }
       ]
     },
     {
       "id": 21,
-      "start": 133.18,
-      "end": 135.81,
-      "text": "Part six, food in Honyara.",
+      "start": 85.6,
+      "end": 87.18,
+      "text": "Main Attractions.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 133.38,
-          "endSec": 133.38,
-          "score": 0.95
+          "word": "Main",
+          "start": 85.6,
+          "end": 85.64
         },
         {
-          "word": "six,",
-          "startSec": 133.38,
-          "endSec": 133.88,
-          "score": 0.97
-        },
-        {
-          "word": "food",
-          "startSec": 134.62,
-          "endSec": 134.76,
-          "score": 0.8
-        },
-        {
-          "word": "in",
-          "startSec": 134.76,
-          "endSec": 135.0,
-          "score": 0.34
-        },
-        {
-          "word": "Honyara.",
-          "startSec": 135.0,
-          "endSec": 135.66,
-          "score": 0.97
+          "word": "Attractions.",
+          "start": 85.64,
+          "end": 87.18
         }
       ]
     },
     {
       "id": 22,
-      "start": 136.18,
-      "end": 139.53,
-      "text": "Food in Honyara is fresh and delicious.",
+      "start": 87.82,
+      "end": 92.86,
+      "text": "Honiara has markets, museums, and historical sites.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 136.38,
-          "endSec": 136.92,
-          "score": 0.99
+          "word": "Honiara",
+          "start": 87.82,
+          "end": 88.5
         },
         {
-          "word": "in",
-          "startSec": 136.92,
-          "endSec": 137.2,
-          "score": 1.0
+          "word": "has",
+          "start": 88.5,
+          "end": 88.9
         },
         {
-          "word": "Honyara",
-          "startSec": 137.2,
-          "endSec": 137.86,
-          "score": 0.99
+          "word": "markets,",
+          "start": 88.9,
+          "end": 89.52
         },
         {
-          "word": "is",
-          "startSec": 137.86,
-          "endSec": 138.22,
-          "score": 1.0
-        },
-        {
-          "word": "fresh",
-          "startSec": 138.22,
-          "endSec": 138.52,
-          "score": 1.0
+          "word": "museums,",
+          "start": 89.98,
+          "end": 90.52
         },
         {
           "word": "and",
-          "startSec": 138.52,
-          "endSec": 138.96,
-          "score": 0.99
+          "start": 90.94,
+          "end": 91.08
         },
         {
-          "word": "delicious.",
-          "startSec": 138.96,
-          "endSec": 139.38,
-          "score": 1.0
+          "word": "historical",
+          "start": 91.08,
+          "end": 91.64
+        },
+        {
+          "word": "sites.",
+          "start": 91.64,
+          "end": 92.86
         }
       ]
     },
     {
       "id": 23,
-      "start": 140.08,
-      "end": 145.01,
-      "text": "People eat fish, coconuts, fruits, and root vegetables.",
+      "start": 93.74,
+      "end": 98.72,
+      "text": "The National Museum shows the country's culture and history.",
       "words": [
         {
-          "word": "People",
-          "startSec": 140.28,
-          "endSec": 140.76,
-          "score": 0.07
+          "word": "The",
+          "start": 93.74,
+          "end": 94.24
         },
         {
-          "word": "eat",
-          "startSec": 140.76,
-          "endSec": 141.06,
-          "score": 1.0
+          "word": "National",
+          "start": 94.24,
+          "end": 94.78
         },
         {
-          "word": "fish,",
-          "startSec": 141.06,
-          "endSec": 141.52,
-          "score": 0.99
+          "word": "Museum",
+          "start": 94.78,
+          "end": 95.3
         },
         {
-          "word": "coconuts,",
-          "startSec": 142.02,
-          "endSec": 142.76,
-          "score": 0.97
+          "word": "shows",
+          "start": 95.3,
+          "end": 96.0
         },
         {
-          "word": "fruits,",
-          "startSec": 143.04,
-          "endSec": 143.28,
-          "score": 1.0
+          "word": "the",
+          "start": 96.0,
+          "end": 96.26
+        },
+        {
+          "word": "country's",
+          "start": 96.26,
+          "end": 96.88
+        },
+        {
+          "word": "culture",
+          "start": 96.88,
+          "end": 97.36
         },
         {
           "word": "and",
-          "startSec": 143.84,
-          "endSec": 143.94,
-          "score": 1.0
+          "start": 97.36,
+          "end": 97.8
         },
         {
-          "word": "root",
-          "startSec": 143.94,
-          "endSec": 144.18,
-          "score": 0.97
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 144.18,
-          "endSec": 144.86,
-          "score": 1.0
+          "word": "history.",
+          "start": 97.8,
+          "end": 98.72
         }
       ]
     },
     {
       "id": 24,
-      "start": 145.72,
-      "end": 149.27,
-      "text": "A popular dish is taro or fresh seafood.",
+      "start": 99.28,
+      "end": 106.3,
+      "text": "You can also visit the central market, the town council building, and small churches.",
       "words": [
         {
-          "word": "A",
-          "startSec": 145.92,
-          "endSec": 146.0,
-          "score": 0.99
+          "word": "You",
+          "start": 99.28,
+          "end": 99.6
         },
         {
-          "word": "popular",
-          "startSec": 146.0,
-          "endSec": 146.48,
-          "score": 1.0
+          "word": "can",
+          "start": 99.6,
+          "end": 99.78
         },
         {
-          "word": "dish",
-          "startSec": 146.48,
-          "endSec": 147.06,
-          "score": 1.0
+          "word": "also",
+          "start": 99.78,
+          "end": 100.2
         },
         {
-          "word": "is",
-          "startSec": 147.06,
-          "endSec": 147.32,
-          "score": 1.0
+          "word": "visit",
+          "start": 100.2,
+          "end": 100.66
         },
         {
-          "word": "taro",
-          "startSec": 147.32,
-          "endSec": 147.8,
-          "score": 0.83
+          "word": "the",
+          "start": 100.66,
+          "end": 100.98
         },
         {
-          "word": "or",
-          "startSec": 147.8,
-          "endSec": 148.34,
-          "score": 0.72
+          "word": "central",
+          "start": 100.98,
+          "end": 101.44
         },
         {
-          "word": "fresh",
-          "startSec": 148.34,
-          "endSec": 148.64,
-          "score": 1.0
+          "word": "market,",
+          "start": 101.44,
+          "end": 102.08
         },
         {
-          "word": "seafood.",
-          "startSec": 148.64,
-          "endSec": 149.12,
-          "score": 0.99
+          "word": "the",
+          "start": 102.76,
+          "end": 102.86
+        },
+        {
+          "word": "town",
+          "start": 102.86,
+          "end": 103.24
+        },
+        {
+          "word": "council",
+          "start": 103.24,
+          "end": 103.78
+        },
+        {
+          "word": "building,",
+          "start": 103.78,
+          "end": 104.34
+        },
+        {
+          "word": "and",
+          "start": 104.72,
+          "end": 104.86
+        },
+        {
+          "word": "small",
+          "start": 104.86,
+          "end": 105.32
+        },
+        {
+          "word": "churches.",
+          "start": 105.32,
+          "end": 106.3
         }
       ]
     },
     {
       "id": 25,
-      "start": 150.0,
-      "end": 153.99,
-      "text": "Food is cooked simply and tastes very natural.",
+      "start": 107.08,
+      "end": 111.38,
+      "text": "Walking in Honiara is calm and interesting.",
       "words": [
         {
-          "word": "Food",
-          "startSec": 150.2,
-          "endSec": 150.64,
-          "score": 0.97
+          "word": "Walking",
+          "start": 107.08,
+          "end": 107.9
+        },
+        {
+          "word": "in",
+          "start": 107.9,
+          "end": 108.26
+        },
+        {
+          "word": "Honiara",
+          "start": 108.26,
+          "end": 108.94
         },
         {
           "word": "is",
-          "startSec": 150.64,
-          "endSec": 150.96,
-          "score": 1.0
+          "start": 108.94,
+          "end": 109.38
         },
         {
-          "word": "cooked",
-          "startSec": 150.96,
-          "endSec": 151.2,
-          "score": 1.0
-        },
-        {
-          "word": "simply",
-          "startSec": 151.2,
-          "endSec": 151.9,
-          "score": 0.98
+          "word": "calm",
+          "start": 109.38,
+          "end": 110.02
         },
         {
           "word": "and",
-          "startSec": 151.9,
-          "endSec": 152.38,
-          "score": 0.95
+          "start": 110.02,
+          "end": 110.28
         },
         {
-          "word": "tastes",
-          "startSec": 152.38,
-          "endSec": 152.68,
-          "score": 0.91
-        },
-        {
-          "word": "very",
-          "startSec": 152.68,
-          "endSec": 153.18,
-          "score": 0.99
-        },
-        {
-          "word": "natural.",
-          "startSec": 153.18,
-          "endSec": 153.84,
-          "score": 1.0
+          "word": "interesting.",
+          "start": 110.28,
+          "end": 111.38
         }
       ]
     },
     {
       "id": 26,
-      "start": 154.96,
-      "end": 158.11,
-      "text": "Part seven, the people of Honyara.",
+      "start": 111.78,
+      "end": 113.14,
+      "text": "Part 5.",
       "words": [
         {
           "word": "Part",
-          "startSec": 155.16,
-          "endSec": 155.3,
-          "score": 0.6
+          "start": 111.78,
+          "end": 112.24
         },
         {
-          "word": "seven,",
-          "startSec": 155.3,
-          "endSec": 155.98,
-          "score": 0.38
-        },
-        {
-          "word": "the",
-          "startSec": 156.58,
-          "endSec": 156.58,
-          "score": 0.87
-        },
-        {
-          "word": "people",
-          "startSec": 156.58,
-          "endSec": 157.0,
-          "score": 0.82
-        },
-        {
-          "word": "of",
-          "startSec": 157.0,
-          "endSec": 157.3,
-          "score": 1.0
-        },
-        {
-          "word": "Honyara.",
-          "startSec": 157.3,
-          "endSec": 157.96,
-          "score": 0.34
+          "word": "5.",
+          "start": 112.24,
+          "end": 113.14
         }
       ]
     },
     {
       "id": 27,
-      "start": 158.98,
-      "end": 162.91,
-      "text": "People in Honyara are called Solomon Islanders.",
+      "start": 113.38,
+      "end": 115.16,
+      "text": "The City of Honiara.",
       "words": [
         {
-          "word": "People",
-          "startSec": 159.18,
-          "endSec": 159.7,
-          "score": 0.99
+          "word": "The",
+          "start": 113.38,
+          "end": 113.42
         },
         {
-          "word": "in",
-          "startSec": 159.7,
-          "endSec": 160.14,
-          "score": 1.0
+          "word": "City",
+          "start": 113.42,
+          "end": 113.76
         },
         {
-          "word": "Honyara",
-          "startSec": 160.14,
-          "endSec": 160.9,
-          "score": 0.99
+          "word": "of",
+          "start": 113.76,
+          "end": 114.0
         },
         {
-          "word": "are",
-          "startSec": 160.9,
-          "endSec": 161.26,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 161.26,
-          "endSec": 161.68,
-          "score": 1.0
-        },
-        {
-          "word": "Solomon",
-          "startSec": 161.68,
-          "endSec": 162.3,
-          "score": 0.98
-        },
-        {
-          "word": "Islanders.",
-          "startSec": 162.3,
-          "endSec": 162.76,
-          "score": 0.91
+          "word": "Honiara.",
+          "start": 114.0,
+          "end": 115.16
         }
       ]
     },
     {
       "id": 28,
-      "start": 163.88,
-      "end": 165.83,
-      "text": "They are friendly and polite.",
+      "start": 115.48,
+      "end": 118.36,
+      "text": "Honiara is small but friendly.",
       "words": [
         {
-          "word": "They",
-          "startSec": 164.08,
-          "endSec": 164.28,
-          "score": 1.0
+          "word": "Honiara",
+          "start": 115.48,
+          "end": 116.3
         },
         {
-          "word": "are",
-          "startSec": 164.28,
-          "endSec": 164.46,
-          "score": 1.0
+          "word": "is",
+          "start": 116.3,
+          "end": 116.66
         },
         {
-          "word": "friendly",
-          "startSec": 164.46,
-          "endSec": 164.84,
-          "score": 0.99
+          "word": "small",
+          "start": 116.66,
+          "end": 117.16
         },
         {
-          "word": "and",
-          "startSec": 164.84,
-          "endSec": 165.38,
-          "score": 0.99
+          "word": "but",
+          "start": 117.16,
+          "end": 117.42
         },
         {
-          "word": "polite.",
-          "startSec": 165.38,
-          "endSec": 165.68,
-          "score": 1.0
+          "word": "friendly.",
+          "start": 117.42,
+          "end": 118.36
         }
       ]
     },
     {
       "id": 29,
-      "start": 165.48,
-      "end": 169.86,
-      "text": "They speak English and local languages.",
+      "start": 118.68,
+      "end": 122.38,
+      "text": "There are local shops, restaurants, and cafes.",
       "words": [
         {
-          "word": "They",
-          "startSec": 165.68,
-          "endSec": 166.4,
-          "score": 0.17
+          "word": "There",
+          "start": 118.68,
+          "end": 118.9
         },
         {
-          "word": "speak",
-          "startSec": 166.59,
-          "endSec": 167.51,
-          "score": 0.99
-        },
-        {
-          "word": "English",
-          "startSec": 167.51,
-          "endSec": 168.23,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 168.23,
-          "endSec": 168.63,
-          "score": 0.98
+          "word": "are",
+          "start": 118.9,
+          "end": 119.06
         },
         {
           "word": "local",
-          "startSec": 168.63,
-          "endSec": 168.87,
-          "score": 0.98
+          "start": 119.06,
+          "end": 119.4
         },
         {
-          "word": "languages.",
-          "startSec": 168.87,
-          "endSec": 169.71,
-          "score": 0.99
+          "word": "shops,",
+          "start": 119.4,
+          "end": 120.14
+        },
+        {
+          "word": "restaurants,",
+          "start": 120.56,
+          "end": 120.96
+        },
+        {
+          "word": "and",
+          "start": 121.5,
+          "end": 121.6
+        },
+        {
+          "word": "cafes.",
+          "start": 121.6,
+          "end": 122.38
         }
       ]
     },
     {
       "id": 30,
-      "start": 170.11,
-      "end": 174.24,
-      "text": "Life is connected to family, nature, and community.",
+      "start": 122.88,
+      "end": 126.46,
+      "text": "People walk in the streets or ride bicycles.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 170.31,
-          "endSec": 170.55,
-          "score": 0.98
+          "word": "People",
+          "start": 122.88,
+          "end": 123.26
         },
         {
-          "word": "is",
-          "startSec": 170.55,
-          "endSec": 170.81,
-          "score": 1.0
+          "word": "walk",
+          "start": 123.26,
+          "end": 123.62
         },
         {
-          "word": "connected",
-          "startSec": 170.81,
-          "endSec": 171.25,
-          "score": 1.0
+          "word": "in",
+          "start": 123.62,
+          "end": 123.9
         },
         {
-          "word": "to",
-          "startSec": 171.25,
-          "endSec": 171.67,
-          "score": 1.0
+          "word": "the",
+          "start": 123.9,
+          "end": 124.06
         },
         {
-          "word": "family,",
-          "startSec": 171.67,
-          "endSec": 172.15,
-          "score": 0.99
+          "word": "streets",
+          "start": 124.06,
+          "end": 124.44
         },
         {
-          "word": "nature,",
-          "startSec": 172.59,
-          "endSec": 173.17,
-          "score": 1.0
+          "word": "or",
+          "start": 124.44,
+          "end": 124.96
         },
         {
-          "word": "and",
-          "startSec": 173.51,
-          "endSec": 173.69,
-          "score": 0.99
+          "word": "ride",
+          "start": 124.96,
+          "end": 125.36
         },
         {
-          "word": "community.",
-          "startSec": 173.69,
-          "endSec": 174.09,
-          "score": 1.0
+          "word": "bicycles.",
+          "start": 125.36,
+          "end": 126.46
         }
       ]
     },
     {
       "id": 31,
-      "start": 175.72,
-      "end": 178.43,
-      "text": "Part eight, culture and music.",
+      "start": 127.06,
+      "end": 132.04,
+      "text": "The city is safe, welcoming, and full of natural beauty.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 175.92,
-          "endSec": 176.06,
-          "score": 0.53
+          "word": "The",
+          "start": 127.06,
+          "end": 127.4
         },
         {
-          "word": "eight,",
-          "startSec": 176.06,
-          "endSec": 176.4,
-          "score": 0.47
+          "word": "city",
+          "start": 127.4,
+          "end": 127.76
         },
         {
-          "word": "culture",
-          "startSec": 177.04,
-          "endSec": 177.4,
-          "score": 0.81
+          "word": "is",
+          "start": 127.76,
+          "end": 128.06
+        },
+        {
+          "word": "safe,",
+          "start": 128.06,
+          "end": 128.66
+        },
+        {
+          "word": "welcoming,",
+          "start": 128.9,
+          "end": 129.38
         },
         {
           "word": "and",
-          "startSec": 177.4,
-          "endSec": 177.86,
-          "score": 0.86
+          "start": 129.94,
+          "end": 129.96
         },
         {
-          "word": "music.",
-          "startSec": 177.86,
-          "endSec": 178.28,
-          "score": 1.0
+          "word": "full",
+          "start": 129.96,
+          "end": 130.3
+        },
+        {
+          "word": "of",
+          "start": 130.3,
+          "end": 130.48
+        },
+        {
+          "word": "natural",
+          "start": 130.48,
+          "end": 131.0
+        },
+        {
+          "word": "beauty.",
+          "start": 131.0,
+          "end": 132.04
         }
       ]
     },
     {
       "id": 32,
-      "start": 180.01,
-      "end": 183.56,
-      "text": "Music and dance are important in Honyara.",
+      "start": 132.64,
+      "end": 134.36,
+      "text": "Part 6.",
       "words": [
         {
-          "word": "Music",
-          "startSec": 180.21,
-          "endSec": 180.83,
-          "score": 0.98
+          "word": "Part",
+          "start": 132.64,
+          "end": 133.46
         },
         {
-          "word": "and",
-          "startSec": 180.83,
-          "endSec": 181.21,
-          "score": 1.0
-        },
-        {
-          "word": "dance",
-          "startSec": 181.21,
-          "endSec": 181.49,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 181.49,
-          "endSec": 181.89,
-          "score": 1.0
-        },
-        {
-          "word": "important",
-          "startSec": 181.89,
-          "endSec": 182.25,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 182.25,
-          "endSec": 182.69,
-          "score": 1.0
-        },
-        {
-          "word": "Honyara.",
-          "startSec": 182.69,
-          "endSec": 183.41,
-          "score": 0.26
+          "word": "6.",
+          "start": 133.46,
+          "end": 134.36
         }
       ]
     },
     {
       "id": 33,
-      "start": 184.2,
-      "end": 189.49,
-      "text": "People play drums, sing songs, and celebrate traditional festivals.",
+      "start": 134.6,
+      "end": 136.12,
+      "text": "Food in Honiara.",
       "words": [
         {
-          "word": "People",
-          "startSec": 184.4,
-          "endSec": 184.76,
-          "score": 0.99
+          "word": "Food",
+          "start": 134.6,
+          "end": 134.84
         },
         {
-          "word": "play",
-          "startSec": 184.76,
-          "endSec": 185.22,
-          "score": 1.0
+          "word": "in",
+          "start": 134.84,
+          "end": 135.06
         },
         {
-          "word": "drums,",
-          "startSec": 185.22,
-          "endSec": 185.68,
-          "score": 0.99
-        },
-        {
-          "word": "sing",
-          "startSec": 186.34,
-          "endSec": 186.58,
-          "score": 0.99
-        },
-        {
-          "word": "songs,",
-          "startSec": 186.58,
-          "endSec": 186.94,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 187.12,
-          "endSec": 187.46,
-          "score": 0.99
-        },
-        {
-          "word": "celebrate",
-          "startSec": 187.46,
-          "endSec": 188.02,
-          "score": 1.0
-        },
-        {
-          "word": "traditional",
-          "startSec": 188.02,
-          "endSec": 188.48,
-          "score": 1.0
-        },
-        {
-          "word": "festivals.",
-          "startSec": 188.48,
-          "endSec": 189.34,
-          "score": 1.0
+          "word": "Honiara.",
+          "start": 135.06,
+          "end": 136.12
         }
       ]
     },
     {
       "id": 34,
-      "start": 190.84,
-      "end": 195.29,
-      "text": "Visitors can watch dances and sometimes join the celebrations.",
+      "start": 136.32,
+      "end": 139.96,
+      "text": "Food in Honiara is fresh and delicious.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 191.04,
-          "endSec": 191.48,
-          "score": 0.98
+          "word": "Food",
+          "start": 136.32,
+          "end": 137.04
         },
         {
-          "word": "can",
-          "startSec": 191.48,
-          "endSec": 192.0,
-          "score": 1.0
+          "word": "in",
+          "start": 137.04,
+          "end": 137.26
         },
         {
-          "word": "watch",
-          "startSec": 192.0,
-          "endSec": 192.3,
-          "score": 1.0
+          "word": "Honiara",
+          "start": 137.26,
+          "end": 137.98
         },
         {
-          "word": "dances",
-          "startSec": 192.3,
-          "endSec": 192.84,
-          "score": 0.99
+          "word": "is",
+          "start": 137.98,
+          "end": 138.3
+        },
+        {
+          "word": "fresh",
+          "start": 138.3,
+          "end": 138.76
         },
         {
           "word": "and",
-          "startSec": 192.84,
-          "endSec": 193.38,
-          "score": 0.89
+          "start": 138.76,
+          "end": 139.04
         },
         {
-          "word": "sometimes",
-          "startSec": 193.38,
-          "endSec": 193.86,
-          "score": 1.0
-        },
-        {
-          "word": "join",
-          "startSec": 193.86,
-          "endSec": 194.34,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 194.34,
-          "endSec": 194.64,
-          "score": 0.99
-        },
-        {
-          "word": "celebrations.",
-          "startSec": 194.64,
-          "endSec": 195.14,
-          "score": 1.0
+          "word": "delicious.",
+          "start": 139.04,
+          "end": 139.96
         }
       ]
     },
     {
       "id": 35,
-      "start": 195.99,
-      "end": 200.04,
-      "text": "Culture and community life are very strong here.",
+      "start": 140.44,
+      "end": 145.34,
+      "text": "People eat fish, coconuts, fruits, and root vegetables.",
       "words": [
         {
-          "word": "Culture",
-          "startSec": 196.19,
-          "endSec": 196.91,
-          "score": 0.0
+          "word": "People",
+          "start": 140.44,
+          "end": 140.8
+        },
+        {
+          "word": "eat",
+          "start": 140.8,
+          "end": 141.14
+        },
+        {
+          "word": "fish,",
+          "start": 141.14,
+          "end": 141.8
+        },
+        {
+          "word": "coconuts,",
+          "start": 142.18,
+          "end": 142.9
+        },
+        {
+          "word": "fruits,",
+          "start": 143.14,
+          "end": 143.42
         },
         {
           "word": "and",
-          "startSec": 196.91,
-          "endSec": 197.39,
-          "score": 0.95
+          "start": 143.86,
+          "end": 144.02
         },
         {
-          "word": "community",
-          "startSec": 197.39,
-          "endSec": 197.75,
-          "score": 0.95
+          "word": "root",
+          "start": 144.02,
+          "end": 144.24
         },
         {
-          "word": "life",
-          "startSec": 197.75,
-          "endSec": 198.39,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 198.39,
-          "endSec": 198.63,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 198.63,
-          "endSec": 198.97,
-          "score": 0.98
-        },
-        {
-          "word": "strong",
-          "startSec": 198.97,
-          "endSec": 199.41,
-          "score": 1.0
-        },
-        {
-          "word": "here.",
-          "startSec": 199.41,
-          "endSec": 199.89,
-          "score": 0.98
+          "word": "vegetables.",
+          "start": 144.24,
+          "end": 145.34
         }
       ]
     },
     {
       "id": 36,
-      "start": 200.94,
-      "end": 204.19,
-      "text": "Part nine, nature around Honyara.",
+      "start": 145.86,
+      "end": 149.7,
+      "text": "A popular dish is taro or fresh seafood.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 201.14,
-          "endSec": 201.26,
-          "score": 0.34
+          "word": "A",
+          "start": 145.86,
+          "end": 146.06
         },
         {
-          "word": "nine,",
-          "startSec": 201.26,
-          "endSec": 201.7,
-          "score": 0.28
+          "word": "popular",
+          "start": 146.06,
+          "end": 146.58
         },
         {
-          "word": "nature",
-          "startSec": 201.7,
-          "endSec": 202.66,
-          "score": 0.67
+          "word": "dish",
+          "start": 146.58,
+          "end": 147.1
         },
         {
-          "word": "around",
-          "startSec": 202.66,
-          "endSec": 203.18,
-          "score": 0.99
+          "word": "is",
+          "start": 147.1,
+          "end": 147.42
         },
         {
-          "word": "Honyara.",
-          "startSec": 203.18,
-          "endSec": 204.04,
-          "score": 0.31
+          "word": "taro",
+          "start": 147.42,
+          "end": 148.1
+        },
+        {
+          "word": "or",
+          "start": 148.1,
+          "end": 148.38
+        },
+        {
+          "word": "fresh",
+          "start": 148.38,
+          "end": 148.8
+        },
+        {
+          "word": "seafood.",
+          "start": 148.8,
+          "end": 149.7
         }
       ]
     },
     {
       "id": 37,
-      "start": 204.72,
-      "end": 208.97,
-      "text": "Honyara is surrounded by hills, rivers, and beaches.",
+      "start": 150.28,
+      "end": 154.36,
+      "text": "Food is cooked simply and tastes very natural.",
       "words": [
         {
-          "word": "Honyara",
-          "startSec": 204.92,
-          "endSec": 205.64,
-          "score": 0.99
+          "word": "Food",
+          "start": 150.28,
+          "end": 150.76
         },
         {
           "word": "is",
-          "startSec": 205.64,
-          "endSec": 205.94,
-          "score": 1.0
+          "start": 150.76,
+          "end": 151.0
         },
         {
-          "word": "surrounded",
-          "startSec": 205.94,
-          "endSec": 206.3,
-          "score": 1.0
+          "word": "cooked",
+          "start": 151.0,
+          "end": 151.3
         },
         {
-          "word": "by",
-          "startSec": 206.3,
-          "endSec": 206.86,
-          "score": 1.0
-        },
-        {
-          "word": "hills,",
-          "startSec": 206.86,
-          "endSec": 207.32,
-          "score": 1.0
-        },
-        {
-          "word": "rivers,",
-          "startSec": 207.86,
-          "endSec": 208.08,
-          "score": 1.0
+          "word": "simply",
+          "start": 151.3,
+          "end": 151.92
         },
         {
           "word": "and",
-          "startSec": 208.54,
-          "endSec": 208.56,
-          "score": 0.99
+          "start": 151.92,
+          "end": 152.44
         },
         {
-          "word": "beaches.",
-          "startSec": 208.56,
-          "endSec": 208.82,
-          "score": 1.0
+          "word": "tastes",
+          "start": 152.44,
+          "end": 152.94
+        },
+        {
+          "word": "very",
+          "start": 152.94,
+          "end": 153.34
+        },
+        {
+          "word": "natural.",
+          "start": 153.34,
+          "end": 154.36
         }
       ]
     },
     {
       "id": 38,
-      "start": 209.8,
-      "end": 213.21,
-      "text": "You can hike, swim, or explore the ocean.",
+      "start": 155.04,
+      "end": 156.34,
+      "text": "Part 7.",
       "words": [
         {
-          "word": "You",
-          "startSec": 210.0,
-          "endSec": 210.16,
-          "score": 1.0
+          "word": "Part",
+          "start": 155.04,
+          "end": 155.4
         },
         {
-          "word": "can",
-          "startSec": 210.16,
-          "endSec": 210.36,
-          "score": 1.0
-        },
-        {
-          "word": "hike,",
-          "startSec": 210.36,
-          "endSec": 210.68,
-          "score": 1.0
-        },
-        {
-          "word": "swim,",
-          "startSec": 210.88,
-          "endSec": 211.44,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 211.8,
-          "endSec": 211.92,
-          "score": 0.99
-        },
-        {
-          "word": "explore",
-          "startSec": 211.92,
-          "endSec": 212.4,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 212.4,
-          "endSec": 212.74,
-          "score": 1.0
-        },
-        {
-          "word": "ocean.",
-          "startSec": 212.74,
-          "endSec": 213.06,
-          "score": 1.0
+          "word": "7.",
+          "start": 155.4,
+          "end": 156.34
         }
       ]
     },
     {
       "id": 39,
-      "start": 214.04,
-      "end": 216.91,
-      "text": "The air is fresh and nature is everywhere.",
+      "start": 156.58,
+      "end": 158.46,
+      "text": "The People of Honiara.",
       "words": [
         {
           "word": "The",
-          "startSec": 214.24,
-          "endSec": 214.36,
-          "score": 1.0
+          "start": 156.58,
+          "end": 156.66
         },
         {
-          "word": "air",
-          "startSec": 214.36,
-          "endSec": 214.66,
-          "score": 1.0
+          "word": "People",
+          "start": 156.66,
+          "end": 157.02
         },
         {
-          "word": "is",
-          "startSec": 214.66,
-          "endSec": 214.94,
-          "score": 1.0
+          "word": "of",
+          "start": 157.02,
+          "end": 157.34
         },
         {
-          "word": "fresh",
-          "startSec": 214.94,
-          "endSec": 215.28,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 215.28,
-          "endSec": 215.76,
-          "score": 0.56
-        },
-        {
-          "word": "nature",
-          "startSec": 215.76,
-          "endSec": 216.02,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 216.02,
-          "endSec": 216.44,
-          "score": 1.0
-        },
-        {
-          "word": "everywhere.",
-          "startSec": 216.44,
-          "endSec": 216.76,
-          "score": 1.0
+          "word": "Honiara.",
+          "start": 157.34,
+          "end": 158.46
         }
       ]
     },
     {
       "id": 40,
-      "start": 218.46,
-      "end": 222.61,
-      "text": "It is a perfect place to relax and enjoy the outdoors.",
+      "start": 159.02,
+      "end": 163.79,
+      "text": "People in Honiara are called Solomon Islanders.",
       "words": [
         {
-          "word": "It",
-          "startSec": 218.66,
-          "endSec": 218.9,
-          "score": 1.0
+          "word": "People",
+          "start": 159.02,
+          "end": 159.9
         },
         {
-          "word": "is",
-          "startSec": 218.9,
-          "endSec": 219.04,
-          "score": 1.0
+          "word": "in",
+          "start": 159.9,
+          "end": 160.22
         },
         {
-          "word": "a",
-          "startSec": 219.04,
-          "endSec": 219.22,
-          "score": 0.91
+          "word": "Honiara",
+          "start": 160.22,
+          "end": 160.96
         },
         {
-          "word": "perfect",
-          "startSec": 219.22,
-          "endSec": 219.54,
-          "score": 1.0
+          "word": "are",
+          "start": 160.96,
+          "end": 161.32
         },
         {
-          "word": "place",
-          "startSec": 219.54,
-          "endSec": 220.18,
-          "score": 1.0
+          "word": "called",
+          "start": 161.32,
+          "end": 161.72
         },
         {
-          "word": "to",
-          "startSec": 220.18,
-          "endSec": 220.54,
-          "score": 1.0
+          "word": "Solomon",
+          "start": 161.72,
+          "end": 162.42
         },
         {
-          "word": "relax",
-          "startSec": 220.54,
-          "endSec": 220.9,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 220.9,
-          "endSec": 221.46,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 221.46,
-          "endSec": 221.82,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 221.82,
-          "endSec": 222.18,
-          "score": 1.0
-        },
-        {
-          "word": "outdoors.",
-          "startSec": 222.18,
-          "endSec": 222.46,
-          "score": 1.0
+          "word": "Islanders.",
+          "start": 162.42,
+          "end": 163.79
         }
       ]
     },
     {
       "id": 41,
-      "start": 223.7,
-      "end": 227.35,
-      "text": "Part ten, travel and tourism.",
+      "start": 163.98,
+      "end": 166.26,
+      "text": "They are friendly and polite.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 223.9,
-          "endSec": 224.52,
-          "score": 0.03
+          "word": "They",
+          "start": 163.98,
+          "end": 164.32
         },
         {
-          "word": "ten,",
-          "startSec": 224.52,
-          "endSec": 225.14,
-          "score": 0.04
+          "word": "are",
+          "start": 164.32,
+          "end": 164.5
         },
         {
-          "word": "travel",
-          "startSec": 225.96,
-          "endSec": 226.58,
-          "score": 0.81
+          "word": "friendly",
+          "start": 164.5,
+          "end": 165.02
         },
         {
           "word": "and",
-          "startSec": 226.58,
-          "endSec": 226.86,
-          "score": 0.86
+          "start": 165.02,
+          "end": 165.42
         },
         {
-          "word": "tourism.",
-          "startSec": 226.86,
-          "endSec": 227.2,
-          "score": 1.0
+          "word": "polite.",
+          "start": 165.42,
+          "end": 166.26
         }
       ]
     },
     {
       "id": 42,
-      "start": 228.38,
-      "end": 233.45,
-      "text": "Honyara is reachable by plane from nearby countries and islands.",
+      "start": 167.0,
+      "end": 170.17,
+      "text": "They speak English and local languages.",
       "words": [
         {
-          "word": "Honyara",
-          "startSec": 228.58,
-          "endSec": 229.36,
-          "score": 0.44
+          "word": "They",
+          "start": 167.0,
+          "end": 167.24
         },
         {
-          "word": "is",
-          "startSec": 229.36,
-          "endSec": 229.72,
-          "score": 0.99
+          "word": "speak",
+          "start": 167.24,
+          "end": 167.66
         },
         {
-          "word": "reachable",
-          "startSec": 229.72,
-          "endSec": 230.24,
-          "score": 0.99
-        },
-        {
-          "word": "by",
-          "startSec": 230.24,
-          "endSec": 230.56,
-          "score": 1.0
-        },
-        {
-          "word": "plane",
-          "startSec": 230.56,
-          "endSec": 231.02,
-          "score": 0.97
-        },
-        {
-          "word": "from",
-          "startSec": 231.02,
-          "endSec": 231.34,
-          "score": 0.99
-        },
-        {
-          "word": "nearby",
-          "startSec": 231.34,
-          "endSec": 231.66,
-          "score": 0.99
-        },
-        {
-          "word": "countries",
-          "startSec": 231.66,
-          "endSec": 232.42,
-          "score": 0.97
+          "word": "English",
+          "start": 167.66,
+          "end": 168.32
         },
         {
           "word": "and",
-          "startSec": 232.42,
-          "endSec": 232.76,
-          "score": 1.0
+          "start": 168.32,
+          "end": 168.7
         },
         {
-          "word": "islands.",
-          "startSec": 232.76,
-          "endSec": 233.3,
-          "score": 0.99
+          "word": "local",
+          "start": 168.7,
+          "end": 169.04
+        },
+        {
+          "word": "languages.",
+          "start": 169.04,
+          "end": 170.17
         }
       ]
     },
     {
       "id": 43,
-      "start": 233.92,
-      "end": 238.69,
-      "text": "Tourists come to see nature, beaches, and historical sites.",
+      "start": 170.4,
+      "end": 174.84,
+      "text": "Life is connected to family, nature, and community.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 234.12,
-          "endSec": 234.82,
-          "score": 0.79
+          "word": "Life",
+          "start": 170.4,
+          "end": 170.58
         },
         {
-          "word": "come",
-          "startSec": 234.82,
-          "endSec": 235.06,
-          "score": 1.0
+          "word": "is",
+          "start": 170.58,
+          "end": 170.88
+        },
+        {
+          "word": "connected",
+          "start": 170.88,
+          "end": 171.38
         },
         {
           "word": "to",
-          "startSec": 235.06,
-          "endSec": 235.32,
-          "score": 1.0
+          "start": 171.38,
+          "end": 171.72
         },
         {
-          "word": "see",
-          "startSec": 235.32,
-          "endSec": 235.58,
-          "score": 0.99
+          "word": "family,",
+          "start": 171.72,
+          "end": 172.28
         },
         {
           "word": "nature,",
-          "startSec": 235.58,
-          "endSec": 236.2,
-          "score": 0.99
-        },
-        {
-          "word": "beaches,",
-          "startSec": 236.62,
-          "endSec": 236.84,
-          "score": 1.0
+          "start": 172.8,
+          "end": 173.18
         },
         {
           "word": "and",
-          "startSec": 237.24,
-          "endSec": 237.44,
-          "score": 1.0
+          "start": 173.62,
+          "end": 173.76
         },
         {
-          "word": "historical",
-          "startSec": 237.44,
-          "endSec": 237.92,
-          "score": 1.0
-        },
-        {
-          "word": "sites.",
-          "startSec": 237.92,
-          "endSec": 238.54,
-          "score": 0.98
+          "word": "community.",
+          "start": 173.76,
+          "end": 174.84
         }
       ]
     },
     {
       "id": 44,
-      "start": 239.4,
-      "end": 244.77,
-      "text": "Tourism helps local people earn money and protect traditions.",
+      "start": 175.86,
+      "end": 176.94,
+      "text": "Part 8.",
       "words": [
         {
-          "word": "Tourism",
-          "startSec": 239.6,
-          "endSec": 240.04,
-          "score": 0.96
+          "word": "Part",
+          "start": 175.86,
+          "end": 176.08
         },
         {
-          "word": "helps",
-          "startSec": 240.04,
-          "endSec": 240.7,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 240.7,
-          "endSec": 241.28,
-          "score": 1.0
-        },
-        {
-          "word": "people",
-          "startSec": 241.28,
-          "endSec": 242.0,
-          "score": 1.0
-        },
-        {
-          "word": "earn",
-          "startSec": 242.0,
-          "endSec": 242.48,
-          "score": 1.0
-        },
-        {
-          "word": "money",
-          "startSec": 242.48,
-          "endSec": 243.08,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 243.08,
-          "endSec": 243.34,
-          "score": 0.99
-        },
-        {
-          "word": "protect",
-          "startSec": 243.34,
-          "endSec": 243.82,
-          "score": 1.0
-        },
-        {
-          "word": "traditions.",
-          "startSec": 243.82,
-          "endSec": 244.62,
-          "score": 1.0
+          "word": "8.",
+          "start": 176.08,
+          "end": 176.94
         }
       ]
     },
     {
       "id": 45,
-      "start": 246.39,
-      "end": 249.92,
-      "text": "Part eleven, daily life in Honyara.",
+      "start": 177.28,
+      "end": 178.7,
+      "text": "Culture and Music.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 246.59,
-          "endSec": 246.59,
-          "score": 0.98
+          "word": "Culture",
+          "start": 177.28,
+          "end": 177.5
         },
         {
-          "word": "eleven,",
-          "startSec": 246.59,
-          "endSec": 246.99,
-          "score": 0.45
+          "word": "and",
+          "start": 177.5,
+          "end": 177.94
         },
         {
-          "word": "daily",
-          "startSec": 247.85,
-          "endSec": 248.19,
-          "score": 0.96
-        },
-        {
-          "word": "life",
-          "startSec": 248.19,
-          "endSec": 248.79,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 248.79,
-          "endSec": 249.07,
-          "score": 0.95
-        },
-        {
-          "word": "Honyara.",
-          "startSec": 249.07,
-          "endSec": 249.77,
-          "score": 0.89
+          "word": "Music.",
+          "start": 177.94,
+          "end": 178.7
         }
       ]
     },
     {
       "id": 46,
-      "start": 250.6,
-      "end": 254.05,
-      "text": "Life in Honyara is common simple.",
+      "start": 180.02,
+      "end": 183.5,
+      "text": "Music and dance are important in Honiara.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 250.8,
-          "endSec": 251.32,
-          "score": 0.36
+          "word": "Music",
+          "start": 180.02,
+          "end": 180.9
+        },
+        {
+          "word": "and",
+          "start": 180.9,
+          "end": 181.26
+        },
+        {
+          "word": "dance",
+          "start": 181.26,
+          "end": 181.66
+        },
+        {
+          "word": "are",
+          "start": 181.66,
+          "end": 181.94
+        },
+        {
+          "word": "important",
+          "start": 181.94,
+          "end": 182.48
         },
         {
           "word": "in",
-          "startSec": 251.32,
-          "endSec": 251.48,
-          "score": 0.95
+          "start": 182.48,
+          "end": 182.76
         },
         {
-          "word": "Honyara",
-          "startSec": 251.48,
-          "endSec": 252.18,
-          "score": 0.34
-        },
-        {
-          "word": "is",
-          "startSec": 252.18,
-          "endSec": 252.62,
-          "score": 0.97
-        },
-        {
-          "word": "common",
-          "startSec": 252.62,
-          "endSec": 253.12,
-          "score": 0.91
-        },
-        {
-          "word": "simple.",
-          "startSec": 253.12,
-          "endSec": 253.9,
-          "score": 0.77
+          "word": "Honiara.",
+          "start": 182.76,
+          "end": 183.5
         }
       ]
     },
     {
       "id": 47,
-      "start": 254.48,
-      "end": 262.09,
-      "text": "People wake up early, work in shops, schools, or farms, and spend time with family.",
+      "start": 183.5,
+      "end": 190.1,
+      "text": "People play drums, sing songs, and celebrate traditional festivals.",
       "words": [
         {
           "word": "People",
-          "startSec": 254.68,
-          "endSec": 255.04,
-          "score": 0.99
+          "start": 183.5,
+          "end": 184.84
         },
         {
-          "word": "wake",
-          "startSec": 255.04,
-          "endSec": 255.44,
-          "score": 0.99
+          "word": "play",
+          "start": 184.84,
+          "end": 185.28
         },
         {
-          "word": "up",
-          "startSec": 255.44,
-          "endSec": 255.66,
-          "score": 1.0
+          "word": "drums,",
+          "start": 185.28,
+          "end": 185.94
         },
         {
-          "word": "early,",
-          "startSec": 255.66,
-          "endSec": 256.16,
-          "score": 1.0
+          "word": "sing",
+          "start": 186.56,
+          "end": 186.7
         },
         {
-          "word": "work",
-          "startSec": 256.52,
-          "endSec": 256.76,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 256.76,
-          "endSec": 257.0,
-          "score": 0.98
-        },
-        {
-          "word": "shops,",
-          "startSec": 257.0,
-          "endSec": 257.38,
-          "score": 0.99
-        },
-        {
-          "word": "schools,",
-          "startSec": 257.74,
-          "endSec": 258.32,
-          "score": 0.95
-        },
-        {
-          "word": "or",
-          "startSec": 259.12,
-          "endSec": 259.22,
-          "score": 0.96
-        },
-        {
-          "word": "farms,",
-          "startSec": 259.22,
-          "endSec": 259.82,
-          "score": 1.0
+          "word": "songs,",
+          "start": 186.7,
+          "end": 187.08
         },
         {
           "word": "and",
-          "startSec": 260.44,
-          "endSec": 260.54,
-          "score": 0.99
+          "start": 187.48,
+          "end": 187.52
         },
         {
-          "word": "spend",
-          "startSec": 260.54,
-          "endSec": 260.86,
-          "score": 1.0
+          "word": "celebrate",
+          "start": 187.52,
+          "end": 188.1
         },
         {
-          "word": "time",
-          "startSec": 260.86,
-          "endSec": 261.28,
-          "score": 1.0
+          "word": "traditional",
+          "start": 188.1,
+          "end": 188.92
         },
         {
-          "word": "with",
-          "startSec": 261.28,
-          "endSec": 261.56,
-          "score": 1.0
-        },
-        {
-          "word": "family.",
-          "startSec": 261.56,
-          "endSec": 261.94,
-          "score": 0.96
+          "word": "festivals.",
+          "start": 188.92,
+          "end": 190.1
         }
       ]
     },
     {
       "id": 48,
-      "start": 262.92,
-      "end": 269.21,
-      "text": "Children play in the streets, and families enjoy walks along the beach.",
+      "start": 190.76,
+      "end": 195.68,
+      "text": "Visitors can watch dances and sometimes join the celebrations.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 263.12,
-          "endSec": 263.58,
-          "score": 0.99
+          "word": "Visitors",
+          "start": 190.76,
+          "end": 191.7
         },
         {
-          "word": "play",
-          "startSec": 263.58,
-          "endSec": 264.24,
-          "score": 1.0
+          "word": "can",
+          "start": 191.7,
+          "end": 192.06
         },
         {
-          "word": "in",
-          "startSec": 264.24,
-          "endSec": 264.54,
-          "score": 1.0
+          "word": "watch",
+          "start": 192.06,
+          "end": 192.34
         },
         {
-          "word": "the",
-          "startSec": 264.54,
-          "endSec": 264.68,
-          "score": 1.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 264.68,
-          "endSec": 265.14,
-          "score": 1.0
+          "word": "dances",
+          "start": 192.34,
+          "end": 193.02
         },
         {
           "word": "and",
-          "startSec": 265.38,
-          "endSec": 266.2,
-          "score": 0.99
+          "start": 193.02,
+          "end": 193.44
         },
         {
-          "word": "families",
-          "startSec": 266.2,
-          "endSec": 266.8,
-          "score": 0.98
+          "word": "sometimes",
+          "start": 193.44,
+          "end": 193.98
         },
         {
-          "word": "enjoy",
-          "startSec": 266.8,
-          "endSec": 267.34,
-          "score": 1.0
-        },
-        {
-          "word": "walks",
-          "startSec": 267.34,
-          "endSec": 267.9,
-          "score": 1.0
-        },
-        {
-          "word": "along",
-          "startSec": 267.9,
-          "endSec": 268.42,
-          "score": 1.0
+          "word": "join",
+          "start": 193.98,
+          "end": 194.44
         },
         {
           "word": "the",
-          "startSec": 268.42,
-          "endSec": 268.74,
-          "score": 1.0
+          "start": 194.44,
+          "end": 194.74
         },
         {
-          "word": "beach.",
-          "startSec": 268.74,
-          "endSec": 269.06,
-          "score": 0.99
+          "word": "celebrations.",
+          "start": 194.74,
+          "end": 195.68
         }
       ]
     },
     {
       "id": 49,
-      "start": 270.07,
-      "end": 274.32,
-      "text": "Life is connected to nature, culture, and community.",
+      "start": 196.52,
+      "end": 200.32,
+      "text": "Culture and community life are very strong here.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 270.27,
-          "endSec": 270.57,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 270.57,
-          "endSec": 270.95,
-          "score": 1.0
-        },
-        {
-          "word": "connected",
-          "startSec": 270.95,
-          "endSec": 271.37,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 271.37,
-          "endSec": 271.85,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 271.85,
-          "endSec": 272.29,
-          "score": 0.99
-        },
-        {
-          "word": "culture,",
-          "startSec": 272.79,
-          "endSec": 273.19,
-          "score": 1.0
+          "word": "Culture",
+          "start": 196.52,
+          "end": 197.1
         },
         {
           "word": "and",
-          "startSec": 273.73,
-          "endSec": 273.91,
-          "score": 1.0
+          "start": 197.1,
+          "end": 197.42
         },
         {
-          "word": "community.",
-          "startSec": 273.91,
-          "endSec": 274.17,
-          "score": 1.0
+          "word": "community",
+          "start": 197.42,
+          "end": 197.84
+        },
+        {
+          "word": "life",
+          "start": 197.84,
+          "end": 198.4
+        },
+        {
+          "word": "are",
+          "start": 198.4,
+          "end": 198.66
+        },
+        {
+          "word": "very",
+          "start": 198.66,
+          "end": 199.02
+        },
+        {
+          "word": "strong",
+          "start": 199.02,
+          "end": 199.5
+        },
+        {
+          "word": "here.",
+          "start": 199.5,
+          "end": 200.32
         }
       ]
     },
     {
       "id": 50,
-      "start": 276.42,
-      "end": 279.29,
-      "text": "Part twelve, why Honyara is special.",
+      "start": 201.06,
+      "end": 202.16,
+      "text": "Part 9.",
       "words": [
         {
           "word": "Part",
-          "startSec": 276.62,
-          "endSec": 276.62,
-          "score": 0.95
+          "start": 201.06,
+          "end": 201.32
         },
         {
-          "word": "twelve,",
-          "startSec": 276.62,
-          "endSec": 277.18,
-          "score": 0.02
-        },
-        {
-          "word": "why",
-          "startSec": 277.66,
-          "endSec": 277.76,
-          "score": 0.82
-        },
-        {
-          "word": "Honyara",
-          "startSec": 277.76,
-          "endSec": 278.54,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 278.54,
-          "endSec": 278.82,
-          "score": 0.99
-        },
-        {
-          "word": "special.",
-          "startSec": 278.82,
-          "endSec": 279.14,
-          "score": 1.0
+          "word": "9.",
+          "start": 201.32,
+          "end": 202.16
         }
       ]
     },
     {
       "id": 51,
-      "start": 280.17,
-      "end": 288.14,
-      "text": "Honyara is not a famous city, but it is full of beauty, history, and calm life.",
+      "start": 202.66,
+      "end": 204.46,
+      "text": "Nature Around Honiara.",
       "words": [
         {
-          "word": "Honyara",
-          "startSec": 280.37,
-          "endSec": 281.25,
-          "score": 0.42
+          "word": "Nature",
+          "start": 202.66,
+          "end": 202.66
         },
         {
-          "word": "is",
-          "startSec": 281.25,
-          "endSec": 281.59,
-          "score": 0.97
+          "word": "Around",
+          "start": 202.66,
+          "end": 203.26
         },
         {
-          "word": "not",
-          "startSec": 281.59,
-          "endSec": 281.93,
-          "score": 0.97
-        },
-        {
-          "word": "a",
-          "startSec": 281.93,
-          "endSec": 282.13,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 282.13,
-          "endSec": 282.57,
-          "score": 1.0
-        },
-        {
-          "word": "city,",
-          "startSec": 282.57,
-          "endSec": 283.07,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 283.95,
-          "endSec": 284.09,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 284.09,
-          "endSec": 284.25,
-          "score": 0.9
-        },
-        {
-          "word": "is",
-          "startSec": 284.25,
-          "endSec": 284.47,
-          "score": 0.97
-        },
-        {
-          "word": "full",
-          "startSec": 284.47,
-          "endSec": 284.75,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 284.75,
-          "endSec": 285.01,
-          "score": 1.0
-        },
-        {
-          "word": "beauty,",
-          "startSec": 285.01,
-          "endSec": 285.55,
-          "score": 0.97
-        },
-        {
-          "word": "history,",
-          "startSec": 286.13,
-          "endSec": 286.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 287.07,
-          "endSec": 287.07,
-          "score": 1.0
-        },
-        {
-          "word": "calm",
-          "startSec": 287.07,
-          "endSec": 287.45,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 287.45,
-          "endSec": 287.99,
-          "score": 0.99
+          "word": "Honiara.",
+          "start": 203.26,
+          "end": 204.46
         }
       ]
     },
     {
       "id": 52,
-      "start": 289.17,
-      "end": 294.46,
-      "text": "It combines beaches, hills, and friendly people beautifully.",
+      "start": 204.72,
+      "end": 209.0,
+      "text": "Honiara is surrounded by hills, rivers, and beaches.",
       "words": [
         {
-          "word": "It",
-          "startSec": 289.37,
-          "endSec": 289.43,
-          "score": 0.98
+          "word": "Honiara",
+          "start": 204.72,
+          "end": 205.66
         },
         {
-          "word": "combines",
-          "startSec": 289.43,
-          "endSec": 289.77,
-          "score": 1.0
+          "word": "is",
+          "start": 205.66,
+          "end": 205.98
         },
         {
-          "word": "beaches,",
-          "startSec": 289.77,
-          "endSec": 290.77,
-          "score": 1.0
+          "word": "surrounded",
+          "start": 205.98,
+          "end": 206.48
+        },
+        {
+          "word": "by",
+          "start": 206.48,
+          "end": 206.88
         },
         {
           "word": "hills,",
-          "startSec": 290.93,
-          "endSec": 291.81,
-          "score": 0.99
+          "start": 206.88,
+          "end": 207.58
+        },
+        {
+          "word": "rivers,",
+          "start": 207.86,
+          "end": 208.2
         },
         {
           "word": "and",
-          "startSec": 292.47,
-          "endSec": 292.53,
-          "score": 1.0
+          "start": 208.52,
+          "end": 208.62
         },
         {
-          "word": "friendly",
-          "startSec": 292.53,
-          "endSec": 292.91,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 292.91,
-          "endSec": 293.65,
-          "score": 0.99
-        },
-        {
-          "word": "beautifully.",
-          "startSec": 293.65,
-          "endSec": 294.31,
-          "score": 0.98
+          "word": "beaches.",
+          "start": 208.62,
+          "end": 209.0
         }
       ]
     },
     {
       "id": 53,
-      "start": 295.37,
-      "end": 300.1,
-      "text": "Visitors feel relaxed, happy, and peaceful here.",
+      "start": 209.0,
+      "end": 213.62,
+      "text": "You can hike, swim, or explore the ocean.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 295.57,
-          "endSec": 295.99,
-          "score": 0.99
+          "word": "You",
+          "start": 209.0,
+          "end": 210.16
         },
         {
-          "word": "feel",
-          "startSec": 295.99,
-          "endSec": 296.61,
-          "score": 1.0
+          "word": "can",
+          "start": 210.16,
+          "end": 210.42
         },
         {
-          "word": "relaxed,",
-          "startSec": 296.61,
-          "endSec": 297.35,
-          "score": 1.0
+          "word": "hike,",
+          "start": 210.42,
+          "end": 210.8
         },
         {
-          "word": "happy,",
-          "startSec": 298.13,
-          "endSec": 298.21,
-          "score": 1.0
+          "word": "swim,",
+          "start": 211.3,
+          "end": 211.56
         },
         {
-          "word": "and",
-          "startSec": 298.89,
-          "endSec": 298.89,
-          "score": 1.0
+          "word": "or",
+          "start": 211.92,
+          "end": 211.98
         },
         {
-          "word": "peaceful",
-          "startSec": 298.89,
-          "endSec": 299.43,
-          "score": 1.0
+          "word": "explore",
+          "start": 211.98,
+          "end": 212.5
         },
         {
-          "word": "here.",
-          "startSec": 299.43,
-          "endSec": 299.95,
-          "score": 0.98
+          "word": "the",
+          "start": 212.5,
+          "end": 212.8
+        },
+        {
+          "word": "ocean.",
+          "start": 212.8,
+          "end": 213.62
         }
       ]
     },
     {
       "id": 54,
-      "start": 305.35,
-      "end": 311.82,
-      "text": "I am Emily, and I hope you enjoyed this journey through Honyara Solomon Islands.",
+      "start": 214.26,
+      "end": 217.38,
+      "text": "The air is fresh and nature is everywhere.",
       "words": [
         {
-          "word": "I",
-          "startSec": 305.55,
-          "endSec": 306.31,
-          "score": 0.62
+          "word": "The",
+          "start": 214.26,
+          "end": 214.4
         },
         {
-          "word": "am",
-          "startSec": 306.31,
-          "endSec": 306.53,
-          "score": 0.84
+          "word": "air",
+          "start": 214.4,
+          "end": 214.7
         },
         {
-          "word": "Emily,",
-          "startSec": 306.53,
-          "endSec": 306.91,
-          "score": 0.96
+          "word": "is",
+          "start": 214.7,
+          "end": 215.0
+        },
+        {
+          "word": "fresh",
+          "start": 215.0,
+          "end": 215.38
         },
         {
           "word": "and",
-          "startSec": 307.37,
-          "endSec": 307.49,
-          "score": 0.98
+          "start": 215.38,
+          "end": 215.82
         },
         {
-          "word": "I",
-          "startSec": 307.49,
-          "endSec": 307.67,
-          "score": 0.99
+          "word": "nature",
+          "start": 215.82,
+          "end": 216.18
         },
         {
-          "word": "hope",
-          "startSec": 307.67,
-          "endSec": 307.95,
-          "score": 1.0
+          "word": "is",
+          "start": 216.18,
+          "end": 216.48
         },
         {
-          "word": "you",
-          "startSec": 307.95,
-          "endSec": 308.23,
-          "score": 1.0
-        },
-        {
-          "word": "enjoyed",
-          "startSec": 308.23,
-          "endSec": 308.61,
-          "score": 0.97
-        },
-        {
-          "word": "this",
-          "startSec": 308.61,
-          "endSec": 309.03,
-          "score": 1.0
-        },
-        {
-          "word": "journey",
-          "startSec": 309.03,
-          "endSec": 309.41,
-          "score": 1.0
-        },
-        {
-          "word": "through",
-          "startSec": 309.41,
-          "endSec": 309.95,
-          "score": 0.99
-        },
-        {
-          "word": "Honyara",
-          "startSec": 309.95,
-          "endSec": 310.61,
-          "score": 0.35
-        },
-        {
-          "word": "Solomon",
-          "startSec": 310.61,
-          "endSec": 311.15,
-          "score": 0.72
-        },
-        {
-          "word": "Islands.",
-          "startSec": 311.15,
-          "endSec": 311.67,
-          "score": 0.97
+          "word": "everywhere.",
+          "start": 216.48,
+          "end": 217.38
         }
       ]
     },
     {
       "id": 55,
-      "start": 314.45,
-      "end": 316.1,
+      "start": 218.68,
+      "end": 223.2,
+      "text": "It is a perfect place to relax and enjoy the outdoors.",
+      "words": [
+        {
+          "word": "It",
+          "start": 218.68,
+          "end": 218.92
+        },
+        {
+          "word": "is",
+          "start": 218.92,
+          "end": 219.12
+        },
+        {
+          "word": "a",
+          "start": 219.12,
+          "end": 219.26
+        },
+        {
+          "word": "perfect",
+          "start": 219.26,
+          "end": 219.74
+        },
+        {
+          "word": "place",
+          "start": 219.74,
+          "end": 220.22
+        },
+        {
+          "word": "to",
+          "start": 220.22,
+          "end": 220.56
+        },
+        {
+          "word": "relax",
+          "start": 220.56,
+          "end": 221.08
+        },
+        {
+          "word": "and",
+          "start": 221.08,
+          "end": 221.5
+        },
+        {
+          "word": "enjoy",
+          "start": 221.5,
+          "end": 222.0
+        },
+        {
+          "word": "the",
+          "start": 222.0,
+          "end": 222.24
+        },
+        {
+          "word": "outdoors.",
+          "start": 222.24,
+          "end": 223.2
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 224.3,
+      "end": 225.72,
+      "text": "Part 10.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 224.3,
+          "end": 224.68
+        },
+        {
+          "word": "10.",
+          "start": 224.68,
+          "end": 225.72
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 226.12,
+      "end": 228.12,
+      "text": "Travel and Tourism.",
+      "words": [
+        {
+          "word": "Travel",
+          "start": 226.12,
+          "end": 226.52
+        },
+        {
+          "word": "and",
+          "start": 226.52,
+          "end": 226.96
+        },
+        {
+          "word": "Tourism.",
+          "start": 226.96,
+          "end": 228.12
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 228.62,
+      "end": 233.32,
+      "text": "Honiara is reachable by plane from nearby countries and islands.",
+      "words": [
+        {
+          "word": "Honiara",
+          "start": 228.62,
+          "end": 229.46
+        },
+        {
+          "word": "is",
+          "start": 229.46,
+          "end": 229.78
+        },
+        {
+          "word": "reachable",
+          "start": 229.78,
+          "end": 230.36
+        },
+        {
+          "word": "by",
+          "start": 230.36,
+          "end": 230.64
+        },
+        {
+          "word": "plane",
+          "start": 230.64,
+          "end": 231.1
+        },
+        {
+          "word": "from",
+          "start": 231.1,
+          "end": 231.42
+        },
+        {
+          "word": "nearby",
+          "start": 231.42,
+          "end": 231.84
+        },
+        {
+          "word": "countries",
+          "start": 231.84,
+          "end": 232.48
+        },
+        {
+          "word": "and",
+          "start": 232.48,
+          "end": 232.84
+        },
+        {
+          "word": "islands.",
+          "start": 232.84,
+          "end": 233.32
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 233.32,
+      "end": 239.18,
+      "text": "Tourists come to see nature, beaches, and historical sites.",
+      "words": [
+        {
+          "word": "Tourists",
+          "start": 233.32,
+          "end": 234.86
+        },
+        {
+          "word": "come",
+          "start": 234.86,
+          "end": 235.12
+        },
+        {
+          "word": "to",
+          "start": 235.12,
+          "end": 235.38
+        },
+        {
+          "word": "see",
+          "start": 235.38,
+          "end": 235.64
+        },
+        {
+          "word": "nature,",
+          "start": 235.64,
+          "end": 236.2
+        },
+        {
+          "word": "beaches,",
+          "start": 236.62,
+          "end": 237.12
+        },
+        {
+          "word": "and",
+          "start": 237.38,
+          "end": 237.52
+        },
+        {
+          "word": "historical",
+          "start": 237.52,
+          "end": 238.06
+        },
+        {
+          "word": "sites.",
+          "start": 238.06,
+          "end": 239.18
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 239.42,
+      "end": 245.22,
+      "text": "Tourism helps local people earn money and protect traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "start": 239.42,
+          "end": 240.4
+        },
+        {
+          "word": "helps",
+          "start": 240.4,
+          "end": 240.92
+        },
+        {
+          "word": "local",
+          "start": 240.92,
+          "end": 241.46
+        },
+        {
+          "word": "people",
+          "start": 241.46,
+          "end": 242.04
+        },
+        {
+          "word": "earn",
+          "start": 242.04,
+          "end": 242.56
+        },
+        {
+          "word": "money",
+          "start": 242.56,
+          "end": 243.1
+        },
+        {
+          "word": "and",
+          "start": 243.1,
+          "end": 243.4
+        },
+        {
+          "word": "protect",
+          "start": 243.4,
+          "end": 243.9
+        },
+        {
+          "word": "traditions.",
+          "start": 243.9,
+          "end": 245.22
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 246.16,
+      "end": 247.6,
+      "text": "Part 11.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 246.16,
+          "end": 246.58
+        },
+        {
+          "word": "11.",
+          "start": 246.58,
+          "end": 247.6
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 247.92,
+      "end": 250.27,
+      "text": "Daily Life in Honiara.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 247.92,
+          "end": 248.4
+        },
+        {
+          "word": "Life",
+          "start": 248.4,
+          "end": 248.82
+        },
+        {
+          "word": "in",
+          "start": 248.82,
+          "end": 249.14
+        },
+        {
+          "word": "Honiara.",
+          "start": 249.14,
+          "end": 250.27
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 250.5,
+      "end": 254.34,
+      "text": "Life in Honiara is calm and simple.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 250.5,
+          "end": 251.24
+        },
+        {
+          "word": "in",
+          "start": 251.24,
+          "end": 251.52
+        },
+        {
+          "word": "Honiara",
+          "start": 251.52,
+          "end": 252.32
+        },
+        {
+          "word": "is",
+          "start": 252.32,
+          "end": 252.72
+        },
+        {
+          "word": "calm",
+          "start": 252.72,
+          "end": 253.28
+        },
+        {
+          "word": "and",
+          "start": 253.28,
+          "end": 253.48
+        },
+        {
+          "word": "simple.",
+          "start": 253.48,
+          "end": 254.34
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 254.72,
+      "end": 262.16,
+      "text": "People wake up early, work in shops, schools, or farms, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "start": 254.72,
+          "end": 255.18
+        },
+        {
+          "word": "wake",
+          "start": 255.18,
+          "end": 255.48
+        },
+        {
+          "word": "up",
+          "start": 255.48,
+          "end": 255.74
+        },
+        {
+          "word": "early,",
+          "start": 255.74,
+          "end": 256.26
+        },
+        {
+          "word": "work",
+          "start": 256.6,
+          "end": 256.8
+        },
+        {
+          "word": "in",
+          "start": 256.8,
+          "end": 257.06
+        },
+        {
+          "word": "shops,",
+          "start": 257.06,
+          "end": 257.56
+        },
+        {
+          "word": "schools,",
+          "start": 257.92,
+          "end": 258.56
+        },
+        {
+          "word": "or",
+          "start": 259.16,
+          "end": 259.28
+        },
+        {
+          "word": "farms,",
+          "start": 259.28,
+          "end": 260.02
+        },
+        {
+          "word": "and",
+          "start": 260.5,
+          "end": 260.64
+        },
+        {
+          "word": "spend",
+          "start": 260.64,
+          "end": 260.92
+        },
+        {
+          "word": "time",
+          "start": 260.92,
+          "end": 261.34
+        },
+        {
+          "word": "with",
+          "start": 261.34,
+          "end": 261.62
+        },
+        {
+          "word": "family.",
+          "start": 261.62,
+          "end": 262.16
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 262.16,
+      "end": 269.68,
+      "text": "Children play in the streets, and families enjoy walks along the beach.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 262.16,
+          "end": 263.68
+        },
+        {
+          "word": "play",
+          "start": 263.68,
+          "end": 264.34
+        },
+        {
+          "word": "in",
+          "start": 264.34,
+          "end": 264.6
+        },
+        {
+          "word": "the",
+          "start": 264.6,
+          "end": 264.76
+        },
+        {
+          "word": "streets,",
+          "start": 264.76,
+          "end": 265.24
+        },
+        {
+          "word": "and",
+          "start": 265.74,
+          "end": 266.28
+        },
+        {
+          "word": "families",
+          "start": 266.28,
+          "end": 266.9
+        },
+        {
+          "word": "enjoy",
+          "start": 266.9,
+          "end": 267.34
+        },
+        {
+          "word": "walks",
+          "start": 267.34,
+          "end": 268.0
+        },
+        {
+          "word": "along",
+          "start": 268.0,
+          "end": 268.5
+        },
+        {
+          "word": "the",
+          "start": 268.5,
+          "end": 268.8
+        },
+        {
+          "word": "beach.",
+          "start": 268.8,
+          "end": 269.68
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 270.32,
+      "end": 275.02,
+      "text": "Life is connected to nature, culture, and community.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 270.32,
+          "end": 270.68
+        },
+        {
+          "word": "is",
+          "start": 270.68,
+          "end": 271.02
+        },
+        {
+          "word": "connected",
+          "start": 271.02,
+          "end": 271.52
+        },
+        {
+          "word": "to",
+          "start": 271.52,
+          "end": 271.92
+        },
+        {
+          "word": "nature,",
+          "start": 271.92,
+          "end": 272.36
+        },
+        {
+          "word": "culture,",
+          "start": 272.92,
+          "end": 273.34
+        },
+        {
+          "word": "and",
+          "start": 273.88,
+          "end": 273.98
+        },
+        {
+          "word": "community.",
+          "start": 273.98,
+          "end": 275.02
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 276.02,
+      "end": 277.48,
+      "text": "Part 12.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 276.02,
+          "end": 276.66
+        },
+        {
+          "word": "12.",
+          "start": 276.66,
+          "end": 277.48
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 277.72,
+      "end": 279.78,
+      "text": "Why Honiara is Special.",
+      "words": [
+        {
+          "word": "Why",
+          "start": 277.72,
+          "end": 277.82
+        },
+        {
+          "word": "Honiara",
+          "start": 277.82,
+          "end": 278.62
+        },
+        {
+          "word": "is",
+          "start": 278.62,
+          "end": 278.9
+        },
+        {
+          "word": "Special.",
+          "start": 278.9,
+          "end": 279.78
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 280.36,
+      "end": 288.04,
+      "text": "Honiara is not a famous city, but it is full of beauty, history, and calm life.",
+      "words": [
+        {
+          "word": "Honiara",
+          "start": 280.36,
+          "end": 281.32
+        },
+        {
+          "word": "is",
+          "start": 281.32,
+          "end": 281.68
+        },
+        {
+          "word": "not",
+          "start": 281.68,
+          "end": 282.0
+        },
+        {
+          "word": "a",
+          "start": 282.0,
+          "end": 282.24
+        },
+        {
+          "word": "famous",
+          "start": 282.24,
+          "end": 282.58
+        },
+        {
+          "word": "city,",
+          "start": 282.58,
+          "end": 283.16
+        },
+        {
+          "word": "but",
+          "start": 283.6,
+          "end": 284.14
+        },
+        {
+          "word": "it",
+          "start": 284.14,
+          "end": 284.32
+        },
+        {
+          "word": "is",
+          "start": 284.32,
+          "end": 284.52
+        },
+        {
+          "word": "full",
+          "start": 284.52,
+          "end": 284.84
+        },
+        {
+          "word": "of",
+          "start": 284.84,
+          "end": 285.08
+        },
+        {
+          "word": "beauty,",
+          "start": 285.08,
+          "end": 285.56
+        },
+        {
+          "word": "history,",
+          "start": 286.0,
+          "end": 286.58
+        },
+        {
+          "word": "and",
+          "start": 287.0,
+          "end": 287.14
+        },
+        {
+          "word": "calm",
+          "start": 287.14,
+          "end": 287.62
+        },
+        {
+          "word": "life.",
+          "start": 287.62,
+          "end": 288.04
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 288.04,
+      "end": 294.98,
+      "text": "It combines beaches, hills, and friendly people beautifully.",
+      "words": [
+        {
+          "word": "It",
+          "start": 288.04,
+          "end": 289.48
+        },
+        {
+          "word": "combines",
+          "start": 289.48,
+          "end": 290.1
+        },
+        {
+          "word": "beaches,",
+          "start": 290.1,
+          "end": 290.96
+        },
+        {
+          "word": "hills,",
+          "start": 291.58,
+          "end": 292.0
+        },
+        {
+          "word": "and",
+          "start": 292.52,
+          "end": 292.6
+        },
+        {
+          "word": "friendly",
+          "start": 292.6,
+          "end": 293.1
+        },
+        {
+          "word": "people",
+          "start": 293.1,
+          "end": 293.74
+        },
+        {
+          "word": "beautifully.",
+          "start": 293.74,
+          "end": 294.98
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 295.58,
+      "end": 300.44,
+      "text": "Visitors feel relaxed, happy, and peaceful here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 295.58,
+          "end": 296.22
+        },
+        {
+          "word": "feel",
+          "start": 296.22,
+          "end": 296.68
+        },
+        {
+          "word": "relaxed,",
+          "start": 296.68,
+          "end": 297.52
+        },
+        {
+          "word": "happy,",
+          "start": 298.12,
+          "end": 298.46
+        },
+        {
+          "word": "and",
+          "start": 298.9,
+          "end": 298.94
+        },
+        {
+          "word": "peaceful",
+          "start": 298.94,
+          "end": 299.56
+        },
+        {
+          "word": "here.",
+          "start": 299.56,
+          "end": 300.44
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 301.34,
+      "end": 305.1,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 301.34,
+          "end": 301.92
+        },
+        {
+          "word": "you",
+          "start": 301.92,
+          "end": 302.18
+        },
+        {
+          "word": "for",
+          "start": 302.18,
+          "end": 302.4
+        },
+        {
+          "word": "listening",
+          "start": 302.4,
+          "end": 302.86
+        },
+        {
+          "word": "to",
+          "start": 302.86,
+          "end": 303.2
+        },
+        {
+          "word": "the",
+          "start": 303.2,
+          "end": 303.38
+        },
+        {
+          "word": "Slow",
+          "start": 303.38,
+          "end": 303.7
+        },
+        {
+          "word": "English",
+          "start": 303.7,
+          "end": 304.08
+        },
+        {
+          "word": "Podcast.",
+          "start": 304.08,
+          "end": 305.1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 306.14,
+      "end": 312.24,
+      "text": "I am Emily and I hope you enjoyed this journey through Honiara Solomon Islands.",
+      "words": [
+        {
+          "word": "I",
+          "start": 306.14,
+          "end": 306.4
+        },
+        {
+          "word": "am",
+          "start": 306.4,
+          "end": 306.58
+        },
+        {
+          "word": "Emily",
+          "start": 306.58,
+          "end": 306.94
+        },
+        {
+          "word": "and",
+          "start": 306.94,
+          "end": 307.54
+        },
+        {
+          "word": "I",
+          "start": 307.54,
+          "end": 307.72
+        },
+        {
+          "word": "hope",
+          "start": 307.72,
+          "end": 307.98
+        },
+        {
+          "word": "you",
+          "start": 307.98,
+          "end": 308.28
+        },
+        {
+          "word": "enjoyed",
+          "start": 308.28,
+          "end": 308.8
+        },
+        {
+          "word": "this",
+          "start": 308.8,
+          "end": 309.12
+        },
+        {
+          "word": "journey",
+          "start": 309.12,
+          "end": 309.62
+        },
+        {
+          "word": "through",
+          "start": 309.62,
+          "end": 309.96
+        },
+        {
+          "word": "Honiara",
+          "start": 309.96,
+          "end": 310.72
+        },
+        {
+          "word": "Solomon",
+          "start": 310.72,
+          "end": 311.3
+        },
+        {
+          "word": "Islands.",
+          "start": 311.3,
+          "end": 312.24
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 312.88,
+      "end": 314.42,
+      "text": "See you next time.",
+      "words": [
+        {
+          "word": "See",
+          "start": 312.88,
+          "end": 313.1
+        },
+        {
+          "word": "you",
+          "start": 313.1,
+          "end": 313.24
+        },
+        {
+          "word": "next",
+          "start": 313.24,
+          "end": 313.48
+        },
+        {
+          "word": "time.",
+          "start": 313.48,
+          "end": 314.42
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 314.74,
+      "end": 316.31,
       "text": "Goodbye for now.",
       "words": [
         {
           "word": "Goodbye",
-          "startSec": 314.65,
-          "endSec": 314.89,
-          "score": 0.74
+          "start": 314.74,
+          "end": 315.02
         },
         {
           "word": "for",
-          "startSec": 314.89,
-          "endSec": 315.57,
-          "score": 0.96
+          "start": 315.02,
+          "end": 315.64
         },
         {
           "word": "now.",
-          "startSec": 315.57,
-          "endSec": 315.95,
-          "score": 0.99
+          "start": 315.64,
+          "end": 316.31
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 75
 }

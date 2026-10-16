@@ -15,3283 +15,2992 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 7.21,
-      "text": "Hello, everyone. Welcome to the Slow English Podcast. I am an EDI, your host.",
+      "start": 2.16,
+      "end": 5.04,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 0.08,
-          "endSec": 0.54,
-          "score": 0.75
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.72,
-          "endSec": 1.2,
-          "score": 0.98
-        },
-        {
           "word": "Welcome",
-          "startSec": 2.14,
-          "endSec": 2.84,
-          "score": 0.99
+          "start": 2.16,
+          "end": 2.82
         },
         {
           "word": "to",
-          "startSec": 2.84,
-          "endSec": 3.1,
-          "score": 1.0
+          "start": 2.82,
+          "end": 3.16
         },
         {
           "word": "the",
-          "startSec": 3.1,
-          "endSec": 3.28,
-          "score": 0.97
+          "start": 3.16,
+          "end": 3.34
         },
         {
           "word": "Slow",
-          "startSec": 3.28,
-          "endSec": 3.58,
-          "score": 0.85
+          "start": 3.34,
+          "end": 3.68
         },
         {
           "word": "English",
-          "startSec": 3.58,
-          "endSec": 4.0,
-          "score": 0.93
+          "start": 3.68,
+          "end": 4.1
         },
         {
           "word": "Podcast.",
-          "startSec": 4.0,
-          "endSec": 4.52,
-          "score": 0.83
-        },
-        {
-          "word": "I",
-          "startSec": 5.42,
-          "endSec": 5.66,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 5.66,
-          "endSec": 5.86,
-          "score": 0.97
-        },
-        {
-          "word": "an",
-          "startSec": 5.86,
-          "endSec": 6.0,
-          "score": 0.12
-        },
-        {
-          "word": "EDI,",
-          "startSec": 6.0,
-          "endSec": 6.6,
-          "score": 0.37
-        },
-        {
-          "word": "your",
-          "startSec": 6.6,
-          "endSec": 6.72,
-          "score": 0.98
-        },
-        {
-          "word": "host.",
-          "startSec": 6.72,
-          "endSec": 7.06,
-          "score": 1.0
+          "start": 4.1,
+          "end": 5.04
         }
       ]
     },
     {
       "id": 2,
-      "start": 7.98,
-      "end": 13.37,
-      "text": "Today, we are traveling to a small and lively city in Africa.",
+      "start": 5.52,
+      "end": 7.5,
+      "text": "I am M.E.D., your host.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 8.18,
-          "endSec": 8.54,
-          "score": 0.99
+          "word": "I",
+          "start": 5.52,
+          "end": 5.72
         },
         {
-          "word": "we",
-          "startSec": 8.62,
-          "endSec": 8.92,
-          "score": 1.0
+          "word": "am",
+          "start": 5.72,
+          "end": 5.9
         },
         {
-          "word": "are",
-          "startSec": 8.92,
-          "endSec": 9.06,
-          "score": 0.96
+          "word": "M",
+          "start": 5.9,
+          "end": 6.12
         },
         {
-          "word": "traveling",
-          "startSec": 9.06,
-          "endSec": 9.58,
-          "score": 0.94
+          "word": ".E",
+          "start": 6.12,
+          "end": 6.34
         },
         {
-          "word": "to",
-          "startSec": 9.58,
-          "endSec": 10.04,
-          "score": 1.0
+          "word": ".D.,",
+          "start": 6.34,
+          "end": 6.64
         },
         {
-          "word": "a",
-          "startSec": 10.04,
-          "endSec": 10.22,
-          "score": 1.0
+          "word": "your",
+          "start": 6.64,
+          "end": 6.76
         },
         {
-          "word": "small",
-          "startSec": 10.22,
-          "endSec": 10.8,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 10.8,
-          "endSec": 11.18,
-          "score": 0.98
-        },
-        {
-          "word": "lively",
-          "startSec": 11.18,
-          "endSec": 11.66,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.66,
-          "endSec": 12.4,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 12.4,
-          "endSec": 12.72,
-          "score": 1.0
-        },
-        {
-          "word": "Africa.",
-          "startSec": 12.72,
-          "endSec": 13.22,
-          "score": 1.0
+          "word": "host.",
+          "start": 6.76,
+          "end": 7.5
         }
       ]
     },
     {
       "id": 3,
-      "start": 14.24,
-      "end": 23.03,
-      "text": "It is called Goma. Goma is in the Democratic Republic of the Congo, a country in Central Africa.",
+      "start": 8.36,
+      "end": 13.7,
+      "text": "Today we are traveling to a small and lively city in Africa.",
       "words": [
         {
-          "word": "It",
-          "startSec": 14.44,
-          "endSec": 14.62,
-          "score": 0.99
+          "word": "Today",
+          "start": 8.36,
+          "end": 8.62
         },
         {
-          "word": "is",
-          "startSec": 14.62,
-          "endSec": 14.76,
-          "score": 1.0
+          "word": "we",
+          "start": 8.62,
+          "end": 8.98
         },
         {
-          "word": "called",
-          "startSec": 14.76,
-          "endSec": 15.1,
-          "score": 1.0
+          "word": "are",
+          "start": 8.98,
+          "end": 9.1
         },
         {
-          "word": "Goma.",
-          "startSec": 15.1,
-          "endSec": 15.56,
-          "score": 0.87
+          "word": "traveling",
+          "start": 9.1,
+          "end": 9.68
         },
         {
-          "word": "Goma",
-          "startSec": 16.86,
-          "endSec": 17.38,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 17.38,
-          "endSec": 17.74,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 17.74,
-          "endSec": 17.92,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 17.92,
-          "endSec": 18.08,
-          "score": 1.0
-        },
-        {
-          "word": "Democratic",
-          "startSec": 18.08,
-          "endSec": 18.64,
-          "score": 0.95
-        },
-        {
-          "word": "Republic",
-          "startSec": 18.64,
-          "endSec": 19.26,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 19.26,
-          "endSec": 19.78,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 19.78,
-          "endSec": 19.94,
-          "score": 0.98
-        },
-        {
-          "word": "Congo,",
-          "startSec": 19.94,
-          "endSec": 20.2,
-          "score": 0.96
+          "word": "to",
+          "start": 9.68,
+          "end": 10.1
         },
         {
           "word": "a",
-          "startSec": 21.06,
-          "endSec": 21.2,
-          "score": 0.99
+          "start": 10.1,
+          "end": 10.36
         },
         {
-          "word": "country",
-          "startSec": 21.2,
-          "endSec": 21.6,
-          "score": 1.0
+          "word": "small",
+          "start": 10.36,
+          "end": 10.94
+        },
+        {
+          "word": "and",
+          "start": 10.94,
+          "end": 11.28
+        },
+        {
+          "word": "lively",
+          "start": 11.28,
+          "end": 11.82
+        },
+        {
+          "word": "city",
+          "start": 11.82,
+          "end": 12.42
         },
         {
           "word": "in",
-          "startSec": 21.6,
-          "endSec": 21.86,
-          "score": 0.99
-        },
-        {
-          "word": "Central",
-          "startSec": 21.86,
-          "endSec": 22.2,
-          "score": 0.67
+          "start": 12.42,
+          "end": 12.8
         },
         {
           "word": "Africa.",
-          "startSec": 22.2,
-          "endSec": 22.88,
-          "score": 1.0
+          "start": 12.8,
+          "end": 13.7
         }
       ]
     },
     {
       "id": 4,
-      "start": 23.93,
-      "end": 29.76,
-      "text": "This city is full of lakes, mountains and friendly people.",
+      "start": 14.54,
+      "end": 16.06,
+      "text": "It is called Goma.",
       "words": [
         {
-          "word": "This",
-          "startSec": 24.13,
-          "endSec": 24.41,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 24.41,
-          "endSec": 24.87,
-          "score": 1.0
+          "word": "It",
+          "start": 14.54,
+          "end": 14.66
         },
         {
           "word": "is",
-          "startSec": 24.87,
-          "endSec": 25.27,
-          "score": 1.0
+          "start": 14.66,
+          "end": 14.86
         },
         {
-          "word": "full",
-          "startSec": 25.27,
-          "endSec": 25.61,
-          "score": 1.0
+          "word": "called",
+          "start": 14.86,
+          "end": 15.2
         },
         {
-          "word": "of",
-          "startSec": 25.61,
-          "endSec": 25.85,
-          "score": 1.0
-        },
-        {
-          "word": "lakes,",
-          "startSec": 25.85,
-          "endSec": 26.27,
-          "score": 0.98
-        },
-        {
-          "word": "mountains",
-          "startSec": 27.01,
-          "endSec": 27.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 27.47,
-          "endSec": 28.43,
-          "score": 0.26
-        },
-        {
-          "word": "friendly",
-          "startSec": 28.43,
-          "endSec": 28.87,
-          "score": 1.0
-        },
-        {
-          "word": "people.",
-          "startSec": 28.87,
-          "endSec": 29.61,
-          "score": 1.0
+          "word": "Goma.",
+          "start": 15.2,
+          "end": 16.06
         }
       ]
     },
     {
       "id": 5,
-      "start": 29.41,
-      "end": 36.58,
-      "text": "Let's explore Goma together. Part 2. Where is Goma?",
+      "start": 16.76,
+      "end": 22.86,
+      "text": "Goma is in the Democratic Republic of the Congo, a country in Central Africa.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 29.61,
-          "endSec": 30.95,
-          "score": 0.76
-        },
-        {
-          "word": "explore",
-          "startSec": 31.2,
-          "endSec": 31.6,
-          "score": 0.99
-        },
-        {
           "word": "Goma",
-          "startSec": 31.6,
-          "endSec": 32.08,
-          "score": 0.93
-        },
-        {
-          "word": "together.",
-          "startSec": 32.08,
-          "endSec": 32.54,
-          "score": 0.98
-        },
-        {
-          "word": "Part",
-          "startSec": 33.91,
-          "endSec": 34.09,
-          "score": 0.9
-        },
-        {
-          "word": "2.",
-          "startSec": 34.09,
-          "endSec": 34.55,
-          "score": 0.61
-        },
-        {
-          "word": "Where",
-          "startSec": 35.35,
-          "endSec": 35.63,
-          "score": 0.98
+          "start": 16.76,
+          "end": 17.4
         },
         {
           "word": "is",
-          "startSec": 35.63,
-          "endSec": 35.97,
-          "score": 0.94
+          "start": 17.4,
+          "end": 17.82
         },
         {
-          "word": "Goma?",
-          "startSec": 35.97,
-          "endSec": 36.43,
-          "score": 1.0
+          "word": "in",
+          "start": 17.82,
+          "end": 18.0
+        },
+        {
+          "word": "the",
+          "start": 18.0,
+          "end": 18.14
+        },
+        {
+          "word": "Democratic",
+          "start": 18.14,
+          "end": 18.72
+        },
+        {
+          "word": "Republic",
+          "start": 18.72,
+          "end": 19.4
+        },
+        {
+          "word": "of",
+          "start": 19.4,
+          "end": 19.82
+        },
+        {
+          "word": "the",
+          "start": 19.82,
+          "end": 19.96
+        },
+        {
+          "word": "Congo,",
+          "start": 19.96,
+          "end": 20.42
+        },
+        {
+          "word": "a",
+          "start": 21.12,
+          "end": 21.3
+        },
+        {
+          "word": "country",
+          "start": 21.3,
+          "end": 21.64
+        },
+        {
+          "word": "in",
+          "start": 21.64,
+          "end": 21.9
+        },
+        {
+          "word": "Central",
+          "start": 21.9,
+          "end": 22.24
+        },
+        {
+          "word": "Africa.",
+          "start": 22.24,
+          "end": 22.86
         }
       ]
     },
     {
       "id": 6,
-      "start": 37.48,
-      "end": 43.63,
-      "text": "Goma is in eastern DRC on the northern shore of Lake Kivu.",
+      "start": 22.86,
+      "end": 30.02,
+      "text": "This city is full of lakes, mountains, and friendly people.",
       "words": [
         {
-          "word": "Goma",
-          "startSec": 37.68,
-          "endSec": 38.3,
-          "score": 0.99
+          "word": "This",
+          "start": 22.86,
+          "end": 24.46
+        },
+        {
+          "word": "city",
+          "start": 24.46,
+          "end": 24.92
         },
         {
           "word": "is",
-          "startSec": 38.3,
-          "endSec": 38.74,
-          "score": 0.99
+          "start": 24.92,
+          "end": 25.36
         },
         {
-          "word": "in",
-          "startSec": 38.74,
-          "endSec": 38.96,
-          "score": 0.93
-        },
-        {
-          "word": "eastern",
-          "startSec": 38.96,
-          "endSec": 39.42,
-          "score": 0.63
-        },
-        {
-          "word": "DRC",
-          "startSec": 39.42,
-          "endSec": 40.22,
-          "score": 0.96
-        },
-        {
-          "word": "on",
-          "startSec": 40.22,
-          "endSec": 41.12,
-          "score": 0.71
-        },
-        {
-          "word": "the",
-          "startSec": 41.12,
-          "endSec": 41.34,
-          "score": 1.0
-        },
-        {
-          "word": "northern",
-          "startSec": 41.34,
-          "endSec": 41.72,
-          "score": 0.98
-        },
-        {
-          "word": "shore",
-          "startSec": 41.72,
-          "endSec": 42.24,
-          "score": 1.0
+          "word": "full",
+          "start": 25.36,
+          "end": 25.7
         },
         {
           "word": "of",
-          "startSec": 42.24,
-          "endSec": 42.6,
-          "score": 1.0
+          "start": 25.7,
+          "end": 25.92
         },
         {
-          "word": "Lake",
-          "startSec": 42.6,
-          "endSec": 42.82,
-          "score": 0.99
+          "word": "lakes,",
+          "start": 25.92,
+          "end": 26.48
         },
         {
-          "word": "Kivu.",
-          "startSec": 42.82,
-          "endSec": 43.48,
-          "score": 0.64
+          "word": "mountains,",
+          "start": 27.1,
+          "end": 27.68
+        },
+        {
+          "word": "and",
+          "start": 28.4,
+          "end": 28.52
+        },
+        {
+          "word": "friendly",
+          "start": 28.52,
+          "end": 29.06
+        },
+        {
+          "word": "people.",
+          "start": 29.06,
+          "end": 30.02
         }
       ]
     },
     {
       "id": 7,
-      "start": 44.21,
-      "end": 51.26,
-      "text": "The city is near the border with Rwanda and is surrounded by volcanoes, hills and forests.",
+      "start": 30.54,
+      "end": 32.94,
+      "text": "Let's explore Goma together.",
       "words": [
         {
-          "word": "The",
-          "startSec": 44.41,
-          "endSec": 44.79,
-          "score": 0.99
+          "word": "Let's",
+          "start": 30.54,
+          "end": 31.24
         },
         {
-          "word": "city",
-          "startSec": 44.79,
-          "endSec": 45.11,
-          "score": 0.99
+          "word": "explore",
+          "start": 31.24,
+          "end": 31.7
         },
         {
-          "word": "is",
-          "startSec": 45.11,
-          "endSec": 45.49,
-          "score": 1.0
+          "word": "Goma",
+          "start": 31.7,
+          "end": 32.14
         },
         {
-          "word": "near",
-          "startSec": 45.49,
-          "endSec": 45.73,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 45.73,
-          "endSec": 45.93,
-          "score": 1.0
-        },
-        {
-          "word": "border",
-          "startSec": 45.93,
-          "endSec": 46.25,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 46.25,
-          "endSec": 46.61,
-          "score": 1.0
-        },
-        {
-          "word": "Rwanda",
-          "startSec": 46.61,
-          "endSec": 46.95,
-          "score": 0.89
-        },
-        {
-          "word": "and",
-          "startSec": 46.95,
-          "endSec": 47.61,
-          "score": 0.92
-        },
-        {
-          "word": "is",
-          "startSec": 47.61,
-          "endSec": 47.77,
-          "score": 0.99
-        },
-        {
-          "word": "surrounded",
-          "startSec": 47.77,
-          "endSec": 48.15,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 48.15,
-          "endSec": 48.61,
-          "score": 1.0
-        },
-        {
-          "word": "volcanoes,",
-          "startSec": 48.61,
-          "endSec": 49.61,
-          "score": 0.99
-        },
-        {
-          "word": "hills",
-          "startSec": 50.05,
-          "endSec": 50.13,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 50.13,
-          "endSec": 50.71,
-          "score": 0.44
-        },
-        {
-          "word": "forests.",
-          "startSec": 50.71,
-          "endSec": 51.11,
-          "score": 0.99
+          "word": "together.",
+          "start": 32.14,
+          "end": 32.94
         }
       ]
     },
     {
       "id": 8,
-      "start": 51.89,
-      "end": 57.54,
-      "text": "It is calm but active, perfect for exploring nature and local life.",
+      "start": 33.8,
+      "end": 35.03,
+      "text": "Part 2.",
       "words": [
         {
-          "word": "It",
-          "startSec": 52.09,
-          "endSec": 52.15,
-          "score": 0.99
+          "word": "Part",
+          "start": 33.8,
+          "end": 34.12
         },
         {
-          "word": "is",
-          "startSec": 52.15,
-          "endSec": 52.33,
-          "score": 0.99
-        },
-        {
-          "word": "calm",
-          "startSec": 52.33,
-          "endSec": 52.65,
-          "score": 0.73
-        },
-        {
-          "word": "but",
-          "startSec": 52.65,
-          "endSec": 53.07,
-          "score": 0.92
-        },
-        {
-          "word": "active,",
-          "startSec": 53.07,
-          "endSec": 53.61,
-          "score": 1.0
-        },
-        {
-          "word": "perfect",
-          "startSec": 54.35,
-          "endSec": 54.65,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 54.65,
-          "endSec": 55.17,
-          "score": 1.0
-        },
-        {
-          "word": "exploring",
-          "startSec": 55.17,
-          "endSec": 55.89,
-          "score": 1.0
-        },
-        {
-          "word": "nature",
-          "startSec": 55.89,
-          "endSec": 56.35,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 56.35,
-          "endSec": 56.67,
-          "score": 1.0
-        },
-        {
-          "word": "local",
-          "startSec": 56.67,
-          "endSec": 56.89,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 56.89,
-          "endSec": 57.39,
-          "score": 1.0
+          "word": "2.",
+          "start": 34.12,
+          "end": 35.03
         }
       ]
     },
     {
       "id": 9,
-      "start": 57.19,
-      "end": 67.03,
-      "text": "Part 3. Nature in Goma. Goma is close to the Varunga Mountains and Nirigongo volcano.",
+      "start": 35.28,
+      "end": 36.86,
+      "text": "Where is Goma?",
       "words": [
         {
-          "word": "Part",
-          "startSec": 57.39,
-          "endSec": 58.53,
-          "score": 0.51
-        },
-        {
-          "word": "3.",
-          "startSec": 59.08,
-          "endSec": 59.78,
-          "score": 0.53
-        },
-        {
-          "word": "Nature",
-          "startSec": 60.3,
-          "endSec": 60.84,
-          "score": 0.92
-        },
-        {
-          "word": "in",
-          "startSec": 60.84,
-          "endSec": 61.12,
-          "score": 0.28
-        },
-        {
-          "word": "Goma.",
-          "startSec": 61.12,
-          "endSec": 61.46,
-          "score": 0.96
-        },
-        {
-          "word": "Goma",
-          "startSec": 62.56,
-          "endSec": 63.12,
-          "score": 0.99
+          "word": "Where",
+          "start": 35.28,
+          "end": 35.68
         },
         {
           "word": "is",
-          "startSec": 63.12,
-          "endSec": 63.42,
-          "score": 1.0
+          "start": 35.68,
+          "end": 35.98
         },
         {
-          "word": "close",
-          "startSec": 63.42,
-          "endSec": 63.76,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 63.76,
-          "endSec": 64.08,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 64.08,
-          "endSec": 64.2,
-          "score": 0.98
-        },
-        {
-          "word": "Varunga",
-          "startSec": 64.2,
-          "endSec": 64.86,
-          "score": 0.68
-        },
-        {
-          "word": "Mountains",
-          "startSec": 64.86,
-          "endSec": 65.32,
-          "score": 0.86
-        },
-        {
-          "word": "and",
-          "startSec": 65.32,
-          "endSec": 65.84,
-          "score": 0.93
-        },
-        {
-          "word": "Nirigongo",
-          "startSec": 65.84,
-          "endSec": 66.48,
-          "score": 0.51
-        },
-        {
-          "word": "volcano.",
-          "startSec": 66.48,
-          "endSec": 66.88,
-          "score": 0.4
+          "word": "Goma?",
+          "start": 35.98,
+          "end": 36.86
         }
       ]
     },
     {
       "id": 10,
-      "start": 68.12,
-      "end": 73.01,
-      "text": "You can see lakes, rivers and green landscapes everywhere.",
+      "start": 37.42,
+      "end": 43.94,
+      "text": "Goma is an eastern DRC on the northern shore of Lake Kivu.",
       "words": [
         {
-          "word": "You",
-          "startSec": 68.32,
-          "endSec": 68.62,
-          "score": 0.99
+          "word": "Goma",
+          "start": 37.42,
+          "end": 38.26
         },
         {
-          "word": "can",
-          "startSec": 68.62,
-          "endSec": 68.8,
-          "score": 1.0
+          "word": "is",
+          "start": 38.26,
+          "end": 38.8
         },
         {
-          "word": "see",
-          "startSec": 68.8,
-          "endSec": 69.08,
-          "score": 1.0
+          "word": "an",
+          "start": 38.8,
+          "end": 39.02
         },
         {
-          "word": "lakes,",
-          "startSec": 69.08,
-          "endSec": 69.52,
-          "score": 0.99
+          "word": "eastern",
+          "start": 39.02,
+          "end": 39.56
         },
         {
-          "word": "rivers",
-          "startSec": 69.8,
-          "endSec": 70.34,
-          "score": 1.0
+          "word": "DRC",
+          "start": 39.56,
+          "end": 40.56
         },
         {
-          "word": "and",
-          "startSec": 70.34,
-          "endSec": 70.98,
-          "score": 0.46
+          "word": "on",
+          "start": 40.56,
+          "end": 41.2
         },
         {
-          "word": "green",
-          "startSec": 70.98,
-          "endSec": 71.22,
-          "score": 0.61
+          "word": "the",
+          "start": 41.2,
+          "end": 41.4
         },
         {
-          "word": "landscapes",
-          "startSec": 71.22,
-          "endSec": 71.98,
-          "score": 1.0
+          "word": "northern",
+          "start": 41.4,
+          "end": 41.82
         },
         {
-          "word": "everywhere.",
-          "startSec": 71.98,
-          "endSec": 72.86,
-          "score": 0.98
+          "word": "shore",
+          "start": 41.82,
+          "end": 42.36
+        },
+        {
+          "word": "of",
+          "start": 42.36,
+          "end": 42.66
+        },
+        {
+          "word": "Lake",
+          "start": 42.66,
+          "end": 42.92
+        },
+        {
+          "word": "Kivu.",
+          "start": 42.92,
+          "end": 43.94
         }
       ]
     },
     {
       "id": 11,
-      "start": 73.98,
-      "end": 83.65,
-      "text": "The area is home to gorillas, monkeys and many bird species. Nature is powerful, beautiful and inspiring.",
+      "start": 44.4,
+      "end": 51.22,
+      "text": "The city is near the border with Rwanda and is surrounded by volcanoes, hills, and forests.",
       "words": [
         {
           "word": "The",
-          "startSec": 74.18,
-          "endSec": 74.28,
-          "score": 0.99
+          "start": 44.4,
+          "end": 44.86
         },
         {
-          "word": "area",
-          "startSec": 74.28,
-          "endSec": 74.74,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 74.74,
-          "endSec": 75.06,
-          "score": 1.0
-        },
-        {
-          "word": "home",
-          "startSec": 75.06,
-          "endSec": 75.28,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 75.28,
-          "endSec": 75.56,
-          "score": 1.0
-        },
-        {
-          "word": "gorillas,",
-          "startSec": 75.56,
-          "endSec": 76.06,
-          "score": 0.88
-        },
-        {
-          "word": "monkeys",
-          "startSec": 76.64,
-          "endSec": 76.88,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 76.88,
-          "endSec": 77.56,
-          "score": 0.73
-        },
-        {
-          "word": "many",
-          "startSec": 77.56,
-          "endSec": 77.78,
-          "score": 0.97
-        },
-        {
-          "word": "bird",
-          "startSec": 77.78,
-          "endSec": 78.18,
-          "score": 0.9
-        },
-        {
-          "word": "species.",
-          "startSec": 78.18,
-          "endSec": 78.62,
-          "score": 1.0
-        },
-        {
-          "word": "Nature",
-          "startSec": 79.7,
-          "endSec": 80.28,
-          "score": 0.99
+          "word": "city",
+          "start": 44.86,
+          "end": 45.2
         },
         {
           "word": "is",
-          "startSec": 80.28,
-          "endSec": 80.52,
-          "score": 1.0
+          "start": 45.2,
+          "end": 45.54
         },
         {
-          "word": "powerful,",
-          "startSec": 80.52,
-          "endSec": 81.04,
-          "score": 0.99
+          "word": "near",
+          "start": 45.54,
+          "end": 45.78
         },
         {
-          "word": "beautiful",
-          "startSec": 81.7,
-          "endSec": 82.04,
-          "score": 1.0
+          "word": "the",
+          "start": 45.78,
+          "end": 45.96
+        },
+        {
+          "word": "border",
+          "start": 45.96,
+          "end": 46.32
+        },
+        {
+          "word": "with",
+          "start": 46.32,
+          "end": 46.64
+        },
+        {
+          "word": "Rwanda",
+          "start": 46.64,
+          "end": 47.26
         },
         {
           "word": "and",
-          "startSec": 82.04,
-          "endSec": 83.06,
-          "score": 0.69
+          "start": 47.26,
+          "end": 47.68
         },
         {
-          "word": "inspiring.",
-          "startSec": 83.06,
-          "endSec": 83.5,
-          "score": 1.0
+          "word": "is",
+          "start": 47.68,
+          "end": 47.86
+        },
+        {
+          "word": "surrounded",
+          "start": 47.86,
+          "end": 48.26
+        },
+        {
+          "word": "by",
+          "start": 48.26,
+          "end": 48.64
+        },
+        {
+          "word": "volcanoes,",
+          "start": 48.64,
+          "end": 49.12
+        },
+        {
+          "word": "hills,",
+          "start": 49.94,
+          "end": 50.34
+        },
+        {
+          "word": "and",
+          "start": 50.66,
+          "end": 50.76
+        },
+        {
+          "word": "forests.",
+          "start": 50.76,
+          "end": 51.22
         }
       ]
     },
     {
       "id": 12,
-      "start": 85.7,
-      "end": 96.61,
-      "text": "Part 4. The City of Goma. Goma is small but vibrant. There are markets, shops, cafes and local restaurants.",
+      "start": 51.22,
+      "end": 58.08,
+      "text": "It is calm but active, perfect for exploring nature and local life.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 85.9,
-          "endSec": 86.38,
-          "score": 0.07
-        },
-        {
-          "word": "4.",
-          "startSec": 86.38,
-          "endSec": 86.88,
-          "score": 0.76
-        },
-        {
-          "word": "The",
-          "startSec": 87.62,
-          "endSec": 87.62,
-          "score": 0.94
-        },
-        {
-          "word": "City",
-          "startSec": 87.62,
-          "endSec": 87.86,
-          "score": 0.83
-        },
-        {
-          "word": "of",
-          "startSec": 87.86,
-          "endSec": 88.18,
-          "score": 0.96
-        },
-        {
-          "word": "Goma.",
-          "startSec": 88.18,
-          "endSec": 88.56,
-          "score": 0.94
-        },
-        {
-          "word": "Goma",
-          "startSec": 89.32,
-          "endSec": 90.12,
-          "score": 0.98
+          "word": "It",
+          "start": 51.22,
+          "end": 52.18
         },
         {
           "word": "is",
-          "startSec": 90.12,
-          "endSec": 90.32,
-          "score": 0.99
+          "start": 52.18,
+          "end": 52.38
         },
         {
-          "word": "small",
-          "startSec": 90.32,
-          "endSec": 90.66,
-          "score": 0.94
+          "word": "calm",
+          "start": 52.38,
+          "end": 52.82
         },
         {
           "word": "but",
-          "startSec": 90.66,
-          "endSec": 91.0,
-          "score": 0.86
+          "start": 52.82,
+          "end": 53.1
         },
         {
-          "word": "vibrant.",
-          "startSec": 91.0,
-          "endSec": 91.48,
-          "score": 1.0
+          "word": "active,",
+          "start": 53.1,
+          "end": 53.76
         },
         {
-          "word": "There",
-          "startSec": 92.36,
-          "endSec": 92.58,
-          "score": 0.97
+          "word": "perfect",
+          "start": 54.4,
+          "end": 54.82
         },
         {
-          "word": "are",
-          "startSec": 92.58,
-          "endSec": 92.74,
-          "score": 1.0
+          "word": "for",
+          "start": 54.82,
+          "end": 55.22
         },
         {
-          "word": "markets,",
-          "startSec": 92.74,
-          "endSec": 93.26,
-          "score": 0.99
+          "word": "exploring",
+          "start": 55.22,
+          "end": 55.92
         },
         {
-          "word": "shops,",
-          "startSec": 93.74,
-          "endSec": 93.94,
-          "score": 1.0
-        },
-        {
-          "word": "cafes",
-          "startSec": 94.46,
-          "endSec": 94.76,
-          "score": 0.91
+          "word": "nature",
+          "start": 55.92,
+          "end": 56.38
         },
         {
           "word": "and",
-          "startSec": 94.76,
-          "endSec": 95.7,
-          "score": 0.42
+          "start": 56.38,
+          "end": 56.72
         },
         {
           "word": "local",
-          "startSec": 95.7,
-          "endSec": 95.96,
-          "score": 1.0
+          "start": 56.72,
+          "end": 57.02
         },
         {
-          "word": "restaurants.",
-          "startSec": 95.96,
-          "endSec": 96.46,
-          "score": 0.99
+          "word": "life.",
+          "start": 57.02,
+          "end": 58.08
         }
       ]
     },
     {
       "id": 13,
-      "start": 97.44,
-      "end": 102.85,
-      "text": "People walk in the streets, ride motorbikes and sell handmade products.",
+      "start": 58.58,
+      "end": 60.13,
+      "text": "Part 3.",
       "words": [
         {
-          "word": "People",
-          "startSec": 97.64,
-          "endSec": 97.98,
-          "score": 0.99
+          "word": "Part",
+          "start": 58.58,
+          "end": 59.16
         },
         {
-          "word": "walk",
-          "startSec": 97.98,
-          "endSec": 98.48,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 98.48,
-          "endSec": 98.74,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 98.74,
-          "endSec": 98.88,
-          "score": 0.99
-        },
-        {
-          "word": "streets,",
-          "startSec": 98.88,
-          "endSec": 99.3,
-          "score": 0.99
-        },
-        {
-          "word": "ride",
-          "startSec": 99.72,
-          "endSec": 99.94,
-          "score": 1.0
-        },
-        {
-          "word": "motorbikes",
-          "startSec": 99.94,
-          "endSec": 100.78,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 100.78,
-          "endSec": 101.16,
-          "score": 0.8
-        },
-        {
-          "word": "sell",
-          "startSec": 101.16,
-          "endSec": 101.44,
-          "score": 0.98
-        },
-        {
-          "word": "handmade",
-          "startSec": 101.44,
-          "endSec": 101.92,
-          "score": 0.97
-        },
-        {
-          "word": "products.",
-          "startSec": 101.92,
-          "endSec": 102.7,
-          "score": 1.0
+          "word": "3.",
+          "start": 59.16,
+          "end": 60.13
         }
       ]
     },
     {
       "id": 14,
-      "start": 103.64,
-      "end": 107.43,
-      "text": "The city is colorful, welcoming and full of life.",
+      "start": 60.34,
+      "end": 61.98,
+      "text": "Nature in Goma.",
       "words": [
         {
-          "word": "The",
-          "startSec": 103.84,
-          "endSec": 103.98,
-          "score": 0.99
+          "word": "Nature",
+          "start": 60.34,
+          "end": 60.8
         },
         {
-          "word": "city",
-          "startSec": 103.98,
-          "endSec": 104.3,
-          "score": 0.86
+          "word": "in",
+          "start": 60.8,
+          "end": 61.14
         },
         {
-          "word": "is",
-          "startSec": 104.3,
-          "endSec": 104.54,
-          "score": 1.0
-        },
-        {
-          "word": "colorful,",
-          "startSec": 104.54,
-          "endSec": 104.96,
-          "score": 0.97
-        },
-        {
-          "word": "welcoming",
-          "startSec": 105.5,
-          "endSec": 105.68,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 105.68,
-          "endSec": 106.48,
-          "score": 0.79
-        },
-        {
-          "word": "full",
-          "startSec": 106.48,
-          "endSec": 106.76,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 106.76,
-          "endSec": 107.0,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 107.0,
-          "endSec": 107.28,
-          "score": 1.0
+          "word": "Goma.",
+          "start": 61.14,
+          "end": 61.98
         }
       ]
     },
     {
       "id": 15,
-      "start": 108.25,
-      "end": 113.94,
-      "text": "Part 5. Food in Goma. Food in Goma is simple and tasty.",
+      "start": 62.44,
+      "end": 67.84,
+      "text": "Goma is close to the Varunga Mountains and Yiragongo Volcano.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 108.45,
-          "endSec": 108.86,
-          "score": 0.13
-        },
-        {
-          "word": "5.",
-          "startSec": 108.86,
-          "endSec": 109.52,
-          "score": 0.73
-        },
-        {
-          "word": "Food",
-          "startSec": 110.0,
-          "endSec": 110.06,
-          "score": 0.96
-        },
-        {
-          "word": "in",
-          "startSec": 110.06,
-          "endSec": 110.24,
-          "score": 0.07
-        },
-        {
-          "word": "Goma.",
-          "startSec": 110.24,
-          "endSec": 110.68,
-          "score": 0.96
-        },
-        {
-          "word": "Food",
-          "startSec": 111.33,
-          "endSec": 111.95,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 111.95,
-          "endSec": 112.23,
-          "score": 0.98
-        },
-        {
           "word": "Goma",
-          "startSec": 112.23,
-          "endSec": 112.61,
-          "score": 0.97
+          "start": 62.44,
+          "end": 63.14
         },
         {
           "word": "is",
-          "startSec": 112.61,
-          "endSec": 112.79,
-          "score": 1.0
+          "start": 63.14,
+          "end": 63.5
         },
         {
-          "word": "simple",
-          "startSec": 112.79,
-          "endSec": 113.07,
-          "score": 0.99
+          "word": "close",
+          "start": 63.5,
+          "end": 63.82
+        },
+        {
+          "word": "to",
+          "start": 63.82,
+          "end": 64.1
+        },
+        {
+          "word": "the",
+          "start": 64.1,
+          "end": 64.26
+        },
+        {
+          "word": "Varunga",
+          "start": 64.26,
+          "end": 64.9
+        },
+        {
+          "word": "Mountains",
+          "start": 64.9,
+          "end": 65.3
         },
         {
           "word": "and",
-          "startSec": 113.07,
-          "endSec": 113.47,
-          "score": 0.99
+          "start": 65.3,
+          "end": 65.88
         },
         {
-          "word": "tasty.",
-          "startSec": 113.47,
-          "endSec": 113.79,
-          "score": 1.0
+          "word": "Yiragongo",
+          "start": 65.88,
+          "end": 66.6
+        },
+        {
+          "word": "Volcano.",
+          "start": 66.6,
+          "end": 67.84
         }
       ]
     },
     {
       "id": 16,
-      "start": 115.11,
-      "end": 119.92,
-      "text": "People eat fish from Lake Kivu, cassava, beans and vegetables.",
+      "start": 68.32,
+      "end": 73.38,
+      "text": "You can see lakes, rivers, and green landscapes everywhere.",
       "words": [
         {
-          "word": "People",
-          "startSec": 115.31,
-          "endSec": 115.31,
-          "score": 0.98
+          "word": "You",
+          "start": 68.32,
+          "end": 68.66
         },
         {
-          "word": "eat",
-          "startSec": 115.31,
-          "endSec": 115.61,
-          "score": 1.0
+          "word": "can",
+          "start": 68.66,
+          "end": 68.86
         },
         {
-          "word": "fish",
-          "startSec": 115.61,
-          "endSec": 116.03,
-          "score": 0.99
+          "word": "see",
+          "start": 68.86,
+          "end": 69.14
         },
         {
-          "word": "from",
-          "startSec": 116.03,
-          "endSec": 116.49,
-          "score": 0.99
+          "word": "lakes,",
+          "start": 69.14,
+          "end": 69.76
         },
         {
-          "word": "Lake",
-          "startSec": 116.49,
-          "endSec": 116.77,
-          "score": 0.75
-        },
-        {
-          "word": "Kivu,",
-          "startSec": 116.77,
-          "endSec": 117.45,
-          "score": 0.66
-        },
-        {
-          "word": "cassava,",
-          "startSec": 117.77,
-          "endSec": 118.33,
-          "score": 0.98
-        },
-        {
-          "word": "beans",
-          "startSec": 118.87,
-          "endSec": 118.95,
-          "score": 1.0
+          "word": "rivers,",
+          "start": 70.16,
+          "end": 70.48
         },
         {
           "word": "and",
-          "startSec": 118.95,
-          "endSec": 119.39,
-          "score": 0.51
+          "start": 70.88,
+          "end": 71.02
         },
         {
-          "word": "vegetables.",
-          "startSec": 119.39,
-          "endSec": 119.77,
-          "score": 1.0
+          "word": "green",
+          "start": 71.02,
+          "end": 71.38
+        },
+        {
+          "word": "landscapes",
+          "start": 71.38,
+          "end": 72.12
+        },
+        {
+          "word": "everywhere.",
+          "start": 72.12,
+          "end": 73.38
         }
       ]
     },
     {
       "id": 17,
-      "start": 121.03,
-      "end": 126.18,
-      "text": "A popular dish is moambe chicken cooked with palm butter and spices.",
+      "start": 74.06,
+      "end": 78.82,
+      "text": "The area is home to gorillas, monkeys, and many bird species.",
       "words": [
         {
-          "word": "A",
-          "startSec": 121.23,
-          "endSec": 121.35,
-          "score": 0.99
+          "word": "The",
+          "start": 74.06,
+          "end": 74.34
         },
         {
-          "word": "popular",
-          "startSec": 121.35,
-          "endSec": 121.77,
-          "score": 0.99
-        },
-        {
-          "word": "dish",
-          "startSec": 121.77,
-          "endSec": 122.35,
-          "score": 1.0
+          "word": "area",
+          "start": 74.34,
+          "end": 74.78
         },
         {
           "word": "is",
-          "startSec": 122.35,
-          "endSec": 122.59,
-          "score": 1.0
+          "start": 74.78,
+          "end": 75.1
         },
         {
-          "word": "moambe",
-          "startSec": 122.59,
-          "endSec": 123.27,
-          "score": 0.44
+          "word": "home",
+          "start": 75.1,
+          "end": 75.34
         },
         {
-          "word": "chicken",
-          "startSec": 123.27,
-          "endSec": 123.61,
-          "score": 0.97
+          "word": "to",
+          "start": 75.34,
+          "end": 75.58
         },
         {
-          "word": "cooked",
-          "startSec": 123.61,
-          "endSec": 124.29,
-          "score": 0.47
+          "word": "gorillas,",
+          "start": 75.58,
+          "end": 76.28
         },
         {
-          "word": "with",
-          "startSec": 124.29,
-          "endSec": 124.63,
-          "score": 1.0
-        },
-        {
-          "word": "palm",
-          "startSec": 124.63,
-          "endSec": 124.95,
-          "score": 0.96
-        },
-        {
-          "word": "butter",
-          "startSec": 124.95,
-          "endSec": 125.43,
-          "score": 0.99
+          "word": "monkeys,",
+          "start": 76.66,
+          "end": 77.1
         },
         {
           "word": "and",
-          "startSec": 125.43,
-          "endSec": 125.71,
-          "score": 0.99
+          "start": 77.48,
+          "end": 77.6
         },
         {
-          "word": "spices.",
-          "startSec": 125.71,
-          "endSec": 126.03,
-          "score": 1.0
+          "word": "many",
+          "start": 77.6,
+          "end": 77.9
+        },
+        {
+          "word": "bird",
+          "start": 77.9,
+          "end": 78.28
+        },
+        {
+          "word": "species.",
+          "start": 78.28,
+          "end": 78.82
         }
       ]
     },
     {
       "id": 18,
-      "start": 127.37,
-      "end": 131.34,
-      "text": "Local fruits and grilled fish are also very popular.",
+      "start": 78.82,
+      "end": 84.08,
+      "text": "Nature is powerful, beautiful, and inspiring.",
       "words": [
         {
-          "word": "Local",
-          "startSec": 127.57,
-          "endSec": 127.97,
-          "score": 0.99
+          "word": "Nature",
+          "start": 78.82,
+          "end": 80.22
         },
         {
-          "word": "fruits",
-          "startSec": 127.97,
-          "endSec": 128.53,
-          "score": 0.99
+          "word": "is",
+          "start": 80.22,
+          "end": 80.58
+        },
+        {
+          "word": "powerful,",
+          "start": 80.58,
+          "end": 81.08
+        },
+        {
+          "word": "beautiful,",
+          "start": 81.72,
+          "end": 82.3
         },
         {
           "word": "and",
-          "startSec": 128.53,
-          "endSec": 128.97,
-          "score": 0.95
+          "start": 82.74,
+          "end": 83.1
         },
         {
-          "word": "grilled",
-          "startSec": 128.97,
-          "endSec": 129.25,
-          "score": 1.0
-        },
-        {
-          "word": "fish",
-          "startSec": 129.25,
-          "endSec": 129.69,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 129.69,
-          "endSec": 129.97,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 129.97,
-          "endSec": 130.41,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 130.41,
-          "endSec": 130.79,
-          "score": 0.99
-        },
-        {
-          "word": "popular.",
-          "startSec": 130.79,
-          "endSec": 131.19,
-          "score": 1.0
+          "word": "inspiring.",
+          "start": 83.1,
+          "end": 84.08
         }
       ]
     },
     {
       "id": 19,
-      "start": 131.79,
-      "end": 135.53,
-      "text": "Part 6. The People of Goma.",
+      "start": 85.66,
+      "end": 87.36,
+      "text": "Part 4.",
       "words": [
         {
           "word": "Part",
-          "startSec": 131.99,
-          "endSec": 132.49,
-          "score": 0.31
+          "start": 85.66,
+          "end": 86.46
         },
         {
-          "word": "6.",
-          "startSec": 132.49,
-          "endSec": 133.03,
-          "score": 0.56
-        },
-        {
-          "word": "The",
-          "startSec": 134.04,
-          "endSec": 134.36,
-          "score": 0.89
-        },
-        {
-          "word": "People",
-          "startSec": 134.36,
-          "endSec": 134.76,
-          "score": 0.45
-        },
-        {
-          "word": "of",
-          "startSec": 134.76,
-          "endSec": 135.0,
-          "score": 0.97
-        },
-        {
-          "word": "Goma.",
-          "startSec": 135.0,
-          "endSec": 135.38,
-          "score": 0.93
+          "word": "4.",
+          "start": 86.46,
+          "end": 87.36
         }
       ]
     },
     {
       "id": 20,
-      "start": 136.1,
-      "end": 140.03,
-      "text": "People in Goma are friendly and hardworking.",
+      "start": 87.62,
+      "end": 89.02,
+      "text": "The city of Goma.",
       "words": [
         {
-          "word": "People",
-          "startSec": 136.3,
-          "endSec": 136.82,
-          "score": 0.95
+          "word": "The",
+          "start": 87.62,
+          "end": 87.66
         },
         {
-          "word": "in",
-          "startSec": 136.82,
-          "endSec": 137.34,
-          "score": 0.85
+          "word": "city",
+          "start": 87.66,
+          "end": 88.0
         },
         {
-          "word": "Goma",
-          "startSec": 137.34,
-          "endSec": 137.82,
-          "score": 0.99
+          "word": "of",
+          "start": 88.0,
+          "end": 88.22
         },
         {
-          "word": "are",
-          "startSec": 137.82,
-          "endSec": 138.24,
-          "score": 0.99
-        },
-        {
-          "word": "friendly",
-          "startSec": 138.24,
-          "endSec": 138.66,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 138.66,
-          "endSec": 139.26,
-          "score": 0.99
-        },
-        {
-          "word": "hardworking.",
-          "startSec": 139.26,
-          "endSec": 139.88,
-          "score": 0.86
+          "word": "Goma.",
+          "start": 88.22,
+          "end": 89.02
         }
       ]
     },
     {
       "id": 21,
-      "start": 140.82,
-      "end": 146.29,
-      "text": "They speak French, Swahili and some local languages.",
+      "start": 89.3,
+      "end": 91.96,
+      "text": "Goma is small but vibrant.",
       "words": [
         {
-          "word": "They",
-          "startSec": 141.02,
-          "endSec": 141.16,
-          "score": 0.99
+          "word": "Goma",
+          "start": 89.3,
+          "end": 90.1
         },
         {
-          "word": "speak",
-          "startSec": 141.16,
-          "endSec": 141.5,
-          "score": 1.0
+          "word": "is",
+          "start": 90.1,
+          "end": 90.4
         },
         {
-          "word": "French,",
-          "startSec": 141.5,
-          "endSec": 142.14,
-          "score": 0.99
+          "word": "small",
+          "start": 90.4,
+          "end": 90.8
         },
         {
-          "word": "Swahili",
-          "startSec": 142.88,
-          "endSec": 143.72,
-          "score": 0.98
+          "word": "but",
+          "start": 90.8,
+          "end": 91.0
         },
         {
-          "word": "and",
-          "startSec": 143.72,
-          "endSec": 144.72,
-          "score": 0.25
-        },
-        {
-          "word": "some",
-          "startSec": 144.72,
-          "endSec": 144.98,
-          "score": 0.99
-        },
-        {
-          "word": "local",
-          "startSec": 144.98,
-          "endSec": 145.38,
-          "score": 0.99
-        },
-        {
-          "word": "languages.",
-          "startSec": 145.38,
-          "endSec": 146.14,
-          "score": 1.0
+          "word": "vibrant.",
+          "start": 91.0,
+          "end": 91.96
         }
       ]
     },
     {
       "id": 22,
-      "start": 146.9,
-      "end": 151.47,
-      "text": "Life is connected to family, community and traditions.",
+      "start": 92.3,
+      "end": 97.24,
+      "text": "There are markets, shops, cafes, and local restaurants.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 147.1,
-          "endSec": 147.38,
-          "score": 0.98
+          "word": "There",
+          "start": 92.3,
+          "end": 92.64
         },
         {
-          "word": "is",
-          "startSec": 147.38,
-          "endSec": 147.76,
-          "score": 1.0
+          "word": "are",
+          "start": 92.64,
+          "end": 92.78
         },
         {
-          "word": "connected",
-          "startSec": 147.76,
-          "endSec": 148.22,
-          "score": 1.0
+          "word": "markets,",
+          "start": 92.78,
+          "end": 93.32
         },
         {
-          "word": "to",
-          "startSec": 148.22,
-          "endSec": 148.72,
-          "score": 1.0
+          "word": "shops,",
+          "start": 93.68,
+          "end": 94.06
         },
         {
-          "word": "family,",
-          "startSec": 148.72,
-          "endSec": 149.34,
-          "score": 0.98
-        },
-        {
-          "word": "community",
-          "startSec": 149.82,
-          "endSec": 150.24,
-          "score": 1.0
+          "word": "cafes,",
+          "start": 94.56,
+          "end": 94.92
         },
         {
           "word": "and",
-          "startSec": 150.24,
-          "endSec": 150.94,
-          "score": 0.54
+          "start": 95.64,
+          "end": 95.78
         },
         {
-          "word": "traditions.",
-          "startSec": 150.94,
-          "endSec": 151.32,
-          "score": 0.99
+          "word": "local",
+          "start": 95.78,
+          "end": 96.06
+        },
+        {
+          "word": "restaurants.",
+          "start": 96.06,
+          "end": 97.24
         }
       ]
     },
     {
       "id": 23,
-      "start": 152.4,
-      "end": 158.21,
-      "text": "People enjoy music, festivals and spending time with neighbors and family.",
+      "start": 97.72,
+      "end": 103.18,
+      "text": "People walk in the streets, ride motorbikes, and sell handmade products.",
       "words": [
         {
           "word": "People",
-          "startSec": 152.6,
-          "endSec": 152.86,
-          "score": 0.99
+          "start": 97.72,
+          "end": 98.18
         },
         {
-          "word": "enjoy",
-          "startSec": 152.86,
-          "endSec": 153.42,
-          "score": 1.0
+          "word": "walk",
+          "start": 98.18,
+          "end": 98.52
         },
         {
-          "word": "music,",
-          "startSec": 153.42,
-          "endSec": 154.1,
-          "score": 0.99
+          "word": "in",
+          "start": 98.52,
+          "end": 98.8
         },
         {
-          "word": "festivals",
-          "startSec": 154.4,
-          "endSec": 154.92,
-          "score": 0.99
+          "word": "the",
+          "start": 98.8,
+          "end": 98.96
         },
         {
-          "word": "and",
-          "startSec": 154.92,
-          "endSec": 155.64,
-          "score": 0.6
+          "word": "streets,",
+          "start": 98.96,
+          "end": 99.28
         },
         {
-          "word": "spending",
-          "startSec": 155.64,
-          "endSec": 156.02,
-          "score": 0.99
+          "word": "ride",
+          "start": 99.72,
+          "end": 100.06
         },
         {
-          "word": "time",
-          "startSec": 156.02,
-          "endSec": 156.6,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 156.6,
-          "endSec": 156.94,
-          "score": 1.0
-        },
-        {
-          "word": "neighbors",
-          "startSec": 156.94,
-          "endSec": 157.4,
-          "score": 0.95
+          "word": "motorbikes,",
+          "start": 100.06,
+          "end": 100.86
         },
         {
           "word": "and",
-          "startSec": 157.4,
-          "endSec": 157.76,
-          "score": 0.99
+          "start": 101.16,
+          "end": 101.22
         },
         {
-          "word": "family.",
-          "startSec": 157.76,
-          "endSec": 158.06,
-          "score": 0.99
+          "word": "sell",
+          "start": 101.22,
+          "end": 101.54
+        },
+        {
+          "word": "handmade",
+          "start": 101.54,
+          "end": 102.14
+        },
+        {
+          "word": "products.",
+          "start": 102.14,
+          "end": 103.18
         }
       ]
     },
     {
       "id": 24,
-      "start": 158.64,
-      "end": 161.93,
-      "text": "Part 7. Culture and Music.",
+      "start": 103.7,
+      "end": 107.48,
+      "text": "The city is colorful, welcoming, and full of life.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 158.84,
-          "endSec": 159.38,
-          "score": 0.12
+          "word": "The",
+          "start": 103.7,
+          "end": 104.02
         },
         {
-          "word": "7.",
-          "startSec": 159.38,
-          "endSec": 160.04,
-          "score": 0.52
+          "word": "city",
+          "start": 104.02,
+          "end": 104.34
         },
         {
-          "word": "Culture",
-          "startSec": 160.54,
-          "endSec": 161.24,
-          "score": 0.99
+          "word": "is",
+          "start": 104.34,
+          "end": 104.6
+        },
+        {
+          "word": "colorful,",
+          "start": 104.6,
+          "end": 105.1
+        },
+        {
+          "word": "welcoming,",
+          "start": 105.48,
+          "end": 105.98
         },
         {
           "word": "and",
-          "startSec": 161.24,
-          "endSec": 161.54,
-          "score": 0.85
+          "start": 106.48,
+          "end": 106.52
         },
         {
-          "word": "Music.",
-          "startSec": 161.54,
-          "endSec": 161.78,
-          "score": 0.52
+          "word": "full",
+          "start": 106.52,
+          "end": 106.88
+        },
+        {
+          "word": "of",
+          "start": 106.88,
+          "end": 107.08
+        },
+        {
+          "word": "life.",
+          "start": 107.08,
+          "end": 107.48
         }
       ]
     },
     {
       "id": 25,
-      "start": 162.42,
-      "end": 165.45,
-      "text": "Music is very important in Goma.",
+      "start": 107.48,
+      "end": 109.82,
+      "text": "Part 5.",
       "words": [
         {
-          "word": "Music",
-          "startSec": 162.62,
-          "endSec": 163.36,
-          "score": 0.98
+          "word": "Part",
+          "start": 107.48,
+          "end": 108.98
         },
         {
-          "word": "is",
-          "startSec": 163.36,
-          "endSec": 163.7,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 163.7,
-          "endSec": 164.08,
-          "score": 0.99
-        },
-        {
-          "word": "important",
-          "startSec": 164.08,
-          "endSec": 164.64,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 164.64,
-          "endSec": 164.92,
-          "score": 0.98
-        },
-        {
-          "word": "Goma.",
-          "startSec": 164.92,
-          "endSec": 165.3,
-          "score": 0.88
+          "word": "5.",
+          "start": 108.98,
+          "end": 109.82
         }
       ]
     },
     {
       "id": 26,
-      "start": 165.82,
-      "end": 170.65,
-      "text": "People play drums, guitars and sing during celebrations.",
+      "start": 110.06,
+      "end": 111.08,
+      "text": "Food in Goma.",
       "words": [
         {
-          "word": "People",
-          "startSec": 166.02,
-          "endSec": 166.26,
-          "score": 0.99
+          "word": "Food",
+          "start": 110.06,
+          "end": 110.06
         },
         {
-          "word": "play",
-          "startSec": 166.26,
-          "endSec": 166.72,
-          "score": 1.0
+          "word": "in",
+          "start": 110.06,
+          "end": 110.3
         },
         {
-          "word": "drums,",
-          "startSec": 166.72,
-          "endSec": 167.22,
-          "score": 0.99
-        },
-        {
-          "word": "guitars",
-          "startSec": 167.34,
-          "endSec": 168.0,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 168.0,
-          "endSec": 168.9,
-          "score": 0.26
-        },
-        {
-          "word": "sing",
-          "startSec": 168.9,
-          "endSec": 169.26,
-          "score": 0.93
-        },
-        {
-          "word": "during",
-          "startSec": 169.26,
-          "endSec": 169.74,
-          "score": 0.99
-        },
-        {
-          "word": "celebrations.",
-          "startSec": 169.74,
-          "endSec": 170.5,
-          "score": 1.0
+          "word": "Goma.",
+          "start": 110.3,
+          "end": 111.08
         }
       ]
     },
     {
       "id": 27,
-      "start": 171.58,
-      "end": 177.29,
-      "text": "Traditional rhythms mix with modern music in streets and homes.",
+      "start": 111.38,
+      "end": 114.48,
+      "text": "Food in Goma is simple and tasty.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 171.78,
-          "endSec": 172.54,
-          "score": 0.96
-        },
-        {
-          "word": "rhythms",
-          "startSec": 172.54,
-          "endSec": 173.12,
-          "score": 0.99
-        },
-        {
-          "word": "mix",
-          "startSec": 173.12,
-          "endSec": 173.66,
-          "score": 0.38
-        },
-        {
-          "word": "with",
-          "startSec": 173.66,
-          "endSec": 174.1,
-          "score": 1.0
-        },
-        {
-          "word": "modern",
-          "startSec": 174.1,
-          "endSec": 174.46,
-          "score": 0.99
-        },
-        {
-          "word": "music",
-          "startSec": 174.46,
-          "endSec": 175.26,
-          "score": 1.0
+          "word": "Food",
+          "start": 111.38,
+          "end": 112.08
         },
         {
           "word": "in",
-          "startSec": 175.26,
-          "endSec": 175.58,
-          "score": 0.71
+          "start": 112.08,
+          "end": 112.28
         },
         {
-          "word": "streets",
-          "startSec": 175.58,
-          "endSec": 176.14,
-          "score": 0.97
+          "word": "Goma",
+          "start": 112.28,
+          "end": 112.6
+        },
+        {
+          "word": "is",
+          "start": 112.6,
+          "end": 112.86
+        },
+        {
+          "word": "simple",
+          "start": 112.86,
+          "end": 113.26
         },
         {
           "word": "and",
-          "startSec": 176.14,
-          "endSec": 176.76,
-          "score": 0.99
+          "start": 113.26,
+          "end": 113.52
         },
         {
-          "word": "homes.",
-          "startSec": 176.76,
-          "endSec": 177.14,
-          "score": 0.99
+          "word": "tasty.",
+          "start": 113.52,
+          "end": 114.48
         }
       ]
     },
     {
       "id": 28,
-      "start": 178.09,
-      "end": 182.5,
-      "text": "Visitors can enjoy and sometimes join local events.",
+      "start": 115.02,
+      "end": 120.42,
+      "text": "People eat fish from Lake Kivu, cassava, beans, and vegetables.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 178.29,
-          "endSec": 178.89,
-          "score": 0.97
+          "word": "People",
+          "start": 115.02,
+          "end": 115.34
         },
         {
-          "word": "can",
-          "startSec": 178.89,
-          "endSec": 179.35,
-          "score": 1.0
+          "word": "eat",
+          "start": 115.34,
+          "end": 115.7
         },
         {
-          "word": "enjoy",
-          "startSec": 179.35,
-          "endSec": 179.79,
-          "score": 1.0
+          "word": "fish",
+          "start": 115.7,
+          "end": 116.22
+        },
+        {
+          "word": "from",
+          "start": 116.22,
+          "end": 116.52
+        },
+        {
+          "word": "Lake",
+          "start": 116.52,
+          "end": 116.86
+        },
+        {
+          "word": "Kivu,",
+          "start": 116.86,
+          "end": 117.5
+        },
+        {
+          "word": "cassava,",
+          "start": 117.8,
+          "end": 118.42
+        },
+        {
+          "word": "beans,",
+          "start": 118.86,
+          "end": 119.16
         },
         {
           "word": "and",
-          "startSec": 179.79,
-          "endSec": 180.25,
-          "score": 0.96
+          "start": 119.36,
+          "end": 119.48
         },
         {
-          "word": "sometimes",
-          "startSec": 180.25,
-          "endSec": 180.83,
-          "score": 1.0
-        },
-        {
-          "word": "join",
-          "startSec": 180.83,
-          "endSec": 181.39,
-          "score": 0.99
-        },
-        {
-          "word": "local",
-          "startSec": 181.39,
-          "endSec": 181.81,
-          "score": 1.0
-        },
-        {
-          "word": "events.",
-          "startSec": 181.81,
-          "endSec": 182.35,
-          "score": 1.0
+          "word": "vegetables.",
+          "start": 119.48,
+          "end": 120.42
         }
       ]
     },
     {
       "id": 29,
-      "start": 183.57,
-      "end": 186.5,
-      "text": "Part 8. Lake Kivu.",
+      "start": 121.18,
+      "end": 126.7,
+      "text": "A popular dish is Moambe Chicken, cooked with palm butter and spices.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 183.77,
-          "endSec": 184.21,
-          "score": 0.19
+          "word": "A",
+          "start": 121.18,
+          "end": 121.4
         },
         {
-          "word": "8.",
-          "startSec": 184.21,
-          "endSec": 184.69,
-          "score": 0.55
+          "word": "popular",
+          "start": 121.4,
+          "end": 121.9
         },
         {
-          "word": "Lake",
-          "startSec": 185.51,
-          "endSec": 185.59,
-          "score": 0.89
+          "word": "dish",
+          "start": 121.9,
+          "end": 122.4
         },
         {
-          "word": "Kivu.",
-          "startSec": 185.59,
-          "endSec": 186.35,
-          "score": 0.64
+          "word": "is",
+          "start": 122.4,
+          "end": 122.66
+        },
+        {
+          "word": "Moambe",
+          "start": 122.66,
+          "end": 123.32
+        },
+        {
+          "word": "Chicken,",
+          "start": 123.32,
+          "end": 123.74
+        },
+        {
+          "word": "cooked",
+          "start": 124.18,
+          "end": 124.4
+        },
+        {
+          "word": "with",
+          "start": 124.4,
+          "end": 124.7
+        },
+        {
+          "word": "palm",
+          "start": 124.7,
+          "end": 125.08
+        },
+        {
+          "word": "butter",
+          "start": 125.08,
+          "end": 125.48
+        },
+        {
+          "word": "and",
+          "start": 125.48,
+          "end": 125.78
+        },
+        {
+          "word": "spices.",
+          "start": 125.78,
+          "end": 126.7
         }
       ]
     },
     {
       "id": 30,
-      "start": 186.69,
-      "end": 190.38,
-      "text": "Lake Kivu is a big part of life in Goma.",
+      "start": 127.54,
+      "end": 131.91,
+      "text": "Local fruits and grilled fish are also very popular.",
       "words": [
         {
-          "word": "Lake",
-          "startSec": 186.89,
-          "endSec": 187.53,
-          "score": 1.0
+          "word": "Local",
+          "start": 127.54,
+          "end": 128.14
         },
         {
-          "word": "Kivu",
-          "startSec": 187.53,
-          "endSec": 188.17,
-          "score": 0.94
+          "word": "fruits",
+          "start": 128.14,
+          "end": 128.7
         },
         {
-          "word": "is",
-          "startSec": 188.17,
-          "endSec": 188.37,
-          "score": 0.99
+          "word": "and",
+          "start": 128.7,
+          "end": 129.02
         },
         {
-          "word": "a",
-          "startSec": 188.37,
-          "endSec": 188.53,
-          "score": 0.99
+          "word": "grilled",
+          "start": 129.02,
+          "end": 129.32
         },
         {
-          "word": "big",
-          "startSec": 188.53,
-          "endSec": 188.79,
-          "score": 1.0
+          "word": "fish",
+          "start": 129.32,
+          "end": 129.78
         },
         {
-          "word": "part",
-          "startSec": 188.79,
-          "endSec": 189.15,
-          "score": 1.0
+          "word": "are",
+          "start": 129.78,
+          "end": 130.04
         },
         {
-          "word": "of",
-          "startSec": 189.15,
-          "endSec": 189.39,
-          "score": 0.98
+          "word": "also",
+          "start": 130.04,
+          "end": 130.48
         },
         {
-          "word": "life",
-          "startSec": 189.39,
-          "endSec": 189.63,
-          "score": 1.0
+          "word": "very",
+          "start": 130.48,
+          "end": 130.86
         },
         {
-          "word": "in",
-          "startSec": 189.63,
-          "endSec": 189.93,
-          "score": 0.99
-        },
-        {
-          "word": "Goma.",
-          "startSec": 189.93,
-          "endSec": 190.23,
-          "score": 0.92
+          "word": "popular.",
+          "start": 130.86,
+          "end": 131.91
         }
       ]
     },
     {
       "id": 31,
-      "start": 190.77,
-      "end": 194.3,
-      "text": "People swim, fish and travel by boat.",
+      "start": 132.14,
+      "end": 133.6,
+      "text": "Part 6.",
       "words": [
         {
-          "word": "People",
-          "startSec": 190.97,
-          "endSec": 191.39,
-          "score": 0.99
+          "word": "Part",
+          "start": 132.14,
+          "end": 132.62
         },
         {
-          "word": "swim,",
-          "startSec": 191.39,
-          "endSec": 191.83,
-          "score": 1.0
-        },
-        {
-          "word": "fish",
-          "startSec": 192.19,
-          "endSec": 192.45,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 192.45,
-          "endSec": 193.03,
-          "score": 0.43
-        },
-        {
-          "word": "travel",
-          "startSec": 193.03,
-          "endSec": 193.53,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 193.53,
-          "endSec": 193.83,
-          "score": 1.0
-        },
-        {
-          "word": "boat.",
-          "startSec": 193.83,
-          "endSec": 194.15,
-          "score": 1.0
+          "word": "6.",
+          "start": 132.62,
+          "end": 133.6
         }
       ]
     },
     {
       "id": 32,
-      "start": 194.87,
-      "end": 200.18,
-      "text": "The water is clear and the views are peaceful and beautiful.",
+      "start": 134.14,
+      "end": 135.44,
+      "text": "The people of Goma.",
       "words": [
         {
           "word": "The",
-          "startSec": 195.07,
-          "endSec": 195.17,
-          "score": 0.99
+          "start": 134.14,
+          "end": 134.4
         },
         {
-          "word": "water",
-          "startSec": 195.17,
-          "endSec": 195.47,
-          "score": 1.0
+          "word": "people",
+          "start": 134.4,
+          "end": 134.76
         },
         {
-          "word": "is",
-          "startSec": 195.47,
-          "endSec": 195.91,
-          "score": 1.0
+          "word": "of",
+          "start": 134.76,
+          "end": 135.02
         },
         {
-          "word": "clear",
-          "startSec": 195.91,
-          "endSec": 196.35,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 196.35,
-          "endSec": 197.43,
-          "score": 0.7
-        },
-        {
-          "word": "the",
-          "startSec": 197.43,
-          "endSec": 197.63,
-          "score": 1.0
-        },
-        {
-          "word": "views",
-          "startSec": 197.63,
-          "endSec": 197.95,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 197.95,
-          "endSec": 198.49,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 198.49,
-          "endSec": 199.03,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 199.03,
-          "endSec": 199.57,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful.",
-          "startSec": 199.57,
-          "endSec": 200.03,
-          "score": 1.0
+          "word": "Goma.",
+          "start": 135.02,
+          "end": 135.44
         }
       ]
     },
     {
       "id": 33,
-      "start": 200.83,
-      "end": 206.28,
-      "text": "It is perfect for relaxing, photography and enjoying nature.",
+      "start": 135.44,
+      "end": 140.5,
+      "text": "People in Goma are friendly and hardworking.",
       "words": [
         {
-          "word": "It",
-          "startSec": 201.03,
-          "endSec": 201.11,
-          "score": 0.99
+          "word": "People",
+          "start": 135.44,
+          "end": 137.06
         },
         {
-          "word": "is",
-          "startSec": 201.11,
-          "endSec": 201.27,
-          "score": 0.99
+          "word": "in",
+          "start": 137.06,
+          "end": 137.44
         },
         {
-          "word": "perfect",
-          "startSec": 201.27,
-          "endSec": 201.85,
-          "score": 1.0
+          "word": "Goma",
+          "start": 137.44,
+          "end": 137.8
         },
         {
-          "word": "for",
-          "startSec": 201.85,
-          "endSec": 202.21,
-          "score": 1.0
+          "word": "are",
+          "start": 137.8,
+          "end": 138.26
         },
         {
-          "word": "relaxing,",
-          "startSec": 202.21,
-          "endSec": 202.81,
-          "score": 1.0
-        },
-        {
-          "word": "photography",
-          "startSec": 203.51,
-          "endSec": 203.91,
-          "score": 1.0
+          "word": "friendly",
+          "start": 138.26,
+          "end": 138.9
         },
         {
           "word": "and",
-          "startSec": 203.91,
-          "endSec": 204.99,
-          "score": 0.82
+          "start": 138.9,
+          "end": 139.32
         },
         {
-          "word": "enjoying",
-          "startSec": 204.99,
-          "endSec": 205.45,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 205.45,
-          "endSec": 206.13,
-          "score": 1.0
+          "word": "hardworking.",
+          "start": 139.32,
+          "end": 140.5
         }
       ]
     },
     {
       "id": 34,
-      "start": 207.36,
-      "end": 209.33,
-      "text": "Part 9. Travel and Tourism.",
+      "start": 141.04,
+      "end": 146.68,
+      "text": "They speak French, Swahili, and some local languages.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 207.56,
-          "endSec": 207.56,
-          "score": 0.98
+          "word": "They",
+          "start": 141.04,
+          "end": 141.22
         },
         {
-          "word": "9.",
-          "startSec": 207.56,
-          "endSec": 207.98,
-          "score": 0.95
+          "word": "speak",
+          "start": 141.22,
+          "end": 141.7
         },
         {
-          "word": "Travel",
-          "startSec": 208.66,
-          "endSec": 208.68,
-          "score": 0.99
+          "word": "French,",
+          "start": 141.7,
+          "end": 142.5
+        },
+        {
+          "word": "Swahili,",
+          "start": 143.24,
+          "end": 143.88
         },
         {
           "word": "and",
-          "startSec": 208.68,
-          "endSec": 208.94,
-          "score": 0.75
+          "start": 144.72,
+          "end": 144.8
         },
         {
-          "word": "Tourism.",
-          "startSec": 208.94,
-          "endSec": 209.18,
-          "score": 0.79
+          "word": "some",
+          "start": 144.8,
+          "end": 145.04
+        },
+        {
+          "word": "local",
+          "start": 145.04,
+          "end": 145.5
+        },
+        {
+          "word": "languages.",
+          "start": 145.5,
+          "end": 146.68
         }
       ]
     },
     {
       "id": 35,
-      "start": 209.98,
-      "end": 216.61,
-      "text": "Goma is reachable by plane, bus or car from other African cities.",
+      "start": 147.08,
+      "end": 151.98,
+      "text": "Life is connected to family, community, and traditions.",
       "words": [
         {
-          "word": "Goma",
-          "startSec": 210.18,
-          "endSec": 210.98,
-          "score": 0.44
+          "word": "Life",
+          "start": 147.08,
+          "end": 147.44
         },
         {
           "word": "is",
-          "startSec": 210.98,
-          "endSec": 211.26,
-          "score": 0.97
+          "start": 147.44,
+          "end": 147.8
         },
         {
-          "word": "reachable",
-          "startSec": 211.26,
-          "endSec": 211.84,
-          "score": 0.94
+          "word": "connected",
+          "start": 147.8,
+          "end": 148.44
         },
         {
-          "word": "by",
-          "startSec": 211.84,
-          "endSec": 212.12,
-          "score": 0.99
+          "word": "to",
+          "start": 148.44,
+          "end": 148.78
         },
         {
-          "word": "plane,",
-          "startSec": 212.12,
-          "endSec": 212.6,
-          "score": 0.92
+          "word": "family,",
+          "start": 148.78,
+          "end": 149.42
         },
         {
-          "word": "bus",
-          "startSec": 213.08,
-          "endSec": 213.36,
-          "score": 1.0
+          "word": "community,",
+          "start": 149.98,
+          "end": 150.52
         },
         {
-          "word": "or",
-          "startSec": 213.36,
-          "endSec": 213.9,
-          "score": 0.38
+          "word": "and",
+          "start": 150.88,
+          "end": 150.98
         },
         {
-          "word": "car",
-          "startSec": 213.9,
-          "endSec": 214.28,
-          "score": 0.99
-        },
-        {
-          "word": "from",
-          "startSec": 214.28,
-          "endSec": 214.68,
-          "score": 0.99
-        },
-        {
-          "word": "other",
-          "startSec": 214.68,
-          "endSec": 215.06,
-          "score": 0.99
-        },
-        {
-          "word": "African",
-          "startSec": 215.06,
-          "endSec": 215.7,
-          "score": 0.97
-        },
-        {
-          "word": "cities.",
-          "startSec": 215.7,
-          "endSec": 216.46,
-          "score": 0.98
+          "word": "traditions.",
+          "start": 150.98,
+          "end": 151.98
         }
       ]
     },
     {
       "id": 36,
-      "start": 217.04,
-      "end": 222.51,
-      "text": "Tourists come to see the lake, volcanoes and local culture.",
+      "start": 152.34,
+      "end": 158.74,
+      "text": "People enjoy music, festivals, and spending time with neighbors and family.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 217.24,
-          "endSec": 217.9,
-          "score": 0.91
+          "word": "People",
+          "start": 152.34,
+          "end": 153.08
         },
         {
-          "word": "come",
-          "startSec": 217.9,
-          "endSec": 218.16,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 153.08,
+          "end": 153.58
         },
         {
-          "word": "to",
-          "startSec": 218.16,
-          "endSec": 218.4,
-          "score": 1.0
+          "word": "music,",
+          "start": 153.58,
+          "end": 154.14
         },
         {
-          "word": "see",
-          "startSec": 218.4,
-          "endSec": 218.62,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 218.62,
-          "endSec": 218.84,
-          "score": 0.99
-        },
-        {
-          "word": "lake,",
-          "startSec": 218.84,
-          "endSec": 219.2,
-          "score": 0.84
-        },
-        {
-          "word": "volcanoes",
-          "startSec": 219.6,
-          "endSec": 220.68,
-          "score": 0.99
+          "word": "festivals,",
+          "start": 154.44,
+          "end": 154.96
         },
         {
           "word": "and",
-          "startSec": 220.68,
-          "endSec": 221.22,
-          "score": 0.64
+          "start": 155.58,
+          "end": 155.72
         },
         {
-          "word": "local",
-          "startSec": 221.22,
-          "endSec": 221.5,
-          "score": 0.99
+          "word": "spending",
+          "start": 155.72,
+          "end": 156.16
         },
         {
-          "word": "culture.",
-          "startSec": 221.5,
-          "endSec": 222.36,
-          "score": 0.99
+          "word": "time",
+          "start": 156.16,
+          "end": 156.68
+        },
+        {
+          "word": "with",
+          "start": 156.68,
+          "end": 157.02
+        },
+        {
+          "word": "neighbors",
+          "start": 157.02,
+          "end": 157.46
+        },
+        {
+          "word": "and",
+          "start": 157.46,
+          "end": 157.78
+        },
+        {
+          "word": "family.",
+          "start": 157.78,
+          "end": 158.74
         }
       ]
     },
     {
       "id": 37,
-      "start": 223.11,
-      "end": 228.06,
-      "text": "Tourism helps local people earn money and preserve traditions.",
+      "start": 159.3,
+      "end": 160.44,
+      "text": "Part 7.",
       "words": [
         {
-          "word": "Tourism",
-          "startSec": 223.31,
-          "endSec": 223.81,
-          "score": 0.87
+          "word": "Part",
+          "start": 159.3,
+          "end": 159.48
         },
         {
-          "word": "helps",
-          "startSec": 223.81,
-          "endSec": 224.39,
-          "score": 0.98
-        },
-        {
-          "word": "local",
-          "startSec": 224.39,
-          "endSec": 224.83,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 224.83,
-          "endSec": 225.53,
-          "score": 1.0
-        },
-        {
-          "word": "earn",
-          "startSec": 225.53,
-          "endSec": 225.91,
-          "score": 0.99
-        },
-        {
-          "word": "money",
-          "startSec": 225.91,
-          "endSec": 226.49,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 226.49,
-          "endSec": 226.77,
-          "score": 0.96
-        },
-        {
-          "word": "preserve",
-          "startSec": 226.77,
-          "endSec": 227.15,
-          "score": 0.98
-        },
-        {
-          "word": "traditions.",
-          "startSec": 227.15,
-          "endSec": 227.91,
-          "score": 0.99
+          "word": "7.",
+          "start": 159.48,
+          "end": 160.44
         }
       ]
     },
     {
       "id": 38,
-      "start": 230.55,
-      "end": 233.82,
-      "text": "Part 10. Daily Life in Goma.",
+      "start": 160.84,
+      "end": 162.0,
+      "text": "Culture and music.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 230.75,
-          "endSec": 230.75,
-          "score": 0.95
+          "word": "Culture",
+          "start": 160.84,
+          "end": 161.24
         },
         {
-          "word": "10.",
-          "startSec": 230.75,
-          "endSec": 231.23,
-          "score": 0.9
+          "word": "and",
+          "start": 161.24,
+          "end": 161.58
         },
         {
-          "word": "Daily",
-          "startSec": 232.43,
-          "endSec": 232.43,
-          "score": 0.95
-        },
-        {
-          "word": "Life",
-          "startSec": 232.43,
-          "endSec": 232.93,
-          "score": 0.78
-        },
-        {
-          "word": "in",
-          "startSec": 232.93,
-          "endSec": 233.11,
-          "score": 0.6
-        },
-        {
-          "word": "Goma.",
-          "startSec": 233.11,
-          "endSec": 233.67,
-          "score": 1.0
+          "word": "music.",
+          "start": 161.58,
+          "end": 162.0
         }
       ]
     },
     {
       "id": 39,
-      "start": 234.11,
-      "end": 237.2,
-      "text": "Life in Goma is simple and lively.",
+      "start": 162.0,
+      "end": 165.72,
+      "text": "Music is very important in Goma.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 234.31,
-          "endSec": 234.71,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 234.71,
-          "endSec": 235.01,
-          "score": 0.99
-        },
-        {
-          "word": "Goma",
-          "startSec": 235.01,
-          "endSec": 235.47,
-          "score": 0.99
+          "word": "Music",
+          "start": 162.0,
+          "end": 163.34
         },
         {
           "word": "is",
-          "startSec": 235.47,
-          "endSec": 235.79,
-          "score": 1.0
+          "start": 163.34,
+          "end": 163.72
         },
         {
-          "word": "simple",
-          "startSec": 235.79,
-          "endSec": 236.19,
-          "score": 0.99
+          "word": "very",
+          "start": 163.72,
+          "end": 164.14
         },
         {
-          "word": "and",
-          "startSec": 236.19,
-          "endSec": 236.67,
-          "score": 1.0
+          "word": "important",
+          "start": 164.14,
+          "end": 164.74
         },
         {
-          "word": "lively.",
-          "startSec": 236.67,
-          "endSec": 237.05,
-          "score": 1.0
+          "word": "in",
+          "start": 164.74,
+          "end": 164.98
+        },
+        {
+          "word": "Goma.",
+          "start": 164.98,
+          "end": 165.72
         }
       ]
     },
     {
       "id": 40,
-      "start": 237.85,
-      "end": 243.66,
-      "text": "People wake up early, go to work or school and spend time with family.",
+      "start": 166.04,
+      "end": 171.16,
+      "text": "People play drums, guitars, and sing during celebrations.",
       "words": [
         {
           "word": "People",
-          "startSec": 238.05,
-          "endSec": 238.59,
-          "score": 0.11
+          "start": 166.04,
+          "end": 166.4
         },
         {
-          "word": "wake",
-          "startSec": 238.59,
-          "endSec": 238.89,
-          "score": 0.97
+          "word": "play",
+          "start": 166.4,
+          "end": 166.76
         },
         {
-          "word": "up",
-          "startSec": 238.89,
-          "endSec": 239.19,
-          "score": 0.99
+          "word": "drums,",
+          "start": 166.76,
+          "end": 167.46
         },
         {
-          "word": "early,",
-          "startSec": 239.19,
-          "endSec": 239.63,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 240.09,
-          "endSec": 240.37,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 240.37,
-          "endSec": 240.53,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 240.53,
-          "endSec": 240.91,
-          "score": 0.99
-        },
-        {
-          "word": "or",
-          "startSec": 240.91,
-          "endSec": 241.15,
-          "score": 0.98
-        },
-        {
-          "word": "school",
-          "startSec": 241.15,
-          "endSec": 241.59,
-          "score": 1.0
+          "word": "guitars,",
+          "start": 167.8,
+          "end": 168.24
         },
         {
           "word": "and",
-          "startSec": 241.59,
-          "endSec": 242.11,
-          "score": 0.55
+          "start": 168.84,
+          "end": 168.96
         },
         {
-          "word": "spend",
-          "startSec": 242.11,
-          "endSec": 242.47,
-          "score": 1.0
+          "word": "sing",
+          "start": 168.96,
+          "end": 169.36
         },
         {
-          "word": "time",
-          "startSec": 242.47,
-          "endSec": 242.95,
-          "score": 1.0
+          "word": "during",
+          "start": 169.36,
+          "end": 169.78
         },
         {
-          "word": "with",
-          "startSec": 242.95,
-          "endSec": 243.17,
-          "score": 1.0
-        },
-        {
-          "word": "family.",
-          "startSec": 243.17,
-          "endSec": 243.51,
-          "score": 0.98
+          "word": "celebrations.",
+          "start": 169.78,
+          "end": 171.16
         }
       ]
     },
     {
       "id": 41,
-      "start": 244.5,
-      "end": 251.45,
-      "text": "Children play in streets or by the lake and families enjoy markets or cafes.",
+      "start": 171.8,
+      "end": 177.88,
+      "text": "Traditional rhythms mix with modern music in streets and homes.",
       "words": [
         {
-          "word": "Children",
-          "startSec": 244.7,
-          "endSec": 245.3,
-          "score": 0.99
+          "word": "Traditional",
+          "start": 171.8,
+          "end": 172.48
         },
         {
-          "word": "play",
-          "startSec": 245.3,
-          "endSec": 245.84,
-          "score": 0.97
+          "word": "rhythms",
+          "start": 172.48,
+          "end": 173.24
+        },
+        {
+          "word": "mix",
+          "start": 173.24,
+          "end": 173.82
+        },
+        {
+          "word": "with",
+          "start": 173.82,
+          "end": 174.14
+        },
+        {
+          "word": "modern",
+          "start": 174.14,
+          "end": 174.74
+        },
+        {
+          "word": "music",
+          "start": 174.74,
+          "end": 175.3
         },
         {
           "word": "in",
-          "startSec": 245.84,
-          "endSec": 246.16,
-          "score": 0.99
+          "start": 175.3,
+          "end": 175.64
         },
         {
           "word": "streets",
-          "startSec": 246.16,
-          "endSec": 246.54,
-          "score": 0.95
-        },
-        {
-          "word": "or",
-          "startSec": 246.54,
-          "endSec": 247.02,
-          "score": 0.98
-        },
-        {
-          "word": "by",
-          "startSec": 247.02,
-          "endSec": 247.24,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 247.24,
-          "endSec": 247.46,
-          "score": 0.99
-        },
-        {
-          "word": "lake",
-          "startSec": 247.46,
-          "endSec": 247.74,
-          "score": 0.95
+          "start": 175.64,
+          "end": 176.2
         },
         {
           "word": "and",
-          "startSec": 247.74,
-          "endSec": 248.64,
-          "score": 0.46
+          "start": 176.2,
+          "end": 176.84
         },
         {
-          "word": "families",
-          "startSec": 248.64,
-          "endSec": 249.28,
-          "score": 0.99
-        },
-        {
-          "word": "enjoy",
-          "startSec": 249.28,
-          "endSec": 249.84,
-          "score": 0.99
-        },
-        {
-          "word": "markets",
-          "startSec": 249.84,
-          "endSec": 250.6,
-          "score": 0.97
-        },
-        {
-          "word": "or",
-          "startSec": 250.6,
-          "endSec": 250.94,
-          "score": 0.99
-        },
-        {
-          "word": "cafes.",
-          "startSec": 250.94,
-          "endSec": 251.3,
-          "score": 0.94
+          "word": "homes.",
+          "start": 176.84,
+          "end": 177.88
         }
       ]
     },
     {
       "id": 42,
-      "start": 252.38,
-      "end": 256.43,
-      "text": "Life is connected to nature, culture and community.",
+      "start": 178.32,
+      "end": 182.96,
+      "text": "Visitors can enjoy and sometimes join local events.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 252.58,
-          "endSec": 252.88,
-          "score": 0.99
+          "word": "Visitors",
+          "start": 178.32,
+          "end": 179.08
         },
         {
-          "word": "is",
-          "startSec": 252.88,
-          "endSec": 253.24,
-          "score": 1.0
+          "word": "can",
+          "start": 179.08,
+          "end": 179.4
         },
         {
-          "word": "connected",
-          "startSec": 253.24,
-          "endSec": 253.64,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 253.64,
-          "endSec": 254.12,
-          "score": 1.0
-        },
-        {
-          "word": "nature,",
-          "startSec": 254.12,
-          "endSec": 254.5,
-          "score": 0.99
-        },
-        {
-          "word": "culture",
-          "startSec": 255.4,
-          "endSec": 255.42,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 179.4,
+          "end": 179.98
         },
         {
           "word": "and",
-          "startSec": 255.42,
-          "endSec": 255.96,
-          "score": 0.63
+          "start": 179.98,
+          "end": 180.34
         },
         {
-          "word": "community.",
-          "startSec": 255.96,
-          "endSec": 256.28,
-          "score": 1.0
+          "word": "sometimes",
+          "start": 180.34,
+          "end": 180.96
+        },
+        {
+          "word": "join",
+          "start": 180.96,
+          "end": 181.5
+        },
+        {
+          "word": "local",
+          "start": 181.5,
+          "end": 181.94
+        },
+        {
+          "word": "events.",
+          "start": 181.94,
+          "end": 182.96
         }
       ]
     },
     {
       "id": 43,
-      "start": 257.95,
-      "end": 261.02,
-      "text": "Part 11. Why Goma is special?",
+      "start": 184.12,
+      "end": 185.13,
+      "text": "Part 8.",
       "words": [
         {
           "word": "Part",
-          "startSec": 258.15,
-          "endSec": 258.15,
-          "score": 0.95
+          "start": 184.12,
+          "end": 184.32
         },
         {
-          "word": "11.",
-          "startSec": 258.15,
-          "endSec": 258.71,
-          "score": 0.95
-        },
-        {
-          "word": "Why",
-          "startSec": 259.67,
-          "endSec": 259.77,
-          "score": 0.95
-        },
-        {
-          "word": "Goma",
-          "startSec": 259.77,
-          "endSec": 260.21,
-          "score": 0.86
-        },
-        {
-          "word": "is",
-          "startSec": 260.21,
-          "endSec": 260.53,
-          "score": 0.76
-        },
-        {
-          "word": "special?",
-          "startSec": 260.53,
-          "endSec": 260.87,
-          "score": 0.68
+          "word": "8.",
+          "start": 184.32,
+          "end": 185.13
         }
       ]
     },
     {
       "id": 44,
-      "start": 261.7,
-      "end": 269.57,
-      "text": "Goma is not a famous city but it is full of natural beauty, culture and friendly people.",
+      "start": 185.34,
+      "end": 186.72,
+      "text": "Lake Kivu.",
       "words": [
         {
-          "word": "Goma",
-          "startSec": 261.9,
-          "endSec": 262.52,
-          "score": 0.49
+          "word": "Lake",
+          "start": 185.34,
+          "end": 185.68
         },
         {
-          "word": "is",
-          "startSec": 262.52,
-          "endSec": 262.76,
-          "score": 0.97
-        },
-        {
-          "word": "not",
-          "startSec": 262.76,
-          "endSec": 263.04,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 263.04,
-          "endSec": 263.24,
-          "score": 0.99
-        },
-        {
-          "word": "famous",
-          "startSec": 263.24,
-          "endSec": 263.7,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 263.7,
-          "endSec": 264.16,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 264.16,
-          "endSec": 264.9,
-          "score": 0.27
-        },
-        {
-          "word": "it",
-          "startSec": 264.9,
-          "endSec": 265.1,
-          "score": 0.88
-        },
-        {
-          "word": "is",
-          "startSec": 265.1,
-          "endSec": 265.32,
-          "score": 0.95
-        },
-        {
-          "word": "full",
-          "startSec": 265.32,
-          "endSec": 265.64,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 265.64,
-          "endSec": 265.9,
-          "score": 1.0
-        },
-        {
-          "word": "natural",
-          "startSec": 265.9,
-          "endSec": 266.38,
-          "score": 0.97
-        },
-        {
-          "word": "beauty,",
-          "startSec": 266.38,
-          "endSec": 267.1,
-          "score": 0.95
-        },
-        {
-          "word": "culture",
-          "startSec": 267.66,
-          "endSec": 267.78,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 267.78,
-          "endSec": 268.38,
-          "score": 0.64
-        },
-        {
-          "word": "friendly",
-          "startSec": 268.38,
-          "endSec": 268.72,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 268.72,
-          "endSec": 269.42,
-          "score": 1.0
+          "word": "Kivu.",
+          "start": 185.68,
+          "end": 186.72
         }
       ]
     },
     {
       "id": 45,
-      "start": 269.98,
-      "end": 275.87,
-      "text": "It combines lakes, volcanoes and community life perfectly.",
+      "start": 186.9,
+      "end": 190.4,
+      "text": "Lake Kivu is a big part of life in Goma.",
       "words": [
         {
-          "word": "It",
-          "startSec": 270.18,
-          "endSec": 270.4,
-          "score": 0.98
+          "word": "Lake",
+          "start": 186.9,
+          "end": 187.58
         },
         {
-          "word": "combines",
-          "startSec": 270.4,
-          "endSec": 270.66,
-          "score": 1.0
+          "word": "Kivu",
+          "start": 187.58,
+          "end": 188.2
         },
         {
-          "word": "lakes,",
-          "startSec": 270.66,
-          "endSec": 271.54,
-          "score": 0.97
+          "word": "is",
+          "start": 188.2,
+          "end": 188.44
         },
         {
-          "word": "volcanoes",
-          "startSec": 272.5,
-          "endSec": 273.62,
-          "score": 0.99
+          "word": "a",
+          "start": 188.44,
+          "end": 188.6
         },
         {
-          "word": "and",
-          "startSec": 273.62,
-          "endSec": 274.08,
-          "score": 0.81
+          "word": "big",
+          "start": 188.6,
+          "end": 188.86
         },
         {
-          "word": "community",
-          "startSec": 274.08,
-          "endSec": 274.5,
-          "score": 0.99
+          "word": "part",
+          "start": 188.86,
+          "end": 189.22
+        },
+        {
+          "word": "of",
+          "start": 189.22,
+          "end": 189.42
         },
         {
           "word": "life",
-          "startSec": 274.5,
-          "endSec": 275.12,
-          "score": 0.99
+          "start": 189.42,
+          "end": 189.68
         },
         {
-          "word": "perfectly.",
-          "startSec": 275.12,
-          "endSec": 275.72,
-          "score": 0.98
+          "word": "in",
+          "start": 189.68,
+          "end": 189.94
+        },
+        {
+          "word": "Goma.",
+          "start": 189.94,
+          "end": 190.4
         }
       ]
     },
     {
       "id": 46,
-      "start": 276.86,
-      "end": 282.59,
-      "text": "Visitors feel inspired, peaceful and welcomed here.",
+      "start": 190.4,
+      "end": 194.68,
+      "text": "People swim, fish, and travel by boat.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 277.06,
-          "endSec": 277.62,
-          "score": 0.98
+          "word": "People",
+          "start": 190.4,
+          "end": 191.36
         },
         {
-          "word": "feel",
-          "startSec": 277.62,
-          "endSec": 278.2,
-          "score": 1.0
+          "word": "swim,",
+          "start": 191.36,
+          "end": 191.94
         },
         {
-          "word": "inspired,",
-          "startSec": 278.2,
-          "endSec": 279.12,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 279.92,
-          "endSec": 280.46,
-          "score": 1.0
+          "word": "fish,",
+          "start": 192.36,
+          "end": 192.6
         },
         {
           "word": "and",
-          "startSec": 280.46,
-          "endSec": 281.34,
-          "score": 0.79
+          "start": 193.0,
+          "end": 193.1
         },
         {
-          "word": "welcomed",
-          "startSec": 281.34,
-          "endSec": 281.92,
-          "score": 0.79
+          "word": "travel",
+          "start": 193.1,
+          "end": 193.58
         },
         {
-          "word": "here.",
-          "startSec": 281.92,
-          "endSec": 282.44,
-          "score": 0.99
+          "word": "by",
+          "start": 193.58,
+          "end": 193.88
+        },
+        {
+          "word": "boat.",
+          "start": 193.88,
+          "end": 194.68
         }
       ]
     },
     {
       "id": 47,
-      "start": 286.72,
-      "end": 296.67,
-      "text": "I am Emily and I hope you enjoyed this journey through Goma, Democratic Republic of the Congo.",
+      "start": 194.96,
+      "end": 200.66,
+      "text": "The water is clear and the views are peaceful and beautiful.",
       "words": [
         {
-          "word": "I",
-          "startSec": 286.92,
-          "endSec": 288.14,
-          "score": 0.51
+          "word": "The",
+          "start": 194.96,
+          "end": 195.22
         },
         {
-          "word": "am",
-          "startSec": 288.14,
-          "endSec": 288.34,
-          "score": 0.84
+          "word": "water",
+          "start": 195.22,
+          "end": 195.6
         },
         {
-          "word": "Emily",
-          "startSec": 288.34,
-          "endSec": 288.68,
-          "score": 0.12
+          "word": "is",
+          "start": 195.6,
+          "end": 195.94
+        },
+        {
+          "word": "clear",
+          "start": 195.94,
+          "end": 196.42
         },
         {
           "word": "and",
-          "startSec": 288.68,
-          "endSec": 289.84,
-          "score": 0.67
-        },
-        {
-          "word": "I",
-          "startSec": 289.84,
-          "endSec": 290.04,
-          "score": 0.98
-        },
-        {
-          "word": "hope",
-          "startSec": 290.04,
-          "endSec": 290.32,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 290.32,
-          "endSec": 290.64,
-          "score": 1.0
-        },
-        {
-          "word": "enjoyed",
-          "startSec": 290.64,
-          "endSec": 290.86,
-          "score": 0.95
-        },
-        {
-          "word": "this",
-          "startSec": 290.86,
-          "endSec": 291.46,
-          "score": 1.0
-        },
-        {
-          "word": "journey",
-          "startSec": 291.46,
-          "endSec": 291.94,
-          "score": 0.99
-        },
-        {
-          "word": "through",
-          "startSec": 291.94,
-          "endSec": 293.06,
-          "score": 0.97
-        },
-        {
-          "word": "Goma,",
-          "startSec": 293.06,
-          "endSec": 293.66,
-          "score": 0.87
-        },
-        {
-          "word": "Democratic",
-          "startSec": 294.26,
-          "endSec": 294.82,
-          "score": 0.9
-        },
-        {
-          "word": "Republic",
-          "startSec": 294.82,
-          "endSec": 295.68,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 295.68,
-          "endSec": 296.04,
-          "score": 0.99
+          "start": 196.42,
+          "end": 197.48
         },
         {
           "word": "the",
-          "startSec": 296.04,
-          "endSec": 296.22,
-          "score": 0.97
+          "start": 197.48,
+          "end": 197.66
+        },
+        {
+          "word": "views",
+          "start": 197.66,
+          "end": 198.16
+        },
+        {
+          "word": "are",
+          "start": 198.16,
+          "end": 198.54
+        },
+        {
+          "word": "peaceful",
+          "start": 198.54,
+          "end": 199.16
+        },
+        {
+          "word": "and",
+          "start": 199.16,
+          "end": 199.66
+        },
+        {
+          "word": "beautiful.",
+          "start": 199.66,
+          "end": 200.66
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 201.06,
+      "end": 206.56,
+      "text": "It is perfect for relaxing, photography, and enjoying nature.",
+      "words": [
+        {
+          "word": "It",
+          "start": 201.06,
+          "end": 201.16
+        },
+        {
+          "word": "is",
+          "start": 201.16,
+          "end": 201.38
+        },
+        {
+          "word": "perfect",
+          "start": 201.38,
+          "end": 201.9
+        },
+        {
+          "word": "for",
+          "start": 201.9,
+          "end": 202.26
+        },
+        {
+          "word": "relaxing,",
+          "start": 202.26,
+          "end": 203.02
+        },
+        {
+          "word": "photography,",
+          "start": 203.56,
+          "end": 204.2
+        },
+        {
+          "word": "and",
+          "start": 204.88,
+          "end": 205.06
+        },
+        {
+          "word": "enjoying",
+          "start": 205.06,
+          "end": 205.6
+        },
+        {
+          "word": "nature.",
+          "start": 205.6,
+          "end": 206.56
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 207.56,
+      "end": 208.32,
+      "text": "Part 9.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 207.56,
+          "end": 207.6
+        },
+        {
+          "word": "9.",
+          "start": 207.6,
+          "end": 208.32
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 208.48,
+      "end": 210.14,
+      "text": "Travel and Tourism.",
+      "words": [
+        {
+          "word": "Travel",
+          "start": 208.48,
+          "end": 208.62
+        },
+        {
+          "word": "and",
+          "start": 208.62,
+          "end": 209.02
+        },
+        {
+          "word": "Tourism.",
+          "start": 209.02,
+          "end": 210.14
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 210.54,
+      "end": 216.28,
+      "text": "Goma is reachable by plane, bus, or car from other African cities.",
+      "words": [
+        {
+          "word": "Goma",
+          "start": 210.54,
+          "end": 210.98
+        },
+        {
+          "word": "is",
+          "start": 210.98,
+          "end": 211.32
+        },
+        {
+          "word": "reachable",
+          "start": 211.32,
+          "end": 211.92
+        },
+        {
+          "word": "by",
+          "start": 211.92,
+          "end": 212.18
+        },
+        {
+          "word": "plane,",
+          "start": 212.18,
+          "end": 212.74
+        },
+        {
+          "word": "bus,",
+          "start": 213.26,
+          "end": 213.44
+        },
+        {
+          "word": "or",
+          "start": 213.76,
+          "end": 213.94
+        },
+        {
+          "word": "car",
+          "start": 213.94,
+          "end": 214.4
+        },
+        {
+          "word": "from",
+          "start": 214.4,
+          "end": 214.76
+        },
+        {
+          "word": "other",
+          "start": 214.76,
+          "end": 215.16
+        },
+        {
+          "word": "African",
+          "start": 215.16,
+          "end": 215.7
+        },
+        {
+          "word": "cities.",
+          "start": 215.7,
+          "end": 216.28
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 216.28,
+      "end": 222.84,
+      "text": "Tourists come to see the lake, volcanoes, and local culture.",
+      "words": [
+        {
+          "word": "Tourists",
+          "start": 216.28,
+          "end": 217.94
+        },
+        {
+          "word": "come",
+          "start": 217.94,
+          "end": 218.22
+        },
+        {
+          "word": "to",
+          "start": 218.22,
+          "end": 218.5
+        },
+        {
+          "word": "see",
+          "start": 218.5,
+          "end": 218.68
+        },
+        {
+          "word": "the",
+          "start": 218.68,
+          "end": 218.9
+        },
+        {
+          "word": "lake,",
+          "start": 218.9,
+          "end": 219.32
+        },
+        {
+          "word": "volcanoes,",
+          "start": 219.8,
+          "end": 220.4
+        },
+        {
+          "word": "and",
+          "start": 220.96,
+          "end": 221.32
+        },
+        {
+          "word": "local",
+          "start": 221.32,
+          "end": 221.7
+        },
+        {
+          "word": "culture.",
+          "start": 221.7,
+          "end": 222.84
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 223.28,
+      "end": 228.42,
+      "text": "Tourism helps local people earn money and preserve traditions.",
+      "words": [
+        {
+          "word": "Tourism",
+          "start": 223.28,
+          "end": 224.14
+        },
+        {
+          "word": "helps",
+          "start": 224.14,
+          "end": 224.52
+        },
+        {
+          "word": "local",
+          "start": 224.52,
+          "end": 225.04
+        },
+        {
+          "word": "people",
+          "start": 225.04,
+          "end": 225.54
+        },
+        {
+          "word": "earn",
+          "start": 225.54,
+          "end": 226.0
+        },
+        {
+          "word": "money",
+          "start": 226.0,
+          "end": 226.5
+        },
+        {
+          "word": "and",
+          "start": 226.5,
+          "end": 226.8
+        },
+        {
+          "word": "preserve",
+          "start": 226.8,
+          "end": 227.34
+        },
+        {
+          "word": "traditions.",
+          "start": 227.34,
+          "end": 228.42
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 229.92,
+      "end": 231.82,
+      "text": "Part 10.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 229.92,
+          "end": 230.78
+        },
+        {
+          "word": "10.",
+          "start": 230.78,
+          "end": 231.82
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 232.18,
+      "end": 234.04,
+      "text": "Daily Life in Goma.",
+      "words": [
+        {
+          "word": "Daily",
+          "start": 232.18,
+          "end": 232.46
+        },
+        {
+          "word": "Life",
+          "start": 232.46,
+          "end": 232.88
+        },
+        {
+          "word": "in",
+          "start": 232.88,
+          "end": 233.16
+        },
+        {
+          "word": "Goma.",
+          "start": 233.16,
+          "end": 234.04
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 234.3,
+      "end": 237.68,
+      "text": "Life in Goma is simple and lively.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 234.3,
+          "end": 234.76
+        },
+        {
+          "word": "in",
+          "start": 234.76,
+          "end": 235.08
+        },
+        {
+          "word": "Goma",
+          "start": 235.08,
+          "end": 235.48
+        },
+        {
+          "word": "is",
+          "start": 235.48,
+          "end": 235.88
+        },
+        {
+          "word": "simple",
+          "start": 235.88,
+          "end": 236.42
+        },
+        {
+          "word": "and",
+          "start": 236.42,
+          "end": 236.74
+        },
+        {
+          "word": "lively.",
+          "start": 236.74,
+          "end": 237.68
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 238.14,
+      "end": 243.82,
+      "text": "People wake up early, go to work or school, and spend time with family.",
+      "words": [
+        {
+          "word": "People",
+          "start": 238.14,
+          "end": 238.62
+        },
+        {
+          "word": "wake",
+          "start": 238.62,
+          "end": 238.94
+        },
+        {
+          "word": "up",
+          "start": 238.94,
+          "end": 239.28
+        },
+        {
+          "word": "early,",
+          "start": 239.28,
+          "end": 239.76
+        },
+        {
+          "word": "go",
+          "start": 240.22,
+          "end": 240.36
+        },
+        {
+          "word": "to",
+          "start": 240.36,
+          "end": 240.58
+        },
+        {
+          "word": "work",
+          "start": 240.58,
+          "end": 240.96
+        },
+        {
+          "word": "or",
+          "start": 240.96,
+          "end": 241.22
+        },
+        {
+          "word": "school,",
+          "start": 241.22,
+          "end": 241.8
+        },
+        {
+          "word": "and",
+          "start": 242.06,
+          "end": 242.2
+        },
+        {
+          "word": "spend",
+          "start": 242.2,
+          "end": 242.52
+        },
+        {
+          "word": "time",
+          "start": 242.52,
+          "end": 242.96
+        },
+        {
+          "word": "with",
+          "start": 242.96,
+          "end": 243.22
+        },
+        {
+          "word": "family.",
+          "start": 243.22,
+          "end": 243.82
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 243.82,
+      "end": 251.9,
+      "text": "Children play in streets or by the lake, and families enjoy markets or cafes.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 243.82,
+          "end": 245.3
+        },
+        {
+          "word": "play",
+          "start": 245.3,
+          "end": 245.96
+        },
+        {
+          "word": "in",
+          "start": 245.96,
+          "end": 246.22
+        },
+        {
+          "word": "streets",
+          "start": 246.22,
+          "end": 246.66
+        },
+        {
+          "word": "or",
+          "start": 246.66,
+          "end": 247.06
+        },
+        {
+          "word": "by",
+          "start": 247.06,
+          "end": 247.32
+        },
+        {
+          "word": "the",
+          "start": 247.32,
+          "end": 247.52
+        },
+        {
+          "word": "lake,",
+          "start": 247.52,
+          "end": 247.92
+        },
+        {
+          "word": "and",
+          "start": 248.38,
+          "end": 248.74
+        },
+        {
+          "word": "families",
+          "start": 248.74,
+          "end": 249.34
+        },
+        {
+          "word": "enjoy",
+          "start": 249.34,
+          "end": 250.02
+        },
+        {
+          "word": "markets",
+          "start": 250.02,
+          "end": 250.68
+        },
+        {
+          "word": "or",
+          "start": 250.68,
+          "end": 250.96
+        },
+        {
+          "word": "cafes.",
+          "start": 250.96,
+          "end": 251.9
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 252.58,
+      "end": 257.16,
+      "text": "Life is connected to nature, culture, and community.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 252.58,
+          "end": 252.98
+        },
+        {
+          "word": "is",
+          "start": 252.98,
+          "end": 253.3
+        },
+        {
+          "word": "connected",
+          "start": 253.3,
+          "end": 253.84
+        },
+        {
+          "word": "to",
+          "start": 253.84,
+          "end": 254.2
+        },
+        {
+          "word": "nature,",
+          "start": 254.2,
+          "end": 254.7
+        },
+        {
+          "word": "culture,",
+          "start": 255.22,
+          "end": 255.64
+        },
+        {
+          "word": "and",
+          "start": 255.9,
+          "end": 256.04
+        },
+        {
+          "word": "community.",
+          "start": 256.04,
+          "end": 257.16
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 257.7,
+      "end": 259.14,
+      "text": "Part 11.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 257.7,
+          "end": 258.18
+        },
+        {
+          "word": "11.",
+          "start": 258.18,
+          "end": 259.14
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 259.54,
+      "end": 261.58,
+      "text": "Why Goma is Special.",
+      "words": [
+        {
+          "word": "Why",
+          "start": 259.54,
+          "end": 259.8
+        },
+        {
+          "word": "Goma",
+          "start": 259.8,
+          "end": 260.3
+        },
+        {
+          "word": "is",
+          "start": 260.3,
+          "end": 260.64
+        },
+        {
+          "word": "Special.",
+          "start": 260.64,
+          "end": 261.58
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 261.88,
+      "end": 269.42,
+      "text": "Goma is not a famous city, but it is full of natural beauty, culture, and friendly people.",
+      "words": [
+        {
+          "word": "Goma",
+          "start": 261.88,
+          "end": 262.54
+        },
+        {
+          "word": "is",
+          "start": 262.54,
+          "end": 262.84
+        },
+        {
+          "word": "not",
+          "start": 262.84,
+          "end": 263.12
+        },
+        {
+          "word": "a",
+          "start": 263.12,
+          "end": 263.34
+        },
+        {
+          "word": "famous",
+          "start": 263.34,
+          "end": 263.7
+        },
+        {
+          "word": "city,",
+          "start": 263.7,
+          "end": 264.24
+        },
+        {
+          "word": "but",
+          "start": 264.52,
+          "end": 264.98
+        },
+        {
+          "word": "it",
+          "start": 264.98,
+          "end": 265.16
+        },
+        {
+          "word": "is",
+          "start": 265.16,
+          "end": 265.38
+        },
+        {
+          "word": "full",
+          "start": 265.38,
+          "end": 265.74
+        },
+        {
+          "word": "of",
+          "start": 265.74,
+          "end": 265.98
+        },
+        {
+          "word": "natural",
+          "start": 265.98,
+          "end": 266.5
+        },
+        {
+          "word": "beauty,",
+          "start": 266.5,
+          "end": 267.1
+        },
+        {
+          "word": "culture,",
+          "start": 267.44,
+          "end": 268.04
+        },
+        {
+          "word": "and",
+          "start": 268.3,
+          "end": 268.44
+        },
+        {
+          "word": "friendly",
+          "start": 268.44,
+          "end": 268.88
+        },
+        {
+          "word": "people.",
+          "start": 268.88,
+          "end": 269.42
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 269.42,
+      "end": 276.4,
+      "text": "It combines lakes, volcanoes, and community life perfectly.",
+      "words": [
+        {
+          "word": "It",
+          "start": 269.42,
+          "end": 270.44
+        },
+        {
+          "word": "combines",
+          "start": 270.44,
+          "end": 270.96
+        },
+        {
+          "word": "lakes,",
+          "start": 270.96,
+          "end": 271.76
+        },
+        {
+          "word": "volcanoes,",
+          "start": 272.52,
+          "end": 273.32
+        },
+        {
+          "word": "and",
+          "start": 274.04,
+          "end": 274.14
+        },
+        {
+          "word": "community",
+          "start": 274.14,
+          "end": 274.68
+        },
+        {
+          "word": "life",
+          "start": 274.68,
+          "end": 275.34
+        },
+        {
+          "word": "perfectly.",
+          "start": 275.34,
+          "end": 276.4
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 277.2,
+      "end": 282.9,
+      "text": "Visitors feel inspired, peaceful, and welcomed here.",
+      "words": [
+        {
+          "word": "Visitors",
+          "start": 277.2,
+          "end": 277.86
+        },
+        {
+          "word": "feel",
+          "start": 277.86,
+          "end": 278.28
+        },
+        {
+          "word": "inspired,",
+          "start": 278.28,
+          "end": 279.34
+        },
+        {
+          "word": "peaceful,",
+          "start": 279.86,
+          "end": 280.6
+        },
+        {
+          "word": "and",
+          "start": 281.34,
+          "end": 281.42
+        },
+        {
+          "word": "welcomed",
+          "start": 281.42,
+          "end": 282.0
+        },
+        {
+          "word": "here.",
+          "start": 282.0,
+          "end": 282.9
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 283.98,
+      "end": 287.44,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 283.98,
+          "end": 284.34
+        },
+        {
+          "word": "you",
+          "start": 284.34,
+          "end": 284.62
+        },
+        {
+          "word": "for",
+          "start": 284.62,
+          "end": 284.86
+        },
+        {
+          "word": "listening",
+          "start": 284.86,
+          "end": 285.36
+        },
+        {
+          "word": "to",
+          "start": 285.36,
+          "end": 285.66
+        },
+        {
+          "word": "the",
+          "start": 285.66,
+          "end": 285.86
+        },
+        {
+          "word": "Slow",
+          "start": 285.86,
+          "end": 286.12
+        },
+        {
+          "word": "English",
+          "start": 286.12,
+          "end": 286.46
+        },
+        {
+          "word": "Podcast.",
+          "start": 286.46,
+          "end": 287.44
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 287.96,
+      "end": 297.15,
+      "text": "I am Emily, and I hope you enjoyed this journey through Goma, Democratic Republic of the Congo.",
+      "words": [
+        {
+          "word": "I",
+          "start": 287.96,
+          "end": 288.2
+        },
+        {
+          "word": "am",
+          "start": 288.2,
+          "end": 288.4
+        },
+        {
+          "word": "Emily,",
+          "start": 288.4,
+          "end": 288.76
+        },
+        {
+          "word": "and",
+          "start": 289.68,
+          "end": 289.92
+        },
+        {
+          "word": "I",
+          "start": 289.92,
+          "end": 290.1
+        },
+        {
+          "word": "hope",
+          "start": 290.1,
+          "end": 290.38
+        },
+        {
+          "word": "you",
+          "start": 290.38,
+          "end": 290.68
+        },
+        {
+          "word": "enjoyed",
+          "start": 290.68,
+          "end": 291.24
+        },
+        {
+          "word": "this",
+          "start": 291.24,
+          "end": 291.58
+        },
+        {
+          "word": "journey",
+          "start": 291.58,
+          "end": 292.22
+        },
+        {
+          "word": "through",
+          "start": 292.22,
+          "end": 293.12
+        },
+        {
+          "word": "Goma,",
+          "start": 293.12,
+          "end": 293.7
+        },
+        {
+          "word": "Democratic",
+          "start": 294.34,
+          "end": 294.86
+        },
+        {
+          "word": "Republic",
+          "start": 294.86,
+          "end": 295.76
+        },
+        {
+          "word": "of",
+          "start": 295.76,
+          "end": 296.12
+        },
+        {
+          "word": "the",
+          "start": 296.12,
+          "end": 296.28
         },
         {
           "word": "Congo.",
-          "startSec": 296.22,
-          "endSec": 296.52,
-          "score": 0.97
+          "start": 296.28,
+          "end": 297.15
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 66
 }

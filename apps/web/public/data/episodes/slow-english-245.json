@@ -15,4231 +15,3822 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 8.23,
-      "text": "Hello everyone. Welcome back to the Slow English Podcast. I'm Emily and today we are",
+      "start": 1.84,
+      "end": 4.8,
+      "text": "Welcome back to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.24,
-          "score": 0.86
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.24,
-          "endSec": 0.74,
-          "score": 0.55
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.76,
-          "endSec": 2.32,
-          "score": 1.0
+          "start": 1.84,
+          "end": 2.3
         },
         {
           "word": "back",
-          "startSec": 2.32,
-          "endSec": 2.64,
-          "score": 1.0
+          "start": 2.3,
+          "end": 2.72
         },
         {
           "word": "to",
-          "startSec": 2.64,
-          "endSec": 2.92,
-          "score": 1.0
+          "start": 2.72,
+          "end": 2.94
         },
         {
           "word": "the",
-          "startSec": 2.92,
-          "endSec": 3.06,
-          "score": 0.93
+          "start": 2.94,
+          "end": 3.16
         },
         {
           "word": "Slow",
-          "startSec": 3.06,
-          "endSec": 3.32,
-          "score": 0.82
+          "start": 3.16,
+          "end": 3.44
         },
         {
           "word": "English",
-          "startSec": 3.32,
-          "endSec": 3.7,
-          "score": 0.9
+          "start": 3.44,
+          "end": 3.8
         },
         {
           "word": "Podcast.",
-          "startSec": 3.7,
-          "endSec": 4.26,
-          "score": 0.76
-        },
-        {
-          "word": "I'm",
-          "startSec": 5.56,
-          "endSec": 6.08,
-          "score": 0.96
-        },
-        {
-          "word": "Emily",
-          "startSec": 6.08,
-          "endSec": 6.26,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 6.26,
-          "endSec": 6.82,
-          "score": 0.56
-        },
-        {
-          "word": "today",
-          "startSec": 6.82,
-          "endSec": 7.2,
-          "score": 0.99
-        },
-        {
-          "word": "we",
-          "startSec": 7.2,
-          "endSec": 7.92,
-          "score": 0.85
-        },
-        {
-          "word": "are",
-          "startSec": 7.92,
-          "endSec": 8.08,
-          "score": 0.99
+          "start": 3.8,
+          "end": 4.8
         }
       ]
     },
     {
       "id": 2,
-      "start": 7.88,
-      "end": 18.02,
-      "text": "traveling to a lovely city in Europe. Yubljana, the capital of Slovenia. Yubljana is small,",
+      "start": 5.68,
+      "end": 15.9,
+      "text": "I'm Emily and today we are traveling to a lovely city in Europe, Yubliana, the capital of Slovenia.",
       "words": [
         {
+          "word": "I'm",
+          "start": 5.68,
+          "end": 6.1
+        },
+        {
+          "word": "Emily",
+          "start": 6.1,
+          "end": 6.5
+        },
+        {
+          "word": "and",
+          "start": 6.5,
+          "end": 6.88
+        },
+        {
+          "word": "today",
+          "start": 6.88,
+          "end": 7.32
+        },
+        {
+          "word": "we",
+          "start": 7.32,
+          "end": 7.98
+        },
+        {
+          "word": "are",
+          "start": 7.98,
+          "end": 8.14
+        },
+        {
           "word": "traveling",
-          "startSec": 8.08,
-          "endSec": 8.64,
-          "score": 0.94
+          "start": 8.14,
+          "end": 8.76
         },
         {
           "word": "to",
-          "startSec": 8.64,
-          "endSec": 9.16,
-          "score": 1.0
+          "start": 8.76,
+          "end": 9.2
         },
         {
           "word": "a",
-          "startSec": 9.16,
-          "endSec": 9.32,
-          "score": 1.0
+          "start": 9.2,
+          "end": 9.4
         },
         {
           "word": "lovely",
-          "startSec": 9.32,
-          "endSec": 9.66,
-          "score": 1.0
+          "start": 9.4,
+          "end": 9.78
         },
         {
           "word": "city",
-          "startSec": 9.66,
-          "endSec": 10.26,
-          "score": 1.0
+          "start": 9.78,
+          "end": 10.3
         },
         {
           "word": "in",
-          "startSec": 10.26,
-          "endSec": 10.72,
-          "score": 1.0
+          "start": 10.3,
+          "end": 10.8
         },
         {
-          "word": "Europe.",
-          "startSec": 10.72,
-          "endSec": 11.14,
-          "score": 1.0
+          "word": "Europe,",
+          "start": 10.8,
+          "end": 11.3
         },
         {
-          "word": "Yubljana,",
-          "startSec": 12.16,
-          "endSec": 12.98,
-          "score": 0.62
+          "word": "Yubliana,",
+          "start": 12.2,
+          "end": 13.04
         },
         {
           "word": "the",
-          "startSec": 13.64,
-          "endSec": 13.74,
-          "score": 0.98
+          "start": 13.6,
+          "end": 13.8
         },
         {
           "word": "capital",
-          "startSec": 13.74,
-          "endSec": 14.14,
-          "score": 0.97
+          "start": 13.8,
+          "end": 14.28
         },
         {
           "word": "of",
-          "startSec": 14.14,
-          "endSec": 14.62,
-          "score": 1.0
+          "start": 14.28,
+          "end": 14.66
         },
         {
           "word": "Slovenia.",
-          "startSec": 14.62,
-          "endSec": 14.96,
-          "score": 1.0
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 16.51,
-          "endSec": 17.23,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 17.23,
-          "endSec": 17.45,
-          "score": 0.99
-        },
-        {
-          "word": "small,",
-          "startSec": 17.45,
-          "endSec": 17.87,
-          "score": 0.99
+          "start": 14.66,
+          "end": 15.9
         }
       ]
     },
     {
       "id": 3,
-      "start": 18.35,
-      "end": 31.28,
-      "text": "green and peaceful. It's not very big but it's full of charm. Let's explore this friendly",
+      "start": 16.42,
+      "end": 20.28,
+      "text": "Yubliana is small, green, and peaceful.",
       "words": [
         {
-          "word": "green",
-          "startSec": 18.55,
-          "endSec": 18.65,
-          "score": 1.0
+          "word": "Yubliana",
+          "start": 16.42,
+          "end": 17.2
+        },
+        {
+          "word": "is",
+          "start": 17.2,
+          "end": 17.5
+        },
+        {
+          "word": "small,",
+          "start": 17.5,
+          "end": 18.1
+        },
+        {
+          "word": "green,",
+          "start": 18.64,
+          "end": 18.78
         },
         {
           "word": "and",
-          "startSec": 18.65,
-          "endSec": 19.29,
-          "score": 0.61
+          "start": 19.2,
+          "end": 19.34
         },
         {
           "word": "peaceful.",
-          "startSec": 19.29,
-          "endSec": 19.63,
-          "score": 1.0
-        },
-        {
-          "word": "It's",
-          "startSec": 20.77,
-          "endSec": 20.97,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 20.97,
-          "endSec": 21.17,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 21.17,
-          "endSec": 21.55,
-          "score": 1.0
-        },
-        {
-          "word": "big",
-          "startSec": 21.55,
-          "endSec": 22.05,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 22.05,
-          "endSec": 22.41,
-          "score": 0.42
-        },
-        {
-          "word": "it's",
-          "startSec": 22.41,
-          "endSec": 22.67,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 22.67,
-          "endSec": 22.87,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 22.87,
-          "endSec": 23.07,
-          "score": 1.0
-        },
-        {
-          "word": "charm.",
-          "startSec": 23.07,
-          "endSec": 23.45,
-          "score": 1.0
-        },
-        {
-          "word": "Let's",
-          "startSec": 24.59,
-          "endSec": 24.99,
-          "score": 1.0
-        },
-        {
-          "word": "explore",
-          "startSec": 24.99,
-          "endSec": 25.45,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 25.45,
-          "endSec": 30.27,
-          "score": 1.0
-        },
-        {
-          "word": "friendly",
-          "startSec": 31.13,
-          "endSec": 31.13,
-          "score": 0.99
+          "start": 19.34,
+          "end": 20.28
         }
       ]
     },
     {
       "id": 4,
-      "start": 30.93,
-      "end": 40.08,
-      "text": "where's Ljubljana? Yubljana is in the center of Europe. It is the capital city of Slovenia,",
+      "start": 20.72,
+      "end": 23.98,
+      "text": "It's not very big, but it's full of charm.",
       "words": [
         {
-          "word": "where's",
-          "startSec": 31.13,
-          "endSec": 31.89,
-          "score": 0.26
+          "word": "It's",
+          "start": 20.72,
+          "end": 21.0
         },
         {
-          "word": "Ljubljana?",
-          "startSec": 31.89,
-          "endSec": 32.75,
-          "score": 0.72
+          "word": "not",
+          "start": 21.0,
+          "end": 21.24
         },
         {
-          "word": "Yubljana",
-          "startSec": 34.11,
-          "endSec": 34.99,
-          "score": 0.83
+          "word": "very",
+          "start": 21.24,
+          "end": 21.64
         },
         {
-          "word": "is",
-          "startSec": 34.99,
-          "endSec": 35.41,
-          "score": 0.99
+          "word": "big,",
+          "start": 21.64,
+          "end": 22.06
         },
         {
-          "word": "in",
-          "startSec": 35.41,
-          "endSec": 35.65,
-          "score": 1.0
+          "word": "but",
+          "start": 22.36,
+          "end": 22.44
         },
         {
-          "word": "the",
-          "startSec": 35.65,
-          "endSec": 35.79,
-          "score": 1.0
+          "word": "it's",
+          "start": 22.44,
+          "end": 22.7
         },
         {
-          "word": "center",
-          "startSec": 35.79,
-          "endSec": 36.19,
-          "score": 0.89
+          "word": "full",
+          "start": 22.7,
+          "end": 22.94
         },
         {
           "word": "of",
-          "startSec": 36.19,
-          "endSec": 36.47,
-          "score": 1.0
+          "start": 22.94,
+          "end": 23.12
         },
         {
-          "word": "Europe.",
-          "startSec": 36.47,
-          "endSec": 36.79,
-          "score": 0.97
-        },
-        {
-          "word": "It",
-          "startSec": 37.81,
-          "endSec": 37.91,
-          "score": 0.95
-        },
-        {
-          "word": "is",
-          "startSec": 37.91,
-          "endSec": 38.09,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 38.09,
-          "endSec": 38.27,
-          "score": 1.0
-        },
-        {
-          "word": "capital",
-          "startSec": 38.27,
-          "endSec": 38.79,
-          "score": 0.97
-        },
-        {
-          "word": "city",
-          "startSec": 38.79,
-          "endSec": 39.25,
-          "score": 0.98
-        },
-        {
-          "word": "of",
-          "startSec": 39.25,
-          "endSec": 39.61,
-          "score": 1.0
-        },
-        {
-          "word": "Slovenia,",
-          "startSec": 39.61,
-          "endSec": 39.93,
-          "score": 0.98
+          "word": "charm.",
+          "start": 23.12,
+          "end": 23.98
         }
       ]
     },
     {
       "id": 5,
-      "start": 40.21,
-      "end": 49.44,
-      "text": "a small country between Italy, Austria, Hungary, and Croatia. The city is surrounded by hills",
+      "start": 24.5,
+      "end": 28.54,
+      "text": "Let's explore this friendly European city together.",
       "words": [
         {
-          "word": "a",
-          "startSec": 40.41,
-          "endSec": 41.23,
-          "score": 0.99
+          "word": "Let's",
+          "start": 24.5,
+          "end": 25.02
         },
         {
-          "word": "small",
-          "startSec": 41.23,
-          "endSec": 41.53,
-          "score": 1.0
+          "word": "explore",
+          "start": 25.02,
+          "end": 25.54
         },
         {
-          "word": "country",
-          "startSec": 41.53,
-          "endSec": 42.13,
-          "score": 1.0
+          "word": "this",
+          "start": 25.54,
+          "end": 25.88
         },
         {
-          "word": "between",
-          "startSec": 42.13,
-          "endSec": 42.67,
-          "score": 1.0
+          "word": "friendly",
+          "start": 25.88,
+          "end": 26.34
         },
         {
-          "word": "Italy,",
-          "startSec": 42.67,
-          "endSec": 43.15,
-          "score": 1.0
-        },
-        {
-          "word": "Austria,",
-          "startSec": 43.69,
-          "endSec": 44.13,
-          "score": 1.0
-        },
-        {
-          "word": "Hungary,",
-          "startSec": 44.85,
-          "endSec": 44.85,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 45.35,
-          "endSec": 45.47,
-          "score": 0.99
-        },
-        {
-          "word": "Croatia.",
-          "startSec": 45.47,
-          "endSec": 45.75,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 46.95,
-          "endSec": 47.21,
-          "score": 0.97
+          "word": "European",
+          "start": 26.34,
+          "end": 26.82
         },
         {
           "word": "city",
-          "startSec": 47.21,
-          "endSec": 47.63,
-          "score": 1.0
+          "start": 26.82,
+          "end": 27.46
         },
         {
-          "word": "is",
-          "startSec": 47.63,
-          "endSec": 47.87,
-          "score": 1.0
-        },
-        {
-          "word": "surrounded",
-          "startSec": 47.87,
-          "endSec": 48.33,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 48.33,
-          "endSec": 48.89,
-          "score": 1.0
-        },
-        {
-          "word": "hills",
-          "startSec": 48.89,
-          "endSec": 49.29,
-          "score": 1.0
+          "word": "together.",
+          "start": 27.46,
+          "end": 28.54
         }
       ]
     },
     {
       "id": 6,
-      "start": 49.09,
-      "end": 59.22,
-      "text": "and forests. A beautiful river, though Yubljana it's a river, flows through the center. People often",
+      "start": 29.34,
+      "end": 33.16,
+      "text": "Part two, where's Ljubljana?",
       "words": [
         {
-          "word": "and",
-          "startSec": 49.29,
-          "endSec": 49.73,
-          "score": 1.0
+          "word": "Part",
+          "start": 29.34,
+          "end": 30.18
         },
         {
-          "word": "forests.",
-          "startSec": 49.73,
-          "endSec": 50.19,
-          "score": 0.99
+          "word": "two,",
+          "start": 30.18,
+          "end": 30.8
         },
         {
-          "word": "A",
-          "startSec": 51.6,
-          "endSec": 51.7,
-          "score": 0.98
+          "word": "where's",
+          "start": 31.28,
+          "end": 31.94
         },
         {
-          "word": "beautiful",
-          "startSec": 51.7,
-          "endSec": 52.22,
-          "score": 1.0
-        },
-        {
-          "word": "river,",
-          "startSec": 52.22,
-          "endSec": 53.04,
-          "score": 1.0
-        },
-        {
-          "word": "though",
-          "startSec": 53.58,
-          "endSec": 53.78,
-          "score": 0.78
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 53.78,
-          "endSec": 54.5,
-          "score": 0.89
-        },
-        {
-          "word": "it's",
-          "startSec": 54.5,
-          "endSec": 54.82,
-          "score": 0.53
-        },
-        {
-          "word": "a",
-          "startSec": 54.82,
-          "endSec": 54.92,
-          "score": 1.0
-        },
-        {
-          "word": "river,",
-          "startSec": 54.92,
-          "endSec": 55.38,
-          "score": 1.0
-        },
-        {
-          "word": "flows",
-          "startSec": 55.72,
-          "endSec": 56.08,
-          "score": 1.0
-        },
-        {
-          "word": "through",
-          "startSec": 56.08,
-          "endSec": 56.58,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 56.58,
-          "endSec": 56.82,
-          "score": 1.0
-        },
-        {
-          "word": "center.",
-          "startSec": 56.82,
-          "endSec": 57.3,
-          "score": 0.98
-        },
-        {
-          "word": "People",
-          "startSec": 58.23,
-          "endSec": 58.55,
-          "score": 0.99
-        },
-        {
-          "word": "often",
-          "startSec": 58.55,
-          "endSec": 59.07,
-          "score": 1.0
+          "word": "Ljubljana?",
+          "start": 31.94,
+          "end": 33.16
         }
       ]
     },
     {
       "id": 7,
-      "start": 58.87,
-      "end": 69.93,
-      "text": "walk or ride bicycles by the river. Part 3, a short history of Yubljana. Yubljana has a long",
+      "start": 33.94,
+      "end": 37.32,
+      "text": "Yubliana is in the center of Europe.",
       "words": [
         {
-          "word": "walk",
-          "startSec": 59.07,
-          "endSec": 59.67,
-          "score": 0.14
+          "word": "Yubliana",
+          "start": 33.94,
+          "end": 34.92
         },
         {
-          "word": "or",
-          "startSec": 59.67,
-          "endSec": 60.01,
-          "score": 0.88
+          "word": "is",
+          "start": 34.92,
+          "end": 35.5
         },
         {
-          "word": "ride",
-          "startSec": 60.01,
-          "endSec": 60.37,
-          "score": 1.0
-        },
-        {
-          "word": "bicycles",
-          "startSec": 60.37,
-          "endSec": 60.99,
-          "score": 0.99
-        },
-        {
-          "word": "by",
-          "startSec": 60.99,
-          "endSec": 61.57,
-          "score": 1.0
+          "word": "in",
+          "start": 35.5,
+          "end": 35.7
         },
         {
           "word": "the",
-          "startSec": 61.57,
-          "endSec": 61.77,
-          "score": 1.0
+          "start": 35.7,
+          "end": 35.84
         },
         {
-          "word": "river.",
-          "startSec": 61.77,
-          "endSec": 62.11,
-          "score": 0.98
-        },
-        {
-          "word": "Part",
-          "startSec": 63.45,
-          "endSec": 63.67,
-          "score": 0.99
-        },
-        {
-          "word": "3,",
-          "startSec": 63.67,
-          "endSec": 64.21,
-          "score": 0.43
-        },
-        {
-          "word": "a",
-          "startSec": 64.79,
-          "endSec": 64.99,
-          "score": 0.57
-        },
-        {
-          "word": "short",
-          "startSec": 64.99,
-          "endSec": 65.29,
-          "score": 0.94
-        },
-        {
-          "word": "history",
-          "startSec": 65.29,
-          "endSec": 65.71,
-          "score": 0.99
+          "word": "center",
+          "start": 35.84,
+          "end": 36.2
         },
         {
           "word": "of",
-          "startSec": 65.71,
-          "endSec": 66.11,
-          "score": 1.0
+          "start": 36.2,
+          "end": 36.54
         },
         {
-          "word": "Yubljana.",
-          "startSec": 66.11,
-          "endSec": 66.75,
-          "score": 0.65
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 68.02,
-          "endSec": 68.86,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 68.86,
-          "endSec": 69.16,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 69.16,
-          "endSec": 69.38,
-          "score": 0.99
-        },
-        {
-          "word": "long",
-          "startSec": 69.38,
-          "endSec": 69.78,
-          "score": 1.0
+          "word": "Europe.",
+          "start": 36.54,
+          "end": 37.32
         }
       ]
     },
     {
       "id": 8,
-      "start": 69.58,
-      "end": 79.79,
-      "text": "and interesting history. Long ago it was part of the Roman Empire. Later it became a part of Austria",
+      "start": 37.74,
+      "end": 46.36,
+      "text": "It is the capital city of Slovenia, a small country between Italy, Austria, Hungary, and Croatia.",
       "words": [
         {
-          "word": "and",
-          "startSec": 69.78,
-          "endSec": 70.28,
-          "score": 0.99
+          "word": "It",
+          "start": 37.74,
+          "end": 37.96
         },
         {
-          "word": "interesting",
-          "startSec": 70.28,
-          "endSec": 70.8,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 70.8,
-          "endSec": 71.7,
-          "score": 1.0
-        },
-        {
-          "word": "Long",
-          "startSec": 72.58,
-          "endSec": 72.92,
-          "score": 0.99
-        },
-        {
-          "word": "ago",
-          "startSec": 72.92,
-          "endSec": 73.44,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 73.44,
-          "endSec": 73.94,
-          "score": 0.46
-        },
-        {
-          "word": "was",
-          "startSec": 73.94,
-          "endSec": 74.1,
-          "score": 1.0
-        },
-        {
-          "word": "part",
-          "startSec": 74.1,
-          "endSec": 74.36,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 74.36,
-          "endSec": 74.56,
-          "score": 1.0
+          "word": "is",
+          "start": 37.96,
+          "end": 38.14
         },
         {
           "word": "the",
-          "startSec": 74.56,
-          "endSec": 74.68,
-          "score": 0.99
+          "start": 38.14,
+          "end": 38.32
         },
         {
-          "word": "Roman",
-          "startSec": 74.68,
-          "endSec": 74.98,
-          "score": 1.0
+          "word": "capital",
+          "start": 38.32,
+          "end": 38.82
         },
         {
-          "word": "Empire.",
-          "startSec": 74.98,
-          "endSec": 75.6,
-          "score": 0.94
-        },
-        {
-          "word": "Later",
-          "startSec": 76.7,
-          "endSec": 77.14,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 77.14,
-          "endSec": 77.66,
-          "score": 0.83
-        },
-        {
-          "word": "became",
-          "startSec": 77.66,
-          "endSec": 78.06,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 78.06,
-          "endSec": 78.36,
-          "score": 0.97
-        },
-        {
-          "word": "part",
-          "startSec": 78.36,
-          "endSec": 78.78,
-          "score": 1.0
+          "word": "city",
+          "start": 38.82,
+          "end": 39.38
         },
         {
           "word": "of",
-          "startSec": 78.78,
-          "endSec": 79.02,
-          "score": 1.0
+          "start": 39.38,
+          "end": 39.64
         },
         {
-          "word": "Austria",
-          "startSec": 79.02,
-          "endSec": 79.64,
-          "score": 0.99
+          "word": "Slovenia,",
+          "start": 39.64,
+          "end": 40.56
+        },
+        {
+          "word": "a",
+          "start": 41.1,
+          "end": 41.34
+        },
+        {
+          "word": "small",
+          "start": 41.34,
+          "end": 41.64
+        },
+        {
+          "word": "country",
+          "start": 41.64,
+          "end": 42.24
+        },
+        {
+          "word": "between",
+          "start": 42.24,
+          "end": 42.76
+        },
+        {
+          "word": "Italy,",
+          "start": 42.76,
+          "end": 43.34
+        },
+        {
+          "word": "Austria,",
+          "start": 43.76,
+          "end": 44.2
+        },
+        {
+          "word": "Hungary,",
+          "start": 44.72,
+          "end": 44.98
+        },
+        {
+          "word": "and",
+          "start": 45.44,
+          "end": 45.52
+        },
+        {
+          "word": "Croatia.",
+          "start": 45.52,
+          "end": 46.36
         }
       ]
     },
     {
       "id": 9,
-      "start": 79.44,
-      "end": 89.43,
-      "text": "Hungary and after that Yugoslavia. Today it is the capital of an independent country, Slovenia.",
+      "start": 47.06,
+      "end": 50.68,
+      "text": "The city is surrounded by hills and forests.",
       "words": [
         {
-          "word": "Hungary",
-          "startSec": 79.64,
-          "endSec": 80.04,
-          "score": 0.28
+          "word": "The",
+          "start": 47.06,
+          "end": 47.28
         },
         {
-          "word": "and",
-          "startSec": 80.04,
-          "endSec": 81.46,
-          "score": 0.39
-        },
-        {
-          "word": "after",
-          "startSec": 81.46,
-          "endSec": 81.78,
-          "score": 0.68
-        },
-        {
-          "word": "that",
-          "startSec": 81.78,
-          "endSec": 82.34,
-          "score": 0.98
-        },
-        {
-          "word": "Yugoslavia.",
-          "startSec": 82.34,
-          "endSec": 82.98,
-          "score": 0.63
-        },
-        {
-          "word": "Today",
-          "startSec": 84.46,
-          "endSec": 85.08,
-          "score": 0.96
-        },
-        {
-          "word": "it",
-          "startSec": 85.08,
-          "endSec": 85.48,
-          "score": 0.7
+          "word": "city",
+          "start": 47.28,
+          "end": 47.64
         },
         {
           "word": "is",
-          "startSec": 85.48,
-          "endSec": 85.68,
-          "score": 0.99
+          "start": 47.64,
+          "end": 47.94
         },
         {
-          "word": "the",
-          "startSec": 85.68,
-          "endSec": 85.84,
-          "score": 0.98
+          "word": "surrounded",
+          "start": 47.94,
+          "end": 48.44
         },
         {
-          "word": "capital",
-          "startSec": 85.84,
-          "endSec": 86.38,
-          "score": 0.89
+          "word": "by",
+          "start": 48.44,
+          "end": 48.9
         },
         {
-          "word": "of",
-          "startSec": 86.38,
-          "endSec": 86.78,
-          "score": 1.0
+          "word": "hills",
+          "start": 48.9,
+          "end": 49.46
         },
         {
-          "word": "an",
-          "startSec": 86.78,
-          "endSec": 86.98,
-          "score": 0.97
+          "word": "and",
+          "start": 49.46,
+          "end": 49.8
         },
         {
-          "word": "independent",
-          "startSec": 86.98,
-          "endSec": 87.36,
-          "score": 0.96
-        },
-        {
-          "word": "country,",
-          "startSec": 87.36,
-          "endSec": 88.38,
-          "score": 0.99
-        },
-        {
-          "word": "Slovenia.",
-          "startSec": 88.8,
-          "endSec": 89.28,
-          "score": 0.98
+          "word": "forests.",
+          "start": 49.8,
+          "end": 50.68
         }
       ]
     },
     {
       "id": 10,
-      "start": 90.12,
-      "end": 101.33,
-      "text": "The old buildings tell stories from the past. Part 4, the city and its streets. Yubljana's city",
+      "start": 51.52,
+      "end": 57.76,
+      "text": "A beautiful river, the Ljubljanica River flows through the center.",
       "words": [
         {
-          "word": "The",
-          "startSec": 90.32,
-          "endSec": 90.7,
-          "score": 0.97
+          "word": "A",
+          "start": 51.52,
+          "end": 51.78
         },
         {
-          "word": "old",
-          "startSec": 90.7,
-          "endSec": 91.0,
-          "score": 0.88
+          "word": "beautiful",
+          "start": 51.78,
+          "end": 52.4
         },
         {
-          "word": "buildings",
-          "startSec": 91.0,
-          "endSec": 91.64,
-          "score": 0.99
-        },
-        {
-          "word": "tell",
-          "startSec": 91.64,
-          "endSec": 92.22,
-          "score": 0.97
-        },
-        {
-          "word": "stories",
-          "startSec": 92.22,
-          "endSec": 92.94,
-          "score": 0.99
-        },
-        {
-          "word": "from",
-          "startSec": 92.94,
-          "endSec": 93.24,
-          "score": 0.99
+          "word": "river,",
+          "start": 52.4,
+          "end": 52.92
         },
         {
           "word": "the",
-          "startSec": 93.24,
-          "endSec": 93.44,
-          "score": 0.99
+          "start": 53.32,
+          "end": 53.8
         },
         {
-          "word": "past.",
-          "startSec": 93.44,
-          "endSec": 93.8,
-          "score": 1.0
+          "word": "Ljubljanica",
+          "start": 53.8,
+          "end": 54.88
         },
         {
-          "word": "Part",
-          "startSec": 95.74,
-          "endSec": 95.74,
-          "score": 0.74
+          "word": "River",
+          "start": 54.88,
+          "end": 55.32
         },
         {
-          "word": "4,",
-          "startSec": 95.74,
-          "endSec": 96.18,
-          "score": 0.6
+          "word": "flows",
+          "start": 55.32,
+          "end": 56.16
+        },
+        {
+          "word": "through",
+          "start": 56.16,
+          "end": 56.66
         },
         {
           "word": "the",
-          "startSec": 97.08,
-          "endSec": 97.08,
-          "score": 0.55
+          "start": 56.66,
+          "end": 56.86
         },
         {
-          "word": "city",
-          "startSec": 97.08,
-          "endSec": 97.4,
-          "score": 0.9
-        },
-        {
-          "word": "and",
-          "startSec": 97.4,
-          "endSec": 97.76,
-          "score": 0.98
-        },
-        {
-          "word": "its",
-          "startSec": 97.76,
-          "endSec": 97.9,
-          "score": 0.9
-        },
-        {
-          "word": "streets.",
-          "startSec": 97.9,
-          "endSec": 98.32,
-          "score": 0.99
-        },
-        {
-          "word": "Yubljana's",
-          "startSec": 100.12,
-          "endSec": 100.96,
-          "score": 0.52
-        },
-        {
-          "word": "city",
-          "startSec": 100.96,
-          "endSec": 101.18,
-          "score": 0.88
+          "word": "center.",
+          "start": 56.86,
+          "end": 57.76
         }
       ]
     },
     {
       "id": 11,
-      "start": 100.98,
-      "end": 110.68,
-      "text": "center is very beautiful. There are colorful houses, small bridges, and many cafes. The",
+      "start": 58.06,
+      "end": 62.58,
+      "text": "People often walk or ride bicycles by the river.",
       "words": [
         {
-          "word": "center",
-          "startSec": 101.18,
-          "endSec": 101.74,
-          "score": 0.94
+          "word": "People",
+          "start": 58.06,
+          "end": 58.74
         },
         {
-          "word": "is",
-          "startSec": 101.74,
-          "endSec": 102.08,
-          "score": 0.99
+          "word": "often",
+          "start": 58.74,
+          "end": 59.26
         },
         {
-          "word": "very",
-          "startSec": 102.08,
-          "endSec": 102.42,
-          "score": 0.97
+          "word": "walk",
+          "start": 59.26,
+          "end": 59.72
         },
         {
-          "word": "beautiful.",
-          "startSec": 102.42,
-          "endSec": 102.9,
-          "score": 1.0
+          "word": "or",
+          "start": 59.72,
+          "end": 60.06
         },
         {
-          "word": "There",
-          "startSec": 103.86,
-          "endSec": 104.16,
-          "score": 0.96
+          "word": "ride",
+          "start": 60.06,
+          "end": 60.48
         },
         {
-          "word": "are",
-          "startSec": 104.16,
-          "endSec": 104.34,
-          "score": 1.0
+          "word": "bicycles",
+          "start": 60.48,
+          "end": 61.18
         },
         {
-          "word": "colorful",
-          "startSec": 104.34,
-          "endSec": 104.68,
-          "score": 0.98
+          "word": "by",
+          "start": 61.18,
+          "end": 61.64
         },
         {
-          "word": "houses,",
-          "startSec": 104.68,
-          "endSec": 105.5,
-          "score": 0.99
+          "word": "the",
+          "start": 61.64,
+          "end": 61.82
         },
         {
-          "word": "small",
-          "startSec": 106.12,
-          "endSec": 106.42,
-          "score": 1.0
-        },
-        {
-          "word": "bridges,",
-          "startSec": 106.42,
-          "endSec": 106.82,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 107.72,
-          "endSec": 107.82,
-          "score": 0.99
-        },
-        {
-          "word": "many",
-          "startSec": 107.82,
-          "endSec": 108.1,
-          "score": 0.82
-        },
-        {
-          "word": "cafes.",
-          "startSec": 108.1,
-          "endSec": 108.56,
-          "score": 0.92
-        },
-        {
-          "word": "The",
-          "startSec": 109.85,
-          "endSec": 110.53,
-          "score": 0.97
+          "word": "river.",
+          "start": 61.82,
+          "end": 62.58
         }
       ]
     },
     {
       "id": 12,
-      "start": 110.33,
-      "end": 119.98,
-      "text": "streets are clean and safe. Many areas are for walking only, no cars. You can sit by the river and",
+      "start": 63.1,
+      "end": 67.28,
+      "text": "Part three, a short history of Yubliana.",
       "words": [
         {
-          "word": "streets",
-          "startSec": 110.53,
-          "endSec": 110.83,
-          "score": 0.01
+          "word": "Part",
+          "start": 63.1,
+          "end": 63.74
         },
         {
-          "word": "are",
-          "startSec": 110.83,
-          "endSec": 111.15,
-          "score": 1.0
+          "word": "three,",
+          "start": 63.74,
+          "end": 64.26
         },
         {
-          "word": "clean",
-          "startSec": 111.15,
-          "endSec": 111.45,
-          "score": 1.0
+          "word": "a",
+          "start": 64.9,
+          "end": 65.04
         },
         {
-          "word": "and",
-          "startSec": 111.45,
-          "endSec": 111.73,
-          "score": 1.0
+          "word": "short",
+          "start": 65.04,
+          "end": 65.38
         },
         {
-          "word": "safe.",
-          "startSec": 111.73,
-          "endSec": 112.19,
-          "score": 1.0
+          "word": "history",
+          "start": 65.38,
+          "end": 65.9
         },
         {
-          "word": "Many",
-          "startSec": 113.11,
-          "endSec": 113.25,
-          "score": 0.98
+          "word": "of",
+          "start": 65.9,
+          "end": 66.14
         },
         {
-          "word": "areas",
-          "startSec": 113.25,
-          "endSec": 113.95,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 113.95,
-          "endSec": 114.25,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 114.25,
-          "endSec": 114.43,
-          "score": 1.0
-        },
-        {
-          "word": "walking",
-          "startSec": 114.43,
-          "endSec": 114.93,
-          "score": 1.0
-        },
-        {
-          "word": "only,",
-          "startSec": 114.93,
-          "endSec": 115.27,
-          "score": 0.99
-        },
-        {
-          "word": "no",
-          "startSec": 115.75,
-          "endSec": 116.07,
-          "score": 0.98
-        },
-        {
-          "word": "cars.",
-          "startSec": 116.07,
-          "endSec": 116.53,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 117.77,
-          "endSec": 117.97,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 117.97,
-          "endSec": 118.15,
-          "score": 1.0
-        },
-        {
-          "word": "sit",
-          "startSec": 118.15,
-          "endSec": 118.43,
-          "score": 1.0
-        },
-        {
-          "word": "by",
-          "startSec": 118.43,
-          "endSec": 118.71,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 118.71,
-          "endSec": 118.89,
-          "score": 0.99
-        },
-        {
-          "word": "river",
-          "startSec": 118.89,
-          "endSec": 119.21,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 119.21,
-          "endSec": 119.83,
-          "score": 0.97
+          "word": "Yubliana.",
+          "start": 66.14,
+          "end": 67.28
         }
       ]
     },
     {
       "id": 13,
-      "start": 119.63,
-      "end": 129.82,
-      "text": "enjoy a cup of coffee while you watch people and boats go by. Part 5, the people of Yubljana.",
+      "start": 67.84,
+      "end": 72.12,
+      "text": "Yubliana has a long and interesting history.",
       "words": [
         {
-          "word": "enjoy",
-          "startSec": 119.83,
-          "endSec": 120.21,
-          "score": 1.0
+          "word": "Yubliana",
+          "start": 67.84,
+          "end": 68.8
+        },
+        {
+          "word": "has",
+          "start": 68.8,
+          "end": 69.24
         },
         {
           "word": "a",
-          "startSec": 120.21,
-          "endSec": 120.49,
-          "score": 1.0
+          "start": 69.24,
+          "end": 69.42
         },
         {
-          "word": "cup",
-          "startSec": 120.49,
-          "endSec": 120.73,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 120.73,
-          "endSec": 120.89,
-          "score": 1.0
-        },
-        {
-          "word": "coffee",
-          "startSec": 120.89,
-          "endSec": 121.15,
-          "score": 1.0
-        },
-        {
-          "word": "while",
-          "startSec": 121.15,
-          "endSec": 121.67,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 121.67,
-          "endSec": 121.89,
-          "score": 1.0
-        },
-        {
-          "word": "watch",
-          "startSec": 121.89,
-          "endSec": 122.17,
-          "score": 1.0
-        },
-        {
-          "word": "people",
-          "startSec": 122.17,
-          "endSec": 122.71,
-          "score": 0.99
+          "word": "long",
+          "start": 69.42,
+          "end": 69.92
         },
         {
           "word": "and",
-          "startSec": 122.71,
-          "endSec": 122.97,
-          "score": 0.89
+          "start": 69.92,
+          "end": 70.34
         },
         {
-          "word": "boats",
-          "startSec": 122.97,
-          "endSec": 123.27,
-          "score": 1.0
+          "word": "interesting",
+          "start": 70.34,
+          "end": 71.0
         },
         {
-          "word": "go",
-          "startSec": 123.27,
-          "endSec": 123.65,
-          "score": 1.0
-        },
-        {
-          "word": "by.",
-          "startSec": 123.65,
-          "endSec": 123.95,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 126.85,
-          "endSec": 126.85,
-          "score": 0.79
-        },
-        {
-          "word": "5,",
-          "startSec": 126.85,
-          "endSec": 127.47,
-          "score": 0.7
-        },
-        {
-          "word": "the",
-          "startSec": 128.11,
-          "endSec": 128.11,
-          "score": 0.52
-        },
-        {
-          "word": "people",
-          "startSec": 128.11,
-          "endSec": 128.61,
-          "score": 0.69
-        },
-        {
-          "word": "of",
-          "startSec": 128.61,
-          "endSec": 128.91,
-          "score": 1.0
-        },
-        {
-          "word": "Yubljana.",
-          "startSec": 128.91,
-          "endSec": 129.67,
-          "score": 0.64
+          "word": "history.",
+          "start": 71.0,
+          "end": 72.12
         }
       ]
     },
     {
       "id": 14,
-      "start": 130.76,
-      "end": 140.21,
-      "text": "People in Yubljana are friendly and calm. They speak Slovene, the national language, but many also",
+      "start": 72.68,
+      "end": 76.2,
+      "text": "Long ago, it was part of the Roman Empire.",
       "words": [
         {
-          "word": "People",
-          "startSec": 130.96,
-          "endSec": 131.32,
-          "score": 0.99
+          "word": "Long",
+          "start": 72.68,
+          "end": 73.02
         },
         {
-          "word": "in",
-          "startSec": 131.32,
-          "endSec": 131.72,
-          "score": 0.98
+          "word": "ago,",
+          "start": 73.02,
+          "end": 73.54
         },
         {
-          "word": "Yubljana",
-          "startSec": 131.72,
-          "endSec": 132.36,
-          "score": 0.99
+          "word": "it",
+          "start": 73.84,
+          "end": 73.98
         },
         {
-          "word": "are",
-          "startSec": 132.36,
-          "endSec": 132.68,
-          "score": 1.0
+          "word": "was",
+          "start": 73.98,
+          "end": 74.14
         },
         {
-          "word": "friendly",
-          "startSec": 132.68,
-          "endSec": 133.08,
-          "score": 0.98
+          "word": "part",
+          "start": 74.14,
+          "end": 74.46
         },
         {
-          "word": "and",
-          "startSec": 133.08,
-          "endSec": 133.68,
-          "score": 1.0
-        },
-        {
-          "word": "calm.",
-          "startSec": 133.68,
-          "endSec": 134.06,
-          "score": 1.0
-        },
-        {
-          "word": "They",
-          "startSec": 135.08,
-          "endSec": 135.18,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 135.18,
-          "endSec": 135.56,
-          "score": 1.0
-        },
-        {
-          "word": "Slovene,",
-          "startSec": 135.56,
-          "endSec": 136.72,
-          "score": 0.83
+          "word": "of",
+          "start": 74.46,
+          "end": 74.6
         },
         {
           "word": "the",
-          "startSec": 137.16,
-          "endSec": 137.26,
-          "score": 0.99
+          "start": 74.6,
+          "end": 74.74
         },
         {
-          "word": "national",
-          "startSec": 137.26,
-          "endSec": 137.5,
-          "score": 0.86
+          "word": "Roman",
+          "start": 74.74,
+          "end": 75.08
         },
         {
-          "word": "language,",
-          "startSec": 137.5,
-          "endSec": 138.32,
-          "score": 1.0
-        },
-        {
-          "word": "but",
-          "startSec": 138.98,
-          "endSec": 139.32,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 139.32,
-          "endSec": 139.64,
-          "score": 1.0
-        },
-        {
-          "word": "also",
-          "startSec": 139.64,
-          "endSec": 140.06,
-          "score": 0.99
+          "word": "Empire.",
+          "start": 75.08,
+          "end": 76.2
         }
       ]
     },
     {
       "id": 15,
-      "start": 139.86,
-      "end": 149.93,
-      "text": "speak English very well. People like to spend time outdoors, walking, cycling, or relaxing in parks.",
+      "start": 76.72,
+      "end": 84.22,
+      "text": "Later, it became a part of Austria -Hungary, and after that, Yugoslavia.",
       "words": [
         {
-          "word": "speak",
-          "startSec": 140.06,
-          "endSec": 140.38,
-          "score": 0.01
+          "word": "Later,",
+          "start": 76.72,
+          "end": 77.28
         },
         {
-          "word": "English",
-          "startSec": 140.38,
-          "endSec": 140.96,
-          "score": 0.96
+          "word": "it",
+          "start": 77.58,
+          "end": 77.72
         },
         {
-          "word": "very",
-          "startSec": 140.96,
-          "endSec": 141.34,
-          "score": 0.99
+          "word": "became",
+          "start": 77.72,
+          "end": 78.16
         },
         {
-          "word": "well.",
-          "startSec": 141.34,
-          "endSec": 141.84,
-          "score": 1.0
+          "word": "a",
+          "start": 78.16,
+          "end": 78.52
         },
         {
-          "word": "People",
-          "startSec": 143.2,
-          "endSec": 143.44,
-          "score": 0.99
+          "word": "part",
+          "start": 78.52,
+          "end": 78.8
         },
         {
-          "word": "like",
-          "startSec": 143.44,
-          "endSec": 143.86,
-          "score": 1.0
+          "word": "of",
+          "start": 78.8,
+          "end": 79.1
         },
         {
-          "word": "to",
-          "startSec": 143.86,
-          "endSec": 144.06,
-          "score": 1.0
+          "word": "Austria",
+          "start": 79.1,
+          "end": 79.7
         },
         {
-          "word": "spend",
-          "startSec": 144.06,
-          "endSec": 144.4,
-          "score": 1.0
+          "word": "-Hungary,",
+          "start": 79.7,
+          "end": 80.46
         },
         {
-          "word": "time",
-          "startSec": 144.4,
-          "endSec": 144.72,
-          "score": 1.0
+          "word": "and",
+          "start": 80.95,
+          "end": 81.44
         },
         {
-          "word": "outdoors,",
-          "startSec": 144.72,
-          "endSec": 145.14,
-          "score": 1.0
+          "word": "after",
+          "start": 81.44,
+          "end": 81.96
         },
         {
-          "word": "walking,",
-          "startSec": 146.14,
-          "endSec": 146.76,
-          "score": 0.99
+          "word": "that,",
+          "start": 81.96,
+          "end": 82.44
         },
         {
-          "word": "cycling,",
-          "startSec": 147.28,
-          "endSec": 147.74,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 148.42,
-          "endSec": 148.54,
-          "score": 0.99
-        },
-        {
-          "word": "relaxing",
-          "startSec": 148.54,
-          "endSec": 149.04,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 149.04,
-          "endSec": 149.5,
-          "score": 1.0
-        },
-        {
-          "word": "parks.",
-          "startSec": 149.5,
-          "endSec": 149.78,
-          "score": 0.99
+          "word": "Yugoslavia.",
+          "start": 82.72,
+          "end": 84.22
         }
       ]
     },
     {
       "id": 16,
-      "start": 150.89,
-      "end": 160.56,
-      "text": "Family and friends are very important. Part 6, food in Yubljana. Food in Yubljana is simple but",
+      "start": 84.8,
+      "end": 90.26,
+      "text": "Today, it is the capital of an independent country, Slovenia.",
       "words": [
         {
-          "word": "Family",
-          "startSec": 151.09,
-          "endSec": 151.43,
-          "score": 0.97
+          "word": "Today,",
+          "start": 84.8,
+          "end": 85.1
         },
         {
-          "word": "and",
-          "startSec": 151.43,
-          "endSec": 151.93,
-          "score": 0.99
-        },
-        {
-          "word": "friends",
-          "startSec": 151.93,
-          "endSec": 152.29,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 152.29,
-          "endSec": 152.61,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 152.61,
-          "endSec": 152.83,
-          "score": 0.99
-        },
-        {
-          "word": "important.",
-          "startSec": 152.83,
-          "endSec": 153.41,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 154.37,
-          "endSec": 154.51,
-          "score": 0.91
-        },
-        {
-          "word": "6,",
-          "startSec": 154.51,
-          "endSec": 155.01,
-          "score": 0.56
-        },
-        {
-          "word": "food",
-          "startSec": 156.07,
-          "endSec": 156.09,
-          "score": 0.25
-        },
-        {
-          "word": "in",
-          "startSec": 156.09,
-          "endSec": 156.27,
-          "score": 0.46
-        },
-        {
-          "word": "Yubljana.",
-          "startSec": 156.27,
-          "endSec": 157.03,
-          "score": 0.56
-        },
-        {
-          "word": "Food",
-          "startSec": 157.67,
-          "endSec": 158.17,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 158.17,
-          "endSec": 158.47,
-          "score": 0.99
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 158.47,
-          "endSec": 159.17,
-          "score": 0.99
+          "word": "it",
+          "start": 85.32,
+          "end": 85.5
         },
         {
           "word": "is",
-          "startSec": 159.17,
-          "endSec": 159.49,
-          "score": 1.0
+          "start": 85.5,
+          "end": 85.7
         },
         {
-          "word": "simple",
-          "startSec": 159.49,
-          "endSec": 159.89,
-          "score": 0.99
+          "word": "the",
+          "start": 85.7,
+          "end": 85.92
         },
         {
-          "word": "but",
-          "startSec": 159.89,
-          "endSec": 160.41,
-          "score": 0.92
+          "word": "capital",
+          "start": 85.92,
+          "end": 86.4
+        },
+        {
+          "word": "of",
+          "start": 86.4,
+          "end": 86.84
+        },
+        {
+          "word": "an",
+          "start": 86.84,
+          "end": 87.02
+        },
+        {
+          "word": "independent",
+          "start": 87.02,
+          "end": 87.66
+        },
+        {
+          "word": "country,",
+          "start": 87.66,
+          "end": 88.34
+        },
+        {
+          "word": "Slovenia.",
+          "start": 88.9,
+          "end": 90.26
         }
       ]
     },
     {
       "id": 17,
-      "start": 160.21,
-      "end": 170.01,
-      "text": "delicious. One popular dish is jjansi made from cornmeal and served with milk or honey.",
+      "start": 90.56,
+      "end": 94.52,
+      "text": "The old buildings tell stories from the past.",
       "words": [
         {
-          "word": "delicious.",
-          "startSec": 160.41,
-          "endSec": 160.87,
-          "score": 0.53
+          "word": "The",
+          "start": 90.56,
+          "end": 90.74
         },
         {
-          "word": "One",
-          "startSec": 162.28,
-          "endSec": 162.72,
-          "score": 0.95
+          "word": "old",
+          "start": 90.74,
+          "end": 91.12
         },
         {
-          "word": "popular",
-          "startSec": 162.72,
-          "endSec": 163.2,
-          "score": 1.0
+          "word": "buildings",
+          "start": 91.12,
+          "end": 91.76
         },
         {
-          "word": "dish",
-          "startSec": 163.2,
-          "endSec": 163.88,
-          "score": 1.0
+          "word": "tell",
+          "start": 91.76,
+          "end": 92.3
         },
         {
-          "word": "is",
-          "startSec": 163.88,
-          "endSec": 164.18,
-          "score": 0.99
-        },
-        {
-          "word": "jjansi",
-          "startSec": 164.18,
-          "endSec": 165.24,
-          "score": 0.41
-        },
-        {
-          "word": "made",
-          "startSec": 165.24,
-          "endSec": 166.12,
-          "score": 0.44
+          "word": "stories",
+          "start": 92.3,
+          "end": 92.98
         },
         {
           "word": "from",
-          "startSec": 166.12,
-          "endSec": 166.48,
-          "score": 0.99
+          "start": 92.98,
+          "end": 93.3
         },
         {
-          "word": "cornmeal",
-          "startSec": 166.48,
-          "endSec": 167.38,
-          "score": 0.95
+          "word": "the",
+          "start": 93.3,
+          "end": 93.48
         },
         {
-          "word": "and",
-          "startSec": 167.38,
-          "endSec": 167.8,
-          "score": 0.98
-        },
-        {
-          "word": "served",
-          "startSec": 167.8,
-          "endSec": 168.16,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 168.16,
-          "endSec": 168.6,
-          "score": 0.99
-        },
-        {
-          "word": "milk",
-          "startSec": 168.6,
-          "endSec": 169.08,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 169.08,
-          "endSec": 169.46,
-          "score": 0.99
-        },
-        {
-          "word": "honey.",
-          "startSec": 169.46,
-          "endSec": 169.86,
-          "score": 1.0
+          "word": "past.",
+          "start": 93.48,
+          "end": 94.52
         }
       ]
     },
     {
       "id": 18,
-      "start": 170.54,
-      "end": 179.03,
-      "text": "People also eat soups, sausages, and fresh bread. In winter hot stews are very common.",
+      "start": 95.42,
+      "end": 98.88,
+      "text": "Part four, the city and its streets.",
       "words": [
         {
-          "word": "People",
-          "startSec": 170.74,
-          "endSec": 171.26,
-          "score": 0.99
+          "word": "Part",
+          "start": 95.42,
+          "end": 95.78
         },
         {
-          "word": "also",
-          "startSec": 171.26,
-          "endSec": 171.82,
-          "score": 0.99
+          "word": "four,",
+          "start": 95.78,
+          "end": 96.26
         },
         {
-          "word": "eat",
-          "startSec": 171.82,
-          "endSec": 172.12,
-          "score": 0.99
+          "word": "the",
+          "start": 96.96,
+          "end": 97.12
         },
         {
-          "word": "soups,",
-          "startSec": 172.12,
-          "endSec": 172.92,
-          "score": 0.99
-        },
-        {
-          "word": "sausages,",
-          "startSec": 173.08,
-          "endSec": 173.8,
-          "score": 0.99
+          "word": "city",
+          "start": 97.12,
+          "end": 97.52
         },
         {
           "word": "and",
-          "startSec": 173.8,
-          "endSec": 174.2,
-          "score": 0.99
+          "start": 97.52,
+          "end": 97.8
         },
         {
-          "word": "fresh",
-          "startSec": 174.2,
-          "endSec": 174.54,
-          "score": 1.0
+          "word": "its",
+          "start": 97.8,
+          "end": 97.98
         },
         {
-          "word": "bread.",
-          "startSec": 174.54,
-          "endSec": 175.0,
-          "score": 1.0
-        },
-        {
-          "word": "In",
-          "startSec": 175.98,
-          "endSec": 176.26,
-          "score": 1.0
-        },
-        {
-          "word": "winter",
-          "startSec": 176.26,
-          "endSec": 176.52,
-          "score": 0.98
-        },
-        {
-          "word": "hot",
-          "startSec": 176.52,
-          "endSec": 177.12,
-          "score": 0.49
-        },
-        {
-          "word": "stews",
-          "startSec": 177.12,
-          "endSec": 177.72,
-          "score": 0.92
-        },
-        {
-          "word": "are",
-          "startSec": 177.72,
-          "endSec": 177.98,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 177.98,
-          "endSec": 178.3,
-          "score": 0.99
-        },
-        {
-          "word": "common.",
-          "startSec": 178.3,
-          "endSec": 178.88,
-          "score": 1.0
+          "word": "streets.",
+          "start": 97.98,
+          "end": 98.88
         }
       ]
     },
     {
       "id": 19,
-      "start": 179.82,
-      "end": 188.05,
-      "text": "For dessert, tripotica, a sweet cake with nuts. It's a favorite in every Slovenian home.",
+      "start": 99.78,
+      "end": 103.5,
+      "text": "Yubliana city center is very beautiful.",
       "words": [
         {
-          "word": "For",
-          "startSec": 180.02,
-          "endSec": 180.14,
-          "score": 0.98
+          "word": "Yubliana",
+          "start": 99.78,
+          "end": 100.76
         },
         {
-          "word": "dessert,",
-          "startSec": 180.14,
-          "endSec": 180.58,
-          "score": 1.0
+          "word": "city",
+          "start": 100.76,
+          "end": 101.22
         },
         {
-          "word": "tripotica,",
-          "startSec": 181.28,
-          "endSec": 182.08,
-          "score": 0.48
+          "word": "center",
+          "start": 101.22,
+          "end": 101.76
         },
         {
-          "word": "a",
-          "startSec": 182.6,
-          "endSec": 182.72,
-          "score": 0.99
+          "word": "is",
+          "start": 101.76,
+          "end": 102.14
         },
         {
-          "word": "sweet",
-          "startSec": 182.72,
-          "endSec": 183.08,
-          "score": 0.99
+          "word": "very",
+          "start": 102.14,
+          "end": 102.5
         },
         {
-          "word": "cake",
-          "startSec": 183.08,
-          "endSec": 183.4,
-          "score": 0.92
-        },
-        {
-          "word": "with",
-          "startSec": 183.4,
-          "endSec": 183.72,
-          "score": 1.0
-        },
-        {
-          "word": "nuts.",
-          "startSec": 183.72,
-          "endSec": 184.04,
-          "score": 1.0
-        },
-        {
-          "word": "It's",
-          "startSec": 184.88,
-          "endSec": 185.46,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 185.46,
-          "endSec": 185.54,
-          "score": 0.99
-        },
-        {
-          "word": "favorite",
-          "startSec": 185.54,
-          "endSec": 186.06,
-          "score": 0.97
-        },
-        {
-          "word": "in",
-          "startSec": 186.06,
-          "endSec": 186.36,
-          "score": 1.0
-        },
-        {
-          "word": "every",
-          "startSec": 186.36,
-          "endSec": 186.84,
-          "score": 1.0
-        },
-        {
-          "word": "Slovenian",
-          "startSec": 186.84,
-          "endSec": 187.6,
-          "score": 0.97
-        },
-        {
-          "word": "home.",
-          "startSec": 187.6,
-          "endSec": 187.9,
-          "score": 1.0
+          "word": "beautiful.",
+          "start": 102.5,
+          "end": 103.5
         }
       ]
     },
     {
       "id": 20,
-      "start": 188.13,
-      "end": 197.17,
-      "text": "Part 7, markets and daily life. The main market in Yubljana is next to the river.",
+      "start": 103.8,
+      "end": 109.18,
+      "text": "There are colorful houses, small bridges, and many cafes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 188.33,
-          "endSec": 188.74,
-          "score": 0.15
+          "word": "There",
+          "start": 103.8,
+          "end": 104.2
         },
         {
-          "word": "7,",
-          "startSec": 188.74,
-          "endSec": 189.42,
-          "score": 0.69
+          "word": "are",
+          "start": 104.2,
+          "end": 104.36
         },
         {
-          "word": "markets",
-          "startSec": 190.14,
-          "endSec": 190.68,
-          "score": 0.09
+          "word": "colorful",
+          "start": 104.36,
+          "end": 104.92
+        },
+        {
+          "word": "houses,",
+          "start": 104.92,
+          "end": 105.54
+        },
+        {
+          "word": "small",
+          "start": 106.14,
+          "end": 106.5
+        },
+        {
+          "word": "bridges,",
+          "start": 106.5,
+          "end": 107.02
         },
         {
           "word": "and",
-          "startSec": 190.68,
-          "endSec": 191.06,
-          "score": 0.91
+          "start": 107.42,
+          "end": 107.84
         },
         {
-          "word": "daily",
-          "startSec": 191.06,
-          "endSec": 191.36,
-          "score": 1.0
+          "word": "many",
+          "start": 107.84,
+          "end": 108.24
         },
         {
-          "word": "life.",
-          "startSec": 191.36,
-          "endSec": 191.92,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 193.08,
-          "endSec": 193.22,
-          "score": 0.99
-        },
-        {
-          "word": "main",
-          "startSec": 193.22,
-          "endSec": 193.46,
-          "score": 0.97
-        },
-        {
-          "word": "market",
-          "startSec": 193.46,
-          "endSec": 194.2,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 194.2,
-          "endSec": 194.52,
-          "score": 0.99
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 194.52,
-          "endSec": 195.3,
-          "score": 0.52
-        },
-        {
-          "word": "is",
-          "startSec": 195.3,
-          "endSec": 195.74,
-          "score": 0.98
-        },
-        {
-          "word": "next",
-          "startSec": 195.74,
-          "endSec": 196.12,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 196.12,
-          "endSec": 196.52,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 196.52,
-          "endSec": 196.66,
-          "score": 1.0
-        },
-        {
-          "word": "river.",
-          "startSec": 196.66,
-          "endSec": 197.02,
-          "score": 0.98
+          "word": "cafes.",
+          "start": 108.24,
+          "end": 109.18
         }
       ]
     },
     {
       "id": 21,
-      "start": 197.64,
-      "end": 206.63,
-      "text": "It's full of fruits, vegetables, flowers, and local cheese. People love to buy food directly",
+      "start": 109.72,
+      "end": 112.71,
+      "text": "The streets are clean and safe.",
       "words": [
         {
-          "word": "It's",
-          "startSec": 197.84,
-          "endSec": 198.14,
-          "score": 0.96
+          "word": "The",
+          "start": 109.72,
+          "end": 110.56
         },
         {
-          "word": "full",
-          "startSec": 198.14,
-          "endSec": 198.42,
-          "score": 1.0
+          "word": "streets",
+          "start": 110.56,
+          "end": 110.9
         },
         {
-          "word": "of",
-          "startSec": 198.42,
-          "endSec": 198.6,
-          "score": 1.0
+          "word": "are",
+          "start": 110.9,
+          "end": 111.2
         },
         {
-          "word": "fruits,",
-          "startSec": 198.6,
-          "endSec": 199.1,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables,",
-          "startSec": 199.66,
-          "endSec": 200.26,
-          "score": 0.99
-        },
-        {
-          "word": "flowers,",
-          "startSec": 201.08,
-          "endSec": 201.56,
-          "score": 0.98
+          "word": "clean",
+          "start": 111.2,
+          "end": 111.6
         },
         {
           "word": "and",
-          "startSec": 202.26,
-          "endSec": 202.32,
-          "score": 1.0
+          "start": 111.6,
+          "end": 111.8
         },
         {
-          "word": "local",
-          "startSec": 202.32,
-          "endSec": 202.62,
-          "score": 0.99
-        },
-        {
-          "word": "cheese.",
-          "startSec": 202.62,
-          "endSec": 203.1,
-          "score": 0.98
-        },
-        {
-          "word": "People",
-          "startSec": 204.18,
-          "endSec": 204.66,
-          "score": 0.99
-        },
-        {
-          "word": "love",
-          "startSec": 204.66,
-          "endSec": 205.02,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 205.02,
-          "endSec": 205.3,
-          "score": 1.0
-        },
-        {
-          "word": "buy",
-          "startSec": 205.3,
-          "endSec": 205.54,
-          "score": 1.0
-        },
-        {
-          "word": "food",
-          "startSec": 205.54,
-          "endSec": 205.96,
-          "score": 1.0
-        },
-        {
-          "word": "directly",
-          "startSec": 205.96,
-          "endSec": 206.48,
-          "score": 0.99
+          "word": "safe.",
+          "start": 111.8,
+          "end": 112.71
         }
       ]
     },
     {
       "id": 22,
-      "start": 206.28,
-      "end": 216.09,
-      "text": "from farmers. On weekends, the market is busy and full of life. You can hear music and smell the",
+      "start": 112.96,
+      "end": 117.06,
+      "text": "Many areas are for walking only, no cars.",
       "words": [
         {
-          "word": "from",
-          "startSec": 206.48,
-          "endSec": 207.0,
-          "score": 1.0
+          "word": "Many",
+          "start": 112.96,
+          "end": 113.42
         },
         {
-          "word": "farmers.",
-          "startSec": 207.0,
-          "endSec": 207.36,
-          "score": 1.0
+          "word": "areas",
+          "start": 113.42,
+          "end": 114.02
         },
         {
-          "word": "On",
-          "startSec": 208.68,
-          "endSec": 208.86,
-          "score": 1.0
+          "word": "are",
+          "start": 114.02,
+          "end": 114.28
         },
         {
-          "word": "weekends,",
-          "startSec": 208.86,
-          "endSec": 209.38,
-          "score": 1.0
+          "word": "for",
+          "start": 114.28,
+          "end": 114.5
         },
         {
-          "word": "the",
-          "startSec": 209.9,
-          "endSec": 209.94,
-          "score": 1.0
+          "word": "walking",
+          "start": 114.5,
+          "end": 114.94
         },
         {
-          "word": "market",
-          "startSec": 209.94,
-          "endSec": 210.34,
-          "score": 1.0
+          "word": "only,",
+          "start": 114.94,
+          "end": 115.48
         },
         {
-          "word": "is",
-          "startSec": 210.34,
-          "endSec": 210.78,
-          "score": 1.0
+          "word": "no",
+          "start": 115.86,
+          "end": 116.16
         },
         {
-          "word": "busy",
-          "startSec": 210.78,
-          "endSec": 211.3,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 211.3,
-          "endSec": 211.66,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 211.66,
-          "endSec": 211.94,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 211.94,
-          "endSec": 212.18,
-          "score": 1.0
-        },
-        {
-          "word": "life.",
-          "startSec": 212.18,
-          "endSec": 212.52,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 213.38,
-          "endSec": 213.6,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 213.6,
-          "endSec": 213.8,
-          "score": 1.0
-        },
-        {
-          "word": "hear",
-          "startSec": 213.8,
-          "endSec": 214.08,
-          "score": 1.0
-        },
-        {
-          "word": "music",
-          "startSec": 214.08,
-          "endSec": 214.66,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 214.66,
-          "endSec": 215.18,
-          "score": 0.96
-        },
-        {
-          "word": "smell",
-          "startSec": 215.18,
-          "endSec": 215.58,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 215.58,
-          "endSec": 215.94,
-          "score": 1.0
+          "word": "cars.",
+          "start": 116.16,
+          "end": 117.06
         }
       ]
     },
     {
       "id": 23,
-      "start": 215.74,
-      "end": 226.47,
-      "text": "fresh bread and coffee. Part 8, the Castle on the Hill. On a hill above the city,",
+      "start": 117.7,
+      "end": 124.52,
+      "text": "You can sit by the river and enjoy a cup of coffee while you watch people and boats go by.",
       "words": [
         {
-          "word": "fresh",
-          "startSec": 215.94,
-          "endSec": 216.32,
-          "score": 0.29
+          "word": "You",
+          "start": 117.7,
+          "end": 118.0
         },
         {
-          "word": "bread",
-          "startSec": 216.32,
-          "endSec": 216.84,
-          "score": 1.0
+          "word": "can",
+          "start": 118.0,
+          "end": 118.26
+        },
+        {
+          "word": "sit",
+          "start": 118.26,
+          "end": 118.5
+        },
+        {
+          "word": "by",
+          "start": 118.5,
+          "end": 118.78
+        },
+        {
+          "word": "the",
+          "start": 118.78,
+          "end": 118.96
+        },
+        {
+          "word": "river",
+          "start": 118.96,
+          "end": 119.36
         },
         {
           "word": "and",
-          "startSec": 216.84,
-          "endSec": 217.08,
-          "score": 0.97
+          "start": 119.36,
+          "end": 119.88
         },
         {
-          "word": "coffee.",
-          "startSec": 217.08,
-          "endSec": 217.4,
-          "score": 1.0
-        },
-        {
-          "word": "Part",
-          "startSec": 220.4,
-          "endSec": 220.64,
-          "score": 0.84
-        },
-        {
-          "word": "8,",
-          "startSec": 220.64,
-          "endSec": 221.06,
-          "score": 0.49
-        },
-        {
-          "word": "the",
-          "startSec": 222.0,
-          "endSec": 222.0,
-          "score": 0.68
-        },
-        {
-          "word": "Castle",
-          "startSec": 222.0,
-          "endSec": 222.36,
-          "score": 0.7
-        },
-        {
-          "word": "on",
-          "startSec": 222.36,
-          "endSec": 222.9,
-          "score": 0.94
-        },
-        {
-          "word": "the",
-          "startSec": 222.9,
-          "endSec": 223.04,
-          "score": 0.98
-        },
-        {
-          "word": "Hill.",
-          "startSec": 223.04,
-          "endSec": 223.3,
-          "score": 0.94
-        },
-        {
-          "word": "On",
-          "startSec": 224.6,
-          "endSec": 224.9,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 119.88,
+          "end": 120.32
         },
         {
           "word": "a",
-          "startSec": 224.9,
-          "endSec": 225.06,
-          "score": 0.98
+          "start": 120.32,
+          "end": 120.58
         },
         {
-          "word": "hill",
-          "startSec": 225.06,
-          "endSec": 225.3,
-          "score": 0.9
+          "word": "cup",
+          "start": 120.58,
+          "end": 120.74
         },
         {
-          "word": "above",
-          "startSec": 225.3,
-          "endSec": 225.64,
-          "score": 1.0
+          "word": "of",
+          "start": 120.74,
+          "end": 120.96
         },
         {
-          "word": "the",
-          "startSec": 225.64,
-          "endSec": 225.94,
-          "score": 1.0
+          "word": "coffee",
+          "start": 120.96,
+          "end": 121.4
         },
         {
-          "word": "city,",
-          "startSec": 225.94,
-          "endSec": 226.32,
-          "score": 0.96
+          "word": "while",
+          "start": 121.4,
+          "end": 121.74
+        },
+        {
+          "word": "you",
+          "start": 121.74,
+          "end": 121.94
+        },
+        {
+          "word": "watch",
+          "start": 121.94,
+          "end": 122.3
+        },
+        {
+          "word": "people",
+          "start": 122.3,
+          "end": 122.74
+        },
+        {
+          "word": "and",
+          "start": 122.74,
+          "end": 123.02
+        },
+        {
+          "word": "boats",
+          "start": 123.02,
+          "end": 123.42
+        },
+        {
+          "word": "go",
+          "start": 123.42,
+          "end": 123.7
+        },
+        {
+          "word": "by.",
+          "start": 123.7,
+          "end": 124.52
         }
       ]
     },
     {
       "id": 24,
-      "start": 226.84,
-      "end": 235.09,
-      "text": "there is a big old castle, Yubljana Castle. You can walk up the hill or take a small train.",
+      "start": 126.48,
+      "end": 130.18,
+      "text": "Part five, the people of Yubliana.",
       "words": [
         {
-          "word": "there",
-          "startSec": 227.04,
-          "endSec": 227.22,
-          "score": 0.99
+          "word": "Part",
+          "start": 126.48,
+          "end": 126.9
         },
         {
-          "word": "is",
-          "startSec": 227.22,
-          "endSec": 227.46,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 227.46,
-          "endSec": 227.58,
-          "score": 0.99
-        },
-        {
-          "word": "big",
-          "startSec": 227.58,
-          "endSec": 228.0,
-          "score": 0.99
-        },
-        {
-          "word": "old",
-          "startSec": 228.0,
-          "endSec": 228.44,
-          "score": 0.93
-        },
-        {
-          "word": "castle,",
-          "startSec": 228.44,
-          "endSec": 228.96,
-          "score": 0.97
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 229.68,
-          "endSec": 230.48,
-          "score": 0.67
-        },
-        {
-          "word": "Castle.",
-          "startSec": 230.48,
-          "endSec": 230.84,
-          "score": 0.91
-        },
-        {
-          "word": "You",
-          "startSec": 231.62,
-          "endSec": 231.88,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 231.88,
-          "endSec": 232.08,
-          "score": 1.0
-        },
-        {
-          "word": "walk",
-          "startSec": 232.08,
-          "endSec": 232.38,
-          "score": 1.0
-        },
-        {
-          "word": "up",
-          "startSec": 232.38,
-          "endSec": 232.7,
-          "score": 1.0
+          "word": "five,",
+          "start": 126.9,
+          "end": 127.46
         },
         {
           "word": "the",
-          "startSec": 232.7,
-          "endSec": 232.94,
-          "score": 0.99
+          "start": 128.06,
+          "end": 128.16
         },
         {
-          "word": "hill",
-          "startSec": 232.94,
-          "endSec": 233.28,
-          "score": 0.98
+          "word": "people",
+          "start": 128.16,
+          "end": 128.64
         },
         {
-          "word": "or",
-          "startSec": 233.28,
-          "endSec": 233.64,
-          "score": 0.89
+          "word": "of",
+          "start": 128.64,
+          "end": 128.98
         },
         {
-          "word": "take",
-          "startSec": 233.64,
-          "endSec": 233.96,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 233.96,
-          "endSec": 234.14,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 234.14,
-          "endSec": 234.44,
-          "score": 1.0
-        },
-        {
-          "word": "train.",
-          "startSec": 234.44,
-          "endSec": 234.94,
-          "score": 1.0
+          "word": "Yubliana.",
+          "start": 128.98,
+          "end": 130.18
         }
       ]
     },
     {
       "id": 25,
-      "start": 235.46,
-      "end": 241.51,
-      "text": "From the top, you can see the whole city and the mountains far away.",
+      "start": 130.7,
+      "end": 134.54,
+      "text": "People in Yubliana are friendly and calm.",
       "words": [
         {
-          "word": "From",
-          "startSec": 235.66,
-          "endSec": 235.86,
-          "score": 0.99
+          "word": "People",
+          "start": 130.7,
+          "end": 131.54
         },
         {
-          "word": "the",
-          "startSec": 235.86,
-          "endSec": 236.06,
-          "score": 1.0
+          "word": "in",
+          "start": 131.54,
+          "end": 131.8
         },
         {
-          "word": "top,",
-          "startSec": 236.06,
-          "endSec": 236.46,
-          "score": 1.0
+          "word": "Yubliana",
+          "start": 131.8,
+          "end": 132.32
         },
         {
-          "word": "you",
-          "startSec": 237.22,
-          "endSec": 237.5,
-          "score": 1.0
+          "word": "are",
+          "start": 132.32,
+          "end": 132.72
         },
         {
-          "word": "can",
-          "startSec": 237.5,
-          "endSec": 237.68,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 237.68,
-          "endSec": 238.06,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 238.06,
-          "endSec": 238.46,
-          "score": 0.99
-        },
-        {
-          "word": "whole",
-          "startSec": 238.46,
-          "endSec": 238.76,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 238.76,
-          "endSec": 239.26,
-          "score": 0.99
+          "word": "friendly",
+          "start": 132.72,
+          "end": 133.3
         },
         {
           "word": "and",
-          "startSec": 239.26,
-          "endSec": 239.74,
-          "score": 0.95
+          "start": 133.3,
+          "end": 133.72
         },
         {
-          "word": "the",
-          "startSec": 239.74,
-          "endSec": 239.94,
-          "score": 0.97
-        },
-        {
-          "word": "mountains",
-          "startSec": 239.94,
-          "endSec": 240.4,
-          "score": 0.99
-        },
-        {
-          "word": "far",
-          "startSec": 240.4,
-          "endSec": 240.88,
-          "score": 0.99
-        },
-        {
-          "word": "away.",
-          "startSec": 240.88,
-          "endSec": 241.36,
-          "score": 0.99
+          "word": "calm.",
+          "start": 133.72,
+          "end": 134.54
         }
       ]
     },
     {
       "id": 26,
-      "start": 242.25,
-      "end": 247.6,
-      "text": "The castle is a popular place for tourists and local people.",
+      "start": 134.76,
+      "end": 142.34,
+      "text": "They speak Slovene, the national language, but many also speak English very well.",
       "words": [
         {
-          "word": "The",
-          "startSec": 242.45,
-          "endSec": 242.87,
-          "score": 0.39
+          "word": "They",
+          "start": 134.76,
+          "end": 135.22
         },
         {
-          "word": "castle",
-          "startSec": 242.87,
-          "endSec": 243.25,
-          "score": 0.44
+          "word": "speak",
+          "start": 135.22,
+          "end": 135.66
         },
         {
-          "word": "is",
-          "startSec": 243.25,
-          "endSec": 243.83,
-          "score": 0.99
+          "word": "Slovene,",
+          "start": 135.66,
+          "end": 137.02
         },
         {
-          "word": "a",
-          "startSec": 243.83,
-          "endSec": 244.01,
-          "score": 0.99
+          "word": "the",
+          "start": 137.18,
+          "end": 137.3
         },
         {
-          "word": "popular",
-          "startSec": 244.01,
-          "endSec": 244.57,
-          "score": 0.99
+          "word": "national",
+          "start": 137.3,
+          "end": 137.82
         },
         {
-          "word": "place",
-          "startSec": 244.57,
-          "endSec": 245.23,
-          "score": 1.0
+          "word": "language,",
+          "start": 137.82,
+          "end": 138.48
         },
         {
-          "word": "for",
-          "startSec": 245.23,
-          "endSec": 245.51,
-          "score": 0.99
+          "word": "but",
+          "start": 139.08,
+          "end": 139.38
         },
         {
-          "word": "tourists",
-          "startSec": 245.51,
-          "endSec": 246.09,
-          "score": 1.0
+          "word": "many",
+          "start": 139.38,
+          "end": 139.72
         },
         {
-          "word": "and",
-          "startSec": 246.09,
-          "endSec": 246.51,
-          "score": 0.99
+          "word": "also",
+          "start": 139.72,
+          "end": 140.12
         },
         {
-          "word": "local",
-          "startSec": 246.51,
-          "endSec": 246.81,
-          "score": 0.99
+          "word": "speak",
+          "start": 140.12,
+          "end": 140.54
         },
         {
-          "word": "people.",
-          "startSec": 246.81,
-          "endSec": 247.45,
-          "score": 1.0
+          "word": "English",
+          "start": 140.54,
+          "end": 141.06
+        },
+        {
+          "word": "very",
+          "start": 141.06,
+          "end": 141.5
+        },
+        {
+          "word": "well.",
+          "start": 141.5,
+          "end": 142.34
         }
       ]
     },
     {
       "id": 27,
-      "start": 248.17,
-      "end": 257.01,
-      "text": "Sometimes there are concerts or art shows inside. Part 9, art and culture.",
+      "start": 143.08,
+      "end": 150.36,
+      "text": "People like to spend time outdoors, walking, cycling, or relaxing in parks.",
       "words": [
         {
-          "word": "Sometimes",
-          "startSec": 248.37,
-          "endSec": 249.01,
-          "score": 0.89
+          "word": "People",
+          "start": 143.08,
+          "end": 143.58
         },
         {
-          "word": "there",
-          "startSec": 249.01,
-          "endSec": 249.55,
-          "score": 0.9
+          "word": "like",
+          "start": 143.58,
+          "end": 143.9
         },
         {
-          "word": "are",
-          "startSec": 249.55,
-          "endSec": 249.77,
-          "score": 1.0
+          "word": "to",
+          "start": 143.9,
+          "end": 144.1
         },
         {
-          "word": "concerts",
-          "startSec": 249.77,
-          "endSec": 250.39,
-          "score": 1.0
+          "word": "spend",
+          "start": 144.1,
+          "end": 144.36
+        },
+        {
+          "word": "time",
+          "start": 144.36,
+          "end": 144.82
+        },
+        {
+          "word": "outdoors,",
+          "start": 144.82,
+          "end": 145.42
+        },
+        {
+          "word": "walking,",
+          "start": 146.18,
+          "end": 146.8
+        },
+        {
+          "word": "cycling,",
+          "start": 147.48,
+          "end": 147.94
         },
         {
           "word": "or",
-          "startSec": 250.39,
-          "endSec": 250.93,
-          "score": 0.97
+          "start": 148.52,
+          "end": 148.58
         },
         {
-          "word": "art",
-          "startSec": 250.93,
-          "endSec": 251.29,
-          "score": 0.98
+          "word": "relaxing",
+          "start": 148.58,
+          "end": 149.22
         },
         {
-          "word": "shows",
-          "startSec": 251.29,
-          "endSec": 251.77,
-          "score": 1.0
+          "word": "in",
+          "start": 149.22,
+          "end": 149.54
         },
         {
-          "word": "inside.",
-          "startSec": 251.77,
-          "endSec": 252.25,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 254.18,
-          "endSec": 254.4,
-          "score": 0.64
-        },
-        {
-          "word": "9,",
-          "startSec": 254.4,
-          "endSec": 254.82,
-          "score": 0.67
-        },
-        {
-          "word": "art",
-          "startSec": 254.84,
-          "endSec": 256.22,
-          "score": 0.17
-        },
-        {
-          "word": "and",
-          "startSec": 256.22,
-          "endSec": 256.5,
-          "score": 0.96
-        },
-        {
-          "word": "culture.",
-          "startSec": 256.5,
-          "endSec": 256.86,
-          "score": 1.0
+          "word": "parks.",
+          "start": 149.54,
+          "end": 150.36
         }
       ]
     },
     {
       "id": 28,
-      "start": 257.92,
-      "end": 264.19,
-      "text": "Yubljana is a city of art. There are many museums, galleries, and theaters.",
+      "start": 151.08,
+      "end": 154.02,
+      "text": "Family and friends are very important.",
       "words": [
         {
-          "word": "Yubljana",
-          "startSec": 258.12,
-          "endSec": 258.86,
-          "score": 0.65
-        },
-        {
-          "word": "is",
-          "startSec": 258.86,
-          "endSec": 259.12,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 259.12,
-          "endSec": 259.24,
-          "score": 0.68
-        },
-        {
-          "word": "city",
-          "startSec": 259.24,
-          "endSec": 259.52,
-          "score": 0.94
-        },
-        {
-          "word": "of",
-          "startSec": 259.52,
-          "endSec": 259.78,
-          "score": 1.0
-        },
-        {
-          "word": "art.",
-          "startSec": 259.78,
-          "endSec": 260.12,
-          "score": 0.99
-        },
-        {
-          "word": "There",
-          "startSec": 260.76,
-          "endSec": 260.9,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 260.9,
-          "endSec": 261.08,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 261.08,
-          "endSec": 261.34,
-          "score": 1.0
-        },
-        {
-          "word": "museums,",
-          "startSec": 261.34,
-          "endSec": 262.0,
-          "score": 0.99
-        },
-        {
-          "word": "galleries,",
-          "startSec": 262.56,
-          "endSec": 262.82,
-          "score": 1.0
+          "word": "Family",
+          "start": 151.08,
+          "end": 151.62
         },
         {
           "word": "and",
-          "startSec": 263.64,
-          "endSec": 263.66,
-          "score": 1.0
+          "start": 151.62,
+          "end": 152.0
         },
         {
-          "word": "theaters.",
-          "startSec": 263.66,
-          "endSec": 264.04,
-          "score": 0.88
+          "word": "friends",
+          "start": 152.0,
+          "end": 152.38
+        },
+        {
+          "word": "are",
+          "start": 152.38,
+          "end": 152.64
+        },
+        {
+          "word": "very",
+          "start": 152.64,
+          "end": 152.96
+        },
+        {
+          "word": "important.",
+          "start": 152.96,
+          "end": 154.02
         }
       ]
     },
     {
       "id": 29,
-      "start": 264.74,
-      "end": 273.19,
-      "text": "Street art is also very common. You can see creative paintings on walls all around the city.",
+      "start": 154.44,
+      "end": 157.47,
+      "text": "Part six, food in Yubliana.",
       "words": [
         {
-          "word": "Street",
-          "startSec": 264.94,
-          "endSec": 265.76,
-          "score": 0.51
+          "word": "Part",
+          "start": 154.44,
+          "end": 154.66
         },
         {
-          "word": "art",
-          "startSec": 265.76,
-          "endSec": 266.08,
-          "score": 0.59
+          "word": "six,",
+          "start": 154.66,
+          "end": 155.16
         },
         {
-          "word": "is",
-          "startSec": 266.08,
-          "endSec": 266.42,
-          "score": 0.98
+          "word": "food",
+          "start": 155.88,
+          "end": 156.14
         },
         {
-          "word": "also",
-          "startSec": 266.42,
-          "endSec": 266.68,
-          "score": 0.96
+          "word": "in",
+          "start": 156.14,
+          "end": 156.38
         },
         {
-          "word": "very",
-          "startSec": 266.68,
-          "endSec": 267.22,
-          "score": 0.99
-        },
-        {
-          "word": "common.",
-          "startSec": 267.22,
-          "endSec": 267.8,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 268.78,
-          "endSec": 268.96,
-          "score": 0.97
-        },
-        {
-          "word": "can",
-          "startSec": 268.96,
-          "endSec": 269.14,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 269.14,
-          "endSec": 269.46,
-          "score": 1.0
-        },
-        {
-          "word": "creative",
-          "startSec": 269.46,
-          "endSec": 270.04,
-          "score": 0.99
-        },
-        {
-          "word": "paintings",
-          "startSec": 270.04,
-          "endSec": 270.48,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 270.48,
-          "endSec": 271.04,
-          "score": 1.0
-        },
-        {
-          "word": "walls",
-          "startSec": 271.04,
-          "endSec": 271.48,
-          "score": 1.0
-        },
-        {
-          "word": "all",
-          "startSec": 271.48,
-          "endSec": 272.04,
-          "score": 0.96
-        },
-        {
-          "word": "around",
-          "startSec": 272.04,
-          "endSec": 272.42,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 272.42,
-          "endSec": 272.68,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 272.68,
-          "endSec": 273.04,
-          "score": 0.98
+          "word": "Yubliana.",
+          "start": 156.38,
+          "end": 157.47
         }
       ]
     },
     {
       "id": 30,
-      "start": 274.37,
-      "end": 284.18,
-      "text": "One famous place for art and music is Mattelkova, a colorful cultural center full of murals and live music.",
+      "start": 157.7,
+      "end": 161.46,
+      "text": "Food in Yubliana is simple but delicious.",
       "words": [
         {
-          "word": "One",
-          "startSec": 274.57,
-          "endSec": 274.79,
-          "score": 0.91
+          "word": "Food",
+          "start": 157.7,
+          "end": 158.32
         },
         {
-          "word": "famous",
-          "startSec": 274.79,
-          "endSec": 275.35,
-          "score": 1.0
+          "word": "in",
+          "start": 158.32,
+          "end": 158.56
         },
         {
-          "word": "place",
-          "startSec": 275.35,
-          "endSec": 275.87,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 275.87,
-          "endSec": 276.17,
-          "score": 1.0
-        },
-        {
-          "word": "art",
-          "startSec": 276.17,
-          "endSec": 276.55,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 276.55,
-          "endSec": 276.81,
-          "score": 0.99
-        },
-        {
-          "word": "music",
-          "startSec": 276.81,
-          "endSec": 277.23,
-          "score": 1.0
+          "word": "Yubliana",
+          "start": 158.56,
+          "end": 159.22
         },
         {
           "word": "is",
-          "startSec": 277.23,
-          "endSec": 277.67,
-          "score": 1.0
+          "start": 159.22,
+          "end": 159.58
         },
         {
-          "word": "Mattelkova,",
-          "startSec": 277.67,
-          "endSec": 278.79,
-          "score": 0.72
+          "word": "simple",
+          "start": 159.58,
+          "end": 160.1
         },
         {
-          "word": "a",
-          "startSec": 279.31,
-          "endSec": 279.43,
-          "score": 0.99
+          "word": "but",
+          "start": 160.1,
+          "end": 160.46
         },
         {
-          "word": "colorful",
-          "startSec": 279.43,
-          "endSec": 279.87,
-          "score": 0.94
-        },
-        {
-          "word": "cultural",
-          "startSec": 279.87,
-          "endSec": 280.55,
-          "score": 0.86
-        },
-        {
-          "word": "center",
-          "startSec": 280.55,
-          "endSec": 281.41,
-          "score": 0.95
-        },
-        {
-          "word": "full",
-          "startSec": 281.41,
-          "endSec": 281.79,
-          "score": 0.95
-        },
-        {
-          "word": "of",
-          "startSec": 281.79,
-          "endSec": 282.05,
-          "score": 1.0
-        },
-        {
-          "word": "murals",
-          "startSec": 282.05,
-          "endSec": 282.77,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 282.77,
-          "endSec": 283.11,
-          "score": 0.99
-        },
-        {
-          "word": "live",
-          "startSec": 283.11,
-          "endSec": 283.39,
-          "score": 1.0
-        },
-        {
-          "word": "music.",
-          "startSec": 283.39,
-          "endSec": 284.03,
-          "score": 1.0
+          "word": "delicious.",
+          "start": 160.46,
+          "end": 161.46
         }
       ]
     },
     {
       "id": 31,
-      "start": 286.18,
-      "end": 294.64,
-      "text": "Part 10, nature and green spaces. Yubljana is one of the greenest cities in Europe.",
+      "start": 162.28,
+      "end": 170.3,
+      "text": "One popular dish is zhjonsi, made from cornmeal and served with milk or honey.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 286.38,
-          "endSec": 286.42,
-          "score": 0.91
+          "word": "One",
+          "start": 162.28,
+          "end": 162.82
         },
         {
-          "word": "10,",
-          "startSec": 286.42,
-          "endSec": 286.96,
-          "score": 0.88
+          "word": "popular",
+          "start": 162.82,
+          "end": 163.28
         },
         {
-          "word": "nature",
-          "startSec": 288.12,
-          "endSec": 288.36,
-          "score": 0.35
-        },
-        {
-          "word": "and",
-          "startSec": 288.36,
-          "endSec": 288.76,
-          "score": 0.95
-        },
-        {
-          "word": "green",
-          "startSec": 288.76,
-          "endSec": 288.98,
-          "score": 0.97
-        },
-        {
-          "word": "spaces.",
-          "startSec": 288.98,
-          "endSec": 289.72,
-          "score": 1.0
-        },
-        {
-          "word": "Yubljana",
-          "startSec": 291.19,
-          "endSec": 292.01,
-          "score": 0.62
+          "word": "dish",
+          "start": 163.28,
+          "end": 163.92
         },
         {
           "word": "is",
-          "startSec": 292.01,
-          "endSec": 292.37,
-          "score": 0.99
+          "start": 163.92,
+          "end": 164.28
         },
         {
-          "word": "one",
-          "startSec": 292.37,
-          "endSec": 292.61,
-          "score": 1.0
+          "word": "zhjonsi,",
+          "start": 164.28,
+          "end": 165.32
         },
         {
-          "word": "of",
-          "startSec": 292.61,
-          "endSec": 292.75,
-          "score": 1.0
+          "word": "made",
+          "start": 165.98,
+          "end": 166.24
         },
         {
-          "word": "the",
-          "startSec": 292.75,
-          "endSec": 292.89,
-          "score": 1.0
+          "word": "from",
+          "start": 166.24,
+          "end": 166.52
         },
         {
-          "word": "greenest",
-          "startSec": 292.89,
-          "endSec": 293.41,
-          "score": 0.98
+          "word": "cornmeal",
+          "start": 166.52,
+          "end": 167.46
         },
         {
-          "word": "cities",
-          "startSec": 293.41,
-          "endSec": 293.77,
-          "score": 1.0
+          "word": "and",
+          "start": 167.46,
+          "end": 167.86
         },
         {
-          "word": "in",
-          "startSec": 293.77,
-          "endSec": 294.17,
-          "score": 1.0
+          "word": "served",
+          "start": 167.86,
+          "end": 168.32
         },
         {
-          "word": "Europe.",
-          "startSec": 294.17,
-          "endSec": 294.49,
-          "score": 1.0
+          "word": "with",
+          "start": 168.32,
+          "end": 168.66
+        },
+        {
+          "word": "milk",
+          "start": 168.66,
+          "end": 169.12
+        },
+        {
+          "word": "or",
+          "start": 169.12,
+          "end": 169.52
+        },
+        {
+          "word": "honey.",
+          "start": 169.52,
+          "end": 170.3
         }
       ]
     },
     {
       "id": 32,
-      "start": 294.94,
-      "end": 304.68,
-      "text": "There are trees, gardens, and parks everywhere. The biggest park is Tivoli Park, a perfect place",
+      "start": 170.94,
+      "end": 175.5,
+      "text": "People also eat soups, sausages, and fresh bread.",
       "words": [
         {
-          "word": "There",
-          "startSec": 295.14,
-          "endSec": 295.61,
-          "score": 0.27
+          "word": "People",
+          "start": 170.94,
+          "end": 171.32
         },
         {
-          "word": "are",
-          "startSec": 295.61,
-          "endSec": 295.83,
-          "score": 0.98
+          "word": "also",
+          "start": 171.32,
+          "end": 171.82
         },
         {
-          "word": "trees,",
-          "startSec": 295.83,
-          "endSec": 296.35,
-          "score": 0.97
+          "word": "eat",
+          "start": 171.82,
+          "end": 172.2
         },
         {
-          "word": "gardens,",
-          "startSec": 296.83,
-          "endSec": 297.17,
-          "score": 0.98
+          "word": "soups,",
+          "start": 172.2,
+          "end": 173.12
+        },
+        {
+          "word": "sausages,",
+          "start": 173.16,
+          "end": 173.62
         },
         {
           "word": "and",
-          "startSec": 297.63,
-          "endSec": 297.73,
-          "score": 0.98
+          "start": 174.16,
+          "end": 174.26
         },
         {
-          "word": "parks",
-          "startSec": 297.73,
-          "endSec": 298.03,
-          "score": 0.99
+          "word": "fresh",
+          "start": 174.26,
+          "end": 174.64
         },
         {
-          "word": "everywhere.",
-          "startSec": 298.03,
-          "endSec": 298.73,
-          "score": 0.98
-        },
-        {
-          "word": "The",
-          "startSec": 300.11,
-          "endSec": 300.21,
-          "score": 0.95
-        },
-        {
-          "word": "biggest",
-          "startSec": 300.21,
-          "endSec": 300.59,
-          "score": 0.98
-        },
-        {
-          "word": "park",
-          "startSec": 300.59,
-          "endSec": 301.13,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 301.13,
-          "endSec": 301.57,
-          "score": 1.0
-        },
-        {
-          "word": "Tivoli",
-          "startSec": 301.57,
-          "endSec": 302.17,
-          "score": 0.58
-        },
-        {
-          "word": "Park,",
-          "startSec": 302.17,
-          "endSec": 302.69,
-          "score": 0.91
-        },
-        {
-          "word": "a",
-          "startSec": 303.35,
-          "endSec": 303.57,
-          "score": 0.98
-        },
-        {
-          "word": "perfect",
-          "startSec": 303.57,
-          "endSec": 303.89,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 303.89,
-          "endSec": 304.53,
-          "score": 1.0
+          "word": "bread.",
+          "start": 174.64,
+          "end": 175.5
         }
       ]
     },
     {
       "id": 33,
-      "start": 304.33,
-      "end": 315.33,
-      "text": "for walking, reading, or picnics. People love to relax there on sunny days. Even the air feels clean",
+      "start": 176.08,
+      "end": 179.32,
+      "text": "In winter, hot stews are very common.",
       "words": [
         {
-          "word": "for",
-          "startSec": 304.53,
-          "endSec": 304.77,
-          "score": 1.0
+          "word": "In",
+          "start": 176.08,
+          "end": 176.32
         },
         {
-          "word": "walking,",
-          "startSec": 304.77,
-          "endSec": 305.29,
-          "score": 1.0
+          "word": "winter,",
+          "start": 176.32,
+          "end": 176.72
         },
         {
-          "word": "reading,",
-          "startSec": 305.85,
-          "endSec": 306.29,
-          "score": 0.99
+          "word": "hot",
+          "start": 176.92,
+          "end": 177.26
         },
         {
-          "word": "or",
-          "startSec": 306.95,
-          "endSec": 306.99,
-          "score": 0.99
+          "word": "stews",
+          "start": 177.26,
+          "end": 177.9
         },
         {
-          "word": "picnics.",
-          "startSec": 306.99,
-          "endSec": 307.83,
-          "score": 0.98
+          "word": "are",
+          "start": 177.9,
+          "end": 178.02
         },
         {
-          "word": "People",
-          "startSec": 308.63,
-          "endSec": 309.13,
-          "score": 0.99
+          "word": "very",
+          "start": 178.02,
+          "end": 178.36
         },
         {
-          "word": "love",
-          "startSec": 309.13,
-          "endSec": 309.47,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 309.47,
-          "endSec": 309.75,
-          "score": 1.0
-        },
-        {
-          "word": "relax",
-          "startSec": 309.75,
-          "endSec": 310.17,
-          "score": 1.0
-        },
-        {
-          "word": "there",
-          "startSec": 310.17,
-          "endSec": 310.71,
-          "score": 0.96
-        },
-        {
-          "word": "on",
-          "startSec": 310.71,
-          "endSec": 310.95,
-          "score": 0.99
-        },
-        {
-          "word": "sunny",
-          "startSec": 310.95,
-          "endSec": 311.23,
-          "score": 1.0
-        },
-        {
-          "word": "days.",
-          "startSec": 311.23,
-          "endSec": 311.81,
-          "score": 1.0
-        },
-        {
-          "word": "Even",
-          "startSec": 313.22,
-          "endSec": 313.6,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 313.6,
-          "endSec": 313.82,
-          "score": 1.0
-        },
-        {
-          "word": "air",
-          "startSec": 313.82,
-          "endSec": 314.16,
-          "score": 1.0
-        },
-        {
-          "word": "feels",
-          "startSec": 314.16,
-          "endSec": 314.7,
-          "score": 1.0
-        },
-        {
-          "word": "clean",
-          "startSec": 314.7,
-          "endSec": 315.18,
-          "score": 1.0
+          "word": "common.",
+          "start": 178.36,
+          "end": 179.32
         }
       ]
     },
     {
       "id": 34,
-      "start": 314.98,
-      "end": 325.5,
-      "text": "and fresh. Part 11, festivals and events. Yubljana has many festivals during the year.",
+      "start": 179.9,
+      "end": 184.54,
+      "text": "For dessert, tripodica, a sweet cake with nuts.",
       "words": [
         {
-          "word": "and",
-          "startSec": 315.18,
-          "endSec": 315.8,
-          "score": 0.04
+          "word": "For",
+          "start": 179.9,
+          "end": 180.18
         },
         {
-          "word": "fresh.",
-          "startSec": 315.8,
-          "endSec": 316.16,
-          "score": 0.54
+          "word": "dessert,",
+          "start": 180.18,
+          "end": 180.7
         },
         {
-          "word": "Part",
-          "startSec": 317.83,
-          "endSec": 318.17,
-          "score": 0.73
+          "word": "tripodica,",
+          "start": 181.24,
+          "end": 182.26
         },
         {
-          "word": "11,",
-          "startSec": 318.17,
-          "endSec": 318.75,
-          "score": 0.95
+          "word": "a",
+          "start": 182.64,
+          "end": 182.88
         },
         {
-          "word": "festivals",
-          "startSec": 319.29,
-          "endSec": 319.91,
-          "score": 0.39
+          "word": "sweet",
+          "start": 182.88,
+          "end": 183.16
         },
         {
-          "word": "and",
-          "startSec": 319.91,
-          "endSec": 320.55,
-          "score": 0.94
+          "word": "cake",
+          "start": 183.16,
+          "end": 183.5
         },
         {
-          "word": "events.",
-          "startSec": 320.55,
-          "endSec": 320.89,
-          "score": 1.0
+          "word": "with",
+          "start": 183.5,
+          "end": 183.78
         },
         {
-          "word": "Yubljana",
-          "startSec": 321.85,
-          "endSec": 322.71,
-          "score": 0.62
-        },
-        {
-          "word": "has",
-          "startSec": 322.71,
-          "endSec": 323.15,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 323.15,
-          "endSec": 323.37,
-          "score": 1.0
-        },
-        {
-          "word": "festivals",
-          "startSec": 323.37,
-          "endSec": 324.03,
-          "score": 1.0
-        },
-        {
-          "word": "during",
-          "startSec": 324.03,
-          "endSec": 324.63,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 324.63,
-          "endSec": 324.95,
-          "score": 1.0
-        },
-        {
-          "word": "year.",
-          "startSec": 324.95,
-          "endSec": 325.35,
-          "score": 1.0
+          "word": "nuts.",
+          "start": 183.78,
+          "end": 184.54
         }
       ]
     },
     {
       "id": 35,
-      "start": 325.99,
-      "end": 332.5,
-      "text": "In summer, there are open air concerts, theater shows, and film nights.",
+      "start": 185.1,
+      "end": 188.08,
+      "text": "It's a favorite in every Slovenian home.",
       "words": [
         {
-          "word": "In",
-          "startSec": 326.19,
-          "endSec": 326.47,
-          "score": 1.0
+          "word": "It's",
+          "start": 185.1,
+          "end": 185.48
         },
         {
-          "word": "summer,",
-          "startSec": 326.47,
-          "endSec": 326.83,
-          "score": 0.98
+          "word": "a",
+          "start": 185.48,
+          "end": 185.62
         },
         {
-          "word": "there",
-          "startSec": 327.49,
-          "endSec": 327.75,
-          "score": 0.96
+          "word": "favorite",
+          "start": 185.62,
+          "end": 186.06
         },
         {
-          "word": "are",
-          "startSec": 327.75,
-          "endSec": 327.95,
-          "score": 1.0
+          "word": "in",
+          "start": 186.06,
+          "end": 186.44
         },
         {
-          "word": "open",
-          "startSec": 327.95,
-          "endSec": 328.31,
-          "score": 0.99
+          "word": "every",
+          "start": 186.44,
+          "end": 186.9
         },
         {
-          "word": "air",
-          "startSec": 328.31,
-          "endSec": 328.59,
-          "score": 0.53
+          "word": "Slovenian",
+          "start": 186.9,
+          "end": 187.66
         },
         {
-          "word": "concerts,",
-          "startSec": 328.59,
-          "endSec": 329.25,
-          "score": 1.0
-        },
-        {
-          "word": "theater",
-          "startSec": 330.11,
-          "endSec": 330.47,
-          "score": 0.91
-        },
-        {
-          "word": "shows,",
-          "startSec": 330.47,
-          "endSec": 331.03,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 331.51,
-          "endSec": 331.59,
-          "score": 1.0
-        },
-        {
-          "word": "film",
-          "startSec": 331.59,
-          "endSec": 331.87,
-          "score": 1.0
-        },
-        {
-          "word": "nights.",
-          "startSec": 331.87,
-          "endSec": 332.35,
-          "score": 1.0
+          "word": "home.",
+          "start": 187.66,
+          "end": 188.08
         }
       ]
     },
     {
       "id": 36,
-      "start": 333.23,
-      "end": 343.48,
-      "text": "People sit by the river, eat ice cream, and listen to music. In winter, the city has Christmas lights",
+      "start": 188.08,
+      "end": 192.51,
+      "text": "Part seven, markets and daily life.",
       "words": [
         {
-          "word": "People",
-          "startSec": 333.43,
-          "endSec": 333.95,
-          "score": 0.99
+          "word": "Part",
+          "start": 188.08,
+          "end": 188.86
         },
         {
-          "word": "sit",
-          "startSec": 333.95,
-          "endSec": 334.31,
-          "score": 0.99
+          "word": "seven,",
+          "start": 188.86,
+          "end": 189.5
         },
         {
-          "word": "by",
-          "startSec": 334.31,
-          "endSec": 334.63,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 334.63,
-          "endSec": 334.83,
-          "score": 1.0
-        },
-        {
-          "word": "river,",
-          "startSec": 334.83,
-          "endSec": 335.23,
-          "score": 1.0
-        },
-        {
-          "word": "eat",
-          "startSec": 335.71,
-          "endSec": 335.97,
-          "score": 1.0
-        },
-        {
-          "word": "ice",
-          "startSec": 335.97,
-          "endSec": 336.29,
-          "score": 1.0
-        },
-        {
-          "word": "cream,",
-          "startSec": 336.29,
-          "endSec": 336.75,
-          "score": 0.98
+          "word": "markets",
+          "start": 190.2,
+          "end": 190.74
         },
         {
           "word": "and",
-          "startSec": 337.59,
-          "endSec": 337.83,
-          "score": 1.0
+          "start": 190.74,
+          "end": 191.12
         },
         {
-          "word": "listen",
-          "startSec": 337.83,
-          "endSec": 338.19,
-          "score": 1.0
+          "word": "daily",
+          "start": 191.12,
+          "end": 191.46
         },
         {
-          "word": "to",
-          "startSec": 338.19,
-          "endSec": 338.53,
-          "score": 1.0
-        },
-        {
-          "word": "music.",
-          "startSec": 338.53,
-          "endSec": 339.11,
-          "score": 1.0
-        },
-        {
-          "word": "In",
-          "startSec": 340.07,
-          "endSec": 340.51,
-          "score": 1.0
-        },
-        {
-          "word": "winter,",
-          "startSec": 340.51,
-          "endSec": 341.01,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 341.45,
-          "endSec": 341.61,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 341.61,
-          "endSec": 341.91,
-          "score": 0.98
-        },
-        {
-          "word": "has",
-          "startSec": 341.91,
-          "endSec": 342.27,
-          "score": 1.0
-        },
-        {
-          "word": "Christmas",
-          "startSec": 342.27,
-          "endSec": 342.79,
-          "score": 0.98
-        },
-        {
-          "word": "lights",
-          "startSec": 342.79,
-          "endSec": 343.33,
-          "score": 1.0
+          "word": "life.",
+          "start": 191.46,
+          "end": 192.51
         }
       ]
     },
     {
       "id": 37,
-      "start": 343.13,
-      "end": 350.17,
-      "text": "and markets with hot drinks. The city always feels warm and welcoming.",
+      "start": 192.72,
+      "end": 197.47,
+      "text": "The main market in Yubliana is next to the river.",
       "words": [
         {
-          "word": "and",
-          "startSec": 343.33,
-          "endSec": 343.77,
-          "score": 0.34
-        },
-        {
-          "word": "markets",
-          "startSec": 343.77,
-          "endSec": 344.23,
-          "score": 0.97
-        },
-        {
-          "word": "with",
-          "startSec": 344.23,
-          "endSec": 344.61,
-          "score": 0.99
-        },
-        {
-          "word": "hot",
-          "startSec": 344.61,
-          "endSec": 344.91,
-          "score": 1.0
-        },
-        {
-          "word": "drinks.",
-          "startSec": 344.91,
-          "endSec": 345.37,
-          "score": 1.0
-        },
-        {
           "word": "The",
-          "startSec": 346.86,
-          "endSec": 346.96,
-          "score": 0.96
+          "start": 192.72,
+          "end": 193.26
         },
         {
-          "word": "city",
-          "startSec": 346.96,
-          "endSec": 347.32,
-          "score": 0.91
+          "word": "main",
+          "start": 193.26,
+          "end": 193.66
         },
         {
-          "word": "always",
-          "startSec": 347.32,
-          "endSec": 347.78,
-          "score": 1.0
+          "word": "market",
+          "start": 193.66,
+          "end": 194.2
         },
         {
-          "word": "feels",
-          "startSec": 347.78,
-          "endSec": 348.5,
-          "score": 1.0
+          "word": "in",
+          "start": 194.2,
+          "end": 194.56
         },
         {
-          "word": "warm",
-          "startSec": 348.5,
-          "endSec": 349.12,
-          "score": 1.0
+          "word": "Yubliana",
+          "start": 194.56,
+          "end": 195.32
         },
         {
-          "word": "and",
-          "startSec": 349.12,
-          "endSec": 349.54,
-          "score": 1.0
+          "word": "is",
+          "start": 195.32,
+          "end": 195.86
         },
         {
-          "word": "welcoming.",
-          "startSec": 349.54,
-          "endSec": 350.02,
-          "score": 1.0
+          "word": "next",
+          "start": 195.86,
+          "end": 196.22
+        },
+        {
+          "word": "to",
+          "start": 196.22,
+          "end": 196.58
+        },
+        {
+          "word": "the",
+          "start": 196.58,
+          "end": 196.74
+        },
+        {
+          "word": "river.",
+          "start": 196.74,
+          "end": 197.47
         }
       ]
     },
     {
       "id": 38,
-      "start": 351.99,
-      "end": 359.98,
-      "text": "Part 12, goodbye from Yubljana. Thank you for joining me on this journey to Yubljana.",
+      "start": 197.72,
+      "end": 203.62,
+      "text": "It's full of fruits, vegetables, flowers, and local cheese.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 352.19,
-          "endSec": 352.51,
-          "score": 0.78
+          "word": "It's",
+          "start": 197.72,
+          "end": 198.16
         },
         {
-          "word": "12,",
-          "startSec": 352.51,
-          "endSec": 353.11,
-          "score": 0.94
+          "word": "full",
+          "start": 198.16,
+          "end": 198.52
         },
         {
-          "word": "goodbye",
-          "startSec": 353.77,
-          "endSec": 354.05,
-          "score": 0.59
+          "word": "of",
+          "start": 198.52,
+          "end": 198.68
         },
         {
-          "word": "from",
-          "startSec": 354.05,
-          "endSec": 354.77,
-          "score": 0.99
+          "word": "fruits,",
+          "start": 198.68,
+          "end": 199.24
         },
         {
-          "word": "Yubljana.",
-          "startSec": 354.77,
-          "endSec": 355.53,
-          "score": 0.56
+          "word": "vegetables,",
+          "start": 199.76,
+          "end": 200.44
         },
         {
-          "word": "Thank",
-          "startSec": 356.21,
-          "endSec": 356.55,
-          "score": 0.98
+          "word": "flowers,",
+          "start": 201.12,
+          "end": 201.84
         },
         {
-          "word": "you",
-          "startSec": 356.55,
-          "endSec": 356.85,
-          "score": 1.0
+          "word": "and",
+          "start": 202.26,
+          "end": 202.38
         },
         {
-          "word": "for",
-          "startSec": 356.85,
-          "endSec": 357.03,
-          "score": 1.0
+          "word": "local",
+          "start": 202.38,
+          "end": 202.68
         },
         {
-          "word": "joining",
-          "startSec": 357.03,
-          "endSec": 357.43,
-          "score": 1.0
-        },
-        {
-          "word": "me",
-          "startSec": 357.43,
-          "endSec": 357.75,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 357.75,
-          "endSec": 357.99,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 357.99,
-          "endSec": 358.19,
-          "score": 1.0
-        },
-        {
-          "word": "journey",
-          "startSec": 358.19,
-          "endSec": 358.55,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 358.55,
-          "endSec": 359.05,
-          "score": 0.99
-        },
-        {
-          "word": "Yubljana.",
-          "startSec": 359.05,
-          "endSec": 359.83,
-          "score": 0.99
+          "word": "cheese.",
+          "start": 202.68,
+          "end": 203.62
         }
       ]
     },
     {
       "id": 39,
-      "start": 360.15,
-      "end": 369.29,
-      "text": "It is a city full of peace, culture, and natural beauty. From its green parks to its calm river,",
+      "start": 204.24,
+      "end": 207.94,
+      "text": "People love to buy food directly from farmers.",
       "words": [
         {
-          "word": "It",
-          "startSec": 360.35,
-          "endSec": 360.61,
-          "score": 1.0
+          "word": "People",
+          "start": 204.24,
+          "end": 204.68
         },
         {
-          "word": "is",
-          "startSec": 360.61,
-          "endSec": 360.77,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 360.77,
-          "endSec": 360.97,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 360.97,
-          "endSec": 361.35,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 361.35,
-          "endSec": 361.87,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 361.87,
-          "endSec": 362.13,
-          "score": 1.0
-        },
-        {
-          "word": "peace,",
-          "startSec": 362.13,
-          "endSec": 362.57,
-          "score": 1.0
-        },
-        {
-          "word": "culture,",
-          "startSec": 363.21,
-          "endSec": 363.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 364.13,
-          "endSec": 364.19,
-          "score": 1.0
-        },
-        {
-          "word": "natural",
-          "startSec": 364.19,
-          "endSec": 364.67,
-          "score": 1.0
-        },
-        {
-          "word": "beauty.",
-          "startSec": 364.67,
-          "endSec": 365.27,
-          "score": 1.0
-        },
-        {
-          "word": "From",
-          "startSec": 366.36,
-          "endSec": 366.66,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 366.66,
-          "endSec": 366.88,
-          "score": 0.95
-        },
-        {
-          "word": "green",
-          "startSec": 366.88,
-          "endSec": 367.16,
-          "score": 0.98
-        },
-        {
-          "word": "parks",
-          "startSec": 367.16,
-          "endSec": 367.64,
-          "score": 0.92
+          "word": "love",
+          "start": 204.68,
+          "end": 205.1
         },
         {
           "word": "to",
-          "startSec": 367.64,
-          "endSec": 368.16,
-          "score": 0.95
+          "start": 205.1,
+          "end": 205.36
         },
         {
-          "word": "its",
-          "startSec": 368.16,
-          "endSec": 368.38,
-          "score": 0.99
+          "word": "buy",
+          "start": 205.36,
+          "end": 205.62
         },
         {
-          "word": "calm",
-          "startSec": 368.38,
-          "endSec": 368.7,
-          "score": 0.97
+          "word": "food",
+          "start": 205.62,
+          "end": 206.08
         },
         {
-          "word": "river,",
-          "startSec": 368.7,
-          "endSec": 369.14,
-          "score": 0.99
+          "word": "directly",
+          "start": 206.08,
+          "end": 206.54
+        },
+        {
+          "word": "from",
+          "start": 206.54,
+          "end": 207.06
+        },
+        {
+          "word": "farmers.",
+          "start": 207.06,
+          "end": 207.94
         }
       ]
     },
     {
       "id": 40,
-      "start": 369.58,
-      "end": 377.95,
-      "text": "the Yubljana shows that small cities can have big hearts. If you ever visit Europe,",
+      "start": 208.6,
+      "end": 213.02,
+      "text": "On weekends, the market is busy and full of life.",
       "words": [
         {
+          "word": "On",
+          "start": 208.6,
+          "end": 208.94
+        },
+        {
+          "word": "weekends,",
+          "start": 208.94,
+          "end": 209.38
+        },
+        {
           "word": "the",
-          "startSec": 369.78,
-          "endSec": 370.2,
-          "score": 0.19
+          "start": 209.92,
+          "end": 210.0
         },
         {
-          "word": "Yubljana",
-          "startSec": 370.2,
-          "endSec": 370.74,
-          "score": 0.55
+          "word": "market",
+          "start": 210.0,
+          "end": 210.48
         },
         {
-          "word": "shows",
-          "startSec": 370.74,
-          "endSec": 371.3,
-          "score": 0.98
+          "word": "is",
+          "start": 210.48,
+          "end": 210.84
         },
         {
-          "word": "that",
-          "startSec": 371.3,
-          "endSec": 371.62,
-          "score": 1.0
+          "word": "busy",
+          "start": 210.84,
+          "end": 211.38
         },
         {
-          "word": "small",
-          "startSec": 371.62,
-          "endSec": 372.0,
-          "score": 0.99
+          "word": "and",
+          "start": 211.38,
+          "end": 211.72
         },
         {
-          "word": "cities",
-          "startSec": 372.0,
-          "endSec": 372.62,
-          "score": 1.0
+          "word": "full",
+          "start": 211.72,
+          "end": 212.08
         },
         {
-          "word": "can",
-          "startSec": 372.62,
-          "endSec": 373.04,
-          "score": 0.99
+          "word": "of",
+          "start": 212.08,
+          "end": 212.26
         },
         {
-          "word": "have",
-          "startSec": 373.04,
-          "endSec": 373.38,
-          "score": 1.0
-        },
-        {
-          "word": "big",
-          "startSec": 373.38,
-          "endSec": 373.7,
-          "score": 1.0
-        },
-        {
-          "word": "hearts.",
-          "startSec": 373.7,
-          "endSec": 374.16,
-          "score": 1.0
-        },
-        {
-          "word": "If",
-          "startSec": 376.16,
-          "endSec": 376.24,
-          "score": 0.97
-        },
-        {
-          "word": "you",
-          "startSec": 376.24,
-          "endSec": 376.44,
-          "score": 1.0
-        },
-        {
-          "word": "ever",
-          "startSec": 376.44,
-          "endSec": 376.84,
-          "score": 0.99
-        },
-        {
-          "word": "visit",
-          "startSec": 376.84,
-          "endSec": 377.26,
-          "score": 1.0
-        },
-        {
-          "word": "Europe,",
-          "startSec": 377.26,
-          "endSec": 377.8,
-          "score": 0.99
+          "word": "life.",
+          "start": 212.26,
+          "end": 213.02
         }
       ]
     },
     {
       "id": 41,
-      "start": 378.04,
-      "end": 386.59,
-      "text": "remember this charming place. Goodbye, or as people in Slovenia say, nas videnya.",
+      "start": 213.34,
+      "end": 218.04,
+      "text": "You can hear music and smell the fresh bread and coffee.",
       "words": [
         {
-          "word": "remember",
-          "startSec": 378.24,
-          "endSec": 378.66,
-          "score": 1.0
+          "word": "You",
+          "start": 213.34,
+          "end": 213.64
         },
         {
-          "word": "this",
-          "startSec": 378.66,
-          "endSec": 379.24,
-          "score": 0.99
+          "word": "can",
+          "start": 213.64,
+          "end": 213.88
         },
         {
-          "word": "charming",
-          "startSec": 379.24,
-          "endSec": 379.68,
-          "score": 0.99
+          "word": "hear",
+          "start": 213.88,
+          "end": 214.16
         },
         {
-          "word": "place.",
-          "startSec": 379.68,
-          "endSec": 380.38,
-          "score": 1.0
+          "word": "music",
+          "start": 214.16,
+          "end": 214.7
         },
         {
-          "word": "Goodbye,",
-          "startSec": 381.82,
-          "endSec": 382.16,
-          "score": 0.72
+          "word": "and",
+          "start": 214.7,
+          "end": 215.24
+        },
+        {
+          "word": "smell",
+          "start": 215.24,
+          "end": 215.72
+        },
+        {
+          "word": "the",
+          "start": 215.72,
+          "end": 216.0
+        },
+        {
+          "word": "fresh",
+          "start": 216.0,
+          "end": 216.32
+        },
+        {
+          "word": "bread",
+          "start": 216.32,
+          "end": 216.9
+        },
+        {
+          "word": "and",
+          "start": 216.9,
+          "end": 217.14
+        },
+        {
+          "word": "coffee.",
+          "start": 217.14,
+          "end": 218.04
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 219.92,
+      "end": 223.86,
+      "text": "Part eight, the castle on the hill.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 219.92,
+          "end": 220.64
+        },
+        {
+          "word": "eight,",
+          "start": 220.64,
+          "end": 221.18
+        },
+        {
+          "word": "the",
+          "start": 221.92,
+          "end": 222.04
+        },
+        {
+          "word": "castle",
+          "start": 222.04,
+          "end": 222.58
+        },
+        {
+          "word": "on",
+          "start": 222.58,
+          "end": 222.96
+        },
+        {
+          "word": "the",
+          "start": 222.96,
+          "end": 223.12
+        },
+        {
+          "word": "hill.",
+          "start": 223.12,
+          "end": 223.86
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 224.62,
+      "end": 231.48,
+      "text": "On a hill above the city, there is a big old castle, Yubliana Castle.",
+      "words": [
+        {
+          "word": "On",
+          "start": 224.62,
+          "end": 224.96
+        },
+        {
+          "word": "a",
+          "start": 224.96,
+          "end": 225.16
+        },
+        {
+          "word": "hill",
+          "start": 225.16,
+          "end": 225.42
+        },
+        {
+          "word": "above",
+          "start": 225.42,
+          "end": 225.68
+        },
+        {
+          "word": "the",
+          "start": 225.68,
+          "end": 226.02
+        },
+        {
+          "word": "city,",
+          "start": 226.02,
+          "end": 226.38
+        },
+        {
+          "word": "there",
+          "start": 226.72,
+          "end": 227.26
+        },
+        {
+          "word": "is",
+          "start": 227.26,
+          "end": 227.5
+        },
+        {
+          "word": "a",
+          "start": 227.5,
+          "end": 227.64
+        },
+        {
+          "word": "big",
+          "start": 227.64,
+          "end": 228.08
+        },
+        {
+          "word": "old",
+          "start": 228.08,
+          "end": 228.52
+        },
+        {
+          "word": "castle,",
+          "start": 228.52,
+          "end": 229.24
+        },
+        {
+          "word": "Yubliana",
+          "start": 229.92,
+          "end": 230.5
+        },
+        {
+          "word": "Castle.",
+          "start": 230.5,
+          "end": 231.48
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 231.72,
+      "end": 235.39,
+      "text": "You can walk up the hill or take a small train.",
+      "words": [
+        {
+          "word": "You",
+          "start": 231.72,
+          "end": 231.92
+        },
+        {
+          "word": "can",
+          "start": 231.92,
+          "end": 232.14
+        },
+        {
+          "word": "walk",
+          "start": 232.14,
+          "end": 232.46
+        },
+        {
+          "word": "up",
+          "start": 232.46,
+          "end": 232.78
+        },
+        {
+          "word": "the",
+          "start": 232.78,
+          "end": 233.06
+        },
+        {
+          "word": "hill",
+          "start": 233.06,
+          "end": 233.38
         },
         {
           "word": "or",
-          "startSec": 382.8,
-          "endSec": 382.98,
-          "score": 0.99
+          "start": 233.38,
+          "end": 233.68
         },
         {
-          "word": "as",
-          "startSec": 382.98,
-          "endSec": 383.24,
-          "score": 0.95
+          "word": "take",
+          "start": 233.68,
+          "end": 234.0
         },
         {
-          "word": "people",
-          "startSec": 383.24,
-          "endSec": 383.64,
-          "score": 0.94
+          "word": "a",
+          "start": 234.0,
+          "end": 234.22
+        },
+        {
+          "word": "small",
+          "start": 234.22,
+          "end": 234.52
+        },
+        {
+          "word": "train.",
+          "start": 234.52,
+          "end": 235.39
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 235.62,
+      "end": 241.82,
+      "text": "From the top, you can see the whole city and the mountains far away.",
+      "words": [
+        {
+          "word": "From",
+          "start": 235.62,
+          "end": 235.9
+        },
+        {
+          "word": "the",
+          "start": 235.9,
+          "end": 236.1
+        },
+        {
+          "word": "top,",
+          "start": 236.1,
+          "end": 236.62
+        },
+        {
+          "word": "you",
+          "start": 237.32,
+          "end": 237.54
+        },
+        {
+          "word": "can",
+          "start": 237.54,
+          "end": 237.78
+        },
+        {
+          "word": "see",
+          "start": 237.78,
+          "end": 238.18
+        },
+        {
+          "word": "the",
+          "start": 238.18,
+          "end": 238.5
+        },
+        {
+          "word": "whole",
+          "start": 238.5,
+          "end": 238.9
+        },
+        {
+          "word": "city",
+          "start": 238.9,
+          "end": 239.38
+        },
+        {
+          "word": "and",
+          "start": 239.38,
+          "end": 239.82
+        },
+        {
+          "word": "the",
+          "start": 239.82,
+          "end": 240.0
+        },
+        {
+          "word": "mountains",
+          "start": 240.0,
+          "end": 240.46
+        },
+        {
+          "word": "far",
+          "start": 240.46,
+          "end": 241.0
+        },
+        {
+          "word": "away.",
+          "start": 241.0,
+          "end": 241.82
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 242.14,
+      "end": 247.9,
+      "text": "The castle is a popular place for tourists and local people.",
+      "words": [
+        {
+          "word": "The",
+          "start": 242.14,
+          "end": 242.9
+        },
+        {
+          "word": "castle",
+          "start": 242.9,
+          "end": 243.46
+        },
+        {
+          "word": "is",
+          "start": 243.46,
+          "end": 243.9
+        },
+        {
+          "word": "a",
+          "start": 243.9,
+          "end": 244.06
+        },
+        {
+          "word": "popular",
+          "start": 244.06,
+          "end": 244.6
+        },
+        {
+          "word": "place",
+          "start": 244.6,
+          "end": 245.24
+        },
+        {
+          "word": "for",
+          "start": 245.24,
+          "end": 245.56
+        },
+        {
+          "word": "tourists",
+          "start": 245.56,
+          "end": 246.16
+        },
+        {
+          "word": "and",
+          "start": 246.16,
+          "end": 246.56
+        },
+        {
+          "word": "local",
+          "start": 246.56,
+          "end": 246.9
+        },
+        {
+          "word": "people.",
+          "start": 246.9,
+          "end": 247.9
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 248.38,
+      "end": 252.96,
+      "text": "Sometimes there are concerts or art shows inside.",
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 248.38,
+          "end": 249.04
+        },
+        {
+          "word": "there",
+          "start": 249.04,
+          "end": 249.6
+        },
+        {
+          "word": "are",
+          "start": 249.6,
+          "end": 249.82
+        },
+        {
+          "word": "concerts",
+          "start": 249.82,
+          "end": 250.48
+        },
+        {
+          "word": "or",
+          "start": 250.48,
+          "end": 250.98
+        },
+        {
+          "word": "art",
+          "start": 250.98,
+          "end": 251.42
+        },
+        {
+          "word": "shows",
+          "start": 251.42,
+          "end": 251.82
+        },
+        {
+          "word": "inside.",
+          "start": 251.82,
+          "end": 252.96
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 254.12,
+      "end": 257.52,
+      "text": "Part nine, art and culture.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 254.12,
+          "end": 254.44
+        },
+        {
+          "word": "nine,",
+          "start": 254.44,
+          "end": 254.92
+        },
+        {
+          "word": "art",
+          "start": 255.82,
+          "end": 256.26
+        },
+        {
+          "word": "and",
+          "start": 256.26,
+          "end": 256.56
+        },
+        {
+          "word": "culture.",
+          "start": 256.56,
+          "end": 257.52
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 258.26,
+      "end": 260.51,
+      "text": "Yubliana is a city of art.",
+      "words": [
+        {
+          "word": "Yubliana",
+          "start": 258.26,
+          "end": 258.86
+        },
+        {
+          "word": "is",
+          "start": 258.86,
+          "end": 259.18
+        },
+        {
+          "word": "a",
+          "start": 259.18,
+          "end": 259.3
+        },
+        {
+          "word": "city",
+          "start": 259.3,
+          "end": 259.58
+        },
+        {
+          "word": "of",
+          "start": 259.58,
+          "end": 259.84
+        },
+        {
+          "word": "art.",
+          "start": 259.84,
+          "end": 260.51
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 260.66,
+      "end": 264.58,
+      "text": "There are many museums, galleries, and theaters.",
+      "words": [
+        {
+          "word": "There",
+          "start": 260.66,
+          "end": 260.94
+        },
+        {
+          "word": "are",
+          "start": 260.94,
+          "end": 261.12
+        },
+        {
+          "word": "many",
+          "start": 261.12,
+          "end": 261.5
+        },
+        {
+          "word": "museums,",
+          "start": 261.5,
+          "end": 262.34
+        },
+        {
+          "word": "galleries,",
+          "start": 262.62,
+          "end": 263.12
+        },
+        {
+          "word": "and",
+          "start": 263.62,
+          "end": 263.72
+        },
+        {
+          "word": "theaters.",
+          "start": 263.72,
+          "end": 264.58
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 265.26,
+      "end": 268.24,
+      "text": "Street art is also very common.",
+      "words": [
+        {
+          "word": "Street",
+          "start": 265.26,
+          "end": 265.8
+        },
+        {
+          "word": "art",
+          "start": 265.8,
+          "end": 266.16
+        },
+        {
+          "word": "is",
+          "start": 266.16,
+          "end": 266.48
+        },
+        {
+          "word": "also",
+          "start": 266.48,
+          "end": 266.84
+        },
+        {
+          "word": "very",
+          "start": 266.84,
+          "end": 267.26
+        },
+        {
+          "word": "common.",
+          "start": 267.26,
+          "end": 268.24
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 268.66,
+      "end": 273.48,
+      "text": "You can see creative paintings on walls all around the city.",
+      "words": [
+        {
+          "word": "You",
+          "start": 268.66,
+          "end": 268.98
+        },
+        {
+          "word": "can",
+          "start": 268.98,
+          "end": 269.22
+        },
+        {
+          "word": "see",
+          "start": 269.22,
+          "end": 269.52
+        },
+        {
+          "word": "creative",
+          "start": 269.52,
+          "end": 269.96
+        },
+        {
+          "word": "paintings",
+          "start": 269.96,
+          "end": 270.66
+        },
+        {
+          "word": "on",
+          "start": 270.66,
+          "end": 271.1
+        },
+        {
+          "word": "walls",
+          "start": 271.1,
+          "end": 271.58
+        },
+        {
+          "word": "all",
+          "start": 271.58,
+          "end": 272.12
+        },
+        {
+          "word": "around",
+          "start": 272.12,
+          "end": 272.48
+        },
+        {
+          "word": "the",
+          "start": 272.48,
+          "end": 272.76
+        },
+        {
+          "word": "city.",
+          "start": 272.76,
+          "end": 273.48
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 274.16,
+      "end": 284.5,
+      "text": "One famous place for art and music is Matelkova, a colorful cultural center full of murals and live music.",
+      "words": [
+        {
+          "word": "One",
+          "start": 274.16,
+          "end": 274.9
+        },
+        {
+          "word": "famous",
+          "start": 274.9,
+          "end": 275.38
+        },
+        {
+          "word": "place",
+          "start": 275.38,
+          "end": 275.86
+        },
+        {
+          "word": "for",
+          "start": 275.86,
+          "end": 276.24
+        },
+        {
+          "word": "art",
+          "start": 276.24,
+          "end": 276.64
+        },
+        {
+          "word": "and",
+          "start": 276.64,
+          "end": 276.88
+        },
+        {
+          "word": "music",
+          "start": 276.88,
+          "end": 277.32
+        },
+        {
+          "word": "is",
+          "start": 277.32,
+          "end": 277.74
+        },
+        {
+          "word": "Matelkova,",
+          "start": 277.74,
+          "end": 278.82
+        },
+        {
+          "word": "a",
+          "start": 279.28,
+          "end": 279.48
+        },
+        {
+          "word": "colorful",
+          "start": 279.48,
+          "end": 280.14
+        },
+        {
+          "word": "cultural",
+          "start": 280.14,
+          "end": 280.74
+        },
+        {
+          "word": "center",
+          "start": 280.74,
+          "end": 281.44
+        },
+        {
+          "word": "full",
+          "start": 281.44,
+          "end": 281.84
+        },
+        {
+          "word": "of",
+          "start": 281.84,
+          "end": 282.12
+        },
+        {
+          "word": "murals",
+          "start": 282.12,
+          "end": 282.82
+        },
+        {
+          "word": "and",
+          "start": 282.82,
+          "end": 283.16
+        },
+        {
+          "word": "live",
+          "start": 283.16,
+          "end": 283.52
+        },
+        {
+          "word": "music.",
+          "start": 283.52,
+          "end": 284.5
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 285.7,
+      "end": 290.22,
+      "text": "Part 10, nature and green spaces.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 285.7,
+          "end": 286.52
+        },
+        {
+          "word": "10,",
+          "start": 286.52,
+          "end": 287.14
+        },
+        {
+          "word": "nature",
+          "start": 288.02,
+          "end": 288.32
+        },
+        {
+          "word": "and",
+          "start": 288.32,
+          "end": 288.8
+        },
+        {
+          "word": "green",
+          "start": 288.8,
+          "end": 289.08
+        },
+        {
+          "word": "spaces.",
+          "start": 289.08,
+          "end": 290.22
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 291.18,
+      "end": 294.97,
+      "text": "Yubliana is one of the greenest cities in Europe.",
+      "words": [
+        {
+          "word": "Yubliana",
+          "start": 291.18,
+          "end": 291.98
+        },
+        {
+          "word": "is",
+          "start": 291.98,
+          "end": 292.44
+        },
+        {
+          "word": "one",
+          "start": 292.44,
+          "end": 292.68
+        },
+        {
+          "word": "of",
+          "start": 292.68,
+          "end": 292.82
+        },
+        {
+          "word": "the",
+          "start": 292.82,
+          "end": 293.06
+        },
+        {
+          "word": "greenest",
+          "start": 293.06,
+          "end": 293.52
+        },
+        {
+          "word": "cities",
+          "start": 293.52,
+          "end": 293.86
         },
         {
           "word": "in",
-          "startSec": 383.64,
-          "endSec": 383.96,
-          "score": 0.99
+          "start": 293.86,
+          "end": 294.22
+        },
+        {
+          "word": "Europe.",
+          "start": 294.22,
+          "end": 294.97
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 295.16,
+      "end": 299.32,
+      "text": "There are trees, gardens and parks everywhere.",
+      "words": [
+        {
+          "word": "There",
+          "start": 295.16,
+          "end": 295.66
+        },
+        {
+          "word": "are",
+          "start": 295.66,
+          "end": 295.86
+        },
+        {
+          "word": "trees,",
+          "start": 295.86,
+          "end": 296.46
+        },
+        {
+          "word": "gardens",
+          "start": 296.96,
+          "end": 297.34
+        },
+        {
+          "word": "and",
+          "start": 297.34,
+          "end": 297.78
+        },
+        {
+          "word": "parks",
+          "start": 297.78,
+          "end": 298.24
+        },
+        {
+          "word": "everywhere.",
+          "start": 298.24,
+          "end": 299.32
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 300.18,
+      "end": 308.26,
+      "text": "The biggest park is Tivoli Park, a perfect place for walking, reading, or picnics.",
+      "words": [
+        {
+          "word": "The",
+          "start": 300.18,
+          "end": 300.24
+        },
+        {
+          "word": "biggest",
+          "start": 300.24,
+          "end": 300.66
+        },
+        {
+          "word": "park",
+          "start": 300.66,
+          "end": 301.26
+        },
+        {
+          "word": "is",
+          "start": 301.26,
+          "end": 301.64
+        },
+        {
+          "word": "Tivoli",
+          "start": 301.64,
+          "end": 302.24
+        },
+        {
+          "word": "Park,",
+          "start": 302.24,
+          "end": 302.74
+        },
+        {
+          "word": "a",
+          "start": 303.36,
+          "end": 303.62
+        },
+        {
+          "word": "perfect",
+          "start": 303.62,
+          "end": 304.08
+        },
+        {
+          "word": "place",
+          "start": 304.08,
+          "end": 304.52
+        },
+        {
+          "word": "for",
+          "start": 304.52,
+          "end": 304.84
+        },
+        {
+          "word": "walking,",
+          "start": 304.84,
+          "end": 305.42
+        },
+        {
+          "word": "reading,",
+          "start": 305.94,
+          "end": 306.44
+        },
+        {
+          "word": "or",
+          "start": 306.98,
+          "end": 307.02
+        },
+        {
+          "word": "picnics.",
+          "start": 307.02,
+          "end": 308.26
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 308.6,
+      "end": 312.38,
+      "text": "People love to relax there on sunny days.",
+      "words": [
+        {
+          "word": "People",
+          "start": 308.6,
+          "end": 309.14
+        },
+        {
+          "word": "love",
+          "start": 309.14,
+          "end": 309.54
+        },
+        {
+          "word": "to",
+          "start": 309.54,
+          "end": 309.82
+        },
+        {
+          "word": "relax",
+          "start": 309.82,
+          "end": 310.34
+        },
+        {
+          "word": "there",
+          "start": 310.34,
+          "end": 310.74
+        },
+        {
+          "word": "on",
+          "start": 310.74,
+          "end": 311.0
+        },
+        {
+          "word": "sunny",
+          "start": 311.0,
+          "end": 311.42
+        },
+        {
+          "word": "days.",
+          "start": 311.42,
+          "end": 312.38
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 312.86,
+      "end": 316.66,
+      "text": "Even the air feels clean and fresh.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 312.86,
+          "end": 313.62
+        },
+        {
+          "word": "the",
+          "start": 313.62,
+          "end": 313.88
+        },
+        {
+          "word": "air",
+          "start": 313.88,
+          "end": 314.24
+        },
+        {
+          "word": "feels",
+          "start": 314.24,
+          "end": 314.78
+        },
+        {
+          "word": "clean",
+          "start": 314.78,
+          "end": 315.44
+        },
+        {
+          "word": "and",
+          "start": 315.44,
+          "end": 315.84
+        },
+        {
+          "word": "fresh.",
+          "start": 315.84,
+          "end": 316.66
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 317.86,
+      "end": 321.42,
+      "text": "Part 11, festivals and events.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 317.86,
+          "end": 318.18
+        },
+        {
+          "word": "11,",
+          "start": 318.18,
+          "end": 318.76
+        },
+        {
+          "word": "festivals",
+          "start": 319.48,
+          "end": 320.02
+        },
+        {
+          "word": "and",
+          "start": 320.02,
+          "end": 320.6
+        },
+        {
+          "word": "events.",
+          "start": 320.6,
+          "end": 321.42
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 322.04,
+      "end": 325.82,
+      "text": "Yubliana has many festivals during the year.",
+      "words": [
+        {
+          "word": "Yubliana",
+          "start": 322.04,
+          "end": 322.72
+        },
+        {
+          "word": "has",
+          "start": 322.72,
+          "end": 323.16
+        },
+        {
+          "word": "many",
+          "start": 323.16,
+          "end": 323.52
+        },
+        {
+          "word": "festivals",
+          "start": 323.52,
+          "end": 324.2
+        },
+        {
+          "word": "during",
+          "start": 324.2,
+          "end": 324.72
+        },
+        {
+          "word": "the",
+          "start": 324.72,
+          "end": 325.0
+        },
+        {
+          "word": "year.",
+          "start": 325.0,
+          "end": 325.82
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 326.26,
+      "end": 332.94,
+      "text": "In summer, there are open air concerts, theater shows, and film nights.",
+      "words": [
+        {
+          "word": "In",
+          "start": 326.26,
+          "end": 326.5
+        },
+        {
+          "word": "summer,",
+          "start": 326.5,
+          "end": 326.98
+        },
+        {
+          "word": "there",
+          "start": 327.58,
+          "end": 327.8
+        },
+        {
+          "word": "are",
+          "start": 327.8,
+          "end": 328.0
+        },
+        {
+          "word": "open",
+          "start": 328.0,
+          "end": 328.36
+        },
+        {
+          "word": "air",
+          "start": 328.36,
+          "end": 328.66
+        },
+        {
+          "word": "concerts,",
+          "start": 328.66,
+          "end": 329.36
+        },
+        {
+          "word": "theater",
+          "start": 330.28,
+          "end": 330.54
+        },
+        {
+          "word": "shows,",
+          "start": 330.54,
+          "end": 331.1
+        },
+        {
+          "word": "and",
+          "start": 331.52,
+          "end": 331.64
+        },
+        {
+          "word": "film",
+          "start": 331.64,
+          "end": 332.0
+        },
+        {
+          "word": "nights.",
+          "start": 332.0,
+          "end": 332.94
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 333.56,
+      "end": 339.44,
+      "text": "People sit by the river, eat ice cream, and listen to music.",
+      "words": [
+        {
+          "word": "People",
+          "start": 333.56,
+          "end": 334.0
+        },
+        {
+          "word": "sit",
+          "start": 334.0,
+          "end": 334.4
+        },
+        {
+          "word": "by",
+          "start": 334.4,
+          "end": 334.7
+        },
+        {
+          "word": "the",
+          "start": 334.7,
+          "end": 334.88
+        },
+        {
+          "word": "river,",
+          "start": 334.88,
+          "end": 335.28
+        },
+        {
+          "word": "eat",
+          "start": 335.74,
+          "end": 336.0
+        },
+        {
+          "word": "ice",
+          "start": 336.0,
+          "end": 336.42
+        },
+        {
+          "word": "cream,",
+          "start": 336.42,
+          "end": 336.84
+        },
+        {
+          "word": "and",
+          "start": 337.52,
+          "end": 337.9
+        },
+        {
+          "word": "listen",
+          "start": 337.9,
+          "end": 338.28
+        },
+        {
+          "word": "to",
+          "start": 338.28,
+          "end": 338.56
+        },
+        {
+          "word": "music.",
+          "start": 338.56,
+          "end": 339.44
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 340.24,
+      "end": 345.88,
+      "text": "In winter, the city has Christmas lights and markets with hot drinks.",
+      "words": [
+        {
+          "word": "In",
+          "start": 340.24,
+          "end": 340.54
+        },
+        {
+          "word": "winter,",
+          "start": 340.54,
+          "end": 341.02
+        },
+        {
+          "word": "the",
+          "start": 341.52,
+          "end": 341.66
+        },
+        {
+          "word": "city",
+          "start": 341.66,
+          "end": 341.98
+        },
+        {
+          "word": "has",
+          "start": 341.98,
+          "end": 342.34
+        },
+        {
+          "word": "Christmas",
+          "start": 342.34,
+          "end": 342.86
+        },
+        {
+          "word": "lights",
+          "start": 342.86,
+          "end": 343.44
+        },
+        {
+          "word": "and",
+          "start": 343.44,
+          "end": 343.82
+        },
+        {
+          "word": "markets",
+          "start": 343.82,
+          "end": 344.3
+        },
+        {
+          "word": "with",
+          "start": 344.3,
+          "end": 344.68
+        },
+        {
+          "word": "hot",
+          "start": 344.68,
+          "end": 345.02
+        },
+        {
+          "word": "drinks.",
+          "start": 345.02,
+          "end": 345.88
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 346.56,
+      "end": 350.62,
+      "text": "The city always feels warm and welcoming.",
+      "words": [
+        {
+          "word": "The",
+          "start": 346.56,
+          "end": 347.0
+        },
+        {
+          "word": "city",
+          "start": 347.0,
+          "end": 347.4
+        },
+        {
+          "word": "always",
+          "start": 347.4,
+          "end": 348.0
+        },
+        {
+          "word": "feels",
+          "start": 348.0,
+          "end": 348.58
+        },
+        {
+          "word": "warm",
+          "start": 348.58,
+          "end": 349.22
+        },
+        {
+          "word": "and",
+          "start": 349.22,
+          "end": 349.62
+        },
+        {
+          "word": "welcoming.",
+          "start": 349.62,
+          "end": 350.62
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 351.62,
+      "end": 355.97,
+      "text": "Part 12, goodbye from Yubliana.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 351.62,
+          "end": 352.5
+        },
+        {
+          "word": "12,",
+          "start": 352.5,
+          "end": 353.08
+        },
+        {
+          "word": "goodbye",
+          "start": 353.7,
+          "end": 354.34
+        },
+        {
+          "word": "from",
+          "start": 354.34,
+          "end": 354.76
+        },
+        {
+          "word": "Yubliana.",
+          "start": 354.76,
+          "end": 355.97
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 356.22,
+      "end": 360.25,
+      "text": "Thank you for joining me on this journey to Yubliana.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 356.22,
+          "end": 356.66
+        },
+        {
+          "word": "you",
+          "start": 356.66,
+          "end": 356.88
+        },
+        {
+          "word": "for",
+          "start": 356.88,
+          "end": 357.1
+        },
+        {
+          "word": "joining",
+          "start": 357.1,
+          "end": 357.52
+        },
+        {
+          "word": "me",
+          "start": 357.52,
+          "end": 357.82
+        },
+        {
+          "word": "on",
+          "start": 357.82,
+          "end": 358.06
+        },
+        {
+          "word": "this",
+          "start": 358.06,
+          "end": 358.28
+        },
+        {
+          "word": "journey",
+          "start": 358.28,
+          "end": 358.8
+        },
+        {
+          "word": "to",
+          "start": 358.8,
+          "end": 359.12
+        },
+        {
+          "word": "Yubliana.",
+          "start": 359.12,
+          "end": 360.25
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 360.48,
+      "end": 365.74,
+      "text": "It is a city full of peace, culture, and natural beauty.",
+      "words": [
+        {
+          "word": "It",
+          "start": 360.48,
+          "end": 360.64
+        },
+        {
+          "word": "is",
+          "start": 360.64,
+          "end": 360.88
+        },
+        {
+          "word": "a",
+          "start": 360.88,
+          "end": 361.1
+        },
+        {
+          "word": "city",
+          "start": 361.1,
+          "end": 361.4
+        },
+        {
+          "word": "full",
+          "start": 361.4,
+          "end": 361.96
+        },
+        {
+          "word": "of",
+          "start": 361.96,
+          "end": 362.18
+        },
+        {
+          "word": "peace,",
+          "start": 362.18,
+          "end": 362.68
+        },
+        {
+          "word": "culture,",
+          "start": 363.22,
+          "end": 363.78
+        },
+        {
+          "word": "and",
+          "start": 364.18,
+          "end": 364.24
+        },
+        {
+          "word": "natural",
+          "start": 364.24,
+          "end": 364.84
+        },
+        {
+          "word": "beauty.",
+          "start": 364.84,
+          "end": 365.74
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 366.44,
+      "end": 374.74,
+      "text": "From its green parks to its calm river, Yubliana shows that small cities can have big hearts.",
+      "words": [
+        {
+          "word": "From",
+          "start": 366.44,
+          "end": 366.66
+        },
+        {
+          "word": "its",
+          "start": 366.66,
+          "end": 366.96
+        },
+        {
+          "word": "green",
+          "start": 366.96,
+          "end": 367.3
+        },
+        {
+          "word": "parks",
+          "start": 367.3,
+          "end": 367.86
+        },
+        {
+          "word": "to",
+          "start": 367.86,
+          "end": 368.2
+        },
+        {
+          "word": "its",
+          "start": 368.2,
+          "end": 368.42
+        },
+        {
+          "word": "calm",
+          "start": 368.42,
+          "end": 368.84
+        },
+        {
+          "word": "river,",
+          "start": 368.84,
+          "end": 369.32
+        },
+        {
+          "word": "Yubliana",
+          "start": 370.0,
+          "end": 370.76
+        },
+        {
+          "word": "shows",
+          "start": 370.76,
+          "end": 371.32
+        },
+        {
+          "word": "that",
+          "start": 371.32,
+          "end": 371.7
+        },
+        {
+          "word": "small",
+          "start": 371.7,
+          "end": 372.2
+        },
+        {
+          "word": "cities",
+          "start": 372.2,
+          "end": 372.7
+        },
+        {
+          "word": "can",
+          "start": 372.7,
+          "end": 373.12
+        },
+        {
+          "word": "have",
+          "start": 373.12,
+          "end": 373.42
+        },
+        {
+          "word": "big",
+          "start": 373.42,
+          "end": 373.78
+        },
+        {
+          "word": "hearts.",
+          "start": 373.78,
+          "end": 374.74
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 375.78,
+      "end": 381.04,
+      "text": "If you ever visit Europe, remember this charming place.",
+      "words": [
+        {
+          "word": "If",
+          "start": 375.78,
+          "end": 376.34
+        },
+        {
+          "word": "you",
+          "start": 376.34,
+          "end": 376.5
+        },
+        {
+          "word": "ever",
+          "start": 376.5,
+          "end": 376.92
+        },
+        {
+          "word": "visit",
+          "start": 376.92,
+          "end": 377.32
+        },
+        {
+          "word": "Europe,",
+          "start": 377.32,
+          "end": 378.02
+        },
+        {
+          "word": "remember",
+          "start": 378.02,
+          "end": 378.76
+        },
+        {
+          "word": "this",
+          "start": 378.76,
+          "end": 379.32
+        },
+        {
+          "word": "charming",
+          "start": 379.32,
+          "end": 379.88
+        },
+        {
+          "word": "place.",
+          "start": 379.88,
+          "end": 381.04
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 381.8,
+      "end": 386.87,
+      "text": "Goodbye, or as people in Slovenia say, Na svidenje.",
+      "words": [
+        {
+          "word": "Goodbye,",
+          "start": 381.8,
+          "end": 382.46
+        },
+        {
+          "word": "or",
+          "start": 382.82,
+          "end": 383.02
+        },
+        {
+          "word": "as",
+          "start": 383.02,
+          "end": 383.28
+        },
+        {
+          "word": "people",
+          "start": 383.28,
+          "end": 383.72
+        },
+        {
+          "word": "in",
+          "start": 383.72,
+          "end": 384.0
         },
         {
           "word": "Slovenia",
-          "startSec": 383.96,
-          "endSec": 384.42,
-          "score": 0.99
+          "start": 384.0,
+          "end": 384.72
         },
         {
           "word": "say,",
-          "startSec": 384.42,
-          "endSec": 385.06,
-          "score": 1.0
+          "start": 384.72,
+          "end": 385.2
         },
         {
-          "word": "nas",
-          "startSec": 385.48,
-          "endSec": 385.76,
-          "score": 0.26
+          "word": "Na",
+          "start": 385.6,
+          "end": 385.76
         },
         {
-          "word": "videnya.",
-          "startSec": 385.76,
-          "endSec": 386.44,
-          "score": 0.34
+          "word": "svidenje.",
+          "start": 385.76,
+          "end": 386.87
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 71
 }

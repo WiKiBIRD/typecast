@@ -15,5229 +15,4532 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.23,
-      "end": 2.82,
+      "start": 0.0,
+      "end": 3.0,
       "text": "Angola is in Southern Africa.",
       "words": [
         {
           "word": "Angola",
-          "startSec": 0.43,
-          "endSec": 1.15,
-          "score": 0.85
+          "start": 0.0,
+          "end": 1.26
         },
         {
           "word": "is",
-          "startSec": 1.15,
-          "endSec": 1.57,
-          "score": 0.99
+          "start": 1.26,
+          "end": 1.64
         },
         {
           "word": "in",
-          "startSec": 1.57,
-          "endSec": 1.73,
-          "score": 0.99
+          "start": 1.64,
+          "end": 1.78
         },
         {
           "word": "Southern",
-          "startSec": 1.73,
-          "endSec": 1.99,
-          "score": 0.63
+          "start": 1.78,
+          "end": 2.1
         },
         {
           "word": "Africa.",
-          "startSec": 1.99,
-          "endSec": 2.67,
-          "score": 1.0
+          "start": 2.1,
+          "end": 3.0
         }
       ]
     },
     {
       "id": 2,
-      "start": 3.35,
-      "end": 6.18,
+      "start": 3.56,
+      "end": 6.56,
       "text": "It is a large country on the Atlantic Ocean.",
       "words": [
         {
           "word": "It",
-          "startSec": 3.55,
-          "endSec": 3.65,
-          "score": 0.99
+          "start": 3.56,
+          "end": 3.66
         },
         {
           "word": "is",
-          "startSec": 3.65,
-          "endSec": 3.77,
-          "score": 0.99
+          "start": 3.66,
+          "end": 3.82
         },
         {
           "word": "a",
-          "startSec": 3.77,
-          "endSec": 3.91,
-          "score": 1.0
+          "start": 3.82,
+          "end": 3.96
         },
         {
           "word": "large",
-          "startSec": 3.91,
-          "endSec": 4.11,
-          "score": 1.0
+          "start": 3.96,
+          "end": 4.26
         },
         {
           "word": "country",
-          "startSec": 4.11,
-          "endSec": 4.69,
-          "score": 1.0
+          "start": 4.26,
+          "end": 4.8
         },
         {
           "word": "on",
-          "startSec": 4.69,
-          "endSec": 5.07,
-          "score": 0.99
+          "start": 4.8,
+          "end": 5.14
         },
         {
           "word": "the",
-          "startSec": 5.07,
-          "endSec": 5.23,
-          "score": 1.0
+          "start": 5.14,
+          "end": 5.26
         },
         {
           "word": "Atlantic",
-          "startSec": 5.23,
-          "endSec": 5.63,
-          "score": 1.0
+          "start": 5.26,
+          "end": 5.68
         },
         {
           "word": "Ocean.",
-          "startSec": 5.63,
-          "endSec": 6.03,
-          "score": 0.96
+          "start": 5.68,
+          "end": 6.56
         }
       ]
     },
     {
       "id": 3,
-      "start": 7.09,
-      "end": 10.58,
-      "text": "Angola has borders with Namibia, Zambia,",
+      "start": 6.9,
+      "end": 13.52,
+      "text": "Angola has borders with Namibia, Zambia, and the Democratic Republic of the Congo.",
       "words": [
         {
           "word": "Angola",
-          "startSec": 7.29,
-          "endSec": 7.29,
-          "score": 1.0
+          "start": 6.9,
+          "end": 7.44
         },
         {
           "word": "has",
-          "startSec": 7.29,
-          "endSec": 7.69,
-          "score": 1.0
+          "start": 7.44,
+          "end": 7.76
         },
         {
           "word": "borders",
-          "startSec": 7.69,
-          "endSec": 8.09,
-          "score": 1.0
+          "start": 7.76,
+          "end": 8.18
         },
         {
           "word": "with",
-          "startSec": 8.09,
-          "endSec": 8.43,
-          "score": 1.0
+          "start": 8.18,
+          "end": 8.52
         },
         {
           "word": "Namibia,",
-          "startSec": 8.43,
-          "endSec": 9.03,
-          "score": 0.96
+          "start": 8.52,
+          "end": 9.28
         },
         {
           "word": "Zambia,",
-          "startSec": 9.79,
-          "endSec": 10.43,
-          "score": 1.0
+          "start": 9.76,
+          "end": 10.48
+        },
+        {
+          "word": "and",
+          "start": 10.9,
+          "end": 10.94
+        },
+        {
+          "word": "the",
+          "start": 10.94,
+          "end": 11.1
+        },
+        {
+          "word": "Democratic",
+          "start": 11.1,
+          "end": 11.66
+        },
+        {
+          "word": "Republic",
+          "start": 11.66,
+          "end": 12.34
+        },
+        {
+          "word": "of",
+          "start": 12.34,
+          "end": 12.6
+        },
+        {
+          "word": "the",
+          "start": 12.6,
+          "end": 12.76
+        },
+        {
+          "word": "Congo.",
+          "start": 12.76,
+          "end": 13.52
         }
       ]
     },
     {
       "id": 4,
-      "start": 10.67,
-      "end": 13.08,
-      "text": "and the Democratic Republic of the Congo.",
+      "start": 14.1,
+      "end": 17.28,
+      "text": "The capital city of Angola is Luanda.",
       "words": [
         {
-          "word": "and",
-          "startSec": 10.87,
-          "endSec": 10.89,
-          "score": 1.0
+          "word": "The",
+          "start": 14.1,
+          "end": 14.3
         },
         {
-          "word": "the",
-          "startSec": 10.89,
-          "endSec": 11.05,
-          "score": 1.0
+          "word": "capital",
+          "start": 14.3,
+          "end": 14.72
         },
         {
-          "word": "Democratic",
-          "startSec": 11.05,
-          "endSec": 11.51,
-          "score": 0.97
-        },
-        {
-          "word": "Republic",
-          "startSec": 11.51,
-          "endSec": 12.13,
-          "score": 1.0
+          "word": "city",
+          "start": 14.72,
+          "end": 15.18
         },
         {
           "word": "of",
-          "startSec": 12.13,
-          "endSec": 12.57,
-          "score": 1.0
+          "start": 15.18,
+          "end": 15.48
         },
         {
-          "word": "the",
-          "startSec": 12.57,
-          "endSec": 12.71,
-          "score": 0.94
+          "word": "Angola",
+          "start": 15.48,
+          "end": 16.04
         },
         {
-          "word": "Congo.",
-          "startSec": 12.71,
-          "endSec": 12.93,
-          "score": 0.99
+          "word": "is",
+          "start": 16.04,
+          "end": 16.34
+        },
+        {
+          "word": "Luanda.",
+          "start": 16.34,
+          "end": 17.28
         }
       ]
     },
     {
       "id": 5,
-      "start": 14.03,
-      "end": 16.9,
-      "text": "The capital city of Angola is Luanda.",
+      "start": 17.88,
+      "end": 22.64,
+      "text": "Luanda is the largest city in Angola and is next to the ocean.",
       "words": [
         {
-          "word": "The",
-          "startSec": 14.23,
-          "endSec": 14.25,
-          "score": 0.99
-        },
-        {
-          "word": "capital",
-          "startSec": 14.25,
-          "endSec": 14.59,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 14.59,
-          "endSec": 15.15,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 15.15,
-          "endSec": 15.41,
-          "score": 1.0
-        },
-        {
-          "word": "Angola",
-          "startSec": 15.41,
-          "endSec": 15.77,
-          "score": 1.0
+          "word": "Luanda",
+          "start": 17.88,
+          "end": 18.58
         },
         {
           "word": "is",
-          "startSec": 15.77,
-          "endSec": 16.29,
-          "score": 1.0
+          "start": 18.58,
+          "end": 18.88
         },
         {
-          "word": "Luanda.",
-          "startSec": 16.29,
-          "endSec": 16.75,
-          "score": 0.85
+          "word": "the",
+          "start": 18.88,
+          "end": 19.06
+        },
+        {
+          "word": "largest",
+          "start": 19.06,
+          "end": 19.48
+        },
+        {
+          "word": "city",
+          "start": 19.48,
+          "end": 19.92
+        },
+        {
+          "word": "in",
+          "start": 19.92,
+          "end": 20.18
+        },
+        {
+          "word": "Angola",
+          "start": 20.18,
+          "end": 20.68
+        },
+        {
+          "word": "and",
+          "start": 20.68,
+          "end": 21.02
+        },
+        {
+          "word": "is",
+          "start": 21.02,
+          "end": 21.2
+        },
+        {
+          "word": "next",
+          "start": 21.2,
+          "end": 21.48
+        },
+        {
+          "word": "to",
+          "start": 21.48,
+          "end": 21.74
+        },
+        {
+          "word": "the",
+          "start": 21.74,
+          "end": 21.92
+        },
+        {
+          "word": "ocean.",
+          "start": 21.92,
+          "end": 22.64
         }
       ]
     },
     {
       "id": 6,
-      "start": 17.91,
-      "end": 22.22,
-      "text": "Luanda is the largest city in Angola and is next to the ocean.",
+      "start": 22.98,
+      "end": 27.42,
+      "text": "It is a busy city with many people, businesses, and markets.",
       "words": [
         {
-          "word": "Luanda",
-          "startSec": 18.11,
-          "endSec": 18.51,
-          "score": 0.94
+          "word": "It",
+          "start": 22.98,
+          "end": 23.12
         },
         {
           "word": "is",
-          "startSec": 18.51,
-          "endSec": 18.81,
-          "score": 1.0
+          "start": 23.12,
+          "end": 23.28
         },
         {
-          "word": "the",
-          "startSec": 18.81,
-          "endSec": 18.99,
-          "score": 1.0
+          "word": "a",
+          "start": 23.28,
+          "end": 23.42
         },
         {
-          "word": "largest",
-          "startSec": 18.99,
-          "endSec": 19.39,
-          "score": 1.0
+          "word": "busy",
+          "start": 23.42,
+          "end": 23.74
         },
         {
           "word": "city",
-          "startSec": 19.39,
-          "endSec": 19.91,
-          "score": 1.0
+          "start": 23.74,
+          "end": 24.16
         },
         {
-          "word": "in",
-          "startSec": 19.91,
-          "endSec": 20.13,
-          "score": 1.0
+          "word": "with",
+          "start": 24.16,
+          "end": 24.42
         },
         {
-          "word": "Angola",
-          "startSec": 20.13,
-          "endSec": 20.47,
-          "score": 1.0
+          "word": "many",
+          "start": 24.42,
+          "end": 24.76
+        },
+        {
+          "word": "people,",
+          "start": 24.76,
+          "end": 25.18
+        },
+        {
+          "word": "businesses,",
+          "start": 25.62,
+          "end": 25.94
         },
         {
           "word": "and",
-          "startSec": 20.47,
-          "endSec": 20.97,
-          "score": 0.9
+          "start": 26.44,
+          "end": 26.64
         },
         {
-          "word": "is",
-          "startSec": 20.97,
-          "endSec": 21.11,
-          "score": 1.0
-        },
-        {
-          "word": "next",
-          "startSec": 21.11,
-          "endSec": 21.39,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 21.39,
-          "endSec": 21.71,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 21.71,
-          "endSec": 21.83,
-          "score": 1.0
-        },
-        {
-          "word": "ocean.",
-          "startSec": 21.83,
-          "endSec": 22.07,
-          "score": 0.96
+          "word": "markets.",
+          "start": 26.64,
+          "end": 27.42
         }
       ]
     },
     {
       "id": 7,
-      "start": 22.81,
-      "end": 25.32,
-      "text": "It is a busy city with many people,",
+      "start": 27.94,
+      "end": 36.78,
+      "text": "Angola has many natural resources like oil and diamonds, which are important for the country's economy.",
       "words": [
         {
-          "word": "It",
-          "startSec": 23.01,
-          "endSec": 23.07,
-          "score": 1.0
+          "word": "Angola",
+          "start": 27.94,
+          "end": 28.78
         },
         {
-          "word": "is",
-          "startSec": 23.07,
-          "endSec": 23.21,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 23.21,
-          "endSec": 23.37,
-          "score": 1.0
-        },
-        {
-          "word": "busy",
-          "startSec": 23.37,
-          "endSec": 23.59,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 23.59,
-          "endSec": 24.13,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 24.13,
-          "endSec": 24.35,
-          "score": 0.99
+          "word": "has",
+          "start": 28.78,
+          "end": 29.26
         },
         {
           "word": "many",
-          "startSec": 24.35,
-          "endSec": 24.61,
-          "score": 1.0
+          "start": 29.26,
+          "end": 29.64
         },
         {
-          "word": "people,",
-          "startSec": 24.61,
-          "endSec": 25.17,
-          "score": 1.0
+          "word": "natural",
+          "start": 29.64,
+          "end": 30.16
+        },
+        {
+          "word": "resources",
+          "start": 30.16,
+          "end": 30.92
+        },
+        {
+          "word": "like",
+          "start": 30.92,
+          "end": 31.66
+        },
+        {
+          "word": "oil",
+          "start": 31.66,
+          "end": 32.1
+        },
+        {
+          "word": "and",
+          "start": 32.1,
+          "end": 32.4
+        },
+        {
+          "word": "diamonds,",
+          "start": 32.4,
+          "end": 32.88
+        },
+        {
+          "word": "which",
+          "start": 33.34,
+          "end": 34.0
+        },
+        {
+          "word": "are",
+          "start": 34.0,
+          "end": 34.24
+        },
+        {
+          "word": "important",
+          "start": 34.24,
+          "end": 34.8
+        },
+        {
+          "word": "for",
+          "start": 34.8,
+          "end": 35.12
+        },
+        {
+          "word": "the",
+          "start": 35.12,
+          "end": 35.26
+        },
+        {
+          "word": "country's",
+          "start": 35.26,
+          "end": 35.84
+        },
+        {
+          "word": "economy.",
+          "start": 35.84,
+          "end": 36.78
         }
       ]
     },
     {
       "id": 8,
-      "start": 25.29,
-      "end": 27.08,
-      "text": "businesses, and markets.",
+      "start": 37.28,
+      "end": 38.52,
+      "text": "2.",
       "words": [
         {
-          "word": "businesses,",
-          "startSec": 25.49,
-          "endSec": 25.85,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 26.57,
-          "endSec": 26.59,
-          "score": 1.0
-        },
-        {
-          "word": "markets.",
-          "startSec": 26.59,
-          "endSec": 26.93,
-          "score": 1.0
+          "word": "2.",
+          "start": 37.28,
+          "end": 38.52
         }
       ]
     },
     {
       "id": 9,
-      "start": 27.71,
-      "end": 32.76,
-      "text": "Angola has many natural resources like oil and diamonds,",
+      "start": 39.58,
+      "end": 40.68,
+      "text": "Nature in Angola.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 27.91,
-          "endSec": 28.67,
-          "score": 0.07
+          "word": "Nature",
+          "start": 39.58,
+          "end": 39.58
         },
         {
-          "word": "has",
-          "startSec": 28.67,
-          "endSec": 29.19,
-          "score": 0.88
+          "word": "in",
+          "start": 39.58,
+          "end": 39.88
         },
         {
-          "word": "many",
-          "startSec": 29.19,
-          "endSec": 29.53,
-          "score": 0.97
-        },
-        {
-          "word": "natural",
-          "startSec": 29.53,
-          "endSec": 30.05,
-          "score": 0.99
-        },
-        {
-          "word": "resources",
-          "startSec": 30.05,
-          "endSec": 30.89,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 30.89,
-          "endSec": 31.55,
-          "score": 0.69
-        },
-        {
-          "word": "oil",
-          "startSec": 31.55,
-          "endSec": 31.93,
-          "score": 0.92
-        },
-        {
-          "word": "and",
-          "startSec": 31.93,
-          "endSec": 32.35,
-          "score": 0.99
-        },
-        {
-          "word": "diamonds,",
-          "startSec": 32.35,
-          "endSec": 32.61,
-          "score": 1.0
+          "word": "Angola.",
+          "start": 39.88,
+          "end": 40.68
         }
       ]
     },
     {
       "id": 10,
-      "start": 33.53,
-      "end": 36.3,
-      "text": "which are important for the country's economy.",
+      "start": 40.88,
+      "end": 43.2,
+      "text": "Angola has beautiful nature.",
       "words": [
         {
-          "word": "which",
-          "startSec": 33.73,
-          "endSec": 33.95,
-          "score": 0.98
+          "word": "Angola",
+          "start": 40.88,
+          "end": 41.5
         },
         {
-          "word": "are",
-          "startSec": 33.95,
-          "endSec": 34.17,
-          "score": 1.0
+          "word": "has",
+          "start": 41.5,
+          "end": 41.82
         },
         {
-          "word": "important",
-          "startSec": 34.17,
-          "endSec": 34.73,
-          "score": 0.99
+          "word": "beautiful",
+          "start": 41.82,
+          "end": 42.24
         },
         {
-          "word": "for",
-          "startSec": 34.73,
-          "endSec": 35.09,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 35.09,
-          "endSec": 35.21,
-          "score": 0.99
-        },
-        {
-          "word": "country's",
-          "startSec": 35.21,
-          "endSec": 35.79,
-          "score": 0.98
-        },
-        {
-          "word": "economy.",
-          "startSec": 35.79,
-          "endSec": 36.15,
-          "score": 1.0
+          "word": "nature.",
+          "start": 42.24,
+          "end": 43.2
         }
       ]
     },
     {
       "id": 11,
-      "start": 37.68,
-      "end": 40.33,
-      "text": "Two, nature in Angola.",
+      "start": 43.46,
+      "end": 47.54,
+      "text": "The country has beaches, rivers, mountains, and forests.",
       "words": [
         {
-          "word": "Two,",
-          "startSec": 37.88,
-          "endSec": 37.98,
-          "score": 0.27
+          "word": "The",
+          "start": 43.46,
+          "end": 43.6
         },
         {
-          "word": "nature",
-          "startSec": 39.58,
-          "endSec": 39.58,
-          "score": 0.64
+          "word": "country",
+          "start": 43.6,
+          "end": 43.94
         },
         {
-          "word": "in",
-          "startSec": 39.58,
-          "endSec": 39.82,
-          "score": 0.93
+          "word": "has",
+          "start": 43.94,
+          "end": 44.3
         },
         {
-          "word": "Angola.",
-          "startSec": 39.82,
-          "endSec": 40.18,
-          "score": 1.0
+          "word": "beaches,",
+          "start": 44.3,
+          "end": 44.68
+        },
+        {
+          "word": "rivers,",
+          "start": 45.22,
+          "end": 45.5
+        },
+        {
+          "word": "mountains,",
+          "start": 46.0,
+          "end": 46.34
+        },
+        {
+          "word": "and",
+          "start": 46.64,
+          "end": 46.76
+        },
+        {
+          "word": "forests.",
+          "start": 46.76,
+          "end": 47.54
         }
       ]
     },
     {
       "id": 12,
-      "start": 40.64,
-      "end": 42.89,
-      "text": "Angola has beautiful nature.",
+      "start": 48.42,
+      "end": 52.18,
+      "text": "The longest river in Angola is the Kwanza River.",
       "words": [
         {
+          "word": "The",
+          "start": 48.42,
+          "end": 48.66
+        },
+        {
+          "word": "longest",
+          "start": 48.66,
+          "end": 49.04
+        },
+        {
+          "word": "river",
+          "start": 49.04,
+          "end": 49.48
+        },
+        {
+          "word": "in",
+          "start": 49.48,
+          "end": 49.78
+        },
+        {
           "word": "Angola",
-          "startSec": 40.84,
-          "endSec": 41.32,
-          "score": 0.98
+          "start": 49.78,
+          "end": 50.3
         },
         {
-          "word": "has",
-          "startSec": 41.32,
-          "endSec": 41.74,
-          "score": 1.0
+          "word": "is",
+          "start": 50.3,
+          "end": 50.66
         },
         {
-          "word": "beautiful",
-          "startSec": 41.74,
-          "endSec": 42.08,
-          "score": 0.99
+          "word": "the",
+          "start": 50.66,
+          "end": 50.84
         },
         {
-          "word": "nature.",
-          "startSec": 42.08,
-          "endSec": 42.74,
-          "score": 1.0
+          "word": "Kwanza",
+          "start": 50.84,
+          "end": 51.44
+        },
+        {
+          "word": "River.",
+          "start": 51.44,
+          "end": 52.18
         }
       ]
     },
     {
       "id": 13,
-      "start": 43.26,
-      "end": 47.15,
-      "text": "The country has beaches, rivers, mountains, and forests.",
+      "start": 52.7,
+      "end": 55.84,
+      "text": "It is very important for the people and the environment.",
       "words": [
         {
-          "word": "The",
-          "startSec": 43.46,
-          "endSec": 43.56,
-          "score": 0.99
+          "word": "It",
+          "start": 52.7,
+          "end": 52.92
         },
         {
-          "word": "country",
-          "startSec": 43.56,
-          "endSec": 43.9,
-          "score": 0.99
+          "word": "is",
+          "start": 52.92,
+          "end": 53.1
         },
         {
-          "word": "has",
-          "startSec": 43.9,
-          "endSec": 44.2,
-          "score": 1.0
+          "word": "very",
+          "start": 53.1,
+          "end": 53.44
         },
         {
-          "word": "beaches,",
-          "startSec": 44.2,
-          "endSec": 44.54,
-          "score": 1.0
+          "word": "important",
+          "start": 53.44,
+          "end": 54.04
         },
         {
-          "word": "rivers,",
-          "startSec": 44.92,
-          "endSec": 45.4,
-          "score": 1.0
+          "word": "for",
+          "start": 54.04,
+          "end": 54.28
         },
         {
-          "word": "mountains,",
-          "startSec": 46.0,
-          "endSec": 46.24,
-          "score": 1.0
+          "word": "the",
+          "start": 54.28,
+          "end": 54.4
+        },
+        {
+          "word": "people",
+          "start": 54.4,
+          "end": 54.76
         },
         {
           "word": "and",
-          "startSec": 46.24,
-          "endSec": 46.66,
-          "score": 1.0
+          "start": 54.76,
+          "end": 55.06
         },
         {
-          "word": "forests.",
-          "startSec": 46.66,
-          "endSec": 47.0,
-          "score": 0.99
+          "word": "the",
+          "start": 55.06,
+          "end": 55.22
+        },
+        {
+          "word": "environment.",
+          "start": 55.22,
+          "end": 55.84
         }
       ]
     },
     {
       "id": 14,
-      "start": 48.37,
-      "end": 51.84,
-      "text": "The longest river in Angola is the Kwanza River.",
+      "start": 55.84,
+      "end": 61.7,
+      "text": "In the north, there are tropical forests with many trees and animals.",
       "words": [
         {
-          "word": "The",
-          "startSec": 48.57,
-          "endSec": 48.61,
-          "score": 0.99
-        },
-        {
-          "word": "longest",
-          "startSec": 48.61,
-          "endSec": 48.97,
-          "score": 1.0
-        },
-        {
-          "word": "river",
-          "startSec": 48.97,
-          "endSec": 49.35,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 49.35,
-          "endSec": 49.73,
-          "score": 0.99
-        },
-        {
-          "word": "Angola",
-          "startSec": 49.73,
-          "endSec": 50.09,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 50.09,
-          "endSec": 50.61,
-          "score": 1.0
+          "word": "In",
+          "start": 55.84,
+          "end": 57.16
         },
         {
           "word": "the",
-          "startSec": 50.61,
-          "endSec": 50.81,
-          "score": 0.99
+          "start": 57.16,
+          "end": 57.32
         },
         {
-          "word": "Kwanza",
-          "startSec": 50.81,
-          "endSec": 51.37,
-          "score": 0.78
+          "word": "north,",
+          "start": 57.32,
+          "end": 57.68
         },
         {
-          "word": "River.",
-          "startSec": 51.37,
-          "endSec": 51.69,
-          "score": 0.87
+          "word": "there",
+          "start": 58.06,
+          "end": 58.1
+        },
+        {
+          "word": "are",
+          "start": 58.1,
+          "end": 58.24
+        },
+        {
+          "word": "tropical",
+          "start": 58.24,
+          "end": 58.7
+        },
+        {
+          "word": "forests",
+          "start": 58.7,
+          "end": 59.48
+        },
+        {
+          "word": "with",
+          "start": 59.48,
+          "end": 59.82
+        },
+        {
+          "word": "many",
+          "start": 59.82,
+          "end": 60.18
+        },
+        {
+          "word": "trees",
+          "start": 60.18,
+          "end": 60.54
+        },
+        {
+          "word": "and",
+          "start": 60.54,
+          "end": 60.82
+        },
+        {
+          "word": "animals.",
+          "start": 60.82,
+          "end": 61.7
         }
       ]
     },
     {
       "id": 15,
-      "start": 52.17,
-      "end": 55.8,
-      "text": "It is very important for the people and the environment.",
+      "start": 62.16,
+      "end": 66.08,
+      "text": "In the south, there are deserts like the Namib Desert.",
       "words": [
         {
-          "word": "It",
-          "startSec": 52.37,
-          "endSec": 52.89,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 52.89,
-          "endSec": 53.01,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 53.01,
-          "endSec": 53.29,
-          "score": 1.0
-        },
-        {
-          "word": "important",
-          "startSec": 53.29,
-          "endSec": 53.83,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 53.83,
-          "endSec": 54.23,
-          "score": 1.0
+          "word": "In",
+          "start": 62.16,
+          "end": 62.44
         },
         {
           "word": "the",
-          "startSec": 54.23,
-          "endSec": 54.37,
-          "score": 0.99
+          "start": 62.44,
+          "end": 62.6
         },
         {
-          "word": "people",
-          "startSec": 54.37,
-          "endSec": 54.75,
-          "score": 1.0
+          "word": "south,",
+          "start": 62.6,
+          "end": 62.96
         },
         {
-          "word": "and",
-          "startSec": 54.75,
-          "endSec": 55.03,
-          "score": 0.99
+          "word": "there",
+          "start": 63.3,
+          "end": 63.52
+        },
+        {
+          "word": "are",
+          "start": 63.52,
+          "end": 63.66
+        },
+        {
+          "word": "deserts",
+          "start": 63.66,
+          "end": 64.38
+        },
+        {
+          "word": "like",
+          "start": 64.38,
+          "end": 64.58
         },
         {
           "word": "the",
-          "startSec": 55.03,
-          "endSec": 55.17,
-          "score": 0.99
+          "start": 64.58,
+          "end": 64.8
         },
         {
-          "word": "environment.",
-          "startSec": 55.17,
-          "endSec": 55.65,
-          "score": 1.0
+          "word": "Namib",
+          "start": 64.8,
+          "end": 65.24
+        },
+        {
+          "word": "Desert.",
+          "start": 65.24,
+          "end": 66.08
         }
       ]
     },
     {
       "id": 16,
-      "start": 56.55,
-      "end": 61.41,
-      "text": "In the north, there are tropical forests with many trees and animals.",
+      "start": 66.66,
+      "end": 70.86,
+      "text": "The desert has tall sand dunes and is very dry.",
       "words": [
         {
-          "word": "In",
-          "startSec": 56.75,
-          "endSec": 57.12,
-          "score": 0.47
+          "word": "The",
+          "start": 66.66,
+          "end": 66.88
         },
         {
-          "word": "the",
-          "startSec": 57.12,
-          "endSec": 57.28,
-          "score": 0.99
+          "word": "desert",
+          "start": 66.88,
+          "end": 67.24
         },
         {
-          "word": "north,",
-          "startSec": 57.28,
-          "endSec": 57.62,
-          "score": 0.83
+          "word": "has",
+          "start": 67.24,
+          "end": 67.64
         },
         {
-          "word": "there",
-          "startSec": 57.94,
-          "endSec": 58.08,
-          "score": 0.99
+          "word": "tall",
+          "start": 67.64,
+          "end": 68.08
         },
         {
-          "word": "are",
-          "startSec": 58.08,
-          "endSec": 58.22,
-          "score": 1.0
+          "word": "sand",
+          "start": 68.08,
+          "end": 68.48
         },
         {
-          "word": "tropical",
-          "startSec": 58.22,
-          "endSec": 58.6,
-          "score": 0.99
-        },
-        {
-          "word": "forests",
-          "startSec": 58.6,
-          "endSec": 59.3,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 59.3,
-          "endSec": 59.76,
-          "score": 0.96
-        },
-        {
-          "word": "many",
-          "startSec": 59.76,
-          "endSec": 60.06,
-          "score": 0.96
-        },
-        {
-          "word": "trees",
-          "startSec": 60.06,
-          "endSec": 60.48,
-          "score": 1.0
+          "word": "dunes",
+          "start": 68.48,
+          "end": 69.26
         },
         {
           "word": "and",
-          "startSec": 60.48,
-          "endSec": 60.78,
-          "score": 0.99
+          "start": 69.26,
+          "end": 69.56
         },
         {
-          "word": "animals.",
-          "startSec": 60.78,
-          "endSec": 61.26,
-          "score": 1.0
+          "word": "is",
+          "start": 69.56,
+          "end": 69.7
+        },
+        {
+          "word": "very",
+          "start": 69.7,
+          "end": 70.04
+        },
+        {
+          "word": "dry.",
+          "start": 70.04,
+          "end": 70.86
         }
       ]
     },
     {
       "id": 17,
-      "start": 61.98,
-      "end": 65.67,
-      "text": "In the south, there are deserts like the Namib Desert.",
+      "start": 71.58,
+      "end": 79.42,
+      "text": "Angola also has waterfalls like the Kalendula Falls, which are some of the biggest waterfalls in Africa.",
       "words": [
         {
-          "word": "In",
-          "startSec": 62.18,
-          "endSec": 62.42,
-          "score": 0.99
+          "word": "Angola",
+          "start": 71.58,
+          "end": 72.24
         },
         {
-          "word": "the",
-          "startSec": 62.42,
-          "endSec": 62.54,
-          "score": 1.0
+          "word": "also",
+          "start": 72.24,
+          "end": 72.7
         },
         {
-          "word": "south,",
-          "startSec": 62.54,
-          "endSec": 62.9,
-          "score": 0.95
+          "word": "has",
+          "start": 72.7,
+          "end": 73.06
         },
         {
-          "word": "there",
-          "startSec": 63.32,
-          "endSec": 63.5,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 63.5,
-          "endSec": 63.64,
-          "score": 1.0
-        },
-        {
-          "word": "deserts",
-          "startSec": 63.64,
-          "endSec": 64.0,
-          "score": 0.99
+          "word": "waterfalls",
+          "start": 73.06,
+          "end": 73.92
         },
         {
           "word": "like",
-          "startSec": 64.0,
-          "endSec": 64.54,
-          "score": 0.83
+          "start": 73.92,
+          "end": 74.46
         },
         {
           "word": "the",
-          "startSec": 64.54,
-          "endSec": 64.76,
-          "score": 1.0
+          "start": 74.46,
+          "end": 74.64
         },
         {
-          "word": "Namib",
-          "startSec": 64.76,
-          "endSec": 65.18,
-          "score": 0.69
+          "word": "Kalendula",
+          "start": 74.64,
+          "end": 75.3
         },
         {
-          "word": "Desert.",
-          "startSec": 65.18,
-          "endSec": 65.52,
-          "score": 0.89
+          "word": "Falls,",
+          "start": 75.3,
+          "end": 75.82
+        },
+        {
+          "word": "which",
+          "start": 76.14,
+          "end": 76.58
+        },
+        {
+          "word": "are",
+          "start": 76.58,
+          "end": 76.78
+        },
+        {
+          "word": "some",
+          "start": 76.78,
+          "end": 76.98
+        },
+        {
+          "word": "of",
+          "start": 76.98,
+          "end": 77.14
+        },
+        {
+          "word": "the",
+          "start": 77.14,
+          "end": 77.24
+        },
+        {
+          "word": "biggest",
+          "start": 77.24,
+          "end": 77.54
+        },
+        {
+          "word": "waterfalls",
+          "start": 77.54,
+          "end": 78.34
+        },
+        {
+          "word": "in",
+          "start": 78.34,
+          "end": 78.62
+        },
+        {
+          "word": "Africa.",
+          "start": 78.62,
+          "end": 79.42
         }
       ]
     },
     {
       "id": 18,
-      "start": 66.21,
-      "end": 70.58,
-      "text": "The desert has tall sand dunes and is very dry.",
+      "start": 80.26,
+      "end": 85.38,
+      "text": "People visit these places to enjoy nature and take beautiful pictures.",
       "words": [
         {
-          "word": "The",
-          "startSec": 66.41,
-          "endSec": 66.85,
-          "score": 1.0
+          "word": "People",
+          "start": 80.26,
+          "end": 80.76
         },
         {
-          "word": "desert",
-          "startSec": 66.85,
-          "endSec": 67.21,
-          "score": 0.99
+          "word": "visit",
+          "start": 80.76,
+          "end": 81.1
         },
         {
-          "word": "has",
-          "startSec": 67.21,
-          "endSec": 67.59,
-          "score": 1.0
+          "word": "these",
+          "start": 81.1,
+          "end": 81.4
         },
         {
-          "word": "tall",
-          "startSec": 67.59,
-          "endSec": 67.89,
-          "score": 1.0
+          "word": "places",
+          "start": 81.4,
+          "end": 81.86
         },
         {
-          "word": "sand",
-          "startSec": 67.89,
-          "endSec": 68.47,
-          "score": 0.99
+          "word": "to",
+          "start": 81.86,
+          "end": 82.24
         },
         {
-          "word": "dunes",
-          "startSec": 68.47,
-          "endSec": 69.17,
-          "score": 1.0
+          "word": "enjoy",
+          "start": 82.24,
+          "end": 82.64
+        },
+        {
+          "word": "nature",
+          "start": 82.64,
+          "end": 83.12
         },
         {
           "word": "and",
-          "startSec": 69.17,
-          "endSec": 69.49,
-          "score": 0.89
+          "start": 83.12,
+          "end": 83.58
         },
         {
-          "word": "is",
-          "startSec": 69.49,
-          "endSec": 69.65,
-          "score": 0.98
+          "word": "take",
+          "start": 83.58,
+          "end": 83.86
         },
         {
-          "word": "very",
-          "startSec": 69.65,
-          "endSec": 69.97,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 83.86,
+          "end": 84.44
         },
         {
-          "word": "dry.",
-          "startSec": 69.97,
-          "endSec": 70.43,
-          "score": 1.0
+          "word": "pictures.",
+          "start": 84.44,
+          "end": 85.38
         }
       ]
     },
     {
       "id": 19,
-      "start": 71.51,
-      "end": 75.82,
-      "text": "Angola also has waterfalls like the Kalandula Falls,",
+      "start": 85.96,
+      "end": 92.75,
+      "text": "Repeat the exact text below without any changes, introduction, or additional words.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 71.71,
-          "endSec": 72.13,
-          "score": 0.97
-        },
-        {
-          "word": "also",
-          "startSec": 72.13,
-          "endSec": 72.67,
-          "score": 0.99
-        },
-        {
-          "word": "has",
-          "startSec": 72.67,
-          "endSec": 72.99,
-          "score": 1.0
-        },
-        {
-          "word": "waterfalls",
-          "startSec": 72.99,
-          "endSec": 73.71,
-          "score": 0.99
-        },
-        {
-          "word": "like",
-          "startSec": 73.71,
-          "endSec": 74.41,
-          "score": 0.7
+          "word": "Repeat",
+          "start": 85.96,
+          "end": 86.8
         },
         {
           "word": "the",
-          "startSec": 74.41,
-          "endSec": 74.61,
-          "score": 1.0
+          "start": 86.8,
+          "end": 87.16
         },
         {
-          "word": "Kalandula",
-          "startSec": 74.61,
-          "endSec": 75.21,
-          "score": 0.63
+          "word": "exact",
+          "start": 87.16,
+          "end": 87.56
         },
         {
-          "word": "Falls,",
-          "startSec": 75.21,
-          "endSec": 75.67,
-          "score": 0.95
+          "word": "text",
+          "start": 87.56,
+          "end": 87.94
+        },
+        {
+          "word": "below",
+          "start": 87.94,
+          "end": 88.38
+        },
+        {
+          "word": "without",
+          "start": 88.38,
+          "end": 88.74
+        },
+        {
+          "word": "any",
+          "start": 88.74,
+          "end": 89.12
+        },
+        {
+          "word": "changes,",
+          "start": 89.12,
+          "end": 89.76
+        },
+        {
+          "word": "introduction,",
+          "start": 90.18,
+          "end": 90.54
+        },
+        {
+          "word": "or",
+          "start": 91.16,
+          "end": 91.3
+        },
+        {
+          "word": "additional",
+          "start": 91.3,
+          "end": 91.74
+        },
+        {
+          "word": "words.",
+          "start": 91.74,
+          "end": 92.75
         }
       ]
     },
     {
       "id": 20,
-      "start": 76.11,
-      "end": 79.06,
-      "text": "which are some of the biggest waterfalls in Africa.",
+      "start": 92.96,
+      "end": 97.96,
+      "text": "Do not summarize, analyze, or prepend or append anything.",
       "words": [
         {
-          "word": "which",
-          "startSec": 76.31,
-          "endSec": 76.55,
-          "score": 1.0
+          "word": "Do",
+          "start": 92.96,
+          "end": 93.28
         },
         {
-          "word": "are",
-          "startSec": 76.55,
-          "endSec": 76.73,
-          "score": 1.0
+          "word": "not",
+          "start": 93.28,
+          "end": 93.5
         },
         {
-          "word": "some",
-          "startSec": 76.73,
-          "endSec": 76.93,
-          "score": 1.0
+          "word": "summarize,",
+          "start": 93.5,
+          "end": 94.1
         },
         {
-          "word": "of",
-          "startSec": 76.93,
-          "endSec": 77.09,
-          "score": 1.0
+          "word": "analyze,",
+          "start": 94.68,
+          "end": 95.08
         },
         {
-          "word": "the",
-          "startSec": 77.09,
-          "endSec": 77.21,
-          "score": 1.0
+          "word": "or",
+          "start": 95.68,
+          "end": 95.78
         },
         {
-          "word": "biggest",
-          "startSec": 77.21,
-          "endSec": 77.53,
-          "score": 1.0
+          "word": "prepend",
+          "start": 95.78,
+          "end": 96.46
         },
         {
-          "word": "waterfalls",
-          "startSec": 77.53,
-          "endSec": 78.27,
-          "score": 0.99
+          "word": "or",
+          "start": 96.46,
+          "end": 96.6
         },
         {
-          "word": "in",
-          "startSec": 78.27,
-          "endSec": 78.57,
-          "score": 1.0
+          "word": "append",
+          "start": 96.6,
+          "end": 96.9
         },
         {
-          "word": "Africa.",
-          "startSec": 78.57,
-          "endSec": 78.91,
-          "score": 1.0
+          "word": "anything.",
+          "start": 96.9,
+          "end": 97.96
         }
       ]
     },
     {
       "id": 21,
-      "start": 80.05,
-      "end": 85.06,
-      "text": "People visit these places to enjoy nature and take beautiful pictures.",
+      "start": 98.36,
+      "end": 102.02,
+      "text": "Just output the text exactly as provided.",
       "words": [
         {
-          "word": "People",
-          "startSec": 80.25,
-          "endSec": 80.67,
-          "score": 0.99
+          "word": "Just",
+          "start": 98.36,
+          "end": 98.92
         },
         {
-          "word": "visit",
-          "startSec": 80.67,
-          "endSec": 80.97,
-          "score": 1.0
+          "word": "output",
+          "start": 98.92,
+          "end": 99.48
         },
         {
-          "word": "these",
-          "startSec": 80.97,
-          "endSec": 81.35,
-          "score": 1.0
+          "word": "the",
+          "start": 99.48,
+          "end": 99.72
         },
         {
-          "word": "places",
-          "startSec": 81.35,
-          "endSec": 81.69,
-          "score": 1.0
+          "word": "text",
+          "start": 99.72,
+          "end": 100.08
         },
         {
-          "word": "to",
-          "startSec": 81.69,
-          "endSec": 82.21,
-          "score": 1.0
+          "word": "exactly",
+          "start": 100.08,
+          "end": 100.76
         },
         {
-          "word": "enjoy",
-          "startSec": 82.21,
-          "endSec": 82.41,
-          "score": 1.0
+          "word": "as",
+          "start": 100.76,
+          "end": 101.0
         },
         {
-          "word": "nature",
-          "startSec": 82.41,
-          "endSec": 83.11,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 83.11,
-          "endSec": 83.51,
-          "score": 0.98
-        },
-        {
-          "word": "take",
-          "startSec": 83.51,
-          "endSec": 83.77,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 83.77,
-          "endSec": 84.27,
-          "score": 1.0
-        },
-        {
-          "word": "pictures.",
-          "startSec": 84.27,
-          "endSec": 84.91,
-          "score": 1.0
+          "word": "provided.",
+          "start": 101.0,
+          "end": 102.02
         }
       ]
     },
     {
       "id": 22,
-      "start": 85.82,
-      "end": 89.89,
-      "text": "Repeat the exact text below without any changes,",
+      "start": 102.68,
+      "end": 108.24,
+      "text": "The water is warm and people like to swim and relax on the sand.",
       "words": [
         {
-          "word": "Repeat",
-          "startSec": 86.02,
-          "endSec": 86.78,
-          "score": 0.75
+          "word": "The",
+          "start": 102.68,
+          "end": 103.52
+        },
+        {
+          "word": "water",
+          "start": 103.52,
+          "end": 103.82
+        },
+        {
+          "word": "is",
+          "start": 103.82,
+          "end": 104.12
+        },
+        {
+          "word": "warm",
+          "start": 104.12,
+          "end": 104.56
+        },
+        {
+          "word": "and",
+          "start": 104.56,
+          "end": 104.9
+        },
+        {
+          "word": "people",
+          "start": 104.9,
+          "end": 105.36
+        },
+        {
+          "word": "like",
+          "start": 105.36,
+          "end": 105.7
+        },
+        {
+          "word": "to",
+          "start": 105.7,
+          "end": 105.88
+        },
+        {
+          "word": "swim",
+          "start": 105.88,
+          "end": 106.26
+        },
+        {
+          "word": "and",
+          "start": 106.26,
+          "end": 106.52
+        },
+        {
+          "word": "relax",
+          "start": 106.52,
+          "end": 106.92
+        },
+        {
+          "word": "on",
+          "start": 106.92,
+          "end": 107.22
         },
         {
           "word": "the",
-          "startSec": 86.78,
-          "endSec": 87.1,
-          "score": 1.0
+          "start": 107.22,
+          "end": 107.38
         },
         {
-          "word": "exact",
-          "startSec": 87.1,
-          "endSec": 87.34,
-          "score": 1.0
-        },
-        {
-          "word": "text",
-          "startSec": 87.34,
-          "endSec": 87.82,
-          "score": 0.97
-        },
-        {
-          "word": "below",
-          "startSec": 87.82,
-          "endSec": 88.32,
-          "score": 1.0
-        },
-        {
-          "word": "without",
-          "startSec": 88.32,
-          "endSec": 88.66,
-          "score": 0.97
-        },
-        {
-          "word": "any",
-          "startSec": 88.66,
-          "endSec": 89.08,
-          "score": 0.99
-        },
-        {
-          "word": "changes,",
-          "startSec": 89.08,
-          "endSec": 89.74,
-          "score": 1.0
+          "word": "sand.",
+          "start": 107.38,
+          "end": 108.24
         }
       ]
     },
     {
       "id": 23,
-      "start": 89.88,
-      "end": 92.35,
-      "text": "introduction, or additional words.",
+      "start": 108.48,
+      "end": 110.74,
+      "text": "Angola also has big rivers.",
       "words": [
         {
-          "word": "introduction,",
-          "startSec": 90.08,
-          "endSec": 90.52,
-          "score": 0.99
+          "word": "Angola",
+          "start": 108.48,
+          "end": 109.02
         },
         {
-          "word": "or",
-          "startSec": 91.18,
-          "endSec": 91.24,
-          "score": 1.0
+          "word": "also",
+          "start": 109.02,
+          "end": 109.54
         },
         {
-          "word": "additional",
-          "startSec": 91.24,
-          "endSec": 91.62,
-          "score": 1.0
+          "word": "has",
+          "start": 109.54,
+          "end": 109.86
         },
         {
-          "word": "words.",
-          "startSec": 91.62,
-          "endSec": 92.2,
-          "score": 1.0
+          "word": "big",
+          "start": 109.86,
+          "end": 110.32
+        },
+        {
+          "word": "rivers.",
+          "start": 110.32,
+          "end": 110.74
         }
       ]
     },
     {
       "id": 24,
-      "start": 93.02,
-      "end": 97.57,
-      "text": "Do not summarize, analyze, or prepend append anything.",
+      "start": 110.74,
+      "end": 115.94,
+      "text": "The longest river in Angola is the Kwanza River.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 93.22,
-          "endSec": 93.22,
-          "score": 0.98
+          "word": "The",
+          "start": 110.74,
+          "end": 112.16
         },
         {
-          "word": "not",
-          "startSec": 93.22,
-          "endSec": 93.44,
-          "score": 1.0
+          "word": "longest",
+          "start": 112.16,
+          "end": 112.6
         },
         {
-          "word": "summarize,",
-          "startSec": 93.44,
-          "endSec": 93.94,
-          "score": 0.94
+          "word": "river",
+          "start": 112.6,
+          "end": 113.12
         },
         {
-          "word": "analyze,",
-          "startSec": 94.52,
-          "endSec": 94.9,
-          "score": 0.98
+          "word": "in",
+          "start": 113.12,
+          "end": 113.5
         },
         {
-          "word": "or",
-          "startSec": 95.66,
-          "endSec": 95.74,
-          "score": 1.0
+          "word": "Angola",
+          "start": 113.5,
+          "end": 113.98
         },
         {
-          "word": "prepend",
-          "startSec": 95.74,
-          "endSec": 96.44,
-          "score": 0.78
+          "word": "is",
+          "start": 113.98,
+          "end": 114.52
         },
         {
-          "word": "append",
-          "startSec": 96.44,
-          "endSec": 96.56,
-          "score": 0.88
+          "word": "the",
+          "start": 114.52,
+          "end": 114.7
         },
         {
-          "word": "anything.",
-          "startSec": 96.56,
-          "endSec": 97.42,
-          "score": 0.99
+          "word": "Kwanza",
+          "start": 114.7,
+          "end": 115.22
+        },
+        {
+          "word": "River.",
+          "start": 115.22,
+          "end": 115.94
         }
       ]
     },
     {
       "id": 25,
-      "start": 98.42,
-      "end": 101.45,
-      "text": "Just output the text exactly as provided.",
+      "start": 116.36,
+      "end": 122.3,
+      "text": "It is very important for the country because people use it for water and electricity.",
       "words": [
         {
-          "word": "Just",
-          "startSec": 98.62,
-          "endSec": 98.94,
-          "score": 1.0
+          "word": "It",
+          "start": 116.36,
+          "end": 116.66
         },
         {
-          "word": "output",
-          "startSec": 98.94,
-          "endSec": 99.36,
-          "score": 0.93
+          "word": "is",
+          "start": 116.66,
+          "end": 116.82
+        },
+        {
+          "word": "very",
+          "start": 116.82,
+          "end": 117.22
+        },
+        {
+          "word": "important",
+          "start": 117.22,
+          "end": 117.72
+        },
+        {
+          "word": "for",
+          "start": 117.72,
+          "end": 118.04
         },
         {
           "word": "the",
-          "startSec": 99.36,
-          "endSec": 99.68,
-          "score": 1.0
+          "start": 118.04,
+          "end": 118.16
         },
         {
-          "word": "text",
-          "startSec": 99.68,
-          "endSec": 100.0,
-          "score": 1.0
+          "word": "country",
+          "start": 118.16,
+          "end": 118.68
         },
         {
-          "word": "exactly",
-          "startSec": 100.0,
-          "endSec": 100.62,
-          "score": 0.98
+          "word": "because",
+          "start": 118.68,
+          "end": 119.24
         },
         {
-          "word": "as",
-          "startSec": 100.62,
-          "endSec": 100.94,
-          "score": 1.0
+          "word": "people",
+          "start": 119.24,
+          "end": 119.72
         },
         {
-          "word": "provided.",
-          "startSec": 100.94,
-          "endSec": 101.3,
-          "score": 1.0
+          "word": "use",
+          "start": 119.72,
+          "end": 120.2
+        },
+        {
+          "word": "it",
+          "start": 120.2,
+          "end": 120.34
+        },
+        {
+          "word": "for",
+          "start": 120.34,
+          "end": 120.56
+        },
+        {
+          "word": "water",
+          "start": 120.56,
+          "end": 121.0
+        },
+        {
+          "word": "and",
+          "start": 121.0,
+          "end": 121.38
+        },
+        {
+          "word": "electricity.",
+          "start": 121.38,
+          "end": 122.3
         }
       ]
     },
     {
       "id": 26,
-      "start": 103.16,
-      "end": 107.79,
-      "text": "The water is warm and people like to swim and relax on the sand.",
+      "start": 122.84,
+      "end": 127.48,
+      "text": "In the north, there are green forests with many trees and animals.",
       "words": [
         {
-          "word": "The",
-          "startSec": 103.36,
-          "endSec": 103.48,
-          "score": 1.0
-        },
-        {
-          "word": "water",
-          "startSec": 103.48,
-          "endSec": 103.72,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 103.72,
-          "endSec": 104.1,
-          "score": 1.0
-        },
-        {
-          "word": "warm",
-          "startSec": 104.1,
-          "endSec": 104.44,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 104.44,
-          "endSec": 104.84,
-          "score": 0.61
-        },
-        {
-          "word": "people",
-          "startSec": 104.84,
-          "endSec": 105.16,
-          "score": 1.0
-        },
-        {
-          "word": "like",
-          "startSec": 105.16,
-          "endSec": 105.64,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 105.64,
-          "endSec": 105.86,
-          "score": 1.0
-        },
-        {
-          "word": "swim",
-          "startSec": 105.86,
-          "endSec": 106.2,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 106.2,
-          "endSec": 106.46,
-          "score": 1.0
-        },
-        {
-          "word": "relax",
-          "startSec": 106.46,
-          "endSec": 106.78,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 106.78,
-          "endSec": 107.14,
-          "score": 1.0
+          "word": "In",
+          "start": 122.84,
+          "end": 123.24
         },
         {
           "word": "the",
-          "startSec": 107.14,
-          "endSec": 107.32,
-          "score": 1.0
+          "start": 123.24,
+          "end": 123.38
         },
         {
-          "word": "sand.",
-          "startSec": 107.32,
-          "endSec": 107.64,
-          "score": 0.99
+          "word": "north,",
+          "start": 123.38,
+          "end": 123.74
+        },
+        {
+          "word": "there",
+          "start": 124.36,
+          "end": 124.4
+        },
+        {
+          "word": "are",
+          "start": 124.4,
+          "end": 124.54
+        },
+        {
+          "word": "green",
+          "start": 124.54,
+          "end": 124.86
+        },
+        {
+          "word": "forests",
+          "start": 124.86,
+          "end": 125.48
+        },
+        {
+          "word": "with",
+          "start": 125.48,
+          "end": 125.86
+        },
+        {
+          "word": "many",
+          "start": 125.86,
+          "end": 126.2
+        },
+        {
+          "word": "trees",
+          "start": 126.2,
+          "end": 126.5
+        },
+        {
+          "word": "and",
+          "start": 126.5,
+          "end": 126.74
+        },
+        {
+          "word": "animals.",
+          "start": 126.74,
+          "end": 127.48
         }
       ]
     },
     {
       "id": 27,
-      "start": 108.68,
-      "end": 110.77,
-      "text": "Angola also has big rivers.",
+      "start": 127.66,
+      "end": 130.52,
+      "text": "In the south, there is the Namib Desert.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 108.88,
-          "endSec": 108.88,
-          "score": 0.98
+          "word": "In",
+          "start": 127.66,
+          "end": 127.8
         },
         {
-          "word": "also",
-          "startSec": 108.88,
-          "endSec": 109.52,
-          "score": 0.99
+          "word": "the",
+          "start": 127.8,
+          "end": 127.96
         },
         {
-          "word": "has",
-          "startSec": 109.52,
-          "endSec": 109.8,
-          "score": 1.0
+          "word": "south,",
+          "start": 127.96,
+          "end": 128.36
         },
         {
-          "word": "big",
-          "startSec": 109.8,
-          "endSec": 110.18,
-          "score": 0.98
+          "word": "there",
+          "start": 128.64,
+          "end": 129.0
         },
         {
-          "word": "rivers.",
-          "startSec": 110.18,
-          "endSec": 110.62,
-          "score": 1.0
+          "word": "is",
+          "start": 129.0,
+          "end": 129.16
+        },
+        {
+          "word": "the",
+          "start": 129.16,
+          "end": 129.36
+        },
+        {
+          "word": "Namib",
+          "start": 129.36,
+          "end": 129.68
+        },
+        {
+          "word": "Desert.",
+          "start": 129.68,
+          "end": 130.52
         }
       ]
     },
     {
       "id": 28,
-      "start": 111.59,
-      "end": 115.58,
-      "text": "The longest river in Angola is the Kwanza River.",
+      "start": 130.9,
+      "end": 135.13,
+      "text": "The desert is very dry and has tall sand dunes.",
       "words": [
         {
           "word": "The",
-          "startSec": 111.79,
-          "endSec": 112.13,
-          "score": 1.0
+          "start": 130.9,
+          "end": 131.2
         },
         {
-          "word": "longest",
-          "startSec": 112.13,
-          "endSec": 112.47,
-          "score": 1.0
-        },
-        {
-          "word": "river",
-          "startSec": 112.47,
-          "endSec": 113.05,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 113.05,
-          "endSec": 113.45,
-          "score": 0.99
-        },
-        {
-          "word": "Angola",
-          "startSec": 113.45,
-          "endSec": 113.81,
-          "score": 1.0
+          "word": "desert",
+          "start": 131.2,
+          "end": 131.54
         },
         {
           "word": "is",
-          "startSec": 113.81,
-          "endSec": 114.47,
-          "score": 0.99
+          "start": 131.54,
+          "end": 131.86
         },
         {
-          "word": "the",
-          "startSec": 114.47,
-          "endSec": 114.67,
-          "score": 0.99
+          "word": "very",
+          "start": 131.86,
+          "end": 132.18
         },
         {
-          "word": "Kwanza",
-          "startSec": 114.67,
-          "endSec": 115.17,
-          "score": 0.89
+          "word": "dry",
+          "start": 132.18,
+          "end": 132.54
         },
         {
-          "word": "River.",
-          "startSec": 115.17,
-          "endSec": 115.43,
-          "score": 0.88
+          "word": "and",
+          "start": 132.54,
+          "end": 133.08
+        },
+        {
+          "word": "has",
+          "start": 133.08,
+          "end": 133.34
+        },
+        {
+          "word": "tall",
+          "start": 133.34,
+          "end": 133.74
+        },
+        {
+          "word": "sand",
+          "start": 133.74,
+          "end": 134.1
+        },
+        {
+          "word": "dunes.",
+          "start": 134.1,
+          "end": 135.13
         }
       ]
     },
     {
       "id": 29,
-      "start": 116.03,
-      "end": 121.98,
-      "text": "It is very important for the country because people use it for water and electricity.",
+      "start": 135.3,
+      "end": 139.84,
+      "text": "Angola also has beautiful waterfalls like the Kalendula Falls.",
       "words": [
         {
-          "word": "It",
-          "startSec": 116.23,
-          "endSec": 116.59,
-          "score": 0.4
+          "word": "Angola",
+          "start": 135.3,
+          "end": 135.96
         },
         {
-          "word": "is",
-          "startSec": 116.59,
-          "endSec": 116.79,
-          "score": 0.95
+          "word": "also",
+          "start": 135.96,
+          "end": 136.48
         },
         {
-          "word": "very",
-          "startSec": 116.79,
-          "endSec": 117.03,
-          "score": 0.99
+          "word": "has",
+          "start": 136.48,
+          "end": 136.82
         },
         {
-          "word": "important",
-          "startSec": 117.03,
-          "endSec": 117.67,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 136.82,
+          "end": 137.32
         },
         {
-          "word": "for",
-          "startSec": 117.67,
-          "endSec": 117.99,
-          "score": 0.99
+          "word": "waterfalls",
+          "start": 137.32,
+          "end": 138.1
+        },
+        {
+          "word": "like",
+          "start": 138.1,
+          "end": 138.6
         },
         {
           "word": "the",
-          "startSec": 117.99,
-          "endSec": 118.13,
-          "score": 0.99
+          "start": 138.6,
+          "end": 138.78
         },
         {
-          "word": "country",
-          "startSec": 118.13,
-          "endSec": 118.55,
-          "score": 0.99
+          "word": "Kalendula",
+          "start": 138.78,
+          "end": 139.4
         },
         {
-          "word": "because",
-          "startSec": 118.55,
-          "endSec": 119.21,
-          "score": 0.87
-        },
-        {
-          "word": "people",
-          "startSec": 119.21,
-          "endSec": 119.55,
-          "score": 1.0
-        },
-        {
-          "word": "use",
-          "startSec": 119.55,
-          "endSec": 120.11,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 120.11,
-          "endSec": 120.31,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 120.31,
-          "endSec": 120.51,
-          "score": 1.0
-        },
-        {
-          "word": "water",
-          "startSec": 120.51,
-          "endSec": 120.95,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 120.95,
-          "endSec": 121.33,
-          "score": 1.0
-        },
-        {
-          "word": "electricity.",
-          "startSec": 121.33,
-          "endSec": 121.83,
-          "score": 1.0
+          "word": "Falls.",
+          "start": 139.4,
+          "end": 139.84
         }
       ]
     },
     {
       "id": 30,
-      "start": 122.85,
-      "end": 127.3,
-      "text": "In the north, there are green forests with many trees and animals.",
+      "start": 139.84,
+      "end": 144.4,
+      "text": "These waterfalls are some of the biggest in Africa.",
       "words": [
         {
-          "word": "In",
-          "startSec": 123.05,
-          "endSec": 123.21,
-          "score": 0.99
+          "word": "These",
+          "start": 139.84,
+          "end": 141.24
         },
         {
-          "word": "the",
-          "startSec": 123.21,
-          "endSec": 123.33,
-          "score": 1.0
-        },
-        {
-          "word": "north,",
-          "startSec": 123.33,
-          "endSec": 123.67,
-          "score": 0.77
-        },
-        {
-          "word": "there",
-          "startSec": 124.13,
-          "endSec": 124.37,
-          "score": 1.0
+          "word": "waterfalls",
+          "start": 141.24,
+          "end": 142.1
         },
         {
           "word": "are",
-          "startSec": 124.37,
-          "endSec": 124.51,
-          "score": 1.0
+          "start": 142.1,
+          "end": 142.42
         },
         {
-          "word": "green",
-          "startSec": 124.51,
-          "endSec": 124.77,
-          "score": 0.99
+          "word": "some",
+          "start": 142.42,
+          "end": 142.68
         },
         {
-          "word": "forests",
-          "startSec": 124.77,
-          "endSec": 125.33,
-          "score": 0.99
+          "word": "of",
+          "start": 142.68,
+          "end": 142.88
         },
         {
-          "word": "with",
-          "startSec": 125.33,
-          "endSec": 125.81,
-          "score": 0.99
+          "word": "the",
+          "start": 142.88,
+          "end": 142.98
         },
         {
-          "word": "many",
-          "startSec": 125.81,
-          "endSec": 126.05,
-          "score": 0.9
+          "word": "biggest",
+          "start": 142.98,
+          "end": 143.34
         },
         {
-          "word": "trees",
-          "startSec": 126.05,
-          "endSec": 126.45,
-          "score": 1.0
+          "word": "in",
+          "start": 143.34,
+          "end": 143.6
         },
         {
-          "word": "and",
-          "startSec": 126.45,
-          "endSec": 126.69,
-          "score": 0.99
-        },
-        {
-          "word": "animals.",
-          "startSec": 126.69,
-          "endSec": 127.15,
-          "score": 1.0
+          "word": "Africa.",
+          "start": 143.6,
+          "end": 144.4
         }
       ]
     },
     {
       "id": 31,
-      "start": 127.43,
-      "end": 130.14,
-      "text": "In the south, there is the Namib Desert.",
+      "start": 144.8,
+      "end": 148.6,
+      "text": "Many tourists visit them to enjoy the amazing views.",
       "words": [
         {
-          "word": "In",
-          "startSec": 127.63,
-          "endSec": 127.75,
-          "score": 0.99
+          "word": "Many",
+          "start": 144.8,
+          "end": 145.02
+        },
+        {
+          "word": "tourists",
+          "start": 145.02,
+          "end": 145.38
+        },
+        {
+          "word": "visit",
+          "start": 145.38,
+          "end": 145.9
+        },
+        {
+          "word": "them",
+          "start": 145.9,
+          "end": 146.26
+        },
+        {
+          "word": "to",
+          "start": 146.26,
+          "end": 146.48
+        },
+        {
+          "word": "enjoy",
+          "start": 146.48,
+          "end": 146.96
         },
         {
           "word": "the",
-          "startSec": 127.75,
-          "endSec": 127.89,
-          "score": 1.0
+          "start": 146.96,
+          "end": 147.2
         },
         {
-          "word": "south,",
-          "startSec": 127.89,
-          "endSec": 128.27,
-          "score": 0.96
+          "word": "amazing",
+          "start": 147.2,
+          "end": 147.62
         },
         {
-          "word": "there",
-          "startSec": 128.71,
-          "endSec": 128.97,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 128.97,
-          "endSec": 129.13,
-          "score": 0.53
-        },
-        {
-          "word": "the",
-          "startSec": 129.13,
-          "endSec": 129.29,
-          "score": 0.99
-        },
-        {
-          "word": "Namib",
-          "startSec": 129.29,
-          "endSec": 129.63,
-          "score": 0.55
-        },
-        {
-          "word": "Desert.",
-          "startSec": 129.63,
-          "endSec": 129.99,
-          "score": 0.82
+          "word": "views.",
+          "start": 147.62,
+          "end": 148.6
         }
       ]
     },
     {
       "id": 32,
-      "start": 130.71,
-      "end": 134.96,
-      "text": "The desert is very dry and has tall sand dunes.",
+      "start": 149.84,
+      "end": 152.29,
+      "text": "Three, animals in Angola.",
       "words": [
         {
-          "word": "The",
-          "startSec": 130.91,
-          "endSec": 131.17,
-          "score": 0.99
+          "word": "Three,",
+          "start": 149.84,
+          "end": 150.28
         },
         {
-          "word": "desert",
-          "startSec": 131.17,
-          "endSec": 131.47,
-          "score": 0.98
+          "word": "animals",
+          "start": 151.26,
+          "end": 151.26
         },
         {
-          "word": "is",
-          "startSec": 131.47,
-          "endSec": 131.79,
-          "score": 1.0
+          "word": "in",
+          "start": 151.26,
+          "end": 151.54
         },
         {
-          "word": "very",
-          "startSec": 131.79,
-          "endSec": 132.05,
-          "score": 0.99
-        },
-        {
-          "word": "dry",
-          "startSec": 132.05,
-          "endSec": 132.53,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 132.53,
-          "endSec": 133.03,
-          "score": 0.95
-        },
-        {
-          "word": "has",
-          "startSec": 133.03,
-          "endSec": 133.27,
-          "score": 1.0
-        },
-        {
-          "word": "tall",
-          "startSec": 133.27,
-          "endSec": 133.55,
-          "score": 1.0
-        },
-        {
-          "word": "sand",
-          "startSec": 133.55,
-          "endSec": 134.07,
-          "score": 0.99
-        },
-        {
-          "word": "dunes.",
-          "startSec": 134.07,
-          "endSec": 134.81,
-          "score": 1.0
+          "word": "Angola.",
+          "start": 151.54,
+          "end": 152.29
         }
       ]
     },
     {
       "id": 33,
-      "start": 135.25,
-      "end": 139.86,
-      "text": "Angola also has beautiful waterfalls like the Kalandula Falls.",
+      "start": 152.5,
+      "end": 154.96,
+      "text": "Angola has many different animals.",
       "words": [
         {
           "word": "Angola",
-          "startSec": 135.45,
-          "endSec": 135.83,
-          "score": 0.93
-        },
-        {
-          "word": "also",
-          "startSec": 135.83,
-          "endSec": 136.45,
-          "score": 0.99
+          "start": 152.5,
+          "end": 152.98
         },
         {
           "word": "has",
-          "startSec": 136.45,
-          "endSec": 136.77,
-          "score": 1.0
+          "start": 152.98,
+          "end": 153.36
         },
         {
-          "word": "beautiful",
-          "startSec": 136.77,
-          "endSec": 137.17,
-          "score": 1.0
+          "word": "many",
+          "start": 153.36,
+          "end": 153.68
         },
         {
-          "word": "waterfalls",
-          "startSec": 137.17,
-          "endSec": 137.97,
-          "score": 0.99
+          "word": "different",
+          "start": 153.68,
+          "end": 154.04
         },
         {
-          "word": "like",
-          "startSec": 137.97,
-          "endSec": 138.53,
-          "score": 0.83
-        },
-        {
-          "word": "the",
-          "startSec": 138.53,
-          "endSec": 138.75,
-          "score": 1.0
-        },
-        {
-          "word": "Kalandula",
-          "startSec": 138.75,
-          "endSec": 139.31,
-          "score": 0.72
-        },
-        {
-          "word": "Falls.",
-          "startSec": 139.31,
-          "endSec": 139.71,
-          "score": 0.93
+          "word": "animals.",
+          "start": 154.04,
+          "end": 154.96
         }
       ]
     },
     {
       "id": 34,
-      "start": 140.54,
-      "end": 144.09,
-      "text": "These waterfalls are some of the biggest in Africa.",
+      "start": 155.54,
+      "end": 160.12,
+      "text": "In the forests, you can find monkeys, elephants, and leopards.",
       "words": [
         {
-          "word": "These",
-          "startSec": 140.74,
-          "endSec": 141.24,
-          "score": 1.0
-        },
-        {
-          "word": "waterfalls",
-          "startSec": 141.24,
-          "endSec": 142.04,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 142.04,
-          "endSec": 142.4,
-          "score": 1.0
-        },
-        {
-          "word": "some",
-          "startSec": 142.4,
-          "endSec": 142.6,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 142.6,
-          "endSec": 142.76,
-          "score": 1.0
+          "word": "In",
+          "start": 155.54,
+          "end": 155.76
         },
         {
           "word": "the",
-          "startSec": 142.76,
-          "endSec": 142.96,
-          "score": 1.0
+          "start": 155.76,
+          "end": 155.9
         },
         {
-          "word": "biggest",
-          "startSec": 142.96,
-          "endSec": 143.28,
-          "score": 1.0
+          "word": "forests,",
+          "start": 155.9,
+          "end": 156.32
         },
         {
-          "word": "in",
-          "startSec": 143.28,
-          "endSec": 143.56,
-          "score": 1.0
+          "word": "you",
+          "start": 156.82,
+          "end": 156.86
         },
         {
-          "word": "Africa.",
-          "startSec": 143.56,
-          "endSec": 143.94,
-          "score": 1.0
+          "word": "can",
+          "start": 156.86,
+          "end": 157.04
+        },
+        {
+          "word": "find",
+          "start": 157.04,
+          "end": 157.32
+        },
+        {
+          "word": "monkeys,",
+          "start": 157.32,
+          "end": 157.78
+        },
+        {
+          "word": "elephants,",
+          "start": 158.2,
+          "end": 158.62
+        },
+        {
+          "word": "and",
+          "start": 159.16,
+          "end": 159.28
+        },
+        {
+          "word": "leopards.",
+          "start": 159.28,
+          "end": 160.12
         }
       ]
     },
     {
       "id": 35,
-      "start": 144.31,
-      "end": 148.17,
-      "text": "Many tourists visit them to enjoy the amazing views.",
+      "start": 160.46,
+      "end": 163.34,
+      "text": "The rivers have crocodiles and hippos.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 144.51,
-          "endSec": 144.9,
-          "score": 0.36
+          "word": "The",
+          "start": 160.46,
+          "end": 160.74
         },
         {
-          "word": "tourists",
-          "startSec": 144.9,
-          "endSec": 145.3,
-          "score": 0.99
+          "word": "rivers",
+          "start": 160.74,
+          "end": 161.0
         },
         {
-          "word": "visit",
-          "startSec": 145.3,
-          "endSec": 145.74,
-          "score": 1.0
+          "word": "have",
+          "start": 161.0,
+          "end": 161.36
         },
         {
-          "word": "them",
-          "startSec": 145.74,
-          "endSec": 146.2,
-          "score": 0.99
+          "word": "crocodiles",
+          "start": 161.36,
+          "end": 162.2
         },
         {
-          "word": "to",
-          "startSec": 146.2,
-          "endSec": 146.44,
-          "score": 1.0
+          "word": "and",
+          "start": 162.2,
+          "end": 162.44
         },
         {
-          "word": "enjoy",
-          "startSec": 146.44,
-          "endSec": 146.76,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 146.76,
-          "endSec": 147.16,
-          "score": 0.99
-        },
-        {
-          "word": "amazing",
-          "startSec": 147.16,
-          "endSec": 147.5,
-          "score": 1.0
-        },
-        {
-          "word": "views.",
-          "startSec": 147.5,
-          "endSec": 148.02,
-          "score": 1.0
+          "word": "hippos.",
+          "start": 162.44,
+          "end": 163.34
         }
       ]
     },
     {
       "id": 36,
-      "start": 149.71,
-      "end": 151.94,
-      "text": "Three, animals in Angola.",
+      "start": 163.7,
+      "end": 168.2,
+      "text": "In the savannas, there are lions, zebras, and antelopes.",
       "words": [
         {
-          "word": "Three,",
-          "startSec": 149.91,
-          "endSec": 150.27,
-          "score": 0.9
+          "word": "In",
+          "start": 163.7,
+          "end": 164.0
         },
         {
-          "word": "animals",
-          "startSec": 150.71,
-          "endSec": 151.25,
-          "score": 0.8
+          "word": "the",
+          "start": 164.0,
+          "end": 164.14
         },
         {
-          "word": "in",
-          "startSec": 151.25,
-          "endSec": 151.49,
-          "score": 0.92
+          "word": "savannas,",
+          "start": 164.14,
+          "end": 165.02
         },
         {
-          "word": "Angola.",
-          "startSec": 151.49,
-          "endSec": 151.79,
-          "score": 0.98
+          "word": "there",
+          "start": 165.26,
+          "end": 165.48
+        },
+        {
+          "word": "are",
+          "start": 165.48,
+          "end": 165.62
+        },
+        {
+          "word": "lions,",
+          "start": 165.62,
+          "end": 166.18
+        },
+        {
+          "word": "zebras,",
+          "start": 166.58,
+          "end": 167.0
+        },
+        {
+          "word": "and",
+          "start": 167.38,
+          "end": 167.52
+        },
+        {
+          "word": "antelopes.",
+          "start": 167.52,
+          "end": 168.2
         }
       ]
     },
     {
       "id": 37,
-      "start": 152.37,
-      "end": 154.64,
-      "text": "Angola has many different animals.",
+      "start": 168.2,
+      "end": 174.46,
+      "text": "Angola is also home to many birds, like eagles and flamingos.",
       "words": [
         {
           "word": "Angola",
-          "startSec": 152.57,
-          "endSec": 152.85,
-          "score": 0.99
+          "start": 168.2,
+          "end": 169.6
         },
         {
-          "word": "has",
-          "startSec": 152.85,
-          "endSec": 153.29,
-          "score": 1.0
+          "word": "is",
+          "start": 169.6,
+          "end": 169.94
+        },
+        {
+          "word": "also",
+          "start": 169.94,
+          "end": 170.38
+        },
+        {
+          "word": "home",
+          "start": 170.38,
+          "end": 170.64
+        },
+        {
+          "word": "to",
+          "start": 170.64,
+          "end": 170.84
         },
         {
           "word": "many",
-          "startSec": 153.29,
-          "endSec": 153.55,
-          "score": 1.0
+          "start": 170.84,
+          "end": 171.12
         },
         {
-          "word": "different",
-          "startSec": 153.55,
-          "endSec": 153.93,
-          "score": 1.0
+          "word": "birds,",
+          "start": 171.12,
+          "end": 171.6
         },
         {
-          "word": "animals.",
-          "startSec": 153.93,
-          "endSec": 154.49,
-          "score": 1.0
+          "word": "like",
+          "start": 172.16,
+          "end": 172.44
+        },
+        {
+          "word": "eagles",
+          "start": 172.44,
+          "end": 172.96
+        },
+        {
+          "word": "and",
+          "start": 172.96,
+          "end": 173.3
+        },
+        {
+          "word": "flamingos.",
+          "start": 173.3,
+          "end": 174.46
         }
       ]
     },
     {
       "id": 38,
-      "start": 155.33,
-      "end": 159.9,
-      "text": "In the forests, you can find monkeys, elephants, and leopards.",
+      "start": 174.98,
+      "end": 181.22,
+      "text": "Some animals in Angola are very rare, so the country works to protect them.",
       "words": [
         {
-          "word": "In",
-          "startSec": 155.53,
-          "endSec": 155.71,
-          "score": 1.0
+          "word": "Some",
+          "start": 174.98,
+          "end": 175.34
+        },
+        {
+          "word": "animals",
+          "start": 175.34,
+          "end": 175.84
+        },
+        {
+          "word": "in",
+          "start": 175.84,
+          "end": 176.12
+        },
+        {
+          "word": "Angola",
+          "start": 176.12,
+          "end": 176.66
+        },
+        {
+          "word": "are",
+          "start": 176.66,
+          "end": 177.12
+        },
+        {
+          "word": "very",
+          "start": 177.12,
+          "end": 177.5
+        },
+        {
+          "word": "rare,",
+          "start": 177.5,
+          "end": 177.96
+        },
+        {
+          "word": "so",
+          "start": 178.3,
+          "end": 178.72
         },
         {
           "word": "the",
-          "startSec": 155.71,
-          "endSec": 155.85,
-          "score": 1.0
+          "start": 178.72,
+          "end": 178.88
         },
         {
-          "word": "forests,",
-          "startSec": 155.85,
-          "endSec": 156.19,
-          "score": 0.7
+          "word": "country",
+          "start": 178.88,
+          "end": 179.32
         },
         {
-          "word": "you",
-          "startSec": 156.79,
-          "endSec": 156.83,
-          "score": 1.0
+          "word": "works",
+          "start": 179.32,
+          "end": 179.74
         },
         {
-          "word": "can",
-          "startSec": 156.83,
-          "endSec": 156.99,
-          "score": 1.0
+          "word": "to",
+          "start": 179.74,
+          "end": 180.04
         },
         {
-          "word": "find",
-          "startSec": 156.99,
-          "endSec": 157.27,
-          "score": 1.0
+          "word": "protect",
+          "start": 180.04,
+          "end": 180.48
         },
         {
-          "word": "monkeys,",
-          "startSec": 157.27,
-          "endSec": 157.57,
-          "score": 0.99
-        },
-        {
-          "word": "elephants,",
-          "startSec": 158.27,
-          "endSec": 158.39,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 159.17,
-          "endSec": 159.19,
-          "score": 1.0
-        },
-        {
-          "word": "leopards.",
-          "startSec": 159.19,
-          "endSec": 159.75,
-          "score": 0.99
+          "word": "them.",
+          "start": 180.48,
+          "end": 181.22
         }
       ]
     },
     {
       "id": 39,
-      "start": 160.41,
-      "end": 163.0,
-      "text": "The rivers have crocodiles and hippos.",
+      "start": 182.02,
+      "end": 185.1,
+      "text": "National parks help keep these animals safe.",
       "words": [
         {
-          "word": "The",
-          "startSec": 160.61,
-          "endSec": 160.69,
-          "score": 1.0
+          "word": "National",
+          "start": 182.02,
+          "end": 182.48
         },
         {
-          "word": "rivers",
-          "startSec": 160.69,
-          "endSec": 160.91,
-          "score": 1.0
+          "word": "parks",
+          "start": 182.48,
+          "end": 182.96
         },
         {
-          "word": "have",
-          "startSec": 160.91,
-          "endSec": 161.33,
-          "score": 1.0
+          "word": "help",
+          "start": 182.96,
+          "end": 183.3
         },
         {
-          "word": "crocodiles",
-          "startSec": 161.33,
-          "endSec": 162.17,
-          "score": 1.0
+          "word": "keep",
+          "start": 183.3,
+          "end": 183.56
         },
         {
-          "word": "and",
-          "startSec": 162.17,
-          "endSec": 162.41,
-          "score": 0.99
+          "word": "these",
+          "start": 183.56,
+          "end": 183.78
         },
         {
-          "word": "hippos.",
-          "startSec": 162.41,
-          "endSec": 162.85,
-          "score": 0.99
+          "word": "animals",
+          "start": 183.78,
+          "end": 184.16
+        },
+        {
+          "word": "safe.",
+          "start": 184.16,
+          "end": 185.1
         }
       ]
     },
     {
       "id": 40,
-      "start": 163.55,
-      "end": 168.22,
-      "text": "In the savannas, there are lions, zebras, and antelopes.",
+      "start": 185.86,
+      "end": 191.36,
+      "text": "Tourists can visit these parks to see the wildlife and learn more about nature.",
       "words": [
         {
-          "word": "In",
-          "startSec": 163.75,
-          "endSec": 163.97,
-          "score": 1.0
+          "word": "Tourists",
+          "start": 185.86,
+          "end": 186.6
+        },
+        {
+          "word": "can",
+          "start": 186.6,
+          "end": 186.82
+        },
+        {
+          "word": "visit",
+          "start": 186.82,
+          "end": 187.1
+        },
+        {
+          "word": "these",
+          "start": 187.1,
+          "end": 187.4
+        },
+        {
+          "word": "parks",
+          "start": 187.4,
+          "end": 187.8
+        },
+        {
+          "word": "to",
+          "start": 187.8,
+          "end": 188.14
+        },
+        {
+          "word": "see",
+          "start": 188.14,
+          "end": 188.34
         },
         {
           "word": "the",
-          "startSec": 163.97,
-          "endSec": 164.09,
-          "score": 0.99
+          "start": 188.34,
+          "end": 188.54
         },
         {
-          "word": "savannas,",
-          "startSec": 164.09,
-          "endSec": 164.77,
-          "score": 0.87
-        },
-        {
-          "word": "there",
-          "startSec": 165.21,
-          "endSec": 165.41,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 165.41,
-          "endSec": 165.57,
-          "score": 1.0
-        },
-        {
-          "word": "lions,",
-          "startSec": 165.57,
-          "endSec": 165.83,
-          "score": 0.99
-        },
-        {
-          "word": "zebras,",
-          "startSec": 166.65,
-          "endSec": 167.07,
-          "score": 0.97
+          "word": "wildlife",
+          "start": 188.54,
+          "end": 189.04
         },
         {
           "word": "and",
-          "startSec": 167.41,
-          "endSec": 167.49,
-          "score": 1.0
+          "start": 189.04,
+          "end": 189.64
         },
         {
-          "word": "antelopes.",
-          "startSec": 167.49,
-          "endSec": 168.07,
-          "score": 0.86
+          "word": "learn",
+          "start": 189.64,
+          "end": 189.88
+        },
+        {
+          "word": "more",
+          "start": 189.88,
+          "end": 190.2
+        },
+        {
+          "word": "about",
+          "start": 190.2,
+          "end": 190.46
+        },
+        {
+          "word": "nature.",
+          "start": 190.46,
+          "end": 191.36
         }
       ]
     },
     {
       "id": 41,
-      "start": 168.83,
-      "end": 174.32,
-      "text": "Angola is also home to many birds, like eagles and flamingos.",
+      "start": 191.86,
+      "end": 198.48,
+      "text": "Repeat the exact text below without any changes, introduction, or additional words.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 169.03,
-          "endSec": 169.51,
-          "score": 0.05
+          "word": "Repeat",
+          "start": 191.86,
+          "end": 192.7
         },
         {
-          "word": "is",
-          "startSec": 169.51,
-          "endSec": 169.89,
-          "score": 0.96
+          "word": "the",
+          "start": 192.7,
+          "end": 193.14
         },
         {
-          "word": "also",
-          "startSec": 169.89,
-          "endSec": 170.13,
-          "score": 0.98
+          "word": "exact",
+          "start": 193.14,
+          "end": 193.58
         },
         {
-          "word": "home",
-          "startSec": 170.13,
-          "endSec": 170.61,
-          "score": 1.0
+          "word": "text",
+          "start": 193.58,
+          "end": 194.0
         },
         {
-          "word": "to",
-          "startSec": 170.61,
-          "endSec": 170.83,
-          "score": 1.0
+          "word": "below",
+          "start": 194.0,
+          "end": 194.44
         },
         {
-          "word": "many",
-          "startSec": 170.83,
-          "endSec": 171.03,
-          "score": 1.0
+          "word": "without",
+          "start": 194.44,
+          "end": 194.86
         },
         {
-          "word": "birds,",
-          "startSec": 171.03,
-          "endSec": 171.47,
-          "score": 0.99
+          "word": "any",
+          "start": 194.86,
+          "end": 195.26
         },
         {
-          "word": "like",
-          "startSec": 172.21,
-          "endSec": 172.33,
-          "score": 0.99
+          "word": "changes,",
+          "start": 195.26,
+          "end": 195.84
         },
         {
-          "word": "eagles",
-          "startSec": 172.33,
-          "endSec": 172.91,
-          "score": 0.96
+          "word": "introduction,",
+          "start": 196.12,
+          "end": 196.42
         },
         {
-          "word": "and",
-          "startSec": 172.91,
-          "endSec": 173.25,
-          "score": 0.99
+          "word": "or",
+          "start": 196.94,
+          "end": 197.04
         },
         {
-          "word": "flamingos.",
-          "startSec": 173.25,
-          "endSec": 174.17,
-          "score": 0.98
+          "word": "additional",
+          "start": 197.04,
+          "end": 197.5
+        },
+        {
+          "word": "words.",
+          "start": 197.5,
+          "end": 198.48
         }
       ]
     },
     {
       "id": 42,
-      "start": 174.72,
-      "end": 180.91,
-      "text": "Some animals in Angola are very rare, so the country works to protect them.",
+      "start": 198.7,
+      "end": 203.44,
+      "text": "Do not summarize, analyze, or prepend or append anything.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 174.92,
-          "endSec": 175.26,
-          "score": 0.98
+          "word": "Do",
+          "start": 198.7,
+          "end": 198.88
         },
         {
-          "word": "animals",
-          "startSec": 175.26,
-          "endSec": 175.8,
-          "score": 1.0
+          "word": "not",
+          "start": 198.88,
+          "end": 199.1
         },
         {
-          "word": "in",
-          "startSec": 175.8,
-          "endSec": 176.06,
-          "score": 0.98
+          "word": "summarize,",
+          "start": 199.1,
+          "end": 199.72
         },
         {
-          "word": "Angola",
-          "startSec": 176.06,
-          "endSec": 176.44,
-          "score": 1.0
+          "word": "analyze,",
+          "start": 200.3,
+          "end": 200.72
         },
         {
-          "word": "are",
-          "startSec": 176.44,
-          "endSec": 177.06,
-          "score": 0.99
+          "word": "or",
+          "start": 201.3,
+          "end": 201.34
         },
         {
-          "word": "very",
-          "startSec": 177.06,
-          "endSec": 177.36,
-          "score": 0.99
+          "word": "prepend",
+          "start": 201.34,
+          "end": 202.0
         },
         {
-          "word": "rare,",
-          "startSec": 177.36,
-          "endSec": 177.86,
-          "score": 1.0
+          "word": "or",
+          "start": 202.0,
+          "end": 202.14
         },
         {
-          "word": "so",
-          "startSec": 178.36,
-          "endSec": 178.68,
-          "score": 1.0
+          "word": "append",
+          "start": 202.14,
+          "end": 202.46
         },
         {
-          "word": "the",
-          "startSec": 178.68,
-          "endSec": 178.84,
-          "score": 0.99
-        },
-        {
-          "word": "country",
-          "startSec": 178.84,
-          "endSec": 179.2,
-          "score": 1.0
-        },
-        {
-          "word": "works",
-          "startSec": 179.2,
-          "endSec": 179.64,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 179.64,
-          "endSec": 180.02,
-          "score": 1.0
-        },
-        {
-          "word": "protect",
-          "startSec": 180.02,
-          "endSec": 180.32,
-          "score": 1.0
-        },
-        {
-          "word": "them.",
-          "startSec": 180.32,
-          "endSec": 180.76,
-          "score": 1.0
+          "word": "anything.",
+          "start": 202.46,
+          "end": 203.44
         }
       ]
     },
     {
       "id": 43,
-      "start": 182.3,
-      "end": 184.91,
-      "text": "National parks help keep these animals safe.",
+      "start": 203.72,
+      "end": 207.08,
+      "text": "Just output the text exactly as provided.",
       "words": [
         {
-          "word": "National",
-          "startSec": 182.5,
-          "endSec": 182.5,
-          "score": 0.98
+          "word": "Just",
+          "start": 203.72,
+          "end": 204.14
         },
         {
-          "word": "parks",
-          "startSec": 182.5,
-          "endSec": 182.84,
-          "score": 0.86
+          "word": "output",
+          "start": 204.14,
+          "end": 204.56
         },
         {
-          "word": "help",
-          "startSec": 182.84,
-          "endSec": 183.24,
-          "score": 0.98
+          "word": "the",
+          "start": 204.56,
+          "end": 204.84
         },
         {
-          "word": "keep",
-          "startSec": 183.24,
-          "endSec": 183.52,
-          "score": 1.0
+          "word": "text",
+          "start": 204.84,
+          "end": 205.22
         },
         {
-          "word": "these",
-          "startSec": 183.52,
-          "endSec": 183.74,
-          "score": 0.99
+          "word": "exactly",
+          "start": 205.22,
+          "end": 205.9
         },
         {
-          "word": "animals",
-          "startSec": 183.74,
-          "endSec": 183.98,
-          "score": 1.0
+          "word": "as",
+          "start": 205.9,
+          "end": 206.1
         },
         {
-          "word": "safe.",
-          "startSec": 183.98,
-          "endSec": 184.76,
-          "score": 1.0
+          "word": "provided.",
+          "start": 206.1,
+          "end": 207.08
         }
       ]
     },
     {
       "id": 44,
-      "start": 185.82,
-      "end": 191.03,
-      "text": "Tourists can visit these parks to see the wildlife and learn more about nature.",
+      "start": 207.94,
+      "end": 213.02,
+      "text": "People in Angola eat a lot of fresh fish, meat, and vegetables.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 186.02,
-          "endSec": 186.6,
-          "score": 0.98
+          "word": "People",
+          "start": 207.94,
+          "end": 208.44
         },
         {
-          "word": "can",
-          "startSec": 186.6,
-          "endSec": 186.78,
-          "score": 1.0
+          "word": "in",
+          "start": 208.44,
+          "end": 208.82
         },
         {
-          "word": "visit",
-          "startSec": 186.78,
-          "endSec": 187.04,
-          "score": 1.0
+          "word": "Angola",
+          "start": 208.82,
+          "end": 209.36
         },
         {
-          "word": "these",
-          "startSec": 187.04,
-          "endSec": 187.38,
-          "score": 1.0
+          "word": "eat",
+          "start": 209.36,
+          "end": 209.74
         },
         {
-          "word": "parks",
-          "startSec": 187.38,
-          "endSec": 187.66,
-          "score": 1.0
+          "word": "a",
+          "start": 209.74,
+          "end": 209.92
         },
         {
-          "word": "to",
-          "startSec": 187.66,
-          "endSec": 188.1,
-          "score": 1.0
+          "word": "lot",
+          "start": 209.92,
+          "end": 210.06
         },
         {
-          "word": "see",
-          "startSec": 188.1,
-          "endSec": 188.3,
-          "score": 1.0
+          "word": "of",
+          "start": 210.06,
+          "end": 210.22
         },
         {
-          "word": "the",
-          "startSec": 188.3,
-          "endSec": 188.5,
-          "score": 0.99
+          "word": "fresh",
+          "start": 210.22,
+          "end": 210.5
         },
         {
-          "word": "wildlife",
-          "startSec": 188.5,
-          "endSec": 188.9,
-          "score": 0.99
+          "word": "fish,",
+          "start": 210.5,
+          "end": 211.08
+        },
+        {
+          "word": "meat,",
+          "start": 211.4,
+          "end": 211.74
         },
         {
           "word": "and",
-          "startSec": 188.9,
-          "endSec": 189.58,
-          "score": 0.97
+          "start": 211.98,
+          "end": 212.1
         },
         {
-          "word": "learn",
-          "startSec": 189.58,
-          "endSec": 189.8,
-          "score": 1.0
-        },
-        {
-          "word": "more",
-          "startSec": 189.8,
-          "endSec": 190.12,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 190.12,
-          "endSec": 190.46,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 190.46,
-          "endSec": 190.88,
-          "score": 1.0
+          "word": "vegetables.",
+          "start": 212.1,
+          "end": 213.02
         }
       ]
     },
     {
       "id": 45,
-      "start": 192.01,
-      "end": 198.06,
-      "text": "Repeat the exact text below without any changes, introduction, or additional words.",
+      "start": 213.64,
+      "end": 216.56,
+      "text": "Some famous dishes are fungi.",
       "words": [
         {
-          "word": "Repeat",
-          "startSec": 192.21,
-          "endSec": 192.69,
-          "score": 0.99
+          "word": "Some",
+          "start": 213.64,
+          "end": 213.94
         },
         {
-          "word": "the",
-          "startSec": 192.69,
-          "endSec": 193.09,
-          "score": 1.0
+          "word": "famous",
+          "start": 213.94,
+          "end": 214.4
         },
         {
-          "word": "exact",
-          "startSec": 193.09,
-          "endSec": 193.33,
-          "score": 1.0
+          "word": "dishes",
+          "start": 214.4,
+          "end": 214.78
         },
         {
-          "word": "text",
-          "startSec": 193.33,
-          "endSec": 193.83,
-          "score": 0.97
+          "word": "are",
+          "start": 214.78,
+          "end": 215.22
         },
         {
-          "word": "below",
-          "startSec": 193.83,
-          "endSec": 194.37,
-          "score": 1.0
-        },
-        {
-          "word": "without",
-          "startSec": 194.37,
-          "endSec": 194.73,
-          "score": 0.98
-        },
-        {
-          "word": "any",
-          "startSec": 194.73,
-          "endSec": 195.21,
-          "score": 1.0
-        },
-        {
-          "word": "changes,",
-          "startSec": 195.21,
-          "endSec": 195.75,
-          "score": 1.0
-        },
-        {
-          "word": "introduction,",
-          "startSec": 196.07,
-          "endSec": 196.37,
-          "score": 0.98
-        },
-        {
-          "word": "or",
-          "startSec": 196.91,
-          "endSec": 196.99,
-          "score": 1.0
-        },
-        {
-          "word": "additional",
-          "startSec": 196.99,
-          "endSec": 197.31,
-          "score": 1.0
-        },
-        {
-          "word": "words.",
-          "startSec": 197.31,
-          "endSec": 197.91,
-          "score": 1.0
+          "word": "fungi.",
+          "start": 215.22,
+          "end": 216.56
         }
       ]
     },
     {
       "id": 46,
-      "start": 198.25,
-      "end": 203.04,
-      "text": "Do not summarize, analyze, or prepend append anything.",
+      "start": 216.76,
+      "end": 219.56,
+      "text": "Fungi is a very popular food in Angola.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 198.45,
-          "endSec": 198.83,
-          "score": 0.6
+          "word": "Fungi",
+          "start": 216.76,
+          "end": 217.32
         },
         {
-          "word": "not",
-          "startSec": 198.83,
-          "endSec": 199.03,
-          "score": 0.99
+          "word": "is",
+          "start": 217.32,
+          "end": 217.48
         },
         {
-          "word": "summarize,",
-          "startSec": 199.03,
-          "endSec": 199.51,
-          "score": 0.97
+          "word": "a",
+          "start": 217.48,
+          "end": 217.62
         },
         {
-          "word": "analyze,",
-          "startSec": 200.13,
-          "endSec": 200.49,
-          "score": 0.99
+          "word": "very",
+          "start": 217.62,
+          "end": 217.88
         },
         {
-          "word": "or",
-          "startSec": 201.29,
-          "endSec": 201.31,
-          "score": 0.99
+          "word": "popular",
+          "start": 217.88,
+          "end": 218.34
         },
         {
-          "word": "prepend",
-          "startSec": 201.31,
-          "endSec": 201.97,
-          "score": 0.81
+          "word": "food",
+          "start": 218.34,
+          "end": 218.82
         },
         {
-          "word": "append",
-          "startSec": 201.97,
-          "endSec": 202.11,
-          "score": 0.7
+          "word": "in",
+          "start": 218.82,
+          "end": 219.06
         },
         {
-          "word": "anything.",
-          "startSec": 202.11,
-          "endSec": 202.89,
-          "score": 0.99
+          "word": "Angola.",
+          "start": 219.06,
+          "end": 219.56
         }
       ]
     },
     {
       "id": 47,
-      "start": 203.61,
-      "end": 206.56,
-      "text": "Just output the text exactly as provided.",
+      "start": 219.56,
+      "end": 225.2,
+      "text": "It is a soft, white dish made from cassava flour and water.",
       "words": [
         {
-          "word": "Just",
-          "startSec": 203.81,
-          "endSec": 204.07,
-          "score": 0.99
+          "word": "It",
+          "start": 219.56,
+          "end": 220.46
         },
         {
-          "word": "output",
-          "startSec": 204.07,
-          "endSec": 204.39,
-          "score": 0.87
+          "word": "is",
+          "start": 220.46,
+          "end": 220.62
         },
         {
-          "word": "the",
-          "startSec": 204.39,
-          "endSec": 204.77,
-          "score": 1.0
+          "word": "a",
+          "start": 220.62,
+          "end": 220.76
         },
         {
-          "word": "text",
-          "startSec": 204.77,
-          "endSec": 205.07,
-          "score": 1.0
+          "word": "soft,",
+          "start": 220.76,
+          "end": 221.26
         },
         {
-          "word": "exactly",
-          "startSec": 205.07,
-          "endSec": 205.61,
-          "score": 0.97
+          "word": "white",
+          "start": 221.34,
+          "end": 221.66
         },
         {
-          "word": "as",
-          "startSec": 205.61,
-          "endSec": 206.05,
-          "score": 1.0
+          "word": "dish",
+          "start": 221.66,
+          "end": 222.18
         },
         {
-          "word": "provided.",
-          "startSec": 206.05,
-          "endSec": 206.41,
-          "score": 1.0
+          "word": "made",
+          "start": 222.18,
+          "end": 222.64
+        },
+        {
+          "word": "from",
+          "start": 222.64,
+          "end": 222.9
+        },
+        {
+          "word": "cassava",
+          "start": 222.9,
+          "end": 223.48
+        },
+        {
+          "word": "flour",
+          "start": 223.48,
+          "end": 224.02
+        },
+        {
+          "word": "and",
+          "start": 224.02,
+          "end": 224.38
+        },
+        {
+          "word": "water.",
+          "start": 224.38,
+          "end": 225.2
         }
       ]
     },
     {
       "id": 48,
-      "start": 207.81,
-      "end": 212.54,
-      "text": "People in Angola eat a lot of fresh fish, meat, and vegetables.",
+      "start": 225.52,
+      "end": 228.0,
+      "text": "People eat it with different sauces.",
       "words": [
         {
           "word": "People",
-          "startSec": 208.01,
-          "endSec": 208.43,
-          "score": 0.38
-        },
-        {
-          "word": "in",
-          "startSec": 208.43,
-          "endSec": 208.75,
-          "score": 0.99
-        },
-        {
-          "word": "Angola",
-          "startSec": 208.75,
-          "endSec": 209.11,
-          "score": 0.97
+          "start": 225.52,
+          "end": 226.1
         },
         {
           "word": "eat",
-          "startSec": 209.11,
-          "endSec": 209.67,
-          "score": 1.0
+          "start": 226.1,
+          "end": 226.44
         },
         {
-          "word": "a",
-          "startSec": 209.67,
-          "endSec": 209.83,
-          "score": 1.0
+          "word": "it",
+          "start": 226.44,
+          "end": 226.54
         },
         {
-          "word": "lot",
-          "startSec": 209.83,
-          "endSec": 210.03,
-          "score": 1.0
+          "word": "with",
+          "start": 226.54,
+          "end": 226.7
         },
         {
-          "word": "of",
-          "startSec": 210.03,
-          "endSec": 210.15,
-          "score": 0.99
+          "word": "different",
+          "start": 226.7,
+          "end": 227.06
         },
         {
-          "word": "fresh",
-          "startSec": 210.15,
-          "endSec": 210.41,
-          "score": 0.99
-        },
-        {
-          "word": "fish,",
-          "startSec": 210.41,
-          "endSec": 210.95,
-          "score": 1.0
-        },
-        {
-          "word": "meat,",
-          "startSec": 211.07,
-          "endSec": 211.61,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 212.01,
-          "endSec": 212.05,
-          "score": 1.0
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 212.05,
-          "endSec": 212.39,
-          "score": 1.0
+          "word": "sauces.",
+          "start": 227.06,
+          "end": 228.0
         }
       ]
     },
     {
       "id": 49,
-      "start": 213.41,
-      "end": 216.2,
-      "text": "Some famous dishes are fungi.",
+      "start": 228.64,
+      "end": 230.36,
+      "text": "Muamba de Galina.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 213.61,
-          "endSec": 213.89,
-          "score": 1.0
+          "word": "Muamba",
+          "start": 228.64,
+          "end": 229.2
         },
         {
-          "word": "famous",
-          "startSec": 213.89,
-          "endSec": 214.21,
-          "score": 1.0
+          "word": "de",
+          "start": 229.2,
+          "end": 229.42
         },
         {
-          "word": "dishes",
-          "startSec": 214.21,
-          "endSec": 214.67,
-          "score": 1.0
-        },
-        {
-          "word": "are",
-          "startSec": 214.67,
-          "endSec": 215.11,
-          "score": 1.0
-        },
-        {
-          "word": "fungi.",
-          "startSec": 215.11,
-          "endSec": 216.05,
-          "score": 0.1
+          "word": "Galina.",
+          "start": 229.42,
+          "end": 230.36
         }
       ]
     },
     {
       "id": 50,
-      "start": 216.59,
-      "end": 219.44,
-      "text": "Fungi is a very popular food in Angola.",
+      "start": 230.7,
+      "end": 235.16,
+      "text": "This is a chicken stew cooked with palm oil, garlic, and okra.",
       "words": [
         {
-          "word": "Fungi",
-          "startSec": 216.79,
-          "endSec": 217.27,
-          "score": 0.85
+          "word": "This",
+          "start": 230.7,
+          "end": 230.86
         },
         {
           "word": "is",
-          "startSec": 217.27,
-          "endSec": 217.41,
-          "score": 0.99
+          "start": 230.86,
+          "end": 231.06
         },
         {
           "word": "a",
-          "startSec": 217.41,
-          "endSec": 217.55,
-          "score": 0.99
+          "start": 231.06,
+          "end": 231.26
         },
         {
-          "word": "very",
-          "startSec": 217.55,
-          "endSec": 217.85,
-          "score": 1.0
+          "word": "chicken",
+          "start": 231.26,
+          "end": 231.52
         },
         {
-          "word": "popular",
-          "startSec": 217.85,
-          "endSec": 218.33,
-          "score": 1.0
+          "word": "stew",
+          "start": 231.52,
+          "end": 231.9
         },
         {
-          "word": "food",
-          "startSec": 218.33,
-          "endSec": 218.83,
-          "score": 1.0
+          "word": "cooked",
+          "start": 231.9,
+          "end": 232.34
         },
         {
-          "word": "in",
-          "startSec": 218.83,
-          "endSec": 218.99,
-          "score": 0.99
+          "word": "with",
+          "start": 232.34,
+          "end": 232.58
         },
         {
-          "word": "Angola.",
-          "startSec": 218.99,
-          "endSec": 219.29,
-          "score": 0.99
+          "word": "palm",
+          "start": 232.58,
+          "end": 232.96
+        },
+        {
+          "word": "oil,",
+          "start": 232.96,
+          "end": 233.4
+        },
+        {
+          "word": "garlic,",
+          "start": 233.68,
+          "end": 234.02
+        },
+        {
+          "word": "and",
+          "start": 234.32,
+          "end": 234.4
+        },
+        {
+          "word": "okra.",
+          "start": 234.4,
+          "end": 235.16
         }
       ]
     },
     {
       "id": 51,
-      "start": 220.03,
-      "end": 224.84,
-      "text": "It is a soft, white dish made from cassava flour and water.",
+      "start": 235.54,
+      "end": 237.72,
+      "text": "It is very tasty and traditional.",
       "words": [
         {
           "word": "It",
-          "startSec": 220.23,
-          "endSec": 220.41,
-          "score": 1.0
+          "start": 235.54,
+          "end": 235.66
         },
         {
           "word": "is",
-          "startSec": 220.41,
-          "endSec": 220.55,
-          "score": 0.99
+          "start": 235.66,
+          "end": 235.8
         },
         {
-          "word": "a",
-          "startSec": 220.55,
-          "endSec": 220.71,
-          "score": 0.99
+          "word": "very",
+          "start": 235.8,
+          "end": 236.04
         },
         {
-          "word": "soft,",
-          "startSec": 220.71,
-          "endSec": 221.13,
-          "score": 1.0
-        },
-        {
-          "word": "white",
-          "startSec": 221.31,
-          "endSec": 221.55,
-          "score": 0.99
-        },
-        {
-          "word": "dish",
-          "startSec": 221.55,
-          "endSec": 221.99,
-          "score": 1.0
-        },
-        {
-          "word": "made",
-          "startSec": 221.99,
-          "endSec": 222.55,
-          "score": 0.96
-        },
-        {
-          "word": "from",
-          "startSec": 222.55,
-          "endSec": 222.87,
-          "score": 1.0
-        },
-        {
-          "word": "cassava",
-          "startSec": 222.87,
-          "endSec": 223.41,
-          "score": 0.99
-        },
-        {
-          "word": "flour",
-          "startSec": 223.41,
-          "endSec": 223.79,
-          "score": 0.83
+          "word": "tasty",
+          "start": 236.04,
+          "end": 236.52
         },
         {
           "word": "and",
-          "startSec": 223.79,
-          "endSec": 224.33,
-          "score": 0.99
+          "start": 236.52,
+          "end": 236.78
         },
         {
-          "word": "water.",
-          "startSec": 224.33,
-          "endSec": 224.69,
-          "score": 1.0
+          "word": "traditional.",
+          "start": 236.78,
+          "end": 237.72
         }
       ]
     },
     {
       "id": 52,
-      "start": 225.36,
-      "end": 227.79,
-      "text": "People eat it with different sauces.",
+      "start": 238.36,
+      "end": 239.18,
+      "text": "Kalulu.",
       "words": [
         {
-          "word": "People",
-          "startSec": 225.56,
-          "endSec": 225.88,
-          "score": 0.03
-        },
-        {
-          "word": "eat",
-          "startSec": 225.88,
-          "endSec": 226.36,
-          "score": 0.99
-        },
-        {
-          "word": "it",
-          "startSec": 226.36,
-          "endSec": 226.52,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 226.52,
-          "endSec": 226.66,
-          "score": 0.99
-        },
-        {
-          "word": "different",
-          "startSec": 226.66,
-          "endSec": 226.88,
-          "score": 0.99
-        },
-        {
-          "word": "sauces.",
-          "startSec": 226.88,
-          "endSec": 227.64,
-          "score": 1.0
+          "word": "Kalulu.",
+          "start": 238.36,
+          "end": 239.18
         }
       ]
     },
     {
       "id": 53,
-      "start": 228.4,
-      "end": 229.97,
-      "text": "Moamba de Galena.",
+      "start": 239.68,
+      "end": 245.3,
+      "text": "Kalulu is a dish made with fish, or meat, tomatoes, onions, and spinach.",
       "words": [
         {
-          "word": "Moamba",
-          "startSec": 228.6,
-          "endSec": 229.18,
-          "score": 0.37
+          "word": "Kalulu",
+          "start": 239.68,
+          "end": 240.4
         },
         {
-          "word": "de",
-          "startSec": 229.18,
-          "endSec": 229.38,
-          "score": 0.82
+          "word": "is",
+          "start": 240.4,
+          "end": 240.72
         },
         {
-          "word": "Galena.",
-          "startSec": 229.38,
-          "endSec": 229.82,
-          "score": 0.65
+          "word": "a",
+          "start": 240.72,
+          "end": 240.84
+        },
+        {
+          "word": "dish",
+          "start": 240.84,
+          "end": 241.06
+        },
+        {
+          "word": "made",
+          "start": 241.06,
+          "end": 241.34
+        },
+        {
+          "word": "with",
+          "start": 241.34,
+          "end": 241.56
+        },
+        {
+          "word": "fish,",
+          "start": 241.56,
+          "end": 242.04
+        },
+        {
+          "word": "or",
+          "start": 242.36,
+          "end": 242.6
+        },
+        {
+          "word": "meat,",
+          "start": 242.6,
+          "end": 242.96
+        },
+        {
+          "word": "tomatoes,",
+          "start": 243.28,
+          "end": 243.52
+        },
+        {
+          "word": "onions,",
+          "start": 244.08,
+          "end": 244.48
+        },
+        {
+          "word": "and",
+          "start": 244.82,
+          "end": 244.94
+        },
+        {
+          "word": "spinach.",
+          "start": 244.94,
+          "end": 245.3
         }
       ]
     },
     {
       "id": 54,
-      "start": 230.38,
-      "end": 234.97,
-      "text": "This is a chicken stew cooked with palm oil, garlic, and okra.",
+      "start": 245.3,
+      "end": 249.26,
+      "text": "It is often eaten with rice or fungi.",
       "words": [
         {
-          "word": "This",
-          "startSec": 230.58,
-          "endSec": 230.84,
-          "score": 0.98
+          "word": "It",
+          "start": 245.3,
+          "end": 245.88
         },
         {
           "word": "is",
-          "startSec": 230.84,
-          "endSec": 231.0,
-          "score": 0.99
+          "start": 245.88,
+          "end": 246.66
         },
         {
-          "word": "a",
-          "startSec": 231.0,
-          "endSec": 231.16,
-          "score": 0.99
+          "word": "often",
+          "start": 246.66,
+          "end": 247.04
         },
         {
-          "word": "chicken",
-          "startSec": 231.16,
-          "endSec": 231.48,
-          "score": 0.99
-        },
-        {
-          "word": "stew",
-          "startSec": 231.48,
-          "endSec": 231.88,
-          "score": 1.0
-        },
-        {
-          "word": "cooked",
-          "startSec": 231.88,
-          "endSec": 232.24,
-          "score": 0.98
+          "word": "eaten",
+          "start": 247.04,
+          "end": 247.42
         },
         {
           "word": "with",
-          "startSec": 232.24,
-          "endSec": 232.54,
-          "score": 1.0
+          "start": 247.42,
+          "end": 247.68
         },
         {
-          "word": "palm",
-          "startSec": 232.54,
-          "endSec": 232.82,
-          "score": 0.95
+          "word": "rice",
+          "start": 247.68,
+          "end": 248.08
         },
         {
-          "word": "oil,",
-          "startSec": 232.82,
-          "endSec": 233.28,
-          "score": 1.0
+          "word": "or",
+          "start": 248.08,
+          "end": 248.42
         },
         {
-          "word": "garlic,",
-          "startSec": 233.62,
-          "endSec": 233.88,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 234.26,
-          "endSec": 234.32,
-          "score": 1.0
-        },
-        {
-          "word": "okra.",
-          "startSec": 234.32,
-          "endSec": 234.82,
-          "score": 0.8
+          "word": "fungi.",
+          "start": 248.42,
+          "end": 249.26
         }
       ]
     },
     {
       "id": 55,
-      "start": 235.29,
-      "end": 237.1,
-      "text": "It is very tasty and traditional.",
+      "start": 250.4,
+      "end": 251.96,
+      "text": "Grilled fish.",
       "words": [
         {
-          "word": "It",
-          "startSec": 235.49,
-          "endSec": 235.61,
-          "score": 0.98
+          "word": "Grilled",
+          "start": 250.4,
+          "end": 251.16
         },
         {
-          "word": "is",
-          "startSec": 235.61,
-          "endSec": 235.75,
-          "score": 0.99
-        },
-        {
-          "word": "very",
-          "startSec": 235.75,
-          "endSec": 235.93,
-          "score": 0.99
-        },
-        {
-          "word": "tasty",
-          "startSec": 235.93,
-          "endSec": 236.47,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 236.47,
-          "endSec": 236.73,
-          "score": 0.99
-        },
-        {
-          "word": "traditional.",
-          "startSec": 236.73,
-          "endSec": 236.95,
-          "score": 0.99
+          "word": "fish.",
+          "start": 251.16,
+          "end": 251.96
         }
       ]
     },
     {
       "id": 56,
-      "start": 237.99,
-      "end": 238.8,
-      "text": "Calulu.",
+      "start": 252.54,
+      "end": 256.77,
+      "text": "Angola is next to the ocean, so people eat a lot of fresh fish.",
       "words": [
         {
-          "word": "Calulu.",
-          "startSec": 238.19,
-          "endSec": 238.65,
-          "score": 0.38
+          "word": "Angola",
+          "start": 252.54,
+          "end": 252.82
+        },
+        {
+          "word": "is",
+          "start": 252.82,
+          "end": 253.1
+        },
+        {
+          "word": "next",
+          "start": 253.1,
+          "end": 253.32
+        },
+        {
+          "word": "to",
+          "start": 253.32,
+          "end": 253.56
+        },
+        {
+          "word": "the",
+          "start": 253.56,
+          "end": 253.7
+        },
+        {
+          "word": "ocean,",
+          "start": 253.7,
+          "end": 254.1
+        },
+        {
+          "word": "so",
+          "start": 254.1,
+          "end": 254.48
+        },
+        {
+          "word": "people",
+          "start": 254.48,
+          "end": 254.8
+        },
+        {
+          "word": "eat",
+          "start": 254.8,
+          "end": 255.16
+        },
+        {
+          "word": "a",
+          "start": 255.16,
+          "end": 255.3
+        },
+        {
+          "word": "lot",
+          "start": 255.3,
+          "end": 255.52
+        },
+        {
+          "word": "of",
+          "start": 255.52,
+          "end": 255.66
+        },
+        {
+          "word": "fresh",
+          "start": 255.66,
+          "end": 255.94
+        },
+        {
+          "word": "fish.",
+          "start": 255.94,
+          "end": 256.77
         }
       ]
     },
     {
       "id": 57,
-      "start": 239.58,
-      "end": 245.35,
-      "text": "Calulu is a dish made with fish, or meat, tomatoes, onions, and spinach.",
+      "start": 257.02,
+      "end": 261.42,
+      "text": "They grill the fish with spices and serve it with rice and vegetables.",
       "words": [
         {
-          "word": "Calulu",
-          "startSec": 239.78,
-          "endSec": 240.34,
-          "score": 0.96
+          "word": "They",
+          "start": 257.02,
+          "end": 257.24
         },
         {
-          "word": "is",
-          "startSec": 240.34,
-          "endSec": 240.68,
-          "score": 0.99
+          "word": "grill",
+          "start": 257.24,
+          "end": 257.5
         },
         {
-          "word": "a",
-          "startSec": 240.68,
-          "endSec": 240.78,
-          "score": 1.0
+          "word": "the",
+          "start": 257.5,
+          "end": 257.68
         },
         {
-          "word": "dish",
-          "startSec": 240.78,
-          "endSec": 241.0,
-          "score": 1.0
-        },
-        {
-          "word": "made",
-          "startSec": 241.0,
-          "endSec": 241.28,
-          "score": 0.99
+          "word": "fish",
+          "start": 257.68,
+          "end": 257.94
         },
         {
           "word": "with",
-          "startSec": 241.28,
-          "endSec": 241.5,
-          "score": 1.0
+          "start": 257.94,
+          "end": 258.14
         },
         {
-          "word": "fish,",
-          "startSec": 241.5,
-          "endSec": 241.84,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 242.46,
-          "endSec": 242.56,
-          "score": 0.88
-        },
-        {
-          "word": "meat,",
-          "startSec": 242.56,
-          "endSec": 242.84,
-          "score": 1.0
-        },
-        {
-          "word": "tomatoes,",
-          "startSec": 243.34,
-          "endSec": 243.48,
-          "score": 0.99
-        },
-        {
-          "word": "onions,",
-          "startSec": 244.1,
-          "endSec": 244.28,
-          "score": 0.99
+          "word": "spices",
+          "start": 258.14,
+          "end": 258.76
         },
         {
           "word": "and",
-          "startSec": 244.32,
-          "endSec": 244.88,
-          "score": 1.0
+          "start": 258.76,
+          "end": 259.36
         },
         {
-          "word": "spinach.",
-          "startSec": 244.88,
-          "endSec": 245.2,
-          "score": 1.0
+          "word": "serve",
+          "start": 259.36,
+          "end": 259.72
+        },
+        {
+          "word": "it",
+          "start": 259.72,
+          "end": 259.9
+        },
+        {
+          "word": "with",
+          "start": 259.9,
+          "end": 260.04
+        },
+        {
+          "word": "rice",
+          "start": 260.04,
+          "end": 260.3
+        },
+        {
+          "word": "and",
+          "start": 260.3,
+          "end": 260.5
+        },
+        {
+          "word": "vegetables.",
+          "start": 260.5,
+          "end": 261.42
         }
       ]
     },
     {
       "id": 58,
-      "start": 246.14,
-      "end": 248.83,
-      "text": "It is often eaten with rice or fungi.",
+      "start": 262.4,
+      "end": 267.98,
+      "text": "Angolans also love tropical fruits like mangoes, bananas, and papayas.",
       "words": [
         {
-          "word": "It",
-          "startSec": 246.34,
-          "endSec": 246.48,
-          "score": 1.0
+          "word": "Angolans",
+          "start": 262.4,
+          "end": 263.16
         },
         {
-          "word": "is",
-          "startSec": 246.48,
-          "endSec": 246.6,
-          "score": 1.0
+          "word": "also",
+          "start": 263.16,
+          "end": 263.68
         },
         {
-          "word": "often",
-          "startSec": 246.6,
-          "endSec": 247.04,
-          "score": 1.0
+          "word": "love",
+          "start": 263.68,
+          "end": 264.08
         },
         {
-          "word": "eaten",
-          "startSec": 247.04,
-          "endSec": 247.32,
-          "score": 1.0
+          "word": "tropical",
+          "start": 264.08,
+          "end": 264.5
         },
         {
-          "word": "with",
-          "startSec": 247.32,
-          "endSec": 247.64,
-          "score": 1.0
+          "word": "fruits",
+          "start": 264.5,
+          "end": 265.02
         },
         {
-          "word": "rice",
-          "startSec": 247.64,
-          "endSec": 247.92,
-          "score": 1.0
+          "word": "like",
+          "start": 265.02,
+          "end": 265.32
         },
         {
-          "word": "or",
-          "startSec": 247.92,
-          "endSec": 248.38,
-          "score": 0.84
+          "word": "mangoes,",
+          "start": 265.32,
+          "end": 266.04
         },
         {
-          "word": "fungi.",
-          "startSec": 248.38,
-          "endSec": 248.68,
-          "score": 0.81
+          "word": "bananas,",
+          "start": 266.08,
+          "end": 266.42
+        },
+        {
+          "word": "and",
+          "start": 266.7,
+          "end": 266.82
+        },
+        {
+          "word": "papayas.",
+          "start": 266.82,
+          "end": 267.98
         }
       ]
     },
     {
       "id": 59,
-      "start": 250.6,
-      "end": 251.65,
-      "text": "Grilled fish.",
+      "start": 268.36,
+      "end": 272.5,
+      "text": "People in Angola enjoy drinking fresh juices and coffee, five.",
       "words": [
         {
-          "word": "Grilled",
-          "startSec": 250.8,
-          "endSec": 251.14,
-          "score": 0.97
+          "word": "People",
+          "start": 268.36,
+          "end": 268.74
         },
         {
-          "word": "fish.",
-          "startSec": 251.14,
-          "endSec": 251.5,
-          "score": 0.99
+          "word": "in",
+          "start": 268.74,
+          "end": 269.0
+        },
+        {
+          "word": "Angola",
+          "start": 269.0,
+          "end": 269.52
+        },
+        {
+          "word": "enjoy",
+          "start": 269.52,
+          "end": 269.94
+        },
+        {
+          "word": "drinking",
+          "start": 269.94,
+          "end": 270.42
+        },
+        {
+          "word": "fresh",
+          "start": 270.42,
+          "end": 270.82
+        },
+        {
+          "word": "juices",
+          "start": 270.82,
+          "end": 271.28
+        },
+        {
+          "word": "and",
+          "start": 271.28,
+          "end": 271.56
+        },
+        {
+          "word": "coffee,",
+          "start": 271.56,
+          "end": 271.98
+        },
+        {
+          "word": "five.",
+          "start": 272.24,
+          "end": 272.5
         }
       ]
     },
     {
       "id": 60,
-      "start": 252.18,
-      "end": 256.47,
-      "text": "Angola is next to the ocean, so people eat a lot of fresh fish.",
+      "start": 272.5,
+      "end": 274.54,
+      "text": "People in language.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 252.38,
-          "endSec": 252.76,
-          "score": 0.31
+          "word": "People",
+          "start": 272.5,
+          "end": 273.52
         },
         {
-          "word": "is",
-          "startSec": 252.76,
-          "endSec": 253.08,
-          "score": 0.92
+          "word": "in",
+          "start": 273.52,
+          "end": 273.74
         },
         {
-          "word": "next",
-          "startSec": 253.08,
-          "endSec": 253.26,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 253.26,
-          "endSec": 253.54,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 253.54,
-          "endSec": 253.66,
-          "score": 0.99
-        },
-        {
-          "word": "ocean,",
-          "startSec": 253.66,
-          "endSec": 254.04,
-          "score": 0.92
-        },
-        {
-          "word": "so",
-          "startSec": 254.36,
-          "endSec": 254.46,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 254.46,
-          "endSec": 254.76,
-          "score": 0.99
-        },
-        {
-          "word": "eat",
-          "startSec": 254.76,
-          "endSec": 255.1,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 255.1,
-          "endSec": 255.26,
-          "score": 0.98
-        },
-        {
-          "word": "lot",
-          "startSec": 255.26,
-          "endSec": 255.48,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 255.48,
-          "endSec": 255.62,
-          "score": 0.99
-        },
-        {
-          "word": "fresh",
-          "startSec": 255.62,
-          "endSec": 255.84,
-          "score": 0.99
-        },
-        {
-          "word": "fish.",
-          "startSec": 255.84,
-          "endSec": 256.32,
-          "score": 1.0
+          "word": "language.",
+          "start": 273.74,
+          "end": 274.54
         }
       ]
     },
     {
       "id": 61,
-      "start": 256.8,
-      "end": 261.17,
-      "text": "They grill the fish with spices and serve it with rice and vegetables.",
+      "start": 274.84,
+      "end": 280.06,
+      "text": "Angola has a population of over 30 million people.",
       "words": [
         {
-          "word": "They",
-          "startSec": 257.0,
-          "endSec": 257.2,
-          "score": 0.99
+          "word": "Angola",
+          "start": 274.84,
+          "end": 275.78
         },
         {
-          "word": "grill",
-          "startSec": 257.2,
-          "endSec": 257.4,
-          "score": 0.8
+          "word": "has",
+          "start": 275.78,
+          "end": 276.44
         },
         {
-          "word": "the",
-          "startSec": 257.4,
-          "endSec": 257.64,
-          "score": 0.99
+          "word": "a",
+          "start": 276.44,
+          "end": 276.6
         },
         {
-          "word": "fish",
-          "startSec": 257.64,
-          "endSec": 257.86,
-          "score": 1.0
+          "word": "population",
+          "start": 276.6,
+          "end": 277.12
         },
         {
-          "word": "with",
-          "startSec": 257.86,
-          "endSec": 258.08,
-          "score": 1.0
+          "word": "of",
+          "start": 277.12,
+          "end": 277.68
         },
         {
-          "word": "spices",
-          "startSec": 258.08,
-          "endSec": 258.5,
-          "score": 1.0
+          "word": "over",
+          "start": 277.68,
+          "end": 278.02
         },
         {
-          "word": "and",
-          "startSec": 258.5,
-          "endSec": 259.34,
-          "score": 0.81
+          "word": "30",
+          "start": 278.02,
+          "end": 278.6
         },
         {
-          "word": "serve",
-          "startSec": 259.34,
-          "endSec": 259.64,
-          "score": 0.96
+          "word": "million",
+          "start": 278.6,
+          "end": 279.1
         },
         {
-          "word": "it",
-          "startSec": 259.64,
-          "endSec": 259.82,
-          "score": 0.31
-        },
-        {
-          "word": "with",
-          "startSec": 259.82,
-          "endSec": 259.98,
-          "score": 1.0
-        },
-        {
-          "word": "rice",
-          "startSec": 259.98,
-          "endSec": 260.22,
-          "score": 0.93
-        },
-        {
-          "word": "and",
-          "startSec": 260.22,
-          "endSec": 260.46,
-          "score": 0.99
-        },
-        {
-          "word": "vegetables.",
-          "startSec": 260.46,
-          "endSec": 261.02,
-          "score": 1.0
+          "word": "people.",
+          "start": 279.1,
+          "end": 280.06
         }
       ]
     },
     {
       "id": 62,
-      "start": 262.25,
-      "end": 267.66,
-      "text": "Angolans also love tropical fruits like mangoes, bananas, and papayas.",
+      "start": 280.56,
+      "end": 287.44,
+      "text": "Most people in Angola speak Portuguese because Angola was a Portuguese colony in the past.",
       "words": [
         {
-          "word": "Angolans",
-          "startSec": 262.45,
-          "endSec": 263.15,
-          "score": 0.89
+          "word": "Most",
+          "start": 280.56,
+          "end": 280.96
         },
         {
-          "word": "also",
-          "startSec": 263.15,
-          "endSec": 263.45,
-          "score": 0.99
+          "word": "people",
+          "start": 280.96,
+          "end": 281.3
         },
         {
-          "word": "love",
-          "startSec": 263.45,
-          "endSec": 264.01,
-          "score": 1.0
+          "word": "in",
+          "start": 281.3,
+          "end": 281.62
         },
         {
-          "word": "tropical",
-          "startSec": 264.01,
-          "endSec": 264.33,
-          "score": 1.0
+          "word": "Angola",
+          "start": 281.62,
+          "end": 282.16
         },
         {
-          "word": "fruits",
-          "startSec": 264.33,
-          "endSec": 264.93,
-          "score": 0.99
+          "word": "speak",
+          "start": 282.16,
+          "end": 282.52
         },
         {
-          "word": "like",
-          "startSec": 264.93,
-          "endSec": 265.29,
-          "score": 0.88
+          "word": "Portuguese",
+          "start": 282.52,
+          "end": 283.22
         },
         {
-          "word": "mangoes,",
-          "startSec": 265.29,
-          "endSec": 265.99,
-          "score": 0.8
+          "word": "because",
+          "start": 283.22,
+          "end": 283.94
         },
         {
-          "word": "bananas,",
-          "startSec": 266.11,
-          "endSec": 266.23,
-          "score": 0.99
+          "word": "Angola",
+          "start": 283.94,
+          "end": 284.68
         },
         {
-          "word": "and",
-          "startSec": 266.77,
-          "endSec": 266.77,
-          "score": 1.0
+          "word": "was",
+          "start": 284.68,
+          "end": 284.96
         },
         {
-          "word": "papayas.",
-          "startSec": 266.77,
-          "endSec": 267.51,
-          "score": 0.96
+          "word": "a",
+          "start": 284.96,
+          "end": 285.18
+        },
+        {
+          "word": "Portuguese",
+          "start": 285.18,
+          "end": 285.64
+        },
+        {
+          "word": "colony",
+          "start": 285.64,
+          "end": 286.32
+        },
+        {
+          "word": "in",
+          "start": 286.32,
+          "end": 286.54
+        },
+        {
+          "word": "the",
+          "start": 286.54,
+          "end": 286.64
+        },
+        {
+          "word": "past.",
+          "start": 286.64,
+          "end": 287.44
         }
       ]
     },
     {
       "id": 63,
-      "start": 268.0,
-      "end": 271.91,
-      "text": "People in Angola enjoy drinking fresh juices and coffee.",
+      "start": 288.04,
+      "end": 296.29,
+      "text": "However, many people also speak local African languages like Umbundo and Kimbundo.",
       "words": [
         {
-          "word": "People",
-          "startSec": 268.2,
-          "endSec": 268.68,
-          "score": 0.97
+          "word": "However,",
+          "start": 288.04,
+          "end": 288.68
         },
         {
-          "word": "in",
-          "startSec": 268.68,
-          "endSec": 268.94,
-          "score": 0.99
+          "word": "many",
+          "start": 289.16,
+          "end": 289.56
         },
         {
-          "word": "Angola",
-          "startSec": 268.94,
-          "endSec": 269.28,
-          "score": 1.0
+          "word": "people",
+          "start": 289.56,
+          "end": 289.98
         },
         {
-          "word": "enjoy",
-          "startSec": 269.28,
-          "endSec": 269.72,
-          "score": 0.99
+          "word": "also",
+          "start": 289.98,
+          "end": 290.48
         },
         {
-          "word": "drinking",
-          "startSec": 269.72,
-          "endSec": 270.44,
-          "score": 0.99
+          "word": "speak",
+          "start": 290.48,
+          "end": 290.86
         },
         {
-          "word": "fresh",
-          "startSec": 270.44,
-          "endSec": 270.74,
-          "score": 1.0
+          "word": "local",
+          "start": 290.86,
+          "end": 291.3
         },
         {
-          "word": "juices",
-          "startSec": 270.74,
-          "endSec": 271.18,
-          "score": 1.0
+          "word": "African",
+          "start": 291.3,
+          "end": 291.88
+        },
+        {
+          "word": "languages",
+          "start": 291.88,
+          "end": 292.6
+        },
+        {
+          "word": "like",
+          "start": 292.6,
+          "end": 293.74
+        },
+        {
+          "word": "Umbundo",
+          "start": 293.74,
+          "end": 294.48
         },
         {
           "word": "and",
-          "startSec": 271.18,
-          "endSec": 271.54,
-          "score": 0.96
+          "start": 294.48,
+          "end": 295.24
         },
         {
-          "word": "coffee.",
-          "startSec": 271.54,
-          "endSec": 271.76,
-          "score": 0.99
+          "word": "Kimbundo.",
+          "start": 295.24,
+          "end": 296.29
         }
       ]
     },
     {
       "id": 64,
-      "start": 272.46,
-      "end": 274.21,
-      "text": "People in language.",
+      "start": 296.48,
+      "end": 299.13,
+      "text": "Angolan people are very friendly.",
       "words": [
         {
-          "word": "People",
-          "startSec": 272.66,
-          "endSec": 273.36,
-          "score": 0.1
+          "word": "Angolan",
+          "start": 296.48,
+          "end": 297.4
         },
         {
-          "word": "in",
-          "startSec": 273.36,
-          "endSec": 273.72,
-          "score": 0.96
+          "word": "people",
+          "start": 297.4,
+          "end": 297.8
         },
         {
-          "word": "language.",
-          "startSec": 273.72,
-          "endSec": 274.06,
-          "score": 0.87
+          "word": "are",
+          "start": 297.8,
+          "end": 298.06
+        },
+        {
+          "word": "very",
+          "start": 298.06,
+          "end": 298.42
+        },
+        {
+          "word": "friendly.",
+          "start": 298.42,
+          "end": 299.13
         }
       ]
     },
     {
       "id": 65,
-      "start": 274.78,
-      "end": 279.59,
-      "text": "Angola has a population of over 30 million people.",
+      "start": 299.26,
+      "end": 300.92,
+      "text": "They love music and dancing.",
       "words": [
         {
-          "word": "Angola",
-          "startSec": 274.98,
-          "endSec": 275.68,
-          "score": 0.97
+          "word": "They",
+          "start": 299.26,
+          "end": 299.4
         },
         {
-          "word": "has",
-          "startSec": 275.68,
-          "endSec": 276.38,
-          "score": 0.99
+          "word": "love",
+          "start": 299.4,
+          "end": 299.68
         },
         {
-          "word": "a",
-          "startSec": 276.38,
-          "endSec": 276.54,
-          "score": 0.99
+          "word": "music",
+          "start": 299.68,
+          "end": 300.22
         },
         {
-          "word": "population",
-          "startSec": 276.54,
-          "endSec": 277.06,
-          "score": 1.0
+          "word": "and",
+          "start": 300.22,
+          "end": 300.46
         },
         {
-          "word": "of",
-          "startSec": 277.06,
-          "endSec": 277.62,
-          "score": 1.0
-        },
-        {
-          "word": "over",
-          "startSec": 277.62,
-          "endSec": 277.98,
-          "score": 0.99
-        },
-        {
-          "word": "30",
-          "startSec": 277.98,
-          "endSec": 278.54,
-          "score": 0.97
-        },
-        {
-          "word": "million",
-          "startSec": 278.54,
-          "endSec": 278.88,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 278.88,
-          "endSec": 279.44,
-          "score": 0.99
+          "word": "dancing.",
+          "start": 300.46,
+          "end": 300.92
         }
       ]
     },
     {
       "id": 66,
-      "start": 280.12,
-      "end": 287.11,
-      "text": "Most people in Angola speak Portuguese because Angola was a Portuguese colony in the past.",
+      "start": 300.92,
+      "end": 306.02,
+      "text": "Traditional Angolan music includes Samba and Kazamba.",
       "words": [
         {
-          "word": "Most",
-          "startSec": 280.32,
-          "endSec": 280.86,
-          "score": 0.58
+          "word": "Traditional",
+          "start": 300.92,
+          "end": 301.84
         },
         {
-          "word": "people",
-          "startSec": 280.86,
-          "endSec": 281.28,
-          "score": 0.98
+          "word": "Angolan",
+          "start": 301.84,
+          "end": 302.6
         },
         {
-          "word": "in",
-          "startSec": 281.28,
-          "endSec": 281.6,
-          "score": 0.99
+          "word": "music",
+          "start": 302.6,
+          "end": 303.12
         },
         {
-          "word": "Angola",
-          "startSec": 281.6,
-          "endSec": 281.92,
-          "score": 0.98
+          "word": "includes",
+          "start": 303.12,
+          "end": 304.04
         },
         {
-          "word": "speak",
-          "startSec": 281.92,
-          "endSec": 282.5,
-          "score": 0.99
+          "word": "Samba",
+          "start": 304.04,
+          "end": 304.66
         },
         {
-          "word": "Portuguese",
-          "startSec": 282.5,
-          "endSec": 283.04,
-          "score": 0.99
+          "word": "and",
+          "start": 304.66,
+          "end": 305.04
         },
         {
-          "word": "because",
-          "startSec": 283.04,
-          "endSec": 283.92,
-          "score": 0.88
-        },
-        {
-          "word": "Angola",
-          "startSec": 283.92,
-          "endSec": 284.36,
-          "score": 0.96
-        },
-        {
-          "word": "was",
-          "startSec": 284.36,
-          "endSec": 284.98,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 284.98,
-          "endSec": 285.08,
-          "score": 0.99
-        },
-        {
-          "word": "Portuguese",
-          "startSec": 285.08,
-          "endSec": 285.5,
-          "score": 1.0
-        },
-        {
-          "word": "colony",
-          "startSec": 285.5,
-          "endSec": 286.22,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 286.22,
-          "endSec": 286.5,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 286.5,
-          "endSec": 286.6,
-          "score": 1.0
-        },
-        {
-          "word": "past.",
-          "startSec": 286.6,
-          "endSec": 286.96,
-          "score": 1.0
+          "word": "Kazamba.",
+          "start": 305.04,
+          "end": 306.02
         }
       ]
     },
     {
       "id": 67,
-      "start": 287.75,
-      "end": 292.64,
-      "text": "However, many people also speak local African languages,",
+      "start": 306.28,
+      "end": 311.0,
+      "text": "These are popular dance styles in Angola and around the world.",
       "words": [
         {
-          "word": "However,",
-          "startSec": 287.95,
-          "endSec": 288.47,
-          "score": 1.0
+          "word": "These",
+          "start": 306.28,
+          "end": 306.66
         },
         {
-          "word": "many",
-          "startSec": 289.17,
-          "endSec": 289.47,
-          "score": 1.0
+          "word": "are",
+          "start": 306.66,
+          "end": 306.84
         },
         {
-          "word": "people",
-          "startSec": 289.47,
-          "endSec": 289.99,
-          "score": 0.99
+          "word": "popular",
+          "start": 306.84,
+          "end": 307.32
         },
         {
-          "word": "also",
-          "startSec": 289.99,
-          "endSec": 290.25,
-          "score": 1.0
+          "word": "dance",
+          "start": 307.32,
+          "end": 307.8
         },
         {
-          "word": "speak",
-          "startSec": 290.25,
-          "endSec": 290.87,
-          "score": 1.0
+          "word": "styles",
+          "start": 307.8,
+          "end": 308.22
         },
         {
-          "word": "local",
-          "startSec": 290.87,
-          "endSec": 291.13,
-          "score": 0.98
+          "word": "in",
+          "start": 308.22,
+          "end": 308.56
         },
         {
-          "word": "African",
-          "startSec": 291.13,
-          "endSec": 291.73,
-          "score": 0.99
+          "word": "Angola",
+          "start": 308.56,
+          "end": 309.16
         },
         {
-          "word": "languages,",
-          "startSec": 291.73,
-          "endSec": 292.49,
-          "score": 0.99
+          "word": "and",
+          "start": 309.16,
+          "end": 309.68
+        },
+        {
+          "word": "around",
+          "start": 309.68,
+          "end": 310.02
+        },
+        {
+          "word": "the",
+          "start": 310.02,
+          "end": 310.24
+        },
+        {
+          "word": "world.",
+          "start": 310.24,
+          "end": 311.0
         }
       ]
     },
     {
       "id": 68,
-      "start": 293.19,
-      "end": 296.26,
-      "text": "like Umbundu and Kimbundu.",
+      "start": 311.42,
+      "end": 312.18,
+      "text": "Four.",
       "words": [
         {
-          "word": "like",
-          "startSec": 293.39,
-          "endSec": 293.67,
-          "score": 0.99
-        },
-        {
-          "word": "Umbundu",
-          "startSec": 293.67,
-          "endSec": 294.61,
-          "score": 0.59
-        },
-        {
-          "word": "and",
-          "startSec": 294.61,
-          "endSec": 295.21,
-          "score": 0.97
-        },
-        {
-          "word": "Kimbundu.",
-          "startSec": 295.21,
-          "endSec": 296.11,
-          "score": 0.91
+          "word": "Four.",
+          "start": 311.42,
+          "end": 312.18
         }
       ]
     },
     {
       "id": 69,
-      "start": 296.59,
-      "end": 298.94,
-      "text": "Angolan people are very friendly.",
+      "start": 312.98,
+      "end": 319.34,
+      "text": "Repeat the exact text below without any changes, introduction, or additional words.",
       "words": [
         {
-          "word": "Angolan",
-          "startSec": 296.79,
-          "endSec": 297.31,
-          "score": 0.86
+          "word": "Repeat",
+          "start": 312.98,
+          "end": 312.98
         },
         {
-          "word": "people",
-          "startSec": 297.31,
-          "endSec": 297.67,
-          "score": 0.99
+          "word": "the",
+          "start": 312.98,
+          "end": 313.24
         },
         {
-          "word": "are",
-          "startSec": 297.67,
-          "endSec": 298.03,
-          "score": 1.0
+          "word": "exact",
+          "start": 313.24,
+          "end": 313.72
         },
         {
-          "word": "very",
-          "startSec": 298.03,
-          "endSec": 298.29,
-          "score": 1.0
+          "word": "text",
+          "start": 313.72,
+          "end": 314.14
         },
         {
-          "word": "friendly.",
-          "startSec": 298.29,
-          "endSec": 298.79,
-          "score": 1.0
+          "word": "below",
+          "start": 314.14,
+          "end": 314.62
+        },
+        {
+          "word": "without",
+          "start": 314.62,
+          "end": 315.06
+        },
+        {
+          "word": "any",
+          "start": 315.06,
+          "end": 315.48
+        },
+        {
+          "word": "changes,",
+          "start": 315.48,
+          "end": 316.08
+        },
+        {
+          "word": "introduction,",
+          "start": 316.56,
+          "end": 316.9
+        },
+        {
+          "word": "or",
+          "start": 317.66,
+          "end": 317.82
+        },
+        {
+          "word": "additional",
+          "start": 317.82,
+          "end": 318.26
+        },
+        {
+          "word": "words.",
+          "start": 318.26,
+          "end": 319.34
         }
       ]
     },
     {
       "id": 70,
-      "start": 299.13,
-      "end": 300.78,
-      "text": "They love music and dancing.",
+      "start": 319.6,
+      "end": 324.12,
+      "text": "Do not summarize, analyze, or prepend to append anything.",
       "words": [
         {
-          "word": "They",
-          "startSec": 299.33,
-          "endSec": 299.33,
-          "score": 1.0
+          "word": "Do",
+          "start": 319.6,
+          "end": 319.82
         },
         {
-          "word": "love",
-          "startSec": 299.33,
-          "endSec": 299.59,
-          "score": 1.0
+          "word": "not",
+          "start": 319.82,
+          "end": 320.04
         },
         {
-          "word": "music",
-          "startSec": 299.59,
-          "endSec": 300.11,
-          "score": 0.99
+          "word": "summarize,",
+          "start": 320.04,
+          "end": 320.7
         },
         {
-          "word": "and",
-          "startSec": 300.11,
-          "endSec": 300.39,
-          "score": 0.99
+          "word": "analyze,",
+          "start": 321.2,
+          "end": 321.56
         },
         {
-          "word": "dancing.",
-          "startSec": 300.39,
-          "endSec": 300.63,
-          "score": 1.0
+          "word": "or",
+          "start": 322.12,
+          "end": 322.22
+        },
+        {
+          "word": "prepend",
+          "start": 322.22,
+          "end": 322.8
+        },
+        {
+          "word": "to",
+          "start": 322.8,
+          "end": 322.96
+        },
+        {
+          "word": "append",
+          "start": 322.96,
+          "end": 323.22
+        },
+        {
+          "word": "anything.",
+          "start": 323.22,
+          "end": 324.12
         }
       ]
     },
     {
       "id": 71,
-      "start": 301.23,
-      "end": 305.92,
-      "text": "Traditional Angolan music includes semba and kazomba.",
+      "start": 324.46,
+      "end": 328.16,
+      "text": "Just output the text exactly as provided.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 301.43,
-          "endSec": 301.69,
-          "score": 0.97
+          "word": "Just",
+          "start": 324.46,
+          "end": 324.96
         },
         {
-          "word": "Angolan",
-          "startSec": 301.69,
-          "endSec": 302.55,
-          "score": 0.93
+          "word": "output",
+          "start": 324.96,
+          "end": 325.46
         },
         {
-          "word": "music",
-          "startSec": 302.55,
-          "endSec": 303.13,
-          "score": 0.97
+          "word": "the",
+          "start": 325.46,
+          "end": 325.7
         },
         {
-          "word": "includes",
-          "startSec": 303.13,
-          "endSec": 303.97,
-          "score": 0.95
+          "word": "text",
+          "start": 325.7,
+          "end": 326.1
         },
         {
-          "word": "semba",
-          "startSec": 303.97,
-          "endSec": 304.73,
-          "score": 0.55
+          "word": "exactly",
+          "start": 326.1,
+          "end": 326.86
         },
         {
-          "word": "and",
-          "startSec": 304.73,
-          "endSec": 305.01,
-          "score": 1.0
+          "word": "as",
+          "start": 326.86,
+          "end": 327.16
         },
         {
-          "word": "kazomba.",
-          "startSec": 305.01,
-          "endSec": 305.77,
-          "score": 0.72
+          "word": "provided.",
+          "start": 327.16,
+          "end": 328.16
         }
       ]
     },
     {
       "id": 72,
-      "start": 305.91,
-      "end": 310.7,
-      "text": "These are popular dance styles in Angola and around the world.",
+      "start": 328.96,
+      "end": 335.7,
+      "text": "On this day, people celebrate Angola's independence from Portugal in 1975.",
       "words": [
         {
-          "word": "These",
-          "startSec": 306.11,
-          "endSec": 306.57,
-          "score": 0.77
+          "word": "On",
+          "start": 328.96,
+          "end": 329.8
         },
         {
-          "word": "are",
-          "startSec": 306.57,
-          "endSec": 306.79,
-          "score": 0.99
+          "word": "this",
+          "start": 329.8,
+          "end": 330.16
         },
         {
-          "word": "popular",
-          "startSec": 306.79,
-          "endSec": 307.15,
-          "score": 0.99
+          "word": "day,",
+          "start": 330.16,
+          "end": 330.5
         },
         {
-          "word": "dance",
-          "startSec": 307.15,
-          "endSec": 307.63,
-          "score": 1.0
+          "word": "people",
+          "start": 330.66,
+          "end": 330.88
         },
         {
-          "word": "styles",
-          "startSec": 307.63,
-          "endSec": 308.19,
-          "score": 0.99
+          "word": "celebrate",
+          "start": 330.88,
+          "end": 331.6
+        },
+        {
+          "word": "Angola's",
+          "start": 331.6,
+          "end": 332.36
+        },
+        {
+          "word": "independence",
+          "start": 332.36,
+          "end": 332.86
+        },
+        {
+          "word": "from",
+          "start": 332.86,
+          "end": 333.42
+        },
+        {
+          "word": "Portugal",
+          "start": 333.42,
+          "end": 334.02
         },
         {
           "word": "in",
-          "startSec": 308.19,
-          "endSec": 308.51,
-          "score": 0.99
+          "start": 334.02,
+          "end": 334.38
         },
         {
-          "word": "Angola",
-          "startSec": 308.51,
-          "endSec": 308.93,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 308.93,
-          "endSec": 309.63,
-          "score": 0.96
-        },
-        {
-          "word": "around",
-          "startSec": 309.63,
-          "endSec": 309.91,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 309.91,
-          "endSec": 310.17,
-          "score": 1.0
-        },
-        {
-          "word": "world.",
-          "startSec": 310.17,
-          "endSec": 310.55,
-          "score": 1.0
+          "word": "1975.",
+          "start": 334.38,
+          "end": 335.7
         }
       ]
     },
     {
       "id": 73,
-      "start": 311.28,
-      "end": 318.85,
-      "text": "4. Repeat the exact text below without any changes, introduction, or additional words.",
+      "start": 336.26,
+      "end": 340.88,
+      "text": "There are parades, music, and special events across the country.",
       "words": [
         {
-          "word": "4.",
-          "startSec": 311.48,
-          "endSec": 311.72,
-          "score": 0.44
+          "word": "There",
+          "start": 336.26,
+          "end": 336.52
         },
         {
-          "word": "Repeat",
-          "startSec": 312.84,
-          "endSec": 312.84,
-          "score": 0.99
+          "word": "are",
+          "start": 336.52,
+          "end": 336.66
+        },
+        {
+          "word": "parades,",
+          "start": 336.66,
+          "end": 337.34
+        },
+        {
+          "word": "music,",
+          "start": 337.54,
+          "end": 337.9
+        },
+        {
+          "word": "and",
+          "start": 338.3,
+          "end": 338.42
+        },
+        {
+          "word": "special",
+          "start": 338.42,
+          "end": 338.86
+        },
+        {
+          "word": "events",
+          "start": 338.86,
+          "end": 339.3
+        },
+        {
+          "word": "across",
+          "start": 339.3,
+          "end": 339.68
         },
         {
           "word": "the",
-          "startSec": 312.84,
-          "endSec": 313.2,
-          "score": 0.99
+          "start": 339.68,
+          "end": 340.02
         },
         {
-          "word": "exact",
-          "startSec": 313.2,
-          "endSec": 313.48,
-          "score": 1.0
-        },
-        {
-          "word": "text",
-          "startSec": 313.48,
-          "endSec": 313.98,
-          "score": 0.97
-        },
-        {
-          "word": "below",
-          "startSec": 313.98,
-          "endSec": 314.54,
-          "score": 0.99
-        },
-        {
-          "word": "without",
-          "startSec": 314.54,
-          "endSec": 315.0,
-          "score": 0.95
-        },
-        {
-          "word": "any",
-          "startSec": 315.0,
-          "endSec": 315.44,
-          "score": 0.97
-        },
-        {
-          "word": "changes,",
-          "startSec": 315.44,
-          "endSec": 316.0,
-          "score": 1.0
-        },
-        {
-          "word": "introduction,",
-          "startSec": 316.52,
-          "endSec": 316.8,
-          "score": 0.97
-        },
-        {
-          "word": "or",
-          "startSec": 317.74,
-          "endSec": 317.74,
-          "score": 0.99
-        },
-        {
-          "word": "additional",
-          "startSec": 317.74,
-          "endSec": 318.18,
-          "score": 0.99
-        },
-        {
-          "word": "words.",
-          "startSec": 318.18,
-          "endSec": 318.7,
-          "score": 1.0
+          "word": "country.",
+          "start": 340.02,
+          "end": 340.88
         }
       ]
     },
     {
       "id": 74,
-      "start": 319.44,
-      "end": 323.07,
-      "text": "Do not summarize, analyze, or prepend anything.",
+      "start": 341.6,
+      "end": 344.7,
+      "text": "Another important festival is Carnival.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 319.64,
-          "endSec": 319.74,
-          "score": 0.97
+          "word": "Another",
+          "start": 341.6,
+          "end": 342.22
         },
         {
-          "word": "not",
-          "startSec": 319.74,
-          "endSec": 319.98,
-          "score": 1.0
+          "word": "important",
+          "start": 342.22,
+          "end": 342.88
         },
         {
-          "word": "summarize,",
-          "startSec": 319.98,
-          "endSec": 320.48,
-          "score": 0.96
+          "word": "festival",
+          "start": 342.88,
+          "end": 343.44
         },
         {
-          "word": "analyze,",
-          "startSec": 321.1,
-          "endSec": 321.36,
-          "score": 0.99
+          "word": "is",
+          "start": 343.44,
+          "end": 343.74
         },
         {
-          "word": "or",
-          "startSec": 322.14,
-          "endSec": 322.18,
-          "score": 0.99
-        },
-        {
-          "word": "prepend",
-          "startSec": 322.18,
-          "endSec": 322.76,
-          "score": 0.73
-        },
-        {
-          "word": "anything.",
-          "startSec": 322.76,
-          "endSec": 322.92,
-          "score": 0.88
+          "word": "Carnival.",
+          "start": 343.74,
+          "end": 344.7
         }
       ]
     },
     {
       "id": 75,
-      "start": 324.02,
-      "end": 327.65,
-      "text": "Just output the text exactly as provided.",
+      "start": 344.98,
+      "end": 353.72,
+      "text": "Carnival happens in February or March, and people wear colorful costumes, dance, and play music in the streets.",
       "words": [
         {
-          "word": "Just",
-          "startSec": 324.22,
-          "endSec": 324.88,
-          "score": 0.98
+          "word": "Carnival",
+          "start": 344.98,
+          "end": 345.64
         },
         {
-          "word": "output",
-          "startSec": 324.88,
-          "endSec": 325.32,
-          "score": 0.95
+          "word": "happens",
+          "start": 345.64,
+          "end": 346.06
+        },
+        {
+          "word": "in",
+          "start": 346.06,
+          "end": 346.36
+        },
+        {
+          "word": "February",
+          "start": 346.36,
+          "end": 346.78
+        },
+        {
+          "word": "or",
+          "start": 346.78,
+          "end": 347.34
+        },
+        {
+          "word": "March,",
+          "start": 347.34,
+          "end": 347.8
+        },
+        {
+          "word": "and",
+          "start": 348.08,
+          "end": 348.34
+        },
+        {
+          "word": "people",
+          "start": 348.34,
+          "end": 348.64
+        },
+        {
+          "word": "wear",
+          "start": 348.64,
+          "end": 348.9
+        },
+        {
+          "word": "colorful",
+          "start": 348.9,
+          "end": 349.48
+        },
+        {
+          "word": "costumes,",
+          "start": 349.48,
+          "end": 350.18
+        },
+        {
+          "word": "dance,",
+          "start": 350.74,
+          "end": 351.1
+        },
+        {
+          "word": "and",
+          "start": 351.62,
+          "end": 351.72
+        },
+        {
+          "word": "play",
+          "start": 351.72,
+          "end": 352.0
+        },
+        {
+          "word": "music",
+          "start": 352.0,
+          "end": 352.52
+        },
+        {
+          "word": "in",
+          "start": 352.52,
+          "end": 352.84
         },
         {
           "word": "the",
-          "startSec": 325.32,
-          "endSec": 325.64,
-          "score": 1.0
+          "start": 352.84,
+          "end": 352.96
         },
         {
-          "word": "text",
-          "startSec": 325.64,
-          "endSec": 326.0,
-          "score": 1.0
-        },
-        {
-          "word": "exactly",
-          "startSec": 326.0,
-          "endSec": 326.56,
-          "score": 0.94
-        },
-        {
-          "word": "as",
-          "startSec": 326.56,
-          "endSec": 327.1,
-          "score": 1.0
-        },
-        {
-          "word": "provided.",
-          "startSec": 327.1,
-          "endSec": 327.5,
-          "score": 0.99
+          "word": "streets.",
+          "start": 352.96,
+          "end": 353.72
         }
       ]
     },
     {
       "id": 76,
-      "start": 329.37,
-      "end": 335.32,
-      "text": "On this day, people celebrate Angola's independence from Portugal in 1975.",
+      "start": 354.32,
+      "end": 356.66,
+      "text": "It is a fun and happy time.",
       "words": [
         {
-          "word": "On",
-          "startSec": 329.57,
-          "endSec": 329.79,
-          "score": 0.98
+          "word": "It",
+          "start": 354.32,
+          "end": 354.66
         },
         {
-          "word": "this",
-          "startSec": 329.79,
-          "endSec": 330.01,
-          "score": 1.0
+          "word": "is",
+          "start": 354.66,
+          "end": 354.82
         },
         {
-          "word": "day,",
-          "startSec": 330.01,
-          "endSec": 330.41,
-          "score": 1.0
+          "word": "a",
+          "start": 354.82,
+          "end": 354.96
         },
         {
-          "word": "people",
-          "startSec": 330.41,
-          "endSec": 330.83,
-          "score": 0.99
+          "word": "fun",
+          "start": 354.96,
+          "end": 355.44
         },
         {
-          "word": "celebrate",
-          "startSec": 330.83,
-          "endSec": 331.41,
-          "score": 1.0
+          "word": "and",
+          "start": 355.44,
+          "end": 355.74
         },
         {
-          "word": "Angola's",
-          "startSec": 331.41,
-          "endSec": 332.35,
-          "score": 0.95
+          "word": "happy",
+          "start": 355.74,
+          "end": 356.12
         },
         {
-          "word": "independence",
-          "startSec": 332.35,
-          "endSec": 332.67,
-          "score": 0.89
-        },
-        {
-          "word": "from",
-          "startSec": 332.67,
-          "endSec": 333.39,
-          "score": 1.0
-        },
-        {
-          "word": "Portugal",
-          "startSec": 333.39,
-          "endSec": 333.83,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 333.83,
-          "endSec": 334.33,
-          "score": 1.0
-        },
-        {
-          "word": "1975.",
-          "startSec": 334.33,
-          "endSec": 335.17,
-          "score": 1.0
+          "word": "time.",
+          "start": 356.12,
+          "end": 356.66
         }
       ]
     },
     {
       "id": 77,
-      "start": 335.91,
-      "end": 340.56,
-      "text": "There are parades, music, and special events across the country.",
+      "start": 356.66,
+      "end": 366.02,
+      "text": "Many towns and cities in Angola also have their own traditional festivals with music, dancing, and food.",
       "words": [
         {
-          "word": "There",
-          "startSec": 336.11,
-          "endSec": 336.47,
-          "score": 0.28
+          "word": "Many",
+          "start": 356.66,
+          "end": 357.78
         },
         {
-          "word": "are",
-          "startSec": 336.47,
-          "endSec": 336.63,
-          "score": 0.98
-        },
-        {
-          "word": "parades,",
-          "startSec": 336.63,
-          "endSec": 337.19,
-          "score": 0.99
-        },
-        {
-          "word": "music,",
-          "startSec": 337.19,
-          "endSec": 337.89,
-          "score": 1.0
+          "word": "towns",
+          "start": 357.78,
+          "end": 358.26
         },
         {
           "word": "and",
-          "startSec": 338.33,
-          "endSec": 338.35,
-          "score": 0.99
+          "start": 358.26,
+          "end": 358.56
         },
         {
-          "word": "special",
-          "startSec": 338.35,
-          "endSec": 338.67,
-          "score": 1.0
+          "word": "cities",
+          "start": 358.56,
+          "end": 358.9
         },
         {
-          "word": "events",
-          "startSec": 338.67,
-          "endSec": 339.27,
-          "score": 1.0
+          "word": "in",
+          "start": 358.9,
+          "end": 359.22
         },
         {
-          "word": "across",
-          "startSec": 339.27,
-          "endSec": 339.61,
-          "score": 0.99
+          "word": "Angola",
+          "start": 359.22,
+          "end": 359.74
         },
         {
-          "word": "the",
-          "startSec": 339.61,
-          "endSec": 339.97,
-          "score": 1.0
+          "word": "also",
+          "start": 359.74,
+          "end": 360.48
         },
         {
-          "word": "country.",
-          "startSec": 339.97,
-          "endSec": 340.41,
-          "score": 0.99
+          "word": "have",
+          "start": 360.48,
+          "end": 360.76
+        },
+        {
+          "word": "their",
+          "start": 360.76,
+          "end": 360.96
+        },
+        {
+          "word": "own",
+          "start": 360.96,
+          "end": 361.26
+        },
+        {
+          "word": "traditional",
+          "start": 361.26,
+          "end": 361.76
+        },
+        {
+          "word": "festivals",
+          "start": 361.76,
+          "end": 362.56
+        },
+        {
+          "word": "with",
+          "start": 362.56,
+          "end": 363.04
+        },
+        {
+          "word": "music,",
+          "start": 363.04,
+          "end": 363.6
+        },
+        {
+          "word": "dancing,",
+          "start": 364.06,
+          "end": 364.62
+        },
+        {
+          "word": "and",
+          "start": 365.06,
+          "end": 365.2
+        },
+        {
+          "word": "food.",
+          "start": 365.2,
+          "end": 366.02
         }
       ]
     },
     {
       "id": 78,
-      "start": 341.65,
-      "end": 344.1,
-      "text": "Another important festival is Carnival.",
+      "start": 366.54,
+      "end": 371.32,
+      "text": "Angolan people love to celebrate their culture and history.",
       "words": [
         {
-          "word": "Another",
-          "startSec": 341.85,
-          "endSec": 342.19,
-          "score": 0.95
+          "word": "Angolan",
+          "start": 366.54,
+          "end": 367.2
         },
         {
-          "word": "important",
-          "startSec": 342.19,
-          "endSec": 342.85,
-          "score": 1.0
+          "word": "people",
+          "start": 367.2,
+          "end": 367.64
         },
         {
-          "word": "festival",
-          "startSec": 342.85,
-          "endSec": 343.17,
-          "score": 0.99
+          "word": "love",
+          "start": 367.64,
+          "end": 368.36
         },
         {
-          "word": "is",
-          "startSec": 343.17,
-          "endSec": 343.71,
-          "score": 1.0
+          "word": "to",
+          "start": 368.36,
+          "end": 368.62
         },
         {
-          "word": "Carnival.",
-          "startSec": 343.71,
-          "endSec": 343.95,
-          "score": 0.71
+          "word": "celebrate",
+          "start": 368.62,
+          "end": 369.08
+        },
+        {
+          "word": "their",
+          "start": 369.08,
+          "end": 369.44
+        },
+        {
+          "word": "culture",
+          "start": 369.44,
+          "end": 369.9
+        },
+        {
+          "word": "and",
+          "start": 369.9,
+          "end": 370.42
+        },
+        {
+          "word": "history.",
+          "start": 370.42,
+          "end": 371.32
         }
       ]
     },
     {
       "id": 79,
-      "start": 344.88,
-      "end": 351.13,
-      "text": "Carnival happens in February or March and people wear colorful costumes, dance,",
+      "start": 372.38,
+      "end": 374.74,
+      "text": "That is all for today.",
       "words": [
         {
-          "word": "Carnival",
-          "startSec": 345.08,
-          "endSec": 345.4,
-          "score": 0.99
+          "word": "That",
+          "start": 372.38,
+          "end": 373.3
         },
         {
-          "word": "happens",
-          "startSec": 345.4,
-          "endSec": 345.96,
-          "score": 1.0
+          "word": "is",
+          "start": 373.3,
+          "end": 373.48
         },
         {
-          "word": "in",
-          "startSec": 345.96,
-          "endSec": 346.32,
-          "score": 1.0
+          "word": "all",
+          "start": 373.48,
+          "end": 373.72
         },
         {
-          "word": "February",
-          "startSec": 346.32,
-          "endSec": 346.78,
-          "score": 1.0
+          "word": "for",
+          "start": 373.72,
+          "end": 373.92
         },
         {
-          "word": "or",
-          "startSec": 346.78,
-          "endSec": 347.28,
-          "score": 0.98
-        },
-        {
-          "word": "March",
-          "startSec": 347.28,
-          "endSec": 347.58,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 347.58,
-          "endSec": 348.28,
-          "score": 0.34
-        },
-        {
-          "word": "people",
-          "startSec": 348.28,
-          "endSec": 348.48,
-          "score": 1.0
-        },
-        {
-          "word": "wear",
-          "startSec": 348.48,
-          "endSec": 348.86,
-          "score": 1.0
-        },
-        {
-          "word": "colorful",
-          "startSec": 348.86,
-          "endSec": 349.26,
-          "score": 0.99
-        },
-        {
-          "word": "costumes,",
-          "startSec": 349.26,
-          "endSec": 350.06,
-          "score": 1.0
-        },
-        {
-          "word": "dance,",
-          "startSec": 350.14,
-          "endSec": 350.98,
-          "score": 1.0
+          "word": "today.",
+          "start": 373.92,
+          "end": 374.74
         }
       ]
     },
     {
       "id": 80,
-      "start": 351.34,
-      "end": 353.43,
-      "text": "and play music in the streets.",
+      "start": 375.14,
+      "end": 378.16,
+      "text": "Now you know many things about Angola.",
       "words": [
         {
-          "word": "and",
-          "startSec": 351.54,
-          "endSec": 351.68,
-          "score": 1.0
+          "word": "Now",
+          "start": 375.14,
+          "end": 375.72
         },
         {
-          "word": "play",
-          "startSec": 351.68,
-          "endSec": 351.92,
-          "score": 1.0
+          "word": "you",
+          "start": 375.72,
+          "end": 375.98
         },
         {
-          "word": "music",
-          "startSec": 351.92,
-          "endSec": 352.42,
-          "score": 1.0
+          "word": "know",
+          "start": 375.98,
+          "end": 376.16
         },
         {
-          "word": "in",
-          "startSec": 352.42,
-          "endSec": 352.76,
-          "score": 1.0
+          "word": "many",
+          "start": 376.16,
+          "end": 376.44
         },
         {
-          "word": "the",
-          "startSec": 352.76,
-          "endSec": 352.92,
-          "score": 1.0
+          "word": "things",
+          "start": 376.44,
+          "end": 376.78
         },
         {
-          "word": "streets.",
-          "startSec": 352.92,
-          "endSec": 353.28,
-          "score": 1.0
+          "word": "about",
+          "start": 376.78,
+          "end": 377.1
+        },
+        {
+          "word": "Angola.",
+          "start": 377.1,
+          "end": 378.16
         }
       ]
     },
     {
       "id": 81,
-      "start": 354.26,
-      "end": 356.71,
-      "text": "It is a fun and happy time.",
+      "start": 378.52,
+      "end": 383.94,
+      "text": "It is a beautiful country with amazing nature, food, and culture.",
       "words": [
         {
           "word": "It",
-          "startSec": 354.46,
-          "endSec": 354.64,
-          "score": 1.0
+          "start": 378.52,
+          "end": 378.98
         },
         {
           "word": "is",
-          "startSec": 354.64,
-          "endSec": 354.76,
-          "score": 0.99
+          "start": 378.98,
+          "end": 379.14
         },
         {
           "word": "a",
-          "startSec": 354.76,
-          "endSec": 354.9,
-          "score": 0.99
+          "start": 379.14,
+          "end": 379.3
         },
         {
-          "word": "fun",
-          "startSec": 354.9,
-          "endSec": 355.26,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 379.3,
+          "end": 379.62
+        },
+        {
+          "word": "country",
+          "start": 379.62,
+          "end": 380.22
+        },
+        {
+          "word": "with",
+          "start": 380.22,
+          "end": 380.54
+        },
+        {
+          "word": "amazing",
+          "start": 380.54,
+          "end": 381.04
+        },
+        {
+          "word": "nature,",
+          "start": 381.04,
+          "end": 381.62
+        },
+        {
+          "word": "food,",
+          "start": 382.18,
+          "end": 382.6
         },
         {
           "word": "and",
-          "startSec": 355.26,
-          "endSec": 355.68,
-          "score": 0.99
+          "start": 382.9,
+          "end": 383.08
         },
         {
-          "word": "happy",
-          "startSec": 355.68,
-          "endSec": 356.04,
-          "score": 1.0
-        },
-        {
-          "word": "time.",
-          "startSec": 356.04,
-          "endSec": 356.56,
-          "score": 1.0
+          "word": "culture.",
+          "start": 383.08,
+          "end": 383.94
         }
       ]
     },
     {
       "id": 82,
-      "start": 357.19,
-      "end": 362.42,
-      "text": "Many towns and cities in Angola also have their own traditional festivals",
+      "start": 384.42,
+      "end": 387.7,
+      "text": "Thank you for listening to Slow English Podcast.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 357.39,
-          "endSec": 357.73,
-          "score": 0.99
+          "word": "Thank",
+          "start": 384.42,
+          "end": 385.02
         },
         {
-          "word": "towns",
-          "startSec": 357.73,
-          "endSec": 358.23,
-          "score": 1.0
+          "word": "you",
+          "start": 385.02,
+          "end": 385.3
         },
         {
-          "word": "and",
-          "startSec": 358.23,
-          "endSec": 358.51,
-          "score": 0.99
+          "word": "for",
+          "start": 385.3,
+          "end": 385.46
         },
         {
-          "word": "cities",
-          "startSec": 358.51,
-          "endSec": 358.91,
-          "score": 1.0
+          "word": "listening",
+          "start": 385.46,
+          "end": 385.88
         },
         {
-          "word": "in",
-          "startSec": 358.91,
-          "endSec": 359.17,
-          "score": 0.99
+          "word": "to",
+          "start": 385.88,
+          "end": 386.14
         },
         {
-          "word": "Angola",
-          "startSec": 359.17,
-          "endSec": 359.51,
-          "score": 0.99
+          "word": "Slow",
+          "start": 386.14,
+          "end": 386.44
         },
         {
-          "word": "also",
-          "startSec": 359.51,
-          "endSec": 360.29,
-          "score": 1.0
+          "word": "English",
+          "start": 386.44,
+          "end": 386.78
         },
         {
-          "word": "have",
-          "startSec": 360.29,
-          "endSec": 360.73,
-          "score": 1.0
-        },
-        {
-          "word": "their",
-          "startSec": 360.73,
-          "endSec": 360.91,
-          "score": 1.0
-        },
-        {
-          "word": "own",
-          "startSec": 360.91,
-          "endSec": 361.21,
-          "score": 1.0
-        },
-        {
-          "word": "traditional",
-          "startSec": 361.21,
-          "endSec": 361.53,
-          "score": 1.0
-        },
-        {
-          "word": "festivals",
-          "startSec": 361.53,
-          "endSec": 362.27,
-          "score": 1.0
+          "word": "Podcast.",
+          "start": 386.78,
+          "end": 387.7
         }
       ]
     },
     {
       "id": 83,
-      "start": 362.07,
-      "end": 365.6,
-      "text": "with music, dancing, and food.",
+      "start": 388.46,
+      "end": 391.04,
+      "text": "I hope you learned something new today.",
       "words": [
         {
-          "word": "with",
-          "startSec": 362.27,
-          "endSec": 362.97,
-          "score": 0.13
+          "word": "I",
+          "start": 388.46,
+          "end": 388.6
         },
         {
-          "word": "music,",
-          "startSec": 362.97,
-          "endSec": 363.25,
-          "score": 0.96
+          "word": "hope",
+          "start": 388.6,
+          "end": 388.78
         },
         {
-          "word": "dancing,",
-          "startSec": 363.35,
-          "endSec": 364.55,
-          "score": 0.99
+          "word": "you",
+          "start": 388.78,
+          "end": 388.96
         },
         {
-          "word": "and",
-          "startSec": 364.55,
-          "endSec": 365.13,
-          "score": 1.0
+          "word": "learned",
+          "start": 388.96,
+          "end": 389.28
         },
         {
-          "word": "food.",
-          "startSec": 365.13,
-          "endSec": 365.45,
-          "score": 1.0
+          "word": "something",
+          "start": 389.28,
+          "end": 389.78
+        },
+        {
+          "word": "new",
+          "start": 389.78,
+          "end": 390.22
+        },
+        {
+          "word": "today.",
+          "start": 390.22,
+          "end": 391.04
         }
       ]
     },
     {
       "id": 84,
-      "start": 366.35,
-      "end": 370.94,
-      "text": "Angolan people love to celebrate their culture and history.",
+      "start": 391.68,
+      "end": 395.44,
+      "text": "If you liked this episode, please share it with your friends.",
       "words": [
         {
-          "word": "Angolan",
-          "startSec": 366.55,
-          "endSec": 367.15,
-          "score": 0.88
+          "word": "If",
+          "start": 391.68,
+          "end": 391.84
         },
         {
-          "word": "people",
-          "startSec": 367.15,
-          "endSec": 367.51,
-          "score": 0.98
+          "word": "you",
+          "start": 391.84,
+          "end": 392.0
         },
         {
-          "word": "love",
-          "startSec": 367.51,
-          "endSec": 368.27,
-          "score": 0.99
+          "word": "liked",
+          "start": 392.0,
+          "end": 392.3
         },
         {
-          "word": "to",
-          "startSec": 368.27,
-          "endSec": 368.59,
-          "score": 1.0
+          "word": "this",
+          "start": 392.3,
+          "end": 392.56
         },
         {
-          "word": "celebrate",
-          "startSec": 368.59,
-          "endSec": 368.99,
-          "score": 1.0
+          "word": "episode,",
+          "start": 392.56,
+          "end": 393.22
         },
         {
-          "word": "their",
-          "startSec": 368.99,
-          "endSec": 369.41,
-          "score": 1.0
+          "word": "please",
+          "start": 393.48,
+          "end": 393.7
         },
         {
-          "word": "culture",
-          "startSec": 369.41,
-          "endSec": 369.83,
-          "score": 1.0
+          "word": "share",
+          "start": 393.7,
+          "end": 394.08
         },
         {
-          "word": "and",
-          "startSec": 369.83,
-          "endSec": 370.35,
-          "score": 0.99
+          "word": "it",
+          "start": 394.08,
+          "end": 394.26
         },
         {
-          "word": "history.",
-          "startSec": 370.35,
-          "endSec": 370.79,
-          "score": 1.0
+          "word": "with",
+          "start": 394.26,
+          "end": 394.42
+        },
+        {
+          "word": "your",
+          "start": 394.42,
+          "end": 394.58
+        },
+        {
+          "word": "friends.",
+          "start": 394.58,
+          "end": 395.44
         }
       ]
     },
     {
       "id": 85,
-      "start": 372.7,
-      "end": 374.43,
-      "text": "That is all for today.",
+      "start": 395.9,
+      "end": 397.4,
+      "text": "See you next time.",
       "words": [
         {
-          "word": "That",
-          "startSec": 372.9,
-          "endSec": 373.26,
-          "score": 0.98
+          "word": "See",
+          "start": 395.9,
+          "end": 396.22
         },
         {
-          "word": "is",
-          "startSec": 373.26,
-          "endSec": 373.42,
-          "score": 0.97
+          "word": "you",
+          "start": 396.22,
+          "end": 396.36
         },
         {
-          "word": "all",
-          "startSec": 373.42,
-          "endSec": 373.64,
-          "score": 1.0
+          "word": "next",
+          "start": 396.36,
+          "end": 396.56
         },
         {
-          "word": "for",
-          "startSec": 373.64,
-          "endSec": 373.88,
-          "score": 1.0
-        },
-        {
-          "word": "today.",
-          "startSec": 373.88,
-          "endSec": 374.28,
-          "score": 1.0
+          "word": "time.",
+          "start": 396.56,
+          "end": 397.4
         }
       ]
     },
     {
       "id": 86,
-      "start": 374.9,
-      "end": 377.63,
-      "text": "Now you know many things about Angola.",
-      "words": [
-        {
-          "word": "Now",
-          "startSec": 375.1,
-          "endSec": 375.62,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 375.62,
-          "endSec": 375.92,
-          "score": 0.95
-        },
-        {
-          "word": "know",
-          "startSec": 375.92,
-          "endSec": 376.1,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 376.1,
-          "endSec": 376.38,
-          "score": 1.0
-        },
-        {
-          "word": "things",
-          "startSec": 376.38,
-          "endSec": 376.8,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 376.8,
-          "endSec": 377.08,
-          "score": 1.0
-        },
-        {
-          "word": "Angola.",
-          "startSec": 377.08,
-          "endSec": 377.48,
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "start": 378.5,
-      "end": 383.47,
-      "text": "It is a beautiful country with amazing nature, food, and culture.",
-      "words": [
-        {
-          "word": "It",
-          "startSec": 378.7,
-          "endSec": 378.94,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 378.94,
-          "endSec": 379.06,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 379.06,
-          "endSec": 379.22,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 379.22,
-          "endSec": 379.52,
-          "score": 1.0
-        },
-        {
-          "word": "country",
-          "startSec": 379.52,
-          "endSec": 380.1,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 380.1,
-          "endSec": 380.48,
-          "score": 0.99
-        },
-        {
-          "word": "amazing",
-          "startSec": 380.48,
-          "endSec": 380.72,
-          "score": 0.99
-        },
-        {
-          "word": "nature,",
-          "startSec": 380.72,
-          "endSec": 381.62,
-          "score": 1.0
-        },
-        {
-          "word": "food,",
-          "startSec": 382.04,
-          "endSec": 382.42,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 382.88,
-          "endSec": 383.04,
-          "score": 1.0
-        },
-        {
-          "word": "culture.",
-          "startSec": 383.04,
-          "endSec": 383.32,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "start": 388.02,
-      "end": 390.73,
-      "text": "I hope you learned something new today.",
-      "words": [
-        {
-          "word": "I",
-          "startSec": 388.22,
-          "endSec": 388.56,
-          "score": 1.0
-        },
-        {
-          "word": "hope",
-          "startSec": 388.56,
-          "endSec": 388.72,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 388.72,
-          "endSec": 388.92,
-          "score": 1.0
-        },
-        {
-          "word": "learned",
-          "startSec": 388.92,
-          "endSec": 389.16,
-          "score": 0.86
-        },
-        {
-          "word": "something",
-          "startSec": 389.16,
-          "endSec": 389.54,
-          "score": 1.0
-        },
-        {
-          "word": "new",
-          "startSec": 389.54,
-          "endSec": 390.12,
-          "score": 1.0
-        },
-        {
-          "word": "today.",
-          "startSec": 390.12,
-          "endSec": 390.58,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 89,
-      "start": 391.27,
-      "end": 395.06,
-      "text": "If you liked this episode, please share it with your friends.",
-      "words": [
-        {
-          "word": "If",
-          "startSec": 391.47,
-          "endSec": 391.77,
-          "score": 0.68
-        },
-        {
-          "word": "you",
-          "startSec": 391.77,
-          "endSec": 391.95,
-          "score": 1.0
-        },
-        {
-          "word": "liked",
-          "startSec": 391.95,
-          "endSec": 392.17,
-          "score": 0.58
-        },
-        {
-          "word": "this",
-          "startSec": 392.17,
-          "endSec": 392.45,
-          "score": 0.99
-        },
-        {
-          "word": "episode,",
-          "startSec": 392.45,
-          "endSec": 393.13,
-          "score": 0.99
-        },
-        {
-          "word": "please",
-          "startSec": 393.13,
-          "endSec": 393.67,
-          "score": 0.99
-        },
-        {
-          "word": "share",
-          "startSec": 393.67,
-          "endSec": 394.05,
-          "score": 1.0
-        },
-        {
-          "word": "it",
-          "startSec": 394.05,
-          "endSec": 394.21,
-          "score": 0.96
-        },
-        {
-          "word": "with",
-          "startSec": 394.21,
-          "endSec": 394.33,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 394.33,
-          "endSec": 394.53,
-          "score": 0.99
-        },
-        {
-          "word": "friends.",
-          "startSec": 394.53,
-          "endSec": 394.91,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "start": 397.52,
-      "end": 398.25,
-      "text": "Bye-bye.",
+      "start": 397.64,
+      "end": 398.49,
+      "text": "Bye -bye.",
       "words": [
         {
           "word": "Bye",
-          "startSec": 397.72,
-          "endSec": 397.82,
-          "score": 0.93
+          "start": 397.64,
+          "end": 397.86
         },
         {
           "word": "-bye.",
-          "startSec": 397.82,
-          "endSec": 398.1,
-          "score": 0.66
+          "start": 397.86,
+          "end": 398.49
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 86
 }

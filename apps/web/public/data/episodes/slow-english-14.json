@@ -15,5159 +15,4317 @@
   "sentences": [
     {
       "id": 1,
-      "start": 3.23,
-      "end": 7.98,
+      "start": 3.08,
+      "end": 8.3,
       "text": "Today, we are going to learn how to speak English at work.",
       "words": [
         {
           "word": "Today,",
-          "startSec": 3.43,
-          "endSec": 4.15,
-          "score": 0.94
+          "start": 3.08,
+          "end": 3.8
         },
         {
           "word": "we",
-          "startSec": 4.15,
-          "endSec": 4.87,
-          "score": 0.99
+          "start": 4.36,
+          "end": 4.92
         },
         {
           "word": "are",
-          "startSec": 4.87,
-          "endSec": 5.05,
-          "score": 0.89
+          "start": 4.92,
+          "end": 5.08
         },
         {
           "word": "going",
-          "startSec": 5.05,
-          "endSec": 5.31,
-          "score": 1.0
+          "start": 5.08,
+          "end": 5.32
         },
         {
           "word": "to",
-          "startSec": 5.31,
-          "endSec": 5.51,
-          "score": 1.0
+          "start": 5.32,
+          "end": 5.56
         },
         {
           "word": "learn",
-          "startSec": 5.51,
-          "endSec": 5.89,
-          "score": 1.0
+          "start": 5.56,
+          "end": 5.92
         },
         {
           "word": "how",
-          "startSec": 5.89,
-          "endSec": 6.19,
-          "score": 1.0
+          "start": 5.92,
+          "end": 6.24
         },
         {
           "word": "to",
-          "startSec": 6.19,
-          "endSec": 6.37,
-          "score": 1.0
+          "start": 6.24,
+          "end": 6.42
         },
         {
           "word": "speak",
-          "startSec": 6.37,
-          "endSec": 6.69,
-          "score": 1.0
+          "start": 6.42,
+          "end": 6.8
         },
         {
           "word": "English",
-          "startSec": 6.69,
-          "endSec": 7.25,
-          "score": 1.0
+          "start": 6.8,
+          "end": 7.28
         },
         {
           "word": "at",
-          "startSec": 7.25,
-          "endSec": 7.57,
-          "score": 0.99
+          "start": 7.28,
+          "end": 7.6
         },
         {
           "word": "work.",
-          "startSec": 7.57,
-          "endSec": 7.83,
-          "score": 0.99
+          "start": 7.6,
+          "end": 8.3
         }
       ]
     },
     {
       "id": 2,
-      "start": 8.33,
-      "end": 13.1,
-      "text": "Whether you work in an office, a store, or a restaurant,",
+      "start": 8.64,
+      "end": 16.32,
+      "text": "Whether you work in an office, a store, or a restaurant, you need to use English for communication.",
       "words": [
         {
           "word": "Whether",
-          "startSec": 8.53,
-          "endSec": 8.93,
-          "score": 0.99
+          "start": 8.64,
+          "end": 9.0
         },
         {
           "word": "you",
-          "startSec": 8.93,
-          "endSec": 9.21,
-          "score": 1.0
+          "start": 9.0,
+          "end": 9.24
         },
         {
           "word": "work",
-          "startSec": 9.21,
-          "endSec": 9.45,
-          "score": 0.99
+          "start": 9.24,
+          "end": 9.54
         },
         {
           "word": "in",
-          "startSec": 9.45,
-          "endSec": 9.71,
-          "score": 0.99
+          "start": 9.54,
+          "end": 9.74
         },
         {
           "word": "an",
-          "startSec": 9.71,
-          "endSec": 9.83,
-          "score": 1.0
+          "start": 9.74,
+          "end": 9.88
         },
         {
           "word": "office,",
-          "startSec": 9.83,
-          "endSec": 10.33,
-          "score": 1.0
+          "start": 9.88,
+          "end": 10.34
         },
         {
           "word": "a",
-          "startSec": 10.91,
-          "endSec": 11.09,
-          "score": 0.99
+          "start": 10.96,
+          "end": 11.16
         },
         {
           "word": "store,",
-          "startSec": 11.09,
-          "endSec": 11.59,
-          "score": 1.0
+          "start": 11.16,
+          "end": 11.58
         },
         {
           "word": "or",
-          "startSec": 11.99,
-          "endSec": 12.05,
-          "score": 0.99
+          "start": 11.9,
+          "end": 12.12
         },
         {
           "word": "a",
-          "startSec": 12.05,
-          "endSec": 12.21,
-          "score": 0.98
+          "start": 12.12,
+          "end": 12.36
         },
         {
           "word": "restaurant,",
-          "startSec": 12.21,
-          "endSec": 12.95,
-          "score": 1.0
+          "start": 12.36,
+          "end": 12.9
+        },
+        {
+          "word": "you",
+          "start": 13.52,
+          "end": 13.66
+        },
+        {
+          "word": "need",
+          "start": 13.66,
+          "end": 13.86
+        },
+        {
+          "word": "to",
+          "start": 13.86,
+          "end": 14.06
+        },
+        {
+          "word": "use",
+          "start": 14.06,
+          "end": 14.46
+        },
+        {
+          "word": "English",
+          "start": 14.46,
+          "end": 15.0
+        },
+        {
+          "word": "for",
+          "start": 15.0,
+          "end": 15.32
+        },
+        {
+          "word": "communication.",
+          "start": 15.32,
+          "end": 16.32
         }
       ]
     },
     {
       "id": 3,
-      "start": 13.11,
-      "end": 15.82,
-      "text": "you need to use English for communication.",
+      "start": 49.58,
+      "end": 53.08,
+      "text": "One, introducing yourself at work.",
       "words": [
         {
-          "word": "you",
-          "startSec": 13.31,
-          "endSec": 13.61,
-          "score": 0.99
+          "word": "One,",
+          "start": 49.58,
+          "end": 50.42
         },
         {
-          "word": "need",
-          "startSec": 13.61,
-          "endSec": 13.79,
-          "score": 1.0
+          "word": "introducing",
+          "start": 51.0,
+          "end": 51.34
         },
         {
-          "word": "to",
-          "startSec": 13.79,
-          "endSec": 13.99,
-          "score": 1.0
+          "word": "yourself",
+          "start": 51.34,
+          "end": 52.06
         },
         {
-          "word": "use",
-          "startSec": 13.99,
-          "endSec": 14.37,
-          "score": 1.0
+          "word": "at",
+          "start": 52.06,
+          "end": 52.38
         },
         {
-          "word": "English",
-          "startSec": 14.37,
-          "endSec": 14.95,
-          "score": 0.99
-        },
-        {
-          "word": "for",
-          "startSec": 14.95,
-          "endSec": 15.27,
-          "score": 1.0
-        },
-        {
-          "word": "communication.",
-          "startSec": 15.27,
-          "endSec": 15.67,
-          "score": 0.96
+          "word": "work.",
+          "start": 52.38,
+          "end": 53.08
         }
       ]
     },
     {
       "id": 4,
-      "start": 17.52,
-      "end": 23.09,
-      "text": "In this episode, you will learn how to introduce yourself at work,",
+      "start": 53.92,
+      "end": 60.64,
+      "text": "When you start a new job or meet a new colleague, you need to introduce yourself.",
       "words": [
         {
-          "word": "In",
-          "startSec": 17.72,
-          "endSec": 17.92,
-          "score": 0.99
-        },
-        {
-          "word": "this",
-          "startSec": 17.92,
-          "endSec": 18.12,
-          "score": 1.0
-        },
-        {
-          "word": "episode,",
-          "startSec": 18.12,
-          "endSec": 18.9,
-          "score": 1.0
+          "word": "When",
+          "start": 53.92,
+          "end": 54.64
         },
         {
           "word": "you",
-          "startSec": 18.9,
-          "endSec": 19.52,
-          "score": 1.0
+          "start": 54.64,
+          "end": 54.82
         },
         {
-          "word": "will",
-          "startSec": 19.52,
-          "endSec": 19.68,
-          "score": 1.0
+          "word": "start",
+          "start": 54.82,
+          "end": 55.12
         },
         {
-          "word": "learn",
-          "startSec": 19.68,
-          "endSec": 20.08,
-          "score": 1.0
+          "word": "a",
+          "start": 55.12,
+          "end": 55.32
         },
         {
-          "word": "how",
-          "startSec": 20.08,
-          "endSec": 21.12,
-          "score": 0.98
+          "word": "new",
+          "start": 55.32,
+          "end": 55.5
+        },
+        {
+          "word": "job",
+          "start": 55.5,
+          "end": 55.92
+        },
+        {
+          "word": "or",
+          "start": 55.92,
+          "end": 56.26
+        },
+        {
+          "word": "meet",
+          "start": 56.26,
+          "end": 56.52
+        },
+        {
+          "word": "a",
+          "start": 56.52,
+          "end": 56.68
+        },
+        {
+          "word": "new",
+          "start": 56.68,
+          "end": 56.86
+        },
+        {
+          "word": "colleague,",
+          "start": 56.86,
+          "end": 57.42
+        },
+        {
+          "word": "you",
+          "start": 58.12,
+          "end": 58.48
+        },
+        {
+          "word": "need",
+          "start": 58.48,
+          "end": 58.8
         },
         {
           "word": "to",
-          "startSec": 21.12,
-          "endSec": 21.28,
-          "score": 1.0
+          "start": 58.8,
+          "end": 59.06
         },
         {
           "word": "introduce",
-          "startSec": 21.28,
-          "endSec": 21.66,
-          "score": 1.0
+          "start": 59.06,
+          "end": 59.56
         },
         {
-          "word": "yourself",
-          "startSec": 21.66,
-          "endSec": 22.36,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 22.36,
-          "endSec": 22.64,
-          "score": 1.0
-        },
-        {
-          "word": "work,",
-          "startSec": 22.64,
-          "endSec": 22.94,
-          "score": 1.0
+          "word": "yourself.",
+          "start": 59.56,
+          "end": 60.64
         }
       ]
     },
     {
       "id": 5,
-      "start": 23.93,
-      "end": 29.21,
-      "text": "common office phrases, how to ask for help and information,",
+      "start": 61.36,
+      "end": 63.62,
+      "text": "Basic introduction phrases.",
       "words": [
         {
-          "word": "common",
-          "startSec": 24.13,
-          "endSec": 24.57,
-          "score": 0.9
+          "word": "Basic",
+          "start": 61.36,
+          "end": 62.08
         },
         {
-          "word": "office",
-          "startSec": 24.57,
-          "endSec": 25.03,
-          "score": 0.99
+          "word": "introduction",
+          "start": 62.08,
+          "end": 62.8
         },
         {
-          "word": "phrases,",
-          "startSec": 25.03,
-          "endSec": 25.47,
-          "score": 0.99
-        },
-        {
-          "word": "how",
-          "startSec": 26.82,
-          "endSec": 27.08,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 27.08,
-          "endSec": 27.3,
-          "score": 1.0
-        },
-        {
-          "word": "ask",
-          "startSec": 27.3,
-          "endSec": 27.58,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 27.58,
-          "endSec": 27.98,
-          "score": 1.0
-        },
-        {
-          "word": "help",
-          "startSec": 27.98,
-          "endSec": 28.3,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 28.3,
-          "endSec": 28.64,
-          "score": 0.97
-        },
-        {
-          "word": "information,",
-          "startSec": 28.64,
-          "endSec": 29.06,
-          "score": 1.0
+          "word": "phrases.",
+          "start": 62.8,
+          "end": 63.62
         }
       ]
     },
     {
       "id": 6,
-      "start": 29.69,
-      "end": 34.74,
-      "text": "how to answer phone calls, how to participate in meetings,",
+      "start": 64.34,
+      "end": 67.38,
+      "text": "Hello, my name is Emilie.",
       "words": [
         {
-          "word": "how",
-          "startSec": 29.89,
-          "endSec": 30.61,
-          "score": 0.05
+          "word": "Hello,",
+          "start": 64.34,
+          "end": 64.64
         },
         {
-          "word": "to",
-          "startSec": 30.61,
-          "endSec": 30.77,
-          "score": 0.98
+          "word": "my",
+          "start": 65.32,
+          "end": 65.7
         },
         {
-          "word": "answer",
-          "startSec": 30.77,
-          "endSec": 31.11,
-          "score": 0.84
+          "word": "name",
+          "start": 65.7,
+          "end": 66.04
         },
         {
-          "word": "phone",
-          "startSec": 31.11,
-          "endSec": 31.53,
-          "score": 1.0
+          "word": "is",
+          "start": 66.04,
+          "end": 66.32
         },
         {
-          "word": "calls,",
-          "startSec": 31.53,
-          "endSec": 31.93,
-          "score": 1.0
-        },
-        {
-          "word": "how",
-          "startSec": 32.81,
-          "endSec": 33.13,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 33.13,
-          "endSec": 33.29,
-          "score": 1.0
-        },
-        {
-          "word": "participate",
-          "startSec": 33.29,
-          "endSec": 33.95,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 33.95,
-          "endSec": 34.33,
-          "score": 1.0
-        },
-        {
-          "word": "meetings,",
-          "startSec": 34.33,
-          "endSec": 34.59,
-          "score": 1.0
+          "word": "Emilie.",
+          "start": 66.32,
+          "end": 67.38
         }
       ]
     },
     {
       "id": 7,
-      "start": 35.49,
-      "end": 41.38,
-      "text": "how to send professional emails, how to talk to your boss and colleagues,",
+      "start": 67.64,
+      "end": 70.38,
+      "text": "I am the new marketing assistant.",
       "words": [
         {
-          "word": "how",
-          "startSec": 35.69,
-          "endSec": 35.95,
-          "score": 1.0
+          "word": "I",
+          "start": 67.64,
+          "end": 68.26
         },
         {
-          "word": "to",
-          "startSec": 35.95,
-          "endSec": 36.11,
-          "score": 1.0
+          "word": "am",
+          "start": 68.26,
+          "end": 68.46
         },
         {
-          "word": "send",
-          "startSec": 36.11,
-          "endSec": 36.39,
-          "score": 1.0
+          "word": "the",
+          "start": 68.46,
+          "end": 68.62
         },
         {
-          "word": "professional",
-          "startSec": 36.39,
-          "endSec": 36.87,
-          "score": 0.99
+          "word": "new",
+          "start": 68.62,
+          "end": 68.86
         },
         {
-          "word": "emails,",
-          "startSec": 36.87,
-          "endSec": 37.53,
-          "score": 0.93
+          "word": "marketing",
+          "start": 68.86,
+          "end": 69.26
         },
         {
-          "word": "how",
-          "startSec": 38.67,
-          "endSec": 39.03,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 39.03,
-          "endSec": 39.21,
-          "score": 1.0
-        },
-        {
-          "word": "talk",
-          "startSec": 39.21,
-          "endSec": 39.51,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 39.51,
-          "endSec": 39.75,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 39.75,
-          "endSec": 39.93,
-          "score": 1.0
-        },
-        {
-          "word": "boss",
-          "startSec": 39.93,
-          "endSec": 40.29,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 40.29,
-          "endSec": 40.69,
-          "score": 0.99
-        },
-        {
-          "word": "colleagues,",
-          "startSec": 40.69,
-          "endSec": 41.23,
-          "score": 1.0
+          "word": "assistant.",
+          "start": 69.26,
+          "end": 70.38
         }
       ]
     },
     {
       "id": 8,
-      "start": 41.89,
-      "end": 44.28,
-      "text": "how to be polite and professional.",
+      "start": 70.82,
+      "end": 73.44,
+      "text": "I started working here last week.",
       "words": [
         {
-          "word": "how",
-          "startSec": 42.09,
-          "endSec": 42.33,
-          "score": 1.0
+          "word": "I",
+          "start": 70.82,
+          "end": 71.1
         },
         {
-          "word": "to",
-          "startSec": 42.33,
-          "endSec": 42.49,
-          "score": 1.0
+          "word": "started",
+          "start": 71.1,
+          "end": 71.54
         },
         {
-          "word": "be",
-          "startSec": 42.49,
-          "endSec": 42.65,
-          "score": 1.0
+          "word": "working",
+          "start": 71.54,
+          "end": 71.9
         },
         {
-          "word": "polite",
-          "startSec": 42.65,
-          "endSec": 43.07,
-          "score": 1.0
+          "word": "here",
+          "start": 71.9,
+          "end": 72.26
         },
         {
-          "word": "and",
-          "startSec": 43.07,
-          "endSec": 43.67,
-          "score": 0.99
+          "word": "last",
+          "start": 72.26,
+          "end": 72.68
         },
         {
-          "word": "professional.",
-          "startSec": 43.67,
-          "endSec": 44.13,
-          "score": 1.0
+          "word": "week.",
+          "start": 72.68,
+          "end": 73.44
         }
       ]
     },
     {
       "id": 9,
-      "start": 45.13,
-      "end": 46.16,
-      "text": "Are you ready?",
+      "start": 73.84,
+      "end": 75.44,
+      "text": "Nice to meet you.",
       "words": [
         {
-          "word": "Are",
-          "startSec": 45.33,
-          "endSec": 45.47,
-          "score": 0.98
+          "word": "Nice",
+          "start": 73.84,
+          "end": 74.18
         },
         {
-          "word": "you",
-          "startSec": 45.47,
-          "endSec": 45.65,
-          "score": 1.0
+          "word": "to",
+          "start": 74.18,
+          "end": 74.5
         },
         {
-          "word": "ready?",
-          "startSec": 45.65,
-          "endSec": 46.01,
-          "score": 1.0
+          "word": "meet",
+          "start": 74.5,
+          "end": 74.68
+        },
+        {
+          "word": "you.",
+          "start": 74.68,
+          "end": 75.44
         }
       ]
     },
     {
       "id": 10,
-      "start": 46.78,
-      "end": 48.31,
-      "text": "Let's get started.",
+      "start": 75.92,
+      "end": 78.28,
+      "text": "I'm happy to be part of the team.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 46.98,
-          "endSec": 47.48,
-          "score": 1.0
+          "word": "I'm",
+          "start": 75.92,
+          "end": 76.22
         },
         {
-          "word": "get",
-          "startSec": 47.48,
-          "endSec": 47.64,
-          "score": 1.0
+          "word": "happy",
+          "start": 76.22,
+          "end": 76.56
         },
         {
-          "word": "started.",
-          "startSec": 47.64,
-          "endSec": 48.16,
-          "score": 1.0
+          "word": "to",
+          "start": 76.56,
+          "end": 76.74
+        },
+        {
+          "word": "be",
+          "start": 76.74,
+          "end": 76.88
+        },
+        {
+          "word": "part",
+          "start": 76.88,
+          "end": 77.18
+        },
+        {
+          "word": "of",
+          "start": 77.18,
+          "end": 77.34
+        },
+        {
+          "word": "the",
+          "start": 77.34,
+          "end": 77.46
+        },
+        {
+          "word": "team.",
+          "start": 77.46,
+          "end": 78.28
         }
       ]
     },
     {
       "id": 11,
-      "start": 49.9,
-      "end": 52.75,
-      "text": "One, introducing yourself at work.",
+      "start": 78.56,
+      "end": 80.92,
+      "text": "I look forward to working with you.",
       "words": [
         {
-          "word": "One,",
-          "startSec": 50.1,
-          "endSec": 50.32,
-          "score": 0.92
+          "word": "I",
+          "start": 78.56,
+          "end": 78.74
         },
         {
-          "word": "introducing",
-          "startSec": 50.76,
-          "endSec": 51.28,
-          "score": 0.99
+          "word": "look",
+          "start": 78.74,
+          "end": 78.92
         },
         {
-          "word": "yourself",
-          "startSec": 51.28,
-          "endSec": 51.98,
-          "score": 1.0
+          "word": "forward",
+          "start": 78.92,
+          "end": 79.32
         },
         {
-          "word": "at",
-          "startSec": 51.98,
-          "endSec": 52.36,
-          "score": 1.0
+          "word": "to",
+          "start": 79.32,
+          "end": 79.56
         },
         {
-          "word": "work.",
-          "startSec": 52.36,
-          "endSec": 52.6,
-          "score": 1.0
+          "word": "working",
+          "start": 79.56,
+          "end": 79.84
+        },
+        {
+          "word": "with",
+          "start": 79.84,
+          "end": 80.24
+        },
+        {
+          "word": "you.",
+          "start": 80.24,
+          "end": 80.92
         }
       ]
     },
     {
       "id": 12,
-      "start": 54.16,
-      "end": 57.51,
-      "text": "When you start a new job or meet a new colleague,",
+      "start": 85.52,
+      "end": 88.48,
+      "text": "Hello, my name is Emilie.",
       "words": [
         {
-          "word": "When",
-          "startSec": 54.36,
-          "endSec": 54.62,
-          "score": 1.0
+          "word": "Hello,",
+          "start": 85.52,
+          "end": 86.32
         },
         {
-          "word": "you",
-          "startSec": 54.62,
-          "endSec": 54.78,
-          "score": 1.0
+          "word": "my",
+          "start": 86.72,
+          "end": 86.86
         },
         {
-          "word": "start",
-          "startSec": 54.78,
-          "endSec": 55.04,
-          "score": 1.0
+          "word": "name",
+          "start": 86.86,
+          "end": 87.18
         },
         {
-          "word": "a",
-          "startSec": 55.04,
-          "endSec": 55.26,
-          "score": 1.0
+          "word": "is",
+          "start": 87.18,
+          "end": 87.38
         },
         {
-          "word": "new",
-          "startSec": 55.26,
-          "endSec": 55.46,
-          "score": 1.0
-        },
-        {
-          "word": "job",
-          "startSec": 55.46,
-          "endSec": 55.78,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 55.78,
-          "endSec": 56.22,
-          "score": 0.88
-        },
-        {
-          "word": "meet",
-          "startSec": 56.22,
-          "endSec": 56.46,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 56.46,
-          "endSec": 56.64,
-          "score": 1.0
-        },
-        {
-          "word": "new",
-          "startSec": 56.64,
-          "endSec": 56.82,
-          "score": 1.0
-        },
-        {
-          "word": "colleague,",
-          "startSec": 56.82,
-          "endSec": 57.36,
-          "score": 1.0
+          "word": "Emilie.",
+          "start": 87.38,
+          "end": 88.48
         }
       ]
     },
     {
       "id": 13,
-      "start": 57.16,
-      "end": 60.29,
-      "text": "you need to introduce yourself.",
+      "start": 89.36,
+      "end": 94.22,
+      "text": "I just started working here as a customer service assistant.",
       "words": [
         {
-          "word": "you",
-          "startSec": 57.36,
-          "endSec": 58.44,
-          "score": 0.28
+          "word": "I",
+          "start": 89.36,
+          "end": 90.04
         },
         {
-          "word": "need",
-          "startSec": 58.44,
-          "endSec": 58.74,
-          "score": 0.99
+          "word": "just",
+          "start": 90.04,
+          "end": 90.3
         },
         {
-          "word": "to",
-          "startSec": 58.74,
-          "endSec": 59.02,
-          "score": 1.0
+          "word": "started",
+          "start": 90.3,
+          "end": 90.76
         },
         {
-          "word": "introduce",
-          "startSec": 59.02,
-          "endSec": 59.48,
-          "score": 0.99
+          "word": "working",
+          "start": 90.76,
+          "end": 91.1
         },
         {
-          "word": "yourself.",
-          "startSec": 59.48,
-          "endSec": 60.14,
-          "score": 1.0
+          "word": "here",
+          "start": 91.1,
+          "end": 91.64
+        },
+        {
+          "word": "as",
+          "start": 91.64,
+          "end": 92.04
+        },
+        {
+          "word": "a",
+          "start": 92.04,
+          "end": 92.24
+        },
+        {
+          "word": "customer",
+          "start": 92.24,
+          "end": 92.62
+        },
+        {
+          "word": "service",
+          "start": 92.62,
+          "end": 93.2
+        },
+        {
+          "word": "assistant.",
+          "start": 93.2,
+          "end": 94.22
         }
       ]
     },
     {
       "id": 14,
-      "start": 61.25,
-      "end": 63.38,
-      "text": "Basic introduction phrases.",
+      "start": 95.54,
+      "end": 98.09,
+      "text": "Nice to meet you, Emilie.",
       "words": [
         {
-          "word": "Basic",
-          "startSec": 61.45,
-          "endSec": 62.01,
-          "score": 0.98
+          "word": "Nice",
+          "start": 95.54,
+          "end": 96.34
         },
         {
-          "word": "introduction",
-          "startSec": 62.01,
-          "endSec": 62.43,
-          "score": 0.95
+          "word": "to",
+          "start": 96.34,
+          "end": 96.64
         },
         {
-          "word": "phrases.",
-          "startSec": 62.43,
-          "endSec": 63.23,
-          "score": 0.99
+          "word": "meet",
+          "start": 96.64,
+          "end": 96.86
+        },
+        {
+          "word": "you,",
+          "start": 96.86,
+          "end": 97.12
+        },
+        {
+          "word": "Emilie.",
+          "start": 97.26,
+          "end": 98.09
         }
       ]
     },
     {
       "id": 15,
-      "start": 67.53,
-      "end": 69.92,
-      "text": "I am the new marketing assistant.",
+      "start": 98.34,
+      "end": 100.04,
+      "text": "Welcome to the team.",
       "words": [
         {
-          "word": "I",
-          "startSec": 67.73,
-          "endSec": 68.19,
-          "score": 1.0
+          "word": "Welcome",
+          "start": 98.34,
+          "end": 98.82
         },
         {
-          "word": "am",
-          "startSec": 68.19,
-          "endSec": 68.41,
-          "score": 0.98
+          "word": "to",
+          "start": 98.82,
+          "end": 99.1
         },
         {
           "word": "the",
-          "startSec": 68.41,
-          "endSec": 68.57,
-          "score": 1.0
+          "start": 99.1,
+          "end": 99.28
         },
         {
-          "word": "new",
-          "startSec": 68.57,
-          "endSec": 68.77,
-          "score": 0.97
-        },
-        {
-          "word": "marketing",
-          "startSec": 68.77,
-          "endSec": 69.23,
-          "score": 0.88
-        },
-        {
-          "word": "assistant.",
-          "startSec": 69.23,
-          "endSec": 69.77,
-          "score": 0.99
+          "word": "team.",
+          "start": 99.28,
+          "end": 100.04
         }
       ]
     },
     {
       "id": 16,
-      "start": 70.65,
-      "end": 73.12,
-      "text": "I started working here last week.",
+      "start": 100.7,
+      "end": 101.82,
+      "text": "Thank you.",
       "words": [
         {
-          "word": "I",
-          "startSec": 70.85,
-          "endSec": 71.07,
-          "score": 1.0
+          "word": "Thank",
+          "start": 100.7,
+          "end": 101.04
         },
         {
-          "word": "started",
-          "startSec": 71.07,
-          "endSec": 71.51,
-          "score": 1.0
-        },
-        {
-          "word": "working",
-          "startSec": 71.51,
-          "endSec": 71.83,
-          "score": 1.0
-        },
-        {
-          "word": "here",
-          "startSec": 71.83,
-          "endSec": 72.23,
-          "score": 1.0
-        },
-        {
-          "word": "last",
-          "startSec": 72.23,
-          "endSec": 72.47,
-          "score": 1.0
-        },
-        {
-          "word": "week.",
-          "startSec": 72.47,
-          "endSec": 72.97,
-          "score": 1.0
+          "word": "you.",
+          "start": 101.04,
+          "end": 101.82
         }
       ]
     },
     {
       "id": 17,
-      "start": 73.65,
-      "end": 75.12,
-      "text": "Nice to meet you.",
+      "start": 102.42,
+      "end": 104.66,
+      "text": "I look forward to working with you.",
       "words": [
         {
-          "word": "Nice",
-          "startSec": 73.85,
-          "endSec": 74.09,
-          "score": 0.99
+          "word": "I",
+          "start": 102.42,
+          "end": 102.64
+        },
+        {
+          "word": "look",
+          "start": 102.64,
+          "end": 102.86
+        },
+        {
+          "word": "forward",
+          "start": 102.86,
+          "end": 103.18
         },
         {
           "word": "to",
-          "startSec": 74.09,
-          "endSec": 74.43,
-          "score": 1.0
+          "start": 103.18,
+          "end": 103.36
         },
         {
-          "word": "meet",
-          "startSec": 74.43,
-          "endSec": 74.61,
-          "score": 1.0
+          "word": "working",
+          "start": 103.36,
+          "end": 103.64
+        },
+        {
+          "word": "with",
+          "start": 103.64,
+          "end": 104.02
         },
         {
           "word": "you.",
-          "startSec": 74.61,
-          "endSec": 74.97,
-          "score": 1.0
+          "start": 104.02,
+          "end": 104.66
         }
       ]
     },
     {
       "id": 18,
-      "start": 75.7,
-      "end": 77.95,
-      "text": "I'm happy to be part of the team.",
+      "start": 105.18,
+      "end": 110.08,
+      "text": "Tip, smile and make eye contact when introducing yourself.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 75.9,
-          "endSec": 76.2,
-          "score": 0.99
+          "word": "Tip,",
+          "start": 105.18,
+          "end": 105.78
         },
         {
-          "word": "happy",
-          "startSec": 76.2,
-          "endSec": 76.38,
-          "score": 1.0
+          "word": "smile",
+          "start": 106.42,
+          "end": 106.9
         },
         {
-          "word": "to",
-          "startSec": 76.38,
-          "endSec": 76.7,
-          "score": 1.0
+          "word": "and",
+          "start": 106.9,
+          "end": 107.34
         },
         {
-          "word": "be",
-          "startSec": 76.7,
-          "endSec": 76.84,
-          "score": 1.0
+          "word": "make",
+          "start": 107.34,
+          "end": 107.54
         },
         {
-          "word": "part",
-          "startSec": 76.84,
-          "endSec": 77.12,
-          "score": 0.98
+          "word": "eye",
+          "start": 107.54,
+          "end": 107.9
         },
         {
-          "word": "of",
-          "startSec": 77.12,
-          "endSec": 77.3,
-          "score": 1.0
+          "word": "contact",
+          "start": 107.9,
+          "end": 108.4
         },
         {
-          "word": "the",
-          "startSec": 77.3,
-          "endSec": 77.44,
-          "score": 1.0
+          "word": "when",
+          "start": 108.4,
+          "end": 108.84
         },
         {
-          "word": "team.",
-          "startSec": 77.44,
-          "endSec": 77.8,
-          "score": 1.0
+          "word": "introducing",
+          "start": 108.84,
+          "end": 109.36
+        },
+        {
+          "word": "yourself.",
+          "start": 109.36,
+          "end": 110.08
         }
       ]
     },
     {
       "id": 19,
-      "start": 78.3,
-      "end": 80.57,
-      "text": "I look forward to working with you.",
+      "start": 110.08,
+      "end": 113.92,
+      "text": "It helps to make a good first impression.",
       "words": [
         {
-          "word": "I",
-          "startSec": 78.5,
-          "endSec": 78.7,
-          "score": 1.0
+          "word": "It",
+          "start": 110.08,
+          "end": 110.96
         },
         {
-          "word": "look",
-          "startSec": 78.7,
-          "endSec": 78.88,
-          "score": 1.0
-        },
-        {
-          "word": "forward",
-          "startSec": 78.88,
-          "endSec": 79.24,
-          "score": 1.0
+          "word": "helps",
+          "start": 110.96,
+          "end": 111.28
         },
         {
           "word": "to",
-          "startSec": 79.24,
-          "endSec": 79.48,
-          "score": 1.0
+          "start": 111.28,
+          "end": 111.62
         },
         {
-          "word": "working",
-          "startSec": 79.48,
-          "endSec": 79.88,
-          "score": 1.0
+          "word": "make",
+          "start": 111.62,
+          "end": 111.84
         },
         {
-          "word": "with",
-          "startSec": 79.88,
-          "endSec": 80.12,
-          "score": 1.0
+          "word": "a",
+          "start": 111.84,
+          "end": 112.02
         },
         {
-          "word": "you.",
-          "startSec": 80.12,
-          "endSec": 80.42,
-          "score": 1.0
+          "word": "good",
+          "start": 112.02,
+          "end": 112.4
+        },
+        {
+          "word": "first",
+          "start": 112.4,
+          "end": 112.88
+        },
+        {
+          "word": "impression.",
+          "start": 112.88,
+          "end": 113.92
         }
       ]
     },
     {
       "id": 20,
-      "start": 89.36,
-      "end": 93.81,
-      "text": "I just started working here as a customer service assistant.",
+      "start": 115.1,
+      "end": 118.48,
+      "text": "Two, common office phrases.",
       "words": [
         {
-          "word": "I",
-          "startSec": 89.56,
-          "endSec": 90.0,
-          "score": 1.0
+          "word": "Two,",
+          "start": 115.1,
+          "end": 115.98
         },
         {
-          "word": "just",
-          "startSec": 90.0,
-          "endSec": 90.2,
-          "score": 1.0
+          "word": "common",
+          "start": 116.66,
+          "end": 117.1
         },
         {
-          "word": "started",
-          "startSec": 90.2,
-          "endSec": 90.72,
-          "score": 1.0
+          "word": "office",
+          "start": 117.1,
+          "end": 117.56
         },
         {
-          "word": "working",
-          "startSec": 90.72,
-          "endSec": 91.04,
-          "score": 1.0
-        },
-        {
-          "word": "here",
-          "startSec": 91.04,
-          "endSec": 91.56,
-          "score": 1.0
-        },
-        {
-          "word": "as",
-          "startSec": 91.56,
-          "endSec": 91.96,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 91.96,
-          "endSec": 92.12,
-          "score": 1.0
-        },
-        {
-          "word": "customer",
-          "startSec": 92.12,
-          "endSec": 92.56,
-          "score": 0.89
-        },
-        {
-          "word": "service",
-          "startSec": 92.56,
-          "endSec": 93.08,
-          "score": 0.94
-        },
-        {
-          "word": "assistant.",
-          "startSec": 93.08,
-          "endSec": 93.66,
-          "score": 1.0
+          "word": "phrases.",
+          "start": 117.56,
+          "end": 118.48
         }
       ]
     },
     {
       "id": 21,
-      "start": 93.46,
-      "end": 97.81,
-      "text": "Nice to meet you, Emilie.",
+      "start": 120.26,
+      "end": 127.18,
+      "text": "In the workplace, you will need to interact with your colleagues, manager and clients.",
       "words": [
         {
-          "word": "Nice",
-          "startSec": 93.66,
-          "endSec": 94.98,
-          "score": 0.06
+          "word": "In",
+          "start": 120.26,
+          "end": 121.14
+        },
+        {
+          "word": "the",
+          "start": 121.14,
+          "end": 121.3
+        },
+        {
+          "word": "workplace,",
+          "start": 121.3,
+          "end": 121.68
+        },
+        {
+          "word": "you",
+          "start": 122.38,
+          "end": 122.62
+        },
+        {
+          "word": "will",
+          "start": 122.62,
+          "end": 122.78
+        },
+        {
+          "word": "need",
+          "start": 122.78,
+          "end": 123.04
         },
         {
           "word": "to",
-          "startSec": 96.26,
-          "endSec": 96.6,
-          "score": 0.99
+          "start": 123.04,
+          "end": 123.24
         },
         {
-          "word": "meet",
-          "startSec": 96.6,
-          "endSec": 96.82,
-          "score": 1.0
+          "word": "interact",
+          "start": 123.24,
+          "end": 123.8
         },
         {
-          "word": "you,",
-          "startSec": 96.82,
-          "endSec": 97.08,
-          "score": 1.0
+          "word": "with",
+          "start": 123.8,
+          "end": 124.06
         },
         {
-          "word": "Emilie.",
-          "startSec": 97.18,
-          "endSec": 97.66,
-          "score": 0.62
+          "word": "your",
+          "start": 124.06,
+          "end": 124.22
+        },
+        {
+          "word": "colleagues,",
+          "start": 124.22,
+          "end": 124.8
+        },
+        {
+          "word": "manager",
+          "start": 125.26,
+          "end": 125.8
+        },
+        {
+          "word": "and",
+          "start": 125.8,
+          "end": 126.28
+        },
+        {
+          "word": "clients.",
+          "start": 126.28,
+          "end": 127.18
         }
       ]
     },
     {
       "id": 22,
-      "start": 98.12,
-      "end": 99.71,
-      "text": "Welcome to the team.",
+      "start": 127.68,
+      "end": 134.68,
+      "text": "Here are some useful phrases when greeting colleagues, good morning, how are you?",
       "words": [
         {
-          "word": "Welcome",
-          "startSec": 98.32,
-          "endSec": 98.76,
-          "score": 0.98
+          "word": "Here",
+          "start": 127.68,
+          "end": 128.1
         },
         {
-          "word": "to",
-          "startSec": 98.76,
-          "endSec": 99.08,
-          "score": 1.0
+          "word": "are",
+          "start": 128.1,
+          "end": 128.32
         },
         {
-          "word": "the",
-          "startSec": 99.08,
-          "endSec": 99.22,
-          "score": 0.96
+          "word": "some",
+          "start": 128.32,
+          "end": 128.46
         },
         {
-          "word": "team.",
-          "startSec": 99.22,
-          "endSec": 99.56,
-          "score": 0.96
+          "word": "useful",
+          "start": 128.46,
+          "end": 128.92
+        },
+        {
+          "word": "phrases",
+          "start": 128.92,
+          "end": 129.48
+        },
+        {
+          "word": "when",
+          "start": 129.48,
+          "end": 130.28
+        },
+        {
+          "word": "greeting",
+          "start": 130.28,
+          "end": 130.7
+        },
+        {
+          "word": "colleagues,",
+          "start": 130.7,
+          "end": 131.4
+        },
+        {
+          "word": "good",
+          "start": 132.06,
+          "end": 132.22
+        },
+        {
+          "word": "morning,",
+          "start": 132.22,
+          "end": 132.72
+        },
+        {
+          "word": "how",
+          "start": 133.44,
+          "end": 133.64
+        },
+        {
+          "word": "are",
+          "start": 133.64,
+          "end": 133.94
+        },
+        {
+          "word": "you?",
+          "start": 133.94,
+          "end": 134.68
         }
       ]
     },
     {
       "id": 23,
-      "start": 100.54,
-      "end": 101.49,
-      "text": "Thank you.",
+      "start": 134.94,
+      "end": 136.46,
+      "text": "How was your weekend?",
       "words": [
         {
-          "word": "Thank",
-          "startSec": 100.74,
-          "endSec": 101.02,
-          "score": 0.95
+          "word": "How",
+          "start": 134.94,
+          "end": 135.26
         },
         {
-          "word": "you.",
-          "startSec": 101.02,
-          "endSec": 101.34,
-          "score": 1.0
+          "word": "was",
+          "start": 135.26,
+          "end": 135.5
+        },
+        {
+          "word": "your",
+          "start": 135.5,
+          "end": 135.66
+        },
+        {
+          "word": "weekend?",
+          "start": 135.66,
+          "end": 136.46
         }
       ]
     },
     {
       "id": 24,
-      "start": 102.15,
-      "end": 104.38,
-      "text": "I look forward to working with you.",
+      "start": 136.86,
+      "end": 139.1,
+      "text": "Did you have a busy day?",
       "words": [
         {
-          "word": "I",
-          "startSec": 102.35,
-          "endSec": 102.61,
-          "score": 0.99
+          "word": "Did",
+          "start": 136.86,
+          "end": 137.36
         },
         {
-          "word": "look",
-          "startSec": 102.61,
-          "endSec": 102.79,
-          "score": 1.0
+          "word": "you",
+          "start": 137.36,
+          "end": 137.58
         },
         {
-          "word": "forward",
-          "startSec": 102.79,
-          "endSec": 103.15,
-          "score": 1.0
+          "word": "have",
+          "start": 137.58,
+          "end": 137.8
         },
         {
-          "word": "to",
-          "startSec": 103.15,
-          "endSec": 103.33,
-          "score": 1.0
+          "word": "a",
+          "start": 137.8,
+          "end": 137.92
         },
         {
-          "word": "working",
-          "startSec": 103.33,
-          "endSec": 103.67,
-          "score": 1.0
+          "word": "busy",
+          "start": 137.92,
+          "end": 138.26
         },
         {
-          "word": "with",
-          "startSec": 103.67,
-          "endSec": 103.93,
-          "score": 1.0
-        },
-        {
-          "word": "you.",
-          "startSec": 103.93,
-          "endSec": 104.23,
-          "score": 1.0
+          "word": "day?",
+          "start": 138.26,
+          "end": 139.1
         }
       ]
     },
     {
       "id": 25,
-      "start": 105.08,
-      "end": 105.91,
-      "text": "Tip.",
+      "start": 139.66,
+      "end": 144.36,
+      "text": "When asking for help, can you help me with this?",
       "words": [
         {
-          "word": "Tip.",
-          "startSec": 105.28,
-          "endSec": 105.76,
-          "score": 0.81
+          "word": "When",
+          "start": 139.66,
+          "end": 140.38
+        },
+        {
+          "word": "asking",
+          "start": 140.38,
+          "end": 140.84
+        },
+        {
+          "word": "for",
+          "start": 140.84,
+          "end": 141.18
+        },
+        {
+          "word": "help,",
+          "start": 141.18,
+          "end": 141.66
+        },
+        {
+          "word": "can",
+          "start": 141.82,
+          "end": 142.74
+        },
+        {
+          "word": "you",
+          "start": 142.74,
+          "end": 142.94
+        },
+        {
+          "word": "help",
+          "start": 142.94,
+          "end": 143.2
+        },
+        {
+          "word": "me",
+          "start": 143.2,
+          "end": 143.42
+        },
+        {
+          "word": "with",
+          "start": 143.42,
+          "end": 143.68
+        },
+        {
+          "word": "this?",
+          "start": 143.68,
+          "end": 144.36
         }
       ]
     },
     {
       "id": 26,
-      "start": 106.58,
-      "end": 110.05,
-      "text": "Smile and make eye contact when introducing yourself.",
+      "start": 145.06,
+      "end": 147.82,
+      "text": "I'm not sure how to do this task.",
       "words": [
         {
-          "word": "Smile",
-          "startSec": 106.78,
-          "endSec": 106.78,
-          "score": 0.99
+          "word": "I'm",
+          "start": 145.06,
+          "end": 145.36
         },
         {
-          "word": "and",
-          "startSec": 106.78,
-          "endSec": 107.26,
-          "score": 0.96
+          "word": "not",
+          "start": 145.36,
+          "end": 145.56
         },
         {
-          "word": "make",
-          "startSec": 107.26,
-          "endSec": 107.48,
-          "score": 0.99
+          "word": "sure",
+          "start": 145.56,
+          "end": 145.9
         },
         {
-          "word": "eye",
-          "startSec": 107.48,
-          "endSec": 107.8,
-          "score": 1.0
+          "word": "how",
+          "start": 145.9,
+          "end": 146.2
         },
         {
-          "word": "contact",
-          "startSec": 107.8,
-          "endSec": 108.32,
-          "score": 0.99
+          "word": "to",
+          "start": 146.2,
+          "end": 146.34
         },
         {
-          "word": "when",
-          "startSec": 108.32,
-          "endSec": 108.8,
-          "score": 0.99
+          "word": "do",
+          "start": 146.34,
+          "end": 146.6
         },
         {
-          "word": "introducing",
-          "startSec": 108.8,
-          "endSec": 109.26,
-          "score": 1.0
+          "word": "this",
+          "start": 146.6,
+          "end": 146.86
         },
         {
-          "word": "yourself.",
-          "startSec": 109.26,
-          "endSec": 109.9,
-          "score": 1.0
+          "word": "task.",
+          "start": 146.86,
+          "end": 147.82
         }
       ]
     },
     {
       "id": 27,
-      "start": 110.58,
-      "end": 113.69,
-      "text": "It helps to make a good first impression.",
+      "start": 148.56,
+      "end": 151.42,
+      "text": "Can you explain this to me?",
       "words": [
         {
-          "word": "It",
-          "startSec": 110.78,
-          "endSec": 110.94,
-          "score": 0.99
+          "word": "Can",
+          "start": 148.56,
+          "end": 149.28
         },
         {
-          "word": "helps",
-          "startSec": 110.94,
-          "endSec": 111.18,
-          "score": 1.0
+          "word": "you",
+          "start": 149.28,
+          "end": 149.48
+        },
+        {
+          "word": "explain",
+          "start": 149.48,
+          "end": 150.1
+        },
+        {
+          "word": "this",
+          "start": 150.1,
+          "end": 150.52
         },
         {
           "word": "to",
-          "startSec": 111.18,
-          "endSec": 111.6,
-          "score": 0.99
+          "start": 150.52,
+          "end": 150.74
         },
         {
-          "word": "make",
-          "startSec": 111.6,
-          "endSec": 111.78,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 111.78,
-          "endSec": 111.96,
-          "score": 1.0
-        },
-        {
-          "word": "good",
-          "startSec": 111.96,
-          "endSec": 112.32,
-          "score": 1.0
-        },
-        {
-          "word": "first",
-          "startSec": 112.32,
-          "endSec": 112.8,
-          "score": 0.94
-        },
-        {
-          "word": "impression.",
-          "startSec": 112.8,
-          "endSec": 113.54,
-          "score": 1.0
+          "word": "me?",
+          "start": 150.74,
+          "end": 151.42
         }
       ]
     },
     {
       "id": 28,
-      "start": 115.39,
-      "end": 118.02,
-      "text": "Two, common office phrases.",
+      "start": 152.64,
+      "end": 158.04,
+      "text": "When talking about work tasks, I am working on a new project.",
       "words": [
         {
-          "word": "Two,",
-          "startSec": 115.59,
-          "endSec": 115.89,
-          "score": 0.18
+          "word": "When",
+          "start": 152.64,
+          "end": 153.36
         },
         {
-          "word": "common",
-          "startSec": 116.67,
-          "endSec": 117.07,
-          "score": 0.9
+          "word": "talking",
+          "start": 153.36,
+          "end": 153.8
         },
         {
-          "word": "office",
-          "startSec": 117.07,
-          "endSec": 117.49,
-          "score": 0.98
+          "word": "about",
+          "start": 153.8,
+          "end": 154.24
         },
         {
-          "word": "phrases.",
-          "startSec": 117.49,
-          "endSec": 117.87,
-          "score": 1.0
+          "word": "work",
+          "start": 154.24,
+          "end": 154.6
+        },
+        {
+          "word": "tasks,",
+          "start": 154.6,
+          "end": 155.24
+        },
+        {
+          "word": "I",
+          "start": 155.6,
+          "end": 155.86
+        },
+        {
+          "word": "am",
+          "start": 155.86,
+          "end": 156.06
+        },
+        {
+          "word": "working",
+          "start": 156.06,
+          "end": 156.44
+        },
+        {
+          "word": "on",
+          "start": 156.44,
+          "end": 156.76
+        },
+        {
+          "word": "a",
+          "start": 156.76,
+          "end": 156.88
+        },
+        {
+          "word": "new",
+          "start": 156.88,
+          "end": 157.06
+        },
+        {
+          "word": "project.",
+          "start": 157.06,
+          "end": 158.04
         }
       ]
     },
     {
       "id": 29,
-      "start": 120.72,
-      "end": 124.91,
-      "text": "In the workplace, you will need to interact with your colleagues,",
+      "start": 158.76,
+      "end": 161.94,
+      "text": "I will send you the report by email.",
       "words": [
         {
-          "word": "In",
-          "startSec": 120.92,
-          "endSec": 121.1,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 121.1,
-          "endSec": 121.26,
-          "score": 1.0
-        },
-        {
-          "word": "workplace,",
-          "startSec": 121.26,
-          "endSec": 121.58,
-          "score": 0.99
-        },
-        {
-          "word": "you",
-          "startSec": 121.72,
-          "endSec": 122.58,
-          "score": 1.0
+          "word": "I",
+          "start": 158.76,
+          "end": 159.2
         },
         {
           "word": "will",
-          "startSec": 122.58,
-          "endSec": 122.74,
-          "score": 1.0
+          "start": 159.2,
+          "end": 159.4
         },
         {
-          "word": "need",
-          "startSec": 122.74,
-          "endSec": 122.98,
-          "score": 1.0
+          "word": "send",
+          "start": 159.4,
+          "end": 159.74
         },
         {
-          "word": "to",
-          "startSec": 122.98,
-          "endSec": 123.18,
-          "score": 1.0
+          "word": "you",
+          "start": 159.74,
+          "end": 159.96
         },
         {
-          "word": "interact",
-          "startSec": 123.18,
-          "endSec": 123.7,
-          "score": 1.0
+          "word": "the",
+          "start": 159.96,
+          "end": 160.12
         },
         {
-          "word": "with",
-          "startSec": 123.7,
-          "endSec": 124.02,
-          "score": 1.0
+          "word": "report",
+          "start": 160.12,
+          "end": 160.66
         },
         {
-          "word": "your",
-          "startSec": 124.02,
-          "endSec": 124.18,
-          "score": 1.0
+          "word": "by",
+          "start": 160.66,
+          "end": 161.02
         },
         {
-          "word": "colleagues,",
-          "startSec": 124.18,
-          "endSec": 124.76,
-          "score": 1.0
+          "word": "email.",
+          "start": 161.02,
+          "end": 161.94
         }
       ]
     },
     {
       "id": 30,
-      "start": 125.12,
-      "end": 126.67,
-      "text": "manager, and clients.",
+      "start": 162.98,
+      "end": 165.86,
+      "text": "The deadline is next Monday.",
       "words": [
         {
-          "word": "manager,",
-          "startSec": 125.32,
-          "endSec": 125.58,
-          "score": 0.99
+          "word": "The",
+          "start": 162.98,
+          "end": 163.28
         },
         {
-          "word": "and",
-          "startSec": 126.06,
-          "endSec": 126.26,
-          "score": 1.0
+          "word": "deadline",
+          "start": 163.28,
+          "end": 163.76
         },
         {
-          "word": "clients.",
-          "startSec": 126.26,
-          "endSec": 126.52,
-          "score": 0.99
+          "word": "is",
+          "start": 163.76,
+          "end": 164.26
+        },
+        {
+          "word": "next",
+          "start": 164.26,
+          "end": 164.78
+        },
+        {
+          "word": "Monday.",
+          "start": 164.78,
+          "end": 165.86
         }
       ]
     },
     {
       "id": 31,
-      "start": 126.32,
-      "end": 129.52,
-      "text": "Here are some useful phrases.",
+      "start": 168.2,
+      "end": 169.84,
+      "text": "Example dialogue.",
       "words": [
         {
-          "word": "Here",
-          "startSec": 126.52,
-          "endSec": 127.78,
-          "score": 0.06
+          "word": "Example",
+          "start": 168.2,
+          "end": 168.88
         },
         {
-          "word": "are",
-          "startSec": 128.07,
-          "endSec": 128.23,
-          "score": 0.99
-        },
-        {
-          "word": "some",
-          "startSec": 128.23,
-          "endSec": 128.45,
-          "score": 0.99
-        },
-        {
-          "word": "useful",
-          "startSec": 128.45,
-          "endSec": 128.73,
-          "score": 0.99
-        },
-        {
-          "word": "phrases.",
-          "startSec": 128.73,
-          "endSec": 129.37,
-          "score": 0.98
+          "word": "dialogue.",
+          "start": 168.88,
+          "end": 169.84
         }
       ]
     },
     {
       "id": 32,
-      "start": 129.97,
-      "end": 132.76,
-      "text": "When greeting colleagues, good morning.",
+      "start": 170.26,
+      "end": 172.86,
+      "text": "Good morning, Sarah.",
       "words": [
         {
-          "word": "When",
-          "startSec": 130.17,
-          "endSec": 130.23,
-          "score": 0.77
+          "word": "Good",
+          "start": 170.26,
+          "end": 170.94
         },
         {
-          "word": "greeting",
-          "startSec": 130.23,
-          "endSec": 130.49,
-          "score": 0.98
+          "word": "morning,",
+          "start": 170.94,
+          "end": 171.46
         },
         {
-          "word": "colleagues,",
-          "startSec": 130.49,
-          "endSec": 131.45,
-          "score": 0.99
-        },
-        {
-          "word": "good",
-          "startSec": 131.93,
-          "endSec": 132.19,
-          "score": 0.52
-        },
-        {
-          "word": "morning.",
-          "startSec": 132.19,
-          "endSec": 132.61,
-          "score": 1.0
+          "word": "Sarah.",
+          "start": 172.08,
+          "end": 172.86
         }
       ]
     },
     {
       "id": 33,
-      "start": 133.25,
-      "end": 134.36,
-      "text": "How are you?",
+      "start": 173.16,
+      "end": 174.5,
+      "text": "How are you today?",
       "words": [
         {
           "word": "How",
-          "startSec": 133.45,
-          "endSec": 133.61,
-          "score": 0.98
+          "start": 173.16,
+          "end": 173.42
         },
         {
           "word": "are",
-          "startSec": 133.61,
-          "endSec": 133.89,
-          "score": 0.99
+          "start": 173.42,
+          "end": 173.6
         },
         {
-          "word": "you?",
-          "startSec": 133.89,
-          "endSec": 134.21,
-          "score": 1.0
+          "word": "you",
+          "start": 173.6,
+          "end": 173.74
+        },
+        {
+          "word": "today?",
+          "start": 173.74,
+          "end": 174.5
         }
       ]
     },
     {
       "id": 34,
-      "start": 134.73,
-      "end": 136.18,
-      "text": "How was your weekend?",
+      "start": 175.8,
+      "end": 177.42,
+      "text": "Good morning, Emilie.",
       "words": [
         {
-          "word": "How",
-          "startSec": 134.93,
-          "endSec": 135.23,
-          "score": 0.99
+          "word": "Good",
+          "start": 175.8,
+          "end": 176.12
         },
         {
-          "word": "was",
-          "startSec": 135.23,
-          "endSec": 135.47,
-          "score": 0.99
+          "word": "morning,",
+          "start": 176.12,
+          "end": 176.54
         },
         {
-          "word": "your",
-          "startSec": 135.47,
-          "endSec": 135.61,
-          "score": 1.0
-        },
-        {
-          "word": "weekend?",
-          "startSec": 135.61,
-          "endSec": 136.03,
-          "score": 1.0
+          "word": "Emilie.",
+          "start": 176.66,
+          "end": 177.42
         }
       ]
     },
     {
       "id": 35,
-      "start": 136.9,
-      "end": 138.87,
-      "text": "Did you have a busy day?",
+      "start": 177.6,
+      "end": 179.18,
+      "text": "I'm good, thank you.",
       "words": [
         {
-          "word": "Did",
-          "startSec": 137.1,
-          "endSec": 137.32,
-          "score": 0.98
+          "word": "I'm",
+          "start": 177.6,
+          "end": 177.8
         },
         {
-          "word": "you",
-          "startSec": 137.32,
-          "endSec": 137.5,
-          "score": 1.0
+          "word": "good,",
+          "start": 177.8,
+          "end": 178.04
         },
         {
-          "word": "have",
-          "startSec": 137.5,
-          "endSec": 137.72,
-          "score": 1.0
+          "word": "thank",
+          "start": 178.14,
+          "end": 178.44
         },
         {
-          "word": "a",
-          "startSec": 137.72,
-          "endSec": 137.88,
-          "score": 1.0
-        },
-        {
-          "word": "busy",
-          "startSec": 137.88,
-          "endSec": 138.1,
-          "score": 1.0
-        },
-        {
-          "word": "day?",
-          "startSec": 138.1,
-          "endSec": 138.72,
-          "score": 1.0
+          "word": "you.",
+          "start": 178.44,
+          "end": 179.18
         }
       ]
     },
     {
       "id": 36,
-      "start": 139.97,
-      "end": 141.62,
-      "text": "When asking for help.",
+      "start": 179.4,
+      "end": 180.58,
+      "text": "How about you?",
       "words": [
         {
-          "word": "When",
-          "startSec": 140.17,
-          "endSec": 140.35,
-          "score": 0.96
+          "word": "How",
+          "start": 179.4,
+          "end": 179.62
         },
         {
-          "word": "asking",
-          "startSec": 140.35,
-          "endSec": 140.77,
-          "score": 1.0
+          "word": "about",
+          "start": 179.62,
+          "end": 179.88
         },
         {
-          "word": "for",
-          "startSec": 140.77,
-          "endSec": 141.15,
-          "score": 1.0
-        },
-        {
-          "word": "help.",
-          "startSec": 141.15,
-          "endSec": 141.47,
-          "score": 1.0
+          "word": "you?",
+          "start": 179.88,
+          "end": 180.58
         }
       ]
     },
     {
       "id": 37,
-      "start": 142.24,
-      "end": 144.03,
-      "text": "Can you help me with this?",
+      "start": 181.06,
+      "end": 182.24,
+      "text": "I'm good too.",
       "words": [
         {
-          "word": "Can",
-          "startSec": 142.44,
-          "endSec": 142.68,
-          "score": 0.98
+          "word": "I'm",
+          "start": 181.06,
+          "end": 181.32
         },
         {
-          "word": "you",
-          "startSec": 142.68,
-          "endSec": 142.88,
-          "score": 1.0
+          "word": "good",
+          "start": 181.32,
+          "end": 181.52
         },
         {
-          "word": "help",
-          "startSec": 142.88,
-          "endSec": 143.1,
-          "score": 1.0
-        },
-        {
-          "word": "me",
-          "startSec": 143.1,
-          "endSec": 143.38,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 143.38,
-          "endSec": 143.56,
-          "score": 1.0
-        },
-        {
-          "word": "this?",
-          "startSec": 143.56,
-          "endSec": 143.88,
-          "score": 1.0
+          "word": "too.",
+          "start": 181.52,
+          "end": 182.24
         }
       ]
     },
     {
       "id": 38,
-      "start": 144.8,
-      "end": 147.35,
-      "text": "I'm not sure how to do this task.",
+      "start": 182.48,
+      "end": 184.76,
+      "text": "I am working on the sales report.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 145.0,
-          "endSec": 145.34,
-          "score": 0.97
+          "word": "I",
+          "start": 182.48,
+          "end": 182.7
         },
         {
-          "word": "not",
-          "startSec": 145.34,
-          "endSec": 145.48,
-          "score": 1.0
+          "word": "am",
+          "start": 182.7,
+          "end": 182.86
         },
         {
-          "word": "sure",
-          "startSec": 145.48,
-          "endSec": 145.84,
-          "score": 1.0
+          "word": "working",
+          "start": 182.86,
+          "end": 183.18
         },
         {
-          "word": "how",
-          "startSec": 145.84,
-          "endSec": 146.16,
-          "score": 1.0
+          "word": "on",
+          "start": 183.18,
+          "end": 183.5
         },
         {
-          "word": "to",
-          "startSec": 146.16,
-          "endSec": 146.32,
-          "score": 1.0
+          "word": "the",
+          "start": 183.5,
+          "end": 183.68
         },
         {
-          "word": "do",
-          "startSec": 146.32,
-          "endSec": 146.54,
-          "score": 1.0
+          "word": "sales",
+          "start": 183.68,
+          "end": 183.98
         },
         {
-          "word": "this",
-          "startSec": 146.54,
-          "endSec": 146.8,
-          "score": 1.0
-        },
-        {
-          "word": "task.",
-          "startSec": 146.8,
-          "endSec": 147.2,
-          "score": 1.0
+          "word": "report.",
+          "start": 183.98,
+          "end": 184.76
         }
       ]
     },
     {
       "id": 39,
-      "start": 148.72,
-      "end": 151.11,
-      "text": "Can you explain this to me?",
+      "start": 184.98,
+      "end": 187.12,
+      "text": "Can you help me with a question?",
       "words": [
         {
           "word": "Can",
-          "startSec": 148.92,
-          "endSec": 149.24,
-          "score": 0.99
+          "start": 184.98,
+          "end": 185.32
         },
         {
           "word": "you",
-          "startSec": 149.24,
-          "endSec": 149.42,
-          "score": 1.0
+          "start": 185.32,
+          "end": 185.52
         },
         {
-          "word": "explain",
-          "startSec": 149.42,
-          "endSec": 149.96,
-          "score": 1.0
+          "word": "help",
+          "start": 185.52,
+          "end": 185.76
         },
         {
-          "word": "this",
-          "startSec": 149.96,
-          "endSec": 150.4,
-          "score": 1.0
+          "word": "me",
+          "start": 185.76,
+          "end": 185.96
         },
         {
-          "word": "to",
-          "startSec": 150.4,
-          "endSec": 150.7,
-          "score": 1.0
+          "word": "with",
+          "start": 185.96,
+          "end": 186.18
         },
         {
-          "word": "me?",
-          "startSec": 150.7,
-          "endSec": 150.96,
-          "score": 1.0
+          "word": "a",
+          "start": 186.18,
+          "end": 186.28
+        },
+        {
+          "word": "question?",
+          "start": 186.28,
+          "end": 187.12
         }
       ]
     },
     {
       "id": 40,
-      "start": 152.72,
-      "end": 157.69,
-      "text": "When talking about work tasks, I am working on a new project.",
+      "start": 187.68,
+      "end": 188.66,
+      "text": "Of course.",
       "words": [
         {
-          "word": "When",
-          "startSec": 152.92,
-          "endSec": 153.32,
-          "score": 0.99
+          "word": "Of",
+          "start": 187.68,
+          "end": 187.9
         },
         {
-          "word": "talking",
-          "startSec": 153.32,
-          "endSec": 153.62,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 153.62,
-          "endSec": 154.18,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 154.18,
-          "endSec": 154.52,
-          "score": 0.99
-        },
-        {
-          "word": "tasks,",
-          "startSec": 154.52,
-          "endSec": 155.0,
-          "score": 0.98
-        },
-        {
-          "word": "I",
-          "startSec": 155.54,
-          "endSec": 155.82,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 155.82,
-          "endSec": 155.98,
-          "score": 0.98
-        },
-        {
-          "word": "working",
-          "startSec": 155.98,
-          "endSec": 156.28,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 156.28,
-          "endSec": 156.7,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 156.7,
-          "endSec": 156.84,
-          "score": 1.0
-        },
-        {
-          "word": "new",
-          "startSec": 156.84,
-          "endSec": 157.0,
-          "score": 1.0
-        },
-        {
-          "word": "project.",
-          "startSec": 157.0,
-          "endSec": 157.54,
-          "score": 1.0
+          "word": "course.",
+          "start": 187.9,
+          "end": 188.66
         }
       ]
     },
     {
       "id": 41,
-      "start": 157.34,
-      "end": 161.53,
-      "text": "I will send you the report by email.",
+      "start": 189.0,
+      "end": 190.92,
+      "text": "What do you need help with?",
       "words": [
         {
-          "word": "I",
-          "startSec": 157.54,
-          "endSec": 158.64,
-          "score": 0.2
+          "word": "What",
+          "start": 189.0,
+          "end": 189.38
         },
         {
-          "word": "will",
-          "startSec": 159.16,
-          "endSec": 159.36,
-          "score": 0.89
-        },
-        {
-          "word": "send",
-          "startSec": 159.36,
-          "endSec": 159.64,
-          "score": 0.99
+          "word": "do",
+          "start": 189.38,
+          "end": 189.56
         },
         {
           "word": "you",
-          "startSec": 159.64,
-          "endSec": 159.9,
-          "score": 1.0
+          "start": 189.56,
+          "end": 189.7
         },
         {
-          "word": "the",
-          "startSec": 159.9,
-          "endSec": 160.06,
-          "score": 0.99
+          "word": "need",
+          "start": 189.7,
+          "end": 189.88
         },
         {
-          "word": "report",
-          "startSec": 160.06,
-          "endSec": 160.48,
-          "score": 0.99
+          "word": "help",
+          "start": 189.88,
+          "end": 190.16
         },
         {
-          "word": "by",
-          "startSec": 160.48,
-          "endSec": 160.98,
-          "score": 0.99
-        },
-        {
-          "word": "email.",
-          "startSec": 160.98,
-          "endSec": 161.38,
-          "score": 0.83
+          "word": "with?",
+          "start": 190.16,
+          "end": 190.92
         }
       ]
     },
     {
       "id": 42,
-      "start": 162.94,
-      "end": 165.57,
-      "text": "The deadline is next Monday.",
+      "start": 191.74,
+      "end": 196.26,
+      "text": "Tip, always say thank you when someone helps you.",
       "words": [
         {
-          "word": "The",
-          "startSec": 163.14,
-          "endSec": 163.26,
-          "score": 0.92
+          "word": "Tip,",
+          "start": 191.74,
+          "end": 192.42
         },
         {
-          "word": "deadline",
-          "startSec": 163.26,
-          "endSec": 163.66,
-          "score": 1.0
+          "word": "always",
+          "start": 193.12,
+          "end": 193.48
         },
         {
-          "word": "is",
-          "startSec": 163.66,
-          "endSec": 164.16,
-          "score": 1.0
+          "word": "say",
+          "start": 193.48,
+          "end": 193.82
         },
         {
-          "word": "next",
-          "startSec": 164.16,
-          "endSec": 164.5,
-          "score": 1.0
+          "word": "thank",
+          "start": 193.82,
+          "end": 194.12
         },
         {
-          "word": "Monday.",
-          "startSec": 164.5,
-          "endSec": 165.42,
-          "score": 0.99
+          "word": "you",
+          "start": 194.12,
+          "end": 194.52
+        },
+        {
+          "word": "when",
+          "start": 194.52,
+          "end": 194.78
+        },
+        {
+          "word": "someone",
+          "start": 194.78,
+          "end": 195.14
+        },
+        {
+          "word": "helps",
+          "start": 195.14,
+          "end": 195.5
+        },
+        {
+          "word": "you.",
+          "start": 195.5,
+          "end": 196.26
         }
       ]
     },
     {
       "id": 43,
-      "start": 168.43,
-      "end": 169.22,
-      "text": "Example dialogue.",
+      "start": 196.94,
+      "end": 200.84,
+      "text": "Three, answering phone calls at work.",
       "words": [
         {
-          "word": "Example",
-          "startSec": 168.63,
-          "endSec": 168.63,
-          "score": 0.29
+          "word": "Three,",
+          "start": 196.94,
+          "end": 197.66
         },
         {
-          "word": "dialogue.",
-          "startSec": 168.63,
-          "endSec": 169.07,
-          "score": 0.53
+          "word": "answering",
+          "start": 198.32,
+          "end": 198.76
+        },
+        {
+          "word": "phone",
+          "start": 198.76,
+          "end": 199.26
+        },
+        {
+          "word": "calls",
+          "start": 199.26,
+          "end": 199.74
+        },
+        {
+          "word": "at",
+          "start": 199.74,
+          "end": 200.0
+        },
+        {
+          "word": "work.",
+          "start": 200.0,
+          "end": 200.84
         }
       ]
     },
     {
       "id": 44,
-      "start": 170.3,
-      "end": 171.55,
-      "text": "Good morning.",
+      "start": 203.8,
+      "end": 207.61,
+      "text": "If you work in an office, you may need to answer the phone.",
       "words": [
         {
-          "word": "Good",
-          "startSec": 170.5,
-          "endSec": 170.92,
-          "score": 0.9
+          "word": "If",
+          "start": 203.8,
+          "end": 204.08
         },
         {
-          "word": "morning.",
-          "startSec": 170.92,
-          "endSec": 171.4,
-          "score": 0.98
+          "word": "you",
+          "start": 204.08,
+          "end": 204.24
+        },
+        {
+          "word": "work",
+          "start": 204.24,
+          "end": 204.52
+        },
+        {
+          "word": "in",
+          "start": 204.52,
+          "end": 204.7
+        },
+        {
+          "word": "an",
+          "start": 204.7,
+          "end": 204.88
+        },
+        {
+          "word": "office,",
+          "start": 204.88,
+          "end": 205.2
+        },
+        {
+          "word": "you",
+          "start": 205.56,
+          "end": 205.68
+        },
+        {
+          "word": "may",
+          "start": 205.68,
+          "end": 205.9
+        },
+        {
+          "word": "need",
+          "start": 205.9,
+          "end": 206.14
+        },
+        {
+          "word": "to",
+          "start": 206.14,
+          "end": 206.32
+        },
+        {
+          "word": "answer",
+          "start": 206.32,
+          "end": 206.68
+        },
+        {
+          "word": "the",
+          "start": 206.68,
+          "end": 206.92
+        },
+        {
+          "word": "phone.",
+          "start": 206.92,
+          "end": 207.61
         }
       ]
     },
     {
       "id": 45,
-      "start": 171.82,
-      "end": 174.21,
-      "text": "Sarah, how are you today?",
+      "start": 207.8,
+      "end": 209.82,
+      "text": "Here are some useful phrases.",
       "words": [
         {
-          "word": "Sarah,",
-          "startSec": 172.02,
-          "endSec": 172.38,
-          "score": 0.79
-        },
-        {
-          "word": "how",
-          "startSec": 173.0,
-          "endSec": 173.42,
-          "score": 0.97
+          "word": "Here",
+          "start": 207.8,
+          "end": 208.0
         },
         {
           "word": "are",
-          "startSec": 173.42,
-          "endSec": 173.56,
-          "score": 1.0
+          "start": 208.0,
+          "end": 208.2
         },
         {
-          "word": "you",
-          "startSec": 173.56,
-          "endSec": 173.74,
-          "score": 1.0
+          "word": "some",
+          "start": 208.2,
+          "end": 208.36
         },
         {
-          "word": "today?",
-          "startSec": 173.74,
-          "endSec": 174.06,
-          "score": 1.0
+          "word": "useful",
+          "start": 208.36,
+          "end": 208.84
+        },
+        {
+          "word": "phrases.",
+          "start": 208.84,
+          "end": 209.82
         }
       ]
     },
     {
       "id": 46,
-      "start": 175.66,
-      "end": 177.25,
-      "text": "Good morning, Emilie.",
+      "start": 210.8,
+      "end": 213.36,
+      "text": "Cat answering the phone.",
       "words": [
         {
-          "word": "Good",
-          "startSec": 175.86,
-          "endSec": 176.08,
-          "score": 0.99
+          "word": "Cat",
+          "start": 210.8,
+          "end": 211.2
         },
         {
-          "word": "morning,",
-          "startSec": 176.08,
-          "endSec": 176.52,
-          "score": 1.0
+          "word": "answering",
+          "start": 211.2,
+          "end": 212.22
         },
         {
-          "word": "Emilie.",
-          "startSec": 176.52,
-          "endSec": 177.1,
-          "score": 0.5
+          "word": "the",
+          "start": 212.22,
+          "end": 212.54
+        },
+        {
+          "word": "phone.",
+          "start": 212.54,
+          "end": 213.36
         }
       ]
     },
     {
       "id": 47,
-      "start": 177.44,
-      "end": 178.13,
-      "text": "I'm good.",
+      "start": 213.9,
+      "end": 217.6,
+      "text": "Hello, this is Emilie from Customer Service.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 177.64,
-          "endSec": 177.78,
-          "score": 0.98
+          "word": "Hello,",
+          "start": 213.9,
+          "end": 214.22
         },
         {
-          "word": "good.",
-          "startSec": 177.78,
-          "endSec": 177.98,
-          "score": 0.99
+          "word": "this",
+          "start": 214.88,
+          "end": 215.2
+        },
+        {
+          "word": "is",
+          "start": 215.2,
+          "end": 215.38
+        },
+        {
+          "word": "Emilie",
+          "start": 215.38,
+          "end": 215.9
+        },
+        {
+          "word": "from",
+          "start": 215.9,
+          "end": 216.1
+        },
+        {
+          "word": "Customer",
+          "start": 216.1,
+          "end": 216.56
+        },
+        {
+          "word": "Service.",
+          "start": 216.56,
+          "end": 217.6
         }
       ]
     },
     {
       "id": 48,
-      "start": 178.12,
-      "end": 178.91,
-      "text": "Thank you.",
+      "start": 218.06,
+      "end": 219.7,
+      "text": "How can I help you?",
       "words": [
         {
-          "word": "Thank",
-          "startSec": 178.32,
-          "endSec": 178.38,
-          "score": 1.0
+          "word": "How",
+          "start": 218.06,
+          "end": 218.32
         },
         {
-          "word": "you.",
-          "startSec": 178.38,
-          "endSec": 178.76,
-          "score": 1.0
+          "word": "can",
+          "start": 218.32,
+          "end": 218.56
+        },
+        {
+          "word": "I",
+          "start": 218.56,
+          "end": 218.72
+        },
+        {
+          "word": "help",
+          "start": 218.72,
+          "end": 218.98
+        },
+        {
+          "word": "you?",
+          "start": 218.98,
+          "end": 219.7
         }
       ]
     },
     {
       "id": 49,
-      "start": 179.2,
-      "end": 180.31,
-      "text": "How about you?",
+      "start": 220.68,
+      "end": 223.08,
+      "text": "Good morning, Marketing Department.",
       "words": [
         {
-          "word": "How",
-          "startSec": 179.4,
-          "endSec": 179.6,
-          "score": 1.0
+          "word": "Good",
+          "start": 220.68,
+          "end": 221.4
         },
         {
-          "word": "about",
-          "startSec": 179.6,
-          "endSec": 179.82,
-          "score": 0.98
+          "word": "morning,",
+          "start": 221.4,
+          "end": 221.92
         },
         {
-          "word": "you?",
-          "startSec": 179.82,
-          "endSec": 180.16,
-          "score": 1.0
+          "word": "Marketing",
+          "start": 222.22,
+          "end": 222.66
+        },
+        {
+          "word": "Department.",
+          "start": 222.66,
+          "end": 223.08
         }
       ]
     },
     {
       "id": 50,
-      "start": 180.8,
-      "end": 181.95,
-      "text": "I'm good, too.",
+      "start": 223.08,
+      "end": 226.12,
+      "text": "How can I assist you?",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 181.0,
-          "endSec": 181.3,
-          "score": 0.99
+          "word": "How",
+          "start": 223.08,
+          "end": 223.98
         },
         {
-          "word": "good,",
-          "startSec": 181.3,
-          "endSec": 181.48,
-          "score": 1.0
+          "word": "can",
+          "start": 223.98,
+          "end": 224.7
         },
         {
-          "word": "too.",
-          "startSec": 181.66,
-          "endSec": 181.8,
-          "score": 1.0
+          "word": "I",
+          "start": 224.7,
+          "end": 224.88
+        },
+        {
+          "word": "assist",
+          "start": 224.88,
+          "end": 225.24
+        },
+        {
+          "word": "you?",
+          "start": 225.24,
+          "end": 226.12
         }
       ]
     },
     {
       "id": 51,
-      "start": 182.3,
-      "end": 184.51,
-      "text": "I am working on the sales report.",
+      "start": 226.88,
+      "end": 228.64,
+      "text": "Taking a message.",
       "words": [
         {
-          "word": "I",
-          "startSec": 182.5,
-          "endSec": 182.64,
-          "score": 1.0
+          "word": "Taking",
+          "start": 226.88,
+          "end": 227.58
         },
         {
-          "word": "am",
-          "startSec": 182.64,
-          "endSec": 182.8,
-          "score": 0.96
+          "word": "a",
+          "start": 227.58,
+          "end": 227.9
         },
         {
-          "word": "working",
-          "startSec": 182.8,
-          "endSec": 183.14,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 183.14,
-          "endSec": 183.44,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 183.44,
-          "endSec": 183.6,
-          "score": 0.98
-        },
-        {
-          "word": "sales",
-          "startSec": 183.6,
-          "endSec": 183.82,
-          "score": 0.95
-        },
-        {
-          "word": "report.",
-          "startSec": 183.82,
-          "endSec": 184.36,
-          "score": 1.0
+          "word": "message.",
+          "start": 227.9,
+          "end": 228.64
         }
       ]
     },
     {
       "id": 52,
-      "start": 184.84,
-      "end": 186.87,
-      "text": "Can you help me with a question?",
+      "start": 229.14,
+      "end": 230.43,
+      "text": "I'm sorry.",
       "words": [
         {
-          "word": "Can",
-          "startSec": 185.04,
-          "endSec": 185.3,
-          "score": 1.0
+          "word": "I'm",
+          "start": 229.14,
+          "end": 229.56
         },
         {
-          "word": "you",
-          "startSec": 185.3,
-          "endSec": 185.46,
-          "score": 1.0
-        },
-        {
-          "word": "help",
-          "startSec": 185.46,
-          "endSec": 185.7,
-          "score": 1.0
-        },
-        {
-          "word": "me",
-          "startSec": 185.7,
-          "endSec": 185.94,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 185.94,
-          "endSec": 186.12,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 186.12,
-          "endSec": 186.24,
-          "score": 0.79
-        },
-        {
-          "word": "question?",
-          "startSec": 186.24,
-          "endSec": 186.72,
-          "score": 1.0
+          "word": "sorry.",
+          "start": 229.56,
+          "end": 230.43
         }
       ]
     },
     {
       "id": 53,
-      "start": 187.1,
-      "end": 188.29,
-      "text": "Of course.",
+      "start": 230.68,
+      "end": 233.1,
+      "text": "She is not available right now.",
       "words": [
         {
-          "word": "Of",
-          "startSec": 187.3,
-          "endSec": 187.88,
-          "score": 0.99
+          "word": "She",
+          "start": 230.68,
+          "end": 230.98
         },
         {
-          "word": "course.",
-          "startSec": 187.88,
-          "endSec": 188.14,
-          "score": 1.0
+          "word": "is",
+          "start": 230.98,
+          "end": 231.18
+        },
+        {
+          "word": "not",
+          "start": 231.18,
+          "end": 231.44
+        },
+        {
+          "word": "available",
+          "start": 231.44,
+          "end": 231.92
+        },
+        {
+          "word": "right",
+          "start": 231.92,
+          "end": 232.34
+        },
+        {
+          "word": "now.",
+          "start": 232.34,
+          "end": 233.1
         }
       ]
     },
     {
       "id": 54,
-      "start": 188.76,
-      "end": 190.59,
-      "text": "What do you need help with?",
+      "start": 233.44,
+      "end": 235.64,
+      "text": "Would you like to leave a message?",
       "words": [
         {
-          "word": "What",
-          "startSec": 188.96,
-          "endSec": 189.34,
-          "score": 1.0
-        },
-        {
-          "word": "do",
-          "startSec": 189.34,
-          "endSec": 189.5,
-          "score": 1.0
+          "word": "Would",
+          "start": 233.44,
+          "end": 233.88
         },
         {
           "word": "you",
-          "startSec": 189.5,
-          "endSec": 189.64,
-          "score": 1.0
+          "start": 233.88,
+          "end": 234.06
         },
         {
-          "word": "need",
-          "startSec": 189.64,
-          "endSec": 189.84,
-          "score": 1.0
+          "word": "like",
+          "start": 234.06,
+          "end": 234.24
         },
         {
-          "word": "help",
-          "startSec": 189.84,
-          "endSec": 190.1,
-          "score": 1.0
+          "word": "to",
+          "start": 234.24,
+          "end": 234.44
         },
         {
-          "word": "with?",
-          "startSec": 190.1,
-          "endSec": 190.44,
-          "score": 1.0
+          "word": "leave",
+          "start": 234.44,
+          "end": 234.66
+        },
+        {
+          "word": "a",
+          "start": 234.66,
+          "end": 234.84
+        },
+        {
+          "word": "message?",
+          "start": 234.84,
+          "end": 235.64
         }
       ]
     },
     {
       "id": 55,
-      "start": 190.24,
-      "end": 195.92,
-      "text": "Tip, always say thank you when someone helps you.",
+      "start": 236.74,
+      "end": 238.44,
+      "text": "Transferring a call.",
       "words": [
         {
-          "word": "Tip,",
-          "startSec": 190.44,
-          "endSec": 191.54,
-          "score": 0.75
+          "word": "Transferring",
+          "start": 236.74,
+          "end": 237.58
         },
         {
-          "word": "always",
-          "startSec": 192.83,
-          "endSec": 193.41,
-          "score": 0.97
+          "word": "a",
+          "start": 237.58,
+          "end": 237.72
         },
         {
-          "word": "say",
-          "startSec": 193.41,
-          "endSec": 193.77,
-          "score": 1.0
-        },
-        {
-          "word": "thank",
-          "startSec": 193.77,
-          "endSec": 194.13,
-          "score": 0.86
-        },
-        {
-          "word": "you",
-          "startSec": 194.13,
-          "endSec": 194.45,
-          "score": 0.99
-        },
-        {
-          "word": "when",
-          "startSec": 194.45,
-          "endSec": 194.75,
-          "score": 0.94
-        },
-        {
-          "word": "someone",
-          "startSec": 194.75,
-          "endSec": 195.01,
-          "score": 1.0
-        },
-        {
-          "word": "helps",
-          "startSec": 195.01,
-          "endSec": 195.41,
-          "score": 0.99
-        },
-        {
-          "word": "you.",
-          "startSec": 195.41,
-          "endSec": 195.77,
-          "score": 1.0
+          "word": "call.",
+          "start": 237.72,
+          "end": 238.44
         }
       ]
     },
     {
       "id": 56,
-      "start": 196.79,
-      "end": 200.4,
-      "text": "Three, answering phone calls at work.",
+      "start": 238.94,
+      "end": 240.7,
+      "text": "Transferring a call.",
       "words": [
         {
-          "word": "Three,",
-          "startSec": 196.99,
-          "endSec": 197.61,
-          "score": 0.38
+          "word": "Transferring",
+          "start": 238.94,
+          "end": 239.78
         },
         {
-          "word": "answering",
-          "startSec": 198.13,
-          "endSec": 198.65,
-          "score": 0.94
+          "word": "a",
+          "start": 239.78,
+          "end": 239.94
         },
         {
-          "word": "phone",
-          "startSec": 198.65,
-          "endSec": 199.13,
-          "score": 1.0
-        },
-        {
-          "word": "calls",
-          "startSec": 199.13,
-          "endSec": 199.59,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 199.59,
-          "endSec": 199.97,
-          "score": 1.0
-        },
-        {
-          "word": "work.",
-          "startSec": 199.97,
-          "endSec": 200.25,
-          "score": 1.0
+          "word": "call.",
+          "start": 239.94,
+          "end": 240.7
         }
       ]
     },
     {
       "id": 57,
-      "start": 203.6,
-      "end": 207.41,
-      "text": "If you work in an office, you may need to answer the phone.",
+      "start": 241.04,
+      "end": 244.7,
+      "text": "Let me transfer you to the correct department.",
       "words": [
         {
-          "word": "If",
-          "startSec": 203.8,
-          "endSec": 204.04,
-          "score": 0.99
+          "word": "Let",
+          "start": 241.04,
+          "end": 241.08
+        },
+        {
+          "word": "me",
+          "start": 241.08,
+          "end": 241.36
+        },
+        {
+          "word": "transfer",
+          "start": 241.36,
+          "end": 241.96
         },
         {
           "word": "you",
-          "startSec": 204.04,
-          "endSec": 204.2,
-          "score": 1.0
-        },
-        {
-          "word": "work",
-          "startSec": 204.2,
-          "endSec": 204.44,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 204.44,
-          "endSec": 204.66,
-          "score": 0.99
-        },
-        {
-          "word": "an",
-          "startSec": 204.66,
-          "endSec": 204.78,
-          "score": 1.0
-        },
-        {
-          "word": "office,",
-          "startSec": 204.78,
-          "endSec": 205.18,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 205.54,
-          "endSec": 205.64,
-          "score": 1.0
-        },
-        {
-          "word": "may",
-          "startSec": 205.64,
-          "endSec": 205.84,
-          "score": 1.0
-        },
-        {
-          "word": "need",
-          "startSec": 205.84,
-          "endSec": 206.12,
-          "score": 1.0
+          "start": 241.96,
+          "end": 242.44
         },
         {
           "word": "to",
-          "startSec": 206.12,
-          "endSec": 206.3,
-          "score": 1.0
-        },
-        {
-          "word": "answer",
-          "startSec": 206.3,
-          "endSec": 206.68,
-          "score": 1.0
+          "start": 242.44,
+          "end": 243.0
         },
         {
           "word": "the",
-          "startSec": 206.68,
-          "endSec": 206.9,
-          "score": 1.0
+          "start": 243.0,
+          "end": 243.2
         },
         {
-          "word": "phone.",
-          "startSec": 206.9,
-          "endSec": 207.26,
-          "score": 1.0
+          "word": "correct",
+          "start": 243.2,
+          "end": 243.58
+        },
+        {
+          "word": "department.",
+          "start": 243.58,
+          "end": 244.7
         }
       ]
     },
     {
       "id": 58,
-      "start": 207.62,
-      "end": 209.49,
-      "text": "Here are some useful phrases.",
+      "start": 246.08,
+      "end": 248.16,
+      "text": "One moment, please.",
       "words": [
         {
-          "word": "Here",
-          "startSec": 207.82,
-          "endSec": 207.94,
-          "score": 0.99
+          "word": "One",
+          "start": 246.08,
+          "end": 246.92
         },
         {
-          "word": "are",
-          "startSec": 207.94,
-          "endSec": 208.12,
-          "score": 0.99
+          "word": "moment,",
+          "start": 246.92,
+          "end": 247.34
         },
         {
-          "word": "some",
-          "startSec": 208.12,
-          "endSec": 208.36,
-          "score": 1.0
-        },
-        {
-          "word": "useful",
-          "startSec": 208.36,
-          "endSec": 208.68,
-          "score": 1.0
-        },
-        {
-          "word": "phrases.",
-          "startSec": 208.68,
-          "endSec": 209.34,
-          "score": 1.0
+          "word": "please.",
+          "start": 247.46,
+          "end": 248.16
         }
       ]
     },
     {
       "id": 59,
-      "start": 210.96,
-      "end": 212.95,
-      "text": "Cat answering the phone.",
+      "start": 248.64,
+      "end": 250.42,
+      "text": "I will connect you.",
       "words": [
         {
-          "word": "Cat",
-          "startSec": 211.16,
-          "endSec": 211.16,
-          "score": 0.3
+          "word": "I",
+          "start": 248.64,
+          "end": 248.96
         },
         {
-          "word": "answering",
-          "startSec": 211.16,
-          "endSec": 211.8,
-          "score": 0.71
+          "word": "will",
+          "start": 248.96,
+          "end": 249.16
         },
         {
-          "word": "the",
-          "startSec": 211.8,
-          "endSec": 212.48,
-          "score": 1.0
+          "word": "connect",
+          "start": 249.16,
+          "end": 249.56
         },
         {
-          "word": "phone.",
-          "startSec": 212.48,
-          "endSec": 212.8,
-          "score": 1.0
+          "word": "you.",
+          "start": 249.56,
+          "end": 250.42
         }
       ]
     },
     {
       "id": 60,
-      "start": 213.82,
-      "end": 217.13,
-      "text": "Hello, this is Emilie from Customer Service.",
+      "start": 252.38,
+      "end": 253.9,
+      "text": "Example dialogue.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 214.02,
-          "endSec": 214.14,
-          "score": 0.92
+          "word": "Example",
+          "start": 252.38,
+          "end": 253.1
         },
         {
-          "word": "this",
-          "startSec": 214.86,
-          "endSec": 215.16,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 215.16,
-          "endSec": 215.3,
-          "score": 1.0
-        },
-        {
-          "word": "Emilie",
-          "startSec": 215.3,
-          "endSec": 215.86,
-          "score": 0.49
-        },
-        {
-          "word": "from",
-          "startSec": 215.86,
-          "endSec": 216.1,
-          "score": 0.98
-        },
-        {
-          "word": "Customer",
-          "startSec": 216.1,
-          "endSec": 216.48,
-          "score": 0.85
-        },
-        {
-          "word": "Service.",
-          "startSec": 216.48,
-          "endSec": 216.98,
-          "score": 0.97
+          "word": "dialogue.",
+          "start": 253.1,
+          "end": 253.9
         }
       ]
     },
     {
       "id": 61,
-      "start": 217.9,
-      "end": 219.41,
-      "text": "How can I help you?",
+      "start": 254.68,
+      "end": 258.7,
+      "text": "Hello, this is Emilie from Customer Service.",
       "words": [
         {
-          "word": "How",
-          "startSec": 218.1,
-          "endSec": 218.26,
-          "score": 0.98
+          "word": "Hello,",
+          "start": 254.68,
+          "end": 255.06
         },
         {
-          "word": "can",
-          "startSec": 218.26,
-          "endSec": 218.5,
-          "score": 1.0
+          "word": "this",
+          "start": 255.52,
+          "end": 255.84
         },
         {
-          "word": "I",
-          "startSec": 218.5,
-          "endSec": 218.68,
-          "score": 0.99
+          "word": "is",
+          "start": 255.84,
+          "end": 256.04
         },
         {
-          "word": "help",
-          "startSec": 218.68,
-          "endSec": 218.9,
-          "score": 1.0
+          "word": "Emilie",
+          "start": 256.04,
+          "end": 256.82
         },
         {
-          "word": "you?",
-          "startSec": 218.9,
-          "endSec": 219.26,
-          "score": 1.0
+          "word": "from",
+          "start": 256.82,
+          "end": 257.14
+        },
+        {
+          "word": "Customer",
+          "start": 257.14,
+          "end": 257.76
+        },
+        {
+          "word": "Service.",
+          "start": 257.76,
+          "end": 258.7
         }
       ]
     },
     {
       "id": 62,
-      "start": 221.03,
-      "end": 223.2,
-      "text": "Good morning, marketing department.",
+      "start": 259.24,
+      "end": 260.9,
+      "text": "How can I help you?",
       "words": [
         {
-          "word": "Good",
-          "startSec": 221.23,
-          "endSec": 221.35,
-          "score": 0.99
+          "word": "How",
+          "start": 259.24,
+          "end": 259.44
         },
         {
-          "word": "morning,",
-          "startSec": 221.35,
-          "endSec": 221.85,
-          "score": 0.96
+          "word": "can",
+          "start": 259.44,
+          "end": 259.7
         },
         {
-          "word": "marketing",
-          "startSec": 222.19,
-          "endSec": 222.63,
-          "score": 0.5
+          "word": "I",
+          "start": 259.7,
+          "end": 259.86
         },
         {
-          "word": "department.",
-          "startSec": 222.63,
-          "endSec": 223.05,
-          "score": 0.99
+          "word": "help",
+          "start": 259.86,
+          "end": 260.12
+        },
+        {
+          "word": "you?",
+          "start": 260.12,
+          "end": 260.9
         }
       ]
     },
     {
       "id": 63,
-      "start": 222.85,
-      "end": 225.8,
-      "text": "How can I assist you?",
+      "start": 261.46,
+      "end": 264.64,
+      "text": "Hi, I need to speak to Mr.",
       "words": [
         {
-          "word": "How",
-          "startSec": 223.05,
-          "endSec": 224.37,
-          "score": 0.05
-        },
-        {
-          "word": "can",
-          "startSec": 224.37,
-          "endSec": 224.65,
-          "score": 0.96
+          "word": "Hi,",
+          "start": 261.46,
+          "end": 262.18
         },
         {
           "word": "I",
-          "startSec": 224.65,
-          "endSec": 224.81,
-          "score": 0.98
+          "start": 262.98,
+          "end": 263.2
         },
         {
-          "word": "assist",
-          "startSec": 224.81,
-          "endSec": 225.13,
-          "score": 0.99
+          "word": "need",
+          "start": 263.2,
+          "end": 263.38
         },
         {
-          "word": "you?",
-          "startSec": 225.13,
-          "endSec": 225.65,
-          "score": 1.0
+          "word": "to",
+          "start": 263.38,
+          "end": 263.6
+        },
+        {
+          "word": "speak",
+          "start": 263.6,
+          "end": 263.92
+        },
+        {
+          "word": "to",
+          "start": 263.92,
+          "end": 264.2
+        },
+        {
+          "word": "Mr.",
+          "start": 264.2,
+          "end": 264.64
         }
       ]
     },
     {
       "id": 64,
-      "start": 226.98,
-      "end": 228.31,
-      "text": "Taking a message.",
+      "start": 264.74,
+      "end": 265.48,
+      "text": "Johnson.",
       "words": [
         {
-          "word": "Taking",
-          "startSec": 227.18,
-          "endSec": 227.58,
-          "score": 0.81
-        },
-        {
-          "word": "a",
-          "startSec": 227.58,
-          "endSec": 227.82,
-          "score": 0.99
-        },
-        {
-          "word": "message.",
-          "startSec": 227.82,
-          "endSec": 228.16,
-          "score": 0.99
+          "word": "Johnson.",
+          "start": 264.74,
+          "end": 265.48
         }
       ]
     },
     {
       "id": 65,
-      "start": 229.14,
-      "end": 230.13,
-      "text": "I'm sorry.",
+      "start": 266.36,
+      "end": 268.24,
+      "text": "I'm sorry, Mr.",
       "words": [
         {
           "word": "I'm",
-          "startSec": 229.34,
-          "endSec": 229.54,
-          "score": 0.97
+          "start": 266.36,
+          "end": 267.08
         },
         {
-          "word": "sorry.",
-          "startSec": 229.54,
-          "endSec": 229.98,
-          "score": 0.99
+          "word": "sorry,",
+          "start": 267.08,
+          "end": 267.54
+        },
+        {
+          "word": "Mr.",
+          "start": 267.8,
+          "end": 268.24
         }
       ]
     },
     {
       "id": 66,
-      "start": 230.4,
-      "end": 232.83,
-      "text": "She is not available right now.",
+      "start": 268.34,
+      "end": 270.79,
+      "text": "Johnson is not available right now.",
       "words": [
         {
-          "word": "She",
-          "startSec": 230.6,
-          "endSec": 230.94,
-          "score": 0.98
+          "word": "Johnson",
+          "start": 268.34,
+          "end": 268.62
         },
         {
           "word": "is",
-          "startSec": 230.94,
-          "endSec": 231.14,
-          "score": 0.99
+          "start": 268.62,
+          "end": 268.98
         },
         {
           "word": "not",
-          "startSec": 231.14,
-          "endSec": 231.36,
-          "score": 0.99
+          "start": 268.98,
+          "end": 269.22
         },
         {
           "word": "available",
-          "startSec": 231.36,
-          "endSec": 231.74,
-          "score": 1.0
+          "start": 269.22,
+          "end": 269.66
         },
         {
           "word": "right",
-          "startSec": 231.74,
-          "endSec": 232.28,
-          "score": 1.0
+          "start": 269.66,
+          "end": 270.08
         },
         {
           "word": "now.",
-          "startSec": 232.28,
-          "endSec": 232.68,
-          "score": 1.0
+          "start": 270.08,
+          "end": 270.79
         }
       ]
     },
     {
       "id": 67,
-      "start": 233.38,
-      "end": 235.43,
+      "start": 270.98,
+      "end": 273.0,
       "text": "Would you like to leave a message?",
       "words": [
         {
           "word": "Would",
-          "startSec": 233.58,
-          "endSec": 233.86,
-          "score": 0.61
+          "start": 270.98,
+          "end": 271.28
         },
         {
           "word": "you",
-          "startSec": 233.86,
-          "endSec": 234.02,
-          "score": 1.0
+          "start": 271.28,
+          "end": 271.48
         },
         {
           "word": "like",
-          "startSec": 234.02,
-          "endSec": 234.22,
-          "score": 1.0
+          "start": 271.48,
+          "end": 271.66
         },
         {
           "word": "to",
-          "startSec": 234.22,
-          "endSec": 234.4,
-          "score": 1.0
+          "start": 271.66,
+          "end": 271.86
         },
         {
           "word": "leave",
-          "startSec": 234.4,
-          "endSec": 234.62,
-          "score": 1.0
+          "start": 271.86,
+          "end": 272.06
         },
         {
           "word": "a",
-          "startSec": 234.62,
-          "endSec": 234.8,
-          "score": 1.0
+          "start": 272.06,
+          "end": 272.22
         },
         {
           "word": "message?",
-          "startSec": 234.8,
-          "endSec": 235.28,
-          "score": 1.0
+          "start": 272.22,
+          "end": 273.0
         }
       ]
     },
     {
       "id": 68,
-      "start": 236.6,
-      "end": 238.15,
-      "text": "Transferring a call.",
+      "start": 273.88,
+      "end": 278.52,
+      "text": "Tip, speak slowly and clearly on the phone.",
       "words": [
         {
-          "word": "Transferring",
-          "startSec": 236.8,
-          "endSec": 237.56,
-          "score": 0.78
+          "word": "Tip,",
+          "start": 273.88,
+          "end": 274.6
         },
         {
-          "word": "a",
-          "startSec": 237.56,
-          "endSec": 237.66,
-          "score": 1.0
+          "word": "speak",
+          "start": 275.34,
+          "end": 275.86
         },
         {
-          "word": "call.",
-          "startSec": 237.66,
-          "endSec": 238.0,
-          "score": 0.99
+          "word": "slowly",
+          "start": 275.86,
+          "end": 276.5
+        },
+        {
+          "word": "and",
+          "start": 276.5,
+          "end": 276.86
+        },
+        {
+          "word": "clearly",
+          "start": 276.86,
+          "end": 277.18
+        },
+        {
+          "word": "on",
+          "start": 277.18,
+          "end": 277.6
+        },
+        {
+          "word": "the",
+          "start": 277.6,
+          "end": 277.72
+        },
+        {
+          "word": "phone.",
+          "start": 277.72,
+          "end": 278.52
         }
       ]
     },
     {
       "id": 69,
-      "start": 238.78,
-      "end": 240.37,
-      "text": "Transferring a call.",
+      "start": 279.02,
+      "end": 283.22,
+      "text": "Four, participating in meetings.",
       "words": [
         {
-          "word": "Transferring",
-          "startSec": 238.98,
-          "endSec": 239.74,
-          "score": 0.86
+          "word": "Four,",
+          "start": 279.02,
+          "end": 279.9
         },
         {
-          "word": "a",
-          "startSec": 239.74,
-          "endSec": 239.86,
-          "score": 1.0
+          "word": "participating",
+          "start": 281.64,
+          "end": 281.64
         },
         {
-          "word": "call.",
-          "startSec": 239.86,
-          "endSec": 240.22,
-          "score": 1.0
+          "word": "in",
+          "start": 281.64,
+          "end": 282.4
+        },
+        {
+          "word": "meetings.",
+          "start": 282.4,
+          "end": 283.22
         }
       ]
     },
     {
       "id": 70,
-      "start": 240.62,
-      "end": 244.23,
-      "text": "Let me transfer you to the correct department.",
+      "start": 283.98,
+      "end": 286.6,
+      "text": "Useful phrases in meetings.",
       "words": [
         {
-          "word": "Let",
-          "startSec": 240.82,
-          "endSec": 241.06,
-          "score": 0.99
+          "word": "Useful",
+          "start": 283.98,
+          "end": 284.86
         },
         {
-          "word": "me",
-          "startSec": 241.06,
-          "endSec": 241.3,
-          "score": 1.0
+          "word": "phrases",
+          "start": 284.86,
+          "end": 285.4
         },
         {
-          "word": "transfer",
-          "startSec": 241.3,
-          "endSec": 241.64,
-          "score": 1.0
+          "word": "in",
+          "start": 285.4,
+          "end": 285.82
         },
         {
-          "word": "you",
-          "startSec": 241.64,
-          "endSec": 242.4,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 242.4,
-          "endSec": 242.96,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 242.96,
-          "endSec": 243.12,
-          "score": 1.0
-        },
-        {
-          "word": "correct",
-          "startSec": 243.12,
-          "endSec": 243.48,
-          "score": 0.97
-        },
-        {
-          "word": "department.",
-          "startSec": 243.48,
-          "endSec": 244.08,
-          "score": 0.84
+          "word": "meetings.",
+          "start": 285.82,
+          "end": 286.6
         }
       ]
     },
     {
       "id": 71,
-      "start": 246.29,
-      "end": 247.88,
-      "text": "One moment, please.",
+      "start": 286.92,
+      "end": 288.92,
+      "text": "Shall we start the meeting?",
       "words": [
         {
-          "word": "One",
-          "startSec": 246.49,
-          "endSec": 246.83,
-          "score": 0.97
+          "word": "Shall",
+          "start": 286.92,
+          "end": 287.4
         },
         {
-          "word": "moment,",
-          "startSec": 246.83,
-          "endSec": 247.31,
-          "score": 1.0
+          "word": "we",
+          "start": 287.4,
+          "end": 287.64
         },
         {
-          "word": "please.",
-          "startSec": 247.31,
-          "endSec": 247.73,
-          "score": 0.99
+          "word": "start",
+          "start": 287.64,
+          "end": 287.96
+        },
+        {
+          "word": "the",
+          "start": 287.96,
+          "end": 288.2
+        },
+        {
+          "word": "meeting?",
+          "start": 288.2,
+          "end": 288.92
         }
       ]
     },
     {
       "id": 72,
-      "start": 248.45,
-      "end": 250.04,
-      "text": "I will connect you.",
+      "start": 289.36,
+      "end": 292.3,
+      "text": "Let's discuss the first topic.",
       "words": [
         {
-          "word": "I",
-          "startSec": 248.65,
-          "endSec": 248.93,
-          "score": 1.0
+          "word": "Let's",
+          "start": 289.36,
+          "end": 290.08
         },
         {
-          "word": "will",
-          "startSec": 248.93,
-          "endSec": 249.13,
-          "score": 1.0
+          "word": "discuss",
+          "start": 290.08,
+          "end": 290.6
         },
         {
-          "word": "connect",
-          "startSec": 249.13,
-          "endSec": 249.47,
-          "score": 1.0
+          "word": "the",
+          "start": 290.6,
+          "end": 291.02
         },
         {
-          "word": "you.",
-          "startSec": 249.47,
-          "endSec": 249.89,
-          "score": 0.86
+          "word": "first",
+          "start": 291.02,
+          "end": 291.34
+        },
+        {
+          "word": "topic.",
+          "start": 291.34,
+          "end": 292.3
         }
       ]
     },
     {
       "id": 73,
-      "start": 252.0,
-      "end": 253.47,
-      "text": "Example dialogue.",
+      "start": 293.04,
+      "end": 295.95,
+      "text": "I have a question about this project.",
       "words": [
         {
-          "word": "Example",
-          "startSec": 252.2,
-          "endSec": 252.8,
-          "score": 0.94
+          "word": "I",
+          "start": 293.04,
+          "end": 293.64
         },
         {
-          "word": "dialogue.",
-          "startSec": 252.8,
-          "endSec": 253.32,
-          "score": 0.4
+          "word": "have",
+          "start": 293.64,
+          "end": 293.82
+        },
+        {
+          "word": "a",
+          "start": 293.82,
+          "end": 293.94
+        },
+        {
+          "word": "question",
+          "start": 293.94,
+          "end": 294.38
+        },
+        {
+          "word": "about",
+          "start": 294.38,
+          "end": 294.72
+        },
+        {
+          "word": "this",
+          "start": 294.72,
+          "end": 295.06
+        },
+        {
+          "word": "project.",
+          "start": 295.06,
+          "end": 295.95
         }
       ]
     },
     {
       "id": 74,
-      "start": 253.12,
-      "end": 258.38,
-      "text": "Hello, this is Emilie from Customer Service.",
+      "start": 296.18,
+      "end": 298.64,
+      "text": "What do you think about this idea?",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 253.32,
-          "endSec": 253.78,
-          "score": 0.58
+          "word": "What",
+          "start": 296.18,
+          "end": 296.54
+        },
+        {
+          "word": "do",
+          "start": 296.54,
+          "end": 296.72
+        },
+        {
+          "word": "you",
+          "start": 296.72,
+          "end": 296.88
+        },
+        {
+          "word": "think",
+          "start": 296.88,
+          "end": 297.12
+        },
+        {
+          "word": "about",
+          "start": 297.12,
+          "end": 297.42
         },
         {
           "word": "this",
-          "startSec": 255.49,
-          "endSec": 255.77,
-          "score": 0.98
+          "start": 297.42,
+          "end": 297.74
         },
         {
-          "word": "is",
-          "startSec": 255.77,
-          "endSec": 255.97,
-          "score": 0.99
-        },
-        {
-          "word": "Emilie",
-          "startSec": 255.97,
-          "endSec": 256.75,
-          "score": 0.5
-        },
-        {
-          "word": "from",
-          "startSec": 256.75,
-          "endSec": 257.09,
-          "score": 0.95
-        },
-        {
-          "word": "Customer",
-          "startSec": 257.09,
-          "endSec": 257.59,
-          "score": 0.9
-        },
-        {
-          "word": "Service.",
-          "startSec": 257.59,
-          "endSec": 258.23,
-          "score": 0.97
+          "word": "idea?",
+          "start": 297.74,
+          "end": 298.64
         }
       ]
     },
     {
       "id": 75,
-      "start": 258.97,
-      "end": 260.56,
-      "text": "How can I help you?",
+      "start": 299.0,
+      "end": 301.18,
+      "text": "I agree with your suggestion.",
       "words": [
         {
-          "word": "How",
-          "startSec": 259.17,
-          "endSec": 259.43,
-          "score": 0.97
-        },
-        {
-          "word": "can",
-          "startSec": 259.43,
-          "endSec": 259.63,
-          "score": 0.99
-        },
-        {
           "word": "I",
-          "startSec": 259.63,
-          "endSec": 259.81,
-          "score": 0.99
+          "start": 299.0,
+          "end": 299.36
         },
         {
-          "word": "help",
-          "startSec": 259.81,
-          "endSec": 260.07,
-          "score": 1.0
+          "word": "agree",
+          "start": 299.36,
+          "end": 299.7
         },
         {
-          "word": "you?",
-          "startSec": 260.07,
-          "endSec": 260.41,
-          "score": 1.0
+          "word": "with",
+          "start": 299.7,
+          "end": 299.94
+        },
+        {
+          "word": "your",
+          "start": 299.94,
+          "end": 300.14
+        },
+        {
+          "word": "suggestion.",
+          "start": 300.14,
+          "end": 301.18
         }
       ]
     },
     {
       "id": 76,
-      "start": 261.43,
-      "end": 265.12,
-      "text": "Hi, I need to speak to Mr. Johnson.",
+      "start": 302.48,
+      "end": 304.14,
+      "text": "Example dialogue.",
       "words": [
         {
-          "word": "Hi,",
-          "startSec": 261.63,
-          "endSec": 262.05,
-          "score": 0.91
+          "word": "Example",
+          "start": 302.48,
+          "end": 303.36
         },
         {
-          "word": "I",
-          "startSec": 262.87,
-          "endSec": 263.17,
-          "score": 1.0
-        },
-        {
-          "word": "need",
-          "startSec": 263.17,
-          "endSec": 263.37,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 263.37,
-          "endSec": 263.57,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 263.57,
-          "endSec": 263.87,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 263.87,
-          "endSec": 264.15,
-          "score": 1.0
-        },
-        {
-          "word": "Mr.",
-          "startSec": 264.15,
-          "endSec": 264.37,
-          "score": 0.99
-        },
-        {
-          "word": "Johnson.",
-          "startSec": 264.93,
-          "endSec": 264.97,
-          "score": 0.99
+          "word": "dialogue.",
+          "start": 303.36,
+          "end": 304.14
         }
       ]
     },
     {
       "id": 77,
-      "start": 266.47,
-      "end": 270.56,
-      "text": "I'm sorry, Mr. Johnson is not available right now.",
+      "start": 304.72,
+      "end": 305.18,
+      "text": "Manager.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 266.67,
-          "endSec": 267.05,
-          "score": 0.98
-        },
-        {
-          "word": "sorry,",
-          "startSec": 267.05,
-          "endSec": 267.41,
-          "score": 1.0
-        },
-        {
-          "word": "Mr.",
-          "startSec": 267.51,
-          "endSec": 267.93,
-          "score": 0.99
-        },
-        {
-          "word": "Johnson",
-          "startSec": 268.53,
-          "endSec": 268.57,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 268.57,
-          "endSec": 268.91,
-          "score": 1.0
-        },
-        {
-          "word": "not",
-          "startSec": 268.91,
-          "endSec": 269.13,
-          "score": 1.0
-        },
-        {
-          "word": "available",
-          "startSec": 269.13,
-          "endSec": 269.45,
-          "score": 1.0
-        },
-        {
-          "word": "right",
-          "startSec": 269.45,
-          "endSec": 270.03,
-          "score": 1.0
-        },
-        {
-          "word": "now.",
-          "startSec": 270.03,
-          "endSec": 270.41,
-          "score": 1.0
+          "word": "Manager.",
+          "start": 304.72,
+          "end": 305.18
         }
       ]
     },
     {
       "id": 78,
-      "start": 270.91,
-      "end": 272.74,
-      "text": "Would you like to leave a message?",
+      "start": 305.18,
+      "end": 308.01,
+      "text": "Let's start the meeting.",
       "words": [
         {
-          "word": "Would",
-          "startSec": 271.11,
-          "endSec": 271.23,
-          "score": 0.97
+          "word": "Let's",
+          "start": 305.18,
+          "end": 306.92
         },
         {
-          "word": "you",
-          "startSec": 271.23,
-          "endSec": 271.41,
-          "score": 1.0
+          "word": "start",
+          "start": 306.92,
+          "end": 307.16
         },
         {
-          "word": "like",
-          "startSec": 271.41,
-          "endSec": 271.63,
-          "score": 1.0
+          "word": "the",
+          "start": 307.16,
+          "end": 307.38
         },
         {
-          "word": "to",
-          "startSec": 271.63,
-          "endSec": 271.81,
-          "score": 1.0
-        },
-        {
-          "word": "leave",
-          "startSec": 271.81,
-          "endSec": 271.99,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 271.99,
-          "endSec": 272.17,
-          "score": 1.0
-        },
-        {
-          "word": "message?",
-          "startSec": 272.17,
-          "endSec": 272.59,
-          "score": 1.0
+          "word": "meeting.",
+          "start": 307.38,
+          "end": 308.01
         }
       ]
     },
     {
       "id": 79,
-      "start": 274.04,
-      "end": 278.15,
-      "text": "Tip, speak slowly and clearly on the phone.",
+      "start": 308.26,
+      "end": 310.96,
+      "text": "We need to discuss the new project.",
       "words": [
         {
-          "word": "Tip,",
-          "startSec": 274.24,
-          "endSec": 274.6,
-          "score": 0.81
+          "word": "We",
+          "start": 308.26,
+          "end": 308.52
         },
         {
-          "word": "speak",
-          "startSec": 275.3,
-          "endSec": 275.8,
-          "score": 0.99
+          "word": "need",
+          "start": 308.52,
+          "end": 308.74
         },
         {
-          "word": "slowly",
-          "startSec": 275.8,
-          "endSec": 276.36,
-          "score": 1.0
+          "word": "to",
+          "start": 308.74,
+          "end": 308.92
         },
         {
-          "word": "and",
-          "startSec": 276.36,
-          "endSec": 276.82,
-          "score": 0.88
-        },
-        {
-          "word": "clearly",
-          "startSec": 276.82,
-          "endSec": 277.12,
-          "score": 1.0
-        },
-        {
-          "word": "on",
-          "startSec": 277.12,
-          "endSec": 277.52,
-          "score": 1.0
+          "word": "discuss",
+          "start": 308.92,
+          "end": 309.4
         },
         {
           "word": "the",
-          "startSec": 277.52,
-          "endSec": 277.68,
-          "score": 1.0
+          "start": 309.4,
+          "end": 309.82
         },
         {
-          "word": "phone.",
-          "startSec": 277.68,
-          "endSec": 278.0,
-          "score": 1.0
+          "word": "new",
+          "start": 309.82,
+          "end": 310.06
+        },
+        {
+          "word": "project.",
+          "start": 310.06,
+          "end": 310.96
         }
       ]
     },
     {
       "id": 80,
-      "start": 279.32,
-      "end": 282.85,
-      "text": "Four, participating in meetings.",
+      "start": 312.46,
+      "end": 314.22,
+      "text": "I have a question.",
       "words": [
         {
-          "word": "Four,",
-          "startSec": 279.52,
-          "endSec": 279.8,
-          "score": 0.33
+          "word": "I",
+          "start": 312.46,
+          "end": 313.04
         },
         {
-          "word": "participating",
-          "startSec": 280.78,
-          "endSec": 281.4,
-          "score": 0.94
+          "word": "have",
+          "start": 313.04,
+          "end": 313.24
         },
         {
-          "word": "in",
-          "startSec": 281.4,
-          "endSec": 282.32,
-          "score": 0.98
+          "word": "a",
+          "start": 313.24,
+          "end": 313.36
         },
         {
-          "word": "meetings.",
-          "startSec": 282.32,
-          "endSec": 282.7,
-          "score": 0.98
+          "word": "question.",
+          "start": 313.36,
+          "end": 314.22
         }
       ]
     },
     {
       "id": 81,
-      "start": 283.75,
-      "end": 286.14,
-      "text": "Useful phrases in meetings.",
+      "start": 314.98,
+      "end": 317.62,
+      "text": "What is the deadline for this project?",
       "words": [
         {
-          "word": "Useful",
-          "startSec": 283.95,
-          "endSec": 284.67,
-          "score": 0.0
+          "word": "What",
+          "start": 314.98,
+          "end": 315.24
         },
         {
-          "word": "phrases",
-          "startSec": 284.67,
-          "endSec": 285.19,
-          "score": 0.82
+          "word": "is",
+          "start": 315.24,
+          "end": 315.46
         },
         {
-          "word": "in",
-          "startSec": 285.19,
-          "endSec": 285.75,
-          "score": 0.68
+          "word": "the",
+          "start": 315.46,
+          "end": 315.62
         },
         {
-          "word": "meetings.",
-          "startSec": 285.75,
-          "endSec": 285.99,
-          "score": 0.84
+          "word": "deadline",
+          "start": 315.62,
+          "end": 316.02
+        },
+        {
+          "word": "for",
+          "start": 316.02,
+          "end": 316.4
+        },
+        {
+          "word": "this",
+          "start": 316.4,
+          "end": 316.66
+        },
+        {
+          "word": "project?",
+          "start": 316.66,
+          "end": 317.62
         }
       ]
     },
     {
       "id": 82,
-      "start": 286.76,
-      "end": 288.65,
-      "text": "Shall we start the meeting?",
+      "start": 318.16,
+      "end": 320.26,
+      "text": "The deadline is next Friday.",
       "words": [
         {
-          "word": "Shall",
-          "startSec": 286.96,
-          "endSec": 287.36,
-          "score": 0.74
+          "word": "The",
+          "start": 318.16,
+          "end": 318.28
         },
         {
-          "word": "we",
-          "startSec": 287.36,
-          "endSec": 287.58,
-          "score": 1.0
+          "word": "deadline",
+          "start": 318.28,
+          "end": 318.72
         },
         {
-          "word": "start",
-          "startSec": 287.58,
-          "endSec": 287.88,
-          "score": 1.0
+          "word": "is",
+          "start": 318.72,
+          "end": 319.12
         },
         {
-          "word": "the",
-          "startSec": 287.88,
-          "endSec": 288.14,
-          "score": 1.0
+          "word": "next",
+          "start": 319.12,
+          "end": 319.4
         },
         {
-          "word": "meeting?",
-          "startSec": 288.14,
-          "endSec": 288.5,
-          "score": 1.0
+          "word": "Friday.",
+          "start": 319.4,
+          "end": 320.26
         }
       ]
     },
     {
       "id": 83,
-      "start": 289.44,
-      "end": 291.95,
-      "text": "Let's discuss the first topic.",
+      "start": 320.9,
+      "end": 325.56,
+      "text": "Tip, take notes and listen carefully during meetings.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 289.64,
-          "endSec": 290.06,
-          "score": 0.92
+          "word": "Tip,",
+          "start": 320.9,
+          "end": 321.34
         },
         {
-          "word": "discuss",
-          "startSec": 290.06,
-          "endSec": 290.52,
-          "score": 1.0
+          "word": "take",
+          "start": 322.06,
+          "end": 322.2
         },
         {
-          "word": "the",
-          "startSec": 290.52,
-          "endSec": 290.96,
-          "score": 0.99
+          "word": "notes",
+          "start": 322.2,
+          "end": 322.68
         },
         {
-          "word": "first",
-          "startSec": 290.96,
-          "endSec": 291.24,
-          "score": 0.99
+          "word": "and",
+          "start": 322.68,
+          "end": 323.08
         },
         {
-          "word": "topic.",
-          "startSec": 291.24,
-          "endSec": 291.8,
-          "score": 1.0
+          "word": "listen",
+          "start": 323.08,
+          "end": 323.44
+        },
+        {
+          "word": "carefully",
+          "start": 323.44,
+          "end": 324.06
+        },
+        {
+          "word": "during",
+          "start": 324.06,
+          "end": 324.72
+        },
+        {
+          "word": "meetings.",
+          "start": 324.72,
+          "end": 325.56
         }
       ]
     },
     {
       "id": 84,
-      "start": 293.31,
-      "end": 295.5,
-      "text": "I have a question about this project.",
+      "start": 328.88,
+      "end": 332.62,
+      "text": "Five, writing professional emails.",
       "words": [
         {
-          "word": "I",
-          "startSec": 293.51,
-          "endSec": 293.57,
-          "score": 0.81
+          "word": "Five,",
+          "start": 328.88,
+          "end": 329.76
         },
         {
-          "word": "have",
-          "startSec": 293.57,
-          "endSec": 293.77,
-          "score": 1.0
+          "word": "writing",
+          "start": 330.58,
+          "end": 331.04
         },
         {
-          "word": "a",
-          "startSec": 293.77,
-          "endSec": 293.91,
-          "score": 1.0
+          "word": "professional",
+          "start": 331.04,
+          "end": 331.7
         },
         {
-          "word": "question",
-          "startSec": 293.91,
-          "endSec": 294.31,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 294.31,
-          "endSec": 294.69,
-          "score": 1.0
-        },
-        {
-          "word": "this",
-          "startSec": 294.69,
-          "endSec": 294.99,
-          "score": 1.0
-        },
-        {
-          "word": "project.",
-          "startSec": 294.99,
-          "endSec": 295.35,
-          "score": 1.0
+          "word": "emails.",
+          "start": 331.7,
+          "end": 332.62
         }
       ]
     },
     {
       "id": 85,
-      "start": 295.97,
-      "end": 298.24,
-      "text": "What do you think about this idea?",
+      "start": 332.62,
+      "end": 335.86,
+      "text": "Basic email structure.",
       "words": [
         {
-          "word": "What",
-          "startSec": 296.17,
-          "endSec": 296.47,
-          "score": 0.91
+          "word": "Basic",
+          "start": 332.62,
+          "end": 334.2
         },
         {
-          "word": "do",
-          "startSec": 296.47,
-          "endSec": 296.69,
-          "score": 1.0
+          "word": "email",
+          "start": 334.2,
+          "end": 334.84
         },
         {
-          "word": "you",
-          "startSec": 296.69,
-          "endSec": 296.81,
-          "score": 1.0
-        },
-        {
-          "word": "think",
-          "startSec": 296.81,
-          "endSec": 297.07,
-          "score": 1.0
-        },
-        {
-          "word": "about",
-          "startSec": 297.07,
-          "endSec": 297.37,
-          "score": 0.99
-        },
-        {
-          "word": "this",
-          "startSec": 297.37,
-          "endSec": 297.65,
-          "score": 1.0
-        },
-        {
-          "word": "idea?",
-          "startSec": 297.65,
-          "endSec": 298.09,
-          "score": 1.0
+          "word": "structure.",
+          "start": 334.84,
+          "end": 335.86
         }
       ]
     },
     {
       "id": 86,
-      "start": 298.87,
-      "end": 300.74,
-      "text": "I agree with your suggestion.",
+      "start": 336.08,
+      "end": 336.98,
+      "text": "Dear Mr.",
       "words": [
         {
-          "word": "I",
-          "startSec": 299.07,
-          "endSec": 299.31,
-          "score": 0.96
+          "word": "Dear",
+          "start": 336.08,
+          "end": 336.52
         },
         {
-          "word": "agree",
-          "startSec": 299.31,
-          "endSec": 299.55,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 299.55,
-          "endSec": 299.87,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 299.87,
-          "endSec": 300.09,
-          "score": 1.0
-        },
-        {
-          "word": "suggestion.",
-          "startSec": 300.09,
-          "endSec": 300.59,
-          "score": 1.0
+          "word": "Mr.",
+          "start": 336.52,
+          "end": 336.98
         }
       ]
     },
     {
       "id": 87,
-      "start": 302.38,
-      "end": 303.71,
-      "text": "Example dialogue.",
+      "start": 337.08,
+      "end": 338.84,
+      "text": "Smith, introduction.",
       "words": [
         {
-          "word": "Example",
-          "startSec": 302.58,
-          "endSec": 303.04,
-          "score": 0.35
+          "word": "Smith,",
+          "start": 337.08,
+          "end": 337.38
         },
         {
-          "word": "dialogue.",
-          "startSec": 303.04,
-          "endSec": 303.56,
-          "score": 0.43
+          "word": "introduction.",
+          "start": 337.88,
+          "end": 338.84
         }
       ]
     },
     {
       "id": 88,
-      "start": 306.06,
-      "end": 307.77,
-      "text": "Let's start the meeting.",
+      "start": 339.84,
+      "end": 341.88,
+      "text": "I hope you are doing well.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 306.26,
-          "endSec": 306.88,
-          "score": 0.99
+          "word": "I",
+          "start": 339.84,
+          "end": 340.1
         },
         {
-          "word": "start",
-          "startSec": 306.88,
-          "endSec": 307.08,
-          "score": 1.0
+          "word": "hope",
+          "start": 340.1,
+          "end": 340.38
         },
         {
-          "word": "the",
-          "startSec": 307.08,
-          "endSec": 307.32,
-          "score": 1.0
+          "word": "you",
+          "start": 340.38,
+          "end": 340.66
         },
         {
-          "word": "meeting.",
-          "startSec": 307.32,
-          "endSec": 307.62,
-          "score": 1.0
+          "word": "are",
+          "start": 340.66,
+          "end": 340.78
+        },
+        {
+          "word": "doing",
+          "start": 340.78,
+          "end": 341.04
+        },
+        {
+          "word": "well.",
+          "start": 341.04,
+          "end": 341.88
         }
       ]
     },
     {
       "id": 89,
-      "start": 308.16,
-      "end": 310.63,
-      "text": "We need to discuss the new project.",
+      "start": 342.32,
+      "end": 343.86,
+      "text": "Main message.",
       "words": [
         {
-          "word": "We",
-          "startSec": 308.36,
-          "endSec": 308.48,
-          "score": 0.99
+          "word": "Main",
+          "start": 342.32,
+          "end": 342.9
         },
         {
-          "word": "need",
-          "startSec": 308.48,
-          "endSec": 308.68,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 308.68,
-          "endSec": 308.88,
-          "score": 1.0
-        },
-        {
-          "word": "discuss",
-          "startSec": 308.88,
-          "endSec": 309.28,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 309.28,
-          "endSec": 309.78,
-          "score": 1.0
-        },
-        {
-          "word": "new",
-          "startSec": 309.78,
-          "endSec": 309.96,
-          "score": 1.0
-        },
-        {
-          "word": "project.",
-          "startSec": 309.96,
-          "endSec": 310.48,
-          "score": 1.0
+          "word": "message.",
+          "start": 342.9,
+          "end": 343.86
         }
       ]
     },
     {
       "id": 90,
-      "start": 312.61,
-      "end": 313.92,
-      "text": "I have a question.",
+      "start": 344.22,
+      "end": 350.42,
+      "text": "I am writing to ask about best regards, Emilie.",
       "words": [
         {
           "word": "I",
-          "startSec": 312.81,
-          "endSec": 312.99,
-          "score": 0.99
+          "start": 344.22,
+          "end": 344.58
         },
         {
-          "word": "have",
-          "startSec": 312.99,
-          "endSec": 313.17,
-          "score": 1.0
+          "word": "am",
+          "start": 344.58,
+          "end": 345.46
         },
         {
-          "word": "a",
-          "startSec": 313.17,
-          "endSec": 313.31,
-          "score": 1.0
+          "word": "writing",
+          "start": 345.46,
+          "end": 345.88
         },
         {
-          "word": "question.",
-          "startSec": 313.31,
-          "endSec": 313.77,
-          "score": 1.0
+          "word": "to",
+          "start": 345.88,
+          "end": 346.2
+        },
+        {
+          "word": "ask",
+          "start": 346.2,
+          "end": 346.6
+        },
+        {
+          "word": "about",
+          "start": 346.6,
+          "end": 347.12
+        },
+        {
+          "word": "best",
+          "start": 347.12,
+          "end": 348.38
+        },
+        {
+          "word": "regards,",
+          "start": 348.38,
+          "end": 349.0
+        },
+        {
+          "word": "Emilie.",
+          "start": 349.36,
+          "end": 350.42
         }
       ]
     },
     {
       "id": 91,
-      "start": 314.58,
-      "end": 317.23,
-      "text": "What is the deadline for this project?",
+      "start": 352.28,
+      "end": 356.98,
+      "text": "Tip, keep emails short and professional.",
       "words": [
         {
-          "word": "What",
-          "startSec": 314.78,
-          "endSec": 315.2,
-          "score": 0.4
+          "word": "Tip,",
+          "start": 352.28,
+          "end": 353.32
         },
         {
-          "word": "is",
-          "startSec": 315.2,
-          "endSec": 315.4,
-          "score": 0.98
+          "word": "keep",
+          "start": 354.36,
+          "end": 354.64
         },
         {
-          "word": "the",
-          "startSec": 315.4,
-          "endSec": 315.58,
-          "score": 0.99
+          "word": "emails",
+          "start": 354.64,
+          "end": 355.16
         },
         {
-          "word": "deadline",
-          "startSec": 315.58,
-          "endSec": 315.96,
-          "score": 0.98
+          "word": "short",
+          "start": 355.16,
+          "end": 355.76
         },
         {
-          "word": "for",
-          "startSec": 315.96,
-          "endSec": 316.36,
-          "score": 1.0
+          "word": "and",
+          "start": 355.76,
+          "end": 356.04
         },
         {
-          "word": "this",
-          "startSec": 316.36,
-          "endSec": 316.6,
-          "score": 0.99
-        },
-        {
-          "word": "project?",
-          "startSec": 316.6,
-          "endSec": 317.08,
-          "score": 1.0
+          "word": "professional.",
+          "start": 356.04,
+          "end": 356.98
         }
       ]
     },
     {
       "id": 92,
-      "start": 317.96,
-      "end": 319.93,
-      "text": "The deadline is next Friday.",
+      "start": 358.14,
+      "end": 362.9,
+      "text": "Six, talking to your boss and colleagues.",
       "words": [
         {
-          "word": "The",
-          "startSec": 318.16,
-          "endSec": 318.24,
-          "score": 0.96
+          "word": "Six,",
+          "start": 358.14,
+          "end": 359.18
         },
         {
-          "word": "deadline",
-          "startSec": 318.24,
-          "endSec": 318.64,
-          "score": 1.0
+          "word": "talking",
+          "start": 360.34,
+          "end": 360.8
         },
         {
-          "word": "is",
-          "startSec": 318.64,
-          "endSec": 319.06,
-          "score": 1.0
+          "word": "to",
+          "start": 360.8,
+          "end": 361.1
         },
         {
-          "word": "next",
-          "startSec": 319.06,
-          "endSec": 319.28,
-          "score": 1.0
+          "word": "your",
+          "start": 361.1,
+          "end": 361.28
         },
         {
-          "word": "Friday.",
-          "startSec": 319.28,
-          "endSec": 319.78,
-          "score": 1.0
+          "word": "boss",
+          "start": 361.28,
+          "end": 361.6
+        },
+        {
+          "word": "and",
+          "start": 361.6,
+          "end": 361.88
+        },
+        {
+          "word": "colleagues.",
+          "start": 361.88,
+          "end": 362.9
         }
       ]
     },
     {
       "id": 93,
-      "start": 320.81,
-      "end": 325.28,
-      "text": "Tip, take notes and listen carefully during meetings.",
+      "start": 363.58,
+      "end": 366.22,
+      "text": "Being polite in conversations.",
       "words": [
         {
-          "word": "Tip,",
-          "startSec": 321.01,
-          "endSec": 321.37,
-          "score": 0.65
+          "word": "Being",
+          "start": 363.58,
+          "end": 364.46
         },
         {
-          "word": "take",
-          "startSec": 321.79,
-          "endSec": 322.15,
-          "score": 0.93
+          "word": "polite",
+          "start": 364.46,
+          "end": 364.94
         },
         {
-          "word": "notes",
-          "startSec": 322.15,
-          "endSec": 322.57,
-          "score": 0.99
+          "word": "in",
+          "start": 364.94,
+          "end": 365.24
         },
         {
-          "word": "and",
-          "startSec": 322.57,
-          "endSec": 323.01,
-          "score": 0.69
-        },
-        {
-          "word": "listen",
-          "startSec": 323.01,
-          "endSec": 323.37,
-          "score": 1.0
-        },
-        {
-          "word": "carefully",
-          "startSec": 323.37,
-          "endSec": 323.95,
-          "score": 1.0
-        },
-        {
-          "word": "during",
-          "startSec": 323.95,
-          "endSec": 324.65,
-          "score": 0.99
-        },
-        {
-          "word": "meetings.",
-          "startSec": 324.65,
-          "endSec": 325.13,
-          "score": 0.99
+          "word": "conversations.",
+          "start": 365.24,
+          "end": 366.22
         }
       ]
     },
     {
       "id": 94,
-      "start": 330.4,
-      "end": 332.67,
-      "text": "Writing professional emails.",
+      "start": 366.9,
+      "end": 368.32,
+      "text": "Excuse me.",
       "words": [
         {
-          "word": "Writing",
-          "startSec": 330.6,
-          "endSec": 330.9,
-          "score": 0.92
+          "word": "Excuse",
+          "start": 366.9,
+          "end": 367.36
         },
         {
-          "word": "professional",
-          "startSec": 330.9,
-          "endSec": 331.64,
-          "score": 0.74
-        },
-        {
-          "word": "emails.",
-          "startSec": 331.64,
-          "endSec": 332.52,
-          "score": 0.93
+          "word": "me.",
+          "start": 367.36,
+          "end": 368.32
         }
       ]
     },
     {
       "id": 95,
-      "start": 333.46,
-      "end": 335.43,
-      "text": "Basic email structure.",
+      "start": 368.58,
+      "end": 370.28,
+      "text": "Do you have a moment?",
       "words": [
         {
-          "word": "Basic",
-          "startSec": 333.66,
-          "endSec": 334.2,
-          "score": 1.0
+          "word": "Do",
+          "start": 368.58,
+          "end": 368.92
         },
         {
-          "word": "email",
-          "startSec": 334.2,
-          "endSec": 334.68,
-          "score": 0.95
+          "word": "you",
+          "start": 368.92,
+          "end": 369.1
         },
         {
-          "word": "structure.",
-          "startSec": 334.68,
-          "endSec": 335.28,
-          "score": 0.99
+          "word": "have",
+          "start": 369.1,
+          "end": 369.34
+        },
+        {
+          "word": "a",
+          "start": 369.34,
+          "end": 369.48
+        },
+        {
+          "word": "moment?",
+          "start": 369.48,
+          "end": 370.28
         }
       ]
     },
     {
       "id": 96,
-      "start": 336.04,
-      "end": 338.33,
-      "text": "Dear Mr. Smith, introduction.",
+      "start": 370.82,
+      "end": 372.96,
+      "text": "Thank you for your help.",
       "words": [
         {
-          "word": "Dear",
-          "startSec": 336.24,
-          "endSec": 336.48,
-          "score": 0.97
+          "word": "Thank",
+          "start": 370.82,
+          "end": 371.5
         },
         {
-          "word": "Mr.",
-          "startSec": 336.48,
-          "endSec": 336.74,
-          "score": 0.97
+          "word": "you",
+          "start": 371.5,
+          "end": 371.72
         },
         {
-          "word": "Smith,",
-          "startSec": 337.32,
-          "endSec": 337.36,
-          "score": 1.0
+          "word": "for",
+          "start": 371.72,
+          "end": 371.94
         },
         {
-          "word": "introduction.",
-          "startSec": 337.94,
-          "endSec": 338.18,
-          "score": 0.81
+          "word": "your",
+          "start": 371.94,
+          "end": 372.12
+        },
+        {
+          "word": "help.",
+          "start": 372.12,
+          "end": 372.96
         }
       ]
     },
     {
       "id": 97,
-      "start": 339.74,
-      "end": 341.59,
-      "text": "I hope you are doing well.",
+      "start": 373.5,
+      "end": 375.58,
+      "text": "I really appreciate it.",
       "words": [
         {
           "word": "I",
-          "startSec": 339.94,
-          "endSec": 340.06,
-          "score": 1.0
+          "start": 373.5,
+          "end": 373.82
         },
         {
-          "word": "hope",
-          "startSec": 340.06,
-          "endSec": 340.34,
-          "score": 1.0
+          "word": "really",
+          "start": 373.82,
+          "end": 374.24
         },
         {
-          "word": "you",
-          "startSec": 340.34,
-          "endSec": 340.6,
-          "score": 1.0
+          "word": "appreciate",
+          "start": 374.24,
+          "end": 374.76
         },
         {
-          "word": "are",
-          "startSec": 340.6,
-          "endSec": 340.74,
-          "score": 0.99
-        },
-        {
-          "word": "doing",
-          "startSec": 340.74,
-          "endSec": 341.02,
-          "score": 1.0
-        },
-        {
-          "word": "well.",
-          "startSec": 341.02,
-          "endSec": 341.44,
-          "score": 1.0
+          "word": "it.",
+          "start": 374.76,
+          "end": 375.58
         }
       ]
     },
     {
       "id": 98,
-      "start": 342.28,
-      "end": 343.49,
-      "text": "Main message.",
+      "start": 375.78,
+      "end": 377.74,
+      "text": "I'm sorry for the mistake.",
       "words": [
         {
-          "word": "Main",
-          "startSec": 342.48,
-          "endSec": 342.78,
-          "score": 0.9
+          "word": "I'm",
+          "start": 375.78,
+          "end": 376.0
         },
         {
-          "word": "message.",
-          "startSec": 342.78,
-          "endSec": 343.34,
-          "score": 0.98
+          "word": "sorry",
+          "start": 376.0,
+          "end": 376.5
+        },
+        {
+          "word": "for",
+          "start": 376.5,
+          "end": 376.76
+        },
+        {
+          "word": "the",
+          "start": 376.76,
+          "end": 376.92
+        },
+        {
+          "word": "mistake.",
+          "start": 376.92,
+          "end": 377.74
         }
       ]
     },
     {
       "id": 99,
-      "start": 344.08,
-      "end": 347.17,
-      "text": "I am writing to ask about",
+      "start": 377.98,
+      "end": 379.58,
+      "text": "I will fix it.",
       "words": [
         {
           "word": "I",
-          "startSec": 344.28,
-          "endSec": 344.5,
-          "score": 0.99
+          "start": 377.98,
+          "end": 378.18
         },
         {
-          "word": "am",
-          "startSec": 344.5,
-          "endSec": 345.42,
-          "score": 0.98
+          "word": "will",
+          "start": 378.18,
+          "end": 378.42
         },
         {
-          "word": "writing",
-          "startSec": 345.42,
-          "endSec": 345.76,
-          "score": 0.99
+          "word": "fix",
+          "start": 378.42,
+          "end": 378.74
         },
         {
-          "word": "to",
-          "startSec": 345.76,
-          "endSec": 346.16,
-          "score": 1.0
-        },
-        {
-          "word": "ask",
-          "startSec": 346.16,
-          "endSec": 346.42,
-          "score": 0.99
-        },
-        {
-          "word": "about",
-          "startSec": 346.42,
-          "endSec": 347.02,
-          "score": 1.0
+          "word": "it.",
+          "start": 378.74,
+          "end": 379.58
         }
       ]
     },
     {
       "id": 100,
-      "start": 346.82,
-      "end": 349.85,
-      "text": "best regards immediately.",
+      "start": 380.56,
+      "end": 382.32,
+      "text": "Example dialogue.",
       "words": [
         {
-          "word": "best",
-          "startSec": 347.02,
-          "endSec": 348.14,
-          "score": 0.0
+          "word": "Example",
+          "start": 380.56,
+          "end": 381.42
         },
         {
-          "word": "regards",
-          "startSec": 348.3,
-          "endSec": 348.8,
-          "score": 0.94
-        },
-        {
-          "word": "immediately.",
-          "startSec": 348.8,
-          "endSec": 349.7,
-          "score": 0.29
+          "word": "dialogue.",
+          "start": 381.42,
+          "end": 382.32
         }
       ]
     },
     {
       "id": 101,
-      "start": 352.76,
-      "end": 356.53,
-      "text": "Tip, keep emails short and professional.",
+      "start": 383.1,
+      "end": 384.15,
+      "text": "Emilie.",
       "words": [
         {
-          "word": "Tip,",
-          "startSec": 352.96,
-          "endSec": 353.34,
-          "score": 0.58
-        },
-        {
-          "word": "keep",
-          "startSec": 354.22,
-          "endSec": 354.62,
-          "score": 0.97
-        },
-        {
-          "word": "emails",
-          "startSec": 354.62,
-          "endSec": 355.06,
-          "score": 0.91
-        },
-        {
-          "word": "short",
-          "startSec": 355.06,
-          "endSec": 355.66,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 355.66,
-          "endSec": 356.0,
-          "score": 0.99
-        },
-        {
-          "word": "professional.",
-          "startSec": 356.0,
-          "endSec": 356.38,
-          "score": 1.0
+          "word": "Emilie.",
+          "start": 383.1,
+          "end": 384.15
         }
       ]
     },
     {
       "id": 102,
-      "start": 358.47,
-      "end": 362.51,
-      "text": "Six, talking to your boss and colleagues.",
+      "start": 384.38,
+      "end": 385.64,
+      "text": "Excuse me, Mr.",
       "words": [
         {
-          "word": "Six,",
-          "startSec": 358.67,
-          "endSec": 359.03,
-          "score": 0.46
+          "word": "Excuse",
+          "start": 384.38,
+          "end": 384.84
         },
         {
-          "word": "talking",
-          "startSec": 360.18,
-          "endSec": 360.78,
-          "score": 0.96
+          "word": "me,",
+          "start": 384.84,
+          "end": 385.22
         },
         {
-          "word": "to",
-          "startSec": 360.78,
-          "endSec": 361.06,
-          "score": 1.0
-        },
-        {
-          "word": "your",
-          "startSec": 361.06,
-          "endSec": 361.22,
-          "score": 1.0
-        },
-        {
-          "word": "boss",
-          "startSec": 361.22,
-          "endSec": 361.52,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 361.52,
-          "endSec": 361.82,
-          "score": 1.0
-        },
-        {
-          "word": "colleagues.",
-          "startSec": 361.82,
-          "endSec": 362.36,
-          "score": 1.0
+          "word": "Mr.",
+          "start": 385.3,
+          "end": 385.64
         }
       ]
     },
     {
       "id": 103,
-      "start": 363.87,
-      "end": 365.82,
-      "text": "Being polite in conversations.",
+      "start": 385.72,
+      "end": 386.21,
+      "text": "Brown.",
       "words": [
         {
-          "word": "Being",
-          "startSec": 364.07,
-          "endSec": 364.49,
-          "score": 0.99
-        },
-        {
-          "word": "polite",
-          "startSec": 364.49,
-          "endSec": 364.83,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 364.83,
-          "endSec": 365.17,
-          "score": 0.85
-        },
-        {
-          "word": "conversations.",
-          "startSec": 365.17,
-          "endSec": 365.67,
-          "score": 0.99
+          "word": "Brown.",
+          "start": 385.72,
+          "end": 386.21
         }
       ]
     },
     {
       "id": 104,
-      "start": 366.71,
-      "end": 368.04,
-      "text": "Excuse me.",
+      "start": 386.42,
+      "end": 387.74,
+      "text": "Do you have a moment?",
       "words": [
         {
-          "word": "Excuse",
-          "startSec": 366.91,
-          "endSec": 367.57,
-          "score": 1.0
+          "word": "Do",
+          "start": 386.42,
+          "end": 386.5
         },
         {
-          "word": "me.",
-          "startSec": 367.57,
-          "endSec": 367.89,
-          "score": 1.0
+          "word": "you",
+          "start": 386.5,
+          "end": 386.64
+        },
+        {
+          "word": "have",
+          "start": 386.64,
+          "end": 386.84
+        },
+        {
+          "word": "a",
+          "start": 386.84,
+          "end": 386.96
+        },
+        {
+          "word": "moment?",
+          "start": 386.96,
+          "end": 387.74
         }
       ]
     },
     {
       "id": 105,
-      "start": 368.35,
-      "end": 370.02,
-      "text": "Do you have a moment?",
+      "start": 388.2,
+      "end": 389.64,
+      "text": "Yes, Emilie.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 368.55,
-          "endSec": 368.89,
-          "score": 0.99
+          "word": "Yes,",
+          "start": 388.2,
+          "end": 388.84
         },
         {
-          "word": "you",
-          "startSec": 368.89,
-          "endSec": 369.03,
-          "score": 1.0
-        },
-        {
-          "word": "have",
-          "startSec": 369.03,
-          "endSec": 369.31,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 369.31,
-          "endSec": 369.43,
-          "score": 1.0
-        },
-        {
-          "word": "moment?",
-          "startSec": 369.43,
-          "endSec": 369.87,
-          "score": 1.0
+          "word": "Emilie.",
+          "start": 389.12,
+          "end": 389.64
         }
       ]
     },
     {
       "id": 106,
-      "start": 370.78,
-      "end": 372.57,
-      "text": "Thank you for your help.",
+      "start": 389.64,
+      "end": 392.08,
+      "text": "How can I help you?",
       "words": [
         {
-          "word": "Thank",
-          "startSec": 370.98,
-          "endSec": 371.4,
-          "score": 1.0
+          "word": "How",
+          "start": 389.64,
+          "end": 390.7
         },
         {
-          "word": "you",
-          "startSec": 371.4,
-          "endSec": 371.7,
-          "score": 1.0
+          "word": "can",
+          "start": 390.7,
+          "end": 390.94
         },
         {
-          "word": "for",
-          "startSec": 371.7,
-          "endSec": 371.88,
-          "score": 1.0
+          "word": "I",
+          "start": 390.94,
+          "end": 391.08
         },
         {
-          "word": "your",
-          "startSec": 371.88,
-          "endSec": 372.08,
-          "score": 1.0
+          "word": "help",
+          "start": 391.08,
+          "end": 391.32
         },
         {
-          "word": "help.",
-          "startSec": 372.08,
-          "endSec": 372.42,
-          "score": 1.0
+          "word": "you?",
+          "start": 391.32,
+          "end": 392.08
         }
       ]
     },
     {
       "id": 107,
-      "start": 373.3,
-      "end": 375.39,
-      "text": "I really appreciate it.",
+      "start": 392.88,
+      "end": 396.14,
+      "text": "I have a question about the client's request.",
       "words": [
         {
           "word": "I",
-          "startSec": 373.5,
-          "endSec": 373.78,
-          "score": 1.0
+          "start": 392.88,
+          "end": 393.22
         },
         {
-          "word": "really",
-          "startSec": 373.78,
-          "endSec": 374.12,
-          "score": 1.0
+          "word": "have",
+          "start": 393.22,
+          "end": 393.46
         },
         {
-          "word": "appreciate",
-          "startSec": 374.12,
-          "endSec": 374.86,
-          "score": 0.99
+          "word": "a",
+          "start": 393.46,
+          "end": 393.58
         },
         {
-          "word": "it.",
-          "startSec": 374.86,
-          "endSec": 375.24,
-          "score": 1.0
+          "word": "question",
+          "start": 393.58,
+          "end": 394.06
+        },
+        {
+          "word": "about",
+          "start": 394.06,
+          "end": 394.46
+        },
+        {
+          "word": "the",
+          "start": 394.46,
+          "end": 394.74
+        },
+        {
+          "word": "client's",
+          "start": 394.74,
+          "end": 395.34
+        },
+        {
+          "word": "request.",
+          "start": 395.34,
+          "end": 396.14
         }
       ]
     },
     {
       "id": 108,
-      "start": 375.52,
-      "end": 377.39,
-      "text": "I'm sorry for the mistake.",
+      "start": 396.52,
+      "end": 397.34,
+      "text": "Sure.",
       "words": [
         {
-          "word": "I'm",
-          "startSec": 375.72,
-          "endSec": 375.96,
-          "score": 1.0
-        },
-        {
-          "word": "sorry",
-          "startSec": 375.96,
-          "endSec": 376.36,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 376.36,
-          "endSec": 376.7,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 376.7,
-          "endSec": 376.9,
-          "score": 1.0
-        },
-        {
-          "word": "mistake.",
-          "startSec": 376.9,
-          "endSec": 377.24,
-          "score": 1.0
+          "word": "Sure.",
+          "start": 396.52,
+          "end": 397.34
         }
       ]
     },
     {
       "id": 109,
-      "start": 377.72,
-      "end": 379.25,
-      "text": "I will fix it.",
+      "start": 398.2,
+      "end": 400.18,
+      "text": "Let's discuss it.",
       "words": [
         {
-          "word": "I",
-          "startSec": 377.92,
-          "endSec": 378.14,
-          "score": 1.0
+          "word": "Let's",
+          "start": 398.2,
+          "end": 398.98
         },
         {
-          "word": "will",
-          "startSec": 378.14,
-          "endSec": 378.38,
-          "score": 1.0
-        },
-        {
-          "word": "fix",
-          "startSec": 378.38,
-          "endSec": 378.68,
-          "score": 1.0
+          "word": "discuss",
+          "start": 398.98,
+          "end": 399.36
         },
         {
           "word": "it.",
-          "startSec": 378.68,
-          "endSec": 379.1,
-          "score": 1.0
+          "start": 399.36,
+          "end": 400.18
         }
       ]
     },
     {
       "id": 110,
-      "start": 380.72,
-      "end": 381.77,
-      "text": "Example dialogue.",
+      "start": 400.72,
+      "end": 405.46,
+      "text": "Tip, always be respectful when speaking to your boss.",
       "words": [
         {
-          "word": "Example",
-          "startSec": 380.92,
-          "endSec": 381.32,
-          "score": 0.08
+          "word": "Tip,",
+          "start": 400.72,
+          "end": 401.02
         },
         {
-          "word": "dialogue.",
-          "startSec": 381.32,
-          "endSec": 381.62,
-          "score": 0.5
+          "word": "always",
+          "start": 401.7,
+          "end": 402.08
+        },
+        {
+          "word": "be",
+          "start": 402.08,
+          "end": 402.52
+        },
+        {
+          "word": "respectful",
+          "start": 402.52,
+          "end": 403.22
+        },
+        {
+          "word": "when",
+          "start": 403.22,
+          "end": 403.74
+        },
+        {
+          "word": "speaking",
+          "start": 403.74,
+          "end": 404.18
+        },
+        {
+          "word": "to",
+          "start": 404.18,
+          "end": 404.5
+        },
+        {
+          "word": "your",
+          "start": 404.5,
+          "end": 404.68
+        },
+        {
+          "word": "boss.",
+          "start": 404.68,
+          "end": 405.46
         }
       ]
     },
     {
       "id": 111,
-      "start": 382.79,
-      "end": 383.62,
-      "text": "Emily.",
+      "start": 408.5,
+      "end": 411.54,
+      "text": "Final tips for English at work.",
       "words": [
         {
-          "word": "Emily.",
-          "startSec": 382.99,
-          "endSec": 383.47,
-          "score": 0.72
+          "word": "Final",
+          "start": 408.5,
+          "end": 409.38
+        },
+        {
+          "word": "tips",
+          "start": 409.38,
+          "end": 409.78
+        },
+        {
+          "word": "for",
+          "start": 409.78,
+          "end": 410.14
+        },
+        {
+          "word": "English",
+          "start": 410.14,
+          "end": 410.5
+        },
+        {
+          "word": "at",
+          "start": 410.5,
+          "end": 410.82
+        },
+        {
+          "word": "work.",
+          "start": 410.82,
+          "end": 411.54
         }
       ]
     },
     {
       "id": 112,
-      "start": 384.15,
-      "end": 386.0,
-      "text": "Excuse me, Mr. Brown.",
+      "start": 412.0,
+      "end": 414.83,
+      "text": "Practice common office phrases.",
       "words": [
         {
-          "word": "Excuse",
-          "startSec": 384.35,
-          "endSec": 384.93,
-          "score": 0.98
+          "word": "Practice",
+          "start": 412.0,
+          "end": 412.62
         },
         {
-          "word": "me,",
-          "startSec": 384.93,
-          "endSec": 385.17,
-          "score": 0.99
+          "word": "common",
+          "start": 412.62,
+          "end": 413.32
         },
         {
-          "word": "Mr.",
-          "startSec": 385.17,
-          "endSec": 385.51,
-          "score": 0.96
+          "word": "office",
+          "start": 413.32,
+          "end": 413.82
         },
         {
-          "word": "Brown.",
-          "startSec": 385.85,
-          "endSec": 385.85,
-          "score": 0.99
+          "word": "phrases.",
+          "start": 413.82,
+          "end": 414.83
         }
       ]
     },
     {
       "id": 113,
-      "start": 386.23,
-      "end": 387.48,
-      "text": "Do you have a moment?",
+      "start": 415.04,
+      "end": 417.36,
+      "text": "Speak clearly and confidently.",
       "words": [
         {
-          "word": "Do",
-          "startSec": 386.43,
-          "endSec": 386.45,
-          "score": 1.0
+          "word": "Speak",
+          "start": 415.04,
+          "end": 415.44
         },
         {
-          "word": "you",
-          "startSec": 386.45,
-          "endSec": 386.57,
-          "score": 1.0
+          "word": "clearly",
+          "start": 415.44,
+          "end": 416.22
         },
         {
-          "word": "have",
-          "startSec": 386.57,
-          "endSec": 386.79,
-          "score": 1.0
+          "word": "and",
+          "start": 416.22,
+          "end": 416.74
         },
         {
-          "word": "a",
-          "startSec": 386.79,
-          "endSec": 386.91,
-          "score": 1.0
-        },
-        {
-          "word": "moment?",
-          "startSec": 386.91,
-          "endSec": 387.33,
-          "score": 1.0
+          "word": "confidently.",
+          "start": 416.74,
+          "end": 417.36
         }
       ]
     },
     {
       "id": 114,
-      "start": 388.0,
-      "end": 389.47,
-      "text": "Yes, Emily.",
+      "start": 417.36,
+      "end": 422.66,
+      "text": "Use polite language with colleagues and managers.",
       "words": [
         {
-          "word": "Yes,",
-          "startSec": 388.2,
-          "endSec": 388.74,
-          "score": 0.99
+          "word": "Use",
+          "start": 417.36,
+          "end": 418.98
         },
         {
-          "word": "Emily.",
-          "startSec": 388.9,
-          "endSec": 389.32,
-          "score": 1.0
+          "word": "polite",
+          "start": 418.98,
+          "end": 419.46
+        },
+        {
+          "word": "language",
+          "start": 419.46,
+          "end": 420.12
+        },
+        {
+          "word": "with",
+          "start": 420.12,
+          "end": 420.54
+        },
+        {
+          "word": "colleagues",
+          "start": 420.54,
+          "end": 421.16
+        },
+        {
+          "word": "and",
+          "start": 421.16,
+          "end": 421.7
+        },
+        {
+          "word": "managers.",
+          "start": 421.7,
+          "end": 422.66
         }
       ]
     },
     {
       "id": 115,
-      "start": 390.16,
-      "end": 391.73,
-      "text": "How can I help you?",
+      "start": 424.18,
+      "end": 426.74,
+      "text": "Write professional emails.",
       "words": [
         {
-          "word": "How",
-          "startSec": 390.36,
-          "endSec": 390.68,
-          "score": 0.99
+          "word": "Write",
+          "start": 424.18,
+          "end": 425.02
         },
         {
-          "word": "can",
-          "startSec": 390.68,
-          "endSec": 390.88,
-          "score": 1.0
+          "word": "professional",
+          "start": 425.02,
+          "end": 425.66
         },
         {
-          "word": "I",
-          "startSec": 390.88,
-          "endSec": 391.04,
-          "score": 1.0
-        },
-        {
-          "word": "help",
-          "startSec": 391.04,
-          "endSec": 391.26,
-          "score": 1.0
-        },
-        {
-          "word": "you?",
-          "startSec": 391.26,
-          "endSec": 391.58,
-          "score": 1.0
+          "word": "emails.",
+          "start": 425.66,
+          "end": 426.74
         }
       ]
     },
     {
       "id": 116,
-      "start": 392.45,
-      "end": 395.72,
-      "text": "I have a question about the client's request.",
+      "start": 427.3,
+      "end": 430.86,
+      "text": "Listen carefully and take notes and meetings.",
       "words": [
         {
-          "word": "I",
-          "startSec": 392.65,
-          "endSec": 393.15,
-          "score": 1.0
+          "word": "Listen",
+          "start": 427.3,
+          "end": 427.76
         },
         {
-          "word": "have",
-          "startSec": 393.15,
-          "endSec": 393.37,
-          "score": 1.0
+          "word": "carefully",
+          "start": 427.76,
+          "end": 428.38
         },
         {
-          "word": "a",
-          "startSec": 393.37,
-          "endSec": 393.51,
-          "score": 1.0
+          "word": "and",
+          "start": 428.38,
+          "end": 428.96
         },
         {
-          "word": "question",
-          "startSec": 393.51,
-          "endSec": 394.01,
-          "score": 1.0
+          "word": "take",
+          "start": 428.96,
+          "end": 429.3
         },
         {
-          "word": "about",
-          "startSec": 394.01,
-          "endSec": 394.43,
-          "score": 1.0
+          "word": "notes",
+          "start": 429.3,
+          "end": 429.82
         },
         {
-          "word": "the",
-          "startSec": 394.43,
-          "endSec": 394.67,
-          "score": 0.99
+          "word": "and",
+          "start": 429.82,
+          "end": 430.08
         },
         {
-          "word": "client's",
-          "startSec": 394.67,
-          "endSec": 395.29,
-          "score": 0.95
-        },
-        {
-          "word": "request.",
-          "startSec": 395.29,
-          "endSec": 395.57,
-          "score": 1.0
+          "word": "meetings.",
+          "start": 430.08,
+          "end": 430.86
         }
       ]
     },
     {
       "id": 117,
-      "start": 396.27,
-      "end": 397.06,
-      "text": "Sure.",
+      "start": 433.04,
+      "end": 436.38,
+      "text": "Thank you for listening to this episode.",
       "words": [
         {
-          "word": "Sure.",
-          "startSec": 396.47,
-          "endSec": 396.91,
-          "score": 0.97
+          "word": "Thank",
+          "start": 433.04,
+          "end": 434.0
+        },
+        {
+          "word": "you",
+          "start": 434.0,
+          "end": 434.24
+        },
+        {
+          "word": "for",
+          "start": 434.24,
+          "end": 434.46
+        },
+        {
+          "word": "listening",
+          "start": 434.46,
+          "end": 434.82
+        },
+        {
+          "word": "to",
+          "start": 434.82,
+          "end": 435.1
+        },
+        {
+          "word": "this",
+          "start": 435.1,
+          "end": 435.36
+        },
+        {
+          "word": "episode.",
+          "start": 435.36,
+          "end": 436.38
         }
       ]
     },
     {
       "id": 118,
-      "start": 398.3,
-      "end": 399.85,
-      "text": "Let's discuss it.",
+      "start": 436.7,
+      "end": 441.22,
+      "text": "I hope you feel more confident speaking English at work.",
       "words": [
         {
-          "word": "Let's",
-          "startSec": 398.5,
-          "endSec": 398.94,
-          "score": 1.0
+          "word": "I",
+          "start": 436.7,
+          "end": 436.96
         },
         {
-          "word": "discuss",
-          "startSec": 398.94,
-          "endSec": 399.3,
-          "score": 1.0
+          "word": "hope",
+          "start": 436.96,
+          "end": 437.22
         },
         {
-          "word": "it.",
-          "startSec": 399.3,
-          "endSec": 399.7,
-          "score": 1.0
+          "word": "you",
+          "start": 437.22,
+          "end": 437.46
+        },
+        {
+          "word": "feel",
+          "start": 437.46,
+          "end": 437.86
+        },
+        {
+          "word": "more",
+          "start": 437.86,
+          "end": 438.26
+        },
+        {
+          "word": "confident",
+          "start": 438.26,
+          "end": 438.94
+        },
+        {
+          "word": "speaking",
+          "start": 438.94,
+          "end": 439.42
+        },
+        {
+          "word": "English",
+          "start": 439.42,
+          "end": 440.1
+        },
+        {
+          "word": "at",
+          "start": 440.1,
+          "end": 440.46
+        },
+        {
+          "word": "work.",
+          "start": 440.46,
+          "end": 441.22
         }
       ]
     },
     {
       "id": 119,
-      "start": 400.5,
-      "end": 405.11,
-      "text": "Tip, always be respectful when speaking to your boss.",
+      "start": 441.76,
+      "end": 447.46,
+      "text": "If you enjoyed this podcast, please subscribe and share it with your friends.",
       "words": [
         {
-          "word": "Tip,",
-          "startSec": 400.7,
-          "endSec": 400.98,
-          "score": 0.83
+          "word": "If",
+          "start": 441.76,
+          "end": 442.08
         },
         {
-          "word": "always",
-          "startSec": 401.48,
-          "endSec": 402.02,
-          "score": 0.96
+          "word": "you",
+          "start": 442.08,
+          "end": 442.24
         },
         {
-          "word": "be",
-          "startSec": 402.02,
-          "endSec": 402.48,
-          "score": 1.0
+          "word": "enjoyed",
+          "start": 442.24,
+          "end": 442.68
         },
         {
-          "word": "respectful",
-          "startSec": 402.48,
-          "endSec": 403.08,
-          "score": 1.0
+          "word": "this",
+          "start": 442.68,
+          "end": 442.96
         },
         {
-          "word": "when",
-          "startSec": 403.08,
-          "endSec": 403.68,
-          "score": 0.99
+          "word": "podcast,",
+          "start": 442.96,
+          "end": 443.6
         },
         {
-          "word": "speaking",
-          "startSec": 403.68,
-          "endSec": 404.06,
-          "score": 1.0
+          "word": "please",
+          "start": 443.94,
+          "end": 444.18
         },
         {
-          "word": "to",
-          "startSec": 404.06,
-          "endSec": 404.46,
-          "score": 1.0
+          "word": "subscribe",
+          "start": 444.18,
+          "end": 444.86
+        },
+        {
+          "word": "and",
+          "start": 444.86,
+          "end": 445.66
+        },
+        {
+          "word": "share",
+          "start": 445.66,
+          "end": 446.12
+        },
+        {
+          "word": "it",
+          "start": 446.12,
+          "end": 446.28
+        },
+        {
+          "word": "with",
+          "start": 446.28,
+          "end": 446.44
         },
         {
           "word": "your",
-          "startSec": 404.46,
-          "endSec": 404.64,
-          "score": 1.0
+          "start": 446.44,
+          "end": 446.58
         },
         {
-          "word": "boss.",
-          "startSec": 404.64,
-          "endSec": 404.96,
-          "score": 1.0
+          "word": "friends.",
+          "start": 446.58,
+          "end": 447.46
         }
       ]
     },
     {
       "id": 120,
-      "start": 409.22,
-      "end": 411.19,
-      "text": "Final tips for English at work.",
+      "start": 447.82,
+      "end": 449.58,
+      "text": "See you next time.",
       "words": [
         {
-          "word": "Final",
-          "startSec": 409.42,
-          "endSec": 409.42,
-          "score": 0.9
+          "word": "See",
+          "start": 447.82,
+          "end": 448.28
         },
         {
-          "word": "tips",
-          "startSec": 409.42,
-          "endSec": 409.68,
-          "score": 0.98
+          "word": "you",
+          "start": 448.28,
+          "end": 448.46
         },
         {
-          "word": "for",
-          "startSec": 409.68,
-          "endSec": 410.08,
-          "score": 1.0
+          "word": "next",
+          "start": 448.46,
+          "end": 448.7
         },
         {
-          "word": "English",
-          "startSec": 410.08,
-          "endSec": 410.42,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 410.42,
-          "endSec": 410.76,
-          "score": 1.0
-        },
-        {
-          "word": "work.",
-          "startSec": 410.76,
-          "endSec": 411.04,
-          "score": 0.99
+          "word": "time.",
+          "start": 448.7,
+          "end": 449.58
         }
       ]
     },
     {
       "id": 121,
-      "start": 411.87,
-      "end": 414.42,
-      "text": "Practice common office phrases.",
-      "words": [
-        {
-          "word": "Practice",
-          "startSec": 412.07,
-          "endSec": 412.59,
-          "score": 0.09
-        },
-        {
-          "word": "common",
-          "startSec": 412.59,
-          "endSec": 413.25,
-          "score": 0.91
-        },
-        {
-          "word": "office",
-          "startSec": 413.25,
-          "endSec": 413.75,
-          "score": 0.97
-        },
-        {
-          "word": "phrases.",
-          "startSec": 413.75,
-          "endSec": 414.27,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 122,
-      "start": 414.95,
-      "end": 417.44,
-      "text": "Speak clearly and confidently.",
-      "words": [
-        {
-          "word": "Speak",
-          "startSec": 415.15,
-          "endSec": 415.33,
-          "score": 1.0
-        },
-        {
-          "word": "clearly",
-          "startSec": 415.33,
-          "endSec": 416.03,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 416.03,
-          "endSec": 416.67,
-          "score": 0.96
-        },
-        {
-          "word": "confidently.",
-          "startSec": 416.67,
-          "endSec": 417.29,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "start": 418.35,
-      "end": 422.28,
-      "text": "Use polite language with colleagues and managers.",
-      "words": [
-        {
-          "word": "Use",
-          "startSec": 418.55,
-          "endSec": 419.03,
-          "score": 0.99
-        },
-        {
-          "word": "polite",
-          "startSec": 419.03,
-          "endSec": 419.41,
-          "score": 1.0
-        },
-        {
-          "word": "language",
-          "startSec": 419.41,
-          "endSec": 420.09,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 420.09,
-          "endSec": 420.49,
-          "score": 1.0
-        },
-        {
-          "word": "colleagues",
-          "startSec": 420.49,
-          "endSec": 421.09,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 421.09,
-          "endSec": 421.61,
-          "score": 1.0
-        },
-        {
-          "word": "managers.",
-          "startSec": 421.61,
-          "endSec": 422.13,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 124,
-      "start": 424.46,
-      "end": 426.45,
-      "text": "Write professional emails.",
-      "words": [
-        {
-          "word": "Write",
-          "startSec": 424.66,
-          "endSec": 425.0,
-          "score": 0.99
-        },
-        {
-          "word": "professional",
-          "startSec": 425.0,
-          "endSec": 425.66,
-          "score": 0.99
-        },
-        {
-          "word": "emails.",
-          "startSec": 425.66,
-          "endSec": 426.3,
-          "score": 0.95
-        }
-      ]
-    },
-    {
-      "id": 125,
-      "start": 427.12,
-      "end": 430.49,
-      "text": "Listen carefully and take notes in meetings.",
-      "words": [
-        {
-          "word": "Listen",
-          "startSec": 427.32,
-          "endSec": 427.72,
-          "score": 1.0
-        },
-        {
-          "word": "carefully",
-          "startSec": 427.72,
-          "endSec": 428.28,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 428.28,
-          "endSec": 428.9,
-          "score": 0.92
-        },
-        {
-          "word": "take",
-          "startSec": 428.9,
-          "endSec": 429.2,
-          "score": 0.99
-        },
-        {
-          "word": "notes",
-          "startSec": 429.2,
-          "endSec": 429.68,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 429.68,
-          "endSec": 430.04,
-          "score": 0.37
-        },
-        {
-          "word": "meetings.",
-          "startSec": 430.04,
-          "endSec": 430.34,
-          "score": 0.99
-        }
-      ]
-    },
-    {
-      "id": 126,
-      "start": 436.43,
-      "end": 440.88,
-      "text": "I hope you feel more confident speaking English at work.",
-      "words": [
-        {
-          "word": "I",
-          "startSec": 436.63,
-          "endSec": 436.91,
-          "score": 1.0
-        },
-        {
-          "word": "hope",
-          "startSec": 436.91,
-          "endSec": 437.17,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 437.17,
-          "endSec": 437.43,
-          "score": 1.0
-        },
-        {
-          "word": "feel",
-          "startSec": 437.43,
-          "endSec": 437.77,
-          "score": 1.0
-        },
-        {
-          "word": "more",
-          "startSec": 437.77,
-          "endSec": 438.17,
-          "score": 1.0
-        },
-        {
-          "word": "confident",
-          "startSec": 438.17,
-          "endSec": 438.79,
-          "score": 0.96
-        },
-        {
-          "word": "speaking",
-          "startSec": 438.79,
-          "endSec": 439.35,
-          "score": 0.99
-        },
-        {
-          "word": "English",
-          "startSec": 439.35,
-          "endSec": 440.05,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 440.05,
-          "endSec": 440.41,
-          "score": 1.0
-        },
-        {
-          "word": "work.",
-          "startSec": 440.41,
-          "endSec": 440.73,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 127,
-      "start": 449.81,
-      "end": 450.62,
-      "text": "Bye bye.",
+      "start": 449.92,
+      "end": 450.85,
+      "text": "Bye -bye.",
       "words": [
         {
           "word": "Bye",
-          "startSec": 450.01,
-          "endSec": 450.19,
-          "score": 0.94
+          "start": 449.92,
+          "end": 450.24
         },
         {
-          "word": "bye.",
-          "startSec": 450.19,
-          "endSec": 450.47,
-          "score": 0.51
+          "word": "-bye.",
+          "start": 450.24,
+          "end": 450.85
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 121
 }

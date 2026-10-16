@@ -15,4225 +15,3976 @@
   "sentences": [
     {
       "id": 1,
-      "start": 0.0,
-      "end": 9.72,
-      "text": "Hello everyone. Welcome to the slow English podcast. I am Emily, your host. Today,",
+      "start": 1.94,
+      "end": 4.86,
+      "text": "Welcome to the Slow English Podcast.",
       "words": [
         {
-          "word": "Hello",
-          "startSec": 0.0,
-          "endSec": 0.22,
-          "score": 0.8
-        },
-        {
-          "word": "everyone.",
-          "startSec": 0.22,
-          "endSec": 0.74,
-          "score": 0.6
-        },
-        {
           "word": "Welcome",
-          "startSec": 1.92,
-          "endSec": 2.62,
-          "score": 0.99
+          "start": 1.94,
+          "end": 2.6
         },
         {
           "word": "to",
-          "startSec": 2.62,
-          "endSec": 2.9,
-          "score": 1.0
+          "start": 2.6,
+          "end": 2.94
         },
         {
           "word": "the",
-          "startSec": 2.9,
-          "endSec": 3.06,
-          "score": 0.93
+          "start": 2.94,
+          "end": 3.14
         },
         {
-          "word": "slow",
-          "startSec": 3.06,
-          "endSec": 3.34,
-          "score": 0.16
+          "word": "Slow",
+          "start": 3.14,
+          "end": 3.44
         },
         {
           "word": "English",
-          "startSec": 3.34,
-          "endSec": 3.78,
-          "score": 0.95
+          "start": 3.44,
+          "end": 3.88
         },
         {
-          "word": "podcast.",
-          "startSec": 3.78,
-          "endSec": 4.42,
-          "score": 0.89
-        },
-        {
-          "word": "I",
-          "startSec": 5.66,
-          "endSec": 6.02,
-          "score": 0.99
-        },
-        {
-          "word": "am",
-          "startSec": 6.02,
-          "endSec": 6.24,
-          "score": 0.98
-        },
-        {
-          "word": "Emily,",
-          "startSec": 6.24,
-          "endSec": 6.62,
-          "score": 0.98
-        },
-        {
-          "word": "your",
-          "startSec": 7.08,
-          "endSec": 7.28,
-          "score": 0.99
-        },
-        {
-          "word": "host.",
-          "startSec": 7.28,
-          "endSec": 7.68,
-          "score": 1.0
-        },
-        {
-          "word": "Today,",
-          "startSec": 8.99,
-          "endSec": 9.57,
-          "score": 1.0
+          "word": "Podcast.",
+          "start": 3.88,
+          "end": 4.86
         }
       ]
     },
     {
       "id": 2,
-      "start": 9.45,
-      "end": 18.71,
-      "text": "we are traveling to a beautiful city in Africa called Acra. Acra is the capital city of Ghana.",
+      "start": 5.8,
+      "end": 8.14,
+      "text": "I am Emily, your host.",
       "words": [
         {
-          "word": "we",
-          "startSec": 9.65,
-          "endSec": 10.13,
-          "score": 1.0
+          "word": "I",
+          "start": 5.8,
+          "end": 6.1
         },
         {
-          "word": "are",
-          "startSec": 10.13,
-          "endSec": 10.27,
-          "score": 0.96
+          "word": "am",
+          "start": 6.1,
+          "end": 6.3
         },
         {
-          "word": "traveling",
-          "startSec": 10.27,
-          "endSec": 10.73,
-          "score": 0.98
+          "word": "Emily,",
+          "start": 6.3,
+          "end": 6.72
         },
         {
-          "word": "to",
-          "startSec": 10.73,
-          "endSec": 11.05,
-          "score": 1.0
+          "word": "your",
+          "start": 7.24,
+          "end": 7.34
         },
         {
-          "word": "a",
-          "startSec": 11.05,
-          "endSec": 11.21,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 11.21,
-          "endSec": 11.57,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 11.57,
-          "endSec": 12.13,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 12.13,
-          "endSec": 12.43,
-          "score": 1.0
-        },
-        {
-          "word": "Africa",
-          "startSec": 12.43,
-          "endSec": 12.85,
-          "score": 1.0
-        },
-        {
-          "word": "called",
-          "startSec": 12.85,
-          "endSec": 13.67,
-          "score": 0.9
-        },
-        {
-          "word": "Acra.",
-          "startSec": 13.67,
-          "endSec": 14.27,
-          "score": 0.61
-        },
-        {
-          "word": "Acra",
-          "startSec": 15.86,
-          "endSec": 16.42,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 16.42,
-          "endSec": 16.8,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 16.8,
-          "endSec": 17.0,
-          "score": 1.0
-        },
-        {
-          "word": "capital",
-          "startSec": 17.0,
-          "endSec": 17.48,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 17.48,
-          "endSec": 17.98,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 17.98,
-          "endSec": 18.28,
-          "score": 1.0
-        },
-        {
-          "word": "Ghana.",
-          "startSec": 18.28,
-          "endSec": 18.56,
-          "score": 1.0
+          "word": "host.",
+          "start": 7.34,
+          "end": 8.14
         }
       ]
     },
     {
       "id": 3,
-      "start": 19.45,
-      "end": 27.88,
-      "text": "It is on the coast of the Atlantic Ocean. Acra is a lively city with colorful markets,",
+      "start": 9.16,
+      "end": 14.74,
+      "text": "Today we are traveling to a beautiful city in Africa called Accra.",
       "words": [
         {
-          "word": "It",
-          "startSec": 19.65,
-          "endSec": 20.01,
-          "score": 1.0
+          "word": "Today",
+          "start": 9.16,
+          "end": 9.66
         },
         {
-          "word": "is",
-          "startSec": 20.01,
-          "endSec": 20.17,
-          "score": 1.0
+          "word": "we",
+          "start": 9.66,
+          "end": 10.18
         },
         {
-          "word": "on",
-          "startSec": 20.17,
-          "endSec": 20.41,
-          "score": 1.0
+          "word": "are",
+          "start": 10.18,
+          "end": 10.3
         },
         {
-          "word": "the",
-          "startSec": 20.41,
-          "endSec": 20.65,
-          "score": 1.0
+          "word": "traveling",
+          "start": 10.3,
+          "end": 10.78
         },
         {
-          "word": "coast",
-          "startSec": 20.65,
-          "endSec": 21.01,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 21.01,
-          "endSec": 21.41,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 21.41,
-          "endSec": 21.59,
-          "score": 1.0
-        },
-        {
-          "word": "Atlantic",
-          "startSec": 21.59,
-          "endSec": 22.03,
-          "score": 1.0
-        },
-        {
-          "word": "Ocean.",
-          "startSec": 22.03,
-          "endSec": 22.59,
-          "score": 0.86
-        },
-        {
-          "word": "Acra",
-          "startSec": 23.89,
-          "endSec": 24.33,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 24.33,
-          "endSec": 24.61,
-          "score": 1.0
+          "word": "to",
+          "start": 10.78,
+          "end": 11.12
         },
         {
           "word": "a",
-          "startSec": 24.61,
-          "endSec": 24.77,
-          "score": 1.0
+          "start": 11.12,
+          "end": 11.26
         },
         {
-          "word": "lively",
-          "startSec": 24.77,
-          "endSec": 25.11,
-          "score": 1.0
+          "word": "beautiful",
+          "start": 11.26,
+          "end": 11.7
         },
         {
           "word": "city",
-          "startSec": 25.11,
-          "endSec": 25.81,
-          "score": 1.0
+          "start": 11.7,
+          "end": 12.2
         },
         {
-          "word": "with",
-          "startSec": 25.81,
-          "endSec": 26.15,
-          "score": 0.98
+          "word": "in",
+          "start": 12.2,
+          "end": 12.48
         },
         {
-          "word": "colorful",
-          "startSec": 26.15,
-          "endSec": 26.59,
-          "score": 0.99
+          "word": "Africa",
+          "start": 12.48,
+          "end": 13.04
         },
         {
-          "word": "markets,",
-          "startSec": 26.59,
-          "endSec": 27.73,
-          "score": 1.0
+          "word": "called",
+          "start": 13.04,
+          "end": 13.72
+        },
+        {
+          "word": "Accra.",
+          "start": 13.72,
+          "end": 14.74
         }
       ]
     },
     {
       "id": 4,
-      "start": 27.53,
-      "end": 36.97,
-      "text": "busy streets, and friendly people. Part two, where is Acra? Acra is in West Africa.",
+      "start": 15.58,
+      "end": 19.16,
+      "text": "Accra is the capital city of Ghana.",
       "words": [
         {
-          "word": "busy",
-          "startSec": 27.73,
-          "endSec": 28.31,
-          "score": 0.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 28.31,
-          "endSec": 29.03,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 29.15,
-          "endSec": 29.47,
-          "score": 0.98
-        },
-        {
-          "word": "friendly",
-          "startSec": 29.47,
-          "endSec": 29.81,
-          "score": 0.99
-        },
-        {
-          "word": "people.",
-          "startSec": 29.81,
-          "endSec": 30.51,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 31.62,
-          "endSec": 31.88,
-          "score": 0.94
-        },
-        {
-          "word": "two,",
-          "startSec": 31.88,
-          "endSec": 32.32,
-          "score": 0.43
-        },
-        {
-          "word": "where",
-          "startSec": 33.06,
-          "endSec": 33.4,
-          "score": 0.87
+          "word": "Accra",
+          "start": 15.58,
+          "end": 16.46
         },
         {
           "word": "is",
-          "startSec": 33.4,
-          "endSec": 33.7,
-          "score": 0.98
+          "start": 16.46,
+          "end": 16.86
         },
         {
-          "word": "Acra?",
-          "startSec": 33.7,
-          "endSec": 34.16,
-          "score": 0.57
+          "word": "the",
+          "start": 16.86,
+          "end": 17.06
         },
         {
-          "word": "Acra",
-          "startSec": 34.82,
-          "endSec": 35.5,
-          "score": 0.98
+          "word": "capital",
+          "start": 17.06,
+          "end": 17.52
         },
         {
-          "word": "is",
-          "startSec": 35.5,
-          "endSec": 35.76,
-          "score": 1.0
+          "word": "city",
+          "start": 17.52,
+          "end": 18.04
         },
         {
-          "word": "in",
-          "startSec": 35.76,
-          "endSec": 35.98,
-          "score": 1.0
+          "word": "of",
+          "start": 18.04,
+          "end": 18.32
         },
         {
-          "word": "West",
-          "startSec": 35.98,
-          "endSec": 36.22,
-          "score": 0.95
-        },
-        {
-          "word": "Africa.",
-          "startSec": 36.22,
-          "endSec": 36.82,
-          "score": 1.0
+          "word": "Ghana.",
+          "start": 18.32,
+          "end": 19.16
         }
       ]
     },
     {
       "id": 5,
-      "start": 37.6,
-      "end": 46.6,
-      "text": "It is on the southern coast of Ghana. The city is near the ocean and has many beaches. Acra is also",
+      "start": 19.86,
+      "end": 23.08,
+      "text": "It is on the coast of the Atlantic Ocean.",
       "words": [
         {
           "word": "It",
-          "startSec": 37.8,
-          "endSec": 37.9,
-          "score": 0.99
+          "start": 19.86,
+          "end": 20.06
         },
         {
           "word": "is",
-          "startSec": 37.9,
-          "endSec": 38.04,
-          "score": 1.0
+          "start": 20.06,
+          "end": 20.26
         },
         {
           "word": "on",
-          "startSec": 38.04,
-          "endSec": 38.24,
-          "score": 1.0
+          "start": 20.26,
+          "end": 20.48
         },
         {
           "word": "the",
-          "startSec": 38.24,
-          "endSec": 38.4,
-          "score": 1.0
-        },
-        {
-          "word": "southern",
-          "startSec": 38.4,
-          "endSec": 38.78,
-          "score": 0.93
+          "start": 20.48,
+          "end": 20.68
         },
         {
           "word": "coast",
-          "startSec": 38.78,
-          "endSec": 39.18,
-          "score": 1.0
+          "start": 20.68,
+          "end": 21.06
         },
         {
           "word": "of",
-          "startSec": 39.18,
-          "endSec": 39.58,
-          "score": 1.0
-        },
-        {
-          "word": "Ghana.",
-          "startSec": 39.58,
-          "endSec": 39.88,
-          "score": 0.99
-        },
-        {
-          "word": "The",
-          "startSec": 41.01,
-          "endSec": 41.21,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 41.21,
-          "endSec": 41.45,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 41.45,
-          "endSec": 41.79,
-          "score": 1.0
-        },
-        {
-          "word": "near",
-          "startSec": 41.79,
-          "endSec": 42.03,
-          "score": 1.0
+          "start": 21.06,
+          "end": 21.48
         },
         {
           "word": "the",
-          "startSec": 42.03,
-          "endSec": 42.23,
-          "score": 1.0
+          "start": 21.48,
+          "end": 21.66
         },
         {
-          "word": "ocean",
-          "startSec": 42.23,
-          "endSec": 42.67,
-          "score": 0.99
+          "word": "Atlantic",
+          "start": 21.66,
+          "end": 22.14
         },
         {
-          "word": "and",
-          "startSec": 42.67,
-          "endSec": 43.13,
-          "score": 0.81
-        },
-        {
-          "word": "has",
-          "startSec": 43.13,
-          "endSec": 43.41,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 43.41,
-          "endSec": 43.73,
-          "score": 1.0
-        },
-        {
-          "word": "beaches.",
-          "startSec": 43.73,
-          "endSec": 44.23,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 45.19,
-          "endSec": 45.61,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 45.61,
-          "endSec": 45.95,
-          "score": 0.99
-        },
-        {
-          "word": "also",
-          "startSec": 45.95,
-          "endSec": 46.45,
-          "score": 1.0
+          "word": "Ocean.",
+          "start": 22.14,
+          "end": 23.08
         }
       ]
     },
     {
       "id": 6,
-      "start": 46.25,
-      "end": 54.88,
-      "text": "close to the countryside and hills. It is a very busy city but also has calm places to relax.",
+      "start": 23.66,
+      "end": 30.96,
+      "text": "Accra is a lively city with colorful markets, busy streets, and friendly people.",
       "words": [
         {
-          "word": "close",
-          "startSec": 46.45,
-          "endSec": 46.77,
-          "score": 0.97
-        },
-        {
-          "word": "to",
-          "startSec": 46.77,
-          "endSec": 47.15,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 47.15,
-          "endSec": 47.29,
-          "score": 1.0
-        },
-        {
-          "word": "countryside",
-          "startSec": 47.29,
-          "endSec": 47.79,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 47.79,
-          "endSec": 48.37,
-          "score": 0.79
-        },
-        {
-          "word": "hills.",
-          "startSec": 48.37,
-          "endSec": 48.71,
-          "score": 0.99
-        },
-        {
-          "word": "It",
-          "startSec": 49.73,
-          "endSec": 49.97,
-          "score": 0.99
+          "word": "Accra",
+          "start": 23.66,
+          "end": 24.4
         },
         {
           "word": "is",
-          "startSec": 49.97,
-          "endSec": 50.15,
-          "score": 1.0
+          "start": 24.4,
+          "end": 24.68
         },
         {
           "word": "a",
-          "startSec": 50.15,
-          "endSec": 50.31,
-          "score": 1.0
+          "start": 24.68,
+          "end": 24.88
         },
         {
-          "word": "very",
-          "startSec": 50.31,
-          "endSec": 50.63,
-          "score": 1.0
-        },
-        {
-          "word": "busy",
-          "startSec": 50.63,
-          "endSec": 50.95,
-          "score": 1.0
+          "word": "lively",
+          "start": 24.88,
+          "end": 25.28
         },
         {
           "word": "city",
-          "startSec": 50.95,
-          "endSec": 51.53,
-          "score": 1.0
+          "start": 25.28,
+          "end": 25.84
         },
         {
-          "word": "but",
-          "startSec": 51.53,
-          "endSec": 52.13,
-          "score": 0.32
+          "word": "with",
+          "start": 25.84,
+          "end": 26.22
         },
         {
-          "word": "also",
-          "startSec": 52.13,
-          "endSec": 52.47,
-          "score": 0.99
+          "word": "colorful",
+          "start": 26.22,
+          "end": 26.86
         },
         {
-          "word": "has",
-          "startSec": 52.47,
-          "endSec": 53.03,
-          "score": 0.99
+          "word": "markets,",
+          "start": 26.86,
+          "end": 27.58
         },
         {
-          "word": "calm",
-          "startSec": 53.03,
-          "endSec": 53.31,
-          "score": 0.99
+          "word": "busy",
+          "start": 27.58,
+          "end": 28.42
         },
         {
-          "word": "places",
-          "startSec": 53.31,
-          "endSec": 53.99,
-          "score": 1.0
+          "word": "streets,",
+          "start": 28.42,
+          "end": 29.1
         },
         {
-          "word": "to",
-          "startSec": 53.99,
-          "endSec": 54.39,
-          "score": 1.0
+          "word": "and",
+          "start": 29.52,
+          "end": 29.52
         },
         {
-          "word": "relax.",
-          "startSec": 54.39,
-          "endSec": 54.73,
-          "score": 1.0
+          "word": "friendly",
+          "start": 29.52,
+          "end": 29.96
+        },
+        {
+          "word": "people.",
+          "start": 29.96,
+          "end": 30.96
         }
       ]
     },
     {
       "id": 7,
-      "start": 54.53,
-      "end": 68.23,
-      "text": "Part three, a short history. Acra is a city with a long history. People have lived here for hundreds of",
+      "start": 31.6,
+      "end": 34.6,
+      "text": "Part 2, where is Accra?",
       "words": [
         {
           "word": "Part",
-          "startSec": 54.73,
-          "endSec": 54.95,
-          "score": 0.53
+          "start": 31.6,
+          "end": 31.9
         },
         {
-          "word": "three,",
-          "startSec": 55.81,
-          "endSec": 57.71,
-          "score": 0.15
+          "word": "2,",
+          "start": 31.9,
+          "end": 32.48
         },
         {
-          "word": "a",
-          "startSec": 58.33,
-          "endSec": 58.57,
-          "score": 0.72
-        },
-        {
-          "word": "short",
-          "startSec": 58.57,
-          "endSec": 58.95,
-          "score": 0.95
-        },
-        {
-          "word": "history.",
-          "startSec": 58.95,
-          "endSec": 59.37,
-          "score": 0.99
-        },
-        {
-          "word": "Acra",
-          "startSec": 61.9,
-          "endSec": 62.32,
-          "score": 0.51
+          "word": "where",
+          "start": 33.06,
+          "end": 33.46
         },
         {
           "word": "is",
-          "startSec": 62.32,
-          "endSec": 62.66,
-          "score": 0.99
+          "start": 33.46,
+          "end": 33.76
         },
         {
-          "word": "a",
-          "startSec": 62.66,
-          "endSec": 62.84,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 62.84,
-          "endSec": 63.14,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 63.14,
-          "endSec": 63.48,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 63.48,
-          "endSec": 63.66,
-          "score": 0.99
-        },
-        {
-          "word": "long",
-          "startSec": 63.66,
-          "endSec": 63.92,
-          "score": 1.0
-        },
-        {
-          "word": "history.",
-          "startSec": 63.92,
-          "endSec": 64.42,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 65.5,
-          "endSec": 65.88,
-          "score": 0.99
-        },
-        {
-          "word": "have",
-          "startSec": 65.88,
-          "endSec": 66.18,
-          "score": 1.0
-        },
-        {
-          "word": "lived",
-          "startSec": 66.18,
-          "endSec": 66.58,
-          "score": 1.0
-        },
-        {
-          "word": "here",
-          "startSec": 66.58,
-          "endSec": 67.0,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 67.0,
-          "endSec": 67.3,
-          "score": 1.0
-        },
-        {
-          "word": "hundreds",
-          "startSec": 67.3,
-          "endSec": 67.74,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 67.74,
-          "endSec": 68.08,
-          "score": 1.0
+          "word": "Accra?",
+          "start": 33.76,
+          "end": 34.6
         }
       ]
     },
     {
       "id": 8,
-      "start": 67.88,
-      "end": 76.71,
-      "text": "years. In the past, there were forts and trading posts. Acra grew as a trade city with gold, cocoa,",
+      "start": 34.86,
+      "end": 37.26,
+      "text": "Accra is in West Africa.",
       "words": [
         {
-          "word": "years.",
-          "startSec": 68.08,
-          "endSec": 68.48,
-          "score": 1.0
+          "word": "Accra",
+          "start": 34.86,
+          "end": 35.52
         },
         {
-          "word": "In",
-          "startSec": 69.3,
-          "endSec": 69.44,
-          "score": 0.99
+          "word": "is",
+          "start": 35.52,
+          "end": 35.86
         },
         {
-          "word": "the",
-          "startSec": 69.44,
-          "endSec": 69.62,
-          "score": 1.0
+          "word": "in",
+          "start": 35.86,
+          "end": 36.04
         },
         {
-          "word": "past,",
-          "startSec": 69.62,
-          "endSec": 69.96,
-          "score": 1.0
+          "word": "West",
+          "start": 36.04,
+          "end": 36.38
         },
         {
-          "word": "there",
-          "startSec": 70.28,
-          "endSec": 70.4,
-          "score": 1.0
-        },
-        {
-          "word": "were",
-          "startSec": 70.4,
-          "endSec": 70.56,
-          "score": 1.0
-        },
-        {
-          "word": "forts",
-          "startSec": 70.56,
-          "endSec": 71.12,
-          "score": 0.91
-        },
-        {
-          "word": "and",
-          "startSec": 71.12,
-          "endSec": 71.24,
-          "score": 0.72
-        },
-        {
-          "word": "trading",
-          "startSec": 71.24,
-          "endSec": 71.58,
-          "score": 0.99
-        },
-        {
-          "word": "posts.",
-          "startSec": 71.58,
-          "endSec": 72.12,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 72.98,
-          "endSec": 73.4,
-          "score": 0.91
-        },
-        {
-          "word": "grew",
-          "startSec": 73.4,
-          "endSec": 73.68,
-          "score": 1.0
-        },
-        {
-          "word": "as",
-          "startSec": 73.68,
-          "endSec": 73.94,
-          "score": 0.99
-        },
-        {
-          "word": "a",
-          "startSec": 73.94,
-          "endSec": 74.08,
-          "score": 1.0
-        },
-        {
-          "word": "trade",
-          "startSec": 74.08,
-          "endSec": 74.38,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 74.38,
-          "endSec": 74.98,
-          "score": 0.98
-        },
-        {
-          "word": "with",
-          "startSec": 74.98,
-          "endSec": 75.28,
-          "score": 0.99
-        },
-        {
-          "word": "gold,",
-          "startSec": 75.28,
-          "endSec": 75.72,
-          "score": 0.99
-        },
-        {
-          "word": "cocoa,",
-          "startSec": 76.48,
-          "endSec": 76.56,
-          "score": 0.96
+          "word": "Africa.",
+          "start": 36.38,
+          "end": 37.26
         }
       ]
     },
     {
       "id": 9,
-      "start": 77.0,
-      "end": 85.71,
-      "text": "and other products. Ghana became independent in 1957 and Acra became the capital.",
+      "start": 37.82,
+      "end": 40.42,
+      "text": "It is on the southern coast of Ghana.",
       "words": [
         {
-          "word": "and",
-          "startSec": 77.2,
-          "endSec": 77.28,
-          "score": 1.0
+          "word": "It",
+          "start": 37.82,
+          "end": 37.92
         },
         {
-          "word": "other",
-          "startSec": 77.28,
-          "endSec": 77.54,
-          "score": 1.0
+          "word": "is",
+          "start": 37.92,
+          "end": 38.1
         },
         {
-          "word": "products.",
-          "startSec": 77.54,
-          "endSec": 78.0,
-          "score": 1.0
-        },
-        {
-          "word": "Ghana",
-          "startSec": 79.44,
-          "endSec": 79.44,
-          "score": 0.96
-        },
-        {
-          "word": "became",
-          "startSec": 79.44,
-          "endSec": 79.94,
-          "score": 1.0
-        },
-        {
-          "word": "independent",
-          "startSec": 79.94,
-          "endSec": 80.42,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 80.42,
-          "endSec": 81.22,
-          "score": 1.0
-        },
-        {
-          "word": "1957",
-          "startSec": 81.22,
-          "endSec": 82.22,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 82.22,
-          "endSec": 83.7,
-          "score": 0.32
-        },
-        {
-          "word": "Acra",
-          "startSec": 83.7,
-          "endSec": 84.26,
-          "score": 0.95
-        },
-        {
-          "word": "became",
-          "startSec": 84.26,
-          "endSec": 84.62,
-          "score": 1.0
+          "word": "on",
+          "start": 38.1,
+          "end": 38.28
         },
         {
           "word": "the",
-          "startSec": 84.62,
-          "endSec": 85.02,
-          "score": 1.0
+          "start": 38.28,
+          "end": 38.5
         },
         {
-          "word": "capital.",
-          "startSec": 85.02,
-          "endSec": 85.56,
-          "score": 0.94
+          "word": "southern",
+          "start": 38.5,
+          "end": 38.82
+        },
+        {
+          "word": "coast",
+          "start": 38.82,
+          "end": 39.26
+        },
+        {
+          "word": "of",
+          "start": 39.26,
+          "end": 39.62
+        },
+        {
+          "word": "Ghana.",
+          "start": 39.62,
+          "end": 40.42
         }
       ]
     },
     {
       "id": 10,
-      "start": 86.31,
-      "end": 96.41,
-      "text": "Today, Acra is modern and still has old historical sites. Part four, what does Acra look like?",
+      "start": 41.08,
+      "end": 44.84,
+      "text": "The city is near the ocean and has many beaches.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 86.51,
-          "endSec": 87.0,
-          "score": 0.49
+          "word": "The",
+          "start": 41.08,
+          "end": 41.24
         },
         {
-          "word": "Acra",
-          "startSec": 87.54,
-          "endSec": 87.96,
-          "score": 0.58
+          "word": "city",
+          "start": 41.24,
+          "end": 41.56
         },
         {
           "word": "is",
-          "startSec": 87.96,
-          "endSec": 88.28,
-          "score": 0.99
+          "start": 41.56,
+          "end": 41.84
         },
         {
-          "word": "modern",
-          "startSec": 88.28,
-          "endSec": 88.66,
-          "score": 0.96
+          "word": "near",
+          "start": 41.84,
+          "end": 42.06
+        },
+        {
+          "word": "the",
+          "start": 42.06,
+          "end": 42.26
+        },
+        {
+          "word": "ocean",
+          "start": 42.26,
+          "end": 42.72
         },
         {
           "word": "and",
-          "startSec": 88.66,
-          "endSec": 89.34,
-          "score": 0.88
-        },
-        {
-          "word": "still",
-          "startSec": 89.34,
-          "endSec": 89.8,
-          "score": 0.99
+          "start": 42.72,
+          "end": 43.18
         },
         {
           "word": "has",
-          "startSec": 89.8,
-          "endSec": 90.16,
-          "score": 1.0
+          "start": 43.18,
+          "end": 43.5
         },
         {
-          "word": "old",
-          "startSec": 90.16,
-          "endSec": 90.58,
-          "score": 0.98
+          "word": "many",
+          "start": 43.5,
+          "end": 43.92
         },
         {
-          "word": "historical",
-          "startSec": 90.58,
-          "endSec": 91.12,
-          "score": 0.99
-        },
-        {
-          "word": "sites.",
-          "startSec": 91.12,
-          "endSec": 91.8,
-          "score": 0.83
-        },
-        {
-          "word": "Part",
-          "startSec": 93.0,
-          "endSec": 93.22,
-          "score": 0.95
-        },
-        {
-          "word": "four,",
-          "startSec": 93.22,
-          "endSec": 93.72,
-          "score": 0.26
-        },
-        {
-          "word": "what",
-          "startSec": 94.48,
-          "endSec": 94.72,
-          "score": 0.9
-        },
-        {
-          "word": "does",
-          "startSec": 94.72,
-          "endSec": 94.94,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 94.94,
-          "endSec": 95.54,
-          "score": 0.97
-        },
-        {
-          "word": "look",
-          "startSec": 95.54,
-          "endSec": 95.88,
-          "score": 0.99
-        },
-        {
-          "word": "like?",
-          "startSec": 95.88,
-          "endSec": 96.26,
-          "score": 1.0
+          "word": "beaches.",
+          "start": 43.92,
+          "end": 44.84
         }
       ]
     },
     {
       "id": 11,
-      "start": 97.54,
-      "end": 106.11,
-      "text": "Acra has many modern buildings, streets, and shopping centers. It also has old neighborhoods",
+      "start": 45.28,
+      "end": 49.26,
+      "text": "Accra is also close to the countryside and hills.",
       "words": [
         {
-          "word": "Acra",
-          "startSec": 97.74,
-          "endSec": 98.34,
-          "score": 0.98
+          "word": "Accra",
+          "start": 45.28,
+          "end": 45.62
         },
         {
-          "word": "has",
-          "startSec": 98.34,
-          "endSec": 98.64,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 98.64,
-          "endSec": 98.96,
-          "score": 1.0
-        },
-        {
-          "word": "modern",
-          "startSec": 98.96,
-          "endSec": 99.46,
-          "score": 1.0
-        },
-        {
-          "word": "buildings,",
-          "startSec": 99.46,
-          "endSec": 100.12,
-          "score": 1.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 100.12,
-          "endSec": 101.16,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 101.9,
-          "endSec": 101.96,
-          "score": 1.0
-        },
-        {
-          "word": "shopping",
-          "startSec": 101.96,
-          "endSec": 102.28,
-          "score": 1.0
-        },
-        {
-          "word": "centers.",
-          "startSec": 102.28,
-          "endSec": 103.04,
-          "score": 0.98
-        },
-        {
-          "word": "It",
-          "startSec": 103.94,
-          "endSec": 104.18,
-          "score": 0.99
+          "word": "is",
+          "start": 45.62,
+          "end": 46.02
         },
         {
           "word": "also",
-          "startSec": 104.18,
-          "endSec": 104.44,
-          "score": 1.0
+          "start": 46.02,
+          "end": 46.42
         },
         {
-          "word": "has",
-          "startSec": 104.44,
-          "endSec": 105.02,
-          "score": 1.0
+          "word": "close",
+          "start": 46.42,
+          "end": 46.84
         },
         {
-          "word": "old",
-          "startSec": 105.02,
-          "endSec": 105.4,
-          "score": 1.0
+          "word": "to",
+          "start": 46.84,
+          "end": 47.18
         },
         {
-          "word": "neighborhoods",
-          "startSec": 105.4,
-          "endSec": 105.96,
-          "score": 0.99
+          "word": "the",
+          "start": 47.18,
+          "end": 47.36
+        },
+        {
+          "word": "countryside",
+          "start": 47.36,
+          "end": 47.96
+        },
+        {
+          "word": "and",
+          "start": 47.96,
+          "end": 48.48
+        },
+        {
+          "word": "hills.",
+          "start": 48.48,
+          "end": 49.26
         }
       ]
     },
     {
       "id": 12,
-      "start": 106.01,
-      "end": 116.48,
-      "text": "with small houses and traditional markets. The city has green parks and wide roads. You can see",
+      "start": 49.8,
+      "end": 55.38,
+      "text": "It is a very busy city but also has calm places to relax.",
       "words": [
         {
-          "word": "with",
-          "startSec": 106.21,
-          "endSec": 106.7,
-          "score": 0.96
+          "word": "It",
+          "start": 49.8,
+          "end": 50.02
         },
         {
-          "word": "small",
-          "startSec": 106.7,
-          "endSec": 107.08,
-          "score": 1.0
+          "word": "is",
+          "start": 50.02,
+          "end": 50.2
         },
         {
-          "word": "houses",
-          "startSec": 107.08,
-          "endSec": 107.8,
-          "score": 0.99
+          "word": "a",
+          "start": 50.2,
+          "end": 50.38
         },
         {
-          "word": "and",
-          "startSec": 107.8,
-          "endSec": 108.12,
-          "score": 0.95
+          "word": "very",
+          "start": 50.38,
+          "end": 50.68
         },
         {
-          "word": "traditional",
-          "startSec": 108.12,
-          "endSec": 108.64,
-          "score": 1.0
-        },
-        {
-          "word": "markets.",
-          "startSec": 108.64,
-          "endSec": 109.4,
-          "score": 1.0
-        },
-        {
-          "word": "The",
-          "startSec": 111.03,
-          "endSec": 111.19,
-          "score": 0.99
+          "word": "busy",
+          "start": 50.68,
+          "end": 51.12
         },
         {
           "word": "city",
-          "startSec": 111.19,
-          "endSec": 111.47,
-          "score": 0.95
+          "start": 51.12,
+          "end": 51.64
+        },
+        {
+          "word": "but",
+          "start": 51.64,
+          "end": 52.18
+        },
+        {
+          "word": "also",
+          "start": 52.18,
+          "end": 52.72
         },
         {
           "word": "has",
-          "startSec": 111.47,
-          "endSec": 111.93,
-          "score": 1.0
+          "start": 52.72,
+          "end": 53.08
         },
         {
-          "word": "green",
-          "startSec": 111.93,
-          "endSec": 112.29,
-          "score": 0.99
+          "word": "calm",
+          "start": 53.08,
+          "end": 53.5
         },
         {
-          "word": "parks",
-          "startSec": 112.29,
-          "endSec": 112.81,
-          "score": 0.99
+          "word": "places",
+          "start": 53.5,
+          "end": 54.06
         },
         {
-          "word": "and",
-          "startSec": 112.81,
-          "endSec": 113.29,
-          "score": 0.99
+          "word": "to",
+          "start": 54.06,
+          "end": 54.46
         },
         {
-          "word": "wide",
-          "startSec": 113.29,
-          "endSec": 113.53,
-          "score": 0.99
-        },
-        {
-          "word": "roads.",
-          "startSec": 113.53,
-          "endSec": 114.09,
-          "score": 0.99
-        },
-        {
-          "word": "You",
-          "startSec": 115.11,
-          "endSec": 115.81,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 115.81,
-          "endSec": 116.03,
-          "score": 1.0
-        },
-        {
-          "word": "see",
-          "startSec": 116.03,
-          "endSec": 116.33,
-          "score": 1.0
+          "word": "relax.",
+          "start": 54.46,
+          "end": 55.38
         }
       ]
     },
     {
       "id": 13,
-      "start": 116.13,
-      "end": 126.82,
-      "text": "the Atlantic Ocean in some parts of the city. Acra is colorful and full of life. Part five,",
+      "start": 56.36,
+      "end": 60.16,
+      "text": "Part 3, a short history.",
       "words": [
         {
-          "word": "the",
-          "startSec": 116.33,
-          "endSec": 116.59,
-          "score": 0.78
-        },
-        {
-          "word": "Atlantic",
-          "startSec": 116.59,
-          "endSec": 117.07,
-          "score": 0.98
-        },
-        {
-          "word": "Ocean",
-          "startSec": 117.07,
-          "endSec": 117.61,
-          "score": 0.93
-        },
-        {
-          "word": "in",
-          "startSec": 117.61,
-          "endSec": 118.17,
-          "score": 0.73
-        },
-        {
-          "word": "some",
-          "startSec": 118.17,
-          "endSec": 118.43,
-          "score": 0.99
-        },
-        {
-          "word": "parts",
-          "startSec": 118.43,
-          "endSec": 118.81,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 118.81,
-          "endSec": 119.07,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 119.07,
-          "endSec": 119.23,
-          "score": 0.99
-        },
-        {
-          "word": "city.",
-          "startSec": 119.23,
-          "endSec": 119.61,
-          "score": 0.97
-        },
-        {
-          "word": "Acra",
-          "startSec": 121.12,
-          "endSec": 121.56,
-          "score": 0.54
-        },
-        {
-          "word": "is",
-          "startSec": 121.56,
-          "endSec": 121.86,
-          "score": 0.99
-        },
-        {
-          "word": "colorful",
-          "startSec": 121.86,
-          "endSec": 122.34,
-          "score": 0.9
-        },
-        {
-          "word": "and",
-          "startSec": 122.34,
-          "endSec": 123.16,
-          "score": 0.99
-        },
-        {
-          "word": "full",
-          "startSec": 123.16,
-          "endSec": 123.54,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 123.54,
-          "endSec": 123.84,
-          "score": 0.99
-        },
-        {
-          "word": "life.",
-          "startSec": 123.84,
-          "endSec": 124.22,
-          "score": 0.99
-        },
-        {
           "word": "Part",
-          "startSec": 125.87,
-          "endSec": 126.07,
-          "score": 0.77
+          "start": 56.36,
+          "end": 57.16
         },
         {
-          "word": "five,",
-          "startSec": 126.07,
-          "endSec": 126.67,
-          "score": 0.12
+          "word": "3,",
+          "start": 57.16,
+          "end": 57.8
+        },
+        {
+          "word": "a",
+          "start": 58.12,
+          "end": 58.64
+        },
+        {
+          "word": "short",
+          "start": 58.64,
+          "end": 59.04
+        },
+        {
+          "word": "history.",
+          "start": 59.04,
+          "end": 60.16
         }
       ]
     },
     {
       "id": 14,
-      "start": 126.47,
-      "end": 137.05,
-      "text": "famous places to visit. There are many interesting places in Acra. Independent Square, a big square",
+      "start": 61.56,
+      "end": 65.08,
+      "text": "Accra is a city with a long history.",
       "words": [
         {
-          "word": "famous",
-          "startSec": 126.67,
-          "endSec": 127.49,
-          "score": 0.95
+          "word": "Accra",
+          "start": 61.56,
+          "end": 62.36
         },
         {
-          "word": "places",
-          "startSec": 127.49,
-          "endSec": 127.91,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 127.91,
-          "endSec": 128.43,
-          "score": 1.0
-        },
-        {
-          "word": "visit.",
-          "startSec": 128.43,
-          "endSec": 128.67,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 130.08,
-          "endSec": 130.24,
-          "score": 0.98
-        },
-        {
-          "word": "are",
-          "startSec": 130.24,
-          "endSec": 130.42,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 130.42,
-          "endSec": 130.7,
-          "score": 1.0
-        },
-        {
-          "word": "interesting",
-          "startSec": 130.7,
-          "endSec": 131.26,
-          "score": 1.0
-        },
-        {
-          "word": "places",
-          "startSec": 131.26,
-          "endSec": 132.06,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 132.06,
-          "endSec": 132.42,
-          "score": 0.99
-        },
-        {
-          "word": "Acra.",
-          "startSec": 132.42,
-          "endSec": 133.02,
-          "score": 0.93
-        },
-        {
-          "word": "Independent",
-          "startSec": 134.22,
-          "endSec": 134.48,
-          "score": 0.48
-        },
-        {
-          "word": "Square,",
-          "startSec": 134.48,
-          "endSec": 135.38,
-          "score": 0.86
+          "word": "is",
+          "start": 62.36,
+          "end": 62.74
         },
         {
           "word": "a",
-          "startSec": 136.16,
-          "endSec": 136.18,
-          "score": 0.93
+          "start": 62.74,
+          "end": 62.92
         },
         {
-          "word": "big",
-          "startSec": 136.18,
-          "endSec": 136.44,
-          "score": 0.96
+          "word": "city",
+          "start": 62.92,
+          "end": 63.22
         },
         {
-          "word": "square",
-          "startSec": 136.44,
-          "endSec": 136.9,
-          "score": 0.98
+          "word": "with",
+          "start": 63.22,
+          "end": 63.52
+        },
+        {
+          "word": "a",
+          "start": 63.52,
+          "end": 63.78
+        },
+        {
+          "word": "long",
+          "start": 63.78,
+          "end": 64.06
+        },
+        {
+          "word": "history.",
+          "start": 64.06,
+          "end": 65.08
         }
       ]
     },
     {
       "id": 15,
-      "start": 136.7,
-      "end": 144.91,
-      "text": "for celebrations, Kwame Nakruma Mausoleum, a monument for Ghana's first president,",
+      "start": 65.5,
+      "end": 68.96,
+      "text": "People have lived here for hundreds of years.",
       "words": [
         {
-          "word": "for",
-          "startSec": 136.9,
-          "endSec": 137.28,
-          "score": 1.0
+          "word": "People",
+          "start": 65.5,
+          "end": 65.92
         },
         {
-          "word": "celebrations,",
-          "startSec": 137.28,
-          "endSec": 138.02,
-          "score": 0.99
+          "word": "have",
+          "start": 65.92,
+          "end": 66.28
         },
         {
-          "word": "Kwame",
-          "startSec": 139.18,
-          "endSec": 139.7,
-          "score": 0.96
+          "word": "lived",
+          "start": 66.28,
+          "end": 66.64
         },
         {
-          "word": "Nakruma",
-          "startSec": 139.7,
-          "endSec": 140.36,
-          "score": 0.57
-        },
-        {
-          "word": "Mausoleum,",
-          "startSec": 140.36,
-          "endSec": 141.52,
-          "score": 0.75
-        },
-        {
-          "word": "a",
-          "startSec": 142.02,
-          "endSec": 142.12,
-          "score": 0.92
-        },
-        {
-          "word": "monument",
-          "startSec": 142.12,
-          "endSec": 142.62,
-          "score": 0.9
+          "word": "here",
+          "start": 66.64,
+          "end": 67.06
         },
         {
           "word": "for",
-          "startSec": 142.62,
-          "endSec": 143.04,
-          "score": 0.98
+          "start": 67.06,
+          "end": 67.34
         },
         {
-          "word": "Ghana's",
-          "startSec": 143.04,
-          "endSec": 143.68,
-          "score": 0.94
+          "word": "hundreds",
+          "start": 67.34,
+          "end": 67.84
         },
         {
-          "word": "first",
-          "startSec": 143.68,
-          "endSec": 143.98,
-          "score": 0.94
+          "word": "of",
+          "start": 67.84,
+          "end": 68.16
         },
         {
-          "word": "president,",
-          "startSec": 143.98,
-          "endSec": 144.76,
-          "score": 0.87
+          "word": "years.",
+          "start": 68.16,
+          "end": 68.96
         }
       ]
     },
     {
       "id": 16,
-      "start": 145.2,
-      "end": 154.75,
-      "text": "Makola Market, a busy market with food, clothes, and crafts, Jamestown, an old part of the city",
+      "start": 69.3,
+      "end": 72.56,
+      "text": "In the past there were forts and trading posts.",
       "words": [
         {
-          "word": "Makola",
-          "startSec": 145.4,
-          "endSec": 146.04,
-          "score": 0.29
-        },
-        {
-          "word": "Market,",
-          "startSec": 146.04,
-          "endSec": 146.58,
-          "score": 0.94
-        },
-        {
-          "word": "a",
-          "startSec": 147.28,
-          "endSec": 147.52,
-          "score": 0.82
-        },
-        {
-          "word": "busy",
-          "startSec": 147.52,
-          "endSec": 147.76,
-          "score": 0.98
-        },
-        {
-          "word": "market",
-          "startSec": 147.76,
-          "endSec": 148.4,
-          "score": 0.99
-        },
-        {
-          "word": "with",
-          "startSec": 148.4,
-          "endSec": 148.72,
-          "score": 0.99
-        },
-        {
-          "word": "food,",
-          "startSec": 148.72,
-          "endSec": 149.18,
-          "score": 0.99
-        },
-        {
-          "word": "clothes,",
-          "startSec": 149.36,
-          "endSec": 149.66,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 149.96,
-          "endSec": 150.0,
-          "score": 0.99
-        },
-        {
-          "word": "crafts,",
-          "startSec": 150.0,
-          "endSec": 150.36,
-          "score": 1.0
-        },
-        {
-          "word": "Jamestown,",
-          "startSec": 151.3,
-          "endSec": 152.3,
-          "score": 0.98
-        },
-        {
-          "word": "an",
-          "startSec": 152.78,
-          "endSec": 153.28,
-          "score": 0.96
-        },
-        {
-          "word": "old",
-          "startSec": 153.28,
-          "endSec": 153.6,
-          "score": 0.99
-        },
-        {
-          "word": "part",
-          "startSec": 153.6,
-          "endSec": 153.92,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 153.92,
-          "endSec": 154.1,
-          "score": 1.0
+          "word": "In",
+          "start": 69.3,
+          "end": 69.52
         },
         {
           "word": "the",
-          "startSec": 154.1,
-          "endSec": 154.24,
-          "score": 1.0
+          "start": 69.52,
+          "end": 69.66
         },
         {
-          "word": "city",
-          "startSec": 154.24,
-          "endSec": 154.6,
-          "score": 0.99
+          "word": "past",
+          "start": 69.66,
+          "end": 70.12
+        },
+        {
+          "word": "there",
+          "start": 70.12,
+          "end": 70.42
+        },
+        {
+          "word": "were",
+          "start": 70.42,
+          "end": 70.6
+        },
+        {
+          "word": "forts",
+          "start": 70.6,
+          "end": 71.02
+        },
+        {
+          "word": "and",
+          "start": 71.02,
+          "end": 71.3
+        },
+        {
+          "word": "trading",
+          "start": 71.3,
+          "end": 71.7
+        },
+        {
+          "word": "posts.",
+          "start": 71.7,
+          "end": 72.56
         }
       ]
     },
     {
       "id": 17,
-      "start": 154.4,
-      "end": 162.74,
-      "text": "with lighthouses and history, La Body Beach, a famous beach to relax and enjoy the sun.",
+      "start": 73.1,
+      "end": 78.8,
+      "text": "Accra grew as a trade city with gold, cocoa, and other products.",
       "words": [
         {
-          "word": "with",
-          "startSec": 154.6,
-          "endSec": 154.96,
-          "score": 0.95
+          "word": "Accra",
+          "start": 73.1,
+          "end": 73.46
         },
         {
-          "word": "lighthouses",
-          "startSec": 154.96,
-          "endSec": 155.76,
-          "score": 0.9
+          "word": "grew",
+          "start": 73.46,
+          "end": 73.74
         },
         {
-          "word": "and",
-          "startSec": 155.76,
-          "endSec": 156.18,
-          "score": 0.92
-        },
-        {
-          "word": "history,",
-          "startSec": 156.18,
-          "endSec": 156.52,
-          "score": 1.0
-        },
-        {
-          "word": "La",
-          "startSec": 158.07,
-          "endSec": 158.21,
-          "score": 0.42
-        },
-        {
-          "word": "Body",
-          "startSec": 158.21,
-          "endSec": 158.49,
-          "score": 0.22
-        },
-        {
-          "word": "Beach,",
-          "startSec": 158.49,
-          "endSec": 159.07,
-          "score": 0.98
+          "word": "as",
+          "start": 73.74,
+          "end": 74.0
         },
         {
           "word": "a",
-          "startSec": 159.57,
-          "endSec": 159.69,
-          "score": 0.99
+          "start": 74.0,
+          "end": 74.12
         },
         {
-          "word": "famous",
-          "startSec": 159.69,
-          "endSec": 160.15,
-          "score": 1.0
+          "word": "trade",
+          "start": 74.12,
+          "end": 74.54
         },
         {
-          "word": "beach",
-          "startSec": 160.15,
-          "endSec": 160.57,
-          "score": 0.98
+          "word": "city",
+          "start": 74.54,
+          "end": 75.04
         },
         {
-          "word": "to",
-          "startSec": 160.57,
-          "endSec": 160.95,
-          "score": 1.0
+          "word": "with",
+          "start": 75.04,
+          "end": 75.36
         },
         {
-          "word": "relax",
-          "startSec": 160.95,
-          "endSec": 161.25,
-          "score": 1.0
+          "word": "gold,",
+          "start": 75.36,
+          "end": 75.9
+        },
+        {
+          "word": "cocoa,",
+          "start": 75.9,
+          "end": 76.6
         },
         {
           "word": "and",
-          "startSec": 161.25,
-          "endSec": 161.67,
-          "score": 0.99
+          "start": 77.3,
+          "end": 77.32
         },
         {
-          "word": "enjoy",
-          "startSec": 161.67,
-          "endSec": 161.95,
-          "score": 1.0
+          "word": "other",
+          "start": 77.32,
+          "end": 77.6
         },
         {
-          "word": "the",
-          "startSec": 161.95,
-          "endSec": 162.23,
-          "score": 0.99
-        },
-        {
-          "word": "sun.",
-          "startSec": 162.23,
-          "endSec": 162.59,
-          "score": 0.94
+          "word": "products.",
+          "start": 77.6,
+          "end": 78.8
         }
       ]
     },
     {
       "id": 18,
-      "start": 164.14,
-      "end": 174.03,
-      "text": "Part six, food and Acra. Ghanaian food is delicious and spicy. People eat a lot of rice,",
+      "start": 79.08,
+      "end": 86.0,
+      "text": "Ghana became independent in 1957 and Accra became the capital.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 164.34,
-          "endSec": 164.46,
-          "score": 0.78
+          "word": "Ghana",
+          "start": 79.08,
+          "end": 79.5
         },
         {
-          "word": "six,",
-          "startSec": 164.46,
-          "endSec": 165.2,
-          "score": 0.24
+          "word": "became",
+          "start": 79.5,
+          "end": 79.94
         },
         {
-          "word": "food",
-          "startSec": 165.88,
-          "endSec": 166.22,
-          "score": 0.35
+          "word": "independent",
+          "start": 79.94,
+          "end": 80.9
         },
         {
-          "word": "and",
-          "startSec": 166.22,
-          "endSec": 166.46,
-          "score": 0.63
+          "word": "in",
+          "start": 80.9,
+          "end": 81.3
         },
         {
-          "word": "Acra.",
-          "startSec": 166.46,
-          "endSec": 167.02,
-          "score": 0.48
-        },
-        {
-          "word": "Ghanaian",
-          "startSec": 168.44,
-          "endSec": 169.16,
-          "score": 0.53
-        },
-        {
-          "word": "food",
-          "startSec": 169.16,
-          "endSec": 169.5,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 169.5,
-          "endSec": 169.8,
-          "score": 1.0
-        },
-        {
-          "word": "delicious",
-          "startSec": 169.8,
-          "endSec": 170.2,
-          "score": 1.0
+          "word": "1957",
+          "start": 81.3,
+          "end": 82.28
         },
         {
           "word": "and",
-          "startSec": 170.2,
-          "endSec": 170.68,
-          "score": 1.0
+          "start": 82.28,
+          "end": 83.78
         },
         {
-          "word": "spicy.",
-          "startSec": 170.68,
-          "endSec": 171.08,
-          "score": 1.0
+          "word": "Accra",
+          "start": 83.78,
+          "end": 84.3
         },
         {
-          "word": "People",
-          "startSec": 172.2,
-          "endSec": 172.48,
-          "score": 1.0
+          "word": "became",
+          "start": 84.3,
+          "end": 84.72
         },
         {
-          "word": "eat",
-          "startSec": 172.48,
-          "endSec": 172.96,
-          "score": 1.0
+          "word": "the",
+          "start": 84.72,
+          "end": 85.06
         },
         {
-          "word": "a",
-          "startSec": 172.96,
-          "endSec": 173.14,
-          "score": 1.0
-        },
-        {
-          "word": "lot",
-          "startSec": 173.14,
-          "endSec": 173.44,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 173.44,
-          "endSec": 173.6,
-          "score": 0.99
-        },
-        {
-          "word": "rice,",
-          "startSec": 173.6,
-          "endSec": 173.88,
-          "score": 1.0
+          "word": "capital.",
+          "start": 85.06,
+          "end": 86.0
         }
       ]
     },
     {
       "id": 19,
-      "start": 173.68,
-      "end": 183.03,
-      "text": "beans, plantains, and fish. A popular dish is Banco and Tilapia. Another favorite food is",
+      "start": 86.68,
+      "end": 92.3,
+      "text": "Today, Accra is modern and still has old historical sites.",
       "words": [
         {
-          "word": "beans,",
-          "startSec": 173.88,
-          "endSec": 174.56,
-          "score": 0.0
+          "word": "Today,",
+          "start": 86.68,
+          "end": 87.04
         },
         {
-          "word": "plantains,",
-          "startSec": 175.06,
-          "endSec": 175.66,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 175.66,
-          "endSec": 175.98,
-          "score": 0.99
-        },
-        {
-          "word": "fish.",
-          "startSec": 175.98,
-          "endSec": 176.32,
-          "score": 1.0
-        },
-        {
-          "word": "A",
-          "startSec": 177.4,
-          "endSec": 177.5,
-          "score": 0.82
-        },
-        {
-          "word": "popular",
-          "startSec": 177.5,
-          "endSec": 177.96,
-          "score": 0.99
-        },
-        {
-          "word": "dish",
-          "startSec": 177.96,
-          "endSec": 178.48,
-          "score": 1.0
+          "word": "Accra",
+          "start": 87.66,
+          "end": 88.04
         },
         {
           "word": "is",
-          "startSec": 178.48,
-          "endSec": 178.76,
-          "score": 1.0
+          "start": 88.04,
+          "end": 88.34
         },
         {
-          "word": "Banco",
-          "startSec": 178.76,
-          "endSec": 179.44,
-          "score": 0.38
+          "word": "modern",
+          "start": 88.34,
+          "end": 88.94
         },
         {
           "word": "and",
-          "startSec": 179.44,
-          "endSec": 179.64,
-          "score": 0.59
+          "start": 88.94,
+          "end": 89.4
         },
         {
-          "word": "Tilapia.",
-          "startSec": 179.64,
-          "endSec": 180.36,
-          "score": 0.77
+          "word": "still",
+          "start": 89.4,
+          "end": 89.88
         },
         {
-          "word": "Another",
-          "startSec": 181.38,
-          "endSec": 181.78,
-          "score": 0.99
+          "word": "has",
+          "start": 89.88,
+          "end": 90.24
         },
         {
-          "word": "favorite",
-          "startSec": 181.78,
-          "endSec": 182.14,
-          "score": 0.97
+          "word": "old",
+          "start": 90.24,
+          "end": 90.62
         },
         {
-          "word": "food",
-          "startSec": 182.14,
-          "endSec": 182.6,
-          "score": 1.0
+          "word": "historical",
+          "start": 90.62,
+          "end": 91.22
         },
         {
-          "word": "is",
-          "startSec": 182.6,
-          "endSec": 182.88,
-          "score": 1.0
+          "word": "sites.",
+          "start": 91.22,
+          "end": 92.3
         }
       ]
     },
     {
       "id": 20,
-      "start": 182.68,
-      "end": 193.36,
-      "text": "jalaf rice, rice with tomato sauce and spices. Street food is very common in Acra. You can eat",
+      "start": 92.9,
+      "end": 96.74,
+      "text": "Part 4, what does Accra look like?",
       "words": [
         {
-          "word": "jalaf",
-          "startSec": 182.88,
-          "endSec": 183.44,
-          "score": 0.45
+          "word": "Part",
+          "start": 92.9,
+          "end": 93.28
         },
         {
-          "word": "rice,",
-          "startSec": 183.44,
-          "endSec": 183.68,
-          "score": 0.98
+          "word": "4,",
+          "start": 93.28,
+          "end": 93.84
         },
         {
-          "word": "rice",
-          "startSec": 184.42,
-          "endSec": 184.82,
-          "score": 0.98
+          "word": "what",
+          "start": 94.42,
+          "end": 94.76
         },
         {
-          "word": "with",
-          "startSec": 184.82,
-          "endSec": 185.1,
-          "score": 1.0
+          "word": "does",
+          "start": 94.76,
+          "end": 95.02
         },
         {
-          "word": "tomato",
-          "startSec": 185.1,
-          "endSec": 185.46,
-          "score": 0.95
+          "word": "Accra",
+          "start": 95.02,
+          "end": 95.6
         },
         {
-          "word": "sauce",
-          "startSec": 185.46,
-          "endSec": 185.98,
-          "score": 0.98
+          "word": "look",
+          "start": 95.6,
+          "end": 95.88
         },
         {
-          "word": "and",
-          "startSec": 185.98,
-          "endSec": 186.38,
-          "score": 0.77
-        },
-        {
-          "word": "spices.",
-          "startSec": 186.38,
-          "endSec": 186.74,
-          "score": 1.0
-        },
-        {
-          "word": "Street",
-          "startSec": 188.71,
-          "endSec": 189.23,
-          "score": 0.95
-        },
-        {
-          "word": "food",
-          "startSec": 189.23,
-          "endSec": 189.55,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 189.55,
-          "endSec": 189.95,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 189.95,
-          "endSec": 190.37,
-          "score": 0.99
-        },
-        {
-          "word": "common",
-          "startSec": 190.37,
-          "endSec": 190.97,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 190.97,
-          "endSec": 191.29,
-          "score": 1.0
-        },
-        {
-          "word": "Acra.",
-          "startSec": 191.29,
-          "endSec": 191.87,
-          "score": 0.62
-        },
-        {
-          "word": "You",
-          "startSec": 192.51,
-          "endSec": 192.79,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 192.79,
-          "endSec": 192.99,
-          "score": 1.0
-        },
-        {
-          "word": "eat",
-          "startSec": 192.99,
-          "endSec": 193.21,
-          "score": 1.0
+          "word": "like?",
+          "start": 95.88,
+          "end": 96.74
         }
       ]
     },
     {
       "id": 21,
-      "start": 193.01,
-      "end": 205.42,
-      "text": "fried plantain, kebabs, and acara on the streets. Part seven, the people of Acra. People in Acra",
+      "start": 97.44,
+      "end": 103.4,
+      "text": "Accra has many modern buildings, streets, and shopping centers.",
       "words": [
         {
-          "word": "fried",
-          "startSec": 193.21,
-          "endSec": 193.59,
-          "score": 0.98
+          "word": "Accra",
+          "start": 97.44,
+          "end": 98.36
         },
         {
-          "word": "plantain,",
-          "startSec": 193.59,
-          "endSec": 194.57,
-          "score": 0.96
+          "word": "has",
+          "start": 98.36,
+          "end": 98.74
         },
         {
-          "word": "kebabs,",
-          "startSec": 195.11,
-          "endSec": 195.71,
-          "score": 0.8
+          "word": "many",
+          "start": 98.74,
+          "end": 99.08
+        },
+        {
+          "word": "modern",
+          "start": 99.08,
+          "end": 99.54
+        },
+        {
+          "word": "buildings,",
+          "start": 99.54,
+          "end": 100.08
+        },
+        {
+          "word": "streets,",
+          "start": 100.92,
+          "end": 101.28
         },
         {
           "word": "and",
-          "startSec": 196.17,
-          "endSec": 196.25,
-          "score": 1.0
+          "start": 101.86,
+          "end": 102.0
         },
         {
-          "word": "acara",
-          "startSec": 196.25,
-          "endSec": 196.87,
-          "score": 0.48
+          "word": "shopping",
+          "start": 102.0,
+          "end": 102.44
         },
         {
-          "word": "on",
-          "startSec": 196.87,
-          "endSec": 197.33,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 197.33,
-          "endSec": 197.51,
-          "score": 1.0
-        },
-        {
-          "word": "streets.",
-          "startSec": 197.51,
-          "endSec": 197.87,
-          "score": 0.99
-        },
-        {
-          "word": "Part",
-          "startSec": 200.26,
-          "endSec": 200.44,
-          "score": 0.9
-        },
-        {
-          "word": "seven,",
-          "startSec": 200.44,
-          "endSec": 201.14,
-          "score": 0.43
-        },
-        {
-          "word": "the",
-          "startSec": 201.7,
-          "endSec": 201.96,
-          "score": 0.9
-        },
-        {
-          "word": "people",
-          "startSec": 201.96,
-          "endSec": 202.24,
-          "score": 0.87
-        },
-        {
-          "word": "of",
-          "startSec": 202.24,
-          "endSec": 202.58,
-          "score": 1.0
-        },
-        {
-          "word": "Acra.",
-          "startSec": 202.58,
-          "endSec": 203.16,
-          "score": 0.96
-        },
-        {
-          "word": "People",
-          "startSec": 203.83,
-          "endSec": 204.35,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 204.35,
-          "endSec": 204.79,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 204.79,
-          "endSec": 205.27,
-          "score": 0.98
+          "word": "centers.",
+          "start": 102.44,
+          "end": 103.4
         }
       ]
     },
     {
       "id": 22,
-      "start": 205.07,
-      "end": 211.82,
-      "text": "are friendly and talkative. Most people speak English because it is the official language.",
+      "start": 103.76,
+      "end": 109.82,
+      "text": "It also has old neighborhoods with small houses and traditional markets.",
       "words": [
         {
-          "word": "are",
-          "startSec": 205.27,
-          "endSec": 205.27,
-          "score": 0.13
+          "word": "It",
+          "start": 103.76,
+          "end": 104.22
         },
         {
-          "word": "friendly",
-          "startSec": 205.27,
-          "endSec": 205.91,
-          "score": 0.93
+          "word": "also",
+          "start": 104.22,
+          "end": 104.68
+        },
+        {
+          "word": "has",
+          "start": 104.68,
+          "end": 105.1
+        },
+        {
+          "word": "old",
+          "start": 105.1,
+          "end": 105.52
+        },
+        {
+          "word": "neighborhoods",
+          "start": 105.52,
+          "end": 106.18
+        },
+        {
+          "word": "with",
+          "start": 106.18,
+          "end": 106.76
+        },
+        {
+          "word": "small",
+          "start": 106.76,
+          "end": 107.3
+        },
+        {
+          "word": "houses",
+          "start": 107.3,
+          "end": 107.9
         },
         {
           "word": "and",
-          "startSec": 205.91,
-          "endSec": 206.33,
-          "score": 0.99
+          "start": 107.9,
+          "end": 108.16
         },
         {
-          "word": "talkative.",
-          "startSec": 206.33,
-          "endSec": 206.97,
-          "score": 0.98
+          "word": "traditional",
+          "start": 108.16,
+          "end": 108.8
         },
         {
-          "word": "Most",
-          "startSec": 207.57,
-          "endSec": 207.85,
-          "score": 0.93
-        },
-        {
-          "word": "people",
-          "startSec": 207.85,
-          "endSec": 208.31,
-          "score": 0.99
-        },
-        {
-          "word": "speak",
-          "startSec": 208.31,
-          "endSec": 208.71,
-          "score": 1.0
-        },
-        {
-          "word": "English",
-          "startSec": 208.71,
-          "endSec": 209.29,
-          "score": 0.98
-        },
-        {
-          "word": "because",
-          "startSec": 209.29,
-          "endSec": 209.87,
-          "score": 0.97
-        },
-        {
-          "word": "it",
-          "startSec": 209.87,
-          "endSec": 210.31,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 210.31,
-          "endSec": 210.51,
-          "score": 0.98
-        },
-        {
-          "word": "the",
-          "startSec": 210.51,
-          "endSec": 210.69,
-          "score": 0.99
-        },
-        {
-          "word": "official",
-          "startSec": 210.69,
-          "endSec": 211.07,
-          "score": 0.99
-        },
-        {
-          "word": "language.",
-          "startSec": 211.07,
-          "endSec": 211.67,
-          "score": 1.0
+          "word": "markets.",
+          "start": 108.8,
+          "end": 109.82
         }
       ]
     },
     {
       "id": 23,
-      "start": 212.43,
-      "end": 221.52,
-      "text": "Many people also speak Tuis, Ga, and other local languages. Families are very important in Ghana.",
+      "start": 110.78,
+      "end": 114.62,
+      "text": "The city has green parks and wide roads.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 212.63,
-          "endSec": 212.91,
-          "score": 0.99
+          "word": "The",
+          "start": 110.78,
+          "end": 111.22
         },
         {
-          "word": "people",
-          "startSec": 212.91,
-          "endSec": 213.49,
-          "score": 0.98
+          "word": "city",
+          "start": 111.22,
+          "end": 111.58
         },
         {
-          "word": "also",
-          "startSec": 213.49,
-          "endSec": 213.83,
-          "score": 0.99
+          "word": "has",
+          "start": 111.58,
+          "end": 112.0
         },
         {
-          "word": "speak",
-          "startSec": 213.83,
-          "endSec": 214.45,
-          "score": 1.0
+          "word": "green",
+          "start": 112.0,
+          "end": 112.42
         },
         {
-          "word": "Tuis,",
-          "startSec": 214.45,
-          "endSec": 215.17,
-          "score": 0.3
-        },
-        {
-          "word": "Ga,",
-          "startSec": 215.55,
-          "endSec": 215.81,
-          "score": 0.24
+          "word": "parks",
+          "start": 112.42,
+          "end": 113.04
         },
         {
           "word": "and",
-          "startSec": 216.27,
-          "endSec": 216.39,
-          "score": 0.99
+          "start": 113.04,
+          "end": 113.34
         },
         {
-          "word": "other",
-          "startSec": 216.39,
-          "endSec": 216.71,
-          "score": 1.0
+          "word": "wide",
+          "start": 113.34,
+          "end": 113.68
         },
         {
-          "word": "local",
-          "startSec": 216.71,
-          "endSec": 217.01,
-          "score": 0.98
-        },
-        {
-          "word": "languages.",
-          "startSec": 217.01,
-          "endSec": 217.81,
-          "score": 0.99
-        },
-        {
-          "word": "Families",
-          "startSec": 218.97,
-          "endSec": 219.49,
-          "score": 0.99
-        },
-        {
-          "word": "are",
-          "startSec": 219.49,
-          "endSec": 219.95,
-          "score": 1.0
-        },
-        {
-          "word": "very",
-          "startSec": 219.95,
-          "endSec": 220.19,
-          "score": 0.99
-        },
-        {
-          "word": "important",
-          "startSec": 220.19,
-          "endSec": 220.85,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 220.85,
-          "endSec": 221.13,
-          "score": 0.99
-        },
-        {
-          "word": "Ghana.",
-          "startSec": 221.13,
-          "endSec": 221.37,
-          "score": 0.98
+          "word": "roads.",
+          "start": 113.68,
+          "end": 114.62
         }
       ]
     },
     {
       "id": 24,
-      "start": 222.33,
-      "end": 227.36,
-      "text": "People enjoy meeting friends, dancing, and listening to music.",
+      "start": 115.42,
+      "end": 120.08,
+      "text": "You can see the Atlantic Ocean in some parts of the city.",
       "words": [
         {
-          "word": "People",
-          "startSec": 222.53,
-          "endSec": 222.81,
-          "score": 0.99
+          "word": "You",
+          "start": 115.42,
+          "end": 115.86
         },
         {
-          "word": "enjoy",
-          "startSec": 222.81,
-          "endSec": 223.25,
-          "score": 1.0
+          "word": "can",
+          "start": 115.86,
+          "end": 116.1
         },
         {
-          "word": "meeting",
-          "startSec": 223.25,
-          "endSec": 223.93,
-          "score": 1.0
+          "word": "see",
+          "start": 116.1,
+          "end": 116.42
         },
         {
-          "word": "friends,",
-          "startSec": 223.93,
-          "endSec": 224.51,
-          "score": 1.0
+          "word": "the",
+          "start": 116.42,
+          "end": 116.62
         },
         {
-          "word": "dancing,",
-          "startSec": 224.51,
-          "endSec": 225.57,
-          "score": 0.99
+          "word": "Atlantic",
+          "start": 116.62,
+          "end": 117.14
         },
         {
-          "word": "and",
-          "startSec": 225.69,
-          "endSec": 226.03,
-          "score": 1.0
+          "word": "Ocean",
+          "start": 117.14,
+          "end": 117.82
         },
         {
-          "word": "listening",
-          "startSec": 226.03,
-          "endSec": 226.43,
-          "score": 1.0
+          "word": "in",
+          "start": 117.82,
+          "end": 118.24
         },
         {
-          "word": "to",
-          "startSec": 226.43,
-          "endSec": 226.77,
-          "score": 1.0
+          "word": "some",
+          "start": 118.24,
+          "end": 118.5
         },
         {
-          "word": "music.",
-          "startSec": 226.77,
-          "endSec": 227.21,
-          "score": 1.0
+          "word": "parts",
+          "start": 118.5,
+          "end": 118.96
+        },
+        {
+          "word": "of",
+          "start": 118.96,
+          "end": 119.14
+        },
+        {
+          "word": "the",
+          "start": 119.14,
+          "end": 119.3
+        },
+        {
+          "word": "city.",
+          "start": 119.3,
+          "end": 120.08
         }
       ]
     },
     {
       "id": 25,
-      "start": 228.01,
-      "end": 238.25,
-      "text": "Part eight, music and culture. Acra is full of music and culture. Ghana is famous for",
+      "start": 120.72,
+      "end": 124.76,
+      "text": "Accra is colorful and full of life.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 228.21,
-          "endSec": 228.63,
-          "score": 0.52
-        },
-        {
-          "word": "eight,",
-          "startSec": 228.63,
-          "endSec": 229.09,
-          "score": 0.21
-        },
-        {
-          "word": "music",
-          "startSec": 229.51,
-          "endSec": 230.01,
-          "score": 0.78
-        },
-        {
-          "word": "and",
-          "startSec": 230.01,
-          "endSec": 230.27,
-          "score": 0.92
-        },
-        {
-          "word": "culture.",
-          "startSec": 230.27,
-          "endSec": 230.67,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 232.68,
-          "endSec": 233.26,
-          "score": 0.55
+          "word": "Accra",
+          "start": 120.72,
+          "end": 121.6
         },
         {
           "word": "is",
-          "startSec": 233.26,
-          "endSec": 233.66,
-          "score": 0.99
+          "start": 121.6,
+          "end": 121.94
+        },
+        {
+          "word": "colorful",
+          "start": 121.94,
+          "end": 122.56
+        },
+        {
+          "word": "and",
+          "start": 122.56,
+          "end": 123.24
         },
         {
           "word": "full",
-          "startSec": 233.66,
-          "endSec": 234.0,
-          "score": 0.99
+          "start": 123.24,
+          "end": 123.72
         },
         {
           "word": "of",
-          "startSec": 234.0,
-          "endSec": 234.24,
-          "score": 1.0
+          "start": 123.72,
+          "end": 123.9
         },
         {
-          "word": "music",
-          "startSec": 234.24,
-          "endSec": 234.66,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 234.66,
-          "endSec": 234.94,
-          "score": 0.99
-        },
-        {
-          "word": "culture.",
-          "startSec": 234.94,
-          "endSec": 235.28,
-          "score": 1.0
-        },
-        {
-          "word": "Ghana",
-          "startSec": 236.16,
-          "endSec": 236.52,
-          "score": 0.92
-        },
-        {
-          "word": "is",
-          "startSec": 236.52,
-          "endSec": 237.1,
-          "score": 1.0
-        },
-        {
-          "word": "famous",
-          "startSec": 237.1,
-          "endSec": 237.64,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 237.64,
-          "endSec": 238.1,
-          "score": 1.0
+          "word": "life.",
+          "start": 123.9,
+          "end": 124.76
         }
       ]
     },
     {
       "id": 26,
-      "start": 237.9,
-      "end": 246.99,
-      "text": "high life and hip life music. Many people dance to music in the streets, festivals, and clubs.",
+      "start": 125.64,
+      "end": 129.26,
+      "text": "Part 5, famous places to visit.",
       "words": [
         {
-          "word": "high",
-          "startSec": 238.1,
-          "endSec": 238.44,
-          "score": 0.78
+          "word": "Part",
+          "start": 125.64,
+          "end": 126.14
         },
         {
-          "word": "life",
-          "startSec": 238.44,
-          "endSec": 238.86,
-          "score": 0.82
+          "word": "5,",
+          "start": 126.14,
+          "end": 126.76
         },
         {
-          "word": "and",
-          "startSec": 238.86,
-          "endSec": 239.46,
-          "score": 0.97
+          "word": "famous",
+          "start": 126.98,
+          "end": 127.44
         },
         {
-          "word": "hip",
-          "startSec": 239.46,
-          "endSec": 239.78,
-          "score": 0.99
-        },
-        {
-          "word": "life",
-          "startSec": 239.78,
-          "endSec": 240.18,
-          "score": 0.86
-        },
-        {
-          "word": "music.",
-          "startSec": 240.18,
-          "endSec": 240.76,
-          "score": 1.0
-        },
-        {
-          "word": "Many",
-          "startSec": 241.76,
-          "endSec": 242.06,
-          "score": 0.99
-        },
-        {
-          "word": "people",
-          "startSec": 242.06,
-          "endSec": 242.64,
-          "score": 1.0
-        },
-        {
-          "word": "dance",
-          "startSec": 242.64,
-          "endSec": 243.04,
-          "score": 0.99
+          "word": "places",
+          "start": 127.44,
+          "end": 128.1
         },
         {
           "word": "to",
-          "startSec": 243.04,
-          "endSec": 243.42,
-          "score": 1.0
+          "start": 128.1,
+          "end": 128.48
         },
         {
-          "word": "music",
-          "startSec": 243.42,
-          "endSec": 243.78,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 243.78,
-          "endSec": 244.14,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 244.14,
-          "endSec": 244.28,
-          "score": 1.0
-        },
-        {
-          "word": "streets,",
-          "startSec": 244.28,
-          "endSec": 244.74,
-          "score": 1.0
-        },
-        {
-          "word": "festivals,",
-          "startSec": 244.8,
-          "endSec": 245.56,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 246.32,
-          "endSec": 246.4,
-          "score": 1.0
-        },
-        {
-          "word": "clubs.",
-          "startSec": 246.4,
-          "endSec": 246.84,
-          "score": 1.0
+          "word": "visit.",
+          "start": 128.48,
+          "end": 129.26
         }
       ]
     },
     {
       "id": 27,
-      "start": 247.8,
-      "end": 257.51,
-      "text": "The city has art centers, theaters, and cultural events. Traditional dances and colorful clothes",
+      "start": 130.02,
+      "end": 133.44,
+      "text": "There are many interesting places in Accra.",
       "words": [
         {
-          "word": "The",
-          "startSec": 248.0,
-          "endSec": 248.14,
-          "score": 1.0
+          "word": "There",
+          "start": 130.02,
+          "end": 130.3
         },
         {
-          "word": "city",
-          "startSec": 248.14,
-          "endSec": 248.48,
-          "score": 0.96
+          "word": "are",
+          "start": 130.3,
+          "end": 130.46
         },
         {
-          "word": "has",
-          "startSec": 248.48,
-          "endSec": 248.88,
-          "score": 1.0
+          "word": "many",
+          "start": 130.46,
+          "end": 130.8
         },
         {
-          "word": "art",
-          "startSec": 248.88,
-          "endSec": 249.24,
-          "score": 0.9
+          "word": "interesting",
+          "start": 130.8,
+          "end": 131.5
         },
         {
-          "word": "centers,",
-          "startSec": 249.24,
-          "endSec": 249.9,
-          "score": 0.99
+          "word": "places",
+          "start": 131.5,
+          "end": 132.14
         },
         {
-          "word": "theaters,",
-          "startSec": 249.98,
-          "endSec": 250.74,
-          "score": 0.94
+          "word": "in",
+          "start": 132.14,
+          "end": 132.5
         },
         {
-          "word": "and",
-          "startSec": 251.42,
-          "endSec": 251.62,
-          "score": 1.0
-        },
-        {
-          "word": "cultural",
-          "startSec": 251.62,
-          "endSec": 251.96,
-          "score": 1.0
-        },
-        {
-          "word": "events.",
-          "startSec": 251.96,
-          "endSec": 252.76,
-          "score": 1.0
-        },
-        {
-          "word": "Traditional",
-          "startSec": 254.02,
-          "endSec": 254.44,
-          "score": 0.96
-        },
-        {
-          "word": "dances",
-          "startSec": 254.44,
-          "endSec": 255.28,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 255.28,
-          "endSec": 256.18,
-          "score": 0.96
-        },
-        {
-          "word": "colorful",
-          "startSec": 256.18,
-          "endSec": 256.64,
-          "score": 0.98
-        },
-        {
-          "word": "clothes",
-          "startSec": 256.64,
-          "endSec": 257.36,
-          "score": 0.99
+          "word": "Accra.",
+          "start": 132.5,
+          "end": 133.44
         }
       ]
     },
     {
       "id": 28,
-      "start": 257.16,
-      "end": 267.29,
-      "text": "are part of daily life. Part nine, nature and Acra. Acra is close to beautiful nature.",
+      "start": 134.0,
+      "end": 138.62,
+      "text": "Independence Square, a big square for celebrations.",
       "words": [
         {
-          "word": "are",
-          "startSec": 257.36,
-          "endSec": 257.74,
-          "score": 0.11
+          "word": "Independence",
+          "start": 134.0,
+          "end": 134.74
         },
         {
-          "word": "part",
-          "startSec": 257.74,
-          "endSec": 258.0,
-          "score": 0.88
+          "word": "Square,",
+          "start": 134.74,
+          "end": 135.48
         },
         {
-          "word": "of",
-          "startSec": 258.0,
-          "endSec": 258.3,
-          "score": 0.99
+          "word": "a",
+          "start": 136.14,
+          "end": 136.28
         },
         {
-          "word": "daily",
-          "startSec": 258.3,
-          "endSec": 258.56,
-          "score": 0.98
+          "word": "big",
+          "start": 136.28,
+          "end": 136.52
         },
         {
-          "word": "life.",
-          "startSec": 258.56,
-          "endSec": 259.38,
-          "score": 1.0
+          "word": "square",
+          "start": 136.52,
+          "end": 137.0
         },
         {
-          "word": "Part",
-          "startSec": 260.72,
-          "endSec": 260.9,
-          "score": 0.74
+          "word": "for",
+          "start": 137.0,
+          "end": 137.34
         },
         {
-          "word": "nine,",
-          "startSec": 260.9,
-          "endSec": 261.5,
-          "score": 0.34
-        },
-        {
-          "word": "nature",
-          "startSec": 261.92,
-          "endSec": 262.52,
-          "score": 0.77
-        },
-        {
-          "word": "and",
-          "startSec": 262.52,
-          "endSec": 262.84,
-          "score": 0.62
-        },
-        {
-          "word": "Acra.",
-          "startSec": 262.84,
-          "endSec": 263.28,
-          "score": 0.49
-        },
-        {
-          "word": "Acra",
-          "startSec": 264.28,
-          "endSec": 265.06,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 265.06,
-          "endSec": 265.38,
-          "score": 1.0
-        },
-        {
-          "word": "close",
-          "startSec": 265.38,
-          "endSec": 265.72,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 265.72,
-          "endSec": 266.08,
-          "score": 1.0
-        },
-        {
-          "word": "beautiful",
-          "startSec": 266.08,
-          "endSec": 266.36,
-          "score": 1.0
-        },
-        {
-          "word": "nature.",
-          "startSec": 266.36,
-          "endSec": 267.14,
-          "score": 1.0
+          "word": "celebrations.",
+          "start": 137.34,
+          "end": 138.62
         }
       ]
     },
     {
       "id": 29,
-      "start": 267.8,
-      "end": 274.85,
-      "text": "The beaches are perfect for walking and swimming. There are parks like legon botanical gardens.",
+      "start": 139.24,
+      "end": 150.88,
+      "text": "Kwame Nakruma Mausoleum, a monument for Ghana's first president, Makola Market, a busy market with food, clothes, and crafts.",
       "words": [
         {
-          "word": "The",
-          "startSec": 268.0,
-          "endSec": 268.14,
-          "score": 0.99
+          "word": "Kwame",
+          "start": 139.24,
+          "end": 139.74
         },
         {
-          "word": "beaches",
-          "startSec": 268.14,
-          "endSec": 268.42,
-          "score": 1.0
+          "word": "Nakruma",
+          "start": 139.74,
+          "end": 140.48
         },
         {
-          "word": "are",
-          "startSec": 268.42,
-          "endSec": 268.8,
-          "score": 1.0
+          "word": "Mausoleum,",
+          "start": 140.48,
+          "end": 141.6
         },
         {
-          "word": "perfect",
-          "startSec": 268.8,
-          "endSec": 269.2,
-          "score": 1.0
+          "word": "a",
+          "start": 142.04,
+          "end": 142.2
+        },
+        {
+          "word": "monument",
+          "start": 142.2,
+          "end": 142.68
         },
         {
           "word": "for",
-          "startSec": 269.2,
-          "endSec": 269.54,
-          "score": 1.0
+          "start": 142.68,
+          "end": 143.1
         },
         {
-          "word": "walking",
-          "startSec": 269.54,
-          "endSec": 269.94,
-          "score": 1.0
+          "word": "Ghana's",
+          "start": 143.1,
+          "end": 143.8
+        },
+        {
+          "word": "first",
+          "start": 143.8,
+          "end": 144.06
+        },
+        {
+          "word": "president,",
+          "start": 144.06,
+          "end": 144.8
+        },
+        {
+          "word": "Makola",
+          "start": 145.44,
+          "end": 146.12
+        },
+        {
+          "word": "Market,",
+          "start": 146.12,
+          "end": 146.62
+        },
+        {
+          "word": "a",
+          "start": 147.2,
+          "end": 147.58
+        },
+        {
+          "word": "busy",
+          "start": 147.58,
+          "end": 147.94
+        },
+        {
+          "word": "market",
+          "start": 147.94,
+          "end": 148.44
+        },
+        {
+          "word": "with",
+          "start": 148.44,
+          "end": 148.78
+        },
+        {
+          "word": "food,",
+          "start": 148.78,
+          "end": 149.26
+        },
+        {
+          "word": "clothes,",
+          "start": 149.38,
+          "end": 149.74
         },
         {
           "word": "and",
-          "startSec": 269.94,
-          "endSec": 270.28,
-          "score": 1.0
+          "start": 150.02,
+          "end": 150.08
         },
         {
-          "word": "swimming.",
-          "startSec": 270.28,
-          "endSec": 270.58,
-          "score": 1.0
-        },
-        {
-          "word": "There",
-          "startSec": 271.68,
-          "endSec": 271.88,
-          "score": 0.96
-        },
-        {
-          "word": "are",
-          "startSec": 271.88,
-          "endSec": 272.04,
-          "score": 1.0
-        },
-        {
-          "word": "parks",
-          "startSec": 272.04,
-          "endSec": 272.34,
-          "score": 0.98
-        },
-        {
-          "word": "like",
-          "startSec": 272.34,
-          "endSec": 272.86,
-          "score": 0.98
-        },
-        {
-          "word": "legon",
-          "startSec": 272.86,
-          "endSec": 273.46,
-          "score": 0.44
-        },
-        {
-          "word": "botanical",
-          "startSec": 273.46,
-          "endSec": 274.12,
-          "score": 0.98
-        },
-        {
-          "word": "gardens.",
-          "startSec": 274.12,
-          "endSec": 274.7,
-          "score": 0.99
+          "word": "crafts.",
+          "start": 150.08,
+          "end": 150.88
         }
       ]
     },
     {
       "id": 30,
-      "start": 275.6,
-      "end": 285.44,
-      "text": "People enjoy nature walks, picnics, and bird watching. In the city, you can also see palm trees",
+      "start": 151.62,
+      "end": 157.2,
+      "text": "Jamestown, an old part of the city with lighthouses and history.",
       "words": [
         {
-          "word": "People",
-          "startSec": 275.8,
-          "endSec": 276.3,
-          "score": 0.99
+          "word": "Jamestown,",
+          "start": 151.62,
+          "end": 152.42
         },
         {
-          "word": "enjoy",
-          "startSec": 276.3,
-          "endSec": 276.88,
-          "score": 1.0
+          "word": "an",
+          "start": 153.12,
+          "end": 153.36
         },
         {
-          "word": "nature",
-          "startSec": 276.88,
-          "endSec": 277.58,
-          "score": 1.0
+          "word": "old",
+          "start": 153.36,
+          "end": 153.64
         },
         {
-          "word": "walks,",
-          "startSec": 277.58,
-          "endSec": 278.04,
-          "score": 0.99
+          "word": "part",
+          "start": 153.64,
+          "end": 153.96
         },
         {
-          "word": "picnics,",
-          "startSec": 278.68,
-          "endSec": 279.48,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 279.86,
-          "endSec": 279.94,
-          "score": 1.0
-        },
-        {
-          "word": "bird",
-          "startSec": 279.94,
-          "endSec": 280.2,
-          "score": 1.0
-        },
-        {
-          "word": "watching.",
-          "startSec": 280.2,
-          "endSec": 280.64,
-          "score": 0.89
-        },
-        {
-          "word": "In",
-          "startSec": 281.99,
-          "endSec": 282.35,
-          "score": 0.99
+          "word": "of",
+          "start": 153.96,
+          "end": 154.18
         },
         {
           "word": "the",
-          "startSec": 282.35,
-          "endSec": 282.49,
-          "score": 0.99
+          "start": 154.18,
+          "end": 154.3
         },
         {
-          "word": "city,",
-          "startSec": 282.49,
-          "endSec": 282.87,
-          "score": 0.97
+          "word": "city",
+          "start": 154.3,
+          "end": 154.66
         },
         {
-          "word": "you",
-          "startSec": 283.35,
-          "endSec": 283.59,
-          "score": 1.0
+          "word": "with",
+          "start": 154.66,
+          "end": 155.06
         },
         {
-          "word": "can",
-          "startSec": 283.59,
-          "endSec": 283.77,
-          "score": 1.0
+          "word": "lighthouses",
+          "start": 155.06,
+          "end": 155.88
         },
         {
-          "word": "also",
-          "startSec": 283.77,
-          "endSec": 284.03,
-          "score": 1.0
+          "word": "and",
+          "start": 155.88,
+          "end": 156.24
         },
         {
-          "word": "see",
-          "startSec": 284.03,
-          "endSec": 284.51,
-          "score": 1.0
-        },
-        {
-          "word": "palm",
-          "startSec": 284.51,
-          "endSec": 284.81,
-          "score": 1.0
-        },
-        {
-          "word": "trees",
-          "startSec": 284.81,
-          "endSec": 285.29,
-          "score": 1.0
+          "word": "history.",
+          "start": 156.24,
+          "end": 157.2
         }
       ]
     },
     {
       "id": 31,
-      "start": 285.09,
-      "end": 297.85,
-      "text": "and gardens. Part 10, daily life in Acra. Life in Acra is busy but friendly. People go to work,",
+      "start": 158.1,
+      "end": 163.12,
+      "text": "Labadi Beach, a famous beach to relax and enjoy the sun.",
       "words": [
         {
-          "word": "and",
-          "startSec": 285.29,
-          "endSec": 285.67,
-          "score": 0.08
+          "word": "Labadi",
+          "start": 158.1,
+          "end": 158.64
         },
         {
-          "word": "gardens.",
-          "startSec": 285.67,
-          "endSec": 285.95,
-          "score": 0.77
+          "word": "Beach,",
+          "start": 158.64,
+          "end": 159.12
         },
         {
-          "word": "Part",
-          "startSec": 289.32,
-          "endSec": 289.58,
-          "score": 0.85
+          "word": "a",
+          "start": 159.6,
+          "end": 159.78
         },
         {
-          "word": "10,",
-          "startSec": 289.58,
-          "endSec": 290.1,
-          "score": 0.88
+          "word": "famous",
+          "start": 159.78,
+          "end": 160.18
         },
         {
-          "word": "daily",
-          "startSec": 290.52,
-          "endSec": 290.76,
-          "score": 0.44
-        },
-        {
-          "word": "life",
-          "startSec": 290.76,
-          "endSec": 291.22,
-          "score": 0.94
-        },
-        {
-          "word": "in",
-          "startSec": 291.22,
-          "endSec": 291.44,
-          "score": 0.7
-        },
-        {
-          "word": "Acra.",
-          "startSec": 291.44,
-          "endSec": 291.94,
-          "score": 0.54
-        },
-        {
-          "word": "Life",
-          "startSec": 292.62,
-          "endSec": 293.12,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 293.12,
-          "endSec": 293.4,
-          "score": 0.99
-        },
-        {
-          "word": "Acra",
-          "startSec": 293.4,
-          "endSec": 293.82,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 293.82,
-          "endSec": 294.1,
-          "score": 0.99
-        },
-        {
-          "word": "busy",
-          "startSec": 294.1,
-          "endSec": 294.44,
-          "score": 0.99
-        },
-        {
-          "word": "but",
-          "startSec": 294.44,
-          "endSec": 295.02,
-          "score": 0.87
-        },
-        {
-          "word": "friendly.",
-          "startSec": 295.02,
-          "endSec": 295.42,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 296.46,
-          "endSec": 296.86,
-          "score": 1.0
-        },
-        {
-          "word": "go",
-          "startSec": 296.86,
-          "endSec": 297.14,
-          "score": 1.0
+          "word": "beach",
+          "start": 160.18,
+          "end": 160.64
         },
         {
           "word": "to",
-          "startSec": 297.14,
-          "endSec": 297.3,
-          "score": 1.0
+          "start": 160.64,
+          "end": 160.98
         },
         {
-          "word": "work,",
-          "startSec": 297.3,
-          "endSec": 297.7,
-          "score": 0.98
+          "word": "relax",
+          "start": 160.98,
+          "end": 161.38
+        },
+        {
+          "word": "and",
+          "start": 161.38,
+          "end": 161.7
+        },
+        {
+          "word": "enjoy",
+          "start": 161.7,
+          "end": 162.06
+        },
+        {
+          "word": "the",
+          "start": 162.06,
+          "end": 162.28
+        },
+        {
+          "word": "sun.",
+          "start": 162.28,
+          "end": 163.12
         }
       ]
     },
     {
       "id": 32,
-      "start": 297.56,
-      "end": 306.14,
-      "text": "school, or markets. Transportation includes buses, taxis, and trotros shared many buses.",
+      "start": 164.56,
+      "end": 167.42,
+      "text": "Part 6, Food in Accra.",
       "words": [
         {
-          "word": "school,",
-          "startSec": 297.76,
-          "endSec": 298.26,
-          "score": 1.0
+          "word": "Part",
+          "start": 164.56,
+          "end": 164.64
         },
         {
-          "word": "or",
-          "startSec": 298.72,
-          "endSec": 298.76,
-          "score": 1.0
+          "word": "6,",
+          "start": 164.64,
+          "end": 165.18
         },
         {
-          "word": "markets.",
-          "startSec": 298.76,
-          "endSec": 299.22,
-          "score": 0.99
+          "word": "Food",
+          "start": 165.92,
+          "end": 166.32
         },
         {
-          "word": "Transportation",
-          "startSec": 300.23,
-          "endSec": 300.93,
-          "score": 0.99
+          "word": "in",
+          "start": 166.32,
+          "end": 166.54
         },
         {
-          "word": "includes",
-          "startSec": 300.93,
-          "endSec": 301.69,
-          "score": 1.0
-        },
-        {
-          "word": "buses,",
-          "startSec": 301.69,
-          "endSec": 302.43,
-          "score": 0.97
-        },
-        {
-          "word": "taxis,",
-          "startSec": 302.43,
-          "endSec": 302.91,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 303.51,
-          "endSec": 303.57,
-          "score": 1.0
-        },
-        {
-          "word": "trotros",
-          "startSec": 303.57,
-          "endSec": 304.73,
-          "score": 0.45
-        },
-        {
-          "word": "shared",
-          "startSec": 304.73,
-          "endSec": 305.21,
-          "score": 0.58
-        },
-        {
-          "word": "many",
-          "startSec": 305.21,
-          "endSec": 305.59,
-          "score": 0.25
-        },
-        {
-          "word": "buses.",
-          "startSec": 305.59,
-          "endSec": 305.99,
-          "score": 0.97
+          "word": "Accra.",
+          "start": 166.54,
+          "end": 167.42
         }
       ]
     },
     {
       "id": 33,
-      "start": 306.97,
-      "end": 313.84,
-      "text": "In the evenings, families relax at home or visit friends. Weekends are for shopping,",
+      "start": 168.44,
+      "end": 171.64,
+      "text": "Ghanaian food is delicious and spicy.",
       "words": [
         {
-          "word": "In",
-          "startSec": 307.17,
-          "endSec": 307.45,
-          "score": 1.0
+          "word": "Ghanaian",
+          "start": 168.44,
+          "end": 169.24
         },
         {
-          "word": "the",
-          "startSec": 307.45,
-          "endSec": 307.63,
-          "score": 1.0
+          "word": "food",
+          "start": 169.24,
+          "end": 169.56
         },
         {
-          "word": "evenings,",
-          "startSec": 307.63,
-          "endSec": 308.09,
-          "score": 0.99
+          "word": "is",
+          "start": 169.56,
+          "end": 169.86
         },
         {
-          "word": "families",
-          "startSec": 308.63,
-          "endSec": 309.11,
-          "score": 1.0
+          "word": "delicious",
+          "start": 169.86,
+          "end": 170.42
         },
         {
-          "word": "relax",
-          "startSec": 309.11,
-          "endSec": 309.55,
-          "score": 0.99
+          "word": "and",
+          "start": 170.42,
+          "end": 170.74
         },
         {
-          "word": "at",
-          "startSec": 309.55,
-          "endSec": 310.07,
-          "score": 1.0
-        },
-        {
-          "word": "home",
-          "startSec": 310.07,
-          "endSec": 310.37,
-          "score": 1.0
-        },
-        {
-          "word": "or",
-          "startSec": 310.37,
-          "endSec": 310.79,
-          "score": 0.92
-        },
-        {
-          "word": "visit",
-          "startSec": 310.79,
-          "endSec": 311.19,
-          "score": 1.0
-        },
-        {
-          "word": "friends.",
-          "startSec": 311.19,
-          "endSec": 311.61,
-          "score": 0.99
-        },
-        {
-          "word": "Weekends",
-          "startSec": 312.39,
-          "endSec": 312.79,
-          "score": 0.84
-        },
-        {
-          "word": "are",
-          "startSec": 312.79,
-          "endSec": 313.01,
-          "score": 0.99
-        },
-        {
-          "word": "for",
-          "startSec": 313.01,
-          "endSec": 313.21,
-          "score": 1.0
-        },
-        {
-          "word": "shopping,",
-          "startSec": 313.21,
-          "endSec": 313.69,
-          "score": 1.0
+          "word": "spicy.",
+          "start": 170.74,
+          "end": 171.64
         }
       ]
     },
     {
       "id": 34,
-      "start": 313.49,
-      "end": 320.5,
-      "text": "music, and festivals. People in Acra love to spend time together.",
+      "start": 172.2,
+      "end": 176.76,
+      "text": "People eat a lot of rice, beans, plantains, and fish.",
       "words": [
         {
-          "word": "music,",
-          "startSec": 313.69,
-          "endSec": 314.33,
-          "score": 0.01
+          "word": "People",
+          "start": 172.2,
+          "end": 172.68
+        },
+        {
+          "word": "eat",
+          "start": 172.68,
+          "end": 173.06
+        },
+        {
+          "word": "a",
+          "start": 173.06,
+          "end": 173.22
+        },
+        {
+          "word": "lot",
+          "start": 173.22,
+          "end": 173.46
+        },
+        {
+          "word": "of",
+          "start": 173.46,
+          "end": 173.62
+        },
+        {
+          "word": "rice,",
+          "start": 173.62,
+          "end": 174.04
+        },
+        {
+          "word": "beans,",
+          "start": 174.04,
+          "end": 174.82
+        },
+        {
+          "word": "plantains,",
+          "start": 175.04,
+          "end": 175.76
         },
         {
           "word": "and",
-          "startSec": 314.35,
-          "endSec": 315.41,
-          "score": 0.89
+          "start": 175.88,
+          "end": 176.04
         },
         {
-          "word": "festivals.",
-          "startSec": 315.41,
-          "endSec": 315.79,
-          "score": 1.0
-        },
-        {
-          "word": "People",
-          "startSec": 317.15,
-          "endSec": 317.59,
-          "score": 0.78
-        },
-        {
-          "word": "in",
-          "startSec": 317.59,
-          "endSec": 317.89,
-          "score": 0.97
-        },
-        {
-          "word": "Acra",
-          "startSec": 317.89,
-          "endSec": 318.41,
-          "score": 0.55
-        },
-        {
-          "word": "love",
-          "startSec": 318.41,
-          "endSec": 318.89,
-          "score": 0.98
-        },
-        {
-          "word": "to",
-          "startSec": 318.89,
-          "endSec": 319.21,
-          "score": 1.0
-        },
-        {
-          "word": "spend",
-          "startSec": 319.21,
-          "endSec": 319.51,
-          "score": 1.0
-        },
-        {
-          "word": "time",
-          "startSec": 319.51,
-          "endSec": 319.89,
-          "score": 1.0
-        },
-        {
-          "word": "together.",
-          "startSec": 319.89,
-          "endSec": 320.35,
-          "score": 1.0
+          "word": "fish.",
+          "start": 176.04,
+          "end": 176.76
         }
       ]
     },
     {
       "id": 35,
-      "start": 321.4,
-      "end": 331.51,
-      "text": "Part 11, learning English in Acra. English is the main language in Acra. Schools teach English",
+      "start": 177.32,
+      "end": 180.88,
+      "text": "A popular dish is banku and tilapia.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 321.6,
-          "endSec": 321.82,
-          "score": 0.83
+          "word": "A",
+          "start": 177.32,
+          "end": 177.56
         },
         {
-          "word": "11,",
-          "startSec": 321.82,
-          "endSec": 322.44,
-          "score": 0.95
+          "word": "popular",
+          "start": 177.56,
+          "end": 178.04
         },
         {
-          "word": "learning",
-          "startSec": 323.0,
-          "endSec": 323.42,
-          "score": 0.55
-        },
-        {
-          "word": "English",
-          "startSec": 323.42,
-          "endSec": 324.26,
-          "score": 0.99
-        },
-        {
-          "word": "in",
-          "startSec": 324.26,
-          "endSec": 324.58,
-          "score": 0.94
-        },
-        {
-          "word": "Acra.",
-          "startSec": 324.58,
-          "endSec": 325.12,
-          "score": 0.96
-        },
-        {
-          "word": "English",
-          "startSec": 325.66,
-          "endSec": 326.44,
-          "score": 0.99
+          "word": "dish",
+          "start": 178.04,
+          "end": 178.52
         },
         {
           "word": "is",
-          "startSec": 326.44,
-          "endSec": 326.82,
-          "score": 1.0
+          "start": 178.52,
+          "end": 178.86
         },
         {
-          "word": "the",
-          "startSec": 326.82,
-          "endSec": 327.08,
-          "score": 1.0
+          "word": "banku",
+          "start": 178.86,
+          "end": 179.54
         },
         {
-          "word": "main",
-          "startSec": 327.08,
-          "endSec": 327.36,
-          "score": 0.99
+          "word": "and",
+          "start": 179.54,
+          "end": 179.72
         },
         {
-          "word": "language",
-          "startSec": 327.36,
-          "endSec": 328.0,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 328.0,
-          "endSec": 328.28,
-          "score": 1.0
-        },
-        {
-          "word": "Acra.",
-          "startSec": 328.28,
-          "endSec": 328.78,
-          "score": 0.98
-        },
-        {
-          "word": "Schools",
-          "startSec": 329.72,
-          "endSec": 330.26,
-          "score": 0.97
-        },
-        {
-          "word": "teach",
-          "startSec": 330.26,
-          "endSec": 330.7,
-          "score": 1.0
-        },
-        {
-          "word": "English",
-          "startSec": 330.7,
-          "endSec": 331.36,
-          "score": 0.99
+          "word": "tilapia.",
+          "start": 179.72,
+          "end": 180.88
         }
       ]
     },
     {
       "id": 36,
-      "start": 331.16,
-      "end": 344.33,
-      "text": "from a young age. You can easily speak English with locals. Visiting Acra is a good way to",
+      "start": 181.2,
+      "end": 184.24,
+      "text": "Another favorite food is jalaf rice.",
       "words": [
         {
-          "word": "from",
-          "startSec": 331.36,
-          "endSec": 331.78,
-          "score": 1.0
+          "word": "Another",
+          "start": 181.2,
+          "end": 181.82
         },
         {
-          "word": "a",
-          "startSec": 331.78,
-          "endSec": 331.96,
-          "score": 1.0
+          "word": "favorite",
+          "start": 181.82,
+          "end": 182.28
         },
         {
-          "word": "young",
-          "startSec": 331.96,
-          "endSec": 332.18,
-          "score": 1.0
-        },
-        {
-          "word": "age.",
-          "startSec": 332.18,
-          "endSec": 332.68,
-          "score": 1.0
-        },
-        {
-          "word": "You",
-          "startSec": 333.85,
-          "endSec": 334.09,
-          "score": 1.0
-        },
-        {
-          "word": "can",
-          "startSec": 334.09,
-          "endSec": 334.31,
-          "score": 1.0
-        },
-        {
-          "word": "easily",
-          "startSec": 334.31,
-          "endSec": 334.67,
-          "score": 1.0
-        },
-        {
-          "word": "speak",
-          "startSec": 334.67,
-          "endSec": 335.39,
-          "score": 1.0
-        },
-        {
-          "word": "English",
-          "startSec": 335.39,
-          "endSec": 335.97,
-          "score": 1.0
-        },
-        {
-          "word": "with",
-          "startSec": 335.97,
-          "endSec": 336.35,
-          "score": 1.0
-        },
-        {
-          "word": "locals.",
-          "startSec": 336.35,
-          "endSec": 336.67,
-          "score": 0.99
-        },
-        {
-          "word": "Visiting",
-          "startSec": 338.2,
-          "endSec": 338.88,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 338.88,
-          "endSec": 339.42,
-          "score": 0.91
+          "word": "food",
+          "start": 182.28,
+          "end": 182.68
         },
         {
           "word": "is",
-          "startSec": 339.42,
-          "endSec": 339.8,
-          "score": 0.99
+          "start": 182.68,
+          "end": 182.9
         },
         {
-          "word": "a",
-          "startSec": 339.8,
-          "endSec": 339.96,
-          "score": 1.0
+          "word": "jalaf",
+          "start": 182.9,
+          "end": 183.54
         },
         {
-          "word": "good",
-          "startSec": 339.96,
-          "endSec": 340.18,
-          "score": 1.0
-        },
-        {
-          "word": "way",
-          "startSec": 340.18,
-          "endSec": 344.08,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 344.18,
-          "endSec": 344.18,
-          "score": 1.0
+          "word": "rice.",
+          "start": 183.54,
+          "end": 184.24
         }
       ]
     },
     {
       "id": 37,
-      "start": 343.98,
-      "end": 351.92,
-      "text": "learn some local words in Twi or Ga. People are happy when tourists try to speak their language.",
+      "start": 184.56,
+      "end": 187.4,
+      "text": "Rice with tomato sauce and spices.",
       "words": [
         {
-          "word": "learn",
-          "startSec": 344.18,
-          "endSec": 344.36,
-          "score": 0.1
+          "word": "Rice",
+          "start": 184.56,
+          "end": 184.88
         },
         {
-          "word": "some",
-          "startSec": 344.36,
-          "endSec": 344.58,
-          "score": 0.95
+          "word": "with",
+          "start": 184.88,
+          "end": 185.16
         },
         {
-          "word": "local",
-          "startSec": 344.58,
-          "endSec": 344.96,
-          "score": 0.93
+          "word": "tomato",
+          "start": 185.16,
+          "end": 185.62
         },
         {
-          "word": "words",
-          "startSec": 344.96,
-          "endSec": 345.58,
-          "score": 0.98
+          "word": "sauce",
+          "start": 185.62,
+          "end": 186.08
         },
         {
-          "word": "in",
-          "startSec": 345.58,
-          "endSec": 345.94,
-          "score": 0.9
+          "word": "and",
+          "start": 186.08,
+          "end": 186.46
         },
         {
-          "word": "Twi",
-          "startSec": 345.94,
-          "endSec": 346.48,
-          "score": 0.49
-        },
-        {
-          "word": "or",
-          "startSec": 346.48,
-          "endSec": 346.66,
-          "score": 0.82
-        },
-        {
-          "word": "Ga.",
-          "startSec": 346.66,
-          "endSec": 346.88,
-          "score": 0.18
-        },
-        {
-          "word": "People",
-          "startSec": 347.65,
-          "endSec": 348.29,
-          "score": 0.9
-        },
-        {
-          "word": "are",
-          "startSec": 348.29,
-          "endSec": 348.65,
-          "score": 1.0
-        },
-        {
-          "word": "happy",
-          "startSec": 348.65,
-          "endSec": 349.11,
-          "score": 1.0
-        },
-        {
-          "word": "when",
-          "startSec": 349.11,
-          "endSec": 349.51,
-          "score": 0.99
-        },
-        {
-          "word": "tourists",
-          "startSec": 349.51,
-          "endSec": 349.83,
-          "score": 0.99
-        },
-        {
-          "word": "try",
-          "startSec": 349.83,
-          "endSec": 350.45,
-          "score": 0.99
-        },
-        {
-          "word": "to",
-          "startSec": 350.45,
-          "endSec": 350.69,
-          "score": 0.99
-        },
-        {
-          "word": "speak",
-          "startSec": 350.69,
-          "endSec": 351.03,
-          "score": 1.0
-        },
-        {
-          "word": "their",
-          "startSec": 351.03,
-          "endSec": 351.41,
-          "score": 1.0
-        },
-        {
-          "word": "language.",
-          "startSec": 351.41,
-          "endSec": 351.77,
-          "score": 0.99
+          "word": "spices.",
+          "start": 186.46,
+          "end": 187.4
         }
       ]
     },
     {
       "id": 38,
-      "start": 353.7,
-      "end": 364.47,
-      "text": "Part 12, goodbye from Acra. Our journey in Acra is now finished. We learned about the city's history,",
+      "start": 188.46,
+      "end": 192.26,
+      "text": "Street food is very common in Accra.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 353.9,
-          "endSec": 354.04,
-          "score": 0.56
+          "word": "Street",
+          "start": 188.46,
+          "end": 189.26
         },
         {
-          "word": "12,",
-          "startSec": 354.04,
-          "endSec": 354.7,
-          "score": 0.94
-        },
-        {
-          "word": "goodbye",
-          "startSec": 355.7,
-          "endSec": 355.76,
-          "score": 0.23
-        },
-        {
-          "word": "from",
-          "startSec": 355.76,
-          "endSec": 356.4,
-          "score": 0.99
-        },
-        {
-          "word": "Acra.",
-          "startSec": 356.4,
-          "endSec": 356.92,
-          "score": 0.54
-        },
-        {
-          "word": "Our",
-          "startSec": 358.13,
-          "endSec": 358.47,
-          "score": 0.99
-        },
-        {
-          "word": "journey",
-          "startSec": 358.47,
-          "endSec": 358.79,
-          "score": 0.98
-        },
-        {
-          "word": "in",
-          "startSec": 358.79,
-          "endSec": 359.25,
-          "score": 0.97
-        },
-        {
-          "word": "Acra",
-          "startSec": 359.25,
-          "endSec": 359.73,
-          "score": 0.96
+          "word": "food",
+          "start": 189.26,
+          "end": 189.64
         },
         {
           "word": "is",
-          "startSec": 359.73,
-          "endSec": 360.05,
-          "score": 1.0
+          "start": 189.64,
+          "end": 190.02
         },
         {
-          "word": "now",
-          "startSec": 360.05,
-          "endSec": 360.35,
-          "score": 1.0
+          "word": "very",
+          "start": 190.02,
+          "end": 190.4
         },
         {
-          "word": "finished.",
-          "startSec": 360.35,
-          "endSec": 360.79,
-          "score": 1.0
+          "word": "common",
+          "start": 190.4,
+          "end": 191.0
         },
         {
-          "word": "We",
-          "startSec": 362.0,
-          "endSec": 362.26,
-          "score": 0.99
+          "word": "in",
+          "start": 191.0,
+          "end": 191.36
         },
         {
-          "word": "learned",
-          "startSec": 362.26,
-          "endSec": 362.52,
-          "score": 0.95
-        },
-        {
-          "word": "about",
-          "startSec": 362.52,
-          "endSec": 362.98,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 362.98,
-          "endSec": 363.18,
-          "score": 0.99
-        },
-        {
-          "word": "city's",
-          "startSec": 363.18,
-          "endSec": 363.76,
-          "score": 0.97
-        },
-        {
-          "word": "history,",
-          "startSec": 363.76,
-          "endSec": 364.32,
-          "score": 1.0
+          "word": "Accra.",
+          "start": 191.36,
+          "end": 192.26
         }
       ]
     },
     {
       "id": 39,
-      "start": 364.68,
-      "end": 374.06,
-      "text": "markets, beaches, food, and people. Acra is a city full of colors, life, and culture.",
+      "start": 192.48,
+      "end": 198.44,
+      "text": "You can eat fried plantain, kebabs, and acara on the streets.",
       "words": [
         {
-          "word": "markets,",
-          "startSec": 364.88,
-          "endSec": 365.52,
-          "score": 0.99
+          "word": "You",
+          "start": 192.48,
+          "end": 192.82
         },
         {
-          "word": "beaches,",
-          "startSec": 365.94,
-          "endSec": 366.14,
-          "score": 1.0
+          "word": "can",
+          "start": 192.82,
+          "end": 193.08
         },
         {
-          "word": "food,",
-          "startSec": 366.8,
-          "endSec": 367.14,
-          "score": 1.0
+          "word": "eat",
+          "start": 193.08,
+          "end": 193.26
         },
         {
-          "word": "and",
-          "startSec": 367.6,
-          "endSec": 367.74,
-          "score": 1.0
+          "word": "fried",
+          "start": 193.26,
+          "end": 193.72
         },
         {
-          "word": "people.",
-          "startSec": 367.74,
-          "endSec": 368.18,
-          "score": 1.0
+          "word": "plantain,",
+          "start": 193.72,
+          "end": 194.82
         },
         {
-          "word": "Acra",
-          "startSec": 369.13,
-          "endSec": 369.83,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 369.83,
-          "endSec": 370.05,
-          "score": 0.98
-        },
-        {
-          "word": "a",
-          "startSec": 370.05,
-          "endSec": 370.15,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 370.15,
-          "endSec": 370.49,
-          "score": 1.0
-        },
-        {
-          "word": "full",
-          "startSec": 370.49,
-          "endSec": 370.85,
-          "score": 0.99
-        },
-        {
-          "word": "of",
-          "startSec": 370.85,
-          "endSec": 371.03,
-          "score": 1.0
-        },
-        {
-          "word": "colors,",
-          "startSec": 371.03,
-          "endSec": 371.55,
-          "score": 0.93
-        },
-        {
-          "word": "life,",
-          "startSec": 372.41,
-          "endSec": 372.75,
-          "score": 1.0
+          "word": "kebabs,",
+          "start": 195.16,
+          "end": 195.86
         },
         {
           "word": "and",
-          "startSec": 373.47,
-          "endSec": 373.61,
-          "score": 1.0
+          "start": 196.14,
+          "end": 196.3
         },
         {
-          "word": "culture.",
-          "startSec": 373.61,
-          "endSec": 373.91,
-          "score": 1.0
+          "word": "acara",
+          "start": 196.3,
+          "end": 196.9
+        },
+        {
+          "word": "on",
+          "start": 196.9,
+          "end": 197.38
+        },
+        {
+          "word": "the",
+          "start": 197.38,
+          "end": 197.56
+        },
+        {
+          "word": "streets.",
+          "start": 197.56,
+          "end": 198.44
         }
       ]
     },
     {
       "id": 40,
-      "start": 383.42,
-      "end": 394.89,
-      "text": "to the Slow English Podcast. I am Emily and I hope you can visit Acra one day. Goodbye or as",
+      "start": 199.64,
+      "end": 203.58,
+      "text": "Part 7, the people of Accra.",
       "words": [
         {
-          "word": "to",
-          "startSec": 383.62,
-          "endSec": 384.02,
-          "score": 1.0
+          "word": "Part",
+          "start": 199.64,
+          "end": 200.56
+        },
+        {
+          "word": "7,",
+          "start": 200.56,
+          "end": 201.16
         },
         {
           "word": "the",
-          "startSec": 384.02,
-          "endSec": 384.18,
-          "score": 0.94
+          "start": 201.84,
+          "end": 202.0
         },
         {
-          "word": "Slow",
-          "startSec": 384.18,
-          "endSec": 384.46,
-          "score": 0.67
+          "word": "people",
+          "start": 202.0,
+          "end": 202.4
         },
         {
-          "word": "English",
-          "startSec": 384.46,
-          "endSec": 384.84,
-          "score": 0.9
+          "word": "of",
+          "start": 202.4,
+          "end": 202.7
         },
         {
-          "word": "Podcast.",
-          "startSec": 384.84,
-          "endSec": 385.38,
-          "score": 0.72
-        },
-        {
-          "word": "I",
-          "startSec": 386.69,
-          "endSec": 387.17,
-          "score": 1.0
-        },
-        {
-          "word": "am",
-          "startSec": 387.17,
-          "endSec": 387.35,
-          "score": 0.97
-        },
-        {
-          "word": "Emily",
-          "startSec": 387.35,
-          "endSec": 387.75,
-          "score": 0.97
-        },
-        {
-          "word": "and",
-          "startSec": 387.75,
-          "endSec": 388.71,
-          "score": 0.57
-        },
-        {
-          "word": "I",
-          "startSec": 388.71,
-          "endSec": 388.89,
-          "score": 0.98
-        },
-        {
-          "word": "hope",
-          "startSec": 388.89,
-          "endSec": 389.23,
-          "score": 1.0
-        },
-        {
-          "word": "you",
-          "startSec": 389.23,
-          "endSec": 389.51,
-          "score": 0.99
-        },
-        {
-          "word": "can",
-          "startSec": 389.51,
-          "endSec": 389.73,
-          "score": 0.99
-        },
-        {
-          "word": "visit",
-          "startSec": 389.73,
-          "endSec": 390.11,
-          "score": 1.0
-        },
-        {
-          "word": "Acra",
-          "startSec": 390.11,
-          "endSec": 390.59,
-          "score": 0.11
-        },
-        {
-          "word": "one",
-          "startSec": 390.59,
-          "endSec": 390.99,
-          "score": 0.77
-        },
-        {
-          "word": "day.",
-          "startSec": 390.99,
-          "endSec": 391.43,
-          "score": 1.0
-        },
-        {
-          "word": "Goodbye",
-          "startSec": 392.56,
-          "endSec": 393.08,
-          "score": 0.76
-        },
-        {
-          "word": "or",
-          "startSec": 393.08,
-          "endSec": 394.34,
-          "score": 0.35
-        },
-        {
-          "word": "as",
-          "startSec": 394.34,
-          "endSec": 394.74,
-          "score": 0.96
+          "word": "Accra.",
+          "start": 202.7,
+          "end": 203.58
         }
       ]
     },
     {
       "id": 41,
-      "start": 394.54,
-      "end": 398.04,
-      "text": "Canadians sometimes say, bye bye.",
+      "start": 203.84,
+      "end": 207.39,
+      "text": "People in Accra are friendly and talkative.",
       "words": [
         {
-          "word": "Canadians",
-          "startSec": 394.74,
-          "endSec": 395.1,
-          "score": 0.0
+          "word": "People",
+          "start": 203.84,
+          "end": 204.58
+        },
+        {
+          "word": "in",
+          "start": 204.58,
+          "end": 204.88
+        },
+        {
+          "word": "Accra",
+          "start": 204.88,
+          "end": 205.34
+        },
+        {
+          "word": "are",
+          "start": 205.34,
+          "end": 205.58
+        },
+        {
+          "word": "friendly",
+          "start": 205.58,
+          "end": 206.08
+        },
+        {
+          "word": "and",
+          "start": 206.08,
+          "end": 206.4
+        },
+        {
+          "word": "talkative.",
+          "start": 206.4,
+          "end": 207.39
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 207.62,
+      "end": 212.24,
+      "text": "Most people speak English because it is the official language.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 207.62,
+          "end": 207.92
+        },
+        {
+          "word": "people",
+          "start": 207.92,
+          "end": 208.32
+        },
+        {
+          "word": "speak",
+          "start": 208.32,
+          "end": 208.78
+        },
+        {
+          "word": "English",
+          "start": 208.78,
+          "end": 209.36
+        },
+        {
+          "word": "because",
+          "start": 209.36,
+          "end": 210.02
+        },
+        {
+          "word": "it",
+          "start": 210.02,
+          "end": 210.34
+        },
+        {
+          "word": "is",
+          "start": 210.34,
+          "end": 210.54
+        },
+        {
+          "word": "the",
+          "start": 210.54,
+          "end": 210.74
+        },
+        {
+          "word": "official",
+          "start": 210.74,
+          "end": 211.24
+        },
+        {
+          "word": "language.",
+          "start": 211.24,
+          "end": 212.24
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 212.64,
+      "end": 218.32,
+      "text": "Many people also speak Tui, Ga, and other local languages.",
+      "words": [
+        {
+          "word": "Many",
+          "start": 212.64,
+          "end": 213.04
+        },
+        {
+          "word": "people",
+          "start": 213.04,
+          "end": 213.48
+        },
+        {
+          "word": "also",
+          "start": 213.48,
+          "end": 214.02
+        },
+        {
+          "word": "speak",
+          "start": 214.02,
+          "end": 214.48
+        },
+        {
+          "word": "Tui,",
+          "start": 214.48,
+          "end": 215.08
+        },
+        {
+          "word": "Ga,",
+          "start": 215.58,
+          "end": 215.96
+        },
+        {
+          "word": "and",
+          "start": 216.2,
+          "end": 216.44
+        },
+        {
+          "word": "other",
+          "start": 216.44,
+          "end": 216.74
+        },
+        {
+          "word": "local",
+          "start": 216.74,
+          "end": 217.18
+        },
+        {
+          "word": "languages.",
+          "start": 217.18,
+          "end": 218.32
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 219.06,
+      "end": 221.94,
+      "text": "Families are very important in Ghana.",
+      "words": [
+        {
+          "word": "Families",
+          "start": 219.06,
+          "end": 219.66
+        },
+        {
+          "word": "are",
+          "start": 219.66,
+          "end": 220.0
+        },
+        {
+          "word": "very",
+          "start": 220.0,
+          "end": 220.34
+        },
+        {
+          "word": "important",
+          "start": 220.34,
+          "end": 220.94
+        },
+        {
+          "word": "in",
+          "start": 220.94,
+          "end": 221.18
+        },
+        {
+          "word": "Ghana.",
+          "start": 221.18,
+          "end": 221.94
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 222.5,
+      "end": 227.66,
+      "text": "People enjoy meeting friends, dancing, and listening to music.",
+      "words": [
+        {
+          "word": "People",
+          "start": 222.5,
+          "end": 222.98
+        },
+        {
+          "word": "enjoy",
+          "start": 222.98,
+          "end": 223.6
+        },
+        {
+          "word": "meeting",
+          "start": 223.6,
+          "end": 223.94
+        },
+        {
+          "word": "friends,",
+          "start": 223.94,
+          "end": 224.7
+        },
+        {
+          "word": "dancing,",
+          "start": 225.28,
+          "end": 225.68
+        },
+        {
+          "word": "and",
+          "start": 225.68,
+          "end": 226.08
+        },
+        {
+          "word": "listening",
+          "start": 226.08,
+          "end": 226.48
+        },
+        {
+          "word": "to",
+          "start": 226.48,
+          "end": 226.82
+        },
+        {
+          "word": "music.",
+          "start": 226.82,
+          "end": 227.66
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 228.28,
+      "end": 231.32,
+      "text": "Part 8, Music and Culture.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 228.28,
+          "end": 228.72
+        },
+        {
+          "word": "8,",
+          "start": 228.72,
+          "end": 229.24
+        },
+        {
+          "word": "Music",
+          "start": 229.74,
+          "end": 230.0
+        },
+        {
+          "word": "and",
+          "start": 230.0,
+          "end": 230.34
+        },
+        {
+          "word": "Culture.",
+          "start": 230.34,
+          "end": 231.32
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 232.38,
+      "end": 235.9,
+      "text": "Accra is full of music and culture.",
+      "words": [
+        {
+          "word": "Accra",
+          "start": 232.38,
+          "end": 233.26
+        },
+        {
+          "word": "is",
+          "start": 233.26,
+          "end": 233.72
+        },
+        {
+          "word": "full",
+          "start": 233.72,
+          "end": 234.12
+        },
+        {
+          "word": "of",
+          "start": 234.12,
+          "end": 234.32
+        },
+        {
+          "word": "music",
+          "start": 234.32,
+          "end": 234.68
+        },
+        {
+          "word": "and",
+          "start": 234.68,
+          "end": 234.98
+        },
+        {
+          "word": "culture.",
+          "start": 234.98,
+          "end": 235.9
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 236.16,
+      "end": 241.22,
+      "text": "Ghana is famous for high life and hip life music.",
+      "words": [
+        {
+          "word": "Ghana",
+          "start": 236.16,
+          "end": 236.66
+        },
+        {
+          "word": "is",
+          "start": 236.66,
+          "end": 237.22
+        },
+        {
+          "word": "famous",
+          "start": 237.22,
+          "end": 237.74
+        },
+        {
+          "word": "for",
+          "start": 237.74,
+          "end": 238.16
+        },
+        {
+          "word": "high",
+          "start": 238.16,
+          "end": 238.6
+        },
+        {
+          "word": "life",
+          "start": 238.6,
+          "end": 238.96
+        },
+        {
+          "word": "and",
+          "start": 238.96,
+          "end": 239.54
+        },
+        {
+          "word": "hip",
+          "start": 239.54,
+          "end": 239.92
+        },
+        {
+          "word": "life",
+          "start": 239.92,
+          "end": 240.24
+        },
+        {
+          "word": "music.",
+          "start": 240.24,
+          "end": 241.22
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 241.82,
+      "end": 247.34,
+      "text": "Many people dance to music in the streets, festivals, and clubs.",
+      "words": [
+        {
+          "word": "Many",
+          "start": 241.82,
+          "end": 242.2
+        },
+        {
+          "word": "people",
+          "start": 242.2,
+          "end": 242.64
+        },
+        {
+          "word": "dance",
+          "start": 242.64,
+          "end": 243.14
+        },
+        {
+          "word": "to",
+          "start": 243.14,
+          "end": 243.46
+        },
+        {
+          "word": "music",
+          "start": 243.46,
+          "end": 243.86
+        },
+        {
+          "word": "in",
+          "start": 243.86,
+          "end": 244.22
+        },
+        {
+          "word": "the",
+          "start": 244.22,
+          "end": 244.36
+        },
+        {
+          "word": "streets,",
+          "start": 244.36,
+          "end": 244.8
+        },
+        {
+          "word": "festivals,",
+          "start": 245.32,
+          "end": 245.9
+        },
+        {
+          "word": "and",
+          "start": 246.36,
+          "end": 246.5
+        },
+        {
+          "word": "clubs.",
+          "start": 246.5,
+          "end": 247.34
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 248.0,
+      "end": 252.94,
+      "text": "The city has art centers, theaters, and cultural events.",
+      "words": [
+        {
+          "word": "The",
+          "start": 248.0,
+          "end": 248.2
+        },
+        {
+          "word": "city",
+          "start": 248.2,
+          "end": 248.56
+        },
+        {
+          "word": "has",
+          "start": 248.56,
+          "end": 248.96
+        },
+        {
+          "word": "art",
+          "start": 248.96,
+          "end": 249.44
+        },
+        {
+          "word": "centers,",
+          "start": 249.44,
+          "end": 249.92
+        },
+        {
+          "word": "theaters,",
+          "start": 250.64,
+          "end": 250.86
+        },
+        {
+          "word": "and",
+          "start": 251.54,
+          "end": 251.66
+        },
+        {
+          "word": "cultural",
+          "start": 251.66,
+          "end": 252.2
+        },
+        {
+          "word": "events.",
+          "start": 252.2,
+          "end": 252.94
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 252.94,
+      "end": 259.8,
+      "text": "Traditional dances and colorful clothes are part of daily life.",
+      "words": [
+        {
+          "word": "Traditional",
+          "start": 252.94,
+          "end": 254.6
+        },
+        {
+          "word": "dances",
+          "start": 254.6,
+          "end": 255.54
+        },
+        {
+          "word": "and",
+          "start": 255.54,
+          "end": 256.24
+        },
+        {
+          "word": "colorful",
+          "start": 256.24,
+          "end": 256.9
+        },
+        {
+          "word": "clothes",
+          "start": 256.9,
+          "end": 257.52
+        },
+        {
+          "word": "are",
+          "start": 257.52,
+          "end": 257.78
+        },
+        {
+          "word": "part",
+          "start": 257.78,
+          "end": 258.12
+        },
+        {
+          "word": "of",
+          "start": 258.12,
+          "end": 258.32
+        },
+        {
+          "word": "daily",
+          "start": 258.32,
+          "end": 258.66
+        },
+        {
+          "word": "life.",
+          "start": 258.66,
+          "end": 259.8
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 260.44,
+      "end": 263.72,
+      "text": "Part 9, Nature in Accra.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 260.44,
+          "end": 260.92
+        },
+        {
+          "word": "9,",
+          "start": 260.92,
+          "end": 261.54
+        },
+        {
+          "word": "Nature",
+          "start": 261.96,
+          "end": 262.48
+        },
+        {
+          "word": "in",
+          "start": 262.48,
+          "end": 262.88
+        },
+        {
+          "word": "Accra.",
+          "start": 262.88,
+          "end": 263.72
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 264.22,
+      "end": 267.62,
+      "text": "Accra is close to beautiful nature.",
+      "words": [
+        {
+          "word": "Accra",
+          "start": 264.22,
+          "end": 265.1
+        },
+        {
+          "word": "is",
+          "start": 265.1,
+          "end": 265.44
+        },
+        {
+          "word": "close",
+          "start": 265.44,
+          "end": 265.86
+        },
+        {
+          "word": "to",
+          "start": 265.86,
+          "end": 266.12
+        },
+        {
+          "word": "beautiful",
+          "start": 266.12,
+          "end": 266.6
+        },
+        {
+          "word": "nature.",
+          "start": 266.6,
+          "end": 267.62
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 267.98,
+      "end": 271.16,
+      "text": "The beaches are perfect for walking and swimming.",
+      "words": [
+        {
+          "word": "The",
+          "start": 267.98,
+          "end": 268.18
+        },
+        {
+          "word": "beaches",
+          "start": 268.18,
+          "end": 268.56
+        },
+        {
+          "word": "are",
+          "start": 268.56,
+          "end": 268.88
+        },
+        {
+          "word": "perfect",
+          "start": 268.88,
+          "end": 269.28
+        },
+        {
+          "word": "for",
+          "start": 269.28,
+          "end": 269.6
+        },
+        {
+          "word": "walking",
+          "start": 269.6,
+          "end": 270.02
+        },
+        {
+          "word": "and",
+          "start": 270.02,
+          "end": 270.34
+        },
+        {
+          "word": "swimming.",
+          "start": 270.34,
+          "end": 271.16
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 271.66,
+      "end": 275.28,
+      "text": "There are parks like Ligon Botanical Gardens.",
+      "words": [
+        {
+          "word": "There",
+          "start": 271.66,
+          "end": 271.94
+        },
+        {
+          "word": "are",
+          "start": 271.94,
+          "end": 272.12
+        },
+        {
+          "word": "parks",
+          "start": 272.12,
+          "end": 272.58
+        },
+        {
+          "word": "like",
+          "start": 272.58,
+          "end": 272.96
+        },
+        {
+          "word": "Ligon",
+          "start": 272.96,
+          "end": 273.44
+        },
+        {
+          "word": "Botanical",
+          "start": 273.44,
+          "end": 274.32
+        },
+        {
+          "word": "Gardens.",
+          "start": 274.32,
+          "end": 275.28
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 275.94,
+      "end": 281.28,
+      "text": "People enjoy nature walks, picnics, and bird watching.",
+      "words": [
+        {
+          "word": "People",
+          "start": 275.94,
+          "end": 276.42
+        },
+        {
+          "word": "enjoy",
+          "start": 276.42,
+          "end": 277.1
+        },
+        {
+          "word": "nature",
+          "start": 277.1,
+          "end": 277.58
+        },
+        {
+          "word": "walks,",
+          "start": 277.58,
+          "end": 278.22
+        },
+        {
+          "word": "picnics,",
+          "start": 278.22,
+          "end": 279.52
+        },
+        {
+          "word": "and",
+          "start": 279.96,
+          "end": 279.96
+        },
+        {
+          "word": "bird",
+          "start": 279.96,
+          "end": 280.32
+        },
+        {
+          "word": "watching.",
+          "start": 280.32,
+          "end": 281.28
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 281.66,
+      "end": 286.6,
+      "text": "In the city, you can also see palm trees and gardens.",
+      "words": [
+        {
+          "word": "In",
+          "start": 281.66,
+          "end": 282.36
+        },
+        {
+          "word": "the",
+          "start": 282.36,
+          "end": 282.56
+        },
+        {
+          "word": "city,",
+          "start": 282.56,
+          "end": 282.96
+        },
+        {
+          "word": "you",
+          "start": 283.46,
+          "end": 283.64
+        },
+        {
+          "word": "can",
+          "start": 283.64,
+          "end": 283.84
+        },
+        {
+          "word": "also",
+          "start": 283.84,
+          "end": 284.18
+        },
+        {
+          "word": "see",
+          "start": 284.18,
+          "end": 284.54
+        },
+        {
+          "word": "palm",
+          "start": 284.54,
+          "end": 284.98
+        },
+        {
+          "word": "trees",
+          "start": 284.98,
+          "end": 285.38
+        },
+        {
+          "word": "and",
+          "start": 285.38,
+          "end": 285.7
+        },
+        {
+          "word": "gardens.",
+          "start": 285.7,
+          "end": 286.6
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 288.8,
+      "end": 292.32,
+      "text": "Part 10, Daily Life in Accra.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 288.8,
+          "end": 289.6
+        },
+        {
+          "word": "10,",
+          "start": 289.6,
+          "end": 290.16
+        },
+        {
+          "word": "Daily",
+          "start": 290.5,
+          "end": 290.78
+        },
+        {
+          "word": "Life",
+          "start": 290.78,
+          "end": 291.24
+        },
+        {
+          "word": "in",
+          "start": 291.24,
+          "end": 291.48
+        },
+        {
+          "word": "Accra.",
+          "start": 291.48,
+          "end": 292.32
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 292.58,
+      "end": 296.06,
+      "text": "Life in Accra is busy but friendly.",
+      "words": [
+        {
+          "word": "Life",
+          "start": 292.58,
+          "end": 293.18
+        },
+        {
+          "word": "in",
+          "start": 293.18,
+          "end": 293.46
+        },
+        {
+          "word": "Accra",
+          "start": 293.46,
+          "end": 293.78
+        },
+        {
+          "word": "is",
+          "start": 293.78,
+          "end": 294.2
+        },
+        {
+          "word": "busy",
+          "start": 294.2,
+          "end": 294.74
+        },
+        {
+          "word": "but",
+          "start": 294.74,
+          "end": 295.04
+        },
+        {
+          "word": "friendly.",
+          "start": 295.04,
+          "end": 296.06
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 296.46,
+      "end": 299.68,
+      "text": "People go to work, school, or markets.",
+      "words": [
+        {
+          "word": "People",
+          "start": 296.46,
+          "end": 296.86
+        },
+        {
+          "word": "go",
+          "start": 296.86,
+          "end": 297.16
+        },
+        {
+          "word": "to",
+          "start": 297.16,
+          "end": 297.34
+        },
+        {
+          "word": "work,",
+          "start": 297.34,
+          "end": 297.72
+        },
+        {
+          "word": "school,",
+          "start": 298.08,
+          "end": 298.5
+        },
+        {
+          "word": "or",
+          "start": 298.5,
+          "end": 298.78
+        },
+        {
+          "word": "markets.",
+          "start": 298.78,
+          "end": 299.68
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 300.16,
+      "end": 306.58,
+      "text": "Transportation includes buses, taxis, and trotros shared mini buses.",
+      "words": [
+        {
+          "word": "Transportation",
+          "start": 300.16,
+          "end": 300.96
+        },
+        {
+          "word": "includes",
+          "start": 300.96,
+          "end": 302.0
+        },
+        {
+          "word": "buses,",
+          "start": 302.0,
+          "end": 302.5
+        },
+        {
+          "word": "taxis,",
+          "start": 302.78,
+          "end": 303.4
+        },
+        {
+          "word": "and",
+          "start": 303.4,
+          "end": 303.64
+        },
+        {
+          "word": "trotros",
+          "start": 303.64,
+          "end": 304.58
+        },
+        {
+          "word": "shared",
+          "start": 304.58,
+          "end": 305.34
+        },
+        {
+          "word": "mini",
+          "start": 305.34,
+          "end": 305.7
+        },
+        {
+          "word": "buses.",
+          "start": 305.7,
+          "end": 306.58
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 307.36,
+      "end": 312.17,
+      "text": "In the evenings, families relax at home or visit friends.",
+      "words": [
+        {
+          "word": "In",
+          "start": 307.36,
+          "end": 307.48
+        },
+        {
+          "word": "the",
+          "start": 307.48,
+          "end": 307.68
+        },
+        {
+          "word": "evenings,",
+          "start": 307.68,
+          "end": 308.18
+        },
+        {
+          "word": "families",
+          "start": 308.78,
+          "end": 309.18
+        },
+        {
+          "word": "relax",
+          "start": 309.18,
+          "end": 309.78
+        },
+        {
+          "word": "at",
+          "start": 309.78,
+          "end": 310.12
+        },
+        {
+          "word": "home",
+          "start": 310.12,
+          "end": 310.5
+        },
+        {
+          "word": "or",
+          "start": 310.5,
+          "end": 310.82
+        },
+        {
+          "word": "visit",
+          "start": 310.82,
+          "end": 311.22
+        },
+        {
+          "word": "friends.",
+          "start": 311.22,
+          "end": 312.17
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 312.38,
+      "end": 316.46,
+      "text": "Weekends are for shopping, music, and festivals.",
+      "words": [
+        {
+          "word": "Weekends",
+          "start": 312.38,
+          "end": 312.82
+        },
+        {
+          "word": "are",
+          "start": 312.82,
+          "end": 313.04
+        },
+        {
+          "word": "for",
+          "start": 313.04,
+          "end": 313.26
+        },
+        {
+          "word": "shopping,",
+          "start": 313.26,
+          "end": 313.84
+        },
+        {
+          "word": "music,",
+          "start": 314.32,
+          "end": 314.92
+        },
+        {
+          "word": "and",
+          "start": 315.3,
+          "end": 315.44
+        },
+        {
+          "word": "festivals.",
+          "start": 315.44,
+          "end": 316.46
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 317.26,
+      "end": 320.44,
+      "text": "People in Accra love to spend time together.",
+      "words": [
+        {
+          "word": "People",
+          "start": 317.26,
+          "end": 317.62
+        },
+        {
+          "word": "in",
+          "start": 317.62,
+          "end": 317.94
+        },
+        {
+          "word": "Accra",
+          "start": 317.94,
+          "end": 318.48
+        },
+        {
+          "word": "love",
+          "start": 318.48,
+          "end": 319.0
+        },
+        {
+          "word": "to",
+          "start": 319.0,
+          "end": 319.26
+        },
+        {
+          "word": "spend",
+          "start": 319.26,
+          "end": 319.54
+        },
+        {
+          "word": "time",
+          "start": 319.54,
+          "end": 319.94
+        },
+        {
+          "word": "together.",
+          "start": 319.94,
+          "end": 320.44
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 320.44,
+      "end": 325.42,
+      "text": "Part 11, Learning English in Accra.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 320.44,
+          "end": 321.86
+        },
+        {
+          "word": "11,",
+          "start": 321.86,
+          "end": 322.5
+        },
+        {
+          "word": "Learning",
+          "start": 323.04,
+          "end": 323.56
+        },
+        {
+          "word": "English",
+          "start": 323.56,
+          "end": 324.3
+        },
+        {
+          "word": "in",
+          "start": 324.3,
+          "end": 324.64
+        },
+        {
+          "word": "Accra.",
+          "start": 324.64,
+          "end": 325.42
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 325.62,
+      "end": 329.22,
+      "text": "English is the main language in Accra.",
+      "words": [
+        {
+          "word": "English",
+          "start": 325.62,
+          "end": 326.46
+        },
+        {
+          "word": "is",
+          "start": 326.46,
+          "end": 326.92
+        },
+        {
+          "word": "the",
+          "start": 326.92,
+          "end": 327.12
+        },
+        {
+          "word": "main",
+          "start": 327.12,
+          "end": 327.52
+        },
+        {
+          "word": "language",
+          "start": 327.52,
+          "end": 328.06
+        },
+        {
+          "word": "in",
+          "start": 328.06,
+          "end": 328.38
+        },
+        {
+          "word": "Accra.",
+          "start": 328.38,
+          "end": 329.22
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 329.7,
+      "end": 333.16,
+      "text": "Schools teach English from a young age.",
+      "words": [
+        {
+          "word": "Schools",
+          "start": 329.7,
+          "end": 330.36
+        },
+        {
+          "word": "teach",
+          "start": 330.36,
+          "end": 330.82
+        },
+        {
+          "word": "English",
+          "start": 330.82,
+          "end": 331.5
+        },
+        {
+          "word": "from",
+          "start": 331.5,
+          "end": 331.82
+        },
+        {
+          "word": "a",
+          "start": 331.82,
+          "end": 332.1
+        },
+        {
+          "word": "young",
+          "start": 332.1,
+          "end": 332.3
+        },
+        {
+          "word": "age.",
+          "start": 332.3,
+          "end": 333.16
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 333.9,
+      "end": 337.3,
+      "text": "You can easily speak English with locals.",
+      "words": [
+        {
+          "word": "You",
+          "start": 333.9,
+          "end": 334.12
+        },
+        {
+          "word": "can",
+          "start": 334.12,
+          "end": 334.38
+        },
+        {
+          "word": "easily",
+          "start": 334.38,
+          "end": 334.96
+        },
+        {
+          "word": "speak",
+          "start": 334.96,
+          "end": 335.42
+        },
+        {
+          "word": "English",
+          "start": 335.42,
+          "end": 336.04
+        },
+        {
+          "word": "with",
+          "start": 336.04,
+          "end": 336.44
+        },
+        {
+          "word": "locals.",
+          "start": 336.44,
+          "end": 337.3
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 338.32,
+      "end": 342.18,
+      "text": "Visiting Accra is a good way to practice English.",
+      "words": [
+        {
+          "word": "Visiting",
+          "start": 338.32,
+          "end": 338.98
+        },
+        {
+          "word": "Accra",
+          "start": 338.98,
+          "end": 339.48
+        },
+        {
+          "word": "is",
+          "start": 339.48,
+          "end": 339.88
+        },
+        {
+          "word": "a",
+          "start": 339.88,
+          "end": 340.04
+        },
+        {
+          "word": "good",
+          "start": 340.04,
+          "end": 340.26
+        },
+        {
+          "word": "way",
+          "start": 340.26,
+          "end": 340.54
+        },
+        {
+          "word": "to",
+          "start": 340.54,
+          "end": 340.7
+        },
+        {
+          "word": "practice",
+          "start": 340.7,
+          "end": 341.14
+        },
+        {
+          "word": "English.",
+          "start": 341.14,
+          "end": 342.18
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 342.82,
+      "end": 347.4,
+      "text": "You can also learn some local words in Twi or Ga.",
+      "words": [
+        {
+          "word": "You",
+          "start": 342.82,
+          "end": 343.26
+        },
+        {
+          "word": "can",
+          "start": 343.26,
+          "end": 343.46
+        },
+        {
+          "word": "also",
+          "start": 343.46,
+          "end": 343.88
+        },
+        {
+          "word": "learn",
+          "start": 343.88,
+          "end": 344.32
+        },
+        {
+          "word": "some",
+          "start": 344.32,
+          "end": 344.6
+        },
+        {
+          "word": "local",
+          "start": 344.6,
+          "end": 345.06
+        },
+        {
+          "word": "words",
+          "start": 345.06,
+          "end": 345.74
+        },
+        {
+          "word": "in",
+          "start": 345.74,
+          "end": 346.02
+        },
+        {
+          "word": "Twi",
+          "start": 346.02,
+          "end": 346.48
+        },
+        {
+          "word": "or",
+          "start": 346.48,
+          "end": 346.68
+        },
+        {
+          "word": "Ga.",
+          "start": 346.68,
+          "end": 347.4
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 347.66,
+      "end": 352.4,
+      "text": "People are happy when tourists try to speak their language.",
+      "words": [
+        {
+          "word": "People",
+          "start": 347.66,
+          "end": 348.42
+        },
+        {
+          "word": "are",
+          "start": 348.42,
+          "end": 348.7
+        },
+        {
+          "word": "happy",
+          "start": 348.7,
+          "end": 349.18
+        },
+        {
+          "word": "when",
+          "start": 349.18,
+          "end": 349.58
+        },
+        {
+          "word": "tourists",
+          "start": 349.58,
+          "end": 350.0
+        },
+        {
+          "word": "try",
+          "start": 350.0,
+          "end": 350.54
+        },
+        {
+          "word": "to",
+          "start": 350.54,
+          "end": 350.72
+        },
+        {
+          "word": "speak",
+          "start": 350.72,
+          "end": 351.08
+        },
+        {
+          "word": "their",
+          "start": 351.08,
+          "end": 351.44
+        },
+        {
+          "word": "language.",
+          "start": 351.44,
+          "end": 352.4
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 353.74,
+      "end": 357.34,
+      "text": "Part 12, Goodbye from Accra.",
+      "words": [
+        {
+          "word": "Part",
+          "start": 353.74,
+          "end": 354.16
+        },
+        {
+          "word": "12,",
+          "start": 354.16,
+          "end": 354.74
+        },
+        {
+          "word": "Goodbye",
+          "start": 355.48,
+          "end": 355.94
+        },
+        {
+          "word": "from",
+          "start": 355.94,
+          "end": 356.5
+        },
+        {
+          "word": "Accra.",
+          "start": 356.5,
+          "end": 357.34
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 358.18,
+      "end": 361.28,
+      "text": "Our journey in Accra is now finished.",
+      "words": [
+        {
+          "word": "Our",
+          "start": 358.18,
+          "end": 358.52
+        },
+        {
+          "word": "journey",
+          "start": 358.52,
+          "end": 358.98
+        },
+        {
+          "word": "in",
+          "start": 358.98,
+          "end": 359.3
+        },
+        {
+          "word": "Accra",
+          "start": 359.3,
+          "end": 359.76
+        },
+        {
+          "word": "is",
+          "start": 359.76,
+          "end": 360.1
+        },
+        {
+          "word": "now",
+          "start": 360.1,
+          "end": 360.4
+        },
+        {
+          "word": "finished.",
+          "start": 360.4,
+          "end": 361.28
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 361.92,
+      "end": 368.64,
+      "text": "We learned about the city's history, markets, beaches, food, and people.",
+      "words": [
+        {
+          "word": "We",
+          "start": 361.92,
+          "end": 362.3
+        },
+        {
+          "word": "learned",
+          "start": 362.3,
+          "end": 362.64
+        },
+        {
+          "word": "about",
+          "start": 362.64,
+          "end": 363.0
+        },
+        {
+          "word": "the",
+          "start": 363.0,
+          "end": 363.28
+        },
+        {
+          "word": "city's",
+          "start": 363.28,
+          "end": 363.8
+        },
+        {
+          "word": "history,",
+          "start": 363.8,
+          "end": 364.38
+        },
+        {
+          "word": "markets,",
+          "start": 365.0,
+          "end": 365.58
+        },
+        {
+          "word": "beaches,",
+          "start": 365.94,
+          "end": 366.32
+        },
+        {
+          "word": "food,",
+          "start": 366.94,
+          "end": 367.34
+        },
+        {
+          "word": "and",
+          "start": 367.68,
+          "end": 367.8
+        },
+        {
+          "word": "people.",
+          "start": 367.8,
+          "end": 368.64
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 369.38,
+      "end": 374.58,
+      "text": "Accra is a city full of colors, life, and culture.",
+      "words": [
+        {
+          "word": "Accra",
+          "start": 369.38,
+          "end": 369.86
+        },
+        {
+          "word": "is",
+          "start": 369.86,
+          "end": 370.08
+        },
+        {
+          "word": "a",
+          "start": 370.08,
+          "end": 370.22
+        },
+        {
+          "word": "city",
+          "start": 370.22,
+          "end": 370.54
+        },
+        {
+          "word": "full",
+          "start": 370.54,
+          "end": 370.94
+        },
+        {
+          "word": "of",
+          "start": 370.94,
+          "end": 371.1
+        },
+        {
+          "word": "colors,",
+          "start": 371.1,
+          "end": 371.7
+        },
+        {
+          "word": "life,",
+          "start": 372.46,
+          "end": 372.92
+        },
+        {
+          "word": "and",
+          "start": 373.56,
+          "end": 373.64
+        },
+        {
+          "word": "culture.",
+          "start": 373.64,
+          "end": 374.58
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 375.18,
+      "end": 381.32,
+      "text": "From the busy streets to the calm beaches, there is something for everyone.",
+      "words": [
+        {
+          "word": "From",
+          "start": 375.18,
+          "end": 375.9
+        },
+        {
+          "word": "the",
+          "start": 375.9,
+          "end": 376.12
+        },
+        {
+          "word": "busy",
+          "start": 376.12,
+          "end": 376.54
+        },
+        {
+          "word": "streets",
+          "start": 376.54,
+          "end": 377.06
+        },
+        {
+          "word": "to",
+          "start": 377.06,
+          "end": 377.58
+        },
+        {
+          "word": "the",
+          "start": 377.58,
+          "end": 377.76
+        },
+        {
+          "word": "calm",
+          "start": 377.76,
+          "end": 378.16
+        },
+        {
+          "word": "beaches,",
+          "start": 378.16,
+          "end": 378.72
+        },
+        {
+          "word": "there",
+          "start": 379.22,
+          "end": 379.4
+        },
+        {
+          "word": "is",
+          "start": 379.4,
+          "end": 379.56
+        },
+        {
+          "word": "something",
+          "start": 379.56,
+          "end": 379.92
+        },
+        {
+          "word": "for",
+          "start": 379.92,
+          "end": 380.3
+        },
+        {
+          "word": "everyone.",
+          "start": 380.3,
+          "end": 381.32
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 382.28,
+      "end": 385.94,
+      "text": "Thank you for listening to the Slow English Podcast.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 382.28,
+          "end": 382.76
+        },
+        {
+          "word": "you",
+          "start": 382.76,
+          "end": 383.0
+        },
+        {
+          "word": "for",
+          "start": 383.0,
+          "end": 383.22
+        },
+        {
+          "word": "listening",
+          "start": 383.22,
+          "end": 383.7
+        },
+        {
+          "word": "to",
+          "start": 383.7,
+          "end": 384.06
+        },
+        {
+          "word": "the",
+          "start": 384.06,
+          "end": 384.24
+        },
+        {
+          "word": "Slow",
+          "start": 384.24,
+          "end": 384.58
+        },
+        {
+          "word": "English",
+          "start": 384.58,
+          "end": 384.94
+        },
+        {
+          "word": "Podcast.",
+          "start": 384.94,
+          "end": 385.94
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 386.98,
+      "end": 391.94,
+      "text": "I am Emily, and I hope you can visit Accra one day.",
+      "words": [
+        {
+          "word": "I",
+          "start": 386.98,
+          "end": 387.22
+        },
+        {
+          "word": "am",
+          "start": 387.22,
+          "end": 387.42
+        },
+        {
+          "word": "Emily,",
+          "start": 387.42,
+          "end": 387.88
+        },
+        {
+          "word": "and",
+          "start": 388.66,
+          "end": 388.78
+        },
+        {
+          "word": "I",
+          "start": 388.78,
+          "end": 388.98
+        },
+        {
+          "word": "hope",
+          "start": 388.98,
+          "end": 389.26
+        },
+        {
+          "word": "you",
+          "start": 389.26,
+          "end": 389.56
+        },
+        {
+          "word": "can",
+          "start": 389.56,
+          "end": 389.78
+        },
+        {
+          "word": "visit",
+          "start": 389.78,
+          "end": 390.12
+        },
+        {
+          "word": "Accra",
+          "start": 390.12,
+          "end": 390.72
+        },
+        {
+          "word": "one",
+          "start": 390.72,
+          "end": 391.08
+        },
+        {
+          "word": "day.",
+          "start": 391.08,
+          "end": 391.94
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 392.3,
+      "end": 398.27,
+      "text": "Goodbye, or as Ghanaians sometimes say, bye -bye.",
+      "words": [
+        {
+          "word": "Goodbye,",
+          "start": 392.3,
+          "end": 393.24
+        },
+        {
+          "word": "or",
+          "start": 394.14,
+          "end": 394.38
+        },
+        {
+          "word": "as",
+          "start": 394.38,
+          "end": 394.56
+        },
+        {
+          "word": "Ghanaians",
+          "start": 394.56,
+          "end": 395.22
         },
         {
           "word": "sometimes",
-          "startSec": 395.1,
-          "endSec": 395.54,
-          "score": 0.92
+          "start": 395.22,
+          "end": 395.62
         },
         {
           "word": "say,",
-          "startSec": 395.54,
-          "endSec": 396.2,
-          "score": 1.0
+          "start": 395.62,
+          "end": 396.36
         },
         {
           "word": "bye",
-          "startSec": 396.89,
-          "endSec": 397.51,
-          "score": 0.61
+          "start": 397.2,
+          "end": 397.54
         },
         {
-          "word": "bye.",
-          "startSec": 397.51,
-          "endSec": 397.89,
-          "score": 0.74
+          "word": "-bye.",
+          "start": 397.54,
+          "end": 398.27
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 79
 }

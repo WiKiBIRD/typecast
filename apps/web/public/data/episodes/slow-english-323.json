@@ -16,4322 +16,3757 @@
     {
       "id": 1,
       "start": 0.0,
-      "end": 3.45,
-      "text": "Slow English Podcast, A1 Love Amelie.",
+      "end": 3.46,
+      "text": "Slow English podcast, A1 Love Emili.",
       "words": [
         {
           "word": "Slow",
-          "startSec": 0.0,
-          "endSec": 0.32,
-          "score": 0.66
+          "start": 0.0,
+          "end": 0.36
         },
         {
           "word": "English",
-          "startSec": 0.32,
-          "endSec": 0.6,
-          "score": 0.88
+          "start": 0.36,
+          "end": 0.74
         },
         {
-          "word": "Podcast,",
-          "startSec": 0.6,
-          "endSec": 1.28,
-          "score": 0.75
+          "word": "podcast,",
+          "start": 0.74,
+          "end": 1.6
         },
         {
           "word": "A1",
-          "startSec": 2.04,
-          "endSec": 2.38,
-          "score": 0.88
+          "start": 2.04,
+          "end": 2.44
         },
         {
           "word": "Love",
-          "startSec": 2.38,
-          "endSec": 2.64,
-          "score": 0.29
+          "start": 2.44,
+          "end": 2.74
         },
         {
-          "word": "Amelie.",
-          "startSec": 2.64,
-          "endSec": 3.3,
-          "score": 0.68
+          "word": "Emili.",
+          "start": 2.74,
+          "end": 3.46
         }
       ]
     },
     {
       "id": 2,
-      "start": 3.46,
-      "end": 7.67,
-      "text": "Topic, Jirocaster, part one.",
+      "start": 3.64,
+      "end": 8.0,
+      "text": "Topic, Girocaster, part one.",
       "words": [
         {
           "word": "Topic,",
-          "startSec": 3.66,
-          "endSec": 4.1,
-          "score": 0.91
+          "start": 3.64,
+          "end": 4.3
         },
         {
-          "word": "Jirocaster,",
-          "startSec": 4.46,
-          "endSec": 5.0,
-          "score": 0.5
+          "word": "Girocaster,",
+          "start": 4.54,
+          "end": 5.3
         },
         {
           "word": "part",
-          "startSec": 6.46,
-          "endSec": 6.96,
-          "score": 0.41
+          "start": 6.28,
+          "end": 7.1
         },
         {
           "word": "one.",
-          "startSec": 6.96,
-          "endSec": 7.52,
-          "score": 0.57
+          "start": 7.1,
+          "end": 8.0
         }
       ]
     },
     {
       "id": 3,
-      "start": 8.99,
-      "end": 10.2,
-      "text": "Hello, everyone.",
+      "start": 9.15,
+      "end": 10.6,
+      "text": "Hello everyone.",
       "words": [
         {
-          "word": "Hello,",
-          "startSec": 9.19,
-          "endSec": 9.53,
-          "score": 0.97
+          "word": "Hello",
+          "start": 9.15,
+          "end": 9.58
         },
         {
           "word": "everyone.",
-          "startSec": 9.61,
-          "endSec": 10.05,
-          "score": 0.99
+          "start": 9.58,
+          "end": 10.6
         }
       ]
     },
     {
       "id": 4,
-      "start": 10.75,
-      "end": 12.58,
-      "text": "My name is Amelie.",
+      "start": 11.04,
+      "end": 12.68,
+      "text": "My name is Emili.",
       "words": [
         {
           "word": "My",
-          "startSec": 10.95,
-          "endSec": 11.27,
-          "score": 1.0
+          "start": 11.04,
+          "end": 11.34
         },
         {
           "word": "name",
-          "startSec": 11.27,
-          "endSec": 11.49,
-          "score": 1.0
+          "start": 11.34,
+          "end": 11.64
         },
         {
           "word": "is",
-          "startSec": 11.49,
-          "endSec": 11.81,
-          "score": 1.0
+          "start": 11.64,
+          "end": 11.82
         },
         {
-          "word": "Amelie.",
-          "startSec": 11.81,
-          "endSec": 12.43,
-          "score": 0.93
+          "word": "Emili.",
+          "start": 11.82,
+          "end": 12.68
         }
       ]
     },
     {
       "id": 5,
-      "start": 12.63,
-      "end": 15.16,
-      "text": "Welcome to the Slow English Podcast.",
+      "start": 12.94,
+      "end": 15.58,
+      "text": "Welcome to the Slow English podcast.",
       "words": [
         {
           "word": "Welcome",
-          "startSec": 12.83,
-          "endSec": 13.39,
-          "score": 1.0
+          "start": 12.94,
+          "end": 13.4
         },
         {
           "word": "to",
-          "startSec": 13.39,
-          "endSec": 13.69,
-          "score": 1.0
+          "start": 13.4,
+          "end": 13.74
         },
         {
           "word": "the",
-          "startSec": 13.69,
-          "endSec": 13.85,
-          "score": 0.97
+          "start": 13.74,
+          "end": 13.92
         },
         {
           "word": "Slow",
-          "startSec": 13.85,
-          "endSec": 14.11,
-          "score": 0.96
+          "start": 13.92,
+          "end": 14.22
         },
         {
           "word": "English",
-          "startSec": 14.11,
-          "endSec": 14.53,
-          "score": 1.0
+          "start": 14.22,
+          "end": 14.54
         },
         {
-          "word": "Podcast.",
-          "startSec": 14.53,
-          "endSec": 15.01,
-          "score": 0.93
+          "word": "podcast.",
+          "start": 14.54,
+          "end": 15.58
         }
       ]
     },
     {
       "id": 6,
-      "start": 15.89,
-      "end": 20.32,
+      "start": 16.18,
+      "end": 20.64,
       "text": "In this podcast, we speak slow and easy English.",
       "words": [
         {
           "word": "In",
-          "startSec": 16.09,
-          "endSec": 16.37,
-          "score": 0.99
+          "start": 16.18,
+          "end": 16.42
         },
         {
           "word": "this",
-          "startSec": 16.37,
-          "endSec": 16.57,
-          "score": 1.0
+          "start": 16.42,
+          "end": 16.68
         },
         {
           "word": "podcast,",
-          "startSec": 16.57,
-          "endSec": 17.07,
-          "score": 0.99
+          "start": 16.68,
+          "end": 17.36
         },
         {
           "word": "we",
-          "startSec": 17.65,
-          "endSec": 17.69,
-          "score": 1.0
+          "start": 17.64,
+          "end": 17.72
         },
         {
           "word": "speak",
-          "startSec": 17.69,
-          "endSec": 17.99,
-          "score": 1.0
+          "start": 17.72,
+          "end": 18.12
         },
         {
           "word": "slow",
-          "startSec": 17.99,
-          "endSec": 18.49,
-          "score": 0.94
+          "start": 18.12,
+          "end": 18.78
         },
         {
           "word": "and",
-          "startSec": 18.49,
-          "endSec": 19.07,
-          "score": 0.99
+          "start": 18.78,
+          "end": 19.14
         },
         {
           "word": "easy",
-          "startSec": 19.07,
-          "endSec": 19.41,
-          "score": 1.0
+          "start": 19.14,
+          "end": 19.66
         },
         {
           "word": "English.",
-          "startSec": 19.41,
-          "endSec": 20.17,
-          "score": 0.99
+          "start": 19.66,
+          "end": 20.64
         }
       ]
     },
     {
       "id": 7,
-      "start": 20.73,
-      "end": 25.78,
-      "text": "Today, we talk about a small and less known city in Europe.",
+      "start": 21.2,
+      "end": 26.12,
+      "text": "Today we talk about a small and less known city in Europe.",
       "words": [
         {
-          "word": "Today,",
-          "startSec": 20.93,
-          "endSec": 21.45,
-          "score": 1.0
+          "word": "Today",
+          "start": 21.2,
+          "end": 21.5
         },
         {
           "word": "we",
-          "startSec": 21.47,
-          "endSec": 21.79,
-          "score": 1.0
+          "start": 21.5,
+          "end": 21.8
         },
         {
           "word": "talk",
-          "startSec": 21.79,
-          "endSec": 22.01,
-          "score": 0.99
+          "start": 21.8,
+          "end": 22.12
         },
         {
           "word": "about",
-          "startSec": 22.01,
-          "endSec": 22.47,
-          "score": 1.0
+          "start": 22.12,
+          "end": 22.52
         },
         {
           "word": "a",
-          "startSec": 22.47,
-          "endSec": 22.63,
-          "score": 1.0
+          "start": 22.52,
+          "end": 22.72
         },
         {
           "word": "small",
-          "startSec": 22.63,
-          "endSec": 23.17,
-          "score": 0.99
+          "start": 22.72,
+          "end": 23.26
         },
         {
           "word": "and",
-          "startSec": 23.17,
-          "endSec": 23.63,
-          "score": 0.98
+          "start": 23.26,
+          "end": 23.72
         },
         {
           "word": "less",
-          "startSec": 23.63,
-          "endSec": 23.97,
-          "score": 0.99
+          "start": 23.72,
+          "end": 24.1
         },
         {
           "word": "known",
-          "startSec": 23.97,
-          "endSec": 24.39,
-          "score": 0.65
+          "start": 24.1,
+          "end": 24.48
         },
         {
           "word": "city",
-          "startSec": 24.39,
-          "endSec": 24.79,
-          "score": 1.0
+          "start": 24.48,
+          "end": 24.9
         },
         {
           "word": "in",
-          "startSec": 24.79,
-          "endSec": 25.17,
-          "score": 1.0
+          "start": 24.9,
+          "end": 25.26
         },
         {
           "word": "Europe.",
-          "startSec": 25.17,
-          "endSec": 25.63,
-          "score": 1.0
+          "start": 25.26,
+          "end": 26.12
         }
       ]
     },
     {
       "id": 8,
-      "start": 26.73,
-      "end": 28.78,
-      "text": "The city is Jirocaster.",
+      "start": 26.72,
+      "end": 29.34,
+      "text": "The city is Girocaster.",
       "words": [
         {
           "word": "The",
-          "startSec": 26.93,
-          "endSec": 27.15,
-          "score": 0.99
+          "start": 26.72,
+          "end": 27.18
         },
         {
           "word": "city",
-          "startSec": 27.15,
-          "endSec": 27.47,
-          "score": 0.98
+          "start": 27.18,
+          "end": 27.54
         },
         {
           "word": "is",
-          "startSec": 27.47,
-          "endSec": 27.89,
-          "score": 1.0
+          "start": 27.54,
+          "end": 27.94
         },
         {
-          "word": "Jirocaster.",
-          "startSec": 27.89,
-          "endSec": 28.63,
-          "score": 0.97
+          "word": "Girocaster.",
+          "start": 27.94,
+          "end": 29.34
         }
       ]
     },
     {
       "id": 9,
-      "start": 29.51,
-      "end": 31.94,
-      "text": "Jirocaster is in Albania.",
+      "start": 30.02,
+      "end": 32.92,
+      "text": "Girocaster is in Albania.",
       "words": [
         {
-          "word": "Jirocaster",
-          "startSec": 29.71,
-          "endSec": 30.55,
-          "score": 0.35
+          "word": "Girocaster",
+          "start": 30.02,
+          "end": 30.86
         },
         {
           "word": "is",
-          "startSec": 30.55,
-          "endSec": 31.37,
-          "score": 0.75
+          "start": 30.86,
+          "end": 31.44
         },
         {
           "word": "in",
-          "startSec": 31.37,
-          "endSec": 31.55,
-          "score": 0.97
+          "start": 31.44,
+          "end": 31.64
         },
         {
           "word": "Albania.",
-          "startSec": 31.55,
-          "endSec": 31.79,
-          "score": 0.98
+          "start": 31.64,
+          "end": 32.92
         }
       ]
     },
     {
       "id": 10,
-      "start": 32.74,
-      "end": 37.41,
+      "start": 33.44,
+      "end": 37.82,
       "text": "Albania is a country in the Balkan region of Europe.",
       "words": [
         {
           "word": "Albania",
-          "startSec": 32.94,
-          "endSec": 33.76,
-          "score": 0.84
+          "start": 33.44,
+          "end": 34.28
         },
         {
           "word": "is",
-          "startSec": 33.76,
-          "endSec": 34.44,
-          "score": 1.0
+          "start": 34.28,
+          "end": 34.52
         },
         {
           "word": "a",
-          "startSec": 34.44,
-          "endSec": 34.62,
-          "score": 0.98
+          "start": 34.52,
+          "end": 34.68
         },
         {
           "word": "country",
-          "startSec": 34.62,
-          "endSec": 35.1,
-          "score": 1.0
+          "start": 34.68,
+          "end": 35.14
         },
         {
           "word": "in",
-          "startSec": 35.1,
-          "endSec": 35.42,
-          "score": 0.99
+          "start": 35.14,
+          "end": 35.48
         },
         {
           "word": "the",
-          "startSec": 35.42,
-          "endSec": 35.56,
-          "score": 0.99
+          "start": 35.48,
+          "end": 35.62
         },
         {
           "word": "Balkan",
-          "startSec": 35.56,
-          "endSec": 36.18,
-          "score": 0.99
+          "start": 35.62,
+          "end": 36.22
         },
         {
           "word": "region",
-          "startSec": 36.18,
-          "endSec": 36.48,
-          "score": 0.98
+          "start": 36.22,
+          "end": 36.68
         },
         {
           "word": "of",
-          "startSec": 36.48,
-          "endSec": 36.94,
-          "score": 0.99
+          "start": 36.68,
+          "end": 36.96
         },
         {
           "word": "Europe.",
-          "startSec": 36.94,
-          "endSec": 37.26,
-          "score": 0.99
+          "start": 36.96,
+          "end": 37.82
         }
       ]
     },
     {
       "id": 11,
-      "start": 38.46,
-      "end": 41.33,
+      "start": 38.38,
+      "end": 41.7,
       "text": "The city is in the south of the country.",
       "words": [
         {
           "word": "The",
-          "startSec": 38.66,
-          "endSec": 38.78,
-          "score": 0.98
+          "start": 38.38,
+          "end": 38.84
         },
         {
           "word": "city",
-          "startSec": 38.78,
-          "endSec": 39.1,
-          "score": 0.99
+          "start": 38.84,
+          "end": 39.2
         },
         {
           "word": "is",
-          "startSec": 39.1,
-          "endSec": 39.5,
-          "score": 0.99
+          "start": 39.2,
+          "end": 39.56
         },
         {
           "word": "in",
-          "startSec": 39.5,
-          "endSec": 39.66,
-          "score": 1.0
+          "start": 39.56,
+          "end": 39.72
         },
         {
           "word": "the",
-          "startSec": 39.66,
-          "endSec": 39.82,
-          "score": 0.99
+          "start": 39.72,
+          "end": 39.88
         },
         {
           "word": "south",
-          "startSec": 39.82,
-          "endSec": 40.14,
-          "score": 0.92
+          "start": 39.88,
+          "end": 40.3
         },
         {
           "word": "of",
-          "startSec": 40.14,
-          "endSec": 40.54,
-          "score": 1.0
+          "start": 40.3,
+          "end": 40.6
         },
         {
           "word": "the",
-          "startSec": 40.54,
-          "endSec": 40.7,
-          "score": 1.0
+          "start": 40.6,
+          "end": 40.76
         },
         {
           "word": "country.",
-          "startSec": 40.7,
-          "endSec": 41.18,
-          "score": 0.99
+          "start": 40.76,
+          "end": 41.7
         }
       ]
     },
     {
       "id": 12,
-      "start": 42.14,
-      "end": 47.41,
-      "text": "Jirocaster is not a very big city, but it is very special.",
+      "start": 42.52,
+      "end": 47.66,
+      "text": "Girocaster is not a very big city, but it is very special.",
       "words": [
         {
-          "word": "Jirocaster",
-          "startSec": 42.34,
-          "endSec": 43.16,
-          "score": 0.99
+          "word": "Girocaster",
+          "start": 42.52,
+          "end": 43.36
         },
         {
           "word": "is",
-          "startSec": 43.16,
-          "endSec": 43.74,
-          "score": 1.0
+          "start": 43.36,
+          "end": 43.8
         },
         {
           "word": "not",
-          "startSec": 43.74,
-          "endSec": 44.06,
-          "score": 1.0
+          "start": 43.8,
+          "end": 44.14
         },
         {
           "word": "a",
-          "startSec": 44.06,
-          "endSec": 44.28,
-          "score": 1.0
+          "start": 44.14,
+          "end": 44.32
         },
         {
           "word": "very",
-          "startSec": 44.28,
-          "endSec": 44.54,
-          "score": 0.98
+          "start": 44.32,
+          "end": 44.58
         },
         {
           "word": "big",
-          "startSec": 44.54,
-          "endSec": 44.84,
-          "score": 1.0
+          "start": 44.58,
+          "end": 44.9
         },
         {
           "word": "city,",
-          "startSec": 44.84,
-          "endSec": 45.28,
-          "score": 1.0
+          "start": 44.9,
+          "end": 45.36
         },
         {
           "word": "but",
-          "startSec": 45.74,
-          "endSec": 45.96,
-          "score": 1.0
+          "start": 45.66,
+          "end": 46.0
         },
         {
           "word": "it",
-          "startSec": 45.96,
-          "endSec": 46.1,
-          "score": 0.98
+          "start": 46.0,
+          "end": 46.14
         },
         {
           "word": "is",
-          "startSec": 46.1,
-          "endSec": 46.26,
-          "score": 0.99
+          "start": 46.14,
+          "end": 46.32
         },
         {
           "word": "very",
-          "startSec": 46.26,
-          "endSec": 46.5,
-          "score": 1.0
+          "start": 46.32,
+          "end": 46.64
         },
         {
           "word": "special.",
-          "startSec": 46.5,
-          "endSec": 47.26,
-          "score": 1.0
+          "start": 46.64,
+          "end": 47.66
         }
       ]
     },
     {
       "id": 13,
-      "start": 47.9,
-      "end": 52.69,
+      "start": 48.08,
+      "end": 53.02,
       "text": "It has history, culture, and beautiful old buildings.",
       "words": [
         {
           "word": "It",
-          "startSec": 48.1,
-          "endSec": 48.2,
-          "score": 0.99
+          "start": 48.08,
+          "end": 48.24
         },
         {
           "word": "has",
-          "startSec": 48.2,
-          "endSec": 48.42,
-          "score": 1.0
+          "start": 48.24,
+          "end": 48.48
         },
         {
           "word": "history,",
-          "startSec": 48.42,
-          "endSec": 48.94,
-          "score": 0.99
+          "start": 48.48,
+          "end": 49.18
         },
         {
           "word": "culture,",
-          "startSec": 49.54,
-          "endSec": 50.08,
-          "score": 1.0
+          "start": 49.54,
+          "end": 50.1
         },
         {
           "word": "and",
-          "startSec": 50.72,
-          "endSec": 50.94,
-          "score": 1.0
+          "start": 50.86,
+          "end": 51.0
         },
         {
           "word": "beautiful",
-          "startSec": 50.94,
-          "endSec": 51.44,
-          "score": 1.0
+          "start": 51.0,
+          "end": 51.6
         },
         {
           "word": "old",
-          "startSec": 51.44,
-          "endSec": 51.92,
-          "score": 0.91
+          "start": 51.6,
+          "end": 52.02
         },
         {
           "word": "buildings.",
-          "startSec": 51.92,
-          "endSec": 52.54,
-          "score": 1.0
+          "start": 52.02,
+          "end": 53.02
         }
       ]
     },
     {
       "id": 14,
-      "start": 53.93,
-      "end": 58.3,
-      "text": "Part two, Jirocaster is a very old city.",
+      "start": 53.62,
+      "end": 58.68,
+      "text": "Part two, Girocaster is a very old city.",
       "words": [
         {
           "word": "Part",
-          "startSec": 54.13,
-          "endSec": 54.25,
-          "score": 0.96
+          "start": 53.62,
+          "end": 54.26
         },
         {
           "word": "two,",
-          "startSec": 54.25,
-          "endSec": 54.63,
-          "score": 0.24
+          "start": 54.26,
+          "end": 54.82
         },
         {
-          "word": "Jirocaster",
-          "startSec": 55.59,
-          "endSec": 56.15,
-          "score": 0.98
+          "word": "Girocaster",
+          "start": 55.4,
+          "end": 56.36
         },
         {
           "word": "is",
-          "startSec": 56.15,
-          "endSec": 56.77,
-          "score": 0.99
+          "start": 56.36,
+          "end": 56.84
         },
         {
           "word": "a",
-          "startSec": 56.77,
-          "endSec": 56.93,
-          "score": 1.0
+          "start": 56.84,
+          "end": 57.04
         },
         {
           "word": "very",
-          "startSec": 56.93,
-          "endSec": 57.29,
-          "score": 1.0
+          "start": 57.04,
+          "end": 57.36
         },
         {
           "word": "old",
-          "startSec": 57.29,
-          "endSec": 57.71,
-          "score": 0.99
+          "start": 57.36,
+          "end": 57.78
         },
         {
           "word": "city.",
-          "startSec": 57.71,
-          "endSec": 58.15,
-          "score": 1.0
+          "start": 57.78,
+          "end": 58.68
         }
       ]
     },
     {
       "id": 15,
-      "start": 58.69,
-      "end": 63.2,
+      "start": 58.94,
+      "end": 63.58,
       "text": "Many buildings in the city are hundreds of years old.",
       "words": [
         {
           "word": "Many",
-          "startSec": 58.89,
-          "endSec": 59.31,
-          "score": 0.7
+          "start": 58.94,
+          "end": 59.46
         },
         {
           "word": "buildings",
-          "startSec": 59.31,
-          "endSec": 59.93,
-          "score": 1.0
+          "start": 59.46,
+          "end": 59.96
         },
         {
           "word": "in",
-          "startSec": 59.93,
-          "endSec": 60.35,
-          "score": 0.99
+          "start": 59.96,
+          "end": 60.42
         },
         {
           "word": "the",
-          "startSec": 60.35,
-          "endSec": 60.51,
-          "score": 0.89
+          "start": 60.42,
+          "end": 60.58
         },
         {
           "word": "city",
-          "startSec": 60.51,
-          "endSec": 60.91,
-          "score": 0.98
+          "start": 60.58,
+          "end": 60.96
         },
         {
           "word": "are",
-          "startSec": 60.91,
-          "endSec": 61.39,
-          "score": 0.99
+          "start": 60.96,
+          "end": 61.44
         },
         {
           "word": "hundreds",
-          "startSec": 61.39,
-          "endSec": 61.77,
-          "score": 0.99
+          "start": 61.44,
+          "end": 61.94
         },
         {
           "word": "of",
-          "startSec": 61.77,
-          "endSec": 62.23,
-          "score": 1.0
+          "start": 61.94,
+          "end": 62.28
         },
         {
           "word": "years",
-          "startSec": 62.23,
-          "endSec": 62.57,
-          "score": 1.0
+          "start": 62.28,
+          "end": 62.62
         },
         {
           "word": "old.",
-          "startSec": 62.57,
-          "endSec": 63.05,
-          "score": 0.99
+          "start": 62.62,
+          "end": 63.58
         }
       ]
     },
     {
       "id": 16,
-      "start": 63.99,
-      "end": 67.74,
-      "text": "The houses in Jirocaster are made of stone.",
+      "start": 64.1,
+      "end": 68.14,
+      "text": "The houses in Girocaster are made of stone.",
       "words": [
         {
           "word": "The",
-          "startSec": 64.19,
-          "endSec": 64.31,
-          "score": 0.98
+          "start": 64.1,
+          "end": 64.36
         },
         {
           "word": "houses",
-          "startSec": 64.31,
-          "endSec": 64.79,
-          "score": 0.99
+          "start": 64.36,
+          "end": 64.88
         },
         {
           "word": "in",
-          "startSec": 64.79,
-          "endSec": 65.29,
-          "score": 0.86
+          "start": 64.88,
+          "end": 65.34
         },
         {
-          "word": "Jirocaster",
-          "startSec": 65.29,
-          "endSec": 66.01,
-          "score": 0.33
+          "word": "Girocaster",
+          "start": 65.34,
+          "end": 66.28
         },
         {
           "word": "are",
-          "startSec": 66.01,
-          "endSec": 66.71,
-          "score": 0.99
+          "start": 66.28,
+          "end": 66.76
         },
         {
           "word": "made",
-          "startSec": 66.71,
-          "endSec": 66.99,
-          "score": 1.0
+          "start": 66.76,
+          "end": 67.08
         },
         {
           "word": "of",
-          "startSec": 66.99,
-          "endSec": 67.19,
-          "score": 1.0
+          "start": 67.08,
+          "end": 67.26
         },
         {
           "word": "stone.",
-          "startSec": 67.19,
-          "endSec": 67.59,
-          "score": 0.99
+          "start": 67.26,
+          "end": 68.14
         }
       ]
     },
     {
       "id": 17,
-      "start": 68.67,
-      "end": 73.74,
+      "start": 68.74,
+      "end": 74.18,
       "text": "Because of this, people sometimes call it the stone city.",
       "words": [
         {
           "word": "Because",
-          "startSec": 68.87,
-          "endSec": 69.35,
-          "score": 0.99
+          "start": 68.74,
+          "end": 69.4
         },
         {
           "word": "of",
-          "startSec": 69.35,
-          "endSec": 69.67,
-          "score": 1.0
+          "start": 69.4,
+          "end": 69.76
         },
         {
           "word": "this,",
-          "startSec": 69.67,
-          "endSec": 70.03,
-          "score": 1.0
+          "start": 69.76,
+          "end": 70.06
         },
         {
           "word": "people",
-          "startSec": 70.49,
-          "endSec": 70.89,
-          "score": 0.99
+          "start": 70.6,
+          "end": 70.94
         },
         {
           "word": "sometimes",
-          "startSec": 70.89,
-          "endSec": 71.37,
-          "score": 0.99
+          "start": 70.94,
+          "end": 71.62
         },
         {
           "word": "call",
-          "startSec": 71.37,
-          "endSec": 72.07,
-          "score": 1.0
+          "start": 71.62,
+          "end": 72.14
         },
         {
           "word": "it",
-          "startSec": 72.07,
-          "endSec": 72.39,
-          "score": 0.99
+          "start": 72.14,
+          "end": 72.5
         },
         {
           "word": "the",
-          "startSec": 72.39,
-          "endSec": 72.69,
-          "score": 0.77
+          "start": 72.5,
+          "end": 72.74
         },
         {
           "word": "stone",
-          "startSec": 72.69,
-          "endSec": 73.11,
-          "score": 0.45
+          "start": 72.74,
+          "end": 73.24
         },
         {
           "word": "city.",
-          "startSec": 73.11,
-          "endSec": 73.59,
-          "score": 0.99
+          "start": 73.24,
+          "end": 74.18
         }
       ]
     },
     {
       "id": 18,
-      "start": 74.56,
-      "end": 79.77,
+      "start": 74.78,
+      "end": 80.12,
       "text": "The roofs are gray and the streets are small and narrow.",
       "words": [
         {
           "word": "The",
-          "startSec": 74.76,
-          "endSec": 74.98,
-          "score": 0.99
+          "start": 74.78,
+          "end": 75.06
         },
         {
           "word": "roofs",
-          "startSec": 74.98,
-          "endSec": 75.26,
-          "score": 0.98
+          "start": 75.06,
+          "end": 75.38
         },
         {
           "word": "are",
-          "startSec": 75.26,
-          "endSec": 75.68,
-          "score": 1.0
+          "start": 75.38,
+          "end": 75.72
         },
         {
           "word": "gray",
-          "startSec": 75.68,
-          "endSec": 76.18,
-          "score": 0.63
+          "start": 75.72,
+          "end": 76.28
         },
         {
           "word": "and",
-          "startSec": 76.18,
-          "endSec": 77.08,
-          "score": 0.56
+          "start": 76.28,
+          "end": 77.16
         },
         {
           "word": "the",
-          "startSec": 77.08,
-          "endSec": 77.28,
-          "score": 1.0
+          "start": 77.16,
+          "end": 77.32
         },
         {
           "word": "streets",
-          "startSec": 77.28,
-          "endSec": 77.72,
-          "score": 1.0
+          "start": 77.32,
+          "end": 77.82
         },
         {
           "word": "are",
-          "startSec": 77.72,
-          "endSec": 78.3,
-          "score": 1.0
+          "start": 77.82,
+          "end": 78.36
         },
         {
           "word": "small",
-          "startSec": 78.3,
-          "endSec": 78.8,
-          "score": 1.0
+          "start": 78.36,
+          "end": 78.96
         },
         {
           "word": "and",
-          "startSec": 78.8,
-          "endSec": 79.2,
-          "score": 1.0
+          "start": 78.96,
+          "end": 79.26
         },
         {
           "word": "narrow.",
-          "startSec": 79.2,
-          "endSec": 79.62,
-          "score": 1.0
+          "start": 79.26,
+          "end": 80.12
         }
       ]
     },
     {
       "id": 19,
-      "start": 80.62,
-      "end": 84.57,
+      "start": 80.54,
+      "end": 85.22,
       "text": "Walking in the city feels like walking in the past.",
       "words": [
         {
           "word": "Walking",
-          "startSec": 80.82,
-          "endSec": 81.3,
-          "score": 0.99
+          "start": 80.54,
+          "end": 81.34
         },
         {
           "word": "in",
-          "startSec": 81.3,
-          "endSec": 81.6,
-          "score": 1.0
+          "start": 81.34,
+          "end": 81.66
         },
         {
           "word": "the",
-          "startSec": 81.6,
-          "endSec": 81.74,
-          "score": 0.99
+          "start": 81.66,
+          "end": 81.82
         },
         {
           "word": "city",
-          "startSec": 81.74,
-          "endSec": 82.16,
-          "score": 1.0
+          "start": 81.82,
+          "end": 82.18
         },
         {
           "word": "feels",
-          "startSec": 82.16,
-          "endSec": 82.72,
-          "score": 0.99
+          "start": 82.18,
+          "end": 82.8
         },
         {
           "word": "like",
-          "startSec": 82.72,
-          "endSec": 83.08,
-          "score": 1.0
+          "start": 82.8,
+          "end": 83.18
         },
         {
           "word": "walking",
-          "startSec": 83.08,
-          "endSec": 83.48,
-          "score": 1.0
+          "start": 83.18,
+          "end": 83.68
         },
         {
           "word": "in",
-          "startSec": 83.48,
-          "endSec": 83.94,
-          "score": 1.0
+          "start": 83.68,
+          "end": 84.04
         },
         {
           "word": "the",
-          "startSec": 83.94,
-          "endSec": 84.1,
-          "score": 1.0
+          "start": 84.04,
+          "end": 84.16
         },
         {
           "word": "past.",
-          "startSec": 84.1,
-          "endSec": 84.42,
-          "score": 1.0
+          "start": 84.16,
+          "end": 85.22
         }
       ]
     },
     {
       "id": 20,
-      "start": 85.91,
-      "end": 89.72,
+      "start": 85.74,
+      "end": 90.1,
       "text": "Part three, the city is built on a hill.",
       "words": [
         {
           "word": "Part",
-          "startSec": 86.11,
-          "endSec": 86.49,
-          "score": 0.09
+          "start": 85.74,
+          "end": 86.54
         },
         {
           "word": "three,",
-          "startSec": 86.49,
-          "endSec": 87.03,
-          "score": 0.14
+          "start": 86.54,
+          "end": 87.06
         },
         {
           "word": "the",
-          "startSec": 87.51,
-          "endSec": 87.69,
-          "score": 0.89
+          "start": 87.52,
+          "end": 87.74
         },
         {
           "word": "city",
-          "startSec": 87.69,
-          "endSec": 88.07,
-          "score": 0.96
+          "start": 87.74,
+          "end": 88.14
         },
         {
           "word": "is",
-          "startSec": 88.07,
-          "endSec": 88.47,
-          "score": 1.0
+          "start": 88.14,
+          "end": 88.5
         },
         {
           "word": "built",
-          "startSec": 88.47,
-          "endSec": 88.77,
-          "score": 1.0
+          "start": 88.5,
+          "end": 88.82
         },
         {
           "word": "on",
-          "startSec": 88.77,
-          "endSec": 89.07,
-          "score": 1.0
+          "start": 88.82,
+          "end": 89.14
         },
         {
           "word": "a",
-          "startSec": 89.07,
-          "endSec": 89.23,
-          "score": 1.0
+          "start": 89.14,
+          "end": 89.34
         },
         {
           "word": "hill.",
-          "startSec": 89.23,
-          "endSec": 89.57,
-          "score": 0.99
+          "start": 89.34,
+          "end": 90.1
         }
       ]
     },
     {
       "id": 21,
-      "start": 90.46,
-      "end": 94.03,
+      "start": 90.5,
+      "end": 94.26,
       "text": "This means many streets go up and down.",
       "words": [
         {
           "word": "This",
-          "startSec": 90.66,
-          "endSec": 90.9,
-          "score": 0.98
+          "start": 90.5,
+          "end": 90.96
         },
         {
           "word": "means",
-          "startSec": 90.9,
-          "endSec": 91.22,
-          "score": 1.0
+          "start": 90.96,
+          "end": 91.36
         },
         {
           "word": "many",
-          "startSec": 91.22,
-          "endSec": 91.62,
-          "score": 0.99
+          "start": 91.36,
+          "end": 91.76
         },
         {
           "word": "streets",
-          "startSec": 91.62,
-          "endSec": 92.3,
-          "score": 0.99
+          "start": 91.76,
+          "end": 92.3
         },
         {
           "word": "go",
-          "startSec": 92.3,
-          "endSec": 92.74,
-          "score": 0.99
+          "start": 92.3,
+          "end": 92.8
         },
         {
           "word": "up",
-          "startSec": 92.74,
-          "endSec": 93.12,
-          "score": 1.0
+          "start": 92.8,
+          "end": 93.22
         },
         {
           "word": "and",
-          "startSec": 93.12,
-          "endSec": 93.4,
-          "score": 1.0
+          "start": 93.22,
+          "end": 93.48
         },
         {
           "word": "down.",
-          "startSec": 93.4,
-          "endSec": 93.88,
-          "score": 1.0
+          "start": 93.48,
+          "end": 94.26
         }
       ]
     },
     {
       "id": 22,
-      "start": 94.16,
-      "end": 98.87,
-      "text": "From the top of the hill, people can see beautiful mountains",
+      "start": 94.52,
+      "end": 100.66,
+      "text": "From the top of the hill, people can see beautiful mountains and green valleys.",
       "words": [
         {
           "word": "From",
-          "startSec": 94.36,
-          "endSec": 94.62,
-          "score": 0.99
+          "start": 94.52,
+          "end": 94.68
         },
         {
           "word": "the",
-          "startSec": 94.62,
-          "endSec": 94.84,
-          "score": 0.99
+          "start": 94.68,
+          "end": 94.88
         },
         {
           "word": "top",
-          "startSec": 94.84,
-          "endSec": 95.2,
-          "score": 1.0
+          "start": 94.88,
+          "end": 95.34
         },
         {
           "word": "of",
-          "startSec": 95.2,
-          "endSec": 95.42,
-          "score": 1.0
+          "start": 95.34,
+          "end": 95.52
         },
         {
           "word": "the",
-          "startSec": 95.42,
-          "endSec": 95.64,
-          "score": 1.0
+          "start": 95.52,
+          "end": 95.7
         },
         {
           "word": "hill,",
-          "startSec": 95.64,
-          "endSec": 96.06,
-          "score": 0.99
+          "start": 95.7,
+          "end": 96.2
         },
         {
           "word": "people",
-          "startSec": 96.54,
-          "endSec": 96.78,
-          "score": 1.0
+          "start": 96.62,
+          "end": 96.96
         },
         {
           "word": "can",
-          "startSec": 96.78,
-          "endSec": 97.22,
-          "score": 1.0
+          "start": 96.96,
+          "end": 97.3
         },
         {
           "word": "see",
-          "startSec": 97.22,
-          "endSec": 97.56,
-          "score": 1.0
+          "start": 97.3,
+          "end": 97.62
         },
         {
           "word": "beautiful",
-          "startSec": 97.56,
-          "endSec": 98.04,
-          "score": 1.0
+          "start": 97.62,
+          "end": 98.24
         },
         {
           "word": "mountains",
-          "startSec": 98.04,
-          "endSec": 98.72,
-          "score": 1.0
+          "start": 98.24,
+          "end": 98.88
+        },
+        {
+          "word": "and",
+          "start": 98.88,
+          "end": 99.32
+        },
+        {
+          "word": "green",
+          "start": 99.32,
+          "end": 99.66
+        },
+        {
+          "word": "valleys.",
+          "start": 99.66,
+          "end": 100.66
         }
       ]
     },
     {
       "id": 23,
-      "start": 98.52,
-      "end": 100.35,
-      "text": "and green valleys.",
+      "start": 101.22,
+      "end": 105.16,
+      "text": "The air is fresh and the view is amazing.",
       "words": [
         {
+          "word": "The",
+          "start": 101.22,
+          "end": 101.48
+        },
+        {
+          "word": "air",
+          "start": 101.48,
+          "end": 101.86
+        },
+        {
+          "word": "is",
+          "start": 101.86,
+          "end": 102.12
+        },
+        {
+          "word": "fresh",
+          "start": 102.12,
+          "end": 102.58
+        },
+        {
           "word": "and",
-          "startSec": 98.72,
-          "endSec": 99.26,
-          "score": 0.93
+          "start": 102.58,
+          "end": 103.16
         },
         {
-          "word": "green",
-          "startSec": 99.26,
-          "endSec": 99.52,
-          "score": 0.99
+          "word": "the",
+          "start": 103.16,
+          "end": 103.34
         },
         {
-          "word": "valleys.",
-          "startSec": 99.52,
-          "endSec": 100.2,
-          "score": 1.0
+          "word": "view",
+          "start": 103.34,
+          "end": 103.78
+        },
+        {
+          "word": "is",
+          "start": 103.78,
+          "end": 104.08
+        },
+        {
+          "word": "amazing.",
+          "start": 104.08,
+          "end": 105.16
         }
       ]
     },
     {
       "id": 24,
-      "start": 101.1,
-      "end": 104.53,
-      "text": "The air is fresh and the view is amazing.",
+      "start": 105.76,
+      "end": 112.04,
+      "text": "Many visitors enjoy walking slowly and looking at the landscape.",
       "words": [
         {
-          "word": "The",
-          "startSec": 101.3,
-          "endSec": 101.44,
-          "score": 0.99
+          "word": "Many",
+          "start": 105.76,
+          "end": 106.38
         },
         {
-          "word": "air",
-          "startSec": 101.44,
-          "endSec": 101.8,
-          "score": 0.99
+          "word": "visitors",
+          "start": 106.38,
+          "end": 107.06
         },
         {
-          "word": "is",
-          "startSec": 101.8,
-          "endSec": 102.08,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 107.06,
+          "end": 107.76
         },
         {
-          "word": "fresh",
-          "startSec": 102.08,
-          "endSec": 102.46,
-          "score": 1.0
+          "word": "walking",
+          "start": 107.76,
+          "end": 108.48
+        },
+        {
+          "word": "slowly",
+          "start": 108.48,
+          "end": 109.36
         },
         {
           "word": "and",
-          "startSec": 102.46,
-          "endSec": 103.08,
-          "score": 0.81
+          "start": 109.36,
+          "end": 109.92
+        },
+        {
+          "word": "looking",
+          "start": 109.92,
+          "end": 110.28
+        },
+        {
+          "word": "at",
+          "start": 110.28,
+          "end": 110.62
         },
         {
           "word": "the",
-          "startSec": 103.08,
-          "endSec": 103.3,
-          "score": 1.0
+          "start": 110.62,
+          "end": 110.8
         },
         {
-          "word": "view",
-          "startSec": 103.3,
-          "endSec": 103.62,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 103.62,
-          "endSec": 104.0,
-          "score": 1.0
-        },
-        {
-          "word": "amazing.",
-          "startSec": 104.0,
-          "endSec": 104.38,
-          "score": 1.0
+          "word": "landscape.",
+          "start": 110.8,
+          "end": 112.04
         }
       ]
     },
     {
       "id": 25,
-      "start": 105.77,
-      "end": 111.32,
-      "text": "Many visitors enjoy walking slowly and looking at the landscape.",
+      "start": 112.6,
+      "end": 121.48,
+      "text": "Part four, one of the most famous places in the city is Girocaster Castle.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 105.97,
-          "endSec": 106.29,
-          "score": 1.0
+          "word": "Part",
+          "start": 112.6,
+          "end": 113.48
         },
         {
-          "word": "visitors",
-          "startSec": 106.29,
-          "endSec": 106.89,
-          "score": 1.0
+          "word": "four,",
+          "start": 113.48,
+          "end": 114.12
         },
         {
-          "word": "enjoy",
-          "startSec": 106.89,
-          "endSec": 107.67,
-          "score": 1.0
+          "word": "one",
+          "start": 114.46,
+          "end": 115.94
         },
         {
-          "word": "walking",
-          "startSec": 107.67,
-          "endSec": 108.53,
-          "score": 1.0
-        },
-        {
-          "word": "slowly",
-          "startSec": 108.53,
-          "endSec": 109.11,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 109.11,
-          "endSec": 109.83,
-          "score": 0.98
-        },
-        {
-          "word": "looking",
-          "startSec": 109.83,
-          "endSec": 110.21,
-          "score": 1.0
-        },
-        {
-          "word": "at",
-          "startSec": 110.21,
-          "endSec": 110.55,
-          "score": 1.0
+          "word": "of",
+          "start": 115.94,
+          "end": 116.18
         },
         {
           "word": "the",
-          "startSec": 110.55,
-          "endSec": 110.75,
-          "score": 1.0
+          "start": 116.18,
+          "end": 116.34
         },
         {
-          "word": "landscape.",
-          "startSec": 110.75,
-          "endSec": 111.17,
-          "score": 1.0
+          "word": "most",
+          "start": 116.34,
+          "end": 116.78
+        },
+        {
+          "word": "famous",
+          "start": 116.78,
+          "end": 117.32
+        },
+        {
+          "word": "places",
+          "start": 117.32,
+          "end": 117.94
+        },
+        {
+          "word": "in",
+          "start": 117.94,
+          "end": 118.36
+        },
+        {
+          "word": "the",
+          "start": 118.36,
+          "end": 118.52
+        },
+        {
+          "word": "city",
+          "start": 118.52,
+          "end": 118.92
+        },
+        {
+          "word": "is",
+          "start": 118.92,
+          "end": 119.44
+        },
+        {
+          "word": "Girocaster",
+          "start": 119.44,
+          "end": 120.42
+        },
+        {
+          "word": "Castle.",
+          "start": 120.42,
+          "end": 121.48
         }
       ]
     },
     {
       "id": 26,
-      "start": 112.71,
-      "end": 119.04,
-      "text": "Part four, one of the most famous places in the city",
+      "start": 122.28,
+      "end": 126.38,
+      "text": "The castle is very large and very old.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 112.91,
-          "endSec": 113.33,
-          "score": 0.04
+          "word": "The",
+          "start": 122.28,
+          "end": 122.88
         },
         {
-          "word": "four,",
-          "startSec": 113.33,
-          "endSec": 113.95,
-          "score": 0.37
+          "word": "castle",
+          "start": 122.88,
+          "end": 123.42
         },
         {
-          "word": "one",
-          "startSec": 115.49,
-          "endSec": 115.91,
-          "score": 0.97
+          "word": "is",
+          "start": 123.42,
+          "end": 123.78
         },
         {
-          "word": "of",
-          "startSec": 115.91,
-          "endSec": 116.13,
-          "score": 1.0
+          "word": "very",
+          "start": 123.78,
+          "end": 124.16
         },
         {
-          "word": "the",
-          "startSec": 116.13,
-          "endSec": 116.29,
-          "score": 1.0
+          "word": "large",
+          "start": 124.16,
+          "end": 124.6
         },
         {
-          "word": "most",
-          "startSec": 116.29,
-          "endSec": 116.63,
-          "score": 1.0
+          "word": "and",
+          "start": 124.6,
+          "end": 125.0
         },
         {
-          "word": "famous",
-          "startSec": 116.63,
-          "endSec": 117.31,
-          "score": 0.99
+          "word": "very",
+          "start": 125.0,
+          "end": 125.38
         },
         {
-          "word": "places",
-          "startSec": 117.31,
-          "endSec": 117.99,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 117.99,
-          "endSec": 118.27,
-          "score": 0.99
-        },
-        {
-          "word": "the",
-          "startSec": 118.27,
-          "endSec": 118.45,
-          "score": 0.99
-        },
-        {
-          "word": "city",
-          "startSec": 118.45,
-          "endSec": 118.89,
-          "score": 0.99
+          "word": "old.",
+          "start": 125.38,
+          "end": 126.38
         }
       ]
     },
     {
       "id": 27,
-      "start": 118.69,
-      "end": 121.0,
-      "text": "is Jirocaster Castle.",
+      "start": 126.64,
+      "end": 130.94,
+      "text": "It stands on the top of the hill and looks over the city.",
       "words": [
         {
-          "word": "is",
-          "startSec": 118.89,
-          "endSec": 119.39,
-          "score": 0.81
+          "word": "It",
+          "start": 126.64,
+          "end": 126.9
         },
         {
-          "word": "Jirocaster",
-          "startSec": 119.39,
-          "endSec": 120.15,
-          "score": 0.32
+          "word": "stands",
+          "start": 126.9,
+          "end": 127.36
         },
         {
-          "word": "Castle.",
-          "startSec": 120.15,
-          "endSec": 120.85,
-          "score": 0.94
+          "word": "on",
+          "start": 127.36,
+          "end": 127.66
+        },
+        {
+          "word": "the",
+          "start": 127.66,
+          "end": 127.84
+        },
+        {
+          "word": "top",
+          "start": 127.84,
+          "end": 128.24
+        },
+        {
+          "word": "of",
+          "start": 128.24,
+          "end": 128.46
+        },
+        {
+          "word": "the",
+          "start": 128.46,
+          "end": 128.66
+        },
+        {
+          "word": "hill",
+          "start": 128.66,
+          "end": 129.06
+        },
+        {
+          "word": "and",
+          "start": 129.06,
+          "end": 129.52
+        },
+        {
+          "word": "looks",
+          "start": 129.52,
+          "end": 129.86
+        },
+        {
+          "word": "over",
+          "start": 129.86,
+          "end": 130.3
+        },
+        {
+          "word": "the",
+          "start": 130.3,
+          "end": 130.58
+        },
+        {
+          "word": "city.",
+          "start": 130.58,
+          "end": 130.94
         }
       ]
     },
     {
       "id": 28,
-      "start": 122.49,
-      "end": 126.02,
-      "text": "The castle is very large and very old.",
+      "start": 130.94,
+      "end": 138.14,
+      "text": "From the castle, visitors can see the whole city and the mountains around it.",
       "words": [
         {
-          "word": "The",
-          "startSec": 122.69,
-          "endSec": 122.85,
-          "score": 0.99
+          "word": "From",
+          "start": 130.94,
+          "end": 132.28
         },
         {
-          "word": "castle",
-          "startSec": 122.85,
-          "endSec": 123.23,
-          "score": 0.88
+          "word": "the",
+          "start": 132.28,
+          "end": 132.54
         },
         {
-          "word": "is",
-          "startSec": 123.23,
-          "endSec": 123.71,
-          "score": 1.0
+          "word": "castle,",
+          "start": 132.54,
+          "end": 133.02
         },
         {
-          "word": "very",
-          "startSec": 123.71,
-          "endSec": 124.09,
-          "score": 1.0
+          "word": "visitors",
+          "start": 133.24,
+          "end": 133.66
         },
         {
-          "word": "large",
-          "startSec": 124.09,
-          "endSec": 124.55,
-          "score": 1.0
+          "word": "can",
+          "start": 133.66,
+          "end": 134.1
+        },
+        {
+          "word": "see",
+          "start": 134.1,
+          "end": 134.42
+        },
+        {
+          "word": "the",
+          "start": 134.42,
+          "end": 134.6
+        },
+        {
+          "word": "whole",
+          "start": 134.6,
+          "end": 134.98
+        },
+        {
+          "word": "city",
+          "start": 134.98,
+          "end": 135.46
         },
         {
           "word": "and",
-          "startSec": 124.55,
-          "endSec": 124.93,
-          "score": 0.98
+          "start": 135.46,
+          "end": 136.12
         },
         {
-          "word": "very",
-          "startSec": 124.93,
-          "endSec": 125.23,
-          "score": 0.99
+          "word": "the",
+          "start": 136.12,
+          "end": 136.3
         },
         {
-          "word": "old.",
-          "startSec": 125.23,
-          "endSec": 125.87,
-          "score": 1.0
+          "word": "mountains",
+          "start": 136.3,
+          "end": 136.72
+        },
+        {
+          "word": "around",
+          "start": 136.72,
+          "end": 137.3
+        },
+        {
+          "word": "it.",
+          "start": 137.3,
+          "end": 138.14
         }
       ]
     },
     {
       "id": 29,
-      "start": 126.41,
-      "end": 131.08,
-      "text": "It stands on the top of the hill and looks over the city.",
+      "start": 138.64,
+      "end": 142.9,
+      "text": "Inside the castle, there is also a small museum.",
       "words": [
         {
-          "word": "It",
-          "startSec": 126.61,
-          "endSec": 126.85,
-          "score": 0.99
-        },
-        {
-          "word": "stands",
-          "startSec": 126.85,
-          "endSec": 127.19,
-          "score": 0.99
-        },
-        {
-          "word": "on",
-          "startSec": 127.19,
-          "endSec": 127.61,
-          "score": 1.0
+          "word": "Inside",
+          "start": 138.64,
+          "end": 139.3
         },
         {
           "word": "the",
-          "startSec": 127.61,
-          "endSec": 127.79,
-          "score": 0.98
+          "start": 139.3,
+          "end": 139.66
         },
         {
-          "word": "top",
-          "startSec": 127.79,
-          "endSec": 128.17,
-          "score": 1.0
+          "word": "castle,",
+          "start": 139.66,
+          "end": 140.22
         },
         {
-          "word": "of",
-          "startSec": 128.17,
-          "endSec": 128.37,
-          "score": 1.0
+          "word": "there",
+          "start": 140.46,
+          "end": 140.56
         },
         {
-          "word": "the",
-          "startSec": 128.37,
-          "endSec": 128.59,
-          "score": 1.0
+          "word": "is",
+          "start": 140.56,
+          "end": 140.74
         },
         {
-          "word": "hill",
-          "startSec": 128.59,
-          "endSec": 128.99,
-          "score": 0.99
+          "word": "also",
+          "start": 140.74,
+          "end": 141.24
         },
         {
-          "word": "and",
-          "startSec": 128.99,
-          "endSec": 129.45,
-          "score": 0.97
+          "word": "a",
+          "start": 141.24,
+          "end": 141.46
         },
         {
-          "word": "looks",
-          "startSec": 129.45,
-          "endSec": 129.75,
-          "score": 1.0
+          "word": "small",
+          "start": 141.46,
+          "end": 141.8
         },
         {
-          "word": "over",
-          "startSec": 129.75,
-          "endSec": 130.27,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 130.27,
-          "endSec": 130.49,
-          "score": 1.0
-        },
-        {
-          "word": "city.",
-          "startSec": 130.49,
-          "endSec": 130.93,
-          "score": 1.0
+          "word": "museum.",
+          "start": 141.8,
+          "end": 142.9
         }
       ]
     },
     {
       "id": 30,
-      "start": 131.78,
-      "end": 135.49,
-      "text": "From the castle, visitors can see the whole city",
+      "start": 144.9,
+      "end": 149.52,
+      "text": "The old town of Girocaster is very beautiful.",
       "words": [
         {
-          "word": "From",
-          "startSec": 131.98,
-          "endSec": 132.24,
-          "score": 0.99
+          "word": "The",
+          "start": 144.9,
+          "end": 145.84
         },
         {
-          "word": "the",
-          "startSec": 132.24,
-          "endSec": 132.46,
-          "score": 1.0
+          "word": "old",
+          "start": 145.84,
+          "end": 146.18
         },
         {
-          "word": "castle,",
-          "startSec": 132.46,
-          "endSec": 132.86,
-          "score": 0.93
+          "word": "town",
+          "start": 146.18,
+          "end": 146.54
         },
         {
-          "word": "visitors",
-          "startSec": 133.2,
-          "endSec": 133.54,
-          "score": 0.99
+          "word": "of",
+          "start": 146.54,
+          "end": 146.78
         },
         {
-          "word": "can",
-          "startSec": 133.54,
-          "endSec": 134.04,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 146.78,
+          "end": 147.58
         },
         {
-          "word": "see",
-          "startSec": 134.04,
-          "endSec": 134.34,
-          "score": 1.0
+          "word": "is",
+          "start": 147.58,
+          "end": 148.14
         },
         {
-          "word": "the",
-          "startSec": 134.34,
-          "endSec": 134.56,
-          "score": 1.0
+          "word": "very",
+          "start": 148.14,
+          "end": 148.52
         },
         {
-          "word": "whole",
-          "startSec": 134.56,
-          "endSec": 134.84,
-          "score": 1.0
-        },
-        {
-          "word": "city",
-          "startSec": 134.84,
-          "endSec": 135.34,
-          "score": 1.0
+          "word": "beautiful.",
+          "start": 148.52,
+          "end": 149.52
         }
       ]
     },
     {
       "id": 31,
-      "start": 135.14,
-      "end": 137.77,
-      "text": "and the mountains around it.",
+      "start": 149.94,
+      "end": 154.22,
+      "text": "Many houses are traditional Ottoman style houses.",
       "words": [
         {
-          "word": "and",
-          "startSec": 135.34,
-          "endSec": 136.06,
-          "score": 0.97
+          "word": "Many",
+          "start": 149.94,
+          "end": 150.34
         },
         {
-          "word": "the",
-          "startSec": 136.06,
-          "endSec": 136.24,
-          "score": 0.99
+          "word": "houses",
+          "start": 150.34,
+          "end": 150.88
         },
         {
-          "word": "mountains",
-          "startSec": 136.24,
-          "endSec": 136.72,
-          "score": 1.0
+          "word": "are",
+          "start": 150.88,
+          "end": 151.32
         },
         {
-          "word": "around",
-          "startSec": 136.72,
-          "endSec": 137.18,
-          "score": 1.0
+          "word": "traditional",
+          "start": 151.32,
+          "end": 152.0
         },
         {
-          "word": "it.",
-          "startSec": 137.18,
-          "endSec": 137.62,
-          "score": 0.99
+          "word": "Ottoman",
+          "start": 152.0,
+          "end": 152.66
+        },
+        {
+          "word": "style",
+          "start": 152.66,
+          "end": 153.14
+        },
+        {
+          "word": "houses.",
+          "start": 153.14,
+          "end": 154.22
         }
       ]
     },
     {
       "id": 32,
-      "start": 138.56,
-      "end": 142.53,
-      "text": "Inside the castle, there is also a small museum.",
+      "start": 155.02,
+      "end": 159.65,
+      "text": "These houses have big stone walls and wooden windows.",
       "words": [
         {
-          "word": "Inside",
-          "startSec": 138.76,
-          "endSec": 139.18,
-          "score": 0.99
+          "word": "These",
+          "start": 155.02,
+          "end": 155.72
         },
         {
-          "word": "the",
-          "startSec": 139.18,
-          "endSec": 139.58,
-          "score": 1.0
+          "word": "houses",
+          "start": 155.72,
+          "end": 156.28
         },
         {
-          "word": "castle,",
-          "startSec": 139.58,
-          "endSec": 139.98,
-          "score": 0.99
+          "word": "have",
+          "start": 156.28,
+          "end": 156.74
         },
         {
-          "word": "there",
-          "startSec": 140.36,
-          "endSec": 140.5,
-          "score": 1.0
+          "word": "big",
+          "start": 156.74,
+          "end": 157.16
         },
         {
-          "word": "is",
-          "startSec": 140.5,
-          "endSec": 140.7,
-          "score": 0.97
+          "word": "stone",
+          "start": 157.16,
+          "end": 157.6
         },
         {
-          "word": "also",
-          "startSec": 140.7,
-          "endSec": 141.2,
-          "score": 1.0
+          "word": "walls",
+          "start": 157.6,
+          "end": 158.16
         },
         {
-          "word": "a",
-          "startSec": 141.2,
-          "endSec": 141.38,
-          "score": 1.0
+          "word": "and",
+          "start": 158.16,
+          "end": 158.5
         },
         {
-          "word": "small",
-          "startSec": 141.38,
-          "endSec": 141.62,
-          "score": 1.0
+          "word": "wooden",
+          "start": 158.5,
+          "end": 158.78
         },
         {
-          "word": "museum.",
-          "startSec": 141.62,
-          "endSec": 142.38,
-          "score": 0.99
+          "word": "windows.",
+          "start": 158.78,
+          "end": 159.65
         }
       ]
     },
     {
       "id": 33,
-      "start": 145.15,
-      "end": 149.09,
-      "text": "The Old Town of Jirocaster is very beautiful.",
+      "start": 160.25,
+      "end": 163.07,
+      "text": "Some houses are now museums.",
       "words": [
         {
-          "word": "The",
-          "startSec": 145.35,
-          "endSec": 145.8,
-          "score": 0.39
+          "word": "Some",
+          "start": 160.25,
+          "end": 160.73
         },
         {
-          "word": "Old",
-          "startSec": 145.8,
-          "endSec": 146.12,
-          "score": 0.79
+          "word": "houses",
+          "start": 160.73,
+          "end": 161.39
         },
         {
-          "word": "Town",
-          "startSec": 146.12,
-          "endSec": 146.48,
-          "score": 0.97
+          "word": "are",
+          "start": 161.39,
+          "end": 161.69
         },
         {
-          "word": "of",
-          "startSec": 146.48,
-          "endSec": 146.74,
-          "score": 0.99
+          "word": "now",
+          "start": 161.69,
+          "end": 162.01
         },
         {
-          "word": "Jirocaster",
-          "startSec": 146.74,
-          "endSec": 147.46,
-          "score": 0.48
-        },
-        {
-          "word": "is",
-          "startSec": 147.46,
-          "endSec": 148.08,
-          "score": 0.98
-        },
-        {
-          "word": "very",
-          "startSec": 148.08,
-          "endSec": 148.42,
-          "score": 0.99
-        },
-        {
-          "word": "beautiful.",
-          "startSec": 148.42,
-          "endSec": 148.94,
-          "score": 1.0
+          "word": "museums.",
+          "start": 162.01,
+          "end": 163.07
         }
       ]
     },
     {
       "id": 34,
-      "start": 149.86,
-      "end": 153.89,
-      "text": "Many houses are traditional Ottoman style houses.",
+      "start": 163.97,
+      "end": 169.63,
+      "text": "Visitors can go inside and see how people lived many years ago.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 150.06,
-          "endSec": 150.24,
-          "score": 0.85
+          "word": "Visitors",
+          "start": 163.97,
+          "end": 164.73
         },
         {
-          "word": "houses",
-          "startSec": 150.24,
-          "endSec": 150.8,
-          "score": 0.99
+          "word": "can",
+          "start": 164.73,
+          "end": 165.13
         },
         {
-          "word": "are",
-          "startSec": 150.8,
-          "endSec": 151.26,
-          "score": 1.0
+          "word": "go",
+          "start": 165.13,
+          "end": 165.39
         },
         {
-          "word": "traditional",
-          "startSec": 151.26,
-          "endSec": 151.72,
-          "score": 0.99
+          "word": "inside",
+          "start": 165.39,
+          "end": 165.97
         },
         {
-          "word": "Ottoman",
-          "startSec": 151.72,
-          "endSec": 152.52,
-          "score": 0.67
+          "word": "and",
+          "start": 165.97,
+          "end": 166.47
         },
         {
-          "word": "style",
-          "startSec": 152.52,
-          "endSec": 153.14,
-          "score": 0.53
+          "word": "see",
+          "start": 166.47,
+          "end": 166.79
         },
         {
-          "word": "houses.",
-          "startSec": 153.14,
-          "endSec": 153.74,
-          "score": 1.0
+          "word": "how",
+          "start": 166.79,
+          "end": 167.07
+        },
+        {
+          "word": "people",
+          "start": 167.07,
+          "end": 167.47
+        },
+        {
+          "word": "lived",
+          "start": 167.47,
+          "end": 167.95
+        },
+        {
+          "word": "many",
+          "start": 167.95,
+          "end": 168.39
+        },
+        {
+          "word": "years",
+          "start": 168.39,
+          "end": 168.81
+        },
+        {
+          "word": "ago.",
+          "start": 168.81,
+          "end": 169.63
         }
       ]
     },
     {
       "id": 35,
-      "start": 155.02,
-      "end": 159.43,
-      "text": "These houses have big stone walls and wooden windows.",
+      "start": 170.17,
+      "end": 173.15,
+      "text": "It is a great way to learn about history.",
       "words": [
         {
-          "word": "These",
-          "startSec": 155.22,
-          "endSec": 155.62,
-          "score": 0.99
+          "word": "It",
+          "start": 170.17,
+          "end": 170.33
         },
         {
-          "word": "houses",
-          "startSec": 155.62,
-          "endSec": 156.1,
-          "score": 1.0
+          "word": "is",
+          "start": 170.33,
+          "end": 170.51
         },
         {
-          "word": "have",
-          "startSec": 156.1,
-          "endSec": 156.72,
-          "score": 1.0
+          "word": "a",
+          "start": 170.51,
+          "end": 170.65
         },
         {
-          "word": "big",
-          "startSec": 156.72,
-          "endSec": 157.06,
-          "score": 0.99
+          "word": "great",
+          "start": 170.65,
+          "end": 170.99
         },
         {
-          "word": "stone",
-          "startSec": 157.06,
-          "endSec": 157.52,
-          "score": 0.97
+          "word": "way",
+          "start": 170.99,
+          "end": 171.33
         },
         {
-          "word": "walls",
-          "startSec": 157.52,
-          "endSec": 158.04,
-          "score": 1.0
+          "word": "to",
+          "start": 171.33,
+          "end": 171.57
         },
         {
-          "word": "and",
-          "startSec": 158.04,
-          "endSec": 158.44,
-          "score": 0.97
+          "word": "learn",
+          "start": 171.57,
+          "end": 171.85
         },
         {
-          "word": "wooden",
-          "startSec": 158.44,
-          "endSec": 158.68,
-          "score": 1.0
+          "word": "about",
+          "start": 171.85,
+          "end": 172.13
         },
         {
-          "word": "windows.",
-          "startSec": 158.68,
-          "endSec": 159.28,
-          "score": 1.0
+          "word": "history.",
+          "start": 172.13,
+          "end": 173.15
         }
       ]
     },
     {
       "id": 36,
-      "start": 160.12,
-      "end": 162.63,
-      "text": "Some houses are now museums.",
+      "start": 174.23,
+      "end": 179.41,
+      "text": "Part six, Girocaster is also known for its culture and traditions.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 160.32,
-          "endSec": 160.72,
-          "score": 0.99
+          "word": "Part",
+          "start": 174.23,
+          "end": 174.69
         },
         {
-          "word": "houses",
-          "startSec": 160.72,
-          "endSec": 161.2,
-          "score": 1.0
+          "word": "six,",
+          "start": 174.69,
+          "end": 175.09
         },
         {
-          "word": "are",
-          "startSec": 161.2,
-          "endSec": 161.64,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 175.37,
+          "end": 175.93
         },
         {
-          "word": "now",
-          "startSec": 161.64,
-          "endSec": 161.98,
-          "score": 1.0
+          "word": "is",
+          "start": 175.93,
+          "end": 176.39
         },
         {
-          "word": "museums.",
-          "startSec": 161.98,
-          "endSec": 162.48,
-          "score": 0.97
+          "word": "also",
+          "start": 176.39,
+          "end": 176.79
+        },
+        {
+          "word": "known",
+          "start": 176.79,
+          "end": 177.15
+        },
+        {
+          "word": "for",
+          "start": 177.15,
+          "end": 177.49
+        },
+        {
+          "word": "its",
+          "start": 177.49,
+          "end": 177.69
+        },
+        {
+          "word": "culture",
+          "start": 177.69,
+          "end": 178.19
+        },
+        {
+          "word": "and",
+          "start": 178.19,
+          "end": 178.49
+        },
+        {
+          "word": "traditions.",
+          "start": 178.49,
+          "end": 179.41
         }
       ]
     },
     {
       "id": 37,
-      "start": 163.64,
-      "end": 169.31,
-      "text": "Visitors can go inside and see how people lived many years ago.",
+      "start": 180.21,
+      "end": 185.21,
+      "text": "Every year, the city hosts a big folklore festival.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 163.84,
-          "endSec": 164.46,
-          "score": 0.98
+          "word": "Every",
+          "start": 180.21,
+          "end": 180.95
         },
         {
-          "word": "can",
-          "startSec": 164.46,
-          "endSec": 165.06,
-          "score": 1.0
+          "word": "year,",
+          "start": 180.95,
+          "end": 181.25
         },
         {
-          "word": "go",
-          "startSec": 165.06,
-          "endSec": 165.38,
-          "score": 1.0
+          "word": "the",
+          "start": 181.37,
+          "end": 181.47
         },
         {
-          "word": "inside",
-          "startSec": 165.38,
-          "endSec": 165.7,
-          "score": 1.0
+          "word": "city",
+          "start": 181.47,
+          "end": 181.79
         },
         {
-          "word": "and",
-          "startSec": 165.7,
-          "endSec": 166.4,
-          "score": 0.98
+          "word": "hosts",
+          "start": 181.79,
+          "end": 182.35
         },
         {
-          "word": "see",
-          "startSec": 166.4,
-          "endSec": 166.72,
-          "score": 1.0
+          "word": "a",
+          "start": 182.35,
+          "end": 182.91
         },
         {
-          "word": "how",
-          "startSec": 166.72,
-          "endSec": 167.02,
-          "score": 1.0
+          "word": "big",
+          "start": 182.91,
+          "end": 183.33
         },
         {
-          "word": "people",
-          "startSec": 167.02,
-          "endSec": 167.28,
-          "score": 1.0
+          "word": "folklore",
+          "start": 183.33,
+          "end": 184.05
         },
         {
-          "word": "lived",
-          "startSec": 167.28,
-          "endSec": 167.92,
-          "score": 1.0
-        },
-        {
-          "word": "many",
-          "startSec": 167.92,
-          "endSec": 168.26,
-          "score": 0.99
-        },
-        {
-          "word": "years",
-          "startSec": 168.26,
-          "endSec": 168.74,
-          "score": 1.0
-        },
-        {
-          "word": "ago.",
-          "startSec": 168.74,
-          "endSec": 169.16,
-          "score": 1.0
+          "word": "festival.",
+          "start": 184.05,
+          "end": 185.21
         }
       ]
     },
     {
       "id": 38,
-      "start": 169.84,
-      "end": 172.63,
-      "text": "It is a great way to learn about history.",
+      "start": 186.01,
+      "end": 191.45,
+      "text": "During the festival, people come from many parts of Albania.",
       "words": [
         {
-          "word": "It",
-          "startSec": 170.04,
-          "endSec": 170.3,
-          "score": 0.99
+          "word": "During",
+          "start": 186.01,
+          "end": 187.09
         },
         {
-          "word": "is",
-          "startSec": 170.3,
-          "endSec": 170.42,
-          "score": 0.98
+          "word": "the",
+          "start": 187.09,
+          "end": 187.43
         },
         {
-          "word": "a",
-          "startSec": 170.42,
-          "endSec": 170.62,
-          "score": 0.99
+          "word": "festival,",
+          "start": 187.43,
+          "end": 187.99
         },
         {
-          "word": "great",
-          "startSec": 170.62,
-          "endSec": 170.9,
-          "score": 1.0
+          "word": "people",
+          "start": 188.29,
+          "end": 188.59
         },
         {
-          "word": "way",
-          "startSec": 170.9,
-          "endSec": 171.3,
-          "score": 1.0
+          "word": "come",
+          "start": 188.59,
+          "end": 189.03
         },
         {
-          "word": "to",
-          "startSec": 171.3,
-          "endSec": 171.52,
-          "score": 1.0
+          "word": "from",
+          "start": 189.03,
+          "end": 189.33
         },
         {
-          "word": "learn",
-          "startSec": 171.52,
-          "endSec": 171.78,
-          "score": 1.0
+          "word": "many",
+          "start": 189.33,
+          "end": 189.81
         },
         {
-          "word": "about",
-          "startSec": 171.78,
-          "endSec": 172.12,
-          "score": 1.0
+          "word": "parts",
+          "start": 189.81,
+          "end": 190.25
         },
         {
-          "word": "history.",
-          "startSec": 172.12,
-          "endSec": 172.48,
-          "score": 1.0
+          "word": "of",
+          "start": 190.25,
+          "end": 190.51
+        },
+        {
+          "word": "Albania.",
+          "start": 190.51,
+          "end": 191.45
         }
       ]
     },
     {
       "id": 39,
-      "start": 173.92,
-      "end": 179.01,
-      "text": "Part six, Jirocaster is also known for its culture and traditions.",
+      "start": 191.91,
+      "end": 198.41,
+      "text": "They sing traditional songs, play music and dance in traditional clothes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 174.12,
-          "endSec": 174.56,
-          "score": 0.16
+          "word": "They",
+          "start": 191.91,
+          "end": 192.31
         },
         {
-          "word": "six,",
-          "startSec": 174.56,
-          "endSec": 174.98,
-          "score": 0.28
+          "word": "sing",
+          "start": 192.31,
+          "end": 192.77
         },
         {
-          "word": "Jirocaster",
-          "startSec": 174.98,
-          "endSec": 175.74,
-          "score": 0.39
+          "word": "traditional",
+          "start": 192.77,
+          "end": 193.39
         },
         {
-          "word": "is",
-          "startSec": 175.74,
-          "endSec": 176.34,
-          "score": 0.59
+          "word": "songs,",
+          "start": 193.39,
+          "end": 194.45
         },
         {
-          "word": "also",
-          "startSec": 176.34,
-          "endSec": 176.62,
-          "score": 1.0
+          "word": "play",
+          "start": 194.79,
+          "end": 195.05
         },
         {
-          "word": "known",
-          "startSec": 176.62,
-          "endSec": 177.1,
-          "score": 1.0
-        },
-        {
-          "word": "for",
-          "startSec": 177.1,
-          "endSec": 177.46,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 177.46,
-          "endSec": 177.66,
-          "score": 0.94
-        },
-        {
-          "word": "culture",
-          "startSec": 177.66,
-          "endSec": 178.0,
-          "score": 0.99
+          "word": "music",
+          "start": 195.05,
+          "end": 195.61
         },
         {
           "word": "and",
-          "startSec": 178.0,
-          "endSec": 178.44,
-          "score": 0.99
+          "start": 195.61,
+          "end": 196.15
         },
         {
-          "word": "traditions.",
-          "startSec": 178.44,
-          "endSec": 178.86,
-          "score": 1.0
+          "word": "dance",
+          "start": 196.15,
+          "end": 196.61
+        },
+        {
+          "word": "in",
+          "start": 196.61,
+          "end": 196.83
+        },
+        {
+          "word": "traditional",
+          "start": 196.83,
+          "end": 197.27
+        },
+        {
+          "word": "clothes.",
+          "start": 197.27,
+          "end": 198.41
         }
       ]
     },
     {
       "id": 40,
-      "start": 180.23,
-      "end": 184.66,
-      "text": "Every year, the city hosts a big folklore festival.",
+      "start": 198.99,
+      "end": 202.23,
+      "text": "The festival is colorful and exciting.",
       "words": [
         {
-          "word": "Every",
-          "startSec": 180.43,
-          "endSec": 180.91,
-          "score": 0.99
+          "word": "The",
+          "start": 198.99,
+          "end": 199.23
         },
         {
-          "word": "year,",
-          "startSec": 180.91,
-          "endSec": 181.19,
-          "score": 1.0
+          "word": "festival",
+          "start": 199.23,
+          "end": 199.91
         },
         {
-          "word": "the",
-          "startSec": 181.31,
-          "endSec": 181.43,
-          "score": 0.99
+          "word": "is",
+          "start": 199.91,
+          "end": 200.27
         },
         {
-          "word": "city",
-          "startSec": 181.43,
-          "endSec": 181.71,
-          "score": 0.92
+          "word": "colorful",
+          "start": 200.27,
+          "end": 200.83
         },
         {
-          "word": "hosts",
-          "startSec": 181.71,
-          "endSec": 182.25,
-          "score": 1.0
+          "word": "and",
+          "start": 200.83,
+          "end": 201.25
         },
         {
-          "word": "a",
-          "startSec": 182.25,
-          "endSec": 182.85,
-          "score": 0.99
-        },
-        {
-          "word": "big",
-          "startSec": 182.85,
-          "endSec": 183.27,
-          "score": 0.98
-        },
-        {
-          "word": "folklore",
-          "startSec": 183.27,
-          "endSec": 183.71,
-          "score": 0.89
-        },
-        {
-          "word": "festival.",
-          "startSec": 183.71,
-          "endSec": 184.51,
-          "score": 0.99
+          "word": "exciting.",
+          "start": 201.25,
+          "end": 202.23
         }
       ]
     },
     {
       "id": 41,
-      "start": 186.28,
-      "end": 191.11,
-      "text": "During the festival, people come from many parts of Albania.",
+      "start": 203.29,
+      "end": 209.75,
+      "text": "Part seven, food in Girocaster is simple but delicious.",
       "words": [
         {
-          "word": "During",
-          "startSec": 186.48,
-          "endSec": 186.96,
-          "score": 1.0
+          "word": "Part",
+          "start": 203.29,
+          "end": 203.85
         },
         {
-          "word": "the",
-          "startSec": 186.96,
-          "endSec": 187.32,
-          "score": 1.0
+          "word": "seven,",
+          "start": 203.85,
+          "end": 204.55
         },
         {
-          "word": "festival,",
-          "startSec": 187.32,
-          "endSec": 187.78,
-          "score": 0.95
+          "word": "food",
+          "start": 205.69,
+          "end": 206.21
         },
         {
-          "word": "people",
-          "startSec": 188.16,
-          "endSec": 188.44,
-          "score": 1.0
+          "word": "in",
+          "start": 206.21,
+          "end": 206.47
         },
         {
-          "word": "come",
-          "startSec": 188.44,
-          "endSec": 188.98,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 206.47,
+          "end": 207.35
         },
         {
-          "word": "from",
-          "startSec": 188.98,
-          "endSec": 189.28,
-          "score": 0.99
+          "word": "is",
+          "start": 207.35,
+          "end": 207.91
         },
         {
-          "word": "many",
-          "startSec": 189.28,
-          "endSec": 189.7,
-          "score": 1.0
+          "word": "simple",
+          "start": 207.91,
+          "end": 208.57
         },
         {
-          "word": "parts",
-          "startSec": 189.7,
-          "endSec": 190.16,
-          "score": 1.0
+          "word": "but",
+          "start": 208.57,
+          "end": 209.07
         },
         {
-          "word": "of",
-          "startSec": 190.16,
-          "endSec": 190.44,
-          "score": 1.0
-        },
-        {
-          "word": "Albania.",
-          "startSec": 190.44,
-          "endSec": 190.96,
-          "score": 1.0
+          "word": "delicious.",
+          "start": 209.07,
+          "end": 209.75
         }
       ]
     },
     {
       "id": 42,
-      "start": 191.76,
-      "end": 197.99,
-      "text": "They sing traditional songs, play music, and dance in traditional clothes.",
+      "start": 209.75,
+      "end": 215.07,
+      "text": "Traditional Albanian food uses fresh ingredients.",
       "words": [
         {
-          "word": "They",
-          "startSec": 191.96,
-          "endSec": 192.22,
-          "score": 1.0
+          "word": "Traditional",
+          "start": 209.75,
+          "end": 211.35
         },
         {
-          "word": "sing",
-          "startSec": 192.22,
-          "endSec": 192.6,
-          "score": 1.0
+          "word": "Albanian",
+          "start": 211.35,
+          "end": 212.45
         },
         {
-          "word": "traditional",
-          "startSec": 192.6,
-          "endSec": 193.04,
-          "score": 0.99
+          "word": "food",
+          "start": 212.45,
+          "end": 212.85
         },
         {
-          "word": "songs,",
-          "startSec": 193.04,
-          "endSec": 194.24,
-          "score": 1.0
+          "word": "uses",
+          "start": 212.85,
+          "end": 213.37
         },
         {
-          "word": "play",
-          "startSec": 194.24,
-          "endSec": 194.98,
-          "score": 1.0
+          "word": "fresh",
+          "start": 213.37,
+          "end": 213.85
         },
         {
-          "word": "music,",
-          "startSec": 194.98,
-          "endSec": 195.52,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 195.96,
-          "endSec": 196.1,
-          "score": 1.0
-        },
-        {
-          "word": "dance",
-          "startSec": 196.1,
-          "endSec": 196.46,
-          "score": 1.0
-        },
-        {
-          "word": "in",
-          "startSec": 196.46,
-          "endSec": 196.78,
-          "score": 0.65
-        },
-        {
-          "word": "traditional",
-          "startSec": 196.78,
-          "endSec": 196.98,
-          "score": 1.0
-        },
-        {
-          "word": "clothes.",
-          "startSec": 196.98,
-          "endSec": 197.84,
-          "score": 1.0
+          "word": "ingredients.",
+          "start": 213.85,
+          "end": 215.07
         }
       ]
     },
     {
       "id": 43,
-      "start": 198.82,
-      "end": 201.75,
-      "text": "The festival is colorful and exciting.",
+      "start": 215.53,
+      "end": 218.57,
+      "text": "One local dish is called chifchi.",
       "words": [
         {
-          "word": "The",
-          "startSec": 199.02,
-          "endSec": 199.18,
-          "score": 1.0
+          "word": "One",
+          "start": 215.53,
+          "end": 215.97
         },
         {
-          "word": "festival",
-          "startSec": 199.18,
-          "endSec": 199.64,
-          "score": 0.99
+          "word": "local",
+          "start": 215.97,
+          "end": 216.39
+        },
+        {
+          "word": "dish",
+          "start": 216.39,
+          "end": 216.87
         },
         {
           "word": "is",
-          "startSec": 199.64,
-          "endSec": 200.2,
-          "score": 1.0
+          "start": 216.87,
+          "end": 217.09
         },
         {
-          "word": "colorful",
-          "startSec": 200.2,
-          "endSec": 200.64,
-          "score": 0.99
+          "word": "called",
+          "start": 217.09,
+          "end": 217.45
         },
         {
-          "word": "and",
-          "startSec": 200.64,
-          "endSec": 201.2,
-          "score": 0.99
-        },
-        {
-          "word": "exciting.",
-          "startSec": 201.2,
-          "endSec": 201.6,
-          "score": 1.0
+          "word": "chifchi.",
+          "start": 217.45,
+          "end": 218.57
         }
       ]
     },
     {
       "id": 44,
-      "start": 203.14,
-      "end": 209.67,
-      "text": "Part seven, food in Jirocaster is simple but delicious.",
+      "start": 218.95,
+      "end": 222.55,
+      "text": "It is made with rice, eggs and herbs.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 203.34,
-          "endSec": 203.82,
-          "score": 0.34
-        },
-        {
-          "word": "seven,",
-          "startSec": 203.82,
-          "endSec": 204.5,
-          "score": 0.21
-        },
-        {
-          "word": "food",
-          "startSec": 205.42,
-          "endSec": 206.2,
-          "score": 0.87
-        },
-        {
-          "word": "in",
-          "startSec": 206.2,
-          "endSec": 206.42,
-          "score": 0.23
-        },
-        {
-          "word": "Jirocaster",
-          "startSec": 206.42,
-          "endSec": 207.08,
-          "score": 0.31
+          "word": "It",
+          "start": 218.95,
+          "end": 219.05
         },
         {
           "word": "is",
-          "startSec": 207.08,
-          "endSec": 207.84,
-          "score": 0.96
+          "start": 219.05,
+          "end": 219.25
         },
         {
-          "word": "simple",
-          "startSec": 207.84,
-          "endSec": 208.46,
-          "score": 1.0
+          "word": "made",
+          "start": 219.25,
+          "end": 219.53
         },
         {
-          "word": "but",
-          "startSec": 208.46,
-          "endSec": 209.04,
-          "score": 0.77
+          "word": "with",
+          "start": 219.53,
+          "end": 219.79
         },
         {
-          "word": "delicious.",
-          "startSec": 209.04,
-          "endSec": 209.52,
-          "score": 1.0
+          "word": "rice,",
+          "start": 219.79,
+          "end": 220.33
+        },
+        {
+          "word": "eggs",
+          "start": 220.83,
+          "end": 221.31
+        },
+        {
+          "word": "and",
+          "start": 221.31,
+          "end": 221.69
+        },
+        {
+          "word": "herbs.",
+          "start": 221.69,
+          "end": 222.55
         }
       ]
     },
     {
       "id": 45,
-      "start": 210.42,
-      "end": 214.51,
-      "text": "Traditional Albanian food uses fresh ingredients.",
+      "start": 223.03,
+      "end": 228.33,
+      "text": "People also eat grilled meat, vegetables and fresh bread.",
       "words": [
         {
-          "word": "Traditional",
-          "startSec": 210.62,
-          "endSec": 211.44,
-          "score": 0.97
+          "word": "People",
+          "start": 223.03,
+          "end": 223.35
         },
         {
-          "word": "Albanian",
-          "startSec": 211.44,
-          "endSec": 212.36,
-          "score": 0.98
+          "word": "also",
+          "start": 223.35,
+          "end": 223.93
         },
         {
-          "word": "food",
-          "startSec": 212.36,
-          "endSec": 212.74,
-          "score": 0.99
+          "word": "eat",
+          "start": 223.93,
+          "end": 224.35
         },
         {
-          "word": "uses",
-          "startSec": 212.74,
-          "endSec": 213.3,
-          "score": 0.99
+          "word": "grilled",
+          "start": 224.35,
+          "end": 224.77
+        },
+        {
+          "word": "meat,",
+          "start": 224.77,
+          "end": 225.33
+        },
+        {
+          "word": "vegetables",
+          "start": 225.69,
+          "end": 226.17
+        },
+        {
+          "word": "and",
+          "start": 226.17,
+          "end": 227.03
         },
         {
           "word": "fresh",
-          "startSec": 213.3,
-          "endSec": 213.78,
-          "score": 1.0
+          "start": 227.03,
+          "end": 227.43
         },
         {
-          "word": "ingredients.",
-          "startSec": 213.78,
-          "endSec": 214.36,
-          "score": 1.0
+          "word": "bread.",
+          "start": 227.43,
+          "end": 228.33
         }
       ]
     },
     {
       "id": 46,
-      "start": 215.4,
-      "end": 218.31,
-      "text": "One local dish is called chiffchi.",
+      "start": 229.01,
+      "end": 232.93,
+      "text": "Meals are often shared with family and friends.",
       "words": [
         {
-          "word": "One",
-          "startSec": 215.6,
-          "endSec": 215.84,
-          "score": 0.99
+          "word": "Meals",
+          "start": 229.01,
+          "end": 229.59
         },
         {
-          "word": "local",
-          "startSec": 215.84,
-          "endSec": 216.22,
-          "score": 1.0
+          "word": "are",
+          "start": 229.59,
+          "end": 229.83
         },
         {
-          "word": "dish",
-          "startSec": 216.22,
-          "endSec": 216.78,
-          "score": 1.0
+          "word": "often",
+          "start": 229.83,
+          "end": 230.29
         },
         {
-          "word": "is",
-          "startSec": 216.78,
-          "endSec": 217.0,
-          "score": 0.99
+          "word": "shared",
+          "start": 230.29,
+          "end": 230.83
         },
         {
-          "word": "called",
-          "startSec": 217.0,
-          "endSec": 217.38,
-          "score": 1.0
+          "word": "with",
+          "start": 230.83,
+          "end": 231.19
         },
         {
-          "word": "chiffchi.",
-          "startSec": 217.38,
-          "endSec": 218.16,
-          "score": 0.43
+          "word": "family",
+          "start": 231.19,
+          "end": 231.75
+        },
+        {
+          "word": "and",
+          "start": 231.75,
+          "end": 232.07
+        },
+        {
+          "word": "friends.",
+          "start": 232.07,
+          "end": 232.93
         }
       ]
     },
     {
       "id": 47,
-      "start": 218.58,
-      "end": 222.13,
-      "text": "It is made with rice, eggs, and herbs.",
+      "start": 233.65,
+      "end": 239.63,
+      "text": "Part eight, the people in Girocaster are friendly and welcome.",
       "words": [
         {
-          "word": "It",
-          "startSec": 218.78,
-          "endSec": 219.0,
-          "score": 1.0
+          "word": "Part",
+          "start": 233.65,
+          "end": 233.95
         },
         {
-          "word": "is",
-          "startSec": 219.0,
-          "endSec": 219.16,
-          "score": 0.99
+          "word": "eight,",
+          "start": 233.95,
+          "end": 234.39
         },
         {
-          "word": "made",
-          "startSec": 219.16,
-          "endSec": 219.48,
-          "score": 1.0
+          "word": "the",
+          "start": 234.81,
+          "end": 236.41
         },
         {
-          "word": "with",
-          "startSec": 219.48,
-          "endSec": 219.76,
-          "score": 1.0
+          "word": "people",
+          "start": 236.41,
+          "end": 236.93
         },
         {
-          "word": "rice,",
-          "startSec": 219.76,
-          "endSec": 220.14,
-          "score": 1.0
+          "word": "in",
+          "start": 236.93,
+          "end": 237.27
         },
         {
-          "word": "eggs,",
-          "startSec": 220.82,
-          "endSec": 221.08,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 237.27,
+          "end": 238.07
+        },
+        {
+          "word": "are",
+          "start": 238.07,
+          "end": 238.51
+        },
+        {
+          "word": "friendly",
+          "start": 238.51,
+          "end": 238.97
         },
         {
           "word": "and",
-          "startSec": 221.56,
-          "endSec": 221.64,
-          "score": 1.0
+          "start": 238.97,
+          "end": 239.27
         },
         {
-          "word": "herbs.",
-          "startSec": 221.64,
-          "endSec": 221.98,
-          "score": 1.0
+          "word": "welcome.",
+          "start": 239.27,
+          "end": 239.63
         }
       ]
     },
     {
       "id": 48,
-      "start": 222.72,
-      "end": 227.99,
-      "text": "People also eat grilled meat, vegetables, and fresh bread.",
+      "start": 239.63,
+      "end": 244.21,
+      "text": "Life in the city is calm and peaceful.",
       "words": [
         {
-          "word": "People",
-          "startSec": 222.92,
-          "endSec": 223.32,
-          "score": 1.0
+          "word": "Life",
+          "start": 239.63,
+          "end": 241.41
         },
         {
-          "word": "also",
-          "startSec": 223.32,
-          "endSec": 223.7,
-          "score": 1.0
+          "word": "in",
+          "start": 241.41,
+          "end": 241.77
         },
         {
-          "word": "eat",
-          "startSec": 223.7,
-          "endSec": 224.3,
-          "score": 1.0
+          "word": "the",
+          "start": 241.77,
+          "end": 241.93
         },
         {
-          "word": "grilled",
-          "startSec": 224.3,
-          "endSec": 224.74,
-          "score": 1.0
+          "word": "city",
+          "start": 241.93,
+          "end": 242.27
         },
         {
-          "word": "meat,",
-          "startSec": 224.74,
-          "endSec": 225.22,
-          "score": 0.96
+          "word": "is",
+          "start": 242.27,
+          "end": 242.63
         },
         {
-          "word": "vegetables,",
-          "startSec": 225.58,
-          "endSec": 226.0,
-          "score": 1.0
+          "word": "calm",
+          "start": 242.63,
+          "end": 243.15
         },
         {
           "word": "and",
-          "startSec": 226.86,
-          "endSec": 226.98,
-          "score": 1.0
+          "start": 243.15,
+          "end": 243.31
         },
         {
-          "word": "fresh",
-          "startSec": 226.98,
-          "endSec": 227.34,
-          "score": 1.0
-        },
-        {
-          "word": "bread.",
-          "startSec": 227.34,
-          "endSec": 227.84,
-          "score": 1.0
+          "word": "peaceful.",
+          "start": 243.31,
+          "end": 244.21
         }
       ]
     },
     {
       "id": 49,
-      "start": 228.83,
-      "end": 232.56,
-      "text": "Meals are often shared with family and friends.",
+      "start": 244.69,
+      "end": 247.27,
+      "text": "Many people know each other.",
       "words": [
         {
-          "word": "Meals",
-          "startSec": 229.03,
-          "endSec": 229.59,
-          "score": 0.71
+          "word": "Many",
+          "start": 244.69,
+          "end": 245.21
         },
         {
-          "word": "are",
-          "startSec": 229.59,
-          "endSec": 229.77,
-          "score": 1.0
+          "word": "people",
+          "start": 245.21,
+          "end": 245.73
         },
         {
-          "word": "often",
-          "startSec": 229.77,
-          "endSec": 230.23,
-          "score": 1.0
+          "word": "know",
+          "start": 245.73,
+          "end": 246.15
         },
         {
-          "word": "shared",
-          "startSec": 230.23,
-          "endSec": 230.71,
-          "score": 1.0
+          "word": "each",
+          "start": 246.15,
+          "end": 246.51
         },
         {
-          "word": "with",
-          "startSec": 230.71,
-          "endSec": 231.15,
-          "score": 1.0
-        },
-        {
-          "word": "family",
-          "startSec": 231.15,
-          "endSec": 231.69,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 231.69,
-          "endSec": 232.01,
-          "score": 1.0
-        },
-        {
-          "word": "friends.",
-          "startSec": 232.01,
-          "endSec": 232.41,
-          "score": 1.0
+          "word": "other.",
+          "start": 246.51,
+          "end": 247.27
         }
       ]
     },
     {
       "id": 50,
-      "start": 233.51,
-      "end": 239.85,
-      "text": "Part eight, the people in Jirocaster are friendly and welcoming.",
+      "start": 247.75,
+      "end": 252.25,
+      "text": "Neighbors often talk in the streets or in small cafes.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 233.71,
-          "endSec": 233.89,
-          "score": 0.87
+          "word": "Neighbors",
+          "start": 247.75,
+          "end": 248.25
         },
         {
-          "word": "eight,",
-          "startSec": 233.89,
-          "endSec": 234.29,
-          "score": 0.36
+          "word": "often",
+          "start": 248.25,
+          "end": 248.75
         },
         {
-          "word": "the",
-          "startSec": 236.16,
-          "endSec": 236.38,
-          "score": 0.89
-        },
-        {
-          "word": "people",
-          "startSec": 236.38,
-          "endSec": 236.9,
-          "score": 0.99
+          "word": "talk",
+          "start": 248.75,
+          "end": 249.19
         },
         {
           "word": "in",
-          "startSec": 236.9,
-          "endSec": 237.2,
-          "score": 0.94
+          "start": 249.19,
+          "end": 249.51
         },
         {
-          "word": "Jirocaster",
-          "startSec": 237.2,
-          "endSec": 237.94,
-          "score": 0.54
+          "word": "the",
+          "start": 249.51,
+          "end": 249.65
         },
         {
-          "word": "are",
-          "startSec": 237.94,
-          "endSec": 238.46,
-          "score": 0.99
+          "word": "streets",
+          "start": 249.65,
+          "end": 250.19
         },
         {
-          "word": "friendly",
-          "startSec": 238.46,
-          "endSec": 238.8,
-          "score": 1.0
+          "word": "or",
+          "start": 250.19,
+          "end": 250.67
         },
         {
-          "word": "and",
-          "startSec": 238.8,
-          "endSec": 239.22,
-          "score": 0.97
+          "word": "in",
+          "start": 250.67,
+          "end": 250.89
         },
         {
-          "word": "welcoming.",
-          "startSec": 239.22,
-          "endSec": 239.7,
-          "score": 1.0
+          "word": "small",
+          "start": 250.89,
+          "end": 251.23
+        },
+        {
+          "word": "cafes.",
+          "start": 251.23,
+          "end": 252.25
         }
       ]
     },
     {
       "id": 51,
-      "start": 240.76,
-      "end": 243.87,
-      "text": "Life in the city is calm and peaceful.",
+      "start": 253.11,
+      "end": 258.23,
+      "text": "Visitors often say the city feels warm and welcoming.",
       "words": [
         {
-          "word": "Life",
-          "startSec": 240.96,
-          "endSec": 241.38,
-          "score": 0.99
+          "word": "Visitors",
+          "start": 253.11,
+          "end": 254.09
         },
         {
-          "word": "in",
-          "startSec": 241.38,
-          "endSec": 241.7,
-          "score": 0.99
+          "word": "often",
+          "start": 254.09,
+          "end": 254.85
+        },
+        {
+          "word": "say",
+          "start": 254.85,
+          "end": 255.33
         },
         {
           "word": "the",
-          "startSec": 241.7,
-          "endSec": 241.88,
-          "score": 1.0
+          "start": 255.33,
+          "end": 255.55
         },
         {
           "word": "city",
-          "startSec": 241.88,
-          "endSec": 242.18,
-          "score": 0.96
+          "start": 255.55,
+          "end": 255.93
         },
         {
-          "word": "is",
-          "startSec": 242.18,
-          "endSec": 242.58,
-          "score": 1.0
+          "word": "feels",
+          "start": 255.93,
+          "end": 256.41
         },
         {
-          "word": "calm",
-          "startSec": 242.58,
-          "endSec": 242.98,
-          "score": 0.98
+          "word": "warm",
+          "start": 256.41,
+          "end": 257.03
         },
         {
           "word": "and",
-          "startSec": 242.98,
-          "endSec": 243.26,
-          "score": 1.0
+          "start": 257.03,
+          "end": 257.27
         },
         {
-          "word": "peaceful.",
-          "startSec": 243.26,
-          "endSec": 243.72,
-          "score": 1.0
+          "word": "welcoming.",
+          "start": 257.27,
+          "end": 258.23
         }
       ]
     },
     {
       "id": 52,
-      "start": 244.62,
-      "end": 246.97,
-      "text": "Many people know each other.",
+      "start": 259.27,
+      "end": 265.23,
+      "text": "Part nine, the city also has small markets and shops.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 244.82,
-          "endSec": 245.08,
-          "score": 1.0
+          "word": "Part",
+          "start": 259.27,
+          "end": 259.91
         },
         {
-          "word": "people",
-          "startSec": 245.08,
-          "endSec": 245.72,
-          "score": 1.0
+          "word": "nine,",
+          "start": 259.91,
+          "end": 260.45
         },
         {
-          "word": "know",
-          "startSec": 245.72,
-          "endSec": 246.06,
-          "score": 1.0
+          "word": "the",
+          "start": 261.21,
+          "end": 261.45
         },
         {
-          "word": "each",
-          "startSec": 246.06,
-          "endSec": 246.34,
-          "score": 1.0
+          "word": "city",
+          "start": 261.45,
+          "end": 261.81
         },
         {
-          "word": "other.",
-          "startSec": 246.34,
-          "endSec": 246.82,
-          "score": 1.0
+          "word": "also",
+          "start": 261.81,
+          "end": 262.39
+        },
+        {
+          "word": "has",
+          "start": 262.39,
+          "end": 262.85
+        },
+        {
+          "word": "small",
+          "start": 262.85,
+          "end": 263.35
+        },
+        {
+          "word": "markets",
+          "start": 263.35,
+          "end": 263.91
+        },
+        {
+          "word": "and",
+          "start": 263.91,
+          "end": 264.35
+        },
+        {
+          "word": "shops.",
+          "start": 264.35,
+          "end": 265.23
         }
       ]
     },
     {
       "id": 53,
-      "start": 247.48,
-      "end": 251.75,
-      "text": "Neighbors often talk in the streets or in small cafes.",
+      "start": 265.51,
+      "end": 269.69,
+      "text": "In these shops, people sell handmade items.",
       "words": [
         {
-          "word": "Neighbors",
-          "startSec": 247.68,
-          "endSec": 248.14,
-          "score": 0.97
+          "word": "In",
+          "start": 265.51,
+          "end": 266.05
         },
         {
-          "word": "often",
-          "startSec": 248.14,
-          "endSec": 248.54,
-          "score": 1.0
+          "word": "these",
+          "start": 266.05,
+          "end": 266.33
         },
         {
-          "word": "talk",
-          "startSec": 248.54,
-          "endSec": 249.1,
-          "score": 1.0
+          "word": "shops,",
+          "start": 266.33,
+          "end": 266.89
         },
         {
-          "word": "in",
-          "startSec": 249.1,
-          "endSec": 249.44,
-          "score": 1.0
+          "word": "people",
+          "start": 267.15,
+          "end": 267.39
         },
         {
-          "word": "the",
-          "startSec": 249.44,
-          "endSec": 249.6,
-          "score": 1.0
+          "word": "sell",
+          "start": 267.39,
+          "end": 267.81
         },
         {
-          "word": "streets",
-          "startSec": 249.6,
-          "endSec": 250.06,
-          "score": 1.0
+          "word": "handmade",
+          "start": 267.81,
+          "end": 268.45
         },
         {
-          "word": "or",
-          "startSec": 250.06,
-          "endSec": 250.64,
-          "score": 0.94
-        },
-        {
-          "word": "in",
-          "startSec": 250.64,
-          "endSec": 250.78,
-          "score": 0.99
-        },
-        {
-          "word": "small",
-          "startSec": 250.78,
-          "endSec": 251.16,
-          "score": 1.0
-        },
-        {
-          "word": "cafes.",
-          "startSec": 251.16,
-          "endSec": 251.6,
-          "score": 0.94
+          "word": "items.",
+          "start": 268.45,
+          "end": 269.69
         }
       ]
     },
     {
       "id": 54,
-      "start": 252.99,
-      "end": 257.84,
-      "text": "Visitors often say the city feels warm and welcoming.",
+      "start": 270.27,
+      "end": 275.73,
+      "text": "You can find carpets, traditional clothes and small souvenirs.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 253.19,
-          "endSec": 253.79,
-          "score": 0.98
+          "word": "You",
+          "start": 270.27,
+          "end": 270.49
         },
         {
-          "word": "often",
-          "startSec": 253.79,
-          "endSec": 254.61,
-          "score": 1.0
+          "word": "can",
+          "start": 270.49,
+          "end": 270.73
         },
         {
-          "word": "say",
-          "startSec": 254.61,
-          "endSec": 255.27,
-          "score": 1.0
+          "word": "find",
+          "start": 270.73,
+          "end": 271.07
         },
         {
-          "word": "the",
-          "startSec": 255.27,
-          "endSec": 255.51,
-          "score": 0.98
+          "word": "carpets,",
+          "start": 271.07,
+          "end": 271.97
         },
         {
-          "word": "city",
-          "startSec": 255.51,
-          "endSec": 255.81,
-          "score": 1.0
+          "word": "traditional",
+          "start": 272.21,
+          "end": 272.77
         },
         {
-          "word": "feels",
-          "startSec": 255.81,
-          "endSec": 256.37,
-          "score": 1.0
-        },
-        {
-          "word": "warm",
-          "startSec": 256.37,
-          "endSec": 256.85,
-          "score": 1.0
+          "word": "clothes",
+          "start": 272.77,
+          "end": 273.35
         },
         {
           "word": "and",
-          "startSec": 256.85,
-          "endSec": 257.21,
-          "score": 1.0
+          "start": 273.35,
+          "end": 273.97
         },
         {
-          "word": "welcoming.",
-          "startSec": 257.21,
-          "endSec": 257.69,
-          "score": 1.0
+          "word": "small",
+          "start": 273.97,
+          "end": 274.47
+        },
+        {
+          "word": "souvenirs.",
+          "start": 274.47,
+          "end": 275.73
         }
       ]
     },
     {
       "id": 55,
-      "start": 259.2,
-      "end": 264.79,
-      "text": "Part nine, the city also has small markets and shops.",
+      "start": 276.59,
+      "end": 280.43,
+      "text": "Some shops sell local honey and homemade food.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 259.4,
-          "endSec": 259.84,
-          "score": 0.16
+          "word": "Some",
+          "start": 276.59,
+          "end": 276.95
         },
         {
-          "word": "nine,",
-          "startSec": 259.84,
-          "endSec": 260.44,
-          "score": 0.11
+          "word": "shops",
+          "start": 276.95,
+          "end": 277.43
         },
         {
-          "word": "the",
-          "startSec": 261.18,
-          "endSec": 261.4,
-          "score": 0.92
+          "word": "sell",
+          "start": 277.43,
+          "end": 277.83
         },
         {
-          "word": "city",
-          "startSec": 261.4,
-          "endSec": 261.74,
-          "score": 0.93
+          "word": "local",
+          "start": 277.83,
+          "end": 278.29
         },
         {
-          "word": "also",
-          "startSec": 261.74,
-          "endSec": 262.36,
-          "score": 0.98
-        },
-        {
-          "word": "has",
-          "startSec": 262.36,
-          "endSec": 262.8,
-          "score": 1.0
-        },
-        {
-          "word": "small",
-          "startSec": 262.8,
-          "endSec": 263.22,
-          "score": 1.0
-        },
-        {
-          "word": "markets",
-          "startSec": 263.22,
-          "endSec": 263.84,
-          "score": 0.99
+          "word": "honey",
+          "start": 278.29,
+          "end": 278.77
         },
         {
           "word": "and",
-          "startSec": 263.84,
-          "endSec": 264.28,
-          "score": 0.98
+          "start": 278.77,
+          "end": 279.05
         },
         {
-          "word": "shops.",
-          "startSec": 264.28,
-          "endSec": 264.64,
-          "score": 1.0
+          "word": "homemade",
+          "start": 279.05,
+          "end": 279.49
+        },
+        {
+          "word": "food.",
+          "start": 279.49,
+          "end": 280.43
         }
       ]
     },
     {
       "id": 56,
-      "start": 265.6,
-      "end": 269.25,
-      "text": "In these shops, people sell handmade items.",
+      "start": 280.85,
+      "end": 284.19,
+      "text": "Tourists enjoy walking through these markets.",
       "words": [
         {
-          "word": "In",
-          "startSec": 265.8,
-          "endSec": 266.02,
-          "score": 0.98
+          "word": "Tourists",
+          "start": 280.85,
+          "end": 281.49
+        },
+        {
+          "word": "enjoy",
+          "start": 281.49,
+          "end": 281.87
+        },
+        {
+          "word": "walking",
+          "start": 281.87,
+          "end": 282.53
+        },
+        {
+          "word": "through",
+          "start": 282.53,
+          "end": 282.99
         },
         {
           "word": "these",
-          "startSec": 266.02,
-          "endSec": 266.24,
-          "score": 0.99
+          "start": 282.99,
+          "end": 283.25
         },
         {
-          "word": "shops,",
-          "startSec": 266.24,
-          "endSec": 266.72,
-          "score": 1.0
-        },
-        {
-          "word": "people",
-          "startSec": 267.16,
-          "endSec": 267.26,
-          "score": 1.0
-        },
-        {
-          "word": "sell",
-          "startSec": 267.26,
-          "endSec": 267.74,
-          "score": 1.0
-        },
-        {
-          "word": "handmade",
-          "startSec": 267.74,
-          "endSec": 268.22,
-          "score": 0.92
-        },
-        {
-          "word": "items.",
-          "startSec": 268.22,
-          "endSec": 269.1,
-          "score": 1.0
+          "word": "markets.",
+          "start": 283.25,
+          "end": 284.19
         }
       ]
     },
     {
       "id": 57,
-      "start": 270.03,
-      "end": 275.64,
-      "text": "You can find carpets, traditional clothes, and small souvenirs.",
+      "start": 285.23,
+      "end": 291.75,
+      "text": "Part ten, nature around Girocaster is very beautiful.",
       "words": [
         {
-          "word": "You",
-          "startSec": 270.23,
-          "endSec": 270.47,
-          "score": 0.98
+          "word": "Part",
+          "start": 285.23,
+          "end": 285.47
         },
         {
-          "word": "can",
-          "startSec": 270.47,
-          "endSec": 270.65,
-          "score": 1.0
+          "word": "ten,",
+          "start": 285.47,
+          "end": 286.11
         },
         {
-          "word": "find",
-          "startSec": 270.65,
-          "endSec": 271.03,
-          "score": 1.0
+          "word": "nature",
+          "start": 286.65,
+          "end": 288.69
         },
         {
-          "word": "carpets,",
-          "startSec": 271.03,
-          "endSec": 271.77,
-          "score": 1.0
+          "word": "around",
+          "start": 288.69,
+          "end": 289.33
         },
         {
-          "word": "traditional",
-          "startSec": 272.17,
-          "endSec": 272.53,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 289.33,
+          "end": 290.09
         },
         {
-          "word": "clothes,",
-          "startSec": 272.53,
-          "endSec": 273.23,
-          "score": 0.98
+          "word": "is",
+          "start": 290.09,
+          "end": 290.69
         },
         {
-          "word": "and",
-          "startSec": 273.85,
-          "endSec": 273.91,
-          "score": 1.0
+          "word": "very",
+          "start": 290.69,
+          "end": 291.11
         },
         {
-          "word": "small",
-          "startSec": 273.91,
-          "endSec": 274.37,
-          "score": 1.0
-        },
-        {
-          "word": "souvenirs.",
-          "startSec": 274.37,
-          "endSec": 275.49,
-          "score": 1.0
+          "word": "beautiful.",
+          "start": 291.11,
+          "end": 291.75
         }
       ]
     },
     {
       "id": 58,
-      "start": 276.32,
-      "end": 280.09,
-      "text": "Some shops sell local honey and homemade food.",
+      "start": 291.75,
+      "end": 296.81,
+      "text": "There are mountains, rivers and green fields.",
       "words": [
         {
-          "word": "Some",
-          "startSec": 276.52,
-          "endSec": 276.9,
-          "score": 1.0
+          "word": "There",
+          "start": 291.75,
+          "end": 292.79
         },
         {
-          "word": "shops",
-          "startSec": 276.9,
-          "endSec": 277.22,
-          "score": 0.99
+          "word": "are",
+          "start": 292.79,
+          "end": 292.99
         },
         {
-          "word": "sell",
-          "startSec": 277.22,
-          "endSec": 277.76,
-          "score": 0.99
+          "word": "mountains,",
+          "start": 292.99,
+          "end": 293.49
         },
         {
-          "word": "local",
-          "startSec": 277.76,
-          "endSec": 278.26,
-          "score": 0.99
-        },
-        {
-          "word": "honey",
-          "startSec": 278.26,
-          "endSec": 278.68,
-          "score": 0.94
+          "word": "rivers",
+          "start": 294.13,
+          "end": 294.65
         },
         {
           "word": "and",
-          "startSec": 278.68,
-          "endSec": 279.02,
-          "score": 0.99
+          "start": 294.65,
+          "end": 295.37
         },
         {
-          "word": "homemade",
-          "startSec": 279.02,
-          "endSec": 279.28,
-          "score": 0.97
+          "word": "green",
+          "start": 295.37,
+          "end": 295.69
         },
         {
-          "word": "food.",
-          "startSec": 279.28,
-          "endSec": 279.94,
-          "score": 1.0
+          "word": "fields.",
+          "start": 295.69,
+          "end": 296.81
         }
       ]
     },
     {
       "id": 59,
-      "start": 280.58,
-      "end": 283.61,
-      "text": "Tourists enjoy walking through these markets.",
+      "start": 297.27,
+      "end": 301.59,
+      "text": "People sometimes go hiking in the nearby hills.",
       "words": [
         {
-          "word": "Tourists",
-          "startSec": 280.78,
-          "endSec": 281.48,
-          "score": 0.96
+          "word": "People",
+          "start": 297.27,
+          "end": 297.75
         },
         {
-          "word": "enjoy",
-          "startSec": 281.48,
-          "endSec": 281.84,
-          "score": 1.0
+          "word": "sometimes",
+          "start": 297.75,
+          "end": 298.41
         },
         {
-          "word": "walking",
-          "startSec": 281.84,
-          "endSec": 282.58,
-          "score": 1.0
+          "word": "go",
+          "start": 298.41,
+          "end": 298.81
         },
         {
-          "word": "through",
-          "startSec": 282.58,
-          "endSec": 282.94,
-          "score": 0.99
+          "word": "hiking",
+          "start": 298.81,
+          "end": 299.31
         },
         {
-          "word": "these",
-          "startSec": 282.94,
-          "endSec": 283.16,
-          "score": 1.0
+          "word": "in",
+          "start": 299.31,
+          "end": 299.91
         },
         {
-          "word": "markets.",
-          "startSec": 283.16,
-          "endSec": 283.46,
-          "score": 0.99
+          "word": "the",
+          "start": 299.91,
+          "end": 300.05
+        },
+        {
+          "word": "nearby",
+          "start": 300.05,
+          "end": 300.53
+        },
+        {
+          "word": "hills.",
+          "start": 300.53,
+          "end": 301.59
         }
       ]
     },
     {
       "id": 60,
-      "start": 284.54,
-      "end": 291.68,
-      "text": "Part ten, nature around Jirocaster is very beautiful.",
+      "start": 301.97,
+      "end": 307.05,
+      "text": "Spring and autumn are very nice seasons to visit the area.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 284.74,
-          "endSec": 285.4,
-          "score": 0.05
+          "word": "Spring",
+          "start": 301.97,
+          "end": 302.63
         },
         {
-          "word": "ten,",
-          "startSec": 285.4,
-          "endSec": 285.92,
-          "score": 0.03
+          "word": "and",
+          "start": 302.63,
+          "end": 302.93
         },
         {
-          "word": "nature",
-          "startSec": 288.13,
-          "endSec": 288.73,
-          "score": 0.83
+          "word": "autumn",
+          "start": 302.93,
+          "end": 303.31
         },
         {
-          "word": "around",
-          "startSec": 288.73,
-          "endSec": 289.23,
-          "score": 0.99
-        },
-        {
-          "word": "Jirocaster",
-          "startSec": 289.23,
-          "endSec": 290.01,
-          "score": 0.46
-        },
-        {
-          "word": "is",
-          "startSec": 290.01,
-          "endSec": 290.61,
-          "score": 0.98
+          "word": "are",
+          "start": 303.31,
+          "end": 303.63
         },
         {
           "word": "very",
-          "startSec": 290.61,
-          "endSec": 290.95,
-          "score": 0.99
+          "start": 303.63,
+          "end": 304.05
         },
         {
-          "word": "beautiful.",
-          "startSec": 290.95,
-          "endSec": 291.53,
-          "score": 1.0
+          "word": "nice",
+          "start": 304.05,
+          "end": 304.45
+        },
+        {
+          "word": "seasons",
+          "start": 304.45,
+          "end": 305.21
+        },
+        {
+          "word": "to",
+          "start": 305.21,
+          "end": 305.59
+        },
+        {
+          "word": "visit",
+          "start": 305.59,
+          "end": 305.93
+        },
+        {
+          "word": "the",
+          "start": 305.93,
+          "end": 306.21
+        },
+        {
+          "word": "area.",
+          "start": 306.21,
+          "end": 307.05
         }
       ]
     },
     {
       "id": 61,
-      "start": 292.45,
-      "end": 296.3,
-      "text": "There are mountains, rivers, and green fields.",
+      "start": 307.77,
+      "end": 311.75,
+      "text": "The weather is comfortable and the scenery is colorful.",
       "words": [
         {
-          "word": "There",
-          "startSec": 292.65,
-          "endSec": 292.79,
-          "score": 0.98
+          "word": "The",
+          "start": 307.77,
+          "end": 308.05
         },
         {
-          "word": "are",
-          "startSec": 292.79,
-          "endSec": 292.95,
-          "score": 1.0
+          "word": "weather",
+          "start": 308.05,
+          "end": 308.37
         },
         {
-          "word": "mountains,",
-          "startSec": 292.95,
-          "endSec": 293.45,
-          "score": 1.0
+          "word": "is",
+          "start": 308.37,
+          "end": 308.65
         },
         {
-          "word": "rivers,",
-          "startSec": 293.77,
-          "endSec": 294.51,
-          "score": 1.0
+          "word": "comfortable",
+          "start": 308.65,
+          "end": 309.23
         },
         {
           "word": "and",
-          "startSec": 295.27,
-          "endSec": 295.29,
-          "score": 0.99
+          "start": 309.23,
+          "end": 309.79
         },
         {
-          "word": "green",
-          "startSec": 295.29,
-          "endSec": 295.61,
-          "score": 0.99
+          "word": "the",
+          "start": 309.79,
+          "end": 309.97
         },
         {
-          "word": "fields.",
-          "startSec": 295.61,
-          "endSec": 296.15,
-          "score": 0.99
+          "word": "scenery",
+          "start": 309.97,
+          "end": 310.39
+        },
+        {
+          "word": "is",
+          "start": 310.39,
+          "end": 310.73
+        },
+        {
+          "word": "colorful.",
+          "start": 310.73,
+          "end": 311.75
         }
       ]
     },
     {
       "id": 62,
-      "start": 297.11,
-      "end": 301.16,
-      "text": "People sometimes go hiking in the nearby hills.",
+      "start": 312.65,
+      "end": 317.89,
+      "text": "Part eleven, Girocaster is also important for history.",
       "words": [
         {
-          "word": "People",
-          "startSec": 297.31,
-          "endSec": 297.65,
-          "score": 0.99
+          "word": "Part",
+          "start": 312.65,
+          "end": 313.25
         },
         {
-          "word": "sometimes",
-          "startSec": 297.65,
-          "endSec": 298.29,
-          "score": 0.99
+          "word": "eleven,",
+          "start": 313.25,
+          "end": 313.93
         },
         {
-          "word": "go",
-          "startSec": 298.29,
-          "endSec": 298.75,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 314.59,
+          "end": 315.45
         },
         {
-          "word": "hiking",
-          "startSec": 298.75,
-          "endSec": 299.17,
-          "score": 1.0
+          "word": "is",
+          "start": 315.45,
+          "end": 315.93
         },
         {
-          "word": "in",
-          "startSec": 299.17,
-          "endSec": 299.87,
-          "score": 0.98
+          "word": "also",
+          "start": 315.93,
+          "end": 316.43
         },
         {
-          "word": "the",
-          "startSec": 299.87,
-          "endSec": 299.99,
-          "score": 1.0
+          "word": "important",
+          "start": 316.43,
+          "end": 317.09
         },
         {
-          "word": "nearby",
-          "startSec": 299.99,
-          "endSec": 300.31,
-          "score": 0.98
+          "word": "for",
+          "start": 317.09,
+          "end": 317.37
         },
         {
-          "word": "hills.",
-          "startSec": 300.31,
-          "endSec": 301.01,
-          "score": 0.99
+          "word": "history.",
+          "start": 317.37,
+          "end": 317.89
         }
       ]
     },
     {
       "id": 63,
-      "start": 301.94,
-      "end": 306.71,
-      "text": "Spring and autumn are very nice seasons to visit the area.",
+      "start": 317.89,
+      "end": 322.73,
+      "text": "The city is a UNESCO World Heritage Site.",
       "words": [
         {
-          "word": "Spring",
-          "startSec": 302.14,
-          "endSec": 302.6,
-          "score": 0.99
+          "word": "The",
+          "start": 317.89,
+          "end": 318.89
         },
         {
-          "word": "and",
-          "startSec": 302.6,
-          "endSec": 302.86,
-          "score": 0.99
+          "word": "city",
+          "start": 318.89,
+          "end": 319.29
         },
         {
-          "word": "autumn",
-          "startSec": 302.86,
-          "endSec": 303.18,
-          "score": 0.94
+          "word": "is",
+          "start": 319.29,
+          "end": 319.67
         },
         {
-          "word": "are",
-          "startSec": 303.18,
-          "endSec": 303.58,
-          "score": 1.0
+          "word": "a",
+          "start": 319.67,
+          "end": 319.81
         },
         {
-          "word": "very",
-          "startSec": 303.58,
-          "endSec": 303.86,
-          "score": 0.99
+          "word": "UNESCO",
+          "start": 319.81,
+          "end": 320.53
         },
         {
-          "word": "nice",
-          "startSec": 303.86,
-          "endSec": 304.36,
-          "score": 1.0
+          "word": "World",
+          "start": 320.53,
+          "end": 321.17
         },
         {
-          "word": "seasons",
-          "startSec": 304.36,
-          "endSec": 305.02,
-          "score": 0.99
+          "word": "Heritage",
+          "start": 321.17,
+          "end": 321.75
         },
         {
-          "word": "to",
-          "startSec": 305.02,
-          "endSec": 305.54,
-          "score": 1.0
-        },
-        {
-          "word": "visit",
-          "startSec": 305.54,
-          "endSec": 305.8,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 305.8,
-          "endSec": 306.14,
-          "score": 0.99
-        },
-        {
-          "word": "area.",
-          "startSec": 306.14,
-          "endSec": 306.56,
-          "score": 1.0
+          "word": "Site.",
+          "start": 321.75,
+          "end": 322.73
         }
       ]
     },
     {
       "id": 64,
-      "start": 307.64,
-      "end": 311.23,
-      "text": "The weather is comfortable and the scenery is colorful.",
+      "start": 323.85,
+      "end": 329.41,
+      "text": "This means the city is very special for the culture of the world.",
       "words": [
         {
-          "word": "The",
-          "startSec": 307.84,
-          "endSec": 308.02,
-          "score": 0.99
+          "word": "This",
+          "start": 323.85,
+          "end": 324.71
         },
         {
-          "word": "weather",
-          "startSec": 308.02,
-          "endSec": 308.34,
-          "score": 1.0
-        },
-        {
-          "word": "is",
-          "startSec": 308.34,
-          "endSec": 308.62,
-          "score": 1.0
-        },
-        {
-          "word": "comfortable",
-          "startSec": 308.62,
-          "endSec": 309.14,
-          "score": 0.99
-        },
-        {
-          "word": "and",
-          "startSec": 309.14,
-          "endSec": 309.74,
-          "score": 0.79
+          "word": "means",
+          "start": 324.71,
+          "end": 325.11
         },
         {
           "word": "the",
-          "startSec": 309.74,
-          "endSec": 309.9,
-          "score": 0.99
+          "start": 325.11,
+          "end": 325.43
         },
         {
-          "word": "scenery",
-          "startSec": 309.9,
-          "endSec": 310.28,
-          "score": 1.0
+          "word": "city",
+          "start": 325.43,
+          "end": 325.75
         },
         {
           "word": "is",
-          "startSec": 310.28,
-          "endSec": 310.7,
-          "score": 1.0
+          "start": 325.75,
+          "end": 326.09
         },
         {
-          "word": "colorful.",
-          "startSec": 310.7,
-          "endSec": 311.08,
-          "score": 0.94
+          "word": "very",
+          "start": 326.09,
+          "end": 326.53
+        },
+        {
+          "word": "special",
+          "start": 326.53,
+          "end": 327.19
+        },
+        {
+          "word": "for",
+          "start": 327.19,
+          "end": 327.51
+        },
+        {
+          "word": "the",
+          "start": 327.51,
+          "end": 327.67
+        },
+        {
+          "word": "culture",
+          "start": 327.67,
+          "end": 328.19
+        },
+        {
+          "word": "of",
+          "start": 328.19,
+          "end": 328.47
+        },
+        {
+          "word": "the",
+          "start": 328.47,
+          "end": 328.63
+        },
+        {
+          "word": "world.",
+          "start": 328.63,
+          "end": 329.41
         }
       ]
     },
     {
       "id": 65,
-      "start": 312.58,
-      "end": 317.73,
-      "text": "Part eleven, Jirocaster is also important for history.",
+      "start": 329.63,
+      "end": 334.67,
+      "text": "Many people come to study its architecture and history.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 312.78,
-          "endSec": 313.16,
-          "score": 0.46
+          "word": "Many",
+          "start": 329.63,
+          "end": 330.49
         },
         {
-          "word": "eleven,",
-          "startSec": 313.16,
-          "endSec": 313.66,
-          "score": 0.01
+          "word": "people",
+          "start": 330.49,
+          "end": 330.95
         },
         {
-          "word": "Jirocaster",
-          "startSec": 314.48,
-          "endSec": 315.2,
-          "score": 0.5
+          "word": "come",
+          "start": 330.95,
+          "end": 331.37
         },
         {
-          "word": "is",
-          "startSec": 315.2,
-          "endSec": 315.88,
-          "score": 0.98
+          "word": "to",
+          "start": 331.37,
+          "end": 331.67
         },
         {
-          "word": "also",
-          "startSec": 315.88,
-          "endSec": 316.2,
-          "score": 0.99
+          "word": "study",
+          "start": 331.67,
+          "end": 332.17
         },
         {
-          "word": "important",
-          "startSec": 316.2,
-          "endSec": 316.88,
-          "score": 1.0
+          "word": "its",
+          "start": 332.17,
+          "end": 332.47
         },
         {
-          "word": "for",
-          "startSec": 316.88,
-          "endSec": 317.34,
-          "score": 0.99
+          "word": "architecture",
+          "start": 332.47,
+          "end": 333.19
+        },
+        {
+          "word": "and",
+          "start": 333.19,
+          "end": 333.73
         },
         {
           "word": "history.",
-          "startSec": 317.34,
-          "endSec": 317.58,
-          "score": 0.93
+          "start": 333.73,
+          "end": 334.67
         }
       ]
     },
     {
       "id": 66,
-      "start": 318.56,
-      "end": 322.43,
-      "text": "The city is a UNESCO World Heritage Site.",
+      "start": 335.17,
+      "end": 339.27,
+      "text": "It is a small city, but it is very important.",
       "words": [
         {
-          "word": "The",
-          "startSec": 318.76,
-          "endSec": 318.86,
-          "score": 0.55
-        },
-        {
-          "word": "city",
-          "startSec": 318.86,
-          "endSec": 319.2,
-          "score": 0.94
+          "word": "It",
+          "start": 335.17,
+          "end": 335.49
         },
         {
           "word": "is",
-          "startSec": 319.2,
-          "endSec": 319.64,
-          "score": 1.0
+          "start": 335.49,
+          "end": 335.65
         },
         {
           "word": "a",
-          "startSec": 319.64,
-          "endSec": 319.76,
-          "score": 0.98
+          "start": 335.65,
+          "end": 335.89
         },
         {
-          "word": "UNESCO",
-          "startSec": 319.76,
-          "endSec": 320.18,
-          "score": 0.96
+          "word": "small",
+          "start": 335.89,
+          "end": 336.19
         },
         {
-          "word": "World",
-          "startSec": 320.18,
-          "endSec": 321.12,
-          "score": 0.81
+          "word": "city,",
+          "start": 336.19,
+          "end": 336.69
         },
         {
-          "word": "Heritage",
-          "startSec": 321.12,
-          "endSec": 321.48,
-          "score": 1.0
+          "word": "but",
+          "start": 336.95,
+          "end": 337.41
         },
         {
-          "word": "Site.",
-          "startSec": 321.48,
-          "endSec": 322.28,
-          "score": 0.81
+          "word": "it",
+          "start": 337.41,
+          "end": 337.59
+        },
+        {
+          "word": "is",
+          "start": 337.59,
+          "end": 337.83
+        },
+        {
+          "word": "very",
+          "start": 337.83,
+          "end": 338.17
+        },
+        {
+          "word": "important.",
+          "start": 338.17,
+          "end": 339.27
         }
       ]
     },
     {
       "id": 67,
-      "start": 324.15,
-      "end": 329.08,
-      "text": "This means the city is very special for the culture of the world.",
+      "start": 339.87,
+      "end": 347.91,
+      "text": "Part twelve, Girocaster is quiet, historical and beautiful.",
       "words": [
         {
-          "word": "This",
-          "startSec": 324.35,
-          "endSec": 324.67,
-          "score": 0.99
+          "word": "Part",
+          "start": 339.87,
+          "end": 340.87
         },
         {
-          "word": "means",
-          "startSec": 324.67,
-          "endSec": 325.01,
-          "score": 1.0
+          "word": "twelve,",
+          "start": 340.87,
+          "end": 341.77
         },
         {
-          "word": "the",
-          "startSec": 325.01,
-          "endSec": 325.37,
-          "score": 0.98
-        },
-        {
-          "word": "city",
-          "startSec": 325.37,
-          "endSec": 325.71,
-          "score": 0.99
+          "word": "Girocaster",
+          "start": 341.89,
+          "end": 343.71
         },
         {
           "word": "is",
-          "startSec": 325.71,
-          "endSec": 325.99,
-          "score": 1.0
+          "start": 343.71,
+          "end": 344.41
         },
         {
-          "word": "very",
-          "startSec": 325.99,
-          "endSec": 326.47,
-          "score": 0.99
+          "word": "quiet,",
+          "start": 344.41,
+          "end": 345.03
         },
         {
-          "word": "special",
-          "startSec": 326.47,
-          "endSec": 327.15,
-          "score": 1.0
+          "word": "historical",
+          "start": 345.65,
+          "end": 346.39
         },
         {
-          "word": "for",
-          "startSec": 327.15,
-          "endSec": 327.49,
-          "score": 0.99
+          "word": "and",
+          "start": 346.39,
+          "end": 346.91
         },
         {
-          "word": "the",
-          "startSec": 327.49,
-          "endSec": 327.65,
-          "score": 1.0
-        },
-        {
-          "word": "culture",
-          "startSec": 327.65,
-          "endSec": 328.03,
-          "score": 1.0
-        },
-        {
-          "word": "of",
-          "startSec": 328.03,
-          "endSec": 328.41,
-          "score": 1.0
-        },
-        {
-          "word": "the",
-          "startSec": 328.41,
-          "endSec": 328.59,
-          "score": 1.0
-        },
-        {
-          "word": "world.",
-          "startSec": 328.59,
-          "endSec": 328.93,
-          "score": 1.0
+          "word": "beautiful.",
+          "start": 346.91,
+          "end": 347.91
         }
       ]
     },
     {
       "id": 68,
-      "start": 329.89,
-      "end": 334.12,
-      "text": "Many people come to study its architecture and history.",
+      "start": 348.61,
+      "end": 354.23,
+      "text": "The stone houses, the castle and the mountain views make it unique.",
       "words": [
         {
-          "word": "Many",
-          "startSec": 330.09,
-          "endSec": 330.35,
-          "score": 0.99
+          "word": "The",
+          "start": 348.61,
+          "end": 348.75
         },
         {
-          "word": "people",
-          "startSec": 330.35,
-          "endSec": 330.93,
-          "score": 0.99
+          "word": "stone",
+          "start": 348.75,
+          "end": 349.23
         },
         {
-          "word": "come",
-          "startSec": 330.93,
-          "endSec": 331.29,
-          "score": 1.0
+          "word": "houses,",
+          "start": 349.23,
+          "end": 349.85
         },
         {
-          "word": "to",
-          "startSec": 331.29,
-          "endSec": 331.59,
-          "score": 1.0
+          "word": "the",
+          "start": 350.49,
+          "end": 350.55
         },
         {
-          "word": "study",
-          "startSec": 331.59,
-          "endSec": 332.13,
-          "score": 1.0
-        },
-        {
-          "word": "its",
-          "startSec": 332.13,
-          "endSec": 332.41,
-          "score": 0.95
-        },
-        {
-          "word": "architecture",
-          "startSec": 332.41,
-          "endSec": 332.89,
-          "score": 1.0
+          "word": "castle",
+          "start": 350.55,
+          "end": 351.19
         },
         {
           "word": "and",
-          "startSec": 332.89,
-          "endSec": 333.67,
-          "score": 0.98
+          "start": 351.19,
+          "end": 351.69
         },
         {
-          "word": "history.",
-          "startSec": 333.67,
-          "endSec": 333.97,
-          "score": 1.0
+          "word": "the",
+          "start": 351.69,
+          "end": 351.85
+        },
+        {
+          "word": "mountain",
+          "start": 351.85,
+          "end": 352.19
+        },
+        {
+          "word": "views",
+          "start": 352.19,
+          "end": 352.73
+        },
+        {
+          "word": "make",
+          "start": 352.73,
+          "end": 353.23
+        },
+        {
+          "word": "it",
+          "start": 353.23,
+          "end": 353.39
+        },
+        {
+          "word": "unique.",
+          "start": 353.39,
+          "end": 354.23
         }
       ]
     },
     {
       "id": 69,
-      "start": 334.97,
-      "end": 338.7,
-      "text": "It is a small city, but it is very important.",
+      "start": 354.85,
+      "end": 360.83,
+      "text": "Visitors can learn about Albanian culture and enjoy peaceful streets.",
       "words": [
         {
-          "word": "It",
-          "startSec": 335.17,
-          "endSec": 335.43,
-          "score": 0.99
+          "word": "Visitors",
+          "start": 354.85,
+          "end": 355.51
         },
         {
-          "word": "is",
-          "startSec": 335.43,
-          "endSec": 335.57,
-          "score": 1.0
+          "word": "can",
+          "start": 355.51,
+          "end": 355.87
         },
         {
-          "word": "a",
-          "startSec": 335.57,
-          "endSec": 335.77,
-          "score": 1.0
+          "word": "learn",
+          "start": 355.87,
+          "end": 356.27
         },
         {
-          "word": "small",
-          "startSec": 335.77,
-          "endSec": 336.05,
-          "score": 1.0
+          "word": "about",
+          "start": 356.27,
+          "end": 356.59
         },
         {
-          "word": "city,",
-          "startSec": 336.05,
-          "endSec": 336.67,
-          "score": 1.0
+          "word": "Albanian",
+          "start": 356.59,
+          "end": 357.45
         },
         {
-          "word": "but",
-          "startSec": 337.09,
-          "endSec": 337.35,
-          "score": 1.0
+          "word": "culture",
+          "start": 357.45,
+          "end": 358.03
         },
         {
-          "word": "it",
-          "startSec": 337.35,
-          "endSec": 337.53,
-          "score": 0.99
+          "word": "and",
+          "start": 358.03,
+          "end": 358.57
         },
         {
-          "word": "is",
-          "startSec": 337.53,
-          "endSec": 337.73,
-          "score": 0.99
+          "word": "enjoy",
+          "start": 358.57,
+          "end": 359.13
         },
         {
-          "word": "very",
-          "startSec": 337.73,
-          "endSec": 338.03,
-          "score": 1.0
+          "word": "peaceful",
+          "start": 359.13,
+          "end": 359.87
         },
         {
-          "word": "important.",
-          "startSec": 338.03,
-          "endSec": 338.55,
-          "score": 1.0
+          "word": "streets.",
+          "start": 359.87,
+          "end": 360.83
         }
       ]
     },
     {
       "id": 70,
-      "start": 340.1,
-      "end": 347.32,
-      "text": "Part twelve, Jirocaster is quiet, historical, and beautiful.",
+      "start": 361.41,
+      "end": 368.13,
+      "text": "Even though it is not very famous, Girocaster is a wonderful place to visit.",
       "words": [
         {
-          "word": "Part",
-          "startSec": 340.3,
-          "endSec": 340.77,
-          "score": 0.4
+          "word": "Even",
+          "start": 361.41,
+          "end": 362.21
         },
         {
-          "word": "twelve,",
-          "startSec": 340.77,
-          "endSec": 341.47,
-          "score": 0.02
+          "word": "though",
+          "start": 362.21,
+          "end": 362.53
         },
         {
-          "word": "Jirocaster",
-          "startSec": 342.79,
-          "endSec": 343.59,
-          "score": 0.52
+          "word": "it",
+          "start": 362.53,
+          "end": 362.69
         },
         {
           "word": "is",
-          "startSec": 343.59,
-          "endSec": 344.35,
-          "score": 0.98
+          "start": 362.69,
+          "end": 362.87
         },
         {
-          "word": "quiet,",
-          "startSec": 344.35,
-          "endSec": 344.81,
-          "score": 0.96
+          "word": "not",
+          "start": 362.87,
+          "end": 363.15
         },
         {
-          "word": "historical,",
-          "startSec": 345.51,
-          "endSec": 346.13,
-          "score": 0.99
+          "word": "very",
+          "start": 363.15,
+          "end": 363.57
         },
         {
-          "word": "and",
-          "startSec": 346.83,
-          "endSec": 346.87,
-          "score": 0.99
+          "word": "famous,",
+          "start": 363.57,
+          "end": 364.13
         },
         {
-          "word": "beautiful.",
-          "startSec": 346.87,
-          "endSec": 347.17,
-          "score": 1.0
+          "word": "Girocaster",
+          "start": 364.57,
+          "end": 365.39
+        },
+        {
+          "word": "is",
+          "start": 365.39,
+          "end": 365.97
+        },
+        {
+          "word": "a",
+          "start": 365.97,
+          "end": 366.13
+        },
+        {
+          "word": "wonderful",
+          "start": 366.13,
+          "end": 366.51
+        },
+        {
+          "word": "place",
+          "start": 366.51,
+          "end": 367.03
+        },
+        {
+          "word": "to",
+          "start": 367.03,
+          "end": 367.35
+        },
+        {
+          "word": "visit.",
+          "start": 367.35,
+          "end": 368.13
         }
       ]
     },
     {
       "id": 71,
-      "start": 348.38,
-      "end": 353.89,
-      "text": "The stone houses, the castle, and the mountain views make it unique.",
+      "start": 369.35,
+      "end": 372.99,
+      "text": "Thank you for listening to the Slow English Podcast.",
       "words": [
         {
-          "word": "The",
-          "startSec": 348.58,
-          "endSec": 348.7,
-          "score": 0.99
+          "word": "Thank",
+          "start": 369.35,
+          "end": 370.03
         },
         {
-          "word": "stone",
-          "startSec": 348.7,
-          "endSec": 349.06,
-          "score": 0.56
+          "word": "you",
+          "start": 370.03,
+          "end": 370.23
         },
         {
-          "word": "houses,",
-          "startSec": 349.06,
-          "endSec": 349.76,
-          "score": 0.86
+          "word": "for",
+          "start": 370.23,
+          "end": 370.45
         },
         {
-          "word": "the",
-          "startSec": 350.44,
-          "endSec": 350.5,
-          "score": 0.98
+          "word": "listening",
+          "start": 370.45,
+          "end": 370.89
         },
         {
-          "word": "castle,",
-          "startSec": 350.5,
-          "endSec": 350.92,
-          "score": 0.98
-        },
-        {
-          "word": "and",
-          "startSec": 351.56,
-          "endSec": 351.64,
-          "score": 1.0
+          "word": "to",
+          "start": 370.89,
+          "end": 371.23
         },
         {
           "word": "the",
-          "startSec": 351.64,
-          "endSec": 351.8,
-          "score": 0.98
+          "start": 371.23,
+          "end": 371.43
         },
         {
-          "word": "mountain",
-          "startSec": 351.8,
-          "endSec": 352.1,
-          "score": 0.96
+          "word": "Slow",
+          "start": 371.43,
+          "end": 371.69
         },
         {
-          "word": "views",
-          "startSec": 352.1,
-          "endSec": 352.58,
-          "score": 0.99
+          "word": "English",
+          "start": 371.69,
+          "end": 372.03
         },
         {
-          "word": "make",
-          "startSec": 352.58,
-          "endSec": 353.12,
-          "score": 0.98
-        },
-        {
-          "word": "it",
-          "startSec": 353.12,
-          "endSec": 353.34,
-          "score": 1.0
-        },
-        {
-          "word": "unique.",
-          "startSec": 353.34,
-          "endSec": 353.74,
-          "score": 1.0
+          "word": "Podcast.",
+          "start": 372.03,
+          "end": 372.99
         }
       ]
     },
     {
       "id": 72,
-      "start": 354.76,
-      "end": 360.49,
-      "text": "Visitors can learn about Albanian culture and enjoy peaceful streets.",
+      "start": 373.71,
+      "end": 375.09,
+      "text": "My name is Emily.",
       "words": [
         {
-          "word": "Visitors",
-          "startSec": 354.96,
-          "endSec": 355.3,
-          "score": 0.98
+          "word": "My",
+          "start": 373.71,
+          "end": 373.85
         },
         {
-          "word": "can",
-          "startSec": 355.3,
-          "endSec": 355.8,
-          "score": 1.0
+          "word": "name",
+          "start": 373.85,
+          "end": 374.09
         },
         {
-          "word": "learn",
-          "startSec": 355.8,
-          "endSec": 356.2,
-          "score": 1.0
+          "word": "is",
+          "start": 374.09,
+          "end": 374.29
         },
         {
-          "word": "about",
-          "startSec": 356.2,
-          "endSec": 356.56,
-          "score": 1.0
-        },
-        {
-          "word": "Albanian",
-          "startSec": 356.56,
-          "endSec": 357.42,
-          "score": 0.95
-        },
-        {
-          "word": "culture",
-          "startSec": 357.42,
-          "endSec": 357.82,
-          "score": 1.0
-        },
-        {
-          "word": "and",
-          "startSec": 357.82,
-          "endSec": 358.5,
-          "score": 0.95
-        },
-        {
-          "word": "enjoy",
-          "startSec": 358.5,
-          "endSec": 358.94,
-          "score": 1.0
-        },
-        {
-          "word": "peaceful",
-          "startSec": 358.94,
-          "endSec": 359.56,
-          "score": 0.99
-        },
-        {
-          "word": "streets.",
-          "startSec": 359.56,
-          "endSec": 360.34,
-          "score": 0.98
+          "word": "Emily.",
+          "start": 374.29,
+          "end": 375.09
         }
       ]
     },
     {
       "id": 73,
-      "start": 361.34,
-      "end": 367.73,
-      "text": "Even though it is not very famous, Jirocaster is a wonderful place to visit.",
+      "start": 375.51,
+      "end": 377.64,
+      "text": "See you in the next episode.",
       "words": [
         {
-          "word": "Even",
-          "startSec": 361.54,
-          "endSec": 362.2,
-          "score": 0.99
+          "word": "See",
+          "start": 375.51,
+          "end": 375.87
         },
         {
-          "word": "though",
-          "startSec": 362.2,
-          "endSec": 362.48,
-          "score": 0.99
+          "word": "you",
+          "start": 375.87,
+          "end": 376.05
         },
         {
-          "word": "it",
-          "startSec": 362.48,
-          "endSec": 362.66,
-          "score": 1.0
+          "word": "in",
+          "start": 376.05,
+          "end": 376.19
         },
         {
-          "word": "is",
-          "startSec": 362.66,
-          "endSec": 362.78,
-          "score": 0.97
+          "word": "the",
+          "start": 376.19,
+          "end": 376.31
         },
         {
-          "word": "not",
-          "startSec": 362.78,
-          "endSec": 363.08,
-          "score": 1.0
+          "word": "next",
+          "start": 376.31,
+          "end": 376.55
         },
         {
-          "word": "very",
-          "startSec": 363.08,
-          "endSec": 363.4,
-          "score": 1.0
-        },
-        {
-          "word": "famous,",
-          "startSec": 363.4,
-          "endSec": 364.12,
-          "score": 1.0
-        },
-        {
-          "word": "Jirocaster",
-          "startSec": 364.34,
-          "endSec": 365.12,
-          "score": 0.99
-        },
-        {
-          "word": "is",
-          "startSec": 365.12,
-          "endSec": 365.92,
-          "score": 1.0
-        },
-        {
-          "word": "a",
-          "startSec": 365.92,
-          "endSec": 366.08,
-          "score": 1.0
-        },
-        {
-          "word": "wonderful",
-          "startSec": 366.08,
-          "endSec": 366.4,
-          "score": 1.0
-        },
-        {
-          "word": "place",
-          "startSec": 366.4,
-          "endSec": 367.06,
-          "score": 1.0
-        },
-        {
-          "word": "to",
-          "startSec": 367.06,
-          "endSec": 367.32,
-          "score": 1.0
-        },
-        {
-          "word": "visit.",
-          "startSec": 367.32,
-          "endSec": 367.58,
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "start": 373.34,
-      "end": 374.73,
-      "text": "My name is Emily.",
-      "words": [
-        {
-          "word": "My",
-          "startSec": 373.54,
-          "endSec": 373.8,
-          "score": 0.97
-        },
-        {
-          "word": "name",
-          "startSec": 373.8,
-          "endSec": 374.0,
-          "score": 0.98
-        },
-        {
-          "word": "is",
-          "startSec": 374.0,
-          "endSec": 374.3,
-          "score": 0.99
-        },
-        {
-          "word": "Emily.",
-          "startSec": 374.3,
-          "endSec": 374.58,
-          "score": 0.96
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "start": 377.88,
-      "end": 378.41,
-      "text": "Goodbye.",
-      "words": [
-        {
-          "word": "Goodbye.",
-          "startSec": 378.08,
-          "endSec": 378.26,
-          "score": 0.85
+          "word": "episode.",
+          "start": 376.55,
+          "end": 377.64
         }
       ]
     }
-  ]
+  ],
+  "sentenceCount": 73
 }
