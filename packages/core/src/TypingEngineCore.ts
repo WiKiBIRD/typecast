@@ -189,14 +189,13 @@ export class TypingEngineCore {
   }
 
   private _matchChar(input: string, expected: string): boolean {
+    if (input === expected) return true;
+    if (input === "'" && (expected === '\u2019' || expected === '\u2018')) return true;
+    if (input === '"' && (expected === '\u201c' || expected === '\u201d')) return true;
     if (this._config.judgeMode === 'STRICT') {
-      return input === expected;
+      return false;
     }
-    return input.toLowerCase() === expected.toLowerCase()
-      || (input === "'" && expected === '\u2019')
-      || (input === "'" && expected === '\u2018')
-      || (input === '"' && expected === '\u201c')
-      || (input === '"' && expected === '\u201d');
+    return input.toLowerCase() === expected.toLowerCase();
   }
 
   private _emit<K extends keyof TypingEngineEvents>(

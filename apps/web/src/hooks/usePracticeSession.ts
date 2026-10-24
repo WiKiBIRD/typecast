@@ -191,7 +191,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
   }, []);
 
   useEffect(() => {
-    const engine = new TypingEngineCore({ judgeMode: 'LENIENT' });
+    const engine = new TypingEngineCore({ judgeMode: 'STRICT' });
     const player = new ChunkAudioPlayer();
     const fsm = new PracticeFSM(150);
 
@@ -332,6 +332,9 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
 
     if (e.ctrlKey || e.altKey || e.metaKey) return;
     if (e.key.length > 1 && e.key !== 'Backspace') return;
+
+    // 关键修复：阻止空格键等有效打字键分发给获得焦点的按钮，同时防止页面滚动
+    e.preventDefault();
 
     engine.handleKeyInput(e.key);
   }, []);

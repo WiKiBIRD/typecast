@@ -419,7 +419,11 @@ export function PracticePage() {
             return (
               <button
                 key={item.round}
-                onClick={() => selectRound(item.round as TrainingRound)}
+                onClick={(e) => {
+                  selectRound(item.round as TrainingRound);
+                  e.currentTarget.blur();
+                  document.getElementById('typecast-hidden-input')?.focus();
+                }}
                 disabled={item.locked}
                 className={`px-4 py-2 text-xs font-semibold rounded-xl transition-all flex items-center gap-1.5 cursor-pointer disabled:cursor-not-allowed disabled:opacity-40 ${
                   isCurrent
@@ -485,7 +489,11 @@ export function PracticePage() {
           </div>
           
           <button
-            onClick={togglePlayPause}
+            onClick={(e) => {
+              togglePlayPause();
+              e.currentTarget.blur();
+              document.getElementById('typecast-hidden-input')?.focus();
+            }}
             className={`flex items-center gap-1.5 px-3 py-1 border rounded-lg text-xs font-mono transition-all cursor-pointer ${
               isAudioPaused
                 ? 'bg-amber-500/20 border-amber-500/50 text-amber-300 hover:bg-amber-500/30 font-semibold'
@@ -498,7 +506,11 @@ export function PracticePage() {
           </button>
 
           <button
-            onClick={handleTabKey}
+            onClick={(e) => {
+              handleTabKey();
+              e.currentTarget.blur();
+              document.getElementById('typecast-hidden-input')?.focus();
+            }}
             className="flex items-center gap-1.5 px-3 py-1 bg-gray-900 hover:bg-gray-800 border border-gray-800 text-gray-300 rounded-lg text-xs font-mono transition-colors cursor-pointer"
           >
             <span>Tab</span>
