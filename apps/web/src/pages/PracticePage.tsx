@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { usePracticeSession, type TrainingRound } from '../hooks/usePracticeSession';
 import { SentenceDisplay } from '../components/SentenceDisplay';
 import { ChallengeResultModal } from '../components/ChallengeResultModal';
+import { PhoneticRealityCard } from '../components/acoustic/PhoneticRealityCard';
 import { db, type EpisodeProgressRecord } from '@typecast/core';
 import type { Episode } from '@typecast/shared-types';
 
@@ -51,6 +52,7 @@ export function PracticePage() {
     dismissChallengeModal,
     resumePrompt,
     currentSentence,
+    triggerLensReplay,
   } = usePracticeSession(80, 'native');
 
   // 载入 manifest 与数据库中的历史进度
@@ -58,45 +60,37 @@ export function PracticePage() {
     async function initCatalog() {
       try {
         const res = await fetch(`/data/manifest.json?t=${Date.now()}`, { cache: 'no-cache' });
-        if (res.ok) {
-          const data: ManifestData = await res.json();
-          setManifest(data);
-        }
+        if (!res.ok) throw new Error('无法拉取集数清单文件');
+        const data: ManifestData = await res.json();
+        setManifest(data);
 
-        // 读取所有关卡进度
-        const allRecords = await db.progress.toArray();
-        const map: Record<string, EpisodeProgressRecord> = {};
-        for (const r of allRecords) {
-          map[r.episodeId] = r;
-        }
-        setProgressMap(map);
-      } catch (e) {
-        console.warn('获取目录数据失败:', e);
+        // 获取全部集数历史进度映射
+        const allProgress = await db.progress.toArray();
+        const pMap: Record<string, EpisodeProgressRecord> = {};
+        allProgress.forEach((p: EpisodeProgressRecord) => {
+          pMap[p.episodeId] = p;
+        });
+        setProgressMap(pMap);
+      } catch (err) {
+        console.error('初始化失败:', err);
+        setLoadError(err instanceof Error ? err.message : String(err));
       }
     }
     initCatalog();
-  }, [viewState.roundCompleted, selectedEpisode]);
+  }, []);
 
-  // 切句时自动聚焦隐形输入框
-  useEffect(() => {
-    if (viewState.isReady && currentSentence) {
-      const el = document.getElementById('typecast-hidden-input');
-      if (el) el.focus();
-    }
-  }, [viewState.currentSentenceIndex, viewState.isReady, currentSentence]);
-
-  const loadEpisodeData = async (epItem: ManifestEpisode) => {
+  // 点击单集进行加载并直接开始练习
+  const onSelectEpisode = async (dataFile: string) => {
+    setIsLoading(true);
+    setLoadError(null);
     try {
-      setIsLoading(true);
-      setLoadError(null);
-      const res = await fetch(`${epItem.dataFile}?t=${Date.now()}`, { cache: 'no-cache' });
-      if (!res.ok) {
-        throw new Error(`无法获取集数数据: HTTP ${res.status}`);
-      }
-      const epData: Episode = await res.json();
-      setSelectedEpisode(epData);
-      await handleEpisodeLoad(epData);
-    } catch (err: unknown) {
+      const res = await fetch(dataFile);
+      if (!res.ok) throw new Error(`加载单集数据失败 (${res.status})`);
+      const episode: Episode = await res.json();
+      sessionStorage.setItem('typecast_active_episode', dataFile);
+      setSelectedEpisode(episode);
+      await handleEpisodeLoad(episode);
+    } catch (err) {
       console.error('加载集数失败:', err);
       setLoadError(err instanceof Error ? err.message : String(err));
     } finally {
@@ -104,7 +98,14 @@ export function PracticePage() {
     }
   };
 
-  // 检查某集是否解锁（上一集 Round 4 必须 >= 80 分）
+  // 页面刷新或重新进入时若存在上次活跃集数则自动恢复
+  useEffect(() => {
+    const lastDataFile = sessionStorage.getItem('typecast_active_episode');
+    if (lastDataFile && !selectedEpisode && !isLoading) {
+      onSelectEpisode(lastDataFile);
+    }
+  }, []);
+
   // 检查某集是否解锁（上一集 Round 4 必须 >= 80 分）
   const isEpisodeUnlocked = (epNumber: number): boolean => {
     if (epNumber === 1) return true; // 第 1 集天然解锁
@@ -162,125 +163,111 @@ export function PracticePage() {
                     onError={(e) => {
                       (e.currentTarget as HTMLImageElement).src = '/avatar.jpg';
                     }}
-                    className="w-16 h-16 rounded-2xl object-cover border border-gray-700 bg-gray-800"
+                    className="w-16 h-16 rounded-2xl object-cover border border-gray-700 shadow-md"
                   />
                   <div>
-                    <h2 className="text-xl font-bold text-white">{series.title}</h2>
-                    <p className="text-xs text-gray-400 mt-1">{series.description}</p>
+                    <h2 className="text-xl font-bold text-gray-100">{series.title}</h2>
+                    <p className="text-xs text-gray-400 mt-1">主讲人：{series.author}</p>
                   </div>
                 </div>
 
-                {/* 搜索过滤框 */}
-                <div className="relative">
-                  <input
-                    type="text"
-                    value={searchTerm}
-                    onChange={(e) => {
-                      setSearchTerm(e.target.value);
-                      setCurrentPage(1);
-                    }}
-                    placeholder="🔍 搜索期号或主题 (如 #1, Restaurant)..."
-                    className="w-full md:w-72 px-4 py-2 bg-gray-950/80 border border-gray-800 focus:border-blue-500 rounded-xl text-xs text-gray-200 placeholder-gray-500 outline-none transition-all"
-                  />
-                  {searchTerm && (
-                    <button
-                      onClick={() => setSearchTerm('')}
-                      className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 hover:text-gray-300 text-xs"
-                    >
-                      ✕
-                    </button>
-                  )}
+                <div className="flex items-center gap-6">
+                  <div className="text-right">
+                    <div className="text-xs text-gray-500 uppercase tracking-wider font-semibold">总集数</div>
+                    <div className="text-2xl font-black text-gray-200 font-mono">{series.episodes.length} 集</div>
+                  </div>
                 </div>
               </div>
 
-              {/* 集数列表卡片 */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {paginatedEpisodes.map((ep) => {
-                  const unlocked = isEpisodeUnlocked(ep.episodeNumber);
-                  const record = progressMap[ep.id] || progressMap[`slow-english-ep-0${ep.episodeNumber}`];
-                  const hasPassed = record?.bestScore && record.bestScore.score >= 80;
-                  const isReady = ep.ready !== false;
+              <p className="text-xs text-gray-400 leading-relaxed mb-6">{series.description}</p>
 
-                  return (
-                    <div
-                      key={ep.id}
-                      onClick={() => {
-                        if (!unlocked) return;
-                        if (!isReady) {
-                          alert(`EPISODE #${ep.episodeNumber} 《${ep.title}》 正在自动化对齐流水线中，请先挑战已就绪的示范集（如 #1 Restaurant）！`);
-                          return;
-                        }
-                        if (!isLoading) loadEpisodeData(ep);
-                      }}
-                      className={`p-5 rounded-2xl border transition-all relative flex flex-col justify-between ${
-                        unlocked && isReady
-                          ? 'bg-gray-950/70 border-gray-800 hover:border-blue-500/50 hover:bg-gray-900 cursor-pointer shadow-lg group'
-                          : unlocked && !isReady
-                          ? 'bg-gray-950/40 border-gray-800/80 hover:border-amber-500/40 cursor-pointer opacity-75'
-                          : 'bg-gray-950/30 border-gray-900 opacity-50 cursor-not-allowed'
-                      }`}
-                    >
-                      <div>
-                        <div className="flex items-center justify-between mb-2">
-                          <span className="text-xs font-mono font-bold text-blue-400 px-2 py-0.5 bg-blue-500/10 rounded">
-                            EPISODE #{ep.episodeNumber}
+              {/* 搜索与筛选 */}
+              <div className="relative mb-6">
+                <input
+                  type="text"
+                  placeholder="搜索集数标题、序号 (如: Restaurant, 1, 01)..."
+                  value={searchTerm}
+                  onChange={(e) => {
+                    setSearchTerm(e.target.value);
+                    setCurrentPage(1);
+                  }}
+                  className="w-full px-4 py-2.5 bg-gray-950 border border-gray-800 rounded-xl text-sm text-gray-200 placeholder-gray-600 focus:outline-none focus:border-blue-500 transition-colors"
+                />
+              </div>
+
+              {/* 集数网格卡片 */}
+              {isLoading ? (
+                <div className="py-20 text-center text-gray-500 font-medium animate-pulse text-sm">
+                  正在初始化听写语料库与音频流...
+                </div>
+              ) : (
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+                  {paginatedEpisodes.map((ep) => {
+                    const epKeyFormatted = `slow-english-ep-${String(ep.episodeNumber).padStart(3, '0')}`;
+                    const epKeyLegacy = `slow-english-ep-0${ep.episodeNumber}`;
+                    const progress = progressMap[epKeyFormatted] || progressMap[epKeyLegacy];
+                    const unlocked = isEpisodeUnlocked(ep.episodeNumber);
+                    const best = progress?.bestScore;
+
+                    return (
+                      <button
+                        key={ep.id}
+                        disabled={!unlocked}
+                        onClick={() => onSelectEpisode(ep.dataFile)}
+                        className={`text-left p-3.5 rounded-2xl border transition-all cursor-pointer relative group flex flex-col justify-between min-h-[96px] ${
+                          unlocked
+                            ? 'bg-gray-950/60 hover:bg-blue-600/10 border-gray-800 hover:border-blue-500/40 hover:scale-[1.01]'
+                            : 'bg-gray-950/20 border-gray-900 opacity-40 cursor-not-allowed'
+                        }`}
+                      >
+                        <div className="flex items-start justify-between gap-2">
+                          <span className="text-xs font-mono font-bold text-gray-400 group-hover:text-blue-400">
+                            EP{String(ep.episodeNumber).padStart(2, '0')}
                           </span>
                           {!unlocked ? (
-                            <span className="text-xs text-gray-500 flex items-center gap-1">
-                              🔒 需前一集大考 ≥80分
+                            <span className="text-xs text-gray-600">🔒 锁定</span>
+                          ) : best ? (
+                            <span className="text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-400 font-mono">
+                              ★ {best.score}分
                             </span>
-                          ) : !isReady ? (
-                            <span className="text-xs text-amber-400/90 font-medium px-2 py-0.5 bg-amber-500/10 rounded">
-                              ⏳ 待生成对齐
-                            </span>
-                          ) : hasPassed ? (
-                            <span className="text-xs text-emerald-400 font-bold flex items-center gap-1">
-                              ⭐ 最好成绩: {record.bestScore?.score}分
-                            </span>
-                          ) : (
-                            <span className="text-xs text-amber-400 font-medium">待通关</span>
-                          )}
+                          ) : null}
                         </div>
 
-                        <h3 className="text-base font-bold text-gray-100 group-hover:text-blue-300 transition-colors">
-                          {ep.title}
-                        </h3>
-                        <p className="text-xs text-gray-500 mt-1">
-                          {isReady ? `共 ${ep.sentenceCount} 句教学精听内容` : `时长 ${Math.round(ep.duration / 60)} 分钟 · 官方音频已直链`}
-                        </p>
-                      </div>
+                        <div className="text-xs font-medium text-gray-200 line-clamp-1 group-hover:text-white transition-colors">
+                          {ep.title.replace(/^Slow English Podcast #\d+:\s*/, '')}
+                        </div>
 
-                      <div className="mt-4 pt-3 border-t border-gray-900 flex items-center justify-between text-xs text-gray-400">
-                        <span>{record ? `当前进度: Round ${record.currentRound}` : isReady ? '未开始' : '待对齐'}</span>
-                        <span className="text-blue-400 group-hover:translate-x-1 transition-transform">
-                          {!unlocked ? '锁定中' : isReady ? '开始练习 ➔' : '排队中 ⏱️'}
-                        </span>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
+                        <div className="flex items-center justify-between text-[10px] text-gray-600 font-mono pt-1 border-t border-gray-900">
+                          <span>{ep.sentenceCount} 句</span>
+                          <span>{Math.round(ep.duration / 60)} 分钟</span>
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
 
-              {/* 分页控制栏 */}
+              {/* 分页控制器 */}
               {totalPages > 1 && (
-                <div className="mt-8 pt-6 border-t border-gray-800 flex items-center justify-between text-xs text-gray-400">
-                  <div>
-                    共 <span className="text-gray-200 font-bold">{filteredEpisodes.length}</span> 期节目 · 第{' '}
-                    <span className="text-blue-400 font-bold">{currentPage}</span> / {totalPages} 页
-                  </div>
-                  <div className="flex items-center gap-2">
+                <div className="flex items-center justify-between mt-6 pt-4 border-t border-gray-800/80 text-xs text-gray-400 font-mono">
+                  <span>
+                    第 {startIndex + 1} - {Math.min(startIndex + PAGE_SIZE, filteredEpisodes.length)} 条 (共 {filteredEpisodes.length} 条)
+                  </span>
+                  <div className="flex gap-1.5">
                     <button
-                      onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
                       disabled={currentPage === 1}
-                      className="px-3 py-1.5 bg-gray-950 border border-gray-800 rounded-lg hover:border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed text-gray-300 hover:text-white"
+                      onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+                      className="px-2.5 py-1 rounded-lg border border-gray-800 bg-gray-950 hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed"
                     >
                       上一页
                     </button>
-                    <span className="px-2 font-mono">{currentPage}</span>
+                    <span className="px-3 py-1 bg-gray-900 border border-gray-800 rounded-lg text-gray-200 font-bold">
+                      {currentPage} / {totalPages}
+                    </span>
                     <button
-                      onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
                       disabled={currentPage === totalPages}
-                      className="px-3 py-1.5 bg-gray-950 border border-gray-800 rounded-lg hover:border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed text-gray-300 hover:text-white"
+                      onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+                      className="px-2.5 py-1 rounded-lg border border-gray-800 bg-gray-950 hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed"
                     >
                       下一页
                     </button>
@@ -294,9 +281,12 @@ export function PracticePage() {
     );
   }
 
-  // 练习界面
+  // ---------------------------------------------------------------------------
+  // 主打字练习模式界面
+  // ---------------------------------------------------------------------------
   const currentRound = viewState.currentRound;
   const hintMode = currentRound === 1 ? 'SHOW' : currentRound === 2 ? 'BLUR' : 'HIDDEN';
+
   const total = selectedEpisode.sentences.length;
   const current = viewState.currentSentenceIndex + 1;
   const completionPct = Math.round((viewState.currentSentenceIndex / total) * 100);
@@ -317,11 +307,12 @@ export function PracticePage() {
         </div>
       )}
 
-      {/* 结算结果弹窗 */}
+      {/* 结算结果弹窗 (注入五维声学雷达图) */}
       {viewState.challengeResult && (
         <ChallengeResultModal
           currentResult={viewState.challengeResult}
           bestScore={viewState.bestScore?.score}
+          radarProfile={viewState.radarProfile}
           onRetry={() => {
             dismissChallengeModal();
             selectRound(4);
@@ -354,6 +345,7 @@ export function PracticePage() {
         <div className="flex items-center gap-4">
           <button
             onClick={() => {
+              sessionStorage.removeItem('typecast_active_episode');
               handleReset();
               setSelectedEpisode(null);
             }}
@@ -403,7 +395,7 @@ export function PracticePage() {
 
       {/* 主练习内容区 */}
       <main className="flex-1 flex flex-col items-center justify-center px-8 py-12 max-w-4xl mx-auto w-full">
-        {/* 4 阶梯关卡控制器 */}
+        {/* 4 阶梯关卡控制器 (保留现有布局体系) */}
         <div className="flex bg-gray-900/80 border border-gray-800 p-1.5 rounded-2xl mb-12 gap-1.5">
           {[
             { round: 1, name: 'Round 1: 明文识音', locked: false },
@@ -440,7 +432,7 @@ export function PracticePage() {
           })}
         </div>
 
-        {/* 核心句子展示卡片 */}
+        {/* 核心句子展示卡片 (注入四大 Round 声学刻意练习能力) */}
         <div
           onClick={() => {
             const el = document.getElementById('typecast-hidden-input');
@@ -466,14 +458,25 @@ export function PracticePage() {
           />
           <SentenceDisplay
             sentence={currentSentence}
+            acousticChunk={viewState.currentAcousticChunk}
             cursorIndex={viewState.cursorIndex}
             errorCount={viewState.errorCount}
             consecutiveErrors={viewState.consecutiveErrors}
             hintMode={hintMode}
+            round={currentRound}
+            activeScaffoldState={viewState.activeScaffoldState}
+            isLensActive={viewState.isLensActive}
           />
         </div>
 
-        {/* 底部指标指示 */}
+        {/* Round 3: 盲区二次受阻时优雅滑入声学物理现实揭示对比卡片 */}
+        {currentRound === 3 && viewState.activeScaffoldState && viewState.activeScaffoldState.currentLevel >= 2 && (
+          <div className="w-full max-w-4xl mt-6">
+            <PhoneticRealityCard scaffoldState={viewState.activeScaffoldState} />
+          </div>
+        )}
+
+        {/* 底部指标指示与控制 */}
         <div className="mt-10 flex flex-wrap items-center justify-center gap-6 sm:gap-8 text-sm text-gray-400">
           <div className="flex items-center gap-2">
             <span className="text-gray-600">进度:</span>
@@ -504,6 +507,26 @@ export function PracticePage() {
             <span>{isAudioPaused ? '▶️' : '⏸️'}</span>
             <span>{isAudioPaused ? '继续播放' : '暂停音频'}</span>
           </button>
+
+          {/* Round 3: 局部显微慢放快捷按钮 */}
+          {currentRound === 3 && (
+            <button
+              onClick={(e) => {
+                triggerLensReplay();
+                e.currentTarget.blur();
+                document.getElementById('typecast-hidden-input')?.focus();
+              }}
+              className={`flex items-center gap-1.5 px-3 py-1 border rounded-lg text-xs font-mono transition-all cursor-pointer ${
+                viewState.isLensActive
+                  ? 'bg-cyan-500/20 border-cyan-400 text-cyan-300 font-semibold shadow-md shadow-cyan-900/30'
+                  : 'bg-gray-900 hover:bg-gray-800 border-gray-800 text-cyan-400 hover:text-cyan-200'
+              }`}
+              title="对当前单词进行 0.7x 局部保调慢放"
+            >
+              <span>🔍</span>
+              <span>显微慢放 (0.7x)</span>
+            </button>
+          )}
 
           <button
             onClick={(e) => {

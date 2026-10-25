@@ -1,6 +1,28 @@
 import { useEffect, useReducer, useRef, useCallback, useState } from 'react';
-import { PracticeFSM, TypingEngineCore, ChunkAudioPlayer, ScoringEngine, db, type ChallengeScoreResult, type EpisodeProgressRecord } from '@typecast/core';
-import type { Episode, AudioChunk, SentenceStats, PlayerState, KeyResult } from '@typecast/shared-types';
+import {
+  PracticeFSM,
+  TypingEngineCore,
+  ChunkAudioPlayer,
+  ScoringEngine,
+  db,
+  sentenceToAcousticChunk,
+  KeystrokeTracker,
+  AcousticCharMapper,
+  CognitiveBottleneckClassifier,
+  ScaffoldStateMachine,
+  AcousticFSRSEngine,
+  AcousticMetricsExporter,
+  AcousticLensAudioPlayer,
+  acousticStorage,
+  ScaffoldLevel,
+  type ChallengeScoreResult,
+  type EpisodeProgressRecord,
+  type AcousticChunkData,
+  type WordScaffoldState,
+  type AcousticRadarProfile,
+  type CognitiveState,
+} from '@typecast/core';
+import type { Episode, AudioChunk, SentenceStats, PlayerState, KeyResult, Sentence } from '@typecast/shared-types';
 
 export type TrainingRound = 1 | 2 | 3 | 4;
 
@@ -29,6 +51,12 @@ export interface PracticeViewState {
     achievedAt: number;
   };
   challengeResult: ChallengeScoreResult | null;
+  // Acoustic additions
+  currentAcousticChunk: AcousticChunkData | null;
+  activeScaffoldState: WordScaffoldState | undefined;
+  isLensActive: boolean;
+  radarProfile: AcousticRadarProfile | null;
+  cognitiveState: CognitiveState;
 }
 
 type ViewAction =
@@ -38,11 +66,17 @@ type ViewAction =
   | { type: 'SENTENCE_DONE'; stats: SentenceStats; nextIdx: number }
   | { type: 'SET_ROUND'; round: TrainingRound }
   | { type: 'ROUND_FINISHED'; round: TrainingRound }
-  | { type: 'CHALLENGE_DONE'; result: ChallengeScoreResult }
+  | { type: 'CHALLENGE_DONE'; result: ChallengeScoreResult; radarProfile?: AcousticRadarProfile }
   | { type: 'DISMISS_CHALLENGE' }
   | { type: 'LOAD_DB_RECORD'; record: EpisodeProgressRecord }
+  | { type: 'INIT_SESSION'; sentenceIdx: number; round: TrainingRound }
   | { type: 'RESET'; totalSentences: number }
-  | { type: 'READY' };
+  | { type: 'READY' }
+  | { type: 'SET_ACOUSTIC_CHUNK'; chunk: AcousticChunkData }
+  | { type: 'SET_SCAFFOLD'; scaffold: WordScaffoldState | undefined }
+  | { type: 'SET_LENS_ACTIVE'; active: boolean }
+  | { type: 'SET_COGNITIVE_STATE'; state: CognitiveState }
+  | { type: 'INIT_RADAR_PROFILE'; radarProfile: AcousticRadarProfile };
 
 const initialViewState: PracticeViewState = {
   playerState: 'IDLE',
@@ -62,6 +96,11 @@ const initialViewState: PracticeViewState = {
     round4: false,
   },
   challengeResult: null,
+  currentAcousticChunk: null,
+  activeScaffoldState: undefined,
+  isLensActive: false,
+  radarProfile: null,
+  cognitiveState: 'NORMAL_FLOW',
 };
 
 function viewReducer(state: PracticeViewState, action: ViewAction): PracticeViewState {
@@ -87,113 +126,212 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         errorCount: 0,
         consecutiveErrors: 0,
         lastKeyResult: null,
+        activeScaffoldState: undefined,
+        isLensActive: false,
       };
     case 'SET_ROUND':
+      return { ...state, currentRound: action.round };
+    case 'ROUND_FINISHED':
       return {
         ...state,
-        currentRound: action.round,
-        currentSentenceIndex: 0,
-        cursorIndex: 0,
-        errorCount: 0,
-        consecutiveErrors: 0,
-        completedSentences: [],
-        challengeResult: null,
+        roundCompleted: {
+          ...state.roundCompleted,
+          [`round${action.round}`]: true,
+        },
       };
-    case 'ROUND_FINISHED': {
-      const nextCompleted = { ...state.roundCompleted };
-      if (action.round === 1) nextCompleted.round1 = true;
-      if (action.round === 2) nextCompleted.round2 = true;
-      if (action.round === 3) nextCompleted.round3 = true;
-      if (action.round === 4) nextCompleted.round4 = true;
-      return { ...state, roundCompleted: nextCompleted };
-    }
-    case 'CHALLENGE_DONE': {
-      const updatedBest = (!state.bestScore || action.result.score > state.bestScore.score)
-        ? {
-            score: action.result.score,
-            accuracy: action.result.accuracy,
-            wpm: action.result.wpm,
-            stars: action.result.stars as 1 | 2 | 3,
-            achievedAt: Date.now(),
-          }
-        : state.bestScore;
-
+    case 'CHALLENGE_DONE':
       return {
         ...state,
         challengeResult: action.result,
-        bestScore: updatedBest,
-        roundCompleted: {
-          ...state.roundCompleted,
-          round4: action.result.passed ? true : state.roundCompleted.round4,
-        },
+        radarProfile: action.radarProfile ?? state.radarProfile,
       };
-    }
     case 'DISMISS_CHALLENGE':
       return { ...state, challengeResult: null };
-    case 'LOAD_DB_RECORD':
+    case 'LOAD_DB_RECORD': {
+      const { bestScore, roundCompleted, currentSentenceIdx, currentRound } = action.record;
       return {
         ...state,
-        currentRound: action.record.currentRound,
-        currentSentenceIndex: action.record.currentSentenceIdx,
-        roundCompleted: action.record.roundCompleted,
-        bestScore: action.record.bestScore,
+        bestScore,
+        currentRound: (currentRound as TrainingRound) ?? state.currentRound,
+        roundCompleted: {
+          round1: roundCompleted?.round1 ?? false,
+          round2: roundCompleted?.round2 ?? false,
+          round3: roundCompleted?.round3 ?? false,
+          round4: roundCompleted?.round4 ?? false,
+        },
+        currentSentenceIndex: currentSentenceIdx ?? 0,
+      };
+    }
+    case 'INIT_SESSION':
+      return {
+        ...state,
+        cursorIndex: 0,
+        errorCount: 0,
+        consecutiveErrors: 0,
+        lastKeyResult: null,
+        completedSentences: [],
+        currentSentenceIndex: action.sentenceIdx,
+        currentRound: action.round,
+        isReady: true,
       };
     case 'RESET':
-      return { ...initialViewState };
+      return {
+        ...initialViewState,
+        isReady: false,
+      };
     case 'READY':
       return { ...state, isReady: true };
+    case 'SET_ACOUSTIC_CHUNK':
+      return { ...state, currentAcousticChunk: action.chunk };
+    case 'SET_SCAFFOLD':
+      return { ...state, activeScaffoldState: action.scaffold };
+    case 'SET_LENS_ACTIVE':
+      return { ...state, isLensActive: action.active };
+    case 'SET_COGNITIVE_STATE':
+      return { ...state, cognitiveState: action.state };
+    case 'INIT_RADAR_PROFILE':
+      return { ...state, radarProfile: action.radarProfile };
     default:
       return state;
   }
 }
 
-export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-audio' | 'native' = 'native') {
+export function usePracticeSession(
+  seekAheadMs: number = 80,
+  audioMode: 'web-audio' | 'native' = 'native'
+) {
+  const [viewState, dispatch] = useReducer(viewReducer, initialViewState);
+  const [isAudioPaused, setIsAudioPaused] = useState(false);
+  const [resumePrompt, setResumePrompt] = useState<string | null>(null);
+
+  const isAudioPausedRef = useRef(false);
+  useEffect(() => {
+    isAudioPausedRef.current = isAudioPaused;
+  }, [isAudioPaused]);
+
+  // Core engines
   const engineRef = useRef<TypingEngineCore | null>(null);
   const playerRef = useRef<ChunkAudioPlayer | null>(null);
   const fsmRef = useRef<PracticeFSM | null>(null);
+
+  // Acoustic pipeline & scaffolding instances
+  const lensPlayerRef = useRef<AcousticLensAudioPlayer>(new AcousticLensAudioPlayer({
+    playbackComplete: () => {
+      dispatch({ type: 'SET_LENS_ACTIVE', active: false });
+      if (!isAudioPausedRef.current && currentRoundRef.current !== 4 && currentChunkRef.current) {
+        playerRef.current?.playChunk(currentChunkRef.current);
+      }
+    },
+  }));
+  const keystrokeTrackerRef = useRef<KeystrokeTracker>(new KeystrokeTracker());
+  const classifierRef = useRef<CognitiveBottleneckClassifier>(new CognitiveBottleneckClassifier());
+  const mapperRef = useRef<AcousticCharMapper | null>(null);
+  const stateMachineRef = useRef<ScaffoldStateMachine | null>(null);
+  const fsrsEngineRef = useRef<AcousticFSRSEngine>(new AcousticFSRSEngine());
+  const metricsExporterRef = useRef<AcousticMetricsExporter>(new AcousticMetricsExporter(fsrsEngineRef.current));
+
+  const acousticChunkRef = useRef<AcousticChunkData | null>(null);
+  const episodeAcousticsRef = useRef<Map<string | number, AcousticChunkData> | null>(null);
+  const currentChunkRef = useRef<AudioChunk | null>(null);
+
   const episodeRef = useRef<Episode | null>(null);
-  const sentenceIdxRef = useRef<number>(0);
   const currentRoundRef = useRef<TrainingRound>(1);
+  const sentenceIdxRef = useRef<number>(0);
+  const completedSentencesRef = useRef<SentenceStats[]>([]);
+  const seekAheadMsRef = useRef(seekAheadMs);
+  const audioModeRef = useRef(audioMode);
   const pauseCountRef = useRef<number>(0);
   const startTimeRef = useRef<number>(0);
 
-  const [viewState, dispatch] = useReducer(viewReducer, initialViewState);
-  const [resumePrompt, setResumePrompt] = useState<string | null>(null);
+  // Load persisted FSRS and Keystroke history from IndexedDB on startup
+  useEffect(() => {
+    async function initAcousticStorage() {
+      try {
+        const persisted = await acousticStorage.loadAll();
+        if (persisted.fsrsStates) {
+          fsrsEngineRef.current.importState(persisted.fsrsStates);
+        }
+        if (persisted.keystrokeHistory) {
+          metricsExporterRef.current.importLatencyHistory(persisted.keystrokeHistory);
+        }
+        if (persisted.overcomeCount > 0) {
+          metricsExporterRef.current.setTotalOvercomeCount(persisted.overcomeCount);
+        }
+        const initialRadar = metricsExporterRef.current.exportRadarProfile();
+        dispatch({ type: 'INIT_RADAR_PROFILE', radarProfile: initialRadar });
+      } catch (err) {
+        console.warn('[AcousticStorage] Failed to load persisted acoustic records:', err);
+      }
+    }
+    initAcousticStorage();
+  }, []);
 
-  const completedSentencesRef = useRef<SentenceStats[]>([]);
-  const roundCompletedRef = useRef(viewState.roundCompleted);
-  const bestScoreRef = useRef(viewState.bestScore);
-  const seekAheadMsRef = useRef<number>(seekAheadMs);
-  const audioModeRef = useRef<'web-audio' | 'native'>(audioMode);
+  // Synchronize acoustic chunk setup when loading a sentence (priority: real acoustic database -> fallback phonemizer)
+  const loadSentenceAcoustics = useCallback((sentence: Sentence, sentenceIdx?: number) => {
+    let chunk: AcousticChunkData | undefined;
+    const acousticsMap = episodeAcousticsRef.current;
+    if (acousticsMap) {
+      chunk =
+        acousticsMap.get(String(sentence.id)) ||
+        acousticsMap.get(sentence.id) ||
+        (sentenceIdx !== undefined ? acousticsMap.get(sentenceIdx) : undefined);
+    }
 
-  currentRoundRef.current = viewState.currentRound;
-  roundCompletedRef.current = viewState.roundCompleted;
-  bestScoreRef.current = viewState.bestScore;
-  seekAheadMsRef.current = seekAheadMs;
-  audioModeRef.current = audioMode;
+    if (!chunk) {
+      chunk = sentenceToAcousticChunk(sentence);
+    }
 
-  // 保存进度至 IndexedDB
+    acousticChunkRef.current = chunk;
+    mapperRef.current = new AcousticCharMapper(chunk);
+    stateMachineRef.current = new ScaffoldStateMachine(chunk);
+    keystrokeTrackerRef.current.reset();
+
+    dispatch({ type: 'SET_ACOUSTIC_CHUNK', chunk });
+    dispatch({ type: 'SET_SCAFFOLD', scaffold: undefined });
+    dispatch({ type: 'SET_LENS_ACTIVE', active: false });
+  }, []);
+
+  const triggerLensReplay = useCallback((targetWordIdx?: number) => {
+    const acousticChunk = acousticChunkRef.current;
+    if (!acousticChunk) return;
+
+    let wordIdx = targetWordIdx;
+    if (wordIdx === undefined) {
+      const cursor = engineRef.current?.cursorIndex ?? 0;
+      wordIdx = mapperRef.current?.getContextAt(cursor).wordIndex ?? 0;
+    }
+
+    const wordData = acousticChunk.words[wordIdx];
+    if (!wordData) return;
+
+    playerRef.current?.pause();
+    dispatch({ type: 'SET_LENS_ACTIVE', active: true });
+    lensPlayerRef.current.playTargetLensOnly(wordData.start_ms, wordData.end_ms, 80, 0.7);
+  }, []);
+
   const saveProgressToDb = useCallback(async () => {
     const ep = episodeRef.current;
     if (!ep) return;
-    try {
-      await db.progress.put({
-        episodeId: ep.episodeId,
-        currentRound: currentRoundRef.current,
-        currentSentenceIdx: sentenceIdxRef.current,
-        roundCompleted: roundCompletedRef.current,
-        bestScore: bestScoreRef.current,
-        updatedAt: Date.now(),
-      });
-    } catch (e) {
-      console.warn('保存学习进度到本地数据库失败:', e);
-    }
-  }, []);
 
+    await db.progress.put({
+      episodeId: ep.episodeId,
+      currentRound: currentRoundRef.current,
+      currentSentenceIdx: sentenceIdxRef.current,
+      roundCompleted: {
+        round1: viewState.roundCompleted.round1,
+        round2: viewState.roundCompleted.round2,
+        round3: viewState.roundCompleted.round3,
+        round4: viewState.roundCompleted.round4,
+      },
+      updatedAt: Date.now(),
+    });
+  }, [viewState.roundCompleted]);
+
+  // Init typing engine and audio player
   useEffect(() => {
     const engine = new TypingEngineCore({ judgeMode: 'STRICT' });
     const player = new ChunkAudioPlayer();
-    const fsm = new PracticeFSM(150);
+    const fsm = new PracticeFSM();
 
     engineRef.current = engine;
     playerRef.current = player;
@@ -226,12 +364,10 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
       sentenceIdxRef.current = nextIdx;
 
       if (isLast) {
-        // 本轮完成
         const finishedRound = currentRoundRef.current;
         dispatch({ type: 'ROUND_FINISHED', round: finishedRound });
 
         if (finishedRound === 4) {
-          // 结算 Round 4 全文大考成绩
           const elapsedMin = Math.max(0.1, (performance.now() - startTimeRef.current) / 60000);
           const totalChars = ep.sentences.reduce((sum, s) => sum + s.text.length, 0);
           const totalErrors = completedSentencesRef.current.reduce((sum, s) => sum + s.errorCount, 0);
@@ -246,10 +382,22 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
             pauseCount: pauseCountRef.current,
           });
 
-          dispatch({ type: 'CHALLENGE_DONE', result: evalResult });
+          // Generate FSRS 5D Radar profile for modal
+          const radarProfile = metricsExporterRef.current.exportRadarProfile();
+          dispatch({ type: 'CHALLENGE_DONE', result: evalResult, radarProfile });
           player.pause();
+
+          // Persist updated FSRS states, keystroke history & overcome records
+          try {
+            await acousticStorage.saveAll(
+              fsrsEngineRef.current.exportState(),
+              metricsExporterRef.current.exportLatencyHistory(),
+              metricsExporterRef.current.getTotalOvercomeCount()
+            );
+          } catch (storageErr) {
+            console.warn('[AcousticStorage] Failed to persist acoustic data:', storageErr);
+          }
         } else {
-          // Round 1-3 自动提示晋级下一轮
           const nextRound = (finishedRound + 1) as TrainingRound;
           dispatch({ type: 'SET_ROUND', round: nextRound });
           currentRoundRef.current = nextRound;
@@ -258,6 +406,7 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
 
           const firstSentence = ep.sentences[0]!;
           engine.loadSentence(firstSentence);
+          loadSentenceAcoustics(firstSentence, 0);
 
           const chunk: AudioChunk = {
             audioUrl: ep.audioUrl,
@@ -266,15 +415,16 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
             seekAheadMs: seekAheadMsRef.current,
             sentenceId: firstSentence.id,
           };
+          currentChunkRef.current = chunk;
           fsm.transition('SENTENCE_ADVANCE');
           player.playChunk(chunk);
           player.setLooping(nextRound !== 4);
           fsm.transition('AUDIO_CAN_PLAY');
         }
       } else {
-        // 推进到当前轮的下一句
         const nextSentence = ep.sentences[nextIdx]!;
         engine.loadSentence(nextSentence);
+        loadSentenceAcoustics(nextSentence, nextIdx);
 
         const chunk: AudioChunk = {
           audioUrl: ep.audioUrl,
@@ -283,9 +433,9 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
           seekAheadMs: seekAheadMsRef.current,
           sentenceId: nextSentence.id,
         };
+        currentChunkRef.current = chunk;
         fsm.transition('SENTENCE_ADVANCE');
         player.playChunk(chunk);
-        // Round 4 持续向前播放，不单句循环
         player.setLooping(currentRoundRef.current !== 4);
         fsm.transition('AUDIO_CAN_PLAY');
       }
@@ -304,14 +454,12 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     });
 
     return () => {
-      engine.destroy();
-      player.destroy();
-      fsm.destroy();
+      player.pause();
       unsubFSM();
     };
-  }, [saveProgressToDb]);
+  }, [saveProgressToDb, loadSentenceAcoustics]);
 
-  // 键盘全局打字捕捉
+  // Global keystroke capturing with acoustic analysis
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
     const fsm = fsmRef.current;
     const engine = engineRef.current;
@@ -320,7 +468,6 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
 
     if (e.key === 'Tab') {
       e.preventDefault();
-      // 在 Round 4 暂停/重听会被计入惩罚
       if (currentRoundRef.current === 4) {
         pauseCountRef.current++;
       }
@@ -333,25 +480,73 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     if (e.ctrlKey || e.altKey || e.metaKey) return;
     if (e.key.length > 1 && e.key !== 'Backspace') return;
 
-    // 关键修复：阻止空格键等有效打字键分发给获得焦点的按钮，同时防止页面滚动
     e.preventDefault();
 
+    // Acoustic dynamics analysis & scaffolding
+    const chunk = acousticChunkRef.current;
+    const mapper = mapperRef.current;
+    const stateMachine = stateMachineRef.current;
+    const tracker = keystrokeTrackerRef.current;
+    const classifier = classifierRef.current;
+
+    if (chunk && mapper && stateMachine) {
+      const cursor = engine.cursorIndex;
+      const expectedChar = cursor < chunk.text.length ? chunk.text[cursor] : '';
+      const isMatch = e.key === expectedChar;
+
+      // 1. Record raw keydown
+      const rawEvent = tracker.recordKeyDown(e.key, expectedChar, isMatch, cursor);
+
+      // 2. Query acoustic context
+      const ctx = mapper.getContextAt(cursor);
+
+      // 3. Diagnose cognitive state
+      const cogState = classifier.diagnoseKeystroke(rawEvent, undefined, ctx, 0);
+      dispatch({ type: 'SET_COGNITIVE_STATE', state: cogState });
+
+      // 4. In Round 3 (单句盲听), evaluate scaffolding & micro-lens!
+      if (currentRoundRef.current === 3) {
+        const annotated = {
+          ...rawEvent,
+          associatedPhoneme: ctx.associatedPhoneme,
+          isWeakenedPhoneme: ctx.isWeakenedPhoneme,
+          associatedPhenomena: ctx.associatedPhenomena,
+          cognitiveState: cogState,
+        };
+
+        const scaffold = stateMachine.handleKeystroke(annotated, ctx.wordIndex);
+        if (scaffold.currentLevel > ScaffoldLevel.LEVEL_0_NONE) {
+          dispatch({ type: 'SET_SCAFFOLD', scaffold });
+          if (cogState === 'PERCEPTUAL_BLINDSPOT') {
+            triggerLensReplay(ctx.wordIndex);
+          }
+        } else {
+          dispatch({ type: 'SET_SCAFFOLD', scaffold: undefined });
+        }
+      }
+
+      // Record latency metrics for Power Law convergence
+      if (ctx.associatedPhenomena.length > 0 && rawEvent.ikiMs > 0 && rawEvent.ikiMs < 2000) {
+        for (const ph of ctx.associatedPhenomena) {
+          metricsExporterRef.current.recordLatency(ph, rawEvent.ikiMs);
+        }
+      }
+    }
+
     engine.handleKeyInput(e.key);
-  }, []);
+  }, [triggerLensReplay]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [handleKeyDown]);
 
-  // 切换轮次
   const selectRound = useCallback((round: TrainingRound) => {
     const ep = episodeRef.current;
     const engine = engineRef.current;
     const player = playerRef.current;
     if (!ep || !engine || !player) return;
 
-    // 检查是否有前置资格进入 Round 4
     if (round === 4 && (!viewState.roundCompleted.round1 || !viewState.roundCompleted.round2 || !viewState.roundCompleted.round3)) {
       alert('请先完成前 3 轮（明文、模糊、单句盲听）的基础训练，方可解锁 Round 4 全文大挑战！');
       return;
@@ -366,19 +561,26 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
 
     const firstSentence = ep.sentences[0]!;
     engine.loadSentence(firstSentence);
+    loadSentenceAcoustics(firstSentence, 0);
 
     const chunk: AudioChunk = {
       audioUrl: ep.audioUrl,
       startSec: firstSentence.start,
       endSec: firstSentence.end,
-      seekAheadMs,
+      seekAheadMs: seekAheadMsRef.current,
       sentenceId: firstSentence.id,
     };
+    currentChunkRef.current = chunk;
     player.playChunk(chunk);
     player.setLooping(round !== 4);
-  }, [seekAheadMs, viewState.roundCompleted]);
 
-  // 加载集数，带 IndexedDB 历史恢复
+    dispatch({
+      type: 'INIT_SESSION',
+      sentenceIdx: 0,
+      round,
+    });
+  }, [seekAheadMs, viewState.roundCompleted, loadSentenceAcoustics]);
+
   const handleEpisodeLoad = useCallback(async (episode: Episode) => {
     const engine = engineRef.current;
     const player = playerRef.current;
@@ -389,70 +591,105 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     pauseCountRef.current = 0;
     startTimeRef.current = performance.now();
 
-    // 尝试从 IndexedDB 恢复历史记录
-    let targetRound: TrainingRound = 1;
+    // 1. Fetch saved progress from DB first
+    const savedRecord = await db.progress.get(episode.episodeId);
     let targetSentenceIdx = 0;
+    let targetRound: TrainingRound = 1;
 
-    try {
-      const saved = await db.progress.get(episode.episodeId);
-      if (saved) {
-        dispatch({ type: 'LOAD_DB_RECORD', record: saved });
-        targetRound = saved.currentRound;
-        targetSentenceIdx = Math.min(saved.currentSentenceIdx, episode.sentences.length - 1);
-        setResumePrompt(`已为您自动恢复至: Round ${targetRound} · 第 ${targetSentenceIdx + 1} 句`);
-        setTimeout(() => setResumePrompt(null), 4000);
+    if (savedRecord) {
+      if (savedRecord.currentRound) {
+        targetRound = savedRecord.currentRound as TrainingRound;
+        currentRoundRef.current = targetRound;
       }
-    } catch (e) {
-      console.warn('检索 IndexedDB 失败:', e);
+      if (
+        typeof savedRecord.currentSentenceIdx === 'number' &&
+        savedRecord.currentSentenceIdx > 0 &&
+        savedRecord.currentSentenceIdx < episode.sentences.length
+      ) {
+        targetSentenceIdx = savedRecord.currentSentenceIdx;
+        setResumePrompt(`已从上次中断的第 ${targetSentenceIdx + 1} 句继续`);
+        setTimeout(() => setResumePrompt(null), 3500);
+      }
+      dispatch({ type: 'LOAD_DB_RECORD', record: savedRecord });
     }
 
-    currentRoundRef.current = targetRound;
+    // 2. Preload micro-lens audio player
+    lensPlayerRef.current.loadAudio(episode.audioUrl);
+
+    // 3. Asynchronously fetch production acoustic database (.acoustic.json)
+    try {
+      const epNumStr = String(episode.episodeNumber).padStart(3, '0');
+      const candidates = [
+        `/data/acoustic/ep-${epNumStr}.acoustic.json`,
+        `/data/acoustic/${episode.episodeId}.acoustic.json`,
+      ];
+      let loadedMap: Map<string | number, AcousticChunkData> | null = null;
+      for (const url of candidates) {
+        try {
+          const res = await fetch(url);
+          if (res.ok) {
+            const data = await res.json();
+            if (Array.isArray(data.chunks)) {
+              loadedMap = new Map();
+              data.chunks.forEach((c: AcousticChunkData, idx: number) => {
+                if (c.chunk_id) loadedMap!.set(String(c.chunk_id), c);
+                loadedMap!.set(idx, c);
+                loadedMap!.set(idx + 1, c);
+              });
+              break;
+            }
+          }
+        } catch {
+          // Fall through to next candidate
+        }
+      }
+      episodeAcousticsRef.current = loadedMap;
+    } catch {
+      episodeAcousticsRef.current = null;
+    }
+
+    // 4. Initialize player and anchor to the target sentence
+    await player.init(episode.audioUrl, audioModeRef.current, seekAheadMsRef.current);
+
     sentenceIdxRef.current = targetSentenceIdx;
-    completedSentencesRef.current = [];
-
-    fsm.transition('LOAD');
-    const startSentence = episode.sentences[targetSentenceIdx]!;
-    engine.loadSentence(startSentence);
-
-    await player.init(episode.audioUrl, audioMode, seekAheadMs);
+    const targetSentence = episode.sentences[targetSentenceIdx] || episode.sentences[0]!;
+    engine.loadSentence(targetSentence);
+    loadSentenceAcoustics(targetSentence, targetSentenceIdx);
 
     const chunk: AudioChunk = {
       audioUrl: episode.audioUrl,
-      startSec: startSentence.start,
-      endSec: startSentence.end,
-      seekAheadMs,
-      sentenceId: startSentence.id,
+      startSec: targetSentence.start,
+      endSec: targetSentence.end,
+      seekAheadMs: seekAheadMsRef.current,
+      sentenceId: targetSentence.id,
     };
+    currentChunkRef.current = chunk;
     player.playChunk(chunk);
     player.setLooping(targetRound !== 4);
+    fsm.transition('LOAD');
     fsm.transition('AUDIO_CAN_PLAY');
 
-    dispatch({ type: 'READY' });
-  }, [audioMode, seekAheadMs]);
+    // 5. Atomic synchronization: set currentSentenceIndex and round directly
+    dispatch({
+      type: 'INIT_SESSION',
+      sentenceIdx: targetSentenceIdx,
+      round: targetRound,
+    });
+  }, [loadSentenceAcoustics]);
 
-  const [isAudioPaused, setIsAudioPaused] = useState<boolean>(false);
-
-  const togglePlayPause = useCallback(() => {
-    const player = playerRef.current;
-    if (!player) return;
-    if (isAudioPaused) {
-      player.resume();
-      setIsAudioPaused(false);
-    } else {
-      player.pause();
-      setIsAudioPaused(true);
-    }
-  }, [isAudioPaused]);
-
-  const handleTabKey = useCallback(() => {
-    if (currentRoundRef.current === 4) {
-      pauseCountRef.current++;
-    }
-    fsmRef.current?.transition('TAB_REPLAY');
-    playerRef.current?.replayCurrentChunk();
+  const handleReset = useCallback(async () => {
+    await saveProgressToDb();
+    playerRef.current?.pause();
+    lensPlayerRef.current.stop();
     engineRef.current?.reset();
+    fsmRef.current?.transition('RESET');
+    episodeRef.current = null;
+    episodeAcousticsRef.current = null;
+    sentenceIdxRef.current = 0;
+    completedSentencesRef.current = [];
     setIsAudioPaused(false);
-  }, []);
+    dispatch({ type: 'RESET', totalSentences: 0 });
+  }, [saveProgressToDb]);
 
   const restartFromBeginning = useCallback(async () => {
     const ep = episodeRef.current;
@@ -465,51 +702,103 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     completedSentencesRef.current = [];
     setIsAudioPaused(false);
 
-    // 重置数据库中的句子进度为 0
-    try {
-      const existing = await db.progress.get(ep.episodeId);
-      if (existing) {
-        await db.progress.put({
-          ...existing,
-          currentSentenceIdx: 0,
-          updatedAt: Date.now(),
-        });
-      }
-    } catch (e) {
-      console.warn('重置进度数据库失败:', e);
-    }
+    await db.progress.put({
+      episodeId: ep.episodeId,
+      currentRound: currentRoundRef.current,
+      currentSentenceIdx: 0,
+      roundCompleted: {
+        round1: viewState.roundCompleted.round1,
+        round2: viewState.roundCompleted.round2,
+        round3: viewState.roundCompleted.round3,
+        round4: viewState.roundCompleted.round4,
+      },
+      updatedAt: Date.now(),
+    });
 
-    fsm.transition('RESET');
-    const firstSentence = ep.sentences[0];
+    const firstSentence = ep.sentences[0]!;
     engine.loadSentence(firstSentence);
+    loadSentenceAcoustics(firstSentence, 0);
 
     const chunk: AudioChunk = {
       audioUrl: ep.audioUrl,
       startSec: firstSentence.start,
       endSec: firstSentence.end,
-      seekAheadMs,
+      seekAheadMs: seekAheadMsRef.current,
       sentenceId: firstSentence.id,
     };
+    currentChunkRef.current = chunk;
     player.playChunk(chunk);
     player.setLooping(currentRoundRef.current !== 4);
-    fsm.transition('LOAD');
     fsm.transition('AUDIO_CAN_PLAY');
 
-    dispatch({ type: 'RESET', totalSentences: ep.sentences.length });
-    dispatch({ type: 'READY' });
-  }, [seekAheadMs]);
+    dispatch({
+      type: 'INIT_SESSION',
+      sentenceIdx: 0,
+      round: currentRoundRef.current,
+    });
+  }, [viewState.roundCompleted, loadSentenceAcoustics]);
 
-  const handleReset = useCallback(async () => {
-    await saveProgressToDb();
-    playerRef.current?.pause();
-    engineRef.current?.reset();
-    fsmRef.current?.transition('RESET');
-    episodeRef.current = null;
-    sentenceIdxRef.current = 0;
-    completedSentencesRef.current = [];
-    setIsAudioPaused(false);
-    dispatch({ type: 'RESET', totalSentences: 0 });
-  }, [saveProgressToDb]);
+  const togglePlayPause = useCallback(() => {
+    const player = playerRef.current;
+    const ep = episodeRef.current;
+    if (!player) return;
+
+    if (isAudioPaused) {
+      // Audio Playback Guard: re-anchor to current sentence chunk
+      const currIdx = sentenceIdxRef.current;
+      if (ep && ep.sentences[currIdx]) {
+        const currSentence = ep.sentences[currIdx];
+        const chunk: AudioChunk = {
+          audioUrl: ep.audioUrl,
+          startSec: currSentence.start,
+          endSec: currSentence.end,
+          seekAheadMs: seekAheadMsRef.current,
+          sentenceId: currSentence.id,
+        };
+        currentChunkRef.current = chunk;
+        player.playChunk(chunk);
+      } else if (currentChunkRef.current) {
+        player.playChunk(currentChunkRef.current);
+      }
+      setIsAudioPaused(false);
+    } else {
+      player.pause();
+      lensPlayerRef.current.stop();
+      setIsAudioPaused(true);
+    }
+  }, [isAudioPaused]);
+
+  const handleTabKey = useCallback(() => {
+    const fsm = fsmRef.current;
+    const engine = engineRef.current;
+    const player = playerRef.current;
+    const ep = episodeRef.current;
+    if (!fsm || !engine || !player) return;
+
+    if (currentRoundRef.current === 4) {
+      pauseCountRef.current++;
+    }
+    fsm.transition('TAB_REPLAY');
+
+    // Audio Playback Guard: ensure we replay the audio strictly for currentSentence
+    const currIdx = sentenceIdxRef.current;
+    if (ep && ep.sentences[currIdx]) {
+      const currSentence = ep.sentences[currIdx];
+      const chunk: AudioChunk = {
+        audioUrl: ep.audioUrl,
+        startSec: currSentence.start,
+        endSec: currSentence.end,
+        seekAheadMs: seekAheadMsRef.current,
+        sentenceId: currSentence.id,
+      };
+      currentChunkRef.current = chunk;
+      player.playChunk(chunk);
+    } else {
+      player.replayCurrentChunk();
+    }
+
+    engine.reset();
+  }, []);
 
   return {
     viewState,
@@ -524,5 +813,6 @@ export function usePracticeSession(seekAheadMs: number = 80, audioMode: 'web-aud
     resumePrompt,
     currentEpisode: episodeRef.current,
     currentSentence: episodeRef.current?.sentences[viewState.currentSentenceIndex] ?? null,
+    triggerLensReplay,
   };
 }

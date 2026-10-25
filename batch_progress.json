@@ -1,0 +1,5634 @@
+{
+  "updated_at": "2026-10-24T18:10:44.259532+00:00",
+  "total": 375,
+  "completed": 375,
+  "failed": 0,
+  "pending": 0,
+  "episodes": {
+    "slow-english-ep-001": {
+      "episodeNumber": 1,
+      "status": "COMPLETED",
+      "sentence_count": 83,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 76,
+        "ELISION": 122,
+        "GLOTTAL_STOP": 96,
+        "ASSIMILATION": 11
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-001.acoustic.json",
+      "duration_sec": 3.03,
+      "processed_at": "2026-10-24T17:58:36.873612+00:00"
+    },
+    "slow-english-ep-002": {
+      "episodeNumber": 2,
+      "status": "COMPLETED",
+      "sentence_count": 102,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 109,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 21
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-002.acoustic.json",
+      "duration_sec": 3.55,
+      "processed_at": "2026-10-24T17:58:40.426091+00:00"
+    },
+    "slow-english-ep-003": {
+      "episodeNumber": 3,
+      "status": "COMPLETED",
+      "sentence_count": 90,
+      "phenomena_counts": {
+        "REDUCTION": 143,
+        "LINKING": 110,
+        "ELISION": 154,
+        "GLOTTAL_STOP": 145,
+        "ASSIMILATION": 12
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-003.acoustic.json",
+      "duration_sec": 3.37,
+      "processed_at": "2026-10-24T17:58:43.804361+00:00"
+    },
+    "slow-english-ep-006": {
+      "episodeNumber": 6,
+      "status": "COMPLETED",
+      "sentence_count": 143,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 109,
+        "ELISION": 188,
+        "GLOTTAL_STOP": 183,
+        "ASSIMILATION": 23
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-006.acoustic.json",
+      "duration_sec": 5.39,
+      "processed_at": "2026-10-24T18:04:07.463037+00:00"
+    },
+    "slow-english-ep-005": {
+      "episodeNumber": 5,
+      "status": "COMPLETED",
+      "sentence_count": 121,
+      "phenomena_counts": {
+        "REDUCTION": 100,
+        "LINKING": 109,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 157,
+        "ASSIMILATION": 23
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-005.acoustic.json",
+      "duration_sec": 5.62,
+      "processed_at": "2026-10-24T18:04:07.692197+00:00"
+    },
+    "slow-english-ep-007": {
+      "episodeNumber": 7,
+      "status": "COMPLETED",
+      "sentence_count": 133,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 61,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 186,
+        "ASSIMILATION": 11
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-007.acoustic.json",
+      "duration_sec": 5.63,
+      "processed_at": "2026-10-24T18:04:07.704315+00:00"
+    },
+    "slow-english-ep-004": {
+      "episodeNumber": 4,
+      "status": "COMPLETED",
+      "sentence_count": 146,
+      "phenomena_counts": {
+        "REDUCTION": 114,
+        "LINKING": 120,
+        "ELISION": 196,
+        "GLOTTAL_STOP": 237,
+        "ASSIMILATION": 19
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-004.acoustic.json",
+      "duration_sec": 5.71,
+      "processed_at": "2026-10-24T18:04:07.784283+00:00"
+    },
+    "slow-english-ep-008": {
+      "episodeNumber": 8,
+      "status": "COMPLETED",
+      "sentence_count": 133,
+      "phenomena_counts": {
+        "REDUCTION": 129,
+        "LINKING": 88,
+        "ELISION": 215,
+        "GLOTTAL_STOP": 235,
+        "ASSIMILATION": 15
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-008.acoustic.json",
+      "duration_sec": 5.05,
+      "processed_at": "2026-10-24T18:04:12.521538+00:00"
+    },
+    "slow-english-ep-010": {
+      "episodeNumber": 10,
+      "status": "COMPLETED",
+      "sentence_count": 110,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 111,
+        "ELISION": 162,
+        "GLOTTAL_STOP": 145,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-010.acoustic.json",
+      "duration_sec": 4.89,
+      "processed_at": "2026-10-24T18:04:12.597577+00:00"
+    },
+    "slow-english-ep-011": {
+      "episodeNumber": 11,
+      "status": "COMPLETED",
+      "sentence_count": 90,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 110,
+        "ELISION": 181,
+        "GLOTTAL_STOP": 191,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-011.acoustic.json",
+      "duration_sec": 4.94,
+      "processed_at": "2026-10-24T18:04:12.733903+00:00"
+    },
+    "slow-english-ep-009": {
+      "episodeNumber": 9,
+      "status": "COMPLETED",
+      "sentence_count": 106,
+      "phenomena_counts": {
+        "REDUCTION": 111,
+        "LINKING": 145,
+        "ELISION": 203,
+        "GLOTTAL_STOP": 255,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-009.acoustic.json",
+      "duration_sec": 5.8,
+      "processed_at": "2026-10-24T18:04:13.510287+00:00"
+    },
+    "slow-english-ep-012": {
+      "episodeNumber": 12,
+      "status": "COMPLETED",
+      "sentence_count": 90,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 110,
+        "ELISION": 168,
+        "GLOTTAL_STOP": 180,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-012.acoustic.json",
+      "duration_sec": 4.82,
+      "processed_at": "2026-10-24T18:04:17.344861+00:00"
+    },
+    "slow-english-ep-014": {
+      "episodeNumber": 14,
+      "status": "COMPLETED",
+      "sentence_count": 121,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 88,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 163,
+        "ASSIMILATION": 17
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-014.acoustic.json",
+      "duration_sec": 4.76,
+      "processed_at": "2026-10-24T18:04:17.497918+00:00"
+    },
+    "slow-english-ep-015": {
+      "episodeNumber": 15,
+      "status": "COMPLETED",
+      "sentence_count": 115,
+      "phenomena_counts": {
+        "REDUCTION": 131,
+        "LINKING": 116,
+        "ELISION": 158,
+        "GLOTTAL_STOP": 192,
+        "ASSIMILATION": 12
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-015.acoustic.json",
+      "duration_sec": 5.33,
+      "processed_at": "2026-10-24T18:04:18.847235+00:00"
+    },
+    "slow-english-ep-013": {
+      "episodeNumber": 13,
+      "status": "COMPLETED",
+      "sentence_count": 156,
+      "phenomena_counts": {
+        "REDUCTION": 169,
+        "LINKING": 213,
+        "ELISION": 291,
+        "GLOTTAL_STOP": 287,
+        "ASSIMILATION": 32
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-013.acoustic.json",
+      "duration_sec": 7.7,
+      "processed_at": "2026-10-24T18:04:20.309734+00:00"
+    },
+    "slow-english-ep-016": {
+      "episodeNumber": 16,
+      "status": "COMPLETED",
+      "sentence_count": 96,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 135,
+        "ELISION": 120,
+        "GLOTTAL_STOP": 167,
+        "ASSIMILATION": 19
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-016.acoustic.json",
+      "duration_sec": 4.58,
+      "processed_at": "2026-10-24T18:04:21.927366+00:00"
+    },
+    "slow-english-ep-017": {
+      "episodeNumber": 17,
+      "status": "COMPLETED",
+      "sentence_count": 114,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 145,
+        "ELISION": 185,
+        "GLOTTAL_STOP": 162,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-017.acoustic.json",
+      "duration_sec": 5.01,
+      "processed_at": "2026-10-24T18:04:22.513984+00:00"
+    },
+    "slow-english-ep-018": {
+      "episodeNumber": 18,
+      "status": "COMPLETED",
+      "sentence_count": 134,
+      "phenomena_counts": {
+        "REDUCTION": 104,
+        "LINKING": 122,
+        "ELISION": 167,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-018.acoustic.json",
+      "duration_sec": 4.82,
+      "processed_at": "2026-10-24T18:04:23.680810+00:00"
+    },
+    "slow-english-ep-019": {
+      "episodeNumber": 19,
+      "status": "COMPLETED",
+      "sentence_count": 163,
+      "phenomena_counts": {
+        "REDUCTION": 190,
+        "LINKING": 161,
+        "ELISION": 264,
+        "GLOTTAL_STOP": 327,
+        "ASSIMILATION": 20
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-019.acoustic.json",
+      "duration_sec": 7.55,
+      "processed_at": "2026-10-24T18:04:27.875464+00:00"
+    },
+    "slow-english-ep-020": {
+      "episodeNumber": 20,
+      "status": "COMPLETED",
+      "sentence_count": 141,
+      "phenomena_counts": {
+        "REDUCTION": 174,
+        "LINKING": 165,
+        "ELISION": 261,
+        "GLOTTAL_STOP": 285,
+        "ASSIMILATION": 20
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-020.acoustic.json",
+      "duration_sec": 7.0,
+      "processed_at": "2026-10-24T18:04:28.940899+00:00"
+    },
+    "slow-english-ep-022": {
+      "episodeNumber": 22,
+      "status": "COMPLETED",
+      "sentence_count": 113,
+      "phenomena_counts": {
+        "REDUCTION": 136,
+        "LINKING": 174,
+        "ELISION": 185,
+        "GLOTTAL_STOP": 242,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-022.acoustic.json",
+      "duration_sec": 5.61,
+      "processed_at": "2026-10-24T18:04:29.295730+00:00"
+    },
+    "slow-english-ep-021": {
+      "episodeNumber": 21,
+      "status": "COMPLETED",
+      "sentence_count": 156,
+      "phenomena_counts": {
+        "REDUCTION": 146,
+        "LINKING": 172,
+        "ELISION": 318,
+        "GLOTTAL_STOP": 318,
+        "ASSIMILATION": 35
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-021.acoustic.json",
+      "duration_sec": 7.18,
+      "processed_at": "2026-10-24T18:04:29.706958+00:00"
+    },
+    "slow-english-ep-023": {
+      "episodeNumber": 23,
+      "status": "COMPLETED",
+      "sentence_count": 108,
+      "phenomena_counts": {
+        "REDUCTION": 115,
+        "LINKING": 131,
+        "ELISION": 155,
+        "GLOTTAL_STOP": 167,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-023.acoustic.json",
+      "duration_sec": 4.36,
+      "processed_at": "2026-10-24T18:04:32.242297+00:00"
+    },
+    "slow-english-ep-025": {
+      "episodeNumber": 25,
+      "status": "COMPLETED",
+      "sentence_count": 104,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 68,
+        "ELISION": 169,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 10
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-025.acoustic.json",
+      "duration_sec": 3.8,
+      "processed_at": "2026-10-24T18:04:33.095571+00:00"
+    },
+    "slow-english-ep-024": {
+      "episodeNumber": 24,
+      "status": "COMPLETED",
+      "sentence_count": 118,
+      "phenomena_counts": {
+        "REDUCTION": 114,
+        "LINKING": 144,
+        "ELISION": 215,
+        "GLOTTAL_STOP": 189,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-024.acoustic.json",
+      "duration_sec": 5.24,
+      "processed_at": "2026-10-24T18:04:34.183081+00:00"
+    },
+    "slow-english-ep-026": {
+      "episodeNumber": 26,
+      "status": "COMPLETED",
+      "sentence_count": 116,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 106,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 181,
+        "ASSIMILATION": 23
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-026.acoustic.json",
+      "duration_sec": 4.82,
+      "processed_at": "2026-10-24T18:04:34.534049+00:00"
+    },
+    "slow-english-ep-027": {
+      "episodeNumber": 27,
+      "status": "COMPLETED",
+      "sentence_count": 110,
+      "phenomena_counts": {
+        "REDUCTION": 167,
+        "LINKING": 102,
+        "ELISION": 274,
+        "GLOTTAL_STOP": 204,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-027.acoustic.json",
+      "duration_sec": 5.45,
+      "processed_at": "2026-10-24T18:04:37.694730+00:00"
+    },
+    "slow-english-ep-030": {
+      "episodeNumber": 30,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 124,
+        "LINKING": 102,
+        "ELISION": 165,
+        "GLOTTAL_STOP": 163,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-030.acoustic.json",
+      "duration_sec": 5.06,
+      "processed_at": "2026-10-24T18:04:39.601483+00:00"
+    },
+    "slow-english-ep-028": {
+      "episodeNumber": 28,
+      "status": "COMPLETED",
+      "sentence_count": 122,
+      "phenomena_counts": {
+        "REDUCTION": 209,
+        "LINKING": 198,
+        "ELISION": 334,
+        "GLOTTAL_STOP": 333,
+        "ASSIMILATION": 26
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-028.acoustic.json",
+      "duration_sec": 7.63,
+      "processed_at": "2026-10-24T18:04:40.739278+00:00"
+    },
+    "slow-english-ep-029": {
+      "episodeNumber": 29,
+      "status": "COMPLETED",
+      "sentence_count": 119,
+      "phenomena_counts": {
+        "REDUCTION": 140,
+        "LINKING": 154,
+        "ELISION": 318,
+        "GLOTTAL_STOP": 305,
+        "ASSIMILATION": 39
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-029.acoustic.json",
+      "duration_sec": 6.9,
+      "processed_at": "2026-10-24T18:04:41.087379+00:00"
+    },
+    "slow-english-ep-031": {
+      "episodeNumber": 31,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 141,
+        "LINKING": 120,
+        "ELISION": 182,
+        "GLOTTAL_STOP": 250,
+        "ASSIMILATION": 17
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-031.acoustic.json",
+      "duration_sec": 4.87,
+      "processed_at": "2026-10-24T18:04:42.568856+00:00"
+    },
+    "slow-english-ep-032": {
+      "episodeNumber": 32,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 66,
+        "ELISION": 132,
+        "GLOTTAL_STOP": 110,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-032.acoustic.json",
+      "duration_sec": 3.12,
+      "processed_at": "2026-10-24T18:04:42.723318+00:00"
+    },
+    "slow-english-ep-033": {
+      "episodeNumber": 33,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 43,
+        "LINKING": 59,
+        "ELISION": 116,
+        "GLOTTAL_STOP": 112,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-033.acoustic.json",
+      "duration_sec": 3.39,
+      "processed_at": "2026-10-24T18:04:44.131285+00:00"
+    },
+    "slow-english-ep-034": {
+      "episodeNumber": 34,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 50,
+        "LINKING": 58,
+        "ELISION": 109,
+        "GLOTTAL_STOP": 121,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-034.acoustic.json",
+      "duration_sec": 3.36,
+      "processed_at": "2026-10-24T18:04:44.456293+00:00"
+    },
+    "slow-english-ep-036": {
+      "episodeNumber": 36,
+      "status": "COMPLETED",
+      "sentence_count": 78,
+      "phenomena_counts": {
+        "REDUCTION": 149,
+        "LINKING": 111,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 241,
+        "ASSIMILATION": 14
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-036.acoustic.json",
+      "duration_sec": 4.49,
+      "processed_at": "2026-10-24T18:04:47.222357+00:00"
+    },
+    "slow-english-ep-035": {
+      "episodeNumber": 35,
+      "status": "COMPLETED",
+      "sentence_count": 108,
+      "phenomena_counts": {
+        "REDUCTION": 178,
+        "LINKING": 139,
+        "ELISION": 240,
+        "GLOTTAL_STOP": 300,
+        "ASSIMILATION": 28
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-035.acoustic.json",
+      "duration_sec": 5.17,
+      "processed_at": "2026-10-24T18:04:47.740880+00:00"
+    },
+    "slow-english-ep-037": {
+      "episodeNumber": 37,
+      "status": "COMPLETED",
+      "sentence_count": 93,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 103,
+        "ELISION": 188,
+        "GLOTTAL_STOP": 201,
+        "ASSIMILATION": 25
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-037.acoustic.json",
+      "duration_sec": 3.9,
+      "processed_at": "2026-10-24T18:04:48.037431+00:00"
+    },
+    "slow-english-ep-038": {
+      "episodeNumber": 38,
+      "status": "COMPLETED",
+      "sentence_count": 102,
+      "phenomena_counts": {
+        "REDUCTION": 157,
+        "LINKING": 143,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 226,
+        "ASSIMILATION": 13
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-038.acoustic.json",
+      "duration_sec": 4.1,
+      "processed_at": "2026-10-24T18:04:48.561096+00:00"
+    },
+    "slow-english-ep-039": {
+      "episodeNumber": 39,
+      "status": "COMPLETED",
+      "sentence_count": 109,
+      "phenomena_counts": {
+        "REDUCTION": 168,
+        "LINKING": 163,
+        "ELISION": 184,
+        "GLOTTAL_STOP": 216,
+        "ASSIMILATION": 13
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-039.acoustic.json",
+      "duration_sec": 4.85,
+      "processed_at": "2026-10-24T18:04:52.073905+00:00"
+    },
+    "slow-english-ep-040": {
+      "episodeNumber": 40,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 199,
+        "LINKING": 188,
+        "ELISION": 234,
+        "GLOTTAL_STOP": 283,
+        "ASSIMILATION": 20
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-040.acoustic.json",
+      "duration_sec": 5.66,
+      "processed_at": "2026-10-24T18:04:53.410901+00:00"
+    },
+    "slow-english-ep-041": {
+      "episodeNumber": 41,
+      "status": "COMPLETED",
+      "sentence_count": 104,
+      "phenomena_counts": {
+        "REDUCTION": 195,
+        "LINKING": 160,
+        "ELISION": 301,
+        "GLOTTAL_STOP": 232,
+        "ASSIMILATION": 21
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-041.acoustic.json",
+      "duration_sec": 5.46,
+      "processed_at": "2026-10-24T18:04:53.505139+00:00"
+    },
+    "slow-english-ep-042": {
+      "episodeNumber": 42,
+      "status": "COMPLETED",
+      "sentence_count": 118,
+      "phenomena_counts": {
+        "REDUCTION": 196,
+        "LINKING": 128,
+        "ELISION": 206,
+        "GLOTTAL_STOP": 288,
+        "ASSIMILATION": 12
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-042.acoustic.json",
+      "duration_sec": 5.03,
+      "processed_at": "2026-10-24T18:04:53.594776+00:00"
+    },
+    "slow-english-ep-043": {
+      "episodeNumber": 43,
+      "status": "COMPLETED",
+      "sentence_count": 120,
+      "phenomena_counts": {
+        "REDUCTION": 146,
+        "LINKING": 134,
+        "ELISION": 213,
+        "GLOTTAL_STOP": 212,
+        "ASSIMILATION": 28
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-043.acoustic.json",
+      "duration_sec": 5.43,
+      "processed_at": "2026-10-24T18:04:57.508507+00:00"
+    },
+    "slow-english-ep-046": {
+      "episodeNumber": 46,
+      "status": "COMPLETED",
+      "sentence_count": 98,
+      "phenomena_counts": {
+        "REDUCTION": 155,
+        "LINKING": 156,
+        "ELISION": 174,
+        "GLOTTAL_STOP": 151,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-046.acoustic.json",
+      "duration_sec": 4.8,
+      "processed_at": "2026-10-24T18:04:58.395498+00:00"
+    },
+    "slow-english-ep-045": {
+      "episodeNumber": 45,
+      "status": "COMPLETED",
+      "sentence_count": 135,
+      "phenomena_counts": {
+        "REDUCTION": 185,
+        "LINKING": 156,
+        "ELISION": 240,
+        "GLOTTAL_STOP": 276,
+        "ASSIMILATION": 21
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-045.acoustic.json",
+      "duration_sec": 5.41,
+      "processed_at": "2026-10-24T18:04:58.935016+00:00"
+    },
+    "slow-english-ep-044": {
+      "episodeNumber": 44,
+      "status": "COMPLETED",
+      "sentence_count": 148,
+      "phenomena_counts": {
+        "REDUCTION": 175,
+        "LINKING": 164,
+        "ELISION": 323,
+        "GLOTTAL_STOP": 317,
+        "ASSIMILATION": 47
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-044.acoustic.json",
+      "duration_sec": 6.42,
+      "processed_at": "2026-10-24T18:04:59.841405+00:00"
+    },
+    "slow-english-ep-048": {
+      "episodeNumber": 48,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 115,
+        "ELISION": 112,
+        "GLOTTAL_STOP": 107,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-048.acoustic.json",
+      "duration_sec": 3.02,
+      "processed_at": "2026-10-24T18:05:01.415568+00:00"
+    },
+    "slow-english-ep-047": {
+      "episodeNumber": 47,
+      "status": "COMPLETED",
+      "sentence_count": 98,
+      "phenomena_counts": {
+        "REDUCTION": 134,
+        "LINKING": 124,
+        "ELISION": 143,
+        "GLOTTAL_STOP": 126,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-047.acoustic.json",
+      "duration_sec": 4.27,
+      "processed_at": "2026-10-24T18:05:01.782250+00:00"
+    },
+    "slow-english-ep-049": {
+      "episodeNumber": 49,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 122,
+        "LINKING": 141,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-049.acoustic.json",
+      "duration_sec": 4.17,
+      "processed_at": "2026-10-24T18:05:03.114292+00:00"
+    },
+    "slow-english-ep-050": {
+      "episodeNumber": 50,
+      "status": "COMPLETED",
+      "sentence_count": 86,
+      "phenomena_counts": {
+        "REDUCTION": 155,
+        "LINKING": 153,
+        "ELISION": 210,
+        "GLOTTAL_STOP": 179,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-050.acoustic.json",
+      "duration_sec": 4.4,
+      "processed_at": "2026-10-24T18:05:04.251862+00:00"
+    },
+    "slow-english-ep-052": {
+      "episodeNumber": 52,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 123,
+        "LINKING": 182,
+        "ELISION": 213,
+        "GLOTTAL_STOP": 195,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-052.acoustic.json",
+      "duration_sec": 4.37,
+      "processed_at": "2026-10-24T18:05:06.154922+00:00"
+    },
+    "slow-english-ep-051": {
+      "episodeNumber": 51,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 146,
+        "LINKING": 186,
+        "ELISION": 220,
+        "GLOTTAL_STOP": 247,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-051.acoustic.json",
+      "duration_sec": 5.2,
+      "processed_at": "2026-10-24T18:05:06.624514+00:00"
+    },
+    "slow-english-ep-054": {
+      "episodeNumber": 54,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 154,
+        "LINKING": 142,
+        "ELISION": 209,
+        "GLOTTAL_STOP": 193,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-054.acoustic.json",
+      "duration_sec": 4.46,
+      "processed_at": "2026-10-24T18:05:08.717716+00:00"
+    },
+    "slow-english-ep-053": {
+      "episodeNumber": 53,
+      "status": "COMPLETED",
+      "sentence_count": 81,
+      "phenomena_counts": {
+        "REDUCTION": 178,
+        "LINKING": 194,
+        "ELISION": 287,
+        "GLOTTAL_STOP": 280,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-053.acoustic.json",
+      "duration_sec": 6.02,
+      "processed_at": "2026-10-24T18:05:09.142430+00:00"
+    },
+    "slow-english-ep-055": {
+      "episodeNumber": 55,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 127,
+        "LINKING": 123,
+        "ELISION": 179,
+        "GLOTTAL_STOP": 139,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-055.acoustic.json",
+      "duration_sec": 4.24,
+      "processed_at": "2026-10-24T18:05:10.406617+00:00"
+    },
+    "slow-english-ep-056": {
+      "episodeNumber": 56,
+      "status": "COMPLETED",
+      "sentence_count": 53,
+      "phenomena_counts": {
+        "REDUCTION": 110,
+        "LINKING": 107,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 149,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-056.acoustic.json",
+      "duration_sec": 3.85,
+      "processed_at": "2026-10-24T18:05:10.478731+00:00"
+    },
+    "slow-english-ep-058": {
+      "episodeNumber": 58,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 138,
+        "ELISION": 160,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-058.acoustic.json",
+      "duration_sec": 3.59,
+      "processed_at": "2026-10-24T18:05:12.737955+00:00"
+    },
+    "slow-english-ep-057": {
+      "episodeNumber": 57,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 160,
+        "LINKING": 203,
+        "ELISION": 255,
+        "GLOTTAL_STOP": 246,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-057.acoustic.json",
+      "duration_sec": 5.91,
+      "processed_at": "2026-10-24T18:05:14.640446+00:00"
+    },
+    "slow-english-ep-059": {
+      "episodeNumber": 59,
+      "status": "COMPLETED",
+      "sentence_count": 100,
+      "phenomena_counts": {
+        "REDUCTION": 127,
+        "LINKING": 193,
+        "ELISION": 245,
+        "GLOTTAL_STOP": 207,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-059.acoustic.json",
+      "duration_sec": 4.73,
+      "processed_at": "2026-10-24T18:05:15.139284+00:00"
+    },
+    "slow-english-ep-060": {
+      "episodeNumber": 60,
+      "status": "COMPLETED",
+      "sentence_count": 88,
+      "phenomena_counts": {
+        "REDUCTION": 136,
+        "LINKING": 209,
+        "ELISION": 215,
+        "GLOTTAL_STOP": 197,
+        "ASSIMILATION": 10
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-060.acoustic.json",
+      "duration_sec": 4.7,
+      "processed_at": "2026-10-24T18:05:15.191413+00:00"
+    },
+    "slow-english-ep-061": {
+      "episodeNumber": 61,
+      "status": "COMPLETED",
+      "sentence_count": 119,
+      "phenomena_counts": {
+        "REDUCTION": 215,
+        "LINKING": 252,
+        "ELISION": 261,
+        "GLOTTAL_STOP": 255,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-061.acoustic.json",
+      "duration_sec": 5.94,
+      "processed_at": "2026-10-24T18:05:18.687108+00:00"
+    },
+    "slow-english-ep-064": {
+      "episodeNumber": 64,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 100,
+        "LINKING": 138,
+        "ELISION": 197,
+        "GLOTTAL_STOP": 194,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-064.acoustic.json",
+      "duration_sec": 3.84,
+      "processed_at": "2026-10-24T18:05:19.035778+00:00"
+    },
+    "slow-english-ep-063": {
+      "episodeNumber": 63,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 144,
+        "LINKING": 168,
+        "ELISION": 225,
+        "GLOTTAL_STOP": 229,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-063.acoustic.json",
+      "duration_sec": 5.34,
+      "processed_at": "2026-10-24T18:05:20.486596+00:00"
+    },
+    "slow-english-ep-062": {
+      "episodeNumber": 62,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 162,
+        "LINKING": 186,
+        "ELISION": 277,
+        "GLOTTAL_STOP": 251,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-062.acoustic.json",
+      "duration_sec": 6.24,
+      "processed_at": "2026-10-24T18:05:20.888455+00:00"
+    },
+    "slow-english-ep-066": {
+      "episodeNumber": 66,
+      "status": "COMPLETED",
+      "sentence_count": 99,
+      "phenomena_counts": {
+        "REDUCTION": 99,
+        "LINKING": 127,
+        "ELISION": 160,
+        "GLOTTAL_STOP": 144,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-066.acoustic.json",
+      "duration_sec": 4.64,
+      "processed_at": "2026-10-24T18:05:23.681924+00:00"
+    },
+    "slow-english-ep-065": {
+      "episodeNumber": 65,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 155,
+        "LINKING": 246,
+        "ELISION": 257,
+        "GLOTTAL_STOP": 274,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-065.acoustic.json",
+      "duration_sec": 6.31,
+      "processed_at": "2026-10-24T18:05:25.002859+00:00"
+    },
+    "slow-english-ep-067": {
+      "episodeNumber": 67,
+      "status": "COMPLETED",
+      "sentence_count": 81,
+      "phenomena_counts": {
+        "REDUCTION": 90,
+        "LINKING": 159,
+        "ELISION": 240,
+        "GLOTTAL_STOP": 200,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-067.acoustic.json",
+      "duration_sec": 5.88,
+      "processed_at": "2026-10-24T18:05:26.379502+00:00"
+    },
+    "slow-english-ep-068": {
+      "episodeNumber": 68,
+      "status": "COMPLETED",
+      "sentence_count": 106,
+      "phenomena_counts": {
+        "REDUCTION": 118,
+        "LINKING": 168,
+        "ELISION": 259,
+        "GLOTTAL_STOP": 214,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-068.acoustic.json",
+      "duration_sec": 6.05,
+      "processed_at": "2026-10-24T18:05:26.942119+00:00"
+    },
+    "slow-english-ep-069": {
+      "episodeNumber": 69,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 125,
+        "ELISION": 213,
+        "GLOTTAL_STOP": 141,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-069.acoustic.json",
+      "duration_sec": 4.17,
+      "processed_at": "2026-10-24T18:05:27.861626+00:00"
+    },
+    "slow-english-ep-071": {
+      "episodeNumber": 71,
+      "status": "COMPLETED",
+      "sentence_count": 94,
+      "phenomena_counts": {
+        "REDUCTION": 86,
+        "LINKING": 144,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-071.acoustic.json",
+      "duration_sec": 3.84,
+      "processed_at": "2026-10-24T18:05:30.227635+00:00"
+    },
+    "slow-english-ep-070": {
+      "episodeNumber": 70,
+      "status": "COMPLETED",
+      "sentence_count": 99,
+      "phenomena_counts": {
+        "REDUCTION": 105,
+        "LINKING": 139,
+        "ELISION": 228,
+        "GLOTTAL_STOP": 176,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-070.acoustic.json",
+      "duration_sec": 5.58,
+      "processed_at": "2026-10-24T18:05:30.592487+00:00"
+    },
+    "slow-english-ep-072": {
+      "episodeNumber": 72,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 123,
+        "ELISION": 145,
+        "GLOTTAL_STOP": 125,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-072.acoustic.json",
+      "duration_sec": 3.66,
+      "processed_at": "2026-10-24T18:05:30.606220+00:00"
+    },
+    "slow-english-ep-073": {
+      "episodeNumber": 73,
+      "status": "COMPLETED",
+      "sentence_count": 91,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 131,
+        "ELISION": 205,
+        "GLOTTAL_STOP": 173,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-073.acoustic.json",
+      "duration_sec": 4.39,
+      "processed_at": "2026-10-24T18:05:32.253782+00:00"
+    },
+    "slow-english-ep-074": {
+      "episodeNumber": 74,
+      "status": "COMPLETED",
+      "sentence_count": 93,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 122,
+        "ELISION": 228,
+        "GLOTTAL_STOP": 148,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-074.acoustic.json",
+      "duration_sec": 4.28,
+      "processed_at": "2026-10-24T18:05:34.510084+00:00"
+    },
+    "slow-english-ep-075": {
+      "episodeNumber": 75,
+      "status": "COMPLETED",
+      "sentence_count": 91,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 165,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 124,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-075.acoustic.json",
+      "duration_sec": 4.2,
+      "processed_at": "2026-10-24T18:05:34.802389+00:00"
+    },
+    "slow-english-ep-076": {
+      "episodeNumber": 76,
+      "status": "COMPLETED",
+      "sentence_count": 87,
+      "phenomena_counts": {
+        "REDUCTION": 88,
+        "LINKING": 140,
+        "ELISION": 261,
+        "GLOTTAL_STOP": 177,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-076.acoustic.json",
+      "duration_sec": 5.67,
+      "processed_at": "2026-10-24T18:05:36.287537+00:00"
+    },
+    "slow-english-ep-077": {
+      "episodeNumber": 77,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 124,
+        "LINKING": 115,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 139,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-077.acoustic.json",
+      "duration_sec": 4.07,
+      "processed_at": "2026-10-24T18:05:36.325398+00:00"
+    },
+    "slow-english-ep-078": {
+      "episodeNumber": 78,
+      "status": "COMPLETED",
+      "sentence_count": 88,
+      "phenomena_counts": {
+        "REDUCTION": 114,
+        "LINKING": 157,
+        "ELISION": 140,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-078.acoustic.json",
+      "duration_sec": 4.31,
+      "processed_at": "2026-10-24T18:05:38.828354+00:00"
+    },
+    "slow-english-ep-079": {
+      "episodeNumber": 79,
+      "status": "COMPLETED",
+      "sentence_count": 90,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 174,
+        "ELISION": 160,
+        "GLOTTAL_STOP": 181,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-079.acoustic.json",
+      "duration_sec": 4.16,
+      "processed_at": "2026-10-24T18:05:38.967801+00:00"
+    },
+    "slow-english-ep-081": {
+      "episodeNumber": 81,
+      "status": "COMPLETED",
+      "sentence_count": 87,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 135,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 126,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-081.acoustic.json",
+      "duration_sec": 3.96,
+      "processed_at": "2026-10-24T18:05:40.297361+00:00"
+    },
+    "slow-english-ep-080": {
+      "episodeNumber": 80,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 106,
+        "LINKING": 157,
+        "ELISION": 194,
+        "GLOTTAL_STOP": 160,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-080.acoustic.json",
+      "duration_sec": 4.16,
+      "processed_at": "2026-10-24T18:05:40.449287+00:00"
+    },
+    "slow-english-ep-082": {
+      "episodeNumber": 82,
+      "status": "COMPLETED",
+      "sentence_count": 95,
+      "phenomena_counts": {
+        "REDUCTION": 81,
+        "LINKING": 151,
+        "ELISION": 156,
+        "GLOTTAL_STOP": 121,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-082.acoustic.json",
+      "duration_sec": 4.23,
+      "processed_at": "2026-10-24T18:05:43.065334+00:00"
+    },
+    "slow-english-ep-083": {
+      "episodeNumber": 83,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 105,
+        "LINKING": 104,
+        "ELISION": 162,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-083.acoustic.json",
+      "duration_sec": 4.13,
+      "processed_at": "2026-10-24T18:05:43.106728+00:00"
+    },
+    "slow-english-ep-084": {
+      "episodeNumber": 84,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 69,
+        "LINKING": 137,
+        "ELISION": 175,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-084.acoustic.json",
+      "duration_sec": 4.16,
+      "processed_at": "2026-10-24T18:05:44.463037+00:00"
+    },
+    "slow-english-ep-085": {
+      "episodeNumber": 85,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 66,
+        "LINKING": 144,
+        "ELISION": 183,
+        "GLOTTAL_STOP": 137,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-085.acoustic.json",
+      "duration_sec": 4.28,
+      "processed_at": "2026-10-24T18:05:44.735066+00:00"
+    },
+    "slow-english-ep-086": {
+      "episodeNumber": 86,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 142,
+        "ELISION": 175,
+        "GLOTTAL_STOP": 155,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-086.acoustic.json",
+      "duration_sec": 4.59,
+      "processed_at": "2026-10-24T18:05:47.658480+00:00"
+    },
+    "slow-english-ep-087": {
+      "episodeNumber": 87,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 144,
+        "ELISION": 211,
+        "GLOTTAL_STOP": 154,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-087.acoustic.json",
+      "duration_sec": 4.63,
+      "processed_at": "2026-10-24T18:05:47.737498+00:00"
+    },
+    "slow-english-ep-088": {
+      "episodeNumber": 88,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 112,
+        "LINKING": 133,
+        "ELISION": 222,
+        "GLOTTAL_STOP": 148,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-088.acoustic.json",
+      "duration_sec": 4.25,
+      "processed_at": "2026-10-24T18:05:48.717887+00:00"
+    },
+    "slow-english-ep-089": {
+      "episodeNumber": 89,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 144,
+        "ELISION": 177,
+        "GLOTTAL_STOP": 166,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-089.acoustic.json",
+      "duration_sec": 4.27,
+      "processed_at": "2026-10-24T18:05:49.014501+00:00"
+    },
+    "slow-english-ep-090": {
+      "episodeNumber": 90,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 144,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-090.acoustic.json",
+      "duration_sec": 4.04,
+      "processed_at": "2026-10-24T18:05:51.701595+00:00"
+    },
+    "slow-english-ep-091": {
+      "episodeNumber": 91,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 166,
+        "ELISION": 189,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-091.acoustic.json",
+      "duration_sec": 4.09,
+      "processed_at": "2026-10-24T18:05:51.836743+00:00"
+    },
+    "slow-english-ep-092": {
+      "episodeNumber": 92,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 123,
+        "ELISION": 180,
+        "GLOTTAL_STOP": 167,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-092.acoustic.json",
+      "duration_sec": 4.17,
+      "processed_at": "2026-10-24T18:05:52.890081+00:00"
+    },
+    "slow-english-ep-093": {
+      "episodeNumber": 93,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 110,
+        "ELISION": 195,
+        "GLOTTAL_STOP": 144,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-093.acoustic.json",
+      "duration_sec": 4.28,
+      "processed_at": "2026-10-24T18:05:53.297507+00:00"
+    },
+    "slow-english-ep-094": {
+      "episodeNumber": 94,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 124,
+        "ELISION": 149,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-094.acoustic.json",
+      "duration_sec": 4.4,
+      "processed_at": "2026-10-24T18:05:56.106853+00:00"
+    },
+    "slow-english-ep-095": {
+      "episodeNumber": 95,
+      "status": "COMPLETED",
+      "sentence_count": 86,
+      "phenomena_counts": {
+        "REDUCTION": 105,
+        "LINKING": 128,
+        "ELISION": 200,
+        "GLOTTAL_STOP": 141,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-095.acoustic.json",
+      "duration_sec": 4.5,
+      "processed_at": "2026-10-24T18:05:56.342385+00:00"
+    },
+    "slow-english-ep-097": {
+      "episodeNumber": 97,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 86,
+        "LINKING": 106,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-097.acoustic.json",
+      "duration_sec": 3.95,
+      "processed_at": "2026-10-24T18:05:57.257078+00:00"
+    },
+    "slow-english-ep-096": {
+      "episodeNumber": 96,
+      "status": "COMPLETED",
+      "sentence_count": 78,
+      "phenomena_counts": {
+        "REDUCTION": 88,
+        "LINKING": 145,
+        "ELISION": 238,
+        "GLOTTAL_STOP": 161,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-096.acoustic.json",
+      "duration_sec": 4.8,
+      "processed_at": "2026-10-24T18:05:57.698266+00:00"
+    },
+    "slow-english-ep-098": {
+      "episodeNumber": 98,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 130,
+        "ELISION": 172,
+        "GLOTTAL_STOP": 155,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-098.acoustic.json",
+      "duration_sec": 4.33,
+      "processed_at": "2026-10-24T18:06:00.444754+00:00"
+    },
+    "slow-english-ep-099": {
+      "episodeNumber": 99,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 79,
+        "LINKING": 138,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 132,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-099.acoustic.json",
+      "duration_sec": 4.25,
+      "processed_at": "2026-10-24T18:06:00.595002+00:00"
+    },
+    "slow-english-ep-100": {
+      "episodeNumber": 100,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 122,
+        "ELISION": 196,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-100.acoustic.json",
+      "duration_sec": 4.01,
+      "processed_at": "2026-10-24T18:06:01.275545+00:00"
+    },
+    "slow-english-ep-101": {
+      "episodeNumber": 101,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 53,
+        "LINKING": 134,
+        "ELISION": 189,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-101.acoustic.json",
+      "duration_sec": 4.03,
+      "processed_at": "2026-10-24T18:06:01.733519+00:00"
+    },
+    "slow-english-ep-102": {
+      "episodeNumber": 102,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 76,
+        "LINKING": 131,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-102.acoustic.json",
+      "duration_sec": 4.2,
+      "processed_at": "2026-10-24T18:06:04.650025+00:00"
+    },
+    "slow-english-ep-103": {
+      "episodeNumber": 103,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 127,
+        "ELISION": 198,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 9
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-103.acoustic.json",
+      "duration_sec": 4.26,
+      "processed_at": "2026-10-24T18:06:04.855641+00:00"
+    },
+    "slow-english-ep-104": {
+      "episodeNumber": 104,
+      "status": "COMPLETED",
+      "sentence_count": 90,
+      "phenomena_counts": {
+        "REDUCTION": 88,
+        "LINKING": 124,
+        "ELISION": 160,
+        "GLOTTAL_STOP": 115,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-104.acoustic.json",
+      "duration_sec": 4.19,
+      "processed_at": "2026-10-24T18:06:05.475407+00:00"
+    },
+    "slow-english-ep-105": {
+      "episodeNumber": 105,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 107,
+        "ELISION": 201,
+        "GLOTTAL_STOP": 159,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-105.acoustic.json",
+      "duration_sec": 4.11,
+      "processed_at": "2026-10-24T18:06:05.852350+00:00"
+    },
+    "slow-english-ep-106": {
+      "episodeNumber": 106,
+      "status": "COMPLETED",
+      "sentence_count": 78,
+      "phenomena_counts": {
+        "REDUCTION": 90,
+        "LINKING": 129,
+        "ELISION": 183,
+        "GLOTTAL_STOP": 182,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-106.acoustic.json",
+      "duration_sec": 4.22,
+      "processed_at": "2026-10-24T18:06:08.875008+00:00"
+    },
+    "slow-english-ep-107": {
+      "episodeNumber": 107,
+      "status": "COMPLETED",
+      "sentence_count": 88,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 138,
+        "ELISION": 191,
+        "GLOTTAL_STOP": 155,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-107.acoustic.json",
+      "duration_sec": 4.42,
+      "processed_at": "2026-10-24T18:06:09.279603+00:00"
+    },
+    "slow-english-ep-109": {
+      "episodeNumber": 109,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 146,
+        "ELISION": 214,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-109.acoustic.json",
+      "duration_sec": 4.47,
+      "processed_at": "2026-10-24T18:06:10.324848+00:00"
+    },
+    "slow-english-ep-108": {
+      "episodeNumber": 108,
+      "status": "COMPLETED",
+      "sentence_count": 93,
+      "phenomena_counts": {
+        "REDUCTION": 107,
+        "LINKING": 151,
+        "ELISION": 232,
+        "GLOTTAL_STOP": 177,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-108.acoustic.json",
+      "duration_sec": 5.25,
+      "processed_at": "2026-10-24T18:06:10.730114+00:00"
+    },
+    "slow-english-ep-110": {
+      "episodeNumber": 110,
+      "status": "COMPLETED",
+      "sentence_count": 92,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 148,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 156,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-110.acoustic.json",
+      "duration_sec": 4.6,
+      "processed_at": "2026-10-24T18:06:13.482053+00:00"
+    },
+    "slow-english-ep-111": {
+      "episodeNumber": 111,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 90,
+        "LINKING": 174,
+        "ELISION": 198,
+        "GLOTTAL_STOP": 156,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-111.acoustic.json",
+      "duration_sec": 4.28,
+      "processed_at": "2026-10-24T18:06:13.560396+00:00"
+    },
+    "slow-english-ep-112": {
+      "episodeNumber": 112,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 123,
+        "LINKING": 138,
+        "ELISION": 197,
+        "GLOTTAL_STOP": 161,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-112.acoustic.json",
+      "duration_sec": 4.5,
+      "processed_at": "2026-10-24T18:06:14.841681+00:00"
+    },
+    "slow-english-ep-113": {
+      "episodeNumber": 113,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 138,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 152,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-113.acoustic.json",
+      "duration_sec": 4.21,
+      "processed_at": "2026-10-24T18:06:14.951847+00:00"
+    },
+    "slow-english-ep-114": {
+      "episodeNumber": 114,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 138,
+        "ELISION": 189,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 24
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-114.acoustic.json",
+      "duration_sec": 4.46,
+      "processed_at": "2026-10-24T18:06:17.944138+00:00"
+    },
+    "slow-english-ep-115": {
+      "episodeNumber": 115,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 135,
+        "ELISION": 235,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-115.acoustic.json",
+      "duration_sec": 4.38,
+      "processed_at": "2026-10-24T18:06:17.947801+00:00"
+    },
+    "slow-english-ep-117": {
+      "episodeNumber": 117,
+      "status": "COMPLETED",
+      "sentence_count": 78,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 117,
+        "ELISION": 222,
+        "GLOTTAL_STOP": 182,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-117.acoustic.json",
+      "duration_sec": 4.2,
+      "processed_at": "2026-10-24T18:06:19.159753+00:00"
+    },
+    "slow-english-ep-116": {
+      "episodeNumber": 116,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 154,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 28
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-116.acoustic.json",
+      "duration_sec": 4.32,
+      "processed_at": "2026-10-24T18:06:19.172442+00:00"
+    },
+    "slow-english-ep-119": {
+      "episodeNumber": 119,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 99,
+        "LINKING": 134,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-119.acoustic.json",
+      "duration_sec": 4.11,
+      "processed_at": "2026-10-24T18:06:22.066094+00:00"
+    },
+    "slow-english-ep-118": {
+      "episodeNumber": 118,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 114,
+        "LINKING": 147,
+        "ELISION": 202,
+        "GLOTTAL_STOP": 146,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-118.acoustic.json",
+      "duration_sec": 4.36,
+      "processed_at": "2026-10-24T18:06:22.307002+00:00"
+    },
+    "slow-english-ep-121": {
+      "episodeNumber": 121,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 126,
+        "ELISION": 198,
+        "GLOTTAL_STOP": 151,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-121.acoustic.json",
+      "duration_sec": 3.89,
+      "processed_at": "2026-10-24T18:06:23.066712+00:00"
+    },
+    "slow-english-ep-120": {
+      "episodeNumber": 120,
+      "status": "COMPLETED",
+      "sentence_count": 75,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 149,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 144,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-120.acoustic.json",
+      "duration_sec": 4.32,
+      "processed_at": "2026-10-24T18:06:23.491956+00:00"
+    },
+    "slow-english-ep-122": {
+      "episodeNumber": 122,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 139,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-122.acoustic.json",
+      "duration_sec": 4.04,
+      "processed_at": "2026-10-24T18:06:26.114850+00:00"
+    },
+    "slow-english-ep-123": {
+      "episodeNumber": 123,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 119,
+        "ELISION": 158,
+        "GLOTTAL_STOP": 122,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-123.acoustic.json",
+      "duration_sec": 3.93,
+      "processed_at": "2026-10-24T18:06:26.237580+00:00"
+    },
+    "slow-english-ep-124": {
+      "episodeNumber": 124,
+      "status": "COMPLETED",
+      "sentence_count": 59,
+      "phenomena_counts": {
+        "REDUCTION": 69,
+        "LINKING": 117,
+        "ELISION": 218,
+        "GLOTTAL_STOP": 151,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-124.acoustic.json",
+      "duration_sec": 4.01,
+      "processed_at": "2026-10-24T18:06:27.082726+00:00"
+    },
+    "slow-english-ep-125": {
+      "episodeNumber": 125,
+      "status": "COMPLETED",
+      "sentence_count": 87,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 110,
+        "ELISION": 179,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-125.acoustic.json",
+      "duration_sec": 4.02,
+      "processed_at": "2026-10-24T18:06:27.524145+00:00"
+    },
+    "slow-english-ep-127": {
+      "episodeNumber": 127,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 117,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 182,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-127.acoustic.json",
+      "duration_sec": 4.12,
+      "processed_at": "2026-10-24T18:06:30.360422+00:00"
+    },
+    "slow-english-ep-126": {
+      "episodeNumber": 126,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 156,
+        "ELISION": 161,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-126.acoustic.json",
+      "duration_sec": 4.38,
+      "processed_at": "2026-10-24T18:06:30.497176+00:00"
+    },
+    "slow-english-ep-128": {
+      "episodeNumber": 128,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 111,
+        "ELISION": 171,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-128.acoustic.json",
+      "duration_sec": 3.92,
+      "processed_at": "2026-10-24T18:06:31.006382+00:00"
+    },
+    "slow-english-ep-129": {
+      "episodeNumber": 129,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 99,
+        "ELISION": 169,
+        "GLOTTAL_STOP": 132,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-129.acoustic.json",
+      "duration_sec": 4.06,
+      "processed_at": "2026-10-24T18:06:31.592789+00:00"
+    },
+    "slow-english-ep-131": {
+      "episodeNumber": 131,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 69,
+        "LINKING": 84,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 132,
+        "ASSIMILATION": 22
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-131.acoustic.json",
+      "duration_sec": 3.66,
+      "processed_at": "2026-10-24T18:06:34.163358+00:00"
+    },
+    "slow-english-ep-130": {
+      "episodeNumber": 130,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 160,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-130.acoustic.json",
+      "duration_sec": 3.96,
+      "processed_at": "2026-10-24T18:06:34.322204+00:00"
+    },
+    "slow-english-ep-132": {
+      "episodeNumber": 132,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 111,
+        "ELISION": 175,
+        "GLOTTAL_STOP": 139,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-132.acoustic.json",
+      "duration_sec": 4.03,
+      "processed_at": "2026-10-24T18:06:35.040316+00:00"
+    },
+    "slow-english-ep-133": {
+      "episodeNumber": 133,
+      "status": "COMPLETED",
+      "sentence_count": 67,
+      "phenomena_counts": {
+        "REDUCTION": 86,
+        "LINKING": 123,
+        "ELISION": 169,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-133.acoustic.json",
+      "duration_sec": 4.2,
+      "processed_at": "2026-10-24T18:06:35.802679+00:00"
+    },
+    "slow-english-ep-134": {
+      "episodeNumber": 134,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 114,
+        "ELISION": 199,
+        "GLOTTAL_STOP": 174,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-134.acoustic.json",
+      "duration_sec": 4.12,
+      "processed_at": "2026-10-24T18:06:38.287789+00:00"
+    },
+    "slow-english-ep-135": {
+      "episodeNumber": 135,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 79,
+        "LINKING": 119,
+        "ELISION": 194,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-135.acoustic.json",
+      "duration_sec": 4.22,
+      "processed_at": "2026-10-24T18:06:38.543477+00:00"
+    },
+    "slow-english-ep-136": {
+      "episodeNumber": 136,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 171,
+        "ELISION": 187,
+        "GLOTTAL_STOP": 186,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-136.acoustic.json",
+      "duration_sec": 4.33,
+      "processed_at": "2026-10-24T18:06:39.396524+00:00"
+    },
+    "slow-english-ep-137": {
+      "episodeNumber": 137,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 71,
+        "LINKING": 110,
+        "ELISION": 162,
+        "GLOTTAL_STOP": 132,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-137.acoustic.json",
+      "duration_sec": 3.99,
+      "processed_at": "2026-10-24T18:06:39.800156+00:00"
+    },
+    "slow-english-ep-138": {
+      "episodeNumber": 138,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 138,
+        "ELISION": 209,
+        "GLOTTAL_STOP": 152,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-138.acoustic.json",
+      "duration_sec": 4.05,
+      "processed_at": "2026-10-24T18:06:42.345587+00:00"
+    },
+    "slow-english-ep-139": {
+      "episodeNumber": 139,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 106,
+        "ELISION": 198,
+        "GLOTTAL_STOP": 168,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-139.acoustic.json",
+      "duration_sec": 4.06,
+      "processed_at": "2026-10-24T18:06:42.611175+00:00"
+    },
+    "slow-english-ep-140": {
+      "episodeNumber": 140,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 65,
+        "LINKING": 120,
+        "ELISION": 151,
+        "GLOTTAL_STOP": 155,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-140.acoustic.json",
+      "duration_sec": 3.7,
+      "processed_at": "2026-10-24T18:06:43.102225+00:00"
+    },
+    "slow-english-ep-141": {
+      "episodeNumber": 141,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 110,
+        "LINKING": 149,
+        "ELISION": 203,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-141.acoustic.json",
+      "duration_sec": 4.36,
+      "processed_at": "2026-10-24T18:06:44.168004+00:00"
+    },
+    "slow-english-ep-142": {
+      "episodeNumber": 142,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 115,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 126,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-142.acoustic.json",
+      "duration_sec": 3.76,
+      "processed_at": "2026-10-24T18:06:46.114206+00:00"
+    },
+    "slow-english-ep-143": {
+      "episodeNumber": 143,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 110,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-143.acoustic.json",
+      "duration_sec": 3.93,
+      "processed_at": "2026-10-24T18:06:46.550436+00:00"
+    },
+    "slow-english-ep-144": {
+      "episodeNumber": 144,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 88,
+        "LINKING": 90,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-144.acoustic.json",
+      "duration_sec": 3.61,
+      "processed_at": "2026-10-24T18:06:46.719495+00:00"
+    },
+    "slow-english-ep-145": {
+      "episodeNumber": 145,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 106,
+        "ELISION": 168,
+        "GLOTTAL_STOP": 128,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-145.acoustic.json",
+      "duration_sec": 3.87,
+      "processed_at": "2026-10-24T18:06:48.040582+00:00"
+    },
+    "slow-english-ep-146": {
+      "episodeNumber": 146,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 64,
+        "LINKING": 128,
+        "ELISION": 169,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-146.acoustic.json",
+      "duration_sec": 4.03,
+      "processed_at": "2026-10-24T18:06:50.153332+00:00"
+    },
+    "slow-english-ep-148": {
+      "episodeNumber": 148,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 132,
+        "ELISION": 214,
+        "GLOTTAL_STOP": 155,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-148.acoustic.json",
+      "duration_sec": 3.9,
+      "processed_at": "2026-10-24T18:06:50.625940+00:00"
+    },
+    "slow-english-ep-147": {
+      "episodeNumber": 147,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 120,
+        "ELISION": 193,
+        "GLOTTAL_STOP": 167,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-147.acoustic.json",
+      "duration_sec": 4.09,
+      "processed_at": "2026-10-24T18:06:50.644995+00:00"
+    },
+    "slow-english-ep-149": {
+      "episodeNumber": 149,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 118,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-149.acoustic.json",
+      "duration_sec": 3.73,
+      "processed_at": "2026-10-24T18:06:51.775817+00:00"
+    },
+    "slow-english-ep-150": {
+      "episodeNumber": 150,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 121,
+        "ELISION": 171,
+        "GLOTTAL_STOP": 146,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-150.acoustic.json",
+      "duration_sec": 3.95,
+      "processed_at": "2026-10-24T18:06:54.106759+00:00"
+    },
+    "slow-english-ep-151": {
+      "episodeNumber": 151,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 101,
+        "ELISION": 185,
+        "GLOTTAL_STOP": 141,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-151.acoustic.json",
+      "duration_sec": 3.74,
+      "processed_at": "2026-10-24T18:06:54.366421+00:00"
+    },
+    "slow-english-ep-152": {
+      "episodeNumber": 152,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 62,
+        "LINKING": 133,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-152.acoustic.json",
+      "duration_sec": 3.85,
+      "processed_at": "2026-10-24T18:06:54.496961+00:00"
+    },
+    "slow-english-ep-153": {
+      "episodeNumber": 153,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 90,
+        "LINKING": 135,
+        "ELISION": 157,
+        "GLOTTAL_STOP": 127,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-153.acoustic.json",
+      "duration_sec": 3.53,
+      "processed_at": "2026-10-24T18:06:55.316245+00:00"
+    },
+    "slow-english-ep-155": {
+      "episodeNumber": 155,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 94,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 133,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-155.acoustic.json",
+      "duration_sec": 3.79,
+      "processed_at": "2026-10-24T18:06:58.162703+00:00"
+    },
+    "slow-english-ep-154": {
+      "episodeNumber": 154,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 68,
+        "LINKING": 122,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 157,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-154.acoustic.json",
+      "duration_sec": 4.15,
+      "processed_at": "2026-10-24T18:06:58.261136+00:00"
+    },
+    "slow-english-ep-156": {
+      "episodeNumber": 156,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 118,
+        "ELISION": 169,
+        "GLOTTAL_STOP": 171,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-156.acoustic.json",
+      "duration_sec": 3.93,
+      "processed_at": "2026-10-24T18:06:58.432186+00:00"
+    },
+    "slow-english-ep-157": {
+      "episodeNumber": 157,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 103,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 106,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-157.acoustic.json",
+      "duration_sec": 3.45,
+      "processed_at": "2026-10-24T18:06:58.787885+00:00"
+    },
+    "slow-english-ep-158": {
+      "episodeNumber": 158,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 113,
+        "ELISION": 156,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-158.acoustic.json",
+      "duration_sec": 4.0,
+      "processed_at": "2026-10-24T18:07:02.170717+00:00"
+    },
+    "slow-english-ep-159": {
+      "episodeNumber": 159,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 66,
+        "LINKING": 116,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 115,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-159.acoustic.json",
+      "duration_sec": 4.07,
+      "processed_at": "2026-10-24T18:07:02.336407+00:00"
+    },
+    "slow-english-ep-160": {
+      "episodeNumber": 160,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 85,
+        "LINKING": 108,
+        "ELISION": 173,
+        "GLOTTAL_STOP": 181,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-160.acoustic.json",
+      "duration_sec": 4.11,
+      "processed_at": "2026-10-24T18:07:02.548200+00:00"
+    },
+    "slow-english-ep-161": {
+      "episodeNumber": 161,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 64,
+        "LINKING": 122,
+        "ELISION": 180,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-161.acoustic.json",
+      "duration_sec": 4.09,
+      "processed_at": "2026-10-24T18:07:02.886218+00:00"
+    },
+    "slow-english-ep-162": {
+      "episodeNumber": 162,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 114,
+        "ELISION": 190,
+        "GLOTTAL_STOP": 147,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-162.acoustic.json",
+      "duration_sec": 3.94,
+      "processed_at": "2026-10-24T18:07:06.115299+00:00"
+    },
+    "slow-english-ep-163": {
+      "episodeNumber": 163,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 112,
+        "ELISION": 177,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-163.acoustic.json",
+      "duration_sec": 3.79,
+      "processed_at": "2026-10-24T18:07:06.134045+00:00"
+    },
+    "slow-english-ep-164": {
+      "episodeNumber": 164,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 88,
+        "ELISION": 176,
+        "GLOTTAL_STOP": 131,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-164.acoustic.json",
+      "duration_sec": 4.05,
+      "processed_at": "2026-10-24T18:07:06.602727+00:00"
+    },
+    "slow-english-ep-165": {
+      "episodeNumber": 165,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 132,
+        "ELISION": 174,
+        "GLOTTAL_STOP": 133,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-165.acoustic.json",
+      "duration_sec": 3.92,
+      "processed_at": "2026-10-24T18:07:06.813679+00:00"
+    },
+    "slow-english-ep-167": {
+      "episodeNumber": 167,
+      "status": "COMPLETED",
+      "sentence_count": 59,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 119,
+        "ELISION": 194,
+        "GLOTTAL_STOP": 146,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-167.acoustic.json",
+      "duration_sec": 4.02,
+      "processed_at": "2026-10-24T18:07:10.155275+00:00"
+    },
+    "slow-english-ep-166": {
+      "episodeNumber": 166,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 119,
+        "ELISION": 195,
+        "GLOTTAL_STOP": 137,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-166.acoustic.json",
+      "duration_sec": 4.32,
+      "processed_at": "2026-10-24T18:07:10.443138+00:00"
+    },
+    "slow-english-ep-169": {
+      "episodeNumber": 169,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 127,
+        "ELISION": 183,
+        "GLOTTAL_STOP": 152,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-169.acoustic.json",
+      "duration_sec": 4.39,
+      "processed_at": "2026-10-24T18:07:11.212259+00:00"
+    },
+    "slow-english-ep-168": {
+      "episodeNumber": 168,
+      "status": "COMPLETED",
+      "sentence_count": 75,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 152,
+        "ELISION": 206,
+        "GLOTTAL_STOP": 185,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-168.acoustic.json",
+      "duration_sec": 4.67,
+      "processed_at": "2026-10-24T18:07:11.278692+00:00"
+    },
+    "slow-english-ep-171": {
+      "episodeNumber": 171,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 59,
+        "LINKING": 89,
+        "ELISION": 148,
+        "GLOTTAL_STOP": 120,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-171.acoustic.json",
+      "duration_sec": 3.49,
+      "processed_at": "2026-10-24T18:07:13.940691+00:00"
+    },
+    "slow-english-ep-170": {
+      "episodeNumber": 170,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 76,
+        "LINKING": 113,
+        "ELISION": 162,
+        "GLOTTAL_STOP": 142,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-170.acoustic.json",
+      "duration_sec": 3.95,
+      "processed_at": "2026-10-24T18:07:14.108064+00:00"
+    },
+    "slow-english-ep-173": {
+      "episodeNumber": 173,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 63,
+        "LINKING": 114,
+        "ELISION": 160,
+        "GLOTTAL_STOP": 132,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-173.acoustic.json",
+      "duration_sec": 3.72,
+      "processed_at": "2026-10-24T18:07:14.999853+00:00"
+    },
+    "slow-english-ep-172": {
+      "episodeNumber": 172,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 125,
+        "ELISION": 174,
+        "GLOTTAL_STOP": 151,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-172.acoustic.json",
+      "duration_sec": 4.02,
+      "processed_at": "2026-10-24T18:07:15.241074+00:00"
+    },
+    "slow-english-ep-174": {
+      "episodeNumber": 174,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 117,
+        "ELISION": 158,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-174.acoustic.json",
+      "duration_sec": 3.83,
+      "processed_at": "2026-10-24T18:07:17.771216+00:00"
+    },
+    "slow-english-ep-175": {
+      "episodeNumber": 175,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 121,
+        "ELISION": 151,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-175.acoustic.json",
+      "duration_sec": 3.86,
+      "processed_at": "2026-10-24T18:07:17.975382+00:00"
+    },
+    "slow-english-ep-177": {
+      "episodeNumber": 177,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 119,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-177.acoustic.json",
+      "duration_sec": 3.45,
+      "processed_at": "2026-10-24T18:07:18.699101+00:00"
+    },
+    "slow-english-ep-176": {
+      "episodeNumber": 176,
+      "status": "COMPLETED",
+      "sentence_count": 56,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 105,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 145,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-176.acoustic.json",
+      "duration_sec": 4.05,
+      "processed_at": "2026-10-24T18:07:19.055481+00:00"
+    },
+    "slow-english-ep-178": {
+      "episodeNumber": 178,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 124,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-178.acoustic.json",
+      "duration_sec": 3.94,
+      "processed_at": "2026-10-24T18:07:21.712066+00:00"
+    },
+    "slow-english-ep-179": {
+      "episodeNumber": 179,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 110,
+        "ELISION": 182,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-179.acoustic.json",
+      "duration_sec": 3.93,
+      "processed_at": "2026-10-24T18:07:21.911493+00:00"
+    },
+    "slow-english-ep-181": {
+      "episodeNumber": 181,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 101,
+        "ELISION": 165,
+        "GLOTTAL_STOP": 139,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-181.acoustic.json",
+      "duration_sec": 3.93,
+      "processed_at": "2026-10-24T18:07:22.997078+00:00"
+    },
+    "slow-english-ep-180": {
+      "episodeNumber": 180,
+      "status": "COMPLETED",
+      "sentence_count": 70,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 109,
+        "ELISION": 161,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-180.acoustic.json",
+      "duration_sec": 4.43,
+      "processed_at": "2026-10-24T18:07:23.135098+00:00"
+    },
+    "slow-english-ep-182": {
+      "episodeNumber": 182,
+      "status": "COMPLETED",
+      "sentence_count": 67,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 106,
+        "ELISION": 173,
+        "GLOTTAL_STOP": 156,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-182.acoustic.json",
+      "duration_sec": 4.07,
+      "processed_at": "2026-10-24T18:07:25.789752+00:00"
+    },
+    "slow-english-ep-183": {
+      "episodeNumber": 183,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 68,
+        "LINKING": 139,
+        "ELISION": 178,
+        "GLOTTAL_STOP": 174,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-183.acoustic.json",
+      "duration_sec": 4.04,
+      "processed_at": "2026-10-24T18:07:25.959265+00:00"
+    },
+    "slow-english-ep-185": {
+      "episodeNumber": 185,
+      "status": "COMPLETED",
+      "sentence_count": 86,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 106,
+        "ELISION": 155,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-185.acoustic.json",
+      "duration_sec": 3.85,
+      "processed_at": "2026-10-24T18:07:26.988909+00:00"
+    },
+    "slow-english-ep-184": {
+      "episodeNumber": 184,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 108,
+        "LINKING": 113,
+        "ELISION": 171,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 19
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-184.acoustic.json",
+      "duration_sec": 4.21,
+      "processed_at": "2026-10-24T18:07:27.214632+00:00"
+    },
+    "slow-english-ep-186": {
+      "episodeNumber": 186,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 113,
+        "ELISION": 162,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-186.acoustic.json",
+      "duration_sec": 3.79,
+      "processed_at": "2026-10-24T18:07:29.581464+00:00"
+    },
+    "slow-english-ep-187": {
+      "episodeNumber": 187,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 126,
+        "ELISION": 215,
+        "GLOTTAL_STOP": 166,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-187.acoustic.json",
+      "duration_sec": 4.28,
+      "processed_at": "2026-10-24T18:07:30.247229+00:00"
+    },
+    "slow-english-ep-188": {
+      "episodeNumber": 188,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 89,
+        "LINKING": 121,
+        "ELISION": 189,
+        "GLOTTAL_STOP": 180,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-188.acoustic.json",
+      "duration_sec": 4.8,
+      "processed_at": "2026-10-24T18:07:31.801029+00:00"
+    },
+    "slow-english-ep-189": {
+      "episodeNumber": 189,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 91,
+        "LINKING": 118,
+        "ELISION": 216,
+        "GLOTTAL_STOP": 180,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-189.acoustic.json",
+      "duration_sec": 4.73,
+      "processed_at": "2026-10-24T18:07:31.950125+00:00"
+    },
+    "slow-english-ep-190": {
+      "episodeNumber": 190,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 69,
+        "LINKING": 136,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 156,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-190.acoustic.json",
+      "duration_sec": 4.47,
+      "processed_at": "2026-10-24T18:07:34.062712+00:00"
+    },
+    "slow-english-ep-191": {
+      "episodeNumber": 191,
+      "status": "COMPLETED",
+      "sentence_count": 78,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 128,
+        "ELISION": 161,
+        "GLOTTAL_STOP": 125,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-191.acoustic.json",
+      "duration_sec": 4.54,
+      "processed_at": "2026-10-24T18:07:34.791210+00:00"
+    },
+    "slow-english-ep-192": {
+      "episodeNumber": 192,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 116,
+        "ELISION": 158,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-192.acoustic.json",
+      "duration_sec": 4.14,
+      "processed_at": "2026-10-24T18:07:35.944209+00:00"
+    },
+    "slow-english-ep-193": {
+      "episodeNumber": 193,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 81,
+        "LINKING": 133,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 156,
+        "ASSIMILATION": 18
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-193.acoustic.json",
+      "duration_sec": 4.13,
+      "processed_at": "2026-10-24T18:07:36.088608+00:00"
+    },
+    "slow-english-ep-194": {
+      "episodeNumber": 194,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 103,
+        "LINKING": 111,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 124,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-194.acoustic.json",
+      "duration_sec": 4.19,
+      "processed_at": "2026-10-24T18:07:38.262869+00:00"
+    },
+    "slow-english-ep-197": {
+      "episodeNumber": 197,
+      "status": "COMPLETED",
+      "sentence_count": 67,
+      "phenomena_counts": {
+        "REDUCTION": 69,
+        "LINKING": 108,
+        "ELISION": 110,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-197.acoustic.json",
+      "duration_sec": 3.41,
+      "processed_at": "2026-10-24T18:07:39.509569+00:00"
+    },
+    "slow-english-ep-195": {
+      "episodeNumber": 195,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 79,
+        "LINKING": 119,
+        "ELISION": 199,
+        "GLOTTAL_STOP": 141,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-195.acoustic.json",
+      "duration_sec": 4.77,
+      "processed_at": "2026-10-24T18:07:39.566461+00:00"
+    },
+    "slow-english-ep-196": {
+      "episodeNumber": 196,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 102,
+        "ELISION": 217,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-196.acoustic.json",
+      "duration_sec": 5.07,
+      "processed_at": "2026-10-24T18:07:41.020950+00:00"
+    },
+    "slow-english-ep-199": {
+      "episodeNumber": 199,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 108,
+        "ELISION": 124,
+        "GLOTTAL_STOP": 110,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-199.acoustic.json",
+      "duration_sec": 3.6,
+      "processed_at": "2026-10-24T18:07:43.116332+00:00"
+    },
+    "slow-english-ep-198": {
+      "episodeNumber": 198,
+      "status": "COMPLETED",
+      "sentence_count": 93,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 137,
+        "ELISION": 213,
+        "GLOTTAL_STOP": 190,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-198.acoustic.json",
+      "duration_sec": 4.98,
+      "processed_at": "2026-10-24T18:07:43.249212+00:00"
+    },
+    "slow-english-ep-200": {
+      "episodeNumber": 200,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 118,
+        "LINKING": 117,
+        "ELISION": 157,
+        "GLOTTAL_STOP": 157,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-200.acoustic.json",
+      "duration_sec": 4.84,
+      "processed_at": "2026-10-24T18:07:44.415108+00:00"
+    },
+    "slow-english-ep-203": {
+      "episodeNumber": 203,
+      "status": "COMPLETED",
+      "sentence_count": 53,
+      "phenomena_counts": {
+        "REDUCTION": 66,
+        "LINKING": 102,
+        "ELISION": 114,
+        "GLOTTAL_STOP": 96,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-203.acoustic.json",
+      "duration_sec": 2.57,
+      "processed_at": "2026-10-24T18:07:45.817928+00:00"
+    },
+    "slow-english-ep-201": {
+      "episodeNumber": 201,
+      "status": "COMPLETED",
+      "sentence_count": 104,
+      "phenomena_counts": {
+        "REDUCTION": 118,
+        "LINKING": 160,
+        "ELISION": 210,
+        "GLOTTAL_STOP": 190,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-201.acoustic.json",
+      "duration_sec": 4.97,
+      "processed_at": "2026-10-24T18:07:45.999612+00:00"
+    },
+    "slow-english-ep-202": {
+      "episodeNumber": 202,
+      "status": "COMPLETED",
+      "sentence_count": 67,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 103,
+        "ELISION": 175,
+        "GLOTTAL_STOP": 147,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-202.acoustic.json",
+      "duration_sec": 3.41,
+      "processed_at": "2026-10-24T18:07:46.530993+00:00"
+    },
+    "slow-english-ep-204": {
+      "episodeNumber": 204,
+      "status": "COMPLETED",
+      "sentence_count": 92,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 147,
+        "ELISION": 157,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-204.acoustic.json",
+      "duration_sec": 4.02,
+      "processed_at": "2026-10-24T18:07:48.440831+00:00"
+    },
+    "slow-english-ep-205": {
+      "episodeNumber": 205,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 130,
+        "ELISION": 174,
+        "GLOTTAL_STOP": 146,
+        "ASSIMILATION": 22
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-205.acoustic.json",
+      "duration_sec": 4.19,
+      "processed_at": "2026-10-24T18:07:50.012114+00:00"
+    },
+    "slow-english-ep-206": {
+      "episodeNumber": 206,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 117,
+        "LINKING": 134,
+        "ELISION": 216,
+        "GLOTTAL_STOP": 204,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-206.acoustic.json",
+      "duration_sec": 5.07,
+      "processed_at": "2026-10-24T18:07:51.074003+00:00"
+    },
+    "slow-english-ep-208": {
+      "episodeNumber": 208,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 115,
+        "ELISION": 153,
+        "GLOTTAL_STOP": 193,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-208.acoustic.json",
+      "duration_sec": 3.58,
+      "processed_at": "2026-10-24T18:07:52.030414+00:00"
+    },
+    "slow-english-ep-207": {
+      "episodeNumber": 207,
+      "status": "COMPLETED",
+      "sentence_count": 94,
+      "phenomena_counts": {
+        "REDUCTION": 130,
+        "LINKING": 139,
+        "ELISION": 217,
+        "GLOTTAL_STOP": 217,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-207.acoustic.json",
+      "duration_sec": 5.64,
+      "processed_at": "2026-10-24T18:07:52.176258+00:00"
+    },
+    "slow-english-ep-209": {
+      "episodeNumber": 209,
+      "status": "COMPLETED",
+      "sentence_count": 57,
+      "phenomena_counts": {
+        "REDUCTION": 71,
+        "LINKING": 84,
+        "ELISION": 112,
+        "GLOTTAL_STOP": 118,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-209.acoustic.json",
+      "duration_sec": 2.83,
+      "processed_at": "2026-10-24T18:07:52.843133+00:00"
+    },
+    "slow-english-ep-210": {
+      "episodeNumber": 210,
+      "status": "COMPLETED",
+      "sentence_count": 51,
+      "phenomena_counts": {
+        "REDUCTION": 61,
+        "LINKING": 85,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 116,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-210.acoustic.json",
+      "duration_sec": 2.92,
+      "processed_at": "2026-10-24T18:07:53.994267+00:00"
+    },
+    "slow-english-ep-212": {
+      "episodeNumber": 212,
+      "status": "COMPLETED",
+      "sentence_count": 43,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 68,
+        "ELISION": 109,
+        "GLOTTAL_STOP": 96,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-212.acoustic.json",
+      "duration_sec": 2.53,
+      "processed_at": "2026-10-24T18:07:54.718162+00:00"
+    },
+    "slow-english-ep-211": {
+      "episodeNumber": 211,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 86,
+        "ELISION": 149,
+        "GLOTTAL_STOP": 152,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-211.acoustic.json",
+      "duration_sec": 3.72,
+      "processed_at": "2026-10-24T18:07:55.756745+00:00"
+    },
+    "slow-english-ep-213": {
+      "episodeNumber": 213,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 64,
+        "LINKING": 110,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-213.acoustic.json",
+      "duration_sec": 3.18,
+      "processed_at": "2026-10-24T18:07:56.032996+00:00"
+    },
+    "slow-english-ep-214": {
+      "episodeNumber": 214,
+      "status": "COMPLETED",
+      "sentence_count": 48,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 97,
+        "ELISION": 110,
+        "GLOTTAL_STOP": 131,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-214.acoustic.json",
+      "duration_sec": 2.86,
+      "processed_at": "2026-10-24T18:07:56.861927+00:00"
+    },
+    "slow-english-ep-215": {
+      "episodeNumber": 215,
+      "status": "COMPLETED",
+      "sentence_count": 51,
+      "phenomena_counts": {
+        "REDUCTION": 58,
+        "LINKING": 80,
+        "ELISION": 131,
+        "GLOTTAL_STOP": 114,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-215.acoustic.json",
+      "duration_sec": 2.5,
+      "processed_at": "2026-10-24T18:07:57.222349+00:00"
+    },
+    "slow-english-ep-216": {
+      "episodeNumber": 216,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 147,
+        "ELISION": 135,
+        "GLOTTAL_STOP": 157,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-216.acoustic.json",
+      "duration_sec": 4.57,
+      "processed_at": "2026-10-24T18:08:00.329436+00:00"
+    },
+    "slow-english-ep-218": {
+      "episodeNumber": 218,
+      "status": "COMPLETED",
+      "sentence_count": 116,
+      "phenomena_counts": {
+        "REDUCTION": 139,
+        "LINKING": 154,
+        "ELISION": 264,
+        "GLOTTAL_STOP": 275,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-218.acoustic.json",
+      "duration_sec": 5.83,
+      "processed_at": "2026-10-24T18:08:02.699707+00:00"
+    },
+    "slow-english-ep-219": {
+      "episodeNumber": 219,
+      "status": "COMPLETED",
+      "sentence_count": 127,
+      "phenomena_counts": {
+        "REDUCTION": 149,
+        "LINKING": 191,
+        "ELISION": 270,
+        "GLOTTAL_STOP": 222,
+        "ASSIMILATION": 9
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-219.acoustic.json",
+      "duration_sec": 5.92,
+      "processed_at": "2026-10-24T18:08:03.146447+00:00"
+    },
+    "slow-english-ep-217": {
+      "episodeNumber": 217,
+      "status": "COMPLETED",
+      "sentence_count": 198,
+      "phenomena_counts": {
+        "REDUCTION": 197,
+        "LINKING": 244,
+        "ELISION": 295,
+        "GLOTTAL_STOP": 310,
+        "ASSIMILATION": 9
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-217.acoustic.json",
+      "duration_sec": 7.2,
+      "processed_at": "2026-10-24T18:08:03.243804+00:00"
+    },
+    "slow-english-ep-220": {
+      "episodeNumber": 220,
+      "status": "COMPLETED",
+      "sentence_count": 116,
+      "phenomena_counts": {
+        "REDUCTION": 148,
+        "LINKING": 198,
+        "ELISION": 253,
+        "GLOTTAL_STOP": 231,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-220.acoustic.json",
+      "duration_sec": 5.99,
+      "processed_at": "2026-10-24T18:08:06.326102+00:00"
+    },
+    "slow-english-ep-221": {
+      "episodeNumber": 221,
+      "status": "COMPLETED",
+      "sentence_count": 159,
+      "phenomena_counts": {
+        "REDUCTION": 157,
+        "LINKING": 227,
+        "ELISION": 289,
+        "GLOTTAL_STOP": 275,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-221.acoustic.json",
+      "duration_sec": 6.53,
+      "processed_at": "2026-10-24T18:08:09.232725+00:00"
+    },
+    "slow-english-ep-223": {
+      "episodeNumber": 223,
+      "status": "COMPLETED",
+      "sentence_count": 142,
+      "phenomena_counts": {
+        "REDUCTION": 186,
+        "LINKING": 262,
+        "ELISION": 362,
+        "GLOTTAL_STOP": 357,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-223.acoustic.json",
+      "duration_sec": 7.97,
+      "processed_at": "2026-10-24T18:08:11.225797+00:00"
+    },
+    "slow-english-ep-222": {
+      "episodeNumber": 222,
+      "status": "COMPLETED",
+      "sentence_count": 163,
+      "phenomena_counts": {
+        "REDUCTION": 203,
+        "LINKING": 275,
+        "ELISION": 311,
+        "GLOTTAL_STOP": 349,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-222.acoustic.json",
+      "duration_sec": 8.25,
+      "processed_at": "2026-10-24T18:08:11.406259+00:00"
+    },
+    "slow-english-ep-224": {
+      "episodeNumber": 224,
+      "status": "COMPLETED",
+      "sentence_count": 212,
+      "phenomena_counts": {
+        "REDUCTION": 175,
+        "LINKING": 242,
+        "ELISION": 446,
+        "GLOTTAL_STOP": 418,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-224.acoustic.json",
+      "duration_sec": 7.78,
+      "processed_at": "2026-10-24T18:08:14.114243+00:00"
+    },
+    "slow-english-ep-225": {
+      "episodeNumber": 225,
+      "status": "COMPLETED",
+      "sentence_count": 190,
+      "phenomena_counts": {
+        "REDUCTION": 128,
+        "LINKING": 283,
+        "ELISION": 376,
+        "GLOTTAL_STOP": 320,
+        "ASSIMILATION": 35
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-225.acoustic.json",
+      "duration_sec": 7.6,
+      "processed_at": "2026-10-24T18:08:16.839199+00:00"
+    },
+    "slow-english-ep-226": {
+      "episodeNumber": 226,
+      "status": "COMPLETED",
+      "sentence_count": 158,
+      "phenomena_counts": {
+        "REDUCTION": 137,
+        "LINKING": 293,
+        "ELISION": 309,
+        "GLOTTAL_STOP": 272,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-226.acoustic.json",
+      "duration_sec": 6.57,
+      "processed_at": "2026-10-24T18:08:17.800098+00:00"
+    },
+    "slow-english-ep-227": {
+      "episodeNumber": 227,
+      "status": "COMPLETED",
+      "sentence_count": 140,
+      "phenomena_counts": {
+        "REDUCTION": 135,
+        "LINKING": 230,
+        "ELISION": 339,
+        "GLOTTAL_STOP": 280,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-227.acoustic.json",
+      "duration_sec": 6.73,
+      "processed_at": "2026-10-24T18:08:18.147338+00:00"
+    },
+    "slow-english-ep-228": {
+      "episodeNumber": 228,
+      "status": "COMPLETED",
+      "sentence_count": 123,
+      "phenomena_counts": {
+        "REDUCTION": 113,
+        "LINKING": 226,
+        "ELISION": 282,
+        "GLOTTAL_STOP": 284,
+        "ASSIMILATION": 13
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-228.acoustic.json",
+      "duration_sec": 6.45,
+      "processed_at": "2026-10-24T18:08:20.569480+00:00"
+    },
+    "slow-english-ep-229": {
+      "episodeNumber": 229,
+      "status": "COMPLETED",
+      "sentence_count": 113,
+      "phenomena_counts": {
+        "REDUCTION": 139,
+        "LINKING": 185,
+        "ELISION": 301,
+        "GLOTTAL_STOP": 254,
+        "ASSIMILATION": 11
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-229.acoustic.json",
+      "duration_sec": 6.14,
+      "processed_at": "2026-10-24T18:08:22.991206+00:00"
+    },
+    "slow-english-ep-230": {
+      "episodeNumber": 230,
+      "status": "COMPLETED",
+      "sentence_count": 114,
+      "phenomena_counts": {
+        "REDUCTION": 116,
+        "LINKING": 221,
+        "ELISION": 272,
+        "GLOTTAL_STOP": 248,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-230.acoustic.json",
+      "duration_sec": 6.05,
+      "processed_at": "2026-10-24T18:08:23.865347+00:00"
+    },
+    "slow-english-ep-231": {
+      "episodeNumber": 231,
+      "status": "COMPLETED",
+      "sentence_count": 103,
+      "phenomena_counts": {
+        "REDUCTION": 135,
+        "LINKING": 221,
+        "ELISION": 309,
+        "GLOTTAL_STOP": 263,
+        "ASSIMILATION": 12
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-231.acoustic.json",
+      "duration_sec": 5.74,
+      "processed_at": "2026-10-24T18:08:23.899334+00:00"
+    },
+    "slow-english-ep-232": {
+      "episodeNumber": 232,
+      "status": "COMPLETED",
+      "sentence_count": 107,
+      "phenomena_counts": {
+        "REDUCTION": 137,
+        "LINKING": 200,
+        "ELISION": 235,
+        "GLOTTAL_STOP": 248,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-232.acoustic.json",
+      "duration_sec": 5.32,
+      "processed_at": "2026-10-24T18:08:25.894054+00:00"
+    },
+    "slow-english-ep-233": {
+      "episodeNumber": 233,
+      "status": "COMPLETED",
+      "sentence_count": 101,
+      "phenomena_counts": {
+        "REDUCTION": 137,
+        "LINKING": 154,
+        "ELISION": 234,
+        "GLOTTAL_STOP": 205,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-233.acoustic.json",
+      "duration_sec": 5.25,
+      "processed_at": "2026-10-24T18:08:28.243736+00:00"
+    },
+    "slow-english-ep-234": {
+      "episodeNumber": 234,
+      "status": "COMPLETED",
+      "sentence_count": 87,
+      "phenomena_counts": {
+        "REDUCTION": 124,
+        "LINKING": 162,
+        "ELISION": 205,
+        "GLOTTAL_STOP": 193,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-234.acoustic.json",
+      "duration_sec": 4.58,
+      "processed_at": "2026-10-24T18:08:28.450284+00:00"
+    },
+    "slow-english-ep-235": {
+      "episodeNumber": 235,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 141,
+        "LINKING": 164,
+        "ELISION": 257,
+        "GLOTTAL_STOP": 186,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-235.acoustic.json",
+      "duration_sec": 4.7,
+      "processed_at": "2026-10-24T18:08:28.608433+00:00"
+    },
+    "slow-english-ep-236": {
+      "episodeNumber": 236,
+      "status": "COMPLETED",
+      "sentence_count": 91,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 185,
+        "ELISION": 213,
+        "GLOTTAL_STOP": 225,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-236.acoustic.json",
+      "duration_sec": 4.22,
+      "processed_at": "2026-10-24T18:08:30.123886+00:00"
+    },
+    "slow-english-ep-237": {
+      "episodeNumber": 237,
+      "status": "COMPLETED",
+      "sentence_count": 84,
+      "phenomena_counts": {
+        "REDUCTION": 100,
+        "LINKING": 155,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-237.acoustic.json",
+      "duration_sec": 3.99,
+      "processed_at": "2026-10-24T18:08:32.240846+00:00"
+    },
+    "slow-english-ep-239": {
+      "episodeNumber": 239,
+      "status": "COMPLETED",
+      "sentence_count": 87,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 133,
+        "ELISION": 181,
+        "GLOTTAL_STOP": 168,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-239.acoustic.json",
+      "duration_sec": 3.75,
+      "processed_at": "2026-10-24T18:08:32.364840+00:00"
+    },
+    "slow-english-ep-238": {
+      "episodeNumber": 238,
+      "status": "COMPLETED",
+      "sentence_count": 76,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 127,
+        "ELISION": 223,
+        "GLOTTAL_STOP": 192,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-238.acoustic.json",
+      "duration_sec": 4.08,
+      "processed_at": "2026-10-24T18:08:32.535534+00:00"
+    },
+    "slow-english-ep-240": {
+      "episodeNumber": 240,
+      "status": "COMPLETED",
+      "sentence_count": 83,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 117,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-240.acoustic.json",
+      "duration_sec": 3.67,
+      "processed_at": "2026-10-24T18:08:33.802491+00:00"
+    },
+    "slow-english-ep-241": {
+      "episodeNumber": 241,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 85,
+        "LINKING": 115,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 148,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-241.acoustic.json",
+      "duration_sec": 3.49,
+      "processed_at": "2026-10-24T18:08:35.736546+00:00"
+    },
+    "slow-english-ep-243": {
+      "episodeNumber": 243,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 145,
+        "ELISION": 197,
+        "GLOTTAL_STOP": 212,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-243.acoustic.json",
+      "duration_sec": 4.38,
+      "processed_at": "2026-10-24T18:08:36.918560+00:00"
+    },
+    "slow-english-ep-242": {
+      "episodeNumber": 242,
+      "status": "COMPLETED",
+      "sentence_count": 82,
+      "phenomena_counts": {
+        "REDUCTION": 110,
+        "LINKING": 138,
+        "ELISION": 219,
+        "GLOTTAL_STOP": 218,
+        "ASSIMILATION": 29
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-242.acoustic.json",
+      "duration_sec": 4.74,
+      "processed_at": "2026-10-24T18:08:37.107872+00:00"
+    },
+    "slow-english-ep-244": {
+      "episodeNumber": 244,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 106,
+        "LINKING": 134,
+        "ELISION": 209,
+        "GLOTTAL_STOP": 170,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-244.acoustic.json",
+      "duration_sec": 3.95,
+      "processed_at": "2026-10-24T18:08:37.759200+00:00"
+    },
+    "slow-english-ep-245": {
+      "episodeNumber": 245,
+      "status": "COMPLETED",
+      "sentence_count": 71,
+      "phenomena_counts": {
+        "REDUCTION": 85,
+        "LINKING": 125,
+        "ELISION": 199,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-245.acoustic.json",
+      "duration_sec": 3.64,
+      "processed_at": "2026-10-24T18:08:39.386310+00:00"
+    },
+    "slow-english-ep-246": {
+      "episodeNumber": 246,
+      "status": "COMPLETED",
+      "sentence_count": 74,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 119,
+        "ELISION": 206,
+        "GLOTTAL_STOP": 195,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-246.acoustic.json",
+      "duration_sec": 3.56,
+      "processed_at": "2026-10-24T18:08:40.481309+00:00"
+    },
+    "slow-english-ep-247": {
+      "episodeNumber": 247,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 98,
+        "LINKING": 115,
+        "ELISION": 207,
+        "GLOTTAL_STOP": 175,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-247.acoustic.json",
+      "duration_sec": 3.9,
+      "processed_at": "2026-10-24T18:08:41.039489+00:00"
+    },
+    "slow-english-ep-248": {
+      "episodeNumber": 248,
+      "status": "COMPLETED",
+      "sentence_count": 85,
+      "phenomena_counts": {
+        "REDUCTION": 83,
+        "LINKING": 147,
+        "ELISION": 174,
+        "GLOTTAL_STOP": 172,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-248.acoustic.json",
+      "duration_sec": 3.92,
+      "processed_at": "2026-10-24T18:08:41.688904+00:00"
+    },
+    "slow-english-ep-249": {
+      "episodeNumber": 249,
+      "status": "COMPLETED",
+      "sentence_count": 83,
+      "phenomena_counts": {
+        "REDUCTION": 99,
+        "LINKING": 129,
+        "ELISION": 211,
+        "GLOTTAL_STOP": 200,
+        "ASSIMILATION": 12
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-249.acoustic.json",
+      "duration_sec": 3.79,
+      "processed_at": "2026-10-24T18:08:43.176831+00:00"
+    },
+    "slow-english-ep-250": {
+      "episodeNumber": 250,
+      "status": "COMPLETED",
+      "sentence_count": 92,
+      "phenomena_counts": {
+        "REDUCTION": 103,
+        "LINKING": 139,
+        "ELISION": 170,
+        "GLOTTAL_STOP": 170,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-250.acoustic.json",
+      "duration_sec": 3.92,
+      "processed_at": "2026-10-24T18:08:44.409369+00:00"
+    },
+    "slow-english-ep-251": {
+      "episodeNumber": 251,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 100,
+        "LINKING": 149,
+        "ELISION": 161,
+        "GLOTTAL_STOP": 205,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-251.acoustic.json",
+      "duration_sec": 3.92,
+      "processed_at": "2026-10-24T18:08:44.967914+00:00"
+    },
+    "slow-english-ep-252": {
+      "episodeNumber": 252,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 122,
+        "ELISION": 211,
+        "GLOTTAL_STOP": 179,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-252.acoustic.json",
+      "duration_sec": 4.36,
+      "processed_at": "2026-10-24T18:08:46.059108+00:00"
+    },
+    "slow-english-ep-253": {
+      "episodeNumber": 253,
+      "status": "COMPLETED",
+      "sentence_count": 102,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 154,
+        "ELISION": 223,
+        "GLOTTAL_STOP": 217,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-253.acoustic.json",
+      "duration_sec": 4.32,
+      "processed_at": "2026-10-24T18:08:47.506291+00:00"
+    },
+    "slow-english-ep-254": {
+      "episodeNumber": 254,
+      "status": "COMPLETED",
+      "sentence_count": 81,
+      "phenomena_counts": {
+        "REDUCTION": 88,
+        "LINKING": 143,
+        "ELISION": 217,
+        "GLOTTAL_STOP": 227,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-254.acoustic.json",
+      "duration_sec": 3.85,
+      "processed_at": "2026-10-24T18:08:48.268897+00:00"
+    },
+    "slow-english-ep-255": {
+      "episodeNumber": 255,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 134,
+        "ELISION": 205,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-255.acoustic.json",
+      "duration_sec": 3.69,
+      "processed_at": "2026-10-24T18:08:48.662806+00:00"
+    },
+    "slow-english-ep-256": {
+      "episodeNumber": 256,
+      "status": "COMPLETED",
+      "sentence_count": 81,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 121,
+        "ELISION": 177,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-256.acoustic.json",
+      "duration_sec": 3.59,
+      "processed_at": "2026-10-24T18:08:49.656590+00:00"
+    },
+    "slow-english-ep-257": {
+      "episodeNumber": 257,
+      "status": "COMPLETED",
+      "sentence_count": 93,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 103,
+        "ELISION": 149,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-257.acoustic.json",
+      "duration_sec": 3.48,
+      "processed_at": "2026-10-24T18:08:50.993459+00:00"
+    },
+    "slow-english-ep-258": {
+      "episodeNumber": 258,
+      "status": "COMPLETED",
+      "sentence_count": 88,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 149,
+        "ELISION": 188,
+        "GLOTTAL_STOP": 160,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-258.acoustic.json",
+      "duration_sec": 3.62,
+      "processed_at": "2026-10-24T18:08:51.898798+00:00"
+    },
+    "slow-english-ep-259": {
+      "episodeNumber": 259,
+      "status": "COMPLETED",
+      "sentence_count": 83,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 123,
+        "ELISION": 159,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-259.acoustic.json",
+      "duration_sec": 3.32,
+      "processed_at": "2026-10-24T18:08:51.990946+00:00"
+    },
+    "slow-english-ep-260": {
+      "episodeNumber": 260,
+      "status": "COMPLETED",
+      "sentence_count": 57,
+      "phenomena_counts": {
+        "REDUCTION": 85,
+        "LINKING": 107,
+        "ELISION": 205,
+        "GLOTTAL_STOP": 151,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-260.acoustic.json",
+      "duration_sec": 3.38,
+      "processed_at": "2026-10-24T18:08:53.041418+00:00"
+    },
+    "slow-english-ep-261": {
+      "episodeNumber": 261,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 97,
+        "ELISION": 164,
+        "GLOTTAL_STOP": 164,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-261.acoustic.json",
+      "duration_sec": 3.19,
+      "processed_at": "2026-10-24T18:08:54.192139+00:00"
+    },
+    "slow-english-ep-262": {
+      "episodeNumber": 262,
+      "status": "COMPLETED",
+      "sentence_count": 79,
+      "phenomena_counts": {
+        "REDUCTION": 56,
+        "LINKING": 93,
+        "ELISION": 155,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-262.acoustic.json",
+      "duration_sec": 3.21,
+      "processed_at": "2026-10-24T18:08:55.113743+00:00"
+    },
+    "slow-english-ep-263": {
+      "episodeNumber": 263,
+      "status": "COMPLETED",
+      "sentence_count": 55,
+      "phenomena_counts": {
+        "REDUCTION": 64,
+        "LINKING": 110,
+        "ELISION": 146,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-263.acoustic.json",
+      "duration_sec": 3.12,
+      "processed_at": "2026-10-24T18:08:55.117496+00:00"
+    },
+    "slow-english-ep-264": {
+      "episodeNumber": 264,
+      "status": "COMPLETED",
+      "sentence_count": 77,
+      "phenomena_counts": {
+        "REDUCTION": 71,
+        "LINKING": 109,
+        "ELISION": 150,
+        "GLOTTAL_STOP": 154,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-264.acoustic.json",
+      "duration_sec": 3.03,
+      "processed_at": "2026-10-24T18:08:56.077170+00:00"
+    },
+    "slow-english-ep-265": {
+      "episodeNumber": 265,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 62,
+        "LINKING": 92,
+        "ELISION": 182,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-265.acoustic.json",
+      "duration_sec": 3.1,
+      "processed_at": "2026-10-24T18:08:57.293808+00:00"
+    },
+    "slow-english-ep-266": {
+      "episodeNumber": 266,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 77,
+        "ELISION": 137,
+        "GLOTTAL_STOP": 101,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-266.acoustic.json",
+      "duration_sec": 2.77,
+      "processed_at": "2026-10-24T18:08:57.892590+00:00"
+    },
+    "slow-english-ep-267": {
+      "episodeNumber": 267,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 56,
+        "LINKING": 87,
+        "ELISION": 145,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-267.acoustic.json",
+      "duration_sec": 2.84,
+      "processed_at": "2026-10-24T18:08:57.961100+00:00"
+    },
+    "slow-english-ep-268": {
+      "episodeNumber": 268,
+      "status": "COMPLETED",
+      "sentence_count": 75,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 95,
+        "ELISION": 141,
+        "GLOTTAL_STOP": 131,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-268.acoustic.json",
+      "duration_sec": 3.02,
+      "processed_at": "2026-10-24T18:08:59.102451+00:00"
+    },
+    "slow-english-ep-269": {
+      "episodeNumber": 269,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 46,
+        "LINKING": 95,
+        "ELISION": 130,
+        "GLOTTAL_STOP": 108,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-269.acoustic.json",
+      "duration_sec": 2.78,
+      "processed_at": "2026-10-24T18:09:00.076129+00:00"
+    },
+    "slow-english-ep-270": {
+      "episodeNumber": 270,
+      "status": "COMPLETED",
+      "sentence_count": 49,
+      "phenomena_counts": {
+        "REDUCTION": 63,
+        "LINKING": 97,
+        "ELISION": 130,
+        "GLOTTAL_STOP": 117,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-270.acoustic.json",
+      "duration_sec": 2.79,
+      "processed_at": "2026-10-24T18:09:00.686133+00:00"
+    },
+    "slow-english-ep-271": {
+      "episodeNumber": 271,
+      "status": "COMPLETED",
+      "sentence_count": 55,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 95,
+        "ELISION": 141,
+        "GLOTTAL_STOP": 146,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-271.acoustic.json",
+      "duration_sec": 3.14,
+      "processed_at": "2026-10-24T18:09:01.130702+00:00"
+    },
+    "slow-english-ep-272": {
+      "episodeNumber": 272,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 59,
+        "LINKING": 96,
+        "ELISION": 166,
+        "GLOTTAL_STOP": 141,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-272.acoustic.json",
+      "duration_sec": 3.1,
+      "processed_at": "2026-10-24T18:09:02.206093+00:00"
+    },
+    "slow-english-ep-273": {
+      "episodeNumber": 273,
+      "status": "COMPLETED",
+      "sentence_count": 57,
+      "phenomena_counts": {
+        "REDUCTION": 61,
+        "LINKING": 68,
+        "ELISION": 137,
+        "GLOTTAL_STOP": 108,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-273.acoustic.json",
+      "duration_sec": 2.71,
+      "processed_at": "2026-10-24T18:09:02.792665+00:00"
+    },
+    "slow-english-ep-274": {
+      "episodeNumber": 274,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 76,
+        "LINKING": 98,
+        "ELISION": 148,
+        "GLOTTAL_STOP": 170,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-274.acoustic.json",
+      "duration_sec": 3.03,
+      "processed_at": "2026-10-24T18:09:03.720586+00:00"
+    },
+    "slow-english-ep-275": {
+      "episodeNumber": 275,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 89,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-275.acoustic.json",
+      "duration_sec": 2.97,
+      "processed_at": "2026-10-24T18:09:04.089315+00:00"
+    },
+    "slow-english-ep-276": {
+      "episodeNumber": 276,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 83,
+        "ELISION": 129,
+        "GLOTTAL_STOP": 105,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-276.acoustic.json",
+      "duration_sec": 2.82,
+      "processed_at": "2026-10-24T18:09:05.027025+00:00"
+    },
+    "slow-english-ep-277": {
+      "episodeNumber": 277,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 68,
+        "LINKING": 83,
+        "ELISION": 155,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-277.acoustic.json",
+      "duration_sec": 3.09,
+      "processed_at": "2026-10-24T18:09:05.884661+00:00"
+    },
+    "slow-english-ep-278": {
+      "episodeNumber": 278,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 68,
+        "LINKING": 97,
+        "ELISION": 144,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-278.acoustic.json",
+      "duration_sec": 2.95,
+      "processed_at": "2026-10-24T18:09:06.674408+00:00"
+    },
+    "slow-english-ep-279": {
+      "episodeNumber": 279,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 95,
+        "ELISION": 158,
+        "GLOTTAL_STOP": 160,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-279.acoustic.json",
+      "duration_sec": 3.06,
+      "processed_at": "2026-10-24T18:09:07.148843+00:00"
+    },
+    "slow-english-ep-280": {
+      "episodeNumber": 280,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 54,
+        "LINKING": 103,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 148,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-280.acoustic.json",
+      "duration_sec": 3.18,
+      "processed_at": "2026-10-24T18:09:08.207378+00:00"
+    },
+    "slow-english-ep-281": {
+      "episodeNumber": 281,
+      "status": "COMPLETED",
+      "sentence_count": 66,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 79,
+        "ELISION": 141,
+        "GLOTTAL_STOP": 109,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-281.acoustic.json",
+      "duration_sec": 2.73,
+      "processed_at": "2026-10-24T18:09:08.623370+00:00"
+    },
+    "slow-english-ep-283": {
+      "episodeNumber": 283,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 78,
+        "LINKING": 89,
+        "ELISION": 112,
+        "GLOTTAL_STOP": 131,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-283.acoustic.json",
+      "duration_sec": 2.91,
+      "processed_at": "2026-10-24T18:09:10.066335+00:00"
+    },
+    "slow-english-ep-282": {
+      "episodeNumber": 282,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 100,
+        "ELISION": 163,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-282.acoustic.json",
+      "duration_sec": 3.57,
+      "processed_at": "2026-10-24T18:09:10.245383+00:00"
+    },
+    "slow-english-ep-284": {
+      "episodeNumber": 284,
+      "status": "COMPLETED",
+      "sentence_count": 60,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 86,
+        "ELISION": 126,
+        "GLOTTAL_STOP": 130,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-284.acoustic.json",
+      "duration_sec": 2.85,
+      "processed_at": "2026-10-24T18:09:11.061907+00:00"
+    },
+    "slow-english-ep-285": {
+      "episodeNumber": 285,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 58,
+        "LINKING": 75,
+        "ELISION": 134,
+        "GLOTTAL_STOP": 122,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-285.acoustic.json",
+      "duration_sec": 2.75,
+      "processed_at": "2026-10-24T18:09:11.372432+00:00"
+    },
+    "slow-english-ep-286": {
+      "episodeNumber": 286,
+      "status": "COMPLETED",
+      "sentence_count": 62,
+      "phenomena_counts": {
+        "REDUCTION": 74,
+        "LINKING": 99,
+        "ELISION": 140,
+        "GLOTTAL_STOP": 120,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-286.acoustic.json",
+      "duration_sec": 2.74,
+      "processed_at": "2026-10-24T18:09:12.809732+00:00"
+    },
+    "slow-english-ep-287": {
+      "episodeNumber": 287,
+      "status": "COMPLETED",
+      "sentence_count": 63,
+      "phenomena_counts": {
+        "REDUCTION": 57,
+        "LINKING": 81,
+        "ELISION": 114,
+        "GLOTTAL_STOP": 105,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-287.acoustic.json",
+      "duration_sec": 2.57,
+      "processed_at": "2026-10-24T18:09:12.818101+00:00"
+    },
+    "slow-english-ep-289": {
+      "episodeNumber": 289,
+      "status": "COMPLETED",
+      "sentence_count": 72,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 69,
+        "ELISION": 80,
+        "GLOTTAL_STOP": 101,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-289.acoustic.json",
+      "duration_sec": 1.85,
+      "processed_at": "2026-10-24T18:09:13.226760+00:00"
+    },
+    "slow-english-ep-288": {
+      "episodeNumber": 288,
+      "status": "COMPLETED",
+      "sentence_count": 56,
+      "phenomena_counts": {
+        "REDUCTION": 55,
+        "LINKING": 84,
+        "ELISION": 136,
+        "GLOTTAL_STOP": 133,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-288.acoustic.json",
+      "duration_sec": 2.33,
+      "processed_at": "2026-10-24T18:09:13.426735+00:00"
+    },
+    "slow-english-ep-291": {
+      "episodeNumber": 291,
+      "status": "COMPLETED",
+      "sentence_count": 117,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 120,
+        "ELISION": 134,
+        "GLOTTAL_STOP": 160,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-291.acoustic.json",
+      "duration_sec": 3.27,
+      "processed_at": "2026-10-24T18:09:16.094167+00:00"
+    },
+    "slow-english-ep-290": {
+      "episodeNumber": 290,
+      "status": "COMPLETED",
+      "sentence_count": 131,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 115,
+        "ELISION": 141,
+        "GLOTTAL_STOP": 157,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-290.acoustic.json",
+      "duration_sec": 3.54,
+      "processed_at": "2026-10-24T18:09:16.350359+00:00"
+    },
+    "slow-english-ep-293": {
+      "episodeNumber": 293,
+      "status": "COMPLETED",
+      "sentence_count": 115,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 107,
+        "ELISION": 127,
+        "GLOTTAL_STOP": 125,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-293.acoustic.json",
+      "duration_sec": 3.02,
+      "processed_at": "2026-10-24T18:09:16.431038+00:00"
+    },
+    "slow-english-ep-292": {
+      "episodeNumber": 292,
+      "status": "COMPLETED",
+      "sentence_count": 118,
+      "phenomena_counts": {
+        "REDUCTION": 76,
+        "LINKING": 142,
+        "ELISION": 186,
+        "GLOTTAL_STOP": 169,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-292.acoustic.json",
+      "duration_sec": 3.83,
+      "processed_at": "2026-10-24T18:09:17.074290+00:00"
+    },
+    "slow-english-ep-294": {
+      "episodeNumber": 294,
+      "status": "COMPLETED",
+      "sentence_count": 117,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 133,
+        "ELISION": 161,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-294.acoustic.json",
+      "duration_sec": 3.44,
+      "processed_at": "2026-10-24T18:09:19.540513+00:00"
+    },
+    "slow-english-ep-295": {
+      "episodeNumber": 295,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 133,
+        "ELISION": 123,
+        "GLOTTAL_STOP": 138,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-295.acoustic.json",
+      "duration_sec": 3.31,
+      "processed_at": "2026-10-24T18:09:19.665489+00:00"
+    },
+    "slow-english-ep-296": {
+      "episodeNumber": 296,
+      "status": "COMPLETED",
+      "sentence_count": 116,
+      "phenomena_counts": {
+        "REDUCTION": 81,
+        "LINKING": 102,
+        "ELISION": 150,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-296.acoustic.json",
+      "duration_sec": 3.4,
+      "processed_at": "2026-10-24T18:09:19.835128+00:00"
+    },
+    "slow-english-ep-297": {
+      "episodeNumber": 297,
+      "status": "COMPLETED",
+      "sentence_count": 121,
+      "phenomena_counts": {
+        "REDUCTION": 58,
+        "LINKING": 118,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 148,
+        "ASSIMILATION": 9
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-297.acoustic.json",
+      "duration_sec": 3.44,
+      "processed_at": "2026-10-24T18:09:20.520457+00:00"
+    },
+    "slow-english-ep-298": {
+      "episodeNumber": 298,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 67,
+        "LINKING": 113,
+        "ELISION": 148,
+        "GLOTTAL_STOP": 154,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-298.acoustic.json",
+      "duration_sec": 3.26,
+      "processed_at": "2026-10-24T18:09:22.809786+00:00"
+    },
+    "slow-english-ep-299": {
+      "episodeNumber": 299,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 80,
+        "LINKING": 115,
+        "ELISION": 145,
+        "GLOTTAL_STOP": 134,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-299.acoustic.json",
+      "duration_sec": 3.22,
+      "processed_at": "2026-10-24T18:09:22.892489+00:00"
+    },
+    "slow-english-ep-300": {
+      "episodeNumber": 300,
+      "status": "COMPLETED",
+      "sentence_count": 112,
+      "phenomena_counts": {
+        "REDUCTION": 79,
+        "LINKING": 160,
+        "ELISION": 140,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-300.acoustic.json",
+      "duration_sec": 3.29,
+      "processed_at": "2026-10-24T18:09:23.131287+00:00"
+    },
+    "slow-english-ep-301": {
+      "episodeNumber": 301,
+      "status": "COMPLETED",
+      "sentence_count": 115,
+      "phenomena_counts": {
+        "REDUCTION": 100,
+        "LINKING": 101,
+        "ELISION": 128,
+        "GLOTTAL_STOP": 114,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-301.acoustic.json",
+      "duration_sec": 3.25,
+      "processed_at": "2026-10-24T18:09:23.776954+00:00"
+    },
+    "slow-english-ep-302": {
+      "episodeNumber": 302,
+      "status": "COMPLETED",
+      "sentence_count": 113,
+      "phenomena_counts": {
+        "REDUCTION": 66,
+        "LINKING": 111,
+        "ELISION": 134,
+        "GLOTTAL_STOP": 145,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-302.acoustic.json",
+      "duration_sec": 3.18,
+      "processed_at": "2026-10-24T18:09:25.997674+00:00"
+    },
+    "slow-english-ep-303": {
+      "episodeNumber": 303,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 131,
+        "ELISION": 131,
+        "GLOTTAL_STOP": 150,
+        "ASSIMILATION": 10
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-303.acoustic.json",
+      "duration_sec": 3.23,
+      "processed_at": "2026-10-24T18:09:26.127463+00:00"
+    },
+    "slow-english-ep-304": {
+      "episodeNumber": 304,
+      "status": "COMPLETED",
+      "sentence_count": 97,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 93,
+        "ELISION": 117,
+        "GLOTTAL_STOP": 137,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-304.acoustic.json",
+      "duration_sec": 3.43,
+      "processed_at": "2026-10-24T18:09:26.567334+00:00"
+    },
+    "slow-english-ep-305": {
+      "episodeNumber": 305,
+      "status": "COMPLETED",
+      "sentence_count": 115,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 76,
+        "ELISION": 116,
+        "GLOTTAL_STOP": 137,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-305.acoustic.json",
+      "duration_sec": 3.11,
+      "processed_at": "2026-10-24T18:09:26.887925+00:00"
+    },
+    "slow-english-ep-306": {
+      "episodeNumber": 306,
+      "status": "COMPLETED",
+      "sentence_count": 107,
+      "phenomena_counts": {
+        "REDUCTION": 60,
+        "LINKING": 100,
+        "ELISION": 147,
+        "GLOTTAL_STOP": 136,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-306.acoustic.json",
+      "duration_sec": 2.99,
+      "processed_at": "2026-10-24T18:09:28.986772+00:00"
+    },
+    "slow-english-ep-309": {
+      "episodeNumber": 309,
+      "status": "COMPLETED",
+      "sentence_count": 103,
+      "phenomena_counts": {
+        "REDUCTION": 77,
+        "LINKING": 76,
+        "ELISION": 104,
+        "GLOTTAL_STOP": 94,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-309.acoustic.json",
+      "duration_sec": 2.25,
+      "processed_at": "2026-10-24T18:09:29.143778+00:00"
+    },
+    "slow-english-ep-307": {
+      "episodeNumber": 307,
+      "status": "COMPLETED",
+      "sentence_count": 114,
+      "phenomena_counts": {
+        "REDUCTION": 86,
+        "LINKING": 101,
+        "ELISION": 125,
+        "GLOTTAL_STOP": 143,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-307.acoustic.json",
+      "duration_sec": 3.1,
+      "processed_at": "2026-10-24T18:09:29.227826+00:00"
+    },
+    "slow-english-ep-308": {
+      "episodeNumber": 308,
+      "status": "COMPLETED",
+      "sentence_count": 104,
+      "phenomena_counts": {
+        "REDUCTION": 63,
+        "LINKING": 82,
+        "ELISION": 122,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-308.acoustic.json",
+      "duration_sec": 3.15,
+      "processed_at": "2026-10-24T18:09:29.719648+00:00"
+    },
+    "slow-english-ep-310": {
+      "episodeNumber": 310,
+      "status": "COMPLETED",
+      "sentence_count": 94,
+      "phenomena_counts": {
+        "REDUCTION": 63,
+        "LINKING": 71,
+        "ELISION": 107,
+        "GLOTTAL_STOP": 115,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-310.acoustic.json",
+      "duration_sec": 2.49,
+      "processed_at": "2026-10-24T18:09:31.484946+00:00"
+    },
+    "slow-english-ep-311": {
+      "episodeNumber": 311,
+      "status": "COMPLETED",
+      "sentence_count": 95,
+      "phenomena_counts": {
+        "REDUCTION": 56,
+        "LINKING": 80,
+        "ELISION": 87,
+        "GLOTTAL_STOP": 96,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-311.acoustic.json",
+      "duration_sec": 2.38,
+      "processed_at": "2026-10-24T18:09:31.528824+00:00"
+    },
+    "slow-english-ep-312": {
+      "episodeNumber": 312,
+      "status": "COMPLETED",
+      "sentence_count": 105,
+      "phenomena_counts": {
+        "REDUCTION": 66,
+        "LINKING": 73,
+        "ELISION": 97,
+        "GLOTTAL_STOP": 99,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-312.acoustic.json",
+      "duration_sec": 2.45,
+      "processed_at": "2026-10-24T18:09:31.686022+00:00"
+    },
+    "slow-english-ep-313": {
+      "episodeNumber": 313,
+      "status": "COMPLETED",
+      "sentence_count": 119,
+      "phenomena_counts": {
+        "REDUCTION": 84,
+        "LINKING": 73,
+        "ELISION": 155,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-313.acoustic.json",
+      "duration_sec": 3.28,
+      "processed_at": "2026-10-24T18:09:33.007548+00:00"
+    },
+    "slow-english-ep-315": {
+      "episodeNumber": 315,
+      "status": "COMPLETED",
+      "sentence_count": 98,
+      "phenomena_counts": {
+        "REDUCTION": 71,
+        "LINKING": 76,
+        "ELISION": 116,
+        "GLOTTAL_STOP": 120,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-315.acoustic.json",
+      "duration_sec": 2.52,
+      "processed_at": "2026-10-24T18:09:34.049827+00:00"
+    },
+    "slow-english-ep-316": {
+      "episodeNumber": 316,
+      "status": "COMPLETED",
+      "sentence_count": 95,
+      "phenomena_counts": {
+        "REDUCTION": 50,
+        "LINKING": 67,
+        "ELISION": 117,
+        "GLOTTAL_STOP": 121,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-316.acoustic.json",
+      "duration_sec": 2.48,
+      "processed_at": "2026-10-24T18:09:34.166094+00:00"
+    },
+    "slow-english-ep-314": {
+      "episodeNumber": 314,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 53,
+        "LINKING": 90,
+        "ELISION": 127,
+        "GLOTTAL_STOP": 129,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-314.acoustic.json",
+      "duration_sec": 3.16,
+      "processed_at": "2026-10-24T18:09:34.650028+00:00"
+    },
+    "slow-english-ep-317": {
+      "episodeNumber": 317,
+      "status": "COMPLETED",
+      "sentence_count": 91,
+      "phenomena_counts": {
+        "REDUCTION": 39,
+        "LINKING": 65,
+        "ELISION": 77,
+        "GLOTTAL_STOP": 106,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-317.acoustic.json",
+      "duration_sec": 2.2,
+      "processed_at": "2026-10-24T18:09:35.207291+00:00"
+    },
+    "slow-english-ep-318": {
+      "episodeNumber": 318,
+      "status": "COMPLETED",
+      "sentence_count": 92,
+      "phenomena_counts": {
+        "REDUCTION": 46,
+        "LINKING": 63,
+        "ELISION": 91,
+        "GLOTTAL_STOP": 96,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-318.acoustic.json",
+      "duration_sec": 2.08,
+      "processed_at": "2026-10-24T18:09:36.137001+00:00"
+    },
+    "slow-english-ep-319": {
+      "episodeNumber": 319,
+      "status": "COMPLETED",
+      "sentence_count": 80,
+      "phenomena_counts": {
+        "REDUCTION": 43,
+        "LINKING": 59,
+        "ELISION": 73,
+        "GLOTTAL_STOP": 82,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-319.acoustic.json",
+      "duration_sec": 2.12,
+      "processed_at": "2026-10-24T18:09:36.290769+00:00"
+    },
+    "slow-english-ep-322": {
+      "episodeNumber": 322,
+      "status": "COMPLETED",
+      "sentence_count": 138,
+      "phenomena_counts": {
+        "REDUCTION": 82,
+        "LINKING": 104,
+        "ELISION": 112,
+        "GLOTTAL_STOP": 153,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-322.acoustic.json",
+      "duration_sec": 4.45,
+      "processed_at": "2026-10-24T18:09:40.592045+00:00"
+    },
+    "slow-english-ep-323": {
+      "episodeNumber": 323,
+      "status": "COMPLETED",
+      "sentence_count": 73,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 150,
+        "ELISION": 167,
+        "GLOTTAL_STOP": 173,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-323.acoustic.json",
+      "duration_sec": 4.61,
+      "processed_at": "2026-10-24T18:09:40.911149+00:00"
+    },
+    "slow-english-ep-324": {
+      "episodeNumber": 324,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 115,
+        "ELISION": 152,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-324.acoustic.json",
+      "duration_sec": 2.94,
+      "processed_at": "2026-10-24T18:09:43.532193+00:00"
+    },
+    "slow-english-ep-325": {
+      "episodeNumber": 325,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 126,
+        "ELISION": 119,
+        "GLOTTAL_STOP": 135,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-325.acoustic.json",
+      "duration_sec": 2.9,
+      "processed_at": "2026-10-24T18:09:43.817354+00:00"
+    },
+    "slow-english-ep-326": {
+      "episodeNumber": 326,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 73,
+        "LINKING": 104,
+        "ELISION": 86,
+        "GLOTTAL_STOP": 97,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-326.acoustic.json",
+      "duration_sec": 2.44,
+      "processed_at": "2026-10-24T18:09:45.980876+00:00"
+    },
+    "slow-english-ep-327": {
+      "episodeNumber": 327,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 75,
+        "LINKING": 110,
+        "ELISION": 102,
+        "GLOTTAL_STOP": 133,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-327.acoustic.json",
+      "duration_sec": 2.57,
+      "processed_at": "2026-10-24T18:09:46.395203+00:00"
+    },
+    "slow-english-ep-320": {
+      "episodeNumber": 320,
+      "status": "COMPLETED",
+      "sentence_count": 330,
+      "phenomena_counts": {
+        "REDUCTION": 325,
+        "LINKING": 463,
+        "ELISION": 688,
+        "GLOTTAL_STOP": 595,
+        "ASSIMILATION": 13
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-320.acoustic.json",
+      "duration_sec": 13.7,
+      "processed_at": "2026-10-24T18:09:48.372753+00:00"
+    },
+    "slow-english-ep-328": {
+      "episodeNumber": 328,
+      "status": "COMPLETED",
+      "sentence_count": 68,
+      "phenomena_counts": {
+        "REDUCTION": 72,
+        "LINKING": 89,
+        "ELISION": 113,
+        "GLOTTAL_STOP": 140,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-328.acoustic.json",
+      "duration_sec": 2.73,
+      "processed_at": "2026-10-24T18:09:48.713025+00:00"
+    },
+    "slow-english-ep-329": {
+      "episodeNumber": 329,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 79,
+        "LINKING": 113,
+        "ELISION": 122,
+        "GLOTTAL_STOP": 117,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-329.acoustic.json",
+      "duration_sec": 2.92,
+      "processed_at": "2026-10-24T18:09:49.324034+00:00"
+    },
+    "slow-english-ep-330": {
+      "episodeNumber": 330,
+      "status": "COMPLETED",
+      "sentence_count": 61,
+      "phenomena_counts": {
+        "REDUCTION": 87,
+        "LINKING": 115,
+        "ELISION": 118,
+        "GLOTTAL_STOP": 125,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-330.acoustic.json",
+      "duration_sec": 2.75,
+      "processed_at": "2026-10-24T18:09:51.126872+00:00"
+    },
+    "slow-english-ep-331": {
+      "episodeNumber": 331,
+      "status": "COMPLETED",
+      "sentence_count": 69,
+      "phenomena_counts": {
+        "REDUCTION": 56,
+        "LINKING": 81,
+        "ELISION": 115,
+        "GLOTTAL_STOP": 113,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-331.acoustic.json",
+      "duration_sec": 2.54,
+      "processed_at": "2026-10-24T18:09:51.253150+00:00"
+    },
+    "slow-english-ep-321": {
+      "episodeNumber": 321,
+      "status": "COMPLETED",
+      "sentence_count": 364,
+      "phenomena_counts": {
+        "REDUCTION": 439,
+        "LINKING": 584,
+        "ELISION": 839,
+        "GLOTTAL_STOP": 696,
+        "ASSIMILATION": 22
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-321.acoustic.json",
+      "duration_sec": 16.17,
+      "processed_at": "2026-10-24T18:09:51.402133+00:00"
+    },
+    "slow-english-ep-332": {
+      "episodeNumber": 332,
+      "status": "COMPLETED",
+      "sentence_count": 57,
+      "phenomena_counts": {
+        "REDUCTION": 76,
+        "LINKING": 101,
+        "ELISION": 116,
+        "GLOTTAL_STOP": 131,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-332.acoustic.json",
+      "duration_sec": 2.46,
+      "processed_at": "2026-10-24T18:09:51.794478+00:00"
+    },
+    "slow-english-ep-334": {
+      "episodeNumber": 334,
+      "status": "COMPLETED",
+      "sentence_count": 54,
+      "phenomena_counts": {
+        "REDUCTION": 63,
+        "LINKING": 84,
+        "ELISION": 89,
+        "GLOTTAL_STOP": 85,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-334.acoustic.json",
+      "duration_sec": 2.18,
+      "processed_at": "2026-10-24T18:09:53.435370+00:00"
+    },
+    "slow-english-ep-333": {
+      "episodeNumber": 333,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 44,
+        "LINKING": 83,
+        "ELISION": 112,
+        "GLOTTAL_STOP": 106,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-333.acoustic.json",
+      "duration_sec": 2.35,
+      "processed_at": "2026-10-24T18:09:53.476877+00:00"
+    },
+    "slow-english-ep-336": {
+      "episodeNumber": 336,
+      "status": "COMPLETED",
+      "sentence_count": 49,
+      "phenomena_counts": {
+        "REDUCTION": 54,
+        "LINKING": 66,
+        "ELISION": 96,
+        "GLOTTAL_STOP": 99,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-336.acoustic.json",
+      "duration_sec": 1.91,
+      "processed_at": "2026-10-24T18:09:53.703551+00:00"
+    },
+    "slow-english-ep-335": {
+      "episodeNumber": 335,
+      "status": "COMPLETED",
+      "sentence_count": 52,
+      "phenomena_counts": {
+        "REDUCTION": 53,
+        "LINKING": 95,
+        "ELISION": 107,
+        "GLOTTAL_STOP": 105,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-335.acoustic.json",
+      "duration_sec": 2.31,
+      "processed_at": "2026-10-24T18:09:53.713484+00:00"
+    },
+    "slow-english-ep-337": {
+      "episodeNumber": 337,
+      "status": "COMPLETED",
+      "sentence_count": 48,
+      "phenomena_counts": {
+        "REDUCTION": 61,
+        "LINKING": 87,
+        "ELISION": 104,
+        "GLOTTAL_STOP": 117,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-337.acoustic.json",
+      "duration_sec": 2.28,
+      "processed_at": "2026-10-24T18:09:55.718953+00:00"
+    },
+    "slow-english-ep-338": {
+      "episodeNumber": 338,
+      "status": "COMPLETED",
+      "sentence_count": 64,
+      "phenomena_counts": {
+        "REDUCTION": 71,
+        "LINKING": 97,
+        "ELISION": 123,
+        "GLOTTAL_STOP": 121,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-338.acoustic.json",
+      "duration_sec": 2.67,
+      "processed_at": "2026-10-24T18:09:56.159112+00:00"
+    },
+    "slow-english-ep-340": {
+      "episodeNumber": 340,
+      "status": "COMPLETED",
+      "sentence_count": 53,
+      "phenomena_counts": {
+        "REDUCTION": 59,
+        "LINKING": 70,
+        "ELISION": 104,
+        "GLOTTAL_STOP": 91,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-340.acoustic.json",
+      "duration_sec": 2.75,
+      "processed_at": "2026-10-24T18:09:56.465942+00:00"
+    },
+    "slow-english-ep-339": {
+      "episodeNumber": 339,
+      "status": "COMPLETED",
+      "sentence_count": 53,
+      "phenomena_counts": {
+        "REDUCTION": 57,
+        "LINKING": 91,
+        "ELISION": 121,
+        "GLOTTAL_STOP": 99,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-339.acoustic.json",
+      "duration_sec": 2.76,
+      "processed_at": "2026-10-24T18:09:56.472188+00:00"
+    },
+    "slow-english-ep-341": {
+      "episodeNumber": 341,
+      "status": "COMPLETED",
+      "sentence_count": 65,
+      "phenomena_counts": {
+        "REDUCTION": 70,
+        "LINKING": 108,
+        "ELISION": 117,
+        "GLOTTAL_STOP": 114,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-341.acoustic.json",
+      "duration_sec": 2.55,
+      "processed_at": "2026-10-24T18:09:58.270454+00:00"
+    },
+    "slow-english-ep-342": {
+      "episodeNumber": 342,
+      "status": "COMPLETED",
+      "sentence_count": 54,
+      "phenomena_counts": {
+        "REDUCTION": 64,
+        "LINKING": 97,
+        "ELISION": 93,
+        "GLOTTAL_STOP": 99,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-342.acoustic.json",
+      "duration_sec": 2.38,
+      "processed_at": "2026-10-24T18:09:58.546527+00:00"
+    },
+    "slow-english-ep-343": {
+      "episodeNumber": 343,
+      "status": "COMPLETED",
+      "sentence_count": 54,
+      "phenomena_counts": {
+        "REDUCTION": 59,
+        "LINKING": 96,
+        "ELISION": 95,
+        "GLOTTAL_STOP": 100,
+        "ASSIMILATION": 0
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-343.acoustic.json",
+      "duration_sec": 2.4,
+      "processed_at": "2026-10-24T18:09:58.868597+00:00"
+    },
+    "slow-english-ep-344": {
+      "episodeNumber": 344,
+      "status": "COMPLETED",
+      "sentence_count": 172,
+      "phenomena_counts": {
+        "REDUCTION": 149,
+        "LINKING": 263,
+        "ELISION": 287,
+        "GLOTTAL_STOP": 259,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-344.acoustic.json",
+      "duration_sec": 6.92,
+      "processed_at": "2026-10-24T18:10:03.398658+00:00"
+    },
+    "slow-english-ep-346": {
+      "episodeNumber": 346,
+      "status": "COMPLETED",
+      "sentence_count": 142,
+      "phenomena_counts": {
+        "REDUCTION": 127,
+        "LINKING": 182,
+        "ELISION": 203,
+        "GLOTTAL_STOP": 202,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-346.acoustic.json",
+      "duration_sec": 5.21,
+      "processed_at": "2026-10-24T18:10:03.764386+00:00"
+    },
+    "slow-english-ep-345": {
+      "episodeNumber": 345,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 115,
+        "LINKING": 200,
+        "ELISION": 311,
+        "GLOTTAL_STOP": 282,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-345.acoustic.json",
+      "duration_sec": 5.54,
+      "processed_at": "2026-10-24T18:10:03.818025+00:00"
+    },
+    "slow-english-ep-347": {
+      "episodeNumber": 347,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 128,
+        "LINKING": 211,
+        "ELISION": 262,
+        "GLOTTAL_STOP": 283,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-347.acoustic.json",
+      "duration_sec": 6.07,
+      "processed_at": "2026-10-24T18:10:04.952036+00:00"
+    },
+    "slow-english-ep-348": {
+      "episodeNumber": 348,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 116,
+        "LINKING": 203,
+        "ELISION": 237,
+        "GLOTTAL_STOP": 223,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-348.acoustic.json",
+      "duration_sec": 5.69,
+      "processed_at": "2026-10-24T18:10:09.097882+00:00"
+    },
+    "slow-english-ep-349": {
+      "episodeNumber": 349,
+      "status": "COMPLETED",
+      "sentence_count": 142,
+      "phenomena_counts": {
+        "REDUCTION": 103,
+        "LINKING": 193,
+        "ELISION": 219,
+        "GLOTTAL_STOP": 233,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-349.acoustic.json",
+      "duration_sec": 5.49,
+      "processed_at": "2026-10-24T18:10:09.265166+00:00"
+    },
+    "slow-english-ep-350": {
+      "episodeNumber": 350,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 117,
+        "LINKING": 204,
+        "ELISION": 237,
+        "GLOTTAL_STOP": 242,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-350.acoustic.json",
+      "duration_sec": 5.81,
+      "processed_at": "2026-10-24T18:10:09.640090+00:00"
+    },
+    "slow-english-ep-351": {
+      "episodeNumber": 351,
+      "status": "COMPLETED",
+      "sentence_count": 148,
+      "phenomena_counts": {
+        "REDUCTION": 152,
+        "LINKING": 203,
+        "ELISION": 272,
+        "GLOTTAL_STOP": 256,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-351.acoustic.json",
+      "duration_sec": 5.92,
+      "processed_at": "2026-10-24T18:10:10.893114+00:00"
+    },
+    "slow-english-ep-352": {
+      "episodeNumber": 352,
+      "status": "COMPLETED",
+      "sentence_count": 125,
+      "phenomena_counts": {
+        "REDUCTION": 115,
+        "LINKING": 217,
+        "ELISION": 268,
+        "GLOTTAL_STOP": 314,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-352.acoustic.json",
+      "duration_sec": 5.73,
+      "processed_at": "2026-10-24T18:10:14.830923+00:00"
+    },
+    "slow-english-ep-353": {
+      "episodeNumber": 353,
+      "status": "COMPLETED",
+      "sentence_count": 137,
+      "phenomena_counts": {
+        "REDUCTION": 137,
+        "LINKING": 225,
+        "ELISION": 241,
+        "GLOTTAL_STOP": 248,
+        "ASSIMILATION": 11
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-353.acoustic.json",
+      "duration_sec": 5.68,
+      "processed_at": "2026-10-24T18:10:14.948544+00:00"
+    },
+    "slow-english-ep-354": {
+      "episodeNumber": 354,
+      "status": "COMPLETED",
+      "sentence_count": 127,
+      "phenomena_counts": {
+        "REDUCTION": 120,
+        "LINKING": 221,
+        "ELISION": 291,
+        "GLOTTAL_STOP": 295,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-354.acoustic.json",
+      "duration_sec": 5.7,
+      "processed_at": "2026-10-24T18:10:15.345333+00:00"
+    },
+    "slow-english-ep-355": {
+      "episodeNumber": 355,
+      "status": "COMPLETED",
+      "sentence_count": 147,
+      "phenomena_counts": {
+        "REDUCTION": 121,
+        "LINKING": 208,
+        "ELISION": 275,
+        "GLOTTAL_STOP": 277,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-355.acoustic.json",
+      "duration_sec": 5.76,
+      "processed_at": "2026-10-24T18:10:16.663487+00:00"
+    },
+    "slow-english-ep-357": {
+      "episodeNumber": 357,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 158,
+        "LINKING": 205,
+        "ELISION": 273,
+        "GLOTTAL_STOP": 242,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-357.acoustic.json",
+      "duration_sec": 5.64,
+      "processed_at": "2026-10-24T18:10:20.598588+00:00"
+    },
+    "slow-english-ep-356": {
+      "episodeNumber": 356,
+      "status": "COMPLETED",
+      "sentence_count": 123,
+      "phenomena_counts": {
+        "REDUCTION": 133,
+        "LINKING": 201,
+        "ELISION": 236,
+        "GLOTTAL_STOP": 256,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-356.acoustic.json",
+      "duration_sec": 5.8,
+      "processed_at": "2026-10-24T18:10:20.641997+00:00"
+    },
+    "slow-english-ep-358": {
+      "episodeNumber": 358,
+      "status": "COMPLETED",
+      "sentence_count": 120,
+      "phenomena_counts": {
+        "REDUCTION": 107,
+        "LINKING": 199,
+        "ELISION": 264,
+        "GLOTTAL_STOP": 248,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-358.acoustic.json",
+      "duration_sec": 5.79,
+      "processed_at": "2026-10-24T18:10:21.149060+00:00"
+    },
+    "slow-english-ep-359": {
+      "episodeNumber": 359,
+      "status": "COMPLETED",
+      "sentence_count": 146,
+      "phenomena_counts": {
+        "REDUCTION": 138,
+        "LINKING": 179,
+        "ELISION": 265,
+        "GLOTTAL_STOP": 233,
+        "ASSIMILATION": 7
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-359.acoustic.json",
+      "duration_sec": 5.74,
+      "processed_at": "2026-10-24T18:10:22.411362+00:00"
+    },
+    "slow-english-ep-361": {
+      "episodeNumber": 361,
+      "status": "COMPLETED",
+      "sentence_count": 123,
+      "phenomena_counts": {
+        "REDUCTION": 101,
+        "LINKING": 183,
+        "ELISION": 242,
+        "GLOTTAL_STOP": 237,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-361.acoustic.json",
+      "duration_sec": 5.56,
+      "processed_at": "2026-10-24T18:10:26.212016+00:00"
+    },
+    "slow-english-ep-360": {
+      "episodeNumber": 360,
+      "status": "COMPLETED",
+      "sentence_count": 127,
+      "phenomena_counts": {
+        "REDUCTION": 112,
+        "LINKING": 166,
+        "ELISION": 234,
+        "GLOTTAL_STOP": 239,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-360.acoustic.json",
+      "duration_sec": 5.75,
+      "processed_at": "2026-10-24T18:10:26.361441+00:00"
+    },
+    "slow-english-ep-362": {
+      "episodeNumber": 362,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 96,
+        "LINKING": 194,
+        "ELISION": 260,
+        "GLOTTAL_STOP": 241,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-362.acoustic.json",
+      "duration_sec": 5.65,
+      "processed_at": "2026-10-24T18:10:26.813975+00:00"
+    },
+    "slow-english-ep-363": {
+      "episodeNumber": 363,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 90,
+        "LINKING": 179,
+        "ELISION": 219,
+        "GLOTTAL_STOP": 215,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-363.acoustic.json",
+      "duration_sec": 4.86,
+      "processed_at": "2026-10-24T18:10:27.298516+00:00"
+    },
+    "slow-english-ep-364": {
+      "episodeNumber": 364,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 93,
+        "LINKING": 175,
+        "ELISION": 211,
+        "GLOTTAL_STOP": 230,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-364.acoustic.json",
+      "duration_sec": 4.78,
+      "processed_at": "2026-10-24T18:10:31.000862+00:00"
+    },
+    "slow-english-ep-365": {
+      "episodeNumber": 365,
+      "status": "COMPLETED",
+      "sentence_count": 146,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 176,
+        "ELISION": 249,
+        "GLOTTAL_STOP": 256,
+        "ASSIMILATION": 6
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-365.acoustic.json",
+      "duration_sec": 5.01,
+      "processed_at": "2026-10-24T18:10:31.376057+00:00"
+    },
+    "slow-english-ep-366": {
+      "episodeNumber": 366,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 97,
+        "LINKING": 160,
+        "ELISION": 212,
+        "GLOTTAL_STOP": 235,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-366.acoustic.json",
+      "duration_sec": 5.39,
+      "processed_at": "2026-10-24T18:10:32.215480+00:00"
+    },
+    "slow-english-ep-367": {
+      "episodeNumber": 367,
+      "status": "COMPLETED",
+      "sentence_count": 141,
+      "phenomena_counts": {
+        "REDUCTION": 112,
+        "LINKING": 158,
+        "ELISION": 231,
+        "GLOTTAL_STOP": 245,
+        "ASSIMILATION": 8
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-367.acoustic.json",
+      "duration_sec": 5.34,
+      "processed_at": "2026-10-24T18:10:32.636030+00:00"
+    },
+    "slow-english-ep-368": {
+      "episodeNumber": 368,
+      "status": "COMPLETED",
+      "sentence_count": 124,
+      "phenomena_counts": {
+        "REDUCTION": 86,
+        "LINKING": 157,
+        "ELISION": 262,
+        "GLOTTAL_STOP": 259,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-368.acoustic.json",
+      "duration_sec": 5.2,
+      "processed_at": "2026-10-24T18:10:36.210751+00:00"
+    },
+    "slow-english-ep-369": {
+      "episodeNumber": 369,
+      "status": "COMPLETED",
+      "sentence_count": 121,
+      "phenomena_counts": {
+        "REDUCTION": 103,
+        "LINKING": 175,
+        "ELISION": 242,
+        "GLOTTAL_STOP": 208,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-369.acoustic.json",
+      "duration_sec": 5.24,
+      "processed_at": "2026-10-24T18:10:36.622656+00:00"
+    },
+    "slow-english-ep-370": {
+      "episodeNumber": 370,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 92,
+        "LINKING": 164,
+        "ELISION": 251,
+        "GLOTTAL_STOP": 246,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-370.acoustic.json",
+      "duration_sec": 5.15,
+      "processed_at": "2026-10-24T18:10:37.388841+00:00"
+    },
+    "slow-english-ep-371": {
+      "episodeNumber": 371,
+      "status": "COMPLETED",
+      "sentence_count": 128,
+      "phenomena_counts": {
+        "REDUCTION": 126,
+        "LINKING": 196,
+        "ELISION": 247,
+        "GLOTTAL_STOP": 255,
+        "ASSIMILATION": 5
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-371.acoustic.json",
+      "duration_sec": 6.09,
+      "processed_at": "2026-10-24T18:10:38.757636+00:00"
+    },
+    "slow-english-ep-372": {
+      "episodeNumber": 372,
+      "status": "COMPLETED",
+      "sentence_count": 126,
+      "phenomena_counts": {
+        "REDUCTION": 95,
+        "LINKING": 232,
+        "ELISION": 315,
+        "GLOTTAL_STOP": 306,
+        "ASSIMILATION": 4
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-372.acoustic.json",
+      "duration_sec": 6.41,
+      "processed_at": "2026-10-24T18:10:42.631879+00:00"
+    },
+    "slow-english-ep-373": {
+      "episodeNumber": 373,
+      "status": "COMPLETED",
+      "sentence_count": 127,
+      "phenomena_counts": {
+        "REDUCTION": 102,
+        "LINKING": 206,
+        "ELISION": 300,
+        "GLOTTAL_STOP": 299,
+        "ASSIMILATION": 3
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-373.acoustic.json",
+      "duration_sec": 6.2,
+      "processed_at": "2026-10-24T18:10:42.830586+00:00"
+    },
+    "slow-english-ep-374": {
+      "episodeNumber": 374,
+      "status": "COMPLETED",
+      "sentence_count": 123,
+      "phenomena_counts": {
+        "REDUCTION": 112,
+        "LINKING": 209,
+        "ELISION": 292,
+        "GLOTTAL_STOP": 274,
+        "ASSIMILATION": 2
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-374.acoustic.json",
+      "duration_sec": 6.13,
+      "processed_at": "2026-10-24T18:10:43.529137+00:00"
+    },
+    "slow-english-ep-375": {
+      "episodeNumber": 375,
+      "status": "COMPLETED",
+      "sentence_count": 147,
+      "phenomena_counts": {
+        "REDUCTION": 131,
+        "LINKING": 214,
+        "ELISION": 267,
+        "GLOTTAL_STOP": 272,
+        "ASSIMILATION": 1
+      },
+      "output_file": "/Users/ac/Development/typecast/apps/web/public/data/acoustic/ep-375.acoustic.json",
+      "duration_sec": 5.5,
+      "processed_at": "2026-10-24T18:10:44.259487+00:00"
+    }
+  }
+}

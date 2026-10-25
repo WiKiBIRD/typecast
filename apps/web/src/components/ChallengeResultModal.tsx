@@ -1,10 +1,12 @@
 import React from 'react';
-import type { ChallengeScoreResult } from '@typecast/core';
+import type { ChallengeScoreResult, AcousticRadarProfile } from '@typecast/core';
 import confetti from 'canvas-confetti';
+import { AcousticRadarView } from './acoustic/AcousticRadarView';
 
 interface Props {
   currentResult: ChallengeScoreResult;
   bestScore?: number;
+  radarProfile?: AcousticRadarProfile | null;
   onRetry: () => void;
   onNextEpisode?: () => void;
   onBackToList: () => void;
@@ -13,6 +15,7 @@ interface Props {
 export function ChallengeResultModal({
   currentResult,
   bestScore,
+  radarProfile,
   onRetry,
   onNextEpisode,
   onBackToList,
@@ -94,6 +97,13 @@ export function ChallengeResultModal({
                 <span className="font-mono text-gray-200 font-bold">{currentResult.wpm} WPM</span>
               </div>
             </div>
+
+            {/* FSRS 五维声学知觉雷达图 */}
+            {radarProfile && (
+              <div className="mt-6 pt-4 border-t border-gray-800/80 flex flex-col items-center">
+                <AcousticRadarView profile={radarProfile} size={250} />
+              </div>
+            )}
           </div>
 
           {/* 交互按钮 */}
