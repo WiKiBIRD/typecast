@@ -52,6 +52,7 @@ export class ChunkAudioPlayer {
     this._isSeeking = false;
     this._currentChunk = chunk;
     this._seekAheadMs = chunk.seekAheadMs;
+    this._setState('PLAYING');
 
     if (this._mode === 'web-audio') {
       this._playChunkWebAudio(chunk.startSec);
@@ -207,10 +208,10 @@ export class ChunkAudioPlayer {
     this._audio.currentTime = startSec;
     this._audio.play()
       .then(() => {
-        if (this._state !== 'PAUSED' && this._state !== 'IDLE') {
-          this._setState('PLAYING');
-        } else {
+        if (this._state === 'PAUSED') {
           this._audio?.pause();
+        } else {
+          this._setState('PLAYING');
         }
       })
       .catch(err => {
@@ -228,7 +229,7 @@ export class ChunkAudioPlayer {
     this._gainNode.gain.linearRampToValueAtTime(0, now + FADE_MS / 1000);
 
     await new Promise<void>(r => setTimeout(r, FADE_MS + 2));
-    if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') return;
+    if ((this._state as PlayerState) === 'PAUSED') return;
     this._playChunkWebAudio(targetSec);
 
     const t0 = this._ctx.currentTime;
@@ -243,7 +244,7 @@ export class ChunkAudioPlayer {
     try {
       audio.currentTime = targetSec;
       await audio.play();
-      if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') {
+      if ((this._state as PlayerState) === 'PAUSED') {
         audio.pause();
         return;
       }
@@ -260,7 +261,7 @@ export class ChunkAudioPlayer {
     if (typeof requestAnimationFrame === 'undefined') return;
 
     const tick = () => {
-      if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') {
+      if ((this._state as PlayerState) === 'PAUSED') {
         this._stopRaf();
         return;
       }

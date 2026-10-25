@@ -327,7 +327,17 @@ export function usePracticeSession(
     });
   }, [viewState.roundCompleted]);
 
-  // Init typing engine and audio player
+  const saveProgressToDbRef = useRef(saveProgressToDb);
+  useEffect(() => {
+    saveProgressToDbRef.current = saveProgressToDb;
+  }, [saveProgressToDb]);
+
+  const loadSentenceAcousticsRef = useRef(loadSentenceAcoustics);
+  useEffect(() => {
+    loadSentenceAcousticsRef.current = loadSentenceAcoustics;
+  }, [loadSentenceAcoustics]);
+
+  // Init typing engine and audio player (Singleton lifecycle across session)
   useEffect(() => {
     const engine = new TypingEngineCore({ judgeMode: 'STRICT' });
     const player = new ChunkAudioPlayer();
@@ -406,7 +416,7 @@ export function usePracticeSession(
 
           const firstSentence = ep.sentences[0]!;
           engine.loadSentence(firstSentence);
-          loadSentenceAcoustics(firstSentence, 0);
+          loadSentenceAcousticsRef.current(firstSentence, 0);
 
           const chunk: AudioChunk = {
             audioUrl: ep.audioUrl,
@@ -426,7 +436,7 @@ export function usePracticeSession(
       } else {
         const nextSentence = ep.sentences[nextIdx]!;
         engine.loadSentence(nextSentence);
-        loadSentenceAcoustics(nextSentence, nextIdx);
+        loadSentenceAcousticsRef.current(nextSentence, nextIdx);
 
         const chunk: AudioChunk = {
           audioUrl: ep.audioUrl,
@@ -444,7 +454,7 @@ export function usePracticeSession(
         }
       }
 
-      await saveProgressToDb();
+      await saveProgressToDbRef.current();
     });
 
     player.on('stateChange', (state) => {
@@ -461,7 +471,7 @@ export function usePracticeSession(
       player.pause();
       unsubFSM();
     };
-  }, [saveProgressToDb, loadSentenceAcoustics]);
+  }, []);
 
   const togglePlayPause = useCallback(() => {
     const player = playerRef.current;
@@ -643,6 +653,8 @@ export function usePracticeSession(
       sentenceId: firstSentence.id,
     };
     currentChunkRef.current = chunk;
+    setIsAudioPaused(false);
+    isAudioPausedRef.current = false;
     player.playChunk(chunk);
     player.setLooping(round !== 4);
 
@@ -736,6 +748,8 @@ export function usePracticeSession(
       sentenceId: targetSentence.id,
     };
     currentChunkRef.current = chunk;
+    setIsAudioPaused(false);
+    isAudioPausedRef.current = false;
     player.playChunk(chunk);
     player.setLooping(targetRound !== 4);
     fsm.transition('LOAD');
@@ -799,6 +813,8 @@ export function usePracticeSession(
       sentenceId: firstSentence.id,
     };
     currentChunkRef.current = chunk;
+    setIsAudioPaused(false);
+    isAudioPausedRef.current = false;
     player.playChunk(chunk);
     player.setLooping(currentRoundRef.current !== 4);
     fsm.transition('AUDIO_CAN_PLAY');
