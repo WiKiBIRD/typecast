@@ -499,13 +499,13 @@ export function PracticePage() {
             }}
             className={`flex items-center gap-1.5 px-3 py-1 border rounded-lg text-xs font-mono transition-all cursor-pointer ${
               isAudioPaused
-                ? 'bg-amber-500/20 border-amber-500/50 text-amber-300 hover:bg-amber-500/30 font-semibold'
+                ? 'bg-amber-500/20 border-amber-500/50 text-amber-300 hover:bg-amber-500/30 font-semibold shadow-md shadow-amber-950/40'
                 : 'bg-gray-900 hover:bg-gray-800 border-gray-800 text-gray-300 hover:text-white'
             }`}
-            title="离开电脑或暂停音频循环"
+            title="快捷键: Esc 暂停/恢复音频"
           >
             <span>{isAudioPaused ? '▶️' : '⏸️'}</span>
-            <span>{isAudioPaused ? '继续播放' : '暂停音频'}</span>
+            <span>{isAudioPaused ? '继续播放 (Esc)' : '暂停音频 (Esc)'}</span>
           </button>
 
           {/* Round 3: 局部显微慢放快捷按钮 */}

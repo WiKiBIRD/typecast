@@ -417,9 +417,11 @@ export function usePracticeSession(
           };
           currentChunkRef.current = chunk;
           fsm.transition('SENTENCE_ADVANCE');
-          player.playChunk(chunk);
-          player.setLooping(nextRound !== 4);
-          fsm.transition('AUDIO_CAN_PLAY');
+          if (!isAudioPausedRef.current) {
+            player.playChunk(chunk);
+            player.setLooping(nextRound !== 4);
+            fsm.transition('AUDIO_CAN_PLAY');
+          }
         }
       } else {
         const nextSentence = ep.sentences[nextIdx]!;
@@ -435,9 +437,11 @@ export function usePracticeSession(
         };
         currentChunkRef.current = chunk;
         fsm.transition('SENTENCE_ADVANCE');
-        player.playChunk(chunk);
-        player.setLooping(currentRoundRef.current !== 4);
-        fsm.transition('AUDIO_CAN_PLAY');
+        if (!isAudioPausedRef.current) {
+          player.playChunk(chunk);
+          player.setLooping(currentRoundRef.current !== 4);
+          fsm.transition('AUDIO_CAN_PLAY');
+        }
       }
 
       await saveProgressToDb();
@@ -459,6 +463,64 @@ export function usePracticeSession(
     };
   }, [saveProgressToDb, loadSentenceAcoustics]);
 
+  const togglePlayPause = useCallback(() => {
+    const player = playerRef.current;
+    const ep = episodeRef.current;
+    if (!player) return;
+
+    if (isAudioPausedRef.current) {
+      // Audio Playback Guard: re-anchor to current sentence chunk
+      const currIdx = sentenceIdxRef.current;
+      if (ep && ep.sentences[currIdx]) {
+        const currSentence = ep.sentences[currIdx];
+        const chunk: AudioChunk = {
+          audioUrl: ep.audioUrl,
+          startSec: currSentence.start,
+          endSec: currSentence.end,
+          seekAheadMs: seekAheadMsRef.current,
+          sentenceId: currSentence.id,
+        };
+        currentChunkRef.current = chunk;
+        player.playChunk(chunk);
+      } else if (currentChunkRef.current) {
+        player.playChunk(currentChunkRef.current);
+      } else {
+        player.resume();
+      }
+      isAudioPausedRef.current = false;
+      setIsAudioPaused(false);
+    } else {
+      player.pause();
+      lensPlayerRef.current.stop();
+      isAudioPausedRef.current = true;
+      setIsAudioPaused(true);
+    }
+  }, []);
+
+  // MediaSession API integration for hardware/headphone play-pause keys
+  useEffect(() => {
+    if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+      navigator.mediaSession.setActionHandler('play', () => {
+        if (isAudioPausedRef.current) {
+          togglePlayPause();
+        }
+      });
+      navigator.mediaSession.setActionHandler('pause', () => {
+        if (!isAudioPausedRef.current) {
+          togglePlayPause();
+        }
+      });
+    }
+    return () => {
+      if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+        try {
+          navigator.mediaSession.setActionHandler('play', null);
+          navigator.mediaSession.setActionHandler('pause', null);
+        } catch { /* ignore */ }
+      }
+    };
+  }, [togglePlayPause]);
+
   // Global keystroke capturing with acoustic analysis
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
     const fsm = fsmRef.current;
@@ -466,12 +528,22 @@ export function usePracticeSession(
     const player = playerRef.current;
     if (!fsm || !engine || !player) return;
 
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      togglePlayPause();
+      return;
+    }
+
     if (e.key === 'Tab') {
       e.preventDefault();
       if (currentRoundRef.current === 4) {
         pauseCountRef.current++;
       }
       fsm.transition('TAB_REPLAY');
+      if (isAudioPausedRef.current) {
+        isAudioPausedRef.current = false;
+        setIsAudioPaused(false);
+      }
       player.replayCurrentChunk();
       engine.reset();
       return;
@@ -534,7 +606,7 @@ export function usePracticeSession(
     }
 
     engine.handleKeyInput(e.key);
-  }, [triggerLensReplay]);
+  }, [triggerLensReplay, togglePlayPause]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
@@ -738,36 +810,6 @@ export function usePracticeSession(
     });
   }, [viewState.roundCompleted, loadSentenceAcoustics]);
 
-  const togglePlayPause = useCallback(() => {
-    const player = playerRef.current;
-    const ep = episodeRef.current;
-    if (!player) return;
-
-    if (isAudioPaused) {
-      // Audio Playback Guard: re-anchor to current sentence chunk
-      const currIdx = sentenceIdxRef.current;
-      if (ep && ep.sentences[currIdx]) {
-        const currSentence = ep.sentences[currIdx];
-        const chunk: AudioChunk = {
-          audioUrl: ep.audioUrl,
-          startSec: currSentence.start,
-          endSec: currSentence.end,
-          seekAheadMs: seekAheadMsRef.current,
-          sentenceId: currSentence.id,
-        };
-        currentChunkRef.current = chunk;
-        player.playChunk(chunk);
-      } else if (currentChunkRef.current) {
-        player.playChunk(currentChunkRef.current);
-      }
-      setIsAudioPaused(false);
-    } else {
-      player.pause();
-      lensPlayerRef.current.stop();
-      setIsAudioPaused(true);
-    }
-  }, [isAudioPaused]);
-
   const handleTabKey = useCallback(() => {
     const fsm = fsmRef.current;
     const engine = engineRef.current;
@@ -779,6 +821,11 @@ export function usePracticeSession(
       pauseCountRef.current++;
     }
     fsm.transition('TAB_REPLAY');
+
+    if (isAudioPausedRef.current) {
+      isAudioPausedRef.current = false;
+      setIsAudioPaused(false);
+    }
 
     // Audio Playback Guard: ensure we replay the audio strictly for currentSentence
     const currIdx = sentenceIdxRef.current;

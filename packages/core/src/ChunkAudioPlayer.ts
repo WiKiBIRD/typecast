@@ -67,10 +67,13 @@ export class ChunkAudioPlayer {
   }
 
   pause(): void {
+    this._stopRaf();
     if (this._mode === 'web-audio') {
       this._ctx?.suspend();
     } else {
-      this._audio?.pause();
+      if (this._audio) {
+        this._audio.pause();
+      }
     }
     this._setState('PAUSED');
   }
@@ -82,6 +85,7 @@ export class ChunkAudioPlayer {
       this._audio?.play().catch(err => this._emit('error', err));
     }
     this._setState('PLAYING');
+    this._startRaf();
   }
 
   replayCurrentChunk(): void {
@@ -202,8 +206,18 @@ export class ChunkAudioPlayer {
     if (!this._audio) return;
     this._audio.currentTime = startSec;
     this._audio.play()
-      .then(() => this._setState('PLAYING'))
-      .catch(err => this._emit('error', err));
+      .then(() => {
+        if (this._state !== 'PAUSED' && this._state !== 'IDLE') {
+          this._setState('PLAYING');
+        } else {
+          this._audio?.pause();
+        }
+      })
+      .catch(err => {
+        if (this._state !== 'PAUSED') {
+          this._emit('error', err);
+        }
+      });
   }
 
   private async _seekWithFadeWebAudio(targetSec: number): Promise<void> {
@@ -214,6 +228,7 @@ export class ChunkAudioPlayer {
     this._gainNode.gain.linearRampToValueAtTime(0, now + FADE_MS / 1000);
 
     await new Promise<void>(r => setTimeout(r, FADE_MS + 2));
+    if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') return;
     this._playChunkWebAudio(targetSec);
 
     const t0 = this._ctx.currentTime;
@@ -228,6 +243,10 @@ export class ChunkAudioPlayer {
     try {
       audio.currentTime = targetSec;
       await audio.play();
+      if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') {
+        audio.pause();
+        return;
+      }
       this._emit('seekComplete', targetSec);
     } catch (e) {
       console.warn('音频重新播放失败:', e);
@@ -238,7 +257,13 @@ export class ChunkAudioPlayer {
 
   private _startRaf(): void {
     this._stopRaf();
+    if (typeof requestAnimationFrame === 'undefined') return;
+
     const tick = () => {
+      if ((this._state as PlayerState) === 'PAUSED' || (this._state as PlayerState) === 'IDLE') {
+        this._stopRaf();
+        return;
+      }
       if (!this._currentChunk) return;
 
       const current = this.currentTimeSec;
@@ -265,14 +290,18 @@ export class ChunkAudioPlayer {
         }
       }
 
-      this._rafId = requestAnimationFrame(tick);
+      if (typeof requestAnimationFrame !== 'undefined') {
+        this._rafId = requestAnimationFrame(tick);
+      }
     };
     this._rafId = requestAnimationFrame(tick);
   }
 
   private _stopRaf(): void {
     if (this._rafId !== null) {
-      cancelAnimationFrame(this._rafId);
+      if (typeof cancelAnimationFrame !== 'undefined') {
+        cancelAnimationFrame(this._rafId);
+      }
       this._rafId = null;
     }
   }
