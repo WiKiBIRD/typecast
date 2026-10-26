@@ -2,6 +2,7 @@ import { useEffect, useReducer, useRef, useCallback, useState } from 'react';
 import {
   PracticeFSM,
   TypingEngineCore,
+  shouldCaptureKeystroke,
   ChunkAudioPlayer,
   ScoringEngine,
   db,
@@ -599,6 +600,9 @@ export function usePracticeSession(
     const engine = engineRef.current;
     const player = playerRef.current;
     if (!fsm || !engine || !player) return;
+
+    const isSessionReady = Boolean(episodeRef.current && engine.hasSentence);
+    if (!shouldCaptureKeystroke(e.target, isSessionReady)) return;
 
     if (e.key === 'Escape') {
       e.preventDefault();

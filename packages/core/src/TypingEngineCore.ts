@@ -73,10 +73,7 @@ export class TypingEngineCore {
     if (key === 'Tab' || key === 'Escape') return 'SKIP';
 
     if (key === 'Backspace') {
-      if (this._cursorIndex > 0 && this._errorCount > 0) {
-        this._cursorIndex--;
-        this._errorCount--;
-      }
+      this._consecutiveErrors = 0;
       return 'CORRECT';
     }
 
@@ -204,8 +201,40 @@ export class TypingEngineCore {
   ): void {
     const handlers = this._listeners.get(event);
     if (!handlers) return;
-    for (const handler of handlers) {
-      (handler as (...args: unknown[]) => void)(...args);
+    for (const h of handlers) {
+      (h as (...args: unknown[]) => void)(...args);
     }
   }
+}
+
+/**
+ * Pure keystroke guard (Module M5).
+ * Determines whether a global `keydown` event should be captured by the practice session
+ * rather than handled natively by browser inputs (e.g. episode search bar).
+ */
+export function shouldCaptureKeystroke(
+  target: EventTarget | null,
+  isSessionReady: boolean
+): boolean {
+  if (!isSessionReady) {
+    return false;
+  }
+  if (target && typeof target === 'object') {
+    const el = target as {
+      tagName?: string;
+      id?: string;
+      isContentEditable?: boolean;
+    };
+    const tag = typeof el.tagName === 'string' ? el.tagName.toUpperCase() : '';
+    if (tag === 'INPUT' && el.id !== 'typecast-hidden-input') {
+      return false;
+    }
+    if (tag === 'TEXTAREA' || tag === 'SELECT') {
+      return false;
+    }
+    if (el.isContentEditable) {
+      return false;
+    }
+  }
+  return true;
 }

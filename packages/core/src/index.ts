@@ -1,5 +1,5 @@
 export { PracticeFSM } from './PracticeFSM';
-export { TypingEngineCore } from './TypingEngineCore';
+export { TypingEngineCore, shouldCaptureKeystroke } from './TypingEngineCore';
 export { ChunkAudioPlayer } from './ChunkAudioPlayer';
 export { ScoringEngine, type ChallengeScoreParams, type ChallengeScoreResult } from './ScoringEngine';
 export { db, saveProgress, type EpisodeProgressRecord } from './db';

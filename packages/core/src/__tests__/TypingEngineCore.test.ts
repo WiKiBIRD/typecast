@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { TypingEngineCore } from '../TypingEngineCore';
+import { TypingEngineCore, shouldCaptureKeystroke } from '../TypingEngineCore';
 import type { Sentence } from '@typecast/shared-types';
 
 function makeSentence(text: string, id = 1): Sentence {
@@ -58,14 +58,20 @@ describe('TypingEngineCore — LENIENT 模式', () => {
     expect(engine.cursorIndex).toBe(0);
   });
 
-  it('TC-05: Backspace 消除上一个错误', () => {
+  it('TC-05: Backspace 重置连续错误计数且不吞噬已正确输入的字符或总错误数', () => {
     engine.loadSentence(makeSentence('hello'));
-    engine.handleKeyInput('x');
-    expect(engine.errorCount).toBe(1);
     engine.handleKeyInput('h');
     expect(engine.cursorIndex).toBe(1);
+    engine.handleKeyInput('x');
+    engine.handleKeyInput('x');
+    expect(engine.errorCount).toBe(2);
+    expect(engine.consecutiveErrors).toBe(2);
+    expect(engine.cursorIndex).toBe(1);
+
     engine.handleKeyInput('Backspace');
-    expect(engine.cursorIndex).toBe(0);
+    expect(engine.cursorIndex).toBe(1);
+    expect(engine.errorCount).toBe(2);
+    expect(engine.consecutiveErrors).toBe(0);
   });
 
   it('TC-06: Tab 键返回 SKIP', () => {
@@ -168,5 +174,22 @@ describe('TypingEngineCore — STRICT 模式', () => {
     engine.handleKeyInput('i');
     expect(engine.cursorIndex).toBe(2);
     expect(engine.handleKeyInput(',')).toBe('CORRECT');
+  });
+
+  it('TC-M5-01: shouldCaptureKeystroke 守卫在未进入练习或焦点在搜索框时不拦截按键', () => {
+    const searchInput = { tagName: 'INPUT', id: 'episode-search' } as unknown as EventTarget;
+    const hiddenInput = { tagName: 'INPUT', id: 'typecast-hidden-input' } as unknown as EventTarget;
+    const textarea = { tagName: 'TEXTAREA' } as unknown as EventTarget;
+    const body = { tagName: 'BODY' } as unknown as EventTarget;
+
+    // Session not ready -> never capture
+    expect(shouldCaptureKeystroke(body, false)).toBe(false);
+    expect(shouldCaptureKeystroke(hiddenInput, false)).toBe(false);
+
+    // Session ready -> block regular input/textarea, allow body or hidden input
+    expect(shouldCaptureKeystroke(searchInput, true)).toBe(false);
+    expect(shouldCaptureKeystroke(textarea, true)).toBe(false);
+    expect(shouldCaptureKeystroke(body, true)).toBe(true);
+    expect(shouldCaptureKeystroke(hiddenInput, true)).toBe(true);
   });
 });
