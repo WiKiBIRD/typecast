@@ -16,6 +16,7 @@ export class ChunkAudioPlayer {
 
   // Native HTMLAudioElement
   private _audio: HTMLAudioElement | null = null;
+  /** @deprecated Seek-ahead tail subtraction is removed in M1; use computePlaybackWindow instead. */
   private _seekAheadMs: number = 80;
 
   // Web Audio API
@@ -268,11 +269,10 @@ export class ChunkAudioPlayer {
       if (!this._currentChunk) return;
 
       const current = this.currentTimeSec;
-      const endWithAhead = this._currentChunk.endSec - this._seekAheadMs / 1000;
 
       this._emit('timeUpdate', current);
 
-      if (current >= this._currentChunk.startSec && current >= endWithAhead && !this._isSeeking) {
+      if (current >= this._currentChunk.startSec && current >= this._currentChunk.endSec && !this._isSeeking) {
         if (this._looping) {
           this._isSeeking = true;
           this._setState('LOOPING');

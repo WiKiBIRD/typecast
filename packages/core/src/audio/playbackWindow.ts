@@ -23,19 +23,39 @@ export interface PlaybackWindowResult {
 
 /**
  * Computes safe playback start/end timestamps (in seconds) for sentence at `idx`.
- * Stub in M0 (returns raw boundaries); implemented in M1.
+ * Dynamically pads pre-roll and post-roll up to `maxPreRollSec` / `maxPostRollSec`,
+ * clamped to half the gap with adjacent sentences so adjacent windows never overlap.
  */
 export function computePlaybackWindow(
   sentences: readonly SentenceSpan[],
   idx: number,
   durationSec?: number,
-  _opts?: PlaybackWindowOptions
+  opts?: PlaybackWindowOptions
 ): PlaybackWindowResult {
   const current = sentences[idx];
   if (!current) {
     return { startSec: 0, endSec: 0 };
   }
-  const startSec = Math.max(0, current.start);
-  const endSec = durationSec && durationSec > 0 ? Math.min(durationSec, current.end) : current.end;
+
+  const maxPreRollSec = opts?.maxPreRollSec ?? 0.08;
+  const maxPostRollSec = opts?.maxPostRollSec ?? 0.12;
+
+  const prev = idx > 0 ? sentences[idx - 1] : undefined;
+  const next = idx < sentences.length - 1 ? sentences[idx + 1] : undefined;
+
+  const gapPrev = prev ? Math.max(0, current.start - prev.end) : Infinity;
+  const gapNext = next ? Math.max(0, next.start - current.end) : Infinity;
+
+  const preRoll = Math.min(maxPreRollSec, gapPrev / 2);
+  const postRoll = Math.min(maxPostRollSec, gapNext / 2);
+
+  const startSec = Math.max(0, current.start - preRoll);
+  const rawEndSec = current.end + postRoll;
+  const effectiveCeiling =
+    durationSec !== undefined && durationSec > 0
+      ? Math.max(durationSec, current.end)
+      : Infinity;
+  const endSec = Math.min(effectiveCeiling, rawEndSec);
+
   return { startSec, endSec };
 }

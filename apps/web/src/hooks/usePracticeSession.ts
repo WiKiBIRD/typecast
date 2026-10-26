@@ -15,6 +15,7 @@ import {
   AcousticLensAudioPlayer,
   acousticStorage,
   ScaffoldLevel,
+  computePlaybackWindow,
   type ChallengeScoreResult,
   type EpisodeProgressRecord,
   type AcousticChunkData,
@@ -194,6 +195,23 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
     default:
       return state;
   }
+}
+
+export function buildAudioChunk(
+  ep: Episode,
+  sentenceIdx: number,
+  seekAheadMs: number = 80
+): AudioChunk {
+  const sentence = ep.sentences[sentenceIdx] || ep.sentences[0]!;
+  const resolvedIdx = ep.sentences[sentenceIdx] ? sentenceIdx : 0;
+  const { startSec, endSec } = computePlaybackWindow(ep.sentences, resolvedIdx, ep.duration);
+  return {
+    audioUrl: ep.audioUrl,
+    startSec,
+    endSec,
+    seekAheadMs,
+    sentenceId: sentence.id,
+  };
 }
 
 export function usePracticeSession(
@@ -418,13 +436,7 @@ export function usePracticeSession(
           engine.loadSentence(firstSentence);
           loadSentenceAcousticsRef.current(firstSentence, 0);
 
-          const chunk: AudioChunk = {
-            audioUrl: ep.audioUrl,
-            startSec: firstSentence.start,
-            endSec: firstSentence.end,
-            seekAheadMs: seekAheadMsRef.current,
-            sentenceId: firstSentence.id,
-          };
+          const chunk = buildAudioChunk(ep, 0, seekAheadMsRef.current);
           currentChunkRef.current = chunk;
           fsm.transition('SENTENCE_ADVANCE');
           if (!isAudioPausedRef.current) {
@@ -438,13 +450,7 @@ export function usePracticeSession(
         engine.loadSentence(nextSentence);
         loadSentenceAcousticsRef.current(nextSentence, nextIdx);
 
-        const chunk: AudioChunk = {
-          audioUrl: ep.audioUrl,
-          startSec: nextSentence.start,
-          endSec: nextSentence.end,
-          seekAheadMs: seekAheadMsRef.current,
-          sentenceId: nextSentence.id,
-        };
+        const chunk = buildAudioChunk(ep, nextIdx, seekAheadMsRef.current);
         currentChunkRef.current = chunk;
         fsm.transition('SENTENCE_ADVANCE');
         if (!isAudioPausedRef.current) {
@@ -482,14 +488,7 @@ export function usePracticeSession(
       // Audio Playback Guard: re-anchor to current sentence chunk
       const currIdx = sentenceIdxRef.current;
       if (ep && ep.sentences[currIdx]) {
-        const currSentence = ep.sentences[currIdx];
-        const chunk: AudioChunk = {
-          audioUrl: ep.audioUrl,
-          startSec: currSentence.start,
-          endSec: currSentence.end,
-          seekAheadMs: seekAheadMsRef.current,
-          sentenceId: currSentence.id,
-        };
+        const chunk = buildAudioChunk(ep, currIdx, seekAheadMsRef.current);
         currentChunkRef.current = chunk;
         player.playChunk(chunk);
       } else if (currentChunkRef.current) {
@@ -645,13 +644,7 @@ export function usePracticeSession(
     engine.loadSentence(firstSentence);
     loadSentenceAcoustics(firstSentence, 0);
 
-    const chunk: AudioChunk = {
-      audioUrl: ep.audioUrl,
-      startSec: firstSentence.start,
-      endSec: firstSentence.end,
-      seekAheadMs: seekAheadMsRef.current,
-      sentenceId: firstSentence.id,
-    };
+    const chunk = buildAudioChunk(ep, 0, seekAheadMsRef.current);
     currentChunkRef.current = chunk;
     setIsAudioPaused(false);
     isAudioPausedRef.current = false;
@@ -740,13 +733,7 @@ export function usePracticeSession(
     engine.loadSentence(targetSentence);
     loadSentenceAcoustics(targetSentence, targetSentenceIdx);
 
-    const chunk: AudioChunk = {
-      audioUrl: episode.audioUrl,
-      startSec: targetSentence.start,
-      endSec: targetSentence.end,
-      seekAheadMs: seekAheadMsRef.current,
-      sentenceId: targetSentence.id,
-    };
+    const chunk = buildAudioChunk(episode, targetSentenceIdx, seekAheadMsRef.current);
     currentChunkRef.current = chunk;
     setIsAudioPaused(false);
     isAudioPausedRef.current = false;
@@ -805,13 +792,7 @@ export function usePracticeSession(
     engine.loadSentence(firstSentence);
     loadSentenceAcoustics(firstSentence, 0);
 
-    const chunk: AudioChunk = {
-      audioUrl: ep.audioUrl,
-      startSec: firstSentence.start,
-      endSec: firstSentence.end,
-      seekAheadMs: seekAheadMsRef.current,
-      sentenceId: firstSentence.id,
-    };
+    const chunk = buildAudioChunk(ep, 0, seekAheadMsRef.current);
     currentChunkRef.current = chunk;
     setIsAudioPaused(false);
     isAudioPausedRef.current = false;
@@ -846,14 +827,7 @@ export function usePracticeSession(
     // Audio Playback Guard: ensure we replay the audio strictly for currentSentence
     const currIdx = sentenceIdxRef.current;
     if (ep && ep.sentences[currIdx]) {
-      const currSentence = ep.sentences[currIdx];
-      const chunk: AudioChunk = {
-        audioUrl: ep.audioUrl,
-        startSec: currSentence.start,
-        endSec: currSentence.end,
-        seekAheadMs: seekAheadMsRef.current,
-        sentenceId: currSentence.id,
-      };
+      const chunk = buildAudioChunk(ep, currIdx, seekAheadMsRef.current);
       currentChunkRef.current = chunk;
       player.playChunk(chunk);
     } else {
