@@ -1,4 +1,5 @@
 import Dexie, { type Table } from 'dexie';
+import { mergeProgress, type EpisodeProgressPatch } from './progress/mergeProgress';
 
 export interface EpisodeProgressRecord {
   episodeId: string;           // "slow-english-ep-01"
@@ -32,3 +33,18 @@ export class TypeCastDB extends Dexie {
 }
 
 export const db = new TypeCastDB();
+
+/**
+ * Safely reads, merges, and persists an EpisodeProgressRecord inside a Dexie transaction,
+ * preserving monotonic fields (`roundCompleted` flags and `bestScore` high watermark).
+ */
+export async function saveProgress(
+  patch: EpisodeProgressPatch
+): Promise<EpisodeProgressRecord> {
+  return db.transaction('rw', db.progress, async () => {
+    const existing = await db.progress.get(patch.episodeId);
+    const merged = mergeProgress(existing, patch, Date.now());
+    await db.progress.put(merged);
+    return merged;
+  });
+}

@@ -5,6 +5,7 @@ import {
   ChunkAudioPlayer,
   ScoringEngine,
   db,
+  saveProgress,
   sentenceToAcousticChunk,
   KeystrokeTracker,
   AcousticCharMapper,
@@ -67,7 +68,12 @@ type ViewAction =
   | { type: 'SENTENCE_DONE'; stats: SentenceStats; nextIdx: number }
   | { type: 'SET_ROUND'; round: TrainingRound }
   | { type: 'ROUND_FINISHED'; round: TrainingRound }
-  | { type: 'CHALLENGE_DONE'; result: ChallengeScoreResult; radarProfile?: AcousticRadarProfile }
+  | {
+      type: 'CHALLENGE_DONE';
+      result: ChallengeScoreResult;
+      radarProfile?: AcousticRadarProfile;
+      bestScore?: PracticeViewState['bestScore'];
+    }
   | { type: 'DISMISS_CHALLENGE' }
   | { type: 'LOAD_DB_RECORD'; record: EpisodeProgressRecord }
   | { type: 'INIT_SESSION'; sentenceIdx: number; round: TrainingRound }
@@ -140,12 +146,20 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
           [`round${action.round}`]: true,
         },
       };
-    case 'CHALLENGE_DONE':
+    case 'CHALLENGE_DONE': {
+      let nextBest = state.bestScore;
+      if (action.bestScore) {
+        if (!nextBest || action.bestScore.score >= nextBest.score) {
+          nextBest = action.bestScore;
+        }
+      }
       return {
         ...state,
         challengeResult: action.result,
         radarProfile: action.radarProfile ?? state.radarProfile,
+        bestScore: nextBest,
       };
+    }
     case 'DISMISS_CHALLENGE':
       return { ...state, challengeResult: null };
     case 'LOAD_DB_RECORD': {
@@ -257,6 +271,12 @@ export function usePracticeSession(
 
   const episodeRef = useRef<Episode | null>(null);
   const currentRoundRef = useRef<TrainingRound>(1);
+  const roundCompletedRef = useRef<PracticeViewState['roundCompleted']>({
+    round1: false,
+    round2: false,
+    round3: false,
+    round4: false,
+  });
   const sentenceIdxRef = useRef<number>(0);
   const completedSentencesRef = useRef<SentenceStats[]>([]);
   const seekAheadMsRef = useRef(seekAheadMs);
@@ -330,23 +350,19 @@ export function usePracticeSession(
     lensPlayerRef.current.playTargetLensOnly(wordData.start_ms, wordData.end_ms, 80, 0.7);
   }, []);
 
-  const saveProgressToDb = useCallback(async () => {
+  const saveProgressToDb = useCallback(async (bestScorePatch?: PracticeViewState['bestScore']) => {
     const ep = episodeRef.current;
     if (!ep) return;
 
-    await db.progress.put({
+    await saveProgress({
       episodeId: ep.episodeId,
       currentRound: currentRoundRef.current,
       currentSentenceIdx: sentenceIdxRef.current,
-      roundCompleted: {
-        round1: viewState.roundCompleted.round1,
-        round2: viewState.roundCompleted.round2,
-        round3: viewState.roundCompleted.round3,
-        round4: viewState.roundCompleted.round4,
-      },
+      roundCompleted: { ...roundCompletedRef.current },
+      ...(bestScorePatch ? { bestScore: bestScorePatch } : {}),
       updatedAt: Date.now(),
     });
-  }, [viewState.roundCompleted]);
+  }, []);
 
   const saveProgressToDbRef = useRef(saveProgressToDb);
   useEffect(() => {
@@ -394,8 +410,14 @@ export function usePracticeSession(
       dispatch({ type: 'SENTENCE_DONE', stats, nextIdx });
       sentenceIdxRef.current = nextIdx;
 
+      let bestScorePatch: PracticeViewState['bestScore'] | undefined;
+
       if (isLast) {
         const finishedRound = currentRoundRef.current;
+        roundCompletedRef.current = {
+          ...roundCompletedRef.current,
+          [`round${finishedRound}`]: true,
+        };
         dispatch({ type: 'ROUND_FINISHED', round: finishedRound });
 
         if (finishedRound === 4) {
@@ -413,9 +435,24 @@ export function usePracticeSession(
             pauseCount: pauseCountRef.current,
           });
 
+          const computedStars: 1 | 2 | 3 =
+            evalResult.score >= 96 ? 3 : evalResult.score >= 90 ? 2 : 1;
+          bestScorePatch = {
+            score: evalResult.score,
+            accuracy: evalResult.accuracy,
+            wpm: evalResult.wpm,
+            stars: computedStars,
+            achievedAt: Date.now(),
+          };
+
           // Generate FSRS 5D Radar profile for modal
           const radarProfile = metricsExporterRef.current.exportRadarProfile();
-          dispatch({ type: 'CHALLENGE_DONE', result: evalResult, radarProfile });
+          dispatch({
+            type: 'CHALLENGE_DONE',
+            result: evalResult,
+            radarProfile,
+            bestScore: bestScorePatch,
+          });
           player.pause();
 
           // Persist updated FSRS states, keystroke history & overcome records
@@ -463,7 +500,7 @@ export function usePracticeSession(
         }
       }
 
-      await saveProgressToDbRef.current();
+      await saveProgressToDbRef.current(bestScorePatch);
     });
 
     player.on('stateChange', (state) => {
@@ -695,6 +732,12 @@ export function usePracticeSession(
         targetRound = savedRecord.currentRound as TrainingRound;
         currentRoundRef.current = targetRound;
       }
+      roundCompletedRef.current = {
+        round1: savedRecord.roundCompleted?.round1 ?? false,
+        round2: savedRecord.roundCompleted?.round2 ?? false,
+        round3: savedRecord.roundCompleted?.round3 ?? false,
+        round4: savedRecord.roundCompleted?.round4 ?? false,
+      };
       if (
         typeof savedRecord.currentSentenceIdx === 'number' &&
         savedRecord.currentSentenceIdx > 0 &&
@@ -705,6 +748,14 @@ export function usePracticeSession(
         setTimeout(() => setResumePrompt(null), 3500);
       }
       dispatch({ type: 'LOAD_DB_RECORD', record: savedRecord });
+    } else {
+      currentRoundRef.current = 1;
+      roundCompletedRef.current = {
+        round1: false,
+        round2: false,
+        round3: false,
+        round4: false,
+      };
     }
 
     // 2. Preload micro-lens audio player
@@ -777,6 +828,12 @@ export function usePracticeSession(
     episodeAcousticsRef.current = null;
     currentChunkRef.current = null;
     sentenceIdxRef.current = 0;
+    roundCompletedRef.current = {
+      round1: false,
+      round2: false,
+      round3: false,
+      round4: false,
+    };
     completedSentencesRef.current = [];
     isAudioPausedRef.current = false;
     setIsAudioPaused(false);
@@ -794,16 +851,11 @@ export function usePracticeSession(
     completedSentencesRef.current = [];
     setIsAudioPaused(false);
 
-    await db.progress.put({
+    await saveProgress({
       episodeId: ep.episodeId,
       currentRound: currentRoundRef.current,
       currentSentenceIdx: 0,
-      roundCompleted: {
-        round1: viewState.roundCompleted.round1,
-        round2: viewState.roundCompleted.round2,
-        round3: viewState.roundCompleted.round3,
-        round4: viewState.roundCompleted.round4,
-      },
+      roundCompleted: { ...roundCompletedRef.current },
       updatedAt: Date.now(),
     });
 
