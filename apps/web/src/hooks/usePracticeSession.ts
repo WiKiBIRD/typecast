@@ -17,6 +17,8 @@ import {
   AcousticLensAudioPlayer,
   acousticStorage,
   ScaffoldLevel,
+  gradeSentencePractice,
+  type PhenomenonType,
   computePlaybackWindow,
   type ChallengeScoreResult,
   type EpisodeProgressRecord,
@@ -284,6 +286,9 @@ export function usePracticeSession(
   const audioModeRef = useRef(audioMode);
   const pauseCountRef = useRef<number>(0);
   const startTimeRef = useRef<number>(0);
+  const lensTriggeredInSentenceRef = useRef<boolean>(false);
+  const sentenceIkiSumRef = useRef<number>(0);
+  const sentenceIkiCountRef = useRef<number>(0);
 
   // Load persisted FSRS and Keystroke history from IndexedDB on startup
   useEffect(() => {
@@ -327,6 +332,9 @@ export function usePracticeSession(
     mapperRef.current = new AcousticCharMapper(chunk);
     stateMachineRef.current = new ScaffoldStateMachine(chunk);
     keystrokeTrackerRef.current.reset();
+    lensTriggeredInSentenceRef.current = false;
+    sentenceIkiSumRef.current = 0;
+    sentenceIkiCountRef.current = 0;
 
     dispatch({ type: 'SET_ACOUSTIC_CHUNK', chunk });
     dispatch({ type: 'SET_SCAFFOLD', scaffold: undefined });
@@ -347,6 +355,7 @@ export function usePracticeSession(
     if (!wordData) return;
 
     playerRef.current?.pause();
+    lensTriggeredInSentenceRef.current = true;
     dispatch({ type: 'SET_LENS_ACTIVE', active: true });
     lensPlayerRef.current.playTargetLensOnly(wordData.start_ms, wordData.end_ms, 80, 0.7);
   }, []);
@@ -410,6 +419,31 @@ export function usePracticeSession(
       completedSentencesRef.current.push(stats);
       dispatch({ type: 'SENTENCE_DONE', stats, nextIdx });
       sentenceIdxRef.current = nextIdx;
+
+      // Module M7: Record FSRS practice and overcome count
+      const completedChunk = acousticChunkRef.current;
+      if (completedChunk && completedChunk.words) {
+        const sentencePhenomena = new Set<PhenomenonType>();
+        for (const w of completedChunk.words) {
+          if (w.phenomena) {
+            for (const ph of w.phenomena) {
+              sentencePhenomena.add(ph as PhenomenonType);
+            }
+          }
+        }
+        const avgIki =
+          sentenceIkiCountRef.current > 0
+            ? sentenceIkiSumRef.current / sentenceIkiCountRef.current
+            : 0;
+        const grade = gradeSentencePractice(
+          stats.errorCount,
+          lensTriggeredInSentenceRef.current,
+          avgIki
+        );
+        for (const ph of sentencePhenomena) {
+          fsrsEngineRef.current.recordPractice(ph, grade);
+        }
+      }
 
       let bestScorePatch: PracticeViewState['bestScore'] | undefined;
 
@@ -635,6 +669,10 @@ export function usePracticeSession(
 
       // 1. Record raw keydown
       const rawEvent = tracker.recordKeyDown(e.key, expectedChar, isMatch, cursor);
+      if (rawEvent.ikiMs > 0 && rawEvent.ikiMs < 3000) {
+        sentenceIkiSumRef.current += rawEvent.ikiMs;
+        sentenceIkiCountRef.current++;
+      }
 
       // 2. Query acoustic context
       const ctx = mapper.getContextAt(cursor);
@@ -645,6 +683,7 @@ export function usePracticeSession(
 
       // 4. In Round 3 (单句盲听), evaluate scaffolding & micro-lens!
       if (currentRoundRef.current === 3) {
+        const prevLevel = stateMachine.getWordState(ctx.wordIndex)?.currentLevel ?? ScaffoldLevel.LEVEL_0_NONE;
         const annotated = {
           ...rawEvent,
           associatedPhoneme: ctx.associatedPhoneme,
@@ -661,6 +700,10 @@ export function usePracticeSession(
           }
         } else {
           dispatch({ type: 'SET_SCAFFOLD', scaffold: undefined });
+          // If word had an active scaffold and just recovered to LEVEL_0_NONE, increment overcome count
+          if (prevLevel > ScaffoldLevel.LEVEL_0_NONE) {
+            metricsExporterRef.current.addOvercomeCount(1);
+          }
         }
       }
 

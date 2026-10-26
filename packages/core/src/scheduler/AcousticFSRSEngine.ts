@@ -168,3 +168,24 @@ export class AcousticFSRSEngine {
     }
   }
 }
+
+/**
+ * Objective grading heuristic for FSRS sentence reviews (Module M7).
+ * Maps sentence typing performance and acoustic lens activations to an FSRSGrade.
+ */
+export function gradeSentencePractice(
+  errorCount: number,
+  lensTriggered: boolean,
+  avgIkiMs: number
+): FSRSGrade {
+  if (errorCount >= 3 || lensTriggered) {
+    return FSRSGrade.AGAIN;
+  }
+  if (errorCount >= 1) {
+    return FSRSGrade.HARD;
+  }
+  if (avgIkiMs > 0 && avgIkiMs < 350) {
+    return FSRSGrade.EASY;
+  }
+  return FSRSGrade.GOOD;
+}

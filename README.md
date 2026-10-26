@@ -70,7 +70,7 @@ Stage 4: [Round 4: 全文大考]  The Grand Challenge · Timed test evaluating W
 
 ### 📻 Production Acoustic Assets & Precision
 - **375 Full Episodes**: 33,916 sentences with 224,648 physical acoustic phenomena annotated via Praat Parselmouth.
-- **Acoustic Padding**: Each sentence features `-200ms` head padding and `+180ms` tail padding to eliminate word clipping.
+- **Dynamic Acoustic Window**: Each sentence uses non-overlapping dynamic padding (up to 80ms pre-roll and 120ms post-roll, clamped to half the adjacent gap) to eliminate word clipping.
 - **Pure Learning Content**: Intros, outros, Patreon plugs, and promotional links are filtered out.
 
 ---
@@ -139,7 +139,7 @@ TypeCast 引入了**严格的关卡考核机制**，必须考核合格才能解�
 ### 📊 生产级语料与声学数据大盘
 - **全量 375 期场景**：33,916 个教学句，全部由 Praat Parselmouth 物理声学特征（F0 基频、强度、Burg 共振峰）完成细粒度扫描。
 - **224,648 处物理音变标注**：涵盖弱读 38,200+ 处、连读 41,500+ 处、失爆 58,100+ 处、喉塞音 72,000+ 处等，支持前端异步毫秒级拉取。
-- **首尾声学缓冲保护**：每句配置 `-200ms` 前置缓冲与 `+180ms` 后置余量，杜绝单词被吃音截断。
+- **动态无缝声学时间窗保护**：每句采用动态防重叠时间窗（最高 80ms 前置余量与 120ms 后置余量，自适应邻句间隔减半裁剪），彻底杜绝尾音被截断或串音。
 
 ---
 

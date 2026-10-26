@@ -39,15 +39,14 @@ export class ChunkAudioPlayer {
   }
 
   async init(audioUrl: string, mode: AudioMode = 'native', seekAheadMs: number = 80): Promise<void> {
-    this._mode = mode;
+    if (mode === 'web-audio') {
+      console.warn('[ChunkAudioPlayer] web-audio mode is deprecated due to CDN CORS limitations. Falling back to native.');
+    }
+    this._mode = 'native';
     this._seekAheadMs = seekAheadMs;
     this._setState('LOADING');
 
-    if (mode === 'web-audio') {
-      await this._initWebAudio(audioUrl);
-    } else {
-      await this._initNative(audioUrl);
-    }
+    await this._initNative(audioUrl);
   }
 
   playChunk(chunk: AudioChunk): void {

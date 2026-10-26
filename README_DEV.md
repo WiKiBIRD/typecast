@@ -58,7 +58,7 @@ pnpm install
 # Start local development server (Vite)
 pnpm dev       # http://localhost:5173
 
-# Run TypeScript core test suite (45 tests across 7 test suites)
+# Run TypeScript core test suite (65 tests across 11 test suites)
 pnpm test
 
 # Run Python acoustic pipeline test suite (9 tests)
