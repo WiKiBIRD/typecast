@@ -56,6 +56,19 @@ export function PracticePage() {
   } = usePracticeSession(80, 'native');
 
   // 载入 manifest 与数据库中的历史进度
+  const refreshProgress = async () => {
+    try {
+      const allProgress = await db.progress.toArray();
+      const pMap: Record<string, EpisodeProgressRecord> = {};
+      allProgress.forEach((p: EpisodeProgressRecord) => {
+        pMap[p.episodeId] = p;
+      });
+      setProgressMap(pMap);
+    } catch (err) {
+      console.warn('刷新进度映射失败:', err);
+    }
+  };
+
   useEffect(() => {
     async function initCatalog() {
       try {
@@ -64,13 +77,7 @@ export function PracticePage() {
         const data: ManifestData = await res.json();
         setManifest(data);
 
-        // 获取全部集数历史进度映射
-        const allProgress = await db.progress.toArray();
-        const pMap: Record<string, EpisodeProgressRecord> = {};
-        allProgress.forEach((p: EpisodeProgressRecord) => {
-          pMap[p.episodeId] = p;
-        });
-        setProgressMap(pMap);
+        await refreshProgress();
       } catch (err) {
         console.error('初始化失败:', err);
         setLoadError(err instanceof Error ? err.message : String(err));
@@ -317,14 +324,16 @@ export function PracticePage() {
             dismissChallengeModal();
             selectRound(4);
           }}
-          onNextEpisode={() => {
+          onNextEpisode={async () => {
             dismissChallengeModal();
-            handleReset();
+            await handleReset();
+            await refreshProgress();
             setSelectedEpisode(null);
           }}
-          onBackToList={() => {
+          onBackToList={async () => {
             dismissChallengeModal();
-            handleReset();
+            await handleReset();
+            await refreshProgress();
             setSelectedEpisode(null);
           }}
         />
@@ -344,9 +353,10 @@ export function PracticePage() {
       <header className="flex items-center justify-between px-8 py-4 border-b border-gray-800/80 bg-gray-950/50 backdrop-blur">
         <div className="flex items-center gap-4">
           <button
-            onClick={() => {
+            onClick={async () => {
               sessionStorage.removeItem('typecast_active_episode');
-              handleReset();
+              await handleReset();
+              await refreshProgress();
               setSelectedEpisode(null);
             }}
             className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-900 hover:bg-gray-800 active:scale-95 border border-gray-800 hover:border-gray-700 text-gray-300 hover:text-white rounded-lg text-xs font-medium transition-all cursor-pointer"
