@@ -768,29 +768,24 @@ export function usePracticeSession(
     // 3. Asynchronously fetch production acoustic database (.acoustic.json)
     try {
       const epNumStr = String(episode.episodeNumber).padStart(3, '0');
-      const candidates = [
-        `/data/acoustic/ep-${epNumStr}.acoustic.json`,
-        `/data/acoustic/${episode.episodeId}.acoustic.json`,
-      ];
+      const url = `/data/acoustic/ep-${epNumStr}.acoustic.json`;
       let loadedMap: Map<string | number, AcousticChunkData> | null = null;
-      for (const url of candidates) {
-        try {
-          const res = await fetch(url);
-          if (res.ok) {
-            const data = await res.json();
-            if (Array.isArray(data.chunks)) {
-              loadedMap = new Map();
-              data.chunks.forEach((c: AcousticChunkData, idx: number) => {
-                if (c.chunk_id) loadedMap!.set(String(c.chunk_id), c);
-                loadedMap!.set(idx, c);
-                loadedMap!.set(idx + 1, c);
-              });
-              break;
-            }
+      try {
+        const res = await fetch(url);
+        if (res.ok) {
+          const data = await res.json();
+          if (Array.isArray(data.chunks)) {
+            loadedMap = new Map();
+            data.chunks.forEach((c: AcousticChunkData, idx: number) => {
+              if (c.chunk_id !== undefined && c.chunk_id !== null) {
+                loadedMap!.set(String(c.chunk_id), c);
+              }
+              loadedMap!.set(idx, c);
+            });
           }
-        } catch {
-          // Fall through to next candidate
         }
+      } catch {
+        // Fallback to synthetic phonemizer
       }
       episodeAcousticsRef.current = loadedMap;
     } catch {
