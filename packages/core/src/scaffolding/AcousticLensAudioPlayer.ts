@@ -13,14 +13,13 @@ export interface LensPlayerEvents {
   stateChange?: (state: LensPlayerState) => void;
   segmentChange?: (segment: AcousticLensSegment, index: number) => void;
   playbackComplete?: () => void;
+  playbackError?: (err: unknown) => void;
   error?: (err: Error) => void;
 }
 
 export class AcousticLensAudioPlayer {
   private audio: HTMLAudioElement | null = null;
-  private audioCtx: AudioContext | null = null;
-  private gainNode: GainNode | null = null;
-  private mediaSource: MediaElementAudioSourceNode | null = null;
+  private boundTimeUpdate: (() => void) | null = null;
 
   private state: LensPlayerState = 'IDLE';
   private currentSchedule: AcousticLensSegment[] = [];
@@ -46,57 +45,40 @@ export class AcousticLensAudioPlayer {
 
   /**
    * Initializes the player with an audio source (URL or Blob URL).
+   * Reuses a single native HTMLAudioElement without crossOrigin/WebAudio routing
+   * so third-party CDNs without CORS headers play cleanly.
    */
   public async loadAudio(audioSrc: string): Promise<void> {
     this.stop();
 
     if (typeof Audio !== 'undefined') {
-      this.audio = new Audio(audioSrc);
-      this.audio.crossOrigin = 'anonymous';
-      this.audio.preload = 'auto';
+      if (!this.audio) {
+        this.audio = new Audio();
+        this.audio.preload = 'auto';
 
-      // Enforce pitch preservation on HTML5 audio element
-      if ('preservesPitch' in this.audio) {
-        this.audio.preservesPitch = true;
-      } else if ('webkitPreservesPitch' in this.audio) {
-        (this.audio as any).webkitPreservesPitch = true;
-      } else if ('mozPreservesPitch' in this.audio) {
-        (this.audio as any).mozPreservesPitch = true;
-      }
-
-      // Initialize Web Audio Context for anti-click crossfading if available
-      try {
-        const AudioCtxClass =
-          window.AudioContext || (window as any).webkitAudioContext;
-        if (AudioCtxClass) {
-          this.audioCtx = new AudioCtxClass();
-          this.gainNode = this.audioCtx.createGain();
-          this.gainNode.gain.setValueAtTime(1.0, this.audioCtx.currentTime);
-
-          this.mediaSource = this.audioCtx.createMediaElementSource(this.audio);
-          this.mediaSource.connect(this.gainNode);
-          this.gainNode.connect(this.audioCtx.destination);
+        // Enforce pitch preservation on HTML5 audio element
+        if ('preservesPitch' in this.audio) {
+          this.audio.preservesPitch = true;
+        } else if ('webkitPreservesPitch' in this.audio) {
+          (this.audio as any).webkitPreservesPitch = true;
+        } else if ('mozPreservesPitch' in this.audio) {
+          (this.audio as any).mozPreservesPitch = true;
         }
-      } catch (e) {
-        // Fallback: direct HTMLMediaElement playback if Web Audio graph cannot bind
-        console.warn('[AcousticLensAudioPlayer] Web Audio Context binding fallback:', e);
       }
+      this.audio.src = audioSrc;
     }
   }
 
   /**
-   * Applies an anti-click crossfade ramp to the gain node.
+   * @deprecated Web Audio GainNode routing was removed in M2 to avoid CDN CORS blocks.
    */
-  private applyAntiClickRamp(durationSec: number = 0.015, targetGain: number = 1.0): void {
-    if (this.audioCtx && this.gainNode) {
-      const now = this.audioCtx.currentTime;
-      this.gainNode.gain.setValueAtTime(this.gainNode.gain.value, now);
-      this.gainNode.gain.linearRampToValueAtTime(targetGain, now + durationSec);
-    }
+  private applyAntiClickRamp(_durationSec: number = 0.015, _targetGain: number = 1.0): void {
+    // No-op in native HTMLAudioElement mode
   }
 
   /**
-   * Plays a regular range at normal speed (1.0x).
+   * Plays a regular range at a specified playback rate.
+   * Uses audio.currentTime monitoring + fallback timeout, and catches play() rejections.
    */
   public async playRange(startMs: number, endMs: number, rate: number = 1.0): Promise<void> {
     this.stop();
@@ -105,23 +87,43 @@ export class AcousticLensAudioPlayer {
       return;
     }
 
-    if (this.audioCtx && this.audioCtx.state === 'suspended') {
-      await this.audioCtx.resume();
-    }
+    const audio = this.audio;
+    const startSec = Math.max(0, startMs / 1000.0);
+    const endSec = Math.max(startSec, endMs / 1000.0);
 
-    this.audio.playbackRate = rate;
-    this.audio.currentTime = Math.max(0, startMs / 1000.0);
+    audio.playbackRate = rate;
+    audio.currentTime = startSec;
 
     this.applyAntiClickRamp(0.015, 1.0);
     this.setState('PLAYING');
 
-    await this.audio.play();
-
-    const durationMs = Math.max(50, (endMs - startMs) / rate);
-    this.activeTimerId = setTimeout(() => {
+    const finishPlayback = () => {
+      if (this.state === 'IDLE') return;
       this.stop();
       this.events.playbackComplete?.();
-    }, durationMs);
+    };
+
+    if (typeof audio.addEventListener === 'function') {
+      this.boundTimeUpdate = () => {
+        if (audio.currentTime >= endSec) {
+          finishPlayback();
+        }
+      };
+      audio.addEventListener('timeupdate', this.boundTimeUpdate);
+    }
+
+    try {
+      await audio.play();
+    } catch (err) {
+      this.stop();
+      const errorObj = err instanceof Error ? err : new Error(String(err));
+      this.events.error?.(errorObj);
+      this.events.playbackError?.(err);
+      return;
+    }
+
+    const durationMs = Math.max(50, (endMs - startMs) / rate);
+    this.activeTimerId = setTimeout(finishPlayback, durationMs + 50);
   }
 
   /**
@@ -135,11 +137,6 @@ export class AcousticLensAudioPlayer {
     }
 
     this.currentSchedule = [...schedule];
-
-    if (this.audioCtx && this.audioCtx.state === 'suspended') {
-      await this.audioCtx.resume();
-    }
-
     let currentSegIdx = 0;
 
     const playNextSegment = async () => {
@@ -160,9 +157,16 @@ export class AcousticLensAudioPlayer {
         if (currentSegIdx === 0) {
           this.audio.currentTime = Math.max(0, seg.originalStartMs / 1000.0);
           this.setState(seg.isTargetBlindspot ? 'LENS_ACTIVE' : 'PLAYING');
-          await this.audio.play();
+          try {
+            await this.audio.play();
+          } catch (err) {
+            this.stop();
+            const errorObj = err instanceof Error ? err : new Error(String(err));
+            this.events.error?.(errorObj);
+            this.events.playbackError?.(err);
+            return;
+          }
         } else {
-          // Soft anti-click crossfade during speed shift
           this.applyAntiClickRamp(0.015, 1.0);
           this.setState(seg.isTargetBlindspot ? 'LENS_ACTIVE' : 'PLAYING');
         }
@@ -199,6 +203,11 @@ export class AcousticLensAudioPlayer {
     if (this.activeTimerId !== null) {
       clearTimeout(this.activeTimerId);
       this.activeTimerId = null;
+    }
+
+    if (this.audio && this.boundTimeUpdate && typeof this.audio.removeEventListener === 'function') {
+      this.audio.removeEventListener('timeupdate', this.boundTimeUpdate);
+      this.boundTimeUpdate = null;
     }
 
     if (this.audio && !this.audio.paused) {

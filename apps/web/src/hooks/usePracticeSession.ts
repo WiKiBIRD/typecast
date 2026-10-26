@@ -233,13 +233,16 @@ export function usePracticeSession(
   const fsmRef = useRef<PracticeFSM | null>(null);
 
   // Acoustic pipeline & scaffolding instances
+  const recoverFromLensPlayback = useCallback(() => {
+    dispatch({ type: 'SET_LENS_ACTIVE', active: false });
+    if (!isAudioPausedRef.current && currentRoundRef.current !== 4 && currentChunkRef.current) {
+      playerRef.current?.playChunk(currentChunkRef.current);
+    }
+  }, []);
+
   const lensPlayerRef = useRef<AcousticLensAudioPlayer>(new AcousticLensAudioPlayer({
-    playbackComplete: () => {
-      dispatch({ type: 'SET_LENS_ACTIVE', active: false });
-      if (!isAudioPausedRef.current && currentRoundRef.current !== 4 && currentChunkRef.current) {
-        playerRef.current?.playChunk(currentChunkRef.current);
-      }
-    },
+    playbackComplete: recoverFromLensPlayback,
+    playbackError: recoverFromLensPlayback,
   }));
   const keystrokeTrackerRef = useRef<KeystrokeTracker>(new KeystrokeTracker());
   const classifierRef = useRef<CognitiveBottleneckClassifier>(new CognitiveBottleneckClassifier());
