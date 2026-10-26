@@ -482,32 +482,55 @@ export function usePracticeSession(
     };
   }, []);
 
+  const restartCurrentSentence = useCallback((resetTypingEngine: boolean = false) => {
+    const fsm = fsmRef.current;
+    const engine = engineRef.current;
+    const player = playerRef.current;
+    const ep = episodeRef.current;
+    if (!fsm || !engine || !player || !ep) return;
+
+    if (resetTypingEngine) {
+      if (currentRoundRef.current === 4) {
+        pauseCountRef.current++;
+      }
+      fsm.transition('TAB_REPLAY');
+    }
+
+    if (isAudioPausedRef.current) {
+      isAudioPausedRef.current = false;
+      setIsAudioPaused(false);
+    }
+
+    const currIdx = sentenceIdxRef.current;
+    if (ep.sentences[currIdx]) {
+      const chunk = buildAudioChunk(ep, currIdx, seekAheadMsRef.current);
+      currentChunkRef.current = chunk;
+      player.playChunk(chunk);
+    } else if (currentChunkRef.current) {
+      player.playChunk(currentChunkRef.current);
+    } else {
+      player.resume();
+    }
+
+    if (resetTypingEngine) {
+      engine.reset();
+    }
+  }, []);
+
   const togglePlayPause = useCallback(() => {
     const player = playerRef.current;
     const ep = episodeRef.current;
-    if (!player) return;
+    if (!player || !ep) return;
 
     if (isAudioPausedRef.current) {
-      // Audio Playback Guard: re-anchor to current sentence chunk
-      const currIdx = sentenceIdxRef.current;
-      if (ep && ep.sentences[currIdx]) {
-        const chunk = buildAudioChunk(ep, currIdx, seekAheadMsRef.current);
-        currentChunkRef.current = chunk;
-        player.playChunk(chunk);
-      } else if (currentChunkRef.current) {
-        player.playChunk(currentChunkRef.current);
-      } else {
-        player.resume();
-      }
-      isAudioPausedRef.current = false;
-      setIsAudioPaused(false);
+      restartCurrentSentence(false);
     } else {
       player.pause();
       lensPlayerRef.current.stop();
       isAudioPausedRef.current = true;
       setIsAudioPaused(true);
     }
-  }, []);
+  }, [restartCurrentSentence]);
 
   // MediaSession API integration for hardware/headphone play-pause keys
   useEffect(() => {
@@ -548,16 +571,7 @@ export function usePracticeSession(
 
     if (e.key === 'Tab') {
       e.preventDefault();
-      if (currentRoundRef.current === 4) {
-        pauseCountRef.current++;
-      }
-      fsm.transition('TAB_REPLAY');
-      if (isAudioPausedRef.current) {
-        isAudioPausedRef.current = false;
-        setIsAudioPaused(false);
-      }
-      player.replayCurrentChunk();
-      engine.reset();
+      restartCurrentSentence(true);
       return;
     }
 
@@ -618,7 +632,7 @@ export function usePracticeSession(
     }
 
     engine.handleKeyInput(e.key);
-  }, [triggerLensReplay, togglePlayPause]);
+  }, [triggerLensReplay, togglePlayPause, restartCurrentSentence]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
@@ -761,8 +775,10 @@ export function usePracticeSession(
     fsmRef.current?.transition('RESET');
     episodeRef.current = null;
     episodeAcousticsRef.current = null;
+    currentChunkRef.current = null;
     sentenceIdxRef.current = 0;
     completedSentencesRef.current = [];
+    isAudioPausedRef.current = false;
     setIsAudioPaused(false);
     dispatch({ type: 'RESET', totalSentences: 0 });
   }, [saveProgressToDb]);
@@ -811,34 +827,8 @@ export function usePracticeSession(
   }, [viewState.roundCompleted, loadSentenceAcoustics]);
 
   const handleTabKey = useCallback(() => {
-    const fsm = fsmRef.current;
-    const engine = engineRef.current;
-    const player = playerRef.current;
-    const ep = episodeRef.current;
-    if (!fsm || !engine || !player) return;
-
-    if (currentRoundRef.current === 4) {
-      pauseCountRef.current++;
-    }
-    fsm.transition('TAB_REPLAY');
-
-    if (isAudioPausedRef.current) {
-      isAudioPausedRef.current = false;
-      setIsAudioPaused(false);
-    }
-
-    // Audio Playback Guard: ensure we replay the audio strictly for currentSentence
-    const currIdx = sentenceIdxRef.current;
-    if (ep && ep.sentences[currIdx]) {
-      const chunk = buildAudioChunk(ep, currIdx, seekAheadMsRef.current);
-      currentChunkRef.current = chunk;
-      player.playChunk(chunk);
-    } else {
-      player.replayCurrentChunk();
-    }
-
-    engine.reset();
-  }, []);
+    restartCurrentSentence(true);
+  }, [restartCurrentSentence]);
 
   return {
     viewState,

@@ -16,6 +16,7 @@ export class ChunkAudioPlayer {
 
   // Native HTMLAudioElement
   private _audio: HTMLAudioElement | null = null;
+  private _boundTimeUpdate: (() => void) | null = null;
   /** @deprecated Seek-ahead tail subtraction is removed in M1; use computePlaybackWindow instead. */
   private _seekAheadMs: number = 80;
 
@@ -106,6 +107,10 @@ export class ChunkAudioPlayer {
       this._ctx?.close();
     } else {
       if (this._audio) {
+        if (this._boundTimeUpdate) {
+          this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
+          this._boundTimeUpdate = null;
+        }
         this._audio.pause();
         this._audio.src = '';
         this._audio.remove();
@@ -143,10 +148,20 @@ export class ChunkAudioPlayer {
   }
 
   private async _initNative(audioUrl: string): Promise<void> {
+    if (this._audio && this._boundTimeUpdate) {
+      this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
+      this._boundTimeUpdate = null;
+    }
     this._audio = new Audio();
     // Do not set crossOrigin = 'anonymous' for simple audio playback to prevent CORS blocks on CDNs
     this._audio.preload = 'auto';
     this._audio.src = audioUrl;
+
+    this._boundTimeUpdate = () => {
+      if ((this._state as PlayerState) === 'PAUSED') return;
+      this._checkBoundary();
+    };
+    this._audio.addEventListener('timeupdate', this._boundTimeUpdate);
 
     this._setState('BUFFERING');
 
@@ -257,6 +272,45 @@ export class ChunkAudioPlayer {
 
   private _isSeeking: boolean = false;
 
+  /**
+   * Checks whether currentTimeSec has reached or exceeded currentChunk.endSec.
+   * Invoked by both RAF tick and native <audio> timeupdate (background tab fallback).
+   * Returns true if non-looping playback ended and RAF should terminate.
+   */
+  private _checkBoundary(): boolean {
+    if ((this._state as PlayerState) === 'PAUSED') return true;
+    if (!this._currentChunk) return false;
+
+    const current = this.currentTimeSec;
+    this._emit('timeUpdate', current);
+
+    if (current >= this._currentChunk.startSec && current >= this._currentChunk.endSec && !this._isSeeking) {
+      if (this._looping) {
+        this._isSeeking = true;
+        this._setState('LOOPING');
+        if (this._mode === 'web-audio') {
+          this._playChunkWebAudio(this._currentChunk.startSec);
+          this._isSeeking = false;
+        } else {
+          this._seekWithFadeNative(this._currentChunk.startSec).finally(() => {
+            this._isSeeking = false;
+          });
+        }
+      } else {
+        this._stopRaf();
+        if (this._mode === 'web-audio') {
+          try { this._source?.stop(); } catch { /* ignore */ }
+        } else {
+          this._audio?.pause();
+        }
+        this._setState('IDLE');
+        this._emit('chunkEnd', this._currentChunk.sentenceId);
+        return true;
+      }
+    }
+    return false;
+  }
+
   private _startRaf(): void {
     this._stopRaf();
     if (typeof requestAnimationFrame === 'undefined') return;
@@ -268,28 +322,8 @@ export class ChunkAudioPlayer {
       }
       if (!this._currentChunk) return;
 
-      const current = this.currentTimeSec;
-
-      this._emit('timeUpdate', current);
-
-      if (current >= this._currentChunk.startSec && current >= this._currentChunk.endSec && !this._isSeeking) {
-        if (this._looping) {
-          this._isSeeking = true;
-          this._setState('LOOPING');
-          if (this._mode === 'web-audio') {
-            this._playChunkWebAudio(this._currentChunk.startSec);
-            this._isSeeking = false;
-          } else {
-            this._seekWithFadeNative(this._currentChunk.startSec).finally(() => {
-              this._isSeeking = false;
-            });
-          }
-        } else {
-          this._emit('chunkEnd', this._currentChunk.sentenceId);
-          this._stopRaf();
-          return;
-        }
-      }
+      const ended = this._checkBoundary();
+      if (ended) return;
 
       if (typeof requestAnimationFrame !== 'undefined') {
         this._rafId = requestAnimationFrame(tick);
