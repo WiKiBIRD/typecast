@@ -26,7 +26,7 @@ interface Props {
 
 export const SentenceDisplay: React.FC<Props> = ({
   sentence,
-  acousticChunk,
+  acousticChunk: _acousticChunk,
   cursorIndex,
   consecutiveErrors,
   hintMode,
@@ -37,7 +37,6 @@ export const SentenceDisplay: React.FC<Props> = ({
 
   // Split text into words and preserve character indices
   const words = text.split(' ');
-  const acousticWords = acousticChunk?.words || [];
 
   // ---------------------------------------------------------------------------
   // Round 1: 明文识音 (Phonetic Translucency - Pure Text Stream)
@@ -73,11 +72,10 @@ export const SentenceDisplay: React.FC<Props> = ({
   }
 
   // ---------------------------------------------------------------------------
-  // Round 2: 模糊抓词 (Natural Word-Flow Typography with Optical Frosted Blur)
+  // Round 2: 模糊抓词 (单词统一模糊，标点符号清晰呈现)
   // ---------------------------------------------------------------------------
   if (round === 2) {
     let charTracker = 0;
-    const hasAnyPhenomena = acousticWords.some((w) => w.phenomena && w.phenomena.length > 0);
 
     return (
       <div className="max-w-full flex flex-wrap items-center justify-center gap-x-3 gap-y-3 select-none px-2 py-4 font-mono text-2xl sm:text-3xl md:text-4xl tracking-wide leading-relaxed">
@@ -85,18 +83,11 @@ export const SentenceDisplay: React.FC<Props> = ({
           const wordStart = charTracker;
           charTracker += wordStr.length + 1; // +1 space
 
-          const acousticWord = acousticWords[wIdx];
-          const hasPhenomena = acousticWord && acousticWord.phenomena && acousticWord.phenomena.length > 0;
-          // 严格按声学物理音变难点进行遮罩；若未检测到音变则交替遮罩保底
-          const shouldMask = hasAnyPhenomena ? hasPhenomena : wIdx % 2 === 1;
-
           return (
             <span
               key={wIdx}
-              className={`inline-block transition-all duration-200 ${
-                shouldMask ? 'group cursor-help' : ''
-              }`}
-              title={shouldMask ? '悬浮临时预览单词' : undefined}
+              className="inline-block transition-all duration-200 group cursor-help"
+              title="悬浮临时预览单词"
             >
               {wordStr.split('').map((char, cOffset) => {
                 const globalIdx = wordStart + cOffset;
@@ -104,6 +95,7 @@ export const SentenceDisplay: React.FC<Props> = ({
                 const isCurrent = globalIdx === cursorIndex;
                 const isPunctuation = /[.,!?;:'"()[\]{}]/.test(char);
 
+                // 1. 已敲对的字符：翡翠绿高亮
                 if (isCompleted) {
                   return (
                     <span key={cOffset} className="text-emerald-400 font-bold">
@@ -112,6 +104,7 @@ export const SentenceDisplay: React.FC<Props> = ({
                   );
                 }
 
+                // 2. 当前待输入的字符：光标下划线清晰指示
                 if (isCurrent) {
                   const currentCls = showHint
                     ? 'text-amber-400 underline decoration-amber-400 decoration-4 font-bold animate-pulse'
@@ -123,32 +116,23 @@ export const SentenceDisplay: React.FC<Props> = ({
                   );
                 }
 
-                // 未输入字符：如果是标点符号，保持中灰自然排版，不模糊
+                // 3. 标点符号：清晰体现，不模糊
                 if (isPunctuation) {
                   return (
-                    <span key={cOffset} className="text-gray-500 font-medium">
+                    <span key={cOffset} className="text-gray-400 font-semibold">
                       {char}
                     </span>
                   );
                 }
 
-                // 遮罩难点词：呈现自然高斯毛玻璃模糊，hover时临时清晰
-                if (shouldMask) {
-                  return (
-                    <span
-                      key={cOffset}
-                      className={`text-gray-300 font-medium inline-block transition-all duration-200 ${
-                        showHint ? '' : 'blur-[5px] group-hover:blur-none'
-                      }`}
-                    >
-                      {char}
-                    </span>
-                  );
-                }
-
-                // 普通未遮罩上下文单词：清晰中灰
+                // 4. 待输入单词字符：统一高斯模糊，hover 时清晰
                 return (
-                  <span key={cOffset} className="text-gray-500 font-medium">
+                  <span
+                    key={cOffset}
+                    className={`text-gray-300 font-medium inline-block transition-all duration-200 ${
+                      showHint ? '' : 'blur-[5px] group-hover:blur-none'
+                    }`}
+                  >
                     {char}
                   </span>
                 );
