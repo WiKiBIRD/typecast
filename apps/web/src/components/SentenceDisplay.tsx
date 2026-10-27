@@ -73,112 +73,96 @@ export const SentenceDisplay: React.FC<Props> = ({
   }
 
   // ---------------------------------------------------------------------------
-  // Round 2: 模糊抓词 (Targeted Acoustic Masking - Minimalist Slots)
+  // Round 2: 模糊抓词 (Natural Word-Flow Typography with Optical Frosted Blur)
   // ---------------------------------------------------------------------------
   if (round === 2) {
     let charTracker = 0;
     const hasAnyPhenomena = acousticWords.some((w) => w.phenomena && w.phenomena.length > 0);
 
+    // 智能均衡遮罩密度：避免连续多个单词全部陷入模糊，保证上下文锚点可读
+    let prevMasked = false;
+    const maskFlags = words.map((_, wIdx) => {
+      const acousticWord = acousticWords[wIdx];
+      const hasPhenomena = acousticWord && acousticWord.phenomena && acousticWord.phenomena.length > 0;
+      let mask = hasAnyPhenomena ? !!hasPhenomena : wIdx % 2 === 1;
+      if (mask && prevMasked) {
+        mask = false;
+      }
+      prevMasked = mask;
+      return mask;
+    });
+
     return (
-      <div className="max-w-full flex flex-wrap items-center justify-center gap-y-4 select-none px-2 py-4">
+      <div className="max-w-full flex flex-wrap items-center justify-center gap-x-3 gap-y-3 select-none px-2 py-4 font-mono text-2xl sm:text-3xl md:text-4xl tracking-wide leading-relaxed">
         {words.map((wordStr, wIdx) => {
           const wordStart = charTracker;
-          charTracker += wordStr.length + 1;
+          charTracker += wordStr.length + 1; // +1 space
+          const shouldMask = maskFlags[wIdx];
 
-          const acousticWord = acousticWords[wIdx];
-          const hasPhenomena = acousticWord && acousticWord.phenomena && acousticWord.phenomena.length > 0;
-          // Mask words carrying phenomena; fallback to alternate words if no phenomena detected
-          const shouldMask = hasAnyPhenomena ? hasPhenomena : wIdx % 2 === 1;
-
-          if (shouldMask) {
-            return (
-              <div key={wIdx} className="inline-flex items-center mx-2 sm:mx-3">
-                {wordStr.split('').map((char, cOffset) => {
-                  const i = wordStart + cOffset;
-                  const isCompleted = i < cursorIndex;
-                  const isCurrent = i === cursorIndex;
-
-                  if (isCompleted) {
-                    return (
-                      <div
-                        key={i}
-                        className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-emerald-500/70 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-emerald-400 font-bold transition-all"
-                      >
-                        {char}
-                      </div>
-                    );
-                  }
-
-                  if (isCurrent) {
-                    return (
-                      <div
-                        key={i}
-                        className={`w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 inline-flex items-center justify-center font-mono text-lg sm:text-2xl transition-all ${
-                          showHint
-                            ? 'border-amber-400 text-amber-400 font-bold animate-pulse'
-                            : 'border-blue-400 bg-blue-500/20 text-white font-bold animate-pulse'
-                        }`}
-                        style={{
-                          filter: showHint ? 'blur(0)' : 'blur(3px)',
-                          cursor: 'help',
-                        }}
-                        title="悬浮预览单词"
-                        onMouseEnter={(e) => {
-                          (e.currentTarget as HTMLElement).style.filter = 'blur(0)';
-                        }}
-                        onMouseLeave={(e) => {
-                          if (!showHint) {
-                            (e.currentTarget as HTMLElement).style.filter = 'blur(3px)';
-                          }
-                        }}
-                      >
-                        {char}
-                      </div>
-                    );
-                  }
-
-                  return (
-                    <div
-                      key={i}
-                      className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-gray-600/60 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-gray-300 select-none transition-all duration-300"
-                      style={{
-                        filter: showHint ? 'blur(0)' : 'blur(5px)',
-                        cursor: 'help',
-                      }}
-                      title="悬浮预览单词"
-                      onMouseEnter={(e) => {
-                        (e.currentTarget as HTMLElement).style.filter = 'blur(0)';
-                      }}
-                      onMouseLeave={(e) => {
-                        if (!showHint) {
-                          (e.currentTarget as HTMLElement).style.filter = 'blur(5px)';
-                        }
-                      }}
-                    >
-                      {char}
-                    </div>
-                  );
-                })}
-              </div>
-            );
-          }
-
-          // Unmasked context words: subtle grey text, perfectly aligned
           return (
-            <div key={wIdx} className="inline-flex items-center h-9 sm:h-10 mx-2 sm:mx-3 font-mono text-lg sm:text-2xl tracking-wide">
+            <span
+              key={wIdx}
+              className={`inline-block transition-all duration-200 ${
+                shouldMask ? 'group cursor-help' : ''
+              }`}
+              title={shouldMask ? '悬浮临时预览单词' : undefined}
+            >
               {wordStr.split('').map((char, cOffset) => {
                 const globalIdx = wordStart + cOffset;
-                let cls = 'text-gray-500 font-medium';
-                if (globalIdx < cursorIndex) cls = 'text-emerald-400 font-bold';
-                else if (globalIdx === cursorIndex) cls = 'text-white underline decoration-blue-500 decoration-4 font-bold';
+                const isCompleted = globalIdx < cursorIndex;
+                const isCurrent = globalIdx === cursorIndex;
+                const isPunctuation = /[.,!?;:'"()[\]{}]/.test(char);
 
+                if (isCompleted) {
+                  return (
+                    <span key={cOffset} className="text-emerald-400 font-bold">
+                      {char}
+                    </span>
+                  );
+                }
+
+                if (isCurrent) {
+                  const currentCls = showHint
+                    ? 'text-amber-400 underline decoration-amber-400 decoration-4 font-bold animate-pulse'
+                    : 'text-white underline decoration-blue-500 decoration-4 font-bold';
+                  return (
+                    <span key={cOffset} className={currentCls}>
+                      {char}
+                    </span>
+                  );
+                }
+
+                // 未输入字符：如果是标点符号，保持中灰自然排版，不模糊
+                if (isPunctuation) {
+                  return (
+                    <span key={cOffset} className="text-gray-500 font-medium">
+                      {char}
+                    </span>
+                  );
+                }
+
+                // 遮罩难点词：呈现自然高斯毛玻璃模糊，hover时临时清晰
+                if (shouldMask) {
+                  return (
+                    <span
+                      key={cOffset}
+                      className={`text-gray-300 font-medium inline-block transition-all duration-200 ${
+                        showHint ? '' : 'blur-[5px] group-hover:blur-none'
+                      }`}
+                    >
+                      {char}
+                    </span>
+                  );
+                }
+
+                // 普通未遮罩上下文单词：清晰中灰
                 return (
-                  <span key={cOffset} className={cls}>
+                  <span key={cOffset} className="text-gray-500 font-medium">
                     {char}
                   </span>
                 );
               })}
-            </div>
+            </span>
           );
         })}
       </div>
