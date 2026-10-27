@@ -122,7 +122,7 @@ export const SentenceDisplay: React.FC<Props> = ({
                   }
                   return (
                     <span key={cOffset} className="inline-block underline decoration-blue-500 decoration-4">
-                      <span className="text-gray-300 font-medium inline-block transition-all duration-200 blur-[5px] group-hover:blur-none">
+                      <span className="text-gray-300 font-medium inline-block transition-all duration-200 blur-[9px] group-hover:blur-none">
                         {char}
                       </span>
                     </span>
@@ -143,7 +143,7 @@ export const SentenceDisplay: React.FC<Props> = ({
                   <span
                     key={cOffset}
                     className={`text-gray-300 font-medium inline-block transition-all duration-200 ${
-                      showHint ? '' : 'blur-[5px] group-hover:blur-none'
+                      showHint ? '' : 'blur-[9px] group-hover:blur-none'
                     }`}
                   >
                     {char}
