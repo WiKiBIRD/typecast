@@ -116,10 +116,23 @@ export const SentenceDisplay: React.FC<Props> = ({
                         className={`w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 inline-flex items-center justify-center font-mono text-lg sm:text-2xl transition-all ${
                           showHint
                             ? 'border-amber-400 text-amber-400 font-bold animate-pulse'
-                            : 'border-blue-400 bg-blue-500/10 text-white animate-pulse'
+                            : 'border-blue-400 bg-blue-500/20 text-white font-bold animate-pulse'
                         }`}
+                        style={{
+                          filter: showHint ? 'blur(0)' : 'blur(3px)',
+                          cursor: 'help',
+                        }}
+                        title="悬浮预览单词"
+                        onMouseEnter={(e) => {
+                          (e.currentTarget as HTMLElement).style.filter = 'blur(0)';
+                        }}
+                        onMouseLeave={(e) => {
+                          if (!showHint) {
+                            (e.currentTarget as HTMLElement).style.filter = 'blur(3px)';
+                          }
+                        }}
                       >
-                        {showHint ? char : ''}
+                        {char}
                       </div>
                     );
                   }
@@ -127,9 +140,22 @@ export const SentenceDisplay: React.FC<Props> = ({
                   return (
                     <div
                       key={i}
-                      className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-gray-700 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-transparent"
+                      className="w-5 sm:w-6 h-9 sm:h-10 mx-[1.5px] border-b-2 border-gray-600/60 inline-flex items-center justify-center font-mono text-lg sm:text-2xl text-gray-300 select-none transition-all duration-300"
+                      style={{
+                        filter: showHint ? 'blur(0)' : 'blur(5px)',
+                        cursor: 'help',
+                      }}
+                      title="悬浮预览单词"
+                      onMouseEnter={(e) => {
+                        (e.currentTarget as HTMLElement).style.filter = 'blur(0)';
+                      }}
+                      onMouseLeave={(e) => {
+                        if (!showHint) {
+                          (e.currentTarget as HTMLElement).style.filter = 'blur(5px)';
+                        }
+                      }}
                     >
-                      &nbsp;
+                      {char}
                     </div>
                   );
                 })}

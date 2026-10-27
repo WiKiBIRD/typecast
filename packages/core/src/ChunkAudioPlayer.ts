@@ -99,21 +99,27 @@ export class ChunkAudioPlayer {
     }
   }
 
+  private _cleanupNativeAudio(): void {
+    if (this._audio) {
+      if (this._boundTimeUpdate) {
+        this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
+        this._boundTimeUpdate = null;
+      }
+      this._audio.pause();
+      this._audio.src = '';
+      try { this._audio.load(); } catch { /* ignore */ }
+      this._audio.remove();
+      this._audio = null;
+    }
+  }
+
   destroy(): void {
     this._stopRaf();
     if (this._mode === 'web-audio') {
       this._source?.stop();
       this._ctx?.close();
     } else {
-      if (this._audio) {
-        if (this._boundTimeUpdate) {
-          this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
-          this._boundTimeUpdate = null;
-        }
-        this._audio.pause();
-        this._audio.src = '';
-        this._audio.remove();
-      }
+      this._cleanupNativeAudio();
     }
     this._listeners.clear();
   }
@@ -147,10 +153,8 @@ export class ChunkAudioPlayer {
   }
 
   private async _initNative(audioUrl: string): Promise<void> {
-    if (this._audio && this._boundTimeUpdate) {
-      this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
-      this._boundTimeUpdate = null;
-    }
+    this._stopRaf();
+    this._cleanupNativeAudio();
     this._audio = new Audio();
     // Do not set crossOrigin = 'anonymous' for simple audio playback to prevent CORS blocks on CDNs
     this._audio.preload = 'auto';

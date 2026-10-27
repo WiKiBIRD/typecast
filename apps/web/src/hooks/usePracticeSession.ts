@@ -140,7 +140,18 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         isLensActive: false,
       };
     case 'SET_ROUND':
-      return { ...state, currentRound: action.round };
+      return {
+        ...state,
+        currentRound: action.round,
+        currentSentenceIndex: 0,
+        cursorIndex: 0,
+        errorCount: 0,
+        consecutiveErrors: 0,
+        lastKeyResult: null,
+        activeScaffoldState: undefined,
+        isLensActive: false,
+        completedSentences: [],
+      };
     case 'ROUND_FINISHED':
       return {
         ...state,
@@ -413,8 +424,8 @@ export function usePracticeSession(
       const ep = episodeRef.current;
       if (!ep) return;
 
-      const nextIdx = sentenceIdxRef.current + 1;
-      const isLast = nextIdx >= ep.sentences.length;
+      const isLast = sentenceIdxRef.current + 1 >= ep.sentences.length;
+      const nextIdx = isLast ? 0 : sentenceIdxRef.current + 1;
 
       completedSentencesRef.current.push(stats);
       dispatch({ type: 'SENTENCE_DONE', stats, nextIdx });
@@ -936,7 +947,14 @@ export function usePracticeSession(
     dismissChallengeModal: () => dispatch({ type: 'DISMISS_CHALLENGE' }),
     resumePrompt,
     currentEpisode: episodeRef.current,
-    currentSentence: episodeRef.current?.sentences[viewState.currentSentenceIndex] ?? null,
+    currentSentence: episodeRef.current
+      ? episodeRef.current.sentences[
+          Math.min(
+            viewState.currentSentenceIndex,
+            Math.max(0, episodeRef.current.sentences.length - 1)
+          )
+        ] ?? null
+      : null,
     triggerLensReplay,
   };
 }
