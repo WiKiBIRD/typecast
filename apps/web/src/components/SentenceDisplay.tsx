@@ -104,14 +104,27 @@ export const SentenceDisplay: React.FC<Props> = ({
                   );
                 }
 
-                // 2. 当前待输入的字符：光标下划线清晰指示
+                // 2. 当前待输入的字符：字母保持模糊并带光标下划线，输入后才显示明文
                 if (isCurrent) {
-                  const currentCls = showHint
-                    ? 'text-amber-400 underline decoration-amber-400 decoration-4 font-bold animate-pulse'
-                    : 'text-white underline decoration-blue-500 decoration-4 font-bold';
+                  if (showHint) {
+                    return (
+                      <span key={cOffset} className="text-amber-400 underline decoration-amber-400 decoration-4 font-bold animate-pulse">
+                        {char}
+                      </span>
+                    );
+                  }
+                  if (isPunctuation) {
+                    return (
+                      <span key={cOffset} className="text-gray-400 font-semibold underline decoration-blue-500 decoration-4">
+                        {char}
+                      </span>
+                    );
+                  }
                   return (
-                    <span key={cOffset} className={currentCls}>
-                      {char}
+                    <span key={cOffset} className="inline-block underline decoration-blue-500 decoration-4">
+                      <span className="text-gray-300 font-medium inline-block transition-all duration-200 blur-[5px] group-hover:blur-none">
+                        {char}
+                      </span>
                     </span>
                   );
                 }
