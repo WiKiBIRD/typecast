@@ -79,25 +79,16 @@ export const SentenceDisplay: React.FC<Props> = ({
     let charTracker = 0;
     const hasAnyPhenomena = acousticWords.some((w) => w.phenomena && w.phenomena.length > 0);
 
-    // 智能均衡遮罩密度：避免连续多个单词全部陷入模糊，保证上下文锚点可读
-    let prevMasked = false;
-    const maskFlags = words.map((_, wIdx) => {
-      const acousticWord = acousticWords[wIdx];
-      const hasPhenomena = acousticWord && acousticWord.phenomena && acousticWord.phenomena.length > 0;
-      let mask = hasAnyPhenomena ? !!hasPhenomena : wIdx % 2 === 1;
-      if (mask && prevMasked) {
-        mask = false;
-      }
-      prevMasked = mask;
-      return mask;
-    });
-
     return (
       <div className="max-w-full flex flex-wrap items-center justify-center gap-x-3 gap-y-3 select-none px-2 py-4 font-mono text-2xl sm:text-3xl md:text-4xl tracking-wide leading-relaxed">
         {words.map((wordStr, wIdx) => {
           const wordStart = charTracker;
           charTracker += wordStr.length + 1; // +1 space
-          const shouldMask = maskFlags[wIdx];
+
+          const acousticWord = acousticWords[wIdx];
+          const hasPhenomena = acousticWord && acousticWord.phenomena && acousticWord.phenomena.length > 0;
+          // 严格按声学物理音变难点进行遮罩；若未检测到音变则交替遮罩保底
+          const shouldMask = hasAnyPhenomena ? hasPhenomena : wIdx % 2 === 1;
 
           return (
             <span
