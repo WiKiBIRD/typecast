@@ -317,6 +317,7 @@ export function usePracticeSession(
   const acousticChunkRef = useRef<AcousticChunkData | null>(null);
   const episodeAcousticsRef = useRef<Map<string | number, AcousticChunkData> | null>(null);
   const currentChunkRef = useRef<AudioChunk | null>(null);
+  const lensLoadedUrlRef = useRef<string | null>(null);
 
   const episodeRef = useRef<Episode | null>(null);
   const currentRoundRef = useRef<TrainingRound>(1);
@@ -395,7 +396,8 @@ export function usePracticeSession(
 
   const triggerLensReplay = useCallback((targetWordIdx?: number) => {
     const acousticChunk = acousticChunkRef.current;
-    if (!acousticChunk) return;
+    const ep = episodeRef.current;
+    if (!acousticChunk || !ep) return;
 
     let wordIdx = targetWordIdx;
     if (wordIdx === undefined) {
@@ -405,6 +407,11 @@ export function usePracticeSession(
 
     const wordData = acousticChunk.words[wordIdx];
     if (!wordData) return;
+
+    if (lensLoadedUrlRef.current !== ep.audioUrl) {
+      lensPlayerRef.current.loadAudio(ep.audioUrl);
+      lensLoadedUrlRef.current = ep.audioUrl;
+    }
 
     playerRef.current?.pause();
     lensTriggeredInSentenceRef.current = true;
@@ -614,6 +621,11 @@ export function usePracticeSession(
       dispatch({ type: 'PLAYER_STATE', state });
       if (state === 'PLAYING') fsm.transition('AUDIO_CAN_PLAY');
       if (state === 'ERROR') fsm.transition('ERROR_OCCURRED');
+    });
+
+    player.on('error', () => {
+      isAudioPausedRef.current = true;
+      setIsAudioPaused(true);
     });
 
     const unsubFSM = fsm.on((_from, to) => {
@@ -941,8 +953,8 @@ export function usePracticeSession(
       };
     }
 
-    // 2. Preload micro-lens audio player
-    lensPlayerRef.current.loadAudio(episode.audioUrl);
+    // 2. Reset lazy micro-lens audio URL marker (loaded on-demand in Round 3 to avoid dual <audio> contention on mobile)
+    lensLoadedUrlRef.current = null;
 
     // 3. Asynchronously fetch production acoustic database (.acoustic.json)
     try {

@@ -17,6 +17,8 @@ export class ChunkAudioPlayer {
   // Native HTMLAudioElement
   private _audio: HTMLAudioElement | null = null;
   private _boundTimeUpdate: (() => void) | null = null;
+  private _initCleanup: (() => void) | null = null;
+  private _pendingLoadedMetadata: (() => void) | null = null;
   /** @deprecated Seek-ahead tail subtraction is removed in M1; use computePlaybackWindow instead. */
   private _seekAheadMs: number = 80;
 
@@ -100,15 +102,27 @@ export class ChunkAudioPlayer {
   }
 
   private _cleanupNativeAudio(): void {
+    if (this._initCleanup) {
+      this._initCleanup();
+      this._initCleanup = null;
+    }
     if (this._audio) {
       if (this._boundTimeUpdate) {
         this._audio.removeEventListener('timeupdate', this._boundTimeUpdate);
         this._boundTimeUpdate = null;
       }
+      if (this._pendingLoadedMetadata) {
+        this._audio.removeEventListener('loadedmetadata', this._pendingLoadedMetadata);
+        this._pendingLoadedMetadata = null;
+      }
       this._audio.pause();
-      this._audio.src = '';
+      if (typeof this._audio.removeAttribute === 'function') {
+        this._audio.removeAttribute('src');
+      }
       try { this._audio.load(); } catch { /* ignore */ }
-      this._audio.remove();
+      if (typeof this._audio.remove === 'function') {
+        this._audio.remove();
+      }
       this._audio = null;
     }
   }
@@ -158,6 +172,7 @@ export class ChunkAudioPlayer {
     this._audio = new Audio();
     // Do not set crossOrigin = 'anonymous' for simple audio playback to prevent CORS blocks on CDNs
     this._audio.preload = 'auto';
+    (this._audio as HTMLAudioElement & { playsInline?: boolean }).playsInline = true;
     this._audio.src = audioUrl;
 
     this._boundTimeUpdate = () => {
@@ -174,33 +189,51 @@ export class ChunkAudioPlayer {
       return;
     }
 
-    await new Promise<void>((resolve, reject) => {
-      const onCanPlay = () => {
+    await new Promise<void>((resolve) => {
+      let settled = false;
+      const finish = () => {
+        if (settled) return;
+        settled = true;
         cleanup();
         this._setState('IDLE');
         resolve();
       };
 
-      const onError = () => {
-        cleanup();
-        const err = new Error(`Audio load failed: code=${audioElement.error?.code || 'unknown'}`);
-        this._setState('ERROR');
-        this._emit('error', err);
-        reject(err);
+      const onCanPlay = () => {
+        finish();
       };
+
+      const onError = () => {
+        // Mobile browsers (iOS Safari / WeChat WKWebView) may block background preloading
+        // outside a synchronous user gesture and fire MediaError (e.g. code=4).
+        // Resolve gracefully so the practice session UI initializes and allows manual tap-to-play.
+        finish();
+      };
+
+      const timeoutId = setTimeout(() => {
+        finish();
+      }, 1500);
 
       const cleanup = () => {
+        clearTimeout(timeoutId);
         audioElement.removeEventListener('canplay', onCanPlay);
+        audioElement.removeEventListener('loadedmetadata', onCanPlay);
         audioElement.removeEventListener('loadeddata', onCanPlay);
         audioElement.removeEventListener('error', onError);
+        if (this._initCleanup === cleanup) {
+          this._initCleanup = null;
+        }
       };
 
-      if (audioElement.readyState >= 2) {
-        onCanPlay();
+      this._initCleanup = cleanup;
+
+      if (audioElement.readyState >= 1) {
+        finish();
         return;
       }
 
       audioElement.addEventListener('canplay', onCanPlay);
+      audioElement.addEventListener('loadedmetadata', onCanPlay);
       audioElement.addEventListener('loadeddata', onCanPlay);
       audioElement.addEventListener('error', onError);
     });
@@ -223,9 +256,35 @@ export class ChunkAudioPlayer {
   }
 
   private _playChunkNative(startSec: number): void {
-    if (!this._audio) return;
-    this._audio.currentTime = startSec;
-    this._audio.play()
+    const audio = this._audio;
+    if (!audio) return;
+
+    if (audio.error && this._currentChunk?.audioUrl) {
+      audio.src = this._currentChunk.audioUrl;
+      try { audio.load(); } catch { /* ignore */ }
+    }
+
+    if (this._pendingLoadedMetadata) {
+      audio.removeEventListener('loadedmetadata', this._pendingLoadedMetadata);
+      this._pendingLoadedMetadata = null;
+    }
+
+    if (audio.readyState >= 1) {
+      try { audio.currentTime = startSec; } catch { /* ignore */ }
+    } else {
+      try { audio.currentTime = startSec; } catch { /* ignore */ }
+      const onLoadedMeta = () => {
+        audio.removeEventListener('loadedmetadata', onLoadedMeta);
+        if (this._pendingLoadedMetadata === onLoadedMeta) {
+          this._pendingLoadedMetadata = null;
+        }
+        try { audio.currentTime = startSec; } catch { /* ignore */ }
+      };
+      this._pendingLoadedMetadata = onLoadedMeta;
+      audio.addEventListener('loadedmetadata', onLoadedMeta);
+    }
+
+    audio.play()
       .then(() => {
         if (this._state === 'PAUSED') {
           this._audio?.pause();
@@ -235,6 +294,7 @@ export class ChunkAudioPlayer {
       })
       .catch(err => {
         if (this._state !== 'PAUSED') {
+          this._setState('PAUSED');
           this._emit('error', err);
         }
       });
