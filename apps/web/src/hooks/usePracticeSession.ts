@@ -706,9 +706,6 @@ export function usePracticeSession(
         const scaffold = stateMachine.handleKeystroke(annotated, ctx.wordIndex);
         if (scaffold.currentLevel > ScaffoldLevel.LEVEL_0_NONE) {
           dispatch({ type: 'SET_SCAFFOLD', scaffold });
-          if (cogState === 'PERCEPTUAL_BLINDSPOT') {
-            triggerLensReplay(ctx.wordIndex);
-          }
         } else {
           dispatch({ type: 'SET_SCAFFOLD', scaffold: undefined });
           // If word had an active scaffold and just recovered to LEVEL_0_NONE, increment overcome count
@@ -727,7 +724,7 @@ export function usePracticeSession(
     }
 
     engine.handleKeyInput(e.key);
-  }, [triggerLensReplay, togglePlayPause, restartCurrentSentence]);
+  }, [togglePlayPause, restartCurrentSentence]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
