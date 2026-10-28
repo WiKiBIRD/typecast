@@ -42,6 +42,12 @@ export interface PracticeViewState {
   completedSentences: SentenceStats[];
   isReady: boolean;
   currentRound: TrainingRound;
+  roundSentenceIdx: {
+    round1: number;
+    round2: number;
+    round3: number;
+    round4: number;
+  };
   roundCompleted: {
     round1: boolean;
     round2: boolean;
@@ -69,7 +75,7 @@ type ViewAction =
   | { type: 'FSM_STATE'; state: string }
   | { type: 'KEY_RESULT'; result: KeyResult; cursor: number; errors: number; consecutive: number }
   | { type: 'SENTENCE_DONE'; stats: SentenceStats; nextIdx: number }
-  | { type: 'SET_ROUND'; round: TrainingRound }
+  | { type: 'SET_ROUND'; round: TrainingRound; sentenceIdx?: number }
   | { type: 'ROUND_FINISHED'; round: TrainingRound }
   | {
       type: 'CHALLENGE_DONE';
@@ -99,6 +105,12 @@ const initialViewState: PracticeViewState = {
   completedSentences: [],
   isReady: false,
   currentRound: 1,
+  roundSentenceIdx: {
+    round1: 0,
+    round2: 0,
+    round3: 0,
+    round4: 0,
+  },
   roundCompleted: {
     round1: false,
     round2: false,
@@ -132,6 +144,10 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         ...state,
         completedSentences: [...state.completedSentences, action.stats],
         currentSentenceIndex: action.nextIdx,
+        roundSentenceIdx: {
+          ...state.roundSentenceIdx,
+          [`round${state.currentRound}`]: action.nextIdx,
+        },
         cursorIndex: 0,
         errorCount: 0,
         consecutiveErrors: 0,
@@ -139,11 +155,17 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         activeScaffoldState: undefined,
         isLensActive: false,
       };
-    case 'SET_ROUND':
+    case 'SET_ROUND': {
+      const nextIdx = action.sentenceIdx ?? 0;
       return {
         ...state,
         currentRound: action.round,
-        currentSentenceIndex: 0,
+        currentSentenceIndex: nextIdx,
+        roundSentenceIdx: {
+          ...state.roundSentenceIdx,
+          [`round${state.currentRound}`]: state.currentSentenceIndex,
+          [`round${action.round}`]: nextIdx,
+        },
         cursorIndex: 0,
         errorCount: 0,
         consecutiveErrors: 0,
@@ -152,6 +174,7 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         isLensActive: false,
         completedSentences: [],
       };
+    }
     case 'ROUND_FINISHED':
       return {
         ...state,
@@ -177,18 +200,26 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
     case 'DISMISS_CHALLENGE':
       return { ...state, challengeResult: null };
     case 'LOAD_DB_RECORD': {
-      const { bestScore, roundCompleted, currentSentenceIdx, currentRound } = action.record;
+      const { bestScore, roundCompleted, currentSentenceIdx, currentRound, roundSentenceIdx } = action.record;
+      const activeRound = (currentRound as TrainingRound) ?? state.currentRound;
+      const fallbackIdx = currentSentenceIdx ?? 0;
       return {
         ...state,
         bestScore,
-        currentRound: (currentRound as TrainingRound) ?? state.currentRound,
+        currentRound: activeRound,
+        roundSentenceIdx: {
+          round1: roundSentenceIdx?.round1 ?? (activeRound === 1 ? fallbackIdx : 0),
+          round2: roundSentenceIdx?.round2 ?? (activeRound === 2 ? fallbackIdx : 0),
+          round3: roundSentenceIdx?.round3 ?? (activeRound === 3 ? fallbackIdx : 0),
+          round4: roundSentenceIdx?.round4 ?? (activeRound === 4 ? fallbackIdx : 0),
+        },
         roundCompleted: {
           round1: roundCompleted?.round1 ?? false,
           round2: roundCompleted?.round2 ?? false,
           round3: roundCompleted?.round3 ?? false,
           round4: roundCompleted?.round4 ?? false,
         },
-        currentSentenceIndex: currentSentenceIdx ?? 0,
+        currentSentenceIndex: fallbackIdx,
       };
     }
     case 'INIT_SESSION':
@@ -201,6 +232,10 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
         completedSentences: [],
         currentSentenceIndex: action.sentenceIdx,
         currentRound: action.round,
+        roundSentenceIdx: {
+          ...state.roundSentenceIdx,
+          [`round${action.round}`]: action.sentenceIdx,
+        },
         isReady: true,
       };
     case 'RESET':
@@ -285,6 +320,12 @@ export function usePracticeSession(
 
   const episodeRef = useRef<Episode | null>(null);
   const currentRoundRef = useRef<TrainingRound>(1);
+  const roundSentenceIdxRef = useRef<PracticeViewState['roundSentenceIdx']>({
+    round1: 0,
+    round2: 0,
+    round3: 0,
+    round4: 0,
+  });
   const roundCompletedRef = useRef<PracticeViewState['roundCompleted']>({
     round1: false,
     round2: false,
@@ -375,10 +416,16 @@ export function usePracticeSession(
     const ep = episodeRef.current;
     if (!ep) return;
 
+    roundSentenceIdxRef.current = {
+      ...roundSentenceIdxRef.current,
+      [`round${currentRoundRef.current}`]: sentenceIdxRef.current,
+    };
+
     await saveProgress({
       episodeId: ep.episodeId,
       currentRound: currentRoundRef.current,
       currentSentenceIdx: sentenceIdxRef.current,
+      roundSentenceIdx: { ...roundSentenceIdxRef.current },
       roundCompleted: { ...roundCompletedRef.current },
       ...(bestScorePatch ? { bestScore: bestScorePatch } : {}),
       updatedAt: Date.now(),
@@ -430,6 +477,10 @@ export function usePracticeSession(
       completedSentencesRef.current.push(stats);
       dispatch({ type: 'SENTENCE_DONE', stats, nextIdx });
       sentenceIdxRef.current = nextIdx;
+      roundSentenceIdxRef.current = {
+        ...roundSentenceIdxRef.current,
+        [`round${currentRoundRef.current}`]: nextIdx,
+      };
 
       // Module M7: Record FSRS practice and overcome count
       const completedChunk = acousticChunkRef.current;
@@ -463,6 +514,10 @@ export function usePracticeSession(
         roundCompletedRef.current = {
           ...roundCompletedRef.current,
           [`round${finishedRound}`]: true,
+        };
+        roundSentenceIdxRef.current = {
+          ...roundSentenceIdxRef.current,
+          [`round${finishedRound}`]: 0,
         };
         dispatch({ type: 'ROUND_FINISHED', round: finishedRound });
 
@@ -513,16 +568,23 @@ export function usePracticeSession(
           }
         } else {
           const nextRound = (finishedRound + 1) as TrainingRound;
-          dispatch({ type: 'SET_ROUND', round: nextRound });
+          const savedNextRoundIdx =
+            nextRound === 4 ? 0 : roundSentenceIdxRef.current[`round${nextRound}`] ?? 0;
+          const targetNextIdx =
+            savedNextRoundIdx >= 0 && savedNextRoundIdx < ep.sentences.length
+              ? savedNextRoundIdx
+              : 0;
+
+          dispatch({ type: 'SET_ROUND', round: nextRound, sentenceIdx: targetNextIdx });
           currentRoundRef.current = nextRound;
-          sentenceIdxRef.current = 0;
+          sentenceIdxRef.current = targetNextIdx;
           completedSentencesRef.current = [];
 
-          const firstSentence = ep.sentences[0]!;
-          engine.loadSentence(firstSentence);
-          loadSentenceAcousticsRef.current(firstSentence, 0);
+          const targetSentence = ep.sentences[targetNextIdx]!;
+          engine.loadSentence(targetSentence);
+          loadSentenceAcousticsRef.current(targetSentence, targetNextIdx);
 
-          const chunk = buildAudioChunk(ep, 0, seekAheadMsRef.current);
+          const chunk = buildAudioChunk(ep, targetNextIdx, seekAheadMsRef.current);
           currentChunkRef.current = chunk;
           fsm.transition('SENTENCE_ADVANCE');
           if (!isAudioPausedRef.current) {
@@ -742,18 +804,28 @@ export function usePracticeSession(
       return;
     }
 
-    dispatch({ type: 'SET_ROUND', round });
+    // 1. Freeze the current round's breakpoint before switching
+    roundSentenceIdxRef.current = {
+      ...roundSentenceIdxRef.current,
+      [`round${currentRoundRef.current}`]: sentenceIdxRef.current,
+    };
+
+    // 2. Restore target round's saved breakpoint (Round 4 exam always starts at 0)
+    const savedIdx = round === 4 ? 0 : roundSentenceIdxRef.current[`round${round}`] ?? 0;
+    const targetIdx = savedIdx >= 0 && savedIdx < ep.sentences.length ? savedIdx : 0;
+
+    dispatch({ type: 'SET_ROUND', round, sentenceIdx: targetIdx });
     currentRoundRef.current = round;
-    sentenceIdxRef.current = 0;
+    sentenceIdxRef.current = targetIdx;
     completedSentencesRef.current = [];
     pauseCountRef.current = 0;
     startTimeRef.current = performance.now();
 
-    const firstSentence = ep.sentences[0]!;
-    engine.loadSentence(firstSentence);
-    loadSentenceAcoustics(firstSentence, 0);
+    const targetSentence = ep.sentences[targetIdx] || ep.sentences[0]!;
+    engine.loadSentence(targetSentence);
+    loadSentenceAcoustics(targetSentence, targetIdx);
 
-    const chunk = buildAudioChunk(ep, 0, seekAheadMsRef.current);
+    const chunk = buildAudioChunk(ep, targetIdx, seekAheadMsRef.current);
     currentChunkRef.current = chunk;
     setIsAudioPaused(false);
     isAudioPausedRef.current = false;
@@ -762,10 +834,52 @@ export function usePracticeSession(
 
     dispatch({
       type: 'INIT_SESSION',
-      sentenceIdx: 0,
+      sentenceIdx: targetIdx,
       round,
     });
+
+    void saveProgressToDbRef.current();
   }, [seekAheadMs, viewState.roundCompleted, loadSentenceAcoustics]);
+
+  const jumpToSentence = useCallback((targetIdx: number) => {
+    const ep = episodeRef.current;
+    const engine = engineRef.current;
+    const player = playerRef.current;
+    const fsm = fsmRef.current;
+    if (!ep || !engine || !player || !fsm) return;
+
+    const round = currentRoundRef.current;
+    if (round === 4) return;
+    if (!roundCompletedRef.current[`round${round}`]) return;
+
+    const clampedIdx = Math.max(0, Math.min(targetIdx, ep.sentences.length - 1));
+    sentenceIdxRef.current = clampedIdx;
+    roundSentenceIdxRef.current = {
+      ...roundSentenceIdxRef.current,
+      [`round${round}`]: clampedIdx,
+    };
+
+    const targetSentence = ep.sentences[clampedIdx] || ep.sentences[0]!;
+    engine.loadSentence(targetSentence);
+    loadSentenceAcoustics(targetSentence, clampedIdx);
+
+    const chunk = buildAudioChunk(ep, clampedIdx, seekAheadMsRef.current);
+    currentChunkRef.current = chunk;
+    setIsAudioPaused(false);
+    isAudioPausedRef.current = false;
+    player.playChunk(chunk);
+    player.setLooping(true);
+    fsm.transition('SENTENCE_ADVANCE');
+    fsm.transition('AUDIO_CAN_PLAY');
+
+    dispatch({
+      type: 'INIT_SESSION',
+      sentenceIdx: clampedIdx,
+      round,
+    });
+
+    void saveProgressToDbRef.current();
+  }, [loadSentenceAcoustics]);
 
   const handleEpisodeLoad = useCallback(async (episode: Episode) => {
     const engine = engineRef.current;
@@ -793,18 +907,34 @@ export function usePracticeSession(
         round3: savedRecord.roundCompleted?.round3 ?? false,
         round4: savedRecord.roundCompleted?.round4 ?? false,
       };
-      if (
+      const fallbackIdx =
         typeof savedRecord.currentSentenceIdx === 'number' &&
-        savedRecord.currentSentenceIdx > 0 &&
+        savedRecord.currentSentenceIdx >= 0 &&
         savedRecord.currentSentenceIdx < episode.sentences.length
-      ) {
-        targetSentenceIdx = savedRecord.currentSentenceIdx;
+          ? savedRecord.currentSentenceIdx
+          : 0;
+      roundSentenceIdxRef.current = {
+        round1: savedRecord.roundSentenceIdx?.round1 ?? (targetRound === 1 ? fallbackIdx : 0),
+        round2: savedRecord.roundSentenceIdx?.round2 ?? (targetRound === 2 ? fallbackIdx : 0),
+        round3: savedRecord.roundSentenceIdx?.round3 ?? (targetRound === 3 ? fallbackIdx : 0),
+        round4: savedRecord.roundSentenceIdx?.round4 ?? (targetRound === 4 ? fallbackIdx : 0),
+      };
+      const candidateIdx =
+        targetRound === 4 ? 0 : roundSentenceIdxRef.current[`round${targetRound}`] ?? fallbackIdx;
+      if (candidateIdx > 0 && candidateIdx < episode.sentences.length) {
+        targetSentenceIdx = candidateIdx;
         setResumePrompt(`已从上次中断的第 ${targetSentenceIdx + 1} 句继续`);
         setTimeout(() => setResumePrompt(null), 3500);
       }
       dispatch({ type: 'LOAD_DB_RECORD', record: savedRecord });
     } else {
       currentRoundRef.current = 1;
+      roundSentenceIdxRef.current = {
+        round1: 0,
+        round2: 0,
+        round3: 0,
+        round4: 0,
+      };
       roundCompletedRef.current = {
         round1: false,
         round2: false,
@@ -878,6 +1008,12 @@ export function usePracticeSession(
     episodeAcousticsRef.current = null;
     currentChunkRef.current = null;
     sentenceIdxRef.current = 0;
+    roundSentenceIdxRef.current = {
+      round1: 0,
+      round2: 0,
+      round3: 0,
+      round4: 0,
+    };
     roundCompletedRef.current = {
       round1: false,
       round2: false,
@@ -898,6 +1034,10 @@ export function usePracticeSession(
     if (!ep || !engine || !player || !fsm) return;
 
     sentenceIdxRef.current = 0;
+    roundSentenceIdxRef.current = {
+      ...roundSentenceIdxRef.current,
+      [`round${currentRoundRef.current}`]: 0,
+    };
     completedSentencesRef.current = [];
     setIsAudioPaused(false);
 
@@ -905,6 +1045,7 @@ export function usePracticeSession(
       episodeId: ep.episodeId,
       currentRound: currentRoundRef.current,
       currentSentenceIdx: 0,
+      roundSentenceIdx: { ...roundSentenceIdxRef.current },
       roundCompleted: { ...roundCompletedRef.current },
       updatedAt: Date.now(),
     });
@@ -939,6 +1080,7 @@ export function usePracticeSession(
     handleReset,
     restartFromBeginning,
     selectRound,
+    jumpToSentence,
     togglePlayPause,
     isAudioPaused,
     dismissChallengeModal: () => dispatch({ type: 'DISMISS_CHALLENGE' }),

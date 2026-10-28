@@ -38,6 +38,7 @@ export function PracticePage() {
   const [loadError, setLoadError] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
+  const [isNavigatorOpen, setIsNavigatorOpen] = useState(false);
   const PAGE_SIZE = 12;
 
   const {
@@ -47,6 +48,7 @@ export function PracticePage() {
     handleReset,
     restartFromBeginning,
     selectRound,
+    jumpToSentence,
     togglePlayPause,
     isAudioPaused,
     dismissChallengeModal,
@@ -406,7 +408,7 @@ export function PracticePage() {
       {/* 主练习内容区 */}
       <main className="flex-1 flex flex-col items-center justify-center px-8 py-12 max-w-4xl mx-auto w-full">
         {/* 4 阶梯关卡控制器 (保留现有布局体系) */}
-        <div className="flex bg-gray-900/80 border border-gray-800 p-1.5 rounded-2xl mb-12 gap-1.5">
+        <div className="flex flex-wrap justify-center bg-gray-900/80 border border-gray-800 p-1.5 rounded-2xl mb-12 gap-1.5">
           {[
             { round: 1, name: 'Round 1: 明文识音', locked: false },
             { round: 2, name: 'Round 2: 模糊抓词', locked: false },
@@ -418,10 +420,17 @@ export function PracticePage() {
             },
           ].map((item) => {
             const isCurrent = currentRound === item.round;
+            const roundKey = `round${item.round}` as keyof typeof viewState.roundCompleted;
+            const isCompleted = viewState.roundCompleted[roundKey];
+            const savedRoundIdx = isCurrent
+              ? viewState.currentSentenceIndex
+              : viewState.roundSentenceIdx[roundKey];
+
             return (
               <button
                 key={item.round}
                 onClick={(e) => {
+                  setIsNavigatorOpen(false);
                   selectRound(item.round as TrainingRound);
                   e.currentTarget.blur();
                   document.getElementById('typecast-hidden-input')?.focus();
@@ -436,7 +445,33 @@ export function PracticePage() {
                 }`}
               >
                 {item.locked && <span>🔒</span>}
+                {!item.locked && isCompleted && <span>✅</span>}
+                {!item.locked && !isCompleted && item.round !== 4 && savedRoundIdx > 0 && (
+                  <span>⏳</span>
+                )}
                 <span>{item.name}</span>
+                {!item.locked && isCompleted && (
+                  <span
+                    className={`ml-0.5 px-1.5 py-0.5 text-[10px] rounded-full font-bold ${
+                      isCurrent
+                        ? 'bg-emerald-400/25 text-emerald-200 border border-emerald-300/40'
+                        : 'bg-emerald-500/15 text-emerald-400 border border-emerald-500/30'
+                    }`}
+                  >
+                    已完成
+                  </span>
+                )}
+                {!item.locked && !isCompleted && item.round !== 4 && savedRoundIdx > 0 && (
+                  <span
+                    className={`ml-0.5 px-1.5 py-0.5 text-[10px] rounded-full font-mono ${
+                      isCurrent
+                        ? 'bg-white/20 text-white'
+                        : 'bg-blue-500/15 text-blue-400 border border-blue-500/30'
+                    }`}
+                  >
+                    ({savedRoundIdx + 1}/{total})
+                  </span>
+                )}
               </button>
             );
           })}
@@ -488,10 +523,28 @@ export function PracticePage() {
 
         {/* 底部指标指示与控制 */}
         <div className="mt-10 flex flex-wrap items-center justify-center gap-6 sm:gap-8 text-sm text-gray-400">
-          <div className="flex items-center gap-2">
-            <span className="text-gray-600">进度:</span>
-            <span className="font-mono text-gray-200">{current} / {total} 句</span>
-          </div>
+          {currentRound !== 4 &&
+          viewState.roundCompleted[`round${currentRound}` as 'round1' | 'round2' | 'round3'] ? (
+            <button
+              onClick={(e) => {
+                setIsNavigatorOpen(true);
+                e.currentTarget.blur();
+              }}
+              className="flex items-center gap-2 px-3 py-1 bg-emerald-500/10 hover:bg-emerald-500/20 border border-emerald-500/30 rounded-lg text-xs font-medium text-emerald-300 transition-all cursor-pointer"
+              title="本轮已通关，点击自由选择任意句子进行复习"
+            >
+              <span>📜 进度:</span>
+              <span className="font-mono text-white font-bold">
+                {current} / {total} 句
+              </span>
+              <span className="text-[11px] text-emerald-400">(点击选句 ▾)</span>
+            </button>
+          ) : (
+            <div className="flex items-center gap-2">
+              <span className="text-gray-600">进度:</span>
+              <span className="font-mono text-gray-200">{current} / {total} 句</span>
+            </div>
+          )}
           <div className="flex items-center gap-2">
             <span className="text-gray-600">错误:</span>
             <span className="font-mono text-rose-400">{viewState.errorCount}</span>
@@ -552,6 +605,101 @@ export function PracticePage() {
             </span>
           </button>
         </div>
+
+        {/* 通关轮次专属：句子漫游抽屉 (Sentence Navigator Drawer) */}
+        {isNavigatorOpen &&
+          currentRound !== 4 &&
+          viewState.roundCompleted[`round${currentRound}` as 'round1' | 'round2' | 'round3'] && (
+            <div className="fixed inset-0 z-50 flex justify-end">
+              <div
+                className="fixed inset-0 bg-black/60 backdrop-blur-sm"
+                onClick={() => {
+                  setIsNavigatorOpen(false);
+                  document.getElementById('typecast-hidden-input')?.focus();
+                }}
+              />
+              <div className="relative z-10 w-full max-w-md bg-gray-950 border-l border-gray-800 h-full flex flex-col shadow-2xl">
+                <div className="flex items-center justify-between px-6 py-4 border-b border-gray-800 bg-gray-900/60">
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-sm font-bold text-white">
+                        📜 自由选句漫游 (Round {currentRound})
+                      </span>
+                      <span className="px-2 py-0.5 text-[10px] rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 font-bold">
+                        ✅ 已完成
+                      </span>
+                    </div>
+                    <p className="text-xs text-gray-400 mt-1">
+                      点击任意句子即可直接跳转精听复习（共 {total} 句）
+                    </p>
+                  </div>
+                  <button
+                    onClick={() => {
+                      setIsNavigatorOpen(false);
+                      document.getElementById('typecast-hidden-input')?.focus();
+                    }}
+                    className="px-2.5 py-1 rounded-lg bg-gray-800 hover:bg-gray-700 text-gray-300 text-xs cursor-pointer"
+                  >
+                    ✕ 关闭
+                  </button>
+                </div>
+
+                <div className="flex-1 overflow-y-auto p-4 space-y-2">
+                  {selectedEpisode.sentences.map((s, idx) => {
+                    const isActive = idx === viewState.currentSentenceIndex;
+                    const words = s.text.trim().split(/\s+/);
+                    const firstWord = words[0] || '';
+                    const restWords = words.slice(1).join(' ');
+
+                    return (
+                      <button
+                        key={s.id ?? idx}
+                        onClick={() => {
+                          jumpToSentence(idx);
+                          setIsNavigatorOpen(false);
+                          setTimeout(() => {
+                            document.getElementById('typecast-hidden-input')?.focus();
+                          }, 50);
+                        }}
+                        className={`w-full text-left p-3 rounded-xl border transition-all flex items-start gap-3 cursor-pointer group ${
+                          isActive
+                            ? 'bg-blue-600/20 border-blue-500 text-white shadow-md'
+                            : 'bg-gray-900/50 hover:bg-gray-800/80 border-gray-800/80 text-gray-300'
+                        }`}
+                      >
+                        <span
+                          className={`font-mono text-xs px-2 py-0.5 rounded-md font-bold shrink-0 mt-0.5 ${
+                            isActive
+                              ? 'bg-blue-500 text-white'
+                              : 'bg-gray-800 text-gray-400 group-hover:text-gray-200'
+                          }`}
+                        >
+                          #{String(idx + 1).padStart(2, '0')}
+                        </span>
+                        <div className="flex-1 text-xs leading-relaxed font-mono">
+                          {currentRound === 1 ? (
+                            <span>{s.text}</span>
+                          ) : (
+                            <span>
+                              <span className="text-gray-200 font-semibold">{firstWord}</span>{' '}
+                              <span className="blur-[4px] group-hover:blur-none transition-all text-gray-400 select-none">
+                                {restWords}
+                              </span>
+                            </span>
+                          )}
+                        </div>
+                        {isActive && (
+                          <span className="text-[10px] font-bold text-blue-400 shrink-0 mt-0.5">
+                            当前句
+                          </span>
+                        )}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+          )}
       </main>
     </div>
   );

@@ -5,13 +5,15 @@
 
 import type { EpisodeProgressRecord } from '../db';
 
-export type EpisodeProgressPatch = Partial<Omit<EpisodeProgressRecord, 'episodeId'>> & {
+export type EpisodeProgressPatch = Partial<Omit<EpisodeProgressRecord, 'episodeId' | 'roundSentenceIdx'>> & {
   episodeId: string;
+  roundSentenceIdx?: Partial<NonNullable<EpisodeProgressRecord['roundSentenceIdx']>>;
 };
 
 /**
  * Merges an incoming progress patch with an existing record without losing
- * monotonic fields (`roundCompleted` flags, `bestScore` high watermark).
+ * monotonic fields (`roundCompleted` flags, `bestScore` high watermark) or
+ * other rounds' saved breakpoints (`roundSentenceIdx`).
  * Stub in M0; full implementation & tests in M4.
  */
 export function mergeProgress(
@@ -29,6 +31,18 @@ export function mergeProgress(
     round4: Boolean(prevRounds?.round4 || nextRounds?.round4),
   };
 
+  const prevSentenceIdx = existing?.roundSentenceIdx;
+  const nextSentenceIdx = patch.roundSentenceIdx;
+  const roundSentenceIdx =
+    prevSentenceIdx || nextSentenceIdx
+      ? {
+          round1: nextSentenceIdx?.round1 ?? prevSentenceIdx?.round1 ?? 0,
+          round2: nextSentenceIdx?.round2 ?? prevSentenceIdx?.round2 ?? 0,
+          round3: nextSentenceIdx?.round3 ?? prevSentenceIdx?.round3 ?? 0,
+          round4: nextSentenceIdx?.round4 ?? prevSentenceIdx?.round4 ?? 0,
+        }
+      : undefined;
+
   let bestScore = existing?.bestScore;
   if (patch.bestScore) {
     if (!bestScore || patch.bestScore.score >= bestScore.score) {
@@ -40,6 +54,7 @@ export function mergeProgress(
     episodeId: patch.episodeId,
     currentRound: patch.currentRound ?? existing?.currentRound ?? 1,
     currentSentenceIdx: patch.currentSentenceIdx ?? existing?.currentSentenceIdx ?? 0,
+    ...(roundSentenceIdx ? { roundSentenceIdx } : {}),
     roundCompleted,
     ...(bestScore ? { bestScore } : {}),
     updatedAt: patch.updatedAt ?? now,

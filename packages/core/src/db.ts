@@ -5,6 +5,12 @@ export interface EpisodeProgressRecord {
   episodeId: string;           // "slow-english-ep-01"
   currentRound: 1 | 2 | 3 | 4; // 当前正在进行的轮次
   currentSentenceIdx: number;  // 当前轮次打到了第几句 (0-indexed)
+  roundSentenceIdx?: {         // 各轮次各自独立的句子断点 (0-indexed)
+    round1: number;
+    round2: number;
+    round3: number;
+    round4: number;
+  };
   roundCompleted: {
     round1: boolean;           // 明文跟打已通关
     round2: boolean;           // 模糊跟打已通关

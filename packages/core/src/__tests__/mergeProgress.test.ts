@@ -127,4 +127,47 @@ describe('mergeProgress (Module M4)', () => {
     expect(afterHigher.bestScore?.score).toBe(97);
     expect(afterHigher.bestScore?.stars).toBe(3);
   });
+
+  it('TC-M4-04: merges roundSentenceIdx per round without overwriting other rounds', () => {
+    const existing: EpisodeProgressRecord = {
+      episodeId: 'slow-english-ep-01',
+      currentRound: 3,
+      currentSentenceIdx: 39,
+      roundSentenceIdx: {
+        round1: 0,
+        round2: 0,
+        round3: 39,
+        round4: 0,
+      },
+      roundCompleted: {
+        round1: true,
+        round2: true,
+        round3: false,
+        round4: false,
+      },
+      updatedAt: 1000,
+    };
+
+    const merged = mergeProgress(
+      existing,
+      {
+        episodeId: 'slow-english-ep-01',
+        currentRound: 1,
+        currentSentenceIdx: 14,
+        roundSentenceIdx: {
+          round1: 14,
+        },
+      },
+      2000
+    );
+
+    expect(merged.roundSentenceIdx).toEqual({
+      round1: 14,
+      round2: 0,
+      round3: 39,
+      round4: 0,
+    });
+    expect(merged.currentRound).toBe(1);
+    expect(merged.currentSentenceIdx).toBe(14);
+  });
 });
