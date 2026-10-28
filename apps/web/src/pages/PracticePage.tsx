@@ -446,7 +446,7 @@ export function PracticePage() {
               >
                 {item.locked && <span>🔒</span>}
                 {!item.locked && isCompleted && <span>✅</span>}
-                {!item.locked && !isCompleted && item.round !== 4 && savedRoundIdx > 0 && (
+                {!item.locked && !isCompleted && savedRoundIdx > 0 && (
                   <span>⏳</span>
                 )}
                 <span>{item.name}</span>
@@ -461,7 +461,7 @@ export function PracticePage() {
                     已完成
                   </span>
                 )}
-                {!item.locked && !isCompleted && item.round !== 4 && savedRoundIdx > 0 && (
+                {!item.locked && !isCompleted && savedRoundIdx > 0 && (
                   <span
                     className={`ml-0.5 px-1.5 py-0.5 text-[10px] rounded-full font-mono ${
                       isCurrent

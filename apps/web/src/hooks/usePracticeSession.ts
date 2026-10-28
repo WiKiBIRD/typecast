@@ -568,8 +568,7 @@ export function usePracticeSession(
           }
         } else {
           const nextRound = (finishedRound + 1) as TrainingRound;
-          const savedNextRoundIdx =
-            nextRound === 4 ? 0 : roundSentenceIdxRef.current[`round${nextRound}`] ?? 0;
+          const savedNextRoundIdx = roundSentenceIdxRef.current[`round${nextRound}`] ?? 0;
           const targetNextIdx =
             savedNextRoundIdx >= 0 && savedNextRoundIdx < ep.sentences.length
               ? savedNextRoundIdx
@@ -810,8 +809,8 @@ export function usePracticeSession(
       [`round${currentRoundRef.current}`]: sentenceIdxRef.current,
     };
 
-    // 2. Restore target round's saved breakpoint (Round 4 exam always starts at 0)
-    const savedIdx = round === 4 ? 0 : roundSentenceIdxRef.current[`round${round}`] ?? 0;
+    // 2. Restore target round's saved breakpoint
+    const savedIdx = roundSentenceIdxRef.current[`round${round}`] ?? 0;
     const targetIdx = savedIdx >= 0 && savedIdx < ep.sentences.length ? savedIdx : 0;
 
     dispatch({ type: 'SET_ROUND', round, sentenceIdx: targetIdx });
@@ -919,8 +918,7 @@ export function usePracticeSession(
         round3: savedRecord.roundSentenceIdx?.round3 ?? (targetRound === 3 ? fallbackIdx : 0),
         round4: savedRecord.roundSentenceIdx?.round4 ?? (targetRound === 4 ? fallbackIdx : 0),
       };
-      const candidateIdx =
-        targetRound === 4 ? 0 : roundSentenceIdxRef.current[`round${targetRound}`] ?? fallbackIdx;
+      const candidateIdx = roundSentenceIdxRef.current[`round${targetRound}`] ?? fallbackIdx;
       if (candidateIdx > 0 && candidateIdx < episode.sentences.length) {
         targetSentenceIdx = candidateIdx;
         setResumePrompt(`已从上次中断的第 ${targetSentenceIdx + 1} 句继续`);
