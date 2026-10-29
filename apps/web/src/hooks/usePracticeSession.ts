@@ -260,6 +260,15 @@ function viewReducer(state: PracticeViewState, action: ViewAction): PracticeView
   }
 }
 
+const CLOUDFRONT_AUDIO_PREFIX = 'https://d3ctxlq1ktw2nl.cloudfront.net/';
+
+export function resolveAudioUrl(rawUrl: string): string {
+  if (rawUrl.startsWith(CLOUDFRONT_AUDIO_PREFIX)) {
+    return `/audio-proxy/${rawUrl.slice(CLOUDFRONT_AUDIO_PREFIX.length)}`;
+  }
+  return rawUrl;
+}
+
 export function buildAudioChunk(
   ep: Episode,
   sentenceIdx: number,
@@ -269,7 +278,7 @@ export function buildAudioChunk(
   const resolvedIdx = ep.sentences[sentenceIdx] ? sentenceIdx : 0;
   const { startSec, endSec } = computePlaybackWindow(ep.sentences, resolvedIdx, ep.duration);
   return {
-    audioUrl: ep.audioUrl,
+    audioUrl: resolveAudioUrl(ep.audioUrl),
     startSec,
     endSec,
     seekAheadMs,
@@ -408,9 +417,10 @@ export function usePracticeSession(
     const wordData = acousticChunk.words[wordIdx];
     if (!wordData) return;
 
-    if (lensLoadedUrlRef.current !== ep.audioUrl) {
-      lensPlayerRef.current.loadAudio(ep.audioUrl);
-      lensLoadedUrlRef.current = ep.audioUrl;
+    const resolvedAudioUrl = resolveAudioUrl(ep.audioUrl);
+    if (lensLoadedUrlRef.current !== resolvedAudioUrl) {
+      lensPlayerRef.current.loadAudio(resolvedAudioUrl);
+      lensLoadedUrlRef.current = resolvedAudioUrl;
     }
 
     playerRef.current?.pause();
@@ -984,7 +994,7 @@ export function usePracticeSession(
     }
 
     // 4. Initialize player and anchor to the target sentence
-    await player.init(episode.audioUrl, audioModeRef.current, seekAheadMsRef.current);
+    await player.init(resolveAudioUrl(episode.audioUrl), audioModeRef.current, seekAheadMsRef.current);
 
     sentenceIdxRef.current = targetSentenceIdx;
     const targetSentence = episode.sentences[targetSentenceIdx] || episode.sentences[0]!;
